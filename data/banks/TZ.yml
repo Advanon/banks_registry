@@ -1,0 +1,746 @@
+---
+TZ:
+- name: Amana Bank Limited
+  swift: AMNNTZTZXXX
+  swift8: AMNNTZTZ
+  branch_name: Head Office
+  branch_address: Ppf Tower Dar Es Salaam
+  branch_code: XXX
+  city: Dar Es Salaam
+  country: Tanzania
+- name: Amana Bank Limited
+  swift: AMNNTZT1XXX
+  swift8: AMNNTZT1
+  branch_name: Head Office
+  branch_address: Ppf Tower Dar Es Salaam
+  branch_code: XXX
+  city: Dar Es Salaam
+  country: Tanzania
+- name: Fbme Bank Ltd
+  swift: FBMETZTZXXX
+  swift8: FBMETZTZ
+  branch_name: Head Office
+  branch_address: Tmsc Building Dar Es Salaam
+  branch_code: XXX
+  city: Dar Es Salaam
+  country: Tanzania
+- name: State Bank Of India
+  swift: SBINTZT1XXX
+  swift8: SBINTZT1
+  branch_name: Head Office
+  branch_address: Nic Investment House Dar Es Salaam
+  branch_code: XXX
+  city: Dar Es Salaam
+  country: Tanzania
+- name: East African Development Bank
+  swift: AFDETZT1XXX
+  swift8: AFDETZT1
+  branch_name: Head Office
+  branch_address: Nssf Waterfront House Dar Es Salaam
+  branch_code: XXX
+  city: Dar Es Salaam
+  country: Tanzania
+- name: Accessbank Tanzania Ltd
+  swift: ACTZTZTZXXX
+  swift8: ACTZTZTZ
+  branch_name: Head Office
+  branch_address: Derm House, Block 45a 95068 Dar Es Salaam
+  branch_code: XXX
+  city: Dar Es Salaam
+  country: Tanzania
+- name: Advans Bank Tanzania
+  swift: ADVBTZTZXXX
+  swift8: ADVBTZTZ
+  branch_name: Head Office
+  branch_address: Manzese Darajani 34459 Dar Es Salaam
+  branch_code: XXX
+  city: Dar Es Salaam
+  country: Tanzania
+- name: African Banking Corporation Tanzania Limited
+  swift: FMBZTZTXXXX
+  swift8: FMBZTZTX
+  branch_name: Head Office
+  branch_address: Sukari House Dar Es Salaam
+  branch_code: XXX
+  city: Dar Es Salaam
+  country: Tanzania
+- name: Akiba Commercial Bank Ltd
+  swift: AKCOTZTZXXX
+  swift8: AKCOTZTZ
+  branch_name: Head Office
+  branch_address: Tfdl Phase Ii Dar Es Salaam
+  branch_code: XXX
+  city: Dar Es Salaam
+  country: Tanzania
+- name: Azania Bancorp
+  swift: AZANTZTZXXX
+  swift8: AZANTZTZ
+  branch_name: Head Office
+  branch_address: Masdo House 9271 Dar Es Salaam
+  branch_code: XXX
+  city: Dar Es Salaam
+  country: Tanzania
+- name: Azania Bank Limited
+  swift: ADBCTZT1XXX
+  swift8: ADBCTZT1
+  branch_name: Head Office
+  branch_address: Masdo House Dar Es Salaam
+  branch_code: XXX
+  city: Dar Es Salaam
+  country: Tanzania
+- name: Bank M Tanzania Limited
+  swift: BNKMTZTZXXX
+  swift8: BNKMTZTZ
+  branch_name: Head Office
+  branch_address: 8, Ocean Road Dar Es Salaam
+  branch_code: XXX
+  city: Dar Es Salaam
+  country: Tanzania
+- name: Bank Of Baroda (tanzania) Ltd
+  swift: BARBTZTZXXX
+  swift8: BARBTZTZ
+  branch_name: Head Office
+  branch_address: 149/32, Ohio/ Sokoine Drive Dar Es Salaam
+  branch_code: XXX
+  city: Dar Es Salaam
+  country: Tanzania
+- name: Bank Of India (tanzania) Limited
+  swift: BKIDTZTZXXX
+  swift8: BKIDTZTZ
+  branch_name: Head Office
+  branch_address: Maktaba Business Park Dar Es Salaam
+  branch_code: XXX
+  city: Dar Es Salaam
+  country: Tanzania
+- name: Bank Of Tanzania
+  swift: TANZTZTXXXX
+  swift8: TANZTZTX
+  branch_name: Head Office
+  branch_address: 10 Mirambo Street Dar Es Salaam
+  branch_code: XXX
+  city: Dar Es Salaam
+  country: Tanzania
+- name: Barclays Bank Tanzania Ltd
+  swift: BARCTZTZXXX
+  swift8: BARCTZTZ
+  branch_name: Head Office
+  branch_address: Tdfl Building Dar Es Salaam
+  branch_code: XXX
+  city: Dar Es Salaam
+  country: Tanzania
+- name: Boa Bank Tanzania
+  swift: EUAFTZTZXXX
+  swift8: EUAFTZTZ
+  branch_name: Head Office
+  branch_address: Ndc Development House Dar Es Salaam
+  branch_code: XXX
+  city: Dar Es Salaam
+  country: Tanzania
+- name: Citibank Tanzania Ltd
+  swift: CITITZTZXXX
+  swift8: CITITZTZ
+  branch_name: Head Office
+  branch_address: Peugeot House 71625 Dar Es Salaam
+  branch_code: XXX
+  city: Dar Es Salaam
+  country: Tanzania
+- name: Commercial Bank Of Africa (tanzania) Ltd
+  swift: CBAFTZTZXXX
+  swift8: CBAFTZTZ
+  branch_name: Head Office
+  branch_address: Ppf House Dar Es Salaam
+  branch_code: XXX
+  city: Dar Es Salaam
+  country: Tanzania
+- name: Commercial Bank Of Africa (tanzania) Ltd
+  swift: UNBFTZTZXXX
+  swift8: UNBFTZTZ
+  branch_name: Head Office
+  branch_address: Ppf House Dar Es Salaam
+  branch_code: XXX
+  city: Dar Es Salaam
+  country: Tanzania
+- name: Covenant Bank For Women (tanzania) Limited
+  swift: CBFWTZTZXXX
+  swift8: CBFWTZTZ
+  branch_name: Head Office
+  branch_address: Lapf Millenium Towers 105712 Dar Es Salaam
+  branch_code: XXX
+  city: Dar Es Salaam
+  country: Tanzania
+- name: Crdb Bank Limited
+  swift: CORUTZT10T2
+  swift8: CORUTZT1
+  branch_name: Lumumba Branch
+  branch_address: Dar Es Salaam
+  branch_code: 0T2
+  city: Dar Es Salaam
+  country: Tanzania
+- name: Crdb Bank Limited
+  swift: CORUTZT10T3
+  swift8: CORUTZT1
+  branch_name: Tanga
+  branch_address: Tanga
+  branch_code: 0T3
+  city: Tanga
+  country: Tanzania
+- name: Crdb Bank Limited
+  swift: CORUTZT10T4
+  swift8: CORUTZT1
+  branch_name: Arusha
+  branch_address: Arusha
+  branch_code: 0T4
+  city: Arusha
+  country: Tanzania
+- name: Crdb Bank Limited
+  swift: CORUTZT10T5
+  swift8: CORUTZT1
+  branch_name: Mwanza
+  branch_address: Mwanza
+  branch_code: 0T5
+  city: Mwanza
+  country: Tanzania
+- name: Crdb Bank Limited
+  swift: CORUTZT10T6
+  swift8: CORUTZT1
+  branch_name: Shinyanga
+  branch_address: Shinyanga
+  branch_code: 0T6
+  city: Shinyanga
+  country: Tanzania
+- name: Crdb Bank Limited
+  swift: CORUTZT10TD
+  swift8: CORUTZT1
+  branch_name: Azikiwe Branch
+  branch_address: Azikiwe Dar Es Salaam
+  branch_code: 0TD
+  city: Dar Es Salaam
+  country: Tanzania
+- name: Crdb Bank Limited
+  swift: CORUTZTZXXX
+  swift8: CORUTZTZ
+  branch_name: Head Office
+  branch_address: Office Accomodation Scheme Dar Es Salaam
+  branch_code: XXX
+  city: Dar Es Salaam
+  country: Tanzania
+- name: Crown Finance And Leasing Limited
+  swift: CFLLTZT1XXX
+  swift8: CFLLTZT1
+  branch_name: Head Office
+  branch_address: Ppf House Dar Es Salaam
+  branch_code: XXX
+  city: Dar Es Salaam
+  country: Tanzania
+- name: Dar Es Salaam Community Bank Ltd
+  swift: DASUTZTZXXX
+  swift8: DASUTZTZ
+  branch_name: Head Office
+  branch_address: Arnautoglu Building 25522 Dar Es Salaam
+  branch_code: XXX
+  city: Dar Es Salaam
+  country: Tanzania
+- name: Diamond Trust Bank Tanzania Ltd
+  swift: DTKETZTZXXX
+  swift8: DTKETZTZ
+  branch_name: Head Office
+  branch_address: Aga Khan Library Dar Es Salaam
+  branch_code: XXX
+  city: Dar Es Salaam
+  country: Tanzania
+- name: Ecobank Tanzania Limited
+  swift: ECOCTZTZXXX
+  swift8: ECOCTZTZ
+  branch_name: Head Office
+  branch_address: Uhuru Street/Mnazi Mmoja Dar Es Salaam
+  branch_code: XXX
+  city: Dar Es Salaam
+  country: Tanzania
+- name: Efatha Bank Limited
+  swift: EFABTZTZXXX
+  swift8: EFABTZTZ
+  branch_name: Head Office
+  branch_address: Nuru Center Dar Es Salaam
+  branch_code: XXX
+  city: Dar Es Salaam
+  country: Tanzania
+- name: Equity Bank Tanzania Limited
+  swift: EQBLTZTZXXX
+  swift8: EQBLTZTZ
+  branch_name: Head Office
+  branch_address: Quality Center Plaza, 110183 Dar Es Salaam
+  branch_code: XXX
+  city: Dar Es Salaam
+  country: Tanzania
+- name: Eximbank (tanzania) Ltd
+  swift: EXTNTZTZXXX
+  swift8: EXTNTZTZ
+  branch_name: Head Office
+  branch_address: 9 Samora Avenue Dar Es Salaam
+  branch_code: XXX
+  city: Dar Es Salaam
+  country: Tanzania
+- name: First National Bank Of Tanzania
+  swift: FIRNTZTXXXX
+  swift8: FIRNTZTX
+  branch_name: Head Office
+  branch_address: Fnb House Dar Es Salaam
+  branch_code: XXX
+  city: Dar Es Salaam
+  country: Tanzania
+- name: Habib African Bank
+  swift: HABLTZTZXXX
+  swift8: HABLTZTZ
+  branch_name: Head Office
+  branch_address: Plot N0 282/64 India Street Dar Es Salaam
+  branch_code: XXX
+  city: Dar Es Salaam
+  country: Tanzania
+- name: International Commercial Bank (tanzania) Limited
+  swift: BKMYTZTZXXX
+  swift8: BKMYTZTZ
+  branch_name: Head Office
+  branch_address: Head Office Dar Es Salaam
+  branch_code: XXX
+  city: Dar Es Salaam
+  country: Tanzania
+- name: Karadha Company Ltd
+  swift: KACLTZT1XXX
+  swift8: KACLTZT1
+  branch_name: Head Office
+  branch_address: Samora Street Dar Es Salaam
+  branch_code: XXX
+  city: Dar Es Salaam
+  country: Tanzania
+- name: Kcb Bank Tanzania Limited
+  swift: KCBLTZTZXXX
+  swift8: KCBLTZTZ
+  branch_name: Head Office
+  branch_address: Harambee Plaza 804 Dar Es Salaam
+  branch_code: XXX
+  city: Dar Es Salaam
+  country: Tanzania
+- name: Kilimanjaro Co-operative Bank Ltd
+  swift: KLMJTZTZXXX
+  swift8: KLMJTZTZ
+  branch_name: Head Office
+  branch_address: Kilibank Building Moshi
+  branch_code: XXX
+  city: Moshi
+  country: Tanzania
+- name: Maendeleo Bank Ltd
+  swift: MBTLTZTZXXX
+  swift8: MBTLTZTZ
+  branch_name: No branch name
+  branch_address: No branch address
+  branch_code: XXX
+  city: Dar Es Salaam
+  country: Tanzania
+- name: Maendeleo Bank Ltd
+  swift: MBTLTZT1XXX
+  swift8: MBTLTZT1
+  branch_name: Head Office
+  branch_address: Luther House Dar Es Salaam
+  branch_code: XXX
+  city: Dar Es Salaam
+  country: Tanzania
+- name: Mkombozi Commercial Bank Ltd
+  swift: MKCBTZTZXXX
+  swift8: MKCBTZTZ
+  branch_name: Head Office
+  branch_address: St. Josephs Cathedral Dar Es Salaam
+  branch_code: XXX
+  city: Dar Es Salaam
+  country: Tanzania
+- name: Mwanga Community Bank Ltd
+  swift: MWCBTZTZXXX
+  swift8: MWCBTZTZ
+  branch_name: Head Office
+  branch_address: Mwanga Bank Bldg Moshi
+  branch_code: XXX
+  city: Moshi
+  country: Tanzania
+- name: National Bank Of Commerce, The
+  swift: NLCBTZT10T6
+  swift8: NLCBTZT1
+  branch_name: Bank House Branch
+  branch_address: Dar Es Salaam
+  branch_code: 0T6
+  city: Dar Es Salaam
+  country: Tanzania
+- name: National Bank Of Commerce, The
+  swift: NLCBTZT10T7
+  swift8: NLCBTZT1
+  branch_name: Masdo House Branch
+  branch_address: Dar Es Salaam
+  branch_code: 0T7
+  city: Dar Es Salaam
+  country: Tanzania
+- name: National Bank Of Commerce, The
+  swift: NLCBTZTX0T3
+  swift8: NLCBTZTX
+  branch_name: Corporate Branch
+  branch_address: Dar Es Salaam
+  branch_code: 0T3
+  city: Dar Es Salaam
+  country: Tanzania
+- name: National Bank Of Commerce, The
+  swift: NLCBTZTX0T4
+  swift8: NLCBTZTX
+  branch_name: Arusha Branch
+  branch_address: Arusha
+  branch_code: 0T4
+  city: Arusha
+  country: Tanzania
+- name: National Bank Of Commerce, The
+  swift: NLCBTZTX0T5
+  swift8: NLCBTZTX
+  branch_name: Mwanza Branch
+  branch_address: Nyerere Road Mwanza
+  branch_code: 0T5
+  city: Mwanza
+  country: Tanzania
+- name: National Bank Of Commerce, The
+  swift: NLCBTZTX0T8
+  swift8: NLCBTZTX
+  branch_name: Samora Branch
+  branch_address: Samora Avenue Dar Es Salaam
+  branch_code: 0T8
+  city: Dar Es Salaam
+  country: Tanzania
+- name: National Bank Of Commerce, The
+  swift: NLCBTZTX0TM
+  swift8: NLCBTZTX
+  branch_name: Moshi Branch
+  branch_address: Moshi
+  branch_code: 0TM
+  city: Moshi
+  country: Tanzania
+- name: National Bank Of Commerce, The
+  swift: NLCBTZTXFIN
+  swift8: NLCBTZTX
+  branch_name: Financial Department-Nbc House
+  branch_address: Dar Es Salaam
+  branch_code: FIN
+  city: Dar Es Salaam
+  country: Tanzania
+- name: National Bank Of Commerce, The
+  swift: NLCBTZTXIND
+  swift8: NLCBTZTX
+  branch_name: Industrial Branch
+  branch_address: Dar Es Salaam
+  branch_code: IND
+  city: Dar Es Salaam
+  country: Tanzania
+- name: National Bank Of Commerce, The
+  swift: NLCBTZTXKIC
+  swift8: NLCBTZTX
+  branch_name: Kichwele Branch
+  branch_address: Dar Es Salaam
+  branch_code: KIC
+  city: Dar Es Salaam
+  country: Tanzania
+- name: National Bank Of Commerce, The
+  swift: NLCBTZTXMBE
+  swift8: NLCBTZTX
+  branch_name: Mbeya Branch
+  branch_address: Karume Avenue Mbeya
+  branch_code: MBE
+  city: Mbeya
+  country: Tanzania
+- name: National Bank Of Commerce, The
+  swift: NLCBTZTXMNA
+  swift8: NLCBTZTX
+  branch_name: Mnazi Mmoja Branch
+  branch_address: Dar Es Salaam
+  branch_code: MNA
+  city: Dar Es Salaam
+  country: Tanzania
+- name: National Bank Of Commerce, The
+  swift: NLCBTZTXMOR
+  swift8: NLCBTZTX
+  branch_name: Morogoro Branch
+  branch_address: Morogoro
+  branch_code: MOR
+  city: Morogoro
+  country: Tanzania
+- name: National Bank Of Commerce, The
+  swift: NLCBTZTXTAN
+  swift8: NLCBTZTX
+  branch_name: Tanga Branch
+  branch_address: Tanga
+  branch_code: TAN
+  city: Tanga
+  country: Tanzania
+- name: National Bank Of Commerce, The
+  swift: NLCBTZTXXXX
+  swift8: NLCBTZTX
+  branch_name: Headoffice
+  branch_address: Dar Es Salaam
+  branch_code: XXX
+  city: Dar Es Salaam
+  country: Tanzania
+- name: National Bank Of Commerce, The
+  swift: NLCBTZTXZAN
+  swift8: NLCBTZTX
+  branch_name: Zanzibar Branch-Unguja
+  branch_address: Zanzibar
+  branch_code: ZAN
+  city: Zanzibar
+  country: Tanzania
+- name: National Microfinance Bank Limited
+  swift: NMIBTZTZXXX
+  swift8: NMIBTZTZ
+  branch_name: Head Office
+  branch_address: Bank House Dar Es Salaam
+  branch_code: XXX
+  city: Dar Es Salaam
+  country: Tanzania
+- name: Nic Bank (tanzania) Limited
+  swift: SFICTZTZXXX
+  swift8: SFICTZTZ
+  branch_name: Head Office
+  branch_address: J.M. Mall Bldg Dar Es Salaam
+  branch_code: XXX
+  city: Dar Es Salaam
+  country: Tanzania
+- name: Orbit Securites Co Ltd
+  swift: ORSUTZT1XXX
+  swift8: ORSUTZT1
+  branch_name: Head Office
+  branch_address: Twiga House Dar Es Salaam
+  branch_code: XXX
+  city: Dar Es Salaam
+  country: Tanzania
+- name: People's Bank Of Zanzibar, The
+  swift: PBZATZTZCHK
+  swift8: PBZATZTZ
+  branch_name: Chake Chake Branch
+  branch_address: Pbz Chake Chake Branch Zanzibar
+  branch_code: CHK
+  city: Zanzibar
+  country: Tanzania
+- name: People's Bank Of Zanzibar, The
+  swift: PBZATZTZNWK
+  swift8: PBZATZTZ
+  branch_name: Mwanakwerekwe Branch
+  branch_address: Nwanakwerekwe Pbz Branch Zanzibar
+  branch_code: NWK
+  city: Zanzibar
+  country: Tanzania
+- name: People's Bank Of Zanzibar, The
+  swift: PBZATZTZXXX
+  swift8: PBZATZTZ
+  branch_name: Head Office
+  branch_address: Stone-Town Zanzibar
+  branch_code: XXX
+  city: Zanzibar
+  country: Tanzania
+- name: Sabmiller Tanzania
+  swift: SABMTZT1TBL
+  swift8: SABMTZT1
+  branch_name: Dar Es Salaam
+  branch_address: Dar Es Salaam
+  branch_code: TBL
+  city: Dar Es Salaam
+  country: Tanzania
+- name: Sabmiller Tanzania
+  swift: SABMTZT1TDL
+  swift8: SABMTZT1
+  branch_name: Dar Es Salaam
+  branch_address: Dar Es Salaam
+  branch_code: TDL
+  city: Dar Es Salaam
+  country: Tanzania
+- name: Sabmiller Tanzania
+  swift: SABMTZT1XXX
+  swift8: SABMTZT1
+  branch_name: Head Office
+  branch_address: Uhuru Street Dar Es Salaam
+  branch_code: XXX
+  city: Dar Es Salaam
+  country: Tanzania
+- name: Stanbic Bank Tanzania Ltd.
+  swift: SBICTZTXXXX
+  swift8: SBICTZTX
+  branch_name: Head Office
+  branch_address: Sukari House Dar Es Salaam
+  branch_code: XXX
+  city: Dar Es Salaam
+  country: Tanzania
+- name: Standard Chartered Bank Tanzania Ltd
+  swift: SCBLTZTXSSU
+  swift8: SCBLTZTX
+  branch_name: Securities Services Unit
+  branch_address: Dar Es Salaam
+  branch_code: SSU
+  city: Dar Es Salaam
+  country: Tanzania
+- name: Standard Chartered Bank Tanzania Ltd
+  swift: SCBLTZTXXXX
+  swift8: SCBLTZTX
+  branch_name: Head Office
+  branch_address: Sukari House Dar Es Salaam
+  branch_code: XXX
+  city: Dar Es Salaam
+  country: Tanzania
+- name: Tanzania Housing Bank
+  swift: TAHOTZT10T2
+  swift8: TAHOTZT1
+  branch_name: Hifadhi Branch
+  branch_address: Sokoine Drive Dar Es Salaam
+  branch_code: 0T2
+  city: Dar Es Salaam
+  country: Tanzania
+- name: Tanzania Housing Bank
+  swift: TAHOTZT10T3
+  swift8: TAHOTZT1
+  branch_name: Tanga Branch
+  branch_address: Tanga
+  branch_code: 0T3
+  city: Tanga
+  country: Tanzania
+- name: Tanzania Housing Bank
+  swift: TAHOTZT10T4
+  swift8: TAHOTZT1
+  branch_name: Dodoma Branch
+  branch_address: Dodoma
+  branch_code: 0T4
+  city: Dodoma
+  country: Tanzania
+- name: Tanzania Housing Bank
+  swift: TAHOTZT10T5
+  swift8: TAHOTZT1
+  branch_name: Mwanza Branch
+  branch_address: Mwanza
+  branch_code: 0T5
+  city: Mwanza
+  country: Tanzania
+- name: Tanzania Housing Bank
+  swift: TAHOTZT10T6
+  swift8: TAHOTZT1
+  branch_name: Mbeya Branch
+  branch_address: Mbeya
+  branch_code: 0T6
+  city: Mbeya
+  country: Tanzania
+- name: Tanzania Housing Bank
+  swift: TAHOTZT10T7
+  swift8: TAHOTZT1
+  branch_name: Morogoro Branch
+  branch_address: Morogoro
+  branch_code: 0T7
+  city: Morogoro
+  country: Tanzania
+- name: Tanzania Housing Bank
+  swift: TAHOTZT10T8
+  swift8: TAHOTZT1
+  branch_name: Moshi Branch
+  branch_address: Moshi
+  branch_code: 0T8
+  city: Moshi
+  country: Tanzania
+- name: Tanzania Housing Bank
+  swift: TAHOTZT10TA
+  swift8: TAHOTZT1
+  branch_name: Zanzibar Branch
+  branch_address: Zanzibar
+  branch_code: 0TA
+  city: Zanzibar
+  country: Tanzania
+- name: Tanzania Housing Bank
+  swift: TAHOTZT1XXX
+  swift8: TAHOTZT1
+  branch_name: City Branch
+  branch_address: Sokoine Drive Dar Es Salaam
+  branch_code: XXX
+  city: Dar Es Salaam
+  country: Tanzania
+- name: Tanzania Postal Bank
+  swift: TAPBTZTZXXX
+  swift8: TAPBTZTZ
+  branch_name: Head Office
+  branch_address: Extelecoms Building Annex Dar Es Salaam
+  branch_code: XXX
+  city: Dar Es Salaam
+  country: Tanzania
+- name: Tanzania Revenue Authority
+  swift: TARATZTZXXX
+  swift8: TARATZTZ
+  branch_name: Head Office
+  branch_address: Tra Hq Building Dar Es Salaam
+  branch_code: XXX
+  city: Dar Es Salaam
+  country: Tanzania
+- name: Tanzania Women's Bank Ltd
+  swift: TWBLTZTZXXX
+  swift8: TWBLTZTZ
+  branch_name: Head Office
+  branch_address: Old Post Building Dar Es Salaam
+  branch_code: XXX
+  city: Dar Es Salaam
+  country: Tanzania
+- name: Tib Development Bank Limited
+  swift: TAINTZTZXXX
+  swift8: TAINTZTZ
+  branch_name: Head Office
+  branch_address: Consolidated Holding Invest. House Dar Es Salaam
+  branch_code: XXX
+  city: Dar Es Salaam
+  country: Tanzania
+- name: Trust Bank (tanzania) Limited
+  swift: TRBATZT1XXX
+  swift8: TRBATZT1
+  branch_name: Head Office
+  branch_address: Motor Mart Building Dar Es Salaam
+  branch_code: XXX
+  city: Dar Es Salaam
+  country: Tanzania
+- name: Twiga Bancorp Limited
+  swift: NABHTZT1XXX
+  swift8: NABHTZT1
+  branch_name: Head Office
+  branch_address: Twiga House Dar Es Salaam
+  branch_code: XXX
+  city: Dar Es Salaam
+  country: Tanzania
+- name: Twiga Bancorp Limited
+  swift: TWIGTZTZXXX
+  swift8: TWIGTZTZ
+  branch_name: Head Office
+  branch_address: Twiga House 10119 Dar Es Salaam
+  branch_code: XXX
+  city: Dar Es Salaam
+  country: Tanzania
+- name: Ubl Bank (tanzania) Limited
+  swift: UNILTZTZXXX
+  swift8: UNILTZTZ
+  branch_name: Head Office
+  branch_address: Mkwepu/Kaluta Street 26 11101 Dar Es Salaam
+  branch_code: XXX
+  city: Dar Es Salaam
+  country: Tanzania
+- name: Uchumi Commercial Bank Ltd
+  swift: UCCTTZTZXXX
+  swift8: UCCTTZTZ
+  branch_name: Head Office
+  branch_address: Moshi Lutheran Church Bldg Moshi
+  branch_code: XXX
+  city: Moshi
+  country: Tanzania
+- name: Ulc (tanzania) Ltd
+  swift: ULCTTZT1XXX
+  swift8: ULCTTZT1
+  branch_name: Head Office
+  branch_address: Sukari House Dar Es Salaam
+  branch_code: XXX
+  city: Dar Es Salaam
+  country: Tanzania
+- name: United Bank For Africa (tanzania) Limited
+  swift: UNAFTZTZXXX
+  swift8: UNAFTZTZ
+  branch_name: Head Office
+  branch_address: 30 C/30 D Nyerere Road Dar Es Salaam
+  branch_code: XXX
+  city: Dar Es Salaam
+  country: Tanzania

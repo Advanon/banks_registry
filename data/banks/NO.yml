@@ -1,0 +1,2882 @@
+---
+'NO':
+- name: Bank 1 Oslo As
+  swift: LABANOKKXXX
+  swift8: LABANOKK
+  branch_name: Head Office
+  branch_address: Youngstorvet 5 0106 Oslo
+  branch_code: XXX
+  city: Oslo
+  country: Norway
+- name: Bnbank Asa
+  swift: KBNONO22XXX
+  swift8: KBNONO22
+  branch_name: Head Office
+  branch_address: St Olavs Plass 1 6002 Aalesund
+  branch_code: XXX
+  city: Aalesund
+  country: Norway
+- name: Bnp Paribas Oslo Branch
+  swift: BNPANOKKXXX
+  swift8: BNPANOKK
+  branch_name: Head Office
+  branch_address: Biskop Gunnerusgate 2 0155 Oslo
+  branch_code: XXX
+  city: Oslo
+  country: Norway
+- name: Citibank International Plc, Norway Branch
+  swift: CITINOKXXXX
+  swift8: CITINOKX
+  branch_name: Head Office
+  branch_address: Tordenskjolds Gaten 8-10 Oslo
+  branch_code: XXX
+  city: Oslo
+  country: Norway
+- name: Danske Bank A/S
+  swift: DABANO22STE
+  swift8: DABANO22
+  branch_name: Steinkjer
+  branch_address: Bomveien 3 7701 Steinkjer
+  branch_code: STE
+  city: Steinkjer
+  country: Norway
+- name: Danske Bank A/S
+  swift: DABANO22TRM
+  swift8: DABANO22
+  branch_name: Tromsoe Branch
+  branch_address: Storgatan 74 9260 Tromsoe
+  branch_code: TRM
+  city: Tromsoe
+  country: Norway
+- name: Danske Bank A/S
+  swift: DABANO22CLS
+  swift8: DABANO22
+  branch_name: Cls Services
+  branch_address: Vestre Tosten 77 7003 Trondheim
+  branch_code: CLS
+  city: Trondheim
+  country: Norway
+- name: Danske Bank A/S
+  swift: DABANO22XXX
+  swift8: DABANO22
+  branch_name: Head Office
+  branch_address: Sondregt. 15 7466 Trondheim
+  branch_code: XXX
+  city: Trondheim
+  country: Norway
+- name: Dnb Asset Management As
+  swift: DNAMNOKKXXX
+  swift8: DNAMNOKK
+  branch_name: Head Office
+  branch_address: Oevre Slottsgate 3 Oslo
+  branch_code: XXX
+  city: Oslo
+  country: Norway
+- name: Dnb Bank Asa
+  swift: DNBANOKKXXX
+  swift8: DNBANOKK
+  branch_name: Head Office
+  branch_address: Stranden 21 0021 Oslo
+  branch_code: XXX
+  city: Oslo
+  country: Norway
+- name: Dnb Markets Custody, A Business Unit Of Dnb Bank Asa, Oslo
+  swift: DNBANOKCXXX
+  swift8: DNBANOKC
+  branch_name: Head Office
+  branch_address: Stranden 21 Oslo
+  branch_code: XXX
+  city: Oslo
+  country: Norway
+- name: Dnb Markets, A Business Unit Of Dnb Bank Asa, Oslo
+  swift: DNBANOKXCLS
+  swift8: DNBANOKX
+  branch_name: Cls Nostro Agent Control Branch
+  branch_address: Lars Hillesgate 30 5020 Bergen
+  branch_code: CLS
+  city: Bergen
+  country: Norway
+- name: Dnb Markets, A Business Unit Of Dnb Bank Asa, Oslo
+  swift: DNBANOKXXXX
+  swift8: DNBANOKX
+  branch_name: Head Office
+  branch_address: Stranden 21 0250 Oslo
+  branch_code: XXX
+  city: Oslo
+  country: Norway
+- name: Eksportfinans Asa
+  swift: EKSPNOKKXXX
+  swift8: EKSPNOKK
+  branch_name: Head Office
+  branch_address: Dronning Mauds Gate 15 0119 Oslo
+  branch_code: XXX
+  city: Oslo
+  country: Norway
+- name: First Securities Asa
+  swift: FISANOKKXXX
+  swift8: FISANOKK
+  branch_name: Head Office
+  branch_address: Fjordalleen 16 115 Oslo
+  branch_code: XXX
+  city: Oslo
+  country: Norway
+- name: Fokus Bank, Part Of Danske Bank Group
+  swift: DABANO22KSU
+  swift8: DABANO22
+  branch_name: Kristiansund
+  branch_address: Knut Siems Gaten 3 6501 Kristiansund N
+  branch_code: KSU
+  city: Kristiansund N
+  country: Norway
+- name: Fokus Bank, Part Of Danske Bank Group
+  swift: DABANO22OSL
+  swift8: DABANO22
+  branch_name: Oslo Branch
+  branch_address: Akersgaten 28 0107 Oslo
+  branch_code: OSL
+  city: Oslo
+  country: Norway
+- name: Fokus Bank, Part Of Danske Bank Group
+  swift: DABANO22SKE
+  swift8: DABANO22
+  branch_name: Skien Branch
+  branch_address: Kongens Gaten 9 3701 Skien
+  branch_code: SKE
+  city: Skien
+  country: Norway
+- name: Fokus Bank, Part Of Danske Bank Group
+  swift: DABANO22SOG
+  swift8: DABANO22
+  branch_name: Sogndal
+  branch_address: Sogndal
+  branch_code: SOG
+  city: Sogndal
+  country: Norway
+- name: Fokus Bank, Part Of Danske Bank Group
+  swift: DABANO22SVG
+  swift8: DABANO22
+  branch_name: Stavanger
+  branch_address: St Qlavs Gaten 7 4001 Stavanger
+  branch_code: SVG
+  city: Stavanger
+  country: Norway
+- name: Fokus Bank, Part Of Danske Bank Group
+  swift: DABANO22STJ
+  swift8: DABANO22
+  branch_name: Stjoerdal Branch
+  branch_address: Kjoepmannsgaten 7501 Stjoerdal
+  branch_code: STJ
+  city: Stjoerdal
+  country: Norway
+- name: Fokus Bank, Part Of Danske Bank Group
+  swift: DABANO22STO
+  swift8: DABANO22
+  branch_name: Stord Branch
+  branch_address: Borggata 5 5401 Stord
+  branch_code: STO
+  city: Stord
+  country: Norway
+- name: Folketrygdfondet
+  swift: FOLTNOKKXXX
+  swift8: FOLTNOKK
+  branch_name: Head Office
+  branch_address: Haakon Viis Gate 2 0123 Oslo
+  branch_code: XXX
+  city: Oslo
+  country: Norway
+- name: Handelsbanken
+  swift: HANDNOKKCUS
+  swift8: HANDNOKK
+  branch_name: Nordic Custody Services
+  branch_address: Oslo
+  branch_code: CUS
+  city: Oslo
+  country: Norway
+- name: Handelsbanken
+  swift: HANDNOKKXXX
+  swift8: HANDNOKK
+  branch_name: Head Office
+  branch_address: Tjuvholmen Alle 11 0252 Oslo
+  branch_code: XXX
+  city: Oslo
+  country: Norway
+- name: Jpmorgan Europe Limited, Olso Branch
+  swift: CHASNOKKXXX
+  swift8: CHASNOKK
+  branch_name: Head Office
+  branch_address: Essendropsgate 7 368 Oslo
+  branch_code: XXX
+  city: Oslo
+  country: Norway
+- name: Jpmorgan Europe Limited, Olso Branch
+  swift: CHASNOKKOSL
+  swift8: CHASNOKK
+  branch_name: Oslo
+  branch_address: Oslo
+  branch_code: OSL
+  city: Oslo
+  country: Norway
+- name: Netfonds Bank Asa
+  swift: NEFNNOKKXXX
+  swift8: NEFNNOKK
+  branch_name: Head Office
+  branch_address: Stenersgate 2 0184 Oslo
+  branch_code: XXX
+  city: Oslo
+  country: Norway
+- name: Nordea Bank Norge Asa
+  swift: NDEANOKKNCL
+  swift8: NDEANOKK
+  branch_name: Oslo
+  branch_address: Oslo
+  branch_code: NCL
+  city: Oslo
+  country: Norway
+- name: Nordea Bank Norge Asa
+  swift: NDEANOKKVPU
+  swift8: NDEANOKK
+  branch_name: Custody International
+  branch_address: Oslo
+  branch_code: VPU
+  city: Oslo
+  country: Norway
+- name: Nordea Bank Norge Asa
+  swift: NDEANOKKXXX
+  swift8: NDEANOKK
+  branch_name: Head Office
+  branch_address: Middelthunsgaten 17 0368 Oslo
+  branch_code: XXX
+  city: Oslo
+  country: Norway
+- name: Norges Bank
+  swift: NBHKNOKKASA
+  swift8: NBHKNOKK
+  branch_name: Norges Bank as an Authorised Agent in Nbo
+  branch_address: Oslo
+  branch_code: ASA
+  city: Oslo
+  country: Norway
+- name: Norges Bank
+  swift: NBHKNOKKBRA
+  swift8: NBHKNOKK
+  branch_name: Bra
+  branch_address: Oslo
+  branch_code: BRA
+  city: Oslo
+  country: Norway
+- name: Norges Bank
+  swift: NBHKNOKKKOL
+  swift8: NBHKNOKK
+  branch_name: Norges Bank Kollor Asa
+  branch_address: Oslo
+  branch_code: KOL
+  city: Oslo
+  country: Norway
+- name: Norges Bank
+  swift: NBHKNOKKMOA
+  swift8: NBHKNOKK
+  branch_name: Department for Market Operations and Analysis
+  branch_address: Oslo
+  branch_code: MOA
+  city: Oslo
+  country: Norway
+- name: Norges Bank
+  swift: NBHKNOKKSIL
+  swift8: NBHKNOKK
+  branch_name: Norges Bank as External Collateral Agent Sil
+  branch_address: Oslo
+  branch_code: SIL
+  city: Oslo
+  country: Norway
+- name: Norges Bank
+  swift: NBHKNOKKSKK
+  swift8: NBHKNOKK
+  branch_name: Central Governments Consolidated Account System
+  branch_address: Oslo
+  branch_code: SKK
+  city: Oslo
+  country: Norway
+- name: Norges Bank
+  swift: NBHKNOKKTIA
+  swift8: NBHKNOKK
+  branch_name: Technical Infrastructure Agent Role for Nbo
+  branch_address: Oslo
+  branch_code: TIA
+  city: Oslo
+  country: Norway
+- name: Norges Bank
+  swift: NBHKNOKKTIK
+  swift8: NBHKNOKK
+  branch_name: Tia Role for Kollor Nbo
+  branch_address: Oslo
+  branch_code: TIK
+  city: Oslo
+  country: Norway
+- name: Norges Bank
+  swift: NBHKNOKKTVA
+  swift8: NBHKNOKK
+  branch_name: Interim Tvangsbalansering
+  branch_address: Oslo
+  branch_code: TVA
+  city: Oslo
+  country: Norway
+- name: Norges Bank
+  swift: NBHKNOKKXXX
+  swift8: NBHKNOKK
+  branch_name: Head Office
+  branch_address: Bankplassen 2 0107 Oslo
+  branch_code: XXX
+  city: Oslo
+  country: Norway
+- name: Norges Bank
+  swift: NBHKNOKKS01
+  swift8: NBHKNOKK
+  branch_name: S-Laan1
+  branch_address: Oslo
+  branch_code: S01
+  city: Oslo
+  country: Norway
+- name: Norges Bank
+  swift: NBHKNOKKS02
+  swift8: NBHKNOKK
+  branch_name: S-Laan2
+  branch_address: Oslo
+  branch_code: S02
+  city: Oslo
+  country: Norway
+- name: Norges Bank
+  swift: NBHKNOKKS03
+  swift8: NBHKNOKK
+  branch_name: S-Laan3
+  branch_address: Oslo
+  branch_code: S03
+  city: Oslo
+  country: Norway
+- name: Norges Bank
+  swift: NBHKNOKKS04
+  swift8: NBHKNOKK
+  branch_name: S-Laan4
+  branch_address: Oslo
+  branch_code: S04
+  city: Oslo
+  country: Norway
+- name: Norges Bank
+  swift: NBHKNOKKS05
+  swift8: NBHKNOKK
+  branch_name: S-Laan5
+  branch_address: Oslo
+  branch_code: S05
+  city: Oslo
+  country: Norway
+- name: Norsk Hydro A.S.A., Hydro Finans
+  swift: NHYDNOKKXXX
+  swift8: NHYDNOKK
+  branch_name: Head Office
+  branch_address: Oslo
+  branch_code: XXX
+  city: Oslo
+  country: Norway
+- name: Odin Forvaltning As
+  swift: ODFONOKKXXX
+  swift8: ODFONOKK
+  branch_name: Head Office
+  branch_address: Dronning Mauds Gate 11 250 Oslo
+  branch_code: XXX
+  city: Oslo
+  country: Norway
+- name: Oslo Clearing Asa
+  swift: OSCLNOKKLAN
+  swift8: OSCLNOKK
+  branch_name: Oslo Clearing
+  branch_address: Oslo
+  branch_code: LAN
+  city: Oslo
+  country: Norway
+- name: Oslo Clearing Asa
+  swift: OSCLNOKKVPO
+  swift8: OSCLNOKK
+  branch_name: Oslo Clearing
+  branch_address: Oslo
+  branch_code: VPO
+  city: Oslo
+  country: Norway
+- name: Oslo Clearing Asa
+  swift: OSCLNOKKXXX
+  swift8: OSCLNOKK
+  branch_name: Head Office
+  branch_address: Biskop Gunnerus Gate 14 a 0051 Oslo
+  branch_code: XXX
+  city: Oslo
+  country: Norway
+- name: Oslo Clearing Asa
+  swift: OSCLNOKXXXX
+  swift8: OSCLNOKX
+  branch_name: Head Office
+  branch_address: Biskop Gunnerus Gate 14a 0051 Oslo
+  branch_code: XXX
+  city: Oslo
+  country: Norway
+- name: Oslo Clearing Asa
+  swift: OSCLNOKXCLN
+  swift8: OSCLNOKX
+  branch_name: No branch name
+  branch_address: No branch address
+  branch_code: CLN
+  city: Oslo
+  country: Norway
+- name: Oslo Clearing Asa
+  swift: OSCLNOKXCLR
+  swift8: OSCLNOKX
+  branch_name: No branch name
+  branch_address: No branch address
+  branch_code: CLR
+  city: Oslo
+  country: Norway
+- name: Sandnes Sparebank
+  swift: SASKNO22XXX
+  swift8: SASKNO22
+  branch_name: Head Office
+  branch_address: Langgt. 64 4302 Sandnes
+  branch_code: XXX
+  city: Sandnes
+  country: Norway
+- name: Seb Enskilda As
+  swift: ENSKNOKKXXX
+  swift8: ENSKNOKK
+  branch_name: Head Office
+  branch_address: Filipstad Brygge 1 75 Oslo
+  branch_code: XXX
+  city: Oslo
+  country: Norway
+- name: Seb Privatbanken Asa
+  swift: ESSENO22XXX
+  swift8: ESSENO22
+  branch_name: Head Office
+  branch_address: Henrik Ibsens Gate 60 a 0201 Oslo
+  branch_code: XXX
+  city: Oslo
+  country: Norway
+- name: Skandiabanken Ab Norge
+  swift: SKIANOBBXXX
+  swift8: SKIANOBB
+  branch_name: Head Office
+  branch_address: Folke Bernadottes Vei 38 5020 Bergen
+  branch_code: XXX
+  city: Bergen
+  country: Norway
+- name: Skandinaviska Enskilda Banken
+  swift: ESSENOKXCLS
+  swift8: ESSENOKX
+  branch_name: Oslo
+  branch_address: Oslo
+  branch_code: CLS
+  city: Oslo
+  country: Norway
+- name: Skandinaviska Enskilda Banken
+  swift: ESSENOKXXXX
+  swift8: ESSENOKX
+  branch_name: Head Office
+  branch_address: Filipstad Brygge 1 0250 Oslo
+  branch_code: XXX
+  city: Oslo
+  country: Norway
+- name: Sparebank 1 Nord-Norge
+  swift: SNOWNO22XXX
+  swift8: SNOWNO22
+  branch_name: Head Office
+  branch_address: Storgaten 65 9005 Tromsoe
+  branch_code: XXX
+  city: Tromsoe
+  country: Norway
+- name: Sparebank 1 Smn
+  swift: SPTRNO22XXX
+  swift8: SPTRNO22
+  branch_name: Head Office
+  branch_address: Sondre Gate 4 7467 Trondheim
+  branch_code: XXX
+  city: Trondheim
+  country: Norway
+- name: Sparebank 1 Smn
+  swift: SPTRNO22SB1
+  swift8: SPTRNO22
+  branch_name: Sparebank 1 Markets
+  branch_address: Oslo
+  branch_code: SB1
+  city: Oslo
+  country: Norway
+- name: Sparebank 1 Sr-Bank
+  swift: SPRONO22AGD
+  swift8: SPRONO22
+  branch_name: Aalgaard
+  branch_address: Aalgaard
+  branch_code: AGD
+  city: Aalgaard
+  country: Norway
+- name: Sparebank 1 Sr-Bank
+  swift: SPRONO22BNE
+  swift8: SPRONO22
+  branch_name: Bryne
+  branch_address: Bryne
+  branch_code: BNE
+  city: Bryne
+  country: Norway
+- name: Sparebank 1 Sr-Bank
+  swift: SPRONO22EGE
+  swift8: SPRONO22
+  branch_name: Egersund
+  branch_address: Egersund
+  branch_code: EGE
+  city: Egersund
+  country: Norway
+- name: Sparebank 1 Sr-Bank
+  swift: SPRONO22FOR
+  swift8: SPRONO22
+  branch_name: Forus
+  branch_address: Forus
+  branch_code: FOR
+  city: Forus
+  country: Norway
+- name: Sparebank 1 Sr-Bank
+  swift: SPRONO22HAU
+  swift8: SPRONO22
+  branch_name: Haugesund
+  branch_address: Haugesund
+  branch_code: HAU
+  city: Haugesund
+  country: Norway
+- name: Sparebank 1 Sr-Bank
+  swift: SPRONO22FLE
+  swift8: SPRONO22
+  branch_name: Flekkefjord
+  branch_address: Flekkefjord
+  branch_code: FLE
+  city: Flekkefjord
+  country: Norway
+- name: Sparebank 1 Sr-Bank
+  swift: SPRONO22JPL
+  swift8: SPRONO22
+  branch_name: Joerpeland
+  branch_address: Joerpeland
+  branch_code: JPL
+  city: Joerpeland
+  country: Norway
+- name: Sparebank 1 Sr-Bank
+  swift: SPRONO22KRS
+  swift8: SPRONO22
+  branch_name: Kristiansand S
+  branch_address: Kristiansand S
+  branch_code: KRS
+  city: Kristiansand S
+  country: Norway
+- name: Sparebank 1 Sr-Bank
+  swift: SPRONO22OLN
+  swift8: SPRONO22
+  branch_name: Oelen
+  branch_address: Oelen
+  branch_code: OLN
+  city: Oelen
+  country: Norway
+- name: Sparebank 1 Sr-Bank
+  swift: SPRONO22SDS
+  swift8: SPRONO22
+  branch_name: Sandnes
+  branch_address: Sandnes
+  branch_code: SDS
+  city: Sandnes
+  country: Norway
+- name: Sparebank 1 Sr-Bank
+  swift: SPRONO22XXX
+  swift8: SPRONO22
+  branch_name: Head Office
+  branch_address: Bjergsted Terrasse 1 4001 Stavanger
+  branch_code: XXX
+  city: Stavanger
+  country: Norway
+- name: Sparebank 1 Sr-Bank Asa
+  swift: SPRONO22SOL
+  swift8: SPRONO22
+  branch_name: Sola
+  branch_address: Sola
+  branch_code: SOL
+  city: Sola
+  country: Norway
+- name: Sparebanken Hedmark
+  swift: SHEDNO22ALV
+  swift8: SHEDNO22
+  branch_name: Alvdal Branch
+  branch_address: Alvdal
+  branch_code: ALV
+  city: Alvdal
+  country: Norway
+- name: Sparebanken Hedmark
+  swift: SHEDNO22BUM
+  swift8: SHEDNO22
+  branch_name: Brumunddal Branch
+  branch_address: Brumunddal
+  branch_code: BUM
+  city: Brumunddal
+  country: Norway
+- name: Sparebanken Hedmark
+  swift: SHEDNO22EVR
+  swift8: SHEDNO22
+  branch_name: Elverum Branch
+  branch_address: Elverum
+  branch_code: EVR
+  city: Elverum
+  country: Norway
+- name: Sparebanken Hedmark
+  swift: SHEDNO22ENG
+  swift8: SHEDNO22
+  branch_name: Engerdal Branch
+  branch_address: Engerdal
+  branch_code: ENG
+  city: Engerdal
+  country: Norway
+- name: Sparebanken Hedmark
+  swift: SHEDNO22FLI
+  swift8: SHEDNO22
+  branch_name: Flisa Branch
+  branch_address: Flisa
+  branch_code: FLI
+  city: Flisa
+  country: Norway
+- name: Sparebanken Hedmark
+  swift: SHEDNO22FOL
+  swift8: SHEDNO22
+  branch_name: Folldal Branch
+  branch_address: Folldal
+  branch_code: FOL
+  city: Folldal
+  country: Norway
+- name: Sparebanken Hedmark
+  swift: SHEDNO22HMX
+  swift8: SHEDNO22
+  branch_name: Hamar Branch
+  branch_address: Hamar
+  branch_code: HMX
+  city: Hamar
+  country: Norway
+- name: Sparebanken Hedmark
+  swift: SHEDNO22XXX
+  swift8: SHEDNO22
+  branch_name: Head Office
+  branch_address: Strandgata 15 2317 Hamar
+  branch_code: XXX
+  city: Hamar
+  country: Norway
+- name: Sparebanken Hedmark
+  swift: SHEDNO22KIR
+  swift8: SHEDNO22
+  branch_name: Kirkenaer Branch
+  branch_address: Kirkenaer
+  branch_code: KIR
+  city: Kirkenaer
+  country: Norway
+- name: Sparebanken Hedmark
+  swift: SHEDNO22KOP
+  swift8: SHEDNO22
+  branch_name: Koppang Branch
+  branch_address: Koppang
+  branch_code: KOP
+  city: Koppang
+  country: Norway
+- name: Sparebanken Hedmark
+  swift: SHEDNO22KVR
+  swift8: SHEDNO22
+  branch_name: Kongsvinger Branch
+  branch_address: Kongsvinger
+  branch_code: KVR
+  city: Kongsvinger
+  country: Norway
+- name: Sparebanken Hedmark
+  swift: SHEDNO22LOT
+  swift8: SHEDNO22
+  branch_name: Loeten Branch
+  branch_address: Loeten
+  branch_code: LOT
+  city: Loeten
+  country: Norway
+- name: Sparebanken Hedmark
+  swift: SHEDNO22MOE
+  swift8: SHEDNO22
+  branch_name: Moelv Branch
+  branch_address: Moelv
+  branch_code: MOE
+  city: Moelv
+  country: Norway
+- name: Sparebanken Hedmark
+  swift: SHEDNO22NES
+  swift8: SHEDNO22
+  branch_name: Nes Branch
+  branch_address: Nes Pa Hedmark
+  branch_code: NES
+  city: Nes Pa Hedmark
+  country: Norway
+- name: Sparebanken Hedmark
+  swift: SHEDNO22OTS
+  swift8: SHEDNO22
+  branch_name: Ottestad Branch
+  branch_address: Ottestad
+  branch_code: OTS
+  city: Ottestad
+  country: Norway
+- name: Sparebanken Hedmark
+  swift: SHEDNO22REN
+  swift8: SHEDNO22
+  branch_name: Rena Branch
+  branch_address: Rena
+  branch_code: REN
+  city: Rena
+  country: Norway
+- name: Sparebanken Hedmark
+  swift: SHEDNO22OSI
+  swift8: SHEDNO22
+  branch_name: Os Branch
+  branch_address: Os I Oesterdalen
+  branch_code: OSI
+  city: Os I Oesterdalen
+  country: Norway
+- name: Sparebanken Hedmark
+  swift: SHEDNO22RND
+  swift8: SHEDNO22
+  branch_name: Rendalen Branch
+  branch_address: Rendalen
+  branch_code: RND
+  city: Rendalen
+  country: Norway
+- name: Sparebanken Hedmark
+  swift: SHEDNO22ROM
+  swift8: SHEDNO22
+  branch_name: Romedal Branch
+  branch_address: Romedal
+  branch_code: ROM
+  city: Romedal
+  country: Norway
+- name: Sparebanken Hedmark
+  swift: SHEDNO22SKA
+  swift8: SHEDNO22
+  branch_name: Skarnes Branch
+  branch_address: Skarnes
+  branch_code: SKA
+  city: Skarnes
+  country: Norway
+- name: Sparebanken Moere
+  swift: SPARNO22AAH
+  swift8: SPARNO22
+  branch_name: Aaheim
+  branch_address: Aaheim
+  branch_code: AAH
+  city: Aaheim
+  country: Norway
+- name: Sparebanken Moere
+  swift: SPARNO22AAN
+  swift8: SPARNO22
+  branch_name: Aandalsnes
+  branch_address: Aandalsnes
+  branch_code: AAN
+  city: Aandalsnes
+  country: Norway
+- name: Sparebanken Moere
+  swift: SPARNO22XXX
+  swift8: SPARNO22
+  branch_name: Head Office
+  branch_address: Keiser Wilhelmsg. 29/33 6003 Aalesund
+  branch_code: XXX
+  city: Aalesund
+  country: Norway
+- name: Sparebanken Moere
+  swift: SPARNO22BRA
+  swift8: SPARNO22
+  branch_name: Brattvaag
+  branch_address: Brattvaag
+  branch_code: BRA
+  city: Brattvaag
+  country: Norway
+- name: Sparebanken Moere
+  swift: SPARNO22FOS
+  swift8: SPARNO22
+  branch_name: Fosnavaag
+  branch_address: Fosnavaag
+  branch_code: FOS
+  city: Fosnavaag
+  country: Norway
+- name: Sparebanken Moere
+  swift: SPARNO22HAR
+  swift8: SPARNO22
+  branch_name: Hareid
+  branch_address: Hareid
+  branch_code: HAR
+  city: Hareid
+  country: Norway
+- name: Sparebanken Moere
+  swift: SPARNO22LAR
+  swift8: SPARNO22
+  branch_name: Larsnes
+  branch_address: Larsnes
+  branch_code: LAR
+  city: Larsnes
+  country: Norway
+- name: Sparebanken Moere
+  swift: SPARNO22LAN
+  swift8: SPARNO22
+  branch_name: Langevaag
+  branch_address: Langevaag
+  branch_code: LAN
+  city: Langevaag
+  country: Norway
+- name: Sparebanken Moere
+  swift: SPARNO22MOL
+  swift8: SPARNO22
+  branch_name: Molde
+  branch_address: Molde
+  branch_code: MOL
+  city: Molde
+  country: Norway
+- name: Sparebanken Moere
+  swift: SPARNO22SPJ
+  swift8: SPARNO22
+  branch_name: Spjelkavik
+  branch_address: Spjelkavik
+  branch_code: SPJ
+  city: Spjelkavik
+  country: Norway
+- name: Sparebanken Moere
+  swift: SPARNO22STO
+  swift8: SPARNO22
+  branch_name: Stordal
+  branch_address: Stordal
+  branch_code: STO
+  city: Stordal
+  country: Norway
+- name: Sparebanken Moere
+  swift: SPARNO22STR
+  swift8: SPARNO22
+  branch_name: Stranda
+  branch_address: Stranda
+  branch_code: STR
+  city: Stranda
+  country: Norway
+- name: Sparebanken Moere
+  swift: SPARNO22SYK
+  swift8: SPARNO22
+  branch_name: Sykkylven
+  branch_address: Sykkylven
+  branch_code: SYK
+  city: Sykkylven
+  country: Norway
+- name: Sparebanken Moere
+  swift: SPARNO22VES
+  swift8: SPARNO22
+  branch_name: Vestnes
+  branch_address: Vestnes
+  branch_code: VES
+  city: Vestnes
+  country: Norway
+- name: Sparebanken Sogn Og Fjordane
+  swift: SOFJNO22XXX
+  swift8: SOFJNO22
+  branch_name: Head Office
+  branch_address: Langebruveien 12 6801 Foerde
+  branch_code: XXX
+  city: Foerde
+  country: Norway
+- name: Sparebanken Vest
+  swift: SPAVNOBBXXX
+  swift8: SPAVNOBB
+  branch_name: Head Office
+  branch_address: Kaigaten 4 5016 Bergen
+  branch_code: XXX
+  city: Bergen
+  country: Norway
+- name: Sparebanken Vest
+  swift: SPAVNOBBBRE
+  swift8: SPAVNOBB
+  branch_name: Bremnes
+  branch_address: Bremnes
+  branch_code: BRE
+  city: Bremnes
+  country: Norway
+- name: Sparebanken Vest
+  swift: SPAVNOBBFJE
+  swift8: SPAVNOBB
+  branch_name: Fjell
+  branch_address: Fjell
+  branch_code: FJE
+  city: Fjell
+  country: Norway
+- name: Sparebanken Vest
+  swift: SPAVNOBBDDA
+  swift8: SPAVNOBB
+  branch_name: Odda
+  branch_address: Odda
+  branch_code: DDA
+  city: Odda
+  country: Norway
+- name: Sparebanken Vest
+  swift: SPAVNOBBSTO
+  swift8: SPAVNOBB
+  branch_name: Stord
+  branch_address: Stord
+  branch_code: STO
+  city: Stord
+  country: Norway
+- name: Swedbank Ab
+  swift: SWEDNOKKXXX
+  swift8: SWEDNOKK
+  branch_name: Head Office
+  branch_address: Aker Brygge 70 Oslo
+  branch_code: XXX
+  city: Oslo
+  country: Norway
+- name: Verdipapirsentralen, Vps
+  swift: VPSNNOKKCCP
+  swift8: VPSNNOKK
+  branch_name: Ccp Settlement
+  branch_address: Oslo
+  branch_code: CCP
+  city: Oslo
+  country: Norway
+- name: Verdipapirsentralen, Vps
+  swift: VPSNNOKKCLE
+  swift8: VPSNNOKK
+  branch_name: Vps Clearing
+  branch_address: Oslo
+  branch_code: CLE
+  city: Oslo
+  country: Norway
+- name: Verdipapirsentralen, Vps
+  swift: VPSNNOKKCLR
+  swift8: VPSNNOKK
+  branch_name: Vps Clearing
+  branch_address: Oslo
+  branch_code: CLR
+  city: Oslo
+  country: Norway
+- name: Verdipapirsentralen, Vps
+  swift: VPSNNOKKXXX
+  swift8: VPSNNOKK
+  branch_name: Head Office
+  branch_address: Biskop Gunnerusgate 14a 0185 Oslo
+  branch_code: XXX
+  city: Oslo
+  country: Norway
+- name: Yara International Asa
+  swift: YARANOKKXXX
+  swift8: YARANOKK
+  branch_name: Head Office
+  branch_address: Bygdoy Alle 2 0202 Oslo
+  branch_code: XXX
+  city: Oslo
+  country: Norway
+- name: A. Sundvall A.s.
+  swift: SUNVNOK1XXX
+  swift8: SUNVNOK1
+  branch_name: Head Office
+  branch_address: Grev Wedelsplass 9 0106 Oslo
+  branch_code: XXX
+  city: Oslo
+  country: Norway
+- name: Aasen Sparebank
+  swift: AASANO21XXX
+  swift8: AASANO21
+  branch_name: Head Office
+  branch_address: 7630 Asen
+  branch_code: XXX
+  city: Asen
+  country: Norway
+- name: Abg Securities Limited
+  swift: ABSRNOK1XXX
+  swift8: ABSRNOK1
+  branch_name: Head Office
+  branch_address: Stranden 1, Aker Brygge 113 Oslo
+  branch_code: XXX
+  city: Oslo
+  country: Norway
+- name: Abg Sundal Collier Norge Asa
+  swift: AGSRNOK1XXX
+  swift8: AGSRNOK1
+  branch_name: Head Office
+  branch_address: Munkedamsveien 45 115 Oslo
+  branch_code: XXX
+  city: Oslo
+  country: Norway
+- name: Acta Asset Management Asa
+  swift: AANSNO21XXX
+  swift8: AANSNO21
+  branch_name: Head Office
+  branch_address: Borehaugen 1 Stavanger
+  branch_code: XXX
+  city: Stavanger
+  country: Norway
+- name: Acta Bank Asa
+  swift: ACBANO21XXX
+  swift8: ACBANO21
+  branch_name: Head Office
+  branch_address: Borehavgen 1 4006 Stavanger
+  branch_code: XXX
+  city: Stavanger
+  country: Norway
+- name: Active Knowledge Modeling As
+  swift: ACKMNOK1XXX
+  swift8: ACKMNOK1
+  branch_name: Head Office
+  branch_address: Granfoss Industripark 1326 Lysaker
+  branch_code: XXX
+  city: Lysaker
+  country: Norway
+- name: Afjord Sparebank
+  swift: AFJONO21XXX
+  swift8: AFJONO21
+  branch_name: Head Office
+  branch_address: Stordalsveien 1 7170 Afjord
+  branch_code: XXX
+  city: Afjord
+  country: Norway
+- name: Alfred Berg Kapitalforvaltning As
+  swift: ALBFNOK1XXX
+  swift8: ALBFNOK1
+  branch_name: Head Office
+  branch_address: Olav Vs Gate 5 0161 Oslo
+  branch_code: XXX
+  city: Oslo
+  country: Norway
+- name: Allegro Finans Asa
+  swift: ALNSNO21XXX
+  swift8: ALNSNO21
+  branch_name: Head Office
+  branch_address: Dronningensgt. 7 7483 Trondheim
+  branch_code: XXX
+  city: Trondheim
+  country: Norway
+- name: Andebu Sparebank
+  swift: ANBUNO21XXX
+  swift8: ANBUNO21
+  branch_name: Head Office
+  branch_address: Bankbakken 2 3158 Andebu
+  branch_code: XXX
+  city: Andebu
+  country: Norway
+- name: Ankenes Sparebank
+  swift: ANKENO21XXX
+  swift8: ANKENO21
+  branch_name: Head Office
+  branch_address: Kongers Gt. 34 Narvik
+  branch_code: XXX
+  city: Narvik
+  country: Norway
+- name: Arctic Energy Partners As
+  swift: ARETNO21XXX
+  swift8: ARETNO21
+  branch_name: Head Office
+  branch_address: Kjopmannsgaten 52 7111 Trondheim
+  branch_code: XXX
+  city: Trondheim
+  country: Norway
+- name: Arctic Securities Asa
+  swift: ASEANOK1XXX
+  swift8: ASEANOK1
+  branch_name: Head Office
+  branch_address: Haakon Viis Gate 6 161 Oslo
+  branch_code: XXX
+  city: Oslo
+  country: Norway
+- name: Arendal Og Omegns Sparekasse
+  swift: ARENNO21XXX
+  swift8: ARENNO21
+  branch_name: Head Office
+  branch_address: Torvet 8 4836 Arendal
+  branch_code: XXX
+  city: Arendal
+  country: Norway
+- name: Askim Sparebank
+  swift: ASKSNO21XXX
+  swift8: ASKSNO21
+  branch_name: Head Office
+  branch_address: Dr.Randers Gate 4 1801 Askim
+  branch_code: XXX
+  city: Askim
+  country: Norway
+- name: Atlantic Securities Asa
+  swift: ATSANOK1XXX
+  swift8: ATSANOK1
+  branch_name: Head Office
+  branch_address: Ovre Slottsgt. 5 0103 Oslo
+  branch_code: XXX
+  city: Oslo
+  country: Norway
+- name: Aurland Sparebank
+  swift: AUSPNO21XXX
+  swift8: AUSPNO21
+  branch_name: Head Office
+  branch_address: 5741 Aurland
+  branch_code: XXX
+  city: Aurland
+  country: Norway
+- name: Aurskog Sparebank
+  swift: AUSNNO21XXX
+  swift8: AUSNNO21
+  branch_name: Head Office
+  branch_address: Aurskog Senter 1930 Aurskog
+  branch_code: XXX
+  city: Aurskog
+  country: Norway
+- name: Axir Asa
+  swift: AXSANOK1XXX
+  swift8: AXSANOK1
+  branch_name: Head Office
+  branch_address: Karenslyst Alle 9c 0278 Oslo
+  branch_code: XXX
+  city: Oslo
+  country: Norway
+- name: Bamble Og Langesund Sparebank
+  swift: BLSPNO21XXX
+  swift8: BLSPNO21
+  branch_name: Head Office
+  branch_address: Gangveien 4 3960 Stathelle
+  branch_code: XXX
+  city: Stathelle
+  country: Norway
+- name: Bank Norwegian
+  swift: NORWNOK1XXX
+  swift8: NORWNOK1
+  branch_name: Head Office
+  branch_address: Lybekkergaten 2 0184 Oslo
+  branch_code: XXX
+  city: Oslo
+  country: Norway
+- name: Bank2 Asa
+  swift: BTWONOK1XXX
+  swift8: BTWONOK1
+  branch_name: Head Office
+  branch_address: Haakon Viis Gate 2 114 Oslo
+  branch_code: XXX
+  city: Oslo
+  country: Norway
+- name: Bankenes Sikringsfond
+  swift: SIKRNOK1XXX
+  swift8: SIKRNOK1
+  branch_name: Head Office
+  branch_address: Hansteens Gate 2 0202 Oslo
+  branch_code: XXX
+  city: Oslo
+  country: Norway
+- name: Berg Sparebank
+  swift: BRGPNO21XXX
+  swift8: BRGPNO21
+  branch_name: Head Office
+  branch_address: Kingston 10 1751 Halden
+  branch_code: XXX
+  city: Halden
+  country: Norway
+- name: Bergen Capital Management As
+  swift: BCMMNOB1XXX
+  swift8: BCMMNOB1
+  branch_name: Head Office
+  branch_address: Strandgaten 10 5013 Bergen
+  branch_code: XXX
+  city: Bergen
+  country: Norway
+- name: Bergen Energi Markets As
+  swift: BEEKNOB1XXX
+  swift8: BEEKNOB1
+  branch_name: Head Office
+  branch_address: Fantoftvegen 38 5072 Bergen
+  branch_code: XXX
+  city: Bergen
+  country: Norway
+- name: Bergen Fondsmeglerforretning A/s
+  swift: BEFONOB1XXX
+  swift8: BEFONOB1
+  branch_name: Head Office
+  branch_address: Olav Kyrresgt. 22 5001 Bergen
+  branch_code: XXX
+  city: Bergen
+  country: Norway
+- name: Bien Sparebank As
+  swift: BIENNOK1XXX
+  swift8: BIENNOK1
+  branch_name: Head Office
+  branch_address: Teatergaten 9 180 Oslo
+  branch_code: XXX
+  city: Oslo
+  country: Norway
+- name: Birkenes Sparebank
+  swift: BISNNO21XXX
+  swift8: BISNNO21
+  branch_name: Head Office
+  branch_address: Fritun 4760 Birkeland
+  branch_code: XXX
+  city: Birkeland
+  country: Norway
+- name: Bjugn Sparebank
+  swift: BJUGNO21XXX
+  swift8: BJUGNO21
+  branch_name: Head Office
+  branch_address: Botngard 7159 Bjugn
+  branch_code: XXX
+  city: Bjugn
+  country: Norway
+- name: Blaker Sparebank
+  swift: BLSANO21XXX
+  swift8: BLSANO21
+  branch_name: Head Office
+  branch_address: Sentrumsgaarden 1921 Sorumsand
+  branch_code: XXX
+  city: Sorumsand
+  country: Norway
+- name: Bo Sparebank
+  swift: BSPANO21XXX
+  swift8: BSPANO21
+  branch_name: Head Office
+  branch_address: Bogata 69 3800 Bo I Telemark
+  branch_code: XXX
+  city: Bo I Telemark
+  country: Norway
+- name: Borea Noterte Management As
+  swift: BONMNOB1XXX
+  swift8: BONMNOB1
+  branch_name: Head Office
+  branch_address: Kalfarveien 57a 5018 Bergen
+  branch_code: XXX
+  city: Bergen
+  country: Norway
+- name: Bud Fraena Og Hustad Sparebank
+  swift: BFHSNO21XXX
+  swift8: BFHSNO21
+  branch_name: Head Office
+  branch_address: Sparabankhuset 6440 Elnesvagen
+  branch_code: XXX
+  city: Elnesvagen
+  country: Norway
+- name: Car Asa
+  swift: RRASNOK1XXX
+  swift8: RRASNOK1
+  branch_name: Head Office
+  branch_address: Cort Adelersgate 17 0254 Oslo
+  branch_code: XXX
+  city: Oslo
+  country: Norway
+- name: Carnegie A.s.
+  swift: CANGNOK1XXX
+  swift8: CANGNOK1
+  branch_name: Head Office
+  branch_address: Oslo
+  branch_code: XXX
+  city: Oslo
+  country: Norway
+- name: Christiania Securities As
+  swift: CHUANOK1XXX
+  swift8: CHUANOK1
+  branch_name: Head Office
+  branch_address: Oslo Haunelager 105 Oslo
+  branch_code: XXX
+  city: Oslo
+  country: Norway
+- name: Cosmos Markets Asa
+  swift: CSMANO21XXX
+  swift8: CSMANO21
+  branch_name: Head Office
+  branch_address: Radhusgt. 15 3211 Sandefjord
+  branch_code: XXX
+  city: Sandefjord
+  country: Norway
+- name: Cultura Sparebank
+  swift: CULTNOK1XXX
+  swift8: CULTNOK1
+  branch_name: Head Office
+  branch_address: Holbergs Plass 4 166 Oslo
+  branch_code: XXX
+  city: Oslo
+  country: Norway
+- name: Det Norske Veritas Group As
+  swift: DNVGNO22XXX
+  swift8: DNVGNO22
+  branch_name: Head Office
+  branch_address: Veritasveien 1 1322 Hovik
+  branch_code: XXX
+  city: Hovik
+  country: Norway
+- name: Dialog Finansadgivning As
+  swift: DIFNNOK1XXX
+  swift8: DIFNNOK1
+  branch_name: Head Office
+  branch_address: Stortingsgaten 28 0115 Oslo
+  branch_code: XXX
+  city: Oslo
+  country: Norway
+- name: Drangedal Og Tordal Sparebank
+  swift: DRANNO21XXX
+  swift8: DRANNO21
+  branch_name: Head Office
+  branch_address: Strandgata 8 3750 Drangedal
+  branch_code: XXX
+  city: Drangedal
+  country: Norway
+- name: Easy Trade Asa
+  swift: EATANOK1XXX
+  swift8: EATANOK1
+  branch_name: Head Office
+  branch_address: Stenersgt 2 0184 Oslo
+  branch_code: XXX
+  city: Oslo
+  country: Norway
+- name: Eidsberg Sparebank
+  swift: EIDSNO21XXX
+  swift8: EIDSNO21
+  branch_name: Head Office
+  branch_address: Storgt. 2 1850 Mysen
+  branch_code: XXX
+  city: Mysen
+  country: Norway
+- name: Enebakk Sparebank
+  swift: BAKKNO21XXX
+  swift8: BAKKNO21
+  branch_name: Head Office
+  branch_address: Prestegardsvn. 2 1912 Enebakk
+  branch_code: XXX
+  city: Enebakk
+  country: Norway
+- name: Etne Sparebank
+  swift: ETNENO21XXX
+  swift8: ETNENO21
+  branch_name: Head Office
+  branch_address: Etnesjoen 5591 Etne
+  branch_code: XXX
+  city: Etne
+  country: Norway
+- name: Etnedal Sparebank
+  swift: ETSPNO21XXX
+  swift8: ETSPNO21
+  branch_name: Head Office
+  branch_address: Bruflat 2890 Etnedal
+  branch_code: XXX
+  city: Etnedal
+  country: Norway
+- name: European Commodity Management As
+  swift: EUCGNOB1XXX
+  swift8: EUCGNOB1
+  branch_name: Head Office
+  branch_address: Fantoftvegen 38 5072 Bergen
+  branch_code: XXX
+  city: Bergen
+  country: Norway
+- name: Evje Og Hornnes Sparebank
+  swift: EVJENO21XXX
+  swift8: EVJENO21
+  branch_name: Head Office
+  branch_address: Sentrum Evje
+  branch_code: XXX
+  city: Evje
+  country: Norway
+- name: Explora Active Management As
+  swift: EXAANOK1XXX
+  swift8: EXAANOK1
+  branch_name: Head Office
+  branch_address: Dronning Maudsgate 1 0250 Oslo
+  branch_code: XXX
+  city: Oslo
+  country: Norway
+- name: Explora Capital Management Asa
+  swift: EXMANOK1XXX
+  swift8: EXMANOK1
+  branch_name: Head Office
+  branch_address: Dronning Maudsgate 1 0250 Oslo
+  branch_code: XXX
+  city: Oslo
+  country: Norway
+- name: Fana Sparebank
+  swift: FANANOB1XXX
+  swift8: FANANOB1
+  branch_name: Head Office
+  branch_address: Ostre Nesttunvegen 1 5852 Bergen
+  branch_code: XXX
+  city: Bergen
+  country: Norway
+- name: Fearnley Fond A/s
+  swift: FEFONOK1XXX
+  swift8: FEFONOK1
+  branch_name: Head Office
+  branch_address: Grev Wedlsplass 9 0107 Oslo
+  branch_code: XXX
+  city: Oslo
+  country: Norway
+- name: First Asset Management
+  swift: FRAANOK1XXX
+  swift8: FRAANOK1
+  branch_name: Head Office
+  branch_address: Fjordalleen 16 Aker Brygge 0115 Oslo
+  branch_code: XXX
+  city: Oslo
+  country: Norway
+- name: First Securities Wealth Management As
+  swift: FSWMNOK1XXX
+  swift8: FSWMNOK1
+  branch_name: Head Office
+  branch_address: Fjordalleen 16 0115 Oslo
+  branch_code: XXX
+  city: Oslo
+  country: Norway
+- name: Fish Pool Asa
+  swift: FSPANOB1XXX
+  swift8: FSPANOB1
+  branch_name: Head Office
+  branch_address: Storetveitvegen 98 5072 Bergen
+  branch_code: XXX
+  city: Bergen
+  country: Norway
+- name: Fjaler Sparebank
+  swift: FJASNO21XXX
+  swift8: FJASNO21
+  branch_name: Head Office
+  branch_address: Postboks 43 6961 Dale I Sunnfjord
+  branch_code: XXX
+  city: Dale I Sunnfjord
+  country: Norway
+- name: Flekkefjord Sparebank
+  swift: FLEKNO21XXX
+  swift8: FLEKNO21
+  branch_name: Head Office
+  branch_address: Brogaten 18 4402 Flekkefjord
+  branch_code: XXX
+  city: Flekkefjord
+  country: Norway
+- name: Fondsfinans As
+  swift: FONSNOK1XXX
+  swift8: FONSNOK1
+  branch_name: Head Office
+  branch_address: Vika Oslo
+  branch_code: XXX
+  city: Oslo
+  country: Norway
+- name: Fornebu Sparebank
+  swift: TELENO21XXX
+  swift8: TELENO21
+  branch_name: Head Office
+  branch_address: Telenor 1331 Fornebu
+  branch_code: XXX
+  city: Fornebu
+  country: Norway
+- name: Forte Fondsforvaltning As
+  swift: FFONNO21XXX
+  swift8: FFONNO21
+  branch_name: No branch name
+  branch_address: No branch address
+  branch_code: XXX
+  city: Trondheim
+  country: Norway
+- name: Gallesio Partners As
+  swift: GAPTNOK1XXX
+  swift8: GAPTNOK1
+  branch_name: Head Office
+  branch_address: Hafslundveien 2 0373 Oslo
+  branch_code: XXX
+  city: Oslo
+  country: Norway
+- name: Ge Money Bank Nuf
+  swift: MNNUNO21XXX
+  swift8: MNNUNO21
+  branch_name: Head Office
+  branch_address: Nedre Strandgt. 43 4005 Stavanger
+  branch_code: XXX
+  city: Stavanger
+  country: Norway
+- name: Gildeskal Sparebank
+  swift: GILDNO21XXX
+  swift8: GILDNO21
+  branch_name: Head Office
+  branch_address: Inndyr Sentrum 8138 Inndyr
+  branch_code: XXX
+  city: Inndyr
+  country: Norway
+- name: Gjensidige Bank Asa
+  swift: GJASNO21XXX
+  swift8: GJASNO21
+  branch_name: Head Office
+  branch_address: Flovegen 2 6803 Foerde
+  branch_code: XXX
+  city: Foerde
+  country: Norway
+- name: Gjerstad Sparebank
+  swift: GJSPNO21XXX
+  swift8: GJSPNO21
+  branch_name: Head Office
+  branch_address: 4993 Sundebru
+  branch_code: XXX
+  city: Sundebru
+  country: Norway
+- name: Grong Sparebank
+  swift: GRONNO21XXX
+  swift8: GRONNO21
+  branch_name: Head Office
+  branch_address: 7871 Grong
+  branch_code: XXX
+  city: Grong
+  country: Norway
+- name: Grue Sparebank
+  swift: GRUENO21XXX
+  swift8: GRUENO21
+  branch_name: Head Office
+  branch_address: Solorvegen 2260 Kirkenaer
+  branch_code: XXX
+  city: Kirkenaer
+  country: Norway
+- name: Guardian Corporate As
+  swift: GUCRNOK1XXX
+  swift8: GUCRNOK1
+  branch_name: Head Office
+  branch_address: Drammensveien 106 0173 Oslo
+  branch_code: XXX
+  city: Oslo
+  country: Norway
+- name: H And Q Norden Securities Hagstromer And Qviberg Fondkommission Ab
+  swift: NSHQNO21XXX
+  swift8: NSHQNO21
+  branch_name: Head Office
+  branch_address: Oslo
+  branch_code: XXX
+  city: Oslo
+  country: Norway
+- name: Haltdalen Sparebank
+  swift: HALTNO21XXX
+  swift8: HALTNO21
+  branch_name: Head Office
+  branch_address: 7383 Haltdalen
+  branch_code: XXX
+  city: Haltdalen
+  country: Norway
+- name: Harstad Sparebank
+  swift: HASBNO21XXX
+  swift8: HASBNO21
+  branch_name: Head Office
+  branch_address: Rik. Kaarbosplass 2 9481 Harstad
+  branch_code: XXX
+  city: Harstad
+  country: Norway
+- name: Haugesund Sparebank
+  swift: HAUGNO21XXX
+  swift8: HAUGNO21
+  branch_name: Head Office
+  branch_address: Haraldsgate 115 5501 Haugesund
+  branch_code: XXX
+  city: Haugesund
+  country: Norway
+- name: Hegra Sparebank
+  swift: HESPNOB1XXX
+  swift8: HESPNOB1
+  branch_name: Head Office
+  branch_address: Einar Bergs Veg 1 7520 Hegra
+  branch_code: XXX
+  city: Hegra
+  country: Norway
+- name: Helgeland Sparebank
+  swift: HELGNO21XXX
+  swift8: HELGNO21
+  branch_name: Head Office
+  branch_address: Jernbanegata 15 8656 Mosjoen
+  branch_code: XXX
+  city: Mosjoen
+  country: Norway
+- name: Hewlett-packard Norge As
+  swift: HENRNOK1XXX
+  swift8: HENRNOK1
+  branch_name: Head Office
+  branch_address: Ostensjoveien 32 602 Oslo
+  branch_code: XXX
+  city: Oslo
+  country: Norway
+- name: Hjartdal Og Gransherad Sparebank
+  swift: HJARNO21XXX
+  swift8: HJARNO21
+  branch_name: Head Office
+  branch_address: 3665 Sauland
+  branch_code: XXX
+  city: Sauland
+  country: Norway
+- name: Hjelmeland Sparebank
+  swift: HJELNO21XXX
+  swift8: HJELNO21
+  branch_name: Head Office
+  branch_address: 4130 Hjelmeland
+  branch_code: XXX
+  city: Hjelmeland
+  country: Norway
+- name: Hoegh Capital Management Asa
+  swift: HCMSNOK1XXX
+  swift8: HCMSNOK1
+  branch_name: Head Office
+  branch_address: Drammensveien 134 0212 Oslo
+  branch_code: XXX
+  city: Oslo
+  country: Norway
+- name: Holand Sparebank
+  swift: HOLLNO21XXX
+  swift8: HOLLNO21
+  branch_name: Head Office
+  branch_address: Bjorkeveien 20 1940 Bjorkelangen
+  branch_code: XXX
+  city: Bjorkelangen
+  country: Norway
+- name: Holberg Fondsforvaltning As
+  swift: HOLFNOB1XXX
+  swift8: HOLFNOB1
+  branch_name: Head Office
+  branch_address: Lars Hillesgt. 19 5008 Bergen
+  branch_code: XXX
+  city: Bergen
+  country: Norway
+- name: Holla Og Lunde Sparebank
+  swift: HOSANO21XXX
+  swift8: HOSANO21
+  branch_name: Head Office
+  branch_address: Ulefoss-Senteret 3831 Ulefoss
+  branch_code: XXX
+  city: Ulefoss
+  country: Norway
+- name: Honefoss Sparebank
+  swift: HOSPNO21XXX
+  swift8: HOSPNO21
+  branch_name: Head Office
+  branch_address: Sondre Torg 3 3512 Hoenefoss
+  branch_code: XXX
+  city: Hoenefoss
+  country: Norway
+- name: Icap Energy As
+  swift: ICAENOB1XXX
+  swift8: ICAENOB1
+  branch_name: Head Office
+  branch_address: Storetveitvegen 96 5072 Bergen
+  branch_code: XXX
+  city: Bergen
+  country: Norway
+- name: Idre Sogn Sparebank
+  swift: IDRENO21XXX
+  swift8: IDRENO21
+  branch_name: Head Office
+  branch_address: 6881 Ardalstangen
+  branch_code: XXX
+  city: Ardalstangen
+  country: Norway
+- name: Industrifinans Aktiv Forvaltning
+  swift: INAFNOK1XXX
+  swift8: INAFNOK1
+  branch_name: Head Office
+  branch_address: Stortingsgaten 14 0119 Oslo
+  branch_code: XXX
+  city: Oslo
+  country: Norway
+- name: Interkraft Capital Management As
+  swift: ITCMNOK1XXX
+  swift8: ITCMNOK1
+  branch_name: Head Office
+  branch_address: Olav Vs Gt. 5 0116 Oslo
+  branch_code: XXX
+  city: Oslo
+  country: Norway
+- name: International Maritime Exchange Asa
+  swift: IMEANOK1XXX
+  swift8: IMEANOK1
+  branch_name: Head Office
+  branch_address: Hieronymus Heyerdahls Gate 1 0160 Oslo
+  branch_code: XXX
+  city: Oslo
+  country: Norway
+- name: Jernbanepersonalets Sparebank
+  swift: JERNNO21XXX
+  swift8: JERNNO21
+  branch_name: Head Office
+  branch_address: Sonja Henies Plass 4 105 Oslo
+  branch_code: XXX
+  city: Oslo
+  country: Norway
+- name: Karl Johan Fonds As
+  swift: KJFNNOK1XXX
+  swift8: KJFNNOK1
+  branch_name: Head Office
+  branch_address: Karl Johans Gate 45 0110 Oslo
+  branch_code: XXX
+  city: Oslo
+  country: Norway
+- name: Klaebu Sparebank
+  swift: KLBUNO21XXX
+  swift8: KLBUNO21
+  branch_name: Head Office
+  branch_address: Klaebu Sentrum 7540 Klaebu
+  branch_code: XXX
+  city: Klaebu
+  country: Norway
+- name: Klepp Sparebank
+  swift: KLEPNO21XXX
+  swift8: KLEPNO21
+  branch_name: Head Office
+  branch_address: Klepp Sparebank 4352 Kleppe
+  branch_code: XXX
+  city: Kleppe
+  country: Norway
+- name: Klp Banken As
+  swift: KLPKNO21XXX
+  swift8: KLPKNO21
+  branch_name: Head Office
+  branch_address: Beddingen 8 7014 Trondheim
+  branch_code: XXX
+  city: Trondheim
+  country: Norway
+- name: Klp Forsikring
+  swift: KLPFNOK1XXX
+  swift8: KLPFNOK1
+  branch_name: Head Office
+  branch_address: Oslo
+  branch_code: XXX
+  city: Oslo
+  country: Norway
+- name: Klp Kapitalforvaltning As
+  swift: KLPANOKKXXX
+  swift8: KLPANOKK
+  branch_name: Head Office
+  branch_address: 10 Dronning Eufemiasgate 0191 Oslo
+  branch_code: XXX
+  city: Oslo
+  country: Norway
+- name: Kommunal Landspensjonskasse
+  swift: KOMLNOK1XXX
+  swift8: KOMLNOK1
+  branch_name: Head Office
+  branch_address: Karl Johans Gate 41b 0121 Oslo
+  branch_code: XXX
+  city: Oslo
+  country: Norway
+- name: Kragero Sparebank
+  swift: KREGNO21XXX
+  swift8: KREGNO21
+  branch_name: Head Office
+  branch_address: Kirkeg 26 3770 Kragero
+  branch_code: XXX
+  city: Kragero
+  country: Norway
+- name: Kvinesdal Sparebank
+  swift: KVIDNO21XXX
+  swift8: KVIDNO21
+  branch_name: Head Office
+  branch_address: Nesgata 7 a 4490 Kvinesdal
+  branch_code: XXX
+  city: Kvinesdal
+  country: Norway
+- name: Landkreditt Bank As
+  swift: LANDNOK1XXX
+  swift8: LANDNOK1
+  branch_name: Head Office
+  branch_address: Karl Johans Gate 45 123 Oslo
+  branch_code: XXX
+  city: Oslo
+  country: Norway
+- name: Larvikbanken Brunlanes Sparebank
+  swift: LABRNOB1XXX
+  swift8: LABRNOB1
+  branch_name: Head Office
+  branch_address: Sigurdsgate 1 3251 Larvik
+  branch_code: XXX
+  city: Larvik
+  country: Norway
+- name: Lillesands Sparebank
+  swift: LILLNO21XXX
+  swift8: LILLNO21
+  branch_name: Head Office
+  branch_address: Storgata 10 4790 Lillesand
+  branch_code: XXX
+  city: Lillesand
+  country: Norway
+- name: Lillestrom Sparebank
+  swift: LISTNO21XXX
+  swift8: LISTNO21
+  branch_name: Head Office
+  branch_address: Torvet 5 2000 Lillestroem
+  branch_code: XXX
+  city: Lillestroem
+  country: Norway
+- name: Lofoten Sparebank
+  swift: BOGENO21XXX
+  swift8: BOGENO21
+  branch_name: Head Office
+  branch_address: Hovdveien 22 8360 Boestad
+  branch_code: XXX
+  city: Boestad
+  country: Norway
+- name: Lom Og Skjak Sparebank
+  swift: LOSKNO21XXX
+  swift8: LOSKNO21
+  branch_name: Head Office
+  branch_address: Midtgard 2686 Lom
+  branch_code: XXX
+  city: Lom
+  country: Norway
+- name: Luster Sparebank
+  swift: LUSKNO21XXX
+  swift8: LUSKNO21
+  branch_name: Head Office
+  branch_address: Sentrum 6868 Gaupne
+  branch_code: XXX
+  city: Gaupne
+  country: Norway
+- name: Markedskraft Asa
+  swift: MRASNO21XXX
+  swift8: MRASNO21
+  branch_name: Head Office
+  branch_address: Langbryggen 9 4841 Arendal
+  branch_code: XXX
+  city: Arendal
+  country: Norway
+- name: Marker Sparebank
+  swift: MASPNO21XXX
+  swift8: MASPNO21
+  branch_name: Head Office
+  branch_address: Storgata 59 1870 Orje
+  branch_code: XXX
+  city: Orje
+  country: Norway
+- name: Meldal Sparebank
+  swift: MESPNO21XXX
+  swift8: MESPNO21
+  branch_name: Head Office
+  branch_address: Lokkenveien 2 7336 Meldal
+  branch_code: XXX
+  city: Meldal
+  country: Norway
+- name: Melhus Sparebank
+  swift: MELHNO21XXX
+  swift8: MELHNO21
+  branch_name: Head Office
+  branch_address: 7221 Melhus
+  branch_code: XXX
+  city: Melhus
+  country: Norway
+- name: Modum Sparebank
+  swift: MODUNO21XXX
+  swift8: MODUNO21
+  branch_name: Head Office
+  branch_address: Vikersundgata 29 3370 Vikersund
+  branch_code: XXX
+  city: Vikersund
+  country: Norway
+- name: Moe Securities Asa
+  swift: MOEENOK1XXX
+  swift8: MOEENOK1
+  branch_name: Head Office
+  branch_address: Bankplassen 1a Sentrum 0106 Oslo
+  branch_code: XXX
+  city: Oslo
+  country: Norway
+- name: Moelven Industrier Asa
+  swift: MOELNO21XXX
+  swift8: MOELNO21
+  branch_name: Head Office
+  branch_address: 2391 Moelv
+  branch_code: XXX
+  city: Moelv
+  country: Norway
+- name: Nes Prestegjelds Sparebank
+  swift: NEPRNO21XXX
+  swift8: NEPRNO21
+  branch_name: Head Office
+  branch_address: Jordeshagen 3540 Nesbyen
+  branch_code: XXX
+  city: Nesbyen
+  country: Norway
+- name: Nesset Sparebank
+  swift: NESPNO21XXX
+  swift8: NESPNO21
+  branch_name: Head Office
+  branch_address: 6460 Eidsvag
+  branch_code: XXX
+  city: Eidsvag
+  country: Norway
+- name: Nord Pool Asa
+  swift: NOPSNO21XXX
+  swift8: NOPSNO21
+  branch_name: Head Office
+  branch_address: Vollsveien 19 1326 Lysaker
+  branch_code: XXX
+  city: Lysaker
+  country: Norway
+- name: Nordboe Drift
+  swift: NODRNO21XXX
+  swift8: NODRNO21
+  branch_name: Head Office
+  branch_address: Nordbygda 3854 Nissedal
+  branch_code: XXX
+  city: Nissedal
+  country: Norway
+- name: Nordea Global High Yield-asset Side
+  swift: NGHINOK1XXX
+  swift8: NGHINOK1
+  branch_name: Head Office
+  branch_address: Middelthunsgate 1166 0107 Oslo
+  branch_code: XXX
+  city: Oslo
+  country: Norway
+- name: Nordea Global-asset Side
+  swift: NGASNOK1XXX
+  swift8: NGASNOK1
+  branch_name: Head Office
+  branch_address: Middelthunsgate, Postboks 1166 0107 Oslo
+  branch_code: XXX
+  city: Oslo
+  country: Norway
+- name: Nordea Stabile Aksjer Global Etisk-asset Side
+  swift: NSALNOK1XXX
+  swift8: NSALNOK1
+  branch_name: Head Office
+  branch_address: Middelthunsgate 0107 Oslo
+  branch_code: XXX
+  city: Oslo
+  country: Norway
+- name: Nordea Stabile Aksjer Global-asset Side
+  swift: NSAGNOK1XXX
+  swift8: NSAGNOK1
+  branch_name: Head Office
+  branch_address: Middelthunsgate Oslo
+  branch_code: XXX
+  city: Oslo
+  country: Norway
+- name: Nordisk Energiforvaltning
+  swift: NOEENOK1XXX
+  swift8: NOEENOK1
+  branch_name: Head Office
+  branch_address: Ba2 Senteret 0105 Oslo
+  branch_code: XXX
+  city: Oslo
+  country: Norway
+- name: Norges Bank (division Norges Bank Investment Management
+  swift: NGIMNOKKXXX
+  swift8: NGIMNOKK
+  branch_name: No branch name
+  branch_address: No branch address
+  branch_code: XXX
+  city: Oslo
+  country: Norway
+- name: Norne Securities As
+  swift: NSSVNOB1XXX
+  swift8: NSSVNOB1
+  branch_name: Head Office
+  branch_address: Sparebanken Vest 5020 Bergen
+  branch_code: XXX
+  city: Bergen
+  country: Norway
+- name: Norsk Skipshypothekbank A.s.
+  swift: NOSKNOK1XXX
+  swift8: NOSKNOK1
+  branch_name: Head Office
+  branch_address: Oslo
+  branch_code: XXX
+  city: Oslo
+  country: Norway
+- name: Norwegian Emission Trading Registry
+  swift: NETSNOK1XXX
+  swift8: NETSNOK1
+  branch_name: Head Office
+  branch_address: Stromsveien 96 Oslo
+  branch_code: XXX
+  city: Oslo
+  country: Norway
+- name: Nottero Sparebank
+  swift: NOTTNO21XXX
+  swift8: NOTTNO21
+  branch_name: Head Office
+  branch_address: Torvet 5 3106 Tonsberg
+  branch_code: XXX
+  city: Tonsberg
+  country: Norway
+- name: Nrp Securities Asa
+  swift: NRSANOK1XXX
+  swift8: NRSANOK1
+  branch_name: Head Office
+  branch_address: Haakon Viis Gate 1 Oslo
+  branch_code: XXX
+  city: Oslo
+  country: Norway
+- name: Obos Banken As
+  swift: OBOSNOK1XXX
+  swift8: OBOSNOK1
+  branch_name: Head Office
+  branch_address: Hammersborg Torg 2 0129 Oslo
+  branch_code: XXX
+  city: Oslo
+  country: Norway
+- name: Odal Sparebank
+  swift: ODASNO21XXX
+  swift8: ODASNO21
+  branch_name: Head Office
+  branch_address: Sentrumsvegen 20 2120 Sagstua
+  branch_code: XXX
+  city: Sagstua
+  country: Norway
+- name: Ofoten Sparebank
+  swift: OFSPNO21XXX
+  swift8: OFSPNO21
+  branch_name: Head Office
+  branch_address: Bergvikveien 9 Bogen I Ofoten
+  branch_code: XXX
+  city: I Ofoten / Bogen
+  country: Norway
+- name: Oppdalsbanken
+  swift: OPPDNO21XXX
+  swift8: OPPDNO21
+  branch_name: Head Office
+  branch_address: O. Skasliens V. 15 7340 Oppdal
+  branch_code: XXX
+  city: Oppdal
+  country: Norway
+- name: Orion Analyse As
+  swift: ORIONO21XXX
+  swift8: ORIONO21
+  branch_name: Head Office
+  branch_address: Nedre Lundsvei 1 4630 Kristiansand S
+  branch_code: XXX
+  city: Kristiansand S
+  country: Norway
+- name: Orkdal Sparebank
+  swift: OKDLNO21XXX
+  swift8: OKDLNO21
+  branch_name: Head Office
+  branch_address: Orkdalsveien 84 7300 Orkanger
+  branch_code: XXX
+  city: Orkanger
+  country: Norway
+- name: Orkla Finans Kapitalforvaltning As
+  swift: ORFFNOK1XXX
+  swift8: ORFFNOK1
+  branch_name: Head Office
+  branch_address: Tordenskioldsgt. 8-10 0121 Oslo
+  branch_code: XXX
+  city: Oslo
+  country: Norway
+- name: Orland Sparebank
+  swift: ORLANO21XXX
+  swift8: ORLANO21
+  branch_name: Head Office
+  branch_address: Yrjarsgt. 24 7129 Brekstad
+  branch_code: XXX
+  city: Brekstad
+  country: Norway
+- name: Orskog Sparebank
+  swift: ORKONO21XXX
+  swift8: ORKONO21
+  branch_name: Head Office
+  branch_address: 6240 Orskog
+  branch_code: XXX
+  city: Orskog
+  country: Norway
+- name: Oslo Bors Asa
+  swift: XOSLNOK1XXX
+  swift8: XOSLNOK1
+  branch_name: Head Office
+  branch_address: Tollbugata 2 152 Oslo
+  branch_code: XXX
+  city: Oslo
+  country: Norway
+- name: Oystre Slidre Sparebank
+  swift: OYSLNO21XXX
+  swift8: OYSLNO21
+  branch_name: Head Office
+  branch_address: 2940 Heggenes
+  branch_code: XXX
+  city: Heggenes
+  country: Norway
+- name: Pareto Bank Asa
+  swift: PTAANOK1XXX
+  swift8: PTAANOK1
+  branch_name: Head Office
+  branch_address: Dronning Mauds Gate 3 0114 Oslo
+  branch_code: XXX
+  city: Oslo
+  country: Norway
+- name: Pareto Fonds A/s
+  swift: PAFNNOK1XXX
+  swift8: PAFNNOK1
+  branch_name: Head Office
+  branch_address: Dronning Mauds Gt. 3 0114 Oslo
+  branch_code: XXX
+  city: Oslo
+  country: Norway
+- name: Pareto Forvaltning As
+  swift: PAFVNOK1XXX
+  swift8: PAFVNOK1
+  branch_name: Head Office
+  branch_address: Dronning Mauds Gate 3 0250 Oslo
+  branch_code: XXX
+  city: Oslo
+  country: Norway
+- name: Pareto Nordic Investments As
+  swift: PANVNOK1XXX
+  swift8: PANVNOK1
+  branch_name: No branch name
+  branch_address: No branch address
+  branch_code: XXX
+  city: Oslo
+  country: Norway
+- name: Pareto Ppn As
+  swift: PAPNNO21XXX
+  swift8: PAPNNO21
+  branch_name: Head Office
+  branch_address: Storgata 14 4340 Bryne
+  branch_code: XXX
+  city: Bryne
+  country: Norway
+- name: Posten Norge As
+  swift: NORGNOK1XXX
+  swift8: NORGNOK1
+  branch_name: Head Office
+  branch_address: Biskop Gunnerus Gt 14 0001 Oslo
+  branch_code: XXX
+  city: Oslo
+  country: Norway
+- name: Privatbanken Asa
+  swift: PBASNOK1XXX
+  swift8: PBASNOK1
+  branch_name: Head Office
+  branch_address: 20a Drammensveien 0201 Oslo
+  branch_code: XXX
+  city: Oslo
+  country: Norway
+- name: Rindal Sparebank
+  swift: RINDNO21XXX
+  swift8: RINDNO21
+  branch_name: Head Office
+  branch_address: Rindalsvegen 15b 6657 Rindal
+  branch_code: XXX
+  city: Rindal
+  country: Norway
+- name: Ringerikes Sparebank
+  swift: RIRINO21XXX
+  swift8: RIRINO21
+  branch_name: Head Office
+  branch_address: Sondre Torv 6 3504 Hoenefoss
+  branch_code: XXX
+  city: Hoenefoss
+  country: Norway
+- name: Romsdals Fellesbank Asa
+  swift: ROFENO21XXX
+  swift8: ROFENO21
+  branch_name: Head Office
+  branch_address: Storgaten 42 6402 Molde
+  branch_code: XXX
+  city: Molde
+  country: Norway
+- name: Rorosbanken Roros Sparebank
+  swift: RORBNO21XXX
+  swift8: RORBNO21
+  branch_name: Head Office
+  branch_address: Kjerkg 1 7361 Roros
+  branch_code: XXX
+  city: Roros
+  country: Norway
+- name: Rs Platou Markets As
+  swift: NOSUNOK1XXX
+  swift8: NOSUNOK1
+  branch_name: Head Office
+  branch_address: Vika 0116 Oslo
+  branch_code: XXX
+  city: Oslo
+  country: Norway
+- name: Rs Platou Securities
+  swift: PLSENO21XXX
+  swift8: PLSENO21
+  branch_name: Head Office
+  branch_address: Hoevik
+  branch_code: XXX
+  city: Hoevik
+  country: Norway
+- name: Saga Securities As
+  swift: SASUNOK1XXX
+  swift8: SASUNOK1
+  branch_name: Head Office
+  branch_address: Munkedamsveien 45 0122 Oslo
+  branch_code: XXX
+  city: Oslo
+  country: Norway
+- name: Samuel Montagu Norge A/s
+  swift: SAMNNOK1XXX
+  swift8: SAMNNOK1
+  branch_name: Head Office
+  branch_address: Karl Johansgate 45 0162 Oslo
+  branch_code: XXX
+  city: Oslo
+  country: Norway
+- name: Santander Consumer Bank As
+  swift: SAOMNO21XXX
+  swift8: SAOMNO21
+  branch_name: Head Office
+  branch_address: Strandveien 18 1325 Lysaker
+  branch_code: XXX
+  city: Lysaker
+  country: Norway
+- name: Sector Epsilon Asa
+  swift: SCESNOK1XXX
+  swift8: SCESNOK1
+  branch_name: Head Office
+  branch_address: Filipstad Brygge 2 0250 Oslo
+  branch_code: XXX
+  city: Oslo
+  country: Norway
+- name: Sector Fund Services Asa
+  swift: SFEANOK1XXX
+  swift8: SFEANOK1
+  branch_name: Head Office
+  branch_address: Filipstad Brygge 2 0250 Oslo
+  branch_code: XXX
+  city: Oslo
+  country: Norway
+- name: Sector Gamma Asa
+  swift: SEGSNOK1XXX
+  swift8: SEGSNOK1
+  branch_name: Head Office
+  branch_address: Filipstad Brygge 2 0250 Oslo
+  branch_code: XXX
+  city: Oslo
+  country: Norway
+- name: Sector Omega Asa
+  swift: SCGANOK1XXX
+  swift8: SCGANOK1
+  branch_name: Head Office
+  branch_address: Filipstad Brygge 2 0250 Oslo
+  branch_code: XXX
+  city: Oslo
+  country: Norway
+- name: Selbu Sparebank
+  swift: SELSNO21XXX
+  swift8: SELSNO21
+  branch_name: Head Office
+  branch_address: Gjelbakken 3 7580 Selbu
+  branch_code: XXX
+  city: Selbu
+  country: Norway
+- name: Setskog Sparebank
+  swift: SSPANO21XXX
+  swift8: SSPANO21
+  branch_name: Head Office
+  branch_address: 1954 Setskog
+  branch_code: XXX
+  city: Setskog
+  country: Norway
+- name: Skandiabanken Ab Norsk Avdeling Av Utenlandsk Foretak
+  swift: SKDBNOB1XXX
+  swift8: SKDBNOB1
+  branch_name: Head Office
+  branch_address: Folke Bernadottes Vei 38 5020 Bergen
+  branch_code: XXX
+  city: Bergen
+  country: Norway
+- name: Skudenes And Aakra Sparebank
+  swift: SKAANO21XXX
+  swift8: SKAANO21
+  branch_name: Head Office
+  branch_address: Akraveien 1 4296 Akrehamn
+  branch_code: XXX
+  city: Akrehamn
+  country: Norway
+- name: Sogne Og Greipstad Sparebank
+  swift: SOGSNO21XXX
+  swift8: SOGSNO21
+  branch_name: Head Office
+  branch_address: Radhusveien 39 4640 Soegne
+  branch_code: XXX
+  city: Soegne
+  country: Norway
+- name: Soknedal Sparebank
+  swift: SOKNNO21XXX
+  swift8: SOKNNO21
+  branch_name: Head Office
+  branch_address: 7288 Soknedal
+  branch_code: XXX
+  city: Soknedal
+  country: Norway
+- name: Sparebank 1 Gudbrandsdal
+  swift: SGFSNO21XXX
+  swift8: SGFSNO21
+  branch_name: Head Office
+  branch_address: Nedregate 69 2640 Vinstra
+  branch_code: XXX
+  city: Vinstra
+  country: Norway
+- name: Sparebank 1 Hallingdal
+  swift: HAALNO21GOL
+  swift8: HAALNO21
+  branch_name: 3551 Gol
+  branch_address: 3551 Gol
+  branch_code: GOL
+  city: Gol
+  country: Norway
+- name: Sparebank 1 Hallingdal
+  swift: HAALNO21HEM
+  swift8: HAALNO21
+  branch_name: 3561 Hemsedal
+  branch_address: 3561 Hemsedal
+  branch_code: HEM
+  city: Hemsedal
+  country: Norway
+- name: Sparebank 1 Hallingdal
+  swift: HAALNO21XXX
+  swift8: HAALNO21
+  branch_name: Head Office
+  branch_address: Myren 41 3517 Al
+  branch_code: XXX
+  city: Al
+  country: Norway
+- name: Sparebank 1 Markets As
+  swift: AREUNOK1XXX
+  swift8: AREUNOK1
+  branch_name: Head Office
+  branch_address: Olav Vs Gt. 5 0161 Oslo
+  branch_code: XXX
+  city: Oslo
+  country: Norway
+- name: Sparebank 1 Nordvest
+  swift: NORVNO21XXX
+  swift8: NORVNO21
+  branch_name: Head Office
+  branch_address: Langveien 21 6509 Kristiansund N
+  branch_code: XXX
+  city: Kristiansund N
+  country: Norway
+- name: Sparebank 1 Verdipapirservice As
+  swift: SPVDNOK1XXX
+  swift8: SPVDNOK1
+  branch_name: Head Office
+  branch_address: Hammersborggt. 2 0181 Oslo
+  branch_code: XXX
+  city: Oslo
+  country: Norway
+- name: Sparebank 1 Vestfold
+  swift: VEFONO21XXX
+  swift8: VEFONO21
+  branch_name: Head Office
+  branch_address: Jernbanealleen 23/25 3201 Sandefjord
+  branch_code: XXX
+  city: Sandefjord
+  country: Norway
+- name: Sparebanken Flora Bremanger
+  swift: FLOENO21XXX
+  swift8: FLOENO21
+  branch_name: Head Office
+  branch_address: Strandgt 6901 Floroe
+  branch_code: XXX
+  city: Floroe
+  country: Norway
+- name: Sparebanken Hemne
+  swift: HEMNNO21XXX
+  swift8: HEMNNO21
+  branch_name: Head Office
+  branch_address: Oragata 5 7200 Kyrksaeteroera
+  branch_code: XXX
+  city: Kyrksaeteroera
+  country: Norway
+- name: Sparebanken Narvik
+  swift: NARVNO21XXX
+  swift8: NARVNO21
+  branch_name: Head Office
+  branch_address: Kongensgate 24 Og 34 8502 Narvik
+  branch_code: XXX
+  city: Narvik
+  country: Norway
+- name: Sparebanken Ost
+  swift: SPOENO21XXX
+  swift8: SPOENO21
+  branch_name: Head Office
+  branch_address: Bragernes Torg 2 3300 Hokksund
+  branch_code: XXX
+  city: Hokksund
+  country: Norway
+- name: Sparebanken Rana
+  swift: SPNANO21XXX
+  swift8: SPNANO21
+  branch_name: Head Office
+  branch_address: Jembanegt 15 8601 Mo I Rana
+  branch_code: XXX
+  city: Mo I Rana
+  country: Norway
+- name: Sparebanken Telemark
+  swift: SPTLNO21XXX
+  swift8: SPTLNO21
+  branch_name: Head Office
+  branch_address: Torggaten 13 3701 Skien
+  branch_code: XXX
+  city: Skien
+  country: Norway
+- name: Spareskillingsbanken Kristiansand S
+  swift: SPSKNO21XXX
+  swift8: SPSKNO21
+  branch_name: Head Office
+  branch_address: Festningsgata 11 4662 Kristiansand S
+  branch_code: XXX
+  city: Kristiansand S
+  country: Norway
+- name: Spydeberg Sparebank
+  swift: SPYDNO21XXX
+  swift8: SPYDNO21
+  branch_name: Head Office
+  branch_address: Stasjonsgata 29 1820 Spydeberg
+  branch_code: XXX
+  city: Spydeberg
+  country: Norway
+- name: Stadsbygd Sparebank
+  swift: STADNO21XXX
+  swift8: STADNO21
+  branch_name: Head Office
+  branch_address: Valsaa 7105 Stadsbygd
+  branch_code: XXX
+  city: Stadsbygd
+  country: Norway
+- name: Statkraft As
+  swift: STKFNOK1XXX
+  swift8: STKFNOK1
+  branch_name: Head Office
+  branch_address: Lilleakerveien 6 0283 Oslo
+  branch_code: XXX
+  city: Oslo
+  country: Norway
+- name: Statoil Asa
+  swift: SASANO22XXX
+  swift8: SASANO22
+  branch_name: No branch name
+  branch_address: No branch address
+  branch_code: XXX
+  city: Stavanger
+  country: Norway
+- name: Statoil Asa
+  swift: SASANO21XXX
+  swift8: SASANO21
+  branch_name: Head Office
+  branch_address: 50 Forusbeen 4035 Stavanger
+  branch_code: XXX
+  city: Stavanger
+  country: Norway
+- name: Statoil Kapitalforvaltning Asa
+  swift: STKSNO22XXX
+  swift8: STKSNO22
+  branch_name: No branch name
+  branch_address: No branch address
+  branch_code: XXX
+  city: Stavanger
+  country: Norway
+- name: Statoil Kapitalforvaltning Asa
+  swift: STKSNO21XXX
+  swift8: STKSNO21
+  branch_name: Head Office
+  branch_address: Forusbeen 50 4035 Stavanger
+  branch_code: XXX
+  city: Stavanger
+  country: Norway
+- name: Stavanger Fondsforvaltning As
+  swift: STFONOK1XXX
+  swift8: STFONOK1
+  branch_name: Head Office
+  branch_address: Skagen 3 4006 Stavanger
+  branch_code: XXX
+  city: Stavanger
+  country: Norway
+- name: Storebrand Bank Asa
+  swift: STFBNOKKXXX
+  swift8: STFBNOKK
+  branch_name: Head Office
+  branch_address: Professor Kohts Vei Lysaker 9 1327 Oslo
+  branch_code: XXX
+  city: Oslo
+  country: Norway
+- name: Storebrand Bank Asa
+  swift: STFBNOK1XXX
+  swift8: STFBNOK1
+  branch_name: Head Office
+  branch_address: Filipstad Brygge 1 0120 Oslo
+  branch_code: XXX
+  city: Oslo
+  country: Norway
+- name: Storebrand Kapitalforvaltning
+  swift: STKTNOK1000
+  swift8: STKTNOK1
+  branch_name: Oslo
+  branch_address: Oslo
+  branch_code: '000'
+  city: Oslo
+  country: Norway
+- name: Storebrand Kapitalforvaltning
+  swift: STKTNOK1001
+  swift8: STKTNOK1
+  branch_name: Oslo
+  branch_address: Oslo
+  branch_code: '001'
+  city: Oslo
+  country: Norway
+- name: Storebrand Kapitalforvaltning
+  swift: STKTNOK1002
+  swift8: STKTNOK1
+  branch_name: Spp Equity Europe
+  branch_address: Oslo
+  branch_code: '002'
+  city: Oslo
+  country: Norway
+- name: Storebrand Kapitalforvaltning
+  swift: STKTNOK1003
+  swift8: STKTNOK1
+  branch_name: Oslo
+  branch_address: Oslo
+  branch_code: '003'
+  city: Oslo
+  country: Norway
+- name: Storebrand Kapitalforvaltning
+  swift: STKTNOK1004
+  swift8: STKTNOK1
+  branch_name: Spp Equity Emergimg Markets
+  branch_address: Oslo
+  branch_code: '004'
+  city: Oslo
+  country: Norway
+- name: Storebrand Kapitalforvaltning
+  swift: STKTNOK1005
+  swift8: STKTNOK1
+  branch_name: Spp Private Equity
+  branch_address: Oslo
+  branch_code: '005'
+  city: Oslo
+  country: Norway
+- name: Storebrand Kapitalforvaltning
+  swift: STKTNOK1006
+  swift8: STKTNOK1
+  branch_name: Spp Goverment Bonds
+  branch_address: Oslo
+  branch_code: '006'
+  city: Oslo
+  country: Norway
+- name: Storebrand Kapitalforvaltning
+  swift: STKTNOK1007
+  swift8: STKTNOK1
+  branch_name: Spp Index Linked Bonds
+  branch_address: Oslo
+  branch_code: '007'
+  city: Oslo
+  country: Norway
+- name: Storebrand Kapitalforvaltning
+  swift: STKTNOK1008
+  swift8: STKTNOK1
+  branch_name: Spp Mortgage Bonds
+  branch_address: Oslo
+  branch_code: '008'
+  city: Oslo
+  country: Norway
+- name: Storebrand Kapitalforvaltning
+  swift: STKTNOK1009
+  swift8: STKTNOK1
+  branch_name: Spp Credit Bonds
+  branch_address: Oslo
+  branch_code: '009'
+  city: Oslo
+  country: Norway
+- name: Storebrand Kapitalforvaltning
+  swift: STKTNOK100A
+  swift8: STKTNOK1
+  branch_name: Spp Goverment Guaranted Bonds
+  branch_address: Oslo
+  branch_code: 00A
+  city: Oslo
+  country: Norway
+- name: Storebrand Kapitalforvaltning
+  swift: STKTNOK100B
+  swift8: STKTNOK1
+  branch_name: Spp Unrated Bonds
+  branch_address: Oslo
+  branch_code: 00B
+  city: Oslo
+  country: Norway
+- name: Storebrand Kapitalforvaltning
+  swift: STKTNOK100C
+  swift8: STKTNOK1
+  branch_name: Spp Match Ap
+  branch_address: Oslo
+  branch_code: 00C
+  city: Oslo
+  country: Norway
+- name: Storebrand Kapitalforvaltning
+  swift: STKTNOK100D
+  swift8: STKTNOK1
+  branch_name: Spp Money Market Instruments
+  branch_address: Oslo
+  branch_code: 00D
+  city: Oslo
+  country: Norway
+- name: Storebrand Kapitalforvaltning
+  swift: STKTNOK100E
+  swift8: STKTNOK1
+  branch_name: Spp Absolute Return
+  branch_address: Oslo
+  branch_code: 00E
+  city: Oslo
+  country: Norway
+- name: Storebrand Kapitalforvaltning
+  swift: STKTNOK100F
+  swift8: STKTNOK1
+  branch_name: Spp Real Estate
+  branch_address: Oslo
+  branch_code: 00F
+  city: Oslo
+  country: Norway
+- name: Storebrand Kapitalforvaltning
+  swift: STKTNOK100G
+  swift8: STKTNOK1
+  branch_name: Spp Commodities
+  branch_address: Oslo
+  branch_code: 00G
+  city: Oslo
+  country: Norway
+- name: Storebrand Kapitalforvaltning
+  swift: STKTNOK100H
+  swift8: STKTNOK1
+  branch_name: Spp Infrastructure
+  branch_address: Oslo
+  branch_code: 00H
+  city: Oslo
+  country: Norway
+- name: Storebrand Kapitalforvaltning
+  swift: STKTNOK100I
+  swift8: STKTNOK1
+  branch_name: Spp 250
+  branch_address: Oslo
+  branch_code: 00I
+  city: Oslo
+  country: Norway
+- name: Storebrand Kapitalforvaltning
+  swift: STKTNOK100J
+  swift8: STKTNOK1
+  branch_name: Spp 300
+  branch_address: Oslo
+  branch_code: 00J
+  city: Oslo
+  country: Norway
+- name: Strommen Sparebank
+  swift: STMMNO21XXX
+  swift8: STMMNO21
+  branch_name: Head Office
+  branch_address: Stromsveien 65 2010 Stroemmen
+  branch_code: XXX
+  city: Stroemmen
+  country: Norway
+- name: Sundal Collier And Co As
+  swift: SUCONOK1XXX
+  swift8: SUCONOK1
+  branch_name: Head Office
+  branch_address: Munkedamsv 45 Vika Atrium 250 Oslo
+  branch_code: XXX
+  city: Oslo
+  country: Norway
+- name: Sunndal Sparebank
+  swift: SUSANO21XXX
+  swift8: SUSANO21
+  branch_name: Head Office
+  branch_address: Sunndalsveien 15 6600 Sunndalsora
+  branch_code: XXX
+  city: Sunndalsora
+  country: Norway
+- name: Surnadal Sparebank
+  swift: SURSNO21XXX
+  swift8: SURSNO21
+  branch_name: Head Office
+  branch_address: Bardshaugvegen 3 6656 Surnadal
+  branch_code: XXX
+  city: Surnadal
+  country: Norway
+- name: Telenor Asa
+  swift: TEORNO22XXX
+  swift8: TEORNO22
+  branch_name: Head Office
+  branch_address: Snaroyveien 30 1331 Fornebu
+  branch_code: XXX
+  city: Fornebu
+  country: Norway
+- name: Teller As
+  swift: TELRNOK1XXX
+  swift8: TELRNOK1
+  branch_name: Head Office
+  branch_address: Hoffsveien 1 0213 Oslo
+  branch_code: XXX
+  city: Oslo
+  country: Norway
+- name: Terra Fonds Asa
+  swift: TRFANOK1XXX
+  swift8: TRFANOK1
+  branch_name: Head Office
+  branch_address: Munkedamsvn. 35 0201 Oslo
+  branch_code: XXX
+  city: Oslo
+  country: Norway
+- name: Terra Kortbank As
+  swift: TEKONOK1XXX
+  swift8: TEKONOK1
+  branch_name: Head Office
+  branch_address: Munkedamsveien 35 0201 Oslo
+  branch_code: XXX
+  city: Oslo
+  country: Norway
+- name: Terra Markets
+  swift: ORSANOK1XXX
+  swift8: ORSANOK1
+  branch_name: Head Office
+  branch_address: Parkveien 61 0201 Oslo
+  branch_code: XXX
+  city: Oslo
+  country: Norway
+- name: Time Sparebank
+  swift: TMSPNO21XXX
+  swift8: TMSPNO21
+  branch_name: Head Office
+  branch_address: Jernbanegata 6 4349 Bryne
+  branch_code: XXX
+  city: Bryne
+  country: Norway
+- name: Tingvoll Sparebank
+  swift: TGVLNO21XXX
+  swift8: TGVLNO21
+  branch_name: Head Office
+  branch_address: 6630 Tingvoll
+  branch_code: XXX
+  city: Tingvoll
+  country: Norway
+- name: Tinn Sparebank
+  swift: TINNNO21XXX
+  swift8: TINNNO21
+  branch_name: Head Office
+  branch_address: Sam Eydes Gate 89 3660 Rjukan
+  branch_code: XXX
+  city: Rjukan
+  country: Norway
+- name: Tjeldsund Sparebank
+  swift: TJELNO21XXX
+  swift8: TJELNO21
+  branch_name: Head Office
+  branch_address: 9442 Ramsund
+  branch_code: XXX
+  city: Ramsund
+  country: Norway
+- name: Tolga-os Sparebank
+  swift: TOSPNO21XXX
+  swift8: TOSPNO21
+  branch_name: Head Office
+  branch_address: Brugata 2540 Tolga
+  branch_code: XXX
+  city: Tolga
+  country: Norway
+- name: Totens Sparebank
+  swift: TOTENO21XXX
+  swift8: TOTENO21
+  branch_name: Head Office
+  branch_address: Storgata 2851 Lena
+  branch_code: XXX
+  city: Lena
+  country: Norway
+- name: Trogstad Sparebank
+  swift: TRSPNO21XXX
+  swift8: TRSPNO21
+  branch_name: Head Office
+  branch_address: Torget 5 Trogstad
+  branch_code: XXX
+  city: Trogstad
+  country: Norway
+- name: Tysnes Sparebank
+  swift: TYSSNO21XXX
+  swift8: TYSSNO21
+  branch_name: Head Office
+  branch_address: Uggdal
+  branch_code: XXX
+  city: Uggdal
+  country: Norway
+- name: Valle Sparebank
+  swift: VSPANO21XXX
+  swift8: VSPANO21
+  branch_name: Head Office
+  branch_address: Sagneskar 4747 Valle
+  branch_code: XXX
+  city: Valle
+  country: Norway
+- name: Vang Sparebank
+  swift: VASPNO21XXX
+  swift8: VASPNO21
+  branch_name: Head Office
+  branch_address: 2975 Vang I Valdres
+  branch_code: XXX
+  city: Vang I Valdres
+  country: Norway
+- name: Vegarshei Sparebank
+  swift: VESPNO21XXX
+  swift8: VESPNO21
+  branch_name: Head Office
+  branch_address: Myra 4985 Vegarshei
+  branch_code: XXX
+  city: Vegarshei
+  country: Norway
+- name: Verdibanken Asa
+  swift: VERDNOK1XXX
+  swift8: VERDNOK1
+  branch_name: Head Office
+  branch_address: Stensberggata 25 129 Oslo
+  branch_code: XXX
+  city: Oslo
+  country: Norway
+- name: Vestre Slidre Sparebank
+  swift: VESLNO21XXX
+  swift8: VESLNO21
+  branch_name: Head Office
+  branch_address: 2966 Slidre
+  branch_code: XXX
+  city: Slidre
+  country: Norway
+- name: Vik Sparebank
+  swift: VISRNO21XXX
+  swift8: VISRNO21
+  branch_name: Head Office
+  branch_address: Vikjatunet 6891 Vikisogn
+  branch_code: XXX
+  city: Vikisogn
+  country: Norway
+- name: Volda Og Orsta Sparebank
+  swift: VOLDNO21XXX
+  swift8: VOLDNO21
+  branch_name: Head Office
+  branch_address: Gymnasvn 2 6101 Volda
+  branch_code: XXX
+  city: Volda
+  country: Norway
+- name: Voss Sparebank
+  swift: VOSKNO21XXX
+  swift8: VOSKNO21
+  branch_name: Head Office
+  branch_address: Vangsgata 18 5700 Voss
+  branch_code: XXX
+  city: Voss
+  country: Norway
+- name: Voss Veksel-og Landmandsbank Asa
+  swift: VVELNO21XXX
+  swift8: VVELNO21
+  branch_name: Head Office
+  branch_address: Vangsgata 24 Voss
+  branch_code: XXX
+  city: Voss
+  country: Norway
+- name: Warren Bank As
+  swift: NODENO21XXX
+  swift8: NODENO21
+  branch_name: Head Office
+  branch_address: Postboks 656 Sentrum 0106 Oslo
+  branch_code: XXX
+  city: Oslo
+  country: Norway
+- name: Warren Bank As
+  swift: WARRNOK1XXX
+  swift8: WARRNOK1
+  branch_name: Head Office
+  branch_address: Hieronymus Heyerdahlsgate 1 0106 Oslo
+  branch_code: XXX
+  city: Oslo
+  country: Norway
+- name: Ya Bank As
+  swift: YABANOK1XXX
+  swift8: YABANOK1
+  branch_name: Head Office
+  branch_address: Fridtjof Nansens Vei 19 369 Oslo
+  branch_code: XXX
+  city: Oslo
+  country: Norway

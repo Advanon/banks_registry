@@ -1,0 +1,778 @@
+---
+BS:
+- name: Citicorp Banking Corporation
+  swift: CITIBSN1XXX
+  swift8: CITIBSN1
+  branch_name: Head Office
+  branch_address: Thompson Boulevard at Oakes Field Nassau
+  branch_code: XXX
+  city: Nassau
+  country: Bahamas
+- name: Hsbc Private Bank (Suisse) Sa
+  swift: BLICBSN1XXX
+  swift8: BLICBSN1
+  branch_name: Head Office
+  branch_address: Centre of Commerce Nassau
+  branch_code: XXX
+  city: Nassau
+  country: Bahamas
+- name: Adanac Investment Co Ltd.
+  swift: ADAIBSF1XXX
+  swift8: ADAIBSF1
+  branch_name: Head Office
+  branch_address: Freeport
+  branch_code: XXX
+  city: Freeport
+  country: Bahamas
+- name: Alliance Bank And Trust
+  swift: ABATBSN1XXX
+  swift8: ABATBSN1
+  branch_name: Head Office
+  branch_address: Providence House Nassau
+  branch_code: XXX
+  city: Nassau
+  country: Bahamas
+- name: Allied Bank And Trust Company (bahamas) Limited
+  swift: ALBTBSN1XXX
+  swift8: ALBTBSN1
+  branch_name: Head Office
+  branch_address: Providence House, East Hill Nassau
+  branch_code: XXX
+  city: Nassau
+  country: Bahamas
+- name: Andbanc (bahamas) Limited
+  swift: BACABSNSXXX
+  swift8: BACABSNS
+  branch_name: Head Office
+  branch_address: British Colonial Centre of Nassau
+  branch_code: XXX
+  city: Nassau
+  country: Bahamas
+- name: Ansbacher (bahamas) Limited
+  swift: BITCBSNSXXX
+  swift8: BITCBSNS
+  branch_name: Head Office
+  branch_address: Bitco Building Nassau
+  branch_code: XXX
+  city: Nassau
+  country: Bahamas
+- name: Arner Bank And Trust (bahamas) Ltd.
+  swift: ARNEBSN1XXX
+  swift8: ARNEBSN1
+  branch_name: Head Office
+  branch_address: Bolam House Nassau
+  branch_code: XXX
+  city: Nassau
+  country: Bahamas
+- name: Bahamas Development Bank
+  swift: BAHDBSN1XXX
+  swift8: BAHDBSN1
+  branch_name: Head Office
+  branch_address: Bay Street at Rawson Square Nassau
+  branch_code: XXX
+  city: Nassau
+  country: Bahamas
+- name: Banca Del Sempione (overseas) Ltd
+  swift: BASEBSNSXXX
+  swift8: BASEBSNS
+  branch_name: Head Office
+  branch_address: George House Nassau
+  branch_code: XXX
+  city: Nassau
+  country: Bahamas
+- name: Banco Bilbao Vizcaya
+  swift: BBVIBSN1XXX
+  swift8: BBVIBSN1
+  branch_name: Head Office
+  branch_address: West Bay Street Nassau
+  branch_code: XXX
+  city: Nassau
+  country: Bahamas
+- name: Banco De Bogota (nassau) Ltd.
+  swift: BBOGBSNXXXX
+  swift8: BBOGBSNX
+  branch_name: Head Office
+  branch_address: Goodmans Bay Corporate Centre Nassau
+  branch_code: XXX
+  city: Nassau
+  country: Bahamas
+- name: Banco Itau Bba S.a.-nassau Branch
+  swift: CBBABSNSBNF
+  swift8: CBBABSNS
+  branch_name: Cash Customers Tranfs
+  branch_address: Nassau
+  branch_code: BNF
+  city: Nassau
+  country: Bahamas
+- name: Banco Itau Bba S.a.-nassau Branch
+  swift: CBBABSNSGCH
+  swift8: CBBABSNS
+  branch_name: Nassau
+  branch_address: Nassau
+  branch_code: GCH
+  city: Nassau
+  country: Bahamas
+- name: Banco Itau Bba S.a.-nassau Branch
+  swift: CBBABSNSXXX
+  swift8: CBBABSNS
+  branch_name: Head Office
+  branch_address: West Bay Street Nassau
+  branch_code: XXX
+  city: Nassau
+  country: Bahamas
+- name: Banco Popular International Ltd.
+  swift: BPOIBSN1XXX
+  swift8: BPOIBSN1
+  branch_name: Head Office
+  branch_address: Harbour Front Building Nassau
+  branch_code: XXX
+  city: Nassau
+  country: Bahamas
+- name: Banco Santander Bahamas International Limited
+  swift: BSCHBSN1XXX
+  swift8: BSCHBSN1
+  branch_name: Head Office
+  branch_address: George and King Streets Nassau
+  branch_code: XXX
+  city: Nassau
+  country: Bahamas
+- name: Banco Santander Bahamas International Limited
+  swift: BSCHBSNXXXX
+  swift8: BSCHBSNX
+  branch_name: Head Office
+  branch_address: George and King Streets Nassau
+  branch_code: XXX
+  city: Nassau
+  country: Bahamas
+- name: Banco Santander Bahamas Intl. Ltd.
+  swift: SCHTBSNSXXX
+  swift8: SCHTBSNS
+  branch_name: Head Office
+  branch_address: Bahamas Financial Centre Nassau
+  branch_code: XXX
+  city: Nassau
+  country: Bahamas
+- name: Banco Votorantim S/a-nassau Branch
+  swift: BAVOBSNSXXX
+  swift8: BAVOBSNS
+  branch_name: Head Office
+  branch_address: Centre of Commerce, Hilton Building Nassau
+  branch_code: XXX
+  city: Nassau
+  country: Bahamas
+- name: Bank J. Safra Sarasin (bahamas) Ltd.
+  swift: BSAFBSNSXXX
+  swift8: BSAFBSNS
+  branch_name: Head Office
+  branch_address: Bayside Executive Park 4895 Nassau
+  branch_code: XXX
+  city: Nassau
+  country: Bahamas
+- name: Bank Of Baroda, Offshorebanking Unit, Nassau, Bahamas
+  swift: BARBBSNSXXX
+  swift8: BARBBSNS
+  branch_name: Head Office
+  branch_address: Pilot House Building Nassau
+  branch_code: XXX
+  city: Nassau
+  country: Bahamas
+- name: Bank Of Nova Scotia Trust Company (bahamas) Ltd,the
+  swift: NOSCBSNTXXX
+  swift8: NOSCBSNT
+  branch_name: Head Office
+  branch_address: Scotiabank Building Nassau
+  branch_code: XXX
+  city: Nassau
+  country: Bahamas
+- name: Bank Of The Bahamas Limited
+  swift: BOTBBSNS0FR
+  swift8: BOTBBSNS
+  branch_name: Freeport
+  branch_address: Bank Lane and Woodstock Streets Freeport
+  branch_code: 0FR
+  city: Freeport
+  country: Bahamas
+- name: Bank Of The Bahamas Limited
+  swift: BOTBBSNS0N2
+  swift8: BOTBBSNS
+  branch_name: Inagua
+  branch_address: Matthew Town Inagua
+  branch_code: 0N2
+  city: Inagua
+  country: Bahamas
+- name: Bank Of The Bahamas Limited
+  swift: BOTBBSNS0N3
+  swift8: BOTBBSNS
+  branch_name: Main Branch
+  branch_address: Euro Canadian Centre Nassau
+  branch_code: 0N3
+  city: Nassau
+  country: Bahamas
+- name: Bank Of The Bahamas Limited
+  swift: BOTBBSNSXXX
+  swift8: BOTBBSNS
+  branch_name: Head Office
+  branch_address: Claughton House 7118 Nassau
+  branch_code: XXX
+  city: Nassau
+  country: Bahamas
+- name: Bankamerica Trust Banking Corporation (bahamas) Limited
+  swift: BOFABSN1XXX
+  swift8: BOFABSN1
+  branch_name: Head Office
+  branch_address: Bank America House Nassau
+  branch_code: XXX
+  city: Nassau
+  country: Bahamas
+- name: Banque Privee Edmond De Rothschild Ltd.
+  swift: PRIBBSNSXXX
+  swift8: PRIBBSNS
+  branch_name: Head Office
+  branch_address: 51 Frederick Street Nassau
+  branch_code: XXX
+  city: Nassau
+  country: Bahamas
+- name: Bbm Bank Limited
+  swift: BBINBSN1XXX
+  swift8: BBINBSN1
+  branch_name: Head Office
+  branch_address: Shirley House Nassau
+  branch_code: XXX
+  city: Nassau
+  country: Bahamas
+- name: Bsi Overseas (bahamas) Limited
+  swift: BSIOBSNXXXX
+  swift8: BSIOBSNX
+  branch_name: Head Office
+  branch_address: Bayside Executive Park Nassau
+  branch_code: XXX
+  city: Nassau
+  country: Bahamas
+- name: Cbh (bahamas) Ltd.
+  swift: BSSABSNSXXX
+  swift8: BSSABSNS
+  branch_name: Head Office
+  branch_address: Cbh House Nassau
+  branch_code: XXX
+  city: Nassau
+  country: Bahamas
+- name: Central Bank Of The Bahamas,the
+  swift: CBBHBSNSXXX
+  swift8: CBBHBSNS
+  branch_name: Head Office
+  branch_address: Frederick Street 4868 Nassau
+  branch_code: XXX
+  city: Nassau
+  country: Bahamas
+- name: Chase Manhattan Trust Corporation Limited
+  swift: CHASBSN1XXX
+  swift8: CHASBSN1
+  branch_name: Head Office
+  branch_address: Nassau
+  branch_code: XXX
+  city: Nassau
+  country: Bahamas
+- name: Cibc Trust Company (bahamas) Ltd Solomon's Building
+  swift: CIBCBSNBXXX
+  swift8: CIBCBSNB
+  branch_name: Head Office
+  branch_address: Goodman Bay Corp Center Nassau
+  branch_code: XXX
+  city: Nassau
+  country: Bahamas
+- name: Citco Bank And Trust Company (bahamas) Ltd.
+  swift: CITCBSNSXXX
+  swift8: CITCBSNS
+  branch_name: Head Office
+  branch_address: Montague Place Nassau
+  branch_code: XXX
+  city: Nassau
+  country: Bahamas
+- name: Citibank Na
+  swift: CITIBSNATPS
+  swift8: CITIBSNA
+  branch_name: Cititrust Bahamas Third Party Statements
+  branch_address: Nassau
+  branch_code: TPS
+  city: Nassau
+  country: Bahamas
+- name: Citibank Na
+  swift: CITIBSNAXXX
+  swift8: CITIBSNA
+  branch_name: Head Office
+  branch_address: 110 Thompson Blvd. Nassau
+  branch_code: XXX
+  city: Nassau
+  country: Bahamas
+- name: Cititrust (bahamas) Ltd.
+  swift: CIBABSN1XXX
+  swift8: CIBABSN1
+  branch_name: Head Office
+  branch_address: Thompson Boulevard Nassau
+  branch_code: XXX
+  city: Nassau
+  country: Bahamas
+- name: Commonwealth Bank Limited
+  swift: COMWBSNSXXX
+  swift8: COMWBSNS
+  branch_name: Head Office
+  branch_address: The Plaza Ss-5541 Nassau
+  branch_code: XXX
+  city: Nassau
+  country: Bahamas
+- name: Credit Suisse Ag, Nassau Branch
+  swift: CRESBSNSSIP
+  swift8: CRESBSNS
+  branch_name: Structured Products
+  branch_address: Nassau
+  branch_code: SIP
+  city: Nassau
+  country: Bahamas
+- name: Credit Suisse Ag, Nassau Branch
+  swift: CRESBSNSXXX
+  swift8: CRESBSNS
+  branch_name: Nassau Branch
+  branch_address: The Bahamas Financial Centre Nassau
+  branch_code: XXX
+  city: Nassau
+  country: Bahamas
+- name: Credit Suisse Ag, Nassau Branch, Latam Investment Banking
+  swift: GBLIBSNXXXX
+  swift8: GBLIBSNX
+  branch_name: Head Office
+  branch_address: The Bahamas Financial Centre Nassau
+  branch_code: XXX
+  city: Nassau
+  country: Bahamas
+- name: Credit Suisse Ag, Nassau Branch, Private Banking
+  swift: CRESBSNSCRE
+  swift8: CRESBSNS
+  branch_name: Private Banking
+  branch_address: Nassau
+  branch_code: CRE
+  city: Nassau
+  country: Bahamas
+- name: Credit Suisse Ag, Nassau Branch, Treasury And Issuance
+  swift: CRESBSNSNAS
+  swift8: CRESBSNS
+  branch_name: Nassau Branch
+  branch_address: Nassau
+  branch_code: NAS
+  city: Nassau
+  country: Bahamas
+- name: Credit Suisse Ag, Nassau Branch, Wealth Management
+  swift: CRESBSNXXXX
+  swift8: CRESBSNX
+  branch_name: Head Office
+  branch_address: Bahamas Financial Centre Nassau
+  branch_code: XXX
+  city: Nassau
+  country: Bahamas
+- name: Credit Suisse Brazil (bahamas) Limited
+  swift: BIGABSNSXXX
+  swift8: BIGABSNS
+  branch_name: Head Office
+  branch_address: Bahamas Financial Centre Nassau
+  branch_code: XXX
+  city: Nassau
+  country: Bahamas
+- name: Deltec Bank And Trust Limited
+  swift: DBTLBSNSXXX
+  swift8: DBTLBSNS
+  branch_name: Head Office
+  branch_address: Deltec House Nassau
+  branch_code: XXX
+  city: Nassau
+  country: Bahamas
+- name: Efg Bank And Trust (bahamas) Ltd
+  swift: EFGBBSNSXXX
+  swift8: EFGBBSNS
+  branch_name: Head Office
+  branch_address: Center of Commerce Nassau
+  branch_code: XXX
+  city: Nassau
+  country: Bahamas
+- name: European Investments Management Limited
+  swift: EIMLBSN1XXX
+  swift8: EIMLBSN1
+  branch_name: Head Office
+  branch_address: Marlborough Street Nassau
+  branch_code: XXX
+  city: Nassau
+  country: Bahamas
+- name: Fidelity Bank (bahamas) Limited
+  swift: BTAMBSNSXXX
+  swift8: BTAMBSNS
+  branch_name: Head Office
+  branch_address: Fidelity House Nassau
+  branch_code: XXX
+  city: Nassau
+  country: Bahamas
+- name: Finance Corporation Of Bahamas Ltd.
+  swift: FICBBSN10N2
+  swift8: FICBBSN1
+  branch_name: Palmdale Branch
+  branch_address: Palmdale Branch Nassau
+  branch_code: 0N2
+  city: Nassau
+  country: Bahamas
+- name: Finance Corporation Of Bahamas Ltd.
+  swift: FICBBSN10N3
+  swift8: FICBBSN1
+  branch_name: Robinson Road Branch
+  branch_address: Robinson Road and Key West Street Nassau
+  branch_code: 0N3
+  city: Nassau
+  country: Bahamas
+- name: Finance Corporation Of Bahamas Ltd.
+  swift: FICBBSN10N4
+  swift8: FICBBSN1
+  branch_name: Freeport Branch
+  branch_address: Regent Centre Freeport
+  branch_code: 0N4
+  city: Freeport
+  country: Bahamas
+- name: Finance Corporation Of Bahamas Ltd.
+  swift: FICBBSN1XXX
+  swift8: FICBBSN1
+  branch_name: Main Branch
+  branch_address: Main Branch Nassau
+  branch_code: XXX
+  city: Nassau
+  country: Bahamas
+- name: First Overseas Bank Limited
+  swift: FOBLBSNSXXX
+  swift8: FOBLBSNS
+  branch_name: Head Office
+  branch_address: S.G. Hambros Building 4779 Nassau
+  branch_code: XXX
+  city: Nassau
+  country: Bahamas
+- name: Firstcaribbean International Bank (bahamas) Limited
+  swift: FCIBBSNSXXX
+  swift8: FCIBBSNS
+  branch_name: Head Office
+  branch_address: Solomon Building Nassau
+  branch_code: XXX
+  city: Nassau
+  country: Bahamas
+- name: Gilingam Bank And Trust Ltd.
+  swift: GLNGBSN1XXX
+  swift8: GLNGBSN1
+  branch_name: Head Office
+  branch_address: Centreville House 7543 Nassau
+  branch_code: XXX
+  city: Nassau
+  country: Bahamas
+- name: Gonet Bank And Trust Limited
+  swift: GONEBSNSXXX
+  swift8: GONEBSNS
+  branch_name: Head Office
+  branch_address: Offices of Old Fort 61302 Nassau
+  branch_code: XXX
+  city: Nassau
+  country: Bahamas
+- name: Hang Seng Bank (bahamas) Ltd.
+  swift: HASEBSN1XXX
+  swift8: HASEBSN1
+  branch_name: Head Office
+  branch_address: Euro-Canadian Centre Nassau
+  branch_code: XXX
+  city: Nassau
+  country: Bahamas
+- name: Hottinger Bank And Trust Limited
+  swift: HOBTBSNSXXX
+  swift8: HOBTBSNS
+  branch_name: Head Office
+  branch_address: Lyford Manor Nassau
+  branch_code: XXX
+  city: Nassau
+  country: Bahamas
+- name: Hsbc Nominees Nassau Ltd.
+  swift: HSNNBSN1XXX
+  swift8: HSNNBSN1
+  branch_name: Head Office
+  branch_address: Claughton House Nassau
+  branch_code: XXX
+  city: Nassau
+  country: Bahamas
+- name: J. Safra Bank (bahamas) Limited
+  swift: JSBBBSN1XXX
+  swift8: JSBBBSN1
+  branch_name: Head Office
+  branch_address: Shirley Street 3 4895 Nassau
+  branch_code: XXX
+  city: Nassau
+  country: Bahamas
+- name: Julius Baer Bank And Trust (bahamas) Limited
+  swift: JBBTBSNSXXX
+  swift8: JBBTBSNS
+  branch_name: Head Office
+  branch_address: Ocean Centre Nassau
+  branch_code: XXX
+  city: Nassau
+  country: Bahamas
+- name: Karla Derivatives Strategies Fund Ltd.
+  swift: KARLBSN1XXX
+  swift8: KARLBSN1
+  branch_name: Head Office
+  branch_address: Fort Nassau Centre Nassau
+  branch_code: XXX
+  city: Nassau
+  country: Bahamas
+- name: Kenforth Life Insurance Limited
+  swift: KENFBSNSXXX
+  swift8: KENFBSNS
+  branch_name: Head Office
+  branch_address: Winterbotham Place 3026 Nassau
+  branch_code: XXX
+  city: Nassau
+  country: Bahamas
+- name: Kenforth Life Insurance Limited
+  swift: KENFBSN1XXX
+  swift8: KENFBSN1
+  branch_name: Head Office
+  branch_address: Winterbotham Place 3026 Nassau
+  branch_code: XXX
+  city: Nassau
+  country: Bahamas
+- name: Lombard Odier And Cie (bahamas) Limited
+  swift: LOCYBSNSNDP
+  swift8: LOCYBSNS
+  branch_name: Ndp Dept
+  branch_address: Nassau
+  branch_code: NDP
+  city: Nassau
+  country: Bahamas
+- name: Lombard Odier And Cie (bahamas) Limited
+  swift: LOCYBSNSXXX
+  swift8: LOCYBSNS
+  branch_name: Head Office
+  branch_address: West Bay Street Nassau
+  branch_code: XXX
+  city: Nassau
+  country: Bahamas
+- name: Mc. Dermott International Investments Co. Ltd.
+  swift: DEIIBSN1XXX
+  swift8: DEIIBSN1
+  branch_name: Head Office
+  branch_address: Frederick House Nassau
+  branch_code: XXX
+  city: Nassau
+  country: Bahamas
+- name: Mmg Bank And Trust
+  swift: MMGBBSNSXXX
+  swift8: MMGBBSNS
+  branch_name: Head Office
+  branch_address: 50 Shierley Street Cb 13937 Nassau
+  branch_code: XXX
+  city: Nassau
+  country: Bahamas
+- name: Oceanic Bank And Trust Limited
+  swift: OBATBSN1XXX
+  swift8: OBATBSN1
+  branch_name: Head Office
+  branch_address: Tk House Nassau
+  branch_code: XXX
+  city: Nassau
+  country: Bahamas
+- name: Oceanic Bank And Trust Limited
+  swift: RAWTBSN1XXX
+  swift8: RAWTBSN1
+  branch_name: Head Office
+  branch_address: Bayside House Nassau
+  branch_code: XXX
+  city: Nassau
+  country: Bahamas
+- name: Pasche Bank And Trust Limited
+  swift: BPGEBSN1XXX
+  swift8: BPGEBSN1
+  branch_name: Head Office
+  branch_address: Bay Side Executive Park Nassau
+  branch_code: XXX
+  city: Nassau
+  country: Bahamas
+- name: Pictet Bank And Trust Limited
+  swift: PICTBSNXXXX
+  swift8: PICTBSNX
+  branch_name: Head Office
+  branch_address: Bayside Executive Park Nassau
+  branch_code: XXX
+  city: Nassau
+  country: Bahamas
+- name: Pnc Bank, N.a. Nassau Branch
+  swift: PNCCBSNSXXX
+  swift8: PNCCBSNS
+  branch_name: Head Office
+  branch_address: Ansbacher House Nassau
+  branch_code: XXX
+  city: Nassau
+  country: Bahamas
+- name: Private Investment Bank Limited
+  swift: DWCIBSNSXXX
+  swift8: DWCIBSNS
+  branch_name: Head Office
+  branch_address: Devonshire House 3918 Nassau
+  branch_code: XXX
+  city: Nassau
+  country: Bahamas
+- name: Rbc Royal Bank (bahamas) Limited (formerly Known As Royal Bank Of Canada Nassau
+  swift: ROYCBSN10FR
+  swift8: ROYCBSN1
+  branch_name: Freeport
+  branch_address: East Mall Drive and Explorers Way Freeport
+  branch_code: 0FR
+  city: Freeport
+  country: Bahamas
+- name: Rbc Royal Bank (bahamas) Limited (formerly Known As Royal Bank Of Canada Nassau
+  swift: ROYCBSNSFRE
+  swift8: ROYCBSNS
+  branch_name: Freeport Branch
+  branch_address: Freeport
+  branch_code: FRE
+  city: Freeport
+  country: Bahamas
+- name: Rbc Royal Bank (bahamas) Limited (formerly Known As Royal Bank Of Canada Nassau
+  swift: ROYCBSNSMAI
+  swift8: ROYCBSNS
+  branch_name: Main Branch
+  branch_address: Nassau
+  branch_code: MAI
+  city: Nassau
+  country: Bahamas
+- name: Rbc Royal Bank (bahamas) Limited (formerly Known As Royal Bank Of Canada Nassau
+  swift: ROYCBSNSPAL
+  swift8: ROYCBSNS
+  branch_name: Palmdale Branch
+  branch_address: Nassau
+  branch_code: PAL
+  city: Nassau
+  country: Bahamas
+- name: Rbc Royal Bank (bahamas) Limited (formerly Known As Royal Bank Of Canada Nassau
+  swift: ROYCBSNSXXX
+  swift8: ROYCBSNS
+  branch_name: All Offices
+  branch_address: Royal Bank House Nassau
+  branch_code: XXX
+  city: Nassau
+  country: Bahamas
+- name: Royal Bank Of Canada Trust Company (bahamas) Limited
+  swift: RCTCBSN1XXX
+  swift8: RCTCBSN1
+  branch_name: Head Office
+  branch_address: Lyford Cay House Nassau
+  branch_code: XXX
+  city: Nassau
+  country: Bahamas
+- name: Royal Bank Of Scotland (nassau) Limited, The
+  swift: RBOSBSN1XXX
+  swift8: RBOSBSN1
+  branch_name: Head Office
+  branch_address: Bahamas Financial Center Nassau
+  branch_code: XXX
+  city: Nassau
+  country: Bahamas
+- name: Rural International Bank
+  swift: RUBABSN1XXX
+  swift8: RUBABSN1
+  branch_name: Head Office
+  branch_address: Olde Towne Mall Slot 359 Ap 59223 Nassau
+  branch_code: XXX
+  city: Nassau
+  country: Bahamas
+- name: Rural International Bank
+  swift: RUBABSNSXXX
+  swift8: RUBABSNS
+  branch_name: Head Office
+  branch_address: Olde Towne Mall Slot 359 Ap 59223 Nassau
+  branch_code: XXX
+  city: Nassau
+  country: Bahamas
+- name: Scotiabank (bahamas) Ltd
+  swift: NOSCBSNSFPO
+  swift8: NOSCBSNS
+  branch_name: Freeport Branch
+  branch_address: Regent Centre Freeport
+  branch_code: FPO
+  city: Freeport
+  country: Bahamas
+- name: Scotiabank (bahamas) Ltd
+  swift: NOSCBSNSTMK
+  swift8: NOSCBSNS
+  branch_name: Caribbean Treasury Unit
+  branch_address: Tradewinds Building Nassau
+  branch_code: TMK
+  city: Nassau
+  country: Bahamas
+- name: Scotiabank (bahamas) Ltd
+  swift: NOSCBSNSXXX
+  swift8: NOSCBSNS
+  branch_name: Head Office
+  branch_address: Scotiabank Building Nassau
+  branch_code: XXX
+  city: Nassau
+  country: Bahamas
+- name: State Bank Of India, Nassau Obu
+  swift: SBINBSNSXXX
+  swift8: SBINBSNS
+  branch_name: Head Office
+  branch_address: Saffrey Square Nassau
+  branch_code: XXX
+  city: Nassau
+  country: Bahamas
+- name: Syz And Co Bank And Trust Ltd.
+  swift: SYCOBSN1XXX
+  swift8: SYCOBSN1
+  branch_name: Head Office
+  branch_address: Bayside Executive Park Nassau
+  branch_code: XXX
+  city: Nassau
+  country: Bahamas
+- name: Ubs (bahamas) Ltd
+  swift: UBSWBSNSXXX
+  swift8: UBSWBSNS
+  branch_name: Head Office
+  branch_address: Ubs House Nassau
+  branch_code: XXX
+  city: Nassau
+  country: Bahamas
+- name: Union Bancaire Privee
+  swift: NFZBBSNSFND
+  swift8: NFZBBSNS
+  branch_name: Fund Administration Department
+  branch_address: Charlotte House Nassau
+  branch_code: FND
+  city: Nassau
+  country: Bahamas
+- name: Union Bancaire Privee
+  swift: NFZBBSNSXXX
+  swift8: NFZBBSNS
+  branch_name: Head Office
+  branch_address: Lyford Cay House Nassau
+  branch_code: XXX
+  city: Nassau
+  country: Bahamas
+- name: Union Bancaire Privee (bahamas) Ltd
+  swift: UBPGBSNSXXX
+  swift8: UBPGBSNS
+  branch_name: Head Office
+  branch_address: Lyford Cay House Nassau
+  branch_code: XXX
+  city: Nassau
+  country: Bahamas
+- name: Votorantim Bank Limited
+  swift: VBLTBSNXXXX
+  swift8: VBLTBSNX
+  branch_name: Head Office
+  branch_address: Hilton Building Nassau
+  branch_code: XXX
+  city: Nassau
+  country: Bahamas
+- name: Winterbotham Trust Company Limited, The
+  swift: WNTRBSNSXXX
+  swift8: WNTRBSNS
+  branch_name: Head Office
+  branch_address: Bolam House Nassau
+  branch_code: XXX
+  city: Nassau
+  country: Bahamas

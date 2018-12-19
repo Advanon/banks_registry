@@ -1,0 +1,850 @@
+---
+CL:
+- name: Banco Bice
+  swift: BICECLRMXXX
+  swift8: BICECLRM
+  branch_name: Head Office
+  branch_address: Calle Teatinos 220 Santiago
+  branch_code: XXX
+  city: Santiago
+  country: Chile
+- name: Banco Bilbao Vizcaya Argentaria, Chile
+  swift: BHIFCLRMXXX
+  swift8: BHIFCLRM
+  branch_name: Head Office
+  branch_address: Pedro De Valdivia 100 7510185 Santiago
+  branch_code: XXX
+  city: Santiago
+  country: Chile
+- name: Banco Central De Chile
+  swift: BCECCLRFXXX
+  swift8: BCECCLRF
+  branch_name: Head Office
+  branch_address: Agustinas 1180 Santiago
+  branch_code: XXX
+  city: Santiago
+  country: Chile
+- name: Banco Central De Chile
+  swift: BCECCLRMXXX
+  swift8: BCECCLRM
+  branch_name: Head Office
+  branch_address: Agustinas 1180 8340454 Santiago
+  branch_code: XXX
+  city: Santiago
+  country: Chile
+- name: Banco Central De Chile
+  swift: BCECCLA1XXX
+  swift8: BCECCLA1
+  branch_name: Head Office
+  branch_address: Agustinas 1180 Santiago
+  branch_code: XXX
+  city: Santiago
+  country: Chile
+- name: Banco Central De Chile
+  swift: BCECCLRDXXX
+  swift8: BCECCLRD
+  branch_name: Head Office
+  branch_address: First 6500590 Santiago
+  branch_code: XXX
+  city: Santiago
+  country: Chile
+- name: Banco Consorcio
+  swift: MNEXCLRMXXX
+  swift8: MNEXCLRM
+  branch_name: Head Office
+  branch_address: Consorcio Santiago
+  branch_code: XXX
+  city: Santiago
+  country: Chile
+- name: Banco De Chile
+  swift: BCHICLRMEXP
+  swift8: BCHICLRM
+  branch_name: Export
+  branch_address: Santiago
+  branch_code: EXP
+  city: Santiago
+  country: Chile
+- name: Banco De Chile
+  swift: BCHICLRMIMP
+  swift8: BCHICLRM
+  branch_name: Import Head Office
+  branch_address: Santiago
+  branch_code: IMP
+  city: Santiago
+  country: Chile
+- name: Banco De Chile
+  swift: BCHICLRMIOB
+  swift8: BCHICLRM
+  branch_name: Import Other Santiago Branches
+  branch_address: Santiago
+  branch_code: IOB
+  city: Santiago
+  country: Chile
+- name: Banco De Chile
+  swift: BCHICLRMXXX
+  swift8: BCHICLRM
+  branch_name: Head Office
+  branch_address: Paseo Ahumada 251 Santiago
+  branch_code: XXX
+  city: Santiago
+  country: Chile
+- name: Banco De Chile
+  swift: BCHICLR10R2
+  swift8: BCHICLR1
+  branch_name: Vina Del Mar
+  branch_address: Valparaiso 667 Vina Del Mar
+  branch_code: 0R2
+  city: Vina Del Mar
+  country: Chile
+- name: Banco De Chile
+  swift: BCHICLR10R3
+  swift8: BCHICLR1
+  branch_name: Arica
+  branch_address: 21 De Mayo 330 Arica
+  branch_code: 0R3
+  city: Arica
+  country: Chile
+- name: Banco De Chile
+  swift: BCHICLR10R4
+  swift8: BCHICLR1
+  branch_name: Iquique
+  branch_address: Plaza Prat 660 Iquique
+  branch_code: 0R4
+  city: Iquique
+  country: Chile
+- name: Banco De Chile
+  swift: BCHICLR10R5
+  swift8: BCHICLR1
+  branch_name: Antofagasta
+  branch_address: Arturo Prat 356 Antofagasta
+  branch_code: 0R5
+  city: Antofagasta
+  country: Chile
+- name: Banco De Chile
+  swift: BCHICLR10R6
+  swift8: BCHICLR1
+  branch_name: La Serena
+  branch_address: Balmaceda 481 La Serena
+  branch_code: 0R6
+  city: La Serena
+  country: Chile
+- name: Banco De Chile
+  swift: BCHICLR10R7
+  swift8: BCHICLR1
+  branch_name: Temuco
+  branch_address: Antonio Varas 818 Temuco
+  branch_code: 0R7
+  city: Temuco
+  country: Chile
+- name: Banco De Chile
+  swift: BCHICLR10R8
+  swift8: BCHICLR1
+  branch_name: Puerto Montt
+  branch_address: Urmeneta 464 Puerto Montt
+  branch_code: 0R8
+  city: Puerto Montt
+  country: Chile
+- name: Banco De Chile
+  swift: BCHICLR10RA
+  swift8: BCHICLR1
+  branch_name: Punta Arenas
+  branch_address: Punta Arenas
+  branch_code: 0RA
+  city: Punta Arenas
+  country: Chile
+- name: Banco De Chile
+  swift: BCHICLR10RC
+  swift8: BCHICLR1
+  branch_name: Concepcion
+  branch_address: Libertador Bernardo Ohiggins 598 Concepcion
+  branch_code: 0RC
+  city: Concepcion
+  country: Chile
+- name: Banco De Chile
+  swift: BCHICLR10RV
+  swift8: BCHICLR1
+  branch_name: Valparaiso
+  branch_address: Prat 698 Valparaiso
+  branch_code: 0RV
+  city: Valparaiso
+  country: Chile
+- name: Banco De Chile
+  swift: BCHICLR10RY
+  swift8: BCHICLR1
+  branch_name: Coyhaique
+  branch_address: Francisco Bilbao 240 Coyhaique
+  branch_code: 0RY
+  city: Coyhaique
+  country: Chile
+- name: Banco De Chile, As Legal Succesor Of Citibank Chile
+  swift: CITICLRSXXX
+  swift8: CITICLRS
+  branch_name: Head Office
+  branch_address: Banco De Chile Santiago
+  branch_code: XXX
+  city: Santiago
+  country: Chile
+- name: Banco De Credito E Inversiones
+  swift: CREDCLRMXXX
+  swift8: CREDCLRM
+  branch_name: Head Office
+  branch_address: Huerfanos 1134 Santiago
+  branch_code: XXX
+  city: Santiago
+  country: Chile
+- name: Banco De La Nacion Argentina
+  swift: NACNCLRMXXX
+  swift8: NACNCLRM
+  branch_name: Head Office
+  branch_address: Casilla De Correo 229-V- Santiago
+  branch_code: XXX
+  city: Santiago
+  country: Chile
+- name: Banco De La Provincia De Buenos Aires
+  swift: PRBACLR1XXX
+  swift8: PRBACLR1
+  branch_name: Head Office
+  branch_address: Agustinas 1365 Santiago
+  branch_code: XXX
+  city: Santiago
+  country: Chile
+- name: Banco Del Estado De Chile
+  swift: BECHCLRMXXX
+  swift8: BECHCLRM
+  branch_name: Head Office
+  branch_address: Morande 25 650 1186 Santiago
+  branch_code: XXX
+  city: Santiago
+  country: Chile
+- name: Banco Do Brasil S.A
+  swift: BRASCLRMXXX
+  swift8: BRASCLRM
+  branch_name: Head Office
+  branch_address: Apoquindo 3001 Santiago
+  branch_code: XXX
+  city: Santiago
+  country: Chile
+- name: Banco Falabella
+  swift: FALACLRMXXX
+  swift8: FALACLRM
+  branch_name: Head Office
+  branch_address: World Trade Center, Las Condes Santiago
+  branch_code: XXX
+  city: Santiago
+  country: Chile
+- name: Banco Internacional
+  swift: BICHCLRMXXX
+  swift8: BICHCLRM
+  branch_name: Head Office
+  branch_address: San Antonio 76 Santiago
+  branch_code: XXX
+  city: Santiago
+  country: Chile
+- name: Banco Itau Chile
+  swift: ITAUCLRMXXX
+  swift8: ITAUCLRM
+  branch_name: Head Office
+  branch_address: Enrique Foster Sur 20 755-0198 Santiago
+  branch_code: XXX
+  city: Santiago
+  country: Chile
+- name: Banco Paris
+  swift: BCNPCLRMXXX
+  swift8: BCNPCLRM
+  branch_name: Head Office
+  branch_address: Bombero Ossa 1068 Santiago
+  branch_code: XXX
+  city: Santiago
+  country: Chile
+- name: Banco Penta
+  swift: BPENCLRMXXX
+  swift8: BPENCLRM
+  branch_name: Head Office
+  branch_address: Av. El Bosque Norte, 0440 Santiago
+  branch_code: XXX
+  city: Santiago
+  country: Chile
+- name: Banco Ripley
+  swift: RPLYCLRMXXX
+  swift8: RPLYCLRM
+  branch_name: Head Office
+  branch_address: Huerfanos 1060 Santiago
+  branch_code: XXX
+  city: Santiago
+  country: Chile
+- name: Banco Santander Chile
+  swift: BSCHCLRMGST
+  swift8: BSCHCLRM
+  branch_name: Global Custody Department
+  branch_address: Global Custody Department Santiago
+  branch_code: GST
+  city: Santiago
+  country: Chile
+- name: Banco Santander Chile
+  swift: BSCHCLRMXXX
+  swift8: BSCHCLRM
+  branch_name: Head Office
+  branch_address: 140 Bandera Santiago
+  branch_code: XXX
+  city: Santiago
+  country: Chile
+- name: Banco Santander Chile
+  swift: BSCHCLR10R2
+  swift8: BSCHCLR1
+  branch_name: Antofagasta
+  branch_address: San Martin 2600 Antofagasta
+  branch_code: 0R2
+  city: Antofagasta
+  country: Chile
+- name: Banco Santander Chile
+  swift: BSCHCLR10R3
+  swift8: BSCHCLR1
+  branch_name: Arica
+  branch_address: 21 De Mayo 300 Arica
+  branch_code: 0R3
+  city: Arica
+  country: Chile
+- name: Banco Santander Chile
+  swift: BSCHCLR10R4
+  swift8: BSCHCLR1
+  branch_name: Chillan
+  branch_address: Arauco 595 Chillan
+  branch_code: 0R4
+  city: Chillan
+  country: Chile
+- name: Banco Santander Chile
+  swift: BSCHCLR10R5
+  swift8: BSCHCLR1
+  branch_name: Concepcion
+  branch_address: Barros Arana 645 Concepcion
+  branch_code: 0R5
+  city: Concepcion
+  country: Chile
+- name: Banco Santander Chile
+  swift: BSCHCLR10R6
+  swift8: BSCHCLR1
+  branch_name: Coyhaique
+  branch_address: Condell 184 Coyhaique
+  branch_code: 0R6
+  city: Coyhaique
+  country: Chile
+- name: Banco Santander Chile
+  swift: BSCHCLR10RA
+  swift8: BSCHCLR1
+  branch_name: Iquique
+  branch_address: Luis Uribe 360 Iquique
+  branch_code: 0RA
+  city: Iquique
+  country: Chile
+- name: Banco Santander Chile
+  swift: BSCHCLR10RB
+  swift8: BSCHCLR1
+  branch_name: La Serena
+  branch_address: Cordovez 471 La Serena
+  branch_code: 0RB
+  city: Serena
+  country: Chile
+- name: Banco Santander Chile
+  swift: BSCHCLR10RD
+  swift8: BSCHCLR1
+  branch_name: Puerto Montt
+  branch_address: Antonio Varas 580 Puerto Montt
+  branch_code: 0RD
+  city: Puerto Montt
+  country: Chile
+- name: Banco Santander Chile
+  swift: BSCHCLR10RE
+  swift8: BSCHCLR1
+  branch_name: Punta Arenas
+  branch_address: Bories 970-972 Punta Arenas
+  branch_code: 0RE
+  city: Punta Arenas
+  country: Chile
+- name: Banco Santander Chile
+  swift: BSCHCLR10RF
+  swift8: BSCHCLR1
+  branch_name: Rancagua
+  branch_address: Independencia 672-674 Rancagua
+  branch_code: 0RF
+  city: Rancagua
+  country: Chile
+- name: Banco Santander Chile
+  swift: BSCHCLR10RG
+  swift8: BSCHCLR1
+  branch_name: Talca
+  branch_address: 1 Sur 4 Oriente 1098 Talca
+  branch_code: 0RG
+  city: Talca
+  country: Chile
+- name: Banco Santander Chile
+  swift: BSCHCLR10RH
+  swift8: BSCHCLR1
+  branch_name: Temuco
+  branch_address: Manuel Bulnes 701 Temuco
+  branch_code: 0RH
+  city: Temuco
+  country: Chile
+- name: Banco Santander Chile
+  swift: BSCHCLR10RJ
+  swift8: BSCHCLR1
+  branch_name: Valdivia
+  branch_address: Libertad 129-149 Valdivia
+  branch_code: 0RJ
+  city: Valdivia
+  country: Chile
+- name: Banco Santander Chile
+  swift: BSCHCLR10RK
+  swift8: BSCHCLR1
+  branch_name: Valparaiso
+  branch_address: Urriola 81 Valparaiso
+  branch_code: 0RK
+  city: Valparaiso
+  country: Chile
+- name: Banco Santander Chile
+  swift: BSCHCLR10RL
+  swift8: BSCHCLR1
+  branch_name: Vina Del Mar
+  branch_address: Pza. Vergara 108 Vina Del Mar
+  branch_code: 0RL
+  city: Vina Del Mar
+  country: Chile
+- name: Banco Security
+  swift: BSCLCLRMXXX
+  swift8: BSCLCLRM
+  branch_name: Head Office
+  branch_address: Agustinas 621 Santiago
+  branch_code: XXX
+  city: Santiago
+  country: Chile
+- name: Bank Of Tokyo-Mitsubishi Ufj Ltd., The
+  swift: BOTKCLRMXXX
+  swift8: BOTKCLRM
+  branch_name: Santiago Branch
+  branch_address: Avda. Mariano Sanches Santiago
+  branch_code: XXX
+  city: Santiago
+  country: Chile
+- name: Cclv, Contraparte Central S.A.
+  swift: ECCVCLRMXXX
+  swift8: ECCVCLRM
+  branch_name: Head Office
+  branch_address: La Bolsa 64 8340721 Santiago
+  branch_code: XXX
+  city: Santiago
+  country: Chile
+- name: Combanc S.A.
+  swift: PCCACLRMXXX
+  swift8: PCCACLRM
+  branch_name: Head Office
+  branch_address: Torre Del Parque Ii 7560995 Santiago
+  branch_code: XXX
+  city: Santiago
+  country: Chile
+- name: Corp Banca
+  swift: CONBCLRMXXX
+  swift8: CONBCLRM
+  branch_name: Head Office
+  branch_address: Huerfanos 1072 Santiago
+  branch_code: XXX
+  city: Santiago
+  country: Chile
+- name: Deposito Central De Valores S.A.
+  swift: DCVVCLRMXXX
+  swift8: DCVVCLRM
+  branch_name: Head Office
+  branch_address: Huerfanos, 770 Santiago
+  branch_code: XXX
+  city: Santiago
+  country: Chile
+- name: Deutsche Bank (Chile) S.A.
+  swift: DEUTCLRMXXX
+  swift8: DEUTCLRM
+  branch_name: Head Office
+  branch_address: Av. El Bosque Sur 130 Santiago
+  branch_code: XXX
+  city: Santiago
+  country: Chile
+- name: Dnb Bank Asa, Agencia En Chile
+  swift: DNBACLRMXXX
+  swift8: DNBACLRM
+  branch_name: Head Office
+  branch_address: Las Condes Santiago
+  branch_code: XXX
+  city: Santiago
+  country: Chile
+- name: Factorline S.A
+  swift: FTLNCLRMXXX
+  swift8: FTLNCLRM
+  branch_name: Head Office
+  branch_address: Huerfanos 863 8320176 Santiago
+  branch_code: XXX
+  city: Santiago
+  country: Chile
+- name: Hsbc Bank (Chile)
+  swift: BLICCLRMXXX
+  swift8: BLICCLRM
+  branch_name: Head Office
+  branch_address: Avda. Isidora Goyenechea 2800 Santiago
+  branch_code: XXX
+  city: Santiago
+  country: Chile
+- name: Jp Morgan Chase Bank, N.A
+  swift: CHASCLRMKEY
+  swift8: CHASCLRM
+  branch_name: Test Key and Bke Administration
+  branch_address: Santiago
+  branch_code: KEY
+  city: Santiago
+  country: Chile
+- name: Jp Morgan Chase Bank, N.A
+  swift: CHASCLRMXXX
+  swift8: CHASCLRM
+  branch_name: Head Office
+  branch_address: Augustina 1235 Santiago
+  branch_code: XXX
+  city: Santiago
+  country: Chile
+- name: Rabobank Chile
+  swift: RABOCLRMXXX
+  swift8: RABOCLRM
+  branch_name: Head Office
+  branch_address: Ciudad Empresarial Huechuraba Santiago
+  branch_code: XXX
+  city: Santiago
+  country: Chile
+- name: Scotiabank Chile
+  swift: BKSACLRM068
+  swift8: BKSACLRM
+  branch_name: Concepcion
+  branch_address: Ohiggins 487 Concepcion
+  branch_code: '068'
+  city: Concepcion
+  country: Chile
+- name: Scotiabank Chile
+  swift: BKSACLRM055
+  swift8: BKSACLRM
+  branch_name: Santiago
+  branch_address: Morande 226 Santiago
+  branch_code: '055'
+  city: Iquique
+  country: Chile
+- name: Scotiabank Chile
+  swift: BKSACLRM064
+  swift8: BKSACLRM
+  branch_name: Arica
+  branch_address: 21 De Mayo 187 Arica
+  branch_code: '064'
+  city: Arica
+  country: Chile
+- name: Scotiabank Chile
+  swift: BKSACLRMXXX
+  swift8: BKSACLRM
+  branch_name: Head Office
+  branch_address: Morande 226 Santiago
+  branch_code: XXX
+  city: Santiago
+  country: Chile
+- name: Scotiabank Chile
+  swift: BKSACLRM061
+  swift8: BKSACLRM
+  branch_name: Valparaiso
+  branch_address: Valparaiso
+  branch_code: '061'
+  city: Valparaiso
+  country: Chile
+- name: Banchile Corredores De Bolsa S.a.
+  swift: BCOSCLR1XXX
+  swift8: BCOSCLR1
+  branch_name: Head Office
+  branch_address: Casa Matriz Banco De Chile Santiago
+  branch_code: XXX
+  city: Santiago
+  country: Chile
+- name: Bank Of America, S.a. Santiago
+  swift: BOFACLR1XXX
+  swift8: BOFACLR1
+  branch_name: Head Office
+  branch_address: Santiago
+  branch_code: XXX
+  city: Santiago
+  country: Chile
+- name: Bbva Corredores De Bolsa Limitada
+  swift: BCBDCLR1XXX
+  swift8: BCBDCLR1
+  branch_name: No branch name
+  branch_address: No branch address
+  branch_code: XXX
+  city: Santiago
+  country: Chile
+- name: Bci Corredor De Bolsa S.a.
+  swift: BCCSCLR1XXX
+  swift8: BCCSCLR1
+  branch_name: Head Office
+  branch_address: Magdalena 140 Santiago
+  branch_code: XXX
+  city: Santiago
+  country: Chile
+- name: Bolsa De Comercio De Santiago
+  swift: XSGOCLR1XXX
+  swift8: XSGOCLR1
+  branch_name: Head Office
+  branch_address: La Bolsa 64 1230 Santiago
+  branch_code: XXX
+  city: Santiago
+  country: Chile
+- name: Casa De Cambios Guinazu S.a.
+  swift: GINACLRMXXX
+  swift8: GINACLRM
+  branch_name: No branch name
+  branch_address: No branch address
+  branch_code: XXX
+  city: Santiago
+  country: Chile
+- name: Casa De Moneda De Chile
+  swift: CAMCCLR1XXX
+  swift8: CAMCCLR1
+  branch_name: Head Office
+  branch_address: Avenida Portales 3586 Santiago
+  branch_code: XXX
+  city: Santiago
+  country: Chile
+- name: Celfin Capital S.a. Corredores De Bolsa
+  swift: BPABCLRMXXX
+  swift8: BPABCLRM
+  branch_name: No branch name
+  branch_address: No branch address
+  branch_code: XXX
+  city: Santiago
+  country: Chile
+- name: Celfin Capital Sa Corredores De Bolsa
+  swift: CCOACLR1XXX
+  swift8: CCOACLR1
+  branch_name: Head Office
+  branch_address: Apoquindo 3721, Las Condes Santiago
+  branch_code: XXX
+  city: Santiago
+  country: Chile
+- name: Celfin S.a.
+  swift: CELFCLR1XXX
+  swift8: CELFCLR1
+  branch_name: Head Office
+  branch_address: Apoquindro 3721 Santiago
+  branch_code: XXX
+  city: Santiago
+  country: Chile
+- name: Consorcio Corredores De Bolsa S.a.
+  swift: CNCOCLR1XXX
+  swift8: CNCOCLR1
+  branch_name: Head Office
+  branch_address: Edificio Consorcio Santiago
+  branch_code: XXX
+  city: Santiago
+  country: Chile
+- name: Cooperativa De Consumos E De Ahorros Carabineros De Chile Ltd.
+  swift: CCACCLR1XXX
+  swift8: CCACCLR1
+  branch_name: Head Office
+  branch_address: Mac Iver 245 Santiago
+  branch_code: XXX
+  city: Santiago
+  country: Chile
+- name: Corpcapital Corredores De Bolsa Sa
+  swift: CRRBCLR1XXX
+  swift8: CRRBCLR1
+  branch_name: Head Office
+  branch_address: Rosario Norte 660 Santiago
+  branch_code: XXX
+  city: Santiago
+  country: Chile
+- name: Corporacion Fomento De La Produccion
+  swift: CFPCCLR1XXX
+  swift8: CFPCCLR1
+  branch_name: Head Office
+  branch_address: Moneda 921 Santiago
+  branch_code: XXX
+  city: Santiago
+  country: Chile
+- name: Deutsche Securities Corredores De Bolsa Limitada
+  swift: DSCBCLR1XXX
+  swift8: DSCBCLR1
+  branch_name: Head Office
+  branch_address: Consorcio Santiago
+  branch_code: XXX
+  city: Santiago
+  country: Chile
+- name: Euroamerica Corredores De Bolsa S.a
+  swift: EUOBCLR1XXX
+  swift8: EUOBCLR1
+  branch_name: No branch name
+  branch_address: No branch address
+  branch_code: XXX
+  city: Santiago
+  country: Chile
+- name: Export-import Bank Of Korea, The
+  swift: EXIKCLR1XXX
+  swift8: EXIKCLR1
+  branch_name: Head Office
+  branch_address: Forum Building Santiago
+  branch_code: XXX
+  city: Santiago
+  country: Chile
+- name: Fitch Chile Clasificadora De Reisgo Ltd
+  swift: FRIPCLR1XXX
+  swift8: FRIPCLR1
+  branch_name: Head Office
+  branch_address: Las Condes Santiago
+  branch_code: XXX
+  city: Santiago
+  country: Chile
+- name: Gbm Corredores De Bolsa Limitada
+  swift: GCBMCLR1XXX
+  swift8: GCBMCLR1
+  branch_name: Head Office
+  branch_address: Magdalena 181 -1201 Santiago
+  branch_code: XXX
+  city: Santiago
+  country: Chile
+- name: Im Trust S.a. Corredores De Bolsa
+  swift: TROBCLR1XXX
+  swift8: TROBCLR1
+  branch_name: Head Office
+  branch_address: Torre Las Condes Santiago
+  branch_code: XXX
+  city: Santiago
+  country: Chile
+- name: Itau Chile Corredor De Bolsa Ltda
+  swift: ICCSCLR1XXX
+  swift8: ICCSCLR1
+  branch_name: Head Office
+  branch_address: Edificio Itau Santiago
+  branch_code: XXX
+  city: Santiago
+  country: Chile
+- name: J.p. Morgan Corredores De Bolsa Spa
+  swift: MOCBCLR1XXX
+  swift8: MOCBCLR1
+  branch_name: Head Office
+  branch_address: Birmann 7550296 Santiago
+  branch_code: XXX
+  city: Santiago
+  country: Chile
+- name: Larrain Vial
+  swift: LARVCLR1XXX
+  swift8: LARVCLR1
+  branch_name: Head Office
+  branch_address: La Bolsa 81 Santiago
+  branch_code: XXX
+  city: Santiago
+  country: Chile
+- name: Latcam Pagos Internacionales S.a.
+  swift: LPITCLR1XXX
+  swift8: LPITCLR1
+  branch_name: No branch name
+  branch_address: No branch address
+  branch_code: XXX
+  city: Santiago
+  country: Chile
+- name: Mbi Corredores De Bolsa S.a.
+  swift: MBCBCLR1XXX
+  swift8: MBCBCLR1
+  branch_name: Head Office
+  branch_address: Edificio Huidobro Santiago
+  branch_code: XXX
+  city: Santiago
+  country: Chile
+- name: Merrill Lynch Corredores De Bolsa S.a.
+  swift: MLOBCLR1XXX
+  swift8: MLOBCLR1
+  branch_name: Head Office
+  branch_address: Av Apoquindo 3500, Las Condes Santiago
+  branch_code: XXX
+  city: Santiago
+  country: Chile
+- name: Moneda Corredores De Bolsa De Bolsa Limitada
+  swift: MCBBCLR1XXX
+  swift8: MCBBCLR1
+  branch_name: Head Office
+  branch_address: Isidora 3621 00000 Santiago
+  branch_code: XXX
+  city: Santiago
+  country: Chile
+- name: Negocios Y Valores S.a C De B
+  swift: NEVACLR1XXX
+  swift8: NEVACLR1
+  branch_name: Head Office
+  branch_address: Rosario Norte 555 Santiago
+  branch_code: XXX
+  city: Santiago
+  country: Chile
+- name: Pacific Overseas International Bank Limited
+  swift: PAONCLR1XXX
+  swift8: PAONCLR1
+  branch_name: Head Office
+  branch_address: Avda Andres Bello 2777 Santiago
+  branch_code: XXX
+  city: Santiago
+  country: Chile
+- name: Penta Corredores De Bolsa S.a.
+  swift: PCOLCLR1XXX
+  swift8: PCOLCLR1
+  branch_name: Head Office
+  branch_address: Av. El Bosque Norte 0440 Santiago
+  branch_code: XXX
+  city: Santiago
+  country: Chile
+- name: Redbanc S.a
+  swift: REBCCLR1XXX
+  swift8: REBCCLR1
+  branch_name: Head Office
+  branch_address: Huerfanos 770 Santiago
+  branch_code: XXX
+  city: Santiago
+  country: Chile
+- name: Samsung Electronics Chile Limitada (ltda
+  swift: SECTCLR1850
+  swift8: SECTCLR1
+  branch_name: Sech
+  branch_address: Avda. Americo Vespucio Sur 100 Santiago
+  branch_code: '850'
+  city: Santiago
+  country: Chile
+- name: Samsung Electronics Chile Limitada (ltda
+  swift: SECTCLR1XXX
+  swift8: SECTCLR1
+  branch_name: Head Office
+  branch_address: Las Condes Santiago
+  branch_code: XXX
+  city: Santiago
+  country: Chile
+- name: Santander Investment S.a. Corredores De Bolsa
+  swift: SANMCLR1XXX
+  swift8: SANMCLR1
+  branch_name: Head Office
+  branch_address: Bandera 140 Santiago
+  branch_code: XXX
+  city: Santiago
+  country: Chile
+- name: Scotia Corredora De Bolsa
+  swift: CBSCCLR1XXX
+  swift8: CBSCCLR1
+  branch_name: Head Office
+  branch_address: Agustinas 1225 Santiago
+  branch_code: XXX
+  city: Santiago
+  country: Chile
+- name: Tanner Corredores De Bolsa
+  swift: TCBOCLR1XXX
+  swift8: TCBOCLR1
+  branch_name: No branch name
+  branch_address: No branch address
+  branch_code: XXX
+  city: Santiago
+  country: Chile
+- name: Tesoreria General De La Republica
+  swift: TEGECLR1XXX
+  swift8: TEGECLR1
+  branch_name: Head Office
+  branch_address: Teatinos 20 Santiago
+  branch_code: XXX
+  city: Santiago
+  country: Chile

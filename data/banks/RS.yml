@@ -1,0 +1,770 @@
+---
+RS:
+- name: Raiffeisen Bank Kosovo
+  swift: RBKORS22XXX
+  swift8: RBKORS22
+  branch_name: Head Office
+  branch_address: Uck No.51 Pristina
+  branch_code: XXX
+  city: Pristina
+  country: Serbia
+- name: Teb Sha
+  swift: TEBKRS22030
+  swift8: TEBKRS22
+  branch_name: Klina
+  branch_address: Klina
+  branch_code: '030'
+  city: Klina
+  country: Serbia
+- name: Teb Sha
+  swift: TEBKRS22XXX
+  swift8: TEBKRS22
+  branch_name: Head Office
+  branch_address: Agim Ramadani Pristina
+  branch_code: XXX
+  city: Pristina
+  country: Serbia
+- name: Teb Sha
+  swift: TEBKRS22011
+  swift8: TEBKRS22
+  branch_name: Main
+  branch_address: Agim Ramadani 10000 Pristina
+  branch_code: '011'
+  city: Pristina
+  country: Serbia
+- name: Teb Sha
+  swift: TEBKRS22012
+  swift8: TEBKRS22
+  branch_name: Shadervan
+  branch_address: Rrasat E Koshares 20000 Pristina
+  branch_code: '012'
+  city: Pristina
+  country: Serbia
+- name: Teb Sha
+  swift: TEBKRS22013
+  swift8: TEBKRS22
+  branch_name: Ferizaj
+  branch_address: Rexhep Bislimi N.N. 70000 Pristina
+  branch_code: '013'
+  city: Pristina
+  country: Serbia
+- name: Teb Sha
+  swift: TEBKRS22014
+  swift8: TEBKRS22
+  branch_name: Fushe Kosova
+  branch_address: Nena Tereza No. 113/1 Fushe Kosova 12000 Pristina
+  branch_code: '014'
+  city: Pristina
+  country: Serbia
+- name: Teb Sha
+  swift: TEBKRS22015
+  swift8: TEBKRS22
+  branch_name: Peja
+  branch_address: Mbreteresha Teuta N.N. 30000 Pristina
+  branch_code: '015'
+  city: Pristina
+  country: Serbia
+- name: Teb Sha
+  swift: TEBKRS22016
+  swift8: TEBKRS22
+  branch_name: Vushtrri
+  branch_address: Deshmoret E Kombit No.23, Vushtrri 42000 Pristina
+  branch_code: '016'
+  city: Pristina
+  country: Serbia
+- name: Teb Sha
+  swift: TEBKRS22017
+  swift8: TEBKRS22
+  branch_name: Gjilan
+  branch_address: Mulla Idrizi N.N. Gjilan 60000 Pristina
+  branch_code: '017'
+  city: Pristina
+  country: Serbia
+- name: Teb Sha
+  swift: TEBKRS22018
+  swift8: TEBKRS22
+  branch_name: Gjakova
+  branch_address: Ismajl Qemajli No.22, Gjakove 50000 Pristina
+  branch_code: '018'
+  city: Pristina
+  country: Serbia
+- name: Teb Sha
+  swift: TEBKRS22020
+  swift8: TEBKRS22
+  branch_name: Dardania
+  branch_address: Shopping Centre Napredaku No.34 10000 Pristina
+  branch_code: '020'
+  city: Pristina
+  country: Serbia
+- name: Teb Sha
+  swift: TEBKRS22019
+  swift8: TEBKRS22
+  branch_name: Rahovec
+  branch_address: Rahovec Village, Gjakove 21080 Pristina
+  branch_code: '019'
+  city: Pristina
+  country: Serbia
+- name: Teb Sha
+  swift: TEBKRS22021
+  swift8: TEBKRS22
+  branch_name: Ulpiana
+  branch_address: Bulevardi I Deshmoreve Pn 10000 Pristina
+  branch_code: '021'
+  city: Pristina
+  country: Serbia
+- name: Teb Sha
+  swift: TEBKRS22022
+  swift8: TEBKRS22
+  branch_name: Skenderaj
+  branch_address: Sheshi Adem Jashari 41000 Pristina
+  branch_code: '022'
+  city: Pristina
+  country: Serbia
+- name: Teb Sha
+  swift: TEBKRS22023
+  swift8: TEBKRS22
+  branch_name: Malisheva
+  branch_address: Rr. Rilindja Kombetare, Pa Numer 24000 Pristina
+  branch_code: '023'
+  city: Pristina
+  country: Serbia
+- name: Teb Sha
+  swift: TEBKRS22024
+  swift8: TEBKRS22
+  branch_name: Drenas
+  branch_address: Rr.Skenderbeu, Pa Numer 13000 Pristina
+  branch_code: '024'
+  city: Pristina
+  country: Serbia
+- name: Teb Sha
+  swift: TEBKRS22025
+  swift8: TEBKRS22
+  branch_name: Theranda
+  branch_address: Rr.Brigada 123, Pa Numer 23000 Pristina
+  branch_code: '025'
+  city: Pristina
+  country: Serbia
+- name: Teb Sha
+  swift: TEBKRS22026
+  swift8: TEBKRS22
+  branch_name: Lypjan
+  branch_address: Rr.Qeramidnica, Pa Numer 14000 Pristina
+  branch_code: '026'
+  city: Pristina
+  country: Serbia
+- name: Teb Sha
+  swift: TEBKRS22027
+  swift8: TEBKRS22
+  branch_name: Mitrovica
+  branch_address: Rr. Mbreteresha Teute, Nr.10 40000 Pristina
+  branch_code: '027'
+  city: Pristina
+  country: Serbia
+- name: Teb Sha
+  swift: TEBKRS22029
+  swift8: TEBKRS22
+  branch_name: Hani Elezit
+  branch_address: Pristina
+  branch_code: '029'
+  city: Pristina
+  country: Serbia
+- name: Aik Banka Ad
+  swift: AIKBRS22XXX
+  swift8: AIKBRS22
+  branch_name: Head Office
+  branch_address: Nikole Pasica 42 18000 Nis
+  branch_code: XXX
+  city: Nis
+  country: Serbia
+- name: Alpha Bank Srbija Ad
+  swift: JUBARSBGXXX
+  swift8: JUBARSBG
+  branch_name: Head Office
+  branch_address: Kralja Milana 11 11000 Beograd
+  branch_code: XXX
+  city: Beograd
+  country: Serbia
+- name: Banca Intesa Ad, Beograd
+  swift: DBDBRSBGXXX
+  swift8: DBDBRSBG
+  branch_name: Head Office
+  branch_address: Milentija Popovica 7b 11070 Beograd
+  branch_code: XXX
+  city: Beograd
+  country: Serbia
+- name: Cacanska Banka A.d.
+  swift: CABARS22XXX
+  swift8: CABARS22
+  branch_name: Head Office
+  branch_address: Pivarska 1 32000 Cacak
+  branch_code: XXX
+  city: Cacak
+  country: Serbia
+- name: Central Securities Depository And Clearing House
+  swift: CSDERSB1XXX
+  swift8: CSDERSB1
+  branch_name: Head Office
+  branch_address: Trg Nikole Pasiaea, 5 11000 Beograd
+  branch_code: XXX
+  city: Beograd
+  country: Serbia
+- name: Credit Agricole Srbija Ad Novi Sad
+  swift: MEBARS22XXX
+  swift8: MEBARS22
+  branch_name: Head Office
+  branch_address: Brace Ribnikara 4-6 21000 Novi Sad
+  branch_code: XXX
+  city: Novi Sad
+  country: Serbia
+- name: Dijamant Banka Ad Zrenjanin
+  swift: DIJARS21XXX
+  swift8: DIJARS21
+  branch_name: Head Office
+  branch_address: Trg Jna Bb, Pc Mala Varos 23000 Zrenjanin
+  branch_code: XXX
+  city: Zrenjanin
+  country: Serbia
+- name: Dunav Banka A.d. Beograd
+  swift: KMEBRS2ZXXX
+  swift8: KMEBRS2Z
+  branch_name: Head Office
+  branch_address: Kralja Milutina Bb 38227 Zvecan
+  branch_code: XXX
+  city: Beograd
+  country: Serbia
+- name: Efg Securities A.d. Belgrade
+  swift: EFSBRSB1XXX
+  swift8: EFSBRSB1
+  branch_name: Head Office
+  branch_address: Knez Mihailova 9 11000 Beograd
+  branch_code: XXX
+  city: Beograd
+  country: Serbia
+- name: Erste Bank A.d. Novi Sad
+  swift: GIBARS22XXX
+  swift8: GIBARS22
+  branch_name: Head Office
+  branch_address: Bulevar Oslobodjenja 5 21000 Novi Sad
+  branch_code: XXX
+  city: Novi Sad
+  country: Serbia
+- name: Eurobank Ad
+  swift: ERBKRSBGSEC
+  swift8: ERBKRSBG
+  branch_name: Custody Unit
+  branch_address: No branch address
+  branch_code: SEC
+  city: Beograd
+  country: Serbia
+- name: Eurobank Ad
+  swift: ERBKRSBGXXX
+  swift8: ERBKRSBG
+  branch_name: No branch name
+  branch_address: No branch address
+  branch_code: XXX
+  city: Beograd
+  country: Serbia
+- name: Findomestic Banka Ad
+  swift: FIDMRSBGXXX
+  swift8: FIDMRSBG
+  branch_name: Head Office
+  branch_address: Bulevar Mihaila Pupina 115 a 11070 Beograd
+  branch_code: XXX
+  city: Beograd
+  country: Serbia
+- name: Government Of The Republic Of Serbia Ministry Of Finance
+  swift: UPSRRSB1XXX
+  swift8: UPSRRSB1
+  branch_name: Head Office
+  branch_address: 20, Kneza Milosa Street 11000 Beograd
+  branch_code: XXX
+  city: Beograd
+  country: Serbia
+- name: Hypo Alpe-adria-bank A.d. Beograd
+  swift: HAABRSBGXXX
+  swift8: HAABRSBG
+  branch_name: Head Office
+  branch_address: Pc Usce 11070 Beograd
+  branch_code: XXX
+  city: Beograd
+  country: Serbia
+- name: Jubmes Banka A.d. Beograd
+  swift: JMBNRSBGXXX
+  swift8: JMBNRSBG
+  branch_name: Head Office
+  branch_address: Bulevar Zorana Djindjica 121 11070 Beograd
+  branch_code: XXX
+  city: Beograd
+  country: Serbia
+- name: Kbc Banka Ad
+  swift: AAAARSBGXXX
+  swift8: AAAARSBG
+  branch_name: Head Office
+  branch_address: Pozeska 65 B 11030 Beograd
+  branch_code: XXX
+  city: Beograd
+  country: Serbia
+- name: Kbm Banka Ad Kragujevac
+  swift: KRAGRS22XXX
+  swift8: KRAGRS22
+  branch_name: Head Office
+  branch_address: Kralja Petra I Br.13 34000 Kragujevac
+  branch_code: XXX
+  city: Kragujevac
+  country: Serbia
+- name: Komercijalna Banka A.d. Beograd
+  swift: KOBBRSBGFCA
+  swift8: KOBBRSBG
+  branch_name: Branch Cacak
+  branch_address: Vavilon Centar 32000 Cacak
+  branch_code: FCA
+  city: Cacak
+  country: Serbia
+- name: Komercijalna Banka A.d. Beograd
+  swift: KOBBRSBGFJA
+  swift8: KOBBRSBG
+  branch_name: Branch Jagodina
+  branch_address: Kneginje Milice 15 35000 Jagodina
+  branch_code: FJA
+  city: Jagodina
+  country: Serbia
+- name: Komercijalna Banka A.d. Beograd
+  swift: KOBBRSBGFKG
+  swift8: KOBBRSBG
+  branch_name: Kragujevac Branch
+  branch_address: Kneza Milosa 6 34000 Kragujevac
+  branch_code: FKG
+  city: Kragujevac
+  country: Serbia
+- name: Komercijalna Banka A.d. Beograd
+  swift: KOBBRSBGFKV
+  swift8: KOBBRSBG
+  branch_name: Branch Kraljevo
+  branch_address: Trg Srpskih Ratnika Bb 36000 Kraljevo
+  branch_code: FKV
+  city: Kraljevo
+  country: Serbia
+- name: Komercijalna Banka A.d. Beograd
+  swift: KOBBRSBGFNP
+  swift8: KOBBRSBG
+  branch_name: Novi Pazar Branch
+  branch_address: Sabana Koce 71 36300 Novi Pazar
+  branch_code: FNP
+  city: Novi Pazar
+  country: Serbia
+- name: Komercijalna Banka A.d. Beograd
+  swift: KOBBRSBGFNS
+  swift8: KOBBRSBG
+  branch_name: Novi Sad Branch
+  branch_address: Trg Slobode 4 21000 Novi Sad
+  branch_code: FNS
+  city: Novi Sad
+  country: Serbia
+- name: Komercijalna Banka A.d. Beograd
+  swift: KOBBRSBGFPO
+  swift8: KOBBRSBG
+  branch_name: Branch Pozarevac
+  branch_address: Mose Pijade 2 12000 Pozarevac
+  branch_code: FPO
+  city: Pozarevac
+  country: Serbia
+- name: Komercijalna Banka A.d. Beograd
+  swift: KOBBRSBGFSA
+  swift8: KOBBRSBG
+  branch_name: Sabac Branch
+  branch_address: Glavba Br.2 15000 Sabac
+  branch_code: FSA
+  city: Sabac
+  country: Serbia
+- name: Komercijalna Banka A.d. Beograd
+  swift: KOBBRSBGFSM
+  swift8: KOBBRSBG
+  branch_name: Branch Sremska Mitrovica
+  branch_address: Kralja Petra I, 5-7 22000 Sremska Mitrovica
+  branch_code: FSM
+  city: Sremska Mitrovica
+  country: Serbia
+- name: Komercijalna Banka A.d. Beograd
+  swift: KOBBRSBGFSO
+  swift8: KOBBRSBG
+  branch_name: Branch Sombor
+  branch_address: Staparski Put 14 25000 Sombor
+  branch_code: FSO
+  city: Sombor
+  country: Serbia
+- name: Komercijalna Banka A.d. Beograd
+  swift: KOBBRSBGFSU
+  swift8: KOBBRSBG
+  branch_name: Subotica Branch
+  branch_address: Borisa Kidrica 10 24000 Subotica
+  branch_code: FSU
+  city: Subotica
+  country: Serbia
+- name: Komercijalna Banka A.d. Beograd
+  swift: KOBBRSBGFUE
+  swift8: KOBBRSBG
+  branch_name: Branch Uzice
+  branch_address: Petra Celovice 4 31000 Uzice
+  branch_code: FUE
+  city: Uzice
+  country: Serbia
+- name: Komercijalna Banka A.d. Beograd
+  swift: KOBBRSBGFVA
+  swift8: KOBBRSBG
+  branch_name: Vlajevo Branch
+  branch_address: Karadjordjeva 71 14000 Valjevo
+  branch_code: FVA
+  city: Valjevo
+  country: Serbia
+- name: Komercijalna Banka A.d. Beograd
+  swift: KOBBRSBGFZR
+  swift8: KOBBRSBG
+  branch_name: Branch Zrenjanin
+  branch_address: Trg Slobode 5 23000 Zrenjanin
+  branch_code: FZR
+  city: Zrenjanin
+  country: Serbia
+- name: Komercijalna Banka A.d. Beograd
+  swift: KOBBRSBGGFB
+  swift8: KOBBRSBG
+  branch_name: Main Branch
+  branch_address: Makedonska 4 11000 Beograd
+  branch_code: GFB
+  city: Beograd
+  country: Serbia
+- name: Komercijalna Banka A.d. Beograd
+  swift: KOBBRSBGGFN
+  swift8: KOBBRSBG
+  branch_name: Main Branch Nis
+  branch_address: Dusanova 2 18000 Nis
+  branch_code: GFN
+  city: Nis
+  country: Serbia
+- name: Komercijalna Banka A.d. Beograd
+  swift: KOBBRSBGKRS
+  swift8: KOBBRSBG
+  branch_name: 37000 Krusevac
+  branch_address: Trg Oktobarske Revolucije 1 37000 Krusevac
+  branch_code: KRS
+  city: Krusevac
+  country: Serbia
+- name: Komercijalna Banka A.d. Beograd
+  swift: KOBBRSBGXXX
+  swift8: KOBBRSBG
+  branch_name: Head Office
+  branch_address: Svetog Save 14 11000 Beograd
+  branch_code: XXX
+  city: Beograd
+  country: Serbia
+- name: Marfin Bank A.d. Beograd
+  swift: LIKIRSBGXXX
+  swift8: LIKIRSBG
+  branch_name: Head Office
+  branch_address: Dalmatinska 22 11000 Beograd
+  branch_code: XXX
+  city: Beograd
+  country: Serbia
+- name: Mb Bank A.d. Nis
+  swift: MBBNRS21XXX
+  swift8: MBBNRS21
+  branch_name: Head Office
+  branch_address: Rudjera Boskovica 8 18000 Nis
+  branch_code: XXX
+  city: Nis
+  country: Serbia
+- name: Mega-euro Banka
+  swift: MEGBRSB1XXX
+  swift8: MEGBRSB1
+  branch_name: Head Office
+  branch_address: Beograd
+  branch_code: XXX
+  city: Beograd
+  country: Serbia
+- name: Narodna Banka Srbije (national Bank Of Serbia-nbs
+  swift: NBSRRS21001
+  swift8: NBSRRS21
+  branch_name: No branch name
+  branch_address: No branch address
+  branch_code: '001'
+  city: Beograd
+  country: Serbia
+- name: Narodna Banka Srbije (national Bank Of Serbia-nbs
+  swift: NBSRRS21002
+  swift8: NBSRRS21
+  branch_name: No branch name
+  branch_address: No branch address
+  branch_code: '002'
+  city: Beograd
+  country: Serbia
+- name: Narodna Banka Srbije (national Bank Of Serbia-nbs
+  swift: NBSRRS21003
+  swift8: NBSRRS21
+  branch_name: No branch name
+  branch_address: No branch address
+  branch_code: '003'
+  city: Beograd
+  country: Serbia
+- name: Narodna Banka Srbije (national Bank Of Serbia-nbs
+  swift: NBSRRS21004
+  swift8: NBSRRS21
+  branch_name: No branch name
+  branch_address: No branch address
+  branch_code: '004'
+  city: Beograd
+  country: Serbia
+- name: Narodna Banka Srbije (national Bank Of Serbia-nbs
+  swift: NBSRRS21005
+  swift8: NBSRRS21
+  branch_name: No branch name
+  branch_address: No branch address
+  branch_code: '005'
+  city: Beograd
+  country: Serbia
+- name: Narodna Banka Srbije (national Bank Of Serbia-nbs
+  swift: NBSRRS21006
+  swift8: NBSRRS21
+  branch_name: No branch name
+  branch_address: No branch address
+  branch_code: '006'
+  city: Beograd
+  country: Serbia
+- name: Narodna Banka Srbije (national Bank Of Serbia-nbs
+  swift: NBSRRS21007
+  swift8: NBSRRS21
+  branch_name: No branch name
+  branch_address: No branch address
+  branch_code: '007'
+  city: Beograd
+  country: Serbia
+- name: Narodna Banka Srbije (national Bank Of Serbia-nbs
+  swift: NBSRRS21008
+  swift8: NBSRRS21
+  branch_name: No branch name
+  branch_address: No branch address
+  branch_code: '008'
+  city: Beograd
+  country: Serbia
+- name: Narodna Banka Srbije (national Bank Of Serbia-nbs
+  swift: NBSRRS21009
+  swift8: NBSRRS21
+  branch_name: No branch name
+  branch_address: No branch address
+  branch_code: '009'
+  city: Beograd
+  country: Serbia
+- name: Narodna Banka Srbije (national Bank Of Serbia-nbs
+  swift: NBSRRS21JJ1
+  swift8: NBSRRS21
+  branch_name: No branch name
+  branch_address: No branch address
+  branch_code: JJ1
+  city: Kosovska Mitrovica
+  country: Serbia
+- name: Narodna Banka Srbije (national Bank Of Serbia-nbs
+  swift: NBSRRS21PI1
+  swift8: NBSRRS21
+  branch_name: No branch name
+  branch_address: No branch address
+  branch_code: PI1
+  city: Beograd
+  country: Serbia
+- name: Narodna Banka Srbije (national Bank Of Serbia-nbs
+  swift: NBSRRS21UP1
+  swift8: NBSRRS21
+  branch_name: No branch name
+  branch_address: No branch address
+  branch_code: UP1
+  city: Beograd
+  country: Serbia
+- name: Narodna Banka Srbije (national Bank Of Serbia-nbs
+  swift: NBSRRS21UP2
+  swift8: NBSRRS21
+  branch_name: No branch name
+  branch_address: No branch address
+  branch_code: UP2
+  city: Beograd
+  country: Serbia
+- name: Narodna Banka Srbije (national Bank Of Serbia-nbs
+  swift: NBSRRS21UP3
+  swift8: NBSRRS21
+  branch_name: No branch name
+  branch_address: No branch address
+  branch_code: UP3
+  city: Beograd
+  country: Serbia
+- name: Narodna Banka Srbije (national Bank Of Serbia-nbs
+  swift: NBSRRSBDXXX
+  swift8: NBSRRSBD
+  branch_name: Head Office
+  branch_address: Pop Lukina 7-9 11000 Beograd
+  branch_code: XXX
+  city: Beograd
+  country: Serbia
+- name: Narodna Banka Srbije (national Bank Of Serbia-nbs
+  swift: NBSRRSBGXXX
+  swift8: NBSRRSBG
+  branch_name: Head Office
+  branch_address: Nemanjina 17 11000 Beograd
+  branch_code: XXX
+  city: Beograd
+  country: Serbia
+- name: Nlb Banka A.d. Beograd
+  swift: CONARS22XXX
+  swift8: CONARS22
+  branch_name: Head Office
+  branch_address: Bulevar Mihajla Pupina 165 V 11070 Novi Beograd
+  branch_code: XXX
+  city: Novi Beograd
+  country: Serbia
+- name: Opportunity Banka
+  swift: OPSARS21XXX
+  swift8: OPSARS21
+  branch_name: Head Office
+  branch_address: Bulevar Oslobodjenja 2a 21000 Novi Sad
+  branch_code: XXX
+  city: Novi Sad
+  country: Serbia
+- name: Opportunity Banka A.d. Novi Sad
+  swift: OPPBRS22XXX
+  swift8: OPPBRS22
+  branch_name: Head Office
+  branch_address: Bulevar Oslobodjenja 2a 21000 Novi Sad
+  branch_code: XXX
+  city: Novi Sad
+  country: Serbia
+- name: Otp Banka Srbija A.d. Novi Sad
+  swift: OTPVRS22XXX
+  swift8: OTPVRS22
+  branch_name: Head Office
+  branch_address: 80 Bulevar Oslobodjenja 21000 Novi Sad
+  branch_code: XXX
+  city: Novi Sad
+  country: Serbia
+- name: Pesterbanka
+  swift: PESTRS21XXX
+  swift8: PESTRS21
+  branch_name: Head Office
+  branch_address: Poslovni Centar Jezero L/33 36300 Novi Pazar
+  branch_code: XXX
+  city: Novi Pazar
+  country: Serbia
+- name: Piraeus Bank Ad Beograd
+  swift: PIRBRSBGXXX
+  swift8: PIRBRSBG
+  branch_name: Head Office
+  branch_address: Milentija Popovica 5b 11070 Beograd
+  branch_code: XXX
+  city: Beograd
+  country: Serbia
+- name: Poljoprivredno Investiciona Banka
+  swift: PIBBRS21XXX
+  swift8: PIBBRS21
+  branch_name: Head Office
+  branch_address: Milentija Popovica 7b 11000 Beograd
+  branch_code: XXX
+  city: Beograd
+  country: Serbia
+- name: Postal Savings Bank Jsc
+  swift: SBPORSBG100
+  swift8: SBPORSBG
+  branch_name: Corporate Customers
+  branch_address: 27. Marta 71 11000 Beograd
+  branch_code: '100'
+  city: Beograd
+  country: Serbia
+- name: Postal Savings Bank Jsc
+  swift: SBPORSBGXXX
+  swift8: SBPORSBG
+  branch_name: Head Office
+  branch_address: Kraljice Marije 3 11000 Beograd
+  branch_code: XXX
+  city: Beograd
+  country: Serbia
+- name: Procredit Bank A.d. Belgrade
+  swift: PRCBRSBGXXX
+  swift8: PRCBRSBG
+  branch_name: Head Office
+  branch_address: Bulevar Despota Stefana 68c 11000 Beograd
+  branch_code: XXX
+  city: Beograd
+  country: Serbia
+- name: Racuni Prihoda I Rashoda Nbs
+  swift: NBJORSB1XXX
+  swift8: NBJORSB1
+  branch_name: Head Office
+  branch_address: Skadarska 23 11000 Beograd
+  branch_code: XXX
+  city: Beograd
+  country: Serbia
+- name: Raiffeisen Banka A.d.
+  swift: RZBSRSBGXXX
+  swift8: RZBSRSBG
+  branch_name: Head Office
+  branch_address: Bulevar Avnoj-a 64a 11070 Beograd
+  branch_code: XXX
+  city: Beograd
+  country: Serbia
+- name: Sberbank Srbija A.d.
+  swift: SABRRSBGXXX
+  swift8: SABRRSBG
+  branch_name: Head Office
+  branch_address: Bulevar Mihaila Pupina 165g 11070 Beograd
+  branch_code: XXX
+  city: Beograd
+  country: Serbia
+- name: Societe Generale Banka Srbija Ad Beograd
+  swift: SOGYRSBGXXX
+  swift8: SOGYRSBG
+  branch_name: Head Office
+  branch_address: Bulevar Zorana Djindjica 50 A/B 11070 Beograd
+  branch_code: XXX
+  city: Beograd
+  country: Serbia
+- name: Srpska Banka A.d.
+  swift: SRBNRSBGXXX
+  swift8: SRBNRSBG
+  branch_name: Head Office
+  branch_address: Savska 25 11000 Beograd
+  branch_code: XXX
+  city: Beograd
+  country: Serbia
+- name: Ts-imperial Clearing House Llc
+  swift: TCHLRSB1XXX
+  swift8: TCHLRSB1
+  branch_name: Head Office
+  branch_address: Trading Center 11000 Beograd
+  branch_code: XXX
+  city: Beograd
+  country: Serbia
+- name: Ts-tristar Imperial, International Credit Institute Llc
+  swift: TIIERS21XXX
+  swift8: TIIERS21
+  branch_name: Head Office
+  branch_address: Karadjordjeva 9 26000 Pancevo
+  branch_code: XXX
+  city: Pancevo
+  country: Serbia
+- name: Unicredit Bank Srbija A.d.
+  swift: BACXRSBGXXX
+  swift8: BACXRSBG
+  branch_name: Head Office
+  branch_address: Rajiceva 27-29 11000 Beograd
+  branch_code: XXX
+  city: Beograd
+  country: Serbia
+- name: Vojvodjanska Banka D.d.
+  swift: VBUBRS22XXX
+  swift8: VBUBRS22
+  branch_name: Head Office
+  branch_address: Trg Slobode 7 21000 Novi Sad
+  branch_code: XXX
+  city: Novi Sad
+  country: Serbia
+- name: Vtb Banka Ad Beograd
+  swift: MBBGRSBGXXX
+  swift8: MBBGRSBG
+  branch_name: Head Office
+  branch_address: Balkanska 2 11000 Beograd
+  branch_code: XXX
+  city: Beograd
+  country: Serbia

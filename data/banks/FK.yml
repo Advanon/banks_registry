@@ -1,0 +1,10 @@
+---
+FK:
+- name: Standard Chartered Bank
+  swift: SCBLFKFKXXX
+  swift8: SCBLFKFK
+  branch_name: Head Office
+  branch_address: Ross Road Stanley
+  branch_code: XXX
+  city: Stanley
+  country: Falkland Islands (Malvinas)

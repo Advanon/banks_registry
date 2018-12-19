@@ -1,0 +1,410 @@
+---
+ZM:
+- name: Ab Bank Zambia Ltd.
+  swift: ABBAZMLUXXX
+  swift8: ABBAZMLU
+  branch_name: Head Office
+  branch_address: Stand 7393 10101 Lusaka
+  branch_code: XXX
+  city: Lusaka
+  country: Zambia
+- name: Access Bank Zambia Limited
+  swift: AZAMZMLUXXX
+  swift8: AZAMZMLU
+  branch_name: Head Office
+  branch_address: Access House 10101 Lusaka
+  branch_code: XXX
+  city: Lusaka
+  country: Zambia
+- name: African Banking Corporation Zambia
+  swift: FMBZZMLXXXX
+  swift8: FMBZZMLX
+  branch_name: Head Office
+  branch_address: Nscb Building Lusaka
+  branch_code: XXX
+  city: Lusaka
+  country: Zambia
+- name: African Commercial Bank Ltd
+  swift: ACBKZML1XXX
+  swift8: ACBKZML1
+  branch_name: Head Office
+  branch_address: Superannuation House Lusaka
+  branch_code: XXX
+  city: Lusaka
+  country: Zambia
+- name: Bank Of China (zambia) Ltd
+  swift: BKCHZMLUXXX
+  swift8: BKCHZMLU
+  branch_name: Head Office
+  branch_address: Amandra House 10101 Lusaka
+  branch_code: XXX
+  city: Lusaka
+  country: Zambia
+- name: Bank Of Zambia
+  swift: BAZAZMLUASA
+  swift8: BAZAZMLU
+  branch_name: Authorised Settlement Agent
+  branch_address: Lusaka
+  branch_code: ASA
+  city: Lusaka
+  country: Zambia
+- name: Bank Of Zambia
+  swift: BAZAZMLUXXX
+  swift8: BAZAZMLU
+  branch_name: Head Office
+  branch_address: Bank Square, Cairo Road Lusaka
+  branch_code: XXX
+  city: Lusaka
+  country: Zambia
+- name: Barclays Bank Plc Zambia
+  swift: BARCZMLXKPC
+  swift8: BARCZMLX
+  branch_name: Kitwe Processing Centre
+  branch_address: Barclays Kitwe
+  branch_code: KPC
+  city: Kitwe
+  country: Zambia
+- name: Barclays Bank Plc Zambia
+  swift: BARCZMLXXXX
+  swift8: BARCZMLX
+  branch_name: Head Office
+  branch_address: Kafue House 10101 Lusaka
+  branch_code: XXX
+  city: Lusaka
+  country: Zambia
+- name: Cavmont Merchant Bank Limited
+  swift: CVMTZMLUXXX
+  swift8: CVMTZMLU
+  branch_name: Head Office
+  branch_address: 2/F Mukuba Pension House Lusaka
+  branch_code: XXX
+  city: Lusaka
+  country: Zambia
+- name: Cavmont Securities Limited
+  swift: CAVRZML1XXX
+  swift8: CAVRZML1
+  branch_name: Head Office
+  branch_address: Mukuba Pension House Lusaka
+  branch_code: XXX
+  city: Lusaka
+  country: Zambia
+- name: Citibank Zambia Ltd
+  swift: CITIZMLUXXX
+  swift8: CITIZMLU
+  branch_name: Head Office
+  branch_address: Citibank House 30037 Lusaka
+  branch_code: XXX
+  city: Lusaka
+  country: Zambia
+- name: Development Bank Of Zambia
+  swift: DEBZZML1XXX
+  swift8: DEBZZML1
+  branch_name: Head Office
+  branch_address: Development House Lusaka
+  branch_code: XXX
+  city: Lusaka
+  country: Zambia
+- name: Ecobank Zambia
+  swift: ECOCZMLUXXX
+  swift8: ECOCZMLU
+  branch_name: Head Office
+  branch_address: Ecobank Zambia 10101 Lusaka
+  branch_code: XXX
+  city: Lusaka
+  country: Zambia
+- name: Finance Bank Zambia Limited.
+  swift: ZFBAZML102N
+  swift8: ZFBAZML1
+  branch_name: Ndola
+  branch_address: Ndola
+  branch_code: 02N
+  city: Ndola
+  country: Zambia
+- name: Finance Bank Zambia Limited.
+  swift: ZFBAZMLUXXX
+  swift8: ZFBAZMLU
+  branch_name: Head Office
+  branch_address: Chanik House Lusaka
+  branch_code: XXX
+  city: Lusaka
+  country: Zambia
+- name: First Alliance Bank
+  swift: FALLZMLUXXX
+  swift8: FALLZMLU
+  branch_name: Head Office
+  branch_address: Cha Cha Cha Road Lusaka
+  branch_code: XXX
+  city: Lusaka
+  country: Zambia
+- name: First National Bank Zambia Limited
+  swift: FIRNZMLXXXX
+  swift8: FIRNZMLX
+  branch_name: Head Office
+  branch_address: Cnr Great East Road and Thabo Lusaka
+  branch_code: XXX
+  city: Lusaka
+  country: Zambia
+- name: Fx Africa
+  swift: FXAFZML1XXX
+  swift8: FXAFZML1
+  branch_name: Head Office
+  branch_address: Keneth Kaunda House Lusaka
+  branch_code: XXX
+  city: Lusaka
+  country: Zambia
+- name: Indo-zambia Bank
+  swift: INZAZMLXXXX
+  swift8: INZAZMLX
+  branch_name: Head Office
+  branch_address: Plot No. 6907 Lusaka
+  branch_code: XXX
+  city: Lusaka
+  country: Zambia
+- name: Intermarket Banking Corporation Limited
+  swift: IDHZZMLUXXX
+  swift8: IDHZZMLU
+  branch_name: Head Office
+  branch_address: Farmers House Lusaka
+  branch_code: XXX
+  city: Lusaka
+  country: Zambia
+- name: Intermarket Securities Zambia Ltd
+  swift: INSZZML1XXX
+  swift8: INSZZML1
+  branch_name: Head Office
+  branch_address: Farmers House at Central Park Lusaka
+  branch_code: XXX
+  city: Lusaka
+  country: Zambia
+- name: International Commercial Bank Zambia Limited
+  swift: ICZAZMLUXXX
+  swift8: ICZAZMLU
+  branch_name: Head Office
+  branch_address: Junction of Great North- Washama Lusaka
+  branch_code: XXX
+  city: Lusaka
+  country: Zambia
+- name: Investrust Bank Ltd
+  swift: VSTRZMLUXXX
+  swift8: VSTRZMLU
+  branch_name: Head Office
+  branch_address: Investrust House Lusaka
+  branch_code: XXX
+  city: Lusaka
+  country: Zambia
+- name: Lusaka Stock Exchange
+  swift: XLUSZML1XXX
+  swift8: XLUSZML1
+  branch_name: Head Office
+  branch_address: Exchange Building Lusaka
+  branch_code: XXX
+  city: Lusaka
+  country: Zambia
+- name: Luse Central Shares Depository Limited
+  swift: LCSDZML1XXX
+  swift8: LCSDZML1
+  branch_name: Head Office
+  branch_address: Plot 2a Lusaka
+  branch_code: XXX
+  city: Lusaka
+  country: Zambia
+- name: Manifold Investment Bank Limited
+  swift: MINVZML1XXX
+  swift8: MINVZML1
+  branch_name: Head Office
+  branch_address: Lusaka
+  branch_code: XXX
+  city: Lusaka
+  country: Zambia
+- name: Meridien Biao Zambia Ltd.
+  swift: MEZAZML1XXX
+  swift8: MEZAZML1
+  branch_name: Head Office
+  branch_address: Meridien House Lusaka
+  branch_code: XXX
+  city: Lusaka
+  country: Zambia
+- name: National Savings And Credit Bank Of Zambia
+  swift: NSCBZML1022
+  swift8: NSCBZML1
+  branch_name: Chipata
+  branch_address: Chipata
+  branch_code: '022'
+  city: Chipata
+  country: Zambia
+- name: National Savings And Credit Bank Of Zambia
+  swift: NSCBZML1023
+  swift8: NSCBZML1
+  branch_name: Kasama
+  branch_address: Kasama
+  branch_code: '023'
+  city: Kasama
+  country: Zambia
+- name: National Savings And Credit Bank Of Zambia
+  swift: NSCBZML1024
+  swift8: NSCBZML1
+  branch_name: Livingstone
+  branch_address: Livingstone
+  branch_code: '024'
+  city: Livingstone
+  country: Zambia
+- name: National Savings And Credit Bank Of Zambia
+  swift: NSCBZML1025
+  swift8: NSCBZML1
+  branch_name: Mansa
+  branch_address: Mansa
+  branch_code: '025'
+  city: Mansa
+  country: Zambia
+- name: National Savings And Credit Bank Of Zambia
+  swift: NSCBZML1026
+  swift8: NSCBZML1
+  branch_name: Mongu
+  branch_address: Mongu
+  branch_code: '026'
+  city: Mongu
+  country: Zambia
+- name: National Savings And Credit Bank Of Zambia
+  swift: NSCBZML1027
+  swift8: NSCBZML1
+  branch_name: Solwezi
+  branch_address: Solwezi
+  branch_code: '027'
+  city: Solwezi
+  country: Zambia
+- name: National Savings And Credit Bank Of Zambia
+  swift: NSCBZML102N
+  swift8: NSCBZML1
+  branch_name: Ndola
+  branch_address: Ndola
+  branch_code: 02N
+  city: Ndola
+  country: Zambia
+- name: National Savings And Credit Bank Of Zambia
+  swift: NSCBZML1XXX
+  swift8: NSCBZML1
+  branch_name: Head Office
+  branch_address: 248 Cario Road Lusaka
+  branch_code: XXX
+  city: Lusaka
+  country: Zambia
+- name: New Capital Bank Plc
+  swift: NCBPZML1XXX
+  swift8: NCBPZML1
+  branch_name: Head Office
+  branch_address: Anchor House Lusaka
+  branch_code: XXX
+  city: Lusaka
+  country: Zambia
+- name: Pangaea/emi Securities Limited
+  swift: PSNIZML1XXX
+  swift8: PSNIZML1
+  branch_name: Head Office
+  branch_address: Farmers House Lusaka
+  branch_code: XXX
+  city: Lusaka
+  country: Zambia
+- name: Sabmiller Zambia
+  swift: SABMZMZ1HSL
+  swift8: SABMZMZ1
+  branch_name: Lusaka
+  branch_address: Malambo Road Lusaka
+  branch_code: HSL
+  city: Lusaka
+  country: Zambia
+- name: Sabmiller Zambia
+  swift: SABMZMZ1NBP
+  swift8: SABMZMZ1
+  branch_name: Lusaka
+  branch_address: Sheki Skeki Road, Plot 1809 Lusaka
+  branch_code: NBP
+  city: Lusaka
+  country: Zambia
+- name: Sabmiller Zambia
+  swift: SABMZMZ1XXX
+  swift8: SABMZMZ1
+  branch_name: Head Office
+  branch_address: Mungwi Road Lusaka
+  branch_code: XXX
+  city: Lusaka
+  country: Zambia
+- name: Sabmiller Zambia
+  swift: SABMZMZ1ZBP
+  swift8: SABMZMZ1
+  branch_name: Lusaka
+  branch_address: Mungwi Road Lusaka
+  branch_code: ZBP
+  city: Lusaka
+  country: Zambia
+- name: Stanbic Bank Zambia Ltd.
+  swift: SBICZML10ZK
+  swift8: SBICZML1
+  branch_name: Kitwe
+  branch_address: Kitwe
+  branch_code: 0ZK
+  city: Kitwe
+  country: Zambia
+- name: Stanbic Bank Zambia Ltd.
+  swift: SBICZML10ZN
+  swift8: SBICZML1
+  branch_name: Ndola
+  branch_address: Ndola
+  branch_code: 0ZN
+  city: Ndola
+  country: Zambia
+- name: Stanbic Bank Zambia Ltd.
+  swift: SBICZMLXXXX
+  swift8: SBICZMLX
+  branch_name: Lusaka Branch
+  branch_address: Woodgate House Lusaka
+  branch_code: XXX
+  city: Lusaka
+  country: Zambia
+- name: Standard Chartered Bank Zambia Ltd
+  swift: SCBLZML102N
+  swift8: SCBLZML1
+  branch_name: Ndola South Branch
+  branch_address: Corner Zambia Road/Matipa Road Ndola
+  branch_code: 02N
+  city: Ndola
+  country: Zambia
+- name: Standard Chartered Bank Zambia Ltd
+  swift: SCBLZMLXSSU
+  swift8: SCBLZMLX
+  branch_name: Securities Services Unit
+  branch_address: Lusaka
+  branch_code: SSU
+  city: Lusaka
+  country: Zambia
+- name: Standard Chartered Bank Zambia Ltd
+  swift: SCBLZMLXXXX
+  swift8: SCBLZMLX
+  branch_name: Head Office
+  branch_address: Standard Chartered House 10101 Lusaka
+  branch_code: XXX
+  city: Lusaka
+  country: Zambia
+- name: United Bank For Africa Zambia Limited
+  swift: UNAFZMLUXXX
+  swift8: UNAFZMLU
+  branch_name: Head Office
+  branch_address: Thabo Mbeki Road, Stand 22768 10101 Lusaka
+  branch_code: XXX
+  city: Lusaka
+  country: Zambia
+- name: Zambia Export And Import Bank Limited
+  swift: ZAEIZML1XXX
+  swift8: ZAEIZML1
+  branch_name: Head Office
+  branch_address: Society House 10101 Lusaka
+  branch_code: XXX
+  city: Lusaka
+  country: Zambia
+- name: Zambia National Commercial
+  swift: ZNCOZMLUXXX
+  swift8: ZNCOZMLU
+  branch_name: Head Office
+  branch_address: Cairo Road Lusaka
+  branch_code: XXX
+  city: Lusaka
+  country: Zambia

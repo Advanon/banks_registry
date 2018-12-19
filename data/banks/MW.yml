@@ -1,0 +1,202 @@
+---
+MW:
+- name: Cdh Investment Bank (cdhib
+  swift: CDHIMWMWXXX
+  swift8: CDHIMWMW
+  branch_name: Head Office
+  branch_address: Unit House Blantyre
+  branch_code: XXX
+  city: Blantyre
+  country: Malawi
+- name: Continental Discount House Limited
+  swift: CODHMWM1XXX
+  swift8: CODHMWM1
+  branch_name: Head Office
+  branch_address: Unit House Blantyre
+  branch_code: XXX
+  city: Blantyre
+  country: Malawi
+- name: Ecobank Malawi Limited
+  swift: ECOCMWMWXXX
+  swift8: ECOCMWMW
+  branch_name: Head Office
+  branch_address: Loita House Blantyre
+  branch_code: XXX
+  city: Blantyre
+  country: Malawi
+- name: Fdh Bank Limited
+  swift: FDHFMWMWXXX
+  swift8: FDHFMWMW
+  branch_name: Head Office
+  branch_address: Umoyo House Blantyre
+  branch_code: XXX
+  city: Blantyre
+  country: Malawi
+- name: Fincom Bank Of Malawi Limited (fincom
+  swift: FIMWMWM1XXX
+  swift8: FIMWMWM1
+  branch_name: Head Office
+  branch_address: Development House Blantyre
+  branch_code: XXX
+  city: Blantyre
+  country: Malawi
+- name: First Merchant Bank Ltd., Malawi
+  swift: FMERMWMWXXX
+  swift8: FMERMWMW
+  branch_name: Head Office
+  branch_address: First House Blantyre
+  branch_code: XXX
+  city: Blantyre
+  country: Malawi
+- name: Indebank Limited
+  swift: INNKMWMWXXX
+  swift8: INNKMWMW
+  branch_name: Head Office
+  branch_address: Indebank House Blantyre
+  branch_code: XXX
+  city: Blantyre
+  country: Malawi
+- name: Malawi Savings Bank Limited
+  swift: MSBLMWMWXXX
+  swift8: MSBLMWMW
+  branch_name: Head Office
+  branch_address: Msb House Blantyre
+  branch_code: XXX
+  city: Blantyre
+  country: Malawi
+- name: Malawi Stock Exchange
+  swift: XMSWMWM1XXX
+  swift8: XMSWMWM1
+  branch_name: Head Office
+  branch_address: Old Reserve Bank Building Blantyre
+  branch_code: XXX
+  city: Blantyre
+  country: Malawi
+- name: National Bank Of Malawi
+  swift: NBMAMWMW001
+  swift8: NBMAMWMW
+  branch_name: Henderson Street Branch
+  branch_address: National Bank of Malawi Blantyre
+  branch_code: '001'
+  city: Blantyre
+  country: Malawi
+- name: National Bank Of Malawi
+  swift: NBMAMWMW002
+  swift8: NBMAMWMW
+  branch_name: Victoria Avenue Branch
+  branch_address: National Bank of Malawi Blantyre
+  branch_code: '002'
+  city: Blantyre
+  country: Malawi
+- name: National Bank Of Malawi
+  swift: NBMAMWMW003
+  swift8: NBMAMWMW
+  branch_name: Chichiri Branch
+  branch_address: Chichiri
+  branch_code: '003'
+  city: Chichiri
+  country: Malawi
+- name: National Bank Of Malawi
+  swift: NBMAMWMW004
+  swift8: NBMAMWMW
+  branch_name: Customs Road Branch
+  branch_address: National Bank of Malawi Limbe
+  branch_code: '004'
+  city: Limbe
+  country: Malawi
+- name: National Bank Of Malawi
+  swift: NBMAMWMW005
+  swift8: NBMAMWMW
+  branch_name: Churchill Road Branch
+  branch_address: Churchill Road Limbe
+  branch_code: '005'
+  city: Limbe
+  country: Malawi
+- name: National Bank Of Malawi
+  swift: NBMAMWMW007
+  swift8: NBMAMWMW
+  branch_name: Capital City Branch
+  branch_address: Lilongwe
+  branch_code: '007'
+  city: Lilongwe
+  country: Malawi
+- name: National Bank Of Malawi
+  swift: NBMAMWMW008
+  swift8: NBMAMWMW
+  branch_name: Lilongwe Branch
+  branch_address: Lilongwe
+  branch_code: '008'
+  city: Lilongwe
+  country: Malawi
+- name: National Bank Of Malawi
+  swift: NBMAMWMW044
+  swift8: NBMAMWMW
+  branch_name: Financial Management Services
+  branch_address: Blantyre
+  branch_code: '044'
+  city: Blantyre
+  country: Malawi
+- name: National Bank Of Malawi
+  swift: NBMAMWMWXXX
+  swift8: NBMAMWMW
+  branch_name: Head Office
+  branch_address: Nbm Head Office Blantyre
+  branch_code: XXX
+  city: Blantyre
+  country: Malawi
+- name: Nbs Bank Limited
+  swift: NBSTMWMWXXX
+  swift8: NBSTMWMW
+  branch_name: Head Office
+  branch_address: Nbs House Blantyre
+  branch_code: XXX
+  city: Blantyre
+  country: Malawi
+- name: Nedbank (malawi) Limited
+  swift: NEDMMWMWXXX
+  swift8: NEDMMWMW
+  branch_name: Head Office
+  branch_address: Development House 750 Blantyre
+  branch_code: XXX
+  city: Blantyre
+  country: Malawi
+- name: Opportunity International Bank Of Malawi
+  swift: OPILMWMWXXX
+  swift8: OPILMWMW
+  branch_name: Head Office
+  branch_address: Opportunity Bank Building Lilongwe
+  branch_code: XXX
+  city: Lilongwe
+  country: Malawi
+- name: Reserve Bank Of Malawi
+  swift: RBMAMWMWXXX
+  swift8: RBMAMWMW
+  branch_name: Head Office
+  branch_address: Rbm Head Office Lilongwe
+  branch_code: XXX
+  city: Lilongwe
+  country: Malawi
+- name: Standard Bank Limited-malawi
+  swift: SBICMWMXXXX
+  swift8: SBICMWMX
+  branch_name: Head Office
+  branch_address: Kaomba Centre Blantyre
+  branch_code: XXX
+  city: Blantyre
+  country: Malawi
+- name: Stockbrokers Malawi Limited
+  swift: SBMWMWM1XXX
+  swift8: SBMWMWM1
+  branch_name: Head Office
+  branch_address: Able House Blantyre
+  branch_code: XXX
+  city: Blantyre
+  country: Malawi
+- name: Trust Securities Limited
+  swift: TRETMWM1XXX
+  swift8: TRETMWM1
+  branch_name: Head Office
+  branch_address: Delamere House Blantyre
+  branch_code: XXX
+  city: Blantyre
+  country: Malawi

@@ -1,0 +1,82 @@
+---
+PF:
+- name: Banque De Polynesie
+  swift: BPOLPFTPXXX
+  swift8: BPOLPFTP
+  branch_name: Head Office
+  branch_address: 355 Boulevard Pomare 98714 Papeete
+  branch_code: XXX
+  city: Papeete
+  country: French Polynesia
+- name: Banque De Tahiti S.a.
+  swift: CEPAPFTPXXX
+  swift8: CEPAPFTP
+  branch_name: Head Office
+  branch_address: 38 Rue Francois Cardella 98713 Papeete
+  branch_code: XXX
+  city: Papeete
+  country: French Polynesia
+- name: Banque Paribas Polynesie
+  swift: PARBPFT1XXX
+  swift8: PARBPFT1
+  branch_name: Head Office
+  branch_address: Immeuble Cowan Papeete
+  branch_code: XXX
+  city: Papeete
+  country: French Polynesia
+- name: Ieom Papeete
+  swift: INDDPFT1XXX
+  swift8: INDDPFT1
+  branch_name: Head Office
+  branch_address: 21 Rue Du Dr Cassiau 98713 Papeete
+  branch_code: XXX
+  city: Papeete
+  country: French Polynesia
+- name: Oceanienne De Financement
+  swift: OCFOPFT1XXX
+  swift8: OCFOPFT1
+  branch_name: Head Office
+  branch_address: Imm Dorothee Levy 98715 Papeete
+  branch_code: XXX
+  city: Papeete
+  country: French Polynesia
+- name: Oceor Lease Tahiti
+  swift: OCLTPFT1XXX
+  swift8: OCLTPFT1
+  branch_name: Head Office
+  branch_address: 38 Rue Francois Cardella 98713 Papeete
+  branch_code: XXX
+  city: Papeete
+  country: French Polynesia
+- name: Office Postes Et Telecom De Polynesie Fr
+  swift: OFTPPFT1XXX
+  swift8: OFTPPFT1
+  branch_name: Head Office
+  branch_address: Papeete Cheques 98704 Faaa
+  branch_code: XXX
+  city: Faaa
+  country: French Polynesia
+- name: Socredo
+  swift: SOCBPFTXXXX
+  swift8: SOCBPFTX
+  branch_name: Head Office
+  branch_address: Rue Dumont Durville 98400 Papeete
+  branch_code: XXX
+  city: Papeete
+  country: French Polynesia
+- name: Sogelease Bdp
+  swift: SOGDPFT1XXX
+  swift8: SOGDPFT1
+  branch_name: Head Office
+  branch_address: 355 Bd Pomare 98713 Papeete
+  branch_code: XXX
+  city: Papeete
+  country: French Polynesia
+- name: Tresor Public Papeete
+  swift: TRPUPFT1XXX
+  swift8: TRPUPFT1
+  branch_name: No branch name
+  branch_address: No branch address
+  branch_code: XXX
+  city: Papeete
+  country: French Polynesia

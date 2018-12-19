@@ -1,0 +1,42 @@
+---
+GU:
+- name: Allied Banking Corporation
+  swift: ABCMGUG1XXX
+  swift8: ABCMGUG1
+  branch_name: Head Office
+  branch_address: Bejess Commercial Building Tamuning
+  branch_code: XXX
+  city: Tamuning
+  country: Guam
+- name: Anz Guam, Inc.
+  swift: ANZBGUGGXXX
+  swift8: ANZBGUGG
+  branch_name: Head Office
+  branch_address: Julale Shopping Center 96910 Agana
+  branch_code: XXX
+  city: Agana
+  country: Guam
+- name: Bank Of Guam
+  swift: GMBKGUGUXXX
+  swift8: GMBKGUGU
+  branch_name: Head Office
+  branch_address: Bank of Guam Building 96910 Agana
+  branch_code: XXX
+  city: Agana
+  country: Guam
+- name: Bank Of Nauru
+  swift: BNAUGUG1XXX
+  swift8: BNAUGUG1
+  branch_name: Head Office
+  branch_address: Agana
+  branch_code: XXX
+  city: Agana
+  country: Guam
+- name: Citibank N.a. Guam
+  swift: CITIGUGXXXX
+  swift8: CITIGUGX
+  branch_name: Head Office
+  branch_address: 402 East Marine Corps Drive 96910 Agana
+  branch_code: XXX
+  city: 96910 Agana
+  country: Guam

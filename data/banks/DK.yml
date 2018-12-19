@@ -1,0 +1,3387 @@
+---
+DK:
+- name: A.P. Moller-Maersk
+  swift: APMMDKKKXXX
+  swift8: APMMDKKK
+  branch_name: Head Office
+  branch_address: Esplanaden 50 1098 Copenhagen
+  branch_code: XXX
+  city: Copenhagen
+  country: Denmark
+- name: Alm. Brand Bank
+  swift: ALMBDKKKXXX
+  swift8: ALMBDKKK
+  branch_name: Sjl-Banken
+  branch_address: Midtermolen 7 2100 Copenhagen
+  branch_code: XXX
+  city: Copenhagen
+  country: Denmark
+- name: Arbejdernes Landsbank A/S
+  swift: ALBADKKKXXX
+  swift8: ALBADKKK
+  branch_name: Head Office
+  branch_address: Vesterbrogade 5 1502 Copenhagen
+  branch_code: XXX
+  city: Copenhagen
+  country: Denmark
+- name: Bi Asset Management Fondsmaeglerselskab A/S
+  swift: BIAMDKKKXXX
+  swift8: BIAMDKKK
+  branch_name: Head Office
+  branch_address: Bankinvest Group 2100 Copenhagen
+  branch_code: XXX
+  city: Copenhagen
+  country: Denmark
+- name: Carlsberg A/S
+  swift: CARWDKK2XXX
+  swift8: CARWDKK2
+  branch_name: Head Office
+  branch_address: Ny Carlsberg Vej 100 1799 Copenhagen
+  branch_code: XXX
+  city: Copenhagen
+  country: Denmark
+- name: Carnegie Asset Management Fondmaeglerselskab A/S
+  swift: CARNDK22XXX
+  swift8: CARNDK22
+  branch_name: Head Office
+  branch_address: Dampfaergevej 26 2100 Copenhagen
+  branch_code: XXX
+  city: Copenhagen
+  country: Denmark
+- name: Carnegie Bank A.S.
+  swift: CARNDKKKXXX
+  swift8: CARNDKKK
+  branch_name: Head Office
+  branch_address: Overgaden Neden Vandet 9b 1023 Copenhagen
+  branch_code: XXX
+  city: Copenhagen
+  country: Denmark
+- name: Citibank International Plc
+  swift: CITIDKKXXXX
+  swift8: CITIDKKX
+  branch_name: Head Office
+  branch_address: H.C. Andersens Boulevard 12 1553 Copenhagen V
+  branch_code: XXX
+  city: Copenhagen
+  country: Denmark
+- name: Danmarks Nationalbank
+  swift: DKNBDKK3XXX
+  swift8: DKNBDKK3
+  branch_name: Head Office
+  branch_address: Havnegade 5 1093 Copenhagen
+  branch_code: XXX
+  city: Copenhagen
+  country: Denmark
+- name: Danmarks Nationalbank
+  swift: DKNBDKKKXXX
+  swift8: DKNBDKKK
+  branch_name: Head Office
+  branch_address: Havnegade 5 1093 Copenhagen
+  branch_code: XXX
+  city: Copenhagen
+  country: Denmark
+- name: Danske Andelskassers Bank A/S
+  swift: DANBDK22XXX
+  swift8: DANBDK22
+  branch_name: Head Office
+  branch_address: Baneskellet 1, Hammershoej 8830 Tjele
+  branch_code: XXX
+  city: Tjele
+  country: Denmark
+- name: Danske Bank A/S
+  swift: DABADKKKAAL
+  swift8: DABADKKK
+  branch_name: Aalborg
+  branch_address: Aalborg
+  branch_code: AAL
+  city: Aalborg
+  country: Denmark
+- name: Danske Bank A/S
+  swift: DABADKKKAAR
+  swift8: DABADKKK
+  branch_name: Aarhus
+  branch_address: Aarhus
+  branch_code: AAR
+  city: Aarhus
+  country: Denmark
+- name: Danske Bank A/S
+  swift: DABADKKKAAB
+  swift8: DABADKKK
+  branch_name: Aabenraa
+  branch_address: Aabenraa
+  branch_code: AAB
+  city: Aabenraa
+  country: Denmark
+- name: Danske Bank A/S
+  swift: DABADKKKBAG
+  swift8: DABADKKK
+  branch_name: Bagsvaerd
+  branch_address: Bagsvaerd
+  branch_code: BAG
+  city: Bagsvaerd
+  country: Denmark
+- name: Danske Bank A/S
+  swift: DABADKKKBAL
+  swift8: DABADKKK
+  branch_name: Ballerup
+  branch_address: Ballerup
+  branch_code: BAL
+  city: Ballerup
+  country: Denmark
+- name: Danske Bank A/S
+  swift: DABADKKKBJE
+  swift8: DABADKKK
+  branch_name: Bjerringbro
+  branch_address: Bjerringbro
+  branch_code: BJE
+  city: Bjerringbro
+  country: Denmark
+- name: Danske Bank A/S
+  swift: DABADKKKBIR
+  swift8: DABADKKK
+  branch_name: Birkeroed
+  branch_address: Birkeroed
+  branch_code: BIR
+  city: Birkeroed
+  country: Denmark
+- name: Danske Bank A/S
+  swift: DABADKKKCLS
+  swift8: DABADKKK
+  branch_name: Cls Services
+  branch_address: Copenhagen
+  branch_code: CLS
+  city: Copenhagen
+  country: Denmark
+- name: Danske Bank A/S
+  swift: DABADKKKCUS
+  swift8: DABADKKK
+  branch_name: Nordic Custody
+  branch_address: Copenhagen
+  branch_code: CUS
+  city: Copenhagen
+  country: Denmark
+- name: Danske Bank A/S
+  swift: DABADKKKXXX
+  swift8: DABADKKK
+  branch_name: Head Office
+  branch_address: Holmens Kanal 2-12 1092 Copenhagen
+  branch_code: XXX
+  city: Copenhagen
+  country: Denmark
+- name: Danske Bank A/S
+  swift: DABADKKKESB
+  swift8: DABADKKK
+  branch_name: Esbjerg
+  branch_address: Esbjerg
+  branch_code: ESB
+  city: Esbjerg
+  country: Denmark
+- name: Danske Bank A/S
+  swift: DABADKKKFRC
+  swift8: DABADKKK
+  branch_name: Fredericia
+  branch_address: Fredericia
+  branch_code: FRC
+  city: Fredericia
+  country: Denmark
+- name: Danske Bank A/S
+  swift: DABADKKKFRH
+  swift8: DABADKKK
+  branch_name: Frederikshavn
+  branch_address: Frederikshavn
+  branch_code: FRH
+  city: Frederikshavn
+  country: Denmark
+- name: Danske Bank A/S
+  swift: DABADKKKFSU
+  swift8: DABADKKK
+  branch_name: Frederikssund
+  branch_address: Frederikssund
+  branch_code: FSU
+  city: Frederikssund
+  country: Denmark
+- name: Danske Bank A/S
+  swift: DABADKKKGEN
+  swift8: DABADKKK
+  branch_name: Gentofte
+  branch_address: Gentofte
+  branch_code: GEN
+  city: Gentofte
+  country: Denmark
+- name: Danske Bank A/S
+  swift: DABADKKKGLO
+  swift8: DABADKKK
+  branch_name: Glostrup
+  branch_address: Glostrup
+  branch_code: GLO
+  city: Glostrup
+  country: Denmark
+- name: Danske Bank A/S
+  swift: DABADKKKGRN
+  swift8: DABADKKK
+  branch_name: Grenaa
+  branch_address: Grenaa
+  branch_code: GRN
+  city: Grenaa
+  country: Denmark
+- name: Danske Bank A/S
+  swift: DABADKKKHAD
+  swift8: DABADKKK
+  branch_name: Haderslev
+  branch_address: Haderslev
+  branch_code: HAD
+  city: Haderslev
+  country: Denmark
+- name: Danske Bank A/S
+  swift: DABADKKKHER
+  swift8: DABADKKK
+  branch_name: Herning
+  branch_address: Herning
+  branch_code: HER
+  city: Herning
+  country: Denmark
+- name: Danske Bank A/S
+  swift: DABADKKKHEL
+  swift8: DABADKKK
+  branch_name: Helsingoer
+  branch_address: Helsingoer
+  branch_code: HEL
+  city: Helsingoer
+  country: Denmark
+- name: Dexia Bank Denmark A/S
+  swift: BILLDKKKXXX
+  swift8: BILLDKKK
+  branch_name: Head Office
+  branch_address: Groenningen 17 1270 Copenhagen K
+  branch_code: XXX
+  city: Copenhagen
+  country: Denmark
+- name: Djurslands Bank A/S
+  swift: DJURDK22ALL
+  swift8: DJURDK22
+  branch_name: 8961 Allingaabro
+  branch_address: Hovedgaden 8 8961 Allingaabro
+  branch_code: ALL
+  city: Allingaabro
+  country: Denmark
+- name: Djurslands Bank A/S
+  swift: DJURDK22AUN
+  swift8: DJURDK22
+  branch_name: 8963 Auning
+  branch_address: Vestergade 1 8963 Auning
+  branch_code: AUN
+  city: Auning
+  country: Denmark
+- name: Djurslands Bank A/S
+  swift: DJURDK22EBE
+  swift8: DJURDK22
+  branch_name: 8400 Ebeltoft
+  branch_address: Jernbanegade 1 8400 Ebeltoft
+  branch_code: EBE
+  city: Ebeltoft
+  country: Denmark
+- name: Djurslands Bank A/S
+  swift: DJURDK22XXX
+  swift8: DJURDK22
+  branch_name: Head Office
+  branch_address: Torvet 5 8500 Grenaa
+  branch_code: XXX
+  city: Grenaa
+  country: Denmark
+- name: Djurslands Bank A/S
+  swift: DJURDK22HSL
+  swift8: DJURDK22
+  branch_name: 8543 Hornslet
+  branch_address: Tirgvej 3 8543 Hornslet
+  branch_code: HSL
+  city: Hornslet
+  country: Denmark
+- name: Djurslands Bank A/S
+  swift: DJURDK22KLI
+  swift8: DJURDK22
+  branch_name: 8560 Kolind
+  branch_address: Bredgade 29 8560 Kolind
+  branch_code: KLI
+  city: Kolind
+  country: Denmark
+- name: Djurslands Bank A/S
+  swift: DJURDK22LYS
+  swift8: DJURDK22
+  branch_name: 8520 Lystrup
+  branch_address: Soenderskovvej 12 8520 Lystrup
+  branch_code: LYS
+  city: Lystrup
+  country: Denmark
+- name: Djurslands Bank A/S
+  swift: DJURDK22NIM
+  swift8: DJURDK22
+  branch_name: 8581 Nimtofte
+  branch_address: Torvet 12 8581 Nimtofte
+  branch_code: NIM
+  city: Nimtofte
+  country: Denmark
+- name: Djurslands Bank A/S
+  swift: DJURDK22OER
+  swift8: DJURDK22
+  branch_name: 8950 Oersted
+  branch_address: Rougsovej 97 8950 Oersted
+  branch_code: OER
+  city: Oersted
+  country: Denmark
+- name: Djurslands Bank A/S
+  swift: DJURDK22PIN
+  swift8: DJURDK22
+  branch_name: 8550 Pindstrup
+  branch_address: Storegade 47 8550 Pindstrup
+  branch_code: PIN
+  city: Pindstrup
+  country: Denmark
+- name: Djurslands Bank A/S
+  swift: DJURDK22RIS
+  swift8: DJURDK22
+  branch_name: Risskov
+  branch_address: Risskov
+  branch_code: RIS
+  city: Risskov
+  country: Denmark
+- name: Djurslands Bank A/S
+  swift: DJURDK22ROE
+  swift8: DJURDK22
+  branch_name: 8410 Roende
+  branch_address: Hovedgaden 21 8410 Roende
+  branch_code: ROE
+  city: Roende
+  country: Denmark
+- name: Djurslands Bank A/S
+  swift: DJURDK22RYO
+  swift8: DJURDK22
+  branch_name: 8550 Ryomgaard
+  branch_address: Slotsgade 8 8550 Ryomgaard
+  branch_code: RYO
+  city: Ryomgaard
+  country: Denmark
+- name: Djurslands Bank A/S
+  swift: DJURDK22TIL
+  swift8: DJURDK22
+  branch_name: Tilst
+  branch_address: Tilst
+  branch_code: TIL
+  city: Tilst
+  country: Denmark
+- name: Djurslands Bank A/S
+  swift: DJURDK22TRA
+  swift8: DJURDK22
+  branch_name: Tranbjerg
+  branch_address: Tranbjerg
+  branch_code: TRA
+  city: Tranbjerg
+  country: Denmark
+- name: Djurslands Bank A/S
+  swift: DJURDK22VIV
+  swift8: DJURDK22
+  branch_name: 8961 Vivild
+  branch_address: Langgade 24 8961 Vivild
+  branch_code: VIV
+  city: Vivild
+  country: Denmark
+- name: Dnb Bank Asa, Filial Af Dnb Bank Asa, Norge
+  swift: DNBADKKXCLS
+  swift8: DNBADKKX
+  branch_name: Cls Nostro Agent Control Branch
+  branch_address: Copenhagen
+  branch_code: CLS
+  city: Copenhagen
+  country: Denmark
+- name: Dnb Bank Asa, Filial Af Dnb Bank Asa, Norge
+  swift: DNBADKKXXXX
+  swift8: DNBADKKX
+  branch_name: Head Office
+  branch_address: Dampfaergevej 28 2100 Copenhagen
+  branch_code: XXX
+  city: Copenhagen
+  country: Denmark
+- name: Dsv A/S
+  swift: DSVADKKKXXX
+  swift8: DSVADKKK
+  branch_name: Head Office
+  branch_address: Banemarksvej 58 2605 Broendby
+  branch_code: XXX
+  city: Broendby
+  country: Denmark
+- name: Fih Erhvervsbank A/S
+  swift: FIHEDKKKXXX
+  swift8: FIHEDKKK
+  branch_name: Head Office
+  branch_address: Langelinie Alle 43 2100 Copenhagen
+  branch_code: XXX
+  city: Copenhagen
+  country: Denmark
+- name: Fortis Bank Sa/Nv Denmark Branch
+  swift: FTSBDKKKXXX
+  swift8: FTSBDKKK
+  branch_name: Head Office
+  branch_address: Gothersgade 49, 3 Sal 1123 Copenhagen
+  branch_code: XXX
+  city: Copenhagen
+  country: Denmark
+- name: Grundfos Finance A/S
+  swift: GFOSDK22XXX
+  swift8: GFOSDK22
+  branch_name: Head Office
+  branch_address: Poul Due Jensens Vej 7 8850 Bjerringbro
+  branch_code: XXX
+  city: Bjerringbro
+  country: Denmark
+- name: Handelsbanken
+  swift: HANDDKKKXXX
+  swift8: HANDDKKK
+  branch_name: Head Office
+  branch_address: Havneholmen 29 1561 Copenhagen V
+  branch_code: XXX
+  city: Copenhagen
+  country: Denmark
+- name: Id-Sparinvest A/S
+  swift: SINVDK22XXX
+  swift8: SINVDK22
+  branch_name: Head Office
+  branch_address: Baneskellet 1, Hammershoj 8830 Tjele
+  branch_code: XXX
+  city: Tjele
+  country: Denmark
+- name: Jpmorgan Europe Limited (Uk), Copenhagen Filial
+  swift: CHASDKKKXXX
+  swift8: CHASDKKK
+  branch_name: Head Office
+  branch_address: Hermes Hus 900 Copenhagen
+  branch_code: XXX
+  city: Copenhagen
+  country: Denmark
+- name: Jyske Bank A/S
+  swift: JYBADKKKAAL
+  swift8: JYBADKKK
+  branch_name: Aalborg
+  branch_address: Aalborg
+  branch_code: AAL
+  city: Aalborg
+  country: Denmark
+- name: Jyske Bank A/S
+  swift: JYBADKKKAAR
+  swift8: JYBADKKK
+  branch_name: Aarhus
+  branch_address: Aarhus
+  branch_code: AAR
+  city: Aarhus
+  country: Denmark
+- name: Jyske Bank A/S
+  swift: JYBADKKKXXX
+  swift8: JYBADKKK
+  branch_name: And All Danish Offices
+  branch_address: Vesterbrogade 9 1780 Copenhagen
+  branch_code: XXX
+  city: Copenhagen
+  country: Denmark
+- name: Jyske Bank A/S
+  swift: JYBADKKKESB
+  swift8: JYBADKKK
+  branch_name: Esbjerg
+  branch_address: Esbjerg
+  branch_code: ESB
+  city: Esbjerg
+  country: Denmark
+- name: Jyske Bank A/S
+  swift: JYBADKKKFRC
+  swift8: JYBADKKK
+  branch_name: Fredericia
+  branch_address: Fredericia
+  branch_code: FRC
+  city: Fredericia
+  country: Denmark
+- name: Jyske Bank A/S
+  swift: JYBADKKKODE
+  swift8: JYBADKKK
+  branch_name: Odense
+  branch_address: Odense
+  branch_code: ODE
+  city: Odense
+  country: Denmark
+- name: Kreditbanken A/S
+  swift: AAKRDK22XXX
+  swift8: AAKRDK22
+  branch_name: Head Office
+  branch_address: H P Hanssens Gade 17 6200 Aabenraa
+  branch_code: XXX
+  city: Aabenraa
+  country: Denmark
+- name: Lan And Spar Bank A/S
+  swift: LOSADKKKXXX
+  swift8: LOSADKKK
+  branch_name: Head Office
+  branch_address: Hoejbro Plads 9-11 1200 Copenhagen
+  branch_code: XXX
+  city: Copenhagen
+  country: Denmark
+- name: Noerresundby Bank, A/S
+  swift: NRSBDK24XXX
+  swift8: NRSBDK24
+  branch_name: Head Office
+  branch_address: Torvet 4 9400 Noerresundby
+  branch_code: XXX
+  city: Noerresundby
+  country: Denmark
+- name: Nordea Bank Danmark A/S
+  swift: NDEADKKKBCC
+  swift8: NDEADKKK
+  branch_name: Bank Cash Concentration
+  branch_address: Copenhagen
+  branch_code: BCC
+  city: Copenhagen
+  country: Denmark
+- name: Nordea Bank Danmark A/S
+  swift: NDEADKKKCLS
+  swift8: NDEADKKK
+  branch_name: Copenhagen
+  branch_address: Copenhagen
+  branch_code: CLS
+  city: Copenhagen
+  country: Denmark
+- name: Nordea Bank Danmark A/S
+  swift: NDEADKKKFSI
+  swift8: NDEADKKK
+  branch_name: Copenhagen
+  branch_address: Copenhagen
+  branch_code: FSI
+  city: Copenhagen
+  country: Denmark
+- name: Nordea Bank Danmark A/S
+  swift: NDEADKKKNCL
+  swift8: NDEADKKK
+  branch_name: Copenhagen
+  branch_address: Copenhagen
+  branch_code: NCL
+  city: Copenhagen
+  country: Denmark
+- name: Nordea Bank Danmark A/S
+  swift: NDEADKKKPFR
+  swift8: NDEADKKK
+  branch_name: External Custodian
+  branch_address: Copenhagen
+  branch_code: PFR
+  city: Copenhagen
+  country: Denmark
+- name: Nordea Bank Danmark A/S
+  swift: NDEADKKKSPX
+  swift8: NDEADKKK
+  branch_name: Nordea Sp Dealing Branch
+  branch_address: Copenhagen
+  branch_code: SPX
+  city: Copenhagen
+  country: Denmark
+- name: Nordea Bank Danmark A/S
+  swift: NDEADKKKTSY
+  swift8: NDEADKKK
+  branch_name: Group Funding
+  branch_address: Copenhagen
+  branch_code: TSY
+  city: Copenhagen
+  country: Denmark
+- name: Nordea Bank Danmark A/S
+  swift: NDEADKKKXXX
+  swift8: NDEADKKK
+  branch_name: Head Office
+  branch_address: Strandgade 3 900 Copenhagen C
+  branch_code: XXX
+  city: Copenhagen
+  country: Denmark
+- name: Nordea Bank Danmark A/S
+  swift: NDEADKKKRIN
+  swift8: NDEADKKK
+  branch_name: Ringsted
+  branch_address: Ringsted
+  branch_code: RIN
+  city: Ringsted
+  country: Denmark
+- name: Nordea Bank Danmark A/S
+  swift: NDEADKKKROD
+  swift8: NDEADKKK
+  branch_name: Roedovre
+  branch_address: Roedovre
+  branch_code: ROD
+  city: Roedovre
+  country: Denmark
+- name: Nordea Bank Danmark A/S
+  swift: NDEADKKKSVB
+  swift8: NDEADKKK
+  branch_name: Svendborg
+  branch_address: Svendborg
+  branch_code: SVB
+  city: Svendborg
+  country: Denmark
+- name: Nordea Investment Management A/S
+  swift: NDEADKK2XXX
+  swift8: NDEADKK2
+  branch_name: Head Office
+  branch_address: Strandgade 3 0900 Copenhagen
+  branch_code: XXX
+  city: Copenhagen
+  country: Denmark
+- name: Nordea Investment Management A/S
+  swift: NDEADKX1JPM
+  swift8: NDEADKX1
+  branch_name: Investment Management
+  branch_address: Nordea Invest Management Dk-1401 Copenhagen
+  branch_code: JPM
+  city: Copenhagen
+  country: Denmark
+- name: Nykredit A/S
+  swift: NYKRDKKKXXX
+  swift8: NYKRDKKK
+  branch_name: Head Office
+  branch_address: Kalvebod Brygge 1-3 1780 Copenhagen
+  branch_code: XXX
+  city: Copenhagen
+  country: Denmark
+- name: Nykredit Bank A/S
+  swift: NYKBDKKKXXX
+  swift8: NYKBDKKK
+  branch_name: Head Office
+  branch_address: Kalvebod Brygge 1-3 1780 Copenhagen
+  branch_code: XXX
+  city: Copenhagen
+  country: Denmark
+- name: Ostjydsk Bank A/S
+  swift: OSBADK22XXX
+  swift8: OSBADK22
+  branch_name: Head Office
+  branch_address: Ostergade 6-8 9550 Mariager
+  branch_code: XXX
+  city: Mariager
+  country: Denmark
+- name: Realkredit Danmark
+  swift: RDDKDKKKXXX
+  swift8: RDDKDKKK
+  branch_name: Head Office
+  branch_address: Jarmers Plads 2 1590 Copenhagen
+  branch_code: XXX
+  city: Copenhagen
+  country: Denmark
+- name: Ringkjobing Landbobank A/S
+  swift: RINGDK22HER
+  swift8: RINGDK22
+  branch_name: Herning
+  branch_address: Herning
+  branch_code: HER
+  city: Herning
+  country: Denmark
+- name: Ringkjobing Landbobank A/S
+  swift: RINGDK22HOL
+  swift8: RINGDK22
+  branch_name: Holstebro
+  branch_address: Holstebro
+  branch_code: HOL
+  city: Holstebro
+  country: Denmark
+- name: Ringkjobing Landbobank A/S
+  swift: RINGDK22LEM
+  swift8: RINGDK22
+  branch_name: Lem
+  branch_address: Lem
+  branch_code: LEM
+  city: Lem
+  country: Denmark
+- name: Ringkjobing Landbobank A/S
+  swift: RINGDK22XXX
+  swift8: RINGDK22
+  branch_name: Head Office
+  branch_address: Torvet 1 6950 Ringkoebing
+  branch_code: XXX
+  city: Ringkoebing
+  country: Denmark
+- name: Ringkjobing Landbobank A/S
+  swift: RINGDK22TAR
+  swift8: RINGDK22
+  branch_name: Former Tarm Bank
+  branch_address: Tarm
+  branch_code: TAR
+  city: Tarm
+  country: Denmark
+- name: Ringkjobing Landbobank A/S
+  swift: RINGDK22VIB
+  swift8: RINGDK22
+  branch_name: Viborg
+  branch_address: Viborg
+  branch_code: VIB
+  city: Viborg
+  country: Denmark
+- name: Salling Bank A/S
+  swift: SALLDK22XXX
+  swift8: SALLDK22
+  branch_name: Head Office
+  branch_address: Frederiksgade 6-8 7800 Skive
+  branch_code: XXX
+  city: Skive
+  country: Denmark
+- name: Saxo Bank A/S
+  swift: SAXODKKKXXX
+  swift8: SAXODKKK
+  branch_name: Head Office
+  branch_address: Philip Heymans Alle 15 2900 Hellerup
+  branch_code: XXX
+  city: Hellerup
+  country: Denmark
+- name: Skandinaviska Enskilda Banken
+  swift: ESSEDKKKCLS
+  swift8: ESSEDKKK
+  branch_name: Copenhagen
+  branch_address: Copenhagen
+  branch_code: CLS
+  city: Copenhagen
+  country: Denmark
+- name: Skandinaviska Enskilda Banken
+  swift: ESSEDKKKENS
+  swift8: ESSEDKKK
+  branch_name: Enskilda Securities
+  branch_address: Copenhagen
+  branch_code: ENS
+  city: Copenhagen
+  country: Denmark
+- name: Skandinaviska Enskilda Banken
+  swift: ESSEDKKKXXX
+  swift8: ESSEDKKK
+  branch_name: Head Office
+  branch_address: Landermaerket 10 1119 Copenhagen
+  branch_code: XXX
+  city: Copenhagen
+  country: Denmark
+- name: Skandinaviska Enskilda Banken A/S
+  swift: ESSEDK22XXX
+  swift8: ESSEDK22
+  branch_name: Head Office
+  branch_address: Vognmagergade 9 1119 Copenhagen
+  branch_code: XXX
+  city: Copenhagen
+  country: Denmark
+- name: Skjern Bank
+  swift: SKJBDK22BOR
+  swift8: SKJBDK22
+  branch_name: Borris
+  branch_address: Borris
+  branch_code: BOR
+  city: Borris
+  country: Denmark
+- name: Skjern Bank
+  swift: SKJBDK22BRM
+  swift8: SKJBDK22
+  branch_name: Bramming
+  branch_address: Bramming
+  branch_code: BRM
+  city: Bramming
+  country: Denmark
+- name: Skjern Bank
+  swift: SKJBDK22ESB
+  swift8: SKJBDK22
+  branch_name: 6700 Esbjerg
+  branch_address: Skolegade 41 6700 Esbjerg
+  branch_code: ESB
+  city: Esbjerg
+  country: Denmark
+- name: Skjern Bank
+  swift: SKJBDK22HLL
+  swift8: SKJBDK22
+  branch_name: 2900 Hellerup
+  branch_address: Strandvejen 143 2900 Hellerup
+  branch_code: HLL
+  city: Hellerup
+  country: Denmark
+- name: Skjern Bank
+  swift: SKJBDK22RIB
+  swift8: SKJBDK22
+  branch_name: Ribe
+  branch_address: Ribe
+  branch_code: RIB
+  city: Ribe
+  country: Denmark
+- name: Skjern Bank
+  swift: SKJBDK22XXX
+  swift8: SKJBDK22
+  branch_name: Head Office
+  branch_address: Jernbanegade 1 6900 Skjern
+  branch_code: XXX
+  city: Skjern
+  country: Denmark
+- name: Skjern Bank
+  swift: SKJBDK22VAR
+  swift8: SKJBDK22
+  branch_name: 6800 Varde
+  branch_address: Vestergade 16 6800 Varde
+  branch_code: VAR
+  city: Varde
+  country: Denmark
+- name: Spar Nord Bank
+  swift: SPNODK22XXX
+  swift8: SPNODK22
+  branch_name: Head Office
+  branch_address: Skelagervej 15 9200 Aalborg
+  branch_code: XXX
+  city: Aalborg
+  country: Denmark
+- name: Sparekassen Kronjylland
+  swift: KRONDK22XXX
+  swift8: KRONDK22
+  branch_name: Head Office
+  branch_address: Tronholmen 1 8900 Randers
+  branch_code: XXX
+  city: Randers
+  country: Denmark
+- name: Sparekassen Sjaelland
+  swift: SWESDK22XXX
+  swift8: SWESDK22
+  branch_name: Head Office
+  branch_address: Isefjords Alle 5 4300 Holbaek
+  branch_code: XXX
+  city: Holbaek
+  country: Denmark
+- name: Swedbank Ab
+  swift: SWEDDKKKXXX
+  swift8: SWEDDKKK
+  branch_name: Head Office
+  branch_address: Kalvebod Brygge 45 1560 Copenhagen
+  branch_code: XXX
+  city: Copenhagen
+  country: Denmark
+- name: Sydbank A/S
+  swift: SYBKDK22XXX
+  swift8: SYBKDK22
+  branch_name: Head Office
+  branch_address: 4, Peberlyk 6200 Aabenraa
+  branch_code: XXX
+  city: Aabenraa
+  country: Denmark
+- name: Sydbank A/S
+  swift: SYBKDK22AAL
+  swift8: SYBKDK22
+  branch_name: 9000 Aalborg
+  branch_address: Vingaardsgade 21 9000 Aalborg
+  branch_code: AAL
+  city: Aalborg
+  country: Denmark
+- name: Sydbank A/S
+  swift: SYBKDK22AAR
+  swift8: SYBKDK22
+  branch_name: 8000 Aarhus
+  branch_address: Kystvejen 29 8000 Aarhus
+  branch_code: AAR
+  city: Aarhus
+  country: Denmark
+- name: Sydbank A/S
+  swift: SYBKDK22ESB
+  swift8: SYBKDK22
+  branch_name: 6701 Esbjerg
+  branch_address: Kongensgade 62 6701 Esbjerg
+  branch_code: ESB
+  city: Esbjerg
+  country: Denmark
+- name: Sydbank A/S
+  swift: SYBKDK22CPH
+  swift8: SYBKDK22
+  branch_name: 1050 Copenhagen
+  branch_address: Kongens Nytorv 30 1050 Copenhagen
+  branch_code: CPH
+  city: Copenhagen
+  country: Denmark
+- name: Sydbank A/S
+  swift: SYBKDK22HER
+  swift8: SYBKDK22
+  branch_name: 7400 Herning
+  branch_address: Dalgasgade 22 7400 Herning
+  branch_code: HER
+  city: Herning
+  country: Denmark
+- name: Sydbank A/S
+  swift: SYBKDK22HOR
+  swift8: SYBKDK22
+  branch_name: 8700 Horsens
+  branch_address: Sondergade 18-20 8700 Horsens
+  branch_code: HOR
+  city: Horsens
+  country: Denmark
+- name: Sydbank A/S
+  swift: SYBKDK22KOL
+  swift8: SYBKDK22
+  branch_name: 6000 Kolding
+  branch_address: Jernbanggade 14 6000 Kolding
+  branch_code: KOL
+  city: Kolding
+  country: Denmark
+- name: Sydbank A/S
+  swift: SYBKDK22ODE
+  swift8: SYBKDK22
+  branch_name: Odense Branch
+  branch_address: Vestergade 33 5000 C Odense
+  branch_code: ODE
+  city: Odense
+  country: Denmark
+- name: Sydbank A/S
+  swift: SYBKDK22PAD
+  swift8: SYBKDK22
+  branch_name: 6330 Padborg
+  branch_address: Moellegade 3 6330 Padborg
+  branch_code: PAD
+  city: Padborg
+  country: Denmark
+- name: Sydbank A/S
+  swift: SYBKDK22SLA
+  swift8: SYBKDK22
+  branch_name: Slagelse Branch
+  branch_address: Nytorv 11 a 4200 Slagelse
+  branch_code: SLA
+  city: Slagelse
+  country: Denmark
+- name: Sydbank A/S
+  swift: SYBKDK22SON
+  swift8: SYBKDK22
+  branch_name: 6400 Soenderborg
+  branch_address: Jernbanegade 35 6400 Soenderborg
+  branch_code: SON
+  city: Soenderborg
+  country: Denmark
+- name: Sydbank A/S
+  swift: SYBKDK22SVB
+  swift8: SYBKDK22
+  branch_name: 5700 Svendborg
+  branch_address: Klosterplads 2 5700 Svendborg
+  branch_code: SVB
+  city: Svendborg
+  country: Denmark
+- name: Sydbank A/S
+  swift: SYBKDK22TON
+  swift8: SYBKDK22
+  branch_name: 6270 Toender
+  branch_address: Storegade 28 6270 Toender
+  branch_code: TON
+  city: Toender
+  country: Denmark
+- name: Sydbank A/S
+  swift: SYBKDK22VAR
+  swift8: SYBKDK22
+  branch_name: 6800 Varde
+  branch_address: Westergade 4 6800 Varde
+  branch_code: VAR
+  city: Varde
+  country: Denmark
+- name: Sydbank A/S
+  swift: SYBKDK22VEJ
+  swift8: SYBKDK22
+  branch_name: Vejle Branch
+  branch_address: Kirketorvet 4 7000 Vejle
+  branch_code: VEJ
+  city: Vejle
+  country: Denmark
+- name: The Royal Bank Of Scotland N.V. (Denmark)
+  swift: ABNADKKKXXX
+  swift8: ABNADKKK
+  branch_name: Head Office
+  branch_address: Sundkrogsgade 9, 4 2100 Copenhagen
+  branch_code: XXX
+  city: Copenhagen
+  country: Denmark
+- name: Vestas Wind Systems A/S
+  swift: WINDDK22XXX
+  swift8: WINDDK22
+  branch_name: Head Office
+  branch_address: Alsvej 21 8940 Randers
+  branch_code: XXX
+  city: Randers
+  country: Denmark
+- name: Vestfyns Bank A/S
+  swift: VESBDK22XXX
+  swift8: VESBDK22
+  branch_name: Head Office
+  branch_address: Oestergade 42 5610 Assens
+  branch_code: XXX
+  city: Assens
+  country: Denmark
+- name: Vestjysk Bank
+  swift: VEHODK22ESB
+  swift8: VEHODK22
+  branch_name: Esbjerg
+  branch_address: Esbjerg
+  branch_code: ESB
+  city: Esbjerg
+  country: Denmark
+- name: Vestjysk Bank
+  swift: VEHODK22HER
+  swift8: VEHODK22
+  branch_name: Herning
+  branch_address: Herning
+  branch_code: HER
+  city: Herning
+  country: Denmark
+- name: Vestjysk Bank
+  swift: VEHODK22HOL
+  swift8: VEHODK22
+  branch_name: Holstebro Branch
+  branch_address: Holstebro
+  branch_code: HOL
+  city: Holstebro
+  country: Denmark
+- name: Vestjysk Bank
+  swift: VEHODK22XXX
+  swift8: VEHODK22
+  branch_name: Head Office
+  branch_address: Torvet 4-5 7620 Lemvig
+  branch_code: XXX
+  city: Lemvig
+  country: Denmark
+- name: Vestjysk Bank
+  swift: VEHODK22STR
+  swift8: VEHODK22
+  branch_name: Struer
+  branch_address: Struer
+  branch_code: STR
+  city: Struer
+  country: Denmark
+- name: Vestjysk Bank
+  swift: VEHODK22VIB
+  swift8: VEHODK22
+  branch_name: Viborg
+  branch_address: Viborg
+  branch_code: VIB
+  city: Viborg
+  country: Denmark
+- name: Vp Securities A/S
+  swift: VPDKDKKK070
+  swift8: VPDKDKKK
+  branch_name: Copenhagen
+  branch_address: Copenhagen
+  branch_code: '070'
+  city: Copenhagen
+  country: Denmark
+- name: Vp Securities A/S
+  swift: VPDKDKKK071
+  swift8: VPDKDKKK
+  branch_name: Copenhagen
+  branch_address: Copenhagen
+  branch_code: '071'
+  city: Copenhagen
+  country: Denmark
+- name: Vp Securities A/S
+  swift: VPDKDKKK072
+  swift8: VPDKDKKK
+  branch_name: Copenhagen
+  branch_address: Copenhagen
+  branch_code: '072'
+  city: Copenhagen
+  country: Denmark
+- name: Vp Securities A/S
+  swift: VPDKDKKK073
+  swift8: VPDKDKKK
+  branch_name: Copenhagen
+  branch_address: Copenhagen
+  branch_code: '073'
+  city: Copenhagen
+  country: Denmark
+- name: Vp Securities A/S
+  swift: VPDKDKKK074
+  swift8: VPDKDKKK
+  branch_name: Copenhagen
+  branch_address: Copenhagen
+  branch_code: '074'
+  city: Copenhagen
+  country: Denmark
+- name: Vp Securities A/S
+  swift: VPDKDKKK075
+  swift8: VPDKDKKK
+  branch_name: Copenhagen
+  branch_address: Copenhagen
+  branch_code: '075'
+  city: Copenhagen
+  country: Denmark
+- name: Vp Securities A/S
+  swift: VPDKDKKKALU
+  swift8: VPDKDKKK
+  branch_name: Vplux
+  branch_address: Copenhagen
+  branch_code: ALU
+  city: Copenhagen
+  country: Denmark
+- name: Vp Securities A/S
+  swift: VPDKDKKKINV
+  swift8: VPDKDKKK
+  branch_name: Vpdk as Investor
+  branch_address: Copenhagen
+  branch_code: INV
+  city: Copenhagen
+  country: Denmark
+- name: Vp Securities A/S
+  swift: VPDKDKKKISS
+  swift8: VPDKDKKK
+  branch_name: Vpdk as Issuer
+  branch_address: Copenhagen
+  branch_code: ISS
+  city: Copenhagen
+  country: Denmark
+- name: Vp Securities A/S
+  swift: VPDKDKKKLUX
+  swift8: VPDKDKKK
+  branch_name: Copenhagen
+  branch_address: Copenhagen
+  branch_code: LUX
+  city: Copenhagen
+  country: Denmark
+- name: Vp Securities A/S
+  swift: VPDKDKKKMCF
+  swift8: VPDKDKKK
+  branch_name: Copenhagen
+  branch_address: Copenhagen
+  branch_code: MCF
+  city: Copenhagen
+  country: Denmark
+- name: Vp Securities A/S
+  swift: VPDKDKKKXXX
+  swift8: VPDKDKKK
+  branch_name: Head Office
+  branch_address: Weidekampsgade 14 2300 Copenhagen
+  branch_code: XXX
+  city: Copenhagen
+  country: Denmark
+- name: Abn Amro Asset Management A/s
+  swift: AASMDKK1XXX
+  swift8: AASMDKK1
+  branch_name: Head Office
+  branch_address: Ameliegade 35 1256 Copenhagen
+  branch_code: XXX
+  city: Copenhagen
+  country: Denmark
+- name: Abn Amro Asset Management Fondsmaeglerselskab A/s
+  swift: ABKFDKK1XXX
+  swift8: ABKFDKK1
+  branch_name: Head Office
+  branch_address: Amaliegade 35 1017 Copenhagen
+  branch_code: XXX
+  city: Copenhagen
+  country: Denmark
+- name: Agri-egens Sparekasse
+  swift: AGESDK21XXX
+  swift8: AGESDK21
+  branch_name: Head Office
+  branch_address: Groenfeld Bygade 16c, Groenfeld 8400 Ebeltoft
+  branch_code: XXX
+  city: Ebeltoft
+  country: Denmark
+- name: Almind Spare-og Laanekasse
+  swift: ALSPDK21XXX
+  swift8: ALSPDK21
+  branch_name: Head Office
+  branch_address: Silkeborgvej 20 8800 Viborg
+  branch_code: XXX
+  city: Viborg
+  country: Denmark
+- name: Aloc A/s
+  swift: AOOCDK21XXX
+  swift8: AOOCDK21
+  branch_name: Head Office
+  branch_address: Edisonsvej 1 5000 Odense
+  branch_code: XXX
+  city: Odense
+  country: Denmark
+- name: Andelskassen J-a-k. Slagelse
+  swift: ANJSDK21XXX
+  swift8: ANJSDK21
+  branch_name: Head Office
+  branch_address: Lovegade 63 4200 Slagelse
+  branch_code: XXX
+  city: Slagelse
+  country: Denmark
+- name: Ap Pension
+  swift: APPNDKK1XXX
+  swift8: APPNDKK1
+  branch_name: Head Office
+  branch_address: Ostbanegade 135 2100 Copenhagen
+  branch_code: XXX
+  city: Copenhagen
+  country: Denmark
+- name: Arla Foods Amba
+  swift: ARDADK21ARF
+  swift8: ARDADK21
+  branch_name: Alra Finance
+  branch_address: Viby J
+  branch_code: ARF
+  city: Viby J
+  country: Denmark
+- name: Arla Foods Amba
+  swift: ARDADK21ARL
+  swift8: ARDADK21
+  branch_name: Arla Foods
+  branch_address: Viby J
+  branch_code: ARL
+  city: Viby J
+  country: Denmark
+- name: Arla Foods Amba
+  swift: ARDADK21XXX
+  swift8: ARDADK21
+  branch_name: Head Office
+  branch_address: Skanderborgvej 277 8260 Viby J
+  branch_code: XXX
+  city: Viby J
+  country: Denmark
+- name: Atp Fondsmaeglerselskab A/s
+  swift: ATFODK21XXX
+  swift8: ATFODK21
+  branch_name: Head Office
+  branch_address: Kongens Vaenge 8 3400 Hilleroed
+  branch_code: XXX
+  city: Hilleroed
+  country: Denmark
+- name: Bank Invest
+  swift: BIVEDKK1XXX
+  swift8: BIVEDKK1
+  branch_name: Head Office
+  branch_address: Toldbodgade 33 1022 Copenhagen
+  branch_code: XXX
+  city: Copenhagen
+  country: Denmark
+- name: Banknordik
+  swift: BANODK21XXX
+  swift8: BANODK21
+  branch_name: Head Office
+  branch_address: Bredgade 10 6000 Kolding
+  branch_code: XXX
+  city: Kolding
+  country: Denmark
+- name: Banknordik
+  swift: BANODKKKXXX
+  swift8: BANODKKK
+  branch_name: Head Office
+  branch_address: 25 Amagerbrogade 2300 Copenhagen
+  branch_code: XXX
+  city: Copenhagen
+  country: Denmark
+- name: Basisbank A/s
+  swift: ISNKDKK1XXX
+  swift8: ISNKDKK1
+  branch_name: Head Office
+  branch_address: Amaliegade 5c 1256 Copenhagen
+  branch_code: XXX
+  city: Copenhagen
+  country: Denmark
+- name: Bestseller A/s
+  swift: BESTDK22XXX
+  swift8: BESTDK22
+  branch_name: No branch name
+  branch_address: No branch address
+  branch_code: XXX
+  city: Brande
+  country: Denmark
+- name: Bi Management A/s
+  swift: MAGGDKK1XXX
+  swift8: MAGGDKK1
+  branch_name: Head Office
+  branch_address: Sunkrogsgade 7 2100 Copenhagen
+  branch_code: XXX
+  city: Copenhagen
+  country: Denmark
+- name: Bjoernskov And Co., A.s.
+  swift: BJSKDKK1XXX
+  swift8: BJSKDKK1
+  branch_name: Head Office
+  branch_address: Nyropsgade 17 1504 Copenhagen
+  branch_code: XXX
+  city: Copenhagen
+  country: Denmark
+- name: Boddum-ydby Sparekasse
+  swift: BOYDDK21XXX
+  swift8: BOYDDK21
+  branch_name: Head Office
+  branch_address: Ydbyvej 183, Ydby 7760 Hurup Thy
+  branch_code: XXX
+  city: Hurup Thy
+  country: Denmark
+- name: Borbjerg Sparekasse
+  swift: BOBJDK21XXX
+  swift8: BOBJDK21
+  branch_name: Head Office
+  branch_address: Bukdalvej 5 7500 Holstebro
+  branch_code: XXX
+  city: Holstebro
+  country: Denmark
+- name: Brfkredit A/s
+  swift: BRFKDK21XXX
+  swift8: BRFKDK21
+  branch_name: Head Office
+  branch_address: Klampenborgvej 205 2800 Lyngby
+  branch_code: XXX
+  city: Lyngby
+  country: Denmark
+- name: Broager Sparekasse
+  swift: BRSLDK21XXX
+  swift8: BRSLDK21
+  branch_name: Head Office
+  branch_address: Storegade 27 6310 Broager
+  branch_code: XXX
+  city: Broager
+  country: Denmark
+- name: Canegie Asset Administration A/s
+  swift: CADMDKK1XXX
+  swift8: CADMDKK1
+  branch_name: Head Office
+  branch_address: Dampfaergevej 26 2100 Copenhagen
+  branch_code: XXX
+  city: Copenhagen
+  country: Denmark
+- name: Capital Four Management Fondsmaeglerselskab A/s
+  swift: CFMFDKK1XXX
+  swift8: CFMFDKK1
+  branch_name: Head Office
+  branch_address: Frederiksholms Kanal 2 1220 Copenhagen
+  branch_code: XXX
+  city: Copenhagen
+  country: Denmark
+- name: Carlsberg Breweries A/s
+  swift: CARWDKK1XXX
+  swift8: CARWDKK1
+  branch_name: Head Office
+  branch_address: Ny Carlsberg Vej 100 1760 Copenhagen V
+  branch_code: XXX
+  city: Copenhagen
+  country: Denmark
+- name: Carnegie Kreditinstitut A/s
+  swift: CAJBDKK1XXX
+  swift8: CAJBDKK1
+  branch_name: Head Office
+  branch_address: Overgaden Neden Vandet 9b 1023 Copenhagen
+  branch_code: XXX
+  city: Copenhagen
+  country: Denmark
+- name: Commercial Bankers Trust K/s
+  swift: CTRSDKK1XXX
+  swift8: CTRSDKK1
+  branch_name: Head Office
+  branch_address: Roscowe House 1104 Copenhagen
+  branch_code: XXX
+  city: Copenhagen
+  country: Denmark
+- name: Dana Invest Fondsmaeglerselskab A/s
+  swift: DAIODKK1XXX
+  swift8: DAIODKK1
+  branch_name: Head Office
+  branch_address: Bredgade 36 B 1260 Copenhagen
+  branch_code: XXX
+  city: Copenhagen
+  country: Denmark
+- name: Danfoss A/s Corporate Treasury
+  swift: DFIBDK21XXX
+  swift8: DFIBDK21
+  branch_name: Head Office
+  branch_address: A988 6430 Nordborg
+  branch_code: XXX
+  city: Nordborg
+  country: Denmark
+- name: Danmarks Skibskredit A/s
+  swift: SKIBDKK1XXX
+  swift8: SKIBDKK1
+  branch_name: Head Office
+  branch_address: Sankt Annae Plads 3 1250 Copenhagen K
+  branch_code: XXX
+  city: Copenhagen
+  country: Denmark
+- name: Dansk Autoriseret Markedsplads A/s
+  swift: DAMKDK21XXX
+  swift8: DAMKDK21
+  branch_name: Head Office
+  branch_address: Horsens Hus 8700 Horsens
+  branch_code: XXX
+  city: Horsens
+  country: Denmark
+- name: Dansk Formue-and Investeringspleje A/s Fondsmaeglerselskab
+  swift: DFIIDK21XXX
+  swift8: DFIIDK21
+  branch_name: Head Office
+  branch_address: Knud Den Stores 4000 Roskilde
+  branch_code: XXX
+  city: Roskilde
+  country: Denmark
+- name: Dansk Kapitalforvaltning Fondsmaeglerselskab A/s
+  swift: DAKFDK21XXX
+  swift8: DAKFDK21
+  branch_name: Head Office
+  branch_address: Bregneroedvej 144 3460 Birkeroed
+  branch_code: XXX
+  city: Birkeroed
+  country: Denmark
+- name: Dansk O.t.c Fondsmaeglerselskab A/s
+  swift: DAOFDK21XXX
+  swift8: DAOFDK21
+  branch_name: Head Office
+  branch_address: Holmboes Alle 1,9 8700 Horsens
+  branch_code: XXX
+  city: Horsens
+  country: Denmark
+- name: Dansk Supermarked A/s
+  swift: DASKDK21DSF
+  swift8: DASKDK21
+  branch_name: D S Forsikring
+  branch_address: Aarhus
+  branch_code: DSF
+  city: Aarhus
+  country: Denmark
+- name: Dansk Supermarked A/s
+  swift: DASKDK21FSI
+  swift8: DASKDK21
+  branch_name: Salling Invest
+  branch_address: Aarhus
+  branch_code: FSI
+  city: Aarhus
+  country: Denmark
+- name: Dansk Supermarked A/s
+  swift: DASKDK21XXX
+  swift8: DASKDK21
+  branch_name: Head Office
+  branch_address: Back-Office 8270 Hojbjerg
+  branch_code: XXX
+  city: Hojbjerg
+  country: Denmark
+- name: Danske Capital
+  swift: DACPDKK1XXX
+  swift8: DACPDKK1
+  branch_name: Head Office
+  branch_address: Stroedamvej 46 2100 Copenhagen
+  branch_code: XXX
+  city: Copenhagen
+  country: Denmark
+- name: Danske Civil And Akademiingeniorers Pensionskasse
+  swift: DCAKDKK1XXX
+  swift8: DCAKDKK1
+  branch_name: Head Office
+  branch_address: Gammel Kongevej 11 1610 Copenhagen
+  branch_code: XXX
+  city: Copenhagen
+  country: Denmark
+- name: Danske Commodities A/s
+  swift: DACDDK21XXX
+  swift8: DACDDK21
+  branch_name: Head Office
+  branch_address: Vaerkmestergade 3 8000 Aarhus
+  branch_code: XXX
+  city: Aarhus
+  country: Denmark
+- name: Danske Forsikring Skade I A/s
+  swift: DAFKDK21XXX
+  swift8: DAFKDK21
+  branch_name: Head Office
+  branch_address: Borupbvang 4 2750 Ballerup
+  branch_code: XXX
+  city: Ballerup
+  country: Denmark
+- name: Danske Invest Administration A/s
+  swift: DAIDDKK1XXX
+  swift8: DAIDDKK1
+  branch_name: Head Office
+  branch_address: Stroedamsvej 46 2100 Copenhagen
+  branch_code: XXX
+  city: Copenhagen
+  country: Denmark
+- name: Den Professionelle Forening Ld
+  swift: DEPRDKK1AOP
+  swift8: DEPRDKK1
+  branch_name: Aktier and Obligationer-Pulje
+  branch_address: Copenhagen
+  branch_code: AOP
+  city: Copenhagen
+  country: Denmark
+- name: Den Professionelle Forening Ld
+  swift: DEPRDKK1EMA
+  swift8: DEPRDKK1
+  branch_name: Emerging Markets Aktier-Mandat
+  branch_address: Copenhagen
+  branch_code: EMA
+  city: Copenhagen
+  country: Denmark
+- name: Den Professionelle Forening Ld
+  swift: DEPRDKK1GA2
+  swift8: DEPRDKK1
+  branch_name: Globale Aktier-Mandat 2
+  branch_address: Copenhagen
+  branch_code: GA2
+  city: Copenhagen
+  country: Denmark
+- name: Den Professionelle Forening Ld
+  swift: DEPRDKK1GAM
+  swift8: DEPRDKK1
+  branch_name: Globale Aktier-Mandat
+  branch_address: Copenhagen
+  branch_code: GAM
+  city: Copenhagen
+  country: Denmark
+- name: Den Professionelle Forening Ld
+  swift: DEPRDKK1GAP
+  swift8: DEPRDKK1
+  branch_name: Globale Aktier-Pulje
+  branch_address: Copenhagen
+  branch_code: GAP
+  city: Copenhagen
+  country: Denmark
+- name: Den Professionelle Forening Ld
+  swift: DEPRDKK1GIM
+  swift8: DEPRDKK1
+  branch_name: Globale Indeksobligationer-Mandat
+  branch_address: Copenhagen
+  branch_code: GIM
+  city: Copenhagen
+  country: Denmark
+- name: Den Professionelle Forening Ld
+  swift: DEPRDKK1GO1
+  swift8: DEPRDKK1
+  branch_name: Guldrandede Obligationer-Mandat 1
+  branch_address: Copenhagen
+  branch_code: GO1
+  city: Copenhagen
+  country: Denmark
+- name: Den Professionelle Forening Ld
+  swift: DEPRDKK1GO2
+  swift8: DEPRDKK1
+  branch_name: Guldrandede Obligationer-Mandat 2
+  branch_address: Copenhagen
+  branch_code: GO2
+  city: Copenhagen
+  country: Denmark
+- name: Den Professionelle Forening Ld
+  swift: DEPRDKK1KEO
+  swift8: DEPRDKK1
+  branch_name: Kreditobligationer Og Emerging Markets Obligationer-Mandat
+  branch_address: Copenhagen
+  branch_code: KEO
+  city: Copenhagen
+  country: Denmark
+- name: Den Professionelle Forening Ld
+  swift: DEPRDKK1KOF
+  swift8: DEPRDKK1
+  branch_name: Kreditobligations Fonde-Mandat
+  branch_address: Copenhagen
+  branch_code: KOF
+  city: Copenhagen
+  country: Denmark
+- name: Den Professionelle Forening Ld
+  swift: DEPRDKK1MKM
+  swift8: DEPRDKK1
+  branch_name: Miljo and Klima-Mandat
+  branch_address: Copenhagen
+  branch_code: MKM
+  city: Copenhagen
+  country: Denmark
+- name: Den Professionelle Forening Ld
+  swift: DEPRDKK1MKP
+  swift8: DEPRDKK1
+  branch_name: Miljo and Klima-Pulje
+  branch_address: Copenhagen
+  branch_code: MKP
+  city: Copenhagen
+  country: Denmark
+- name: Den Professionelle Forening Ld
+  swift: DEPRDKK1MOP
+  swift8: DEPRDKK1
+  branch_name: Mixed Obligationer-Pulje
+  branch_address: Copenhagen
+  branch_code: MOP
+  city: Copenhagen
+  country: Denmark
+- name: Den Professionelle Forening Ld
+  swift: DEPRDKK1SGA
+  swift8: DEPRDKK1
+  branch_name: Strategiske Global Aktier-Mandat
+  branch_address: Copenhagen
+  branch_code: SGA
+  city: Copenhagen
+  country: Denmark
+- name: Den Professionelle Forening Ld
+  swift: DEPRDKK1XXX
+  swift8: DEPRDKK1
+  branch_name: Head Office
+  branch_address: Stromdamvej 46 2100 Copenhagen
+  branch_code: XXX
+  city: Copenhagen
+  country: Denmark
+- name: Dexia P-h Private Bank Denmark A/s
+  swift: BILLDK21XXX
+  swift8: BILLDK21
+  branch_name: Head Office
+  branch_address: Groenningen 17 1720 Copenhagen
+  branch_code: XXX
+  city: Copenhagen
+  country: Denmark
+- name: Difko Bors A/s Fondsmaeglerselskab
+  swift: DIBFDKK1XXX
+  swift8: DIBFDKK1
+  branch_name: Head Office
+  branch_address: Dag Hammarskjoelds Alle 13 2100 Copenhagen
+  branch_code: XXX
+  city: Copenhagen
+  country: Denmark
+- name: Dlr Kredit A/s
+  swift: DLKRDKK1XXX
+  swift8: DLKRDKK1
+  branch_name: Head Office
+  branch_address: Nyropsgade 21 1780 Copenhagen V
+  branch_code: XXX
+  city: Copenhagen
+  country: Denmark
+- name: Dragsholm Sparekasse
+  swift: DRAGDK21XXX
+  swift8: DRAGDK21
+  branch_name: Head Office
+  branch_address: Asnaes Center 23 4550 Asnaes
+  branch_code: XXX
+  city: Asnaes
+  country: Denmark
+- name: Dronninglund Sparekasse
+  swift: DRONDK21XXX
+  swift8: DRONDK21
+  branch_name: Head Office
+  branch_address: Slotsgade 40-42 9330 Dronninglund
+  branch_code: XXX
+  city: Dronninglund
+  country: Denmark
+- name: Egns-invest
+  swift: EGNSDK21XXX
+  swift8: EGNSDK21
+  branch_name: Head Office
+  branch_address: Vitus Berings Plads 5 8700 Horsens
+  branch_code: XXX
+  city: Horsens
+  country: Denmark
+- name: Egnsbank Han Herred
+  swift: FJBADK21XXX
+  swift8: FJBADK21
+  branch_name: Head Office
+  branch_address: Ostergade 11-13 9690 Fjerritslev
+  branch_code: XXX
+  city: Fjerritslev
+  country: Denmark
+- name: Faelleskassen Samoekonomi J.a.k. Andelskasse
+  swift: FAELDKK1XXX
+  swift8: FAELDKK1
+  branch_name: Head Office
+  branch_address: Bulowsvej 48a 1870 Frederiksberg
+  branch_code: XXX
+  city: Frederiksberg
+  country: Denmark
+- name: Fanoe Spare-og Laanekasse
+  swift: FASLDK21XXX
+  swift8: FASLDK21
+  branch_name: Head Office
+  branch_address: Tinghustorvet 51 6720 Fanoe
+  branch_code: XXX
+  city: Fanoe
+  country: Denmark
+- name: Faster Andelskasse
+  swift: FAANDK21XXX
+  swift8: FAANDK21
+  branch_name: Head Office
+  branch_address: Hoejevej 18, Astrup 6900 Skjern
+  branch_code: XXX
+  city: Skjern
+  country: Denmark
+- name: Fdb Datterselskab Af 13.december 2012 A/s
+  swift: FDDDDK21XXX
+  swift8: FDDDDK21
+  branch_name: Head Office
+  branch_address: Vallensaek Torvevej 9 2620 Albertslund
+  branch_code: XXX
+  city: Albertslund
+  country: Denmark
+- name: Flakkeberg Og Omegns Sparekasse
+  swift: FLAKDK21XXX
+  swift8: FLAKDK21
+  branch_name: Head Office
+  branch_address: Flakkeberg Hovedgade 1 4200 Slagelse
+  branch_code: XXX
+  city: Slagelse
+  country: Denmark
+- name: Flemloese Sparekasse
+  swift: FLEMDK21XXX
+  swift8: FLEMDK21
+  branch_name: Head Office
+  branch_address: Kirkebjergvej 13 5620 Flemloese
+  branch_code: XXX
+  city: Flemloese
+  country: Denmark
+- name: Flsmidth And Co A/s
+  swift: FLSMDK21XXX
+  swift8: FLSMDK21
+  branch_name: Head Office
+  branch_address: Vigerslev Alle 77 2500 Valby
+  branch_code: XXX
+  city: Valby
+  country: Denmark
+- name: Flsmidth And Co A/s
+  swift: FLSMDK2FXXX
+  swift8: FLSMDK2F
+  branch_name: No branch name
+  branch_address: No branch address
+  branch_code: XXX
+  city: Valby
+  country: Denmark
+- name: Folkesparekassen
+  swift: FOSPDK21XXX
+  swift8: FOSPDK21
+  branch_name: Head Office
+  branch_address: Herningvej 37 8600 Silkeborg
+  branch_code: XXX
+  city: Silkeborg
+  country: Denmark
+- name: Fondsaeglerselskabet Maj Invest A/s
+  swift: FONKDKK1XXX
+  swift8: FONKDKK1
+  branch_name: Head Office
+  branch_address: Vendersgade 28 1363 Copenhagen K
+  branch_code: XXX
+  city: Copenhagen
+  country: Denmark
+- name: Fondsmaglerselskabet Maj Invest A/s
+  swift: MAFGDKK1XXX
+  swift8: MAFGDKK1
+  branch_name: Head Office
+  branch_address: Vendersgade 28 1363 Copenhagen
+  branch_code: XXX
+  city: Copenhagen
+  country: Denmark
+- name: Forca A/s
+  swift: FOCCDK21BIO
+  swift8: FOCCDK21
+  branch_name: Bioanalytikere
+  branch_address: Copenhagen
+  branch_code: BIO
+  city: Copenhagen
+  country: Denmark
+- name: Forca A/s
+  swift: FOCCDK21ERG
+  swift8: FOCCDK21
+  branch_name: Ergoterapeuter
+  branch_address: Copenhagen
+  branch_code: ERG
+  city: Copenhagen
+  country: Denmark
+- name: Forca A/s
+  swift: FOCCDK21JOR
+  swift8: FOCCDK21
+  branch_name: Jordmoedre
+  branch_address: Copenhagen
+  branch_code: JOR
+  city: Copenhagen
+  country: Denmark
+- name: Forca A/s
+  swift: FOCCDK21KON
+  swift8: FOCCDK21
+  branch_name: Kontorfunktionaerer
+  branch_address: Copenhagen
+  branch_code: KON
+  city: Copenhagen
+  country: Denmark
+- name: Forca A/s
+  swift: FOCCDK21KOS
+  swift8: FOCCDK21
+  branch_name: Kostvejledere
+  branch_address: Copenhagen
+  branch_code: KOS
+  city: Copenhagen
+  country: Denmark
+- name: Forca A/s
+  swift: FOCCDK21LAG
+  swift8: FOCCDK21
+  branch_name: Laegesekretaerer
+  branch_address: Copenhagen
+  branch_code: LAG
+  city: Copenhagen
+  country: Denmark
+- name: Forca A/s
+  swift: FOCCDK21PKA
+  swift8: FOCCDK21
+  branch_name: Pka Plus
+  branch_address: Copenhagen
+  branch_code: PKA
+  city: Copenhagen
+  country: Denmark
+- name: Forca A/s
+  swift: FOCCDK21SAM
+  swift8: FOCCDK21
+  branch_name: Sameje
+  branch_address: Copenhagen
+  branch_code: SAM
+  city: Copenhagen
+  country: Denmark
+- name: Forca A/s
+  swift: FOCCDK21SOC
+  swift8: FOCCDK21
+  branch_name: Socialpaedagoer
+  branch_address: Copenhagen
+  branch_code: SOC
+  city: Copenhagen
+  country: Denmark
+- name: Forca A/s
+  swift: FOCCDK21SYG
+  swift8: FOCCDK21
+  branch_name: Sygeplejere
+  branch_address: Copenhagen
+  branch_code: SYG
+  city: Copenhagen
+  country: Denmark
+- name: Forca A/s
+  swift: FOCCDK21XXX
+  swift8: FOCCDK21
+  branch_name: Head Office
+  branch_address: Tuborg Boulevard 3 2900 Hellerup
+  branch_code: XXX
+  city: Hellerup
+  country: Denmark
+- name: Froes Herreds Sparekasse
+  swift: FROSDK21XXX
+  swift8: FROSDK21
+  branch_name: Head Office
+  branch_address: Froesvej 1 6630 Roedding (S. Jutl.)
+  branch_code: XXX
+  city: Roedding (S. Jutl.)
+  country: Denmark
+- name: Frorup Andelkasse
+  swift: FROPDK21XXX
+  swift8: FROPDK21
+  branch_name: Head Office
+  branch_address: Sportsvaenget 2 5871 Frorup
+  branch_code: XXX
+  city: Frorup
+  country: Denmark
+- name: Froslev Mollerup Sparekasse
+  swift: FRMODK21XXX
+  swift8: FRMODK21
+  branch_name: Head Office
+  branch_address: Froslev Byvej 3 7900 Nykoebing Mors
+  branch_code: XXX
+  city: Nykobing M
+  country: Denmark
+- name: Futop Clearing Centre, The
+  swift: FTUPDKK1XXX
+  swift8: FTUPDKK1
+  branch_name: Head Office
+  branch_address: Nikolaj Plads 6 1007 Copenhagen
+  branch_code: XXX
+  city: Copenhagen
+  country: Denmark
+- name: G.p.borsmaglerselskab A/s
+  swift: GPBSDKK1XXX
+  swift8: GPBSDKK1
+  branch_name: Head Office
+  branch_address: Strandvejen 58 1360 Hellerup
+  branch_code: XXX
+  city: Hellerup
+  country: Denmark
+- name: Glitnir Bank
+  swift: ISBADKK1XXX
+  swift8: ISBADKK1
+  branch_name: Head Office
+  branch_address: Frederiksgade 19 2 1265 Copenhagen
+  branch_code: XXX
+  city: Copenhagen
+  country: Denmark
+- name: Global Evolution Fondsmaeglerselskab A/s
+  swift: GEVODK22XXX
+  swift8: GEVODK22
+  branch_name: Head Office
+  branch_address: Kokholm 3a 6000 Kolding
+  branch_code: XXX
+  city: Kolding
+  country: Denmark
+- name: Gudme Raaschou Eu High Yield
+  swift: GRHEDKK1XXX
+  swift8: GRHEDKK1
+  branch_name: Head Office
+  branch_address: Borsgade 4-8 1215 Copenhagen K
+  branch_code: XXX
+  city: Copenhagen
+  country: Denmark
+- name: Gudme Raaschou Health Care
+  swift: GRHCDKK1XXX
+  swift8: GRHCDKK1
+  branch_name: Head Office
+  branch_address: Borsgade 4-8 1215 Copenhagen K
+  branch_code: XXX
+  city: Copenhagen
+  country: Denmark
+- name: Gudme Raaschou Invest A/s
+  swift: GURIDKK1XXX
+  swift8: GURIDKK1
+  branch_name: Head Office
+  branch_address: Borsgade 4-8 1560 Copenhagen
+  branch_code: XXX
+  city: Copenhagen
+  country: Denmark
+- name: Gudme Raaschou Investment Bank
+  swift: GRPBDKK1XXX
+  swift8: GRPBDKK1
+  branch_name: Head Office
+  branch_address: Boersgade 4 -8 1215 Copenhagen K
+  branch_code: XXX
+  city: Copenhagen
+  country: Denmark
+- name: Gudme Raaschou Nordic Alpha
+  swift: GRNADKK1XXX
+  swift8: GRNADKK1
+  branch_name: Head Office
+  branch_address: Borsgade 4-8 1215 Copenhagen K
+  branch_code: XXX
+  city: Copenhagen
+  country: Denmark
+- name: Gudme Raaschou Selection
+  swift: GRSLDKK1XXX
+  swift8: GRSLDKK1
+  branch_name: Head Office
+  branch_address: Borsgade 4-8 1215 Copenhagen K
+  branch_code: XXX
+  city: Copenhagen
+  country: Denmark
+- name: Gudme Raaschou Us High Yield
+  swift: GRHYDKK1XXX
+  swift8: GRHYDKK1
+  branch_name: Head Office
+  branch_address: Borsgade 4-8 1215 Copenhagen K
+  branch_code: XXX
+  city: Copenhagen
+  country: Denmark
+- name: Hals Sparekasse
+  swift: HALSDK21XXX
+  swift8: HALSDK21
+  branch_name: Head Office
+  branch_address: Torvet 1 9370 Hals
+  branch_code: XXX
+  city: Hals
+  country: Denmark
+- name: Henton Borsmaeglerselskab A/s
+  swift: HEBODK21XXX
+  swift8: HEBODK21
+  branch_name: Head Office
+  branch_address: Tvaergade 2 8600 Silkeborg
+  branch_code: XXX
+  city: Silkeborg
+  country: Denmark
+- name: Hp Fondsmaeglerselskab A/s
+  swift: FONMDKK1XXX
+  swift8: FONMDKK1
+  branch_name: Head Office
+  branch_address: Kronprinsessegade 18, 1. Sal 1306 Copenhagen
+  branch_code: XXX
+  city: Copenhagen
+  country: Denmark
+- name: Hunstrup-oesterild Sparekasse
+  swift: HUSPDK21XXX
+  swift8: HUSPDK21
+  branch_name: Head Office
+  branch_address: Villavej 6, Oesterild 7700 Thisted
+  branch_code: XXX
+  city: Thisted
+  country: Denmark
+- name: Hvidbjerg Bank Aktieselskab
+  swift: HVBADK21XXX
+  swift8: HVBADK21
+  branch_name: Head Office
+  branch_address: Ostergade 2 7790 Thyholm
+  branch_code: XXX
+  city: Thyholm
+  country: Denmark
+- name: Invest Administration A/s
+  swift: IADMDK21XXX
+  swift8: IADMDK21
+  branch_name: Head Office
+  branch_address: Falkoner Alle 53 2000 Frederiksberg
+  branch_code: XXX
+  city: Frederiksberg
+  country: Denmark
+- name: Investering And Tryghed A/s
+  swift: ITRYDK21XXX
+  swift8: ITRYDK21
+  branch_name: Head Office
+  branch_address: Dalgashus 7400 Herning
+  branch_code: XXX
+  city: Herning
+  country: Denmark
+- name: Investeringsforeningen Ms Investvalue Aktier
+  swift: INUKDKK1XXX
+  swift8: INUKDKK1
+  branch_name: Head Office
+  branch_address: Strandgade 3 0900 Copenhagen
+  branch_code: XXX
+  city: Copenhagen
+  country: Denmark
+- name: Investeringsforeningen Nordea Invest Aktier
+  swift: IVNIDKK1XXX
+  swift8: IVNIDKK1
+  branch_name: Head Office
+  branch_address: Aktier 0900 Copenhagen C
+  branch_code: XXX
+  city: Copenhagen C
+  country: Denmark
+- name: Investeringsforeningen Nordea Invest Emerging Markets
+  swift: IONMDKK1XXX
+  swift8: IONMDKK1
+  branch_name: Head Office
+  branch_address: Strandgade 3 0900 Copenhagen
+  branch_code: XXX
+  city: Copenhagen
+  country: Denmark
+- name: Investeringsforeningen Nordea Invest Europa
+  swift: IOIEDKK1XXX
+  swift8: IOIEDKK1
+  branch_name: Head Office
+  branch_address: Strandgade 3 0900 Copenhagen C
+  branch_code: XXX
+  city: Copenhagen C
+  country: Denmark
+- name: Investeringsforeningen Nordea Invest Europa Small Cap
+  swift: IOIUDKK1XXX
+  swift8: IOIUDKK1
+  branch_name: Head Office
+  branch_address: Strandgade 3 0900 Copenhagen
+  branch_code: XXX
+  city: Copenhagen
+  country: Denmark
+- name: Investeringsforeningen Nordea Invest Fjerneoesten
+  swift: INIJDKK1XXX
+  swift8: INIJDKK1
+  branch_name: Head Office
+  branch_address: Strandgade 3 0900 Copenhagen
+  branch_code: XXX
+  city: Copenhagen
+  country: Denmark
+- name: Investeringsforeningen Nordea Invest Fonde
+  swift: IOIFDKK1XXX
+  swift8: IOIFDKK1
+  branch_name: Head Office
+  branch_address: Strandgade 3 0900 Copenhagen
+  branch_code: XXX
+  city: Copenhagen
+  country: Denmark
+- name: Investeringsforeningen Nordea Invest Global Teknologi
+  swift: IONGDKK1XXX
+  swift8: IONGDKK1
+  branch_name: Head Office
+  branch_address: Strandgade 3 0900 Copenhagen C
+  branch_code: XXX
+  city: Copenhagen C
+  country: Denmark
+- name: Investeringsforeningen Nordea Invest Global Vaekst
+  swift: IOIGDKK1XXX
+  swift8: IOIGDKK1
+  branch_name: Head Office
+  branch_address: Strandgade 3 0900 Copenhagen C
+  branch_code: XXX
+  city: Copenhagen C
+  country: Denmark
+- name: Investeringsforeningen Nordea Invest Globale Aktier Indeks
+  swift: IONLDKK1XXX
+  swift8: IONLDKK1
+  branch_name: Head Office
+  branch_address: Strandgade 3 0900 Copenhagen C
+  branch_code: XXX
+  city: Copenhagen C
+  country: Denmark
+- name: Investeringsforeningen Nordea Invest Globale Obligationer
+  swift: IOILDKK1XXX
+  swift8: IOILDKK1
+  branch_name: Head Office
+  branch_address: Strandgade 3 0900 Copenhagen C
+  branch_code: XXX
+  city: Copenhagen C
+  country: Denmark
+- name: Investeringsforeningen Nordea Invest Health Care
+  swift: IOIHDKK1XXX
+  swift8: IOIHDKK1
+  branch_name: Head Office
+  branch_address: Strandgade 3 0900 Copenhagen
+  branch_code: XXX
+  city: Copenhagen
+  country: Denmark
+- name: Investeringsforeningen Nordea Invest Indien
+  swift: IONNDKK1XXX
+  swift8: IONNDKK1
+  branch_name: Head Office
+  branch_address: Strandgade 3 0900 Copenhagen
+  branch_code: XXX
+  city: Copenhagen
+  country: Denmark
+- name: Investeringsforeningen Nordea Invest Japan
+  swift: IVNVDKK1XXX
+  swift8: IVNVDKK1
+  branch_name: Head Office
+  branch_address: Strandgade 3 0900 Copenhagen C
+  branch_code: XXX
+  city: Copenhagen C
+  country: Denmark
+- name: Investeringsforeningen Nordea Invest Kina
+  swift: IONIDKK1XXX
+  swift8: IONIDKK1
+  branch_name: Head Office
+  branch_address: Strandgade 3 0900 Copenhagen
+  branch_code: XXX
+  city: Copenhagen
+  country: Denmark
+- name: Investeringsforeningen Nordea Invest Korte Obligationer
+  swift: IONKDKK1XXX
+  swift8: IONKDKK1
+  branch_name: Head Office
+  branch_address: Strandgade 3 0900 Copenhagen C
+  branch_code: XXX
+  city: Copenhagen C
+  country: Denmark
+- name: Investeringsforeningen Nordea Invest Korte Obligationer Privat
+  swift: IOIKDKK1XXX
+  swift8: IOIKDKK1
+  branch_name: Head Office
+  branch_address: Strandgade 3 0900 Copenhagen C
+  branch_code: XXX
+  city: Copenhagen C
+  country: Denmark
+- name: Investeringsforeningen Nordea Invest Lange Obligationer Privat
+  swift: IOIADKK1XXX
+  swift8: IOIADKK1
+  branch_name: Head Office
+  branch_address: Strandgade 3 0900 Copenhagen
+  branch_code: XXX
+  city: Copenhagen
+  country: Denmark
+- name: Investeringsforeningen Nordea Invest Latinamerika
+  swift: IONADKK1XXX
+  swift8: IONADKK1
+  branch_name: Head Office
+  branch_address: Strandgade 3 0900 Copenhagen
+  branch_code: XXX
+  city: Copenhagen
+  country: Denmark
+- name: Investeringsforeningen Nordea Invest Mellemlange Obligationer Pension
+  swift: IOIMDKK1XXX
+  swift8: IOIMDKK1
+  branch_name: Head Office
+  branch_address: Strandgade 3 0900 Copenhagen C
+  branch_code: XXX
+  city: Copenhagen C
+  country: Denmark
+- name: Investeringsforeningen Nordea Invest Mellemlange Obligationer Privat
+  swift: IOINDKK1XXX
+  swift8: IOINDKK1
+  branch_name: Head Office
+  branch_address: Strandgade 3 0900 Copenhagen C
+  branch_code: XXX
+  city: Copenhagen C
+  country: Denmark
+- name: Investeringsforeningen Nordea Invest Nordic Small Cap
+  swift: IOIODKK1XXX
+  swift8: IOIODKK1
+  branch_name: Head Office
+  branch_address: Strandgade 3 0900 Copenhagen C
+  branch_code: XXX
+  city: Copenhagen C
+  country: Denmark
+- name: Investeringsforeningen Nordea Invest Nordon
+  swift: IOIRDKK1XXX
+  swift8: IOIRDKK1
+  branch_name: Head Office
+  branch_address: Strandgade 3 0900 Copenhagen
+  branch_code: XXX
+  city: Copenhagen
+  country: Denmark
+- name: Investeringsforeningen Nordea Invest Oest-europa
+  swift: IONODKK1XXX
+  swift8: IONODKK1
+  branch_name: Head Office
+  branch_address: Strandgade 3 0900 Copenhagen
+  branch_code: XXX
+  city: Copenhagen
+  country: Denmark
+- name: Investeringsforeningen Nordea Invest Special Europaeiske Aktier Fokus
+  swift: IOIPDKK1XXX
+  swift8: IOIPDKK1
+  branch_name: Head Office
+  branch_address: Strandgade 3 0900 Copenhagen C
+  branch_code: XXX
+  city: Copenhagen C
+  country: Denmark
+- name: Investeringsforeningen Nordea Invest Special European High Yield Bond
+  swift: IOISDKK1XXX
+  swift8: IOISDKK1
+  branch_name: Head Office
+  branch_address: Strandgade 3 0900 Copenhagen
+  branch_code: XXX
+  city: Copenhagen
+  country: Denmark
+- name: Investeringsforeningen Nordea Invest Special Formueforvaltning Obligationer
+  swift: IOICDKK1XXX
+  swift8: IOICDKK1
+  branch_name: Head Office
+  branch_address: Strandgade 3 0900 Copenhagen C
+  branch_code: XXX
+  city: Copenhagen C
+  country: Denmark
+- name: Investeringsforeningen Nordea Invest Special Global Value
+  swift: IONEDKK1XXX
+  swift8: IONEDKK1
+  branch_name: Head Office
+  branch_address: Strandgade 3 0900 Copenhagen C
+  branch_code: XXX
+  city: Copenhagen C
+  country: Denmark
+- name: Investeringsforeningen Nordea Invest Stabil Aktier
+  swift: IONTDKK1XXX
+  swift8: IONTDKK1
+  branch_name: Head Office
+  branch_address: Strandgade 3 0900 Copenhagen C
+  branch_code: XXX
+  city: Copenhagen C
+  country: Denmark
+- name: Investeringsforeningen Nordea Invest Stabil Balanceret
+  swift: IOIIDKK1XXX
+  swift8: IOIIDKK1
+  branch_name: Head Office
+  branch_address: Strandgade 3 0900 Copenhagen C
+  branch_code: XXX
+  city: Copenhagen C
+  country: Denmark
+- name: Investeringsforeningen Nordea Invest Usa
+  swift: IONUDKK1XXX
+  swift8: IONUDKK1
+  branch_name: Head Office
+  branch_address: Strandgade 3 0900 Copenhagen
+  branch_code: XXX
+  city: Copenhagen
+  country: Denmark
+- name: Investeringsforeningen Nordea Invest Verden
+  swift: IOIVDKK1XXX
+  swift8: IOIVDKK1
+  branch_name: Head Office
+  branch_address: Strandgade 3 0900 Copenhagen
+  branch_code: XXX
+  city: Copenhagen
+  country: Denmark
+- name: Investeringsforeningen Nordea Invest Virksomhedsobligationer
+  swift: INNHDKK1XXX
+  swift8: INNHDKK1
+  branch_name: Head Office
+  branch_address: Strandgade 3 0900 Copenhagen C
+  branch_code: XXX
+  city: Copenhagen C
+  country: Denmark
+- name: Investeringsforeningen Nordea Investbasis 1
+  swift: IOVNDKK1XXX
+  swift8: IOVNDKK1
+  branch_name: Head Office
+  branch_address: Strandgade 3 0900 Copenhagen
+  branch_code: XXX
+  city: Copenhagen
+  country: Denmark
+- name: Investeringsforeningen Nordea Investbasis 2
+  swift: IONVDKK1XXX
+  swift8: IONVDKK1
+  branch_name: Head Office
+  branch_address: Strandgade 3 0900 Copenhagen
+  branch_code: XXX
+  city: Copenhagen
+  country: Denmark
+- name: Investeringsforeningen Nordea Investbasis 3
+  swift: IOONDKK1XXX
+  swift8: IOONDKK1
+  branch_name: Head Office
+  branch_address: Strandgade 3 0900 Copenhagen
+  branch_code: XXX
+  city: Copenhagen
+  country: Denmark
+- name: Investeringsforeningen Nordea Investbasis 4
+  swift: IOEVDKK1XXX
+  swift8: IOEVDKK1
+  branch_name: Head Office
+  branch_address: Strandgade 3 0900 Copenhagen
+  branch_code: XXX
+  city: Copenhagen
+  country: Denmark
+- name: Investeringsforeningen Nordea Investengros Absolute Return Equities
+  swift: IOVADKK1XXX
+  swift8: IOVADKK1
+  branch_name: Head Office
+  branch_address: Strandgade 3 0900 Copenhagen
+  branch_code: XXX
+  city: Copenhagen
+  country: Denmark
+- name: Investeringsforeningen Nordea Investengros Absolute Return Equities Ii
+  swift: IOVBDKK1XXX
+  swift8: IOVBDKK1
+  branch_name: Head Office
+  branch_address: Strandgade 3 0900 Copenhagen
+  branch_code: XXX
+  city: Copenhagen
+  country: Denmark
+- name: Investeringsforeningen Nordea Investengros Absolute Return Equities Ii-etisk
+    Valg
+  swift: IOVODKK1XXX
+  swift8: IOVODKK1
+  branch_name: Head Office
+  branch_address: Strandgade 3 0900 Copenhagen
+  branch_code: XXX
+  city: Copenhagen
+  country: Denmark
+- name: Investeringsforeningen Nordea Investengros Corporate Bonds
+  swift: IOVCDKK1XXX
+  swift8: IOVCDKK1
+  branch_name: Head Office
+  branch_address: Strandgade 3 0900 Copenhagen
+  branch_code: XXX
+  city: Copenhagen
+  country: Denmark
+- name: Investeringsforeningen Nordea Investengros Euro Investment Grade
+  swift: IOVRDKK1XXX
+  swift8: IOVRDKK1
+  branch_name: Head Office
+  branch_address: Strandgade 3 0900 Copenhagen
+  branch_code: XXX
+  city: Copenhagen
+  country: Denmark
+- name: Investeringsforeningen Nordea Investengros Europaeiske Aktier
+  swift: IOVUDKK1XXX
+  swift8: IOVUDKK1
+  branch_name: Head Office
+  branch_address: Strandgade 3 0900 Copenhagen
+  branch_code: XXX
+  city: Copenhagen
+  country: Denmark
+- name: Investeringsforeningen Nordea Investengros Global High Yield
+  swift: IOVGDKK1XXX
+  swift8: IOVGDKK1
+  branch_name: Head Office
+  branch_address: Strandgade 3 0900 Copenhagen
+  branch_code: XXX
+  city: Copenhagen
+  country: Denmark
+- name: Investeringsforeningen Nordea Investengros Internationale Aktier
+  swift: IOVIDKK1XXX
+  swift8: IOVIDKK1
+  branch_name: Head Office
+  branch_address: Strandgade 3 0900 Copenhagen
+  branch_code: XXX
+  city: Copenhagen
+  country: Denmark
+- name: Investeringsforeningen Nordea Investengros Internationale Aktier Etisk Valg
+  swift: IOVTDKK1XXX
+  swift8: IOVTDKK1
+  branch_name: Head Office
+  branch_address: Strandgade 3 0900 Copenhagen
+  branch_code: XXX
+  city: Copenhagen
+  country: Denmark
+- name: Investeringsforeningen Nordea Investengros Obligationer
+  swift: IONBDKK1XXX
+  swift8: IONBDKK1
+  branch_name: Head Office
+  branch_address: Strandgade 3 0900 Copenhagen
+  branch_code: XXX
+  city: Copenhagen
+  country: Denmark
+- name: Investeringsforeningen Nordea Investglobale Aktier Fokus
+  swift: IONRDKK1XXX
+  swift8: IONRDKK1
+  branch_name: Head Office
+  branch_address: Strandgade 3 0900 Copenhagen
+  branch_code: XXX
+  city: Copenhagen
+  country: Denmark
+- name: Investeringsforeningen Nordea Investkapitalsikring
+  swift: IVNNDKK1XXX
+  swift8: IVNNDKK1
+  branch_name: Head Office
+  branch_address: Strandgade 3 0900 Copenhagen
+  branch_code: XXX
+  city: Copenhagen
+  country: Denmark
+- name: Investeringsforeningen Nordea Investklima Og Miljoe
+  swift: INNJDKK1XXX
+  swift8: INNJDKK1
+  branch_name: Head Office
+  branch_address: Strandgade 3 0900 Copenhagen
+  branch_code: XXX
+  city: Copenhagen
+  country: Denmark
+- name: Investeringsforeningen Nordea Investkorte Obligationer 2
+  swift: IOEODKK1XXX
+  swift8: IOEODKK1
+  branch_name: Head Office
+  branch_address: Strandgade 3 0900 Copenhagen
+  branch_code: XXX
+  city: Copenhagen
+  country: Denmark
+- name: Investeringsforeningen Nordea Investlange Obligationer
+  swift: IOVLDKK1XXX
+  swift8: IOVLDKK1
+  branch_name: Head Office
+  branch_address: Strandgade 3 0900 Copenhagen
+  branch_code: XXX
+  city: Copenhagen
+  country: Denmark
+- name: Investeringsforeningen Nordea Investportefolie Aktier
+  swift: IOVKDKK1XXX
+  swift8: IOVKDKK1
+  branch_name: Head Office
+  branch_address: Strandgade 3 0900 Copenhagen
+  branch_code: XXX
+  city: Copenhagen
+  country: Denmark
+- name: Investeringsforeningen Nordea Investportefolie Eksterne Afdelinger
+  swift: IOEEDKK1XXX
+  swift8: IOEEDKK1
+  branch_name: Head Office
+  branch_address: Strandgade 3 0900 Copenhagen
+  branch_code: XXX
+  city: Copenhagen
+  country: Denmark
+- name: Investeringsforeningen Nordea Investportefolie Emerging Markets Og Asien
+  swift: IOVMDKK1XXX
+  swift8: IOVMDKK1
+  branch_name: Head Office
+  branch_address: Strandgade 3 0900 Copenhagen
+  branch_code: XXX
+  city: Copenhagen
+  country: Denmark
+- name: Investeringsforeningen Nordea Investportefolie Korte Obligationer
+  swift: IOEKDKK1XXX
+  swift8: IOEKDKK1
+  branch_name: Head Office
+  branch_address: Strandgade 3 0900 Copenhagen
+  branch_code: XXX
+  city: Copenhagen
+  country: Denmark
+- name: Investeringsforeningen Nordea Investportefolie Lange Obligationer
+  swift: IOENDKK1XXX
+  swift8: IOENDKK1
+  branch_name: Head Office
+  branch_address: Strandgade 3 0900 Copenhagen
+  branch_code: XXX
+  city: Copenhagen
+  country: Denmark
+- name: Investeringsforeningen Nordea Investportefolie Usa Og Europa
+  swift: IOEUDKK1XXX
+  swift8: IOEUDKK1
+  branch_name: Head Office
+  branch_address: Strandgade 3 0900 Copenhagen
+  branch_code: XXX
+  city: Copenhagen
+  country: Denmark
+- name: Investeringsforeningen Nordea Investportefolie Verden
+  swift: IOVDDKK1XXX
+  swift8: IOVDDKK1
+  branch_name: Head Office
+  branch_address: Strandgade 3 0900 Copenhagen
+  branch_code: XXX
+  city: Copenhagen
+  country: Denmark
+- name: Investeringsforeningen Nordea Investportefolie Verdens Obligationsmarkeder
+  swift: IOVVDKK1XXX
+  swift8: IOVVDKK1
+  branch_name: Head Office
+  branch_address: Strandgade 3 0900 Copenhagen
+  branch_code: XXX
+  city: Copenhagen
+  country: Denmark
+- name: Investeringsforeningen Nordea Investverdens Obligationsmarkeder
+  swift: IONDDKK1XXX
+  swift8: IONDDKK1
+  branch_name: Head Office
+  branch_address: Strandgade 3 0900 Copenhagen
+  branch_code: XXX
+  city: Copenhagen
+  country: Denmark
+- name: Investeringsforeningen Nordea Portefolie Flex
+  swift: IOPFDKK1XXX
+  swift8: IOPFDKK1
+  branch_name: Head Office
+  branch_address: Strandgade 3 0900 Copenhagen
+  branch_code: XXX
+  city: Copenhagen
+  country: Denmark
+- name: Investeringsforeningen Pfa Invest
+  swift: IVPIDK21XXX
+  swift8: IVPIDK21
+  branch_name: Head Office
+  branch_address: Sundkrogsgade 4 2100 Copenhagen
+  branch_code: XXX
+  city: Copenhagen
+  country: Denmark
+- name: Investeringsforvalltningsselskabet Sebinvest A/s
+  swift: IVSNDKK1XXX
+  swift8: IVSNDKK1
+  branch_name: Head Office
+  branch_address: Landemaerket 10 1014 Copenhagen
+  branch_code: XXX
+  city: Copenhagen
+  country: Denmark
+- name: Iss A/s
+  swift: ISSSDKK1XXX
+  swift8: ISSSDKK1
+  branch_name: Head Office
+  branch_address: Bredgade 30 1260 Copenhagen
+  branch_code: XXX
+  city: Copenhagen
+  country: Denmark
+- name: Jak Andelskasse Varde
+  swift: JANVDK21XXX
+  swift8: JANVDK21
+  branch_name: Head Office
+  branch_address: Storegade 43 6800 Varde
+  branch_code: XXX
+  city: Varde
+  country: Denmark
+- name: Jelling Sparekasse
+  swift: JELLDK21XXX
+  swift8: JELLDK21
+  branch_name: Head Office
+  branch_address: Vejlevej 1 7300 Jelling
+  branch_code: XXX
+  city: Jelling
+  country: Denmark
+- name: Juristernes Og Oekonomernes Pensionkasse
+  swift: JUOPDKK1XXX
+  swift8: JUOPDKK1
+  branch_name: Head Office
+  branch_address: Gi. Kongevej 11 1610 Copenhagen V
+  branch_code: XXX
+  city: Copenhagen V
+  country: Denmark
+- name: Klim Sparekasse
+  swift: KLIMDK21XXX
+  swift8: KLIMDK21
+  branch_name: Head Office
+  branch_address: Oddefej 25 9690 Fjerritslev
+  branch_code: XXX
+  city: Fjerritslev
+  country: Denmark
+- name: Kobenhavns Andelskasse
+  swift: KOANDKK1XXX
+  swift8: KOANDKK1
+  branch_name: Head Office
+  branch_address: Fridtjof Nansens Plads 5 2100 Copenhagen
+  branch_code: XXX
+  city: Copenhagen
+  country: Denmark
+- name: Kommunekredit
+  swift: KOMMDKK1XXX
+  swift8: KOMMDKK1
+  branch_name: Head Office
+  branch_address: Kultorvet 16 1009 Copenhagen
+  branch_code: XXX
+  city: Copenhagen
+  country: Denmark
+- name: Kongeriget Danmarks Hypotekbank
+  swift: KDHYDKK1XXX
+  swift8: KDHYDKK1
+  branch_name: Head Office
+  branch_address: Landgreven 4 1301 Copenhagen
+  branch_code: XXX
+  city: Copenhagen
+  country: Denmark
+- name: Kosmopolitex Bankers Trust K/s
+  swift: KOTUDKK1XXX
+  swift8: KOTUDKK1
+  branch_name: Head Office
+  branch_address: Roscowe House 1104 Copenhagen K
+  branch_code: XXX
+  city: Copenhagen
+  country: Denmark
+- name: Laegernes Pensionsbank
+  swift: LAPNDKK1XXX
+  swift8: LAPNDKK1
+  branch_name: Head Office
+  branch_address: Esplanaden 8 a 1263 Copenhagen K
+  branch_code: XXX
+  city: Frederiksberg
+  country: Denmark
+- name: Landbrugets Finansieringsbank
+  swift: LAFIDKK1XXX
+  swift8: LAFIDKK1
+  branch_name: Head Office
+  branch_address: Nyropsgade 17 1602 Copenhagen
+  branch_code: XXX
+  city: Copenhagen
+  country: Denmark
+- name: Langa Sparekasse
+  swift: LASADK21XXX
+  swift8: LASADK21
+  branch_name: Head Office
+  branch_address: Bredgade 10 8870 Langaa
+  branch_code: XXX
+  city: Langaa
+  country: Denmark
+- name: Lego System A/s
+  swift: LEGODK22XXX
+  swift8: LEGODK22
+  branch_name: No branch name
+  branch_address: No branch address
+  branch_code: XXX
+  city: Billund
+  country: Denmark
+- name: Leo Pharma A/s
+  swift: LEPHDK22XXX
+  swift8: LEPHDK22
+  branch_name: No branch name
+  branch_address: No branch address
+  branch_code: XXX
+  city: Ballerup
+  country: Denmark
+- name: Lollands Bank A/s
+  swift: LOBADK21XXX
+  swift8: LOBADK21
+  branch_name: Head Office
+  branch_address: Nybrogade 3 4900 Nakskov
+  branch_code: XXX
+  city: Nakskov
+  country: Denmark
+- name: Lpi High Yield Globale
+  swift: LHYGDKK1XXX
+  swift8: LHYGDKK1
+  branch_name: Head Office
+  branch_address: Otto Monsteds Plads 9 1780 Copenhagen
+  branch_code: XXX
+  city: Copenhagen
+  country: Denmark
+- name: Lpi Indeksobligationer
+  swift: LINMDKK1XXX
+  swift8: LINMDKK1
+  branch_name: Head Office
+  branch_address: Otto Monsteds Plads 9 1780 Copenhagen
+  branch_code: XXX
+  city: Copenhagen
+  country: Denmark
+- name: Lpi Indeksobligationer Ii
+  swift: LINPDKK1XXX
+  swift8: LINPDKK1
+  branch_name: Head Office
+  branch_address: Otto Monsteds Plads 9 1780 Copenhagen
+  branch_code: XXX
+  city: Copenhagen
+  country: Denmark
+- name: Lr Realkredit A/s
+  swift: REAKDKK1XXX
+  swift8: REAKDKK1
+  branch_name: Head Office
+  branch_address: Nyropsgade 21 1780 Copenhagen
+  branch_code: XXX
+  city: Copenhagen
+  country: Denmark
+- name: Lunde-kvong Andelskasse
+  swift: LUKVDK21XXX
+  swift8: LUKVDK21
+  branch_name: Head Office
+  branch_address: Degnevej 23, Lunde 6830 Noerre Nebel
+  branch_code: XXX
+  city: Noerre Nebel
+  country: Denmark
+- name: Maj Invest A/s
+  swift: MAVVDKK1XXX
+  swift8: MAVVDKK1
+  branch_name: Head Office
+  branch_address: 18 Gammelterv 1457 Copenhagen
+  branch_code: XXX
+  city: Copenhagen
+  country: Denmark
+- name: Markedskraft Danmark, Filial Af Markedskraft Asa Norge
+  swift: MDFMDK21XXX
+  swift8: MDFMDK21
+  branch_name: Head Office
+  branch_address: Klostertorvet 6-8 8000 Aarhus
+  branch_code: XXX
+  city: Aarhus
+  country: Denmark
+- name: Merkur,den Almennyttige Andelskasse
+  swift: MEKUDK21XXX
+  swift8: MEKUDK21
+  branch_name: Head Office
+  branch_address: Bispensgade 16 9100 Aalborg
+  branch_code: XXX
+  city: Aalborg
+  country: Denmark
+- name: Middelfart Sparekasse
+  swift: MISPDK21XXX
+  swift8: MISPDK21
+  branch_name: Head Office
+  branch_address: Algade 6 5500 Middelfart
+  branch_code: XXX
+  city: Middelfart
+  country: Denmark
+- name: Midtinvest Investeringsforvaltning A/s
+  swift: MIDIDK21XXX
+  swift8: MIDIDK21
+  branch_name: Head Office
+  branch_address: Sondergade 5 7400 Herning
+  branch_code: XXX
+  city: Herning
+  country: Denmark
+- name: Moens Bank A/s
+  swift: MONSDK21XXX
+  swift8: MONSDK21
+  branch_name: Head Office
+  branch_address: Storegade 29 4780 Stege
+  branch_code: XXX
+  city: Askeby
+  country: Denmark
+- name: Mp Pension
+  swift: PENNDK21XXX
+  swift8: PENNDK21
+  branch_name: Head Office
+  branch_address: Lyngbyvej 20 Copenhagen
+  branch_code: XXX
+  city: Copenhagen
+  country: Denmark
+- name: Ne Fondsmaeglerselskab A/s (ne Capital Management A/s
+  swift: FOCMDK21XXX
+  swift8: FOCMDK21
+  branch_name: Head Office
+  branch_address: Skelagervej 1 9000 Aalborg
+  branch_code: XXX
+  city: Aalborg
+  country: Denmark
+- name: Ni Portefolje Globale Aktier Strategi Kl
+  swift: PGASDKK1XXX
+  swift8: PGASDKK1
+  branch_name: No branch name
+  branch_address: No branch address
+  branch_code: XXX
+  city: Copenhagen
+  country: Denmark
+- name: Ni Portefolje Pbpm Danske Obligationer Kl
+  swift: PPDODKK1XXX
+  swift8: PPDODKK1
+  branch_name: No branch name
+  branch_address: No branch address
+  branch_code: XXX
+  city: Copenhagen
+  country: Denmark
+- name: Ni Portefolje Pbpm Globale Aktier Fokus Kl
+  swift: PPGADKK1XXX
+  swift8: PPGADKK1
+  branch_name: No branch name
+  branch_address: No branch address
+  branch_code: XXX
+  city: Copenhagen
+  country: Denmark
+- name: Ni Portfolie Pbpm Obligationer Kl
+  swift: PPOLDKK1XXX
+  swift8: PPOLDKK1
+  branch_name: No branch name
+  branch_address: No branch address
+  branch_code: XXX
+  city: Copenhagen
+  country: Denmark
+- name: Ni Portfolje Pbpm Balance Kl
+  swift: PBPMDKK1XXX
+  swift8: PBPMDKK1
+  branch_name: No branch name
+  branch_address: No branch address
+  branch_code: XXX
+  city: Copenhagen
+  country: Denmark
+- name: Nie Emerging Market Bonds
+  swift: NEMBDKK1XXX
+  swift8: NEMBDKK1
+  branch_name: Head Office
+  branch_address: Strandgade 3 0800 Copenhagen
+  branch_code: XXX
+  city: Copenhagen
+  country: Denmark
+- name: Nordea Finans Danmark A/s
+  swift: UNREDKK1XXX
+  swift8: UNREDKK1
+  branch_name: Head Office
+  branch_address: Strandgade 3 900 Copenhagen
+  branch_code: XXX
+  city: Copenhagen
+  country: Denmark
+- name: Nordea Invest Fund Management A/s
+  swift: NIFNDK21XXX
+  swift8: NIFNDK21
+  branch_name: Head Office
+  branch_address: Nyropsgade 17, St. 1602 Copenhagen
+  branch_code: XXX
+  city: Copenhagen
+  country: Denmark
+- name: Nordea Invest Hoejrentelande
+  swift: NOIHDKK1XXX
+  swift8: NOIHDKK1
+  branch_name: Head Office
+  branch_address: Strandgade 3 0800 Copenhagen
+  branch_code: XXX
+  city: Copenhagen
+  country: Denmark
+- name: Nordea Invest Stabile Aktier Akkumulerende
+  swift: NISTDKK1XXX
+  swift8: NISTDKK1
+  branch_name: Head Office
+  branch_address: Standgade 3 0900 Copenhagen
+  branch_code: XXX
+  city: Copenhagen
+  country: Denmark
+- name: Nordea Invest Virksomhedsobligationer Hoejrente
+  swift: NIVHDKK1XXX
+  swift8: NIVHDKK1
+  branch_name: Head Office
+  branch_address: Strandgade 3 0800 Copenhagen
+  branch_code: XXX
+  city: Copenhagen
+  country: Denmark
+- name: Nordfyns Bank
+  swift: NSBKDK21023
+  swift8: NSBKDK21
+  branch_name: 5450 Otterup
+  branch_address: Jernbanegade 22 5450 Otterup
+  branch_code: '023'
+  city: Otterup
+  country: Denmark
+- name: Nordfyns Bank
+  swift: NSBKDK21024
+  swift8: NSBKDK21
+  branch_name: 5471 Soendersoe
+  branch_address: Vesterled 2 5471 Soendersoe
+  branch_code: '024'
+  city: Soendersoe
+  country: Denmark
+- name: Nordfyns Bank
+  swift: NSBKDK21025
+  swift8: NSBKDK21
+  branch_name: 5464 Brenderup
+  branch_address: Stationsvej 29 5464 Brenderup
+  branch_code: '025'
+  city: Brenderup
+  country: Denmark
+- name: Nordfyns Bank
+  swift: NSBKDK21XXX
+  swift8: NSBKDK21
+  branch_name: Head Office
+  branch_address: Adelgade 49 5400 Bogense
+  branch_code: XXX
+  city: Bogense
+  country: Denmark
+- name: Nordic Asset Management Fondsmaeglerselskab A/s
+  swift: NAMNDKK1XXX
+  swift8: NAMNDKK1
+  branch_name: Head Office
+  branch_address: Lille Strandstraede 20c 1254 Copenhagen K
+  branch_code: XXX
+  city: Copenhagen
+  country: Denmark
+- name: Northern Rock Bank Danmark
+  swift: NORNDKK1XXX
+  swift8: NORNDKK1
+  branch_name: Head Office
+  branch_address: Business Center City 1550 Copenhagen
+  branch_code: XXX
+  city: Copenhagen
+  country: Denmark
+- name: Novozymes A/s
+  swift: NOVZDK21XXX
+  swift8: NOVZDK21
+  branch_name: Head Office
+  branch_address: Krogshojvej 26 Dk-2880 Bagsvaerd
+  branch_code: XXX
+  city: Bagsvaerd
+  country: Denmark
+- name: Nykredit Am
+  swift: NYKEDKK1XXX
+  swift8: NYKEDKK1
+  branch_name: Head Office
+  branch_address: Otto Monster Plads 9 1780 Copenhagen
+  branch_code: XXX
+  city: Copenhagen
+  country: Denmark
+- name: Nykredit Portfolio
+  swift: NYPODKK1XXX
+  swift8: NYPODKK1
+  branch_name: Head Office
+  branch_address: Otto Monsted Plads 9 Copenhagen
+  branch_code: XXX
+  city: Copenhagen
+  country: Denmark
+- name: Oresundsbro Konsortiet
+  swift: OKONDKKKXXX
+  swift8: OKONDKKK
+  branch_name: Head Office
+  branch_address: Vester Sogade 10 1601 Copenhagen
+  branch_code: XXX
+  city: Copenhagen
+  country: Denmark
+- name: P-h Borsmaeglerselskab A/s
+  swift: PHBSDKK1XXX
+  swift8: PHBSDKK1
+  branch_name: Head Office
+  branch_address: Nygade 4 1164 Copenhagen
+  branch_code: XXX
+  city: Copenhagen
+  country: Denmark
+- name: P.h. Borsmaeglerselskab
+  swift: BOLEDKK1XXX
+  swift8: BOLEDKK1
+  branch_name: Head Office
+  branch_address: Nygaoe 4 1164 Copenhagen
+  branch_code: XXX
+  city: Copenhagen
+  country: Denmark
+- name: Pbs A/s (payments Business Services
+  swift: PBSEDK21T2I
+  swift8: PBSEDK21
+  branch_name: Target2 Interface
+  branch_address: Ballerup
+  branch_code: T2I
+  city: Ballerup
+  country: Denmark
+- name: Pbs A/s (payments Business Services
+  swift: PBSEDK21XXX
+  swift8: PBSEDK21
+  branch_name: Head Office
+  branch_address: Lautrupbjerg 10 2750 Ballerup
+  branch_code: XXX
+  city: Ballerup
+  country: Denmark
+- name: Pen-sam Bank A/s
+  swift: PSBSDK21XXX
+  swift8: PSBSDK21
+  branch_name: Head Office
+  branch_address: Jorgen Knutsens Vej 2 3520 Farum
+  branch_code: XXX
+  city: Farum
+  country: Denmark
+- name: Pensiondanmark
+  swift: PENODK21XXX
+  swift8: PENODK21
+  branch_name: Head Office
+  branch_address: Langelinie Alle 41 Copenhagen
+  branch_code: XXX
+  city: Copenhagen
+  country: Denmark
+- name: Pfa Kapitalforvaltning
+  swift: PFAKDKK1XXX
+  swift8: PFAKDKK1
+  branch_name: Head Office
+  branch_address: Sundkrogsgade 4 2100 Copenhagen
+  branch_code: XXX
+  city: Copenhagen
+  country: Denmark
+- name: Pfa Pension
+  swift: PFPEDKK1XXX
+  swift8: PFPEDKK1
+  branch_name: Head Office
+  branch_address: Marina Park 2100 Copenhagen
+  branch_code: XXX
+  city: Copenhagen
+  country: Denmark
+- name: Pfa Udbetalingsbank A/s
+  swift: PFUDDKK1XXX
+  swift8: PFUDDKK1
+  branch_name: No branch name
+  branch_address: No branch address
+  branch_code: XXX
+  city: Copenhagen
+  country: Denmark
+- name: Placeringsforeningen Profil Invest
+  swift: PLPIDKK1XXX
+  swift8: PLPIDKK1
+  branch_name: Head Office
+  branch_address: C/O Danske Invest Adm. A/S 2100 Copenhagen
+  branch_code: XXX
+  city: Copenhagen
+  country: Denmark
+- name: Realdania
+  swift: REKDDKK1245
+  swift8: REKDDKK1
+  branch_name: Kdcap245
+  branch_address: Copenhagen
+  branch_code: '245'
+  city: Copenhagen
+  country: Denmark
+- name: Realdania
+  swift: REKDDKK1401
+  swift8: REKDDKK1
+  branch_name: Kdcamp401
+  branch_address: Copenhagen
+  branch_code: '401'
+  city: Copenhagen
+  country: Denmark
+- name: Realdania
+  swift: REKDDKK1402
+  swift8: REKDDKK1
+  branch_name: Kdtimb402
+  branch_address: Copenhagen
+  branch_code: '402'
+  city: Copenhagen
+  country: Denmark
+- name: Realdania
+  swift: REKDDKK1405
+  swift8: REKDDKK1
+  branch_name: Kdcord405
+  branch_address: Copenhagen
+  branch_code: '405'
+  city: Copenhagen
+  country: Denmark
+- name: Realdania
+  swift: REKDDKK1407
+  swift8: REKDDKK1
+  branch_name: Kdhines407
+  branch_address: Copenhagen
+  branch_code: '407'
+  city: Copenhagen
+  country: Denmark
+- name: Realdania
+  swift: REKDDKK1700
+  swift8: REKDDKK1
+  branch_name: Kdcatco700
+  branch_address: Copenhagen
+  branch_code: '700'
+  city: Copenhagen
+  country: Denmark
+- name: Realdania
+  swift: REKDDKK1703
+  swift8: REKDDKK1
+  branch_name: Kdsinai703
+  branch_address: Copenhagen
+  branch_code: '703'
+  city: Copenhagen
+  country: Denmark
+- name: Realdania
+  swift: REKDDKK1704
+  swift8: REKDDKK1
+  branch_name: Realdania-Kdpin704
+  branch_address: Copenhagen
+  branch_code: '704'
+  city: Copenhagen
+  country: Denmark
+- name: Realdania
+  swift: REKDDKK1XXX
+  swift8: REKDDKK1
+  branch_name: Head Office
+  branch_address: Jarmers Plads 2 1551 Copenhagen
+  branch_code: XXX
+  city: Copenhagen
+  country: Denmark
+- name: Refsnaes Sparekasse
+  swift: REPRDK21XXX
+  swift8: REPRDK21
+  branch_name: Head Office
+  branch_address: Rosnasvej 349 4400 Kalundborg
+  branch_code: XXX
+  city: Kalundborg
+  country: Denmark
+- name: Rise Spare-og Laanekasse
+  swift: RISEDK21XXX
+  swift8: RISEDK21
+  branch_name: Head Office
+  branch_address: St. Rise Landevej 10 5970 Aeroeskoebing
+  branch_code: XXX
+  city: Aeroeskoebing
+  country: Denmark
+- name: Ronde Og Omegns Sparekasse
+  swift: RSPKDK21XXX
+  swift8: RSPKDK21
+  branch_name: Head Office
+  branch_address: Hovedgaden 33 8410 Roende
+  branch_code: XXX
+  city: Roende
+  country: Denmark
+- name: Ryomgaard Og Omegns Sparekasse
+  swift: RYOMDK21XXX
+  swift8: RYOMDK21
+  branch_name: Head Office
+  branch_address: Vestergade 39 8550 Ryomgaard
+  branch_code: XXX
+  city: Ryomgaard
+  country: Denmark
+- name: Saxo Payments A/s
+  swift: SXPYDKKKXXX
+  swift8: SXPYDKKK
+  branch_name: No branch name
+  branch_address: No branch address
+  branch_code: XXX
+  city: Hellerup
+  country: Denmark
+- name: Saxo Privatbank
+  swift: BRSPDK21XXX
+  swift8: BRSPDK21
+  branch_name: Head Office
+  branch_address: Soendergade 16 6650 Broerup
+  branch_code: XXX
+  city: Hellerup
+  country: Denmark
+- name: Saxo Privatbank
+  swift: ETDEDKK1XXX
+  swift8: ETDEDKK1
+  branch_name: Head Office
+  branch_address: Nyhavn 31 G 1051 Copenhagen
+  branch_code: XXX
+  city: Hellerup
+  country: Denmark
+- name: Skandia
+  swift: SKADDK21XXX
+  swift8: SKADDK21
+  branch_name: Head Office
+  branch_address: Neroport 2300 Copenhagen
+  branch_code: XXX
+  city: Copenhagen
+  country: Denmark
+- name: Skandinavisk Data Center A/s
+  swift: SDUDDK21XXX
+  swift8: SDUDDK21
+  branch_name: Head Office
+  branch_address: Borup Vang 1 2750 Ballerup
+  branch_code: XXX
+  city: Ballerup
+  country: Denmark
+- name: Soeby-skader-halling Sparekasse
+  swift: SOBYDK21XXX
+  swift8: SOBYDK21
+  branch_name: Head Office
+  branch_address: Vestersoevej 1, Soeby 8543 Hornslet
+  branch_code: XXX
+  city: Hornslet
+  country: Denmark
+- name: Soenderhaa-hoersted Sparekasse
+  swift: SOHODK21XXX
+  swift8: SOHODK21
+  branch_name: Head Office
+  branch_address: Legindvej 86, Soenderhaa 7752 Snedsted
+  branch_code: XXX
+  city: Snedsted
+  country: Denmark
+- name: Sparekassen Balling
+  swift: BALLDK21XXX
+  swift8: BALLDK21
+  branch_name: Head Office
+  branch_address: Soendergade 12a 7850 Spoettrup
+  branch_code: XXX
+  city: Spoettrup
+  country: Denmark
+- name: Sparekassen Bredebro
+  swift: BBRODK21XXX
+  swift8: BBRODK21
+  branch_name: Head Office
+  branch_address: Storegade 21-25 6261 Bredebro
+  branch_code: XXX
+  city: Bredebro
+  country: Denmark
+- name: Sparekassen Den Lille Bikube
+  swift: LIBIDK21XXX
+  swift8: LIBIDK21
+  branch_name: Head Office
+  branch_address: Sorovej 3 4250 Fuglebjerg
+  branch_code: XXX
+  city: Fuglebjerg
+  country: Denmark
+- name: Sparekassen Djursland
+  swift: VIVIDK21XXX
+  swift8: VIVIDK21
+  branch_name: Head Office
+  branch_address: Langgade, 42, Vivild 8961 Allingaabro
+  branch_code: XXX
+  city: Allingaabro
+  country: Denmark
+- name: Sparekassen Faaborg
+  swift: FAABDK21XXX
+  swift8: FAABDK21
+  branch_name: Head Office
+  branch_address: Torvet 6 5600 Faaborg
+  branch_code: XXX
+  city: Faaborg
+  country: Denmark
+- name: Sparekassen For Noerre Nebel Og Omegn
+  swift: NRNEDK21XXX
+  swift8: NRNEDK21
+  branch_name: Head Office
+  branch_address: Bredgade 46 6830 Noerre Nebel
+  branch_code: XXX
+  city: Noerre Nebel
+  country: Denmark
+- name: Sparekassen Midtdjurs
+  swift: SPMJDK21XXX
+  swift8: SPMJDK21
+  branch_name: Head Office
+  branch_address: Vestergade 39 8550 Ryomgaard
+  branch_code: XXX
+  city: Ryomgaard
+  country: Denmark
+- name: Sparekassen Nordmors
+  swift: NOMODK21XXX
+  swift8: NOMODK21
+  branch_name: Head Office
+  branch_address: Sejersvej 26 7900 Nykoebing Mors
+  branch_code: XXX
+  city: Nykoebing Mors
+  country: Denmark
+- name: Sparekassen Ravsted
+  swift: SRAVDK21XXX
+  swift8: SRAVDK21
+  branch_name: Head Office
+  branch_address: Ravsted Hovedgade 64 6372 Bylderup-Bov
+  branch_code: XXX
+  city: Bylderup-Bov
+  country: Denmark
+- name: Sparekassen Spar Mors
+  swift: BJFLDK21XXX
+  swift8: BJFLDK21
+  branch_name: Head Office
+  branch_address: Friskolevej 16 7950 Erslev
+  branch_code: XXX
+  city: Erslev
+  country: Denmark
+- name: Sparekassen Thy
+  swift: STHYDK21XXX
+  swift8: STHYDK21
+  branch_name: Head Office
+  branch_address: Store Storv 1 7700 Thisted
+  branch_code: XXX
+  city: Thisted
+  country: Denmark
+- name: Sparekassen Vendsyssel
+  swift: VRAADK21XXX
+  swift8: VRAADK21
+  branch_name: Head Office
+  branch_address: Oestergade 15 9760 Vraa
+  branch_code: XXX
+  city: Vra
+  country: Denmark
+- name: Steffen Ronn Fondsmaeglerselskab A/s
+  swift: STRDDKK1XXX
+  swift8: STRDDKK1
+  branch_name: Head Office
+  branch_address: St. Kongensgade 81a 1264 Copenhagen K
+  branch_code: XXX
+  city: Copenhagen
+  country: Denmark
+- name: Svendborg Sparekasse
+  swift: SVSPDK21XXX
+  swift8: SVSPDK21
+  branch_name: Head Office
+  branch_address: Centrumpladsen 19 5700 Svendborg
+  branch_code: XXX
+  city: Svendborg
+  country: Denmark
+- name: Swiss Re Denmark Reinsurance A/s
+  swift: ERFRDKK1XXX
+  swift8: ERFRDKK1
+  branch_name: Head Office
+  branch_address: Ostbanegade 135 1270 Copenhagen
+  branch_code: XXX
+  city: Copenhagen
+  country: Denmark
+- name: Sydinvest Administration A/s
+  swift: SADMDK21XXX
+  swift8: SADMDK21
+  branch_name: Head Office
+  branch_address: Peberlyk 4 6200 Aabenraa
+  branch_code: XXX
+  city: Aabenraa
+  country: Denmark
+- name: Tdc A/s
+  swift: TDCTDKK1NTC
+  swift8: TDCTDKK1
+  branch_name: Nordic Telephone
+  branch_address: Copenhagen
+  branch_code: NTC
+  city: Copenhagen
+  country: Denmark
+- name: Tdc A/s
+  swift: TDCTDKK1TDC
+  swift8: TDCTDKK1
+  branch_name: Tdc
+  branch_address: Copenhagen
+  branch_code: TDC
+  city: Copenhagen
+  country: Denmark
+- name: Tdc A/s
+  swift: TDCTDKK1XXX
+  swift8: TDCTDKK1
+  branch_name: Head Office
+  branch_address: Finansafdelingen 0900 Copenhagen
+  branch_code: XXX
+  city: Copenhagen
+  country: Denmark
+- name: The Danish Emission Trading Registry
+  swift: DETRDKK1XXX
+  swift8: DETRDKK1
+  branch_name: Head Office
+  branch_address: Danish Energy Agency 1256 Copenhagen
+  branch_code: XXX
+  city: Copenhagen
+  country: Denmark
+- name: Top Danmark Forsikring A/s
+  swift: TODFDK21XXX
+  swift8: TODFDK21
+  branch_name: Head Office
+  branch_address: Borupbvang 4 2750 Ballerup
+  branch_code: XXX
+  city: Ballerup
+  country: Denmark
+- name: Top Danmark Livsforsikring A/s
+  swift: TODLDK21XXX
+  swift8: TODLDK21
+  branch_name: Head Office
+  branch_address: Borupbvang 4 2750 Ballerup
+  branch_code: XXX
+  city: Ballerup
+  country: Denmark
+- name: Top Danmark Livsforsikring V A/s
+  swift: TODVDK21XXX
+  swift8: TODVDK21
+  branch_name: Head Office
+  branch_address: Borupbvang 4 2750 Ballerup
+  branch_code: XXX
+  city: Ballerup
+  country: Denmark
+- name: Topdanmark Link Livsforsikring A/s
+  swift: TOLLDK21XXX
+  swift8: TOLLDK21
+  branch_name: Head Office
+  branch_address: Borupbvang 4 2750 Ballerup
+  branch_code: XXX
+  city: Ballerup
+  country: Denmark
+- name: Totalbanken A/s
+  swift: BAAADK21XXX
+  swift8: BAAADK21
+  branch_name: Head Office
+  branch_address: Bredgade 95 5560 Aarup
+  branch_code: XXX
+  city: Aarup
+  country: Denmark
+- name: Totalkredit A/s
+  swift: TOTKDK21XXX
+  swift8: TOTKDK21
+  branch_name: Head Office
+  branch_address: Helgeshoej Alle 53 2630 Taastrup
+  branch_code: XXX
+  city: Taastrup
+  country: Denmark
+- name: Tryg A/s
+  swift: TYYGDK21XXX
+  swift8: TYYGDK21
+  branch_name: Head Office
+  branch_address: Klausdalsbrovej 601 2750 Ballerup
+  branch_code: XXX
+  city: Ballerup
+  country: Denmark
+- name: Unipension Fondsmaeglerselskap A/s
+  swift: UNFODK21XXX
+  swift8: UNFODK21
+  branch_name: Head Office
+  branch_address: Smakkedalen 8 2820 Gentofte
+  branch_code: XXX
+  city: Gentofte
+  country: Denmark
+- name: Vistoft Sparekasse
+  swift: VISODK21XXX
+  swift8: VISODK21
+  branch_name: Head Office
+  branch_address: Lindhoejvej 26, Begtrup 8420 Knebel
+  branch_code: XXX
+  city: Knebel
+  country: Denmark
+- name: Wealth Management Fondsmaeglerselskab A/s
+  swift: WEMFDK21XXX
+  swift8: WEMFDK21
+  branch_name: Head Office
+  branch_address: Lyngebaekgaard 2990 Niva
+  branch_code: XXX
+  city: Niva
+  country: Denmark

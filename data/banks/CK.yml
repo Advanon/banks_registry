@@ -1,0 +1,42 @@
+---
+CK:
+- name: Australia And New Zealand Banking Group Ltd.
+  swift: ANZBCKCRXXX
+  swift8: ANZBCKCR
+  branch_name: Head Office
+  branch_address: Anz House Rarotonga
+  branch_code: XXX
+  city: Rarotonga
+  country: Cook Islands
+- name: Capital Security Bank Cook Islands Limited
+  swift: CPSBCKCKXXX
+  swift8: CPSBCKCK
+  branch_name: Head Office
+  branch_address: Anz House Avarua
+  branch_code: XXX
+  city: Avarua
+  country: Cook Islands
+- name: Capital Security Bank Limited
+  swift: CPSBCKCAXXX
+  swift8: CPSBCKCA
+  branch_name: Head Office
+  branch_address: Main Road Avarua
+  branch_code: XXX
+  city: Avarua
+  country: Cook Islands
+- name: Cook Islands Development Bank
+  swift: CIDBCKC1XXX
+  swift8: CIDBCKC1
+  branch_name: Head Office
+  branch_address: Rarotonga
+  branch_code: XXX
+  city: Rarotonga
+  country: Cook Islands
+- name: Wall Street Banking Corporation Ltd, The
+  swift: WSBCCKC1XXX
+  swift8: WSBCCKC1
+  branch_name: Head Office
+  branch_address: Parekura House Rarotonga
+  branch_code: XXX
+  city: Rarotonga
+  country: Cook Islands

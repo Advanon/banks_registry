@@ -1,0 +1,58 @@
+---
+BT:
+- name: Bank Of Bhutan
+  swift: BHUBBTBT001
+  swift8: BHUBBTBT
+  branch_name: Phuentsholing Main Branch
+  branch_address: Phuntsholing
+  branch_code: '001'
+  city: Phuntsholing
+  country: Bhutan
+- name: Bank Of Bhutan
+  swift: BHUBBTBT022
+  swift8: BHUBBTBT
+  branch_name: Thimphu
+  branch_address: Thimphu
+  branch_code: '022'
+  city: Thimphu
+  country: Bhutan
+- name: Bank Of Bhutan
+  swift: BHUBBTBTXXX
+  swift8: BHUBBTBT
+  branch_name: Head Office
+  branch_address: Bank of Bhutan, Building Phuntsholing
+  branch_code: XXX
+  city: Phuntsholing
+  country: Bhutan
+- name: Bhutan National Bank Ltd
+  swift: BNBTBTBTXXX
+  swift8: BNBTBTBT
+  branch_name: Head Office
+  branch_address: Ricbl Building Thimphu
+  branch_code: XXX
+  city: Thimphu
+  country: Bhutan
+- name: Druk Pnb Bank Limited
+  swift: PUNBBTBTXXX
+  swift8: PUNBBTBT
+  branch_name: Head Office
+  branch_address: Norzin Lam, Near Main Traffic Thimphu
+  branch_code: XXX
+  city: Thimphu
+  country: Bhutan
+- name: Royal Monetary Authority Of Bhutan
+  swift: RMABBTBTXXX
+  swift8: RMABBTBT
+  branch_name: Head Office
+  branch_address: Kawazangsa Thimphu
+  branch_code: XXX
+  city: Thimphu
+  country: Bhutan
+- name: T Bank Ltd
+  swift: TBBTBTBTXXX
+  swift8: TBBTBTBT
+  branch_name: Head Office
+  branch_address: Opposite to Hotel Taj Tashi 631 Thimphu
+  branch_code: XXX
+  city: Thimphu
+  country: Bhutan

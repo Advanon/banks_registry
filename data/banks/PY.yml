@@ -1,0 +1,290 @@
+---
+PY:
+- name: Banco De La Nacion Argentina
+  swift: NACNPYPA0P3
+  swift8: NACNPYPA
+  branch_name: Villarrica
+  branch_address: Villarrica
+  branch_code: 0P3
+  city: Villarrica
+  country: Paraguay
+- name: Banco De La Nacion Argentina
+  swift: NACNPYPA0PC
+  swift8: NACNPYPA
+  branch_name: Concepcion
+  branch_address: Concepcion
+  branch_code: 0PC
+  city: Concepcion
+  country: Paraguay
+- name: Banco De La Nacion Argentina
+  swift: NACNPYPA0PE
+  swift8: NACNPYPA
+  branch_name: Encarnacion
+  branch_address: Encarnacion
+  branch_code: 0PE
+  city: Encarnacion
+  country: Paraguay
+- name: Banco De La Nacion Argentina
+  swift: NACNPYPAXXX
+  swift8: NACNPYPA
+  branch_name: Sucursal Asuncion
+  branch_address: Palma Y Chile 1221 Asuncion
+  branch_code: XXX
+  city: Asuncion
+  country: Paraguay
+- name: Citibank N.A.
+  swift: CITIPYP10P2
+  swift8: CITIPYP1
+  branch_name: Ciudad Del Este
+  branch_address: Ciudad Del Este
+  branch_code: 0P2
+  city: Ciudad Del Este
+  country: Paraguay
+- name: Citibank N.A.
+  swift: CITIPYP10PA
+  swift8: CITIPYP1
+  branch_name: Asuncion
+  branch_address: Asuncion
+  branch_code: 0PA
+  city: Asuncion
+  country: Paraguay
+- name: Citibank N.A.
+  swift: CITIPYP1XXX
+  swift8: CITIPYP1
+  branch_name: Head Office
+  branch_address: Av. Mariscal Lopez 3794 Y Cruz Del Encarnacion
+  branch_code: XXX
+  city: Encarnacion
+  country: Paraguay
+- name: Banco Do Brasil S.a.
+  swift: BRASPYPXXXX
+  swift8: BRASPYPX
+  branch_name: Head Office
+  branch_address: Oliva Y Nstra. Sra. De La Asuncion Asuncion
+  branch_code: XXX
+  city: Asuncion
+  country: Paraguay
+- name: Banco Amambay S.a.
+  swift: AMAMPYPAXXX
+  swift8: AMAMPYPA
+  branch_name: Head Office
+  branch_address: Avenida Aviodores Del Chaco 3309 Asuncion
+  branch_code: XXX
+  city: Asuncion
+  country: Paraguay
+- name: Banco Atlas S.a.
+  swift: BNITPYPAXXX
+  swift8: BNITPYPA
+  branch_name: Head Office
+  branch_address: Eligio Ayala 1049 E/ Estados Unidos Asuncion
+  branch_code: XXX
+  city: Asuncion
+  country: Paraguay
+- name: Banco Bilbao Vizcaya Argentaria Paraguay S.a.
+  swift: BBVAPYPAXXX
+  swift8: BBVAPYPA
+  branch_name: Head Office
+  branch_address: San Rafael Asuncion
+  branch_code: XXX
+  city: Asuncion
+  country: Paraguay
+- name: Banco Busaif S.a. De Inversion Y Fomento
+  swift: BOUIPYP1XXX
+  swift8: BOUIPYP1
+  branch_name: Head Office
+  branch_address: Avenida Espana 505 Asuncion
+  branch_code: XXX
+  city: Asuncion
+  country: Paraguay
+- name: Banco Central Del Paraguay
+  swift: BCPAPYPBXXX
+  swift8: BCPAPYPB
+  branch_name: Aim-Poms Service
+  branch_address: Avenida Pablo Vi Y Sargento Marecos Asuncion
+  branch_code: XXX
+  city: Asuncion
+  country: Paraguay
+- name: Banco Central Del Paraguay
+  swift: BCPAPYPDXXX
+  swift8: BCPAPYPD
+  branch_name: Head Office
+  branch_address: Federacion Rusa Y Cabo Marecos 861 1767 Asuncion
+  branch_code: XXX
+  city: Asuncion
+  country: Paraguay
+- name: Banco Central Del Paraguay
+  swift: BCPAPYPRXXX
+  swift8: BCPAPYPR
+  branch_name: Head Office
+  branch_address: Federacion Rusa Y Cabo Marecos 861 Asuncion
+  branch_code: XXX
+  city: Asuncion
+  country: Paraguay
+- name: Banco Central Del Paraguay
+  swift: BCPAPYPXGON
+  swift8: BCPAPYPX
+  branch_name: Operaciones Nacionales-Dpto De Credito Y Ctas Ctes
+  branch_address: Asuncion
+  branch_code: GON
+  city: Asuncion
+  country: Paraguay
+- name: Banco Central Del Paraguay
+  swift: BCPAPYPXXXX
+  swift8: BCPAPYPX
+  branch_name: Head Office
+  branch_address: Avenida Pablo Vi Y Sargento Marecos Asuncion
+  branch_code: XXX
+  city: Asuncion
+  country: Paraguay
+- name: Banco Continental Saeca
+  swift: BCNAPYPAXXX
+  swift8: BCNAPYPA
+  branch_name: Head Office
+  branch_address: La Paraguaya Asuncion
+  branch_code: XXX
+  city: Asuncion
+  country: Paraguay
+- name: Banco Corporacion S.a.
+  swift: BBCNPYP1XXX
+  swift8: BBCNPYP1
+  branch_name: Head Office
+  branch_address: Eduardo Victor Haedo 103 Asuncion
+  branch_code: XXX
+  city: Asuncion
+  country: Paraguay
+- name: Banco De Desarrollo Del Paraguay S.a.
+  swift: PADEPYP1XXX
+  swift8: PADEPYP1
+  branch_name: Head Office
+  branch_address: Eduardo Victor Haedo 195 Asuncion
+  branch_code: XXX
+  city: Asuncion
+  country: Paraguay
+- name: Banco De Inversiones Del Paraguay
+  swift: INVPPYP1XXX
+  swift8: INVPPYP1
+  branch_name: Head Office
+  branch_address: Palma Y Nuestra Sra. De La Asuncion Asuncion
+  branch_code: XXX
+  city: Asuncion
+  country: Paraguay
+- name: Banco Familiar S.a.e.c.a.
+  swift: FAMIPYPAXXX
+  swift8: FAMIPYPA
+  branch_name: Head Office
+  branch_address: Ed. Grupo General Asuncion
+  branch_code: XXX
+  city: Asuncion
+  country: Paraguay
+- name: Banco Finamerica Saeca.
+  swift: BAFAPYP1XXX
+  swift8: BAFAPYP1
+  branch_name: Head Office
+  branch_address: Chile Y Oliva Asuncion
+  branch_code: XXX
+  city: Asuncion
+  country: Paraguay
+- name: Banco General S.a.
+  swift: GENBPYP1XXX
+  swift8: GENBPYP1
+  branch_name: Head Office
+  branch_address: Chile Y Eduardo Victor Haedo Asuncion
+  branch_code: XXX
+  city: Asuncion
+  country: Paraguay
+- name: Banco Itapua Saeca
+  swift: BISAPYPEXXX
+  swift8: BISAPYPE
+  branch_name: Head Office
+  branch_address: 14 De Mayo Casi Calos A. Lopez 488 Encarnacion
+  branch_code: XXX
+  city: Encarnacion
+  country: Paraguay
+- name: Banco Itau Paraguay S.a.
+  swift: UBBRPYPXXXX
+  swift8: UBBRPYPX
+  branch_name: Head Office
+  branch_address: 349 Calle Oliva Casse Chile Centro Asuncion
+  branch_code: XXX
+  city: Asuncion
+  country: Paraguay
+- name: Banco Nacional De Trabajadores
+  swift: BNTRPYP1XXX
+  swift8: BNTRPYP1
+  branch_name: Head Office
+  branch_address: 15 De Agosto 629 Asuncion
+  branch_code: XXX
+  city: Asuncion
+  country: Paraguay
+- name: Banco Para La Comercializacion Y La Produccion Sociedad Anonima (bancop S.a.
+  swift: BCOPPYPAXXX
+  swift8: BCOPPYPA
+  branch_name: Head Office
+  branch_address: Edif. Mariscal Center Asuncion
+  branch_code: XXX
+  city: Asuncion
+  country: Paraguay
+- name: Banco Paraguayo Oriental De Inversion Y Fomento S.a.
+  swift: POIFPYP1XXX
+  swift8: POIFPYP1
+  branch_name: Head Office
+  branch_address: Azara 197 Asuncion
+  branch_code: XXX
+  city: Asuncion
+  country: Paraguay
+- name: Banco Regional S.a.e.c.a.
+  swift: RGSAPYPEXXX
+  swift8: RGSAPYPE
+  branch_name: Head Office
+  branch_address: Carlos A. Lopez, 1348 C/ 14 De Mayo 6000 Encarnacion
+  branch_code: XXX
+  city: Encarnacion
+  country: Paraguay
+- name: Bolpar Sociedad Anonima
+  swift: BOSNPYP1XXX
+  swift8: BOSNPYP1
+  branch_name: Head Office
+  branch_address: Avenida Mariscal Lopez 333 Asuncion
+  branch_code: XXX
+  city: Asuncion
+  country: Paraguay
+- name: Bolsa De Valores Y Productos De Asuncion S.a.
+  swift: XVPAPYP1XXX
+  swift8: XVPAPYP1
+  branch_name: Head Office
+  branch_address: 15 De Agosto Al 640 Entre Gral. Dia Asuncion
+  branch_code: XXX
+  city: Asuncion
+  country: Paraguay
+- name: Fonplata-fondo Financiero Para El Desarollo De La Cuenca Del Plata
+  swift: FOPLPYPAXXX
+  swift8: FOPLPYPA
+  branch_name: Head Office
+  branch_address: Avenida Mariscal Lopez 2308 Asuncion
+  branch_code: XXX
+  city: Asuncion
+  country: Paraguay
+- name: Sudameris Bank S.a.e.c.a.
+  swift: BSUDPYPXXXX
+  swift8: BSUDPYPX
+  branch_name: Head Office
+  branch_address: Independencia Nacional Esq. Cerro Asuncion
+  branch_code: XXX
+  city: Asuncion
+  country: Paraguay
+- name: Summa Asesories
+  swift: SUMSPYP1XXX
+  swift8: SUMSPYP1
+  branch_name: Head Office
+  branch_address: 437 Calle 25 De Mayo Asuncion
+  branch_code: XXX
+  city: Asuncion
+  country: Paraguay
+- name: Vision Banco S.a.e.c.a.
+  swift: VISCPYPAXXX
+  swift8: VISCPYPA
+  branch_name: Head Office
+  branch_address: Estados Unidos 780 Casi Fulgencio Asuncion
+  branch_code: XXX
+  city: Asuncion
+  country: Paraguay

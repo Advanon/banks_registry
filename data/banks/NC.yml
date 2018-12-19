@@ -1,0 +1,130 @@
+---
+NC:
+- name: Banque Caledonienne D'investissement
+  swift: BCADNCNNXXX
+  swift8: BCADNCNN
+  branch_name: Head Office
+  branch_address: 54 Avenue De La Victoire 98849 Noumea
+  branch_code: XXX
+  city: Noumea
+  country: New Caledonia
+- name: Banque De Nouvelle Caledonie
+  swift: CEPANCNMXXX
+  swift8: CEPANCNM
+  branch_name: Head Office
+  branch_address: 25 Avenue De La Victoire 98849 Noumea
+  branch_code: XXX
+  city: Noumea
+  country: New Caledonia
+- name: Banque Paribas Pacifique
+  swift: PARBNCN1XXX
+  swift8: PARBNCN1
+  branch_name: Head Office
+  branch_address: 33 Rue De Lalma Noumea
+  branch_code: XXX
+  city: Noumea
+  country: New Caledonia
+- name: Bnp Paribas Nouvelle Caledonie Noumea
+  swift: BNPANCNXKOU
+  swift8: BNPANCNX
+  branch_name: Koumac
+  branch_address: Rue Jules Talon Koumac
+  branch_code: KOU
+  city: Koumac
+  country: New Caledonia
+- name: Bnp Paribas Nouvelle Caledonie Noumea
+  swift: BNPANCNXXXX
+  swift8: BNPANCNX
+  branch_name: Head Office
+  branch_address: 37 Avenue Henri Lafleur 98800 Noumea
+  branch_code: XXX
+  city: Noumea
+  country: New Caledonia
+- name: Caisse D'epargne De Nouvelle Caledonie
+  swift: CDNCNCN1XXX
+  swift8: CDNCNCN1
+  branch_name: Head Office
+  branch_address: 13 Rue De La Somme 98800 Noumea
+  branch_code: XXX
+  city: Noumea
+  country: New Caledonia
+- name: Centre Financier De Noumea
+  swift: CEFNNCN1XXX
+  swift8: CEFNNCN1
+  branch_name: Head Office
+  branch_address: 7 Rue Eugene Porcheron 98899 Noumea
+  branch_code: XXX
+  city: Noumea
+  country: New Caledonia
+- name: Credit Caledonien Et Tahitien
+  swift: CCTCNCN1XXX
+  swift8: CCTCNCN1
+  branch_name: Head Office
+  branch_address: Immeuble Sgcb 98845 Noumea
+  branch_code: XXX
+  city: Noumea
+  country: New Caledonia
+- name: Csse Cit Agricole Mutuel Nlle Caledonie
+  swift: CCAENCN1XXX
+  swift8: CCAENCN1
+  branch_name: Head Office
+  branch_address: Imm Jules Ferry 98800 Noumea
+  branch_code: XXX
+  city: Noumea
+  country: New Caledonia
+- name: Ge Financement Pacifique Sas
+  swift: FPSSNCN1XXX
+  swift8: FPSSNCN1
+  branch_name: Head Office
+  branch_address: Centre Cial La Belle Vie 98800 Noumea
+  branch_code: XXX
+  city: Noumea
+  country: New Caledonia
+- name: Insititut D Emission D Outre-mer
+  swift: INDDNCN1XXX
+  swift8: INDDNCN1
+  branch_name: Head Office
+  branch_address: 19 Rue De La Republique 98845 Noumea
+  branch_code: XXX
+  city: Noumea
+  country: New Caledonia
+- name: Joc Gestion Privee
+  swift: JOGPNCN1XXX
+  swift8: JOGPNCN1
+  branch_name: Head Office
+  branch_address: 38, Rue De La Republique 98805 Noumea
+  branch_code: XXX
+  city: Noumea
+  country: New Caledonia
+- name: Noumea Credit
+  swift: NOUCNCN1XXX
+  swift8: NOUCNCN1
+  branch_name: Head Office
+  branch_address: Portes De Fer 98845 Noumea Cedex 09
+  branch_code: XXX
+  city: Noumea
+  country: New Caledonia
+- name: Oceor Lease Noumea
+  swift: OCLNNCN1XXX
+  swift8: OCLNNCN1
+  branch_name: Head Office
+  branch_address: 10, Avenue Du Marechal Foch 98800 Noumea
+  branch_code: XXX
+  city: Noumea
+  country: New Caledonia
+- name: Societe Generale Caledonienne De Banque S G C B
+  swift: SOGENCNNXXX
+  swift8: SOGENCNN
+  branch_name: Head Office
+  branch_address: 44 R De L Alma Noumea Cedex
+  branch_code: XXX
+  city: Noumea
+  country: New Caledonia
+- name: Tresor Public Noumea
+  swift: TRPUNCN1XXX
+  swift8: TRPUNCN1
+  branch_name: No branch name
+  branch_address: No branch address
+  branch_code: XXX
+  city: Noumea
+  country: New Caledonia

@@ -1,0 +1,754 @@
+---
+VE:
+- name: Banco De La Provincia De Buenos Aires
+  swift: PRBAVEC1XXX
+  swift8: PRBAVEC1
+  branch_name: Head Office
+  branch_address: Edificio Torre Maracaibo Caracas
+  branch_code: XXX
+  city: Caracas
+  country: Venezuela
+- name: 100 0/0 Banco, Banco Universal, C.a.
+  swift: FNCOVECAXXX
+  swift8: FNCOVECA
+  branch_name: Head Office
+  branch_address: Centro Comercial San Ignacio Caracas 1060a
+  branch_code: XXX
+  city: Caracas
+  country: Venezuela
+- name: Activalores Sociedad De Corretaje S.a.,
+  swift: ASDCVEC1XXX
+  swift8: ASDCVEC1
+  branch_name: Head Office
+  branch_address: Centro Gerencial Mohedano Caracas 1060
+  branch_code: XXX
+  city: Caracas
+  country: Venezuela
+- name: Araven Finance Ltd.
+  swift: ARAFVEC1XXX
+  swift8: ARAFVEC1
+  branch_name: Head Office
+  branch_address: Torre Centro Financiero Latino Caracas 1010
+  branch_code: XXX
+  city: Caracas
+  country: Venezuela
+- name: Arrendadora Consolidado
+  swift: ACONVEC1XXX
+  swift8: ACONVEC1
+  branch_name: Head Office
+  branch_address: Torre Consolidado Caracas 1060
+  branch_code: XXX
+  city: Caracas
+  country: Venezuela
+- name: Arrendadora De Venezuela Banvenez, Saca
+  swift: ARBZVEC1XXX
+  swift8: ARBZVEC1
+  branch_name: Head Office
+  branch_address: Edificio Parque Cristal Torre Este Caracas 1062
+  branch_code: XXX
+  city: Caracas
+  country: Venezuela
+- name: Arrendadora Del Orinoco, Ca
+  swift: AORIVEC1XXX
+  swift8: AORIVEC1
+  branch_name: Head Office
+  branch_address: Edificio Banco Del Orinoco Caracas 1060
+  branch_code: XXX
+  city: Caracas
+  country: Venezuela
+- name: Arrendadora Provincial
+  swift: ARPRVEC1XXX
+  swift8: ARPRVEC1
+  branch_name: Head Office
+  branch_address: Centro Financiero Provincial Caracas
+  branch_code: XXX
+  city: Caracas
+  country: Venezuela
+- name: Bamerinvest
+  swift: BAMTVEC1XXX
+  swift8: BAMTVEC1
+  branch_name: Head Office
+  branch_address: Caracas
+  branch_code: XXX
+  city: Caracas
+  country: Venezuela
+- name: Bancamiga Banco Microfinanciero
+  swift: BMIGVECAXXX
+  swift8: BMIGVECA
+  branch_name: Head Office
+  branch_address: Centro Empresarial Sabana Grande Caracas 1050
+  branch_code: XXX
+  city: Caracas
+  country: Venezuela
+- name: Bancaracas Casa De Bolsa, C.a.
+  swift: BCBOVEC1XXX
+  swift8: BCBOVEC1
+  branch_name: Head Office
+  branch_address: Edif. Bancaracas Caracas
+  branch_code: XXX
+  city: Caracas
+  country: Venezuela
+- name: Banco Activo, C.a. Banco Universal
+  swift: ACTIVECAXXX
+  swift8: ACTIVECA
+  branch_name: Head Office
+  branch_address: Torre Cavendes Caracas 1060
+  branch_code: XXX
+  city: Caracas
+  country: Venezuela
+- name: Banco Agricola De Venezuela, C.a. Banco Universal
+  swift: BAVEVECAXXX
+  swift8: BAVEVECA
+  branch_name: Head Office
+  branch_address: Torre Cavendes Caracas 1060
+  branch_code: XXX
+  city: Caracas
+  country: Venezuela
+- name: Banco Bicentenario Banco Universal, C.a.
+  swift: CONDVECPXXX
+  swift8: CONDVECP
+  branch_name: Head Office
+  branch_address: Banco Bicentenario Caracas 1060
+  branch_code: XXX
+  city: Caracas
+  country: Venezuela
+- name: Banco Canarias De Venezuela C.a.
+  swift: BOCAVEC1XXX
+  swift8: BOCAVEC1
+  branch_name: Head Office
+  branch_address: Torre Global Av. Caracas 1060
+  branch_code: XXX
+  city: Caracas
+  country: Venezuela
+- name: Banco Caroni, C.a. Banco Universal
+  swift: CAROVECA022
+  swift8: CAROVECA
+  branch_name: Puerto Ordaz
+  branch_address: Multicentro Banco Del Caroni Puerto Ordaz
+  branch_code: '022'
+  city: Puerto Ordaz
+  country: Venezuela
+- name: Banco Caroni, C.a. Banco Universal
+  swift: CAROVECAXXX
+  swift8: CAROVECA
+  branch_name: Head Office
+  branch_address: Edificio Halven Caracas 1010
+  branch_code: XXX
+  city: Caracas
+  country: Venezuela
+- name: Banco Central De Venezuela
+  swift: BCVEVECAXXX
+  swift8: BCVEVECA
+  branch_name: Head Office
+  branch_address: Torre Financiera Caracas 1010
+  branch_code: XXX
+  city: Caracas
+  country: Venezuela
+- name: Banco De Comercio Exterior
+  swift: BCEVVECAXXX
+  swift8: BCEVVECA
+  branch_name: Head Office
+  branch_address: Centro Gerencial Mohedano Caracas 1060
+  branch_code: XXX
+  city: Caracas
+  country: Venezuela
+- name: Banco De Desarrollo Agropecuario
+  swift: BDAGVEC1XXX
+  swift8: BDAGVEC1
+  branch_name: Head Office
+  branch_address: Torre Bandagio Esquina Jesuitas Caracas 1010
+  branch_code: XXX
+  city: Caracas
+  country: Venezuela
+- name: Banco De Desarrollo Economico Y Social De Venezuela
+  swift: FIVVVECAXXX
+  swift8: FIVVVECA
+  branch_name: Head Office
+  branch_address: Bandes Caracas 1010
+  branch_code: XXX
+  city: Caracas
+  country: Venezuela
+- name: Banco De Exportacion Y Comercio C.a.
+  swift: BECUVECAXXX
+  swift8: BECUVECA
+  branch_name: Head Office
+  branch_address: Av. Mohedano Caracas
+  branch_code: XXX
+  city: Caracas
+  country: Venezuela
+- name: Banco De Fomento Regional Coro, C.a.
+  swift: BFRCVE21XXX
+  swift8: BFRCVE21
+  branch_name: Head Office
+  branch_address: Av. Manaure, Entre Falcon Y Zamor Coro
+  branch_code: XXX
+  city: Coro
+  country: Venezuela
+- name: Banco De Fomento Regional Los Andes
+  swift: BFRAVE21XXX
+  swift8: BFRAVE21
+  branch_name: Head Office
+  branch_address: Carrera 6 Esquina Calle 5 San Cristobal
+  branch_code: XXX
+  city: San Cristobal
+  country: Venezuela
+- name: Banco De Venezuela, S.a. Banco Universal
+  swift: VZLAVECAXXX
+  swift8: VZLAVECA
+  branch_name: Head Office
+  branch_address: Caracas
+  branch_code: XXX
+  city: Caracas
+  country: Venezuela
+- name: Banco Del Alba
+  swift: LLBAVECAXXX
+  swift8: LLBAVECA
+  branch_name: Head Office
+  branch_address: Edf. Los Llanos Caracas 1050
+  branch_code: XXX
+  city: Caracas
+  country: Venezuela
+- name: Banco Del Caribe S.a.c.a.
+  swift: CARBVECAXXX
+  swift8: CARBVECA
+  branch_name: Head Office
+  branch_address: Edificio Banco Del Caribe Caracas 1010
+  branch_code: XXX
+  city: Caracas
+  country: Venezuela
+- name: Banco Del Pueblo Soberano, C.a.
+  swift: PBLOVECAXXX
+  swift8: PBLOVECA
+  branch_name: Head Office
+  branch_address: Banco Del Pueblo Soberano Caracas 1010
+  branch_code: XXX
+  city: Caracas
+  country: Venezuela
+- name: Banco Del Tesoro, C.a. Banco Universal
+  swift: BDTEVECAXXX
+  swift8: BDTEVECA
+  branch_name: Head Office
+  branch_address: Torre Banco Del Tesoro Caracas
+  branch_code: XXX
+  city: Caracas
+  country: Venezuela
+- name: Banco Espirito Santo S.a. Sucursal Venezuela, Banco Universal
+  swift: BESCVECAXXX
+  swift8: BESCVECA
+  branch_name: Head Office
+  branch_address: T.F.C Caracas 1060
+  branch_code: XXX
+  city: Caracas
+  country: Venezuela
+- name: Banco Exterior, C.a. Banco Universal
+  swift: BEXTVECAXXX
+  swift8: BEXTVECA
+  branch_name: Head Office
+  branch_address: Edificio Banco Exterior Caracas 1010
+  branch_code: XXX
+  city: Caracas
+  country: Venezuela
+- name: Banco Financiero
+  swift: BANFVEC1022
+  swift8: BANFVEC1
+  branch_name: Barquisimeto
+  branch_address: Barquisimeto
+  branch_code: '022'
+  city: Barquisimeto
+  country: Venezuela
+- name: Banco Financiero
+  swift: BANFVEC102C
+  swift8: BANFVEC1
+  branch_name: Puerto La Cruz
+  branch_address: Puerto La Cruz
+  branch_code: 02C
+  city: Puerto La Cruz
+  country: Venezuela
+- name: Banco Financiero
+  swift: BANFVEC102M
+  swift8: BANFVEC1
+  branch_name: Maracaibo
+  branch_address: Maracaibo
+  branch_code: 02M
+  city: Maracaibo
+  country: Venezuela
+- name: Banco Financiero
+  swift: BANFVEC102P
+  swift8: BANFVEC1
+  branch_name: Porlamar
+  branch_address: Porlamar
+  branch_code: 02P
+  city: Porlamar
+  country: Venezuela
+- name: Banco Financiero
+  swift: BANFVEC1XXX
+  swift8: BANFVEC1
+  branch_name: Head Office
+  branch_address: Avenida Las Delicias 4a Caracas
+  branch_code: XXX
+  city: Caracas
+  country: Venezuela
+- name: Banco Hipotecario De Aragua
+  swift: BHARVEC1XXX
+  swift8: BHARVEC1
+  branch_name: Head Office
+  branch_address: Maracay
+  branch_code: XXX
+  city: Maracay
+  country: Venezuela
+- name: Banco Hipotecario De La Vivienda
+  swift: BHVIVEC1XXX
+  swift8: BHVIVEC1
+  branch_name: Head Office
+  branch_address: Caracas
+  branch_code: XXX
+  city: Caracas
+  country: Venezuela
+- name: Banco Hipotecario Del Orinoco, C.a
+  swift: HBORVEC1XXX
+  swift8: HBORVEC1
+  branch_name: Head Office
+  branch_address: Edificio Banco Orinoco P.B. Puerto Ordaz
+  branch_code: XXX
+  city: Puerto Ordaz
+  country: Venezuela
+- name: Banco Hipotecario Del Zulia C A
+  swift: BHZUVE21XXX
+  swift8: BHZUVE21
+  branch_name: Head Office
+  branch_address: Maracaibo
+  branch_code: XXX
+  city: Maracaibo
+  country: Venezuela
+- name: Banco Hipotecario Venezolano, C.a.
+  swift: BHVEVEC1XXX
+  swift8: BHVEVEC1
+  branch_name: Head Office
+  branch_address: Torre Del Desarollo Caracas
+  branch_code: XXX
+  city: Caracas
+  country: Venezuela
+- name: Banco Industrial De Venezuela, C.a.
+  swift: INDSVECAXXX
+  swift8: INDSVECA
+  branch_name: Head Office
+  branch_address: Edificio Banco Industrial Caracas 1010
+  branch_code: XXX
+  city: Caracas
+  country: Venezuela
+- name: Banco Interamericano De Ahorro Y Prestamo, S A
+  swift: BIAPVEC1XXX
+  swift8: BIAPVEC1
+  branch_name: Head Office
+  branch_address: Torre Phelps Caracas 1050
+  branch_code: XXX
+  city: Caracas
+  country: Venezuela
+- name: Banco Nacional De Ahorro Y Prestamo
+  swift: BNAPVECAXXX
+  swift8: BNAPVECA
+  branch_name: Head Office
+  branch_address: Banap Caracas 6760
+  branch_code: XXX
+  city: Caracas
+  country: Venezuela
+- name: Banco Nacional De Credito, C.a.
+  swift: NCRTVECA001
+  swift8: NCRTVECA
+  branch_name: Sucursal 001
+  branch_address: Johan Van Walbeeckplein 11 Caracas 611
+  branch_code: '001'
+  city: Caracas
+  country: Venezuela
+- name: Banco Nacional De Credito, C.a.
+  swift: NCRTVECAXXX
+  swift8: NCRTVECA
+  branch_name: Head Office
+  branch_address: La Union Caracas 1060
+  branch_code: XXX
+  city: Caracas
+  country: Venezuela
+- name: Banco Nor-oriental De Venezuela
+  swift: BNOVVE21XXX
+  swift8: BNOVVE21
+  branch_name: Head Office
+  branch_address: Avenida Municipal 198 Puerto La Cruz
+  branch_code: XXX
+  city: Puerto La Cruz
+  country: Venezuela
+- name: Banco Occidental De Descuento Bu C.a.
+  swift: BODEVE2MCCS
+  swift8: BODEVE2M
+  branch_name: Sucursal Caracas
+  branch_address: Caracas
+  branch_code: CCS
+  city: Caracas
+  country: Venezuela
+- name: Banco Occidental De Descuento Bu C.a.
+  swift: BODEVE2MXXX
+  swift8: BODEVE2M
+  branch_name: Head Office
+  branch_address: Torre Bod Maracaibo Mcbo 4001
+  branch_code: XXX
+  city: Maracaibo Mcbo
+  country: Venezuela
+- name: Banco Plaza
+  swift: PLZAVECAXXX
+  swift8: PLZAVECA
+  branch_name: Head Office
+  branch_address: Av. Casanova, Entre Calles Union Y Caracas
+  branch_code: XXX
+  city: Caracas
+  country: Venezuela
+- name: Banco Provincial S.a.
+  swift: BPROVECASUC
+  swift8: BPROVECA
+  branch_name: Caracas
+  branch_address: Caracas
+  branch_code: SUC
+  city: Caracas
+  country: Venezuela
+- name: Banco Provincial S.a. Banco Universal
+  swift: BPROVECAMAR
+  swift8: BPROVECA
+  branch_name: Maracaibo
+  branch_address: Maracaibo
+  branch_code: MAR
+  city: Maracaibo
+  country: Venezuela
+- name: Banco Provincial S.a. Banco Universal
+  swift: BPROVECAPZO
+  swift8: BPROVECA
+  branch_name: Puerto Ordaz
+  branch_address: Puerto Ordaz
+  branch_code: PZO
+  city: Puerto Ordaz
+  country: Venezuela
+- name: Banco Provincial S.a. Banco Universal
+  swift: BPROVECAXXX
+  swift8: BPROVECA
+  branch_name: Head Office
+  branch_address: Centro Fincanciero Provincial Caracas 1010
+  branch_code: XXX
+  city: Caracas
+  country: Venezuela
+- name: Banco Sofitasa
+  swift: SFTAVE22XXX
+  swift8: SFTAVE22
+  branch_name: Head Office
+  branch_address: 7ma. Avenida Esquina Calle 4 San Cristobal
+  branch_code: XXX
+  city: San Cristobal
+  country: Venezuela
+- name: Bancrecer S.a. Banco De Desarrollo
+  swift: CCERVECAXXX
+  swift8: CCERVECA
+  branch_name: Head Office
+  branch_address: Edf. Parque Avila Torre Hp Caracas 1060
+  branch_code: XXX
+  city: Caracas
+  country: Venezuela
+- name: Banesco Banco Universal
+  swift: UNIOVECAXXX
+  swift8: UNIOVECA
+  branch_name: Head Office
+  branch_address: Ciudad Banesco Caracas 1060
+  branch_code: XXX
+  city: Caracas
+  country: Venezuela
+- name: Banex Mercado De Capitales Sa
+  swift: BMDCVEC1XXX
+  swift8: BMDCVEC1
+  branch_name: Head Office
+  branch_address: Centro Lido, Torre C Caracas 1060
+  branch_code: XXX
+  city: Caracas
+  country: Venezuela
+- name: Banplus Banco Universal, C.a.
+  swift: BEHRVECAXXX
+  swift8: BEHRVECA
+  branch_name: Head Office
+  branch_address: Torre La Noria Caracas
+  branch_code: XXX
+  city: Caracas
+  country: Venezuela
+- name: Bfc Banco Fondo Comun, C.a. Banco Universal
+  swift: REPBVECAXXX
+  swift8: REPBVECA
+  branch_name: Head Office
+  branch_address: Torre Bfc Caracas 1060
+  branch_code: XXX
+  city: Caracas
+  country: Venezuela
+- name: Caja Venezolana De Valores, S.a.
+  swift: CVVCVEA1XXX
+  swift8: CVVCVEA1
+  branch_name: Head Office
+  branch_address: Edf. 180 Caracas
+  branch_code: XXX
+  city: Caracas
+  country: Venezuela
+- name: Caracas Stock Exchange
+  swift: XCARVEC1XXX
+  swift8: XCARVEC1
+  branch_name: Head Office
+  branch_address: Edificio Atrium Caracas
+  branch_code: XXX
+  city: Caracas
+  country: Venezuela
+- name: Citibank N.a. Sucursal Venezuela
+  swift: CITIVEC102M
+  swift8: CITIVEC1
+  branch_name: Maracaibo
+  branch_address: Maracaibo
+  branch_code: 02M
+  city: Maracaibo
+  country: Venezuela
+- name: Citibank N.a. Sucursal Venezuela
+  swift: CITIVEC102V
+  swift8: CITIVEC1
+  branch_name: Valencia
+  branch_address: Valencia
+  branch_code: 02V
+  city: Valencia
+  country: Venezuela
+- name: Citibank N.a. Sucursal Venezuela
+  swift: CITIVECAXXX
+  swift8: CITIVECA
+  branch_name: Head Office
+  branch_address: C.C. El Recreo. Torre Norte Caracas
+  branch_code: XXX
+  city: Caracas
+  country: Venezuela
+- name: Corp Hipotecario Ca
+  swift: BHCOVEC1XXX
+  swift8: BHCOVEC1
+  branch_name: Head Office
+  branch_address: Caracas
+  branch_code: XXX
+  city: Caracas
+  country: Venezuela
+- name: Corporacion Andina De Fomento
+  swift: CAFCVECAXXX
+  swift8: CAFCVECA
+  branch_name: Head Office
+  branch_address: Torre Central Caracas 1062
+  branch_code: XXX
+  city: Caracas
+  country: Venezuela
+- name: Del Sur Banco Universal, C.a.
+  swift: DSURVECPXXX
+  swift8: DSURVECP
+  branch_name: Head Office
+  branch_address: Ed. Del Sur Puerto Ordaz
+  branch_code: XXX
+  city: Puerto Ordaz
+  country: Venezuela
+- name: Financorp Valores, C.a
+  swift: FIVAVEC1XXX
+  swift8: FIVAVEC1
+  branch_name: Head Office
+  branch_address: Av. Mohedano Y Los Chaguaramos Caracas 1060
+  branch_code: XXX
+  city: Caracas
+  country: Venezuela
+- name: Fitch Venezuela, Sociedad Calificadora De Riesgo, S.a.
+  swift: FRIPVEC1XXX
+  swift8: FRIPVEC1
+  branch_name: Head Office
+  branch_address: Edificio Mene Grande Ii, Fl2, Of.23 Caracas Zp 1062
+  branch_code: XXX
+  city: Caracas
+  country: Venezuela
+- name: Interacciones Mercado De Capitales S.a.
+  swift: IMDCVEC1XXX
+  swift8: IMDCVEC1
+  branch_name: Head Office
+  branch_address: Centro Plaza Caracas
+  branch_code: XXX
+  city: Caracas
+  country: Venezuela
+- name: Invercapital Casa De Bolsa C.a.
+  swift: ICBOVEC1XXX
+  swift8: ICBOVEC1
+  branch_name: Head Office
+  branch_address: Torre Europa Caracas 1060
+  branch_code: XXX
+  city: Caracas
+  country: Venezuela
+- name: Italbursatil Casa De Bolsa, C.a.
+  swift: ITBUVEC1XXX
+  swift8: ITBUVEC1
+  branch_name: Head Office
+  branch_address: Edificio Centro Empresarial El Rosa Caracas
+  branch_code: XXX
+  city: Caracas
+  country: Venezuela
+- name: Italcambio, C.a
+  swift: ITALVEB1XXX
+  swift8: ITALVEB1
+  branch_name: Head Office
+  branch_address: Camoruco Caracas 1010
+  branch_code: XXX
+  city: Caracas
+  country: Venezuela
+- name: Italcambio, C.a.
+  swift: ITALVECAXXX
+  swift8: ITALVECA
+  branch_name: Head Office
+  branch_address: Camoruco, Mezz. Caracas 1010
+  branch_code: XXX
+  city: Caracas
+  country: Venezuela
+- name: Mercantil C.a. Banco Universal
+  swift: BAMRVECAXXX
+  swift8: BAMRVECA
+  branch_name: Head Office
+  branch_address: Edificio Mercantil Caracas 1011
+  branch_code: XXX
+  city: Caracas
+  country: Venezuela
+- name: Mercantil Merinvest Casa De Bolsa
+  swift: MMCBVECAXXX
+  swift8: MMCBVECA
+  branch_name: Head Office
+  branch_address: Torre Mercantil Caracas 1011
+  branch_code: XXX
+  city: Caracas
+  country: Venezuela
+- name: Merinvest Sociedad De Corretaje C.a.
+  swift: MSDEVEC1XXX
+  swift8: MSDEVEC1
+  branch_name: Head Office
+  branch_address: Edif. Banco Mercantil San Bernardino
+  branch_code: XXX
+  city: San Bernardino
+  country: Venezuela
+- name: Ministerio Del Pp Para La Economia Y Finanzas
+  swift: TSORVEC1XXX
+  swift8: TSORVEC1
+  branch_name: Head Office
+  branch_address: Edf. Norte Del Ministerio De Caracas 1010
+  branch_code: XXX
+  city: Caracas
+  country: Venezuela
+- name: Provincial Banco De Inversion, S.a.
+  swift: SFPRVEC1XXX
+  swift8: SFPRVEC1
+  branch_name: Head Office
+  branch_address: Centro Financiero Provincial Caracas
+  branch_code: XXX
+  city: Caracas
+  country: Venezuela
+- name: Provincial De Valores Casa De Bolsa, C.a.
+  swift: PVALVEC1XXX
+  swift8: PVALVEC1
+  branch_name: Head Office
+  branch_address: Av. Vollmer, Centro Financiero Pr Caracas 1010
+  branch_code: XXX
+  city: Caracas
+  country: Venezuela
+- name: Sociedad Financiera Consolidada
+  swift: SOFCVEC102V
+  swift8: SOFCVEC1
+  branch_name: Valencia
+  branch_address: Centro Commercial Consolidado Valencia
+  branch_code: 02V
+  city: Valencia
+  country: Venezuela
+- name: Sociedad Financiera Consolidada
+  swift: SOFCVEC1XXX
+  swift8: SOFCVEC1
+  branch_name: Head Office
+  branch_address: Torre California Caracas
+  branch_code: XXX
+  city: Caracas
+  country: Venezuela
+- name: Sociedad Financiera De Occidente
+  swift: SFOCVE21XXX
+  swift8: SFOCVE21
+  branch_name: Head Office
+  branch_address: Maracaibo
+  branch_code: XXX
+  city: Maracaibo
+  country: Venezuela
+- name: Sociedad Financiera De Venezuela Ca
+  swift: SFVEVEC1XXX
+  swift8: SFVEVEC1
+  branch_name: Head Office
+  branch_address: Caracas
+  branch_code: XXX
+  city: Caracas
+  country: Venezuela
+- name: Sociedad Financiera Valinvenca
+  swift: SFVAVEC1XXX
+  swift8: SFVAVEC1
+  branch_name: Head Office
+  branch_address: Centro Altamira Caracas
+  branch_code: XXX
+  city: Caracas
+  country: Venezuela
+- name: Soficredito
+  swift: SFCRVEC1XXX
+  swift8: SFCRVEC1
+  branch_name: Head Office
+  branch_address: Monjas a Francisco 5 Caracas
+  branch_code: XXX
+  city: Caracas
+  country: Venezuela
+- name: Sofimerca Casa De Bolsa, C.a.
+  swift: SOMEVEC1XXX
+  swift8: SOMEVEC1
+  branch_name: Head Office
+  branch_address: Torre Lipesa Caracas
+  branch_code: XXX
+  city: Caracas
+  country: Venezuela
+- name: Tradimpex Bienes Raices C.a.
+  swift: TRBRVEC1XXX
+  swift8: TRBRVEC1
+  branch_name: Head Office
+  branch_address: Seguros Mercantil Caracas
+  branch_code: XXX
+  city: Caracas
+  country: Venezuela
+- name: Valinbank
+  swift: VALKVEC1XXX
+  swift8: VALKVEC1
+  branch_name: Head Office
+  branch_address: Avenida San Juan Bosco Caracas
+  branch_code: XXX
+  city: Caracas
+  country: Venezuela
+- name: Valores Santander Casa De Corretaje
+  swift: VSCCVEC1XXX
+  swift8: VSCCVEC1
+  branch_name: Head Office
+  branch_address: Edif. Atrium Caracas
+  branch_code: XXX
+  city: Caracas
+  country: Venezuela
+- name: Valores Vencred Sa
+  swift: VAVEVEC1XXX
+  swift8: VAVEVEC1
+  branch_name: Head Office
+  branch_address: Edif.Ctro Mercantil San Francisco Caracas
+  branch_code: XXX
+  city: Caracas
+  country: Venezuela
+- name: Venezolano De Credito, S.a. Banco Universal
+  swift: VZCRVECAXXX
+  swift8: VZCRVECA
+  branch_name: Head Office
+  branch_address: Av.Alameda, Torre Venezolano De Caracas
+  branch_code: XXX
+  city: Caracas
+  country: Venezuela
+- name: Vestcorpartners C.a.
+  swift: VECOVEC1XXX
+  swift8: VECOVEC1
+  branch_name: Head Office
+  branch_address: Torre Consolidada Caracas
+  branch_code: XXX
+  city: Caracas
+  country: Venezuela

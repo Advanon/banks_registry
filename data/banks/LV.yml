@@ -1,0 +1,434 @@
+---
+LV:
+- name: Ablv Bank, As
+  swift: AIZKLV22XXX
+  swift8: AIZKLV22
+  branch_name: Head Office
+  branch_address: Elizabetesstreet 23 1010 Riga
+  branch_code: XXX
+  city: Riga
+  country: Latvia
+- name: As Dnb Banka
+  swift: RIKOLV2XXXX
+  swift8: RIKOLV2X
+  branch_name: Head Office
+  branch_address: Skanstes Street 12 1013 Riga
+  branch_code: XXX
+  city: Riga
+  country: Latvia
+- name: As Dnb Banka
+  swift: RIKOLV21023
+  swift8: RIKOLV21
+  branch_name: 4600 Rezekne
+  branch_address: Bralu Skrindu Iela 9 4600 Rezekne
+  branch_code: '023'
+  city: Rezekne
+  country: Latvia
+- name: As Dnb Banka
+  swift: RIKOLV21033
+  swift8: RIKOLV21
+  branch_name: Bolderaja Branch
+  branch_address: Gobas Iela 17 1016 Riga
+  branch_code: '033'
+  city: Riga
+  country: Latvia
+- name: As Latvijas Biznesa Banka
+  swift: LLBBLV2XXXX
+  swift8: LLBBLV2X
+  branch_name: Head Office
+  branch_address: Antonijas 3 Lv-1010 Riga
+  branch_code: XXX
+  city: Riga
+  country: Latvia
+- name: As Ltb Bank
+  swift: LATCLV22XXX
+  swift8: LATCLV22
+  branch_name: Head Office
+  branch_address: Grecinieku Iela 22 1050 Riga
+  branch_code: XXX
+  city: Riga
+  country: Latvia
+- name: As Privatbank
+  swift: PRTTLV22XXX
+  swift8: PRTTLV22
+  branch_name: Head Office
+  branch_address: 4 Terbatas Street 1134 Riga
+  branch_code: XXX
+  city: Riga
+  country: Latvia
+- name: As Smp Bank
+  swift: MULTLV2XXXX
+  swift8: MULTLV2X
+  branch_name: Head Office
+  branch_address: Elizabetes Iela 57 1772 Riga
+  branch_code: XXX
+  city: Riga
+  country: Latvia
+- name: Baltic International Bank
+  swift: BLIBLV22XXX
+  swift8: BLIBLV22
+  branch_name: Head Office
+  branch_address: Kaleju Street 43 1050 Riga
+  branch_code: XXX
+  city: Riga
+  country: Latvia
+- name: Baltikums Bank As
+  swift: CBBRLV22XXX
+  swift8: CBBRLV22
+  branch_name: Head Office
+  branch_address: Smilsu Iela 6 1050 Riga
+  branch_code: XXX
+  city: Riga
+  country: Latvia
+- name: Bank Of Latvia
+  swift: LACBLV2XXXX
+  swift8: LACBLV2X
+  branch_name: Head Office
+  branch_address: Kr. Valdemara Street 2a 1022 Riga
+  branch_code: XXX
+  city: Riga
+  country: Latvia
+- name: Bank Of Latvia
+  swift: LACBLV2XCCB
+  swift8: LACBLV2X
+  branch_name: Ccbm Operations
+  branch_address: No branch address
+  branch_code: CCB
+  city: Riga
+  country: Latvia
+- name: Eesti Krediidipank Latvijas Filiale
+  swift: MOSBLV2XXXX
+  swift8: MOSBLV2X
+  branch_name: Head Office
+  branch_address: Krisjana Valdemara 21 1010 Riga
+  branch_code: XXX
+  city: Riga
+  country: Latvia
+- name: Jsc Citadele Banka
+  swift: PARXLV22XXX
+  swift8: PARXLV22
+  branch_name: Head Office
+  branch_address: 2a Republikas Laukums 1010 Riga
+  branch_code: XXX
+  city: Riga
+  country: Latvia
+- name: Latvian Central Depository,The
+  swift: LCDELV22XXX
+  swift8: LCDELV22
+  branch_name: Head Office
+  branch_address: Valnu Street 1 1050 Riga
+  branch_code: XXX
+  city: Riga
+  country: Latvia
+- name: Latvijas Pasta Banka
+  swift: LAPBLV2XXXX
+  swift8: LAPBLV2X
+  branch_name: Head Office
+  branch_address: Katlakalna 1 Lv-1073 Riga
+  branch_code: XXX
+  city: Riga
+  country: Latvia
+- name: Nordea Bank Finland Plc Latvia Branch
+  swift: NDEALV2XXXX
+  swift8: NDEALV2X
+  branch_name: Head Office
+  branch_address: 62 Kr.Valdemara Street 1030 Riga
+  branch_code: XXX
+  city: Riga
+  country: Latvia
+- name: Norvik Banka, Jsc
+  swift: LATBLV22XXX
+  swift8: LATBLV22
+  branch_name: Head Office
+  branch_address: 21 Birznieka-Upisha Street 1011 Riga
+  branch_code: XXX
+  city: Riga
+  country: Latvia
+- name: Regionala Investiciju Banka
+  swift: RIBRLV22XXX
+  swift8: RIBRLV22
+  branch_name: Head Office
+  branch_address: J. Alunana 2 1010 Riga
+  branch_code: XXX
+  city: Riga
+  country: Latvia
+- name: Rietumu Banka
+  swift: RTMBLV2XXXX
+  swift8: RTMBLV2X
+  branch_name: Head Office
+  branch_address: 7 Vesetas Street Lv-1013 Riga
+  branch_code: XXX
+  city: Riga
+  country: Latvia
+- name: Rigensis Bank As
+  swift: RGNSLV22XXX
+  swift8: RGNSLV22
+  branch_name: Head Office
+  branch_address: Teatra Street 3 Lv-1050 Riga
+  branch_code: XXX
+  city: Riga
+  country: Latvia
+- name: Seb Banka
+  swift: UNLALV2XXXX
+  swift8: UNLALV2X
+  branch_name: Head Office
+  branch_address: Seb Finance Center Lv-1076 Riga
+  branch_code: XXX
+  city: Riga
+  country: Latvia
+- name: Svenska Handelsbanken Ab
+  swift: HANDLV22XXX
+  swift8: HANDLV22
+  branch_name: Head Office
+  branch_address: Block 9 1012 Riga
+  branch_code: XXX
+  city: Riga
+  country: Latvia
+- name: Swedbank As
+  swift: HABALV22XXX
+  swift8: HABALV22
+  branch_name: Head Office
+  branch_address: 1a Balasta Dambis 1048 Riga
+  branch_code: XXX
+  city: Riga
+  country: Latvia
+- name: Trasta Komercbanka
+  swift: KBRBLV2XXXX
+  swift8: KBRBLV2X
+  branch_name: Head Office
+  branch_address: Miesnieku Iela 9 1050 Riga
+  branch_code: XXX
+  city: Riga
+  country: Latvia
+- name: Treasury Of The Republic Of Latvia, The
+  swift: TRELLV22XXX
+  swift8: TRELLV22
+  branch_name: Head Office
+  branch_address: 1 Smilsu Street 1919 Riga
+  branch_code: XXX
+  city: Riga
+  country: Latvia
+- name: Evli Bank Ltd
+  swift: EVSELV21XXX
+  swift8: EVSELV21
+  branch_name: Head Office
+  branch_address: 1 Vainu Street 1050 Riga
+  branch_code: XXX
+  city: Riga
+  country: Latvia
+- name: Global Overseas Bank A.d.
+  swift: GOSBLV21XXX
+  swift8: GOSBLV21
+  branch_name: Head Office
+  branch_address: Magnet Business Centre 1010 Riga
+  branch_code: XXX
+  city: Riga
+  country: Latvia
+- name: A/s Saules Investicijas
+  swift: TAPSLV21XXX
+  swift8: TAPSLV21
+  branch_name: Head Office
+  branch_address: Smilsu Iela 16 1050 Riga
+  branch_code: XXX
+  city: Riga
+  country: Latvia
+- name: Ab.lv Capital Markets
+  swift: ABCRLV21XXX
+  swift8: ABCRLV21
+  branch_name: Head Office
+  branch_address: Elizabetes Street 23 1010 Riga
+  branch_code: XXX
+  city: Riga
+  country: Latvia
+- name: As Baltijas Privatbanka
+  swift: BLPBLV21XXX
+  swift8: BLPBLV21
+  branch_name: Head Office
+  branch_address: Sia Mono 1017 Riga
+  branch_code: XXX
+  city: Riga
+  country: Latvia
+- name: As Ibs Renesource Capital
+  swift: IRCALV21XXX
+  swift8: IRCALV21
+  branch_name: Head Office
+  branch_address: 16-1d Lv-1010 Riga
+  branch_code: XXX
+  city: Riga
+  country: Latvia
+- name: Balticpay Corporation Sia
+  swift: BLOILV21XXX
+  swift8: BLOILV21
+  branch_name: No branch name
+  branch_address: No branch address
+  branch_code: XXX
+  city: Riga
+  country: Latvia
+- name: Dnovo Ltd
+  swift: DNOVLV21XXX
+  swift8: DNOVLV21
+  branch_name: Head Office
+  branch_address: Aristida Briana 9a-2 1003 Riga Latvia
+  branch_code: XXX
+  city: Riga
+  country: Latvia
+- name: Fincross Securities As
+  swift: FSECLV21XXX
+  swift8: FSECLV21
+  branch_name: Head Office
+  branch_address: Gertrudes 33/35 1050 Riga
+  branch_code: XXX
+  city: Riga
+  country: Latvia
+- name: First Data Latvia
+  swift: FRDLLV22XXX
+  swift8: FRDLLV22
+  branch_name: No branch name
+  branch_address: No branch address
+  branch_code: XXX
+  city: Riga
+  country: Latvia
+- name: Jsc Latvian Post
+  swift: LPNSLV21XXX
+  swift8: LPNSLV21
+  branch_name: Head Office
+  branch_address: Ziemelu Iela 10 Riga
+  branch_code: XXX
+  city: Riga
+  country: Latvia
+- name: Jsc Rb Securities
+  swift: JSSILV21XXX
+  swift8: JSSILV21
+  branch_name: Head Office
+  branch_address: Brivibas Iela 54 1011 Riga
+  branch_code: XXX
+  city: Riga
+  country: Latvia
+- name: Kooperativa Krajaizdevu Sabiedriba 'dzelzcelnieks Ks'
+  swift: KKSDLV21XXX
+  swift8: KKSDLV21
+  branch_name: Head Office
+  branch_address: 14, Turgeneva 1050 Riga
+  branch_code: XXX
+  city: Riga
+  country: Latvia
+- name: Latgales Finansu Un Investiciju Kompanija As
+  swift: LFIKLV21XXX
+  swift8: LFIKLV21
+  branch_name: Head Office
+  branch_address: 20/22 - 5 Kr. Barona Street Lv-4601 Rezekne
+  branch_code: XXX
+  city: Rezekne
+  country: Latvia
+- name: Llc Investment Brokerage Company 'maximus Capital Markets'
+  swift: LIBCLV21XXX
+  swift8: LIBCLV21
+  branch_name: Head Office
+  branch_address: Rupniecibas Street 1-5 1010 Riga
+  branch_code: XXX
+  city: Riga
+  country: Latvia
+- name: Ltfja Kks Jurnieku Forums
+  swift: LKJFLV21XXX
+  swift8: LKJFLV21
+  branch_name: Head Office
+  branch_address: Katrinas Dambis 22a 1045 Riga
+  branch_code: XXX
+  city: Riga
+  country: Latvia
+- name: Ogres Komercbanka
+  swift: OKBALV21XXX
+  swift8: OKBALV21
+  branch_name: Head Office
+  branch_address: 12, E. Birznieka Upisha Str. 1050 Riga
+  branch_code: XXX
+  city: Riga
+  country: Latvia
+- name: Pohjola Bank Plc Latvian Branch
+  swift: OKOYLV2XXXX
+  swift8: OKOYLV2X
+  branch_name: Head Office
+  branch_address: Vienibas Gatve 87 1004 Riga
+  branch_code: XXX
+  city: Riga
+  country: Latvia
+- name: Pohjola Bank Plc Latvian Branch
+  swift: OKOYLV21XXX
+  swift8: OKOYLV21
+  branch_name: Head Office
+  branch_address: Vienibas Gatve 87 1004 Riga
+  branch_code: XXX
+  city: Riga
+  country: Latvia
+- name: Riga Stock Exchange
+  swift: XRISLV21XXX
+  swift8: XRISLV21
+  branch_name: Head Office
+  branch_address: Riga Stock Exchange 1885 Riga
+  branch_code: XXX
+  city: Riga
+  country: Latvia
+- name: Samsung Electronics Baltics
+  swift: SECTLV21961
+  swift8: SECTLV21
+  branch_name: Riga
+  branch_address: Duntes Iela 6 Riga
+  branch_code: '961'
+  city: Riga
+  country: Latvia
+- name: Samsung Electronics Baltics
+  swift: SECTLV21XXX
+  swift8: SECTLV21
+  branch_name: Head Office
+  branch_address: Duntes Iela 6 1013 Riga
+  branch_code: XXX
+  city: Riga
+  country: Latvia
+- name: Sc Parex Banka
+  swift: PAEXLV21XXX
+  swift8: PAEXLV21
+  branch_name: Head Office
+  branch_address: Republikas Square 2a 1522 Riga
+  branch_code: XXX
+  city: Riga
+  country: Latvia
+- name: Sia Dixipay
+  swift: SIDILV21XXX
+  swift8: SIDILV21
+  branch_name: Head Office
+  branch_address: Krisjana Valdemara Iela 18-7 Lv-1010 Riga
+  branch_code: XXX
+  city: Riga
+  country: Latvia
+- name: Sia Eps Finance Company
+  swift: SEFMLV21XXX
+  swift8: SEFMLV21
+  branch_name: Head Office
+  branch_address: Eveles Iela 12 Korpuss 2 1013 Riga
+  branch_code: XXX
+  city: Riga
+  country: Latvia
+- name: Sia Transact Pro
+  swift: TPROLV22XXX
+  swift8: TPROLV22
+  branch_name: Head Office
+  branch_address: Ropazu Street 10 Lv1039 Riga
+  branch_code: XXX
+  city: Riga
+  country: Latvia
+- name: Sia Transact Pro
+  swift: TPROLV21XXX
+  swift8: TPROLV21
+  branch_name: Head Office
+  branch_address: Ropazu Street 10 Lv1039 Riga
+  branch_code: XXX
+  city: Riga
+  country: Latvia
+- name: Suprema As
+  swift: SPRALV21XXX
+  swift8: SPRALV21
+  branch_name: Head Office
+  branch_address: 1 Valnu Street 1050 Riga
+  branch_code: XXX
+  city: Riga
+  country: Latvia

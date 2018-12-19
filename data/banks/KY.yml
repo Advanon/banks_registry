@@ -1,0 +1,1316 @@
+---
+KY:
+- name: Aib Bank
+  swift: AIBKKYK1TMK
+  swift8: AIBKKYK1
+  branch_name: Treasury Dept
+  branch_address: Georgetown
+  branch_code: TMK
+  city: Georgetown
+  country: Cayman Islands
+- name: Aib Bank
+  swift: AIBKKYK1XXX
+  swift8: AIBKKYK1
+  branch_name: Head Office
+  branch_address: Georgetown
+  branch_code: XXX
+  city: Georgetown
+  country: Cayman Islands
+- name: Banco Bradesco S.A.
+  swift: BBDEKYKYXXX
+  swift8: BBDEKYKY
+  branch_name: Head Office
+  branch_address: Dms House Ky1-1109 Georgetown
+  branch_code: XXX
+  city: Georgetown
+  country: Cayman Islands
+- name: Banco Daycoval S/A
+  swift: DAYCKYKYXXX
+  swift8: DAYCKYKY
+  branch_name: Head Office
+  branch_address: Harbour Place Ky1-1102 Georgetown
+  branch_code: XXX
+  city: Georgetown
+  country: Cayman Islands
+- name: Banco De La Provincia De Buenos Aires
+  swift: PRBAKYKYXXX
+  swift8: PRBAKYKY
+  branch_name: Grand Cayman Branch
+  branch_address: P.H. Plaza Banco General Georgetown Pa
+  branch_code: XXX
+  city: Georgetown Pa
+  country: Cayman Islands
+- name: Banco Espirito Santo S.A.
+  swift: BESCKYKXXXX
+  swift8: BESCKYKX
+  branch_name: Head Office
+  branch_address: Georgetown
+  branch_code: XXX
+  city: Georgetown
+  country: Cayman Islands
+- name: Banco Industrial E Comercial S.A.
+  swift: BICBKYKYXXX
+  swift8: BICBKYKY
+  branch_name: Head Office
+  branch_address: Scotiabank Building Georgetown
+  branch_code: XXX
+  city: Georgetown
+  country: Cayman Islands
+- name: Banco Mercantil Do Brasil S.A
+  swift: BMBRKYKYXXX
+  swift8: BMBRKYKY
+  branch_name: Head Office
+  branch_address: Cardinal Avenue Georgetown
+  branch_code: XXX
+  city: Georgetown
+  country: Cayman Islands
+- name: Banco Modal S.A.
+  swift: MODAKYKYXXX
+  swift8: MODAKYKY
+  branch_name: Head Office
+  branch_address: Harbour Place Ky1-1102 Grand Cayman
+  branch_code: XXX
+  city: Grand Cayman
+  country: Cayman Islands
+- name: Banco Pine S.A
+  swift: PBBRKYKYXXX
+  swift8: PBBRKYKY
+  branch_name: Head Office
+  branch_address: Butterfield House Georgetown
+  branch_code: XXX
+  city: Georgetown
+  country: Cayman Islands
+- name: Banco Sumitomo Mitsui Brasileiro S.A.
+  swift: SUBRKYKYXXX
+  swift8: SUBRKYKY
+  branch_name: Head Office
+  branch_address: Cibc Financial Centre Ky1-1107 Georgetown
+  branch_code: XXX
+  city: Georgetown
+  country: Cayman Islands
+- name: Bank Of Nova Scotia
+  swift: NOSCKYKGXXX
+  swift8: NOSCKYKG
+  branch_name: Head Office
+  branch_address: Cardinall Avenue 6 Ky1-1107 Georgetown
+  branch_code: XXX
+  city: Georgetown
+  country: Cayman Islands
+- name: Bank Rakyat Indonesia
+  swift: BRINKYKXXXX
+  swift8: BRINKYKX
+  branch_name: Head Office
+  branch_address: Cardinal Avenue Georgetown
+  branch_code: XXX
+  city: Georgetown
+  country: Cayman Islands
+- name: Bayerische Landesbank
+  swift: BYLAKYKXXXX
+  swift8: BYLAKYKX
+  branch_name: Head Office
+  branch_address: Georgetown
+  branch_code: XXX
+  city: Georgetown
+  country: Cayman Islands
+- name: Bbva Bancomer, S.A.
+  swift: BCMRKYK1XXX
+  swift8: BCMRKYK1
+  branch_name: Head Office
+  branch_address: Caledonian House Georgetown
+  branch_code: XXX
+  city: Georgetown
+  country: Cayman Islands
+- name: Citibank N.A.
+  swift: CITIKYK1XXX
+  swift8: CITIKYK1
+  branch_name: Head Office
+  branch_address: Georgetown
+  branch_code: XXX
+  city: Georgetown
+  country: Cayman Islands
+- name: Deutsche Bank Ag
+  swift: DEUTKYKXXXX
+  swift8: DEUTKYKX
+  branch_name: Head Office
+  branch_address: Elizabethan Square Georgetown
+  branch_code: XXX
+  city: Georgetown
+  country: Cayman Islands
+- name: Gulf International Bank
+  swift: GULFKYK1XXX
+  swift8: GULFKYK1
+  branch_name: Head Office
+  branch_address: Georgetown
+  branch_code: XXX
+  city: Georgetown
+  country: Cayman Islands
+- name: Nordea Bank Finland Plc
+  swift: NDEAKYKXXXX
+  swift8: NDEAKYKX
+  branch_name: Head Office
+  branch_address: Georgetown
+  branch_code: XXX
+  city: Georgetown
+  country: Cayman Islands
+- name: Westpac Banking Corporation
+  swift: WPACKYKXXXX
+  swift8: WPACKYKX
+  branch_name: Head Office
+  branch_address: Georgetown
+  branch_code: XXX
+  city: Georgetown
+  country: Cayman Islands
+- name: Banco Do Brasil S.a.
+  swift: BRASKYKYXXX
+  swift8: BRASKYKY
+  branch_name: Head Office
+  branch_address: Phase Iii Building Georgetown
+  branch_code: XXX
+  city: Georgetown
+  country: Cayman Islands
+- name: 3 Capital Holdings Ltd
+  swift: CAHLKYK1XXX
+  swift8: CAHLKYK1
+  branch_name: Head Office
+  branch_address: Walker House Ky1-9005 Georgetown
+  branch_code: XXX
+  city: Georgetown
+  country: Cayman Islands
+- name: Altajir Bank
+  swift: ABNKKYK1XXX
+  swift8: ABNKKYK1
+  branch_name: Head Office
+  branch_address: Sigma Building Georgetown
+  branch_code: XXX
+  city: Georgetown
+  country: Cayman Islands
+- name: Argentaria Capital Funding Limited
+  swift: ARCFKYK1XXX
+  swift8: ARCFKYK1
+  branch_name: Head Office
+  branch_address: Bank of Nova Scotia Building Georgetown
+  branch_code: XXX
+  city: Georgetown
+  country: Cayman Islands
+- name: Arnott Capital
+  swift: ARNCKYK1XXX
+  swift8: ARNCKYK1
+  branch_name: Head Office
+  branch_address: Walker House 1-9002 Georgetown
+  branch_code: XXX
+  city: Georgetown
+  country: Cayman Islands
+- name: Arrowgrass Capital Partners Llp
+  swift: ACPLKYK1XXX
+  swift8: ACPLKYK1
+  branch_name: Head Office
+  branch_address: Ugland House Georgetown
+  branch_code: XXX
+  city: Georgetown
+  country: Cayman Islands
+- name: Arrowgrass Master Fund Ltd
+  swift: ARMUKYK1XXX
+  swift8: ARMUKYK1
+  branch_name: Head Office
+  branch_address: George Town Grand Cayman
+  branch_code: XXX
+  city: Grand
+  country: Cayman Islands
+- name: Atc Trustees (cayman) Limited
+  swift: ATTRKYK1XXX
+  swift8: ATTRKYK1
+  branch_name: Head Office
+  branch_address: Cayside Georgetown
+  branch_code: XXX
+  city: Georgetown
+  country: Cayman Islands
+- name: Atlantic Security Bank
+  swift: ATSEKYKYXXX
+  swift8: ATSEKYKY
+  branch_name: Head Office
+  branch_address: Ugland House Georgetown
+  branch_code: XXX
+  city: Georgetown
+  country: Cayman Islands
+- name: Banco Abc Brasil S.a.-cayman Islands Branch
+  swift: ABCBKYKXXXX
+  swift8: ABCBKYKX
+  branch_name: Head Office
+  branch_address: Harbor Place 1102 Georgetown
+  branch_code: XXX
+  city: Georgetown
+  country: Cayman Islands
+- name: Banco Bozano, Simonsen Sa, Grand Cayman Branch
+  swift: BBSIKYK1XXX
+  swift8: BBSIKYK1
+  branch_name: Head Office
+  branch_address: Coutts House Georgetown
+  branch_code: XXX
+  city: Georgetown
+  country: Cayman Islands
+- name: Banco Bpi
+  swift: BBPIKYKYXXX
+  swift8: BBPIKYKY
+  branch_name: Head Office
+  branch_address: Georgetown
+  branch_code: XXX
+  city: Georgetown
+  country: Cayman Islands
+- name: Banco Bpi Cayman Ltd
+  swift: BCYLKYKYXXX
+  swift8: BCYLKYKY
+  branch_name: Head Office
+  branch_address: 90 North Church Street Georgetown
+  branch_code: XXX
+  city: Georgetown
+  country: Cayman Islands
+- name: Banco Colpatria Cayman
+  swift: COLPKYKYXXX
+  swift8: COLPKYKY
+  branch_name: Head Office
+  branch_address: Butterfield House Ky1-1107 Grand Cayman
+  branch_code: XXX
+  city: Grand
+  country: Cayman Islands
+- name: Banco De La Nacion Argentina, Grand Cayman Branch
+  swift: NACNKYKYXXX
+  swift8: NACNKYKY
+  branch_name: Head Office
+  branch_address: Georgetown
+  branch_code: XXX
+  city: Georgetown
+  country: Cayman Islands
+- name: Banco Fibra S/a-grand Cayman Branch
+  swift: FIBIKYKYXXX
+  swift8: FIBIKYKY
+  branch_name: Head Office
+  branch_address: Cibc Financial Centre Georgetown
+  branch_code: XXX
+  city: Georgetown
+  country: Cayman Islands
+- name: Banco Frances (cayman) Ltd.
+  swift: BFGCKYK1XXX
+  swift8: BFGCKYK1
+  branch_name: Head Office
+  branch_address: Windward Three Georgetown
+  branch_code: XXX
+  city: Georgetown
+  country: Cayman Islands
+- name: Banco General (overseas) Inc.
+  swift: BGOSKYKYXXX
+  swift8: BGOSKYKY
+  branch_name: Head Office
+  branch_address: Harbour Place 1034 Grand Cayman
+  branch_code: XXX
+  city: Grand
+  country: Cayman Islands
+- name: Banco Indusval Sa
+  swift: IDVLKYKYXXX
+  swift8: IDVLKYKY
+  branch_name: Head Office
+  branch_address: Harbour Place Ky1-1102 Grand Cayman
+  branch_code: XXX
+  city: Grand Cayman
+  country: Cayman Islands
+- name: Banco Nacional De Comercio Exterior
+  swift: BNCEKYKXXXX
+  swift8: BNCEKYKX
+  branch_name: Head Office
+  branch_address: 11 Dr. Roy S Drive Ky1-1107 Georgetown
+  branch_code: XXX
+  city: Georgetown
+  country: Cayman Islands
+- name: Banco Privado Portugues (cayman) Limited
+  swift: BPPOKYK1XXX
+  swift8: BPPOKYK1
+  branch_name: Head Office
+  branch_address: Scotia Building Georgetown
+  branch_code: XXX
+  city: Georgetown
+  country: Cayman Islands
+- name: Banco Privado Portugues (cayman) Limited
+  swift: BPPOKYKYXXX
+  swift8: BPPOKYKY
+  branch_name: Head Office
+  branch_address: Scotia Building Georgetown
+  branch_code: XXX
+  city: Georgetown
+  country: Cayman Islands
+- name: Banco Real Grand Cayman Branch
+  swift: REALKYK1XXX
+  swift8: REALKYK1
+  branch_name: Head Office
+  branch_address: Genesis Georgetown
+  branch_code: XXX
+  city: Georgetown
+  country: Cayman Islands
+- name: Banco Santander (brasil) Sa Grand Cayman Branch
+  swift: BSCHKYKXCAY
+  swift8: BSCHKYKX
+  branch_name: Georgetown
+  branch_address: Georgetown
+  branch_code: CAY
+  city: Georgetown
+  country: Cayman Islands
+- name: Banco Santander (brasil) Sa Grand Cayman Branch
+  swift: BSCHKYKXGEB
+  swift8: BSCHKYKX
+  branch_name: Georgetown
+  branch_address: Georgetown
+  branch_code: GEB
+  city: Georgetown
+  country: Cayman Islands
+- name: Banco Santander (brasil) Sa Grand Cayman Branch
+  swift: BSCHKYKXXXX
+  swift8: BSCHKYKX
+  branch_name: Head Office
+  branch_address: Waterfront Centre Building Georgetown
+  branch_code: XXX
+  city: Georgetown
+  country: Cayman Islands
+- name: Bank Dagang Nasional Indonesia
+  swift: DANIKYK1XXX
+  swift8: DANIKYK1
+  branch_name: Head Office
+  branch_address: Georgetown
+  branch_code: XXX
+  city: Georgetown
+  country: Cayman Islands
+- name: Bank Espirito Santo (international) Ltd
+  swift: BESKKYKYXXX
+  swift8: BESKKYKY
+  branch_name: Head Office
+  branch_address: Grand Pavillion Commercial Centre Georgetown
+  branch_code: XXX
+  city: Georgetown
+  country: Cayman Islands
+- name: Bank Hapoalim (cayman) Limited
+  swift: POALKYK1XXX
+  swift8: POALKYK1
+  branch_name: Head Office
+  branch_address: Georgetown
+  branch_code: XXX
+  city: Georgetown
+  country: Cayman Islands
+- name: Bank Of China, Grand Cayman Branch
+  swift: BKCHKYKYXXX
+  swift8: BKCHKYKY
+  branch_name: Head Office
+  branch_address: Grand Pavilion Commercial Center Ky1-1204 Georgetown
+  branch_code: XXX
+  city: Georgetown
+  country: Cayman Islands
+- name: Bankamerica Trust And Banking Corporation (cayman) Limited
+  swift: BOFAKYK1XXX
+  swift8: BOFAKYK1
+  branch_name: Head Office
+  branch_address: Bankamerica House Georgetown
+  branch_code: XXX
+  city: Georgetown
+  country: Cayman Islands
+- name: Banpais S.a.
+  swift: BANPKYK1XXX
+  swift8: BANPKYK1
+  branch_name: Head Office
+  branch_address: Georgetown
+  branch_code: XXX
+  city: Georgetown
+  country: Cayman Islands
+- name: Banque Multi-commerciale
+  swift: MCBAKYK1XXX
+  swift8: MCBAKYK1
+  branch_name: Head Office
+  branch_address: Georgetown
+  branch_code: XXX
+  city: Georgetown
+  country: Cayman Islands
+- name: Beg Bank (cayman Islands
+  swift: BBCIKYK1XXX
+  swift8: BBCIKYK1
+  branch_name: Head Office
+  branch_address: Georgetown
+  branch_code: XXX
+  city: Georgetown
+  country: Cayman Islands
+- name: Bes Investimento Do Brasil S.a.-banco De Investimento
+  swift: BESBKYKYXXX
+  swift8: BESBKYKY
+  branch_name: Head Office
+  branch_address: Grand Pavillion Commercial Centre 1-1005 Grand Cayman
+  branch_code: XXX
+  city: Grand
+  country: Cayman Islands
+- name: Bfc Bank (cayman) Ltd.
+  swift: BFCGKYK1XXX
+  swift8: BFCGKYK1
+  branch_name: Head Office
+  branch_address: Georgetown
+  branch_code: XXX
+  city: Georgetown
+  country: Cayman Islands
+- name: Bic International Bank Limited
+  swift: ESCAKYKYXXX
+  swift8: ESCAKYKY
+  branch_name: Head Office
+  branch_address: Scotiabank Building Georgetown
+  branch_code: XXX
+  city: Georgetown
+  country: Cayman Islands
+- name: Bie Bank And Trust Ltd.
+  swift: ITAUKYK1XXX
+  swift8: ITAUKYK1
+  branch_name: No branch name
+  branch_address: No branch address
+  branch_code: XXX
+  city: Georgetown
+  country: Cayman Islands
+- name: Blackstone
+  swift: BLAOKYK1XXX
+  swift8: BLAOKYK1
+  branch_name: Head Office
+  branch_address: Century Yard Georgetown
+  branch_code: XXX
+  city: Georgetown
+  country: Cayman Islands
+- name: Brasilian American Merchant Bank (bamb
+  swift: BAMBKYKXXXX
+  swift8: BAMBKYKX
+  branch_name: Head Office
+  branch_address: Elizabethan Square Georgetown
+  branch_code: XXX
+  city: Georgetown
+  country: Cayman Islands
+- name: Butterfield Bank (cayman) Limited
+  swift: BNTBKYKYXXX
+  swift8: BNTBKYKY
+  branch_name: Head Office
+  branch_address: Butterfield House Georgetown
+  branch_code: XXX
+  city: Georgetown
+  country: Cayman Islands
+- name: Caixa Geral De Depositos, Grand Cayman Branch
+  swift: CGDIKYKYXXX
+  swift8: CGDIKYKY
+  branch_name: Head Office
+  branch_address: Regatta Office Park, 3 Ky1-1209 Grand Cayman
+  branch_code: XXX
+  city: Grand
+  country: Cayman Islands
+- name: Carlson Capital Llp
+  swift: CRTPKYK1XXX
+  swift8: CRTPKYK1
+  branch_name: Head Office
+  branch_address: Ubs House Georgetown
+  branch_code: XXX
+  city: Georgetown
+  country: Cayman Islands
+- name: Cayman Islands Monetary Authority
+  swift: CIMGKYKYXXX
+  swift8: CIMGKYKY
+  branch_name: Head Office
+  branch_address: 80 E Shedden Road Georgetown
+  branch_code: XXX
+  city: Georgetown
+  country: Cayman Islands
+- name: Cayman National Bank Ltd.
+  swift: CNATKYKYXXX
+  swift8: CNATKYKY
+  branch_name: Head Office
+  branch_address: 200 Elgin Avenue Ky1 1102 Georgetown
+  branch_code: XXX
+  city: Georgetown
+  country: Cayman Islands
+- name: Cc Arbitrage Ltd
+  swift: ARBGKYK1XXX
+  swift8: ARBGKYK1
+  branch_name: Head Office
+  branch_address: 68 Hsbc House Georgetown
+  branch_code: XXX
+  city: Georgetown
+  country: Cayman Islands
+- name: Cibc Bank And Trust Company (cayman) Ltd
+  swift: CIBCKYKCXXX
+  swift8: CIBCKYKC
+  branch_name: Head Office
+  branch_address: Dr Roys Drive 11 Ky1-1107 Grand Cayman
+  branch_code: XXX
+  city: Grand
+  country: Cayman Islands
+- name: Citco Bank And Trust Company
+  swift: CITCKYKYXXX
+  swift8: CITCKYKY
+  branch_name: Head Office
+  branch_address: Windward 1 Ky1-1205 Georgetown
+  branch_code: XXX
+  city: Georgetown
+  country: Cayman Islands
+- name: Commercial Bank (grand Cayman), Ltd.
+  swift: CBKPKYK1XXX
+  swift8: CBKPKYK1
+  branch_name: Head Office
+  branch_address: Georgetown
+  branch_code: XXX
+  city: Georgetown
+  country: Cayman Islands
+- name: Commerzbank Ag,cayman Islands Branc H
+  swift: COBAKYKXXXX
+  swift8: COBAKYKX
+  branch_name: Head Office
+  branch_address: Ugland House Georgetown
+  branch_code: XXX
+  city: Georgetown
+  country: Cayman Islands
+- name: Credit Agricole (formerly Banque Indosuez
+  swift: BSUIKYK1XXX
+  swift8: BSUIKYK1
+  branch_name: Head Office
+  branch_address: Georgetown
+  branch_code: XXX
+  city: Georgetown
+  country: Cayman Islands
+- name: Credit Suisse Ag, Cayman Islands Branch
+  swift: CSFBKYKXXXX
+  swift8: CSFBKYKX
+  branch_name: Cayman Islands Branch
+  branch_address: Brit Cay House Georgetown
+  branch_code: XXX
+  city: Georgetown
+  country: Cayman Islands
+- name: Deutsche Bank (cayman) Limited
+  swift: DEUTKY22XXX
+  swift8: DEUTKY22
+  branch_name: Head Office
+  branch_address: Elizabethan Square Ky1-1104 Georgetown
+  branch_code: XXX
+  city: Georgetown
+  country: Cayman Islands
+- name: Diamond Head Capital Management
+  swift: DHCGKYK1XXX
+  swift8: DHCGKYK1
+  branch_name: Head Office
+  branch_address: Queensgate House Georgetown
+  branch_code: XXX
+  city: Georgetown
+  country: Cayman Islands
+- name: Diamond Notch Asset Management
+  swift: DNANKYK1XXX
+  swift8: DNANKYK1
+  branch_name: Head Office
+  branch_address: Queensgate House Georgetown
+  branch_code: XXX
+  city: Georgetown
+  country: Cayman Islands
+- name: Dlj Cayman Islands Ldc
+  swift: DCILKYK1XXX
+  swift8: DCILKYK1
+  branch_name: Head Office
+  branch_address: West Bay Road Georgetown
+  branch_code: XXX
+  city: Georgetown
+  country: Cayman Islands
+- name: Dms Bank And Trust Ltd
+  swift: CAYIKYKYXXX
+  swift8: CAYIKYKY
+  branch_name: Head Office
+  branch_address: Dms House Ky1-1104 Georgetown
+  branch_code: XXX
+  city: Georgetown
+  country: Cayman Islands
+- name: Dnb Bank Asa, Grand Cayman Branch
+  swift: DNBAKYKXXXX
+  swift8: DNBAKYKX
+  branch_name: Head Office
+  branch_address: Georgetown
+  branch_code: XXX
+  city: Georgetown
+  country: Cayman Islands
+- name: Doric Capital Corporation
+  swift: DOCTKYK1XXX
+  swift8: DOCTKYK1
+  branch_name: Head Office
+  branch_address: Ugland House Georgetown
+  branch_code: XXX
+  city: Georgetown
+  country: Cayman Islands
+- name: Efg Bank
+  swift: EFGBKYKYXXX
+  swift8: EFGBKYKY
+  branch_name: Head Office
+  branch_address: Strathvale House 1003 Georgetown
+  branch_code: XXX
+  city: Georgetown
+  country: Cayman Islands
+- name: Euro Canadian Bank And Trust Company Limited
+  swift: ECBTKYK1XXX
+  swift8: ECBTKYK1
+  branch_name: Head Office
+  branch_address: West Winds Building Georgetown
+  branch_code: XXX
+  city: Georgetown
+  country: Cayman Islands
+- name: Eurowire Clearing Corporation
+  swift: EUCIKYK1XXX
+  swift8: EUCIKYK1
+  branch_name: Head Office
+  branch_address: Scotia Centre Ky1-1104 Georgetown
+  branch_code: XXX
+  city: Georgetown
+  country: Cayman Islands
+- name: Ferox Master Fund Limited
+  swift: FEMFKYK1XXX
+  swift8: FEMFKYK1
+  branch_name: Head Office
+  branch_address: Georgetown
+  branch_code: XXX
+  city: Georgetown
+  country: Cayman Islands
+- name: First Home Banking Ltd.
+  swift: FHOMKYK1XXX
+  swift8: FHOMKYK1
+  branch_name: Head Office
+  branch_address: First Home Tower Georgetown
+  branch_code: XXX
+  city: Georgetown
+  country: Cayman Islands
+- name: Firstcaribbean International Bank (cayman) Limited
+  swift: FCIBKYKYXXX
+  swift8: FCIBKYKY
+  branch_name: Head Office
+  branch_address: Cardinal Avenue Georgetown
+  branch_code: XXX
+  city: Georgetown
+  country: Cayman Islands
+- name: G.s. Financial Products U.s., L.p.
+  swift: GSFPKYKYXXX
+  swift8: GSFPKYKY
+  branch_name: Head Office
+  branch_address: Harbour Centre Georgetown
+  branch_code: XXX
+  city: Georgetown
+  country: Cayman Islands
+- name: Gaiacorp Trading Limited
+  swift: GATRKYK1XXX
+  swift8: GATRKYK1
+  branch_name: Head Office
+  branch_address: Georgetown
+  branch_code: XXX
+  city: Georgetown
+  country: Cayman Islands
+- name: Galaxy Asset Management (hong Kong) Limited
+  swift: GAMHKYK1XXX
+  swift8: GAMHKYK1
+  branch_name: Head Office
+  branch_address: Clifton House Georgetown
+  branch_code: XXX
+  city: Georgetown
+  country: Cayman Islands
+- name: Ginger Capital Management Limited
+  swift: GICMKYK1XXX
+  swift8: GICMKYK1
+  branch_name: Head Office
+  branch_address: Queensgate House Georgetown
+  branch_code: XXX
+  city: Georgetown
+  country: Cayman Islands
+- name: Greenwoods Asset Management Limited
+  swift: GRSGKYK1XXX
+  swift8: GRSGKYK1
+  branch_name: Head Office
+  branch_address: Century Yard Georgetown
+  branch_code: XXX
+  city: Georgetown
+  country: Cayman Islands
+- name: Hbk Master Fund L.p.
+  swift: HBMFKYK1XXX
+  swift8: HBMFKYK1
+  branch_name: Head Office
+  branch_address: Maples Corporate Services Limited Ky1-1104 Georgetown
+  branch_code: XXX
+  city: Georgetown
+  country: Cayman Islands
+- name: Henderson Uk Equity Long Short Fund Limited
+  swift: HELHKYK1XXX
+  swift8: HELHKYK1
+  branch_name: Head Office
+  branch_address: Harbour Centre Georgetown
+  branch_code: XXX
+  city: Georgetown
+  country: Cayman Islands
+- name: Hsbc Bank Brasil S.a.-banco Multiplo (grand Cayman Branch
+  swift: BCBBKYKYXXX
+  swift8: BCBBKYKY
+  branch_name: Head Office
+  branch_address: Midland Bank Trust Building 1109 Georgetown
+  branch_code: XXX
+  city: Georgetown
+  country: Cayman Islands
+- name: Hsbc Bank Usa N.a.
+  swift: HSBCKYK1XXX
+  swift8: HSBCKYK1
+  branch_name: Head Office
+  branch_address: Strathvale House Georgetown
+  branch_code: XXX
+  city: Georgetown
+  country: Cayman Islands
+- name: Imperial Dragon Asset Management Limited
+  swift: IDANKYK1XXX
+  swift8: IDANKYK1
+  branch_name: Head Office
+  branch_address: Scotia Center Georgetown
+  branch_code: XXX
+  city: Georgetown
+  country: Cayman Islands
+- name: Inchauspe Bank Corporation
+  swift: IEBCKYK1XXX
+  swift8: IEBCKYK1
+  branch_name: Head Office
+  branch_address: Midland Building Georgetown
+  branch_code: XXX
+  city: Georgetown
+  country: Cayman Islands
+- name: Incobank And Trust Corporation
+  swift: INCTKYK1XXX
+  swift8: INCTKYK1
+  branch_name: Head Office
+  branch_address: Elgin Avenue Georgetown
+  branch_code: XXX
+  city: Georgetown
+  country: Cayman Islands
+- name: Intesa Sanpaolo Spa Georgetown (formerly Intesabci S.p.a. Georgetown
+  swift: BCITKYKXXXX
+  swift8: BCITKYKX
+  branch_name: Head Office
+  branch_address: West Bay Road Georgetown
+  branch_code: XXX
+  city: Georgetown
+  country: Cayman Islands
+- name: Investcorp Trading Limited
+  swift: INVCKYKYISA
+  swift8: INVCKYKY
+  branch_name: Boundary Hall Branch
+  branch_address: Boundary Hall Ky1-1102 Grand Cayman
+  branch_code: ISA
+  city: Grand
+  country: Cayman Islands
+- name: Investcorp Trading Limited
+  swift: INVCKYKYXXX
+  swift8: INVCKYKY
+  branch_name: Head Office
+  branch_address: West Wind Building Georgetown
+  branch_code: XXX
+  city: Georgetown
+  country: Cayman Islands
+- name: Israel Discount Bank Ltd.
+  swift: IDBLKYK1XXX
+  swift8: IDBLKYK1
+  branch_name: Head Office
+  branch_address: Georgetown
+  branch_code: XXX
+  city: Georgetown
+  country: Cayman Islands
+- name: Itau Bank, Limited
+  swift: ITAUKYKTXXX
+  swift8: ITAUKYKT
+  branch_name: No branch name
+  branch_address: No branch address
+  branch_code: XXX
+  city: Georgetown
+  country: Cayman Islands
+- name: Itau Unibanco S.a., Grand Cayman Branch
+  swift: ITAUKYKCIGC
+  swift8: ITAUKYKC
+  branch_name: Current Account
+  branch_address: 6 Cardinal Avenue Georgetown
+  branch_code: IGC
+  city: Georgetown
+  country: Cayman Islands
+- name: Itau Unibanco S.a., Grand Cayman Branch
+  swift: ITAUKYKCXXX
+  swift8: ITAUKYKC
+  branch_name: Head Office
+  branch_address: 6 Cardinal Avenue Georgetown
+  branch_code: XXX
+  city: Georgetown
+  country: Cayman Islands
+- name: J. Rothschild Ppg Securities And Cie
+  swift: ROPRKYK1XXX
+  swift8: ROPRKYK1
+  branch_name: Head Office
+  branch_address: 24 Shedden Road Ky1-1110 Grand Cayman
+  branch_code: XXX
+  city: Grand
+  country: Cayman Islands
+- name: Kadora Investments Sa
+  swift: KAIVKYK1XXX
+  swift8: KAIVKYK1
+  branch_name: Head Office
+  branch_address: Ugland House Ky1-1104 Georgetown
+  branch_code: XXX
+  city: Georgetown
+  country: Cayman Islands
+- name: Kbc Financial Products (cayman Islands) Ltd.
+  swift: KBCFKYKXXXX
+  swift8: KBCFKYKX
+  branch_name: Head Office
+  branch_address: W.S. Walker and Company Georgetown
+  branch_code: XXX
+  city: Georgetown
+  country: Cayman Islands
+- name: Kbc Investments Cayman Islands V Ltd
+  swift: KBCFKYKZXXX
+  swift8: KBCFKYKZ
+  branch_name: Head Office
+  branch_address: Walker House Ky1-9005 Georgetown
+  branch_code: XXX
+  city: Georgetown
+  country: Cayman Islands
+- name: Kyte Funds Spc
+  swift: KYFSKYK1XXX
+  swift8: KYFSKYK1
+  branch_name: Head Office
+  branch_address: 89 Nexus Way Ky1-9007 Grand Cayman
+  branch_code: XXX
+  city: Grand
+  country: Cayman Islands
+- name: Landesbank Hessen-thueringen Girozentrale, Cayman Branch
+  swift: HELAKYKXXXX
+  swift8: HELAKYKX
+  branch_name: Head Office
+  branch_address: West Bay Road Georgetown
+  branch_code: XXX
+  city: Georgetown
+  country: Cayman Islands
+- name: Leumi Cayman Finance And Trust Corp
+  swift: LCFTKYK1XXX
+  swift8: LCFTKYK1
+  branch_name: Head Office
+  branch_address: Georgetown
+  branch_code: XXX
+  city: Georgetown
+  country: Cayman Islands
+- name: Linmat Capital Investment Management
+  swift: LCIAKYK1XXX
+  swift8: LCIAKYK1
+  branch_name: Head Office
+  branch_address: Ugland House Ky1-1104 Georgetown
+  branch_code: XXX
+  city: Georgetown
+  country: Cayman Islands
+- name: Marco Polo Pure Asset Management (cayman Islands
+  swift: MPPAKYK1XXX
+  swift8: MPPAKYK1
+  branch_name: Head Office
+  branch_address: Ugland House Georgetown
+  branch_code: XXX
+  city: Georgetown
+  country: Cayman Islands
+- name: Mercury Bank And Trust Limited
+  swift: MTRLKYK1XXX
+  swift8: MTRLKYK1
+  branch_name: Head Office
+  branch_address: Caledonian House Georgetown
+  branch_code: XXX
+  city: Georgetown
+  country: Cayman Islands
+- name: Merrill Lynch Bank And Trust Company (cayman) Ltd
+  swift: MLBCKYKXXXX
+  swift8: MLBCKYKX
+  branch_name: Head Office
+  branch_address: British American Building Georgetown
+  branch_code: XXX
+  city: Georgetown
+  country: Cayman Islands
+- name: Metage Capital Management
+  swift: MEPMKYK1XXX
+  swift8: MEPMKYK1
+  branch_name: Head Office
+  branch_address: Hsbc House Ky1-1106 Georgetown
+  branch_code: XXX
+  city: Georgetown
+  country: Cayman Islands
+- name: Millennium Bcp Bank And Trust
+  swift: BCOMKYKXXXX
+  swift8: BCOMKYKX
+  branch_name: Head Office
+  branch_address: Strathvale House Georgetown
+  branch_code: XXX
+  city: Georgetown
+  country: Cayman Islands
+- name: Mizuho Do Brasil Cayman Limited
+  swift: WELAKYKXXXX
+  swift8: WELAKYKX
+  branch_name: Head Office
+  branch_address: Ubs House Georgetown
+  branch_code: XXX
+  city: Georgetown
+  country: Cayman Islands
+- name: Morval Bank And Trust Cayman Ltd.
+  swift: MORVKYKYXXX
+  swift8: MORVKYKY
+  branch_name: Head Office
+  branch_address: Piccadilly Centre Georgetown
+  branch_code: XXX
+  city: Georgetown
+  country: Cayman Islands
+- name: Nippon Credit Bank Grand Cayman
+  swift: NCGAKYK1XXX
+  swift8: NCGAKYK1
+  branch_name: Head Office
+  branch_address: West Wind Building Georgetown
+  branch_code: XXX
+  city: Georgetown
+  country: Cayman Islands
+- name: Ocean Capital Management (cayman) Limited
+  swift: OCMCKYK1XXX
+  swift8: OCMCKYK1
+  branch_name: Head Office
+  branch_address: Walker House 1-9002 Georgetown
+  branch_code: XXX
+  city: Georgetown
+  country: Cayman Islands
+- name: Octagon Capital Management Pte Ltd
+  swift: OCMPKYK1XXX
+  swift8: OCMPKYK1
+  branch_name: Head Office
+  branch_address: Walker House Georgetown
+  branch_code: XXX
+  city: Georgetown
+  country: Cayman Islands
+- name: Octis Asset Management Caymen Limited
+  swift: OAMAKYK1XXX
+  swift8: OAMAKYK1
+  branch_name: Head Office
+  branch_address: Hospital Road 27 Georgetown
+  branch_code: XXX
+  city: Georgetown
+  country: Cayman Islands
+- name: Pivot Capital Management Limited
+  swift: PICAKYK1XXX
+  swift8: PICAKYK1
+  branch_name: Head Office
+  branch_address: Walker House Georgetown
+  branch_code: XXX
+  city: Georgetown
+  country: Cayman Islands
+- name: Portigon Ag, Grand Cayman
+  swift: WELAKYK1XXX
+  swift8: WELAKYK1
+  branch_name: Head Office
+  branch_address: 75 Fort Street Ky1-1104 Georgetown
+  branch_code: XXX
+  city: Georgetown
+  country: Cayman Islands
+- name: Ps Asset Corporation
+  swift: ASCOKYK1XXX
+  swift8: ASCOKYK1
+  branch_name: Head Office
+  branch_address: Ugland House Georgetown
+  branch_code: XXX
+  city: Georgetown
+  country: Cayman Islands
+- name: Pt Bank Mandiri (persero)tbk Cayman Islands Branch
+  swift: BMRIKYKYXXX
+  swift8: BMRIKYKY
+  branch_name: Head Office
+  branch_address: One Cayman House Georgetown
+  branch_code: XXX
+  city: Georgetown
+  country: Cayman Islands
+- name: Radish Investment Corporation
+  swift: RAIOKYK1XXX
+  swift8: RAIOKYK1
+  branch_name: Head Office
+  branch_address: Ugland House Georgetown
+  branch_code: XXX
+  city: Georgetown
+  country: Cayman Islands
+- name: Rbc Royal Bank (cayman) Limited (formerly Known As Royal Bank Of Canada Grand
+    Cayman
+  swift: ROYCKYKYKYQ
+  swift8: ROYCKYKY
+  branch_name: Georgetown
+  branch_address: Georgetown
+  branch_code: KYQ
+  city: Georgetown
+  country: Cayman Islands
+- name: Rbc Royal Bank (cayman) Limited (formerly Known As Royal Bank Of Canada Grand
+    Cayman
+  swift: ROYCKYKYXXX
+  swift8: ROYCKYKY
+  branch_name: Head Office
+  branch_address: 24 Shedden Road Georgetown
+  branch_code: XXX
+  city: Georgetown
+  country: Cayman Islands
+- name: Ribble Investment Limited
+  swift: RIBIKYK1XXX
+  swift8: RIBIKYK1
+  branch_name: Head Office
+  branch_address: First Home Tower Georgetown
+  branch_code: XXX
+  city: Georgetown
+  country: Cayman Islands
+- name: Rofin International Bank And Trust
+  swift: ROIBKYK1XXX
+  swift8: ROIBKYK1
+  branch_name: Head Office
+  branch_address: Scotia Building Georgetown
+  branch_code: XXX
+  city: Georgetown
+  country: Cayman Islands
+- name: Royal Bank Of Canada Trust Company (cayman) Limited
+  swift: ROYCKYKTXXX
+  swift8: ROYCKYKT
+  branch_name: Head Office
+  branch_address: 24 Shedden Road Georgetown
+  branch_code: XXX
+  city: Georgetown
+  country: Cayman Islands
+- name: Rp Capital Uk Ltd
+  swift: CPLTKYK1XXX
+  swift8: CPLTKYK1
+  branch_name: Head Office
+  branch_address: Ugland House Georgetown
+  branch_code: XXX
+  city: Georgetown
+  country: Cayman Islands
+- name: Russian Renaissance Investment Company Limited
+  swift: RRICKYK1XXX
+  swift8: RRICKYK1
+  branch_name: Head Office
+  branch_address: West Wing Bldg Georgetown
+  branch_code: XXX
+  city: Georgetown
+  country: Cayman Islands
+- name: Salomon Partners Wrs Werner Rothschild And Cie
+  swift: SAWWKYK1XXX
+  swift8: SAWWKYK1
+  branch_name: Head Office
+  branch_address: 24 Shedden Road Ky1-1110 Grand Cayman
+  branch_code: XXX
+  city: Grand Cayman
+  country: Cayman Islands
+- name: Samena Capital Management Llp
+  swift: SCNPKYK1XXX
+  swift8: SCNPKYK1
+  branch_name: Head Office
+  branch_address: Ugland House 1-1104 Grand Cayman
+  branch_code: XXX
+  city: Grand
+  country: Cayman Islands
+- name: Sark Master Fund
+  swift: SAAFKYK1XXX
+  swift8: SAAFKYK1
+  branch_name: Head Office
+  branch_address: Ugland House Georgetown
+  branch_code: XXX
+  city: Georgetown
+  country: Cayman Islands
+- name: Schroder Cayman Bank And Trust Co. Ltd.
+  swift: SCBTKYK1XXX
+  swift8: SCBTKYK1
+  branch_name: Head Office
+  branch_address: West Wind Building Georgetown
+  branch_code: XXX
+  city: Georgetown
+  country: Cayman Islands
+- name: Scotiabank And Trust (cayman) Ltd.
+  swift: NOSCKYKXTRU
+  swift8: NOSCKYKX
+  branch_name: Trust Department
+  branch_address: 8 Cardinal Avenue Georgetown
+  branch_code: TRU
+  city: Georgetown
+  country: Cayman Islands
+- name: Scotiabank And Trust (cayman) Ltd.
+  swift: NOSCKYKXXXX
+  swift8: NOSCKYKX
+  branch_name: Head Office
+  branch_address: 8 Cardinal Avenue Georgetown
+  branch_code: XXX
+  city: Georgetown
+  country: Cayman Islands
+- name: Sfc Investment Management Limited
+  swift: SFINKYK1XXX
+  swift8: SFINKYK1
+  branch_name: Head Office
+  branch_address: Ugland House Georgetown
+  branch_code: XXX
+  city: Georgetown
+  country: Cayman Islands
+- name: Siam Commercial Bank Pcl., The
+  swift: SICOKYKYXXX
+  swift8: SICOKYKY
+  branch_name: Head Office
+  branch_address: George Town Grand Cayman
+  branch_code: XXX
+  city: Grand
+  country: Cayman Islands
+- name: State Street Cayman Trust Company Ltd
+  swift: SSCTKYK1XXX
+  swift8: SSCTKYK1
+  branch_name: Head Office
+  branch_address: Safe Haven Corporate Center Georgetown
+  branch_code: XXX
+  city: Georgetown
+  country: Cayman Islands
+- name: Strategis Capital Managment Cayman Limited
+  swift: SCAYKYK1XXX
+  swift8: SCAYKYK1
+  branch_name: Head Office
+  branch_address: C/O Intl Corporation Services Ky1-1106 Georgetown
+  branch_code: XXX
+  city: Georgetown
+  country: Cayman Islands
+- name: Sunset Mesa Fund Ltd
+  swift: SMECKYK1XXX
+  swift8: SMECKYK1
+  branch_name: Head Office
+  branch_address: 87 Mary Street Georgetown
+  branch_code: XXX
+  city: Georgetown
+  country: Cayman Islands
+- name: Swedbank
+  swift: SWEDKYK1XXX
+  swift8: SWEDKYK1
+  branch_name: Head Office
+  branch_address: Georgetown
+  branch_code: XXX
+  city: Georgetown
+  country: Cayman Islands
+- name: Tairen Capital Limited
+  swift: TACTKYK1XXX
+  swift8: TACTKYK1
+  branch_name: Head Office
+  branch_address: Scotia Center Ky1-1104 Georgetown
+  branch_code: XXX
+  city: Georgetown
+  country: Cayman Islands
+- name: Tech Data Global Finance L.p.
+  swift: TDGFKYK1XXX
+  swift8: TDGFKYK1
+  branch_name: Head Office
+  branch_address: Scotiabank Building Georgetown
+  branch_code: XXX
+  city: Georgetown
+  country: Cayman Islands
+- name: Telluride Asset Management
+  swift: TEAEKYK1XXX
+  swift8: TEAEKYK1
+  branch_name: Head Office
+  branch_address: Maples and Calder Georgetown
+  branch_code: XXX
+  city: Georgetown
+  country: Cayman Islands
+- name: Tir (holdings) Limited
+  swift: STIRKYK1XXX
+  swift8: STIRKYK1
+  branch_name: Head Office
+  branch_address: Georgetown
+  branch_code: XXX
+  city: Georgetown
+  country: Cayman Islands
+- name: Towerbank, Ltd
+  swift: TOWEKYKYXXX
+  swift8: TOWEKYKY
+  branch_name: Head Office
+  branch_address: Georgetown
+  branch_code: XXX
+  city: Georgetown
+  country: Cayman Islands
+- name: Trade And Commerce Bank
+  swift: TCEBKYK1XXX
+  swift8: TCEBKYK1
+  branch_name: Head Office
+  branch_address: Georgetown
+  branch_code: XXX
+  city: Georgetown
+  country: Cayman Islands
+- name: Transcorp Bank
+  swift: TPBAKYK1XXX
+  swift8: TPBAKYK1
+  branch_name: Head Office
+  branch_address: Georgetown
+  branch_code: XXX
+  city: Georgetown
+  country: Cayman Islands
+- name: Transocean Bank And Trust, Ltd
+  swift: TRBTKYK1XXX
+  swift8: TRBTKYK1
+  branch_name: Head Office
+  branch_address: Elizabethan Square Georgetown
+  branch_code: XXX
+  city: Georgetown
+  country: Cayman Islands
+- name: Ubs Fund Service (cayman) Ltd
+  swift: UBSWKYKYXXX
+  swift8: UBSWKYKY
+  branch_name: Head Office
+  branch_address: 22 Elgin Avenue Georgetown
+  branch_code: XXX
+  city: Georgetown
+  country: Cayman Islands
+- name: Unicredit Bank Cayman Islands Ltd.
+  swift: BKAUKYK1XXX
+  swift8: BKAUKYK1
+  branch_name: Head Office
+  branch_address: Whitehall House Ky1-1206 Georgetown
+  branch_code: XXX
+  city: Georgetown
+  country: Cayman Islands
+- name: Vbt Bank And Trust,ltd.
+  swift: VBTBKYKYXXX
+  swift8: VBTBKYKY
+  branch_name: Head Office
+  branch_address: Flagship Building Ky1-1106 Grand Cayman
+  branch_code: XXX
+  city: Grand Cayman
+  country: Cayman Islands
+- name: Venezolano De Credito,cayman Branch,banco Universal
+  swift: VZCRKYKYXXX
+  swift8: VZCRKYKY
+  branch_name: Head Office
+  branch_address: Elizabethan Square Georgetown
+  branch_code: XXX
+  city: Georgetown
+  country: Cayman Islands
+- name: Vicis Capital Master Fund
+  swift: VCMFKYK1XXX
+  swift8: VCMFKYK1
+  branch_name: Head Office
+  branch_address: Caledonian House Ky1-1102 Georgetown
+  branch_code: XXX
+  city: Georgetown
+  country: Cayman Islands
+- name: Vr Advisory Services
+  swift: ADSRKYK1XXX
+  swift8: ADSRKYK1
+  branch_name: Head Office
+  branch_address: Admiral Financial Center Georgetown
+  branch_code: XXX
+  city: Georgetown
+  country: Cayman Islands
+- name: Wg Trading International Corporation
+  swift: TRIRKYK1XXX
+  swift8: TRIRKYK1
+  branch_name: Head Office
+  branch_address: Georgetown
+  branch_code: XXX
+  city: Georgetown
+  country: Cayman Islands
+- name: Wim Asset Management (cayman) Ltd
+  swift: WAMCKYK1XXX
+  swift8: WAMCKYK1
+  branch_name: Head Office
+  branch_address: 89 Nexus Way, Camana Bay 1-9007 Georgetown
+  branch_code: XXX
+  city: Georgetown
+  country: Cayman Islands
+- name: Xlit Ltd
+  swift: GROPKYKYXXX
+  swift8: GROPKYKY
+  branch_name: Head Office
+  branch_address: Ugland House Kt1 104 Grand Cayman
+  branch_code: XXX
+  city: Grand
+  country: Cayman Islands

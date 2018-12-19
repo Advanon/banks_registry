@@ -1,0 +1,370 @@
+---
+MK:
+- name: Alpha Bank Ad Skopje
+  swift: KRSKMK2XXXX
+  swift8: KRSKMK2X
+  branch_name: Head Office
+  branch_address: Dimitrie Cupovski 2 1000 Skopje
+  branch_code: XXX
+  city: Skopje
+  country: Macedonia
+- name: Arcelormittal Skopje (crm
+  swift: USINMK21XXX
+  swift8: USINMK21
+  branch_name: Head Office
+  branch_address: 16ta, Makedonska Brigada Br. 18 1000 Skopje
+  branch_code: XXX
+  city: Skopje
+  country: Macedonia
+- name: Bro-deal, Inc
+  swift: BDBKMK21XXX
+  swift8: BDBKMK21
+  branch_name: Head Office
+  branch_address: Partizanski Odredi Blvd. 3/11 160 Skopje
+  branch_code: XXX
+  city: Skopje
+  country: Macedonia
+- name: Broker House Postel-broker A.d
+  swift: POBRMK21XXX
+  swift8: POBRMK21
+  branch_name: Head Office
+  branch_address: Marx and Engels Str. 3 2 Skopje
+  branch_code: XXX
+  city: Skopje
+  country: Macedonia
+- name: Broker-sb A.d. Skopje Brokerage House Of Stopanska Banka Ad Skopje
+  swift: SBSBMK21XXX
+  swift8: SBSBMK21
+  branch_name: Head Office
+  branch_address: 11 Oktomvri Br. 7 1000 Skopje
+  branch_code: XXX
+  city: Skopje
+  country: Macedonia
+- name: Brokerage House Kb Broker Inc.skopje
+  swift: KBBRMK21XXX
+  swift8: KBBRMK21
+  branch_name: Head Office
+  branch_address: Kej Dimitar Vlahov 4 1000 Skopje
+  branch_code: XXX
+  city: Skopje
+  country: Macedonia
+- name: Brokerage House Makos-invest Broker Inc
+  swift: MIBRMK21XXX
+  swift8: MIBRMK21
+  branch_name: Head Office
+  branch_address: Mito Hadzivasilev Jasmin 20 1000 Skopje
+  branch_code: XXX
+  city: Skopje
+  country: Macedonia
+- name: Capital Bank Ad
+  swift: INPBMK21XXX
+  swift8: INPBMK21
+  branch_name: Head Office
+  branch_address: 36977 1000 Skopje
+  branch_code: XXX
+  city: Skopje
+  country: Macedonia
+- name: Central Cooperative Bank Ad Skopje
+  swift: CECBMK22XXX
+  swift8: CECBMK22
+  branch_name: Head Office
+  branch_address: Gradski Park - Gradski Stadion Bb 1000 Skopje
+  branch_code: XXX
+  city: Skopje
+  country: Macedonia
+- name: Central Securities Depository Jsc
+  swift: CDHVMK21XXX
+  swift8: CDHVMK21
+  branch_name: Head Office
+  branch_address: Kuzman Josifovski Pitu 1 1000 Skopje
+  branch_code: XXX
+  city: Skopje
+  country: Macedonia
+- name: Clearing House Interbank Clearing Systems
+  swift: KIBSMK21XXX
+  swift8: KIBSMK21
+  branch_name: Head Office
+  branch_address: Kuzman Josifovski Pitu 1 1000 Skopje
+  branch_code: XXX
+  city: Skopje
+  country: Macedonia
+- name: Eurostandard Bank Ad
+  swift: ESWBMK22XXX
+  swift8: ESWBMK22
+  branch_name: Head Office
+  branch_address: 27-Mi Mart B.B., Mal Ring, Centar 1000 Skopje
+  branch_code: XXX
+  city: Skopje
+  country: Macedonia
+- name: Fersped-broker Ad
+  swift: FLAMMK21XXX
+  swift8: FLAMMK21
+  branch_name: Head Office
+  branch_address: Veljko Vlahovic 11 160 Skopje
+  branch_code: XXX
+  city: Skopje
+  country: Macedonia
+- name: Halkbank Ad Skopje
+  swift: EXPCMK22XXX
+  swift8: EXPCMK22
+  branch_name: Head Office
+  branch_address: Bul. Mito-Hadzivasilev Jasmin Bb 1000 Skopje
+  branch_code: XXX
+  city: Skopje
+  country: Macedonia
+- name: Health Insurance Fund Of Macedonia
+  swift: HIFDMK21XXX
+  swift8: HIFDMK21
+  branch_name: Head Office
+  branch_address: St. Makedonija Bb 1000 Skopje
+  branch_code: XXX
+  city: Skopje
+  country: Macedonia
+- name: Kapital Banka Ad Skopje
+  swift: KAPBMK22XXX
+  swift8: KAPBMK22
+  branch_name: Head Office
+  branch_address: 36977 1000 Skopje
+  branch_code: XXX
+  city: Skopje
+  country: Macedonia
+- name: Komercijalna Banka Ad Skopje
+  swift: KOBSMK2XBTB
+  swift8: KOBSMK2X
+  branch_name: 7000 Bitola
+  branch_address: Leninova Bb 7000 Bitola
+  branch_code: BTB
+  city: Bitola
+  country: Macedonia
+- name: Komercijalna Banka Ad Skopje
+  swift: KOBSMK2XGVB
+  swift8: KOBSMK2X
+  branch_name: Gostivar Branch
+  branch_address: Ul. Goce Delcev Bb 1230 Gostivar
+  branch_code: GVB
+  city: Gostivar
+  country: Macedonia
+- name: Komercijalna Banka Ad Skopje
+  swift: KOBSMK2XKOB
+  swift8: KOBSMK2X
+  branch_name: Kocani Branch
+  branch_address: Kej Na Revolucija 5 2300 Kocani
+  branch_code: KOB
+  city: Kocani
+  country: Macedonia
+- name: Komercijalna Banka Ad Skopje
+  swift: KOBSMK2XKUB
+  swift8: KOBSMK2X
+  branch_name: 1300 Kumanovo
+  branch_address: Ul.Marsal Tito Bb 1300 Kumanovo
+  branch_code: KUB
+  city: Kumanovo
+  country: Macedonia
+- name: Komercijalna Banka Ad Skopje
+  swift: KOBSMK2XKVB
+  swift8: KOBSMK2X
+  branch_name: 1430 Kavadarci
+  branch_address: Marsal Tito Bb 1430 Kavadarci
+  branch_code: KVB
+  city: Kavadarci
+  country: Macedonia
+- name: Komercijalna Banka Ad Skopje
+  swift: KOBSMK2XOHB
+  swift8: KOBSMK2X
+  branch_name: Ohrid Branch
+  branch_address: Ohrid
+  branch_code: OHB
+  city: Ohrid
+  country: Macedonia
+- name: Komercijalna Banka Ad Skopje
+  swift: KOBSMK2XPRB
+  swift8: KOBSMK2X
+  branch_name: Prilep Branch
+  branch_address: Prilep
+  branch_code: PRB
+  city: Prilep
+  country: Macedonia
+- name: Komercijalna Banka Ad Skopje
+  swift: KOBSMK2XSRB
+  swift8: KOBSMK2X
+  branch_name: Strumica Branch
+  branch_address: Bul. Marsal Tito Bb. 2400 Strumica
+  branch_code: SRB
+  city: Strumica
+  country: Macedonia
+- name: Komercijalna Banka Ad Skopje
+  swift: KOBSMK2XSTB
+  swift8: KOBSMK2X
+  branch_name: Stip Branch
+  branch_address: Plostad Sloboda 1 2000 Stip
+  branch_code: STB
+  city: Stip
+  country: Macedonia
+- name: Komercijalna Banka Ad Skopje
+  swift: KOBSMK2XTEB
+  swift8: KOBSMK2X
+  branch_name: 1200 Tetovo
+  branch_address: Marsal Tito Bb 1200 Tetovo
+  branch_code: TEB
+  city: Tetovo
+  country: Macedonia
+- name: Komercijalna Banka Ad Skopje
+  swift: KOBSMK2XVEB
+  swift8: KOBSMK2X
+  branch_name: Veles Branch
+  branch_address: Ul. Marsal Tito 59 1400 Veles
+  branch_code: VEB
+  city: Veles
+  country: Macedonia
+- name: Komercijalna Banka Ad Skopje
+  swift: KOBSMK2XXXX
+  swift8: KOBSMK2X
+  branch_name: Head Office
+  branch_address: Ul Kej Dimitar Vlahovbr.4 91000 Skopje
+  branch_code: XXX
+  city: Skopje
+  country: Macedonia
+- name: Macedonian Bank For Development Promotion
+  swift: MBDPMK22XXX
+  swift8: MBDPMK22
+  branch_name: Head Office
+  branch_address: Ul. Veljko Vlahovic 26 1000 Skopje
+  branch_code: XXX
+  city: Skopje
+  country: Macedonia
+- name: Macedonian Stock Exchange Ad
+  swift: XMAEMK21XXX
+  swift8: XMAEMK21
+  branch_name: Head Office
+  branch_address: Orce Nikolov 75 91000 Skopje
+  branch_code: XXX
+  city: Skopje
+  country: Macedonia
+- name: Mak Broker Ad
+  swift: MBBRMK21XXX
+  swift8: MBBRMK21
+  branch_name: Head Office
+  branch_address: Partizanski Odredi Boulevard, 3 - 160 Skopje
+  branch_code: XXX
+  city: Skopje
+  country: Macedonia
+- name: Money Market And Short-term Securities Of The Rep. Of Macedonia
+  swift: PPHVMK21XXX
+  swift8: PPHVMK21
+  branch_name: Head Office
+  branch_address: Kompleks Banki Bb. Skopje
+  branch_code: XXX
+  city: Skopje
+  country: Macedonia
+- name: National Bank Of The Republic Of Macedonia
+  swift: NBRMMK2XXXX
+  swift8: NBRMMK2X
+  branch_name: Head Office
+  branch_address: Kompleks Banki B.B. 1000 Skopje
+  branch_code: XXX
+  city: Skopje
+  country: Macedonia
+- name: National Payment Card Ad
+  swift: NPKMMK21XXX
+  swift8: NPKMMK21
+  branch_name: Head Office
+  branch_address: Kuzman Josifovski Pitu 1 1000 Skopje
+  branch_code: XXX
+  city: Skopje
+  country: Macedonia
+- name: Nlb Tutunska Banka Ad
+  swift: TUTNMK22XXX
+  swift8: TUTNMK22
+  branch_name: Head Office
+  branch_address: 12 Makedonska Udarna Brigada 20 1000 Skopje
+  branch_code: XXX
+  city: Skopje
+  country: Macedonia
+- name: Ohridska Banka A.d. Ohrid
+  swift: OHRDMK22XXX
+  swift8: OHRDMK22
+  branch_name: Head Office
+  branch_address: Makedonski Prosvetiteli 19 96000 Ohrid
+  branch_code: XXX
+  city: Ohrid
+  country: Macedonia
+- name: Pelagoniska Banka Ad
+  swift: PELAMK21XXX
+  swift8: PELAMK21
+  branch_name: Head Office
+  branch_address: Gorce Petrov B.B. 7500 Prilep
+  branch_code: XXX
+  city: Prilep
+  country: Macedonia
+- name: Procredit Bank, Macedonia (formerly Pro Business Bank A.d. Skopje
+  swift: PRBUMK22XXX
+  swift8: PRBUMK22
+  branch_name: Head Office
+  branch_address: Jane Sandanski 109a 1000 Skopje
+  branch_code: XXX
+  city: Skopje
+  country: Macedonia
+- name: Sakses Brokers Inc
+  swift: SKBRMK21XXX
+  swift8: SKBRMK21
+  branch_name: Head Office
+  branch_address: Marsal Tito 19 160 Skopje
+  branch_code: XXX
+  city: Skopje
+  country: Macedonia
+- name: Sparkasse Bank Makedonija Ad Skopje
+  swift: INSBMK22XXX
+  swift8: INSBMK22
+  branch_name: Head Office
+  branch_address: Ul. Makedonija 9-11 1000 Skopje
+  branch_code: XXX
+  city: Skopje
+  country: Macedonia
+- name: Stopanska Banka A.d.
+  swift: STOBMK2XXXX
+  swift8: STOBMK2X
+  branch_name: Head Office
+  branch_address: 11 Oktomvri 7 91000 Skopje
+  branch_code: XXX
+  city: Skopje
+  country: Macedonia
+- name: Stopanska Banka Ad Bitola
+  swift: STBBMK22XXX
+  swift8: STBBMK22
+  branch_name: Head Office
+  branch_address: Dobrivoe Radosavljevic 21 Bitola
+  branch_code: XXX
+  city: Bitola
+  country: Macedonia
+- name: Ttk Banka Ad Skopje
+  swift: TTXBMK2XXXX
+  swift8: TTXBMK2X
+  branch_name: Head Office
+  branch_address: T.C. Berverlui Hils 1000 Skopje
+  branch_code: XXX
+  city: Skopje
+  country: Macedonia
+- name: Universal Investment Bank Ad Skopje (unibank
+  swift: UIBMMK22XXX
+  swift8: UIBMMK22
+  branch_name: Head Office
+  branch_address: 6 Maksim Gorki Street 1000 Skopje
+  branch_code: XXX
+  city: Skopje
+  country: Macedonia
+- name: Zavod Za Platen Promet
+  swift: KMBPMK21XXX
+  swift8: KMBPMK21
+  branch_name: Head Office
+  branch_address: K.J. Pitu 1 1000 Skopje
+  branch_code: XXX
+  city: Skopje
+  country: Macedonia
+- name: Zemjodelska Banka A.d.
+  swift: ZEMBMK21XXX
+  swift8: ZEMBMK21
+  branch_name: Head Office
+  branch_address: Vasil Glavinov 28/2 1000 Skopje
+  branch_code: XXX
+  city: Skopje
+  country: Macedonia

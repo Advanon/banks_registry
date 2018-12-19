@@ -1,0 +1,114 @@
+---
+CU:
+- name: Banco Central De Cuba
+  swift: BCCUCUHHSLB
+  swift8: BCCUCUHH
+  branch_name: Real Timegross Settlement Branch
+  branch_address: La Habana
+  branch_code: SLB
+  city: La Habana
+  country: Cuba
+- name: Banco Central De Cuba
+  swift: BCCUCUHHSUC
+  swift8: BCCUCUHH
+  branch_name: Sistema Unico De Compensacion Regional
+  branch_address: La Habana
+  branch_code: SUC
+  city: La Habana
+  country: Cuba
+- name: Banco Central De Cuba
+  swift: BCCUCUHHXXX
+  swift8: BCCUCUHH
+  branch_name: Head Office
+  branch_address: Aguiar 411 Esquina Lamparilla La Habana
+  branch_code: XXX
+  city: La Habana
+  country: Cuba
+- name: Banco De Credito Y Comercio
+  swift: BDCRCUHHXXX
+  swift8: BDCRCUHH
+  branch_name: Head Office
+  branch_address: Amargura 158 Eq.a Cuba 10100 La Habana
+  branch_code: XXX
+  city: La Habana
+  country: Cuba
+- name: Banco De Inversiones S.a.
+  swift: BICUCUHHXXX
+  swift8: BICUCUHH
+  branch_name: Head Office
+  branch_address: 5ta Av Y 68 Calle La Habana
+  branch_code: XXX
+  city: La Habana
+  country: Cuba
+- name: Banco Exterior De Cuba
+  swift: BECUCUHHXXX
+  swift8: BECUCUHH
+  branch_name: Head Office
+  branch_address: 23 Y P 10600 La Habana
+  branch_code: XXX
+  city: La Habana
+  country: Cuba
+- name: Banco Financiero Internacional, S.a.
+  swift: BFICCUHHXXX
+  swift8: BFICCUHH
+  branch_name: Head Office
+  branch_address: 5ta Avenida, 9009, Esquina 92 La Habana
+  branch_code: XXX
+  city: La Habana
+  country: Cuba
+- name: Banco Industrial De Venezuela-cuba S.a.
+  swift: INDSCUHHXXX
+  swift8: INDSCUHH
+  branch_name: Head Office
+  branch_address: Edf. Jerusalen Del Centro De La Habana
+  branch_code: XXX
+  city: La Habana
+  country: Cuba
+- name: Banco Internacional De Comercio S.a.
+  swift: BIDCCUHHXXX
+  swift8: BIDCCUHH
+  branch_name: Head Office
+  branch_address: 20 De Mayo Y Ayestaran, Plaza 10600 La Habana 7
+  branch_code: XXX
+  city: La Habana
+  country: Cuba
+- name: Banco Metropolitano S.a.
+  swift: BMNBCUHHXXX
+  swift8: BMNBCUHH
+  branch_name: Head Office
+  branch_address: Calle Linea 63 Esq. M. Vedado 10400 La Habana
+  branch_code: XXX
+  city: La Habana
+  country: Cuba
+- name: Banco Nacional De Cuba
+  swift: BNACCUHH011
+  swift8: BNACCUHH
+  branch_name: Division Central
+  branch_address: Aguiar 411 Lamparilla 10100 La Habana
+  branch_code: '011'
+  city: La Habana
+  country: Cuba
+- name: Banco Nacional De Cuba
+  swift: BNACCUHH613
+  swift8: BNACCUHH
+  branch_name: Division Comercial
+  branch_address: Amargura 158 Aguiar 10100 La Habana
+  branch_code: '613'
+  city: La Habana
+  country: Cuba
+- name: Banco Nacional De Cuba
+  swift: BNACCUHHXXX
+  swift8: BNACCUHH
+  branch_name: Head Office
+  branch_address: Banco Nacional De Cuba 10100 La Habana
+  branch_code: XXX
+  city: La Habana
+  country: Cuba
+- name: Banco Popular De Ahorro
+  swift: BPAHCUHHXXX
+  swift8: BPAHCUHH
+  branch_name: Head Office
+  branch_address: Calle 16 Nr 306 E/3ra Y 5ta La Habana
+  branch_code: XXX
+  city: La Habana
+  country: Cuba

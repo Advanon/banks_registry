@@ -1,0 +1,258 @@
+---
+MO:
+- name: Banco Bpi Sa
+  swift: BBPIMOMXXXX
+  swift8: BBPIMOMX
+  branch_name: Head Office
+  branch_address: Edificio China Law Macau
+  branch_code: XXX
+  city: Macau
+  country: Macao
+- name: Deutsche Bank Ag
+  swift: DEUTMOM1XXX
+  swift8: DEUTMOM1
+  branch_name: Head Office
+  branch_address: Macau
+  branch_code: XXX
+  city: Macau
+  country: Macao
+- name: Hongkong And Shanghai Banking Corporation Limited, The
+  swift: HSBCMOMXAAM
+  swift8: HSBCMOMX
+  branch_name: Macau
+  branch_address: Macau
+  branch_code: AAM
+  city: Macau
+  country: Macao
+- name: Hongkong And Shanghai Banking Corporation Limited, The
+  swift: HSBCMOMXXXX
+  swift8: HSBCMOMX
+  branch_name: Head Office
+  branch_address: 73-75 Rua Da Praia Grande Macau
+  branch_code: XXX
+  city: Macau
+  country: Macao
+- name: Standard Chartered Bank
+  swift: SCBLMOMXXXX
+  swift8: SCBLMOMX
+  branch_name: Head Office
+  branch_address: Office Tower, Macau Landmark Macau
+  branch_code: XXX
+  city: Macau
+  country: Macao
+- name: Autoridade Monetaria De Macau
+  swift: MFAMMOMXXXX
+  swift8: MFAMMOMX
+  branch_name: Head Office
+  branch_address: 24-26 Calcada Do Gaio Macau
+  branch_code: XXX
+  city: Macau
+  country: Macao
+- name: Banco Comercial De Macau, S.a.
+  swift: CMACMOMXXXX
+  swift8: CMACMOMX
+  branch_name: Head Office
+  branch_address: Avenida Da Praia Grande 572 Macau
+  branch_code: XXX
+  city: Macau
+  country: Macao
+- name: Banco Commercial Portugues
+  swift: BCOMMOMXXXX
+  swift8: BCOMMOMX
+  branch_name: Head Office
+  branch_address: Edificio Banco Da China Macau
+  branch_code: XXX
+  city: Macau
+  country: Macao
+- name: Banco Delta Asia S.a.r.l.
+  swift: DABGMOMXXXX
+  swift8: DABGMOMX
+  branch_name: Head Office
+  branch_address: 79 Avenida Conselheiro Macau
+  branch_code: XXX
+  city: Macau
+  country: Macao
+- name: Banco Espirito Santo Do Oriente, S.a.
+  swift: BESCMOMXXXX
+  swift8: BESCMOMX
+  branch_name: Head Office
+  branch_address: Bank of China Building Macau
+  branch_code: XXX
+  city: Macau
+  country: Macao
+- name: Banco Nacional Ultramarino, Sa
+  swift: BNULMOMXXXX
+  swift8: BNULMOMX
+  branch_name: Head Office
+  branch_address: 2 Avenida Almeida Ribeiro Macau
+  branch_code: XXX
+  city: Macau
+  country: Macao
+- name: Banco Weng Hang, S.a.(formerly Banco Weng Hang,s.ar.l.
+  swift: WIHBMOMXXXX
+  swift8: WIHBMOMX
+  branch_name: Head Office
+  branch_address: 241 Avenida De Almeida Ribeiro Macau
+  branch_code: XXX
+  city: Macau
+  country: Macao
+- name: Bank Of China, Macau Branch
+  swift: BKCHMOMXXXX
+  swift8: BKCHMOMX
+  branch_name: Head Office
+  branch_address: Bank of China Building Macau
+  branch_code: XXX
+  city: Macau
+  country: Macao
+- name: Bank Of Communications Co.,ltd. Macau Branch
+  swift: COMMMOMXXXX
+  swift8: COMMMOMX
+  branch_name: Head Office
+  branch_address: Aia Tower Macau
+  branch_code: XXX
+  city: Macau
+  country: Macao
+- name: Bank Sinopac (formerly Int'l Bank Of Taipei
+  swift: SINOMOMXXXX
+  swift8: SINOMOMX
+  branch_name: Head Office
+  branch_address: Finance and It Center of Macao Macau
+  branch_code: XXX
+  city: Macau
+  country: Macao
+- name: Caixa Economica Postal
+  swift: CIEPMOMXXXX
+  swift8: CIEPMOMX
+  branch_name: Head Office
+  branch_address: Rua Da Se S/N Macau
+  branch_code: XXX
+  city: Macau
+  country: Macao
+- name: Caixa Geral De Depositos, Sa-sucursal Offshore De Macau
+  swift: CGDIMOMXXXX
+  swift8: CGDIMOMX
+  branch_name: Head Office
+  branch_address: Av. Da Praia Grande No 567 Macau
+  branch_code: XXX
+  city: Macau
+  country: Macao
+- name: China Citic Bank International Limited Macau Branch
+  swift: KWHKMOMXXXX
+  swift8: KWHKMOMX
+  branch_name: Head Office
+  branch_address: Bank of China Building Macau
+  branch_code: XXX
+  city: Macau
+  country: Macao
+- name: China Construction Bank (macau) Corporation Limited
+  swift: CCBQMOMXXXX
+  swift8: CCBQMOMX
+  branch_name: Head Office
+  branch_address: 70-76 Avenida De Almeida Ribeiro Macau
+  branch_code: XXX
+  city: Macau
+  country: Macao
+- name: China Guangfa Bank Co., Ltd Macau Branch
+  swift: GDBKMOMXXXX
+  swift8: GDBKMOMX
+  branch_name: Head Office
+  branch_address: Avenida Da Praia Grande 269 Macau
+  branch_code: XXX
+  city: Macau
+  country: Macao
+- name: Chong Hing Bank Limited Macau Branch
+  swift: LCHBMOMXXXX
+  swift8: LCHBMOMX
+  branch_name: Head Office
+  branch_address: Tai Wah, Macau
+  branch_code: XXX
+  city: Macau
+  country: Macao
+- name: Citibank Na, Macau
+  swift: CITIMOMXXXX
+  swift8: CITIMOMX
+  branch_name: Head Office
+  branch_address: Macau Square Macau
+  branch_code: XXX
+  city: Macau
+  country: Macao
+- name: Dbs Bank (hong Kong) Limited, Macau Branch
+  swift: DBSSMOMXXXX
+  swift8: DBSSMOMX
+  branch_name: Head Office
+  branch_address: Edif. Ribeiro Macau
+  branch_code: XXX
+  city: Macau
+  country: Macao
+- name: First Commercial Bank, Macau Branch
+  swift: FCBKMOMXXXX
+  swift8: FCBKMOMX
+  branch_name: Head Office
+  branch_address: Finance and It Centre of Macau Macau
+  branch_code: XXX
+  city: Macau
+  country: Macao
+- name: Hang Seng Bank Limited,macau Branch
+  swift: HASEMOMXXXX
+  swift8: HASEMOMX
+  branch_name: Head Office
+  branch_address: Macau Square Macau
+  branch_code: XXX
+  city: Macau
+  country: Macao
+- name: Hua Nan Commercial Bank,ltd. Macau Branch
+  swift: HNBKMOMXXXX
+  swift8: HNBKMOMX
+  branch_name: Head Office
+  branch_address: Finance and It Centre Macau
+  branch_code: XXX
+  city: Macau
+  country: Macao
+- name: Industrial And Commercial Bank Of China (macau) Limited
+  swift: ICBKMOMXXXX
+  swift8: ICBKMOMX
+  branch_name: Head Office
+  branch_address: Macau Landmark Macau
+  branch_code: XXX
+  city: Macau
+  country: Macao
+- name: Luso International Banking Ltd.
+  swift: LUSOMOMXXXX
+  swift8: LUSOMOMX
+  branch_name: Head Office
+  branch_address: 47 Avenida Dr. Mario Soares Macau
+  branch_code: XXX
+  city: Macau
+  country: Macao
+- name: Tai Fung Bank Limited
+  swift: TFBLMOMXXXX
+  swift8: TFBLMOMX
+  branch_name: Head Office
+  branch_address: Tai Fung Bank Building Macau
+  branch_code: XXX
+  city: Macau
+  country: Macao
+- name: The Bank Of East Asia,limited Macau Branch
+  swift: BEASMOMXXXX
+  swift8: BEASMOMX
+  branch_name: Head Office
+  branch_address: Edf Tai Wah Macau
+  branch_code: XXX
+  city: Macau
+  country: Macao
+- name: The Macau Chinese Bank Limited
+  swift: MCHNMOMXXXX
+  swift8: MCHNMOMX
+  branch_name: Head Office
+  branch_address: The Macau Chinese Bank Building Macau
+  branch_code: XXX
+  city: Macau
+  country: Macao
+- name: Wing Lung Bank Limited Macau Branch
+  swift: WUBAMOMXXXX
+  swift8: WUBAMOMX
+  branch_name: Head Office
+  branch_address: Finance and Center of Macau Macau
+  branch_code: XXX
+  city: Macau
+  country: Macao

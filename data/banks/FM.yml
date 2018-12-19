@@ -1,0 +1,10 @@
+---
+FM:
+- name: Bank Of Hawaii-pohnpei Branch
+  swift: BOHIFMP1XXX
+  swift8: BOHIFMP1
+  branch_name: Kolonia
+  branch_address: Kolonia Area Pohnpei
+  branch_code: XXX
+  city: Pohnpei
+  country: Micronesia

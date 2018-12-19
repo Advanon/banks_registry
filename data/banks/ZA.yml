@@ -1,0 +1,2645 @@
+---
+ZA:
+- name: 28e Capital Pty Ltd
+  swift: ECATZAJ4XXX
+  swift8: ECATZAJ4
+  branch_name: Head Office
+  branch_address: Centurion Office Park Centurion 0048
+  branch_code: XXX
+  city: Centurion
+  country: South Africa
+- name: Absa Bank Limited
+  swift: ABSAZAJJCBF
+  swift8: ABSAZAJJ
+  branch_name: International Center Bloemfontein
+  branch_address: Bloemfontein
+  branch_code: CBF
+  city: Bloemfontein
+  country: South Africa
+- name: Absa Bank Limited
+  swift: ABSAZAJJCCT
+  swift8: ABSAZAJJ
+  branch_name: Corporate Banking Services-Western Cape476
+  branch_address: Cape Town
+  branch_code: CCT
+  city: Cape Town
+  country: South Africa
+- name: Absa Bank Limited
+  swift: ABSAZAJJCDB
+  swift8: ABSAZAJJ
+  branch_name: Corporate Banking Services-Natal479
+  branch_address: Durban
+  branch_code: CDB
+  city: Durban
+  country: South Africa
+- name: Absa Bank Limited
+  swift: ABSAZAJJACS
+  swift8: ABSAZAJJ
+  branch_name: Absa Capital Brokers
+  branch_address: Johannesburg
+  branch_code: ACS
+  city: Johannesburg
+  country: South Africa
+- name: Absa Bank Limited
+  swift: ABSAZAJJCWI
+  swift8: ABSAZAJJ
+  branch_name: Corporate Banking Services-Witwatersrand235
+  branch_address: Johannesburg
+  branch_code: CWI
+  city: Johannesburg
+  country: South Africa
+- name: Absa Bank Limited
+  swift: ABSAZAJJMG1
+  swift8: ABSAZAJJ
+  branch_name: Absa Issuing Agent
+  branch_address: Johannesburg
+  branch_code: MG1
+  city: Johannesburg
+  country: South Africa
+- name: Absa Bank Limited
+  swift: ABSAZAJJMG2
+  swift8: ABSAZAJJ
+  branch_name: Absa Trade Reporting
+  branch_address: Johannesburg
+  branch_code: MG2
+  city: Johannesburg
+  country: South Africa
+- name: Absa Bank Limited
+  swift: ABSAZAJJMG3
+  swift8: ABSAZAJJ
+  branch_name: Absa Custody
+  branch_address: Johannesburg
+  branch_code: MG3
+  city: Johannesburg
+  country: South Africa
+- name: Absa Bank Limited
+  swift: ABSAZAJJMMD
+  swift8: ABSAZAJJ
+  branch_name: Money Market Branch
+  branch_address: Johannesburg
+  branch_code: MMD
+  city: Johannesburg
+  country: South Africa
+- name: Absa Bank Limited
+  swift: ABSAZAJJREK
+  swift8: ABSAZAJJ
+  branch_name: Absa Reconcilitaion Division
+  branch_address: Johannesburg
+  branch_code: REK
+  city: Johannesburg
+  country: South Africa
+- name: Absa Bank Limited
+  swift: ABSAZAJJSLB
+  swift8: ABSAZAJJ
+  branch_name: Lending Division
+  branch_address: Johannesburg
+  branch_code: SLB
+  city: Johannesburg
+  country: South Africa
+- name: Absa Bank Limited
+  swift: ABSAZAJJTMS
+  swift8: ABSAZAJJ
+  branch_name: Money Market Branch
+  branch_address: Johannesburg
+  branch_code: TMS
+  city: Johannesburg
+  country: South Africa
+- name: Absa Bank Limited
+  swift: ABSAZAJJTRS
+  swift8: ABSAZAJJ
+  branch_name: Johannesburg
+  branch_address: Johannesburg
+  branch_code: TRS
+  city: Johannesburg
+  country: South Africa
+- name: Absa Bank Limited
+  swift: ABSAZAJJVOS
+  swift8: ABSAZAJJ
+  branch_name: Vostro Branch
+  branch_address: Johannesburg
+  branch_code: VOS
+  city: Johannesburg
+  country: South Africa
+- name: Absa Bank Limited
+  swift: ABSAZAJJXXX
+  swift8: ABSAZAJJ
+  branch_name: All South African Offices
+  branch_address: Absa Towers North Johannesburg 2001
+  branch_code: XXX
+  city: Johannesburg
+  country: South Africa
+- name: Absa Bank Limited
+  swift: ABSAZAJJCNE
+  swift8: ABSAZAJJ
+  branch_name: International Banking Centre Nelspruit449
+  branch_address: Nelspruit
+  branch_code: CNE
+  city: Nelspruit
+  country: South Africa
+- name: Absa Bank Limited
+  swift: ABSAZAJJCPE
+  swift8: ABSAZAJJ
+  branch_name: Corporate Banking Services-Eastern Cape480
+  branch_address: Port Elizabeth
+  branch_code: CPE
+  city: Port Elizabeth
+  country: South Africa
+- name: Absa Bank Limited
+  swift: ABSAZAJJCPT
+  swift8: ABSAZAJJ
+  branch_name: Corporate Banking Services-Northern Transvaal478
+  branch_address: Pretoria
+  branch_code: CPT
+  city: Pretoria
+  country: South Africa
+- name: Absa Bank Limited
+  swift: ABSAZAJJCRD
+  swift8: ABSAZAJJ
+  branch_name: Credit Card Admin Centre
+  branch_address: Pretoria
+  branch_code: CRD
+  city: Pretoria
+  country: South Africa
+- name: Absa Capital Securities
+  swift: ABSAZAJ3XXX
+  swift8: ABSAZAJ3
+  branch_name: Head Office
+  branch_address: 15 Alice Lane Sandton
+  branch_code: XXX
+  city: Sandton
+  country: South Africa
+- name: Absa Stockbrokers (Proprietary) Limited
+  swift: ABSAZAJ2XXX
+  swift8: ABSAZAJ2
+  branch_name: Head Office
+  branch_address: Jse Johannesburg 2001
+  branch_code: XXX
+  city: Johannesburg
+  country: South Africa
+- name: Abvest Associates Ltd
+  swift: ABVSZAJJXXX
+  swift8: ABVSZAJJ
+  branch_name: Head Office
+  branch_address: Swiss Re Building Claremont 7700
+  branch_code: XXX
+  city: Claremont
+  country: South Africa
+- name: African Bank Limited
+  swift: AFRCZAJJXXX
+  swift8: AFRCZAJJ
+  branch_name: Head Office
+  branch_address: Number 59-16th Road Johannesburg 1686
+  branch_code: XXX
+  city: Johannesburg
+  country: South Africa
+- name: Afrifocus Securities (Pty) Ltd
+  swift: AFRFZAJJXXX
+  swift8: AFRFZAJJ
+  branch_name: Head Office
+  branch_address: Weedon House Johannesburg 2196
+  branch_code: XXX
+  city: Johannesburg
+  country: South Africa
+- name: Albaraka Bank
+  swift: ALBRZAJJXXX
+  swift8: ALBRZAJJ
+  branch_name: Head Office
+  branch_address: Albaraka Bank Durban 4000
+  branch_code: XXX
+  city: Durban
+  country: South Africa
+- name: Allan Gray Limited
+  swift: GRAYZAJCXXX
+  swift8: GRAYZAJC
+  branch_name: Head Office
+  branch_address: Granger Bay Court Cape Town 8001
+  branch_code: XXX
+  city: Cape Town
+  country: South Africa
+- name: Allan Gray Limited
+  swift: AIICZAJ1XXX
+  swift8: AIICZAJ1
+  branch_name: Head Office
+  branch_address: Granger Bay Court Cape Town
+  branch_code: XXX
+  city: Cape Town
+  country: South Africa
+- name: Anglo American Sa Finance Limited
+  swift: AACLZAJJCIM
+  swift8: AACLZAJJ
+  branch_name: Johannesburg
+  branch_address: Johannesburg
+  branch_code: CIM
+  city: Johannesburg
+  country: South Africa
+- name: Anglo American Sa Finance Limited
+  swift: AACLZAJJXXX
+  swift8: AACLZAJJ
+  branch_name: Head Office
+  branch_address: Main Street 45 Johannesburg 2000
+  branch_code: XXX
+  city: Johannesburg
+  country: South Africa
+- name: Anglorand Securities Pty Ltd
+  swift: PALRZAJJXXX
+  swift8: PALRZAJJ
+  branch_name: Head Office
+  branch_address: The Stock Exchange Johannesburg 2001
+  branch_code: XXX
+  city: Johannesburg
+  country: South Africa
+- name: B.P. Bernstein
+  swift: BERNZAJJXXX
+  swift8: BERNZAJJ
+  branch_name: Head Office
+  branch_address: Johannesburg Stock Exchange Johannesburg 2001
+  branch_code: XXX
+  city: Johannesburg
+  country: South Africa
+- name: Bank Of Baroda
+  swift: BARBZAJJXXX
+  swift8: BARBZAJJ
+  branch_name: Head Office
+  branch_address: Cowey Park Durban
+  branch_code: XXX
+  city: Durban
+  country: South Africa
+- name: Bank Of Baroda
+  swift: BARBZAJJJNB
+  swift8: BARBZAJJ
+  branch_name: Johannesburg 2000
+  branch_address: Premises No 14 Johannesburg 2000
+  branch_code: JNB
+  city: Johannesburg
+  country: South Africa
+- name: Bank Of Taiwan, South Africa Branch
+  swift: BKTWZAJJXXX
+  swift8: BKTWZAJJ
+  branch_name: Head Office
+  branch_address: 11 Cradock Avenue Rosebank 2196
+  branch_code: XXX
+  city: Rosebank
+  country: South Africa
+- name: Bankserv Limited
+  swift: BKSVZAJJXXX
+  swift8: BKSVZAJJ
+  branch_name: Head Office
+  branch_address: 243 Booysens Road, Selby Johannesburg 2001
+  branch_code: XXX
+  city: Johannesburg
+  country: South Africa
+- name: Barnard Jacobs Mellet Private Client Services (Pty) Ltd
+  swift: BJMRZAJJXXX
+  swift8: BJMRZAJJ
+  branch_name: Head Office
+  branch_address: Rmb Building Sandton 2196
+  branch_code: XXX
+  city: Johannesburg
+  country: South Africa
+- name: Barnard Jacobs Mellett And Co (Pty) Limited
+  swift: SBJMZAJJXXX
+  swift8: SBJMZAJJ
+  branch_name: Head Office
+  branch_address: The Stock Exchange Johannesburg 2195
+  branch_code: XXX
+  city: Johannesburg
+  country: South Africa
+- name: Bnp Paribas
+  swift: BNPAZAJ1XXX
+  swift8: BNPAZAJ1
+  branch_name: Head Office
+  branch_address: Melrose Arch Piazza Melrose Arch 2196
+  branch_code: XXX
+  city: Melrose Arch
+  country: South Africa
+- name: Boe Stockbrokers (Pty) Ltd.
+  swift: NBOEZAJ2033
+  swift8: NBOEZAJ2
+  branch_name: Cape Town 8001
+  branch_address: Equity House Cape Town 8001
+  branch_code: '033'
+  city: Cape Town
+  country: South Africa
+- name: Boe Stockbrokers (Pty) Ltd.
+  swift: NBOEZAJ2044
+  swift8: NBOEZAJ2
+  branch_name: Johannesburg 2001
+  branch_address: The Stock Exchange Johannesburg 2001
+  branch_code: '044'
+  city: Johannesburg
+  country: South Africa
+- name: Boe Stockbrokers (Pty) Ltd.
+  swift: NBOEZAJ2INT
+  swift8: NBOEZAJ2
+  branch_name: Institutions Department
+  branch_address: Johannesburg
+  branch_code: INT
+  city: Johannesburg
+  country: South Africa
+- name: Boe Stockbrokers (Pty) Ltd.
+  swift: NBOEZAJ2PVT
+  swift8: NBOEZAJ2
+  branch_name: Private Clients Department
+  branch_address: Johannesburg
+  branch_code: PVT
+  city: Johannesburg
+  country: South Africa
+- name: Boe Stockbrokers (Pty) Ltd.
+  swift: NBOEZAJ2XXX
+  swift8: NBOEZAJ2
+  branch_name: Head Office
+  branch_address: Jse Johannesburg 2001
+  branch_code: XXX
+  city: Johannesburg
+  country: South Africa
+- name: Boe Stockbrokers (Pty) Ltd.
+  swift: NBOEZAJ2011
+  swift8: NBOEZAJ2
+  branch_name: Pietermaritzburg 3201
+  branch_address: Brasfort House Pietermaritzburg 3201
+  branch_code: '011'
+  city: Pietermaritzburg
+  country: South Africa
+- name: Bpi Capital Africa (Pty) Ltd
+  swift: BBPIZAJCXXX
+  swift8: BBPIZAJC
+  branch_name: Head Office
+  branch_address: Metropolitan Life Building Cape Town 8001
+  branch_code: XXX
+  city: Cape Town
+  country: South Africa
+- name: Brockhouse Cooper Sa Pty
+  swift: BROKZAJJXXX
+  swift8: BROKZAJJ
+  branch_name: Head Office
+  branch_address: Sandton Square Johannesburg 2146
+  branch_code: XXX
+  city: Johannesburg
+  country: South Africa
+- name: Business Connexion
+  swift: BCXGZAJMXXX
+  swift8: BCXGZAJM
+  branch_name: Head Office
+  branch_address: Block D - Business Connexion Park Midrand 1685
+  branch_code: XXX
+  city: Midrand
+  country: South Africa
+- name: Cadiz Stock Broking
+  swift: SPTSZAJJXXX
+  swift8: SPTSZAJJ
+  branch_name: Head Office
+  branch_address: 31 West Street, Johannesburg 2198
+  branch_code: XXX
+  city: Johannesburg
+  country: South Africa
+- name: Capitec Bank Limited
+  swift: CABLZAJJXXX
+  swift8: CABLZAJJ
+  branch_name: Head Office
+  branch_address: 10 Quantum Road Stellenbosch 7600
+  branch_code: XXX
+  city: Stellenbosch
+  country: South Africa
+- name: China Construction Bank Johannesburg Branch
+  swift: PCBCZAJJXXX
+  swift8: PCBCZAJJ
+  branch_name: Head Office
+  branch_address: Bowman Gilfillan Building Sandton 2197
+  branch_code: XXX
+  city: Sandton
+  country: South Africa
+- name: Citibank South Africa
+  swift: CITIZAJXTRD
+  swift8: CITIZAJX
+  branch_name: Trade Services Dept
+  branch_address: Sandton
+  branch_code: TRD
+  city: Sandton
+  country: South Africa
+- name: Citigroup Global Markets (Pty) Ltd
+  swift: SSBSZAJJXXX
+  swift8: SSBSZAJJ
+  branch_name: Head Office
+  branch_address: 145 West Street, Sandown, Sandton Johannesburg 2196
+  branch_code: XXX
+  city: Johannesburg
+  country: South Africa
+- name: Computershare Limited
+  swift: CSEVZAJJ100
+  swift8: CSEVZAJJ
+  branch_name: Johannesburg 2001
+  branch_address: 70 Marshall Street Johannesburg 2001
+  branch_code: '100'
+  city: Johannesburg
+  country: South Africa
+- name: Computershare Limited
+  swift: CSEVZAJJ200
+  swift8: CSEVZAJJ
+  branch_name: Johannesburg 2001
+  branch_address: Marshall Street 70 Johannesburg 2001
+  branch_code: '200'
+  city: Johannesburg
+  country: South Africa
+- name: Computershare Limited
+  swift: CSEVZAJJ300
+  swift8: CSEVZAJJ
+  branch_name: Johannesburg
+  branch_address: Johannesburg
+  branch_code: '300'
+  city: Johannesburg
+  country: South Africa
+- name: Computershare Limited
+  swift: CSEVZAJJXXX
+  swift8: CSEVZAJJ
+  branch_name: Head Office
+  branch_address: 70 Marshall Street Johannesburg 2001
+  branch_code: XXX
+  city: Johannesburg
+  country: South Africa
+- name: Consilium Capital (Sa) (Pty) Ltd.
+  swift: COCPZAJJXXX
+  swift8: COCPZAJJ
+  branch_name: Head Office
+  branch_address: President Place Johannesburg 2196
+  branch_code: XXX
+  city: Johannesburg
+  country: South Africa
+- name: Credit Suisse Securities (Johannesburg) (Pty) Ltd.
+  swift: CRESZAJJXXX
+  swift8: CRESZAJJ
+  branch_name: Head Office
+  branch_address: Inanda Greens Sandton 2196
+  branch_code: XXX
+  city: Sandton
+  country: South Africa
+- name: Deutsche Bank Ag
+  swift: DEUTZAJXGFX
+  swift8: DEUTZAJX
+  branch_name: Global Markets
+  branch_address: Deutsche Bank Ag Johannesburg 2196
+  branch_code: GFX
+  city: Johannesburg
+  country: South Africa
+- name: Deutsche Bank Ag
+  swift: DEUTZAJXXXX
+  swift8: DEUTZAJX
+  branch_name: Head Office
+  branch_address: Deutsche Bank Ag Johannesburg 2196
+  branch_code: XXX
+  city: Johannesburg
+  country: South Africa
+- name: Deutsche Securities Pty Ltd
+  swift: IVJRZAJJXXX
+  swift8: IVJRZAJJ
+  branch_name: Head Office
+  branch_address: The Stock Exchange Johannesburg 2001
+  branch_code: XXX
+  city: Johannesburg
+  country: South Africa
+- name: Deutsche Securities Pty Ltd
+  swift: IVJRZAJ10JC
+  swift8: IVJRZAJ1
+  branch_name: Cape Town 8001
+  branch_address: Shell House Cape Town 8001
+  branch_code: 0JC
+  city: Cape Town
+  country: South Africa
+- name: Development Bank Of Southern Africa Limited
+  swift: DESFZAJMXXX
+  swift8: DESFZAJM
+  branch_name: Head Office
+  branch_address: 1258 Lever Road Midrand 1685
+  branch_code: XXX
+  city: Midrand
+  country: South Africa
+- name: Eskom Treasury
+  swift: ESKOZAJJXXX
+  swift8: ESKOZAJJ
+  branch_name: Head Office
+  branch_address: Megawatt Park Johannesburg 2146
+  branch_code: XXX
+  city: Johannesburg
+  country: South Africa
+- name: Ffo Securities (Pty) Ltd
+  swift: FFOSZAJJXXX
+  swift8: FFOSZAJJ
+  branch_name: Head Office
+  branch_address: Metropolitan Building Johannesburg 1709
+  branch_code: XXX
+  city: Johannesburg
+  country: South Africa
+- name: Firstrand Bank Ltd Head Office Incl. Divisions First National Bank, Fnb Corporate
+    And Rand Merchant Bank
+  swift: FIRNZAJJ896
+  swift8: FIRNZAJJ
+  branch_name: Custody Services, International Banking
+  branch_address: 3, First Place, Bank City Johannesburg 2000
+  branch_code: '896'
+  city: Johannesburg
+  country: South Africa
+- name: Firstrand Bank Ltd Head Office Incl. Divisions First National Bank, Fnb Corporate
+    And Rand Merchant Bank
+  swift: FIRNZAJJRSL
+  swift8: FIRNZAJJ
+  branch_name: Johannesburg
+  branch_address: Johannesburg
+  branch_code: RSL
+  city: Johannesburg
+  country: South Africa
+- name: Firstrand Bank Ltd Head Office Incl. Divisions First National Bank, Fnb Corporate
+    And Rand Merchant Bank
+  swift: FIRNZAJJXXX
+  swift8: FIRNZAJJ
+  branch_name: Head Office and All South African Offices
+  branch_address: Bankcity Johannesburg Gauteng 2000
+  branch_code: XXX
+  city: Johannesburg
+  country: South Africa
+- name: Four M Traders (Pty) Ltd
+  swift: FORMZAJJXXX
+  swift8: FORMZAJJ
+  branch_name: Head Office
+  branch_address: 24 Crescent Drive Melrose Arch 2196
+  branch_code: XXX
+  city: Melrose Arch
+  country: South Africa
+- name: Genbel Securities Ltd
+  swift: GBSEZAJJXXX
+  swift8: GBSEZAJJ
+  branch_name: Head Office
+  branch_address: Block a Johannesburg 2196
+  branch_code: XXX
+  city: Johannesburg
+  country: South Africa
+- name: Golden Dividend 531 (Pty) Ltd
+  swift: GDPTZAJJXXX
+  swift8: GDPTZAJJ
+  branch_name: Head Office
+  branch_address: Block A, Rochester Place Johannesburg 2196
+  branch_code: XXX
+  city: Johannesburg
+  country: South Africa
+- name: Grindrod Bank Limited
+  swift: GRIDZAJJXXX
+  swift8: GRIDZAJJ
+  branch_name: Head Office
+  branch_address: Kingsmead Office Park Durban 4001
+  branch_code: XXX
+  city: Durban
+  country: South Africa
+- name: Habib Overseas Bank Limited
+  swift: HOBLZAJJXXX
+  swift8: HOBLZAJJ
+  branch_name: Head Office
+  branch_address: N-77 North Mall, Oriental Plaza Johannesburg 2107
+  branch_code: XXX
+  city: Johannesburg
+  country: South Africa
+- name: Hbz Bank Limited
+  swift: HBZHZAJJXXX
+  swift8: HBZHZAJJ
+  branch_name: Head Office
+  branch_address: 209 Grey Street Durban 4052
+  branch_code: XXX
+  city: Durban
+  country: South Africa
+- name: Hsbc Securities (South Africa) (Pty) Ltd
+  swift: SMJCZAJC011
+  swift8: SMJCZAJC
+  branch_name: Johannesburg 2001
+  branch_address: First National House Johannesburg 2001
+  branch_code: '011'
+  city: Johannesburg
+  country: South Africa
+- name: Hsbc Securities (South Africa) (Pty) Ltd
+  swift: SMJCZAJCWHK
+  swift8: SMJCZAJC
+  branch_name: Whk Branch
+  branch_address: Hsbc Place Johannesburg 2041
+  branch_code: WHK
+  city: Johannesburg
+  country: South Africa
+- name: Hsbc Securities (South Africa) (Pty) Ltd
+  swift: SMJCZAJCXXX
+  swift8: SMJCZAJC
+  branch_name: Houghton
+  branch_address: Hsbc Place Johannesburg 2041
+  branch_code: XXX
+  city: Johannesburg
+  country: South Africa
+- name: Hsbc Securities (South Africa) (Pty) Ltd
+  swift: SMJCZAJC022
+  swift8: SMJCZAJC
+  branch_name: Rondebosch 7700
+  branch_address: East Block Tannery Park Rondebosch 7700
+  branch_code: '022'
+  city: Rondebosch
+  country: South Africa
+- name: Imara S.P. Reid (Pty) Ltd.
+  swift: REMAZAJJXXX
+  swift8: REMAZAJJ
+  branch_name: Head Office
+  branch_address: Broll House Johannesburg 2196
+  branch_code: XXX
+  city: Johannesburg
+  country: South Africa
+- name: Independent Securities (Pty) Ltd
+  swift: ISECZAJJXXX
+  swift8: ISECZAJJ
+  branch_name: Head Office
+  branch_address: Marshalltown Johannesburg 2107
+  branch_code: XXX
+  city: Johannesburg
+  country: South Africa
+- name: Independent Securities (Pty) Ltd
+  swift: ISZAZAJ1XXX
+  swift8: ISZAZAJ1
+  branch_name: Head Office
+  branch_address: Real Africa House Johannesburg
+  branch_code: XXX
+  city: Johannesburg
+  country: South Africa
+- name: Investec Bank Ltd.
+  swift: IVESZAJJXXX
+  swift8: IVESZAJJ
+  branch_name: Head Office
+  branch_address: Grayston Drive 100 Sandton 2196
+  branch_code: XXX
+  city: Sandton
+  country: South Africa
+- name: Investec Securities Ltd.
+  swift: IVESZAJ2011
+  swift8: IVESZAJ2
+  branch_name: Johannesburg 2001
+  branch_address: Jse Johannesburg 2001
+  branch_code: '011'
+  city: Johannesburg
+  country: South Africa
+- name: Investec Securities Ltd.
+  swift: IVESZAJ2XXX
+  swift8: IVESZAJ2
+  branch_name: Head Office
+  branch_address: Jse Johannesburg 2001
+  branch_code: XXX
+  city: Johannesburg
+  country: South Africa
+- name: Jp Morgan Chase Bank, N.A
+  swift: MGTCZAJJKEY
+  swift8: MGTCZAJJ
+  branch_name: Test Key and Bke Administration
+  branch_address: Johannesburg
+  branch_code: KEY
+  city: Johannesburg
+  country: South Africa
+- name: Jp Morgan Chase Bank, N.A
+  swift: MGTCZAJJXXX
+  swift8: MGTCZAJJ
+  branch_name: Head Office
+  branch_address: Private Bag X9936 Sandton Johannesburg 2146
+  branch_code: XXX
+  city: Johannesburg
+  country: South Africa
+- name: Jp Morgan Equities Limited
+  swift: JPMEZAJJXXX
+  swift8: JPMEZAJJ
+  branch_name: Head Office
+  branch_address: 1 Fricker Road, Illovo Johannesburg 2196
+  branch_code: XXX
+  city: Johannesburg
+  country: South Africa
+- name: Jp Morgan Equities Limited
+  swift: JPMEZAJJ022
+  swift8: JPMEZAJJ
+  branch_name: Pietermaritzburg 3201
+  branch_address: Ep Building Society Building Pietermaritzburg 3201
+  branch_code: '022'
+  city: Pietermaritzburg
+  country: South Africa
+- name: Jp Morgan Equities Limited
+  swift: JPMEZAJJ033
+  swift8: JPMEZAJJ
+  branch_name: Rosebank 2196
+  branch_address: Westwing Nantai Crescent Rosebank 2196
+  branch_code: '033'
+  city: Rosebank
+  country: South Africa
+- name: Jpmorgan Administration (Pty) Ltd
+  swift: TAFAZAJCXXX
+  swift8: TAFAZAJC
+  branch_name: Head Office
+  branch_address: Building 2 Cape Town 7530
+  branch_code: XXX
+  city: Cape Town
+  country: South Africa
+- name: Jpmorgan Securities South Africa
+  swift: JPMSZAJJKEY
+  swift8: JPMSZAJJ
+  branch_name: Test Key and Bke Administration
+  branch_address: Johannesburg
+  branch_code: KEY
+  city: Johannesburg
+  country: South Africa
+- name: Jpmorgan Securities South Africa
+  swift: JPMSZAJJXXX
+  swift8: JPMSZAJJ
+  branch_name: Head Office
+  branch_address: Johannesburg
+  branch_code: XXX
+  city: Johannesburg
+  country: South Africa
+- name: Jse Limited
+  swift: XJSEZAJJISN
+  swift8: XJSEZAJJ
+  branch_name: Settlement Authority-Money Markets Isins
+  branch_address: Sandton
+  branch_code: ISN
+  city: Sandton
+  country: South Africa
+- name: Jse Limited
+  swift: XJSEZAJJMRG
+  swift8: XJSEZAJJ
+  branch_name: Settlement Authority-Margining
+  branch_address: Sandton
+  branch_code: MRG
+  city: Sandton
+  country: South Africa
+- name: Jse Limited
+  swift: XJSEZAJJSAT
+  swift8: XJSEZAJJ
+  branch_name: Settlement Authority
+  branch_address: Sandton
+  branch_code: SAT
+  city: Sandton
+  country: South Africa
+- name: Jse Limited
+  swift: XJSEZAJJSFX
+  swift8: XJSEZAJJ
+  branch_name: Jse Limited Safex
+  branch_address: Sandton
+  branch_code: SFX
+  city: Sandton
+  country: South Africa
+- name: Jse Limited
+  swift: XJSEZAJJSLB
+  swift8: XJSEZAJJ
+  branch_name: Settlement Authority Securities Lending Desk
+  branch_address: Sandton
+  branch_code: SLB
+  city: Sandton
+  country: South Africa
+- name: Jse Limited
+  swift: XJSEZAJJXXX
+  swift8: XJSEZAJJ
+  branch_name: Head Office
+  branch_address: One Exchange Square Sandton
+  branch_code: XXX
+  city: Sandton
+  country: South Africa
+- name: Legae Securities (Pty) Ltd.
+  swift: LESPZAJJXXX
+  swift8: LESPZAJJ
+  branch_name: Head Office
+  branch_address: Jse Johannesburg 2001
+  branch_code: XXX
+  city: Johannesburg
+  country: South Africa
+- name: Macquarie First South Equities (Pty) Ltd
+  swift: MFSQZAJJXXX
+  swift8: MFSQZAJJ
+  branch_name: Head Office
+  branch_address: Macquarie First South Office Park Johannesburg 2193
+  branch_code: XXX
+  city: Johannesburg
+  country: South Africa
+- name: Macquarie First South Securities (Proprietary) Limited
+  swift: FSSEZAJJXXX
+  swift8: FSSEZAJJ
+  branch_name: Head Office
+  branch_address: Macquarie First South Off Park Parktown Jhb 2193
+  branch_code: XXX
+  city: Parktown
+  country: South Africa
+- name: Maitland Fund Services (Pty) Ltd
+  swift: FNSOZAJCXXX
+  swift8: FNSOZAJC
+  branch_name: Head Office
+  branch_address: Maitland House Riverpark Cape Town Ct 8000
+  branch_code: XXX
+  city: Cape Town
+  country: South Africa
+- name: Mercantile Bank Ltd
+  swift: LISAZAJJXXX
+  swift8: LISAZAJJ
+  branch_name: Head Office
+  branch_address: Mercantile Lisbon House Sandton 2146
+  branch_code: XXX
+  city: Sandton
+  country: South Africa
+- name: Merrill Lynch South Africa (Proprietary) Limited
+  swift: SBKHZAJJXXX
+  swift8: SBKHZAJJ
+  branch_name: Head Office
+  branch_address: 27 Diagonal Street Johannesburg 2001
+  branch_code: XXX
+  city: Johannesburg
+  country: South Africa
+- name: Navigare Securities Pty Ltd
+  swift: NAVGZAJJXXX
+  swift8: NAVGZAJJ
+  branch_name: Head Office
+  branch_address: 51 West Street Johannesburg 2198
+  branch_code: XXX
+  city: Johannesburg
+  country: South Africa
+- name: Nedbank Limited
+  swift: NEDSZAJJXXX
+  swift8: NEDSZAJJ
+  branch_name: Head Office
+  branch_address: Nedcor Park 1 Johannesburg 2000
+  branch_code: XXX
+  city: Johannesburg
+  country: South Africa
+- name: Noah Financial Innovation (Proprietary) Limited
+  swift: METLZAJJXXX
+  swift8: METLZAJJ
+  branch_name: Head Office
+  branch_address: 25 Sturdee Avenue Rosebank Johannesburg 2196
+  branch_code: XXX
+  city: Johannesburg
+  country: South Africa
+- name: Nvest Securities (Pty) Ltd
+  swift: NVSEZAJCXXX
+  swift8: NVSEZAJC
+  branch_name: Head Office
+  branch_address: Nfb House East London 5241
+  branch_code: XXX
+  city: East London
+  country: South Africa
+- name: Old Mutual Investment Group(Sa) Pty Ltd
+  swift: OMAMZAJCXXX
+  swift8: OMAMZAJC
+  branch_name: Head Office
+  branch_address: Mutual Park Cape Town 7405
+  branch_code: XXX
+  city: Cape Town
+  country: South Africa
+- name: Online Securities Limited
+  swift: PSSYZAJJXXX
+  swift8: PSSYZAJJ
+  branch_name: Head Office
+  branch_address: Johannesburg 2107
+  branch_code: XXX
+  city: Johannesburg
+  country: South Africa
+- name: Peregrine Equities(Pty)Limited
+  swift: PRSMZAJJXXX
+  swift8: PRSMZAJJ
+  branch_name: Head Office
+  branch_address: Peregrine House Johannesburg
+  branch_code: XXX
+  city: Johannesburg
+  country: South Africa
+- name: Philippus De Witt (Pty) Ltd
+  swift: WIMOZAJJXXX
+  swift8: WIMOZAJJ
+  branch_name: Head Office
+  branch_address: Jse Building Johannesburg 2000
+  branch_code: XXX
+  city: Johannesburg
+  country: South Africa
+- name: Philippus De Witt (Pty) Ltd
+  swift: WIMOZAJJPRE
+  swift8: WIMOZAJJ
+  branch_name: Pretoria Branch
+  branch_address: 801 Arcadia Street Pretoria 0007
+  branch_code: PRE
+  city: Pretoria
+  country: South Africa
+- name: Prescient Investment Management
+  swift: PRVGZAJCXXX
+  swift8: PRVGZAJC
+  branch_name: Head Office
+  branch_address: Prescient House Cape Town 7945
+  branch_code: XXX
+  city: Cape Town
+  country: South Africa
+- name: Prescient Securities Pty Ltd
+  swift: PCNTZAJCXXX
+  swift8: PCNTZAJC
+  branch_name: Head Office
+  branch_address: Alphem Hotel Constantia 7806
+  branch_code: XXX
+  city: Constantia
+  country: South Africa
+- name: Prime Securities (Pty) Ltd
+  swift: PSERZAJCXXX
+  swift8: PSERZAJC
+  branch_name: Head Office
+  branch_address: The Cliffs Cape Town 7536
+  branch_code: XXX
+  city: Cape Town
+  country: South Africa
+- name: Prudential Portfolio Managers (Sa) (Pty) Ltd
+  swift: PPMTZAJCXXX
+  swift8: PPMTZAJC
+  branch_name: Head Office
+  branch_address: Protea Place Claremont 7708
+  branch_code: XXX
+  city: Claremont
+  country: South Africa
+- name: Regiments Securities Limited
+  swift: REGMZAJJXXX
+  swift8: REGMZAJJ
+  branch_name: Head Office
+  branch_address: Metropolitan Building Roodepoort 1715
+  branch_code: XXX
+  city: Roodepoort
+  country: South Africa
+- name: Riscura Solutions Pty (Ltd)
+  swift: RISPZAJCXXX
+  swift8: RISPZAJC
+  branch_name: Head Office
+  branch_address: Montclare Place Cape Town 7735
+  branch_code: XXX
+  city: Cape Town
+  country: South Africa
+- name: Rmb Asset Management (Pty) Ltd
+  swift: RMBAZAJJXXX
+  swift8: RMBAZAJJ
+  branch_name: Head Office
+  branch_address: 1 Merchant Place Sandton 2196
+  branch_code: XXX
+  city: Sandton
+  country: South Africa
+- name: Rmb Securities (Pty) Limited
+  swift: RMBSZAJJJSE
+  swift8: RMBSZAJJ
+  branch_name: Jse Settlement Office
+  branch_address: Jse Annexe Johannesburg 2001
+  branch_code: JSE
+  city: Johannesburg
+  country: South Africa
+- name: Rmb Securities (Pty) Limited
+  swift: RMBSZAJJXXX
+  swift8: RMBSZAJJ
+  branch_name: Head Office
+  branch_address: 1 Merchant Place Johannesburg 2196
+  branch_code: XXX
+  city: Johannesburg
+  country: South Africa
+- name: Rmb Stockbroking (Pty) Ltd
+  swift: FNEQZAJJXXX
+  swift8: FNEQZAJJ
+  branch_name: Head Office
+  branch_address: Sandton 2146
+  branch_code: XXX
+  city: Sandton
+  country: South Africa
+- name: Sa Stock Brokers (Pty) Ltd
+  swift: SBPTZAJJXXX
+  swift8: SBPTZAJJ
+  branch_name: Head Office
+  branch_address: Johannesburg Stock Exchange Johannesburg 2000
+  branch_code: XXX
+  city: Johannesburg
+  country: South Africa
+- name: Sanlam Capital Markets
+  swift: GBSEZAJ2XXX
+  swift8: GBSEZAJ2
+  branch_name: Head Office
+  branch_address: Block a Johannesburg 2096
+  branch_code: XXX
+  city: Johannesburg
+  country: South Africa
+- name: Sanlam Investment Management
+  swift: SANLZAJCXXX
+  swift8: SANLZAJC
+  branch_name: Head Office
+  branch_address: Sanlam Investment Building Bellville 7530
+  branch_code: XXX
+  city: Bellville
+  country: South Africa
+- name: Sanlam Securities (Pty) Ltd
+  swift: GBSEZAJ3XXX
+  swift8: GBSEZAJ3
+  branch_name: Head Office
+  branch_address: Sanlam Hyde Park Johannesburg 2196
+  branch_code: XXX
+  city: Johannesburg
+  country: South Africa
+- name: Sasfin Bank Limited
+  swift: SASFZAJJXXX
+  swift8: SASFZAJJ
+  branch_name: Head Office
+  branch_address: Sasfin Place Johannesburg 2090
+  branch_code: XXX
+  city: Johannesburg
+  country: South Africa
+- name: Sasfin Frankel Pollak Securities (Pty) Ltd
+  swift: SFPSZAJJ044
+  swift8: SFPSZAJJ
+  branch_name: Benoni 1500
+  branch_address: 50 Cranbourne Avenue Benoni 1500
+  branch_code: '044'
+  city: Benoni
+  country: South Africa
+- name: Sasfin Frankel Pollak Securities (Pty) Ltd
+  swift: SFPSZAJJ055
+  swift8: SFPSZAJJ
+  branch_name: Cape Town 8001
+  branch_address: 62 Strand Street Cape Town 8001
+  branch_code: '055'
+  city: Cape Town
+  country: South Africa
+- name: Sasfin Frankel Pollak Securities (Pty) Ltd
+  swift: SFPSZAJJ066
+  swift8: SFPSZAJJ
+  branch_name: Durban 4001
+  branch_address: General Building Durban 4001
+  branch_code: '066'
+  city: Durban
+  country: South Africa
+- name: Sasfin Frankel Pollak Securities (Pty) Ltd
+  swift: SFPSZAJJ033
+  swift8: SFPSZAJJ
+  branch_name: Johannesburg 2001
+  branch_address: The Stock Exchange Johannesburg 2001
+  branch_code: '033'
+  city: Johannesburg
+  country: South Africa
+- name: Sasfin Frankel Pollak Securities (Pty) Ltd
+  swift: SFPSZAJJXXX
+  swift8: SFPSZAJJ
+  branch_name: Head Office
+  branch_address: Sasfin Place Johannesburg 2001
+  branch_code: XXX
+  city: Johannesburg
+  country: South Africa
+- name: Sasfin Frankel Pollak Securities (Pty) Ltd
+  swift: SFPSZAJJ022
+  swift8: SFPSZAJJ
+  branch_name: Sandton 2196
+  branch_address: Office Towers Sandton 2196
+  branch_code: '022'
+  city: Sandton
+  country: South Africa
+- name: Sbg Securities (Pty) Limited
+  swift: SBEQZAJJXXX
+  swift8: SBEQZAJJ
+  branch_name: Head Office
+  branch_address: 3 Simmonds Johannesburg 2001
+  branch_code: XXX
+  city: Johannesburg
+  country: South Africa
+- name: Societe Generale, Johannesburg Branch
+  swift: SOGEZAJJSGS
+  swift8: SOGEZAJJ
+  branch_name: Securities Branch
+  branch_address: Johannesburg
+  branch_code: SGS
+  city: Johannesburg
+  country: South Africa
+- name: Societe Generale, Johannesburg Branch
+  swift: SOGEZAJJSLB
+  swift8: SOGEZAJJ
+  branch_name: Securities Lending and Borowing
+  branch_address: 30 Wellington Road Parktown Johannesburg 2000
+  branch_code: SLB
+  city: Johannesburg
+  country: South Africa
+- name: Societe Generale, Johannesburg Branch
+  swift: SOGEZAJJXXX
+  swift8: SOGEZAJJ
+  branch_name: Head Office
+  branch_address: 160 Jan Smuts Avenue Johannesburg 2196
+  branch_code: XXX
+  city: Johannesburg
+  country: South Africa
+- name: South African Bank Of Athens Limited, The
+  swift: BATHZAJJXXX
+  swift8: BATHZAJJ
+  branch_name: Head Office
+  branch_address: Bank of Athens Building Johannesburg 2001
+  branch_code: XXX
+  city: Johannesburg
+  country: South Africa
+- name: South African Reserve Bank
+  swift: SARBZAJ5XXX
+  swift8: SARBZAJ5
+  branch_name: Head Office
+  branch_address: South Afrcian Reserve Bank Pretoria 0001
+  branch_code: XXX
+  city: Pretoria
+  country: South Africa
+- name: South African Reserve Bank
+  swift: SARBZAJ6XXX
+  swift8: SARBZAJ6
+  branch_name: Head Office
+  branch_address: 370 Church Street Pretoria 0001
+  branch_code: XXX
+  city: Pretoria
+  country: South Africa
+- name: South African Reserve Bank
+  swift: SARBZAJHXXX
+  swift8: SARBZAJH
+  branch_name: Head Office
+  branch_address: 370 Church Street Pretoria 0001
+  branch_code: XXX
+  city: Pretoria
+  country: South Africa
+- name: South African Reserve Bank
+  swift: SARBZAJPXXX
+  swift8: SARBZAJP
+  branch_name: Head Office
+  branch_address: 370 Church Street Pretoria 0001
+  branch_code: XXX
+  city: Pretoria
+  country: South Africa
+- name: South African Reserve Bank
+  swift: SARBZAJ4XXX
+  swift8: SARBZAJ4
+  branch_name: Head Office
+  branch_address: Pretoria
+  branch_code: XXX
+  city: Pretoria
+  country: South Africa
+- name: South African Reserve Bank
+  swift: SARBZAJSXXX
+  swift8: SARBZAJS
+  branch_name: Head Office
+  branch_address: Church Street 370 Pretoria
+  branch_code: XXX
+  city: Pretoria
+  country: South Africa
+- name: Standard Bank Of South Africa Limited,The
+  swift: SBZAZAJJAFR
+  swift8: SBZAZAJJ
+  branch_name: Africa Custody Network
+  branch_address: Johannesburg
+  branch_code: AFR
+  city: Johannesburg
+  country: South Africa
+- name: Standard Bank Of South Africa Limited,The
+  swift: SBZAZAJJBOL
+  swift8: SBZAZAJJ
+  branch_name: Cash Reporting
+  branch_address: Johannesburg
+  branch_code: BOL
+  city: Johannesburg
+  country: South Africa
+- name: Standard Bank Of South Africa Limited,The
+  swift: SBZAZAJJCLS
+  swift8: SBZAZAJJ
+  branch_name: Continuous Link Settlement
+  branch_address: Johannesburg
+  branch_code: CLS
+  city: Johannesburg
+  country: South Africa
+- name: Standard Bank Of South Africa Limited,The
+  swift: SBZAZAJJFSL
+  swift8: SBZAZAJJ
+  branch_name: Securities Lending
+  branch_address: Johannesburg
+  branch_code: FSL
+  city: Johannesburg
+  country: South Africa
+- name: Standard Bank Of South Africa Limited,The
+  swift: SBZAZAJJICM
+  swift8: SBZAZAJJ
+  branch_name: International Banking System Users
+  branch_address: Johannesburg
+  branch_code: ICM
+  city: Johannesburg
+  country: South Africa
+- name: Standard Bank Of South Africa Limited,The
+  swift: SBZAZAJJPLM
+  swift8: SBZAZAJJ
+  branch_name: Pan African Liquidity Management
+  branch_address: Johannesburg
+  branch_code: PLM
+  city: Johannesburg
+  country: South Africa
+- name: Standard Bank Of South Africa Limited,The
+  swift: SBZAZAJJXXX
+  swift8: SBZAZAJJ
+  branch_name: Head Office and All South African Offices
+  branch_address: Standard Bank Centre Johannesburg 2001
+  branch_code: XXX
+  city: Johannesburg
+  country: South Africa
+- name: Standard Bank Of South Africa Limited,The
+  swift: SBZAZAJJATG
+  swift8: SBZAZAJJ
+  branch_name: No branch name
+  branch_address: No branch address
+  branch_code: ATG
+  city: Johannesburg
+  country: South Africa
+- name: Standard Chartered Bank
+  swift: SCBLZAJJSSU
+  swift8: SCBLZAJJ
+  branch_name: Securities Services
+  branch_address: Johannesburg
+  branch_code: SSU
+  city: Johannesburg
+  country: South Africa
+- name: Standard Chartered Bank
+  swift: SCBLZAJJXXX
+  swift8: SCBLZAJJ
+  branch_name: Head Office
+  branch_address: 2 Merchant Place Johannesburg 2041
+  branch_code: XXX
+  city: Johannesburg
+  country: South Africa
+- name: Standard Chartered Bank
+  swift: SCBLZAJ2XXX
+  swift8: SCBLZAJ2
+  branch_name: No branch name
+  branch_address: No branch address
+  branch_code: XXX
+  city: Johannesburg
+  country: South Africa
+- name: State Bank Of India
+  swift: SBINZAJJXXX
+  swift8: SBINZAJJ
+  branch_name: Head Office
+  branch_address: Jhi House Johannesburg 2196
+  branch_code: XXX
+  city: Johannesburg
+  country: South Africa
+- name: Strate Ltd
+  swift: STRAZAJJREG
+  swift8: STRAZAJJ
+  branch_name: Strate Registrar
+  branch_address: Strate Johannesburg 2196
+  branch_code: REG
+  city: Johannesburg
+  country: South Africa
+- name: Strate Ltd
+  swift: STRAZAJJTFS
+  swift8: STRAZAJJ
+  branch_name: Tfs
+  branch_address: Strate Johannesburg 2196
+  branch_code: TFS
+  city: Johannesburg
+  country: South Africa
+- name: Strate Ltd
+  swift: STRAZAJJCDX
+  swift8: STRAZAJJ
+  branch_name: Central Depository
+  branch_address: Jse - Exchange Square Sandton 2146
+  branch_code: CDX
+  city: Sandton
+  country: South Africa
+- name: Strate Ltd
+  swift: STRAZAJJUNX
+  swift8: STRAZAJJ
+  branch_name: Unexcor
+  branch_address: Jse - Exchange Square Sandton 2148
+  branch_code: UNX
+  city: Sandton
+  country: South Africa
+- name: Strate Ltd
+  swift: STRAZAJJXXX
+  swift8: STRAZAJJ
+  branch_name: Head Office
+  branch_address: Brait Sandton 2146
+  branch_code: XXX
+  city: Sandton
+  country: South Africa
+- name: Strate Ltd.(Formerly Universal Exchange Corporation Limited)
+  swift: UNEXZAJJXXX
+  swift8: UNEXZAJJ
+  branch_name: Head Office
+  branch_address: Brait Sandton 2146
+  branch_code: XXX
+  city: Sandton
+  country: South Africa
+- name: Swiss Re Life And Health Africa Ltd
+  swift: SWREZAJJXXX
+  swift8: SWREZAJJ
+  branch_name: Head Office
+  branch_address: 24 Fricker Road Johannesburg 2122
+  branch_code: XXX
+  city: Johannesburg
+  country: South Africa
+- name: Syfrets Securities Limited
+  swift: SYSCZAJJXXX
+  swift8: SYSCZAJJ
+  branch_name: Head Office
+  branch_address: Neocor Investment Bank Johannesburg 2193
+  branch_code: XXX
+  city: Johannesburg
+  country: South Africa
+- name: Taquanta Securities (Pty) Ltd
+  swift: NIBZZAJJXXX
+  swift8: NIBZZAJJ
+  branch_name: Head Office
+  branch_address: Nedcor Limited Sandown 2113
+  branch_code: XXX
+  city: Sandown
+  country: South Africa
+- name: Teba Bank Limited
+  swift: YOUBZAJJXXX
+  swift8: YOUBZAJJ
+  branch_name: Head Office
+  branch_address: Sanhill Park Sunninghill 2157
+  branch_code: XXX
+  city: Sunninghill
+  country: South Africa
+- name: Telkom Sa Limited
+  swift: TELKZAJPXXX
+  swift8: TELKZAJP
+  branch_name: Head Office
+  branch_address: Telkom Towers North Pretoria 0002
+  branch_code: XXX
+  city: Pretoria
+  country: South Africa
+- name: Tfs Securities (Pty) Limited
+  swift: TFSSZAJJXXX
+  swift8: TFSSZAJJ
+  branch_name: Head Office
+  branch_address: Abn Amro House Sandton 2196
+  branch_code: XXX
+  city: Sandton
+  country: South Africa
+- name: The Hongkong And Shanghai Banking Corporation Limited-Jhb Branch
+  swift: HSBCZAJJXXX
+  swift8: HSBCZAJJ
+  branch_name: Head Office
+  branch_address: 2 Exchange Square Sandton 2196
+  branch_code: XXX
+  city: Sandton
+  country: South Africa
+- name: Thebe Stockbroking Pty Ltd
+  swift: PLRPZAJJXXX
+  swift8: PLRPZAJJ
+  branch_name: Head Office
+  branch_address: The Crescent Bryanston 2194
+  branch_code: XXX
+  city: Roodepoort
+  country: South Africa
+- name: Transnet Limited
+  swift: TNETZAJJXXX
+  swift8: TNETZAJJ
+  branch_name: Head Office
+  branch_address: Carlton Centre Johannesburg 2001
+  branch_code: XXX
+  city: Johannesburg
+  country: South Africa
+- name: Transnet Limited
+  swift: TRNNZAJ1XXX
+  swift8: TRNNZAJ1
+  branch_name: Head Office
+  branch_address: Carlton Centre Johannesburg 2193
+  branch_code: XXX
+  city: Johannesburg
+  country: South Africa
+- name: Ubs South Africa (Proprietary) Limited
+  swift: UBSWZAJJXXX
+  swift8: UBSWZAJJ
+  branch_name: Head Office
+  branch_address: 64 Wierda Road East, Wierda Valley Johannesburg 2196
+  branch_code: XXX
+  city: Johannesburg
+  country: South Africa
+- name: Ultra Registrars (Pty) Ltd
+  swift: ULTRZAJCXXX
+  swift8: ULTRZAJC
+  branch_name: Head Office
+  branch_address: Diagonal Street Johannesburg 2001
+  branch_code: XXX
+  city: Johannesburg
+  country: South Africa
+- name: Ultra Registrars (Pty) Ltd
+  swift: ULTRZAJJXXX
+  swift8: ULTRZAJJ
+  branch_name: Head Office
+  branch_address: 11 Diagonal Street Johannesburg
+  branch_code: XXX
+  city: Johannesburg
+  country: South Africa
+- name: Vunani Securities (Proprietary) Limited
+  swift: CEQPZAJJXXX
+  swift8: CEQPZAJJ
+  branch_name: Head Office
+  branch_address: Vunani House, Freestone Park Sandton 2196
+  branch_code: XXX
+  city: Sandton
+  country: South Africa
+- name: Wwc Securities
+  swift: WWSEZAJJXXX
+  swift8: WWSEZAJJ
+  branch_name: Head Office
+  branch_address: Worldwide House South Johannesburg 2146
+  branch_code: XXX
+  city: Johannesburg
+  country: South Africa
+- name: Oasis Asset Management Limited
+  swift: OASMZAJ1XXX
+  swift8: OASMZAJ1
+  branch_name: Head Office
+  branch_address: Safmarine House Cape Town 8001
+  branch_code: XXX
+  city: Cape Town
+  country: South Africa
+- name: Abax Investments
+  swift: ABIVZAJ1XXX
+  swift8: ABIVZAJ1
+  branch_name: Head Office
+  branch_address: Coronation House, the Oval Cape Town 7700
+  branch_code: XXX
+  city: Cape Town
+  country: South Africa
+- name: Absa Trust Limited
+  swift: ABTRZAJ1XXX
+  swift8: ABTRZAJ1
+  branch_name: Head Office
+  branch_address: Block a Johannesburg
+  branch_code: XXX
+  city: Johannesburg
+  country: South Africa
+- name: Ach Trading Cc
+  swift: SBCHZAJJXXX
+  swift8: SBCHZAJJ
+  branch_name: Head Office
+  branch_address: Corporate Park Bedfordview 5707
+  branch_code: XXX
+  city: Bedfordview
+  country: South Africa
+- name: Afc Limited
+  swift: AFCAZAJ1XXX
+  swift8: AFCAZAJ1
+  branch_name: Head Office
+  branch_address: Johannesburg
+  branch_code: XXX
+  city: Johannesburg
+  country: South Africa
+- name: African Harvest (pty) Ltd
+  swift: AHFMZAJ1XXX
+  swift8: AHFMZAJ1
+  branch_name: Head Office
+  branch_address: Travers House, Boundary Terraces Johannesburg 7700
+  branch_code: XXX
+  city: Johannesburg
+  country: South Africa
+- name: Afripack
+  swift: AFRPZAJ1XXX
+  swift8: AFRPZAJ1
+  branch_name: Head Office
+  branch_address: 75 Richard Carte Road, Mobeni Durban 4092
+  branch_code: XXX
+  city: Durban
+  country: South Africa
+- name: Agilisto
+  swift: AGLLZAJ1XXX
+  swift8: AGLLZAJ1
+  branch_name: Head Office
+  branch_address: Sunninghill Office Park Johannesburg 2157
+  branch_code: XXX
+  city: Johannesburg
+  country: South Africa
+- name: Alexander Asset Management
+  swift: ALAAZAJ1XXX
+  swift8: ALAAZAJ1
+  branch_name: Head Office
+  branch_address: Marshalltown
+  branch_code: XXX
+  city: Marshalltown
+  country: South Africa
+- name: Altron Finance (pty) Ltd
+  swift: ALTFZAJJXXX
+  swift8: ALTFZAJJ
+  branch_name: Head Office
+  branch_address: Winchester Road 5 Parktown 2193
+  branch_code: XXX
+  city: Parktown
+  country: South Africa
+- name: Altron Finance (pty) Ltd
+  swift: ALTFZAJ1XXX
+  swift8: ALTFZAJ1
+  branch_name: Head Office
+  branch_address: Winchester Road 5 Parktown 2193
+  branch_code: XXX
+  city: Parktown
+  country: South Africa
+- name: American Express Bank
+  swift: AEIBZAJ1XXX
+  swift8: AEIBZAJ1
+  branch_name: Head Office
+  branch_address: Forum V Braamfontein 2017
+  branch_code: XXX
+  city: Braamfontein
+  country: South Africa
+- name: Anderson Wilson And Partners Inc.
+  swift: ANWPZAJ1XXX
+  swift8: ANWPZAJ1
+  branch_name: Head Office
+  branch_address: The Stock Exchange Johannesburg 2001
+  branch_code: XXX
+  city: Johannesburg
+  country: South Africa
+- name: Aquarius Platinum Limited
+  swift: AQPLZAJ1XXX
+  swift8: AQPLZAJ1
+  branch_name: Head Office
+  branch_address: Berkley Office Park Centurion 0169
+  branch_code: XXX
+  city: Centurion
+  country: South Africa
+- name: Argon Asset Management (pty) Limited
+  swift: AREMZAJ1XXX
+  swift8: AREMZAJ1
+  branch_name: Head Office
+  branch_address: The Oval, 1st Floor, Colinton House Cape Town 7700
+  branch_code: XXX
+  city: Cape Town
+  country: South Africa
+- name: Arqaam Capital South Africa (pty) Limited
+  swift: ARQMZAJJXXX
+  swift8: ARQMZAJJ
+  branch_name: No branch name
+  branch_address: No branch address
+  branch_code: XXX
+  city: Johannesburg
+  country: South Africa
+- name: Arqaam Capital South Africa (pty) Limited
+  swift: ARQMZAJ1XXX
+  swift8: ARQMZAJ1
+  branch_name: Head Office
+  branch_address: World Trade Center 7th Floor Johannesburg 2196
+  branch_code: XXX
+  city: Johannesburg
+  country: South Africa
+- name: Arrow Financial Services (pty) Ltd
+  swift: ARFSZAJ1XXX
+  swift8: ARFSZAJ1
+  branch_name: Head Office
+  branch_address: Parkview Johannesburg
+  branch_code: XXX
+  city: Johannesburg
+  country: South Africa
+- name: Astley And Pearce (pty) Ltd
+  swift: ASPPZAJ1XXX
+  swift8: ASPPZAJ1
+  branch_name: Head Office
+  branch_address: Southern Life Centre Johannesburg 2001
+  branch_code: XXX
+  city: Johannesburg
+  country: South Africa
+- name: Aylett And Co (pty) Ltd
+  swift: AYPTZAJ1XXX
+  swift8: AYPTZAJ1
+  branch_name: Head Office
+  branch_address: Mariendahl House Newlands on Main Cape Town 7708
+  branch_code: XXX
+  city: Cape Town
+  country: South Africa
+- name: Bank Brussels Lambert, Bbl Representative Office In South Africa
+  swift: BBRUZAJ1XXX
+  swift8: BBRUZAJ1
+  branch_name: Head Office
+  branch_address: Johannesburg
+  branch_code: XXX
+  city: Johannesburg
+  country: South Africa
+- name: Bank Of India Johannesburg Branch
+  swift: BKIDZAJJXXX
+  swift8: BKIDZAJJ
+  branch_name: Head Office
+  branch_address: Office Towers Johannesburg 2196
+  branch_code: XXX
+  city: Johannesburg
+  country: South Africa
+- name: Bcx Confirmations
+  swift: BCXCZAJ1XXX
+  swift8: BCXCZAJ1
+  branch_name: Head Office
+  branch_address: Business Connexion Park Midrand
+  branch_code: XXX
+  city: Midrand
+  country: South Africa
+- name: Bnp Paribas Johannesburg
+  swift: BNPAZAJJEQD
+  swift8: BNPAZAJJ
+  branch_name: Bnp Paribas Sa
+  branch_address: Johannesburg
+  branch_code: EQD
+  city: Johannesburg
+  country: South Africa
+- name: Bnp Paribas Johannesburg
+  swift: BNPAZAJJXXX
+  swift8: BNPAZAJJ
+  branch_name: Head Office
+  branch_address: Melrose Arch Piazza Melrose Arch 2196
+  branch_code: XXX
+  city: Melrose Arch
+  country: South Africa
+- name: Boe Private Bank Trust Company Limited
+  swift: BOEPZAJ1XXX
+  swift8: BOEPZAJ1
+  branch_name: Head Office
+  branch_address: Cape Town
+  branch_code: XXX
+  city: Cape Town
+  country: South Africa
+- name: Boe Trust Limited
+  swift: SYTRZAJ1XXX
+  swift8: SYTRZAJ1
+  branch_name: Head Office
+  branch_address: 1 Newton Avenue Cape Town 2192
+  branch_code: XXX
+  city: Cape Town
+  country: South Africa
+- name: Bond Street Securities (pty) Ltd
+  swift: BSSYZAJ1XXX
+  swift8: BSSYZAJ1
+  branch_name: Head Office
+  branch_address: 9, High Street Durbanville 7530
+  branch_code: XXX
+  city: Durbanville
+  country: South Africa
+- name: Brait Secutities (pty) Ltd
+  swift: BSPTZAJ1XXX
+  swift8: BSPTZAJ1
+  branch_name: Head Office
+  branch_address: Johannesburg
+  branch_code: XXX
+  city: Johannesburg
+  country: South Africa
+- name: Btn Mondial
+  swift: BTMOZAJ1XXX
+  swift8: BTMOZAJ1
+  branch_name: Head Office
+  branch_address: 69 Kutule Street Greater Germiston 1432
+  branch_code: XXX
+  city: Greater Germiston
+  country: South Africa
+- name: Cadiz
+  swift: CADZZAJ1XXX
+  swift8: CADZZAJ1
+  branch_name: Head Office
+  branch_address: The Terraces Cape Town 7708
+  branch_code: XXX
+  city: Cape Town
+  country: South Africa
+- name: Capital Corporation (pty) Ltd
+  swift: CACPZAJ1XXX
+  swift8: CACPZAJ1
+  branch_name: Head Office
+  branch_address: Braamfontein
+  branch_code: XXX
+  city: Braamfontein
+  country: South Africa
+- name: Carpe Diem Estate
+  swift: CADAZAJ1XXX
+  swift8: CADAZAJ1
+  branch_name: Head Office
+  branch_address: Plot 18, Straussburg Upington 8800
+  branch_code: XXX
+  city: Upington
+  country: South Africa
+- name: Catalyst Fund Managers
+  swift: CAUGZAJ1XXX
+  swift8: CAUGZAJ1
+  branch_name: Head Office
+  branch_address: Protea Place Cape Town 7708
+  branch_code: XXX
+  city: Cape Town
+  country: South Africa
+- name: Ccd (pty) Ltd
+  swift: CCPTZAJ1XXX
+  swift8: CCPTZAJ1
+  branch_name: Head Office
+  branch_address: Claremont
+  branch_code: XXX
+  city: Claremont
+  country: South Africa
+- name: Cgu Holdings Limited
+  swift: CUSAZAJ1XXX
+  swift8: CUSAZAJ1
+  branch_name: Head Office
+  branch_address: Cgu House Johannesburg 2000
+  branch_code: XXX
+  city: Johannesburg
+  country: South Africa
+- name: Community Bank (under Curatorship
+  swift: CUBCZAJ1XXX
+  swift8: CUBCZAJ1
+  branch_name: Head Office
+  branch_address: Sandton
+  branch_code: XXX
+  city: Sandton
+  country: South Africa
+- name: Consolidated Fund Managers (pty) Ltd
+  swift: CFMPZAJ1XXX
+  swift8: CFMPZAJ1
+  branch_name: Head Office
+  branch_address: Johannesburg
+  branch_code: XXX
+  city: Johannesburg
+  country: South Africa
+- name: Coopers And Lybrand Corporate Finance (pty) Ltd.
+  swift: CLCFZAJ1XXX
+  swift8: CLCFZAJ1
+  branch_name: Head Office
+  branch_address: Ten Sixty Six Johannesburg 2001
+  branch_code: XXX
+  city: Johannesburg
+  country: South Africa
+- name: Coronation Fund Managers
+  swift: COUGZAJ1XXX
+  swift8: COUGZAJ1
+  branch_name: Head Office
+  branch_address: Montclare Place Claremont
+  branch_code: XXX
+  city: Claremont
+  country: South Africa
+- name: Coronation Holdings Limited
+  swift: COHLZAJ1XXX
+  swift8: COHLZAJ1
+  branch_name: Head Office
+  branch_address: Fedlife Building Cape Town 8001
+  branch_code: XXX
+  city: Cape Town
+  country: South Africa
+- name: Coronation Specialised Funds (pty) Ltd
+  swift: CSFYZAJ1XXX
+  swift8: CSFYZAJ1
+  branch_name: Head Office
+  branch_address: Claremont
+  branch_code: XXX
+  city: Claremont
+  country: South Africa
+- name: Credit And Savings Help Bank
+  swift: CRAHZAJ1XXX
+  swift8: CRAHZAJ1
+  branch_name: Head Office
+  branch_address: 3 St Georges Mall Cape Town 8018
+  branch_code: XXX
+  city: Cape Town
+  country: South Africa
+- name: Credit Guarantee Insurance Corporation Of Africa Limited
+  swift: CRGUZAJ1XXX
+  swift8: CRGUZAJ1
+  branch_name: Head Office
+  branch_address: Credit Guarantee House Randburg 2125
+  branch_code: XXX
+  city: Randburg
+  country: South Africa
+- name: Decimax Securities (pty) Ltd
+  swift: DESPZAJ1XXX
+  swift8: DESPZAJ1
+  branch_name: Head Office
+  branch_address: 26 Sturdee Avenue Johannesburg 2193
+  branch_code: XXX
+  city: Johannesburg
+  country: South Africa
+- name: Dolfin Financial Services (pty) Ltd
+  swift: DFSPZAJ1XXX
+  swift8: DFSPZAJ1
+  branch_name: Head Office
+  branch_address: Johannesburg
+  branch_code: XXX
+  city: Johannesburg
+  country: South Africa
+- name: Efficient Collective Investments Pty Ltd
+  swift: ECITZAJ1XXX
+  swift8: ECITZAJ1
+  branch_name: Head Office
+  branch_address: Triangle House Cape Town 8000
+  branch_code: XXX
+  city: Cape Town
+  country: South Africa
+- name: Exectrust (pty) Ltd
+  swift: TRBPZAJ1XXX
+  swift8: TRBPZAJ1
+  branch_name: Head Office
+  branch_address: 4 Queens Road Johannesburg
+  branch_code: XXX
+  city: Johannesburg
+  country: South Africa
+- name: Farmwise Limited
+  swift: FARMZAJ1XXX
+  swift8: FARMZAJ1
+  branch_name: Head Office
+  branch_address: 264 Oak Avenue Johannesburg 2001
+  branch_code: XXX
+  city: Johannesburg
+  country: South Africa
+- name: Fbc Fidelity Bank Limited
+  swift: FBCCZAJ1XXX
+  swift8: FBCCZAJ1
+  branch_name: Head Office
+  branch_address: Future Bank House Johannesburg 2044
+  branch_code: XXX
+  city: Johannesburg
+  country: South Africa
+- name: Fedlife Assurance Limited
+  swift: FEASZAJ1XXX
+  swift8: FEASZAJ1
+  branch_name: Head Office
+  branch_address: Johannesburg
+  branch_code: XXX
+  city: Johannesburg
+  country: South Africa
+- name: Fedsure Asset Management Co. (pty) Ltd
+  swift: FAMTZAJ1XXX
+  swift8: FAMTZAJ1
+  branch_name: Head Office
+  branch_address: Fedgen House Johannesburg 2001
+  branch_code: XXX
+  city: Johannesburg
+  country: South Africa
+- name: Financial Currency Brokers S.a. (pty) Ltd
+  swift: FCBPZAJ1XXX
+  swift8: FCBPZAJ1
+  branch_name: Head Office
+  branch_address: Marshalltown
+  branch_code: XXX
+  city: Marshalltown
+  country: South Africa
+- name: Finbond Mutual Bank
+  swift: FBMBZAJJXXX
+  swift8: FBMBZAJJ
+  branch_name: Head Office
+  branch_address: Bank Forum Building Pretoria 0181
+  branch_code: XXX
+  city: Pretoria
+  country: South Africa
+- name: Fitch Southern Africa (pty) Ltd.
+  swift: FRIPZAJ1XXX
+  swift8: FRIPZAJ1
+  branch_name: Head Office
+  branch_address: 23 Impala Road, Chislehurston Johannesburg 2196
+  branch_code: XXX
+  city: Johannesburg
+  country: South Africa
+- name: Foord Asset Management (proprietary) Limited
+  swift: FRDGZAJJXXX
+  swift8: FRDGZAJJ
+  branch_name: Head Office
+  branch_address: 7 Forest Mews Pinelands 7405
+  branch_code: XXX
+  city: Pinelands
+  country: South Africa
+- name: Fx Africa Foreign Exchange (pty)ltd
+  swift: FXAFZAJ1XXX
+  swift8: FXAFZAJ1
+  branch_name: Head Office
+  branch_address: The Forum Building Sandton 2146
+  branch_code: XXX
+  city: Sandton
+  country: South Africa
+- name: Gbs Mutual Bank
+  swift: GBSMZAJ1XXX
+  swift8: GBSMZAJ1
+  branch_name: Head Office
+  branch_address: Grahamstown
+  branch_code: XXX
+  city: Grahamstown
+  country: South Africa
+- name: Gencor Treasury
+  swift: GETRZAJ1XXX
+  swift8: GETRZAJ1
+  branch_name: Head Office
+  branch_address: 84 Marshall Street Johannesburg 2001
+  branch_code: XXX
+  city: Johannesburg
+  country: South Africa
+- name: Graaffs Trust Limited
+  swift: GRTRZAJ1XXX
+  swift8: GRTRZAJ1
+  branch_name: Head Office
+  branch_address: 9 Church Square Cape Town
+  branch_code: XXX
+  city: Cape Town
+  country: South Africa
+- name: Grindrod Asset Management
+  swift: GREGZAJ1XXX
+  swift8: GREGZAJ1
+  branch_name: Head Office
+  branch_address: Kingsmead Office Park Durban 4001
+  branch_code: XXX
+  city: Durban
+  country: South Africa
+- name: Hans Merensky Holdings
+  swift: HAMHZAJ1XXX
+  swift8: HAMHZAJ1
+  branch_name: Head Office
+  branch_address: Hm Building Johannesburg 2193
+  branch_code: XXX
+  city: Johannesburg
+  country: South Africa
+- name: Impala Platinum
+  swift: IMPNZAJ1XXX
+  swift8: IMPNZAJ1
+  branch_name: Head Office
+  branch_address: 2 Fricker Road, Illovo Johannesburg 2196
+  branch_code: XXX
+  city: Johannesburg
+  country: South Africa
+- name: Incorporated Securities (pty) Ltd
+  swift: INSPZAJ1XXX
+  swift8: INSPZAJ1
+  branch_name: Head Office
+  branch_address: 22 Cradock Av Rosebank
+  branch_code: XXX
+  city: Rosebank
+  country: South Africa
+- name: Industrial Development Corporation Of South Africa Limited
+  swift: IDCFZAJJXXX
+  swift8: IDCFZAJJ
+  branch_name: Head Office
+  branch_address: Idc of Sa Ltd Johannesburg 2196
+  branch_code: XXX
+  city: Johannesburg
+  country: South Africa
+- name: Infinity Financial Services (pty) Ltd
+  swift: IFSEZAJ1XXX
+  swift8: IFSEZAJ1
+  branch_name: Head Office
+  branch_address: Highlands Centre Johannesburg 2124
+  branch_code: XXX
+  city: Johannesburg
+  country: South Africa
+- name: Investec Securities (pty) Limited
+  swift: IVESZA31XXX
+  swift8: IVESZA31
+  branch_name: Head Office
+  branch_address: 100 Grayston Drive Johannesburg Gauteng 2196
+  branch_code: XXX
+  city: Johannesburg Gauteng
+  country: South Africa
+- name: Ip Management Company (pty) Ltd
+  swift: MAOYZAJ1XXX
+  swift8: MAOYZAJ1
+  branch_name: Head Office
+  branch_address: Letterstedt House Cape Town 7700
+  branch_code: XXX
+  city: Cape Town
+  country: South Africa
+- name: Jci Limited
+  swift: JCTRZAJ1XXX
+  swift8: JCTRZAJ1
+  branch_name: Head Office
+  branch_address: Consolidated Building Johannesburg 2001
+  branch_code: XXX
+  city: Johannesburg
+  country: South Africa
+- name: Karlein Independent Investment Consultancy Cc
+  swift: KIIOZAJ1XXX
+  swift8: KIIOZAJ1
+  branch_name: Head Office
+  branch_address: 99 Milner Road Rondebosch 7700
+  branch_code: XXX
+  city: Rondebosch
+  country: South Africa
+- name: Ken Powell Financial Services (pty) Ltd
+  swift: KPFSZAJ1XXX
+  swift8: KPFSZAJ1
+  branch_name: Head Office
+  branch_address: Houghton
+  branch_code: XXX
+  city: Houghton
+  country: South Africa
+- name: Knoydart Investments (pty) Ltd
+  swift: KNIPZAJ1XXX
+  swift8: KNIPZAJ1
+  branch_name: Head Office
+  branch_address: 23a Tannery Park, Belmont Road Rondebosch 7700
+  branch_code: XXX
+  city: Rondebosch
+  country: South Africa
+- name: Lewis And Wayne Treasury
+  swift: LWTRZAJ1XXX
+  swift8: LWTRZAJ1
+  branch_name: Head Office
+  branch_address: Berthany Way South Hill Johannesburg 2197
+  branch_code: XXX
+  city: Johannesburg
+  country: South Africa
+- name: Lion Securities Cc
+  swift: LISYZAJ1XXX
+  swift8: LISYZAJ1
+  branch_name: Head Office
+  branch_address: 43 Windsor Cabanas Esplanade East London 5201
+  branch_code: XXX
+  city: East London
+  country: South Africa
+- name: Lomberg Pulford And Co (pty) Ltd
+  swift: LOPUZAJ1XXX
+  swift8: LOPUZAJ1
+  branch_name: Head Office
+  branch_address: Fnb House Johannesburg 2001
+  branch_code: XXX
+  city: Johannesburg
+  country: South Africa
+- name: Mark Alexander Investments Cc
+  swift: MAAIZAJ1XXX
+  swift8: MAAIZAJ1
+  branch_name: Head Office
+  branch_address: Howard Place
+  branch_code: XXX
+  city: Place / Howard
+  country: South Africa
+- name: Marriott Merchant Bank Limited
+  swift: MAMRZAJ1XXX
+  swift8: MAMRZAJ1
+  branch_name: Head Office
+  branch_address: Durban
+  branch_code: XXX
+  city: Durban
+  country: South Africa
+- name: Meeg Bank Ltd
+  swift: BTRKZAJ1XXX
+  swift8: BTRKZAJ1
+  branch_name: Head Office
+  branch_address: Absa Building East London
+  branch_code: XXX
+  city: East London
+  country: South Africa
+- name: Melville Douglas Investment Management (pty) Ltd
+  swift: MDIMZAJ1XXX
+  swift8: MDIMZAJ1
+  branch_name: Head Office
+  branch_address: Private Banking House Johannesburg
+  branch_code: XXX
+  city: Johannesburg
+  country: South Africa
+- name: Mergence Investment Managers (pty
+  swift: MIMTZAJ1XXX
+  swift8: MIMTZAJ1
+  branch_name: Head Office
+  branch_address: The Equinox Cape Town 8001
+  branch_code: XXX
+  city: Cape Town
+  country: South Africa
+- name: Mls Bank Limited
+  swift: MLSMZAJ1XXX
+  swift8: MLSMZAJ1
+  branch_name: Head Office
+  branch_address: Johannesburg
+  branch_code: XXX
+  city: Johannesburg
+  country: South Africa
+- name: Momentum Life Assurers Ltd
+  swift: MOLAZAJ1XXX
+  swift8: MOLAZAJ1
+  branch_name: Head Office
+  branch_address: Momentum Park Centurion
+  branch_code: XXX
+  city: Centurion
+  country: South Africa
+- name: Moody's Investors Service South Africa (pty) Ltd
+  swift: MIESZAJ1XXX
+  swift8: MIESZAJ1
+  branch_name: Head Office
+  branch_address: The Forum Johannesburg 2196
+  branch_code: XXX
+  city: Johannesburg
+  country: South Africa
+- name: Mpf Management Services (pty) Ltd
+  swift: MMSPZAJ1XXX
+  swift8: MMSPZAJ1
+  branch_name: Head Office
+  branch_address: Mpf House Johannesburg
+  branch_code: XXX
+  city: Johannesburg
+  country: South Africa
+- name: Mvunonala Asset Managers (pty) Ltd
+  swift: MAMYZAJ1XXX
+  swift8: MAMYZAJ1
+  branch_name: Head Office
+  branch_address: 32a Jellicoe Avenue West Johannesburg 2001
+  branch_code: XXX
+  city: Johannesburg
+  country: South Africa
+- name: Nfb Financial Services Group
+  swift: NFBGZAJ1XXX
+  swift8: NFBGZAJ1
+  branch_name: Head Office
+  branch_address: Nfb House Johannesburg 2193
+  branch_code: XXX
+  city: Johannesburg
+  country: South Africa
+- name: Nike South Africa (pty) Ltd
+  swift: NIKEZAJ1XXX
+  swift8: NIKEZAJ1
+  branch_name: Head Office
+  branch_address: Unit 12a, Growthpoint Park Johannesburg 1686
+  branch_code: XXX
+  city: Johannesburg
+  country: South Africa
+- name: Oasis Crescent Capital (pty) Ltd
+  swift: OASMZA21XXX
+  swift8: OASMZA21
+  branch_name: Head Office
+  branch_address: Safmarine House Cape Town 8001
+  branch_code: XXX
+  city: Cape Town
+  country: South Africa
+- name: Old Mutual Life Assurance Company (south Africa) Limited
+  swift: ROKLZAJTXXX
+  swift8: ROKLZAJT
+  branch_name: Head Office
+  branch_address: Mutual Park Cape Town
+  branch_code: XXX
+  city: Cape Town
+  country: South Africa
+- name: Omigsa
+  swift: OMIGZAJ1XXX
+  swift8: OMIGZAJ1
+  branch_name: Head Office
+  branch_address: Mutualpark Cape Town 8000
+  branch_code: XXX
+  city: Cape Town
+  country: South Africa
+- name: Paul Clarke And Associates Cc
+  swift: PACTZAJ1XXX
+  swift8: PACTZAJ1
+  branch_name: Head Office
+  branch_address: Vlaeberg
+  branch_code: XXX
+  city: Vlaeberg
+  country: South Africa
+- name: Personal Trust Ltd
+  swift: PERRZAJ1XXX
+  swift8: PERRZAJ1
+  branch_name: Head Office
+  branch_address: Attwell House Cape Town
+  branch_code: XXX
+  city: Cape Town
+  country: South Africa
+- name: Peter Berry Trust Services (pty) Ltd
+  swift: PBTSZAJ1XXX
+  swift8: PBTSZAJ1
+  branch_name: Head Office
+  branch_address: Newlands Cape Town
+  branch_code: XXX
+  city: Cape Town
+  country: South Africa
+- name: Philippus De Witt Emds Bpk
+  swift: PDWEZAJ1XXX
+  swift8: PDWEZAJ1
+  branch_name: Head Office
+  branch_address: Johannesburg
+  branch_code: XXX
+  city: Johannesburg
+  country: South Africa
+- name: Plexus Asset Management Plexus House
+  swift: PAMXZAJ1XXX
+  swift8: PAMXZAJ1
+  branch_name: Head Office
+  branch_address: Plexus House Cape Town 7550
+  branch_code: XXX
+  city: Durbanville
+  country: South Africa
+- name: Pps Investments (pty) Ltd Travers House, Boundary Terraces
+  swift: PIPTZAJ1XXX
+  swift8: PIPTZAJ1
+  branch_name: Head Office
+  branch_address: Travers House, Boundary Terraces Cape Town 7700
+  branch_code: XXX
+  city: Cape Town
+  country: South Africa
+- name: Pro-equity (pty) Ltd
+  swift: PRPYZAJ1XXX
+  swift8: PRPYZAJ1
+  branch_name: Head Office
+  branch_address: Arcadia
+  branch_code: XXX
+  city: Arcadia
+  country: South Africa
+- name: Project Resources And Acquisitions (pty) Ltd
+  swift: CAPFZAJ1XXX
+  swift8: CAPFZAJ1
+  branch_name: Head Office
+  branch_address: 1011 Jpretorius Avenue, C/O Opaal Rd Centurion 0157
+  branch_code: XXX
+  city: Centurion
+  country: South Africa
+- name: Prospur Portfolio Managers (pty) Ltd
+  swift: PPMPZAJ1XXX
+  swift8: PPMPZAJ1
+  branch_name: Head Office
+  branch_address: Johannesburg
+  branch_code: XXX
+  city: Johannesburg
+  country: South Africa
+- name: Protea Insurance Co. Ltd
+  swift: PRIUZAJ1XXX
+  swift8: PRIUZAJ1
+  branch_name: Head Office
+  branch_address: 50 Fox Street Johannesburg 2107
+  branch_code: XXX
+  city: Johannesburg
+  country: South Africa
+- name: Psg Asset Management (pty) Ltd 1st Floor Psg House
+  swift: PAAYZAJ1XXX
+  swift8: PAAYZAJ1
+  branch_name: Head Office
+  branch_address: 1st Floor Psg House Cape Town 7806
+  branch_code: XXX
+  city: Cape Town
+  country: South Africa
+- name: Rand Refinery Limited
+  swift: RRPLZAJJXXX
+  swift8: RRPLZAJJ
+  branch_name: Head Office
+  branch_address: 1 Refinery Road, Germiston Johannesburg 1400
+  branch_code: XXX
+  city: Johannesburg
+  country: South Africa
+- name: Rand Registrars
+  swift: RANDZAJ1XXX
+  swift8: RANDZAJ1
+  branch_name: Head Office
+  branch_address: Southdale
+  branch_code: XXX
+  city: Southdale
+  country: South Africa
+- name: Regiments Fund Managers 91
+  swift: REFGZAJ1XXX
+  swift8: REFGZAJ1
+  branch_name: Head Office
+  branch_address: 91 Johannesburg Gauteng 2198
+  branch_code: XXX
+  city: Johannesburg Gauteng
+  country: South Africa
+- name: Rezco (pty) Ltd
+  swift: REPTZAJ1XXX
+  swift8: REPTZAJ1
+  branch_name: Head Office
+  branch_address: Muldersdrift
+  branch_code: XXX
+  city: Muldersdrift
+  country: South Africa
+- name: Robert Cowen Investments (pty) Ltd
+  swift: RCIPZAJ1XXX
+  swift8: RCIPZAJ1
+  branch_name: Head Office
+  branch_address: 17 Methwold Road Johannesburg
+  branch_code: XXX
+  city: Johannesburg
+  country: South Africa
+- name: Royal Asset Management (pty) Ltd
+  swift: RAMYZAJ1XXX
+  swift8: RAMYZAJ1
+  branch_name: Head Office
+  branch_address: Claremont Cape Town
+  branch_code: XXX
+  city: Cape Town
+  country: South Africa
+- name: Ryan Anderson And Co (pty) Ltd
+  swift: RYAPZAJ1XXX
+  swift8: RYAPZAJ1
+  branch_name: Head Office
+  branch_address: The Stock Exchange Johannesburg 2001
+  branch_code: XXX
+  city: Johannesburg
+  country: South Africa
+- name: Saambou Bank Ltd
+  swift: SAABZAJ1XXX
+  swift8: SAABZAJ1
+  branch_name: Head Office
+  branch_address: Saambou Park Pretoria 0005
+  branch_code: XXX
+  city: Pretoria
+  country: South Africa
+- name: Safex
+  swift: XSAFZAJ1XXX
+  swift8: XSAFZAJ1
+  branch_name: Head Office
+  branch_address: 32 Diagonal Street Johannesburg 2001
+  branch_code: XXX
+  city: Johannesburg
+  country: South Africa
+- name: Sage Selection Cc
+  swift: SAGEZAJ1XXX
+  swift8: SAGEZAJ1
+  branch_name: Head Office
+  branch_address: Sage Center Cape Town 2001
+  branch_code: XXX
+  city: Cape Town
+  country: South Africa
+- name: Samsung Electronics South Africa (pty) Ltd.
+  swift: SECTZAJ1720
+  swift8: SECTZAJ1
+  branch_name: Ssa
+  branch_address: Johannesburg
+  branch_code: '720'
+  city: Johannesburg
+  country: South Africa
+- name: Samsung Electronics South Africa (pty) Ltd.
+  swift: SECTZAJ1XXX
+  swift8: SECTZAJ1
+  branch_name: Head Office
+  branch_address: Medscheme Park Johannesburg 2021
+  branch_code: XXX
+  city: Johannesburg
+  country: South Africa
+- name: Sanlam Credit Conduit Proprietary Limited
+  swift: GBSEZAJ5XXX
+  swift8: GBSEZAJ5
+  branch_name: Head Office
+  branch_address: Sanlam Capital Markets Johannesburg 2196
+  branch_code: XXX
+  city: Johannesburg
+  country: South Africa
+- name: Seardel Investment Corporation Limited
+  swift: SENPZAJ1XXX
+  swift8: SENPZAJ1
+  branch_name: Head Office
+  branch_address: Epping Industria Ii Cape Town 7460
+  branch_code: XXX
+  city: Cape Town
+  country: South Africa
+- name: Senekal Mouton And Kitshoff Inc.
+  swift: SEMKZAJ1XXX
+  swift8: SEMKZAJ1
+  branch_name: Head Office
+  branch_address: The Terraces Johannesburg 8001
+  branch_code: XXX
+  city: Johannesburg
+  country: South Africa
+- name: Sesfikile Capital (pty) Ltd
+  swift: SEPTZAJ1XXX
+  swift8: SEPTZAJ1
+  branch_name: Head Office
+  branch_address: Melrose Boulevard Johannesburg
+  branch_code: XXX
+  city: Johannesburg
+  country: South Africa
+- name: Sg Securitiies Johannesburg Pty Ltd
+  swift: SGSJZAJ1XXX
+  swift8: SGSJZAJ1
+  branch_name: Head Office
+  branch_address: Societe Generale House Johannesburg 2096
+  branch_code: XXX
+  city: Johannesburg
+  country: South Africa
+- name: Sharegro Investment Company (pty) Ltd
+  swift: SICPZAJ1XXX
+  swift8: SICPZAJ1
+  branch_name: Head Office
+  branch_address: Melville
+  branch_code: XXX
+  city: Melville
+  country: South Africa
+- name: Sitc
+  swift: STTCZAJ1XXX
+  swift8: STTCZAJ1
+  branch_name: Head Office
+  branch_address: Clubview Centurion
+  branch_code: XXX
+  city: Centurion
+  country: South Africa
+- name: Smk Securities (pty) Ltd
+  swift: SMKSZAJ1XXX
+  swift8: SMKSZAJ1
+  branch_name: Head Office
+  branch_address: The Stock Exchange Johannesburg 2001
+  branch_code: XXX
+  city: Johannesburg
+  country: South Africa
+- name: South African Breweries Ltd
+  swift: SABMZAJ1ABL
+  swift8: SABMZAJ1
+  branch_name: No branch name
+  branch_address: No branch address
+  branch_code: ABL
+  city: Johannesburg
+  country: South Africa
+- name: South African Breweries Ltd
+  swift: SABMZAJ1SAB
+  swift8: SABMZAJ1
+  branch_name: Johannesburg 2196
+  branch_address: 65 Parklane Street Johannesburg 2196
+  branch_code: SAB
+  city: Johannesburg
+  country: South Africa
+- name: South African Breweries Ltd
+  swift: SABMZAJ1SFN
+  swift8: SABMZAJ1
+  branch_name: Sabfin Branch
+  branch_address: Johannesburg
+  branch_code: SFN
+  city: Johannesburg
+  country: South Africa
+- name: South African Breweries Ltd
+  swift: SABMZAJ1XXX
+  swift8: SABMZAJ1
+  branch_name: Head Office
+  branch_address: 2 Jan Smuts Avenue Johannesburg 2000
+  branch_code: XXX
+  city: Johannesburg
+  country: South Africa
+- name: South African Futures Exchange-agricultural Market Division
+  swift: XSFAZAJ1XXX
+  swift8: XSFAZAJ1
+  branch_name: Head Office
+  branch_address: 105 Central Street Houghton 2198
+  branch_code: XXX
+  city: Houghton
+  country: South Africa
+- name: South African Housing Trust Limited
+  swift: SAHTZAJ1XXX
+  swift8: SAHTZAJ1
+  branch_name: Head Office
+  branch_address: Surrey Place 291 Surrey Avenue Randburg 2194
+  branch_code: XXX
+  city: Randburg
+  country: South Africa
+- name: South African International Money Brokers (pty) Ltd.
+  swift: SAIOZAJ1XXX
+  swift8: SAIOZAJ1
+  branch_name: Head Office
+  branch_address: Anderson Place Johannesburg 2001
+  branch_code: XXX
+  city: Johannesburg
+  country: South Africa
+- name: South African Mutual Life Assurance Society
+  swift: MLASZAJ1XXX
+  swift8: MLASZAJ1
+  branch_name: Head Office
+  branch_address: Mutualpark Cape Town
+  branch_code: XXX
+  city: Cape Town
+  country: South Africa
+- name: South African Reserve Bank Fir
+  swift: SRROZAJ1XXX
+  swift8: SRROZAJ1
+  branch_name: Head Office
+  branch_address: 57 West Street Johannesburg 2001
+  branch_code: XXX
+  city: Johannesburg
+  country: South Africa
+- name: South African Reserve Bank Pch
+  swift: SRCRZAJ1XXX
+  swift8: SRCRZAJ1
+  branch_name: Head Office
+  branch_address: 57 West Street Johannesburg 2001
+  branch_code: XXX
+  city: Johannesburg
+  country: South Africa
+- name: Standard Bank Nominees (transvaal) (pty) Ltd
+  swift: SNTPZAJ1XXX
+  swift8: SNTPZAJ1
+  branch_name: Head Office
+  branch_address: 25 Sauer Street Johannesburg
+  branch_code: XXX
+  city: Johannesburg
+  country: South Africa
+- name: Strate
+  swift: STRAZAJ2XXX
+  swift8: STRAZAJ2
+  branch_name: Head Office
+  branch_address: Exchange Square Johannesburg 2196
+  branch_code: XXX
+  city: Johannesburg
+  country: South Africa
+- name: The Government Of The Rsa In Its National Treasury
+  swift: TALMZAJPOAG
+  swift8: TALMZAJP
+  branch_name: Office of the Accountant General
+  branch_address: Pretoria
+  branch_code: OAG
+  city: Pretoria
+  country: South Africa
+- name: The Government Of The Rsa In Its National Treasury
+  swift: TALMZAJPXXX
+  swift8: TALMZAJP
+  branch_name: Head Office
+  branch_address: National Treasury Building Pretoria 0001
+  branch_code: XXX
+  city: Pretoria
+  country: South Africa
+- name: The Government Of The Rsa In Its National Treasury
+  swift: TALMZAJ1XXX
+  swift8: TALMZAJ1
+  branch_name: Head Office
+  branch_address: National Treasury Building Pretoria 0001
+  branch_code: XXX
+  city: Pretoria
+  country: South Africa
+- name: Thirty Four South Research And Trading (pty) Ltd
+  swift: TFSRZAJ1XXX
+  swift8: TFSRZAJ1
+  branch_name: Head Office
+  branch_address: Sanclare Cape Town 7700
+  branch_code: XXX
+  city: Cape Town
+  country: South Africa
+- name: Treasuryone (pty) Ltd
+  swift: TRPYZAJ1XXX
+  swift8: TRPYZAJ1
+  branch_name: Head Office
+  branch_address: 157 Banket Street, Waterkloof Pretoria 0181
+  branch_code: XXX
+  city: Pretoria
+  country: South Africa
+- name: Trustlink
+  swift: LINKZAJJABC
+  swift8: LINKZAJJ
+  branch_name: Pretoria
+  branch_address: Pretoria
+  branch_code: ABC
+  city: Pretoria
+  country: South Africa
+- name: Trustlink
+  swift: LINKZAJJEFC
+  swift8: LINKZAJJ
+  branch_name: Pretoria
+  branch_address: Pretoria
+  branch_code: EFC
+  city: Pretoria
+  country: South Africa
+- name: Trustlink
+  swift: LINKZAJJKLM
+  swift8: LINKZAJJ
+  branch_name: Pretoria
+  branch_address: Pretoria
+  branch_code: KLM
+  city: Pretoria
+  country: South Africa
+- name: Trustlink
+  swift: LINKZAJJXXX
+  swift8: LINKZAJJ
+  branch_name: Head Office
+  branch_address: Glenfield Office Park Pretoria 0043
+  branch_code: XXX
+  city: Pretoria
+  country: South Africa
+- name: Trustlink
+  swift: LINKZAJ1XXX
+  swift8: LINKZAJ1
+  branch_name: Head Office
+  branch_address: Glenfield Office Park Pretoria 0043
+  branch_code: XXX
+  city: Pretoria
+  country: South Africa
+- name: Unibank Ltd
+  swift: UNAAZAJ1XXX
+  swift8: UNAAZAJ1
+  branch_name: Head Office
+  branch_address: Unibank House Johannesburg 2128
+  branch_code: XXX
+  city: Johannesburg
+  country: South Africa
+- name: Vector Equities (pty) Ltd
+  swift: VEQTZAJ1XXX
+  swift8: VEQTZAJ1
+  branch_name: Head Office
+  branch_address: Slipway Building Cape Town 8001
+  branch_code: XXX
+  city: Cape Town
+  country: South Africa
+- name: Vector Equities (pty) Ltd
+  swift: VEQTZAJCXXX
+  swift8: VEQTZAJC
+  branch_name: Head Office
+  branch_address: Slipway Building Cape Town 8001
+  branch_code: XXX
+  city: Cape Town
+  country: South Africa
+- name: Visio Capital Management Pty Ltd
+  swift: VMGCZAJJXXX
+  swift8: VMGCZAJJ
+  branch_name: Aim-Poms Service
+  branch_address: The Place Sandton 2146
+  branch_code: XXX
+  city: Sandton
+  country: South Africa
+- name: Vunani Fund Mangers (pty) Ltd
+  swift: VFMPZAJ1XXX
+  swift8: VFMPZAJ1
+  branch_name: Head Office
+  branch_address: Letterstedt House Cape Town 7700
+  branch_code: XXX
+  city: Cape Town
+  country: South Africa
+- name: Vw Of South Africa
+  swift: SOAFZAJ1XXX
+  swift8: SOAFZAJ1
+  branch_name: No branch name
+  branch_address: No branch address
+  branch_code: XXX
+  city: Uitenhage
+  country: South Africa
+- name: Wellsfaber (pty) Ltd
+  swift: WEPTZAJ1XXX
+  swift8: WEPTZAJ1
+  branch_name: Head Office
+  branch_address: Postnet Suite 52 Howard Place
+  branch_code: XXX
+  city: Howard Place
+  country: South Africa
+- name: Wj Morgan And Associates
+  swift: WJMAZAJ1XXX
+  swift8: WJMAZAJ1
+  branch_name: Head Office
+  branch_address: Johannesburg
+  branch_code: XXX
+  city: Johannesburg
+  country: South Africa

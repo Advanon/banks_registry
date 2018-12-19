@@ -1,0 +1,3578 @@
+---
+PL:
+- name: Alior Bank Spolka Akcyjna
+  swift: ALBPPLPWXXX
+  swift8: ALBPPLPW
+  branch_name: Head Office
+  branch_address: Lopuszanska Business Park 02-232 Warszawa
+  branch_code: XXX
+  city: Warszawa
+  country: Poland
+- name: Alior Bank Spolka Akcyjna
+  swift: ALBPPLP1BMW
+  swift8: ALBPPLP1
+  branch_name: Biuro Maklerskie
+  branch_address: Warszawa
+  branch_code: BMW
+  city: Warszawa
+  country: Poland
+- name: Atlantic Fund Services Sp. Z O.O.
+  swift: AFSLPLPWXXX
+  swift8: AFSLPLPW
+  branch_name: Head Office
+  branch_address: Cybernetyki 02-677 Warszawa
+  branch_code: XXX
+  city: Warszawa
+  country: Poland
+- name: Banco Espirito Santo De Investimento S.A. Spolka Akcyjna Oddzial W Polsce
+  swift: ESSIPLPXXXX
+  swift8: ESSIPLPX
+  branch_name: Head Office
+  branch_address: West Lumen Bulding 00-120 Warszawa
+  branch_code: XXX
+  city: Warszawa
+  country: Poland
+- name: Banco Espirito Santo De Investimento S.A. Spolka Akcyjna Oddzial W Polsce
+  swift: ESSIPLP1XXX
+  swift8: ESSIPLP1
+  branch_name: Head Office
+  branch_address: 59 Zlota Street 00-120 Warszawa
+  branch_code: XXX
+  city: Warszawa
+  country: Poland
+- name: Bank Bph Sa
+  swift: BPHKPLPKXXX
+  swift8: BPHKPLPK
+  branch_name: Head Office
+  branch_address: Al. Pokoju 1 31-548 Krakow
+  branch_code: XXX
+  city: Gdansk
+  country: Poland
+- name: Bank Bph Sa
+  swift: BPHKPLPKCUS
+  swift8: BPHKPLPK
+  branch_name: Custody Department
+  branch_address: Towarowa 25a 00-958 Warszawa
+  branch_code: CUS
+  city: Warszawa
+  country: Poland
+- name: Bank Bph Sa
+  swift: BPHKPLP1BMK
+  swift8: BPHKPLP1
+  branch_name: Biuro Maklerskie Banku Bph Sa
+  branch_address: Krakow
+  branch_code: BMK
+  city: Krakow
+  country: Poland
+- name: Bank Gospodarki Zywnosciowej S.A.
+  swift: GOPZPLPWBRK
+  swift8: GOPZPLPW
+  branch_name: Brokerage Office
+  branch_address: Zurawia 6/12 00-503 Warszawa
+  branch_code: BRK
+  city: Warszawa
+  country: Poland
+- name: Bank Gospodarki Zywnosciowej S.A.
+  swift: GOPZPLPWXXX
+  swift8: GOPZPLPW
+  branch_name: Head Office
+  branch_address: Ul. Kasprzaka 10/16 01-211 Warszawa
+  branch_code: XXX
+  city: Warszawa
+  country: Poland
+- name: Bank Gospodarstwa Krajowego
+  swift: GOSKPLPWXXX
+  swift8: GOSKPLPW
+  branch_name: Head Office
+  branch_address: Al. Jerozolimskie 7 00-955 Warszawa
+  branch_code: XXX
+  city: Warszawa
+  country: Poland
+- name: Bank Handlowy W Warszawie Sa
+  swift: CITIPLPXXXX
+  swift8: CITIPLPX
+  branch_name: Head Office
+  branch_address: Senatorska 16 00-923 Warszawa
+  branch_code: XXX
+  city: Warszawa
+  country: Poland
+- name: Bank Handlowy W Warszawie Sa
+  swift: CITIPLPXCCH
+  swift8: CITIPLPX
+  branch_name: No branch name
+  branch_address: No branch address
+  branch_code: CCH
+  city: Warszawa
+  country: Poland
+- name: Bank Millennium S.A.
+  swift: BIGBPLPWCUS
+  swift8: BIGBPLPW
+  branch_name: Custody Department
+  branch_address: Ilmet Business Center 00-828 Warszawa
+  branch_code: CUS
+  city: Warszawa
+  country: Poland
+- name: Bank Millennium S.A.
+  swift: BIGBPLPWXXX
+  swift8: BIGBPLPW
+  branch_name: Head Office
+  branch_address: Harmony Center 02-593 Warszawa
+  branch_code: XXX
+  city: Warszawa
+  country: Poland
+- name: Bank Ochrony Srodowiska S.A.
+  swift: EBOSPLPW216
+  swift8: EBOSPLPW
+  branch_name: Bialystok
+  branch_address: Bialystok
+  branch_code: '216'
+  city: Bialystok
+  country: Poland
+- name: Bank Ochrony Srodowiska S.A.
+  swift: EBOSPLPW261
+  swift8: EBOSPLPW
+  branch_name: Bielsko Biala
+  branch_address: Bielsko Biala
+  branch_code: '261'
+  city: Bielsko Biala
+  country: Poland
+- name: Bank Ochrony Srodowiska S.A.
+  swift: EBOSPLPW018
+  swift8: EBOSPLPW
+  branch_name: Bydgoszcz
+  branch_address: Bydgoszcz
+  branch_code: '018'
+  city: Bydgoszcz
+  country: Poland
+- name: Bank Ochrony Srodowiska S.A.
+  swift: EBOSPLPWCHA
+  swift8: EBOSPLPW
+  branch_name: Chelm
+  branch_address: Chelm
+  branch_code: CHA
+  city: Chelm
+  country: Poland
+- name: Bank Ochrony Srodowiska S.A.
+  swift: EBOSPLPW005
+  swift8: EBOSPLPW
+  branch_name: Czestochowa
+  branch_address: Czestochowa
+  branch_code: '005'
+  city: Czestochowa
+  country: Poland
+- name: Bank Ochrony Srodowiska S.A.
+  swift: EBOSPLPW274
+  swift8: EBOSPLPW
+  branch_name: Elblag
+  branch_address: Elblag
+  branch_code: '274'
+  city: Elblag
+  country: Poland
+- name: Bank Ochrony Srodowiska S.A.
+  swift: EBOSPLPW089
+  swift8: EBOSPLPW
+  branch_name: Gdansk
+  branch_address: Gdansk
+  branch_code: '089'
+  city: Gdansk
+  country: Poland
+- name: Bank Ochrony Srodowiska S.A.
+  swift: EBOSPLPW199
+  swift8: EBOSPLPW
+  branch_name: Jelenia Gora
+  branch_address: Jelenia Gora
+  branch_code: '199'
+  city: Jelenia Gora
+  country: Poland
+- name: Bank Ochrony Srodowiska S.A.
+  swift: EBOSPLPW119
+  swift8: EBOSPLPW
+  branch_name: Katowice
+  branch_address: Katowice
+  branch_code: '119'
+  city: Katowice
+  country: Poland
+- name: Bank Ochrony Srodowiska S.A.
+  swift: EBOSPLPWKIA
+  swift8: EBOSPLPW
+  branch_name: Kielce
+  branch_address: Kielce
+  branch_code: KIA
+  city: Kielce
+  country: Poland
+- name: Bank Ochrony Srodowiska S.A.
+  swift: EBOSPLPW232
+  swift8: EBOSPLPW
+  branch_name: Konin
+  branch_address: Konin
+  branch_code: '232'
+  city: Konin
+  country: Poland
+- name: Bank Ochrony Srodowiska S.A.
+  swift: EBOSPLPW034
+  swift8: EBOSPLPW
+  branch_name: Koszalin
+  branch_address: Koszalin
+  branch_code: '034'
+  city: Koszalin
+  country: Poland
+- name: Bank Ochrony Srodowiska S.A.
+  swift: EBOSPLPW106
+  swift8: EBOSPLPW
+  branch_name: Krakow
+  branch_address: Krakow
+  branch_code: '106'
+  city: Krakow
+  country: Poland
+- name: Bank Ochrony Srodowiska S.A.
+  swift: EBOSPLPW258
+  swift8: EBOSPLPW
+  branch_name: Legnica
+  branch_address: Legnica
+  branch_code: '258'
+  city: Legnica
+  country: Poland
+- name: Bank Ochrony Srodowiska S.A.
+  swift: EBOSPLPW245
+  swift8: EBOSPLPW
+  branch_name: Lodz
+  branch_address: Lodz
+  branch_code: '245'
+  city: Lodz
+  country: Poland
+- name: Bank Ochrony Srodowiska S.A.
+  swift: EBOSPLPWLOA
+  swift8: EBOSPLPW
+  branch_name: Lomza
+  branch_address: Lomza
+  branch_code: LOA
+  city: Lomza
+  country: Poland
+- name: Bank Ochrony Srodowiska S.A.
+  swift: EBOSPLPWPIA
+  swift8: EBOSPLPW
+  branch_name: Pila
+  branch_address: Pila
+  branch_code: PIA
+  city: Pila
+  country: Poland
+- name: Bank Ochrony Srodowiska S.A.
+  swift: EBOSPLPW290
+  swift8: EBOSPLPW
+  branch_name: Plock
+  branch_address: Plock
+  branch_code: '290'
+  city: Plock
+  country: Poland
+- name: Bank Ochrony Srodowiska S.A.
+  swift: EBOSPLPW047
+  swift8: EBOSPLPW
+  branch_name: Poznan
+  branch_address: Poznan
+  branch_code: '047'
+  city: Poznan
+  country: Poland
+- name: Bank Ochrony Srodowiska S.A.
+  swift: EBOSPLPW122
+  swift8: EBOSPLPW
+  branch_name: Rzeszow
+  branch_address: Rzeszow
+  branch_code: '122'
+  city: Rzeszow
+  country: Poland
+- name: Bank Of China (Luxembourg) S.A. Poland Branch
+  swift: BKCHPLPXXXX
+  swift8: BKCHPLPX
+  branch_name: Head Office
+  branch_address: Ul.Zielna 41/43 00-108 Warszawa
+  branch_code: XXX
+  city: Warszawa
+  country: Poland
+- name: Bank Of Tokyo-Mitsubishi Ufj (Polska) Spolka Akcyjna
+  swift: BOTKPLPWXXX
+  swift8: BOTKPLPW
+  branch_name: Head Office
+  branch_address: Warsaw Financial Center 00113 Warszawa
+  branch_code: XXX
+  city: Warszawa
+  country: Poland
+- name: Bank Polska Kasa Opieki Sa – Bank Pekao Sa
+  swift: PKOPPLPWKRA
+  swift8: PKOPPLPW
+  branch_name: Krakow Regional Office
+  branch_address: Al. Pokoju 1 31-548 Krakow
+  branch_code: KRA
+  city: Krakow
+  country: Poland
+- name: Bank Polska Kasa Opieki Sa – Bank Pekao Sa
+  swift: PKOPPLPWCUS
+  swift8: PKOPPLPW
+  branch_name: Custody
+  branch_address: Warszawa
+  branch_code: CUS
+  city: Warszawa
+  country: Poland
+- name: Bank Polska Kasa Opieki Sa – Bank Pekao Sa
+  swift: PKOPPLPWXXX
+  swift8: PKOPPLPW
+  branch_name: Head Office
+  branch_address: 53-57 Grzybowska Street 00-950 Warszawa
+  branch_code: XXX
+  city: Warszawa
+  country: Poland
+- name: Bank Polskiej Spoldzielczosci Spolka Akcyjna
+  swift: POLUPLPRXXX
+  swift8: POLUPLPR
+  branch_name: Head Office
+  branch_address: Ul. Plocka 9/11b 01-231 Warszawa
+  branch_code: XXX
+  city: Warszawa
+  country: Poland
+- name: Bank Zachodni Wbk Sa
+  swift: WBKPPLPPCBM
+  swift8: WBKPPLPP
+  branch_name: Bzwbk Brokerage House
+  branch_address: Plac Wolnosci 15 60967 Poznan
+  branch_code: CBM
+  city: Poznan
+  country: Poland
+- name: Bank Zachodni Wbk Sa
+  swift: WBKPPLPPXXX
+  swift8: WBKPPLPP
+  branch_name: Head Office
+  branch_address: Rynek 9/11 Wroclaw
+  branch_code: XXX
+  city: Wroclaw
+  country: Poland
+- name: Bnp Paribas Bank Polska S.A.
+  swift: PPABPLPKXXX
+  swift8: PPABPLPK
+  branch_name: Head Office
+  branch_address: 3 Suwak Street 02 676 Warszawa
+  branch_code: XXX
+  city: Warszawa
+  country: Poland
+- name: Bnp Paribas Bank Polska S.A.
+  swift: PPABPLP1BB1
+  swift8: PPABPLP1
+  branch_name: Bielsko Biala Branch
+  branch_address: Bielsko Biala
+  branch_code: BB1
+  city: Bielsko Biala
+  country: Poland
+- name: Bnp Paribas Bank Polska S.A.
+  swift: PPABPLP1BY1
+  swift8: PPABPLP1
+  branch_name: Bydgoszcz Branch
+  branch_address: Bydgoszcz
+  branch_code: BY1
+  city: Bydgoszcz
+  country: Poland
+- name: Bnp Paribas Bank Polska S.A.
+  swift: PPABPLP1CZ1
+  swift8: PPABPLP1
+  branch_name: Chestochowa Branch
+  branch_address: Czestochowa
+  branch_code: CZ1
+  city: Czestochowa
+  country: Poland
+- name: Bnp Paribas Bank Polska S.A.
+  swift: PPABPLP1GD1
+  swift8: PPABPLP1
+  branch_name: Gdansk Branch
+  branch_address: Gdansk
+  branch_code: GD1
+  city: Gdansk
+  country: Poland
+- name: Bnp Paribas Bank Polska S.A.
+  swift: PPABPLP1GL1
+  swift8: PPABPLP1
+  branch_name: Gliwice Branch
+  branch_address: Gliwice
+  branch_code: GL1
+  city: Gliwice
+  country: Poland
+- name: Bnp Paribas Bank Polska S.A.
+  swift: PPABPLP1GY1
+  swift8: PPABPLP1
+  branch_name: Gdynia Branch
+  branch_address: Gdynia
+  branch_code: GY1
+  city: Gdynia
+  country: Poland
+- name: Bnp Paribas Bank Polska S.A.
+  swift: PPABPLP1KF1
+  swift8: PPABPLP1
+  branch_name: Personal Banking Sub-Branch
+  branch_address: Katowice
+  branch_code: KF1
+  city: Katowice
+  country: Poland
+- name: Bnp Paribas Bank Polska S.A.
+  swift: PPABPLP1KI1
+  swift8: PPABPLP1
+  branch_name: Kielce Branch
+  branch_address: Kielce
+  branch_code: KI1
+  city: Kielce
+  country: Poland
+- name: Bnp Paribas Bank Polska S.A.
+  swift: PPABPLP1KR1
+  swift8: PPABPLP1
+  branch_name: 1st Krakow Branch
+  branch_address: Krakow
+  branch_code: KR1
+  city: Krakow
+  country: Poland
+- name: Bnp Paribas Bank Polska S.A.
+  swift: PPABPLP1KR2
+  swift8: PPABPLP1
+  branch_name: 2nd Krakow Branch
+  branch_address: Krakow
+  branch_code: KR2
+  city: Krakow
+  country: Poland
+- name: Bnp Paribas Bank Polska S.A.
+  swift: PPABPLP1KR3
+  swift8: PPABPLP1
+  branch_name: 3rd Krakow Branch
+  branch_address: Krakow
+  branch_code: KR3
+  city: Krakow
+  country: Poland
+- name: Bnp Paribas Bank Polska S.A.
+  swift: PPABPLP1KT1
+  swift8: PPABPLP1
+  branch_name: Katowice Branch
+  branch_address: Katowice
+  branch_code: KT1
+  city: Katowice
+  country: Poland
+- name: Bnp Paribas Bank Polska S.A.
+  swift: PPABPLP1LD1
+  swift8: PPABPLP1
+  branch_name: Lodz Branch
+  branch_address: Lodz
+  branch_code: LD1
+  city: Lodz
+  country: Poland
+- name: Bnp Paribas Bank Polska S.A.
+  swift: PPABPLP1LF1
+  swift8: PPABPLP1
+  branch_name: Personal Banking Sub-Branch
+  branch_address: Lodz
+  branch_code: LF1
+  city: Lodz
+  country: Poland
+- name: Bnp Paribas Bank Polska S.A.
+  swift: PPABPLP1LU1
+  swift8: PPABPLP1
+  branch_name: Lublin Branch
+  branch_address: Lublin
+  branch_code: LU1
+  city: Lublin
+  country: Poland
+- name: Bnp Paribas Bank Polska S.A.
+  swift: PPABPLP1OL1
+  swift8: PPABPLP1
+  branch_name: 10012 Olsztyn
+  branch_address: Orkana 11 10012 Olsztyn
+  branch_code: OL1
+  city: Olsztyn
+  country: Poland
+- name: Bnp Paribas Bank Polska S.A.
+  swift: PPABPLP1OP1
+  swift8: PPABPLP1
+  branch_name: 45058 Opole
+  branch_address: Ozimska 25 45058 Opole
+  branch_code: OP1
+  city: Opole
+  country: Poland
+- name: Bnp Paribas Bank Polska S.A.
+  swift: PPABPLP1PF1
+  swift8: PPABPLP1
+  branch_name: Personal Banking Sub-Branch
+  branch_address: Poznan
+  branch_code: PF1
+  city: Poznan
+  country: Poland
+- name: Bnp Paribas Bank Polska S.A.
+  swift: PPABPLP1PO1
+  swift8: PPABPLP1
+  branch_name: Poznan Branch
+  branch_address: Poznan
+  branch_code: PO1
+  city: Poznan
+  country: Poland
+- name: Bnp Paribas S.A. Branch In Poland
+  swift: BNPAPLPXXXX
+  swift8: BNPAPLPX
+  branch_name: Head Office
+  branch_address: Pilsudskiego Square 1 00-078 Warszawa
+  branch_code: XXX
+  city: Warszawa
+  country: Poland
+- name: Bnp Paribas Securities Poland Branch
+  swift: PARBPLPXXXX
+  swift8: PARBPLPX
+  branch_name: Head Office
+  branch_address: Plac Pielsudskiego 1 00078 Warszawa
+  branch_code: XXX
+  city: Warszawa
+  country: Poland
+- name: Bondspot S.A.
+  swift: BONPPLP9XXX
+  swift8: BONPPLP9
+  branch_name: Head Office
+  branch_address: Focus V C 00-609 Warszawa
+  branch_code: XXX
+  city: Warszawa
+  country: Poland
+- name: Credit Agricole Cib
+  swift: CRLYPLPWXXX
+  swift8: CRLYPLPW
+  branch_name: Head Office
+  branch_address: Rondo Onz 1 00-124 Warszawa
+  branch_code: XXX
+  city: Warszawa
+  country: Poland
+- name: Dnb Bank Polska S.A.
+  swift: MHBFPLPWXXX
+  swift8: MHBFPLPW
+  branch_name: Head Office
+  branch_address: Postepu 15c 02-676 Warszawa
+  branch_code: XXX
+  city: Warszawa
+  country: Poland
+- name: Intesa Sanpaolo Spa
+  swift: BCITPLPWXXX
+  swift8: BCITPLPW
+  branch_name: Head Office
+  branch_address: Tower C - Centrum Gieldowe 00-498 Warszawa
+  branch_code: XXX
+  city: Warszawa
+  country: Poland
+- name: Mbank Hipoteczny Sa
+  swift: RHBHPLPWXXX
+  swift8: RHBHPLPW
+  branch_name: Head Office
+  branch_address: Focus Building 00-609 Warszawa
+  branch_code: XXX
+  city: Warszawa
+  country: Poland
+- name: Mbank S.A. (Formerly Bre Bank S.A.)
+  swift: BREXPLPWBIA
+  swift8: BREXPLPW
+  branch_name: Bialystok Branch
+  branch_address: Ul. Swietojanska 15 15-277 Bialystok
+  branch_code: BIA
+  city: Bialystok
+  country: Poland
+- name: Mbank S.A. (Formerly Bre Bank S.A.)
+  swift: BREXPLPWBIB
+  swift8: BREXPLPW
+  branch_name: Bielsko Biala Branch
+  branch_address: Bielsko Biala
+  branch_code: BIB
+  city: Bielsko Biala
+  country: Poland
+- name: Mbank S.A. (Formerly Bre Bank S.A.)
+  swift: BREXPLPWBYD
+  swift8: BREXPLPW
+  branch_name: Bydgoszcz Branch
+  branch_address: Bydgoszcz
+  branch_code: BYD
+  city: Bydgoszcz
+  country: Poland
+- name: Mbank S.A. (Formerly Bre Bank S.A.)
+  swift: BREXPLPWCZE
+  swift8: BREXPLPW
+  branch_name: Czestochowa Branch
+  branch_address: Czestochowa
+  branch_code: CZE
+  city: Czestochowa
+  country: Poland
+- name: Mbank S.A. (Formerly Bre Bank S.A.)
+  swift: BREXPLPWGDA
+  swift8: BREXPLPW
+  branch_name: Gdansk
+  branch_address: Gdansk
+  branch_code: GDA
+  city: Gdansk
+  country: Poland
+- name: Mbank S.A. (Formerly Bre Bank S.A.)
+  swift: BREXPLPWGDY
+  swift8: BREXPLPW
+  branch_name: Gdynia Branch
+  branch_address: Gdynia
+  branch_code: GDY
+  city: Gdynia
+  country: Poland
+- name: Mbank S.A. (Formerly Bre Bank S.A.)
+  swift: BREXPLPWGOR
+  swift8: BREXPLPW
+  branch_name: Gorzow Wielkopolski Branch
+  branch_address: Gorzow Wielkopolski
+  branch_code: GOR
+  city: Gorzow Wielkopolski
+  country: Poland
+- name: Mbank S.A. (Formerly Bre Bank S.A.)
+  swift: BREXPLPWKAL
+  swift8: BREXPLPW
+  branch_name: Kalisz Branch
+  branch_address: Kalisz
+  branch_code: KAL
+  city: Kalisz
+  country: Poland
+- name: Mbank S.A. (Formerly Bre Bank S.A.)
+  swift: BREXPLPWRCO
+  swift8: BREXPLPW
+  branch_name: Regional Operation Center
+  branch_address: Powstancow 43 40024 Katowice
+  branch_code: RCO
+  city: Katowice
+  country: Poland
+- name: Mbank S.A. (Formerly Bre Bank S.A.)
+  swift: BREXPLPWKAT
+  swift8: BREXPLPW
+  branch_name: Katowice
+  branch_address: Katowice
+  branch_code: KAT
+  city: Katowice
+  country: Poland
+- name: Mbank S.A. (Formerly Bre Bank S.A.)
+  swift: BREXPLPWKIE
+  swift8: BREXPLPW
+  branch_name: Kielce Branch
+  branch_address: Kielce
+  branch_code: KIE
+  city: Kielce
+  country: Poland
+- name: Mbank S.A. (Formerly Bre Bank S.A.)
+  swift: BREXPLPWKOS
+  swift8: BREXPLPW
+  branch_name: Corporate Branch
+  branch_address: Okrzei 3 75-203 Koszalin
+  branch_code: KOS
+  city: Koszalin
+  country: Poland
+- name: Mbank S.A. (Formerly Bre Bank S.A.)
+  swift: BREXPLPWKRA
+  swift8: BREXPLPW
+  branch_name: 31-503 Krakow
+  branch_address: Lubicz 25 31-503 Krakow
+  branch_code: KRA
+  city: Krakow
+  country: Poland
+- name: Mbank S.A. (Formerly Bre Bank S.A.)
+  swift: BREXPLPWMBK
+  swift8: BREXPLPW
+  branch_name: Internet Banking
+  branch_address: Mickiewicza 10 90050 Lodz
+  branch_code: MBK
+  city: Lodz
+  country: Poland
+- name: Mbank S.A. (Formerly Bre Bank S.A.)
+  swift: BREXPLPWMUL
+  swift8: BREXPLPW
+  branch_name: Retail Banking
+  branch_address: Lodz
+  branch_code: MUL
+  city: Lodz
+  country: Poland
+- name: Mbank S.A. (Formerly Bre Bank S.A.)
+  swift: BREXPLPWLOD
+  swift8: BREXPLPW
+  branch_name: 90-063 Lodz
+  branch_address: Piotrkowska 148-150 90-063 Lodz
+  branch_code: LOD
+  city: Lodz
+  country: Poland
+- name: Mbank S.A. (Formerly Bre Bank S.A.)
+  swift: BREXPLPWLUB
+  swift8: BREXPLPW
+  branch_name: 20-950 Lublin
+  branch_address: Krakowskie Przedmiescie 72 20-950 Lublin
+  branch_code: LUB
+  city: Lublin
+  country: Poland
+- name: Mbank S.A. (Formerly Bre Bank S.A.)
+  swift: BREXPLPWNWS
+  swift8: BREXPLPW
+  branch_name: Corporate Branch
+  branch_address: Prazmowskiego 11 33300 Nowy Sacz
+  branch_code: NWS
+  city: Nowy Sacz
+  country: Poland
+- name: Mbank S.A. (Formerly Bre Bank S.A.)
+  swift: BREXPLPWPOZ
+  swift8: BREXPLPW
+  branch_name: 60-967 Poznan
+  branch_address: Wielka 26 60-967 Poznan
+  branch_code: POZ
+  city: Poznan
+  country: Poland
+- name: Mbank S.A. (Formerly Bre Bank S.A.)
+  swift: BREXPLPWRYB
+  swift8: BREXPLPW
+  branch_name: Rybnik Branch
+  branch_address: Rybnik
+  branch_code: RYB
+  city: Rybnik
+  country: Poland
+- name: Volkswagen Bank
+  swift: VOWAPLP1XXX
+  swift8: VOWAPLP1
+  branch_name: Head Office
+  branch_address: Al. Jana Pawla Ii 15 00-828 Warszawa
+  branch_code: XXX
+  city: Warszawa
+  country: Poland
+- name: "'erste Securities Polska' Spowka Akcyjna"
+  swift: ERSPPLP1XXX
+  swift8: ERSPPLP1
+  branch_name: Head Office
+  branch_address: Saski Crescent 00103 Warszawa
+  branch_code: XXX
+  city: Warszawa
+  country: Poland
+- name: Abs Bank Spoldzielczy
+  swift: SPAYPLP1XXX
+  swift8: SPAYPLP1
+  branch_name: Head Office
+  branch_address: Ul. Krakowska 112 34-120 Andrychow
+  branch_code: XXX
+  city: Andrychow
+  country: Poland
+- name: Aig Bank Polska S.a.
+  swift: AIPOPLP1XXX
+  swift8: AIPOPLP1
+  branch_name: Head Office
+  branch_address: Strzegomska 42c 53-611 Wroclaw
+  branch_code: XXX
+  city: Wroclaw
+  country: Poland
+- name: Arcelormittal Poland Spolka Akcyjna
+  swift: USINPLP1XXX
+  swift8: USINPLP1
+  branch_name: Head Office
+  branch_address: Ul. Chorzowska 50 40-121 Katowice
+  branch_code: XXX
+  city: Katowice
+  country: Poland
+- name: Bank Inicjatyw Spoleczno-ekonomicznych S.a.
+  swift: BISPPLP1XXX
+  swift8: BISPPLP1
+  branch_name: Head Office
+  branch_address: 5 a Dubois Street 00-184 Warszawa
+  branch_code: XXX
+  city: Warszawa
+  country: Poland
+- name: Bank Spoldzielczo-ludowy W Elblagu
+  swift: SBLEPLP1XXX
+  swift8: SBLEPLP1
+  branch_name: Head Office
+  branch_address: Bs Elblag 82-300 Elblag
+  branch_code: XXX
+  city: Elblag
+  country: Poland
+- name: Bank Spoldzielczy 'bank Rolnikow' W Opolu
+  swift: SPRKPLP1XXX
+  swift8: SPRKPLP1
+  branch_name: Head Office
+  branch_address: Ul. Ksiazat Opolskich 36a 45005 Opole
+  branch_code: XXX
+  city: Opole
+  country: Poland
+- name: Bank Spoldzielczy 'pa-co-bank'
+  swift: SOPBPLP1XXX
+  swift8: SOPBPLP1
+  branch_name: Head Office
+  branch_address: Ul.Pulaskiego 8 95-200 Pabianice
+  branch_code: XXX
+  city: Pabianice
+  country: Poland
+- name: Bank Spoldzielczy 'wspolna Praca' W Kutnie
+  swift: BSWPPLP1XXX
+  swift8: BSWPPLP1
+  branch_name: Head Office
+  branch_address: Ul.Barlickiego 33 99-300 Kutno
+  branch_code: XXX
+  city: Kutno
+  country: Poland
+- name: Bank Spoldzielczy Bialystok
+  swift: BSBAPLP1XXX
+  swift8: BSBAPLP1
+  branch_name: Head Office
+  branch_address: Bs Bialystok 15-435 Bialystok
+  branch_code: XXX
+  city: Bialystok
+  country: Poland
+- name: Bank Spoldzielczy Czechowice-dziedzice-bestwina
+  swift: SPCDPLP1XXX
+  swift8: SPCDPLP1
+  branch_name: Head Office
+  branch_address: Ul. Slowackiego 14 43502 Czechowice-Dziedzice
+  branch_code: XXX
+  city: Czechowice-Dziedzice
+  country: Poland
+- name: Bank Spoldzielczy Glowaczow
+  swift: SPWCPLP1XXX
+  swift8: SPWCPLP1
+  branch_name: Head Office
+  branch_address: Bankowa 1 26-903 Glowaczow
+  branch_code: XXX
+  city: Glowaczow
+  country: Poland
+- name: Bank Spoldzielczy Halinow
+  swift: SPHLPLP1XXX
+  swift8: SPHLPLP1
+  branch_name: Head Office
+  branch_address: Pilsudskiego 36 05-074 Halinow
+  branch_code: XXX
+  city: Halinow
+  country: Poland
+- name: Bank Spoldzielczy Ilow
+  swift: SPILPLP1XXX
+  swift8: SPILPLP1
+  branch_name: Head Office
+  branch_address: Ul. Plocka 4 Ilow
+  branch_code: XXX
+  city: Ilow
+  country: Poland
+- name: Bank Spoldzielczy Mazowsze W Plocku
+  swift: SPMPPLP1XXX
+  swift8: SPMPPLP1
+  branch_name: Head Office
+  branch_address: Ul.Warminska 12 09-408 Plock
+  branch_code: XXX
+  city: Plock
+  country: Poland
+- name: Bank Spoldzielczy Muszyna-krynica Zdroj
+  swift: SPUZPLP1XXX
+  swift8: SPUZPLP1
+  branch_name: Head Office
+  branch_address: Ul. Pilsudskiego 8 33-370 Muszyna
+  branch_code: XXX
+  city: Muszyna
+  country: Poland
+- name: Bank Spoldzielczy Nadarzyn
+  swift: SPNDPLP1XXX
+  swift8: SPNDPLP1
+  branch_name: Head Office
+  branch_address: Pl. Ks.J. Poniatowskiego 5a Nadarzyn
+  branch_code: XXX
+  city: Nadarzyn
+  country: Poland
+- name: Bank Spoldzielczy Rzemiosla W Krakowie
+  swift: SPZKPLP1XXX
+  swift8: SPZKPLP1
+  branch_name: Head Office
+  branch_address: Ul. Dunajewskiego 7 31133 Krakow
+  branch_code: XXX
+  city: Krakow
+  country: Poland
+- name: Bank Spoldzielczy Rzemiosla W Lodzi
+  swift: BSRLPLP1XXX
+  swift8: BSRLPLP1
+  branch_name: Head Office
+  branch_address: Ul.Moniuszki 6 90-111 Lodz
+  branch_code: XXX
+  city: Lodz
+  country: Poland
+- name: Bank Spoldzielczy Rzemiosla W Radomiu
+  swift: SPOZPLP1XXX
+  swift8: SPOZPLP1
+  branch_name: Head Office
+  branch_address: Ul. Kilinskiego 15/17 26-600 Radom
+  branch_code: XXX
+  city: Radom
+  country: Poland
+- name: Bank Spoldzielczy W Aleksandrowie Lodzkim
+  swift: SPEOPLP1XXX
+  swift8: SPEOPLP1
+  branch_name: Head Office
+  branch_address: Ul. Ogrodowa 14 95070 Aleksandrow Lodzki
+  branch_code: XXX
+  city: Aleksandrow Lodzki
+  country: Poland
+- name: Bank Spoldzielczy W Andrespolu
+  swift: SPAOPLP1XXX
+  swift8: SPAOPLP1
+  branch_name: Head Office
+  branch_address: Ul. Rokicinska 130a 95-020 Andrespol
+  branch_code: XXX
+  city: Andrespol
+  country: Poland
+- name: Bank Spoldzielczy W Baborowie
+  swift: SPOBPLP1XXX
+  swift8: SPOBPLP1
+  branch_name: Head Office
+  branch_address: Ul. Moniuszki 1 48-120 Baborow
+  branch_code: XXX
+  city: Baborow
+  country: Poland
+- name: Bank Spoldzielczy W Belchatowie
+  swift: SBELPLP1XXX
+  swift8: SBELPLP1
+  branch_name: Head Office
+  branch_address: Ul.Pilsudskiego 14 97-400 Belchatow
+  branch_code: XXX
+  city: Belchatow
+  country: Poland
+- name: Bank Spoldzielczy W Belsku Duzym
+  swift: BELDPLP1XXX
+  swift8: BELDPLP1
+  branch_name: Head Office
+  branch_address: Ul.Nocznickiego 3 05-622 Belsk Duzy
+  branch_code: XXX
+  city: Belsk Duzy
+  country: Poland
+- name: Bank Spoldzielczy W Bialej Podlaskiej
+  swift: SPBPPLP1XXX
+  swift8: SPBPPLP1
+  branch_name: Head Office
+  branch_address: Ul. Moniuszki 10 21-500 Biala Podlaska
+  branch_code: XXX
+  city: Biala Podlaska
+  country: Poland
+- name: Bank Spoldzielczy W Bialej Rawskiej
+  swift: SPBSPLP1XXX
+  swift8: SPBSPLP1
+  branch_name: Head Office
+  branch_address: Ul. Jana Pawla Ii 38 96-230 Biala Rawska
+  branch_code: XXX
+  city: Biala Rawska
+  country: Poland
+- name: Bank Spoldzielczy W Bialobrzegach
+  swift: BSBIPLP1XXX
+  swift8: BSBIPLP1
+  branch_name: Head Office
+  branch_address: Szkolna 6 26800 Bialobrzegi
+  branch_code: XXX
+  city: Bialobrzegi
+  country: Poland
+- name: Bank Spoldzielczy W Bieczu
+  swift: SPBUPLP1XXX
+  swift8: SPBUPLP1
+  branch_name: Head Office
+  branch_address: Rynek 15 38-340 Biecz
+  branch_code: XXX
+  city: Biecz
+  country: Poland
+- name: Bank Spoldzielczy W Bielsku Podlaskim
+  swift: MAKIPLP1XXX
+  swift8: MAKIPLP1
+  branch_name: Head Office
+  branch_address: Ul. 3-Go Maja 14 17-100 Bielsk Podlaski
+  branch_code: XXX
+  city: Bielsk Podlaski
+  country: Poland
+- name: Bank Spoldzielczy W Bilgoraju
+  swift: SPBJPLP1XXX
+  swift8: SPBJPLP1
+  branch_name: Head Office
+  branch_address: Ul. Pocztowa 3 23-400 Bilgoraj
+  branch_code: XXX
+  city: Bilgoraj
+  country: Poland
+- name: Bank Spoldzielczy W Blazowej
+  swift: SPBWPLP1XXX
+  swift8: SPBWPLP1
+  branch_name: Head Office
+  branch_address: Ul. Bankowa 2 36030 Blazowa
+  branch_code: XXX
+  city: Blazowa
+  country: Poland
+- name: Bank Spoldzielczy W Bransku
+  swift: SPBNPLP1XXX
+  swift8: SPBNPLP1
+  branch_name: Head Office
+  branch_address: Bs Bransk 17-120 Bransk
+  branch_code: XXX
+  city: Bransk
+  country: Poland
+- name: Bank Spoldzielczy W Brodnicy
+  swift: SPBOPLP1XXX
+  swift8: SPBOPLP1
+  branch_name: Head Office
+  branch_address: Kamionka 27 87-300 Brodnica
+  branch_code: XXX
+  city: Brodnica
+  country: Poland
+- name: Bank Spoldzielczy W Busku-zdroju
+  swift: SPUKPLP1XXX
+  swift8: SPUKPLP1
+  branch_name: Head Office
+  branch_address: Ul. Stefana Batorego 1a 28-100 Busko-Zdroj
+  branch_code: XXX
+  city: Busko-Zdroj
+  country: Poland
+- name: Bank Spoldzielczy W Chemnie
+  swift: CULMPLP1XXX
+  swift8: CULMPLP1
+  branch_name: Head Office
+  branch_address: Ul. Dworcowa 5 86 200 Chelmno
+  branch_code: XXX
+  city: Chelmno
+  country: Poland
+- name: Bank Spoldzielczy W Chojnowie
+  swift: SPCJPLP1XXX
+  swift8: SPCJPLP1
+  branch_name: Head Office
+  branch_address: Ul. Rynek 18/19 59-225 Chojnow
+  branch_code: XXX
+  city: Chojnow
+  country: Poland
+- name: Bank Spoldzielczy W Chrzanowie
+  swift: SPCRPLP1XXX
+  swift8: SPCRPLP1
+  branch_name: Head Office
+  branch_address: Al. Henryka 22 32-500 Chrzanow
+  branch_code: XXX
+  city: Chrzanow
+  country: Poland
+- name: Bank Spoldzielczy W Chynowie
+  swift: SPCYPLP1XXX
+  swift8: SPCYPLP1
+  branch_name: Head Office
+  branch_address: Bs Chynow 05-650 Chynow
+  branch_code: XXX
+  city: Chynow
+  country: Poland
+- name: Bank Spoldzielczy W Ciechanowcu
+  swift: SPCCPLP1XXX
+  swift8: SPCCPLP1
+  branch_name: Head Office
+  branch_address: Ul. Plac 3 Maja 3 18-230 Ciechanowiec
+  branch_code: XXX
+  city: Ciechanowiec
+  country: Poland
+- name: Bank Spoldzielczy W Cieszynie
+  swift: SPCNPLP1XXX
+  swift8: SPCNPLP1
+  branch_name: Head Office
+  branch_address: Ul. Kochanowskiego 4 43-400 Cieszyn
+  branch_code: XXX
+  city: Cieszyn
+  country: Poland
+- name: Bank Spoldzielczy W Czyzewie
+  swift: SPCZPLP1XXX
+  swift8: SPCZPLP1
+  branch_name: Head Office
+  branch_address: Bs Czyzew 18-220 Czyzew
+  branch_code: XXX
+  city: Czyzew
+  country: Poland
+- name: Bank Spoldzielczy W Dobczycach
+  swift: SPDOPLP1XXX
+  swift8: SPDOPLP1
+  branch_name: Head Office
+  branch_address: Ul. Kilinskiego 2 32-410 Dobczyce
+  branch_code: XXX
+  city: Dobczyce
+  country: Poland
+- name: Bank Spoldzielczy W Dobrzeniu Wielkim
+  swift: SPDWPLP1XXX
+  swift8: SPDWPLP1
+  branch_name: Head Office
+  branch_address: Ul. Opolska 3 46081 Dobrzen Wielki
+  branch_code: XXX
+  city: Dobrzen Wielki
+  country: Poland
+- name: Bank Spoldzielczy W Dolhobyczowie
+  swift: SPOLPLP1XXX
+  swift8: SPOLPLP1
+  branch_name: Head Office
+  branch_address: Ul. Partyzantow 3 22540 Dolhobyczow
+  branch_code: XXX
+  city: Dolhobyczow
+  country: Poland
+- name: Bank Spoldzielczy W Dynowie
+  swift: SPDYPLP1XXX
+  swift8: SPDYPLP1
+  branch_name: Head Office
+  branch_address: Ul. Mickiewicza 3 36-065 Dynow
+  branch_code: XXX
+  city: Dynow
+  country: Poland
+- name: Bank Spoldzielczy W Dzialdowie Z/s W Lidzbarku
+  swift: DZLKPLP1XXX
+  swift8: DZLKPLP1
+  branch_name: Head Office
+  branch_address: Bs Dzialdowo 13-230 Lidzbark
+  branch_code: XXX
+  city: Lidzbark
+  country: Poland
+- name: Bank Spoldzielczy W Gabinie
+  swift: SPGBPLP1XXX
+  swift8: SPGBPLP1
+  branch_name: Head Office
+  branch_address: Bs Gabin 09-530 Gabin
+  branch_code: XXX
+  city: Gabin
+  country: Poland
+- name: Bank Spoldzielczy W Garwolinie
+  swift: SPGAPLP1XXX
+  swift8: SPGAPLP1
+  branch_name: Head Office
+  branch_address: Ul. Kosciuszki 24 08-400 Garwolin
+  branch_code: XXX
+  city: Garwolin
+  country: Poland
+- name: Bank Spoldzielczy W Gasocinie
+  swift: GASBPLP1XXX
+  swift8: GASBPLP1
+  branch_name: Head Office
+  branch_address: Ul.Glowna 23 06-440 Gasocin
+  branch_code: XXX
+  city: Gasocin
+  country: Poland
+- name: Bank Spoldzielczy W Glinojecku
+  swift: SPGIPLP1XXX
+  swift8: SPGIPLP1
+  branch_name: Head Office
+  branch_address: Ul.Plocka 14 06-450 Glinojeck
+  branch_code: XXX
+  city: Glinojeck
+  country: Poland
+- name: Bank Spoldzielczy W Gliwicach
+  swift: SPGWPLP1XXX
+  swift8: SPGWPLP1
+  branch_name: Head Office
+  branch_address: Ul. Dworcowa 41 44-100 Gliwice
+  branch_code: XXX
+  city: Gliwice
+  country: Poland
+- name: Bank Spoldzielczy W Glogowie
+  swift: SPOGPLP1XXX
+  swift8: SPOGPLP1
+  branch_name: Head Office
+  branch_address: Ul. Sikorskiego 15 67-200 Glogow
+  branch_code: XXX
+  city: Glogow
+  country: Poland
+- name: Bank Spoldzielczy W Glogowku
+  swift: SPGOPLP1XXX
+  swift8: SPGOPLP1
+  branch_name: Head Office
+  branch_address: Ul. Rynek 20a 48-250 Glogowek
+  branch_code: XXX
+  city: Glogowek
+  country: Poland
+- name: Bank Spoldzielczy W Glownie
+  swift: BSGLPLP1XXX
+  swift8: BSGLPLP1
+  branch_name: Head Office
+  branch_address: Ul.Mlynarska 5/13 95-015 Glowno
+  branch_code: XXX
+  city: Glowno
+  country: Poland
+- name: Bank Spoldzielczy W Gogolinie
+  swift: SPGNPLP1XXX
+  swift8: SPGNPLP1
+  branch_name: Head Office
+  branch_address: Ul.Stzelecka 13 47-320 Gogolin
+  branch_code: XXX
+  city: Gogolin
+  country: Poland
+- name: Bank Spoldzielczy W Goworowie
+  swift: BSGOPLP1XXX
+  swift8: BSGOPLP1
+  branch_name: Head Office
+  branch_address: Ul.Koscielna 1 07-440 Goworowo
+  branch_code: XXX
+  city: Goworowo
+  country: Poland
+- name: Bank Spoldzielczy W Grojcu
+  swift: BSGJPLP1XXX
+  swift8: BSGJPLP1
+  branch_name: Head Office
+  branch_address: Bs Grojec 05-600 Grojec
+  branch_code: XXX
+  city: Grojec
+  country: Poland
+- name: Bank Spoldzielczy W Grudusku
+  swift: BSGRPLP1XXX
+  swift8: BSGRPLP1
+  branch_name: Head Office
+  branch_address: Bs Grudusk 06-460 Grudusk
+  branch_code: XXX
+  city: Grudusk
+  country: Poland
+- name: Bank Spoldzielczy W Hajnowce
+  swift: HAJNPLP1XXX
+  swift8: HAJNPLP1
+  branch_name: Head Office
+  branch_address: Bs Hajnowka 17 200 Hajnowka
+  branch_code: XXX
+  city: Hajnowka
+  country: Poland
+- name: Bank Spoldzielczy W Ilowej
+  swift: SPIWPLP1XXX
+  swift8: SPIWPLP1
+  branch_name: Head Office
+  branch_address: Ul. Kolejowa 4 68-120 Ilowa
+  branch_code: XXX
+  city: Ilowa
+  country: Poland
+- name: Bank Spoldzielczy W Ilzy
+  swift: SPIYPLP1XXX
+  swift8: SPIYPLP1
+  branch_name: Head Office
+  branch_address: Ul. Rynek 1 27-100 Ilza
+  branch_code: XXX
+  city: Ilza
+  country: Poland
+- name: Bank Spoldzielczy W Izbicy
+  swift: SPIZPLP1XXX
+  swift8: SPIZPLP1
+  branch_name: Head Office
+  branch_address: Ul. Gminna 2 22375 Izbica
+  branch_code: XXX
+  city: Izbica
+  country: Poland
+- name: Bank Spoldzielczy W Jablonce
+  swift: SPJBPLP1XXX
+  swift8: SPJBPLP1
+  branch_name: Head Office
+  branch_address: Ul. Krakowska 3 34-480 Jablonka
+  branch_code: XXX
+  city: Jablonka
+  country: Poland
+- name: Bank Spoldzielczy W Jaroslawiu
+  swift: SPOAPLP1XXX
+  swift8: SPOAPLP1
+  branch_name: Head Office
+  branch_address: Ul. Slowackiego 7 37-500 Jaroslaw
+  branch_code: XXX
+  city: Jaroslaw
+  country: Poland
+- name: Bank Spoldzielczy W Jasiencu
+  swift: SPJSPLP1XXX
+  swift8: SPJSPLP1
+  branch_name: Head Office
+  branch_address: Ul. Warecka 44 05-604 Jasieniec
+  branch_code: XXX
+  city: Jasieniec
+  country: Poland
+- name: Bank Spoldzielczy W Jastrzebiu Zdroju
+  swift: SPJZPLP1XXX
+  swift8: SPJZPLP1
+  branch_name: Head Office
+  branch_address: Ul. 1 Maja 10 44-330 Jastrzebie Zdroj
+  branch_code: XXX
+  city: Jastrzebie Zdroj
+  country: Poland
+- name: Bank Spoldzielczy W Jordanowie
+  swift: SPJOPLP1XXX
+  swift8: SPJOPLP1
+  branch_name: Head Office
+  branch_address: Rynek 44 34240 Jordanow
+  branch_code: XXX
+  city: Jordanow
+  country: Poland
+- name: Bank Spoldzielczy W Kadzidle
+  swift: SPDDPLP1XXX
+  swift8: SPDDPLP1
+  branch_name: Head Office
+  branch_address: Kurpiowska 10 07-420 Kadzidlo
+  branch_code: XXX
+  city: Kadzidlo
+  country: Poland
+- name: Bank Spoldzielczy W Kamiennej Gorze
+  swift: SPKEPLP1XXX
+  swift8: SPKEPLP1
+  branch_name: Head Office
+  branch_address: Ul. Warynskiego 11 58-400 Kamienna Gora
+  branch_code: XXX
+  city: Kamienna Gora
+  country: Poland
+- name: Bank Spoldzielczy W Karczewie
+  swift: BSKAPLP1XXX
+  swift8: BSKAPLP1
+  branch_name: Head Office
+  branch_address: Bs Karczew 05-480 Karczew
+  branch_code: XXX
+  city: Karczew
+  country: Poland
+- name: Bank Spoldzielczy W Ketach
+  swift: SPKTPLP1XXX
+  swift8: SPKTPLP1
+  branch_name: Head Office
+  branch_address: Ul. Jana Iii Sobieskiego 16 32650 Kety
+  branch_code: XXX
+  city: Kety
+  country: Poland
+- name: Bank Spoldzielczy W Kielcach
+  swift: SPEHPLP1XXX
+  swift8: SPEHPLP1
+  branch_name: Head Office
+  branch_address: Ul. Zlota 9 25-015 Kielce
+  branch_code: XXX
+  city: Kielce
+  country: Poland
+- name: Bank Spoldzielczy W Kleszczowie
+  swift: KLESPLP1XXX
+  swift8: KLESPLP1
+  branch_name: Head Office
+  branch_address: Ul.Glowna 114 97-410 Kleszczow
+  branch_code: XXX
+  city: Kleszczow
+  country: Poland
+- name: Bank Spoldzielczy W Konskich
+  swift: SPKCPLP1XXX
+  swift8: SPKCPLP1
+  branch_name: Head Office
+  branch_address: Ul. Zamkowa 7 26-200 Konskie
+  branch_code: XXX
+  city: Konskie
+  country: Poland
+- name: Bank Spoldzielczy W Kozuchowie
+  swift: SPOUPLP1XXX
+  swift8: SPOUPLP1
+  branch_name: Head Office
+  branch_address: Ul. Klasztorna 4 67 120 Kozuchow
+  branch_code: XXX
+  city: Kozuchow
+  country: Poland
+- name: Bank Spoldzielczy W Krapkowicach
+  swift: SPKKPLP1XXX
+  swift8: SPKKPLP1
+  branch_name: Head Office
+  branch_address: Ul. Opolska 12 47-300 Krapkowice
+  branch_code: XXX
+  city: Krapkowice
+  country: Poland
+- name: Bank Spoldzielczy W Krasnymstawie
+  swift: SPKYPLP1XXX
+  swift8: SPKYPLP1
+  branch_name: Head Office
+  branch_address: Ul. Mostowa 25 22-300 Krasnystaw
+  branch_code: XXX
+  city: Krasnystaw
+  country: Poland
+- name: Bank Spoldzielczy W Kroscienku N/d
+  swift: SPRUPLP1XXX
+  swift8: SPRUPLP1
+  branch_name: Head Office
+  branch_address: Ul. Rynek 12 34 450 Kroscienko
+  branch_code: XXX
+  city: Kroscienko
+  country: Poland
+- name: Bank Spoldzielczy W Krosniewicach
+  swift: BSKRPLP1XXX
+  swift8: BSKRPLP1
+  branch_name: Head Office
+  branch_address: Ul.Torunska 5 99-340 Krosniewice
+  branch_code: XXX
+  city: Krosniewice
+  country: Poland
+- name: Bank Spoldzielczy W Krzeszowicach
+  swift: SPKZPLP1XXX
+  swift8: SPKZPLP1
+  branch_name: Head Office
+  branch_address: Ul. Krakowska 6 32065 Krzeszowice
+  branch_code: XXX
+  city: Krzeszowice
+  country: Poland
+- name: Bank Spoldzielczy W Ksiezpolu
+  swift: SPIPPLP1XXX
+  swift8: SPIPPLP1
+  branch_name: Head Office
+  branch_address: Ul. Bilgorajska 10 23 415 Ksiezpol
+  branch_code: XXX
+  city: Ksiezpol
+  country: Poland
+- name: Bank Spoldzielczy W Lapach
+  swift: BSLPPLP1XXX
+  swift8: BSLPPLP1
+  branch_name: Head Office
+  branch_address: Ul.Gen.Wl.Sikorskiego 80 18-100 Lapy
+  branch_code: XXX
+  city: Lapy
+  country: Poland
+- name: Bank Spoldzielczy W Laszczowie
+  swift: SPACPLP1XXX
+  swift8: SPACPLP1
+  branch_name: Head Office
+  branch_address: Ul. 3-Go Maja 13 22-650 Laszczow
+  branch_code: XXX
+  city: Laszczow
+  country: Poland
+- name: Bank Spoldzielczy W Legionowie
+  swift: SPLGPLP1XXX
+  swift8: SPLGPLP1
+  branch_name: Head Office
+  branch_address: Bs Legionowo 05-120 Legionowo
+  branch_code: XXX
+  city: Legionowo
+  country: Poland
+- name: Bank Spoldzielczy W Lesnicy
+  swift: SPLYPLP1XXX
+  swift8: SPLYPLP1
+  branch_name: Head Office
+  branch_address: Ul. Gogolinska 2 47 100 Strzelce Opolskie
+  branch_code: XXX
+  city: Strzelce Opolskie
+  country: Poland
+- name: Bank Spoldzielczy W Lesniowicach
+  swift: SPLWPLP1XXX
+  swift8: SPLWPLP1
+  branch_name: Head Office
+  branch_address: Lesniowice 22a 22-122 Lesniowice
+  branch_code: XXX
+  city: Lesniowice
+  country: Poland
+- name: Bank Spoldzielczy W Lesznowoli
+  swift: BSLCPLP1XXX
+  swift8: BSLCPLP1
+  branch_name: Head Office
+  branch_address: Ul.Sloneczna 223 05-506 Lesznowola
+  branch_code: XXX
+  city: Lesznowola
+  country: Poland
+- name: Bank Spoldzielczy W Limanowej
+  swift: SPLMPLP1XXX
+  swift8: SPLMPLP1
+  branch_name: Head Office
+  branch_address: Ul. Rynek 7 34-600 Limanowa
+  branch_code: XXX
+  city: Limanowa
+  country: Poland
+- name: Bank Spoldzielczy W Lipnie
+  swift: LIPNPLP1XXX
+  swift8: LIPNPLP1
+  branch_name: Head Office
+  branch_address: Bs Lipno 87-600 Lipno
+  branch_code: XXX
+  city: Lipno
+  country: Poland
+- name: Bank Spoldzielczy W Lipsku
+  swift: SLIPPLP1XXX
+  swift8: SLIPPLP1
+  branch_name: Head Office
+  branch_address: Bs Lipsko 27-300 Lipsko
+  branch_code: XXX
+  city: Lipsko
+  country: Poland
+- name: Bank Spoldzielczy W Losicach
+  swift: SPOHPLP1XXX
+  swift8: SPOHPLP1
+  branch_name: Head Office
+  branch_address: Bialska 6, Losice 08-200 Losice
+  branch_code: XXX
+  city: Losice
+  country: Poland
+- name: Bank Spoldzielczy W Lubartowie
+  swift: PSSLPLP1XXX
+  swift8: PSSLPLP1
+  branch_name: Head Office
+  branch_address: Ul. Lubleska 30a 21100 Lubartow
+  branch_code: XXX
+  city: Lubartow
+  country: Poland
+- name: Bank Spoldzielczy W Lubnianach
+  swift: SPLUPLP1XXX
+  swift8: SPLUPLP1
+  branch_name: Head Office
+  branch_address: Ul. Osowska 1 46-024 Lubniany
+  branch_code: XXX
+  city: Lubniany
+  country: Poland
+- name: Bank Spoldzielczy W Malborku
+  swift: SPMLPLP1XXX
+  swift8: SPMLPLP1
+  branch_name: Head Office
+  branch_address: Bs Malbork 82-200 Malbork
+  branch_code: XXX
+  city: Malbork
+  country: Poland
+- name: Bank Spoldzielczy W Miedzyrzecu Podlaskim
+  swift: SPMSPLP1XXX
+  swift8: SPMSPLP1
+  branch_name: Head Office
+  branch_address: Ul. Warszawska 22 21-560 Miedzyrzec Podlaski
+  branch_code: XXX
+  city: Miedzyrzec Podlaski
+  country: Poland
+- name: Bank Spoldzielczy W Mielcu
+  swift: POMIPLP1XXX
+  swift8: POMIPLP1
+  branch_name: Head Office
+  branch_address: Ul. Lwowska 2 39300 Mielec
+  branch_code: XXX
+  city: Mielec
+  country: Poland
+- name: Bank Spoldzielczy W Miliczu
+  swift: SPIIPLP1XXX
+  swift8: SPIIPLP1
+  branch_name: Head Office
+  branch_address: Ul. Trzebnicka 7 56-300 Milicz
+  branch_code: XXX
+  city: Milicz
+  country: Poland
+- name: Bank Spoldzielczy W Minsku Mazowieckim
+  swift: SPMMPLP1XXX
+  swift8: SPMMPLP1
+  branch_name: Head Office
+  branch_address: Ul. Pilsudskiego 6 05 300 Minsk Mazowiecki
+  branch_code: XXX
+  city: Minsk Mazowiecki
+  country: Poland
+- name: Bank Spoldzielczy W Mlawie
+  swift: BSMLPLP1XXX
+  swift8: BSMLPLP1
+  branch_name: Head Office
+  branch_address: Ul.Sadowa 3 06-500 Mlawa
+  branch_code: XXX
+  city: Mlawa
+  country: Poland
+- name: Bank Spoldzielczy W Monkach
+  swift: SPMCPLP1XXX
+  swift8: SPMCPLP1
+  branch_name: Head Office
+  branch_address: Ul. Wyzwolenia 13 19-100 Monki
+  branch_code: XXX
+  city: Monki
+  country: Poland
+- name: Bank Spoldzielczy W Mszanie Dolnej
+  swift: SPZLPLP1XXX
+  swift8: SPZLPLP1
+  branch_name: Head Office
+  branch_address: Ul. Rynek 1 34-730 Mszana Dolna
+  branch_code: XXX
+  city: Mszana
+  country: Poland
+- name: Bank Spoldzielczy W Mszczonowie
+  swift: MSZCPLP1XXX
+  swift8: MSZCPLP1
+  branch_name: Head Office
+  branch_address: Ul.Warszawska 5 96-320 Mszczonow
+  branch_code: XXX
+  city: Mszczonow
+  country: Poland
+- name: Bank Spoldzielczy W Naleczowie
+  swift: SPNLPLP1XXX
+  swift8: SPNLPLP1
+  branch_name: Head Office
+  branch_address: Ul. 1 Maja 16 24-150 Naleczow
+  branch_code: XXX
+  city: Naleczow
+  country: Poland
+- name: Bank Spoldzielczy W Narwi
+  swift: SPNWPLP1XXX
+  swift8: SPNWPLP1
+  branch_name: Head Office
+  branch_address: Ul Dabrowskiego 1 17-210 Narew
+  branch_code: XXX
+  city: Narew
+  country: Poland
+- name: Bank Spoldzielczy W Nasielsku
+  swift: SPNIPLP1XXX
+  swift8: SPNIPLP1
+  branch_name: Head Office
+  branch_address: Ul.Kosciuszki 19 05-190 Nasielsk
+  branch_code: XXX
+  city: Nasielsk
+  country: Poland
+- name: Bank Spoldzielczy W Nieliszu Z/s W Stawie Noakowskim
+  swift: SNSNPLP1XXX
+  swift8: SNSNPLP1
+  branch_name: Head Office
+  branch_address: Staw Noakowski 100 22413 Nielisz
+  branch_code: XXX
+  city: Nielisz
+  country: Poland
+- name: Bank Spoldzielczy W Nowej Soli
+  swift: SPWOPLP1XXX
+  swift8: SPWOPLP1
+  branch_name: Head Office
+  branch_address: Ul. Bankowa 1 67-100 Nowa Sol
+  branch_code: XXX
+  city: Nowa Sol
+  country: Poland
+- name: Bank Spoldzielczy W Nowym Dworze Mazowieckim
+  swift: SNDMPLP1XXX
+  swift8: SNDMPLP1
+  branch_name: Head Office
+  branch_address: Ul. Slowackiego 8 05-100 Nowy Dwor Mazowiecki
+  branch_code: XXX
+  city: Nowy Dwor Mazowiecki
+  country: Poland
+- name: Bank Spoldzielczy W Nowym Targu
+  swift: SPNTPLP1XXX
+  swift8: SPNTPLP1
+  branch_name: Head Office
+  branch_address: Ul. Rynek 11 34400 Nowy Targ
+  branch_code: XXX
+  city: Nowy Targ
+  country: Poland
+- name: Bank Spoldzielczy W Obszy
+  swift: SPZYPLP1XXX
+  swift8: SPZYPLP1
+  branch_name: Head Office
+  branch_address: Obsza 34a 23-413 Obsza
+  branch_code: XXX
+  city: Obsza
+  country: Poland
+- name: Bank Spoldzielczy W Olsztynku
+  swift: SPOYPLP1XXX
+  swift8: SPOYPLP1
+  branch_name: Head Office
+  branch_address: Rynek 2 11-015 Olsztynek
+  branch_code: XXX
+  city: Olsztynek
+  country: Poland
+- name: Bank Spoldzielczy W Opocznie
+  swift: SPOPPLP1XXX
+  swift8: SPOPPLP1
+  branch_name: Head Office
+  branch_address: Pl.Kosciuszki 3 26-300 Opoczno
+  branch_code: XXX
+  city: Opoczno
+  country: Poland
+- name: Bank Spoldzielczy W Ostrolece
+  swift: OSTRPLP1XXX
+  swift8: OSTRPLP1
+  branch_name: Head Office
+  branch_address: Ul.Kilinskiego 42 07-410 Ostroleka
+  branch_code: XXX
+  city: Ostroleka
+  country: Poland
+- name: Bank Spoldzielczy W Ostrowi Mazowieckiej
+  swift: SPOMPLP1XXX
+  swift8: SPOMPLP1
+  branch_name: Head Office
+  branch_address: Bs Ostrow Mazowiecka 07-300 Ostrow Mazowiecka
+  branch_code: XXX
+  city: Ostrow Mazowiecka
+  country: Poland
+- name: Bank Spoldzielczy W Oswiecimiu
+  swift: SPOWPLP1XXX
+  swift8: SPOWPLP1
+  branch_name: Head Office
+  branch_address: Ul. Koscielna 1 32600 Oswiecim
+  branch_code: XXX
+  city: Oswiecim
+  country: Poland
+- name: Bank Spoldzielczy W Otwocku
+  swift: BSOTPLP1XXX
+  swift8: BSOTPLP1
+  branch_name: Head Office
+  branch_address: Bs Otwock 05-400 Otwock
+  branch_code: XXX
+  city: Otwock
+  country: Poland
+- name: Bank Spoldzielczy W Pawlowicach
+  swift: SPWWPLP1XXX
+  swift8: SPWWPLP1
+  branch_name: Head Office
+  branch_address: Ul. Zjednoczenia 60 43250 Pawlowice
+  branch_code: XXX
+  city: Pawlowice
+  country: Poland
+- name: Bank Spoldzielczy W Piasecznie
+  swift: SPPIPLP1XXX
+  swift8: SPPIPLP1
+  branch_name: Head Office
+  branch_address: Bs Piaseczno 05-500 Piaseczno
+  branch_code: XXX
+  city: Piaseczno
+  country: Poland
+- name: Bank Spoldzielczy W Pionkach
+  swift: BSPIPLP1XXX
+  swift8: BSPIPLP1
+  branch_name: Head Office
+  branch_address: Plac Konstytucji 3 Maja 4 26-670 Pionki
+  branch_code: XXX
+  city: Pionki
+  country: Poland
+- name: Bank Spoldzielczy W Plonsku
+  swift: PLONPLP1XXX
+  swift8: PLONPLP1
+  branch_name: Head Office
+  branch_address: Bs Plonsk 09-100 Plonsk
+  branch_code: XXX
+  city: Plonsk
+  country: Poland
+- name: Bank Spoldzielczy W Poddebicach
+  swift: SPPEPLP1XXX
+  swift8: SPPEPLP1
+  branch_name: Head Office
+  branch_address: Ul. Lodzka 33 99-200 Poddebice
+  branch_code: XXX
+  city: Poddebice
+  country: Poland
+- name: Bank Spoldzielczy W Poniatowej
+  swift: SPPNPLP1XXX
+  swift8: SPPNPLP1
+  branch_name: Head Office
+  branch_address: Ul. 1maja 7b 24-320 Poniatowa
+  branch_code: XXX
+  city: Poniatowa
+  country: Poland
+- name: Bank Spoldzielczy W Proszowicach
+  swift: SPPWPLP1XXX
+  swift8: SPPWPLP1
+  branch_name: Head Office
+  branch_address: Ul. Krakowska 53 32-100 Proszowice
+  branch_code: XXX
+  city: Proszowice
+  country: Poland
+- name: Bank Spoldzielczy W Przedborzu
+  swift: SPERPLP1XXX
+  swift8: SPERPLP1
+  branch_name: Head Office
+  branch_address: Bs Przedborz 97-570 Przedborz
+  branch_code: XXX
+  city: Przedborz
+  country: Poland
+- name: Bank Spoldzielczy W Przeworsku
+  swift: SPPZPLR1XXX
+  swift8: SPPZPLR1
+  branch_name: Head Office
+  branch_address: Ul. Krakowska 11 37-200 Przeworsk
+  branch_code: XXX
+  city: Przeworsk
+  country: Poland
+- name: Bank Spoldzielczy W Przysusze
+  swift: MGRZPLP1XXX
+  swift8: MGRZPLP1
+  branch_name: Head Office
+  branch_address: Ul.Grodzka 3 26-400 Przysucha
+  branch_code: XXX
+  city: Przysucha
+  country: Poland
+- name: Bank Spoldzielczy W Pultusku
+  swift: SPPUPLP1XXX
+  swift8: SPPUPLP1
+  branch_name: Head Office
+  branch_address: Bs Pultusk 06-100 Pultusk
+  branch_code: XXX
+  city: Pultusk
+  country: Poland
+- name: Bank Spoldzielczy W Rabie Wyznej
+  swift: SPRJPLP1XXX
+  swift8: SPRJPLP1
+  branch_name: Head Office
+  branch_address: Raba Wyzna 30 34-721 Raba Wyzna
+  branch_code: XXX
+  city: Raba Wyzna
+  country: Poland
+- name: Bank Spoldzielczy W Raciazu
+  swift: BSRAPLP1XXX
+  swift8: BSRAPLP1
+  branch_name: Head Office
+  branch_address: Ul.Mlawska 20a 09-140 Raciaz
+  branch_code: XXX
+  city: Raciaz
+  country: Poland
+- name: Bank Spoldzielczy W Radzyniu Podlaskim
+  swift: SPRPPLP1XXX
+  swift8: SPRPPLP1
+  branch_name: Head Office
+  branch_address: Ul. Ostrowiecka 35 21-300 Radzyn Podlaski
+  branch_code: XXX
+  city: Radzyn Podlaski
+  country: Poland
+- name: Bank Spoldzielczy W Raszynie
+  swift: SPRSPLP1XXX
+  swift8: SPRSPLP1
+  branch_name: Head Office
+  branch_address: Bs Raszyn 05-090 Raszyn
+  branch_code: XXX
+  city: Raszyn
+  country: Poland
+- name: Bank Spoldzielczy W Rozanie
+  swift: SPONPLP1XXX
+  swift8: SPONPLP1
+  branch_name: Head Office
+  branch_address: Ul. Wilenska 2 06-230 Rozan
+  branch_code: XXX
+  city: Rozan
+  country: Poland
+- name: Bank Spoldzielczy W Rutce Tartak
+  swift: SPUTPLP1XXX
+  swift8: SPUTPLP1
+  branch_name: Head Office
+  branch_address: Ul. 3 Maja 6 16-406 Rutka Tartak
+  branch_code: XXX
+  city: Rutka Tartak
+  country: Poland
+- name: Bank Spoldzielczy W Rymanowie
+  swift: SPRYPLP1XXX
+  swift8: SPRYPLP1
+  branch_name: Head Office
+  branch_address: Ul. Rynek 14 38-480 Rymanow
+  branch_code: XXX
+  city: Rymanow
+  country: Poland
+- name: Bank Spoldzielczy W Rzeszowie
+  swift: SPZEPLP1XXX
+  swift8: SPZEPLP1
+  branch_name: Head Office
+  branch_address: Ul. Leopolda Lisa Kuli 16 35-025 Rzeszow
+  branch_code: XXX
+  city: Rzeszow
+  country: Poland
+- name: Bank Spoldzielczy W Skaryszewie
+  swift: SKARPLP1XXX
+  swift8: SKARPLP1
+  branch_name: Head Office
+  branch_address: Ul.Zeromskiego 7a 26-640 Skaryszew
+  branch_code: XXX
+  city: Skaryszew
+  country: Poland
+- name: Bank Spoldzielczy W Skierniewicach
+  swift: SPIKPLP1XXX
+  swift8: SPIKPLP1
+  branch_name: Head Office
+  branch_address: Ul. Raymonta 25 96-100 Skierniewice
+  branch_code: XXX
+  city: Skierniewice
+  country: Poland
+- name: Bank Spoldzielczy W Skoczowie
+  swift: SPOCPLP1XXX
+  swift8: SPOCPLP1
+  branch_name: Head Office
+  branch_address: Ul. Objazdowa 10 43-430 Skoczow
+  branch_code: XXX
+  city: Skoczow
+  country: Poland
+- name: Bank Spoldzielczy W Slomnikach
+  swift: SPOIPLP1XXX
+  swift8: SPOIPLP1
+  branch_name: Head Office
+  branch_address: Ul. Zeromskiego 1a 32-090 Slomniki
+  branch_code: XXX
+  city: Slomniki
+  country: Poland
+- name: Bank Spoldzielczy W Sokolach
+  swift: BSSOPLP1XXX
+  swift8: BSSOPLP1
+  branch_name: Head Office
+  branch_address: Ul.Gen.Wl.Sikorskiego 12 18-218 Sokoly
+  branch_code: XXX
+  city: Sokoly
+  country: Poland
+- name: Bank Spoldzielczy W Srodzie Slaskiej
+  swift: SPSJPLP1XXX
+  swift8: SPSJPLP1
+  branch_name: Head Office
+  branch_address: Ul. Wroclawska 2 55-300 Sroda Slaska
+  branch_code: XXX
+  city: Sroda
+  country: Poland
+- name: Bank Spoldzielczy W Strykowie
+  swift: SSTYPLP1XXX
+  swift8: SSTYPLP1
+  branch_name: Head Office
+  branch_address: Bs Strykow 95-010 Strykow
+  branch_code: XXX
+  city: Strykow
+  country: Poland
+- name: Bank Spoldzielczy W Strzegowie
+  swift: BSSTPLP1XXX
+  swift8: BSSTPLP1
+  branch_name: Head Office
+  branch_address: Ul.Wyzwolenia 6 06-445 Strzegowo
+  branch_code: XXX
+  city: Strzegowo
+  country: Poland
+- name: Bank Spoldzielczy W Suchedniowie
+  swift: SPSNPLP1XXX
+  swift8: SPSNPLP1
+  branch_name: Head Office
+  branch_address: Ul. Mickiewicza 8 26-130 Suchedniow
+  branch_code: XXX
+  city: Suchedniow
+  country: Poland
+- name: Bank Spoldzielczy W Szczebrzeszynie
+  swift: SPZBPLP1XXX
+  swift8: SPZBPLP1
+  branch_name: Head Office
+  branch_address: Pl. T. Kosciuszki 31 22-460 Szczebrzeszyn
+  branch_code: XXX
+  city: Szczebrzeszyn
+  country: Poland
+- name: Bank Spoldzielczy W Szczekocinach
+  swift: SPZNPLP1XXX
+  swift8: SPZNPLP1
+  branch_name: Head Office
+  branch_address: Ul. Zeromskiego 8 42-445 Szczekociny
+  branch_code: XXX
+  city: Szczekociny
+  country: Poland
+- name: Bank Spoldzielczy W Szczytnie
+  swift: SPZZPLP1XXX
+  swift8: SPZZPLP1
+  branch_name: Head Office
+  branch_address: Lomzynska 20 12-100 Szczytno
+  branch_code: XXX
+  city: Szczytno
+  country: Poland
+- name: Bank Spoldzielczy W Tarczynie
+  swift: SPTZPLP1XXX
+  swift8: SPTZPLP1
+  branch_name: Head Office
+  branch_address: Ul.Stepkowskiego 4 05-555 Tarczyn
+  branch_code: XXX
+  city: Tarczyn
+  country: Poland
+- name: Bank Spoldzielczy W Tarnobrzegu
+  swift: SPTOPLP1XXX
+  swift8: SPTOPLP1
+  branch_name: Head Office
+  branch_address: Ul. Sokola 12 39-400 Tarnobrzeg
+  branch_code: XXX
+  city: Tarnobrzeg
+  country: Poland
+- name: Bank Spoldzielczy W Tarnowskich Gorach
+  swift: SPTHPLP1XXX
+  swift8: SPTHPLP1
+  branch_name: Head Office
+  branch_address: Ul. Bytomska 6 41600 Tarnowskie Gory
+  branch_code: XXX
+  city: Tarnowskie Gory
+  country: Poland
+- name: Bank Spoldzielczy W Teresinie
+  swift: BSTRPLP1XXX
+  swift8: BSTRPLP1
+  branch_name: Head Office
+  branch_address: Ul.Szymanowska 14 96-515 Teresin
+  branch_code: XXX
+  city: Teresin
+  country: Poland
+- name: Bank Spoldzielczy W Trzebielu
+  swift: SPTBPLP1XXX
+  swift8: SPTBPLP1
+  branch_name: Head Office
+  branch_address: Ul. Wroclawska 21 68-200 Zary
+  branch_code: XXX
+  city: Zary
+  country: Poland
+- name: Bank Spoldzielczy W Trzebnicy
+  swift: SPTEPLP1XXX
+  swift8: SPTEPLP1
+  branch_name: Head Office
+  branch_address: Ul. Prusicka 1 55-100 Trzebnica
+  branch_code: XXX
+  city: Trzebnica
+  country: Poland
+- name: Bank Spoldzielczy W Tworogu
+  swift: SPTWPLP1XXX
+  swift8: SPTWPLP1
+  branch_name: Head Office
+  branch_address: Ul. Zamkowa 15 42-690 Tworog
+  branch_code: XXX
+  city: Tworog
+  country: Poland
+- name: Bank Spoldzielczy W Ustroniu
+  swift: SPUSPLP1XXX
+  swift8: SPUSPLP1
+  branch_name: Head Office
+  branch_address: Ul. Daszynskiego 10a 43 450 Ustron
+  branch_code: XXX
+  city: Ustron
+  country: Poland
+- name: Bank Spoldzielczy W Warce
+  swift: BSWRPLP1XXX
+  swift8: BSWRPLP1
+  branch_name: Head Office
+  branch_address: Bs Warka 05-660 Warka
+  branch_code: XXX
+  city: Warka
+  country: Poland
+- name: Bank Spoldzielczy W Wasewie
+  swift: WASWPLP1XXX
+  swift8: WASWPLP1
+  branch_name: Head Office
+  branch_address: Zastawska 8 07-311 Wasewo
+  branch_code: XXX
+  city: Wasewo
+  country: Poland
+- name: Bank Spoldzielczy W Wegorzewie
+  swift: SPWGPLP1XXX
+  swift8: SPWGPLP1
+  branch_name: Head Office
+  branch_address: Ul. Pionierow 27 11-600 Wegorzewo
+  branch_code: XXX
+  city: Wegorzewo
+  country: Poland
+- name: Bank Spoldzielczy W Wiskitkach
+  swift: SPWSPLP1XXX
+  swift8: SPWSPLP1
+  branch_name: Head Office
+  branch_address: Bs Wiskitki 96-315 Wiskitki
+  branch_code: XXX
+  city: Wiskitki
+  country: Poland
+- name: Bank Spoldzielczy W Wolbromiu
+  swift: SPWBPLP1XXX
+  swift8: SPWBPLP1
+  branch_name: Head Office
+  branch_address: Ul. Krakowska 26 32-340 Wolbrom
+  branch_code: XXX
+  city: Wolbrom
+  country: Poland
+- name: Bank Spoldzielczy W Wysokiem Mazowieckiem
+  swift: SPWMPLP1XXX
+  swift8: SPWMPLP1
+  branch_name: Head Office
+  branch_address: Ul. Jagiellonska 14 18-200 Wysokie Mazowieckie
+  branch_code: XXX
+  city: Wysokie Mazowieckie
+  country: Poland
+- name: Bank Spoldzielczy W Zabkowicach Slaskich
+  swift: SPZSPLP1XXX
+  swift8: SPZSPLP1
+  branch_name: Head Office
+  branch_address: Rynek 10 57-200 Zabkowice Slaskie
+  branch_code: XXX
+  city: Zabkowice Slaskie
+  country: Poland
+- name: Bank Spoldzielczy W Zaganiu
+  swift: SPZAPLP1XXX
+  swift8: SPZAPLP1
+  branch_name: Head Office
+  branch_address: Ul. X-Lecia Pl 6/1 68-100 Zagan
+  branch_code: XXX
+  city: Zagan
+  country: Poland
+- name: Bank Spoldzielczy W Zaluskach
+  swift: BSZSPLP1XXX
+  swift8: BSZSPLP1
+  branch_name: Head Office
+  branch_address: Bs Zaluski 09-142 Zaluski
+  branch_code: XXX
+  city: Zaluski
+  country: Poland
+- name: Bank Spoldzielczy W Zambrowie
+  swift: SPZMPLP1XXX
+  swift8: SPZMPLP1
+  branch_name: Head Office
+  branch_address: Ul. Bialostocka 2 18300 Zambrow
+  branch_code: XXX
+  city: Zambrow
+  country: Poland
+- name: Bank Spoldzielczy W Zatorze
+  swift: SPZTPLP1XXX
+  swift8: SPZTPLP1
+  branch_name: Head Office
+  branch_address: Ul. Rozana 2 32-640 Zator
+  branch_code: XXX
+  city: Zator
+  country: Poland
+- name: Bank Spoldzielczy W Zawadzkiem
+  swift: SPZDPLP1XXX
+  swift8: SPZDPLP1
+  branch_name: Head Office
+  branch_address: Ul. Opolska 38 47120 Zawadzkie
+  branch_code: XXX
+  city: Zawadzkie
+  country: Poland
+- name: Bank Spoldzielczy W Zgierzu
+  swift: SPZGPLP1XXX
+  swift8: SPZGPLP1
+  branch_name: Head Office
+  branch_address: Ul. Dluga 62a 95-100 Zgierz
+  branch_code: XXX
+  city: Zgierz
+  country: Poland
+- name: Bank Spoldzielczy W Zorach
+  swift: SPZCPLP1XXX
+  swift8: SPZCPLP1
+  branch_name: Head Office
+  branch_address: Ul. Meczennikow Oswiecimskich 28 44-240 Zory
+  branch_code: XXX
+  city: Zory
+  country: Poland
+- name: Bank Spoldzielczy W Zurominie
+  swift: SPZUPLP1XXX
+  swift8: SPZUPLP1
+  branch_name: Head Office
+  branch_address: Plac Wolnosci 3 09-300 Zuromin
+  branch_code: XXX
+  city: Zuromin
+  country: Poland
+- name: Bank Spoldzielczy W Zwoleniu
+  swift: SPZOPLP1XXX
+  swift8: SPZOPLP1
+  branch_name: Head Office
+  branch_address: Aleja Jana Pawla Ii 25 26-700 Zwolen
+  branch_code: XXX
+  city: Zwolen
+  country: Poland
+- name: Bank Spoldzielczy Ziemi Krasnickiej W Krasniku
+  swift: SZKKPLP1XXX
+  swift8: SZKKPLP1
+  branch_name: Head Office
+  branch_address: Ul. Ogrodowa 5 23-200 Krasnik
+  branch_code: XXX
+  city: Krasnik
+  country: Poland
+- name: Bank Spoldzielczy Ziemi Leczyckiej W Leczycy
+  swift: SZLLPLP1XXX
+  swift8: SZLLPLP1
+  branch_name: Head Office
+  branch_address: Bs Leczyca 99-100 Leczyca
+  branch_code: XXX
+  city: Leczyca
+  country: Poland
+- name: Bank Spoldzielczy Ziemi Lowickiej W Lowiczu
+  swift: BSZLPLP1XXX
+  swift8: BSZLPLP1
+  branch_name: Head Office
+  branch_address: Stary Rynek 18 99-400 Lowicz
+  branch_code: XXX
+  city: Lowicz
+  country: Poland
+- name: Bank Spoldzielczy Ziemi Piotrkowskiej
+  swift: ZIPIPLP1XXX
+  swift8: ZIPIPLP1
+  branch_name: Head Office
+  branch_address: Mickiewicza 1 97-300 Piotrkow Trybunalski
+  branch_code: XXX
+  city: Piotrkow Trybunalski
+  country: Poland
+- name: Bank Spoldzielczyw Konskowoli
+  swift: SPKLPLP1XXX
+  swift8: SPKLPLP1
+  branch_name: Head Office
+  branch_address: Ul. Lubelska 91a 24 130 Konskowola
+  branch_code: XXX
+  city: Konskowola
+  country: Poland
+- name: Bank Spoldzileczy W Jasionce
+  swift: SPJAPLP1XXX
+  swift8: SPJAPLP1
+  branch_name: Head Office
+  branch_address: Jasionka 71a 36-002 Jasionka
+  branch_code: XXX
+  city: Jasionka
+  country: Poland
+- name: Bank Spowdzielczy W Czersku
+  swift: SPCEPLP1XXX
+  swift8: SPCEPLP1
+  branch_name: Head Office
+  branch_address: Ul. Dr Zielinskiego 4 89 650 Czersk
+  branch_code: XXX
+  city: Czersk
+  country: Poland
+- name: Bank Spowdzielczy W Szydwowcu
+  swift: BSSZPLP1XXX
+  swift8: BSSZPLP1
+  branch_name: Head Office
+  branch_address: Ul. Bankowa 7 26-500 Szydlowiec
+  branch_code: XXX
+  city: Szydlowiec
+  country: Poland
+- name: Beskidzki Bank Spoldzielczy
+  swift: SPBBPLP1XXX
+  swift8: SPBBPLP1
+  branch_name: Head Office
+  branch_address: Ul. Komorowicka 272 43-346 Bielsko-Biala
+  branch_code: XXX
+  city: Bielsko Biala
+  country: Poland
+- name: Beskidzki Dom Maklerski Sa
+  swift: BEDMPLP1XXX
+  swift8: BEDMPLP1
+  branch_name: Head Office
+  branch_address: Stojalowskiego 7 43-300 Bielsko Biala
+  branch_code: XXX
+  city: Bielsko Biala
+  country: Poland
+- name: Bieszczadzki Bank Spoldzielczy W Ustrzykach Dolnych
+  swift: BSUOPLP1XXX
+  swift8: BSUOPLP1
+  branch_name: Head Office
+  branch_address: Ul. Belska 12 38-700 Ustrzyki Dolne
+  branch_code: XXX
+  city: Ustrzyki Dolne
+  country: Poland
+- name: Biuro Maklerskie Bank Dnb Nord Polska S.a.
+  swift: BMDNPLP1XXX
+  swift8: BMDNPLP1
+  branch_name: Head Office
+  branch_address: Zeromskiego 75 26 600 Radom
+  branch_code: XXX
+  city: Radom
+  country: Poland
+- name: Bs Biezun
+  swift: BIEZPLP1XXX
+  swift8: BIEZPLP1
+  branch_name: Head Office
+  branch_address: Zamojskiego 27 09-320 Biezun
+  branch_code: XXX
+  city: Biezun
+  country: Poland
+- name: Bs Nowy Staw
+  swift: NOSWPLP1XXX
+  swift8: NOSWPLP1
+  branch_name: Head Office
+  branch_address: Rynek Pulaskiego 2 82-230 Nowy Staw
+  branch_code: XXX
+  city: Nowy Staw
+  country: Poland
+- name: Bs Stara Biala
+  swift: STIIPLP1XXX
+  swift8: STIIPLP1
+  branch_name: Head Office
+  branch_address: Biala 24 09-411 Stara Biala
+  branch_code: XXX
+  city: Stara Biala
+  country: Poland
+- name: Bs Strzelce
+  swift: STRZPLP1XXX
+  swift8: STRZPLP1
+  branch_name: Head Office
+  branch_address: Krakowska 30 99-307 Strzelce
+  branch_code: XXX
+  city: Strzelce
+  country: Poland
+- name: Bs Zychlin
+  swift: ZCCHPLP1XXX
+  swift8: ZCCHPLP1
+  branch_name: Head Office
+  branch_address: Lukasinskiego 4 99-320 Zychlin
+  branch_code: XXX
+  city: Zychlin
+  country: Poland
+- name: Bz Wbk Aib Asset Management S.a.
+  swift: WASMPLP1XXX
+  swift8: WASMPLP1
+  branch_name: Head Office
+  branch_address: Pl. Wolnonci 16 61-739 Poznan
+  branch_code: XXX
+  city: Poznan
+  country: Poland
+- name: Caspar Asset Management Plc
+  swift: CSSNPLP1XXX
+  swift8: CSSNPLP1
+  branch_name: Head Office
+  branch_address: Szkolna 5/13 Poznan
+  branch_code: XXX
+  city: Poznan
+  country: Poland
+- name: Central Brokerage Office Pekao S.a.
+  swift: CBOPPLP1XXX
+  swift8: CBOPPLP1
+  branch_name: Head Office
+  branch_address: Woloska 18 02 675 Warszawa
+  branch_code: XXX
+  city: Warszawa
+  country: Poland
+- name: Commercial Union Investment Management (polska) Sa
+  swift: CUIMPLP1XXX
+  swift8: CUIMPLP1
+  branch_name: Head Office
+  branch_address: Ul. Prosta 70 00838 Warszawa
+  branch_code: XXX
+  city: Warszawa
+  country: Poland
+- name: Credit Agricole Bank Polska S.a.
+  swift: AGRIPLPRXXX
+  swift8: AGRIPLPR
+  branch_name: Head Office
+  branch_address: Pl. Orlat Lwowskich 1 53605 Wroclaw
+  branch_code: XXX
+  city: Wroclaw
+  country: Poland
+- name: Ctbs S.a.
+  swift: CTBSPLP1XXX
+  swift8: CTBSPLP1
+  branch_name: Head Office
+  branch_address: Chlodna 64 00 872 Warszawa
+  branch_code: XXX
+  city: Warszawa
+  country: Poland
+- name: Danske Bank A/s S.a. Odzial W Polsce
+  swift: DABAPLPWXXX
+  swift8: DABAPLPW
+  branch_name: Head Office
+  branch_address: Emilii Plater 28 00-688 Warszawa
+  branch_code: XXX
+  city: Warszawa
+  country: Poland
+- name: Db Securities S.a.
+  swift: SCCUPLP1XXX
+  swift8: SCCUPLP1
+  branch_name: Head Office
+  branch_address: Focus 00-609 Warszawa
+  branch_code: XXX
+  city: Warszawa
+  country: Poland
+- name: Deutsche Bank Polska S.a.
+  swift: DEUTPLPXXXX
+  swift8: DEUTPLPX
+  branch_name: Head Office
+  branch_address: Focus Building 00-609 Warszawa
+  branch_code: XXX
+  city: Warszawa
+  country: Poland
+- name: Dom Inwestycyjny Bre Banku S.a.(bre Securities S.a.
+  swift: DIBRPLP1XXX
+  swift8: DIBRPLP1
+  branch_name: Head Office
+  branch_address: 47/49 Wspolna Street 00-684 Warszawa
+  branch_code: XXX
+  city: Warszawa
+  country: Poland
+- name: Dom Inwestycyjny Nehrebetius S.a.
+  swift: DOINPLP1XXX
+  swift8: DOINPLP1
+  branch_name: Head Office
+  branch_address: Retoryka 7 31 108 Krakow
+  branch_code: XXX
+  city: Krakow
+  country: Poland
+- name: Dom Inwestycyjny Xelion Sp. Z O.o.
+  swift: DOIXPLP1XXX
+  swift8: DOIXPLP1
+  branch_name: Head Office
+  branch_address: Pulawska 107 02-595 Warszawa
+  branch_code: XXX
+  city: Warszawa
+  country: Poland
+- name: Dom Maklerski Afs
+  swift: DMAFPLP1XXX
+  swift8: DMAFPLP1
+  branch_name: Head Office
+  branch_address: Panska Corner 00-834 Warszawa
+  branch_code: XXX
+  city: Warszawa
+  country: Poland
+- name: Dom Maklerski Amerbrokers Spowka Akcyjna
+  swift: DOMAPLP1XXX
+  swift8: DOMAPLP1
+  branch_name: Head Office
+  branch_address: Millennium Plaza 02 017 Warszawa
+  branch_code: XXX
+  city: Warszawa
+  country: Poland
+- name: Dom Maklerski Banku Bps S.a.
+  swift: DOMSPLP1XXX
+  swift8: DOMSPLP1
+  branch_name: Head Office
+  branch_address: Plocka 9/11b 01-231 Warszawa
+  branch_code: XXX
+  city: Warszawa
+  country: Poland
+- name: Dom Maklerski Banku Handlowego Spowka Akcyjna
+  swift: DOMHPLP1XXX
+  swift8: DOMHPLP1
+  branch_name: Head Office
+  branch_address: Ul. Chalubinskiego 8 00-613 Warszawa
+  branch_code: XXX
+  city: Warszawa
+  country: Poland
+- name: Dom Maklerski Banku Ochrony Srodowiska Sa
+  swift: DMOSPLP1XXX
+  swift8: DMOSPLP1
+  branch_name: Head Office
+  branch_address: Dm Bos Sa 00-517 Warszawa
+  branch_code: XXX
+  city: Warszawa
+  country: Poland
+- name: Dom Maklerski Bz Wbk S.a.
+  swift: DOMWPLP1XXX
+  swift8: DOMWPLP1
+  branch_name: Head Office
+  branch_address: Plac Wolnosci 15 60967 Poznan
+  branch_code: XXX
+  city: Poznan
+  country: Poland
+- name: Dom Maklerski Dfp Sp. Z O.o.
+  swift: DMDPPLP1XXX
+  swift8: DMDPPLP1
+  branch_name: Head Office
+  branch_address: Ogrodowa 72/74 91-071 Lodz
+  branch_code: XXX
+  city: Lodz
+  country: Poland
+- name: Dom Maklerski Idm Spowka Akcyjna
+  swift: DOMDPLP1XXX
+  swift8: DOMDPLP1
+  branch_name: Head Office
+  branch_address: Mawy Rynek 7 31-041 Krakow
+  branch_code: XXX
+  city: Krakow
+  country: Poland
+- name: Dom Maklerski Navigator Sa
+  swift: DOMNPLP1XXX
+  swift8: DOMNPLP1
+  branch_name: Head Office
+  branch_address: Koszykowa 54 00-675 Warszawa
+  branch_code: XXX
+  city: Warszawa
+  country: Poland
+- name: Dom Maklerski Pekao
+  swift: DOMKPLP1XXX
+  swift8: DOMKPLP1
+  branch_name: Head Office
+  branch_address: Woloska 18 02-675 Warszawa
+  branch_code: XXX
+  city: Warszawa
+  country: Poland
+- name: Dom Maklerski Penetrator Sa
+  swift: DOMPPLP1XXX
+  swift8: DOMPPLP1
+  branch_name: Head Office
+  branch_address: Grey House 31-042 Krakow
+  branch_code: XXX
+  city: Krakow
+  country: Poland
+- name: Dom Maklerski Polonia Net Sa (brokerage House
+  swift: DMPNPLP1XXX
+  swift8: DMPNPLP1
+  branch_name: Head Office
+  branch_address: Szpitalna 40 31024 Krakow
+  branch_code: XXX
+  city: Krakow
+  country: Poland
+- name: Dom Maklerski Raiffeisen Bank Polska S.a.
+  swift: DMRPPLP1XXX
+  swift8: DMRPPLP1
+  branch_name: Head Office
+  branch_address: Ul.Piekna 20 00-549 Warszawa
+  branch_code: XXX
+  city: Warszawa
+  country: Poland
+- name: Dom Maklerski Tms Brokers S.a.
+  swift: DMTBPLP1XXX
+  swift8: DMTBPLP1
+  branch_name: Head Office
+  branch_address: Millennium Plaza 02-017 Warszawa
+  branch_code: XXX
+  city: Warszawa
+  country: Poland
+- name: Doradztwo Dla Polskich Przedsiebiorstw Securities S.a.
+  swift: DDPPPLP1XXX
+  swift8: DDPPPLP1
+  branch_name: Head Office
+  branch_address: Pl. Dabrowskiego 1 Warszawa
+  branch_code: XXX
+  city: Warszawa
+  country: Poland
+- name: Euro Bank S.a.
+  swift: EBSAPLPRXXX
+  swift8: EBSAPLPR
+  branch_name: Head Office
+  branch_address: Ul.Sw.Mikolaja 72 50-126 Wroclaw
+  branch_code: XXX
+  city: Wroclaw
+  country: Poland
+- name: Express Bank Spoldzielczy W Rzeszowie
+  swift: EXSRPLP1XXX
+  swift8: EXSRPLP1
+  branch_name: Head Office
+  branch_address: Ul.Krakowska 12b/1a 35-111 Rzeszow
+  branch_code: XXX
+  city: Rzeszow
+  country: Poland
+- name: Fiat Bank Polska Sa
+  swift: FBPLPLPWXXX
+  swift8: FBPLPLPW
+  branch_name: Head Office
+  branch_address: Al. Wyscigowa 6 02-681 Warszawa
+  branch_code: XXX
+  city: Warszawa
+  country: Poland
+- name: First International Traders Dom Maklerski Sa
+  swift: FITMPLP1XXX
+  swift8: FITMPLP1
+  branch_name: Head Office
+  branch_address: Al. Jana Pawa Ii 15 00-828 Warszawa
+  branch_code: XXX
+  city: Warszawa
+  country: Poland
+- name: Fitch Polska Sa
+  swift: FRIPPLP1XXX
+  swift8: FRIPPLP1
+  branch_name: Head Office
+  branch_address: Saski Crescent 00 103 Warszawa
+  branch_code: XXX
+  city: Warszawa
+  country: Poland
+- name: Fm Bank Pbp Spolka Akcyjna
+  swift: PBPBPLPWFMB
+  swift8: PBPBPLPW
+  branch_name: 00-394 Warszawa
+  branch_address: Solec 38 00-394 Warszawa
+  branch_code: FMB
+  city: Warszawa
+  country: Poland
+- name: Fm Bank Pbp Spolka Akcyjna
+  swift: PBPBPLPWXXX
+  swift8: PBPBPLPW
+  branch_name: Head Office
+  branch_address: Ul.Domaniewska 39a 02-672 Warszawa
+  branch_code: XXX
+  city: Warszawa
+  country: Poland
+- name: Getin Noble Bank Sa
+  swift: GBGCPLPKXXX
+  swift8: GBGCPLPK
+  branch_name: Head Office
+  branch_address: Ul. Domaniewska 39b 02-675 Warszawa
+  branch_code: XXX
+  city: Katowice
+  country: Poland
+- name: Gospodarczy Bank Spoldzielczy W Barlinku
+  swift: GOPBPLP1XXX
+  swift8: GOPBPLP1
+  branch_name: Head Office
+  branch_address: Strzelecka 2 74-320 Barlinek
+  branch_code: XXX
+  city: Barlinek
+  country: Poland
+- name: Hsbc Bank Polska S.a.
+  swift: HSBCPLPWXXX
+  swift8: HSBCPLPW
+  branch_name: Head Office
+  branch_address: Budynek Wolf Marszalkowska 00-693 Warszawa
+  branch_code: XXX
+  city: Warszawa
+  country: Poland
+- name: Icap (poland)sp. Z O.o.
+  swift: ICPLPLP1XXX
+  swift8: ICPLPLP1
+  branch_name: Head Office
+  branch_address: Sienna 73 00-833 Warszawa
+  branch_code: XXX
+  city: Warszawa
+  country: Poland
+- name: Icbc Poland Branch
+  swift: ICBKPLPWXXX
+  swift8: ICBKPLPW
+  branch_name: Head Office
+  branch_address: Plac Trzech Krzyzy 18 00-499 Warszawa
+  branch_code: XXX
+  city: Warszawa
+  country: Poland
+- name: Idea Bank S.a.
+  swift: IEEAPLP1XXX
+  swift8: IEEAPLP1
+  branch_name: Head Office
+  branch_address: Domaniewska 39 02 672 Warszawa
+  branch_code: XXX
+  city: Warszawa
+  country: Poland
+- name: Idea Bank Spolka Akcyjna
+  swift: IEEAPLPAXXX
+  swift8: IEEAPLPA
+  branch_name: Head Office
+  branch_address: Domaniewska 39 02-672 Warszawa
+  branch_code: XXX
+  city: Warszawa
+  country: Poland
+- name: Idea Bank Spolka Akcyjna
+  swift: IEEAPLA1XXX
+  swift8: IEEAPLA1
+  branch_name: Head Office
+  branch_address: Domaniewska 39 02-672 Warszawa
+  branch_code: XXX
+  city: Warszawa
+  country: Poland
+- name: Ing Bank Slaski Sa
+  swift: INGBPLPWXXX
+  swift8: INGBPLPW
+  branch_name: Head Office
+  branch_address: Ul. Sokolska 34 40-086 Katowice
+  branch_code: XXX
+  city: Katowice
+  country: Poland
+- name: Ing Investment Management (polska) S.a.
+  swift: IIMPPLP1XXX
+  swift8: IIMPPLP1
+  branch_name: Head Office
+  branch_address: Holland Park 00-499 Warszawa
+  branch_code: XXX
+  city: Warszawa
+  country: Poland
+- name: Ing Securities Spowka Akcyjna W Warszawie
+  swift: INURPLP1XXX
+  swift8: INURPLP1
+  branch_name: Head Office
+  branch_address: Plac Trzech Krzyzy 10/14 00-499 Warszawa
+  branch_code: XXX
+  city: Warszawa
+  country: Poland
+- name: Ing Towarzystwo Funduszy Inwestycyjnych S.a.
+  swift: ITFIPLP1XXX
+  swift8: ITFIPLP1
+  branch_name: Head Office
+  branch_address: Holland Park 00-499 Warszawa
+  branch_code: XXX
+  city: Warszawa
+  country: Poland
+- name: Investors Dom Maklerski S.a.
+  swift: IDMAPLP1XXX
+  swift8: IDMAPLP1
+  branch_name: Head Office
+  branch_address: Bukowiecka 92 03-893 Warszawa
+  branch_code: XXX
+  city: Warszawa
+  country: Poland
+- name: Ipopema Securities S.a.
+  swift: IPSEPLP1XXX
+  swift8: IPSEPLP1
+  branch_name: Head Office
+  branch_address: Ul. Walicow 11 00851 Warszawa
+  branch_code: XXX
+  city: Warszawa
+  country: Poland
+- name: Kbc Securities N.v. Branch In Poland
+  swift: KBSEPLP1XXX
+  swift8: KBSEPLP1
+  branch_name: Head Office
+  branch_address: Warta Tower 00 805 Warszawa
+  branch_code: XXX
+  city: Warszawa
+  country: Poland
+- name: Kdpw Ccp
+  swift: KCCPPLPWOTC
+  swift8: KCCPPLPW
+  branch_name: Warszawa
+  branch_address: Warszawa
+  branch_code: OTC
+  city: Warszawa
+  country: Poland
+- name: Kdpw Ccp
+  swift: KCCPPLP1XXX
+  swift8: KCCPPLP1
+  branch_name: Head Office
+  branch_address: Ksiazeca 4 00-498 Warszawa
+  branch_code: XXX
+  city: Warszawa
+  country: Poland
+- name: Kdpw S.a.
+  swift: KDPWPLPWXXX
+  swift8: KDPWPLPW
+  branch_name: Head Office
+  branch_address: Ul. Ksiazeca 4 00-498 Warszawa
+  branch_code: XXX
+  city: Warszawa
+  country: Poland
+- name: Kompania Piwowarska S.a.
+  swift: KOPWPLP1KPW
+  swift8: KOPWPLP1
+  branch_name: Poznan
+  branch_address: Poznan
+  branch_code: KPW
+  city: Poznan
+  country: Poland
+- name: Kompania Piwowarska S.a.
+  swift: KOPWPLP1XXX
+  swift8: KOPWPLP1
+  branch_name: Head Office
+  branch_address: Ul. Szwajcarska 61-285 Poznan
+  branch_code: XXX
+  city: Poznan
+  country: Poland
+- name: Krajowa Izba Rozliczeniowa S.a. (kir S.a.
+  swift: EKIRPLP1XXX
+  swift8: EKIRPLP1
+  branch_name: Head Office
+  branch_address: 65 Pileckiego St. 02-781 Warszawa
+  branch_code: XXX
+  city: Warszawa
+  country: Poland
+- name: Krajowa Izba Rozliczeniowa S.a. (kir S.a.
+  swift: EKIRPLPDXXX
+  swift8: EKIRPLPD
+  branch_name: Head Office
+  branch_address: 65 Rtm. W. Pileckiego 02-781 Warszawa
+  branch_code: XXX
+  city: Warszawa
+  country: Poland
+- name: Krakowski Bank Spoldzielczy
+  swift: KRSPPLPKXXX
+  swift8: KRSPPLPK
+  branch_name: Head Office
+  branch_address: Rynek Kleparski 8 31-150 Krakow
+  branch_code: XXX
+  city: Krakow
+  country: Poland
+- name: Kurpiowski Bank Spoldzielczy W Myszyncu
+  swift: SPYYPLP1XXX
+  swift8: SPYYPLP1
+  branch_name: Head Office
+  branch_address: Plac Wolnosci 56 07-430 Myszyniec
+  branch_code: XXX
+  city: Myszyniec
+  country: Poland
+- name: La Caixa, Oddzial W Polsce
+  swift: CAIXPLPWXXX
+  swift8: CAIXPLPW
+  branch_name: Head Office
+  branch_address: Ul. Prosta 51 00-838 Warszawa
+  branch_code: XXX
+  city: Warszawa
+  country: Poland
+- name: Legg Mason Zarzadzanie Aktywami S.a
+  swift: LMZAPLP1XXX
+  swift8: LMZAPLP1
+  branch_name: Head Office
+  branch_address: Plac Pilsudskiego 2 00-073 Warszawa
+  branch_code: XXX
+  city: Warszawa
+  country: Poland
+- name: Lg Display Poland Sp. Zo.o.
+  swift: LGDTPLP1XXX
+  swift8: LGDTPLP1
+  branch_name: Head Office
+  branch_address: Ul.Lg1,Biskupice Podgrne Wroclaw
+  branch_code: XXX
+  city: Wroclaw
+  country: Poland
+- name: Lukas Bank
+  swift: LUKSPLP1XXX
+  swift8: LUKSPLP1
+  branch_name: Head Office
+  branch_address: Lukas Bank 42600 Tarnowskie Gory
+  branch_code: XXX
+  city: Tarnowskie Gory
+  country: Poland
+- name: Luzycki Bank Spoldzielczy W Lubaniu
+  swift: SPUUPLP1XXX
+  swift8: SPUUPLP1
+  branch_name: Head Office
+  branch_address: Plac Wolnosci 17 59-975 Sulikow
+  branch_code: XXX
+  city: Luban
+  country: Poland
+- name: Malopolski Bank Spoldzielczy W Wieliczce
+  swift: SPWLPLP1XXX
+  swift8: SPWLPLP1
+  branch_name: Head Office
+  branch_address: Ul. Kilinskiego 2 32-020 Wieliczka
+  branch_code: XXX
+  city: Wieliczka
+  country: Poland
+- name: Mazowia Bank Spoldzielczy
+  swift: SGOKPLP1XXX
+  swift8: SGOKPLP1
+  branch_name: Head Office
+  branch_address: Bs Gora Kalwaria 05-530 Gora Kalwaria
+  branch_code: XXX
+  city: Gora
+  country: Poland
+- name: Mazowiecki Bank Spoldzielczy W Lomiankach
+  swift: MAPNPLP1XXX
+  swift8: MAPNPLP1
+  branch_name: Head Office
+  branch_address: Ul. Szpitalna 8 05 092 Lomianki
+  branch_code: XXX
+  city: Lomianki
+  country: Poland
+- name: Mazurski Bank Spoldzielczy W Gizycku
+  swift: MASZPLP1XXX
+  swift8: MASZPLP1
+  branch_name: Head Office
+  branch_address: Ul. Wyzwolenia 1 11-500 Gizycko
+  branch_code: XXX
+  city: Gizycko
+  country: Poland
+- name: Mbank S.a. (formerly Bre Bank S.a.
+  swift: BREXPLPWCUS
+  swift8: BREXPLPW
+  branch_name: Custody Department
+  branch_address: Warszawa
+  branch_code: CUS
+  city: Warszawa
+  country: Poland
+- name: Mbank S.a. (formerly Bre Bank S.a.
+  swift: BREXPLPWOLS
+  swift8: BREXPLPW
+  branch_name: 10-448 Olsztyn
+  branch_address: Glawackiego 28 10-448 Olsztyn
+  branch_code: OLS
+  city: Olsztyn
+  country: Poland
+- name: Mbank S.a. (formerly Bre Bank S.a.
+  swift: BREXPLPWOPO
+  swift8: BREXPLPW
+  branch_name: Opole Branch
+  branch_address: Opole
+  branch_code: OPO
+  city: Opole
+  country: Poland
+- name: Mbank S.a. (formerly Bre Bank S.a.
+  swift: BREXPLPWTOR
+  swift8: BREXPLPW
+  branch_name: Corporate Branch
+  branch_address: Bydgoska 1 87100 Torun
+  branch_code: TOR
+  city: Torun
+  country: Poland
+- name: Mbank S.a. (formerly Bre Bank S.a.
+  swift: BREXPLPWWA1
+  swift8: BREXPLPW
+  branch_name: Branch
+  branch_address: Ul. Senatorska 18 00-950 Warszawa
+  branch_code: WA1
+  city: Warszawa
+  country: Poland
+- name: Mbank S.a. (formerly Bre Bank S.a.
+  swift: BREXPLPWWA2
+  swift8: BREXPLPW
+  branch_name: Warszawa Ii Branch
+  branch_address: Warszawa
+  branch_code: WA2
+  city: Warszawa
+  country: Poland
+- name: Mbank S.a. (formerly Bre Bank S.a.
+  swift: BREXPLPWWA3
+  swift8: BREXPLPW
+  branch_name: Warszawa Iii Branch
+  branch_address: Ostrobramska 95 04-118 Warszawa
+  branch_code: WA3
+  city: Warszawa
+  country: Poland
+- name: Mbank S.a. (formerly Bre Bank S.a.
+  swift: BREXPLPWWAL
+  swift8: BREXPLPW
+  branch_name: Corporate Branch
+  branch_address: Sienkiewicza 2 58300 Walbrzych
+  branch_code: WAL
+  city: Walbrzych
+  country: Poland
+- name: Mbank S.a. (formerly Bre Bank S.a.
+  swift: BREXPLPWWRO
+  swift8: BREXPLPW
+  branch_name: 50-010 Wroclaw
+  branch_address: Ul Podwale 63 50-010 Wroclaw
+  branch_code: WRO
+  city: Wroclaw
+  country: Poland
+- name: Mbank S.a. (formerly Bre Bank S.a.
+  swift: BREXPLPWXXX
+  swift8: BREXPLPW
+  branch_name: Head Office
+  branch_address: Ul. Senatorska 18 00-950 Warszawa
+  branch_code: XXX
+  city: Warszawa
+  country: Poland
+- name: Mbank S.a. (formerly Bre Bank S.a.
+  swift: BREXPLPWZIE
+  swift8: BREXPLPW
+  branch_name: Zielona Gora Branch
+  branch_address: Zielona Gora
+  branch_code: ZIE
+  city: Zielona Gora
+  country: Poland
+- name: Mercedes-benz Bank Polska S.a.
+  swift: MBBPPLPWXXX
+  swift8: MBBPPLPW
+  branch_name: Head Office
+  branch_address: 1 Gottlieba Daimlera 02-460 Warszawa
+  branch_code: XXX
+  city: Warszawa
+  country: Poland
+- name: Mercurius Dom Maklerski Sp. Z.o.o.
+  swift: MDMZPLP1XXX
+  swift8: MDMZPLP1
+  branch_name: Head Office
+  branch_address: Ul. Smiala 26 01 523 Warszawa
+  branch_code: XXX
+  city: Warszawa
+  country: Poland
+- name: Miedzygminny Bank Spoldzielczy W Zbuczynie
+  swift: MISUPLP1XXX
+  swift8: MISUPLP1
+  branch_name: Head Office
+  branch_address: Ul. Terespolska 9 08106 Zbuczyn
+  branch_code: XXX
+  city: Zbuczyn
+  country: Poland
+- name: Miedzypowiatowy Bank Spoldzielczy W Myszkowie
+  swift: MISZPLP1XXX
+  swift8: MISZPLP1
+  branch_name: Head Office
+  branch_address: Ul. Kosciuszki 111 42-300 Myszkow
+  branch_code: XXX
+  city: Myszkow
+  country: Poland
+- name: Millennium Dom Maklerski S.a.
+  swift: MDOMPLP1XXX
+  swift8: MDOMPLP1
+  branch_name: Head Office
+  branch_address: Millennium Plaza 02-017 Warszawa
+  branch_code: XXX
+  city: Warszawa
+  country: Poland
+- name: Nadsanski Bank Spoldzielczy
+  swift: SPSWPLP1XXX
+  swift8: SPSWPLP1
+  branch_name: Head Office
+  branch_address: Ul. Okulickiego 56c 37-450 Stalowa Wola
+  branch_code: XXX
+  city: Stalowa Wola
+  country: Poland
+- name: Nadwislanski Bank Spoldzielczy W Pulawach
+  swift: NBSPPLP1XXX
+  swift8: NBSPPLP1
+  branch_name: Head Office
+  branch_address: Bs Pulawy 24-100 Pulawy
+  branch_code: XXX
+  city: Warszawa
+  country: Poland
+- name: Narodowy Bank Polski
+  swift: NBPLPLPAXXX
+  swift8: NBPLPLPA
+  branch_name: Head Office
+  branch_address: Ul. Swietokrzyska 11/21 00-919 Warszawa
+  branch_code: XXX
+  city: Warszawa
+  country: Poland
+- name: Narodowy Bank Polski
+  swift: NBPLPLPDDSP
+  swift8: NBPLPLPD
+  branch_name: Pln-Rtgs Only
+  branch_address: Warszawa
+  branch_code: DSP
+  city: Warszawa
+  country: Poland
+- name: Narodowy Bank Polski
+  swift: NBPLPLPDXXX
+  swift8: NBPLPLPD
+  branch_name: Head Office
+  branch_address: Ul. Swietokrzysta 11/21 00-919 Warszawa
+  branch_code: XXX
+  city: Warszawa
+  country: Poland
+- name: Narodowy Bank Polski
+  swift: NBPLPLPWBAN
+  swift8: NBPLPLPW
+  branch_name: Warszawa
+  branch_address: Warszawa
+  branch_code: BAN
+  city: Warszawa
+  country: Poland
+- name: Narodowy Bank Polski
+  swift: NBPLPLPWKIR
+  swift8: NBPLPLPW
+  branch_name: Internal Routing
+  branch_address: Warszawa
+  branch_code: KIR
+  city: Warszawa
+  country: Poland
+- name: Narodowy Bank Polski
+  swift: NBPLPLPWXXX
+  swift8: NBPLPLPW
+  branch_name: Head Office
+  branch_address: Swietokrzyska 11-21 00-919 Warszawa
+  branch_code: XXX
+  city: Warszawa
+  country: Poland
+- name: National Depository For Securities (kdpw Sa
+  swift: KDPWPLPAXXX
+  swift8: KDPWPLPA
+  branch_name: Head Office
+  branch_address: Centrum Gieldowe 00-498 Warszawa
+  branch_code: XXX
+  city: Warszawa
+  country: Poland
+- name: Noble Bank S.a.
+  swift: NBLLPLP1XXX
+  swift8: NBLLPLP1
+  branch_name: Head Office
+  branch_address: Domaniewska 39b 02-675 Warszawa
+  branch_code: XXX
+  city: Warszawa
+  country: Poland
+- name: Opera Dom Maklerski Spowka Z Ograniczona Odpowiedzialnoscia
+  swift: ODMSPLP1XXX
+  swift8: ODMSPLP1
+  branch_name: Head Office
+  branch_address: Rondo Onz 1 00-124 Warszawa
+  branch_code: XXX
+  city: Warszawa
+  country: Poland
+- name: Opera-kwiatkowski I Wspolnicy Spolka Komandytowoakcyjna
+  swift: OWSKPLP1XXX
+  swift8: OWSKPLP1
+  branch_name: Head Office
+  branch_address: Rondo Onz 1 00124 Warszawa
+  branch_code: XXX
+  city: Warszawa
+  country: Poland
+- name: Orzesko-knurowski Bank Spoldzielczy Z Siedziba W Knurowie
+  swift: OSSKPLP1XXX
+  swift8: OSSKPLP1
+  branch_name: Head Office
+  branch_address: Ul. Kosmonautow 9a 44-194 Knurow
+  branch_code: XXX
+  city: Knurow
+  country: Poland
+- name: Panstwowe Przedsiebiorstwo Uzytecznosci Publicznej 'poczta Polska'
+  swift: POPOPLP1XXX
+  swift8: POPOPLP1
+  branch_name: Head Office
+  branch_address: Ul. Rakowiecka 26 00-940 Warszawa
+  branch_code: XXX
+  city: Warszawa
+  country: Poland
+- name: Pekao Bank Hipoteczny Sa
+  swift: HYVEPLP2XXX
+  swift8: HYVEPLP2
+  branch_name: Head Office
+  branch_address: Horizon Plaza 02-672 Warszawa
+  branch_code: XXX
+  city: Warszawa
+  country: Poland
+- name: Pko Towarzystwo Funduszy Inwestycyjnych Sa
+  swift: PTFIPLP1XXX
+  swift8: PTFIPLP1
+  branch_name: Head Office
+  branch_address: Ul Grojecka 5 02-019 Warszawa
+  branch_code: XXX
+  city: Warszawa
+  country: Poland
+- name: Plus Bank S.a.
+  swift: IVSEPLPPXXX
+  swift8: IVSEPLPP
+  branch_name: Head Office
+  branch_address: Ostrobramska 77 Str. 04-175 Warszawa
+  branch_code: XXX
+  city: Poznan
+  country: Poland
+- name: Pocztowy Bank Sa
+  swift: POCZPLP4XXX
+  swift8: POCZPLP4
+  branch_name: Head Office
+  branch_address: Jagiellonska 17 85959 Bydgoszcz
+  branch_code: XXX
+  city: Bydgoszcz
+  country: Poland
+- name: Podkarpacki Bank Spoldzielczy
+  swift: PODSPLA1XXX
+  swift8: PODSPLA1
+  branch_name: Head Office
+  branch_address: Mickiewicza 7 38-500 Sanok
+  branch_code: XXX
+  city: Sanok
+  country: Poland
+- name: Podkarpacki Bank Spoldzielczy
+  swift: PODSPLP1XXX
+  swift8: PODSPLP1
+  branch_name: Head Office
+  branch_address: Ul. Kosciuszki 22 38-500 Sanok
+  branch_code: XXX
+  city: Sanok
+  country: Poland
+- name: Podlasko-mazurski Bank Spoldzielczy W Zabludowie
+  swift: POSLPLP1XXX
+  swift8: POSLPLP1
+  branch_name: Head Office
+  branch_address: Ul. Surazska 2 16-060 Zabludow
+  branch_code: XXX
+  city: Zabludow
+  country: Poland
+- name: Polish-american Mortgage Bank Inc.
+  swift: PAMBPLP1XXX
+  swift8: PAMBPLP1
+  branch_name: Head Office
+  branch_address: Ul Krolewska 27 00-060 Warszawa
+  branch_code: XXX
+  city: Warszawa
+  country: Poland
+- name: Polski Bank Spoldzielczy W Wyszkowie
+  swift: POSYPLP1XXX
+  swift8: POSYPLP1
+  branch_name: Head Office
+  branch_address: Ul. Kosciuszki 07-200 Wyszkow
+  branch_code: XXX
+  city: Wyszkow
+  country: Poland
+- name: Poludniowo-mazowiecki Bs W Jedlinsku
+  swift: SPJEPLP1XXX
+  swift8: SPJEPLP1
+  branch_name: Head Office
+  branch_address: Warecka 26 660 Jedlinsk
+  branch_code: XXX
+  city: Jedlinsk
+  country: Poland
+- name: Powiatowy Bank Spoldzielczy W Kedzierzynie-kozlu
+  swift: POSDPLP1XXX
+  swift8: POSDPLP1
+  branch_name: Head Office
+  branch_address: Ul. Rynek 6a 47200 Kedzierzyn-Kozle
+  branch_code: XXX
+  city: Kedzierzyn Kozle
+  country: Poland
+- name: Powiatowy Bank Spoldzielczy W Sokolowie Podlaskim
+  swift: PSSOPLP1XXX
+  swift8: PSSOPLP1
+  branch_name: Head Office
+  branch_address: Ul. Wolnosci 48 08-300 Sokolow Podlaski
+  branch_code: XXX
+  city: Sokolow Podlaski
+  country: Poland
+- name: Powiatowy Bank Spoldzielczy W Tomaszowie Mazowieckim
+  swift: PBSTPLP1XXX
+  swift8: PBSTPLP1
+  branch_name: Head Office
+  branch_address: Pl.Kazimierza Wlk. 7 97-215 Inowlodz
+  branch_code: XXX
+  city: Inowlodz
+  country: Poland
+- name: Powiatowy Bank Spoldzielczy W Zamos
+  swift: POSZPLP1XXX
+  swift8: POSZPLP1
+  branch_name: Head Office
+  branch_address: Ul. Partyzantow 3a 22-400 Zamosc
+  branch_code: XXX
+  city: Zamosc
+  country: Poland
+- name: Powiatowy Bank Spoldzielczy W Zlotoryi
+  swift: POSRPLP1XXX
+  swift8: POSRPLP1
+  branch_name: Head Office
+  branch_address: Ul. Rynek 42 59-500 Zlotoryja
+  branch_code: XXX
+  city: Zlotoryja
+  country: Poland
+- name: Powislanski Bank Spoldzielczy W Kwidzynie
+  swift: POSWPLP1XXX
+  swift8: POSWPLP1
+  branch_name: Head Office
+  branch_address: Ul. Kopernika 28 82-500 Kwidzyn
+  branch_code: XXX
+  city: Kwidzyn
+  country: Poland
+- name: Powszechna Kasa Oszczednosci Bank Polski Sa
+  swift: BPKOPLP1SEC
+  swift8: BPKOPLP1
+  branch_name: Pko Bp Securities
+  branch_address: Warszawa
+  branch_code: SEC
+  city: Warszawa
+  country: Poland
+- name: Powszechna Kasa Oszczednosci Bank Polski Sa
+  swift: BPKOPLPWBIA
+  swift8: BPKOPLPW
+  branch_name: Pko O Regionalny W Bialymstoku
+  branch_address: 6, Tysiaclecia Panstwa Polskiego 15-111 Bialystok
+  branch_code: BIA
+  city: Bialystok
+  country: Poland
+- name: Powszechna Kasa Oszczednosci Bank Polski Sa
+  swift: BPKOPLPWCSD
+  swift8: BPKOPLPW
+  branch_name: Custody Services Division
+  branch_address: Warszawa
+  branch_code: CSD
+  city: Warszawa
+  country: Poland
+- name: Powszechna Kasa Oszczednosci Bank Polski Sa
+  swift: BPKOPLPWGDG
+  swift8: BPKOPLPW
+  branch_name: Io Gdynia
+  branch_address: Swietojanska 17 71-368 Gdynia
+  branch_code: GDG
+  city: Gdynia
+  country: Poland
+- name: Powszechna Kasa Oszczednosci Bank Polski Sa
+  swift: BPKOPLPWGOA
+  swift8: BPKOPLPW
+  branch_name: Io Gorzow Wielkopolski
+  branch_address: Kosynierow Gdynskich 79 66-400 Gorzow Wielkopolski
+  branch_code: GOA
+  city: Gorzow Wielkopolski
+  country: Poland
+- name: Powszechna Kasa Oszczednosci Bank Polski Sa
+  swift: BPKOPLPWKAB
+  swift8: BPKOPLPW
+  branch_name: Oddzial Katowice
+  branch_address: Damrota 23 40-022 Katowice
+  branch_code: KAB
+  city: Katowice
+  country: Poland
+- name: Powszechna Kasa Oszczednosci Bank Polski Sa
+  swift: BPKOPLPWKRD
+  swift8: BPKOPLPW
+  branch_name: Oddzial Krakow
+  branch_address: 1 Osiedle Kosciuszkowskie 31-858 Krakow
+  branch_code: KRD
+  city: Krakow
+  country: Poland
+- name: Powszechna Kasa Oszczednosci Bank Polski Sa
+  swift: BPKOPLPWLDA
+  swift8: BPKOPLPW
+  branch_name: Oddzial Lodz
+  branch_address: 173 Piotrkowska Street 90-959 Lodz
+  branch_code: LDA
+  city: Lodz
+  country: Poland
+- name: Powszechna Kasa Oszczednosci Bank Polski Sa
+  swift: BPKOPLPWLUA
+  swift8: BPKOPLPW
+  branch_name: Oddzial Lublin
+  branch_address: Watykanska 7 20-538 Lublin
+  branch_code: LUA
+  city: Lublin
+  country: Poland
+- name: Powszechna Kasa Oszczednosci Bank Polski Sa
+  swift: BPKOPLPWOLS
+  swift8: BPKOPLPW
+  branch_name: Oddzial Olsztyn
+  branch_address: 89/91 Kosciuszki Street 10-584 Olsztyn
+  branch_code: OLS
+  city: Olsztyn
+  country: Poland
+- name: Powszechna Kasa Oszczednosci Bank Polski Sa
+  swift: BPKOPLPWPOA
+  swift8: BPKOPLPW
+  branch_name: Oddzial Poznan
+  branch_address: Gorda Wilda 109 60-959 Poznan
+  branch_code: POA
+  city: Poznan
+  country: Poland
+- name: Powszechna Kasa Oszczednosci Bank Polski Sa
+  swift: BPKOPLPWTDH
+  swift8: BPKOPLPW
+  branch_name: Head Office-Treasury Department
+  branch_address: 16 Pulawska Street 02-515 Warszawa
+  branch_code: TDH
+  city: Warszawa
+  country: Poland
+- name: Powszechna Kasa Oszczednosci Bank Polski Sa
+  swift: BPKOPLPWTOB
+  swift8: BPKOPLPW
+  branch_name: Oddzial Bydgoszcz
+  branch_address: Plac Teatralny 4 85-950 Bydgoszcz
+  branch_code: TOB
+  city: Bydgoszcz
+  country: Poland
+- name: Powszechna Kasa Oszczednosci Bank Polski Sa
+  swift: BPKOPLPWWAA
+  swift8: BPKOPLPW
+  branch_name: Oddzial Warszawa
+  branch_address: Sienkiewicza 12/14 00944 Warszawa
+  branch_code: WAA
+  city: Warszawa
+  country: Poland
+- name: Powszechna Kasa Oszczednosci Bank Polski Sa
+  swift: BPKOPLPWWRD
+  swift8: BPKOPLPW
+  branch_name: Oddzial Wroclaw
+  branch_address: Wita Stwosza 12 50-950 Wroclaw
+  branch_code: WRD
+  city: Wroclaw
+  country: Poland
+- name: Powszechna Kasa Oszczednosci Bank Polski Sa
+  swift: BPKOPLPWXXX
+  swift8: BPKOPLPW
+  branch_name: Head Office
+  branch_address: Ul. Pulawska 15 02-515 Warszawa
+  branch_code: XXX
+  city: Lublin
+  country: Poland
+- name: Proservice Agent Transferowy Sp Z O.o.
+  swift: PSATPLPWXXX
+  swift8: PSATPLPW
+  branch_name: Head Office
+  branch_address: Pulawska 436 02-801 Warszawa
+  branch_code: XXX
+  city: Warszawa
+  country: Poland
+- name: Pzu Asset Managemet Sa
+  swift: PZUAPLP1XXX
+  swift8: PZUAPLP1
+  branch_name: Head Office
+  branch_address: Al. Jana Pawla Ii 24 00-133 Warszawa
+  branch_code: XXX
+  city: Warszawa
+  country: Poland
+- name: Raiffeisen Bank Polska S.a.
+  swift: RCBWPLPWXXX
+  swift8: RCBWPLPW
+  branch_name: Head Office
+  branch_address: Piekna 20 00-549 Warszawa
+  branch_code: XXX
+  city: Warszawa
+  country: Poland
+- name: Rbs Bank (polska) S.a.
+  swift: ABNAPLPWXXX
+  swift8: ABNAPLPW
+  branch_name: Head Office
+  branch_address: Wisniowy Business Park 02-134 Warszawa
+  branch_code: XXX
+  city: Warszawa
+  country: Poland
+- name: Rejonowy Bank Spoldzielczy W Bychawie
+  swift: RESHPLP1XXX
+  swift8: RESHPLP1
+  branch_name: Head Office
+  branch_address: Ul. Pilsudskiego 37 23-100 Bychawa
+  branch_code: XXX
+  city: Bychawa
+  country: Poland
+- name: Samsung Electronics Poland Co.
+  swift: SECTPLP14D0
+  swift8: SECTPLP1
+  branch_name: Sepol
+  branch_address: Budynek Ubc 02-678 Warszawa
+  branch_code: 4D0
+  city: Warszawa
+  country: Poland
+- name: Samsung Electronics Poland Co.
+  swift: SECTPLP14N1
+  swift8: SECTPLP1
+  branch_name: Wronki
+  branch_address: 64-510 Ul. Mickiewicza 52 Wronki
+  branch_code: 4N1
+  city: Wronki
+  country: Poland
+- name: Samsung Electronics Poland Co.
+  swift: SECTPLP1XXX
+  swift8: SECTPLP1
+  branch_name: Head Office
+  branch_address: Budynek Ubc 02-678 Warszawa
+  branch_code: XXX
+  city: Warszawa
+  country: Poland
+- name: Santander Consumer Bank Sa
+  swift: SCFBPLPWXXX
+  swift8: SCFBPLPW
+  branch_name: Head Office
+  branch_address: Strzegomska 42c 53-611 Wroclaw
+  branch_code: XXX
+  city: Wroclaw
+  country: Poland
+- name: Santander Consumer Bank Sa
+  swift: SATNPLP1XXX
+  swift8: SATNPLP1
+  branch_name: Head Office
+  branch_address: Plac Grunwaldzki 23 50-365 Wroclaw
+  branch_code: XXX
+  city: Wroclaw
+  country: Poland
+- name: Secus Asset Management Sa
+  swift: SESNPLP1XXX
+  swift8: SESNPLP1
+  branch_name: Head Office
+  branch_address: Millenium Plaza 40-018 Katowice
+  branch_code: XXX
+  city: Katowice
+  country: Poland
+- name: Sgb-bank S.a. (formerly Gospodarczy Bank Wielkopolski S.a.
+  swift: GBWCPLPPXXX
+  swift8: GBWCPLPP
+  branch_name: Head Office
+  branch_address: Ul. Szarych Szeregow 23a 60-462 Poznan
+  branch_code: XXX
+  city: Poznan
+  country: Poland
+- name: Skandia Zycie Towarzystwo Ubezpierc
+  swift: SZTUPLP1XXX
+  swift8: SZTUPLP1
+  branch_name: Head Office
+  branch_address: U.L. Cybernetyki 7 Warszawa
+  branch_code: XXX
+  city: Warszawa
+  country: Poland
+- name: Skandinaviska Enskilda Banken Ab, Spolka Akcyjna, Oddzial W Polsce
+  swift: ESSEPLPWXXX
+  swift8: ESSEPLPW
+  branch_name: Head Office
+  branch_address: Ul. Szturmowa 2a 02 678 Warszawa
+  branch_code: XXX
+  city: Warszawa
+  country: Poland
+- name: Slaski Bank Spoldzielczy Silesia W Katowicach
+  swift: SPTTPLP1XXX
+  swift8: SPTTPLP1
+  branch_name: Head Office
+  branch_address: Ul. Kopernika 5 40-064 Katowice
+  branch_code: XXX
+  city: Katowice
+  country: Poland
+- name: Societe Generale Spolka Akcyjna Oddzial W Polsce
+  swift: SOGEPLPWXXX
+  swift8: SOGEPLPW
+  branch_name: Head Office
+  branch_address: Marszalkowska Street 111 00-102 Warszawa
+  branch_code: XXX
+  city: Warszawa
+  country: Poland
+- name: Spoldzielczy Bank Powiatowy W Piaskach
+  swift: SPPPPLP1XXX
+  swift8: SPPPPLP1
+  branch_name: Head Office
+  branch_address: Ul. Lubelska 98 21-050 Piaski
+  branch_code: XXX
+  city: Piaski
+  country: Poland
+- name: Spoldzielczy Bank Rozwoju
+  swift: SPRWPLP1XXX
+  swift8: SPRWPLP1
+  branch_name: Head Office
+  branch_address: Ul. Kard. St. Wyszynskiego 3 18-210 Szepietowo
+  branch_code: XXX
+  city: Szepietowo
+  country: Poland
+- name: Spoldzielczy Bank Rzemiosla I Rolnictwa
+  swift: SKBBPLPWXXX
+  swift8: SKBBPLPW
+  branch_name: Head Office
+  branch_address: Ul.Waska 18 05-200 Wolomin
+  branch_code: XXX
+  city: Wolomin
+  country: Poland
+- name: Spoldzielczy Bank Rzemiosla I Rolnictwa
+  swift: SKBBPLP1XXX
+  swift8: SKBBPLP1
+  branch_name: Head Office
+  branch_address: Ul.Waska 18 05-200 Wolomin
+  branch_code: XXX
+  city: Wolomin
+  country: Poland
+- name: Suprema Securities S.a.
+  swift: SUSRPLP1XXX
+  swift8: SUSRPLP1
+  branch_name: Head Office
+  branch_address: Centrum Jasna 00-041 Warszawa
+  branch_code: XXX
+  city: Warszawa
+  country: Poland
+- name: Svenska Handelsbanken Ab Spolka Akcyjna Oddzial W Polsce
+  swift: HANDPLPWXXX
+  swift8: HANDPLPW
+  branch_name: Head Office
+  branch_address: Ul. Ilzecka 26 02-135 Warszawa
+  branch_code: XXX
+  city: Warszawa
+  country: Poland
+- name: The Polish Registry Of Allowances
+  swift: POROPLP1XXX
+  swift8: POROPLP1
+  branch_name: Head Office
+  branch_address: Institute of Environmental 00-548 Warszawa
+  branch_code: XXX
+  city: Warszawa
+  country: Poland
+- name: Toyota Bank Polska S.a.
+  swift: TOBAPLPWXXX
+  swift8: TOBAPLPW
+  branch_name: Head Office
+  branch_address: Orion 02-676 Warszawa
+  branch_code: XXX
+  city: Warszawa
+  country: Poland
+- name: Trigon Dom Maklerski S.a.
+  swift: TROMPLP1XXX
+  swift8: TROMPLP1
+  branch_name: No branch name
+  branch_address: No branch address
+  branch_code: XXX
+  city: Krakow
+  country: Poland
+- name: Tuir Warta S.a.
+  swift: WARTPLPWXXX
+  swift8: WARTPLPW
+  branch_name: Head Office
+  branch_address: 85/87 Ul. Chmielna 00-805 Warszawa
+  branch_code: XXX
+  city: Warszawa
+  country: Poland
+- name: Unicredit Ca Ib Polska Spoka Akcyjna
+  swift: UPSAPLP1XXX
+  swift8: UPSAPLP1
+  branch_name: Head Office
+  branch_address: Warsaw Financial Center 00113 Warszawa
+  branch_code: XXX
+  city: Warszawa
+  country: Poland
+- name: Vanquis Bank Limited (spolka Z Ograniczona Odpowiedzialnosci
+  swift: VANQPLP1XXX
+  swift8: VANQPLP1
+  branch_name: Head Office
+  branch_address: Al. Jana Pawla Ii 23 00-854 Warszawa
+  branch_code: XXX
+  city: Warszawa
+  country: Poland
+- name: Volkswagen Bank Polska S.a.
+  swift: VOWAPLP9XXX
+  swift8: VOWAPLP9
+  branch_name: Head Office
+  branch_address: Rondo Onz 1 00124 Warszawa
+  branch_code: XXX
+  city: Warszawa
+  country: Poland
+- name: Vw Poznan
+  swift: POZNPLP1XXX
+  swift8: POZNPLP1
+  branch_name: No branch name
+  branch_address: No branch address
+  branch_code: XXX
+  city: Poznan
+  country: Poland
+- name: Warminski Bank Spoldzielczy
+  swift: WBSJPLP1XXX
+  swift8: WBSJPLP1
+  branch_name: Head Office
+  branch_address: Plac 650-Lecia Jonkowa 12 11-042 Jonkowo
+  branch_code: XXX
+  city: Jonkowo
+  country: Poland
+- name: Warminsko-mazurski Bank Spoldzielczy
+  swift: WASDPLP1XXX
+  swift8: WASDPLP1
+  branch_name: Head Office
+  branch_address: Ul. Gizewiusza 2a 12-200 Pisz
+  branch_code: XXX
+  city: Pisz
+  country: Poland
+- name: Warsaw Stock Exchange
+  swift: XWARPLP1XXX
+  swift8: XWARPLP1
+  branch_name: Head Office
+  branch_address: Nowy Swiat 6/12 00 400 Warszawa
+  branch_code: XXX
+  city: Warszawa
+  country: Poland
+- name: Warszawski Bank Spoldzielczy
+  swift: SBOWPLP1XXX
+  swift8: SBOWPLP1
+  branch_name: Head Office
+  branch_address: Ul. Fieldorfa 5a 03-984 Warszawa
+  branch_code: XXX
+  city: Warszawa
+  country: Poland
+- name: Wood And Company Financial Services A.s. Polish Branch
+  swift: WCFSPLP1XXX
+  swift8: WCFSPLP1
+  branch_name: Head Office
+  branch_address: Budynek Skylight Zlote Tarasy 00-120 Warszawa
+  branch_code: XXX
+  city: Warszawa
+  country: Poland
+- name: Wschodni Bank Spoldzielczy W Chelmie
+  swift: SPCLPLP1XXX
+  swift8: SPCLPLP1
+  branch_name: Head Office
+  branch_address: Ul. I Pulku Szwolezerlow 9 22100 Chelm
+  branch_code: XXX
+  city: Chelm
+  country: Poland
+- name: X-trade Brokers Dom Maklerski Spowka Akcyjna
+  swift: TBDMPLP1XXX
+  swift8: TBDMPLP1
+  branch_name: Head Office
+  branch_address: City Geate 00-786 Warszawa
+  branch_code: XXX
+  city: Warszawa
+  country: Poland
+- name: Zulawski Bank Spoldzielczy
+  swift: ZUSPPLP1XXX
+  swift8: ZUSPPLP1
+  branch_name: Head Office
+  branch_address: Sikorskiego 52 82-100 Nowy Dwor Gdanski
+  branch_code: XXX
+  city: Nowy Dwor
+  country: Poland

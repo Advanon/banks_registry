@@ -1,0 +1,202 @@
+---
+MD:
+- name: Banca Comerciala Eximbank-gruppo Veneto Banca S.a.
+  swift: EXMMMD22XXX
+  swift8: EXMMMD22
+  branch_name: Head Office
+  branch_address: Bd. Stefan Cel Mare, 171/1 2004 Chisinau
+  branch_code: XXX
+  city: Chisinau
+  country: Moldova
+- name: Banca De Finante Si Comert S.a. (fincombank S.a.
+  swift: FTMDMD2XXXX
+  swift8: FTMDMD2X
+  branch_name: Head Office
+  branch_address: Puskin Street 26 Md-2012 Chisinau
+  branch_code: XXX
+  city: Chisinau
+  country: Moldova
+- name: Bc 'mobiasbanca-groupe Societe Generale' S.a.
+  swift: MOBBMD22XXX
+  swift8: MOBBMD22
+  branch_name: Head Office
+  branch_address: Blvd. Stefan Cel Mare Si Sfant 81a 2012 Chisinau
+  branch_code: XXX
+  city: Chisinau
+  country: Moldova
+- name: Bc Energbank S.a.
+  swift: ENEGMD22XXX
+  swift8: ENEGMD22
+  branch_name: Head Office
+  branch_address: V. Alecsandri Street 78 2012 Chisinau
+  branch_code: XXX
+  city: Chisinau
+  country: Moldova
+- name: Bc Eurocreditbank S.a.
+  swift: ECBMMD2XXXX
+  swift8: ECBMMD2X
+  branch_name: Head Office
+  branch_address: 33 Ismail Street 2001 Chisinau
+  branch_code: XXX
+  city: Chisinau
+  country: Moldova
+- name: Bc Procredit Bank S.a.
+  swift: PRCBMD22XXX
+  swift8: PRCBMD22
+  branch_name: Head Office
+  branch_address: 35 Eminescu Str. 2012 Chisinau
+  branch_code: XXX
+  city: Chisinau
+  country: Moldova
+- name: Benderysocbank
+  swift: BENRMD21XXX
+  swift8: BENRMD21
+  branch_name: Head Office
+  branch_address: 13, Lenina St 3200 Bendery
+  branch_code: XXX
+  city: Bendery
+  country: Moldova
+- name: Cb Moldova-agroindbank Sa
+  swift: AGRNMD2XXXX
+  swift8: AGRNMD2X
+  branch_name: Head Office
+  branch_address: Cosmonautilor Street 9 2006 Chisinau
+  branch_code: XXX
+  city: Chisinau
+  country: Moldova
+- name: Cjsc Agroprombank'
+  swift: AGRRMD21BEN
+  swift8: AGRRMD21
+  branch_name: Bendery Branch
+  branch_address: 75 Pushkina 3200 Bendery
+  branch_code: BEN
+  city: Bendery
+  country: Moldova
+- name: Cjsc Agroprombank'
+  swift: AGRRMD21DUB
+  swift8: AGRRMD21
+  branch_name: Dubossary Branch
+  branch_address: 76 Octyabrskaya 4500 Dubossary
+  branch_code: DUB
+  city: Dubossary
+  country: Moldova
+- name: Cjsc Agroprombank'
+  swift: AGRRMD21GRI
+  swift8: AGRRMD21
+  branch_name: Grigoriopol Branch
+  branch_address: 6a Dzerzhinskogo 4000 Grigoriopol
+  branch_code: GRI
+  city: Grigoriopol
+  country: Moldova
+- name: Cjsc Agroprombank'
+  swift: AGRRMD21KAM
+  swift8: AGRRMD21
+  branch_name: Kamenka Branch
+  branch_address: 7 Proletarskaya 6600 Kamenka
+  branch_code: KAM
+  city: Kamenka
+  country: Moldova
+- name: Cjsc Agroprombank'
+  swift: AGRRMD21RYB
+  swift8: AGRRMD21
+  branch_name: Rybnitsa Branch
+  branch_address: 7 Gagarina 5500 Rybnitsa
+  branch_code: RYB
+  city: Rybnitsa
+  country: Moldova
+- name: Cjsc Agroprombank'
+  swift: AGRRMD21SLB
+  swift8: AGRRMD21
+  branch_name: Slobodzeya Branch
+  branch_address: 16 Frunze 5700 Slobodzeya
+  branch_code: SLB
+  city: Slobodzeya
+  country: Moldova
+- name: Cjsc Agroprombank'
+  swift: AGRRMD21XXX
+  swift8: AGRRMD21
+  branch_name: Head Office
+  branch_address: 44, Lenin Str. Md-3300 Tiraspol
+  branch_code: XXX
+  city: Tiraspol
+  country: Moldova
+- name: Cjsc Tiraspromstroybank
+  swift: CJTIMD21XXX
+  swift8: CJTIMD21
+  branch_name: Head Office
+  branch_address: Enghels Lane, 11 Tiraspol
+  branch_code: XXX
+  city: Tiraspol
+  country: Moldova
+- name: Closed Joint Stock Company (cjsc) 'trans-dniester Savings Bank' ('sberbank'
+  swift: CJSMMD21XXX
+  swift8: CJSMMD21
+  branch_name: Head Office
+  branch_address: 100, 25 Oktyabria Street 3300 Tiraspol
+  branch_code: XXX
+  city: Tiraspol
+  country: Moldova
+- name: Comertbank
+  swift: CMTBMD2XXXX
+  swift8: CMTBMD2X
+  branch_name: Head Office
+  branch_address: Hincesti 38 a Street 2002 Chisinau
+  branch_code: XXX
+  city: Chisinau
+  country: Moldova
+- name: Gazprombank Joint-stock Commercial Bank
+  swift: GAJCMD21XXX
+  swift8: GAJCMD21
+  branch_name: Head Office
+  branch_address: 49, Sverdlova 3300 Tiraspol
+  branch_code: XXX
+  city: Tiraspol
+  country: Moldova
+- name: Joint-stock Commercial Victoriabank
+  swift: VICBMD2XXXX
+  swift8: VICBMD2X
+  branch_name: Head Office
+  branch_address: 141, 31 August 1989 Md-2004 Chisinau
+  branch_code: XXX
+  city: Chisinau
+  country: Moldova
+- name: Jscb Ipotechniy
+  swift: IPOJMD21XXX
+  swift8: IPOJMD21
+  branch_name: Head Office
+  branch_address: 103-B, 25 October Str 3300 Tiraspol
+  branch_code: XXX
+  city: Tiraspol
+  country: Moldova
+- name: Moldindconbank
+  swift: MOLDMD2XXXX
+  swift8: MOLDMD2X
+  branch_name: Head Office
+  branch_address: 38, Armeneasca 2012 Chisinau
+  branch_code: XXX
+  city: Chisinau
+  country: Moldova
+- name: National Bank Of Moldova
+  swift: NBMDMD2XXXX
+  swift8: NBMDMD2X
+  branch_name: Head Office
+  branch_address: 1 Grigore Vieru Avenue 2005 Chisinau
+  branch_code: XXX
+  city: Chisinau
+  country: Moldova
+- name: Romanian Commercial Bank Chisinau S.a.
+  swift: RNCBMD2XXXX
+  swift8: RNCBMD2X
+  branch_name: Head Office
+  branch_address: Tricolorului 32/4 2012 Chisinau
+  branch_code: XXX
+  city: Chisinau
+  country: Moldova
+- name: Trans-dniester Republican Bank
+  swift: PRBTMD21XXX
+  swift8: PRBTMD21
+  branch_name: Head Office
+  branch_address: 71, 25 Oktober Street 3300 Tiraspol
+  branch_code: XXX
+  city: Tiraspol
+  country: Moldova

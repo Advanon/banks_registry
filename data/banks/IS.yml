@@ -1,0 +1,258 @@
+---
+IS:
+- name: Arion Bank
+  swift: ESJAISREXXX
+  swift8: ESJAISRE
+  branch_name: Head Office
+  branch_address: Borgartun 19 105 Reykjavik
+  branch_code: XXX
+  city: Reykjavik
+  country: Iceland
+- name: Central Bank Of Iceland
+  swift: SISLISREXXX
+  swift8: SISLISRE
+  branch_name: Head Office
+  branch_address: Kalkofnsvegur 1 150 Reykjavik
+  branch_code: XXX
+  city: Reykjavik
+  country: Iceland
+- name: Central Bank Of Iceland
+  swift: SISLISRENGL
+  swift8: SISLISRE
+  branch_name: Reykjavik
+  branch_address: Reykjavik
+  branch_code: NGL
+  city: Reykjavik
+  country: Iceland
+- name: Central Bank Of Iceland
+  swift: SISLISRENKB
+  swift8: SISLISRE
+  branch_name: Reykjavik
+  branch_address: Reykjavik
+  branch_code: NKB
+  city: Reykjavik
+  country: Iceland
+- name: Central Bank Of Iceland
+  swift: SISLISRENLB
+  swift8: SISLISRE
+  branch_name: Reykjavik
+  branch_address: Reykjavik
+  branch_code: NLB
+  city: Reykjavik
+  country: Iceland
+- name: Islandsbanki Hf
+  swift: GLITISREXXX
+  swift8: GLITISRE
+  branch_name: Head Office
+  branch_address: Kirkjusandur 2 155 Reykjavik
+  branch_code: XXX
+  city: Reykjavik
+  country: Iceland
+- name: Mp Bank Hf.
+  swift: MPBAISREXXX
+  swift8: MPBAISRE
+  branch_name: Head Office
+  branch_address: Skipholt 50d 105 Reykjavik
+  branch_code: XXX
+  city: Reykjavik
+  country: Iceland
+- name: Nbi Hf
+  swift: NBIIISREXXX
+  swift8: NBIIISRE
+  branch_name: Head Office
+  branch_address: Austurstraeti 11 155 Reykjavik
+  branch_code: XXX
+  city: Reykjavik
+  country: Iceland
+- name: Artica Finance Hf.
+  swift: ARNIISR1XXX
+  swift8: ARNIISR1
+  branch_name: Head Office
+  branch_address: Smaratorgi 3, 12 Haeo 201 Kopavogur
+  branch_code: XXX
+  city: Kopavogur
+  country: Iceland
+- name: Audur Capital Hf.
+  swift: AUCAISR1XXX
+  swift8: AUCAISR1
+  branch_name: Head Office
+  branch_address: Borgartun 29 Reykjavik
+  branch_code: XXX
+  city: Reykjavik
+  country: Iceland
+- name: Borgun Hf
+  swift: BORGISREXXX
+  swift8: BORGISRE
+  branch_name: Head Office
+  branch_address: 30 Armuli 108 Reykjavik
+  branch_code: XXX
+  city: Reykjavik
+  country: Iceland
+- name: Byr Securities
+  swift: BYSEISR1XXX
+  swift8: BYSEISR1
+  branch_name: Head Office
+  branch_address: Borgartuni 18 105 Reykjavik
+  branch_code: XXX
+  city: Reykjavik
+  country: Iceland
+- name: Hf Verdbref
+  swift: VERRISR1XXX
+  swift8: VERRISR1
+  branch_name: Head Office
+  branch_address: Skolavordustigur 11 101 Reykjavik
+  branch_code: XXX
+  city: Reykjavik
+  country: Iceland
+- name: Icelandic Securities Ltd.
+  swift: ICSCISR1XXX
+  swift8: ICSCISR1
+  branch_name: Head Office
+  branch_address: Strandgata 3 600 Akureyri
+  branch_code: XXX
+  city: Akureyri
+  country: Iceland
+- name: Islandsbanki Securities
+  swift: VISLISR1XXX
+  swift8: VISLISR1
+  branch_name: Head Office
+  branch_address: Reykjavik
+  branch_code: XXX
+  city: Reykjavik
+  country: Iceland
+- name: Islandspostur Hf
+  swift: ICGIISR1XXX
+  swift8: ICGIISR1
+  branch_name: Head Office
+  branch_address: Storhofda 29 110 Reykjavik
+  branch_code: XXX
+  city: Reykjavik
+  country: Iceland
+- name: Islenskir Fjarfestar Hf.
+  swift: ISFJISR1XXX
+  swift8: ISFJISR1
+  branch_name: Head Office
+  branch_address: Skipholti 50 C 105 Reykjavik
+  branch_code: XXX
+  city: Reykjavik
+  country: Iceland
+- name: Joklar-verdbref Hf
+  swift: JOKLISR1XXX
+  swift8: JOKLISR1
+  branch_name: Head Office
+  branch_address: Saetun 1 105 Reykjavik
+  branch_code: XXX
+  city: Reykjavik
+  country: Iceland
+- name: Nasdaq Omx Iceland Hf
+  swift: XICEISR1XXX
+  swift8: XICEISR1
+  branch_name: Head Office
+  branch_address: Laugavegi 182 105 Reykjavik
+  branch_code: XXX
+  city: Reykjavik
+  country: Iceland
+- name: National Registry Of Iceland
+  swift: NARIISR1XXX
+  swift8: NARIISR1
+  branch_name: Head Office
+  branch_address: The Environment Agency of Iceland 108 Reykjavik
+  branch_code: XXX
+  city: Reykjavik
+  country: Iceland
+- name: Ossur Hf
+  swift: OSSRISR1XXX
+  swift8: OSSRISR1
+  branch_name: Head Office
+  branch_address: Grjothals 5 110 Reykjavik
+  branch_code: XXX
+  city: Reykjavik
+  country: Iceland
+- name: Reykjavik Capital Hf
+  swift: NOVEISR1XXX
+  swift8: NOVEISR1
+  branch_name: Head Office
+  branch_address: Borgartuni 26 108 Reykjavik
+  branch_code: XXX
+  city: Reykjavik
+  country: Iceland
+- name: Saga Capital Fjarfestingarbanki Hf.
+  swift: SACVISR1XXX
+  swift8: SACVISR1
+  branch_name: Head Office
+  branch_address: Hafnarstraeti 53 600 Akureyri
+  branch_code: XXX
+  city: Akureyri
+  country: Iceland
+- name: Sparisjoour Myrasyslu
+  swift: SPMYISR1XXX
+  swift8: SPMYISR1
+  branch_name: Head Office
+  branch_address: Digranesgata 2 310 Borgarnes
+  branch_code: XXX
+  city: Borgarnes
+  country: Iceland
+- name: Sparisjoourinn I Keflavik
+  swift: SPKFISR1XXX
+  swift8: SPKFISR1
+  branch_name: Head Office
+  branch_address: Tjarnargata 12 230 Reykjanesbae
+  branch_code: XXX
+  city: Reykjanesbae
+  country: Iceland
+- name: Sph
+  swift: SPPHISR1XXX
+  swift8: SPPHISR1
+  branch_name: Head Office
+  branch_address: 8-10 Strandgata 220 Hafnarfjordur
+  branch_code: XXX
+  city: Hafnarfjordur
+  country: Iceland
+- name: Spron Verdbref Hf
+  swift: SPVRISR1XXX
+  swift8: SPVRISR1
+  branch_name: Head Office
+  branch_address: Vegmuli 2 108 Reykjavik
+  branch_code: XXX
+  city: Reykjavik
+  country: Iceland
+- name: The Icelandic Securities Depository Ltd.
+  swift: ICSDISR1XXX
+  swift8: ICSDISR1
+  branch_name: Head Office
+  branch_address: Laugavegi 182 105 Reykjavik
+  branch_code: XXX
+  city: Reykjavik
+  country: Iceland
+- name: Tindar Verdbref
+  swift: TIVEISR1XXX
+  swift8: TIVEISR1
+  branch_name: Head Office
+  branch_address: Vegmuli 2 108 Reykjavik
+  branch_code: XXX
+  city: Reykjavik
+  country: Iceland
+- name: Vbs Investment Bank
+  swift: VBINISR1XXX
+  swift8: VBINISR1
+  branch_name: Head Office
+  branch_address: Sudurlandsbraut 18 108 Reykjavik
+  branch_code: XXX
+  city: Reykjavik
+  country: Iceland
+- name: Virding Hf.
+  swift: VIRDISR1XXX
+  swift8: VIRDISR1
+  branch_name: Head Office
+  branch_address: Borgartun 30 105 Reykjavik
+  branch_code: XXX
+  city: Reykjavik
+  country: Iceland
+- name: Vsp
+  swift: VSPVISR1XXX
+  swift8: VSPVISR1
+  branch_name: Head Office
+  branch_address: Raudararstigur 27 105 Reykjavik
+  branch_code: XXX
+  city: Reykjavik
+  country: Iceland

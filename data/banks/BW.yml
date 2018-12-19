@@ -1,0 +1,354 @@
+---
+BW:
+- name: African Banking Corporation Of Botswana (proprietary) Limited
+  swift: FMBZBWGAXXX
+  swift8: FMBZBWGA
+  branch_name: Head Office
+  branch_address: Abc House Tholo Office Park Gaborone
+  branch_code: XXX
+  city: Gaborone
+  country: Botswana
+- name: Bank Gaborone Limited
+  swift: BGLIBWGXXXX
+  swift8: BGLIBWGX
+  branch_name: Head Office
+  branch_address: Capricorn House Gaborone
+  branch_code: XXX
+  city: Gaborone
+  country: Botswana
+- name: Bank Of Baroda (botswana) Limited
+  swift: BARBBWGXXXX
+  swift8: BARBBWGX
+  branch_name: Head Office
+  branch_address: Acumen Park Gaborone
+  branch_code: XXX
+  city: Gaborone
+  country: Botswana
+- name: Bank Of Botswana
+  swift: BBOTBWGXXXX
+  swift8: BBOTBWGX
+  branch_name: Head Office
+  branch_address: Khama Crescent Gaborone
+  branch_code: XXX
+  city: Gaborone
+  country: Botswana
+- name: Bank Of India (botswana) Limited
+  swift: BKIDBWGXXXX
+  swift8: BKIDBWGX
+  branch_name: No branch name
+  branch_address: No branch address
+  branch_code: XXX
+  city: Gaborone
+  country: Botswana
+- name: Bank Of India (botswana) Limited
+  swift: BKIDBWB1XXX
+  swift8: BKIDBWB1
+  branch_name: Head Office
+  branch_address: Old Lobatse Road, Plot 1264 Gaborone
+  branch_code: XXX
+  city: Gaborone
+  country: Botswana
+- name: Barclays Bank Of Botswana Ltd.
+  swift: BARCBWGXXXX
+  swift8: BARCBWGX
+  branch_name: Head Office
+  branch_address: Barclays House Gaborone
+  branch_code: XXX
+  city: Gaborone
+  country: Botswana
+- name: Botswana Stock Exchange
+  swift: XBOTBWG1XXX
+  swift8: XBOTBWG1
+  branch_name: Head Office
+  branch_address: Barclays House Gaborone
+  branch_code: XXX
+  city: Gaborone
+  country: Botswana
+- name: Capital Bank Limited
+  swift: CAPLBWGAXXX
+  swift8: CAPLBWGA
+  branch_name: Head Office
+  branch_address: Capital House Gaborone
+  branch_code: XXX
+  city: Gaborone
+  country: Botswana
+- name: Capital Securities
+  swift: CSERBWG1XXX
+  swift8: CSERBWG1
+  branch_name: Head Office
+  branch_address: Moedi Gaborone
+  branch_code: XXX
+  city: Gaborone
+  country: Botswana
+- name: Debswana Diamond Company (pty) Ltd
+  swift: DDCOBWGAXXX
+  swift8: DDCOBWGA
+  branch_name: Head Office
+  branch_address: Debswana House Gaborone
+  branch_code: XXX
+  city: Gaborone
+  country: Botswana
+- name: First National Bank Of Botswana
+  swift: FIRNBWGXXXX
+  swift8: FIRNBWGX
+  branch_name: Head Office
+  branch_address: Fnb House Gaborone
+  branch_code: XXX
+  city: Gaborone
+  country: Botswana
+- name: Fx Africa (botswana) Pty Ltd
+  swift: FXAFBWG1XXX
+  swift8: FXAFBWG1
+  branch_name: Head Office
+  branch_address: Plot 1840/1116/7 Gaborone
+  branch_code: XXX
+  city: Gaborone
+  country: Botswana
+- name: Investec Securities (botswana) (pty) Ltd
+  swift: ISBTBWG1XXX
+  swift8: ISBTBWG1
+  branch_name: Head Office
+  branch_address: Deloitte House Gaborone
+  branch_code: XXX
+  city: Gaborone
+  country: Botswana
+- name: Motswedi Securities (pty) Ltd.
+  swift: MOSYBWG1XXX
+  swift8: MOSYBWG1
+  branch_name: Head Office
+  branch_address: U.N. Place Gaborone
+  branch_code: XXX
+  city: Gaborone
+  country: Botswana
+- name: National Development Bank
+  swift: DNABBWG10BF
+  swift8: DNABBWG1
+  branch_name: Francistown
+  branch_address: Francistown
+  branch_code: 0BF
+  city: Francistown
+  country: Botswana
+- name: National Development Bank
+  swift: DNABBWG10BK
+  swift8: DNABBWG1
+  branch_name: Kanye
+  branch_address: Kanye
+  branch_code: 0BK
+  city: Kanye
+  country: Botswana
+- name: National Development Bank
+  swift: DNABBWG10BM
+  swift8: DNABBWG1
+  branch_name: Maun
+  branch_address: Maun
+  branch_code: 0BM
+  city: Maun
+  country: Botswana
+- name: National Development Bank
+  swift: DNABBWG10BP
+  swift8: DNABBWG1
+  branch_name: Selebi Phikwe
+  branch_address: Selebi Phikwe
+  branch_code: 0BP
+  city: Phikwe
+  country: Botswana
+- name: National Development Bank
+  swift: DNABBWG10BS
+  swift8: DNABBWG1
+  branch_name: Serowe
+  branch_address: Serowe
+  branch_code: 0BS
+  city: Serowe
+  country: Botswana
+- name: National Development Bank
+  swift: DNABBWG1XXX
+  swift8: DNABBWG1
+  branch_name: Head Office
+  branch_address: Development House Gaborone
+  branch_code: XXX
+  city: Gaborone
+  country: Botswana
+- name: Sabmiller Botswana
+  swift: SABMBWG1BBL
+  swift8: SABMBWG1
+  branch_name: Gaborone
+  branch_address: Chibuku House Gaborone
+  branch_code: BBL
+  city: Gaborone
+  country: Botswana
+- name: Sabmiller Botswana
+  swift: SABMBWG1KBL
+  swift8: SABMBWG1
+  branch_name: Gaborone
+  branch_address: Gaborone
+  branch_code: KBL
+  city: Gaborone
+  country: Botswana
+- name: Sabmiller Botswana
+  swift: SABMBWG1XXX
+  swift8: SABMBWG1
+  branch_name: Head Office
+  branch_address: Cnr Kubu and Nelson Mandela Drive Gaborone
+  branch_code: XXX
+  city: Gaborone
+  country: Botswana
+- name: Stanbic Bank Botswana Limited
+  swift: SBICBWGXXXX
+  swift8: SBICBWGX
+  branch_name: Head Office
+  branch_address: Stanbic House Gaborone
+  branch_code: XXX
+  city: Gaborone
+  country: Botswana
+- name: Standard Chartered Bank Botswana Ltd.
+  swift: SCHBBWGX008
+  swift8: SCHBBWGX
+  branch_name: Jwaneng
+  branch_address: Jwaneng
+  branch_code: '008'
+  city: Jwaneng
+  country: Botswana
+- name: Standard Chartered Bank Botswana Ltd.
+  swift: SCHBBWGX009
+  swift8: SCHBBWGX
+  branch_name: Lobatse
+  branch_address: Lobatse
+  branch_code: '009'
+  city: Lobatse
+  country: Botswana
+- name: Standard Chartered Bank Botswana Ltd.
+  swift: SCHBBWGX013
+  swift8: SCHBBWGX
+  branch_name: Mahalpye
+  branch_address: Mahalpye
+  branch_code: '013'
+  city: Mahalpye
+  country: Botswana
+- name: Standard Chartered Bank Botswana Ltd.
+  swift: SCHBBWGX015
+  swift8: SCHBBWGX
+  branch_name: Palapye
+  branch_address: Palapye
+  branch_code: '015'
+  city: Palapye
+  country: Botswana
+- name: Standard Chartered Bank Botswana Ltd.
+  swift: SCHBBWGX016
+  swift8: SCHBBWGX
+  branch_name: Selebi Phikwe
+  branch_address: Selebi Phikwe
+  branch_code: '016'
+  city: Selebi Phikwe
+  country: Botswana
+- name: Standard Chartered Bank Botswana Ltd.
+  swift: SCHBBWGX017
+  swift8: SCHBBWGX
+  branch_name: Haskins Street
+  branch_address: Francistown
+  branch_code: '017'
+  city: Francistown
+  country: Botswana
+- name: Standard Chartered Bank Botswana Ltd.
+  swift: SCHBBWGX018
+  swift8: SCHBBWGX
+  branch_name: Orapa
+  branch_address: Orapa
+  branch_code: '018'
+  city: Orapa
+  country: Botswana
+- name: Standard Chartered Bank Botswana Ltd.
+  swift: SCHBBWGX019
+  swift8: SCHBBWGX
+  branch_name: Maun
+  branch_address: Maun
+  branch_code: '019'
+  city: Maun
+  country: Botswana
+- name: Standard Chartered Bank Botswana Ltd.
+  swift: SCHBBWGX021
+  swift8: SCHBBWGX
+  branch_name: Mall Branch
+  branch_address: Gaborone
+  branch_code: '021'
+  city: Gaborone
+  country: Botswana
+- name: Standard Chartered Bank Botswana Ltd.
+  swift: SCHBBWGX022
+  swift8: SCHBBWGX
+  branch_name: Standard House
+  branch_address: Gaborone
+  branch_code: '022'
+  city: Gaborone
+  country: Botswana
+- name: Standard Chartered Bank Botswana Ltd.
+  swift: SCHBBWGX023
+  swift8: SCHBBWGX
+  branch_name: Industrial
+  branch_address: Gaborone
+  branch_code: '023'
+  city: Gaborone
+  country: Botswana
+- name: Standard Chartered Bank Botswana Ltd.
+  swift: SCHBBWGX024
+  swift8: SCHBBWGX
+  branch_name: Broadhurst
+  branch_address: Gaborone
+  branch_code: '024'
+  city: Gaborone
+  country: Botswana
+- name: Standard Chartered Bank Botswana Ltd.
+  swift: SCHBBWGX026
+  swift8: SCHBBWGX
+  branch_name: Industrial Branch
+  branch_address: Francistown
+  branch_code: '026'
+  city: Francistown
+  country: Botswana
+- name: Standard Chartered Bank Botswana Ltd.
+  swift: SCHBBWGX027
+  swift8: SCHBBWGX
+  branch_name: Professional House
+  branch_address: Gaborone
+  branch_code: '027'
+  city: Gaborone
+  country: Botswana
+- name: Standard Chartered Bank Botswana Ltd.
+  swift: SCHBBWGX036
+  swift8: SCHBBWGX
+  branch_name: Foreign Trade
+  branch_address: Gaborone
+  branch_code: '036'
+  city: Gaborone
+  country: Botswana
+- name: Standard Chartered Bank Botswana Ltd.
+  swift: SCHBBWGXSSU
+  swift8: SCHBBWGX
+  branch_name: Securities Services Unit
+  branch_address: Gaborone
+  branch_code: SSU
+  city: Gaborone
+  country: Botswana
+- name: Standard Chartered Bank Botswana Ltd.
+  swift: SCHBBWGXXXX
+  swift8: SCHBBWGX
+  branch_name: Head Office
+  branch_address: Standard House, the Mall Gaborone
+  branch_code: XXX
+  city: Gaborone
+  country: Botswana
+- name: State Bank Of India (botswana) Ltd
+  swift: SBINBWGXXXX
+  swift8: SBINBWGX
+  branch_name: No branch name
+  branch_address: No branch address
+  branch_code: XXX
+  city: Gaborone
+  country: Botswana
+- name: Stockbrokers Botswana Ltd.
+  swift: STOOBWG1XXX
+  swift8: STOOBWG1
+  branch_name: Head Office
+  branch_address: Barclays House Gaborone
+  branch_code: XXX
+  city: Gaborone
+  country: Botswana

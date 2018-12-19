@@ -1,0 +1,794 @@
+---
+SA:
+- name: Arab National Bank
+  swift: ARNBSARIXXX
+  swift8: ARNBSARI
+  branch_name: Head Office
+  branch_address: King Faisal Street North Muraba Riyadh 11564
+  branch_code: XXX
+  city: Riyadh
+  country: Saudi Arabia
+- name: Emirates Nbd Pjsc
+  swift: EBILSARIXXX
+  swift8: EBILSARI
+  branch_name: Head Office
+  branch_address: Al Mas Center Riyadh 11482
+  branch_code: XXX
+  city: Riyadh
+  country: Saudi Arabia
+- name: National Bank Of Pakistan
+  swift: NBPASARIXXX
+  swift8: NBPASARI
+  branch_name: Head Office
+  branch_address: Al-Guthmi Building Riyadh 11516
+  branch_code: XXX
+  city: Riyadh
+  country: Saudi Arabia
+- name: Riyad Bank
+  swift: RIBLSARIXXX
+  swift8: RIBLSARI
+  branch_name: Head Office
+  branch_address: King Abdul Aziz Street (Old Airport Riyadh 11416
+  branch_code: XXX
+  city: Riyadh
+  country: Saudi Arabia
+- name: State Bank Of India
+  swift: SBINSAJEXXX
+  swift8: SBINSAJE
+  branch_name: Head Office
+  branch_address: Al-Andaluf Plaza Jeddah 21544
+  branch_code: XXX
+  city: Jeddah
+  country: Saudi Arabia
+- name: Arab Petroleum Investments Corporation
+  swift: APIASAR1XXX
+  swift8: APIASAR1
+  branch_name: Head Office
+  branch_address: Dammam
+  branch_code: XXX
+  city: Dammam
+  country: Saudi Arabia
+- name: National Bank Of Bahrain
+  swift: NBOBSARIXXX
+  swift8: NBOBSARI
+  branch_name: Head Office
+  branch_address: Al-Amaar Bldg Riyadh
+  branch_code: XXX
+  city: Riyadh
+  country: Saudi Arabia
+- name: National Bank Of Kuwait
+  swift: NBOKSAJEXXX
+  swift8: NBOKSAJE
+  branch_name: Head Office
+  branch_address: Red Sea Plaza Jeddah 21444
+  branch_code: XXX
+  city: Jeddah
+  country: Saudi Arabia
+- name: Bankmuscat
+  swift: BMUSSARIXXX
+  swift8: BMUSSARI
+  branch_name: Head Office
+  branch_address: Burj Alidari Riyadh 11514
+  branch_code: XXX
+  city: Riyadh
+  country: Saudi Arabia
+- name: Samba Financial Group
+  swift: SAMBSARIACS
+  swift8: SAMBSARI
+  branch_name: Eastern Region Branch
+  branch_address: Alkhobar
+  branch_code: ACS
+  city: Alkhobar
+  country: Saudi Arabia
+- name: Samba Financial Group
+  swift: SAMBSARIJCS
+  swift8: SAMBSARI
+  branch_name: Western Region Branch
+  branch_address: Jeddah
+  branch_code: JCS
+  city: Jeddah
+  country: Saudi Arabia
+- name: Samba Financial Group
+  swift: SAMBSARIRCP
+  swift8: SAMBSARI
+  branch_name: Consumers Branch
+  branch_address: Riyadh
+  branch_code: RCP
+  city: Riyadh
+  country: Saudi Arabia
+- name: Samba Financial Group
+  swift: SAMBSARIRCS
+  swift8: SAMBSARI
+  branch_name: Central Region Branch
+  branch_address: Riyadh
+  branch_code: RCS
+  city: Riyadh
+  country: Saudi Arabia
+- name: Samba Financial Group
+  swift: SAMBSARIRFX
+  swift8: SAMBSARI
+  branch_name: Riyadh Branch
+  branch_address: Riyadh
+  branch_code: RFX
+  city: Riyadh
+  country: Saudi Arabia
+- name: Samba Financial Group
+  swift: SAMBSARIXXX
+  swift8: SAMBSARI
+  branch_name: Head Office
+  branch_address: Old Airport Road Riyadh 11421
+  branch_code: XXX
+  city: Riyadh
+  country: Saudi Arabia
+- name: Al Amoundi Exchange And Trading
+  swift: AMETSAJ1XXX
+  swift8: AMETSAJ1
+  branch_name: Head Office
+  branch_address: Jeddah
+  branch_code: XXX
+  city: Jeddah
+  country: Saudi Arabia
+- name: Al Inma Bank
+  swift: INMASARIXXX
+  swift8: INMASARI
+  branch_name: Head Office
+  branch_address: Al Anoud Tour Riyadh 11586
+  branch_code: XXX
+  city: Riyadh
+  country: Saudi Arabia
+- name: Al Rajhi Bank
+  swift: RJHISARIXXX
+  swift8: RJHISARI
+  branch_name: Head Office
+  branch_address: Akaria 3 Riyadh 11495
+  branch_code: XXX
+  city: Riyadh
+  country: Saudi Arabia
+- name: Alamoudi Exchange Company
+  swift: AMDISAJEXXX
+  swift8: AMDISAJE
+  branch_name: Head Office
+  branch_address: Alhazzazy Endowment and Jeddah 21411
+  branch_code: XXX
+  city: Jeddah
+  country: Saudi Arabia
+- name: Alrajhi Commercial Foreign Exchange
+  swift: AFEXSAJ1XXX
+  swift8: AFEXSAJ1
+  branch_name: Head Office
+  branch_address: Palestine Street Jeddah 21412
+  branch_code: XXX
+  city: Jeddah
+  country: Saudi Arabia
+- name: Arab Petrolem Investments Corporation
+  swift: APICSADMXXX
+  swift8: APICSADM
+  branch_name: Head Office
+  branch_address: Apicorp Building Dammam 31423
+  branch_code: XXX
+  city: Dammam
+  country: Saudi Arabia
+- name: Bank Al Bilad
+  swift: ALBISAR1DAM
+  swift8: ALBISAR1
+  branch_name: Dammam
+  branch_address: Bank Albilad - H.O Dammam 140
+  branch_code: DAM
+  city: Dammam
+  country: Saudi Arabia
+- name: Bank Al Bilad
+  swift: ALBISARIJED
+  swift8: ALBISARI
+  branch_name: Jeddah
+  branch_address: Bank Albilad - H.O Jeddah 140
+  branch_code: JED
+  city: Jeddah
+  country: Saudi Arabia
+- name: Bank Al Bilad
+  swift: ALBISARITFC
+  swift8: ALBISARI
+  branch_name: Trade Finance Center
+  branch_address: Trade Finance Center Riyadh 11411
+  branch_code: TFC
+  city: Riyadh
+  country: Saudi Arabia
+- name: Bank Al Bilad
+  swift: ALBISARIXXX
+  swift8: ALBISARI
+  branch_name: Head Office
+  branch_address: Bank Al Bilad Riyadh 11411
+  branch_code: XXX
+  city: Riyadh
+  country: Saudi Arabia
+- name: Bank Al-jazira
+  swift: BJAZSAJE006
+  swift8: BJAZSAJE
+  branch_name: King Abdul Aziz Street Br
+  branch_address: Jeddah
+  branch_code: '006'
+  city: Jeddah
+  country: Saudi Arabia
+- name: Bank Al-jazira
+  swift: BJAZSAJE007
+  swift8: BJAZSAJE
+  branch_name: Khalid Bin Waleed Street Branch
+  branch_address: Jeddah
+  branch_code: '007'
+  city: Jeddah
+  country: Saudi Arabia
+- name: Bank Al-jazira
+  swift: BJAZSAJE009
+  swift8: BJAZSAJE
+  branch_name: Dammam Branch
+  branch_address: Dammam
+  branch_code: '009'
+  city: Dammam
+  country: Saudi Arabia
+- name: Bank Al-jazira
+  swift: BJAZSAJE010
+  swift8: BJAZSAJE
+  branch_name: Makkah Mukarrama Branch
+  branch_address: Makkah Al-Mukarrama
+  branch_code: '010'
+  city: Makkah Al-Mukarrama
+  country: Saudi Arabia
+- name: Bank Al-jazira
+  swift: BJAZSAJE011
+  swift8: BJAZSAJE
+  branch_name: Madina Munawwara Branch
+  branch_address: Madina Munawwara
+  branch_code: '011'
+  city: Madina Munawwara
+  country: Saudi Arabia
+- name: Bank Al-jazira
+  swift: BJAZSAJE013
+  swift8: BJAZSAJE
+  branch_name: Alkhobar Branch
+  branch_address: Alkhobar
+  branch_code: '013'
+  city: Alkhobar
+  country: Saudi Arabia
+- name: Bank Al-jazira
+  swift: BJAZSAJE016
+  swift8: BJAZSAJE
+  branch_name: Olayyah Branch
+  branch_address: Riyadh
+  branch_code: '016'
+  city: Riyadh
+  country: Saudi Arabia
+- name: Bank Al-jazira
+  swift: BJAZSAJE019
+  swift8: BJAZSAJE
+  branch_name: Jubail Branch
+  branch_address: Jubail
+  branch_code: '019'
+  city: Jubail
+  country: Saudi Arabia
+- name: Bank Al-jazira
+  swift: BJAZSAJE021
+  swift8: BJAZSAJE
+  branch_name: Madina Road Branch
+  branch_address: Jeddah
+  branch_code: '021'
+  city: Jeddah
+  country: Saudi Arabia
+- name: Bank Al-jazira
+  swift: BJAZSAJE025
+  swift8: BJAZSAJE
+  branch_name: Hofuf Branch
+  branch_address: Hofuf
+  branch_code: '025'
+  city: Hofuf
+  country: Saudi Arabia
+- name: Bank Al-jazira
+  swift: BJAZSAJE026
+  swift8: BJAZSAJE
+  branch_name: Buraidah Branch
+  branch_address: Buraidah
+  branch_code: '026'
+  city: Buraidah
+  country: Saudi Arabia
+- name: Bank Al-jazira
+  swift: BJAZSAJE027
+  swift8: BJAZSAJE
+  branch_name: Sitteen Street Branch
+  branch_address: Riyadh
+  branch_code: '027'
+  city: Riyadh
+  country: Saudi Arabia
+- name: Bank Al-jazira
+  swift: BJAZSAJEXXX
+  swift8: BJAZSAJE
+  branch_name: Head Office
+  branch_address: Khalid Bin Waleed Street Jeddah 21442
+  branch_code: XXX
+  city: Jeddah
+  country: Saudi Arabia
+- name: Banque Saudi Fransi
+  swift: BSFRSARIEST
+  swift8: BSFRSARI
+  branch_name: Eastern Region
+  branch_address: Alkhodri Building Alkhobar 31932
+  branch_code: EST
+  city: Alkhobar
+  country: Saudi Arabia
+- name: Banque Saudi Fransi
+  swift: BSFRSARIGEM
+  swift8: BSFRSARI
+  branch_name: Head Office
+  branch_address: Al-Maather Riyadh 11554
+  branch_code: GEM
+  city: Riyadh
+  country: Saudi Arabia
+- name: Banque Saudi Fransi
+  swift: BSFRSARIRYD
+  swift8: BSFRSARI
+  branch_name: Central Region
+  branch_address: Al-Maather Riyadh 11554
+  branch_code: RYD
+  city: Riyadh
+  country: Saudi Arabia
+- name: Banque Saudi Fransi
+  swift: BSFRSARIWST
+  swift8: BSFRSARI
+  branch_name: Western Region
+  branch_address: Tower Building Jeddah 21411
+  branch_code: WST
+  city: Jeddah
+  country: Saudi Arabia
+- name: Bnp Paribas Investment Company Ksa
+  swift: BNPASARBWMI
+  swift8: BNPASARB
+  branch_name: Riyadh
+  branch_address: Riyadh
+  branch_code: WMI
+  city: Riyadh
+  country: Saudi Arabia
+- name: Bnp Paribas Investment Company Ksa
+  swift: BNPASARBXXX
+  swift8: BNPASARB
+  branch_name: Head Office
+  branch_address: Kingdom Tower Riyadh
+  branch_code: XXX
+  city: Riyadh
+  country: Saudi Arabia
+- name: Bnp Paribas Saudi Arabia
+  swift: BNPASARIXXX
+  swift8: BNPASARI
+  branch_name: Head Office
+  branch_address: Al Faisaliah Tower Riyadh
+  branch_code: XXX
+  city: Riyadh
+  country: Saudi Arabia
+- name: Deutsche Bank Ag, Riyadh Branch
+  swift: DEUTSARICUS
+  swift8: DEUTSARI
+  branch_name: Domestic Custody Services
+  branch_address: Riyadh
+  branch_code: CUS
+  city: Riyadh
+  country: Saudi Arabia
+- name: Deutsche Bank Ag, Riyadh Branch
+  swift: DEUTSARIGES
+  swift8: DEUTSARI
+  branch_name: Riyadh
+  branch_address: Riyadh
+  branch_code: GES
+  city: Riyadh
+  country: Saudi Arabia
+- name: Deutsche Bank Ag, Riyadh Branch
+  swift: DEUTSARIXXX
+  swift8: DEUTSARI
+  branch_name: Head Office
+  branch_address: Faisalia Tower Riyadh
+  branch_code: XXX
+  city: Riyadh
+  country: Saudi Arabia
+- name: East Africa Maritime
+  swift: EAAMSAJ1XXX
+  swift8: EAAMSAJ1
+  branch_name: Head Office
+  branch_address: Jeddah
+  branch_code: XXX
+  city: Jeddah
+  country: Saudi Arabia
+- name: Gulf International Bank B.s.c., Riyadh
+  swift: GULFSARIXXX
+  swift8: GULFSARI
+  branch_name: Head Office
+  branch_address: Abraj Attaawuneya Riyadh 11673
+  branch_code: XXX
+  city: Riyadh
+  country: Saudi Arabia
+- name: Hoshanco Holding
+  swift: HOSHSARIXXX
+  swift8: HOSHSARI
+  branch_name: Head Office
+  branch_address: Hoshan Complex Riyadh 11411
+  branch_code: XXX
+  city: Riyadh
+  country: Saudi Arabia
+- name: Islamic Development Bank
+  swift: ISLDSAJEICD
+  swift8: ISLDSAJE
+  branch_name: Jeddah
+  branch_address: Jeddah
+  branch_code: ICD
+  city: Jeddah
+  country: Saudi Arabia
+- name: Islamic Development Bank
+  swift: ISLDSAJEITF
+  swift8: ISLDSAJE
+  branch_name: International Trade Finance
+  branch_address: Jeddah
+  branch_code: ITF
+  city: Jeddah
+  country: Saudi Arabia
+- name: Islamic Development Bank
+  swift: ISLDSAJEXXX
+  swift8: ISLDSAJE
+  branch_name: Head Office
+  branch_address: Jeddah
+  branch_code: XXX
+  city: Jeddah
+  country: Saudi Arabia
+- name: J.p. Morgan Saudi Arabia Limited
+  swift: JPMGSARYXXX
+  swift8: JPMGSARY
+  branch_name: Head Office
+  branch_address: Al-Faisaliah Tower Riyadh 11553
+  branch_code: XXX
+  city: Riyadh
+  country: Saudi Arabia
+- name: Jpmorgan Chase Bank, N.a. Riyadh
+  swift: CHASSARIXXX
+  swift8: CHASSARI
+  branch_name: Head Office
+  branch_address: Al Faisaliah Tower Riyadh
+  branch_code: XXX
+  city: Riyadh
+  country: Saudi Arabia
+- name: King Abdullah Petroleum Studies And Research Center
+  swift: KPSRSADDXXX
+  swift8: KPSRSADD
+  branch_name: Head Office
+  branch_address: Dhahran Heights Building Dhahran 31311
+  branch_code: XXX
+  city: Dhahran
+  country: Saudi Arabia
+- name: M. Mounir Halawani Sons, Exchange Company
+  swift: HFEXSAJ1XXX
+  swift8: HFEXSAJ1
+  branch_name: Head Office
+  branch_address: New Town Center Jeddah 21415
+  branch_code: XXX
+  city: Jeddah
+  country: Saudi Arabia
+- name: Merrill Lynch Kingdom Of Saudi Arabia
+  swift: MLSASARIXXX
+  swift8: MLSASARI
+  branch_name: Head Office
+  branch_address: Kingdom Tower Riyadh
+  branch_code: XXX
+  city: Riyadh
+  country: Saudi Arabia
+- name: Mohammed Hassan Yella And Sons Exchange Company
+  swift: MHYCSAJEXXX
+  swift8: MHYCSAJE
+  branch_name: Head Office
+  branch_address: 19190 Gabal Street Jeddah 21435
+  branch_code: XXX
+  city: Jeddah
+  country: Saudi Arabia
+- name: Morgan Stanley Saudi Arabia
+  swift: MSSRSAR1XXX
+  swift8: MSSRSAR1
+  branch_name: Head Office
+  branch_address: Al Rasheed Tower Riyadh 11586
+  branch_code: XXX
+  city: Riyadh
+  country: Saudi Arabia
+- name: National Biscuits And Confectionery Company
+  swift: NBCCSAJEXXX
+  swift8: NBCCSAJE
+  branch_name: Head Office
+  branch_address: Industrial City 026360606 Jeddah
+  branch_code: XXX
+  city: Jeddah
+  country: Saudi Arabia
+- name: National Commercial Bank, The
+  swift: NCBKSAJE101
+  swift8: NCBKSAJE
+  branch_name: Jeddah, Main Branch
+  branch_address: Jeddah
+  branch_code: '101'
+  city: Jeddah
+  country: Saudi Arabia
+- name: National Commercial Bank, The
+  swift: NCBKSAJE555
+  swift8: NCBKSAJE
+  branch_name: Treasury Division
+  branch_address: Jeddah
+  branch_code: '555'
+  city: Jeddah
+  country: Saudi Arabia
+- name: National Commercial Bank, The
+  swift: NCBKSAJE613
+  swift8: NCBKSAJE
+  branch_name: Trade Services-West
+  branch_address: N.C.B. Head Office Building Jeddah 21481
+  branch_code: '613'
+  city: Jeddah
+  country: Saudi Arabia
+- name: National Commercial Bank, The
+  swift: NCBKSAJE614
+  swift8: NCBKSAJE
+  branch_name: Trade Services-Central
+  branch_address: Regioanl Management Building Riyadh 11411
+  branch_code: '614'
+  city: Riyadh
+  country: Saudi Arabia
+- name: National Commercial Bank, The
+  swift: NCBKSAJE615
+  swift8: NCBKSAJE
+  branch_name: Trade Services-East
+  branch_address: Management Office Building Dammam 31432
+  branch_code: '615'
+  city: Dammam
+  country: Saudi Arabia
+- name: National Commercial Bank, The
+  swift: NCBKSAJEXXX
+  swift8: NCBKSAJE
+  branch_name: Head Office
+  branch_address: Ncb Head Office Building Jeddah 21481
+  branch_code: XXX
+  city: Jeddah
+  country: Saudi Arabia
+- name: National Food Industries Co. Ltd
+  swift: NAFDSAJEXXX
+  swift8: NAFDSAJE
+  branch_name: Head Office
+  branch_address: Industrial City Phase V Jeddah 21428
+  branch_code: XXX
+  city: Jeddah
+  country: Saudi Arabia
+- name: Ncb Capital Company
+  swift: NCCOSAJEXXX
+  swift8: NCCOSAJE
+  branch_name: Head Office
+  branch_address: Ncb Gtahlia Branch Building Jeddah 21454
+  branch_code: XXX
+  city: Jeddah
+  country: Saudi Arabia
+- name: Qinvest Saudi Arabia
+  swift: QINVSAR1XXX
+  swift8: QINVSAR1
+  branch_name: Head Office
+  branch_address: Kingdom Tower Riyadh 12214
+  branch_code: XXX
+  city: Riyadh
+  country: Saudi Arabia
+- name: Sadara Chemical Company
+  swift: SDCCSADAXXX
+  swift8: SDCCSADA
+  branch_name: Head Office
+  branch_address: Turki Center Dhahran 31942
+  branch_code: XXX
+  city: Dhahran
+  country: Saudi Arabia
+- name: Sahara Petrochemicals Company Saudi Joint Stock Company
+  swift: SPCUSAJBXXX
+  swift8: SPCUSAJB
+  branch_name: Head Office
+  branch_address: Admintration Jubail 31961
+  branch_code: XXX
+  city: Jubail
+  country: Saudi Arabia
+- name: Saudi Arabian Monetary Agency
+  swift: SAMASARIXXX
+  swift8: SAMASARI
+  branch_name: Head Office
+  branch_address: Mather Road Riyadh 11169
+  branch_code: XXX
+  city: Riyadh
+  country: Saudi Arabia
+- name: Saudi Aramco
+  swift: ARAMSADHXXX
+  swift8: ARAMSADH
+  branch_name: Head Office
+  branch_address: Ca, Bldg. 3302, North Park Iii Dhahran 31311
+  branch_code: XXX
+  city: Dhahran
+  country: Saudi Arabia
+- name: Saudi Aramco Lubricating Oil Refining Company (luberef
+  swift: LBRFSAJDXXX
+  swift8: LBRFSAJD
+  branch_name: Head Office
+  branch_address: Saudi Aramco Complex , Luberef-Hq Jeddah 21432
+  branch_code: XXX
+  city: Jeddah
+  country: Saudi Arabia
+- name: Saudi Aramco Mobil Refinery Company Limited (samref
+  swift: SRMRSAD1XXX
+  swift8: SRMRSAD1
+  branch_name: Head Office
+  branch_address: Administrative Bldg Yanbu 41912
+  branch_code: XXX
+  city: Yanbu
+  country: Saudi Arabia
+- name: Saudi Aramco Product Trading Co.
+  swift: SAPCSADHXXX
+  swift8: SAPCSADH
+  branch_name: Head Office
+  branch_address: "(Al-Midra Tower) Dhahran 31311"
+  branch_code: XXX
+  city: Dhahran
+  country: Saudi Arabia
+- name: Saudi Basic Industries Corporation (sabic
+  swift: SBHQSARRXXX
+  swift8: SBHQSARR
+  branch_name: Head Office
+  branch_address: Sabic Hq Building Riyadh 11422
+  branch_code: XXX
+  city: Riyadh
+  country: Saudi Arabia
+- name: Saudi British Bank, The
+  swift: SABBSARIXXX
+  swift8: SABBSARI
+  branch_name: Head Office
+  branch_address: Al-Amir Abdul Aziz Riyadh 11413
+  branch_code: XXX
+  city: Riyadh
+  country: Saudi Arabia
+- name: Saudi Ceramic Company
+  swift: SACYSAR1XXX
+  swift8: SACYSAR1
+  branch_name: Head Office
+  branch_address: Saudi Ceramics Building Riyadh 11481
+  branch_code: XXX
+  city: Riyadh
+  country: Saudi Arabia
+- name: Saudi Chevron Phillips Co.
+  swift: SCHMSADEXXX
+  swift8: SCHMSADE
+  branch_name: Head Office
+  branch_address: Street No. 195 Jubail 31961
+  branch_code: XXX
+  city: Jubail
+  country: Saudi Arabia
+- name: Saudi Hollandi Bank
+  swift: AAALSARIALK
+  swift8: AAALSARI
+  branch_name: Eastern Area Alkhobar
+  branch_address: Alkhobar
+  branch_code: ALK
+  city: Alkhobar
+  country: Saudi Arabia
+- name: Saudi Hollandi Bank
+  swift: AAALSARICTD
+  swift8: AAALSARI
+  branch_name: Central Treasury Dept
+  branch_address: Riyadh
+  branch_code: CTD
+  city: Riyadh
+  country: Saudi Arabia
+- name: Saudi Hollandi Bank
+  swift: AAALSARIJED
+  swift8: AAALSARI
+  branch_name: Western Area Jeddah
+  branch_address: Jeddah
+  branch_code: JED
+  city: Jeddah
+  country: Saudi Arabia
+- name: Saudi Hollandi Bank
+  swift: AAALSARIRYD
+  swift8: AAALSARI
+  branch_name: Central Area Riyadh
+  branch_address: Riyadh
+  branch_code: RYD
+  city: Riyadh
+  country: Saudi Arabia
+- name: Saudi Hollandi Bank
+  swift: AAALSARIXXX
+  swift8: AAALSARI
+  branch_name: Head Office
+  branch_address: Head Office Building Riyadh 11431
+  branch_code: XXX
+  city: Riyadh
+  country: Saudi Arabia
+- name: Saudi Hollandi Capital
+  swift: SAHCSARIXXX
+  swift8: SAHCSARI
+  branch_name: Head Office
+  branch_address: Rashid Building Riyadh 11431
+  branch_code: XXX
+  city: Riyadh
+  country: Saudi Arabia
+- name: Saudi International Petrochemical Co. (sipchem
+  swift: SIPHSADBXXX
+  swift8: SIPHSADB
+  branch_name: Head Office
+  branch_address: Admin Building Jubail 31961
+  branch_code: XXX
+  city: Jubail
+  country: Saudi Arabia
+- name: Saudi Investment Bank, The
+  swift: SIBCSARIXXX
+  swift8: SIBCSARI
+  branch_name: Head Office
+  branch_address: Al-Mather Road Riyadh 11481
+  branch_code: XXX
+  city: Riyadh
+  country: Saudi Arabia
+- name: Saudi Stock Exchange
+  swift: TSSMSAR1XXX
+  swift8: TSSMSAR1
+  branch_name: Head Office
+  branch_address: Ncci Building Riyadh 11555
+  branch_code: XXX
+  city: Riyadh
+  country: Saudi Arabia
+- name: Shuaa Capital Saudi Arabia
+  swift: SHUASAR1XXX
+  swift8: SHUASAR1
+  branch_name: Head Office
+  branch_address: Dareen Center Riyadh 11482
+  branch_code: XXX
+  city: Riyadh
+  country: Saudi Arabia
+- name: Shuaa Capital Saudi Arabia
+  swift: SHUASARIXXX
+  swift8: SHUASARI
+  branch_name: Head Office
+  branch_address: Dareen Center Riyadh 11482
+  branch_code: XXX
+  city: Riyadh
+  country: Saudi Arabia
+- name: Standard Chartered Capital (saudi Arabia
+  swift: SCBLSARIXXX
+  swift8: SCBLSARI
+  branch_name: Head Office
+  branch_address: Al Faisaliyah Tower Riyadh 4148
+  branch_code: XXX
+  city: Riyadh
+  country: Saudi Arabia
+- name: Supreme Foods Company Limited
+  swift: SUFCSAR1XXX
+  swift8: SUFCSAR1
+  branch_name: Head Office
+  branch_address: Al Mangoria Building Riyadh 11632
+  branch_code: XXX
+  city: Riyadh
+  country: Saudi Arabia
+- name: T.c. Ziraat Bankasi A.s.
+  swift: TCZBSAJEXXX
+  swift8: TCZBSAJE
+  branch_name: Head Office
+  branch_address: Al-Shatee Dist./6, Suhail Bin Qays Jeddah 21451
+  branch_code: XXX
+  city: Jeddah
+  country: Saudi Arabia
+- name: The Saudi Fund For Development
+  swift: SFFDSARIXXX
+  swift8: SFFDSARI
+  branch_name: Head Office
+  branch_address: King Fahad Road Riyadh 11523
+  branch_code: XXX
+  city: Riyadh
+  country: Saudi Arabia
+- name: United Carton Industries Company
+  swift: UCSASAJ1XXX
+  swift8: UCSASAJ1
+  branch_name: Head Office
+  branch_address: Sahil Road 460 Jeddah
+  branch_code: XXX
+  city: Jeddah
+  country: Saudi Arabia
+- name: Yanbu Aramco Sinopec Refining (yasref) Limited
+  swift: YASRSAD1XXX
+  swift8: YASRSAD1
+  branch_name: No branch name
+  branch_address: No branch address
+  branch_code: XXX
+  city: Yanbu
+  country: Saudi Arabia

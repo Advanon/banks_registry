@@ -1,0 +1,698 @@
+---
+GH:
+- name: Dynast Premier Bank Limited
+  swift: DNPRGHA1XXX
+  swift8: DNPRGHA1
+  branch_name: Head Office
+  branch_address: 29 Labone Cresent Accra
+  branch_code: XXX
+  city: Accra
+  country: Ghana
+- name: National Investment Bank
+  swift: NIBGGHACXXX
+  swift8: NIBGGHAC
+  branch_name: Head Office
+  branch_address: 37 Kwame Nkrumah Avenue Accra
+  branch_code: XXX
+  city: Accra
+  country: Ghana
+- name: Access Bank (ghana) Limited
+  swift: ABNGGHACXXX
+  swift8: ABNGGHAC
+  branch_name: Head Office
+  branch_address: 9, La Tebu Crescent East Accra
+  branch_code: XXX
+  city: Accra
+  country: Ghana
+- name: African Alliance Securities Ltd
+  swift: AFASGHA1XXX
+  swift8: AFASGHA1
+  branch_name: No branch name
+  branch_address: No branch address
+  branch_code: XXX
+  city: Accra
+  country: Ghana
+- name: Agricultural Development Bank
+  swift: ADNTGHA10A2
+  swift8: ADNTGHA1
+  branch_name: Tema
+  branch_address: Tema
+  branch_code: 0A2
+  city: Tema
+  country: Ghana
+- name: Agricultural Development Bank
+  swift: ADNTGHA10A3
+  swift8: ADNTGHA1
+  branch_name: Cape Coast
+  branch_address: Cape Coast
+  branch_code: 0A3
+  city: Cape Coast
+  country: Ghana
+- name: Agricultural Development Bank
+  swift: ADNTGHA10A4
+  swift8: ADNTGHA1
+  branch_name: Bolgatanga
+  branch_address: Bolgatanga
+  branch_code: 0A4
+  city: Bolgatanga
+  country: Ghana
+- name: Agricultural Development Bank
+  swift: ADNTGHA10A5
+  swift8: ADNTGHA1
+  branch_name: Wa
+  branch_address: Wa
+  branch_code: 0A5
+  city: Wa
+  country: Ghana
+- name: Agricultural Development Bank
+  swift: ADNTGHA10A6
+  swift8: ADNTGHA1
+  branch_name: Kumasi
+  branch_address: Kumasi
+  branch_code: 0A6
+  city: Kumasi
+  country: Ghana
+- name: Agricultural Development Bank
+  swift: ADNTGHA10A7
+  swift8: ADNTGHA1
+  branch_name: Takoradi
+  branch_address: Takoradi
+  branch_code: 0A7
+  city: Takoradi
+  country: Ghana
+- name: Agricultural Development Bank
+  swift: ADNTGHA10A8
+  swift8: ADNTGHA1
+  branch_name: Sunyani
+  branch_address: Sunyani
+  branch_code: 0A8
+  city: Sunyani
+  country: Ghana
+- name: Agricultural Development Bank
+  swift: ADNTGHA10AT
+  swift8: ADNTGHA1
+  branch_name: Tamale
+  branch_address: Tamale
+  branch_code: 0AT
+  city: Tamale
+  country: Ghana
+- name: Agricultural Development Bank
+  swift: ADNTGHACXXX
+  swift8: ADNTGHAC
+  branch_name: Head Office
+  branch_address: Adb House Accra
+  branch_code: XXX
+  city: Accra
+  country: Ghana
+- name: Arb Apex Bank Limited
+  swift: AREXGHACXXX
+  swift8: AREXGHAC
+  branch_name: Head Office
+  branch_address: Martco House 20321 Accra
+  branch_code: XXX
+  city: Accra
+  country: Ghana
+- name: Bank For Housing And Construction
+  swift: HCONGHA10A2
+  swift8: HCONGHA1
+  branch_name: Foreign Branch
+  branch_address: Coplan House Accra
+  branch_code: 0A2
+  city: Accra
+  country: Ghana
+- name: Bank For Housing And Construction
+  swift: HCONGHA1XXX
+  swift8: HCONGHA1
+  branch_name: Head Office
+  branch_address: 24 Kwame Nkrumah Avenue Accra
+  branch_code: XXX
+  city: Accra
+  country: Ghana
+- name: Bank Of Africa-ghana Limited
+  swift: AMMAGHACXXX
+  swift8: AMMAGHAC
+  branch_name: Head Office
+  branch_address: Ofosua House Accra
+  branch_code: XXX
+  city: Accra
+  country: Ghana
+- name: Bank Of Baroda (ghana) Limited
+  swift: BARBGHACXXX
+  swift8: BARBGHAC
+  branch_name: Head Office
+  branch_address: Melcom Building Annex Accra
+  branch_code: XXX
+  city: Accra
+  country: Ghana
+- name: Bank Of Ghana
+  swift: BAGHGHA4XXX
+  swift8: BAGHGHA4
+  branch_name: Head Office
+  branch_address: Cedi House Accra
+  branch_code: XXX
+  city: Accra
+  country: Ghana
+- name: Bank Of Ghana
+  swift: BAGHGHA5XXX
+  swift8: BAGHGHA5
+  branch_name: No branch name
+  branch_address: No branch address
+  branch_code: XXX
+  city: Accra
+  country: Ghana
+- name: Bank Of Ghana
+  swift: BAGHGHACXXX
+  swift8: BAGHGHAC
+  branch_name: Head Office
+  branch_address: Thorpe Road Accra
+  branch_code: XXX
+  city: Accra
+  country: Ghana
+- name: Barclays Bank Of Ghana Ltd.
+  swift: BARCGHACOBU
+  swift8: BARCGHAC
+  branch_name: Offshore Banking Unit
+  branch_address: Una Home Accra
+  branch_code: OBU
+  city: Accra
+  country: Ghana
+- name: Barclays Bank Of Ghana Ltd.
+  swift: BARCGHACXXX
+  swift8: BARCGHAC
+  branch_name: All Branches in Ghana
+  branch_address: Barclays House Accra
+  branch_code: XXX
+  city: Accra
+  country: Ghana
+- name: Bsic Ghana Ltd
+  swift: BSAHGHACXXX
+  swift8: BSAHGHAC
+  branch_name: Head Office
+  branch_address: Gemini Life Insurance Bulding Accra
+  branch_code: XXX
+  city: Accra
+  country: Ghana
+- name: Cal Bank Limited
+  swift: ACCCGHACCBS
+  swift8: ACCCGHAC
+  branch_name: Cal Bank Custody Services
+  branch_address: Accra
+  branch_code: CBS
+  city: Accra
+  country: Ghana
+- name: Cal Bank Limited
+  swift: ACCCGHACXXX
+  swift8: ACCCGHAC
+  branch_name: Head Office
+  branch_address: 23 Independence Avenue Accra
+  branch_code: XXX
+  city: Accra
+  country: Ghana
+- name: Cal Brokers Limited
+  swift: CABRGHA1XXX
+  swift8: CABRGHA1
+  branch_name: Head Office
+  branch_address: Independant Avenue 45 Accra
+  branch_code: XXX
+  city: Accra
+  country: Ghana
+- name: Cdh Securities Ltd
+  swift: CDHSGHA1XXX
+  swift8: CDHSGHA1
+  branch_name: Head Office
+  branch_address: Tower Block Accra
+  branch_code: XXX
+  city: Accra
+  country: Ghana
+- name: Chapel Hill Denham Securities (gh) Limited
+  swift: CHNCGHA1XXX
+  swift8: CHNCGHA1
+  branch_name: No branch name
+  branch_address: No branch address
+  branch_code: XXX
+  city: Accra
+  country: Ghana
+- name: Citizens Investment Bank
+  swift: CIINGHA1XXX
+  swift8: CIINGHA1
+  branch_name: Head Office
+  branch_address: Citizens Court Accra
+  branch_code: XXX
+  city: Accra
+  country: Ghana
+- name: Controller And Accountant-general's Department
+  swift: CODGGHACXXX
+  swift8: CODGGHAC
+  branch_name: Head Office
+  branch_address: Cagd Headquarters M79 Accra
+  branch_code: XXX
+  city: Accra
+  country: Ghana
+- name: Databank Brokerage Limited
+  swift: DABRGHA1XXX
+  swift8: DABRGHA1
+  branch_name: Head Office
+  branch_address: Ssnit Pension House Accra
+  branch_code: XXX
+  city: Accra
+  country: Ghana
+- name: Ebg Stockbrokers Ltd.
+  swift: STORGHA1XXX
+  swift8: STORGHA1
+  branch_name: Head Office
+  branch_address: 19 Seventh Avenue Accra
+  branch_code: XXX
+  city: Accra
+  country: Ghana
+- name: Ecobank Ghana
+  swift: ECOCGHACCUS
+  swift8: ECOCGHAC
+  branch_name: Accra
+  branch_address: Accra
+  branch_code: CUS
+  city: Accra
+  country: Ghana
+- name: Ecobank Ghana
+  swift: ECOCGHACKSI
+  swift8: ECOCGHAC
+  branch_name: Kumasi Branch
+  branch_address: Cocobod Building Kumasi
+  branch_code: KSI
+  city: Kumasi
+  country: Ghana
+- name: Ecobank Ghana
+  swift: ECOCGHACTDI
+  swift8: ECOCGHAC
+  branch_name: Takoradi Branch
+  branch_address: Ecobank Building Takoradi
+  branch_code: TDI
+  city: Takoradi
+  country: Ghana
+- name: Ecobank Ghana
+  swift: ECOCGHACTMA
+  swift8: ECOCGHAC
+  branch_name: Tema Branch
+  branch_address: Meridian Plaza Tema
+  branch_code: TMA
+  city: Tema
+  country: Ghana
+- name: Ecobank Ghana
+  swift: ECOCGHACXXX
+  swift8: ECOCGHAC
+  branch_name: Head Office
+  branch_address: Ridge (West) Accra
+  branch_code: XXX
+  city: Accra
+  country: Ghana
+- name: Energy Bank Ghana Limited
+  swift: ENRBGHACXXX
+  swift8: ENRBGHAC
+  branch_name: Head Office
+  branch_address: Gnat Height Accra
+  branch_code: XXX
+  city: Accra
+  country: Ghana
+- name: Fidelity Bank Limited
+  swift: FBLIGHACXXX
+  swift8: FBLIGHAC
+  branch_name: Head Office
+  branch_address: Ridge Towers Pmb Ct43 Accra
+  branch_code: XXX
+  city: Accra
+  country: Ghana
+- name: First Atlantic Bank Limited
+  swift: FAMCGHACXXX
+  swift8: FAMCGHAC
+  branch_name: Head Office
+  branch_address: Atlantic Place Accra
+  branch_code: XXX
+  city: Accra
+  country: Ghana
+- name: First Atlantic Brokers Limited
+  swift: FABRGHA1XXX
+  swift8: FABRGHA1
+  branch_name: Head Office
+  branch_address: Atlantic Place Accra
+  branch_code: XXX
+  city: Accra
+  country: Ghana
+- name: Ghana Commercial Bank Limited
+  swift: GHCBGHACKSI
+  swift8: GHCBGHAC
+  branch_name: Kumasi
+  branch_address: Kumasi
+  branch_code: KSI
+  city: Kumasi
+  country: Ghana
+- name: Ghana Commercial Bank Limited
+  swift: GHCBGHACTDI
+  swift8: GHCBGHAC
+  branch_name: Takoradi
+  branch_address: Takoradi
+  branch_code: TDI
+  city: Takoradi
+  country: Ghana
+- name: Ghana Commercial Bank Limited
+  swift: GHCBGHACTMA
+  swift8: GHCBGHAC
+  branch_name: Tema
+  branch_address: Tema
+  branch_code: TMA
+  city: Tema
+  country: Ghana
+- name: Ghana Commercial Bank Limited
+  swift: GHCBGHACXXX
+  swift8: GHCBGHAC
+  branch_name: Head Office
+  branch_address: Rhorpe Road/High Street Accra
+  branch_code: XXX
+  city: Accra
+  country: Ghana
+- name: Ghana Revenue Authority
+  swift: GHRAGHACXXX
+  swift8: GHRAGHAC
+  branch_name: Head Office
+  branch_address: Heritage Tower Accra
+  branch_code: XXX
+  city: Accra
+  country: Ghana
+- name: Ghana Revenue Authority
+  swift: GHRAGHA1XXX
+  swift8: GHRAGHA1
+  branch_name: Head Office
+  branch_address: Heritage Tower Accra
+  branch_code: XXX
+  city: Accra
+  country: Ghana
+- name: Ghana Stock Exchange
+  swift: XGHAGHA1XXX
+  swift8: XGHAGHA1
+  branch_name: Head Office
+  branch_address: Cedi House Accra
+  branch_code: XXX
+  city: Accra
+  country: Ghana
+- name: Gold Coast Securities
+  swift: GOCEGHA1XXX
+  swift8: GOCEGHA1
+  branch_name: Head Office
+  branch_address: 350 Nima Avenue Accra
+  branch_code: XXX
+  city: Accra
+  country: Ghana
+- name: Guaranty Trust Bank (ghana) Ltd
+  swift: GTBIGHACXXX
+  swift8: GTBIGHAC
+  branch_name: Head Office
+  branch_address: 25 A, Castle Road, Ridge Accra
+  branch_code: XXX
+  city: Accra
+  country: Ghana
+- name: Hfc Bank (ghana) Ltd
+  swift: HFCAGHACCSD
+  swift8: HFCAGHAC
+  branch_name: Custody Services
+  branch_address: Accra
+  branch_code: CSD
+  city: Accra
+  country: Ghana
+- name: Hfc Bank (ghana) Ltd
+  swift: HFCAGHACXXX
+  swift8: HFCAGHAC
+  branch_name: Head Office
+  branch_address: Ebankese Accra
+  branch_code: XXX
+  city: Accra
+  country: Ghana
+- name: Ic Securities (gh) Limited
+  swift: ICGHGHA1XXX
+  swift8: ICGHGHA1
+  branch_name: No branch name
+  branch_address: No branch address
+  branch_code: XXX
+  city: Accra
+  country: Ghana
+- name: International Commercial Bank Ltd.
+  swift: INCEGHACXXX
+  swift8: INCEGHAC
+  branch_name: Head Office
+  branch_address: Makola Shopping Mall Accra
+  branch_code: XXX
+  city: Accra
+  country: Ghana
+- name: Magnate Financial Services Ghana Limited
+  swift: MFSHGHA1XXX
+  swift8: MFSHGHA1
+  branch_name: Head Office
+  branch_address: 91 B Osu Dada Street Accra
+  branch_code: XXX
+  city: Accra
+  country: Ghana
+- name: Merban Stockbrokers Limited
+  swift: MSTCGHA1XXX
+  swift8: MSTCGHA1
+  branch_name: Head Office
+  branch_address: Head Office Annex Accra
+  branch_code: XXX
+  city: Accra
+  country: Ghana
+- name: Merchant Bank (ghana) Ltd.
+  swift: MBGHGHACKSI
+  swift8: MBGHGHAC
+  branch_name: Kumasi
+  branch_address: Kumasi
+  branch_code: KSI
+  city: Kumasi
+  country: Ghana
+- name: Merchant Bank (ghana) Ltd.
+  swift: MBGHGHACTDI
+  swift8: MBGHGHAC
+  branch_name: Takoradi
+  branch_address: Takoradi
+  branch_code: TDI
+  city: Takoradi
+  country: Ghana
+- name: Merchant Bank (ghana) Ltd.
+  swift: MBGHGHACTMA
+  swift8: MBGHGHAC
+  branch_name: Tema
+  branch_address: Tema
+  branch_code: TMA
+  city: Tema
+  country: Ghana
+- name: Merchant Bank (ghana) Ltd.
+  swift: MBGHGHACXXX
+  swift8: MBGHGHAC
+  branch_name: Head Office
+  branch_address: Merban House Accra
+  branch_code: XXX
+  city: Accra
+  country: Ghana
+- name: New World Renaissance Securities Ltd
+  swift: NWIVGHA1XXX
+  swift8: NWIVGHA1
+  branch_name: Head Office
+  branch_address: Mobil House Accra
+  branch_code: XXX
+  city: Accra
+  country: Ghana
+- name: Nthc Limited
+  swift: NTHCGHA1XXX
+  swift8: NTHCGHA1
+  branch_name: Head Office
+  branch_address: Martco House Accra
+  branch_code: XXX
+  city: Accra
+  country: Ghana
+- name: Prudential Bank Limited
+  swift: PUBKGHACXXX
+  swift8: PUBKGHAC
+  branch_name: Head Office
+  branch_address: Head Office Building Accra
+  branch_code: XXX
+  city: Accra
+  country: Ghana
+- name: Sabmiller Ghana
+  swift: SABMGHA1ABL
+  swift8: SABMGHA1
+  branch_name: No branch name
+  branch_address: No branch address
+  branch_code: ABL
+  city: Accra
+  country: Ghana
+- name: Sabmiller Ghana
+  swift: SABMGHA1VGL
+  swift8: SABMGHA1
+  branch_name: No branch name
+  branch_address: No branch address
+  branch_code: VGL
+  city: Accra
+  country: Ghana
+- name: Sabmiller Ghana
+  swift: SABMGHA1XXX
+  swift8: SABMGHA1
+  branch_name: No branch name
+  branch_address: No branch address
+  branch_code: XXX
+  city: Accra
+  country: Ghana
+- name: Sdc Brokerage Services Limited
+  swift: SDBRGHA1XXX
+  swift8: SDBRGHA1
+  branch_name: Head Office
+  branch_address: Npart Building Accra
+  branch_code: XXX
+  city: Accra
+  country: Ghana
+- name: Sic Brokerage Limited
+  swift: SICGGHA1XXX
+  swift8: SICGGHA1
+  branch_name: No branch name
+  branch_address: No branch address
+  branch_code: XXX
+  city: Accra
+  country: Ghana
+- name: Social Security And National Insurance Trust
+  swift: SSNTGHACXXX
+  swift8: SSNTGHAC
+  branch_name: Head Office
+  branch_address: Pension House Accra
+  branch_code: XXX
+  city: Accra
+  country: Ghana
+- name: Societe Generale Ghana Limited
+  swift: SSEBGHACKSI
+  swift8: SSEBGHAC
+  branch_name: Kumasi
+  branch_address: Kumasi
+  branch_code: KSI
+  city: Kumasi
+  country: Ghana
+- name: Societe Generale Ghana Limited
+  swift: SSEBGHACTAM
+  swift8: SSEBGHAC
+  branch_name: Tamale
+  branch_address: Tamale
+  branch_code: TAM
+  city: Tamale
+  country: Ghana
+- name: Societe Generale Ghana Limited
+  swift: SSEBGHACXXX
+  swift8: SSEBGHAC
+  branch_name: Head Office
+  branch_address: Ring Road Central Building Accra
+  branch_code: XXX
+  city: Accra
+  country: Ghana
+- name: Stanbic Bank Ghana Limited
+  swift: SBICGHACXXX
+  swift8: SBICGHAC
+  branch_name: Head Office
+  branch_address: Valco Trust House Accra
+  branch_code: XXX
+  city: Accra
+  country: Ghana
+- name: Standard Chartered Bank Ghana Limited
+  swift: SCBLGHACKSI
+  swift8: SCBLGHAC
+  branch_name: Kumasi
+  branch_address: Kumasi
+  branch_code: KSI
+  city: Kumasi
+  country: Ghana
+- name: Standard Chartered Bank Ghana Limited
+  swift: SCBLGHACSSU
+  swift8: SCBLGHAC
+  branch_name: Securities Services Unit
+  branch_address: Accra
+  branch_code: SSU
+  city: Accra
+  country: Ghana
+- name: Standard Chartered Bank Ghana Limited
+  swift: SCBLGHACTDI
+  swift8: SCBLGHAC
+  branch_name: Takoradi
+  branch_address: Takoradi
+  branch_code: TDI
+  city: Takoradi
+  country: Ghana
+- name: Standard Chartered Bank Ghana Limited
+  swift: SCBLGHACTMA
+  swift8: SCBLGHAC
+  branch_name: Tema
+  branch_address: Tema
+  branch_code: TMA
+  city: Tema
+  country: Ghana
+- name: Standard Chartered Bank Ghana Limited
+  swift: SCBLGHACXXX
+  swift8: SCBLGHAC
+  branch_name: Head Office
+  branch_address: High Street Building Accra
+  branch_code: XXX
+  city: Accra
+  country: Ghana
+- name: Sterling Securities Limited
+  swift: STSIGHA1XXX
+  swift8: STSIGHA1
+  branch_name: Head Office
+  branch_address: 2, Rangoonlink, Cantonments Accra
+  branch_code: XXX
+  city: Accra
+  country: Ghana
+- name: Strategic African Securities Limited
+  swift: SARSGHA1XXX
+  swift8: SARSGHA1
+  branch_name: Head Office
+  branch_address: 2nd Ridge Link Accra
+  branch_code: XXX
+  city: Accra
+  country: Ghana
+- name: The Royal Bank
+  swift: TRBGGHACXXX
+  swift8: TRBGGHAC
+  branch_name: Head Office
+  branch_address: Ndk Building Ct8134 Accra
+  branch_code: XXX
+  city: Accra
+  country: Ghana
+- name: Unibank Ghana Limited
+  swift: UBGHGHACXXX
+  swift8: UBGHGHAC
+  branch_name: Head Office
+  branch_address: Unibank Accra
+  branch_code: XXX
+  city: Accra
+  country: Ghana
+- name: United Bank For Africa (ghana) Ltd
+  swift: STBGGHACXXX
+  swift8: STBGGHAC
+  branch_name: Head Office
+  branch_address: Heritage Towers-Ambassadorial Encl Pm 29 Min Accra
+  branch_code: XXX
+  city: Accra
+  country: Ghana
+- name: Ut Bank Ltd
+  swift: UTBKGHACXXX
+  swift8: UTBKGHAC
+  branch_name: Head Office
+  branch_address: Manet Towers Accra
+  branch_code: XXX
+  city: Accra
+  country: Ghana
+- name: Volta River Authority
+  swift: VRATGHA1XXX
+  swift8: VRATGHA1
+  branch_name: Head Office
+  branch_address: Electro-Volta House Accra
+  branch_code: XXX
+  city: Accra
+  country: Ghana
+- name: Zenith Bank (ghana) Limited
+  swift: ZEBLGHACXXX
+  swift8: ZEBLGHAC
+  branch_name: Head Office
+  branch_address: Premiers Towers Accra
+  branch_code: XXX
+  city: Accra
+  country: Ghana

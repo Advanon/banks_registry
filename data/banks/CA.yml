@@ -1,0 +1,3994 @@
+---
+CA:
+- name: Alberta Treasury Branches
+  swift: ATBRCA6EXXX
+  swift8: ATBRCA6E
+  branch_name: Head Office
+  branch_address: Atb Place Edmonton Alberta T5j 1p1
+  branch_code: XXX
+  city: Edmonton
+  country: Canada
+- name: Bank Of America, National Association, Canada Branch
+  swift: BOFACATTFCS
+  swift8: BOFACATT
+  branch_name: Foreign Currency Services
+  branch_address: Simcoe Place Toronto M5v 3l2
+  branch_code: FCS
+  city: Toronto
+  country: Canada
+- name: Bank Of America, National Association, Canada Branch
+  swift: BOFACATTXXX
+  swift8: BOFACATT
+  branch_name: Head Office
+  branch_address: Simcoe Place Toronto M5v 3l2
+  branch_code: XXX
+  city: Toronto
+  country: Canada
+- name: Bank Of America, National Association, Canada Branch
+  swift: BOFACATTVAN
+  swift8: BOFACATT
+  branch_name: Vancouver
+  branch_address: Vancouver
+  branch_code: VAN
+  city: Vancouver
+  country: Canada
+- name: Bank Of America, National Association, Canada Branch
+  swift: BOFACATTGRC
+  swift8: BOFACATT
+  branch_name: Global Derivatives and Foreign Exchange
+  branch_address: Toronto
+  branch_code: GRC
+  city: Toronto
+  country: Canada
+- name: Bank Of Canada
+  swift: BCANCAW2XXX
+  swift8: BCANCAW2
+  branch_name: Head Office
+  branch_address: 234 Wellington Street Ottawa K1a Og9
+  branch_code: XXX
+  city: Ottawa
+  country: Canada
+- name: Bank Of China (Canada)
+  swift: BKCHCATTXXX
+  swift8: BKCHCATT
+  branch_name: Head Office
+  branch_address: The Exchange Tower Toronto M5x 1e1
+  branch_code: XXX
+  city: Toronto
+  country: Canada
+- name: Bank Of China (Canada)
+  swift: BKCHCATTVAN
+  swift8: BKCHCATT
+  branch_name: Vancouver Branch
+  branch_address: Vancouver
+  branch_code: VAN
+  city: Vancouver
+  country: Canada
+- name: Bank Of Montreal, The
+  swift: BOFMCAM2XXX
+  swift8: BOFMCAM2
+  branch_name: International Branch
+  branch_address: 129 St. Jacques Montreal H2y 1l6
+  branch_code: XXX
+  city: Montreal
+  country: Canada
+- name: Bank Of Montreal, The
+  swift: BOFMCAM3XXX
+  swift8: BOFMCAM3
+  branch_name: Head Office
+  branch_address: 129 Saint James Street West Montreal
+  branch_code: XXX
+  city: Montreal
+  country: Canada
+- name: Bank Of Montreal, The
+  swift: BOFMCAM2NBB
+  swift8: BOFMCAM2
+  branch_name: Bmo Nesbitt Burns
+  branch_address: Toronto
+  branch_code: NBB
+  city: Toronto
+  country: Canada
+- name: Bank Of Montreal, The
+  swift: BOFMCAT2BMO
+  swift8: BOFMCAT2
+  branch_name: Bmo-Brokers
+  branch_address: First Canadian Place Toronto M5x 1ai
+  branch_code: BMO
+  city: Toronto
+  country: Canada
+- name: Bank Of Montreal, The
+  swift: BOFMCAT2CLS
+  swift8: BOFMCAT2
+  branch_name: Cls Payments Only
+  branch_address: Toronto
+  branch_code: CLS
+  city: Toronto
+  country: Canada
+- name: Bank Of Montreal, The
+  swift: BOFMCAT2FXM
+  swift8: BOFMCAT2
+  branch_name: Foreign Exchange and Money Market
+  branch_address: King and Bay Street Streets Toronto Msx 1a1
+  branch_code: FXM
+  city: Toronto
+  country: Canada
+- name: Bank Of Montreal, The
+  swift: BOFMCAT2XXX
+  swift8: BOFMCAT2
+  branch_name: International Branch
+  branch_address: 250 Yonge Street Toronto M5b 2m8
+  branch_code: XXX
+  city: Toronto
+  country: Canada
+- name: Bank Of Nova Scotia
+  swift: NOSCCATTCGY
+  swift8: NOSCCATT
+  branch_name: Calgary
+  branch_address: Calgary
+  branch_code: CGY
+  city: Calgary
+  country: Canada
+- name: Bank Of Nova Scotia
+  swift: NOSCCATTHFX
+  swift8: NOSCCATT
+  branch_name: Halifax
+  branch_address: Halifax
+  branch_code: HFX
+  city: Halifax
+  country: Canada
+- name: Bank Of Nova Scotia
+  swift: NOSCCATTMTL
+  swift8: NOSCCATT
+  branch_name: Montreal
+  branch_address: Montreal
+  branch_code: MTL
+  city: Montreal
+  country: Canada
+- name: Bank Of Nova Scotia
+  swift: NOSCCATTOTT
+  swift8: NOSCCATT
+  branch_name: Ottawa
+  branch_address: Ottawa
+  branch_code: OTT
+  city: Ottawa
+  country: Canada
+- name: Bank Of Nova Scotia
+  swift: NOSCCATTSKN
+  swift8: NOSCCATT
+  branch_name: Saskatoon
+  branch_address: Saskatoon
+  branch_code: SKN
+  city: Saskatoon
+  country: Canada
+- name: Bank Of Nova Scotia
+  swift: NOSCCATMCMS
+  swift8: NOSCCATM
+  branch_name: Toronto
+  branch_address: Toronto
+  branch_code: CMS
+  city: Toronto
+  country: Canada
+- name: Bank Of Nova Scotia
+  swift: NOSCCATMGTB
+  swift8: NOSCCATM
+  branch_name: Toronto
+  branch_address: Toronto
+  branch_code: GTB
+  city: Toronto
+  country: Canada
+- name: Bank Of Nova Scotia
+  swift: NOSCCATMSEC
+  swift8: NOSCCATM
+  branch_name: Securities
+  branch_address: Toronto
+  branch_code: SEC
+  city: Toronto
+  country: Canada
+- name: Bank Of Nova Scotia
+  swift: NOSCCATTBSM
+  swift8: NOSCCATT
+  branch_name: Balance Sheet Management
+  branch_address: Toronto
+  branch_code: BSM
+  city: Toronto
+  country: Canada
+- name: Bank Of Nova Scotia
+  swift: NOSCCATTCLS
+  swift8: NOSCCATT
+  branch_name: Continuous Link Settlement
+  branch_address: Toronto
+  branch_code: CLS
+  city: Toronto
+  country: Canada
+- name: Bank Of Nova Scotia
+  swift: NOSCCATTCOL
+  swift8: NOSCCATT
+  branch_name: Collection Department
+  branch_address: Toronto
+  branch_code: COL
+  city: Toronto
+  country: Canada
+- name: Bank Of Nova Scotia
+  swift: NOSCCATTCST
+  swift8: NOSCCATT
+  branch_name: Cdn Short Term Funding
+  branch_address: Toronto
+  branch_code: CST
+  city: Toronto
+  country: Canada
+- name: Bank Of Nova Scotia
+  swift: NOSCCATTFXA
+  swift8: NOSCCATT
+  branch_name: Toronto
+  branch_address: Toronto
+  branch_code: FXA
+  city: Toronto
+  country: Canada
+- name: Bank Of Nova Scotia
+  swift: NOSCCATTSTF
+  swift8: NOSCCATT
+  branch_name: Tor Shorttermfunding
+  branch_address: Toronto
+  branch_code: STF
+  city: Toronto
+  country: Canada
+- name: Bank Of Nova Scotia
+  swift: NOSCCATTTFS
+  swift8: NOSCCATT
+  branch_name: Term Funding and Securitization
+  branch_address: Toronto
+  branch_code: TFS
+  city: Toronto
+  country: Canada
+- name: Bank Of Nova Scotia
+  swift: NOSCCATTTOR
+  swift8: NOSCCATT
+  branch_name: Toronto M5h 1h1
+  branch_address: 44 King Street W. Toronto M5h 1h1
+  branch_code: TOR
+  city: Toronto
+  country: Canada
+- name: Bank Of Nova Scotia
+  swift: NOSCCATTXXX
+  swift8: NOSCCATT
+  branch_name: All Offices in Canada
+  branch_address: Scotia Bank Plaza Toronto M5h 1h1
+  branch_code: XXX
+  city: Toronto
+  country: Canada
+- name: Bank Of Nova Scotia
+  swift: NOSCCATTVCR
+  swift8: NOSCCATT
+  branch_name: Vancouver
+  branch_address: Vancouver
+  branch_code: VCR
+  city: Vancouver
+  country: Canada
+- name: Bank Of Nova Scotia
+  swift: NOSCCATTWPG
+  swift8: NOSCCATT
+  branch_name: Winnipeg
+  branch_address: Winnipeg
+  branch_code: WPG
+  city: Winnipeg
+  country: Canada
+- name: Bank Of Nova Scotia
+  swift: NOSCCATMWM1
+  swift8: NOSCCATM
+  branch_name: Wealth Mgmt
+  branch_address: Toronto
+  branch_code: WM1
+  city: Toronto
+  country: Canada
+- name: Bank Of Tokyo-Mitsubishi Ufj (Canada)
+  swift: BOTKCATXXXX
+  swift8: BOTKCATX
+  branch_name: Toronto Head Office
+  branch_address: South Tower Toronto M5j 2j1
+  branch_code: XXX
+  city: Toronto
+  country: Canada
+- name: Bank Of Tokyo-Mitsubishi Ufj (Canada)
+  swift: BOTKCATXVCR
+  swift8: BOTKCATX
+  branch_name: Vancouver Office
+  branch_address: Park Place Vancouver V6c 3li
+  branch_code: VCR
+  city: Vancouver
+  country: Canada
+- name: Banque Nationale Du Canada
+  swift: BNDCCAMMIMM
+  swift8: BNDCCAMM
+  branch_name: Treasury Department
+  branch_address: 1155 Metcalfe Montreal H3b 5g2
+  branch_code: IMM
+  city: Montreal
+  country: Canada
+- name: Banque Nationale Du Canada
+  swift: BNDCCAMMINT
+  swift8: BNDCCAMM
+  branch_name: International Department
+  branch_address: 600 Rue De La Gauchetiere Ouest Montreal H3b 4l3
+  branch_code: INT
+  city: Montreal
+  country: Canada
+- name: Banque Nationale Du Canada
+  swift: BNDCCAMMVAL
+  swift8: BNDCCAMM
+  branch_name: Securities
+  branch_address: 1100 Universite Montreal H3b 2g7
+  branch_code: VAL
+  city: Montreal
+  country: Canada
+- name: Banque Nationale Du Canada
+  swift: BNDCCAMMXXX
+  swift8: BNDCCAMM
+  branch_name: Head Office
+  branch_address: Payment Center Montreal H3b 4l3
+  branch_code: XXX
+  city: Montreal
+  country: Canada
+- name: Bnp Paribas Canada, Montreal
+  swift: BNPACAMMXXX
+  swift8: BNPACAMM
+  branch_name: Montreal Branch
+  branch_address: Tour Bnp Montreal H3a 2w8
+  branch_code: XXX
+  city: Montreal
+  country: Canada
+- name: Bnp Paribas Canada, Montreal
+  swift: BNPACAMMTTT
+  swift8: BNPACAMM
+  branch_name: Toronto Branch
+  branch_address: Toronto
+  branch_code: TTT
+  city: Toronto
+  country: Canada
+- name: Bnp Paribas Canada, Montreal
+  swift: BNPACAMMVVV
+  swift8: BNPACAMM
+  branch_name: Vancouver Branch
+  branch_address: Vancouver
+  branch_code: VVV
+  city: Vancouver
+  country: Canada
+- name: Bombardier Inc.
+  swift: BIHOCAMMBTG
+  swift8: BIHOCAMM
+  branch_name: Bombardier Transportation
+  branch_address: Montreal
+  branch_code: BTG
+  city: Montreal
+  country: Canada
+- name: Bombardier Inc.
+  swift: BIHOCAMMXXX
+  swift8: BIHOCAMM
+  branch_name: Head Office
+  branch_address: Rene-Levesque Blvd. West 800 Montreal H3b 1y8
+  branch_code: XXX
+  city: Montreal
+  country: Canada
+- name: Brockhouse And Cooper Inc.
+  swift: BRCOCAMMXXX
+  swift8: BRCOCAMM
+  branch_name: Head Office
+  branch_address: 1250 Boulevard Rene Levesque Ouest Montreal H3b 4w8
+  branch_code: XXX
+  city: Montreal
+  country: Canada
+- name: Caisse Centrale Desjardins
+  swift: CCDQCAMMIMM
+  swift8: CCDQCAMM
+  branch_name: Treasury and International Money Markets
+  branch_address: 1 Complexe Desjardins Montreal H5b 1b3
+  branch_code: IMM
+  city: Montreal
+  country: Canada
+- name: Caisse Centrale Desjardins
+  swift: CCDQCAMMXXX
+  swift8: CCDQCAMM
+  branch_name: Head Office
+  branch_address: 1170, Rue Peel Montreal H3b 0b1
+  branch_code: XXX
+  city: Montreal
+  country: Canada
+- name: Cambridge Mercantile Corp.
+  swift: CMFXCATTXXX
+  swift8: CMFXCATT
+  branch_name: Head Office
+  branch_address: 212 King Street West Toronto M5h 1k5
+  branch_code: XXX
+  city: Toronto
+  country: Canada
+- name: Canada Pension Plan Investment Board
+  swift: CPPBCATAXXX
+  swift8: CPPBCATA
+  branch_name: Aim-Poms Service
+  branch_address: One Queen Street East Toronto M5c 2w5
+  branch_code: XXX
+  city: Toronto
+  country: Canada
+- name: Canada Pension Plan Investment Board
+  swift: CPPBCATTXXX
+  swift8: CPPBCATT
+  branch_name: Head Office
+  branch_address: One Queen Street East Toronto M5c 2w5
+  branch_code: XXX
+  city: Toronto
+  country: Canada
+- name: Canadian Imperial Bank Of Commerce
+  swift: CIBCCATTCLS
+  swift8: CIBCCATT
+  branch_name: Cls Services
+  branch_address: 595 Bay Street Toronto M5g 2m8
+  branch_code: CLS
+  city: Toronto
+  country: Canada
+- name: Canadian Imperial Bank Of Commerce
+  swift: CIBCCATTCWM
+  swift8: CIBCCATT
+  branch_name: Cibc World Markets Securities Operations Omgeo
+  branch_address: 595 Bay Street Toronto M5g 2m8
+  branch_code: CWM
+  city: Toronto
+  country: Canada
+- name: Canadian Imperial Bank Of Commerce
+  swift: CIBCCATTXXX
+  swift8: CIBCCATT
+  branch_name: Head Office
+  branch_address: Payment Centre Toronto M5g 2m8
+  branch_code: XXX
+  city: Toronto
+  country: Canada
+- name: Cds Clearing And Depository
+  swift: CDSLCAT2XXX
+  swift8: CDSLCAT2
+  branch_name: Head Office
+  branch_address: 85 Richmond St Toronto M5h 2c9
+  branch_code: XXX
+  city: Toronto
+  country: Canada
+- name: Cds Clearing And Depository Services Inc.
+  swift: CDSLCATTSMD
+  swift8: CDSLCATT
+  branch_name: Toronto
+  branch_address: Toronto
+  branch_code: SMD
+  city: Toronto
+  country: Canada
+- name: Cds Clearing And Depository Services Inc.
+  swift: CDSLCATTXXX
+  swift8: CDSLCATT
+  branch_name: Head Office
+  branch_address: 85 Richmond Street West Toronto M5h 2c9
+  branch_code: XXX
+  city: Toronto
+  country: Canada
+- name: Cds Clearing And Depository Services Inc.
+  swift: CDSLCAT106C
+  swift8: CDSLCAT1
+  branch_name: Calgary T2p 3h2
+  branch_address: 331 Sixth Avenue South West Calgary T2p 3h2
+  branch_code: 06C
+  city: Calgary
+  country: Canada
+- name: Cds Clearing And Depository Services Inc.
+  swift: CDSLCAT108V
+  swift8: CDSLCAT1
+  branch_name: Vancouver V6c 1e5
+  branch_address: Bank of Canada Building Vancouver V6c 1e5
+  branch_code: '08V'
+  city: Vancouver
+  country: Canada
+- name: Cds Clearing And Depository Services Inc.
+  swift: CDSLCAT10MM
+  swift8: CDSLCAT1
+  branch_name: Montreal H3a 3j2
+  branch_address: La Maison Des Cooperants Montreal H3a 3j2
+  branch_code: 0MM
+  city: Montreal
+  country: Canada
+- name: Central 1 Credit Union
+  swift: CUCXCATTCAL
+  swift8: CUCXCATT
+  branch_name: Alberta Payments Services
+  branch_address: 350n - 8500 Macleod Trail S.E. Calgary T2h 2n1
+  branch_code: CAL
+  city: Calgary
+  country: Canada
+- name: Central 1 Credit Union
+  swift: CUCXCATTXXX
+  swift8: CUCXCATT
+  branch_name: Head Office
+  branch_address: 2810 Matheson Boulevard East Mississauga Ontario L4w 4x7
+  branch_code: XXX
+  city: Mississauga
+  country: Canada
+- name: Central 1 Credit Union
+  swift: CUCXCATTREG
+  swift8: CUCXCATT
+  branch_name: Saskatchewan Payment Services
+  branch_address: 2055 Albert Street Regina S4p 3g8
+  branch_code: REG
+  city: Regina
+  country: Canada
+- name: Central 1 Credit Union
+  swift: CUCXCATTINV
+  swift8: CUCXCATT
+  branch_name: Investment Department
+  branch_address: Toronto
+  branch_code: INV
+  city: Toronto
+  country: Canada
+- name: Central 1 Credit Union
+  swift: CUCXCATTONT
+  swift8: CUCXCATT
+  branch_name: Central 1 Credit Union Ontario Payment Services
+  branch_address: 2810 Matheson Blvd. East Toronto L4w 4x7
+  branch_code: ONT
+  city: Toronto
+  country: Canada
+- name: Central 1 Credit Union
+  swift: CUCXCATTVAN
+  swift8: CUCXCATT
+  branch_name: Central 1 Credit Union Bc Payment Services
+  branch_address: 1441 Creekside Drive Vancouver V6j 4s7
+  branch_code: VAN
+  city: Vancouver
+  country: Canada
+- name: Central 1 Credit Union
+  swift: CUCXCATTWPG
+  swift8: CUCXCATT
+  branch_name: Manitoba Payments Services
+  branch_address: 215 Garry Street Winnipeg R3c 3e2
+  branch_code: WPG
+  city: Winnipeg
+  country: Canada
+- name: Citco Bank Canada
+  swift: CITCCATTXXX
+  swift8: CITCCATT
+  branch_name: Head Office
+  branch_address: 180 Duncan Mill Road Toronto M3b 1z6
+  branch_code: XXX
+  city: Toronto
+  country: Canada
+- name: Citibank Canada
+  swift: CITICATT615
+  swift8: CITICATT
+  branch_name: Citt
+  branch_address: 123 Front Street West Toronto M5j 2m3
+  branch_code: '615'
+  city: Toronto
+  country: Canada
+- name: Citibank Canada
+  swift: CITICATT617
+  swift8: CITICATT
+  branch_name: Citn
+  branch_address: 123 Front Street West Toronto M5j 2m3
+  branch_code: '617'
+  city: Toronto
+  country: Canada
+- name: Citibank Canada
+  swift: CITICATT623
+  swift8: CITICATT
+  branch_name: Securities Services Department
+  branch_address: Toronto
+  branch_code: '623'
+  city: Toronto
+  country: Canada
+- name: Citibank Canada
+  swift: CITICATTBCH
+  swift8: CITICATT
+  branch_name: Citibank Na Canadian Branch
+  branch_address: Toronto
+  branch_code: BCH
+  city: Toronto
+  country: Canada
+- name: Citibank Canada
+  swift: CITICATTXXX
+  swift8: CITICATT
+  branch_name: Head Office
+  branch_address: University Place Toronto M5j 2m3
+  branch_code: XXX
+  city: Toronto
+  country: Canada
+- name: Citizens Bank Of Canada
+  swift: CTZNCA8V001
+  swift8: CTZNCA8V
+  branch_name: Vancity
+  branch_address: 401-815 West Hastings Street Vancouver V6c 1b4
+  branch_code: '001'
+  city: Vancouver
+  country: Canada
+- name: Citizens Bank Of Canada
+  swift: CTZNCA8VXXX
+  swift8: CTZNCA8V
+  branch_name: Head Office
+  branch_address: 401-815 West Hastings Street Vancouver V6c 1b4
+  branch_code: XXX
+  city: Vancouver
+  country: Canada
+- name: Credit Agricole Cib
+  swift: CRLYCAM1XXX
+  swift8: CRLYCAM1
+  branch_name: Head Office
+  branch_address: 2000 Mc Gill College Avenue Montreal H3a 3h3
+  branch_code: XXX
+  city: Montreal
+  country: Canada
+- name: Credit Suisse Ag, Toronto Branch
+  swift: CRESCATTXXX
+  swift8: CRESCATT
+  branch_name: Head Office
+  branch_address: 1 First Canadian Place Toronto M5x 1c9
+  branch_code: XXX
+  city: Toronto
+  country: Canada
+- name: Credit Suisse Ag, Toronto Branch
+  swift: CRESCAT106C
+  swift8: CRESCAT1
+  branch_name: Calgary
+  branch_address: Calgary
+  branch_code: 06C
+  city: Calgary
+  country: Canada
+- name: Credit Suisse Ag, Toronto Branch
+  swift: CRESCAT108V
+  swift8: CRESCAT1
+  branch_name: Vancouver
+  branch_address: Vancouver
+  branch_code: '08V'
+  city: Vancouver
+  country: Canada
+- name: Credit Suisse Ag, Toronto Branch
+  swift: CRESCAT10MM
+  swift8: CRESCAT1
+  branch_name: Montreal
+  branch_address: Montreal
+  branch_code: 0MM
+  city: Montreal
+  country: Canada
+- name: Ctc Bank Of Canada
+  swift: CTCBCA8VXXX
+  swift8: CTCBCA8V
+  branch_name: Head Office
+  branch_address: 1518 West Broadway Vancouver V6j 1w8
+  branch_code: XXX
+  city: Vancouver
+  country: Canada
+- name: Custom House Ltd.
+  swift: CHFXCA8VXXX
+  swift8: CHFXCA8V
+  branch_name: Head Office
+  branch_address: 517 Fort St. Victoria V8w 1e7
+  branch_code: XXX
+  city: Victoria
+  country: Canada
+- name: Daimler Canada Finance Inc.
+  swift: DCAGCAMMXXX
+  swift8: DCAGCAMM
+  branch_name: Head Office
+  branch_address: 1 Place Ville Marie Montreal H3b 3p4
+  branch_code: XXX
+  city: Montreal
+  country: Canada
+- name: Deutsche Bank Ag, Canada Branch
+  swift: DEUTCATTXXX
+  swift8: DEUTCATT
+  branch_name: Head Office
+  branch_address: Commerce Court West Toronto M5l 1e9
+  branch_code: XXX
+  city: Toronto
+  country: Canada
+- name: Export Development Canada
+  swift: EDCOCAW2XXX
+  swift8: EDCOCAW2
+  branch_name: Head Office
+  branch_address: 150 Slater Street Ottawa K1a 1k3
+  branch_code: XXX
+  city: Ottawa
+  country: Canada
+- name: Export Development Canada
+  swift: EDCOCA21XXX
+  swift8: EDCOCA21
+  branch_name: Head Office
+  branch_address: 151 Oconnor Street Ottawa K1a 1k3
+  branch_code: XXX
+  city: Ottawa
+  country: Canada
+- name: Firma Foreign Exchange Corporation
+  swift: FFFXCA66XXX
+  swift8: FFFXCA66
+  branch_name: Head Office
+  branch_address: Jasper Avenue 100-10336 Edmonton T5j 1y7
+  branch_code: XXX
+  city: Edmonton
+  country: Canada
+- name: First Commercial Bank
+  swift: FCBKCA8VXXX
+  swift8: FCBKCA8V
+  branch_name: Vancouver Branch
+  branch_address: 100-5611 Cooney Road Richmond V6x 3j6
+  branch_code: XXX
+  city: Richmond
+  country: Canada
+- name: First Commercial Bank
+  swift: FCBKCA8V909
+  swift8: FCBKCA8V
+  branch_name: Toronto Branch
+  branch_address: 5000 Yonge Street Toronto M2n 7e9
+  branch_code: '909'
+  city: Toronto
+  country: Canada
+- name: Globaltrade Corporation
+  swift: GLCRCATTXXX
+  swift8: GLCRCATT
+  branch_name: Head Office
+  branch_address: Steeles Avenue West 2727 Toronto M3j3g9
+  branch_code: XXX
+  city: Toronto
+  country: Canada
+- name: Habib Canadian Bank
+  swift: HBZUCATTXXX
+  swift8: HBZUCATT
+  branch_name: Head Office
+  branch_address: 918 Dundas Street East Mississauga L4y 4h9
+  branch_code: XXX
+  city: Mississauga
+  country: Canada
+- name: Hsbc Bank Canada
+  swift: HKBCCATTMON
+  swift8: HKBCCATT
+  branch_name: Montreal H1v 3r9
+  branch_address: 5100 Sherbrooke Street East Montreal H1v 3r9
+  branch_code: MON
+  city: Montreal
+  country: Canada
+- name: Hsbc Bank Canada
+  swift: HKBCCATTCLS
+  swift8: HKBCCATT
+  branch_name: Cls Department
+  branch_address: Toronto
+  branch_code: CLS
+  city: Toronto
+  country: Canada
+- name: Hsbc Bank Canada
+  swift: HKBCCATTXXX
+  swift8: HKBCCATT
+  branch_name: Head Office
+  branch_address: 70 York Street Toronto M5j 1s9
+  branch_code: XXX
+  city: Toronto
+  country: Canada
+- name: Hsbc Bank Canada
+  swift: HKBCCATTVAN
+  swift8: HKBCCATT
+  branch_name: Vancouver
+  branch_address: 885 W.Georgia Street Vancouver V6c 3e8
+  branch_code: VAN
+  city: Vancouver
+  country: Canada
+- name: Hsbc Bank Canada
+  swift: HKBCCA81XXX
+  swift8: HKBCCA81
+  branch_name: Head Office
+  branch_address: 885 W. Georgia Street Vancouver V6c 3e9
+  branch_code: XXX
+  city: Vancouver
+  country: Canada
+- name: Hsbc Bank Canada
+  swift: HKBCCATTCAL
+  swift8: HKBCCATT
+  branch_name: Calgary Branch
+  branch_address: 777 8th Avenue, S.W. Calgary T2p 3r5
+  branch_code: CAL
+  city: Calgary
+  country: Canada
+- name: Hsbc Securities Canada Inc.
+  swift: HSCICATTXXX
+  swift8: HSCICATT
+  branch_name: Head Office
+  branch_address: 250 University Ave Toronto M5h 3e5
+  branch_code: XXX
+  city: Toronto
+  country: Canada
+- name: Icici Bank Canada
+  swift: ICICCATTCOP
+  swift8: ICICCATT
+  branch_name: Central Operations-Canada
+  branch_address: Toronto
+  branch_code: COP
+  city: Toronto
+  country: Canada
+- name: Icici Bank Canada
+  swift: ICICCATTGTS
+  swift8: ICICCATT
+  branch_name: Global Trade Service Unit-Canada
+  branch_address: Toronto
+  branch_code: GTS
+  city: Toronto
+  country: Canada
+- name: Icici Bank Canada
+  swift: ICICCATTRTL
+  swift8: ICICCATT
+  branch_name: Treasury
+  branch_address: Toronto
+  branch_code: RTL
+  city: Toronto
+  country: Canada
+- name: Icici Bank Canada
+  swift: ICICCATTTSY
+  swift8: ICICCATT
+  branch_name: Treasury
+  branch_address: Toronto
+  branch_code: TSY
+  city: Toronto
+  country: Canada
+- name: Icici Bank Canada
+  swift: ICICCATTXXX
+  swift8: ICICCATT
+  branch_name: Head Office
+  branch_address: Don Valley Business Park Toronto M3c 3e5
+  branch_code: XXX
+  city: Toronto
+  country: Canada
+- name: Industrial And Commercial Bank Of China (Canada)
+  swift: ICBKCAT2XXX
+  swift8: ICBKCAT2
+  branch_name: Head Office
+  branch_address: 333 Bay Street Toronto M5h 2r2
+  branch_code: XXX
+  city: Toronto
+  country: Canada
+- name: Industrial And Commercial Bank Of China (Canada)
+  swift: ICBKCAT2VAN
+  swift8: ICBKCAT2
+  branch_name: Vancouver
+  branch_address: Vancouver
+  branch_code: VAN
+  city: Vancouver
+  country: Canada
+- name: Invesco Trimark
+  swift: AFMICATAXXX
+  swift8: AFMICATA
+  branch_name: Aimpoms Service
+  branch_address: 120 Bloor Street East Toronto M4w 1b7
+  branch_code: XXX
+  city: Toronto
+  country: Canada
+- name: Invesco Trimark
+  swift: AFMICATTXXX
+  swift8: AFMICATT
+  branch_name: Head Office
+  branch_address: 5140 Yonge Street Toronto M2n 6x7
+  branch_code: XXX
+  city: Toronto
+  country: Canada
+- name: Investors Group Financial Services
+  swift: IGMFCA44001
+  swift8: IGMFCA44
+  branch_name: Winnipeg
+  branch_address: Winnipeg
+  branch_code: '001'
+  city: Winnipeg
+  country: Canada
+- name: Investors Group Financial Services
+  swift: IGMFCA44002
+  swift8: IGMFCA44
+  branch_name: Winnipeg
+  branch_address: Winnipeg
+  branch_code: '002'
+  city: Winnipeg
+  country: Canada
+- name: Investors Group Financial Services
+  swift: IGMFCA44003
+  swift8: IGMFCA44
+  branch_name: Winnipeg
+  branch_address: Winnipeg
+  branch_code: '003'
+  city: Winnipeg
+  country: Canada
+- name: Investors Group Financial Services
+  swift: IGMFCA44XXX
+  swift8: IGMFCA44
+  branch_name: Head Office
+  branch_address: One Canada Centre Winnipeg R3c 3b6
+  branch_code: XXX
+  city: Winnipeg
+  country: Canada
+- name: J.P. Morgan Securities Canada Inc.
+  swift: JPMSCATTKEY
+  swift8: JPMSCATT
+  branch_name: Test Key and Bke Administration
+  branch_address: Toronto
+  branch_code: KEY
+  city: Toronto
+  country: Canada
+- name: J.P. Morgan Securities Canada Inc.
+  swift: JPMSCATTXXX
+  swift8: JPMSCATT
+  branch_name: Head Office
+  branch_address: South Tower Toronto M5j 2j2
+  branch_code: XXX
+  city: Toronto
+  country: Canada
+- name: Jim Pattison Ltd.
+  swift: JPGCCA8VXXX
+  swift8: JPGCCA8V
+  branch_name: Head Office
+  branch_address: Shaw Tower Vancouver V6c 1c7
+  branch_code: XXX
+  city: Vancouver
+  country: Canada
+- name: Jp Morgan Chase Bank, N.A
+  swift: CHASCATTCTS
+  swift8: CHASCATT
+  branch_name: Toronto
+  branch_address: Toronto
+  branch_code: CTS
+  city: Toronto
+  country: Canada
+- name: Jp Morgan Chase Bank, N.A
+  swift: CHASCATTENQ
+  swift8: CHASCATT
+  branch_name: Toronto
+  branch_address: Toronto
+  branch_code: ENQ
+  city: Toronto
+  country: Canada
+- name: Jp Morgan Chase Bank, N.A
+  swift: CHASCATTKEY
+  swift8: CHASCATT
+  branch_name: Toronto
+  branch_address: Toronto
+  branch_code: KEY
+  city: Toronto
+  country: Canada
+- name: Jp Morgan Chase Bank, N.A
+  swift: CHASCATTXXX
+  swift8: CHASCATT
+  branch_name: Head Office
+  branch_address: Royal Bank Plaza Toronto M5j 2j2
+  branch_code: XXX
+  city: Toronto
+  country: Canada
+- name: Korea Exchange Bank Of Canada
+  swift: KOEXCATTXXX
+  swift8: KOEXCATT
+  branch_name: Head Office
+  branch_address: Madison Center Toronto M2n 6k1
+  branch_code: XXX
+  city: Toronto
+  country: Canada
+- name: Laurentian Bank Of Canada
+  swift: BLCMCAMMXXX
+  swift8: BLCMCAMM
+  branch_name: All Offices in Canada
+  branch_address: Laurentian Bank Tower Montreal H3a 3k3
+  branch_code: XXX
+  city: Montreal
+  country: Canada
+- name: Lombard Odier Darier Hentsch
+  swift: LOCYCAMMNDP
+  swift8: LOCYCAMM
+  branch_name: Ndp Dept
+  branch_address: Montreal
+  branch_code: NDP
+  city: Montreal
+  country: Canada
+- name: Lombard Odier Darier Hentsch
+  swift: LOCYCAMMXXX
+  swift8: LOCYCAMM
+  branch_name: Head Office
+  branch_address: 1000 Sherbrooke Street West Montreal H3a 3r7
+  branch_code: XXX
+  city: Montreal
+  country: Canada
+- name: Magna International Inc.
+  swift: MAINCA2AXXX
+  swift8: MAINCA2A
+  branch_name: Head Office
+  branch_address: 337 Magna Drive Aurora L4g 7k1
+  branch_code: XXX
+  city: Aurora
+  country: Canada
+- name: Manulife Asset Management Limited
+  swift: MAMGCATTXXX
+  swift8: MAMGCATT
+  branch_name: Aim-Poms Service
+  branch_address: 200 Bloor Street East Toronto
+  branch_code: XXX
+  city: Toronto
+  country: Canada
+- name: Maple Bank Gmbh
+  swift: MPBKCAT1XXX
+  swift8: MPBKCAT1
+  branch_name: Head Office
+  branch_address: Maritime Life Tower Toronto M5k 1k7
+  branch_code: XXX
+  city: Toronto
+  country: Canada
+- name: Maple Securities Cda Ltd
+  swift: MAPLCATTXXX
+  swift8: MAPLCATT
+  branch_name: Head Office
+  branch_address: Aetna Tower, Toronto Dominion Ctr Toronto M5k 1k7
+  branch_code: XXX
+  city: Toronto
+  country: Canada
+- name: Mega International Commercial Bank (Canada)
+  swift: ICBCCATTRMD
+  swift8: ICBCCATT
+  branch_name: Richmond Branch
+  branch_address: 6111 No. 3 Road Richmond V6y 2b1
+  branch_code: RMD
+  city: Richmond
+  country: Canada
+- name: Mega International Commercial Bank (Canada)
+  swift: ICBCCATTXXX
+  swift8: ICBCCATT
+  branch_name: Head Office
+  branch_address: North York Madison Centre Toronto M2n 6k1
+  branch_code: XXX
+  city: Toronto
+  country: Canada
+- name: Mega International Commercial Bank (Canada)
+  swift: ICBCCATTVAN
+  swift8: ICBCCATT
+  branch_name: Vancouver Branch
+  branch_address: 1095 West Pender Street Vancouver V6e 2m6
+  branch_code: VAN
+  city: Vancouver
+  country: Canada
+- name: Merrill Lynch Canada, Inc
+  swift: MLCICATTTOR
+  swift8: MLCICATT
+  branch_name: Canadian Fx
+  branch_address: Toronto
+  branch_code: TOR
+  city: Toronto
+  country: Canada
+- name: Merrill Lynch Canada, Inc
+  swift: MLCICATTXXX
+  swift8: MLCICATT
+  branch_name: Head Office
+  branch_address: Bay Wellington Tower Toronto M5j 2v8
+  branch_code: XXX
+  city: Toronto
+  country: Canada
+- name: Mfc Global Investment Management (U.S.A) Limited
+  swift: MFCGCATTXXX
+  swift8: MFCGCATT
+  branch_name: Aim-Poms Service
+  branch_address: North Tower Toronto M4w 1e5
+  branch_code: XXX
+  city: Toronto
+  country: Canada
+- name: Mirabaud Canada Inc.
+  swift: MIRICAMMXXX
+  swift8: MIRICAMM
+  branch_name: Head Office
+  branch_address: 1501, Avenue Mcgill College Montreal H3a 3m8
+  branch_code: XXX
+  city: Montreal
+  country: Canada
+- name: Mizuho Corporate Bank, Ltd., Canada Branch
+  swift: MHCBCATTXXX
+  swift8: MHCBCATT
+  branch_name: Head Office
+  branch_address: 100 Yonge Street Toronto M5c 2w1
+  branch_code: XXX
+  city: Toronto
+  country: Canada
+- name: Morgan Stanley Canada Limited
+  swift: MSCACATXMON
+  swift8: MSCACATX
+  branch_name: Montreal Branch
+  branch_address: Montreal
+  branch_code: MON
+  city: Montreal
+  country: Canada
+- name: Morgan Stanley Canada Limited
+  swift: MSCACATXXXX
+  swift8: MSCACATX
+  branch_name: Head Office
+  branch_address: Bce Place Toronto M5j 2t3
+  branch_code: XXX
+  city: Toronto
+  country: Canada
+- name: Newedge Canada Inc
+  swift: NEWGCAMMXXX
+  swift8: NEWGCAMM
+  branch_name: Head Office
+  branch_address: 1501 Mcgill College Montreal H3a 3m8
+  branch_code: XXX
+  city: Montreal
+  country: Canada
+- name: Northern Trust (Canada)
+  swift: CNORCATTXXX
+  swift8: CNORCATT
+  branch_name: Head Office
+  branch_address: B.C.E. Place Toronto M5j 2s1
+  branch_code: XXX
+  city: Toronto
+  country: Canada
+- name: Pictet Canada L.P.
+  swift: PICTCAMMXXX
+  swift8: PICTCAMM
+  branch_name: Head Office
+  branch_address: 1000 De La Gauchetiere West Montreal H3b 4w5
+  branch_code: XXX
+  city: Montreal
+  country: Canada
+- name: Pictet Overseas Inc.
+  swift: PICTCAM2XXX
+  swift8: PICTCAM2
+  branch_name: Head Office
+  branch_address: 1000 De La Gauchetiere West Montreal H3b 4w5
+  branch_code: XXX
+  city: Montreal
+  country: Canada
+- name: Public Sector Pension Investment Board
+  swift: PSPBCAMMXXX
+  swift8: PSPBCAMM
+  branch_name: Head Office
+  branch_address: 1250 Rene Levesque Blvd West Montreal H3b 4w8 D
+  branch_code: XXX
+  city: Montreal
+  country: Canada
+- name: Rbc Dexia Investor Services
+  swift: ROTRCATTMPC
+  swift8: ROTRCATT
+  branch_name: Quebec
+  branch_address: Montreal
+  branch_code: MPC
+  city: Montreal
+  country: Canada
+- name: Rbc Dexia Investor Services
+  swift: ROTRCATTDER
+  swift8: ROTRCATT
+  branch_name: Derivatives
+  branch_address: Royal Trust Tower Toronto M5w1p9
+  branch_code: DER
+  city: Toronto
+  country: Canada
+- name: Rbc Dexia Investor Services
+  swift: ROTRCATTLEN
+  swift8: ROTRCATT
+  branch_name: Securities Lending Department
+  branch_address: Toronto
+  branch_code: LEN
+  city: Toronto
+  country: Canada
+- name: Rbc Dexia Investor Services
+  swift: ROTRCATTTIC
+  swift8: ROTRCATT
+  branch_name: Global Services
+  branch_address: Royal Trust Tower Toronto M5w 1p9
+  branch_code: TIC
+  city: Toronto
+  country: Canada
+- name: Rbc Dexia Investor Services
+  swift: ROTRCATTTSC
+  swift8: ROTRCATT
+  branch_name: Insurance Services
+  branch_address: Royal Trust Tower Toronto M5w 1p9
+  branch_code: TSC
+  city: Toronto
+  country: Canada
+- name: Rbc Dexia Investor Services
+  swift: ROTRCATTXXX
+  swift8: ROTRCATT
+  branch_name: Head Office
+  branch_address: Rbc Centre Toronto M5v 3l3
+  branch_code: XXX
+  city: Toronto
+  country: Canada
+- name: Research In Motion Limited
+  swift: RIMMCA2WXXX
+  swift8: RIMMCA2W
+  branch_name: Head Office
+  branch_address: Rim B-3 Waterloo N2k 0a7
+  branch_code: XXX
+  city: Waterloo
+  country: Canada
+- name: Royal Bank Of Canada
+  swift: ROYCCAT2CIC
+  swift8: ROYCCAT2
+  branch_name: Calgary T2p 2n5
+  branch_address: International Trade Centre Calgary T2p 2n5
+  branch_code: CIC
+  city: Calgary
+  country: Canada
+- name: Royal Bank Of Canada
+  swift: ROYCCAT2HIC
+  swift8: ROYCCAT2
+  branch_name: Halifax B3j 2l7
+  branch_address: International Trade Centre Halifax B3j 2l7
+  branch_code: HIC
+  city: Halifax
+  country: Canada
+- name: Royal Bank Of Canada
+  swift: ROYCCAT2MIC
+  swift8: ROYCCAT2
+  branch_name: Montreal
+  branch_address: International Trade Centre Montreal
+  branch_code: MIC
+  city: Montreal
+  country: Canada
+- name: Royal Bank Of Canada
+  swift: ROYCCAT2CLS
+  swift8: ROYCCAT2
+  branch_name: Cls Nostro Services
+  branch_address: Toronto
+  branch_code: CLS
+  city: Toronto
+  country: Canada
+- name: Royal Bank Of Canada
+  swift: ROYCCAT2VFS
+  swift8: ROYCCAT2
+  branch_name: Rbc Global Services, Iss
+  branch_address: 77 King Street West Toronto M5w 1p9
+  branch_code: VFS
+  city: Toronto
+  country: Canada
+- name: Royal Bank Of Canada
+  swift: ROYCCAT2XXX
+  swift8: ROYCCAT2
+  branch_name: Head Office
+  branch_address: Payment Centre - Toronto Toronto M5j 1j1
+  branch_code: XXX
+  city: Toronto
+  country: Canada
+- name: Royal Bank Of Canada
+  swift: ROYCCAT3IMM
+  swift8: ROYCCAT3
+  branch_name: Capital Markets Dept
+  branch_address: Rbc Centre Toronto M5v 3h1
+  branch_code: IMM
+  city: Toronto
+  country: Canada
+- name: Royal Bank Of Canada
+  swift: ROYCCAT2VIC
+  swift8: ROYCCAT2
+  branch_name: Vancouver V6e 3p3
+  branch_address: International Trade Centre Vancouver V6e 3p3
+  branch_code: VIC
+  city: Vancouver
+  country: Canada
+- name: Royal Bank Of Canada
+  swift: ROYCCAT2WIC
+  swift8: ROYCCAT2
+  branch_name: Winnipeg R3c 3a6
+  branch_address: International Trade Centre Winnipeg R3c 3a6
+  branch_code: WIC
+  city: Winnipeg
+  country: Canada
+- name: Royal Bank Of Canada
+  swift: ROYCCAT2GLA
+  swift8: ROYCCAT2
+  branch_name: Guarantees
+  branch_address: Toronto
+  branch_code: GLA
+  city: Toronto
+  country: Canada
+- name: Royal Bank Of Canada
+  swift: ROYCCAT2IBO
+  swift8: ROYCCAT2
+  branch_name: No branch name
+  branch_address: No branch address
+  branch_code: IBO
+  city: Toronto
+  country: Canada
+- name: Scotia Mcleod Inc.
+  swift: SCMCCATTXXX
+  swift8: SCMCCATT
+  branch_name: Head Office
+  branch_address: Scotia Plaza Toronto M5h 1h1
+  branch_code: XXX
+  city: Toronto
+  country: Canada
+- name: Shinhan Bank Canada
+  swift: SHBKCATTXXX
+  swift8: SHBKCATT
+  branch_name: Head Office
+  branch_address: 5140 Yonge Street Toronto M2n 6l7
+  branch_code: XXX
+  city: Toronto
+  country: Canada
+- name: Societe Generale (Canada Branch)
+  swift: SOGECAMBXXX
+  swift8: SOGECAMB
+  branch_name: Head Office
+  branch_address: 1501, Mcgill College Montreal H3a 3m8
+  branch_code: XXX
+  city: Montreal
+  country: Canada
+- name: Societe Generale (Canada Branch)
+  swift: SOGECAMBTOR
+  swift8: SOGECAMB
+  branch_name: Toronto
+  branch_address: Toronto
+  branch_code: TOR
+  city: Toronto
+  country: Canada
+- name: Societe Generale (Canada)
+  swift: SOGECAMMXXX
+  swift8: SOGECAMM
+  branch_name: Head Office
+  branch_address: 1501 Mcgill College Avenue Montreal H3a 3m8
+  branch_code: XXX
+  city: Montreal
+  country: Canada
+- name: Societe Generale (Canada)
+  swift: SOGECAMMTOR
+  swift8: SOGECAMM
+  branch_name: Toronto
+  branch_address: Toronto
+  branch_code: TOR
+  city: Toronto
+  country: Canada
+- name: Ss And C Technologies Canada Corp
+  swift: FMCCCATMACU
+  swift8: FMCCCATM
+  branch_name: Sscnet Etc Acu
+  branch_address: Mississauga
+  branch_code: ACU
+  city: Mississauga
+  country: Canada
+- name: Ss And C Technologies Canada Corp
+  swift: FMCCCATMAEG
+  swift8: FMCCCATM
+  branch_name: Sscnet Etc Aeg
+  branch_address: Mississauga
+  branch_code: AEG
+  city: Mississauga
+  country: Canada
+- name: Ss And C Technologies Canada Corp
+  swift: FMCCCATMAGF
+  swift8: FMCCCATM
+  branch_name: Sscnet Etc
+  branch_address: Mississauga
+  branch_code: AGF
+  city: Mississauga
+  country: Canada
+- name: Ss And C Technologies Canada Corp
+  swift: FMCCCATMANZ
+  swift8: FMCCCATM
+  branch_name: Sscnet Etc Anz
+  branch_address: Mississauga
+  branch_code: ANZ
+  city: Mississauga
+  country: Canada
+- name: Ss And C Technologies Canada Corp
+  swift: FMCCCATMAUR
+  swift8: FMCCCATM
+  branch_name: Sscnet Etc
+  branch_address: Mississauga
+  branch_code: AUR
+  city: Mississauga
+  country: Canada
+- name: Ss And C Technologies Canada Corp
+  swift: FMCCCATMBUD
+  swift8: FMCCCATM
+  branch_name: Sscnet Etc
+  branch_address: Mississauga
+  branch_code: BUD
+  city: Mississauga
+  country: Canada
+- name: Ss And C Technologies Canada Corp
+  swift: FMCCCATMBUR
+  swift8: FMCCCATM
+  branch_name: Sscnet Etc Bur
+  branch_address: Mississauga
+  branch_code: BUR
+  city: Mississauga
+  country: Canada
+- name: Ss And C Technologies Canada Corp
+  swift: FMCCCATMCAL
+  swift8: FMCCCATM
+  branch_name: Sscnet Etc
+  branch_address: Mississauga
+  branch_code: CAL
+  city: Mississauga
+  country: Canada
+- name: Ss And C Technologies Canada Corp
+  swift: FMCCCATMCAM
+  swift8: FMCCCATM
+  branch_name: Sscnet Etc Cam
+  branch_address: Mississauga
+  branch_code: CAM
+  city: Mississauga
+  country: Canada
+- name: Ss And C Technologies Canada Corp
+  swift: FMCCCATMCBA
+  swift8: FMCCCATM
+  branch_name: Sscnet Etc Cba
+  branch_address: Mississauga
+  branch_code: CBA
+  city: Mississauga
+  country: Canada
+- name: Ss And C Technologies Canada Corp
+  swift: FMCCCATMCDP
+  swift8: FMCCCATM
+  branch_name: Sscnet Etc Cdp
+  branch_address: Mississauga
+  branch_code: CDP
+  city: Mississauga
+  country: Canada
+- name: Ss And C Technologies Canada Corp
+  swift: FMCCCATMDDJ
+  swift8: FMCCCATM
+  branch_name: Sscnet Etc Ddj
+  branch_address: Mississauga
+  branch_code: DDJ
+  city: Mississauga
+  country: Canada
+- name: Ss And C Technologies Canada Corp
+  swift: FMCCCATMDPW
+  swift8: FMCCCATM
+  branch_name: Sscnet Etc Dpw
+  branch_address: Mississauga
+  branch_code: DPW
+  city: Mississauga
+  country: Canada
+- name: Ss And C Technologies Canada Corp
+  swift: FMCCCATMFII
+  swift8: FMCCCATM
+  branch_name: Ssc Etc
+  branch_address: Mississauga
+  branch_code: FII
+  city: Mississauga
+  country: Canada
+- name: Ss And C Technologies Canada Corp
+  swift: FMCCCATMGMA
+  swift8: FMCCCATM
+  branch_name: Sscnet Etc Gma
+  branch_address: Mississauga
+  branch_code: GMA
+  city: Mississauga
+  country: Canada
+- name: Ss And C Technologies Canada Corp
+  swift: FMCCCATMGOO
+  swift8: FMCCCATM
+  branch_name: Sscnet Etc Good
+  branch_address: Mississauga
+  branch_code: GOO
+  city: Mississauga
+  country: Canada
+- name: Ss And C Technologies Canada Corp
+  swift: FMCCCATMGUA
+  swift8: FMCCCATM
+  branch_name: Sscnet Etc Gua
+  branch_address: Mississauga
+  branch_code: GUA
+  city: Mississauga
+  country: Canada
+- name: Ss And C Technologies Canada Corp
+  swift: FMCCCATMHEX
+  swift8: FMCCCATM
+  branch_name: Sscnet Etc
+  branch_address: Mississauga
+  branch_code: HEX
+  city: Mississauga
+  country: Canada
+- name: Ss And C Technologies Canada Corp
+  swift: FMCCCATMHIS
+  swift8: FMCCCATM
+  branch_name: Sscnet Etc His
+  branch_address: Mississauga
+  branch_code: HIS
+  city: Mississauga
+  country: Canada
+- name: Ss And C Technologies Canada Corp
+  swift: FMCCCATMIAS
+  swift8: FMCCCATM
+  branch_name: Sscnet Etc Ias
+  branch_address: Mississauga
+  branch_code: IAS
+  city: Mississauga
+  country: Canada
+- name: State Bank Of India (Canada)
+  swift: SBINCATXXXX
+  swift8: SBINCATX
+  branch_name: Head Office
+  branch_address: North Tower Toronto M5j 2j2
+  branch_code: XXX
+  city: Toronto
+  country: Canada
+- name: State Bank Of India (Canada)
+  swift: SBINCATXVAN
+  swift8: SBINCATX
+  branch_name: Vancouver V5w 3a6
+  branch_address: 6433 Fraser Street Vancouver V5w 3a6
+  branch_code: VAN
+  city: Vancouver
+  country: Canada
+- name: State Street Bank And Trust Company, Canada Branch
+  swift: SBOSCATXIFS
+  swift8: SBOSCATX
+  branch_name: Integrated Financial Systems
+  branch_address: Toronto
+  branch_code: IFS
+  city: Toronto
+  country: Canada
+- name: State Street Bank And Trust Company, Canada Branch
+  swift: SBOSCATXXXX
+  swift8: SBOSCATX
+  branch_name: Head Office
+  branch_address: 30 Adelaide Street East Toronto M5c 3g6
+  branch_code: XXX
+  city: Toronto
+  country: Canada
+- name: Sumitomo Mitsui Banking Corporation Of Canada
+  swift: SMTOCATTXXX
+  swift8: SMTOCATT
+  branch_name: Head Office
+  branch_address: Ernst Young Tower Toronto M5k 1h6
+  branch_code: XXX
+  city: Toronto
+  country: Canada
+- name: The Bank Of New York Mellon, Toronto Branch
+  swift: MELNCATTXXX
+  swift8: MELNCATT
+  branch_name: Head Office
+  branch_address: 95 Wellington Street West Toronto M5j 2n7
+  branch_code: XXX
+  city: Toronto
+  country: Canada
+- name: The Royal Bank Of Scotland N.V. (Canada) Branch
+  swift: ABNACATTMTL
+  swift8: ABNACATT
+  branch_name: Montreal Branch
+  branch_address: Montreal
+  branch_code: MTL
+  city: Montreal
+  country: Canada
+- name: The Royal Bank Of Scotland N.V. (Canada) Branch
+  swift: ABNACATTXXX
+  swift8: ABNACATT
+  branch_name: Head Office
+  branch_address: 79 Wellington Street West Toronto M5k 1g8
+  branch_code: XXX
+  city: Toronto
+  country: Canada
+- name: Toronto Dominion Bank, The
+  swift: TDOMCATTCAL
+  swift8: TDOMCATT
+  branch_name: Calgary T2p 2z2
+  branch_address: 1201 Home Oil Tower Calgary T2p 2z2
+  branch_code: CAL
+  city: Calgary
+  country: Canada
+- name: Toronto Dominion Bank, The
+  swift: TDOMCATTMTL
+  swift8: TDOMCATT
+  branch_name: Montreal
+  branch_address: Montreal
+  branch_code: MTL
+  city: Montreal
+  country: Canada
+- name: Toronto Dominion Bank, The
+  swift: TDOMCATTTOR
+  swift8: TDOMCATT
+  branch_name: Toronto M5k 1a2
+  branch_address: Toronto Dominion Tower Toronto M5k 1a2
+  branch_code: TOR
+  city: Toronto
+  country: Canada
+- name: Toronto Dominion Bank, The
+  swift: TDOMCATTXXX
+  swift8: TDOMCATT
+  branch_name: Head Office
+  branch_address: E and Y Tower Toronto M5k 1a2
+  branch_code: XXX
+  city: Toronto
+  country: Canada
+- name: Toronto Dominion Bank, The
+  swift: TDOMCATTVAN
+  swift8: TDOMCATT
+  branch_name: Vancouver V7y 1a2
+  branch_address: 200 W. Georgia Street Vancouver V7y 1a2
+  branch_code: VAN
+  city: Vancouver
+  country: Canada
+- name: Transatlantic Securities Company Limited Partnership
+  swift: TRACCAMMNDP
+  swift8: TRACCAMM
+  branch_name: Ndp Dept
+  branch_address: Montreal
+  branch_code: NDP
+  city: Montreal
+  country: Canada
+- name: Transatlantic Securities Company Limited Partnership
+  swift: TRACCAMMXXX
+  swift8: TRACCAMM
+  branch_name: Head Office
+  branch_address: 1000 Sherbrooke Street West Montreal H3a 3r7
+  branch_code: XXX
+  city: Montreal
+  country: Canada
+- name: Travelex Canada Limited
+  swift: TRAVCATTCUR
+  swift8: TRAVCATT
+  branch_name: Toronto
+  branch_address: Toronto
+  branch_code: CUR
+  city: Toronto
+  country: Canada
+- name: Travelex Canada Limited
+  swift: TRAVCATTRTL
+  swift8: TRAVCATT
+  branch_name: Toronto
+  branch_address: Toronto
+  branch_code: RTL
+  city: Toronto
+  country: Canada
+- name: Travelex Canada Limited
+  swift: TRAVCATTXXX
+  swift8: TRAVCATT
+  branch_name: Head Office
+  branch_address: 100 Yonge Street Toronto M5c 2w1
+  branch_code: XXX
+  city: Toronto
+  country: Canada
+- name: Travelex Canada Ltd.
+  swift: COOKCATTXXX
+  swift8: COOKCATT
+  branch_name: Head Office
+  branch_address: Scotia Plaza Toronto M5c 2w1
+  branch_code: XXX
+  city: Toronto
+  country: Canada
+- name: Ubs Bank (Canada)
+  swift: UBSWCATTMTL
+  swift8: UBSWCATT
+  branch_name: Montreal Branch
+  branch_address: 1501 Avenue Mcgill College Montreal H3a 3m8
+  branch_code: MTL
+  city: Montreal
+  country: Canada
+- name: Ubs Bank (Canada)
+  swift: UBSWCATTXXX
+  swift8: UBSWCATT
+  branch_name: Head Office
+  branch_address: 154 University Avenue Toronto M5h 3z4
+  branch_code: XXX
+  city: Toronto
+  country: Canada
+- name: Ubs Bank (Canada)
+  swift: UBSWCATTVAN
+  swift8: UBSWCATT
+  branch_name: Vancouver Branch
+  branch_address: 999 West Hastings Street Vancouver V6c 2w2
+  branch_code: VAN
+  city: Vancouver
+  country: Canada
+- name: United Overseas Bank Limited Vancouver Branch
+  swift: UOVBCA8VXXX
+  swift8: UOVBCA8V
+  branch_name: Head Office
+  branch_address: Vancouver Center Vancouver V6b 4n9
+  branch_code: XXX
+  city: Vancouver
+  country: Canada
+- name: A.c. Macpherson And Co. Inc.
+  swift: ACMCCAT1XXX
+  swift8: ACMCCAT1
+  branch_name: Head Office
+  branch_address: 150 York Street Toronto M5h 3s5
+  branch_code: XXX
+  city: Toronto
+  country: Canada
+- name: Accu-rate Corporation
+  swift: ACFXCAW1XXX
+  swift8: ACFXCAW1
+  branch_name: Head Office
+  branch_address: 2573 Carling Ave Ottawa K2b 7h7
+  branch_code: XXX
+  city: Ottawa
+  country: Canada
+- name: Acker Finley Inc
+  swift: ACKFCAT1XXX
+  swift8: ACKFCAT1
+  branch_name: Head Office
+  branch_address: 181 University Avenue Toronto M5h 3m7
+  branch_code: XXX
+  city: Toronto
+  country: Canada
+- name: Acumen Capital Partners
+  swift: ACCTCA61XXX
+  swift8: ACCTCA61
+  branch_name: Head Office
+  branch_address: 404 6th Avenue Sw Calgary T2p 0r9
+  branch_code: XXX
+  city: Calgary
+  country: Canada
+- name: Alberta Stock Exchange, The
+  swift: XALBCA61XXX
+  swift8: XALBCA61
+  branch_name: Head Office
+  branch_address: 300 Fifth Avenue South West Calgary T2p 3c4
+  branch_code: XXX
+  city: Calgary
+  country: Canada
+- name: Alberta Teachers Retirement Fund Board
+  swift: ATRFCA61XXX
+  swift8: ATRFCA61
+  branch_name: No branch name
+  branch_address: No branch address
+  branch_code: XXX
+  city: Edmonton
+  country: Canada
+- name: Alpha Capital Inc.
+  swift: ALPHCAM1XXX
+  swift8: ALPHCAM1
+  branch_name: Head Office
+  branch_address: 5 Place Ville Marie Montreal H3b 2g2
+  branch_code: XXX
+  city: Montreal
+  country: Canada
+- name: Alphafixe Capital
+  swift: ALPICAM1XXX
+  swift8: ALPICAM1
+  branch_name: Head Office
+  branch_address: 1155 Rue Metcalfe Montreal H3b 2v6
+  branch_code: XXX
+  city: Montreal
+  country: Canada
+- name: Altacorp Capital Inc.
+  swift: ALTTCA61XXX
+  swift8: ALTTCA61
+  branch_name: Head Office
+  branch_address: 1100-888 3 St. S.W. Calgary T2p 5c5
+  branch_code: XXX
+  city: Calgary
+  country: Canada
+- name: Aquilon Capital Corp.
+  swift: MMIGCAT1XXX
+  swift8: MMIGCAT1
+  branch_name: Head Office
+  branch_address: 280 King Street East Toronto M5c 1h6
+  branch_code: XXX
+  city: Toronto
+  country: Canada
+- name: Asia Pacific Financial Services Canada Limited
+  swift: APFICA81XXX
+  swift8: APFICA81
+  branch_name: Head Office
+  branch_address: 3906 Scolton Rd Victoria Bc1 1a1
+  branch_code: XXX
+  city: Victoria
+  country: Canada
+- name: Aureus Capital Corp.
+  swift: AURCCAM1XXX
+  swift8: AURCCAM1
+  branch_name: Head Office
+  branch_address: 329 Ouest De La Commune Montreal H2y 2e1
+  branch_code: XXX
+  city: Montreal
+  country: Canada
+- name: Aviva Investors North America
+  swift: AINMCAT1XXX
+  swift8: AINMCAT1
+  branch_name: Head Office
+  branch_address: 121 King Street West Toronto
+  branch_code: XXX
+  city: Toronto
+  country: Canada
+- name: Bank Of Montreal Shorcan
+  swift: BAMSCAT1XXX
+  swift8: BAMSCAT1
+  branch_name: Head Office
+  branch_address: 1st Canadian Place Toronto M5x 1a1
+  branch_code: XXX
+  city: Toronto
+  country: Canada
+- name: Banque De Developpement Du Canada
+  swift: BAFDCAM1XXX
+  swift8: BAFDCAM1
+  branch_name: Head Office
+  branch_address: Bdc Building Montreal H4z 1l4
+  branch_code: XXX
+  city: Montreal
+  country: Canada
+- name: Banque Royale Du Canada
+  swift: ROYACA21XXX
+  swift8: ROYACA21
+  branch_name: Head Office
+  branch_address: 118 Notre-Dame Est Victoriaville G6p 3z6
+  branch_code: XXX
+  city: Victoriaville
+  country: Canada
+- name: Barclays Mcconnell Ltd
+  swift: BMCCCAT1XXX
+  swift8: BMCCCAT1
+  branch_name: Head Office
+  branch_address: North Tower Toronto M5j 2ji
+  branch_code: XXX
+  city: Toronto
+  country: Canada
+- name: Bbn James Capel Inc
+  swift: BBNJCAT1XXX
+  swift8: BBNJCAT1
+  branch_name: Head Office
+  branch_address: 1 Adelaide Street East Toronto M5c2v9
+  branch_code: XXX
+  city: Toronto
+  country: Canada
+- name: Bcpbank
+  swift: BCOMCAT1XXX
+  swift8: BCOMCAT1
+  branch_name: Head Office
+  branch_address: 1106 Dundas Street West Toronto M6j 1x2
+  branch_code: XXX
+  city: Toronto
+  country: Canada
+- name: Beacon Securities Limited
+  swift: BEAOCA91XXX
+  swift8: BEAOCA91
+  branch_name: Head Office
+  branch_address: 1669 Granville Street Halifax B3j 2c6
+  branch_code: XXX
+  city: Halifax
+  country: Canada
+- name: Berner And Company Inc
+  swift: BERCCAT1XXX
+  swift8: BERCCAT1
+  branch_name: Head Office
+  branch_address: 360 Bloor Street East Toronto M5c1y2
+  branch_code: XXX
+  city: Toronto
+  country: Canada
+- name: Black Creek Investment Management Inc.
+  swift: BCNGCAT1XXX
+  swift8: BCNGCAT1
+  branch_name: Head Office
+  branch_address: 212 King Street West Toronto Ontario M5h 1k5
+  branch_code: XXX
+  city: Toronto Ontario
+  country: Canada
+- name: Blackrock Asset Management Canada Limited
+  swift: BAGNCAT1XXX
+  swift8: BAGNCAT1
+  branch_name: Head Office
+  branch_address: 161 Bay Street, Suite 2500 Toronto Ontario M5j 2s1
+  branch_code: XXX
+  city: Toronto Ontario
+  country: Canada
+- name: Bloomberg Tradebook Canada Company
+  swift: BTRBCATTXXX
+  swift8: BTRBCATT
+  branch_name: Head Office
+  branch_address: Canada Trust Tower Toronto M5j 2s1
+  branch_code: XXX
+  city: Toronto
+  country: Canada
+- name: Bluechive Processing Corporation
+  swift: BLPCCAT1XXX
+  swift8: BLPCCAT1
+  branch_name: Head Office
+  branch_address: 26 Barrie Ave. Toronto M6c 1e2
+  branch_code: XXX
+  city: Toronto
+  country: Canada
+- name: Bmo Harris Investment Management
+  swift: BHIMCAT1XXX
+  swift8: BHIMCAT1
+  branch_name: Head Office
+  branch_address: First Canadian Place Toronto M5x 1h3
+  branch_code: XXX
+  city: Toronto
+  country: Canada
+- name: Bmo Nesbitt Burns Inc
+  swift: NESUCAM10TT
+  swift8: NESUCAM1
+  branch_name: Toronto M5x 1h3
+  branch_address: 1 First Canadian Place Toronto M5x 1h3
+  branch_code: 0TT
+  city: Toronto
+  country: Canada
+- name: Bmo Nesbitt Burns Inc
+  swift: NESUCAM1XXX
+  swift8: NESUCAM1
+  branch_name: Head Office
+  branch_address: Number 1, 1st Canadian Place Toronto H3a 3m8
+  branch_code: XXX
+  city: Toronto
+  country: Canada
+- name: Bnp Paribas (canada) Valeurs Mobilieres Inc
+  swift: BNPVCAM1XXX
+  swift8: BNPVCAM1
+  branch_name: Head Office
+  branch_address: Tour Bnp Montreal H3a 2w8
+  branch_code: XXX
+  city: Montreal
+  country: Canada
+- name: Brawley Cathers Limited
+  swift: BRWLCAT1XXX
+  swift8: BRWLCAT1
+  branch_name: Head Office
+  branch_address: 141 Adelaide Street West Toronto M5h 3l9
+  branch_code: XXX
+  city: Toronto
+  country: Canada
+- name: Brightway Capital (canada) Ltd.
+  swift: BRPDCAT1XXX
+  swift8: BRPDCAT1
+  branch_name: Head Office
+  branch_address: 20 Queen Street West Toronto M5h 3r3
+  branch_code: XXX
+  city: Toronto
+  country: Canada
+- name: Brink, Hudson And Lefever Ltd.
+  swift: BHLLCA81XXX
+  swift8: BHLLCA81
+  branch_name: Head Office
+  branch_address: Three Bentall Center Vancouver V7x 1j1
+  branch_code: XXX
+  city: Vancouver
+  country: Canada
+- name: Brookfield Brp Canada Corp.
+  swift: BBRPCAWAXXX
+  swift8: BBRPCAWA
+  branch_name: Head Office
+  branch_address: 1700 - 180 Kent Street Ottawa K1b 0b6
+  branch_code: XXX
+  city: Ottawa
+  country: Canada
+- name: Burgundy Asset Management Limited
+  swift: BUAMCAT1XXX
+  swift8: BUAMCAT1
+  branch_name: Head Office
+  branch_address: Bay Wellington Tower Toronto M5j 2t3
+  branch_code: XXX
+  city: Toronto
+  country: Canada
+- name: Burns Fry Limited
+  swift: BFRLCAT1XXX
+  swift8: BFRLCAT1
+  branch_name: Head Office
+  branch_address: 1 First Canadian Place Toronto M5k 1h3
+  branch_code: XXX
+  city: Toronto
+  country: Canada
+- name: Business Development Bank Of Canada
+  swift: FBDBCAM1XXX
+  swift8: FBDBCAM1
+  branch_name: Head Office
+  branch_address: Bdc Building Montreal H4z 1l4
+  branch_code: XXX
+  city: Montreal
+  country: Canada
+- name: C.m. Oliver And Company Limited
+  swift: CHOLCA81XXX
+  swift8: CHOLCA81
+  branch_name: Head Office
+  branch_address: 750 West Pender Street Vancouver V6c 1b5
+  branch_code: XXX
+  city: Vancouver
+  country: Canada
+- name: C.s. First Boston (canada) Inc.
+  swift: CSFBCAT1XXX
+  swift8: CSFBCAT1
+  branch_name: Head Office
+  branch_address: 121 King Street West Toronto M5h 3t9
+  branch_code: XXX
+  city: Toronto
+  country: Canada
+- name: Caisse De Depot Et Placement Du Quebec
+  swift: CDPECAM1XXX
+  swift8: CDPECAM1
+  branch_name: Head Office
+  branch_address: Centre Cdp Capital Montreal H2z 2b3
+  branch_code: XXX
+  city: Montreal
+  country: Canada
+- name: Caisse Desjardins Des Chutes Montmorency
+  swift: CDCNCA21XXX
+  swift8: CDCNCA21
+  branch_name: Head Office
+  branch_address: 4, Rue Vachon Quebec G1c 2v2
+  branch_code: XXX
+  city: Quebec
+  country: Canada
+- name: Caisse Populaire
+  swift: CAUOCA91XXX
+  swift8: CAUOCA91
+  branch_name: Head Office
+  branch_address: 251 Champlain St Dieppe E1a 1p2
+  branch_code: XXX
+  city: Dieppe
+  country: Canada
+- name: Caldwell Securities Ltd
+  swift: CALWCAT1XXX
+  swift8: CALWCAT1
+  branch_name: Head Office
+  branch_address: 150 King Street West Toronto M5j 2h7
+  branch_code: XXX
+  city: Toronto
+  country: Canada
+- name: Calgary Foreign Exchange Ltd.
+  swift: CLFXCA66XXX
+  swift8: CLFXCA66
+  branch_name: No branch name
+  branch_address: No branch address
+  branch_code: XXX
+  city: Calgary
+  country: Canada
+- name: Camlin Asset Management
+  swift: CMAMCA81XXX
+  swift8: CMAMCA81
+  branch_name: Head Office
+  branch_address: 1166 Alberni Street Vancouver V6e 3z3
+  branch_code: XXX
+  city: Vancouver
+  country: Canada
+- name: Canaccord Capital Corporation
+  swift: CANCCA81DTC
+  swift8: CANCCA81
+  branch_name: Vancouver
+  branch_address: Vancouver
+  branch_code: DTC
+  city: Vancouver
+  country: Canada
+- name: Canaccord Capital Corporation
+  swift: CANCCA81XXX
+  swift8: CANCCA81
+  branch_name: Head Office
+  branch_address: Pacific Centre Vancouver V7y 1h2
+  branch_code: XXX
+  city: Vancouver
+  country: Canada
+- name: Canada Money Tt Ltd
+  swift: CMTTCA81XXX
+  swift8: CMTTCA81
+  branch_name: Head Office
+  branch_address: The Crystal Mall Burnaby V5h 2a9
+  branch_code: XXX
+  city: Burnaby
+  country: Canada
+- name: Canadas Kyoto Protocol National Registry
+  swift: CKPNCA21XXX
+  swift8: CKPNCA21
+  branch_name: Head Office
+  branch_address: Trading Regimes Division Gatineau K1a 0h3
+  branch_code: XXX
+  city: Gatineau
+  country: Canada
+- name: Canadian Derivatives Clearing Corp
+  swift: CDCCCAMMXXX
+  swift8: CDCCCAMM
+  branch_name: Head Office
+  branch_address: Tour De La Bourse Montreal H4z 1a9
+  branch_code: XXX
+  city: Montreal
+  country: Canada
+- name: Canadian Financial Corporation
+  swift: CNFCCAM1XXX
+  swift8: CNFCCAM1
+  branch_name: Head Office
+  branch_address: 400 Maisonneuve Boulevard West Montreal
+  branch_code: XXX
+  city: Montreal
+  country: Canada
+- name: Canadian National Railway Company
+  swift: CNRRCAMTXXX
+  swift8: CNRRCAMT
+  branch_name: Head Office
+  branch_address: De La Gauchetiere Street West 935 Montreal H3b 2m9
+  branch_code: XXX
+  city: Montreal
+  country: Canada
+- name: Canadian Western Bank
+  swift: CWBKCA6108V
+  swift8: CWBKCA61
+  branch_name: Vancouver V7x 1m8
+  branch_address: Two Bentall Center Vancouver V7x 1m8
+  branch_code: '08V'
+  city: Vancouver
+  country: Canada
+- name: Canadian Western Bank
+  swift: CWBKCA61XXX
+  swift8: CWBKCA61
+  branch_name: Head Office
+  branch_address: Canadian Western Bank Place Edmonton T5j 3x6
+  branch_code: XXX
+  city: Edmonton
+  country: Canada
+- name: Canoe Financial Lp
+  swift: CNFNCAT1XXX
+  swift8: CNFNCAT1
+  branch_name: Head Office
+  branch_address: 26 Wellington St. E. Toronto Ontario M5e 1s2
+  branch_code: XXX
+  city: Toronto Ontario
+  country: Canada
+- name: Canso Investment Counsel Ltd
+  swift: CAVUCAT1XXX
+  swift8: CAVUCAT1
+  branch_name: Head Office
+  branch_address: 100 York Boulevard Richmond Hill L4b 1j8
+  branch_code: XXX
+  city: Richmond Hill
+  country: Canada
+- name: Casgrain And Company Limited
+  swift: CASCCAM1XXX
+  swift8: CASCCAM1
+  branch_name: Head Office
+  branch_address: 1200 Mcgill College Avenue Montreal H2z 1w7
+  branch_code: XXX
+  city: Montreal
+  country: Canada
+- name: Cibc Global Asset Management Inc.
+  swift: CGAACAM1XXX
+  swift8: CGAACAM1
+  branch_name: Head Office
+  branch_address: 1500 University Montreal
+  branch_code: XXX
+  city: Montreal
+  country: Canada
+- name: Citco Bank Csv Processing
+  swift: CISGCAT1XXX
+  swift8: CISGCAT1
+  branch_name: Head Office
+  branch_address: 180 Duncan Mill Road Toronto
+  branch_code: XXX
+  city: Toronto
+  country: Canada
+- name: Citibank Canada Securities Ltd.
+  swift: CICSCAT1XXX
+  swift8: CICSCAT1
+  branch_name: Head Office
+  branch_address: Citibank Place Toronto M5j 2m3
+  branch_code: XXX
+  city: Toronto
+  country: Canada
+- name: Clarus Securities Inc
+  swift: CLSTCAT1XXX
+  swift8: CLSTCAT1
+  branch_name: Head Office
+  branch_address: Exchange Tower Toronto M5x 1a9
+  branch_code: XXX
+  city: Toronto
+  country: Canada
+- name: Cma Leduc Valeurs Mobilieres Inc.
+  swift: VLMOCAM1XXX
+  swift8: VLMOCAM1
+  branch_name: Head Office
+  branch_address: 2020 University Montreal H3a 2a5
+  branch_code: XXX
+  city: Montreal
+  country: Canada
+- name: Coerente Capital Management Inc.
+  swift: CCTMCAM1XXX
+  swift8: CCTMCAM1
+  branch_name: Head Office
+  branch_address: Rene Levesque Blvd 625 Montreal Quebec H3b 1r2
+  branch_code: XXX
+  city: Montreal Quebec
+  country: Canada
+- name: Commission Direct Inc.
+  swift: CHDICAT1XXX
+  swift8: CHDICAT1
+  branch_name: Head Office
+  branch_address: 121 King Street West Toronto M5h 3t9
+  branch_code: XXX
+  city: Toronto
+  country: Canada
+- name: Concentra Financial Services Association
+  swift: TCACCAT1XXX
+  swift8: TCACCAT1
+  branch_name: Head Office
+  branch_address: 333 Third Avenue N. Saskatoon
+  branch_code: XXX
+  city: Saskatoon
+  country: Canada
+- name: Connor, Clark And Company Ltd
+  swift: CONCCAT1XXX
+  swift8: CONCCAT1
+  branch_name: Head Office
+  branch_address: 40 King Street West Toronto M5h3y2
+  branch_code: XXX
+  city: Toronto
+  country: Canada
+- name: Connor, Clark And Lunn Financial Group
+  swift: CCLFCA81XXX
+  swift8: CCLFCA81
+  branch_name: Head Office
+  branch_address: 1111 West Georgia Street Vancouver Bc V6e 4m3
+  branch_code: XXX
+  city: Vancouver
+  country: Canada
+- name: Cormark Securities Inc
+  swift: SPSLCAT1XXX
+  swift8: SPSLCAT1
+  branch_name: Head Office
+  branch_address: Royal Bank Plaza Toronto M5j2j2
+  branch_code: XXX
+  city: Toronto
+  country: Canada
+- name: Credifinance Securities Limited
+  swift: CSECCAT1XXX
+  swift8: CSECCAT1
+  branch_name: Head Office
+  branch_address: 41a Avenue Road Toronto M5h 3p5
+  branch_code: XXX
+  city: Toronto
+  country: Canada
+- name: Credit Union Central Of Canada
+  swift: CCCSCAT1XXX
+  swift8: CCCSCAT1
+  branch_name: Head Office
+  branch_address: 300 the East Mail Toronto M9b 6b7
+  branch_code: XXX
+  city: Toronto
+  country: Canada
+- name: Crew Holdings Limited
+  swift: CRHLCA81XXX
+  swift8: CRHLCA81
+  branch_name: Head Office
+  branch_address: West Pender Street Vancouver V6c 1a6
+  branch_code: XXX
+  city: Vancouver
+  country: Canada
+- name: Cti Capital Group Inc
+  swift: CTICCAM1XXX
+  swift8: CTICCAM1
+  branch_name: Head Office
+  branch_address: 1 Place Ville-Marie Montreal H3b 2b6
+  branch_code: XXX
+  city: Montreal
+  country: Canada
+- name: Daiwa Securities Canada Ltd.
+  swift: DSCACAT1XXX
+  swift8: DSCACAT1
+  branch_name: Head Office
+  branch_address: 1 First Canadian Place Toronto M5x 1a6
+  branch_code: XXX
+  city: Toronto
+  country: Canada
+- name: Dbrs Limited
+  swift: DRRSCAT1XXX
+  swift8: DRRSCAT1
+  branch_name: Head Office
+  branch_address: 181 University Avenue Toronto M5h 3m7
+  branch_code: XXX
+  city: Toronto
+  country: Canada
+- name: Deacon Capital Corporation
+  swift: DCCOCAT1XXX
+  swift8: DCCOCAT1
+  branch_name: Head Office
+  branch_address: 304 Bay Street Toronto M5h 4a6
+  branch_code: XXX
+  city: Toronto
+  country: Canada
+- name: Demers Conseil Inc.
+  swift: DEMCCAM1XXX
+  swift8: DEMCCAM1
+  branch_name: Head Office
+  branch_address: 615 Boulevard Rene Levesque Ouest Montreal H3b 1p5
+  branch_code: XXX
+  city: Montreal
+  country: Canada
+- name: Deutsche Bank Securities Limited
+  swift: MCMICAT1XXX
+  swift8: MCMICAT1
+  branch_name: Head Office
+  branch_address: Ernst and Young Tower Toronto M5k1e7
+  branch_code: XXX
+  city: Toronto
+  country: Canada
+- name: Doherty And Associates Co. Ltd
+  swift: DOASCAW1XXX
+  swift8: DOASCAW1
+  branch_name: Head Office
+  branch_address: 56 Sparks Street Ottawa K1p 5a9
+  branch_code: XXX
+  city: Ottawa
+  country: Canada
+- name: Dominick And Dominick Securities
+  swift: DDMSCAT1XXX
+  swift8: DDMSCAT1
+  branch_name: Head Office
+  branch_address: 150 York Street Toronto M5h 3s5
+  branch_code: XXX
+  city: Toronto
+  country: Canada
+- name: Dundee Securities Corporation
+  swift: DUNSCAT1XXX
+  swift8: DUNSCAT1
+  branch_name: Head Office
+  branch_address: 1 Adelaide Street East Toronto M5j2s1
+  branch_code: XXX
+  city: Toronto
+  country: Canada
+- name: E(three)m Investments Inc.
+  swift: EMINCAT1XXX
+  swift8: EMINCAT1
+  branch_name: Head Office
+  branch_address: 2 Saint Clair Avenue West Toronto M4v 1l5
+  branch_code: XXX
+  city: Toronto
+  country: Canada
+- name: Edgepoint Wealth
+  swift: EDWECAT1XXX
+  swift8: EDWECAT1
+  branch_name: Head Office
+  branch_address: 1000 Yonge Street Toronto M4w 2k2
+  branch_code: XXX
+  city: Toronto
+  country: Canada
+- name: Edward D. Jones And Co
+  swift: EDDJCAM1XXX
+  swift8: EDDJCAM1
+  branch_name: Head Office
+  branch_address: 90 Burnhamthorpe Road West Mississauga L5b 3c3
+  branch_code: XXX
+  city: Mississauga
+  country: Canada
+- name: Entermoney Exchange (enmonex) Corporation
+  swift: EEECCAT1XXX
+  swift8: EEECCAT1
+  branch_name: Head Office
+  branch_address: 6013 Yonge Street Toronto M2m 3w2
+  branch_code: XXX
+  city: Toronto
+  country: Canada
+- name: Equity Financial Fx Inc.
+  swift: EQFXCAT1XXX
+  swift8: EQFXCAT1
+  branch_name: Head Office
+  branch_address: University Ave 200 Toronto M5h 4h1
+  branch_code: XXX
+  city: Toronto
+  country: Canada
+- name: Euro Pacific Canada Inc.
+  swift: EUPCCAT1XXX
+  swift8: EUPCCAT1
+  branch_name: Head Office
+  branch_address: 130 King Street West, Toronto M5x 1a9
+  branch_code: XXX
+  city: Toronto
+  country: Canada
+- name: Expertus Technologies Inc.
+  swift: EXTCCAM1XXX
+  swift8: EXTCCAM1
+  branch_name: Head Office
+  branch_address: Laurantian Tower Montreal H3a 2w9
+  branch_code: XXX
+  city: Montreal
+  country: Canada
+- name: Family Trust Corporation
+  swift: FACTCA21XXX
+  swift8: FACTCA21
+  branch_name: Head Office
+  branch_address: 7 Highway Markham L3p 1a2
+  branch_code: XXX
+  city: Markham
+  country: Canada
+- name: Federation De Caisses Populaires Desjardins De Montreal
+  swift: FCPOCAM1XXX
+  swift8: FCPOCAM1
+  branch_name: Head Office
+  branch_address: 1 Complexe Desjardins Montreal H5b 1e7
+  branch_code: XXX
+  city: Montreal
+  country: Canada
+- name: Federation Des Caisses Populaires Du Manitoba
+  swift: FCPMCA41XXX
+  swift8: FCPMCA41
+  branch_name: Head Office
+  branch_address: 200 605, Rue Des Meurons Winnipeg
+  branch_code: XXX
+  city: Winnipeg
+  country: Canada
+- name: Fidelity Clearing Canada, Ulc
+  swift: FCCLCAT1XXX
+  swift8: FCCLCAT1
+  branch_name: Head Office
+  branch_address: 483 Bay St Toronto M5g 2n7
+  branch_code: XXX
+  city: Toronto
+  country: Canada
+- name: Fiducie Desjardins
+  swift: FIDDCAM1XXX
+  swift8: FIDDCAM1
+  branch_name: Head Office
+  branch_address: 1 Complexe Desjardins Montreal H5b 1e4
+  branch_code: XXX
+  city: Montreal
+  country: Canada
+- name: First Associates Investments Inc
+  swift: FAIICAT1XXX
+  swift8: FAIICAT1
+  branch_name: Head Office
+  branch_address: Toronto Dominion Tower Toronto M5j 2n7
+  branch_code: XXX
+  city: Toronto
+  country: Canada
+- name: First Canada Securities Corporation
+  swift: FCSCCAT1XXX
+  swift8: FCSCCAT1
+  branch_name: Head Office
+  branch_address: The Exchange Tower Toronto M5x 1a4
+  branch_code: XXX
+  city: Toronto
+  country: Canada
+- name: First City Capital Inc.
+  swift: CCAFCAM1XXX
+  swift8: CCAFCAM1
+  branch_name: Head Office
+  branch_address: 1200-1 Westmount Square Montreal
+  branch_code: XXX
+  city: Montreal
+  country: Canada
+- name: Firstenergy Capital Corp.
+  swift: FENGCA61XXX
+  swift8: FENGCA61
+  branch_name: Head Office
+  branch_address: 311-6th Avenue Sw Calgary I2p 2z1
+  branch_code: XXX
+  city: Calgary
+  country: Canada
+- name: Formula Growth Limited
+  swift: FOGOCAM1XXX
+  swift8: FOGOCAM1
+  branch_name: Head Office
+  branch_address: 1010 Sherbrooke Street West Montreal H3a 2r7
+  branch_code: XXX
+  city: Montreal
+  country: Canada
+- name: Foyston, Gordon And Payne Inc.
+  swift: FOGYCAT1XXX
+  swift8: FOGYCAT1
+  branch_name: Head Office
+  branch_address: 1 Adelaide Street East Toronto M5c 2v9
+  branch_code: XXX
+  city: Toronto
+  country: Canada
+- name: Fraser Mackenzie Limited
+  swift: FRMCCAT1XXX
+  swift8: FRMCCAT1
+  branch_name: Head Office
+  branch_address: 48 Yonge Street Toronto M5e 1g6
+  branch_code: XXX
+  city: Toronto
+  country: Canada
+- name: Freedom International Brokerage Company
+  swift: FRDMCAT1XXX
+  swift8: FRDMCAT1
+  branch_name: Head Office
+  branch_address: 181 University Avenue Toronto M5h 3m7
+  branch_code: XXX
+  city: Toronto
+  country: Canada
+- name: Fundsserv Inc
+  swift: FSRVCAT1XXX
+  swift8: FSRVCAT1
+  branch_name: Head Office
+  branch_address: The Exchange Tower Toronto M5x 3e5
+  branch_code: XXX
+  city: Toronto
+  country: Canada
+- name: Genuity Capital Markets
+  swift: GECRCAT1XXX
+  swift8: GECRCAT1
+  branch_name: Head Office
+  branch_address: Scotia Plaza Toronto M5h 3y2
+  branch_code: XXX
+  city: Toronto
+  country: Canada
+- name: Genus Capital Management Inc.
+  swift: GCMICA81XXX
+  swift8: GCMICA81
+  branch_name: Head Office
+  branch_address: 900 West Hastings St Vancouver V6c 1e5
+  branch_code: XXX
+  city: Vancouver
+  country: Canada
+- name: Georgia Pacific Securities Corporation
+  swift: GEPSCA81XXX
+  swift8: GEPSCA81
+  branch_name: Head Office
+  branch_address: 2 Bentall Centre Vancouver V7x 1s6
+  branch_code: XXX
+  city: Vancouver
+  country: Canada
+- name: Gestion De Placements Helene Dion Inc.
+  swift: GPHDCAM1XXX
+  swift8: GPHDCAM1
+  branch_name: Head Office
+  branch_address: 1010 Rue Sherbrooke Ouest Montreal H3a 2r7
+  branch_code: XXX
+  city: Montreal
+  country: Canada
+- name: Ghs Securities Canada Ltd
+  swift: GHSCCA61XXX
+  swift8: GHSCCA61
+  branch_name: Head Office
+  branch_address: 1410-639 5 Ave Sw Calgary T2p 0m9
+  branch_code: XXX
+  city: Calgary
+  country: Canada
+- name: Global Securities Corporation
+  swift: GSECCA81XXX
+  swift8: GSECCA81
+  branch_name: Head Office
+  branch_address: 3 Bentall Centre Vancouver V7x 1c4
+  branch_code: XXX
+  city: Vancouver
+  country: Canada
+- name: Gluskin Sheff And Associates Inc
+  swift: GLSACAT1XXX
+  swift8: GLSACAT1
+  branch_name: Head Office
+  branch_address: Bce Place Toronto M5j 2t3
+  branch_code: XXX
+  city: Toronto
+  country: Canada
+- name: Golden Capital Securities Ltd
+  swift: GLCSCA81XXX
+  swift8: GLCSCA81
+  branch_name: Head Office
+  branch_address: 1177 West Hastings Street Vancouver V6e 2k3
+  branch_code: XXX
+  city: Vancouver
+  country: Canada
+- name: Goldman Sachs Canada Inc.
+  swift: GSLTCAT10GS
+  swift8: GSLTCAT1
+  branch_name: Gs and Co-Gs International Clearance Department
+  branch_address: 150 King Street West Toronto M1h 1j9
+  branch_code: 0GS
+  city: Toronto
+  country: Canada
+- name: Goldman Sachs Canada Inc.
+  swift: GSLTCAT1XXX
+  swift8: GSLTCAT1
+  branch_name: Head Office
+  branch_address: 150 King Street West Toronto M5h 1j9
+  branch_code: XXX
+  city: Toronto
+  country: Canada
+- name: Gordon Capital Corporation
+  swift: GOCCCAM10TT
+  swift8: GOCCCAM1
+  branch_name: Toronto M5k 1e7
+  branch_address: Toronto Dominion Tower Toronto M5k 1e7
+  branch_code: 0TT
+  city: Toronto
+  country: Canada
+- name: Gordon Capital Corporation
+  swift: GOCCCAM1XXX
+  swift8: GOCCCAM1
+  branch_name: Head Office
+  branch_address: 1 Place Ville Marie Montreal H3b 3p9
+  branch_code: XXX
+  city: Montreal
+  country: Canada
+- name: Great Pacific Management Co. Ltd.
+  swift: GPMACA81XXX
+  swift8: GPMACA81
+  branch_name: Head Office
+  branch_address: 1190 Hornby Street Vancouver V6z 2k5
+  branch_code: XXX
+  city: Vancouver
+  country: Canada
+- name: Greenline Investor Services
+  swift: GRISCAT1XXX
+  swift8: GRISCAT1
+  branch_name: Head Office
+  branch_address: Royal Trust Tower Toronto M5k 1a3
+  branch_code: XXX
+  city: Toronto
+  country: Canada
+- name: Grey Horse Corporation
+  swift: GHCACAT1XXX
+  swift8: GHCACAT1
+  branch_name: Head Office
+  branch_address: 200 University Avenue Toronto M5h 4h1
+  branch_code: XXX
+  city: Toronto
+  country: Canada
+- name: Greystone Managed Investments Inc
+  swift: GRMNCA51XXX
+  swift8: GRMNCA51
+  branch_name: Head Office
+  branch_address: 300 - 1230 Blackfoot Drive Regina S4s 7g4
+  branch_code: XXX
+  city: Regina
+  country: Canada
+- name: Griffiths Mcburney And Partners
+  swift: GRMPCAT1XXX
+  swift8: GRMPCAT1
+  branch_name: Head Office
+  branch_address: 145 King Street West Toronto M5h 1j8
+  branch_code: XXX
+  city: Toronto
+  country: Canada
+- name: Hamblin, Watsa Investment Counsel Ltd.
+  swift: HWICCAT1XXX
+  swift8: HWICCAT1
+  branch_name: Head Office
+  branch_address: 95 Wellington Street West Toronto M5j2n7
+  branch_code: XXX
+  city: Toronto
+  country: Canada
+- name: Haywood Securities Inc
+  swift: HASRCA81XXX
+  swift8: HASRCA81
+  branch_name: Head Office
+  branch_address: Commerce Place Vancouver V6c 3a6
+  branch_code: XXX
+  city: Vancouver
+  country: Canada
+- name: Hewlett-packard (canada) Co
+  swift: HECDCAT1XXX
+  swift8: HECDCAT1
+  branch_name: Head Office
+  branch_address: 5150 Spectrum Way Mississauga L4w 5g2
+  branch_code: XXX
+  city: Mississauga
+  country: Canada
+- name: Howson Tattersall Investment Counsel
+  swift: HTICCAT1XXX
+  swift8: HTICCAT1
+  branch_name: Head Office
+  branch_address: 70 University Avenue Toronto M5j 2m4
+  branch_code: XXX
+  city: Toronto
+  country: Canada
+- name: Hsbc Capital (canada) Inc
+  swift: WRCICA81XXX
+  swift8: WRCICA81
+  branch_name: Head Office
+  branch_address: 885 West Georgia Street Vancouver V6z 2h2
+  branch_code: XXX
+  city: Vancouver
+  country: Canada
+- name: Hsbc Securities (canada) Inc.
+  swift: HJCCCAT1XXX
+  swift8: HJCCCAT1
+  branch_name: Head Office
+  branch_address: 70 York Street Toronto M5h 1p4
+  branch_code: XXX
+  city: Toronto
+  country: Canada
+- name: Hsbc Trust Company (canada
+  swift: METCCAT1022
+  swift8: METCCAT1
+  branch_name: Ottawa K1p 6l2
+  branch_address: 50 Oconnor Street Ottawa K1p 6l2
+  branch_code: '022'
+  city: Ottawa
+  country: Canada
+- name: Hsbc Trust Company (canada
+  swift: METCCAT102H
+  swift8: METCCAT1
+  branch_name: Halifax B3l 4p8
+  branch_address: 6169 Quinpool Road Halifax B3l 4p8
+  branch_code: 02H
+  city: Halifax
+  country: Canada
+- name: Hsbc Trust Company (canada
+  swift: METCCAT106E
+  swift8: METCCAT1
+  branch_name: Edmonton T5j 3n6
+  branch_address: Metropolitan Place Edmonton T5j 3n6
+  branch_code: 06E
+  city: Edmonton
+  country: Canada
+- name: Hsbc Trust Company (canada
+  swift: METCCAT108V
+  swift8: METCCAT1
+  branch_name: Vancouver V6c 2t6
+  branch_address: 625 Howe Street Vancouver V6c 2t6
+  branch_code: '08V'
+  city: Vancouver
+  country: Canada
+- name: Hsbc Trust Company (canada
+  swift: METCCAT10MM
+  swift8: METCCAT1
+  branch_name: Montreal H3a 1t5
+  branch_address: Les Cours Mont-Royal Montreal H3a 1t5
+  branch_code: 0MM
+  city: Montreal
+  country: Canada
+- name: Hsbc Trust Company (canada
+  swift: METCCAT1GWM
+  swift8: METCCAT1
+  branch_name: Toronto
+  branch_address: Toronto
+  branch_code: GWM
+  city: Toronto
+  country: Canada
+- name: Hsbc Trust Company (canada
+  swift: METCCAT1XXX
+  swift8: METCCAT1
+  branch_name: Head Office
+  branch_address: 70 York Street Toronto M4w3k9
+  branch_code: XXX
+  city: Toronto
+  country: Canada
+- name: Huronia Trust Company
+  swift: HUCTCA21XXX
+  swift8: HUCTCA21
+  branch_name: Head Office
+  branch_address: 2 Mississauga Street East Orillia L3v 6h9
+  branch_code: XXX
+  city: Orillia
+  country: Canada
+- name: Hydro-quebec Pension Fund
+  swift: HQPFCAM1XXX
+  swift8: HQPFCAM1
+  branch_name: Head Office
+  branch_address: 75 Boulevard Rene Levesque Ouest Montreal H2z1a4
+  branch_code: XXX
+  city: Montreal
+  country: Canada
+- name: Ice Clear Canada
+  swift: XWCECA4WXXX
+  swift8: XWCECA4W
+  branch_name: Head Office
+  branch_address: Pembina Hwy 850a Winnipeg R3m2m7
+  branch_code: XXX
+  city: Winnipeg
+  country: Canada
+- name: Industrial Alliance Securities Inc.
+  swift: LAHPCAM1XXX
+  swift8: LAHPCAM1
+  branch_name: Head Office
+  branch_address: 1080 Grande Allee West Quebec H3a 2a5
+  branch_code: XXX
+  city: Quebec
+  country: Canada
+- name: Instantlink
+  swift: INLKCAT1XXX
+  swift8: INLKCAT1
+  branch_name: Head Office
+  branch_address: 2 First Canadian Place Toronto M5x 1e3
+  branch_code: XXX
+  city: Toronto
+  country: Canada
+- name: Instinet Canada Limited
+  swift: INCDCAT1XXX
+  swift8: INCDCAT1
+  branch_name: Head Office
+  branch_address: The Exchange Tower Toronto M5x 1e3
+  branch_code: XXX
+  city: Toronto
+  country: Canada
+- name: International Air Transport Association
+  swift: IATACAMMXXX
+  swift8: IATACAMM
+  branch_name: Head Office
+  branch_address: Place Victoria 800 Montreal H4z 1m1
+  branch_code: XXX
+  city: Montreal
+  country: Canada
+- name: International Air Transport Association
+  swift: IATACAM1XXX
+  swift8: IATACAM1
+  branch_name: Head Office
+  branch_address: Place Victoria 800 Montreal H4z 1m1
+  branch_code: XXX
+  city: Montreal
+  country: Canada
+- name: International Discovery Ltd
+  swift: INDYCA61XXX
+  swift8: INDYCA61
+  branch_name: Head Office
+  branch_address: 203-92nd St Edmonton N4b 3b5
+  branch_code: XXX
+  city: Edmonton
+  country: Canada
+- name: Investpro Securities Inc.
+  swift: INVTCAM1XXX
+  swift8: INVTCAM1
+  branch_name: Head Office
+  branch_address: 800 Rene Levesque Boulevard West Montreal H3b 1x9
+  branch_code: XXX
+  city: Montreal
+  country: Canada
+- name: Ipo Capital Corp
+  swift: IPCCCAT1XXX
+  swift8: IPCCCAT1
+  branch_name: Head Office
+  branch_address: 130 Adelaide Street West Toronto M5h 3p5
+  branch_code: XXX
+  city: Toronto
+  country: Canada
+- name: Itg Canada Corp.
+  swift: ITGCCAT1XXX
+  swift8: ITGCCAT1
+  branch_name: Head Office
+  branch_address: Exchange Tower Toronto M5x 1b1
+  branch_code: XXX
+  city: Toronto
+  country: Canada
+- name: J. Pasztor And Associates Inc.
+  swift: JPSACAT1XXX
+  swift8: JPSACAT1
+  branch_name: Head Office
+  branch_address: 19 Shorncliffe Avenue Toronto M4v 1s9
+  branch_code: XXX
+  city: Toronto
+  country: Canada
+- name: J.d. Mack Limited
+  swift: JDMACA91XXX
+  swift8: JDMACA91
+  branch_name: Head Office
+  branch_address: 1959 Upper Water Street Halifax B3j 2z1
+  branch_code: XXX
+  city: Halifax
+  country: Canada
+- name: Jennings Capital Inc
+  swift: JECACAT1XXX
+  swift8: JECACAT1
+  branch_name: Head Office
+  branch_address: 33 Yonge Street Toronto M5e 1g4
+  branch_code: XXX
+  city: Toronto
+  country: Canada
+- name: Jones, Gable And Company Limited
+  swift: JGCLCAT1XXX
+  swift8: JGCLCAT1
+  branch_name: Head Office
+  branch_address: 110 Yonge Street Toronto M5c 1tc
+  branch_code: XXX
+  city: Toronto
+  country: Canada
+- name: Kash Mart Financial Ltd
+  swift: KAMFCAM1XXX
+  swift8: KAMFCAM1
+  branch_name: Head Office
+  branch_address: Molson Building Montreal H3b9b3
+  branch_code: XXX
+  city: Montreal
+  country: Canada
+- name: Lallemand Inc
+  swift: LALLCAMMXXX
+  swift8: LALLCAMM
+  branch_name: Head Office
+  branch_address: 1620 Prefontaine Montreal H1w 2n8
+  branch_code: XXX
+  city: Montreal
+  country: Canada
+- name: Laurentian Bank Securities Inc
+  swift: BLCSCAM1XXX
+  swift8: BLCSCAM1
+  branch_name: Head Office
+  branch_address: 1981 Mcgill College Avenue Montreal H3a 3k3
+  branch_code: XXX
+  city: Montreal
+  country: Canada
+- name: Leede Financial Markets Inc
+  swift: RPSICA61XXX
+  swift8: RPSICA61
+  branch_name: Head Office
+  branch_address: First Alberta Place Calgary T2p 3rs
+  branch_code: XXX
+  city: Calgary
+  country: Canada
+- name: Leith Wheeler Investment Counsel Inc
+  swift: LWICCA81XXX
+  swift8: LWICCA81
+  branch_name: Head Office
+  branch_address: 1500-400 Burrard Street Vancouver V6c 3a6
+  branch_code: XXX
+  city: Vancouver
+  country: Canada
+- name: Levesque Beaubien Geoffrion Inc.
+  swift: LBGECAM10TT
+  swift8: LBGECAM1
+  branch_name: Toronto M5h 3t9
+  branch_address: 121 King Street Toronto M5h 3t9
+  branch_code: 0TT
+  city: Toronto
+  country: Canada
+- name: Liquidnet Canada Inc.
+  swift: LICDCAT1XXX
+  swift8: LICDCAT1
+  branch_name: Head Office
+  branch_address: 161 Bay Street Toronto M5j 2s1
+  branch_code: XXX
+  city: Toronto
+  country: Canada
+- name: Loewen, Ondaatje, Mccutcheon
+  swift: LWOHCAT1XXX
+  swift8: LWOHCAT1
+  branch_name: Head Office
+  branch_address: 36a Hazelton Avenue Toronto M5r 2e2
+  branch_code: XXX
+  city: Toronto
+  country: Canada
+- name: M. Cousineau And Associes Inc.
+  swift: MCOACAM1XXX
+  swift8: MCOACAM1
+  branch_name: Head Office
+  branch_address: 3131 Est Boulevard De La Concorde Laval H7e 4w4
+  branch_code: XXX
+  city: Laval
+  country: Canada
+- name: Macdougall, Macdougall And Mactier Inc.
+  swift: MCMCCAM1XXX
+  swift8: MCMCCAM1
+  branch_name: Head Office
+  branch_address: Place Du Canada Montreal H3b 4j1
+  branch_code: XXX
+  city: Montreal
+  country: Canada
+- name: Macdougall, Meyer Inc.
+  swift: MCMYCAM1XXX
+  swift8: MCMYCAM1
+  branch_name: Head Office
+  branch_address: 2050 Mansfield Street Montreal H3a 1y9
+  branch_code: XXX
+  city: Montreal
+  country: Canada
+- name: Mackenzie Financial Corporation
+  swift: MAFCCAT1XXX
+  swift8: MAFCCAT1
+  branch_name: Head Office
+  branch_address: 150 Bloor Street West Toronto M5s3b5
+  branch_code: XXX
+  city: Toronto
+  country: Canada
+- name: Maison Placements Ca Inc.
+  swift: MAPCCAT1XXX
+  swift8: MAPCCAT1
+  branch_name: Head Office
+  branch_address: 130 Adelaide Street West Toronto M5h 3p5
+  branch_code: XXX
+  city: Toronto
+  country: Canada
+- name: Maison Placements Canada Inc.
+  swift: MAIPCAM1XXX
+  swift8: MAIPCAM1
+  branch_name: Head Office
+  branch_address: Place Du Canada Montreal H3b 2p7
+  branch_code: XXX
+  city: Montreal
+  country: Canada
+- name: Manulife Bank Of Canada
+  swift: MCBTCA2WXXX
+  swift8: MCBTCA2W
+  branch_name: Head Office
+  branch_address: 500 King Street North Waterloo N2j 4c6
+  branch_code: XXX
+  city: Waterloo
+  country: Canada
+- name: Manulife Financial Corporation
+  swift: MFCTCATTXXX
+  swift8: MFCTCATT
+  branch_name: Head Office
+  branch_address: Bloor St E 200 Toronto M4w 1e5
+  branch_code: XXX
+  city: Toronto
+  country: Canada
+- name: Manulife Financial Corporation
+  swift: MFCTCAT1XXX
+  swift8: MFCTCAT1
+  branch_name: Head Office
+  branch_address: Bloor St E 200 Toronto M4w 1e5
+  branch_code: XXX
+  city: Toronto
+  country: Canada
+- name: Marleau Lemire Inc.
+  swift: MALECAM1XXX
+  swift8: MALECAM1
+  branch_name: Head Office
+  branch_address: 1 Place Ville Marie Montreal H3b 3p2
+  branch_code: XXX
+  city: Montreal
+  country: Canada
+- name: Mcdermid St. Lawrence Chisholm Ltd.
+  swift: MALHCAT1XXX
+  swift8: MALHCAT1
+  branch_name: Head Office
+  branch_address: 151 Yonge Street Toronto M5c 3a2
+  branch_code: XXX
+  city: Toronto
+  country: Canada
+- name: Meridian Credit Union Limited
+  swift: MRCUCA21XXX
+  swift8: MRCUCA21
+  branch_name: Head Office
+  branch_address: 75 Corporate Park Drive St Catharines
+  branch_code: XXX
+  city: St
+  country: Canada
+- name: Meridian Securities International Inc.
+  swift: MESICAT1XXX
+  swift8: MESICAT1
+  branch_name: Head Office
+  branch_address: 70 York Street Toronto M5j 1s9
+  branch_code: XXX
+  city: Toronto
+  country: Canada
+- name: Merit Investment Corporation
+  swift: MINCCAT1XXX
+  swift8: MINCCAT1
+  branch_name: Head Office
+  branch_address: 55 University Avenue Toronto M5j 2p8
+  branch_code: XXX
+  city: Toronto
+  country: Canada
+- name: Merrill Lynch Canada Securities
+  swift: MLYCCAT1XXX
+  swift8: MLYCCAT1
+  branch_name: Head Office
+  branch_address: Merrill Lynch Tower Toronto M5h 3w3
+  branch_code: XXX
+  city: Toronto
+  country: Canada
+- name: Mf Global Canada Co.
+  swift: RFFUCAT1XXX
+  swift8: RFFUCAT1
+  branch_name: Head Office
+  branch_address: 123 Front Street West Toronto M5x 1e3
+  branch_code: XXX
+  city: Toronto
+  country: Canada
+- name: Montreal Exchange The / Bourse De Montreal
+  swift: XMOOCAM1ODP
+  swift8: XMOOCAM1
+  branch_name: Options and Other Derivative Products
+  branch_address: Montreal
+  branch_code: ODP
+  city: Montreal
+  country: Canada
+- name: Montreal Exchange The/bourse De Montreal
+  swift: XMOOCAM1XXX
+  swift8: XMOOCAM1
+  branch_name: Head Office
+  branch_address: 800 Victoria Square Montreal H4z 1a9
+  branch_code: XXX
+  city: Montreal
+  country: Canada
+- name: Moody's Canada Inc.
+  swift: MODDCAT1XXX
+  swift8: MODDCAT1
+  branch_name: Head Office
+  branch_address: 70 York Street, Suite 1400 Toronto M5j 1s9
+  branch_code: XXX
+  city: Toronto
+  country: Canada
+- name: Mulvihill Capital Management
+  swift: MUCGCAT1XXX
+  swift8: MUCGCAT1
+  branch_name: Head Office
+  branch_address: 121 King St. W. Toronto M5h 3t9
+  branch_code: XXX
+  city: Toronto
+  country: Canada
+- name: Mutual Trust Company, The
+  swift: MCOTCAT1XXX
+  swift8: MCOTCAT1
+  branch_name: Head Office
+  branch_address: 70 University Avenue Toronto M5j 2m4
+  branch_code: XXX
+  city: Toronto
+  country: Canada
+- name: Nbc Clearing Services Incorporated
+  swift: LBGECAM1XXX
+  swift8: LBGECAM1
+  branch_name: Head Office
+  branch_address: Sunlife Building Montreal H3b 4s9
+  branch_code: XXX
+  city: Montreal
+  country: Canada
+- name: Newfoundland Capital Corporation Ltd.
+  swift: NECCCA91XXX
+  swift8: NECCCA91
+  branch_name: Head Office
+  branch_address: 745 Windmill Road Dartmouth
+  branch_code: XXX
+  city: Dartmouth
+  country: Canada
+- name: Nike Canada Ltd.
+  swift: NIKECA21XXX
+  swift8: NIKECA21
+  branch_name: Head Office
+  branch_address: 175 Commerce Valley Drive West Thornhill
+  branch_code: XXX
+  city: Thornhill
+  country: Canada
+- name: Nikko Securities Co. Cda, Ltd
+  swift: NKSCCAT1XXX
+  swift8: NKSCCAT1
+  branch_name: Head Office
+  branch_address: Toronto Dominion Tower Toronto M5j 2m4
+  branch_code: XXX
+  city: Toronto
+  country: Canada
+- name: Nomura Canada Inc.
+  swift: NMUCCAT1XXX
+  swift8: NMUCCAT1
+  branch_name: Head Office
+  branch_address: 2 Bloor Street West Toronto M5x1000
+  branch_code: XXX
+  city: Toronto M5x1000
+  country: Canada
+- name: Norstar Securities International Inc
+  swift: NOSICAT1XXX
+  swift8: NOSICAT1
+  branch_name: Head Office
+  branch_address: 73 Richmond Street Toronto M5e 1j4
+  branch_code: XXX
+  city: Toronto
+  country: Canada
+- name: Northland Capital Partners Inc.
+  swift: NOAPCAT1XXX
+  swift8: NOAPCAT1
+  branch_name: Head Office
+  branch_address: 100 King Street West Toronto M5x 1c9
+  branch_code: XXX
+  city: Toronto
+  country: Canada
+- name: Octagon Capital Corporation
+  swift: OCCCCAT1XXX
+  swift8: OCCCCAT1
+  branch_name: Head Office
+  branch_address: Ing Tower Toronto M5h 3m7
+  branch_code: XXX
+  city: Toronto
+  country: Canada
+- name: Odlum Brown Limited
+  swift: ODLUCA810TT
+  swift8: ODLUCA81
+  branch_name: Toronto M5c 1b5
+  branch_address: 8 King Street East Toronto M5c 1b5
+  branch_code: 0TT
+  city: Toronto
+  country: Canada
+- name: Odlum Brown Limited
+  swift: ODLUCA81XXX
+  swift8: ODLUCA81
+  branch_name: Head Office
+  branch_address: Pacific Centre Vancouver V7y1a3
+  branch_code: XXX
+  city: Vancouver
+  country: Canada
+- name: Omni Capital Inc.
+  swift: OMNICAM1XXX
+  swift8: OMNICAM1
+  branch_name: Head Office
+  branch_address: 1010 Rue Sherbrooke Ouest Montreal H3a 2r7
+  branch_code: XXX
+  city: Montreal
+  country: Canada
+- name: Ontario Teachers' Pension Plan Board
+  swift: OTPBCA21XXX
+  swift8: OTPBCA21
+  branch_name: Head Office
+  branch_address: 5650 Yonge Street Toronto M2m 4h5
+  branch_code: XXX
+  city: Toronto
+  country: Canada
+- name: Paradigm Capital Inc
+  swift: PARDCAT1XXX
+  swift8: PARDCAT1
+  branch_name: Head Office
+  branch_address: 95 Wellington Street West Toronto M5j2n7
+  branch_code: XXX
+  city: Toronto
+  country: Canada
+- name: Paysystems Corporation
+  swift: PAYSCAM1XXX
+  swift8: PAYSCAM1
+  branch_name: Head Office
+  branch_address: 1200 Mcgill College Avenue Montreal H3a 3s7
+  branch_code: XXX
+  city: Montreal
+  country: Canada
+- name: Penson Financial Services Canada
+  swift: PFSICAT1XXX
+  swift8: PFSICAT1
+  branch_name: Head Office
+  branch_address: 330 Bay Street Toronto M5h 2s8
+  branch_code: XXX
+  city: Toronto
+  country: Canada
+- name: Penson Financial Services Canada
+  swift: PFSICATTXXX
+  swift8: PFSICATT
+  branch_name: Head Office
+  branch_address: 330 Bay Street Toronto M5h 2s8
+  branch_code: XXX
+  city: Toronto
+  country: Canada
+- name: Penson Financial Services Canada Inc.
+  swift: PFSICAM1XXX
+  swift8: PFSICAM1
+  branch_name: Head Office
+  branch_address: 360 St.Jacques West Montreal H2y 1p5
+  branch_code: XXX
+  city: Montreal
+  country: Canada
+- name: Pershing Securities Canada Limited
+  swift: PRSHCA91XXX
+  swift8: PRSHCA91
+  branch_name: Head Office
+  branch_address: 44 Chipman Hill Saint John E2l 2a9
+  branch_code: XXX
+  city: Saint John
+  country: Canada
+- name: Peters And Co. Limited
+  swift: PTCOCA61XXX
+  swift8: PTCOCA61
+  branch_name: Head Office
+  branch_address: First Canadian Centre Calgary T2p4nl
+  branch_code: XXX
+  city: Calgary
+  country: Canada
+- name: Pi Financial Corp
+  swift: PISICA81XXX
+  swift8: PISICA81
+  branch_name: Head Office
+  branch_address: 666 Burrard Street Vancouver V6c3n1
+  branch_code: XXX
+  city: Vancouver
+  country: Canada
+- name: Picton Mahoney Asset Management
+  swift: PIMHCA21XXX
+  swift8: PIMHCA21
+  branch_name: Head Office
+  branch_address: 33 Yonge Street Toronto M5e 1g4
+  branch_code: XXX
+  city: Toronto
+  country: Canada
+- name: Placements La Laurentienne Inc
+  swift: PLALCAM1XXX
+  swift8: PLALCAM1
+  branch_name: Head Office
+  branch_address: 2020 Rue University Montreal H3a2a5
+  branch_code: XXX
+  city: Montreal
+  country: Canada
+- name: Pollitt And Co. Inc.
+  swift: POLLCAT1XXX
+  swift8: POLLCAT1
+  branch_name: Head Office
+  branch_address: 21 Melinda Street Toronto M5l 1b9
+  branch_code: XXX
+  city: Toronto
+  country: Canada
+- name: Pope And Company
+  swift: PPECCAT1XXX
+  swift8: PPECCAT1
+  branch_name: Head Office
+  branch_address: 15 Duncan Street Toronto M5h 3p9
+  branch_code: XXX
+  city: Toronto
+  country: Canada
+- name: Prebon Yamane (canada) Limited
+  swift: PYCLCAT1XXX
+  swift8: PYCLCAT1
+  branch_name: Head Office
+  branch_address: 1 Toronto Street Toronto M5e1j8
+  branch_code: XXX
+  city: Toronto
+  country: Canada
+- name: Presima Inc.
+  swift: PESMCAM1XXX
+  swift8: PESMCAM1
+  branch_name: Head Office
+  branch_address: 1000, Place Jean-Paul Riopelle Montreal H2z 2b6
+  branch_code: XXX
+  city: Montreal
+  country: Canada
+- name: Pro-genesis Securities Inc.
+  swift: PGNSCAM1XXX
+  swift8: PGNSCAM1
+  branch_name: Head Office
+  branch_address: 1155 Rue Matcalfe Montreal H3b 2x8
+  branch_code: XXX
+  city: Montreal
+  country: Canada
+- name: Questrade Inc.
+  swift: QUERCA21XXX
+  swift8: QUERCA21
+  branch_name: Head Office
+  branch_address: North American Centre Toronto M2m 4g3
+  branch_code: XXX
+  city: Toronto
+  country: Canada
+- name: Questrade Inc.
+  swift: QUERCAT1XXX
+  swift8: QUERCAT1
+  branch_name: Head Office
+  branch_address: North American Ctr. Toronto M2m 4g3
+  branch_code: XXX
+  city: Toronto
+  country: Canada
+- name: R.j. Beatty Financial Corp.
+  swift: RJBFCAT1XXX
+  swift8: RJBFCAT1
+  branch_name: Head Office
+  branch_address: 401 Bay Street Toronto M5h 2y4
+  branch_code: XXX
+  city: Toronto
+  country: Canada
+- name: Rabobank Nederland, Canadian Branch
+  swift: RABOCATTXXX
+  swift8: RABOCATT
+  branch_name: Head Office
+  branch_address: 95 Wellington Street West Toronto M5j 2n7
+  branch_code: XXX
+  city: Toronto
+  country: Canada
+- name: Raymond James Ltd.
+  swift: RJAMCA81TOR
+  swift8: RJAMCA81
+  branch_name: Toronto
+  branch_address: Toronto
+  branch_code: TOR
+  city: Toronto
+  country: Canada
+- name: Raymond James Ltd.
+  swift: RJAMCA81XXX
+  swift8: RJAMCA81
+  branch_name: Head Office
+  branch_address: 925 West Georgia Street Vancouver V6b 5e2
+  branch_code: XXX
+  city: Vancouver
+  country: Canada
+- name: Rbc Asset Management
+  swift: RBAACAT1XXX
+  swift8: RBAACAT1
+  branch_name: Head Office
+  branch_address: Royal Trust Tower Toronto M5k 1h1
+  branch_code: XXX
+  city: Toronto
+  country: Canada
+- name: Rbc Dominion Securities Capital Markets
+  swift: RBDSCAW1XXX
+  swift8: RBDSCAW1
+  branch_name: Head Office
+  branch_address: North Tower Toronto M5j 2j5
+  branch_code: XXX
+  city: Toronto
+  country: Canada
+- name: Rbc Dominion Securities Inc.
+  swift: RBDSCAT1XXX
+  swift8: RBDSCAT1
+  branch_name: Head Office
+  branch_address: North Tower Toronto M5j 2w7
+  branch_code: XXX
+  city: Toronto
+  country: Canada
+- name: Rbc Investor Services Trust
+  swift: ROTRCAT1CRB
+  swift8: ROTRCAT1
+  branch_name: Cross Border Settlement
+  branch_address: Toronto
+  branch_code: CRB
+  city: Toronto
+  country: Canada
+- name: Rbc Investor Services Trust
+  swift: ROTRCAT1PYS
+  swift8: ROTRCAT1
+  branch_name: Physical Settlement
+  branch_address: Toronto
+  branch_code: PYS
+  city: Toronto
+  country: Canada
+- name: Rbcroyal-bank
+  swift: RBCRCAT1XXX
+  swift8: RBCRCAT1
+  branch_name: Head Office
+  branch_address: 330 Front St W Toronto
+  branch_code: XXX
+  city: Toronto
+  country: Canada
+- name: Research Capital Corporation
+  swift: RECCCAT1SET
+  swift8: RECCCAT1
+  branch_name: Foreign Settlements Department
+  branch_address: Toronto
+  branch_code: SET
+  city: Toronto
+  country: Canada
+- name: Research Capital Corporation
+  swift: RECCCAT1XXX
+  swift8: RECCCAT1
+  branch_name: Head Office
+  branch_address: Ernst and Young Tower Toronto M5k1j5
+  branch_code: XXX
+  city: Toronto
+  country: Canada
+- name: Resolution Capital Inc
+  swift: MNTBCAM1XXX
+  swift8: MNTBCAM1
+  branch_name: Head Office
+  branch_address: 34 St-Paul Ouest Montreal H2y 1y8
+  branch_code: XXX
+  city: Montreal
+  country: Canada
+- name: Richardson Greenshields Of Canada
+  swift: RIGRCAM10TT
+  swift8: RIGRCAM1
+  branch_name: Toronto M5h 1t8
+  branch_address: 130 Adelaide Street West Toronto M5h 1t8
+  branch_code: 0TT
+  city: Toronto
+  country: Canada
+- name: Richardson Greenshields Of Canada
+  swift: RIGRCAM1XXX
+  swift8: RIGRCAM1
+  branch_name: Head Office
+  branch_address: 4 Place Ville Marie Montreal H3b 2e8
+  branch_code: XXX
+  city: Montreal
+  country: Canada
+- name: Ridgewood Capital Asset Management Inc
+  swift: RCAACAT1XXX
+  swift8: RCAACAT1
+  branch_name: Head Office
+  branch_address: 55 University Avenue Toronto M5j 2h7
+  branch_code: XXX
+  city: Toronto
+  country: Canada
+- name: Robert Caldwell Capital Corp.
+  swift: RCCCCAK1XXX
+  swift8: RCCCCAK1
+  branch_name: Head Office
+  branch_address: 121 King Street West Toronto M5h 3t9
+  branch_code: XXX
+  city: Toronto
+  country: Canada
+- name: Royal Bank Action Direct Inc.
+  swift: RBITCAR1XXX
+  swift8: RBITCAR1
+  branch_name: Head Office
+  branch_address: North Tower Toronto M5j 2w7
+  branch_code: XXX
+  city: Toronto
+  country: Canada
+- name: Sakura Bank (canada
+  swift: MITKCA810TT
+  swift8: MITKCA81
+  branch_name: Toronto M5l 1b9
+  branch_address: Commerce Court West Toronto M5l 1b9
+  branch_code: 0TT
+  city: Toronto
+  country: Canada
+- name: Sakura Bank (canada
+  swift: MITKCA81XXX
+  swift8: MITKCA81
+  branch_name: Head Office
+  branch_address: Three Bentall Centre Vancouver V7x 1l4
+  branch_code: XXX
+  city: Vancouver
+  country: Canada
+- name: Salman Partners Inc.
+  swift: SAPRCA81TOR
+  swift8: SAPRCA81
+  branch_name: Toronto M5c1t4
+  branch_address: 110 Yonge St. Toronto M5c1t4
+  branch_code: TOR
+  city: Toronto
+  country: Canada
+- name: Salman Partners Inc.
+  swift: SAPRCA81XXX
+  swift8: SAPRCA81
+  branch_name: Head Office
+  branch_address: 1095 West Pender Street Vancouver V6c 3e8
+  branch_code: XXX
+  city: Vancouver
+  country: Canada
+- name: Salomon Brothers Inc.
+  swift: SBNYCAT1XXX
+  swift8: SBNYCAT1
+  branch_name: Head Office
+  branch_address: Toronto Dominion Tower Toronto M5k 1e7
+  branch_code: XXX
+  city: Toronto
+  country: Canada
+- name: Samsung Electronics Canada, Inc.
+  swift: SECTCAT1330
+  swift8: SECTCAT1
+  branch_name: Seca
+  branch_address: 55 Standish Court Mississauga L5n 6r3
+  branch_code: '330'
+  city: Mississauga
+  country: Canada
+- name: Samsung Electronics Canada, Inc.
+  swift: SECTCAT1XXX
+  swift8: SECTCAT1
+  branch_name: Head Office
+  branch_address: 55 Standish Court Mississauga L5n 6r3
+  branch_code: XXX
+  city: Mississauga
+  country: Canada
+- name: Sanders Wealth Management Group Ltd.
+  swift: SBESCA61XXX
+  swift8: SBESCA61
+  branch_name: Head Office
+  branch_address: 10303 Jasper Avenue Edmonton T5j0z9
+  branch_code: XXX
+  city: Edmonton
+  country: Canada
+- name: Sanwa Bank Canada
+  swift: SANCCAT108V
+  swift8: SANCCAT1
+  branch_name: Vancouver V6b 4nb
+  branch_address: 650 West Georgia Street Vancouver V6b 4nb
+  branch_code: '08V'
+  city: Vancouver
+  country: Canada
+- name: Sanwa Bank Canada
+  swift: SANCCAT1XXX
+  swift8: SANCCAT1
+  branch_name: No branch name
+  branch_address: No branch address
+  branch_code: XXX
+  city: Toronto
+  country: Canada
+- name: Sanwa Mccarthy Securities Ltd.
+  swift: SWNLCAT1XXX
+  swift8: SWNLCAT1
+  branch_name: Head Office
+  branch_address: 55 Yonge Street Toronto M5e 1j4
+  branch_code: XXX
+  city: Toronto
+  country: Canada
+- name: Savings And Investment Trust
+  swift: SAVICAM1XXX
+  swift8: SAVICAM1
+  branch_name: Head Office
+  branch_address: 225 St. James Street Montreal H24 1m6
+  branch_code: XXX
+  city: Montreal
+  country: Canada
+- name: Sceptre Investment Counsel Limited
+  swift: SCPTCAT1XXX
+  swift8: SCPTCAT1
+  branch_name: Head Office
+  branch_address: 26 Wellington Street East Toronto Mb24ni
+  branch_code: XXX
+  city: Toronto
+  country: Canada
+- name: Scotia Capital Inc.
+  swift: SCAMCAT1XXX
+  swift8: SCAMCAT1
+  branch_name: Head Office
+  branch_address: Scotia Plaza Toronto M5w2x6
+  branch_code: XXX
+  city: Toronto
+  country: Canada
+- name: Sectoral Asset Management
+  swift: SATMCAM1XXX
+  swift8: SATMCAM1
+  branch_name: Head Office
+  branch_address: Sherbrooke Montreal H9h-4m3
+  branch_code: XXX
+  city: Montreal
+  country: Canada
+- name: Sionna Investment Managers Inc.
+  swift: SIIMCAT1XXX
+  swift8: SIIMCAT1
+  branch_name: Head Office
+  branch_address: 8 King Street East Toronto M5c 1b5
+  branch_code: XXX
+  city: Toronto
+  country: Canada
+- name: Solium Capital Inc
+  swift: SOALCA61XXX
+  swift8: SOALCA61
+  branch_name: Head Office
+  branch_address: 200, 805 - 8th Avenue Sw Calgary T2p 1h7
+  branch_code: XXX
+  city: Calgary
+  country: Canada
+- name: Sprott Asset Management Lp
+  swift: SRAMCAT1XXX
+  swift8: SRAMCAT1
+  branch_name: Head Office
+  branch_address: Royal Bank Plaza, South Tower Toronto Ontario M5j 2j1
+  branch_code: XXX
+  city: Toronto Ontario
+  country: Canada
+- name: Sprung And Co. Investment Counsel Inc.
+  swift: SPIUCAT1XXX
+  swift8: SPIUCAT1
+  branch_name: Head Office
+  branch_address: Adelaide St. E. Toronto
+  branch_code: XXX
+  city: Toronto
+  country: Canada
+- name: Ss And C
+  swift: SANECAT1XXX
+  swift8: SANECAT1
+  branch_name: Head Office
+  branch_address: 5255 Orbitor Drivr Mississauga L4w 5m6
+  branch_code: XXX
+  city: Mississauga
+  country: Canada
+- name: Ssq, Societe D'assurance-vie Inc.
+  swift: SSQSCA21XXX
+  swift8: SSQSCA21
+  branch_name: Head Office
+  branch_address: 1245, Chemin Sainte-Foy Quebec G1s 4p2
+  branch_code: XXX
+  city: Quebec
+  country: Canada
+- name: St. Stanislaus-st. Casimir's Polish Parishes Credit Union Limited
+  swift: SCPCCAT1XXX
+  swift8: SCPCCAT1
+  branch_name: Head Office
+  branch_address: 220 Roncesvalles Avenue Toronto M6r2l7
+  branch_code: XXX
+  city: Toronto
+  country: Canada
+- name: Stanton Asset Management Inc
+  swift: STTNCAM1XXX
+  swift8: STTNCAM1
+  branch_name: Head Office
+  branch_address: 1010 Sherbrooke Street Ouest Montreal H3a 2r7
+  branch_code: XXX
+  city: Montreal
+  country: Canada
+- name: Stanton Asset Management Inc
+  swift: STTNCAM2XXX
+  swift8: STTNCAM2
+  branch_name: Aim-Poms Service
+  branch_address: 1010 Sherbrooke Street Ouest Montreal H3a 2r7
+  branch_code: XXX
+  city: Montreal
+  country: Canada
+- name: State Street Bank And Trust Co., Canada Branch
+  swift: SBOSCAA1STB
+  swift8: SBOSCAA1
+  branch_name: Canada Settlements
+  branch_address: 30 Adelaide Street East Toronto M5c 3g6
+  branch_code: STB
+  city: Toronto
+  country: Canada
+- name: State Street Bank And Trust Co., Canada Branch
+  swift: SBOSCAA1STE
+  swift8: SBOSCAA1
+  branch_name: Canada Settlements
+  branch_address: 30 Adelaide Street East Toronto M5c 3g6
+  branch_code: STE
+  city: Toronto
+  country: Canada
+- name: State Street Bank And Trust Co., Canada Branch
+  swift: SBOSCAA1STI
+  swift8: SBOSCAA1
+  branch_name: Canada Settlements
+  branch_address: 30 Adelaide Street East Toronto M5c 3g6
+  branch_code: STI
+  city: Toronto
+  country: Canada
+- name: State Street Bank And Trust Co., Canada Branch
+  swift: SBOSCAA1XXX
+  swift8: SBOSCAA1
+  branch_name: Head Office
+  branch_address: 30 Adelaide Street East Toronto M5c 3g6
+  branch_code: XXX
+  city: Toronto
+  country: Canada
+- name: Stifel Nicolaus Canada Inc
+  swift: WBASCAM1XXX
+  swift8: WBASCAM1
+  branch_name: Head Office
+  branch_address: 79 Wellington St W Toronto M5k 1b7
+  branch_code: XXX
+  city: Toronto
+  country: Canada
+- name: Stuart Investment Management Limited
+  swift: STUICAT1XXX
+  swift8: STUICAT1
+  branch_name: Head Office
+  branch_address: 95 Wellington Street W Toronto M5j2n7
+  branch_code: XXX
+  city: Toronto
+  country: Canada
+- name: Sun Life Assurance Co Of Canada
+  swift: SLADCA21XXX
+  swift8: SLADCA21
+  branch_name: Head Office
+  branch_address: 150 King Street West Toronto M5h 1j9
+  branch_code: XXX
+  city: Toronto
+  country: Canada
+- name: Sun Life Financial Inc.
+  swift: SULFCAT1XXX
+  swift8: SULFCAT1
+  branch_name: Head Office
+  branch_address: 150 King Street West Toronto M5h 1j9
+  branch_code: XXX
+  city: Toronto
+  country: Canada
+- name: Taurus Capital Markets, Ltd.
+  swift: TCAPCAT1XXX
+  swift8: TCAPCAT1
+  branch_name: Head Office
+  branch_address: Scotia Plaza, 40 King Street West Toronto M5h 3y2
+  branch_code: XXX
+  city: Toronto
+  country: Canada
+- name: Td Custody, C And Is
+  swift: CUSOCAT1XXX
+  swift8: CUSOCAT1
+  branch_name: Head Office
+  branch_address: Cu Tower Toronto M5k 1a2
+  branch_code: XXX
+  city: Toronto
+  country: Canada
+- name: Td Evergreen Investment Services Inc
+  swift: TDEICAT1XXX
+  swift8: TDEICAT1
+  branch_name: Head Office
+  branch_address: Toronto Dominion Centre Toronto M5k1a2
+  branch_code: XXX
+  city: Toronto
+  country: Canada
+- name: Td Ms Clearing
+  swift: CLERCAT1XXX
+  swift8: CLERCAT1
+  branch_name: Head Office
+  branch_address: Cu Tower Toronto M5k 1a2
+  branch_code: XXX
+  city: Toronto
+  country: Canada
+- name: Td Pd Clearing
+  swift: CLENCAT1XXX
+  swift8: CLENCAT1
+  branch_name: Head Office
+  branch_address: Cu Tower Toronto M5k 1a2
+  branch_code: XXX
+  city: Toronto
+  country: Canada
+- name: The Canadian Depository For Securities Limited
+  swift: CADSCA81XXX
+  swift8: CADSCA81
+  branch_name: Head Office
+  branch_address: 85 Richmond Street West Toronto V7y 1j8
+  branch_code: XXX
+  city: Toronto
+  country: Canada
+- name: The Royal Bank Of Scotland Plc Canada
+  swift: RBOSCATTXXX
+  swift8: RBOSCATT
+  branch_name: Head Office
+  branch_address: Wellington St 79 Toronto M5k1g8
+  branch_code: XXX
+  city: Toronto
+  country: Canada
+- name: The Royal Bank Of Scotland Plc Canada (formerly Known As Rbs Nv
+  swift: ABNACAT10MM
+  swift8: ABNACAT1
+  branch_name: Montreal
+  branch_address: Montreal
+  branch_code: 0MM
+  city: Montreal
+  country: Canada
+- name: Thomson Kernaghan And Co. Ltd.
+  swift: THOKCAT1XXX
+  swift8: THOKCAT1
+  branch_name: Head Office
+  branch_address: 365 Bay Street Toronto M5j 2v2
+  branch_code: XXX
+  city: Toronto
+  country: Canada
+- name: Timbercreek Asst Management Ltd
+  swift: TIAGCAT1XXX
+  swift8: TIAGCAT1
+  branch_name: Head Office
+  branch_address: 1000 Yonge Street, Suite 500 Toronto Ontario M4w2k2
+  branch_code: XXX
+  city: Toronto Ontario
+  country: Canada
+- name: Toron Capital Markets Inc.
+  swift: TOCRCAT1XXX
+  swift8: TOCRCAT1
+  branch_name: Head Office
+  branch_address: 590 King Street West Toronto M5v 1m3
+  branch_code: XXX
+  city: Toronto
+  country: Canada
+- name: Toronto Dominion Securities Inc
+  swift: TDSECAT1XXX
+  swift8: TDSECAT1
+  branch_name: Head Office
+  branch_address: Td Bank Tower Toronto M5k1g8
+  branch_code: XXX
+  city: Toronto
+  country: Canada
+- name: Toronto Futures Exchange
+  swift: XTFECAT1XXX
+  swift8: XTFECAT1
+  branch_name: Head Office
+  branch_address: The Exchange Tower Toronto M5x 1j2
+  branch_code: XXX
+  city: Toronto
+  country: Canada
+- name: Toronto Options Exchange
+  swift: XTOECAT1XXX
+  swift8: XTOECAT1
+  branch_name: Head Office
+  branch_address: The Exchange Tower Toronto M5x 1j2
+  branch_code: XXX
+  city: Toronto
+  country: Canada
+- name: Trilon Securities Corporation
+  swift: TRLSCAT1XXX
+  swift8: TRLSCAT1
+  branch_name: Head Office
+  branch_address: Bce Place Toronto M5j2t3
+  branch_code: XXX
+  city: Toronto
+  country: Canada
+- name: Tristone Capital Inc
+  swift: TRPLCA61XXX
+  swift8: TRPLCA61
+  branch_name: Head Office
+  branch_address: 2020, 335-8th Avenue Sw Calgary T2p 1c9
+  branch_code: XXX
+  city: Calgary
+  country: Canada
+- name: Trust General Du Canada
+  swift: TGCACAM1XXX
+  swift8: TGCACAM1
+  branch_name: Head Office
+  branch_address: 1100 University Montreal H3b 2g7
+  branch_code: XXX
+  city: Montreal
+  country: Canada
+- name: Tsx Inc.
+  swift: XTSECAT1XXX
+  swift8: XTSECAT1
+  branch_name: Head Office
+  branch_address: The Exchange Tower Toronto M5x 1j2
+  branch_code: XXX
+  city: Toronto
+  country: Canada
+- name: Tullett Prebon Canada Limited
+  swift: TPCACAT1XXX
+  swift8: TPCACAT1
+  branch_name: No branch name
+  branch_address: No branch address
+  branch_code: XXX
+  city: Toronto
+  country: Canada
+- name: Ubs Securities Canada Inc.
+  swift: BUNWCAT1XXX
+  swift8: BUNWCAT1
+  branch_name: Head Office
+  branch_address: Bce Place Toronto M5j 2s1
+  branch_code: XXX
+  city: Toronto
+  country: Canada
+- name: Union Securities Ltd.
+  swift: UNSRCA81XXX
+  swift8: UNSRCA81
+  branch_name: Head Office
+  branch_address: Pacific Centre Vancouver V7y 1h4
+  branch_code: XXX
+  city: Vancouver
+  country: Canada
+- name: Valeurs Mobilieres Desjardins Inc
+  swift: VAMDCAM1XXX
+  swift8: VAMDCAM1
+  branch_name: Head Office
+  branch_address: Eastern Tower Montreal H5b 1j2
+  branch_code: XXX
+  city: Montreal
+  country: Canada
+- name: Valeurs Mobilieres Dubeau Ltee.
+  swift: VMDUCAQ1XXX
+  swift8: VMDUCAQ1
+  branch_name: Head Office
+  branch_address: 5300 Boulevard Des Galeries Quebec G3k 2a2
+  branch_code: XXX
+  city: Quebec
+  country: Canada
+- name: Vancouver Stock Exchange
+  swift: XVSECA81XXX
+  swift8: XVSECA81
+  branch_name: Head Office
+  branch_address: 609 Granville Street Vancouver V7y 1h1
+  branch_code: XXX
+  city: Vancouver
+  country: Canada
+- name: Versus Brokerage Services
+  swift: VERBCAT1XXX
+  swift8: VERBCAT1
+  branch_name: Head Office
+  branch_address: 181 Bay Street Toronto M5j T3
+  branch_code: XXX
+  city: Toronto
+  country: Canada
+- name: Vw Credit Canada
+  swift: CRNDCA21XXX
+  swift8: CRNDCA21
+  branch_name: No branch name
+  branch_address: No branch address
+  branch_code: XXX
+  city: Saint-Laurent, Quebec
+  country: Canada
+- name: Vw Group Canada
+  swift: GRCDCA21XXX
+  swift8: GRCDCA21
+  branch_name: No branch name
+  branch_address: No branch address
+  branch_code: XXX
+  city: Ontario
+  country: Canada
+- name: W.d. Latimer Co. Limited
+  swift: LATLCAT1XXX
+  swift8: LATLCAT1
+  branch_name: Head Office
+  branch_address: Toronto Dominion Bank Tower Toronto M5k 1g8
+  branch_code: XXX
+  city: Toronto
+  country: Canada
+- name: Wealhouse Capital Management
+  swift: WECTCAT1XXX
+  swift8: WECTCAT1
+  branch_name: Head Office
+  branch_address: 401 Bay Street Toronto M5h 2y4
+  branch_code: XXX
+  city: Toronto
+  country: Canada
+- name: Wellington West Capital Inc.
+  swift: WLWECA41XXX
+  swift8: WLWECA41
+  branch_name: Head Office
+  branch_address: 201 Portage Avenue Winnipeg R3b 3k6
+  branch_code: XXX
+  city: Winnipeg
+  country: Canada
+- name: Wells Fargo Bank, N. A. Canadian Branch
+  swift: PNBPCATTXXX
+  swift8: PNBPCATT
+  branch_name: Head Office
+  branch_address: King Street, West, 40 Toronto M5h 3y2
+  branch_code: XXX
+  city: Toronto
+  country: Canada
+- name: Wolverton Securities Ltd
+  swift: WLVSCA81XXX
+  swift8: WLVSCA81
+  branch_name: Head Office
+  branch_address: Ibm Tower Vancouver V7y 1j5
+  branch_code: XXX
+  city: Vancouver
+  country: Canada
+- name: World Wide Payments On Demand
+  swift: WWPDCA81XXX
+  swift8: WWPDCA81
+  branch_name: Head Office
+  branch_address: 905 West Pender Street Vancouver V6c Il6
+  branch_code: XXX
+  city: Vancouver
+  country: Canada
+- name: Yamaichi International (can
+  swift: YINCCAM1XXX
+  swift8: YINCCAM1
+  branch_name: Head Office
+  branch_address: 600 De Maisonneuve Boulevard West Montreal H3a 3j2
+  branch_code: XXX
+  city: Montreal
+  country: Canada
+- name: Yorkton Securities Inc.
+  swift: YKSECA81XXX
+  swift8: YKSECA81
+  branch_name: Head Office
+  branch_address: Four Bentall Centre Vancouver V7x 1l4
+  branch_code: XXX
+  city: Vancouver
+  country: Canada
+- name: Yorkton Securities, Inc
+  swift: YKSECAT1XXX
+  swift8: YKSECAT1
+  branch_name: Head Office
+  branch_address: Bce Place Toronto M5x 1j8
+  branch_code: XXX
+  city: Toronto
+  country: Canada

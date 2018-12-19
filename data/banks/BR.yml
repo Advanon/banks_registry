@@ -1,0 +1,2986 @@
+---
+BR:
+- name: Banco Abc Brasil S.A.
+  swift: ABCBBRSPXXX
+  swift8: ABCBBRSP
+  branch_name: Head Office
+  branch_address: Av. Pres. Juscelino Kubitschek 04543000 Sao Paulo
+  branch_code: XXX
+  city: Sao Paulo
+  country: Brazil
+- name: Banco Alfa De Investimento S.A., Sao Paulo
+  swift: AUFABRSPXXX
+  swift8: AUFABRSP
+  branch_name: Head Office
+  branch_address: Alameda Santos 466 01418-000 Sao Paulo
+  branch_code: XXX
+  city: Sao Paulo
+  country: Brazil
+- name: Banco Barclays Sa
+  swift: BCLYBRSPXXX
+  swift8: BCLYBRSP
+  branch_name: Head Office
+  branch_address: Edificio Berrini 500 04571-100 Sao Paulo
+  branch_code: XXX
+  city: Sao Paulo
+  country: Brazil
+- name: Banco Bbm S.A.
+  swift: BBINBRRJXXX
+  swift8: BBINBRRJ
+  branch_name: Head Office
+  branch_address: Clemente Mariani 20091040 Rio De Janeiro
+  branch_code: XXX
+  city: Rio De Janeiro
+  country: Brazil
+- name: Banco Bbm S.A.
+  swift: BBINBRR10SP
+  swift8: BBINBRR1
+  branch_name: Sao Paulo
+  branch_address: Avenida Paulista 1009 Sao Paulo
+  branch_code: 0SP
+  city: Sao Paulo
+  country: Brazil
+- name: Banco Bmf De Servicos De Liq.E De Custodia S.A.
+  swift: BBMFBRSPDBL
+  swift8: BBMFBRSP
+  branch_name: Sao Paulo
+  branch_address: Sao Paulo
+  branch_code: DBL
+  city: Sao Paulo
+  country: Brazil
+- name: Banco Bmf De Servicos De Liq.E De Custodia S.A.
+  swift: BBMFBRSPXXX
+  swift8: BBMFBRSP
+  branch_name: Head Office
+  branch_address: Praca Antonio Prado, 48 01010-901 Sao Paulo
+  branch_code: XXX
+  city: Sao Paulo
+  country: Brazil
+- name: Banco Bnp Paribas Brasil S/A
+  swift: BNPABRSPB2S
+  swift8: BNPABRSP
+  branch_name: Banco Bnp Paribas Brasil S-A
+  branch_address: Brasilia
+  branch_code: B2S
+  city: Brasilia
+  country: Brazil
+- name: Banco Bnp Paribas Brasil S/A
+  swift: BNPABRSPXXX
+  swift8: BNPABRSP
+  branch_name: Sao Paolo Branch
+  branch_address: Jk Financial Center 04543-000 Sao Paulo
+  branch_code: XXX
+  city: Sao Paulo
+  country: Brazil
+- name: Banco Bradesco S.A.
+  swift: BBDEBRSPBLM
+  swift8: BBDEBRSP
+  branch_name: Belem
+  branch_address: Belem
+  branch_code: BLM
+  city: Belem
+  country: Brazil
+- name: Banco Bradesco S.A.
+  swift: BBDEBRSPBHE
+  swift8: BBDEBRSP
+  branch_name: Belo Horizonte
+  branch_address: Belo Horizonte
+  branch_code: BHE
+  city: Belo Horizonte
+  country: Brazil
+- name: Banco Bradesco S.A.
+  swift: BBDEBRSPBNU
+  swift8: BBDEBRSP
+  branch_name: Blumenau
+  branch_address: Blumenau
+  branch_code: BNU
+  city: Blumenau
+  country: Brazil
+- name: Banco Bradesco S.A.
+  swift: BBDEBRSPBSA
+  swift8: BBDEBRSP
+  branch_name: Brasilia
+  branch_address: Brasilia
+  branch_code: BSA
+  city: Brasilia
+  country: Brazil
+- name: Banco Bradesco S.A.
+  swift: BBDEBRSPCAS
+  swift8: BBDEBRSP
+  branch_name: Campinas
+  branch_address: Campinas
+  branch_code: CAS
+  city: Campinas
+  country: Brazil
+- name: Banco Bradesco S.A.
+  swift: BBDEBRSPCTA
+  swift8: BBDEBRSP
+  branch_name: Curitiba
+  branch_address: Curitiba
+  branch_code: CTA
+  city: Curitiba
+  country: Brazil
+- name: Banco Bradesco S.A.
+  swift: BBDEBRSPFLA
+  swift8: BBDEBRSP
+  branch_name: Fortaleza
+  branch_address: Fortaleza
+  branch_code: FLA
+  city: Fortaleza
+  country: Brazil
+- name: Banco Bradesco S.A.
+  swift: BBDEBRSPFAC
+  swift8: BBDEBRSP
+  branch_name: Franca
+  branch_address: Franca
+  branch_code: FAC
+  city: Franca
+  country: Brazil
+- name: Banco Bradesco S.A.
+  swift: BBDEBRSPJVE
+  swift8: BBDEBRSP
+  branch_name: Joinville
+  branch_address: Joinville
+  branch_code: JVE
+  city: Joinville
+  country: Brazil
+- name: Banco Bradesco S.A.
+  swift: BBDEBRSPMNS
+  swift8: BBDEBRSP
+  branch_name: No branch name
+  branch_address: No branch address
+  branch_code: MNS
+  city: Manaus
+  country: Brazil
+- name: Banco Bradesco S.A.
+  swift: BBDEBRSPNHO
+  swift8: BBDEBRSP
+  branch_name: Novo Hamburgo
+  branch_address: Novo Hamburgo
+  branch_code: NHO
+  city: Novo Hamburgo
+  country: Brazil
+- name: Banco Bradesco S.A.
+  swift: BBDEBRSPPAE
+  swift8: BBDEBRSP
+  branch_name: Porto Alegre
+  branch_address: Porto Alegre
+  branch_code: PAE
+  city: Porto Alegre
+  country: Brazil
+- name: Banco Bradesco S.A.
+  swift: BBDEBRSPRCE
+  swift8: BBDEBRSP
+  branch_name: Recife
+  branch_address: Recife
+  branch_code: RCE
+  city: Recife
+  country: Brazil
+- name: Banco Bradesco S.A.
+  swift: BBDEBRSPRJO
+  swift8: BBDEBRSP
+  branch_name: Rio De Janeiro
+  branch_address: Rio De Janeiro
+  branch_code: RJO
+  city: Rio De Janeiro
+  country: Brazil
+- name: Banco Bradesco S.A.
+  swift: BBDEBRSPSDR
+  swift8: BBDEBRSP
+  branch_name: Salvador
+  branch_address: Salvador
+  branch_code: SDR
+  city: Salvador
+  country: Brazil
+- name: Banco Bradesco S.A.
+  swift: BBDEBRSPSTS
+  swift8: BBDEBRSP
+  branch_name: Santos
+  branch_address: Santos
+  branch_code: STS
+  city: Santos
+  country: Brazil
+- name: Banco Bradesco S.A.
+  swift: BBDEBRSPBEX
+  swift8: BBDEBRSP
+  branch_name: Bradex
+  branch_address: Nova Central 01046-920 Sao Paulo
+  branch_code: BEX
+  city: Sao Paulo
+  country: Brazil
+- name: Banco Bradesco S.A.
+  swift: BBDEBRSPCON
+  swift8: BBDEBRSP
+  branch_name: Bank Reconciliation
+  branch_address: Sao Paulo
+  branch_code: CON
+  city: Sao Paulo
+  country: Brazil
+- name: Banco Bradesco S.A.
+  swift: BBDEBRSPCSH
+  swift8: BBDEBRSP
+  branch_name: Cash Management
+  branch_address: Sao Paulo
+  branch_code: CSH
+  city: Sao Paulo
+  country: Brazil
+- name: Banco Bradesco S.A.
+  swift: BBDEBRSPMTZ
+  swift8: BBDEBRSP
+  branch_name: Matriz
+  branch_address: Sao Paulo
+  branch_code: MTZ
+  city: Sao Paulo
+  country: Brazil
+- name: Banco Brj S.A.
+  swift: BRJBBRRJXXX
+  swift8: BRJBBRRJ
+  branch_name: Head Office
+  branch_address: Rua Goncalves Dias, No 51 20050-030 Rio De Janeiro
+  branch_code: XXX
+  city: Rio De Janeiro
+  country: Brazil
+- name: Banco Btg Pactual S.A.
+  swift: BPABBRRJXXX
+  swift8: BPABBRRJ
+  branch_name: Head Office
+  branch_address: Centro Empresarial Mourisco 20031-170 Rio De Janeiro
+  branch_code: XXX
+  city: Rio De Janeiro
+  country: Brazil
+- name: Banco Caixa Geral-Brasil S/A
+  swift: CGDIBRSPXXX
+  swift8: CGDIBRSP
+  branch_name: Head Office
+  branch_address: Edificio Sueste Plaza 04534-004 Sao Paulo
+  branch_code: XXX
+  city: Sao Paulo
+  country: Brazil
+- name: Banco Cargill S/A
+  swift: BCBZBRSPXXX
+  swift8: BCBZBRSP
+  branch_name: Head Office
+  branch_address: Edificio Cargill 04703-002 Sao Paulo
+  branch_code: XXX
+  city: Sao Paulo
+  country: Brazil
+- name: Banco Central Do Brasil
+  swift: BCBRBRDFBSA
+  swift8: BCBRBRDF
+  branch_name: Sede
+  branch_address: No branch address
+  branch_code: BSA
+  city: Brasilia
+  country: Brazil
+- name: Banco Central Do Brasil
+  swift: BCBRBRDFINT
+  swift8: BCBRBRDF
+  branch_name: Depto. De Operacoes Internacionais
+  branch_address: No branch address
+  branch_code: INT
+  city: Brasilia
+  country: Brazil
+- name: Banco Central Do Brasil
+  swift: BCBRBRDFORG
+  swift8: BCBRBRDF
+  branch_name: Depto. Da Divida Externa E De Relacoes Internacionais
+  branch_address: No branch address
+  branch_code: ORG
+  city: Brasilia
+  country: Brazil
+- name: Banco Central Do Brasil
+  swift: BCBRBRDFSNC
+  swift8: BCBRBRDF
+  branch_name: Sistema Nacional De Cambio
+  branch_address: No branch address
+  branch_code: SNC
+  city: Brasilia
+  country: Brazil
+- name: Banco Central Do Brasil
+  swift: BCBRBRDFXXX
+  swift8: BCBRBRDF
+  branch_name: No branch name
+  branch_address: No branch address
+  branch_code: XXX
+  city: Brasilia
+  country: Brazil
+- name: Banco Central Do Brasil
+  swift: BCBRBRDFRJO
+  swift8: BCBRBRDF
+  branch_name: No branch name
+  branch_address: No branch address
+  branch_code: RJO
+  city: Rio De Janeiro
+  country: Brazil
+- name: Banco Central Do Brasil
+  swift: BCBRBRDFSPO
+  swift8: BCBRBRDF
+  branch_name: No branch name
+  branch_address: No branch address
+  branch_code: SPO
+  city: Sao Paulo
+  country: Brazil
+- name: Banco Citibank Sa
+  swift: CITIBRBRXXX
+  swift8: CITIBRBR
+  branch_name: Head Office
+  branch_address: Avenida Paulista 111, 01311-920 Sao Paulo
+  branch_code: XXX
+  city: Sao Paulo
+  country: Brazil
+- name: Banco Confidence De Cambio Sa
+  swift: BKCOBRSPXXX
+  swift8: BKCOBRSP
+  branch_name: Head Office
+  branch_address: Ed. Jacari 06454-000 Sao Paulo
+  branch_code: XXX
+  city: Sao Paulo
+  country: Brazil
+- name: Banco Cooperativo Sicredi Sa - Bansicredi
+  swift: BCSIBRRSXXX
+  swift8: BCSIBRRS
+  branch_name: Head Office
+  branch_address: Rua Onze De Agosto, 56 91020-050 Porto Alegre
+  branch_code: XXX
+  city: Porto Alegre
+  country: Brazil
+- name: Banco Credit Agricole Brasil Sa
+  swift: BAGBBRSPXXX
+  swift8: BAGBBRSP
+  branch_name: Head Office
+  branch_address: Allameda Ito. 852 01421-001 Sao Paulo
+  branch_code: XXX
+  city: Sao Paulo
+  country: Brazil
+- name: Banco Da Amazonia S.A.
+  swift: AMABBRABXXX
+  swift8: AMABBRAB
+  branch_name: Head Office
+  branch_address: Avenida Presidente Vargas 800 66017-000 Belem
+  branch_code: XXX
+  city: Belem
+  country: Brazil
+- name: Banco Daycoval S/A
+  swift: DAYCBRSPXXX
+  swift8: DAYCBRSP
+  branch_name: Head Office
+  branch_address: Daycoval 01311-200 Sao Paulo Sp
+  branch_code: XXX
+  city: Sao Paulo
+  country: Brazil
+- name: Banco De Investimentos Credit Suisse (Brasil) S.A.
+  swift: BIGABRRJSPO
+  swift8: BIGABRRJ
+  branch_name: 01451-020 Sao Paulo
+  branch_address: Rua Jorge Coelho 16 01451-020 Sao Paulo
+  branch_code: SPO
+  city: Sao Paulo
+  country: Brazil
+- name: Banco De Investimentos Credit Suisse (Brasil) S.A.
+  swift: BIGABRRJXXX
+  swift8: BIGABRRJ
+  branch_name: Head Office
+  branch_address: Av. Brigadeiro Faria Lima, 3064 20031 Sao Paulo
+  branch_code: XXX
+  city: Sao Paulo
+  country: Brazil
+- name: Banco De Investimentos Credit Suisse (Brasil) S.A.
+  swift: BIGABRRJHGF
+  swift8: BIGABRRJ
+  branch_name: Hedging Griffo
+  branch_address: Sao Paulo
+  branch_code: HGF
+  city: Sao Paulo
+  country: Brazil
+- name: Banco De La Nacion Argentina
+  swift: NACNBRSPRJO
+  swift8: NACNBRSP
+  branch_name: Sucursal Rio De Janeiro
+  branch_address: Avenida Rio Branco 134 a 20040-002 Rio De Janeiro
+  branch_code: RJO
+  city: Rio De Janeiro
+  country: Brazil
+- name: Banco De La Nacion Argentina
+  swift: NACNBRSPXXX
+  swift8: NACNBRSP
+  branch_name: Sucursal San Paulo
+  branch_address: Avenida Paulista 2319 01311-300 Sao Paulo
+  branch_code: XXX
+  city: Sao Paulo
+  country: Brazil
+- name: Banco De La Provincia De Buenos Aires
+  swift: PRBABRSPXXX
+  swift8: PRBABRSP
+  branch_name: Head Office
+  branch_address: Rua Libero Badaro 425 01069-900 Sao Paulo
+  branch_code: XXX
+  city: Sao Paulo
+  country: Brazil
+- name: Banco De La Republica Oriental Del Uruguay
+  swift: BROUBRSPXXX
+  swift8: BROUBRSP
+  branch_name: Head Office
+  branch_address: Avenida Paulista, 1776 01310-921 Sao Paulo
+  branch_code: XXX
+  city: Sao Paulo
+  country: Brazil
+- name: Banco De Tokyo-Mitsubishi Ufj Brasil S/A
+  swift: BOTKBRSXXXX
+  swift8: BOTKBRSX
+  branch_name: Head Office
+  branch_address: Avenida Paulista 1274 01310-926 Sao Paulo
+  branch_code: XXX
+  city: Sao Paulo
+  country: Brazil
+- name: Banco Do Brasil S.A
+  swift: BRASBRRJBHE
+  swift8: BRASBRRJ
+  branch_name: Gecex Belo Horizonte
+  branch_address: Rua Rio De Janeiro 750 30160-041 Belo Horizonte
+  branch_code: BHE
+  city: Belo Horizonte
+  country: Brazil
+- name: Banco Do Brasil S.A
+  swift: BRASBRRJBNU
+  swift8: BRASBRRJ
+  branch_name: Gecex Blumenau
+  branch_address: Rua 15 De Novembro 1305 89010-003 Blumenau
+  branch_code: BNU
+  city: Blumenau
+  country: Brazil
+- name: Banco Do Brasil S.A
+  swift: BRASBRRJCAS
+  swift8: BRASBRRJ
+  branch_name: Gecex Campinas
+  branch_address: Rua Dr. Costa Aguiar 626 13010-061 Campinas
+  branch_code: CAS
+  city: Campinas
+  country: Brazil
+- name: Banco Do Brasil S.A
+  swift: BRASBRRJBSA
+  swift8: BRASBRRJ
+  branch_name: Gecex Brasilia
+  branch_address: Edificio Sede I 70073-900 Brasilia
+  branch_code: BSA
+  city: Brasilia
+  country: Brazil
+- name: Banco Do Brasil S.A
+  swift: BRASBRRJGFN
+  swift8: BRASBRRJ
+  branch_name: Swift for Corporates-Dicom
+  branch_address: Edificio Sede Iii 70073-901 Brasilia
+  branch_code: GFN
+  city: Brasilia
+  country: Brazil
+- name: Banco Do Brasil S.A
+  swift: BRASBRRJPPC
+  swift8: BRASBRRJ
+  branch_name: Prepaid Card Dicar
+  branch_address: Edificio Sede I 70073-900 Brasilia
+  branch_code: PPC
+  city: Brasilia
+  country: Brazil
+- name: Banco Do Brasil S.A
+  swift: BRASBRRJSUP
+  swift8: BRASBRRJ
+  branch_name: S W I F T Support Interfaceinfrastructure
+  branch_address: Complexo De Tecnologia 70770-100 Brasilia
+  branch_code: SUP
+  city: Brasilia
+  country: Brazil
+- name: Banco Do Brasil S.A
+  swift: BRASBRRJXXX
+  swift8: BRASBRRJ
+  branch_name: Head Office
+  branch_address: Ed. Sede Iii 70073-901 Brasilia
+  branch_code: XXX
+  city: Brasilia
+  country: Brazil
+- name: Banco Do Brasil S.A
+  swift: BRASBRRJCTA
+  swift8: BRASBRRJ
+  branch_name: Gecex Curitiba
+  branch_address: Praca Tiradentes 410 80020-100 Curitiba
+  branch_code: CTA
+  city: Curitiba
+  country: Brazil
+- name: Banco Do Brasil S.A
+  swift: BRASBRRJPAE
+  swift8: BRASBRRJ
+  branch_name: Gecex Porto Alegre
+  branch_address: Rua Uruguai 185 90010-901 Porto Alegre
+  branch_code: PAE
+  city: Porto Alegre
+  country: Brazil
+- name: Banco Do Brasil S.A
+  swift: BRASBRRJRCE
+  swift8: BRASBRRJ
+  branch_name: Gecex Recife
+  branch_address: Avenida Rio Branco, 240 50030-310 Recife
+  branch_code: RCE
+  city: Recife
+  country: Brazil
+- name: Banco Do Brasil S.A
+  swift: BRASBRRJRPO
+  swift8: BRASBRRJ
+  branch_name: Gecex Ribeirao Preto
+  branch_address: Av. Pres. Kennedy, 1500 - Ee 02 14096-350 Ribeirao Preto
+  branch_code: RPO
+  city: Ribeirao Preto
+  country: Brazil
+- name: Banco Do Brasil S.A
+  swift: BRASBRRJADR
+  swift8: BRASBRRJ
+  branch_name: Adr American Depositary Receipts Dimec
+  branch_address: Edificio Sedan 20031-080 Rio De Janeiro
+  branch_code: ADR
+  city: Rio De Janeiro
+  country: Brazil
+- name: Banco Do Brasil S.A
+  swift: BRASBRRJCGR
+  swift8: BRASBRRJ
+  branch_name: Account Reconciliation and Statements Coger
+  branch_address: Edificio Sedan 20031-080 Rio De Janeiro
+  branch_code: CGR
+  city: Rio De Janeiro
+  country: Brazil
+- name: Banco Do Brasil S.A
+  swift: BRASBRRJRJ1
+  swift8: BRASBRRJ
+  branch_name: Account Reconciliation and Statements
+  branch_address: Edificio Sedan 20031-080 Rio De Janeiro
+  branch_code: RJ1
+  city: Rio De Janeiro
+  country: Brazil
+- name: Banco Do Brasil S.A
+  swift: BRASBRRJRJ3
+  swift8: BRASBRRJ
+  branch_name: Internacional Cash Management and Foreign Exchange Difindimec
+  branch_address: Edificio Sedan 20031-080 Rio De Janeiro
+  branch_code: RJ3
+  city: Rio De Janeiro
+  country: Brazil
+- name: Banco Do Brasil S.A
+  swift: BRASBRRJRJO
+  swift8: BRASBRRJ
+  branch_name: Gecex Rio De Janeiro
+  branch_address: Edificio Sedan 20031-080 Rio De Janeiro
+  branch_code: RJO
+  city: Rio De Janeiro
+  country: Brazil
+- name: Banco Do Brasil S.A
+  swift: BRASBRRJSDR
+  swift8: BRASBRRJ
+  branch_name: Gecex Salvador
+  branch_address: Avenida Estados Unidos 561 40016-900 Salvador
+  branch_code: SDR
+  city: Salvador
+  country: Brazil
+- name: Banco Do Brasil S.A
+  swift: BRASBRRJIBR
+  swift8: BRASBRRJ
+  branch_name: Financial Institutions Dirin
+  branch_address: Avenida Paulista 2163 01311-933 Sao Paulo
+  branch_code: IBR
+  city: Sao Paulo
+  country: Brazil
+- name: Banco Do Brasil S.A
+  swift: BRASBRRJOCO
+  swift8: BRASBRRJ
+  branch_name: Gecex Sao Paulo Iii
+  branch_address: Rua Dr. Altino Arantes, 1297 04042-035 Sao Paulo
+  branch_code: OCO
+  city: Sao Paulo
+  country: Brazil
+- name: Banco Do Estado Do Rio Grande Do Sul S/A
+  swift: BRGSBRRSPAE
+  swift8: BRGSBRRS
+  branch_name: Head Office
+  branch_address: Porto Alegre
+  branch_code: PAE
+  city: Porto Alegre
+  country: Brazil
+- name: Banco Do Estado Do Rio Grande Do Sul S/A
+  swift: BRGSBRRSXXX
+  swift8: BRGSBRRS
+  branch_name: Head Office
+  branch_address: Banrisul Building 90010-040 Porto Alegre
+  branch_code: XXX
+  city: Porto Alegre
+  country: Brazil
+- name: Banco Do Nordeste Do Brasil S/A
+  swift: BNBRBRCFBHE
+  swift8: BNBRBRCF
+  branch_name: 30140 Belo Horizonte
+  branch_address: Rua Dos Inconfidentes 1051 30140 Belo Horizonte
+  branch_code: BHE
+  city: Belo Horizonte
+  country: Brazil
+- name: Banco Do Nordeste Do Brasil S/A
+  swift: BNBRBRCFFLA
+  swift8: BNBRBRCF
+  branch_name: 60025 Fortaleza
+  branch_address: Rua Floriano Peixoto 941 60025 Fortaleza
+  branch_code: FLA
+  city: Fortaleza
+  country: Brazil
+- name: Banco Do Nordeste Do Brasil S/A
+  swift: BNBRBRCFXXX
+  swift8: BNBRBRCF
+  branch_name: Head Office
+  branch_address: Centro Adm Pres Getulio Vargas 60715 Fortaleza
+  branch_code: XXX
+  city: Fortaleza
+  country: Brazil
+- name: Banco Do Nordeste Do Brasil S/A
+  swift: BNBRBRCFMCO
+  swift8: BNBRBRCF
+  branch_name: 57020 Maceio
+  branch_address: Rua Dr. Melo Moraes 165 57020 Maceio
+  branch_code: MCO
+  city: Maceio
+  country: Brazil
+- name: Banco Do Nordeste Do Brasil S/A
+  swift: BNBRBRCFNTL
+  swift8: BNBRBRCF
+  branch_name: 59025 Natal
+  branch_address: Rua Vigario Bartolomeu 630 59025 Natal
+  branch_code: NTL
+  city: Natal
+  country: Brazil
+- name: Banco Do Nordeste Do Brasil S/A
+  swift: BNBRBRCFRCE
+  swift8: BNBRBRCF
+  branch_name: 50060 Recife
+  branch_address: Rua Conde Da Boa Vista 800 50060 Recife
+  branch_code: RCE
+  city: Recife
+  country: Brazil
+- name: Banco Do Nordeste Do Brasil S/A
+  swift: BNBRBRCFRJO
+  swift8: BNBRBRCF
+  branch_name: 20041 Rio De Janeiro
+  branch_address: Rua Do Rosario 103 20041 Rio De Janeiro
+  branch_code: RJO
+  city: Rio De Janeiro
+  country: Brazil
+- name: Banco Do Nordeste Do Brasil S/A
+  swift: BNBRBRCFSDR
+  swift8: BNBRBRCF
+  branch_name: 40010 Salvador
+  branch_address: Av. Estados Unidos 346 40010 Salvador
+  branch_code: SDR
+  city: Salvador
+  country: Brazil
+- name: Banco Do Nordeste Do Brasil S/A
+  swift: BNBRBRCFSPO
+  swift8: BNBRBRCF
+  branch_name: 01310 Sao Paulo
+  branch_address: Av. Paulista 460 01310 Sao Paulo
+  branch_code: SPO
+  city: Sao Paulo
+  country: Brazil
+- name: Banco Fibra S.A.
+  swift: FIBIBRSPXXX
+  swift8: FIBIBRSP
+  branch_name: Head Office
+  branch_address: Antonio Alves Ferreira Guedes 04538-905 Sao Paulo
+  branch_code: XXX
+  city: Sao Paulo
+  country: Brazil
+- name: Banco Industrial Do Brasil S/A
+  swift: BIBRBRSPXXX
+  swift8: BIBRBRSP
+  branch_name: Head Office
+  branch_address: Av.Juscelino Kubitschek, 1703 04543-000 Sao Paulo
+  branch_code: XXX
+  city: Sao Paulo
+  country: Brazil
+- name: Banco Industrial E Comercial S.A.
+  swift: BICBBRSPXXX
+  swift8: BICBBRSP
+  branch_name: Head Office
+  branch_address: Av. Brigadeiro Faria Lima, 4440 04538-132 Sao Paulo
+  branch_code: XXX
+  city: Sao Paulo
+  country: Brazil
+- name: Banco Indusval S/A
+  swift: IDVLBRSPXXX
+  swift8: IDVLBRSP
+  branch_name: Head Office
+  branch_address: Edificio Condominio Bemge 01014-000 Sao Paulo
+  branch_code: XXX
+  city: Sao Paulo
+  country: Brazil
+- name: Banco Itau Bba S.A.
+  swift: CBBABRSPBHE
+  swift8: CBBABRSP
+  branch_name: Belo Horizonte Branch
+  branch_address: Belo Horizonte
+  branch_code: BHE
+  city: Belo Horizonte
+  country: Brazil
+- name: Banco Itau Bba S.A.
+  swift: CBBABRSPCAS
+  swift8: CBBABRSP
+  branch_name: Campinas Branch
+  branch_address: Campinas
+  branch_code: CAS
+  city: Campinas
+  country: Brazil
+- name: Banco Itau Bba S.A.
+  swift: CBBABRSPPAE
+  swift8: CBBABRSP
+  branch_name: Porto Alegre Branch
+  branch_address: Porto Alegre
+  branch_code: PAE
+  city: Porto Alegre
+  country: Brazil
+- name: Banco Itau Bba S.A.
+  swift: CBBABRSPRJO
+  swift8: CBBABRSP
+  branch_name: Rio De Janeiro Branch
+  branch_address: Rio De Janeiro
+  branch_code: RJO
+  city: Rio De Janeiro
+  country: Brazil
+- name: Banco Itau Bba S.A.
+  swift: CBBABRSPXXX
+  swift8: CBBABRSP
+  branch_name: Head Office
+  branch_address: Avenida Brigadeiro Faria Lima, 3400 04538-132 Sao Paulo
+  branch_code: XXX
+  city: Sao Paulo
+  country: Brazil
+- name: Banco Jbs S.A.
+  swift: BJBSBRSPXXX
+  swift8: BJBSBRSP
+  branch_name: Head Office
+  branch_address: Rua Gal. Furtado Do Nascimento 66 05465-070 Sao Paulo
+  branch_code: XXX
+  city: Sao Paulo
+  country: Brazil
+- name: Banco Jp Morgan S.A.
+  swift: CHASBRSPDCC
+  swift8: CHASBRSP
+  branch_name: Direct Custody Clearing
+  branch_address: Sao Paulo
+  branch_code: DCC
+  city: Sao Paulo
+  country: Brazil
+- name: Banco Jp Morgan S.A.
+  swift: CHASBRSPGCC
+  swift8: CHASBRSP
+  branch_name: Global Core Capabilities
+  branch_address: Sao Paulo
+  branch_code: GCC
+  city: Sao Paulo
+  country: Brazil
+- name: Banco Jp Morgan S.A.
+  swift: CHASBRSPKEY
+  swift8: CHASBRSP
+  branch_name: Test Key and Bke Administration
+  branch_address: Sao Paulo
+  branch_code: KEY
+  city: Sao Paulo
+  country: Brazil
+- name: Banco Jp Morgan S.A.
+  swift: CHASBRSPTSM
+  swift8: CHASBRSP
+  branch_name: Jpmorgan Ts Management
+  branch_address: Sao Paulo
+  branch_code: TSM
+  city: Sao Paulo
+  country: Brazil
+- name: Banco Jp Morgan S.A.
+  swift: CHASBRSPXXX
+  swift8: CHASBRSP
+  branch_name: Head Office
+  branch_address: Av.Brig.Faria Lima 3729 04538-905 Sao Paulo Sp
+  branch_code: XXX
+  city: Sao Paulo
+  country: Brazil
+- name: Banco Kdb Do Brasil S.A.
+  swift: KODBBRSPXXX
+  swift8: KODBBRSP
+  branch_name: Head Office
+  branch_address: Faria Lima Financial Center 04538-132 Sao Paulo
+  branch_code: XXX
+  city: Sao Paulo
+  country: Brazil
+- name: Banco Keb Do Brasil S.A.
+  swift: KOEXBRSPXXX
+  swift8: KOEXBRSP
+  branch_name: Head Office
+  branch_address: Market Place - Tower Ii 04583-110 Sao Paulo Sp
+  branch_code: XXX
+  city: Sao Paulo
+  country: Brazil
+- name: Banco Mercantil Do Brasil S.A
+  swift: BMBRBRRBXXX
+  swift8: BMBRBRRB
+  branch_name: Head Office
+  branch_address: Ed. Vicente De Araujo 30160912 Belo Horizonte
+  branch_code: XXX
+  city: Belo Horizonte
+  country: Brazil
+- name: Banco Merrill Lynch De Investimentos S.A.
+  swift: MLBOBRSPXXX
+  swift8: MLBOBRSP
+  branch_name: Head Office
+  branch_address: Avenida Brigadeiro Faria Lima, 3400 04538-132 Sao Paulo
+  branch_code: XXX
+  city: Sao Paulo
+  country: Brazil
+- name: Banco Merrill Lynch De Investimentos S.A.
+  swift: MLBOBRSXTRA
+  swift8: MLBOBRSX
+  branch_name: Trades
+  branch_address: Sao Paulo
+  branch_code: TRA
+  city: Sao Paulo
+  country: Brazil
+- name: Banco Merrill Lynch De Investimentos S.A.
+  swift: MLBOBRSXXXX
+  swift8: MLBOBRSX
+  branch_name: Head Office
+  branch_address: Avenida Brigadeiro Faria Lima 3400 04538 Sao Paulo
+  branch_code: XXX
+  city: Sao Paulo
+  country: Brazil
+- name: Banco Modal S.A.
+  swift: MODABRRJXXX
+  swift8: MODABRRJ
+  branch_name: Head Office
+  branch_address: Torre Pao De Acucar 22250-040 Rio De Janeiro
+  branch_code: XXX
+  city: Rio De Janeiro
+  country: Brazil
+- name: Banco Morgan Stanley Dean Witter S.A.
+  swift: MSDWBRSPTSY
+  swift8: MSDWBRSP
+  branch_name: Sao Paulo
+  branch_address: Sao Paulo
+  branch_code: TSY
+  city: Sao Paulo
+  country: Brazil
+- name: Banco Morgan Stanley Dean Witter S.A.
+  swift: MSDWBRSPXXX
+  swift8: MSDWBRSP
+  branch_name: Head Office
+  branch_address: Edificio Cbs 04543-000 Sao Paulo
+  branch_code: XXX
+  city: Sao Paulo
+  country: Brazil
+- name: Banco Nacional De Desenvolvimento Economico E Social - Bndes
+  swift: NACDBRRJXXX
+  swift8: NACDBRRJ
+  branch_name: Head Office
+  branch_address: Avenida Republica Do Chile, 100 Rio De Janeiro
+  branch_code: XXX
+  city: Rio De Janeiro
+  country: Brazil
+- name: Banco Panamericano S.A.
+  swift: BPNMBRSPXXX
+  swift8: BPNMBRSP
+  branch_name: Head Office
+  branch_address: Edificio Oscar Americana 01310300 Sao Paulo
+  branch_code: XXX
+  city: Sao Paulo
+  country: Brazil
+- name: Banco Paulista S.A.
+  swift: PAULBRSPXXX
+  swift8: PAULBRSP
+  branch_name: Head Office
+  branch_address: Cond Edif Faria Lima 01452-002 Sao Paulo
+  branch_code: XXX
+  city: Sao Paulo
+  country: Brazil
+- name: Banco Pine S.A
+  swift: PBBRBRSPXXX
+  swift8: PBBRBRSP
+  branch_name: Head Office
+  branch_address: Alameda Santos 1940 01418-200 Sao Paulo
+  branch_code: XXX
+  city: Sao Paulo
+  country: Brazil
+- name: Banco Rabobank International Brasil S/A
+  swift: RABOBRSPXXX
+  swift8: RABOBRSP
+  branch_name: Head Office
+  branch_address: Avenida Das Nacoes Unidas, 12995 04578-000 Sao Paulo
+  branch_code: XXX
+  city: Sao Paulo
+  country: Brazil
+- name: Banco Rendimento S/A
+  swift: RENDBRSPXXX
+  swift8: RENDBRSP
+  branch_name: Head Office
+  branch_address: Avenida Brigadeiro Faria Lima,2092 01451-905 Sao Paulo
+  branch_code: XXX
+  city: Sao Paulo
+  country: Brazil
+- name: Banco Safra S.A.
+  swift: SAFRBRSPRJO
+  swift8: SAFRBRSP
+  branch_name: Rio De Janeiro
+  branch_address: Rio De Janeiro
+  branch_code: RJO
+  city: Rio De Janeiro
+  country: Brazil
+- name: Banco Safra S.A.
+  swift: SAFRBRSPSPO
+  swift8: SAFRBRSP
+  branch_name: Sao Paulo
+  branch_address: Sao Paulo
+  branch_code: SPO
+  city: Sao Paulo
+  country: Brazil
+- name: Banco Safra S.A.
+  swift: SAFRBRSPXXX
+  swift8: SAFRBRSP
+  branch_name: Head Office
+  branch_address: Avenida Paulista 2100 01310-930 Sao Paulo
+  branch_code: XXX
+  city: Sao Paulo
+  country: Brazil
+- name: Banco Santander (Brasil) S.A.
+  swift: BSCHBRSPGEB
+  swift8: BSCHBRSP
+  branch_name: Sao Paulo
+  branch_address: Sao Paulo
+  branch_code: GEB
+  city: Sao Paulo
+  country: Brazil
+- name: Banco Santander (Brasil) S.A.
+  swift: BSCHBRSPSEC
+  swift8: BSCHBRSP
+  branch_name: Securities Department
+  branch_address: Rua Funchal 160 04551-903 Sao Paulo
+  branch_code: SEC
+  city: Sao Paulo
+  country: Brazil
+- name: Banco Santander (Brasil) S.A.
+  swift: BSCHBRSPSPO
+  swift8: BSCHBRSP
+  branch_name: Sao Paulo Branch
+  branch_address: Sao Paulo
+  branch_code: SPO
+  city: Sao Paulo
+  country: Brazil
+- name: Banco Santander (Brasil) S.A.
+  swift: BSCHBRSPXXX
+  swift8: BSCHBRSP
+  branch_name: Head Office
+  branch_address: Rua Brig. Luiz Antonio 1827 01317-002 Sao Paulo
+  branch_code: XXX
+  city: Sao Paulo
+  country: Brazil
+- name: Banco Santander (Brasil) S.A.
+  swift: BSCHBRSPAST
+  swift8: BSCHBRSP
+  branch_name: Asset Management
+  branch_address: No branch address
+  branch_code: AST
+  city: Sao Paulo
+  country: Brazil
+- name: Banco Santander (Brasil) S.A.
+  swift: BSCHBRSPBKR
+  swift8: BSCHBRSP
+  branch_name: Sao Paulo
+  branch_address: Sao Paulo
+  branch_code: BKR
+  city: Sao Paulo
+  country: Brazil
+- name: Banco Schahin S/A
+  swift: SCHABRSPXXX
+  swift8: SCHABRSP
+  branch_name: Head Office
+  branch_address: R. Vergueiro, 2009 04101-000 Sao Paulo
+  branch_code: XXX
+  city: Sao Paulo
+  country: Brazil
+- name: Banco Societe Generale Brasil S/A
+  swift: BSOGBRSPXXX
+  swift8: BSOGBRSP
+  branch_name: Head Office
+  branch_address: Av. Paulista 2300 01310-300 Sao Paulo
+  branch_code: XXX
+  city: Sao Paulo
+  country: Brazil
+- name: Banco Sofisa S.A.
+  swift: BSBSBRSPXXX
+  swift8: BSBSBRSP
+  branch_name: Head Office
+  branch_address: Alameda Santos 1496 01418-100 Sao Paulo
+  branch_code: XXX
+  city: Sao Paulo
+  country: Brazil
+- name: Banco Sumitomo Mitsui Brasileiro S.A.
+  swift: SUBRBRSPXXX
+  swift8: SUBRBRSP
+  branch_name: Head Office
+  branch_address: Paraiso 01311-902 Sao Paulo
+  branch_code: XXX
+  city: Sao Paulo
+  country: Brazil
+- name: Banco Sumitomo Mitsui Brasileiro S.A.
+  swift: SUBRBRS10DF
+  swift8: SUBRBRS1
+  branch_name: Brasilia
+  branch_address: Brasilia
+  branch_code: 0DF
+  city: Brasilia
+  country: Brazil
+- name: Banco Sumitomo Mitsui Brasileiro S.A.
+  swift: SUBRBRS10RB
+  swift8: SUBRBRS1
+  branch_name: Belo Horizonte
+  branch_address: Belo Horizonte
+  branch_code: 0RB
+  city: Belo Horizonte
+  country: Brazil
+- name: Banco Sumitomo Mitsui Brasileiro S.A.
+  swift: SUBRBRS10RJ
+  swift8: SUBRBRS1
+  branch_name: Rio De Janeiro
+  branch_address: Rio De Janeiro
+  branch_code: 0RJ
+  city: Rio De Janeiro
+  country: Brazil
+- name: Banco Votorantim S.A.
+  swift: BAVOBRSPCST
+  swift8: BAVOBRSP
+  branch_name: Sao Paulo
+  branch_address: Sao Paulo
+  branch_code: CST
+  city: Sao Paulo
+  country: Brazil
+- name: Banco Votorantim S.A.
+  swift: BAVOBRSPXXX
+  swift8: BAVOBRSP
+  branch_name: Head Office
+  branch_address: Rochavera 04794-000 Sao Paulo
+  branch_code: XXX
+  city: Sao Paulo
+  country: Brazil
+- name: Banco Westlb Do Brasil S.A.
+  swift: WELABRSPXXX
+  swift8: WELABRSP
+  branch_name: Head Office
+  branch_address: Av. Eng. Luiz Carlos Berrini 716 04571-000 Sao Paulo
+  branch_code: XXX
+  city: Sao Paulo
+  country: Brazil
+- name: Banestes S.A. - Banco Do Estado Do Espirito Santo
+  swift: BEESBRRJXXX
+  swift8: BEESBRRJ
+  branch_name: Head Office
+  branch_address: Avenida Princesa Isabel 574 29019-900 Vitoria
+  branch_code: XXX
+  city: Vitoria
+  country: Brazil
+- name: Banif-Banco Internacional Do Funchal (Brasil), Sa
+  swift: BNIFBRRJXXX
+  swift8: BNIFBRRJ
+  branch_name: Head Office
+  branch_address: Ed. Juscelino Kubithscheck 04552-080 Sao Paulo
+  branch_code: XXX
+  city: Sao Paulo
+  country: Brazil
+- name: Bank Of China Brasil S.A.
+  swift: BKCHBRSPXXX
+  swift8: BKCHBRSP
+  branch_name: Head Office
+  branch_address: Santa Catarina Building 01311-200 Sao Paulo
+  branch_code: XXX
+  city: Sao Paulo
+  country: Brazil
+- name: Bdmg-Banco De Desenvolvimento De Minas Gerais
+  swift: BDMGBRRBXXX
+  swift8: BDMGBRRB
+  branch_name: Head Office
+  branch_address: Rua Da Bahia 1600 30160-90 Belo Horizonte
+  branch_code: XXX
+  city: Belo Horizonte
+  country: Brazil
+- name: Bes Investimento Do Brasil S/A-Banco De Investimento
+  swift: BESBBRSPBES
+  swift8: BESBBRSP
+  branch_name: Bes Securities
+  branch_address: Av. Brigadeiro Faria Lumi, 3729 0453-8905 Sao Paulo
+  branch_code: BES
+  city: Sao Paulo
+  country: Brazil
+- name: Bes Investimento Do Brasil S/A-Banco De Investimento
+  swift: BESBBRSPXXX
+  swift8: BESBBRSP
+  branch_name: Head Office
+  branch_address: Av. Brigadeiro Faria Lima, No. 3729 04538905 Sao Paulo
+  branch_code: XXX
+  city: Sao Paulo
+  country: Brazil
+- name: Bmf - Camara De Derivativos
+  swift: XBMFBRBRCRD
+  swift8: XBMFBRBR
+  branch_name: Diretoria De Liquidacao E Custodia
+  branch_address: Sao Paulo
+  branch_code: CRD
+  city: Sao Paulo
+  country: Brazil
+- name: Bmf - Camara De Derivativos
+  swift: XBMFBRBRXXX
+  swift8: XBMFBRBR
+  branch_name: Head Office
+  branch_address: Praca Antonio Prado, 48 01010-901 Sao Paulo
+  branch_code: XXX
+  city: Sao Paulo
+  country: Brazil
+- name: Bny Mellon Servicos Financeiros Dtvm Sa
+  swift: BNYMBRRJXXX
+  swift8: BNYMBRRJ
+  branch_name: Head Office
+  branch_address: Av. Presidente Wilson 231 20030-905 Rio De Janeiro
+  branch_code: XXX
+  city: Rio De Janeiro
+  country: Brazil
+- name: Bolsa De Mercadorias E Futuros - Bm E F
+  swift: XBMFBRSPCRD
+  swift8: XBMFBRSP
+  branch_name: Diretoria De Liquidacao E Custodia
+  branch_address: Sao Paulo
+  branch_code: CRD
+  city: Sao Paulo
+  country: Brazil
+- name: Bolsa De Mercadorias E Futuros - Bm E F
+  swift: XBMFBRSPDBL
+  swift8: XBMFBRSP
+  branch_name: Departamento De Custodia
+  branch_address: Sao Paulo
+  branch_code: DBL
+  city: Sao Paulo
+  country: Brazil
+- name: Bolsa De Mercadorias E Futuros - Bm E F
+  swift: XBMFBRSPXXX
+  swift8: XBMFBRSP
+  branch_name: Head Office
+  branch_address: Praca Antonio Prado 48 01010-901 Sao Paulo
+  branch_code: XXX
+  city: Sao Paulo
+  country: Brazil
+- name: Bpn Brasil Banco Multiplo S.A.
+  swift: BPBMBRSPXXX
+  swift8: BPBMBRSP
+  branch_name: Head Office
+  branch_address: Premium 05423-010 Sao Paulo
+  branch_code: XXX
+  city: Sao Paulo
+  country: Brazil
+- name: Bram-Bradesco Asset Management
+  swift: BBDMBRSPXXX
+  swift8: BBDMBRSP
+  branch_name: Head Office
+  branch_address: Itapeva 01310917 Sao Paulo
+  branch_code: XXX
+  city: Sao Paulo
+  country: Brazil
+- name: Brb-Banco De Brasilia S.A.
+  swift: BRBSBRDFXXX
+  swift8: BRBSBRDF
+  branch_name: Head Office
+  branch_address: Bl.E Ed. Brasilia, Gecam 70072-900 Brasilia
+  branch_code: XXX
+  city: Brasilia
+  country: Brazil
+- name: Brb-Banco De Brasilia S.A.
+  swift: BRBSBRD1SPA
+  swift8: BRBSBRD1
+  branch_name: 01000 Sao Paulo
+  branch_address: Rua Jose Bonifacio 192 01000 Sao Paulo
+  branch_code: SPA
+  city: Sao Paulo
+  country: Brazil
+- name: Caixa Economica Federal
+  swift: CEFXBRSPXXX
+  swift8: CEFXBRSP
+  branch_name: Head Office
+  branch_address: Ed. Sao Luis Gonzaga 01310-300 Sao Paulo
+  branch_code: XXX
+  city: Sao Paulo
+  country: Brazil
+- name: Camara Interbancaria De Pagamentos-Cip
+  swift: CCIPBRSPXXX
+  swift8: CCIPBRSP
+  branch_name: Head Office
+  branch_address: Torre Norte 01452-002 Sao Paulo
+  branch_code: XXX
+  city: Sao Paulo
+  country: Brazil
+- name: Citibank N.A
+  swift: CITIBRSPRJO
+  swift8: CITIBRSP
+  branch_name: Rio De Janeiro
+  branch_address: Rio De Janeiro
+  branch_code: RJO
+  city: Rio De Janeiro
+  country: Brazil
+- name: Citibank N.A
+  swift: CITIBRSPHOF
+  swift8: CITIBRSP
+  branch_name: Head Office
+  branch_address: Sao Paulo
+  branch_code: HOF
+  city: Sao Paulo
+  country: Brazil
+- name: Citibank N.A
+  swift: CITIBRSPSEC
+  swift8: CITIBRSP
+  branch_name: International Security
+  branch_address: Sao Paulo
+  branch_code: SEC
+  city: Sao Paulo
+  country: Brazil
+- name: Citibank N.A
+  swift: CITIBRSPXXX
+  swift8: CITIBRSP
+  branch_name: Head Office
+  branch_address: Avenida Paulista 1111 01311 Sao Paulo
+  branch_code: XXX
+  city: Sao Paulo
+  country: Brazil
+- name: Citibank N.A
+  swift: CITIBRSXXXX
+  swift8: CITIBRSX
+  branch_name: Head Office
+  branch_address: Avenida Paulista 1111 01311-920 Sao Paulo
+  branch_code: XXX
+  city: Sao Paulo
+  country: Brazil
+- name: Companhia Brasileira De Liquidacao E Custodia
+  swift: CLCBBRRJXXX
+  swift8: CLCBBRRJ
+  branch_name: Head Office
+  branch_address: Rua Xv De Novembro 275 01013-001 Sao Paulo
+  branch_code: XXX
+  city: Sao Paulo
+  country: Brazil
+- name: Deutsche Bank S.A. - Banco Alemao
+  swift: DEUTBRSPRJO
+  swift8: DEUTBRSP
+  branch_name: 20090-000 Rio De Janeiro
+  branch_address: Avenida Ria Branco 1 20090-000 Rio De Janeiro
+  branch_code: RJO
+  city: Rio De Janeiro
+  country: Brazil
+- name: Deutsche Bank S.A. - Banco Alemao
+  swift: DEUTBRSPSPO
+  swift8: DEUTBRSP
+  branch_name: 04717 Sao Paulo
+  branch_address: Deutsche Bank Building 04717 Sao Paulo
+  branch_code: SPO
+  city: Sao Paulo
+  country: Brazil
+- name: Deutsche Bank S.A. - Banco Alemao
+  swift: DEUTBRSPXXX
+  swift8: DEUTBRSP
+  branch_name: Head Office
+  branch_address: Rue Alexandre Dumas 2200 04717-910 Sao Paulo
+  branch_code: XXX
+  city: Sao Paulo
+  country: Brazil
+- name: Didier Levy Banco De Cambio S/A
+  swift: BEXSBRSPXXX
+  swift8: BEXSBRSP
+  branch_name: Head Office
+  branch_address: Rua Gomes De Carvalho 1629 04547-006 Sao Paulo
+  branch_code: XXX
+  city: Sao Paulo
+  country: Brazil
+- name: Estratagia Investimentos S/A Corretora De Valores
+  swift: ESTRBRRJXXX
+  swift8: ESTRBRRJ
+  branch_name: Head Office
+  branch_address: Praca Xv De Novembro, 34 20.010-010 Rio De Janeiro
+  branch_code: XXX
+  city: Rio De Janeiro
+  country: Brazil
+- name: Goldman Sachs Do Brasil Banco Multiplo S.A.
+  swift: GOLDBRSPXXX
+  swift8: GOLDBRSP
+  branch_name: Head Office
+  branch_address: Avenida Presidente Juscelino 01451-000 Sao Paulo
+  branch_code: XXX
+  city: Sao Paulo
+  country: Brazil
+- name: Goldman Sachs Do Brasil Corretora De Valores Mobiliarios Ltda
+  swift: GSBCBRSPXXX
+  swift8: GSBCBRSP
+  branch_name: Head Office
+  branch_address: 510 Jk Financial Center 04543-000 Sao Paulo
+  branch_code: XXX
+  city: Sao Paulo
+  country: Brazil
+- name: Hsbc Bank Brasil S.A. - Banco Multiplo
+  swift: BCBBBRPRBLM
+  swift8: BCBBBRPR
+  branch_name: 66000 Belem
+  branch_address: Centro Building 66000 Belem
+  branch_code: BLM
+  city: Belem
+  country: Brazil
+- name: Hsbc Bank Brasil S.A. - Banco Multiplo
+  swift: BCBBBRPRBHE
+  swift8: BCBBBRPR
+  branch_name: 30190 Belo Horizonte
+  branch_address: Centro Building 30190 Belo Horizonte
+  branch_code: BHE
+  city: Belo Horizonte
+  country: Brazil
+- name: Hsbc Bank Brasil S.A. - Banco Multiplo
+  swift: BCBBBRPRBNU
+  swift8: BCBBBRPR
+  branch_name: 89010 Blumenau
+  branch_address: Centro Building 89010 Blumenau
+  branch_code: BNU
+  city: Blumenau
+  country: Brazil
+- name: Hsbc Bank Brasil S.A. - Banco Multiplo
+  swift: BCBBBRPRCAS
+  swift8: BCBBBRPR
+  branch_name: 13012-100 Campinas
+  branch_address: Av. Francisco Glicerio, 860 13012-100 Campinas
+  branch_code: CAS
+  city: Campinas
+  country: Brazil
+- name: Hsbc Bank Brasil S.A. - Banco Multiplo
+  swift: BCBBBRPRCTA
+  swift8: BCBBBRPR
+  branch_name: 80010 Curitiba
+  branch_address: Centro Building 80010 Curitiba
+  branch_code: CTA
+  city: Curitiba
+  country: Brazil
+- name: Hsbc Bank Brasil S.A. - Banco Multiplo
+  swift: BCBBBRPRTSY
+  swift8: BCBBBRPR
+  branch_name: Treasury Operations
+  branch_address: Centro Adm Vila Hauer 81630010 Curitiba
+  branch_code: TSY
+  city: Curitiba
+  country: Brazil
+- name: Hsbc Bank Brasil S.A. - Banco Multiplo
+  swift: BCBBBRPRFLA
+  swift8: BCBBBRPR
+  branch_name: 60055 Fortaleza
+  branch_address: Centro Building 60055 Fortaleza
+  branch_code: FLA
+  city: Fortaleza
+  country: Brazil
+- name: Hsbc Bank Brasil S.A. - Banco Multiplo
+  swift: BCBBBRPRJVE
+  swift8: BCBBBRPR
+  branch_name: 89200 Joinville
+  branch_address: Centro Building 89200 Joinville
+  branch_code: JVE
+  city: Joinville
+  country: Brazil
+- name: Hsbc Bank Brasil S.A. - Banco Multiplo
+  swift: BCBBBRPRMNS
+  swift8: BCBBBRPR
+  branch_name: 69005 Manaus
+  branch_address: Centro Building 69005 Manaus
+  branch_code: MNS
+  city: Manaus
+  country: Brazil
+- name: Hsbc Bank Brasil S.A. - Banco Multiplo
+  swift: BCBBBRPRPNG
+  swift8: BCBBBRPR
+  branch_name: 83200 Paranagua
+  branch_address: Centro Building 83200 Paranagua
+  branch_code: PNG
+  city: Paranagua
+  country: Brazil
+- name: Hsbc Bank Brasil S.A. - Banco Multiplo
+  swift: BCBBBRPRPAE
+  swift8: BCBBBRPR
+  branch_name: 90020 Porto Alegre
+  branch_address: Centro Building 90020 Porto Alegre
+  branch_code: PAE
+  city: Porto Alegre
+  country: Brazil
+- name: Hsbc Bank Brasil S.A. - Banco Multiplo
+  swift: BCBBBRPRRCE
+  swift8: BCBBBRPR
+  branch_name: 51020 Recife
+  branch_address: Centro Building 51020 Recife
+  branch_code: RCE
+  city: Recife
+  country: Brazil
+- name: Hsbc Bank Brasil S.A. - Banco Multiplo
+  swift: BCBBBRPRRJO
+  swift8: BCBBBRPR
+  branch_name: 20011 Rio De Janeiro
+  branch_address: Centro Building 20011 Rio De Janeiro
+  branch_code: RJO
+  city: Rio De Janeiro
+  country: Brazil
+- name: Hsbc Bank Brasil S.A. - Banco Multiplo
+  swift: BCBBBRPRSTS
+  swift8: BCBBBRPR
+  branch_name: 11013 Santos
+  branch_address: Centro Building 11013 Santos
+  branch_code: STS
+  city: Santos
+  country: Brazil
+- name: Hsbc Bank Brasil S.A. - Banco Multiplo
+  swift: BCBBBRPRSDR
+  swift8: BCBBBRPR
+  branch_name: 41820-020 Salvador
+  branch_address: Edifico Suarez Trade 41820-020 Salvador
+  branch_code: SDR
+  city: Salvador
+  country: Brazil
+- name: Hsbc Bank Brasil S.A. - Banco Multiplo
+  swift: BCBBBRPRCGB
+  swift8: BCBBBRPR
+  branch_name: Global Custody
+  branch_address: Avenida Brig Faria Lima 3729 01451-000 Sao Paulo
+  branch_code: CGB
+  city: Sao Paulo
+  country: Brazil
+- name: Hsbc Bank Brasil S.A. - Banco Multiplo
+  swift: BCBBBRPRCOR
+  swift8: BCBBBRPR
+  branch_name: Sao Paulo
+  branch_address: Sao Paulo
+  branch_code: COR
+  city: Sao Paulo
+  country: Brazil
+- name: Hsbc Bank Brasil S.A. - Banco Multiplo
+  swift: BCBBBRPRNET
+  swift8: BCBBBRPR
+  branch_name: Sao Paulo
+  branch_address: Sao Paulo
+  branch_code: NET
+  city: Sao Paulo
+  country: Brazil
+- name: Hsbc Bank Brasil S.A. - Banco Multiplo
+  swift: BCBBBRPROFS
+  swift8: BCBBBRPR
+  branch_name: Offshore Funds
+  branch_address: Avenida Faria Lima 3729 01451-000 Sao Paulo
+  branch_code: OFS
+  city: Sao Paulo
+  country: Brazil
+- name: Hsbc Bank Brasil S.A. - Banco Multiplo
+  swift: BCBBBRPRSPO
+  swift8: BCBBBRPR
+  branch_name: 01412 Sao Paulo
+  branch_address: Cerqueira Cesar Building 01412 Sao Paulo
+  branch_code: SPO
+  city: Sao Paulo
+  country: Brazil
+- name: Icatu Dtvm Ltda.
+  swift: ICATBRRJXXX
+  swift8: ICATBRRJ
+  branch_name: Head Office
+  branch_address: Av. Presidente Wilson, 231 20030-012 Rio De Janeiro
+  branch_code: XXX
+  city: Rio De Janeiro
+  country: Brazil
+- name: Ing Bank N.V.
+  swift: INGBBRSPATA
+  swift8: INGBBRSP
+  branch_name: Asset Trading Administration
+  branch_address: Sao Paulo
+  branch_code: ATA
+  city: Sao Paulo
+  country: Brazil
+- name: Ing Bank N.V.
+  swift: INGBBRSPXXX
+  swift8: INGBBRSP
+  branch_name: Head Office
+  branch_address: Av.Brigadeiro Faria Lima, 3064 01451-000 Sao Paulo
+  branch_code: XXX
+  city: Sao Paulo
+  country: Brazil
+- name: Itau Unibanco S/A
+  swift: ITAUBRSPBNU
+  swift8: ITAUBRSP
+  branch_name: Blumenau
+  branch_address: Blumenau
+  branch_code: BNU
+  city: Blumenau
+  country: Brazil
+- name: Itau Unibanco S/A
+  swift: ITAUBRSPBHE
+  swift8: ITAUBRSP
+  branch_name: Belo Horizonte
+  branch_address: Belo Horizonte
+  branch_code: BHE
+  city: Belo Horizonte
+  country: Brazil
+- name: Itau Unibanco S/A
+  swift: ITAUBRSPCAS
+  swift8: ITAUBRSP
+  branch_name: Campinas
+  branch_address: Campinas
+  branch_code: CAS
+  city: Campinas
+  country: Brazil
+- name: Itau Unibanco S/A
+  swift: ITAUBRSPCTA
+  swift8: ITAUBRSP
+  branch_name: Curitiba
+  branch_address: Curitiba
+  branch_code: CTA
+  city: Curitiba
+  country: Brazil
+- name: Itau Unibanco S/A
+  swift: ITAUBRSPJVE
+  swift8: ITAUBRSP
+  branch_name: Joinville
+  branch_address: Joinville
+  branch_code: JVE
+  city: Joinville
+  country: Brazil
+- name: Itau Unibanco S/A
+  swift: ITAUBRSPNHO
+  swift8: ITAUBRSP
+  branch_name: Novo Hamburgo
+  branch_address: Novo Hamburgo
+  branch_code: NHO
+  city: Novo Hamburgo
+  country: Brazil
+- name: Itau Unibanco S/A
+  swift: ITAUBRSPPAE
+  swift8: ITAUBRSP
+  branch_name: Porto Alegre
+  branch_address: Porto Alegre
+  branch_code: PAE
+  city: Porto Alegre
+  country: Brazil
+- name: Itau Unibanco S/A
+  swift: ITAUBRSPRJO
+  swift8: ITAUBRSP
+  branch_name: Rio De Janeiro
+  branch_address: Rio De Janeiro
+  branch_code: RJO
+  city: Rio De Janeiro
+  country: Brazil
+- name: Itau Unibanco S/A
+  swift: ITAUBRSPADR
+  swift8: ITAUBRSP
+  branch_name: Assessoria Adr
+  branch_address: Sao Paulo
+  branch_code: ADR
+  city: Sao Paulo
+  country: Brazil
+- name: Itau Unibanco S/A
+  swift: ITAUBRSPINT
+  swift8: ITAUBRSP
+  branch_name: Gerencia De Fundos E Carteiras Internacional
+  branch_address: Sao Paulo
+  branch_code: INT
+  city: Sao Paulo
+  country: Brazil
+- name: Itau Unibanco S/A
+  swift: ITAUBRSPISS
+  swift8: ITAUBRSP
+  branch_name: Gerencia De Fundos E Carteiras Internacional
+  branch_address: Sao Paulo
+  branch_code: ISS
+  city: Sao Paulo
+  country: Brazil
+- name: Itau Unibanco S/A
+  swift: ITAUBRSPLOC
+  swift8: ITAUBRSP
+  branch_name: Custodia Local
+  branch_address: Sao Paulo
+  branch_code: LOC
+  city: Sao Paulo
+  country: Brazil
+- name: Itau Unibanco S/A
+  swift: ITAUBRSPSPO
+  swift8: ITAUBRSP
+  branch_name: Sao Paulo
+  branch_address: Sao Paulo
+  branch_code: SPO
+  city: Sao Paulo
+  country: Brazil
+- name: Itau Unibanco S/A
+  swift: ITAUBRSPXXX
+  swift8: ITAUBRSP
+  branch_name: Head Office
+  branch_address: Cat 03084-010 Sao Paulo
+  branch_code: XXX
+  city: Sao Paulo
+  country: Brazil
+- name: Mercedes-Benz Do Brasil Ltda
+  swift: DABEBRSXXXX
+  swift8: DABEBRSX
+  branch_name: Head Office
+  branch_address: Av. Alfred Jurzykowski, 562 09680-900 Sao Bernardo Do Campo
+  branch_code: XXX
+  city: Sao Bernardo Do Campo
+  country: Brazil
+- name: Mercedes-Benz Do Brasil Ltda
+  swift: DABEBRSXIBA
+  swift8: DABEBRSX
+  branch_name: Industrial Accounts
+  branch_address: Sao Bernardo Do Campo
+  branch_code: IBA
+  city: Sao Bernardo Do Campo
+  country: Brazil
+- name: Morgan Stanley
+  swift: MSSPBRS1XXX
+  swift8: MSSPBRS1
+  branch_name: Head Office
+  branch_address: Avenida Brigadeiro Faria Lima 3600 Sao Paulo
+  branch_code: XXX
+  city: Sao Paulo
+  country: Brazil
+- name: Nbc Bank Brasil Sa Bank Multiplo
+  swift: COMEBRRSXXX
+  swift8: COMEBRRS
+  branch_name: Head Office
+  branch_address: Edificio Comendador Azevedo 90010-140 Porto Alegre
+  branch_code: XXX
+  city: Porto Alegre
+  country: Brazil
+- name: Nestle Brazil Ltda
+  swift: NESNBRSXXXX
+  swift8: NESNBRSX
+  branch_name: Head Office
+  branch_address: Av. Dr. Chucri Zaidan, 246 Sao Paulo
+  branch_code: XXX
+  city: Sao Paulo
+  country: Brazil
+- name: Standard Chartered Bank (Brasil) S.A.-Banco De Investimento
+  swift: SCBLBRSPXXX
+  swift8: SCBLBRSP
+  branch_name: Head Office
+  branch_address: Faria Lima Square 04538-132 Sao Paulo
+  branch_code: XXX
+  city: Sao Paulo
+  country: Brazil
+- name: Starexport Trading S.A.
+  swift: DATRBRSXXXX
+  swift8: DATRBRSX
+  branch_name: Head Office
+  branch_address: Av. Alfred Jurzykowski, 562 09680-900 Sao Bernardo Do Campo
+  branch_code: XXX
+  city: Sao Bernardo Do Campo
+  country: Brazil
+- name: Vale S.A.
+  swift: VAEEBRRJXXX
+  swift8: VAEEBRRJ
+  branch_name: Head Office
+  branch_address: Avenida Graca Aranha, 26 20030-900 Rio De Janeiro
+  branch_code: XXX
+  city: Rio De Janeiro
+  country: Brazil
+- name: Votorantim Corretora De Tit E Val Mob Ltda
+  swift: VCTMBRSPXXX
+  swift8: VCTMBRSP
+  branch_name: Head Office
+  branch_address: Morumbi Office Tower 04707-000 Sao Paulo
+  branch_code: XXX
+  city: Sao Paulo
+  country: Brazil
+- name: Abn Amro Securities (brasil) Corretora De Valores Mobiliarios Sa
+  swift: AASBBRS1XXX
+  swift8: AASBBRS1
+  branch_name: Head Office
+  branch_address: Avenida Paulista 1 374 04179-002 Sao Paulo
+  branch_code: XXX
+  city: Sao Paulo
+  country: Brazil
+- name: Accesstage Tecnologia Ltda
+  swift: ACSTBRS1XXX
+  swift8: ACSTBRS1
+  branch_name: Head Office
+  branch_address: Rua Cincinato Braga, 37 01333-011 Sao Paulo
+  branch_code: XXX
+  city: Sao Paulo
+  country: Brazil
+- name: Agenda Ccvm Ltda.
+  swift: AGCVBRR1XXX
+  swift8: AGCVBRR1
+  branch_name: Head Office
+  branch_address: Av. Rio Branco 116 20031 000 Rio De Janeiro
+  branch_code: XXX
+  city: Rio De Janeiro
+  country: Brazil
+- name: Agora Cor De Titul E Val Mob
+  swift: AGORBRR1XXX
+  swift8: AGORBRR1
+  branch_name: Head Office
+  branch_address: Rua Prof. Artur Ramos 140 22441-110 Rio De Janeiro
+  branch_code: XXX
+  city: Rio De Janeiro
+  country: Brazil
+- name: Alfa Ccvm S/a
+  swift: ALCCBRS1XXX
+  swift8: ALCCBRS1
+  branch_name: Head Office
+  branch_address: Al. Santos 466 01418 000 Sao Paulo
+  branch_code: XXX
+  city: Sao Paulo
+  country: Brazil
+- name: Alpes C.c.t.v.m. Ltda
+  swift: ALPVBRS1XXX
+  swift8: ALPVBRS1
+  branch_name: Head Office
+  branch_address: Edificio 01310-200 Sao Paulo
+  branch_code: XXX
+  city: Sao Paulo
+  country: Brazil
+- name: American Express Bank (brasil) Banco Multiplo S.a.
+  swift: AEIBBRS1XXX
+  swift8: AEIBBRS1
+  branch_name: Head Office
+  branch_address: Avenida Brigadeiro Faria Lima 1355 1452 2 Sao Paulo
+  branch_code: XXX
+  city: Sao Paulo
+  country: Brazil
+- name: Anglo Ferrous Brazil S.a.
+  swift: ANFEBRR1XXX
+  swift8: ANFEBRR1
+  branch_name: Head Office
+  branch_address: Edificio Flamengo Park Towers 22210-903 Rio De Janeiro
+  branch_code: XXX
+  city: Rio De Janeiro
+  country: Brazil
+- name: Anz Participacoes E Servicoes Ltda.
+  swift: ANZBBRR1XXX
+  swift8: ANZBBRR1
+  branch_name: Head Office
+  branch_address: Av R Branco Rio De Janeiro
+  branch_code: XXX
+  city: Rio De Janeiro
+  country: Brazil
+- name: Ativa S/a Corretora De Titulos Cambio E Valores
+  swift: ACTCBRR1XXX
+  swift8: ACTCBRR1
+  branch_name: Head Office
+  branch_address: Avenida Rio Branco 181 Rio De Janeiro
+  branch_code: XXX
+  city: Rio De Janeiro
+  country: Brazil
+- name: Ativa S/a Ctv
+  swift: ATCTBRR1XXX
+  swift8: ATCTBRR1
+  branch_name: Head Office
+  branch_address: Av. Rio Branco 181 20040 007 Rio De Janeiro
+  branch_code: XXX
+  city: Rio De Janeiro
+  country: Brazil
+- name: Aureum Sociedade Corretora De Cambio E Valores Mobiliarios Ltda
+  swift: AUREBRP1XXX
+  swift8: AUREBRP1
+  branch_name: Head Office
+  branch_address: Edificio Nosso Banco 80010 10 Curitiba
+  branch_code: XXX
+  city: Curitiba
+  country: Brazil
+- name: Banco Abn Amro S.a.
+  swift: ABNABRSPXXX
+  swift8: ABNABRSP
+  branch_name: Head Office
+  branch_address: Av. Brig. Luis Antonio,1827 01317-002 Sao Paulo
+  branch_code: XXX
+  city: Sao Paulo
+  country: Brazil
+- name: Banco Arbi S/a
+  swift: ARBBBRS10RJ
+  swift8: ARBBBRS1
+  branch_name: Rio De Janeiro
+  branch_address: Rio De Janeiro
+  branch_code: 0RJ
+  city: Rio De Janeiro
+  country: Brazil
+- name: Banco Arbi S/a
+  swift: ARBBBRS10RS
+  swift8: ARBBBRS1
+  branch_name: Porto Alegre
+  branch_address: Porto Alegre
+  branch_code: 0RS
+  city: Porto Alegre
+  country: Brazil
+- name: Banco Arbi S/a
+  swift: ARBBBRS1XXX
+  swift8: ARBBBRS1
+  branch_name: Head Office
+  branch_address: Rua Dias Ferreira 190 1419 Rio De Janeiro
+  branch_code: XXX
+  city: Rio De Janeiro
+  country: Brazil
+- name: Banco Azteca Do Brasil S/a
+  swift: AZTKBRCRXXX
+  swift8: AZTKBRCR
+  branch_name: Head Office
+  branch_address: Av Eng Domingos Ferreira Boa Viagem 51111-020 Recife
+  branch_code: XXX
+  city: Recife
+  country: Brazil
+- name: Banco Bonsucesso Sa
+  swift: BBONBRSPXXX
+  swift8: BBONBRSP
+  branch_name: Head Office
+  branch_address: Bonsucesso Bld 30180-120 Belo Horizonte
+  branch_code: XXX
+  city: Belo Horizonte
+  country: Brazil
+- name: Banco Cacique S.a.
+  swift: BCUEBRS1XXX
+  swift8: BCUEBRS1
+  branch_name: Head Office
+  branch_address: Jardim Europa 01453-000 Sao Paulo
+  branch_code: XXX
+  city: Sao Paulo
+  country: Brazil
+- name: Banco Chase Fleming Sa
+  swift: GRBABRR1XXX
+  swift8: GRBABRR1
+  branch_name: Head Office
+  branch_address: Avenida Presidente Vargas 409 20071-003 Rio De Janeiro
+  branch_code: XXX
+  city: Rio De Janeiro
+  country: Brazil
+- name: Banco Cruzeiro Do Sul S.a.
+  swift: BCSLBRS1XXX
+  swift8: BCSLBRS1
+  branch_name: Head Office
+  branch_address: E-Tower, Vila Olimpia 04551-060 Sao Paulo
+  branch_code: XXX
+  city: Sao Paulo
+  country: Brazil
+- name: Banco De Desenvolvimento Do Espirito Santo Sa-bandes
+  swift: BDOEBRR1XXX
+  swift8: BDOEBRR1
+  branch_name: Head Office
+  branch_address: Av. Princesa Isabel, 54 20000 Vitoria
+  branch_code: XXX
+  city: Vitoria
+  country: Brazil
+- name: Banco De Desenvolvimento Do Estado Da Bahia S.a.
+  swift: DBAHBRB1XXX
+  swift8: DBAHBRB1
+  branch_name: Head Office
+  branch_address: Edificio Desenbanco 41820 Salvador
+  branch_code: XXX
+  city: Salvador
+  country: Brazil
+- name: Banco De Desenvolvimento Do Estado Do Rio De Janeiro Sa
+  swift: BDEJBRR1XXX
+  swift8: BDEJBRR1
+  branch_name: Head Office
+  branch_address: Praia Do Flamengo 200 20000 Rio De Janeiro
+  branch_code: XXX
+  city: Rio De Janeiro
+  country: Brazil
+- name: Banco De Desenvolvimento Do Parana Sa
+  swift: BADPBRR1XXX
+  swift8: BADPBRR1
+  branch_name: Head Office
+  branch_address: Rua Da Assembleia 10 20000 Rio De Janeiro
+  branch_code: XXX
+  city: Rio De Janeiro
+  country: Brazil
+- name: Banco Digibanco S.a
+  swift: DBDIBRS1XXX
+  swift8: DBDIBRS1
+  branch_name: Head Office
+  branch_address: Avenida Paulista 1728 Sao Paulo
+  branch_code: XXX
+  city: Sao Paulo
+  country: Brazil
+- name: Banco Dimensao
+  swift: BDAOBRR1XXX
+  swift8: BDAOBRR1
+  branch_name: Head Office
+  branch_address: Rua Buenos Aires 68 Rio De Janeiro
+  branch_code: XXX
+  city: Rio De Janeiro
+  country: Brazil
+- name: Banco Do Estado De Goias S A
+  swift: BESGBRR1XXX
+  swift8: BESGBRR1
+  branch_name: Head Office
+  branch_address: Praca Do Bandeirante 546 Centro 20000 Rio De Janeiro
+  branch_code: XXX
+  city: Rio De Janeiro
+  country: Brazil
+- name: Banco Do Estado De Sergipe S.a.
+  swift: SEEBBRR10B2
+  swift8: SEEBBRR1
+  branch_name: 49000 Aracaju
+  branch_address: Rua Joao Pessoa 100 Centro 49000 Aracaju
+  branch_code: 0B2
+  city: Aracaju
+  country: Brazil
+- name: Banco Do Estado De Sergipe S.a.
+  swift: SEEBBRR1XXX
+  swift8: SEEBBRR1
+  branch_name: Head Office
+  branch_address: Rua F 31 20041 Aracaju
+  branch_code: XXX
+  city: Aracaju
+  country: Brazil
+- name: Banco Do Estado Do Para S.a.
+  swift: BEPABRABXXX
+  swift8: BEPABRAB
+  branch_name: No branch name
+  branch_address: No branch address
+  branch_code: XXX
+  city: Belem
+  country: Brazil
+- name: Banco Fator Sa
+  swift: BFATBRS1XXX
+  swift8: BFATBRS1
+  branch_name: Head Office
+  branch_address: Corporate Park 04530001 Sao Paulo
+  branch_code: XXX
+  city: Sao Paulo
+  country: Brazil
+- name: Banco Fator Sa
+  swift: BFATBRSPXXX
+  swift8: BFATBRSP
+  branch_name: Head Office
+  branch_address: Corporate Park 04530001 Sao Paulo
+  branch_code: XXX
+  city: Sao Paulo
+  country: Brazil
+- name: Banco General Motors S.a.
+  swift: BGEMBRS1XXX
+  swift8: BGEMBRS1
+  branch_name: Head Office
+  branch_address: Cerqueira Cesar 1419 Sao Paulo
+  branch_code: XXX
+  city: Sao Paulo
+  country: Brazil
+- name: Banco Goldmine S.a.
+  swift: BOGOBRR1XXX
+  swift8: BOGOBRR1
+  branch_name: Head Office
+  branch_address: Avenida Almirante Barroso 52 Rio De Janeiro
+  branch_code: XXX
+  city: Rio De Janeiro
+  country: Brazil
+- name: Banco Inter-atlantico De Investimento
+  swift: BIAIBRR1XXX
+  swift8: BIAIBRR1
+  branch_name: Head Office
+  branch_address: Avenida Rio Branco 110 Rio De Janeiro
+  branch_code: XXX
+  city: Rio De Janeiro
+  country: Brazil
+- name: Banco Itaubank S.a
+  swift: FNBBBRB1RJO
+  swift8: FNBBBRB1
+  branch_name: Rio De Janeiro
+  branch_address: Rio De Janeiro
+  branch_code: RJO
+  city: Rio De Janeiro
+  country: Brazil
+- name: Banco Itaubank S.a
+  swift: FNBBBRB1SPO
+  swift8: FNBBBRB1
+  branch_name: Sao Paulo Branch
+  branch_address: Sao Paulo
+  branch_code: SPO
+  city: Sao Paulo
+  country: Brazil
+- name: Banco Itaubank S.a
+  swift: FNBBBRB1XXX
+  swift8: FNBBBRB1
+  branch_name: Head Office
+  branch_address: Avenida Dr. Chucri Zaidan 246 04583-110 Sao Paulo
+  branch_code: XXX
+  city: Sao Paulo
+  country: Brazil
+- name: Banco Luso Brasileiro S.a.
+  swift: BLBCBRSPXXX
+  swift8: BLBCBRSP
+  branch_name: Head Office
+  branch_address: Predio Dacon 01454-901 Sao Paulo
+  branch_code: XXX
+  city: Sao Paulo
+  country: Brazil
+- name: Banco Maxima
+  swift: BMAXBRRJXXX
+  swift8: BMAXBRRJ
+  branch_name: Head Office
+  branch_address: Abc -Atlantica Bussiness Center 22021000 Rio De Janeiro
+  branch_code: XXX
+  city: Rio De Janeiro
+  country: Brazil
+- name: Banco Mercantil S.a.
+  swift: BMBOBRC1XXX
+  swift8: BMBOBRC1
+  branch_name: Head Office
+  branch_address: Rua Imperador Pedro Ii 307 51010-240 Recife
+  branch_code: XXX
+  city: Recife
+  country: Brazil
+- name: Banco Mineiro S.a.
+  swift: MINBBRR1XXX
+  swift8: MINBBRR1
+  branch_name: Head Office
+  branch_address: Belo Horizonte
+  branch_code: XXX
+  city: Belo Horizonte
+  country: Brazil
+- name: Banco Nacional De Credito Cooperativo
+  swift: BNCCBRD1XXX
+  swift8: BNCCBRD1
+  branch_name: Head Office
+  branch_address: Palacio Do Desenvolvimento 70057 Brasilia
+  branch_code: XXX
+  city: Brasilia
+  country: Brazil
+- name: Banco Noroeste Chemical Investimento
+  swift: NOCIBRS1XXX
+  swift8: NOCIBRS1
+  branch_name: Head Office
+  branch_address: North Tower 01310 Sao Paulo
+  branch_code: XXX
+  city: Sao Paulo
+  country: Brazil
+- name: Banco Nossa Caixa S/a
+  swift: NCXXBRS1XXX
+  swift8: NCXXBRS1
+  branch_name: Head Office
+  branch_address: Rua Xv De Novembro 111 01013-001 Sao Paulo
+  branch_code: XXX
+  city: Sao Paulo
+  country: Brazil
+- name: Banco Original S.a.
+  swift: BORIBRSPXXX
+  swift8: BORIBRSP
+  branch_name: Head Office
+  branch_address: 66 Rua Gen. Furtado Do Nascimento 05465-070 Sao Paulo
+  branch_code: XXX
+  city: Sao Paulo
+  country: Brazil
+- name: Banco Ourinvest S.a
+  swift: OURIBRSPXXX
+  swift8: OURIBRSP
+  branch_name: Head Office
+  branch_address: Edificio Ourinvest 01310919 Sao Paulo
+  branch_code: XXX
+  city: Sao Paulo
+  country: Brazil
+- name: Banco Regional De Desenvolvimento Do Extremo Sul
+  swift: RDESBRP10RF
+  swift8: RDESBRP1
+  branch_name: 88020-000 Florianopolis
+  branch_address: Rua Hercilio Luz 617 88020-000 Florianopolis
+  branch_code: 0RF
+  city: Florianopolis
+  country: Brazil
+- name: Banco Regional De Desenvolvimento Do Extremo Sul
+  swift: RDESBRP10RS
+  swift8: RDESBRP1
+  branch_name: 90010-140 Porto Alegre
+  branch_address: Rua Uruguai 155 90010-140 Porto Alegre
+  branch_code: 0RS
+  city: Porto Alegre
+  country: Brazil
+- name: Banco Regional De Desenvolvimento Do Extremo Sul
+  swift: RDESBRP1XXX
+  swift8: RDESBRP1
+  branch_name: Head Office
+  branch_address: Rua Uruguai, 155 80010-050 Curitiba
+  branch_code: XXX
+  city: Curitiba
+  country: Brazil
+- name: Banco Ribeirao Preto S.a
+  swift: BRPOBRS1XXX
+  swift8: BRPOBRS1
+  branch_name: Head Office
+  branch_address: Av. Independencia 1351 14025-390 Ribeirao Preto
+  branch_code: XXX
+  city: Ribeirao Preto
+  country: Brazil
+- name: Banco Sul America S.a.
+  swift: BSUABRS1XXX
+  swift8: BSUABRS1
+  branch_name: Head Office
+  branch_address: Avenida Pres. Juscelino Kubitschek 04543-900 Sao Paulo
+  branch_code: XXX
+  city: Sao Paulo
+  country: Brazil
+- name: Banco Topazio S.a.
+  swift: TOPZBRRSXXX
+  swift8: TOPZBRRS
+  branch_name: Head Office
+  branch_address: Rua 18 De Novembro 277 90240-040 Porto Alegre
+  branch_code: XXX
+  city: Porto Alegre
+  country: Brazil
+- name: Banco Ubs Pactual S.a.
+  swift: BOMGBRS1XXX
+  swift8: BOMGBRS1
+  branch_name: Head Office
+  branch_address: Centro Empresarial Mourisco 01301-905 Rio De Janeiro
+  branch_code: XXX
+  city: Rio De Janeiro
+  country: Brazil
+- name: Banco Woori Bank Do Brasil
+  swift: HVBKBRSPXXX
+  swift8: HVBKBRSP
+  branch_name: Head Office
+  branch_address: Crystal Tower 803 04794-000 Sao Paulo
+  branch_code: XXX
+  city: Sao Paulo
+  country: Brazil
+- name: Banco Zogbi Sa
+  swift: BCRSBRS1XXX
+  swift8: BCRSBRS1
+  branch_name: Head Office
+  branch_address: Avenida Brigadeiro Faria Lima 888 01473-900 Sao Paulo
+  branch_code: XXX
+  city: Sao Paulo
+  country: Brazil
+- name: Bandeirantes Credito Imobiliario
+  swift: CIMBBRS1XXX
+  swift8: CIMBBRS1
+  branch_name: Head Office
+  branch_address: Rua Clemente Alvares 1000 Sao Paulo
+  branch_code: XXX
+  city: Sao Paulo
+  country: Brazil
+- name: Banko Sumitomo Mitsui Brasileiro S.a.
+  swift: SCBRBRS1XXX
+  swift8: SCBRBRS1
+  branch_name: Head Office
+  branch_address: Avenida Paulista 37 1000 Sao Paulo
+  branch_code: XXX
+  city: Sao Paulo
+  country: Brazil
+- name: Barclays Ctvm S.a.
+  swift: BACVBRS1XXX
+  swift8: BACVBRS1
+  branch_name: Head Office
+  branch_address: Edificio Berrini 500 04571-100 Sao Paulo
+  branch_code: XXX
+  city: Sao Paulo
+  country: Brazil
+- name: Baring Securities Brazil
+  swift: BSECBRS1XXX
+  swift8: BSECBRS1
+  branch_name: Head Office
+  branch_address: Office 92 01311-902 Sao Paulo
+  branch_code: XXX
+  city: Sao Paulo
+  country: Brazil
+- name: Bb Distr. De Titulos E Valores Mobls. S/a
+  swift: DTVOBRR1XXX
+  swift8: DTVOBRR1
+  branch_name: Head Office
+  branch_address: Av. Senador Dantas 105 20031 201 Rio De Janeiro
+  branch_code: XXX
+  city: Rio De Janeiro
+  country: Brazil
+- name: Bbm I Gestao De Recursos Ltda
+  swift: BBMIBRRJXXX
+  swift8: BBMIBRRJ
+  branch_name: Head Office
+  branch_address: Praca Pio X 20091-040 Rio De Janeiro
+  branch_code: XXX
+  city: Rio De Janeiro
+  country: Brazil
+- name: Bgc Liquidez Dtvm Ltda
+  swift: BGLDBRR1XXX
+  swift8: BGLDBRR1
+  branch_name: Head Office
+  branch_address: Bgc Partners 20031000 Rio De Janeiro
+  branch_code: XXX
+  city: Rio De Janeiro
+  country: Brazil
+- name: Bittencourt S/a Ctvc
+  swift: BICTBRR1XXX
+  swift8: BICTBRR1
+  branch_name: Head Office
+  branch_address: R. Do Mercado 11 20010 120 Rio De Janeiro
+  branch_code: XXX
+  city: Rio De Janeiro
+  country: Brazil
+- name: Bolsa De Valores De Sao Paulo
+  swift: XBSPBRS1XXX
+  swift8: XBSPBRS1
+  branch_name: Head Office
+  branch_address: Rua Xv De Novembro 275 01013-001 Sao Paulo
+  branch_code: XXX
+  city: Sao Paulo
+  country: Brazil
+- name: Bolsa De Valores Do Rio De Janeiro
+  swift: XRIOBRR1XXX
+  swift8: XRIOBRR1
+  branch_name: Head Office
+  branch_address: Praca Xv De Novembro, 20- 1 Subsolo 20010-010 Rio De Janeiro
+  branch_code: XXX
+  city: Rio De Janeiro
+  country: Brazil
+- name: Bradesco S/a Ctvm
+  swift: BRCTBRS1XXX
+  swift8: BRCTBRS1
+  branch_name: Head Office
+  branch_address: Av. Ipiranga 282 01046920 Sao Paulo
+  branch_code: XXX
+  city: Sao Paulo
+  country: Brazil
+- name: Bradessco S.a. Corretora Tvm
+  swift: BBDCBRS1XXX
+  swift8: BBDCBRS1
+  branch_name: Head Office
+  branch_address: Av. Paulista 1.450 01310-917 Sao Paulo
+  branch_code: XXX
+  city: Sao Paulo
+  country: Brazil
+- name: Brascan S/a Corretora De Titulos E Valores
+  swift: BCDTBRS1XXX
+  swift8: BCDTBRS1
+  branch_name: Head Office
+  branch_address: Av. Almirante Barroso 52 01311-000 Sao Paulo
+  branch_code: XXX
+  city: Sao Paulo
+  country: Brazil
+- name: Brasil Plural Cctvm Sa
+  swift: FLCEBRS1XXX
+  swift8: FLCEBRS1
+  branch_name: Head Office
+  branch_address: Rua Surubim 373 04571-050 Sao Paulo
+  branch_code: XXX
+  city: Sao Paulo
+  country: Brazil
+- name: Caixa Economica Do Estado Do Io Grande Do Sul Sa
+  swift: CEESBRR1XXX
+  swift8: CEESBRR1
+  branch_name: Head Office
+  branch_address: Rua Alfredo Chaves 782 95100 Caxias Do Sul
+  branch_code: XXX
+  city: Caxias Do Sul
+  country: Brazil
+- name: Cetip / Central De Custodia E De Liquidacao Financeira De Titulos
+  swift: CETIBRR1XXX
+  swift8: CETIBRR1
+  branch_name: Head Office
+  branch_address: Av Republica Do Chile, 230 20031 170 Rio De Janeiro
+  branch_code: XXX
+  city: Rio De Janeiro
+  country: Brazil
+- name: Cetip S.a. Balcao Organizado De Ativos E Derivativos
+  swift: CTIPBRR1XXX
+  swift8: CTIPBRR1
+  branch_name: Head Office
+  branch_address: Av. Republica Do Chile 230 20031-919 Rio De Janeiro
+  branch_code: XXX
+  city: Rio De Janeiro
+  country: Brazil
+- name: Cetro Ctvm Ltda.
+  swift: CECTBRR1XXX
+  swift8: CECTBRR1
+  branch_name: Head Office
+  branch_address: R. Dos Andradas 1001 90020 007 Porto Alegre
+  branch_code: XXX
+  city: Porto Alegre
+  country: Brazil
+- name: Chase Fleming S.a. Ccvm
+  swift: GRAPBRS1XXX
+  swift8: GRAPBRS1
+  branch_name: Head Office
+  branch_address: Av. Brigadeiro Faria Lima, 3,729 Sao Paulo
+  branch_code: XXX
+  city: Sao Paulo
+  country: Brazil
+- name: Citigroup Global Markets Brasil Cctvm Sa
+  swift: CGMBBRS1XXX
+  swift8: CGMBBRS1
+  branch_name: Head Office
+  branch_address: Av Paulista 1111 01311920 Sao Paulo
+  branch_code: XXX
+  city: Sao Paulo
+  country: Brazil
+- name: City Ccvm Ltda.
+  swift: CICCBRR1XXX
+  swift8: CICCBRR1
+  branch_name: Head Office
+  branch_address: Rua 7 De Setembro 48 20010 Rio De Janeiro
+  branch_code: XXX
+  city: Rio De Janeiro
+  country: Brazil
+- name: Cm Capital Markets Cctvm Ltda.
+  swift: CAKCBRS1XXX
+  swift8: CAKCBRS1
+  branch_name: Head Office
+  branch_address: Rua Gomes De Carvalho, 1195 04547004 Sao Paulo
+  branch_code: XXX
+  city: Sao Paulo
+  country: Brazil
+- name: Coinvalores Ccvm Ltda.
+  swift: COCCBRS1XXX
+  swift8: COCCBRS1
+  branch_name: Head Office
+  branch_address: Avenida Brigadeiro Faria Lima 1461 1012 907 Sao Paulo
+  branch_code: XXX
+  city: Sao Paulo
+  country: Brazil
+- name: Companhia Providencia Industria E Comercio
+  swift: CPICBRP1XXX
+  swift8: CPICBRP1
+  branch_name: Head Office
+  branch_address: Rod. Br 376 83015-000 Sao Jose Dos Pinhais
+  branch_code: XXX
+  city: Sao Jose Dos Pinhais
+  country: Brazil
+- name: Concordia Sa Cvmcc
+  swift: CNCVBRR1001
+  swift8: CNCVBRR1
+  branch_name: '01069 900 Sao Paulo'
+  branch_address: R. Libero Badaro 425 01069 900 Sao Paulo
+  branch_code: '001'
+  city: Sao Paulo
+  country: Brazil
+- name: Concordia Sa Cvmcc
+  swift: CNCVBRR1XXX
+  swift8: CNCVBRR1
+  branch_name: Head Office
+  branch_address: Rua Libero Badaro, 425 20040-001 Rio De Janeiro
+  branch_code: XXX
+  city: Rio De Janeiro
+  country: Brazil
+- name: Convencao S/a Corretora De Valores E Cambio
+  swift: CCVCBRS1XXX
+  swift8: CCVCBRS1
+  branch_name: Head Office
+  branch_address: Convencao S/a Cvc 01448-000 Sao Paulo
+  branch_code: XXX
+  city: Sao Paulo
+  country: Brazil
+- name: Cooperativa Central Credito Rural Rgs Ltda
+  swift: CCCRBRR1XXX
+  swift8: CCCRBRR1
+  branch_name: Head Office
+  branch_address: Rua Andradas 1332 90000 Porto Alegre
+  branch_code: XXX
+  city: Porto Alegre
+  country: Brazil
+- name: Cooperativa De Credito Rural Do Oeste Ltda
+  swift: CCRLBRB1XXX
+  swift8: CCRLBRB1
+  branch_name: Head Office
+  branch_address: Sicoob-Oeste 47.800 000 Bahia
+  branch_code: XXX
+  city: Bahia
+  country: Brazil
+- name: Cotacao Distribuidora De Titulos E Valores Mobs S/a
+  swift: CDTVBRS1XXX
+  swift8: CDTVBRS1
+  branch_name: Head Office
+  branch_address: Av Paulista, 807, Conjs 1601 a 1606 01311-100 Sao Paulo
+  branch_code: XXX
+  city: Sao Paulo
+  country: Brazil
+- name: Credit Suisse First Boston Sa Ctvm
+  swift: CSFBBRS1XXX
+  swift8: CSFBBRS1
+  branch_name: Head Office
+  branch_address: Av. Brigadeiro Faria Lima 3064 01451 0000 Sao Paulo
+  branch_code: XXX
+  city: Sao Paulo
+  country: Brazil
+- name: Credit Suisse Hedging Griffo
+  swift: HEDGBRS1XXX
+  swift8: HEDGBRS1
+  branch_name: Head Office
+  branch_address: Cshg 04543900 Sao Paulo
+  branch_code: XXX
+  city: Sao Paulo
+  country: Brazil
+- name: Cruzeiro Do Sul Corretora De Valores
+  swift: CSCVBRR1XXX
+  swift8: CSCVBRR1
+  branch_name: Head Office
+  branch_address: Av. Presidente Wilson, 231 20030-021 Rio De Janeiro
+  branch_code: XXX
+  city: Rio De Janeiro
+  country: Brazil
+- name: Deutsche Bank Cv S/a
+  swift: DEUTBRS1XXX
+  swift8: DEUTBRS1
+  branch_name: Head Office
+  branch_address: Rua Alexandre Dumas 2200 04717 910 Sao Paulo
+  branch_code: XXX
+  city: Sao Paulo
+  country: Brazil
+- name: Distribuidora Bank Of Boston Dtvm S/a
+  swift: DIBDBRS1XXX
+  swift8: DIBDBRS1
+  branch_name: Head Office
+  branch_address: Sao Paulo
+  branch_code: XXX
+  city: Sao Paulo
+  country: Brazil
+- name: Elite Ccvm Ltda
+  swift: ELCCBRR1XXX
+  swift8: ELCCBRR1
+  branch_name: Head Office
+  branch_address: Pca Pio X, 55 20040 020 Rio De Janeiro
+  branch_code: XXX
+  city: Rio De Janeiro
+  country: Brazil
+- name: Empresa Brasileira De Correios E Telegrafos-ect
+  swift: EBCTBRD1XXX
+  swift8: EBCTBRD1
+  branch_name: Head Office
+  branch_address: Edificio-Sede Da Ect-Bloco a 70002900 Brasilia
+  branch_code: XXX
+  city: Brasilia
+  country: Brazil
+- name: Equity Cp-ccv S/a
+  swift: EQCCBRR1XXX
+  swift8: EQCCBRR1
+  branch_name: Head Office
+  branch_address: Av. Ataulfo De Paiva 482 20040 4 Rio De Janeiro
+  branch_code: XXX
+  city: Rio De Janeiro
+  country: Brazil
+- name: Fator S.a. Corretora De Valores
+  swift: FATOBRS1XXX
+  swift8: FATOBRS1
+  branch_name: Head Office
+  branch_address: Rua Renato Paes De Barros 1017 01310-200 Sao Paulo
+  branch_code: XXX
+  city: Sao Paulo
+  country: Brazil
+- name: Fator-doria Atherino S/a Cv
+  swift: FADABRS1XXX
+  swift8: FADABRS1
+  branch_name: Head Office
+  branch_address: Rua Doutur Renato Paes De Barros, 1 1448 0 Sao Paulo
+  branch_code: XXX
+  city: Sao Paulo
+  country: Brazil
+- name: Fibra Asset Management Distribuidora De Titulos E Valores Mobiliarios Ltda
+  swift: FDTVBRS1XXX
+  swift8: FDTVBRS1
+  branch_name: Head Office
+  branch_address: Antonio Ferreira Alves Guedes 4538 Sao Paulo
+  branch_code: XXX
+  city: Sao Paulo
+  country: Brazil
+- name: Finabank Corretora De Cambio Titulos E Valores Mobiliarios Ltda
+  swift: FCCTBRS1XXX
+  swift8: FCCTBRS1
+  branch_name: Head Office
+  branch_address: Finabank Cctvm Ltda 01008 Sao Paulo
+  branch_code: XXX
+  city: Sao Paulo
+  country: Brazil
+- name: Finasa-suplicy C.c.v.m. S/a
+  swift: FISUBRS1XXX
+  swift8: FISUBRS1
+  branch_name: Head Office
+  branch_address: Rua Libero Badaro 377 Sao Paulo
+  branch_code: XXX
+  city: Sao Paulo
+  country: Brazil
+- name: Fitch Ratings Brasil Ltda
+  swift: FRIPBRR1XXX
+  swift8: FRIPBRR1
+  branch_name: Head Office
+  branch_address: Avenida Rio Branco, 89 20.040-004 Rio De Janeiro
+  branch_code: XXX
+  city: Rio De Janeiro
+  country: Brazil
+- name: Garantia Dtvm S/a
+  swift: GADTBRS1XXX
+  swift8: GADTBRS1
+  branch_name: Head Office
+  branch_address: Av. Brig. Faria Lima 3064 04534 000 Sao Paulo
+  branch_code: XXX
+  city: Sao Paulo
+  country: Brazil
+- name: Gavea Investimentos Ltda
+  swift: GAIVBRR1XXX
+  swift8: GAIVBRR1
+  branch_name: Head Office
+  branch_address: Av. Ataulfo De Paiva 7th Floor 22240-035 Rio De Janeiro
+  branch_code: XXX
+  city: Rio De Janeiro
+  country: Brazil
+- name: Gbm Brasil Dtvm S.a.
+  swift: GBBDBRR1XXX
+  swift8: GBBDBRR1
+  branch_name: Head Office
+  branch_address: Av. Ataulfo De Paiva 341/701 22.440-032 Rio De Janeiro
+  branch_code: XXX
+  city: Rio De Janeiro
+  country: Brazil
+- name: Geracao Corretora De Valores Ltda
+  swift: GERABRS1XXX
+  swift8: GERABRS1
+  branch_name: Head Office
+  branch_address: Rua Libero Badano 425 Cj803 Sao Paulo
+  branch_code: XXX
+  city: Sao Paulo
+  country: Brazil
+- name: Geracao Futuro Corretora De Valores Sa
+  swift: GFCVBRR1XXX
+  swift8: GFCVBRR1
+  branch_name: Head Office
+  branch_address: Praca Xv De Novembro 20/1201 B 20010010 Rio De Janeiro
+  branch_code: XXX
+  city: Rio De Janeiro
+  country: Brazil
+- name: Gradual C.c.t.v.m. Ltda
+  swift: GRADBRS1XXX
+  swift8: GRADBRS1
+  branch_name: Head Office
+  branch_address: Edificio Columbus 01404-902 Sao Paulo
+  branch_code: XXX
+  city: Sao Paulo
+  country: Brazil
+- name: Hsbc Bank Brasil S.a.-banco Multiplo
+  swift: BCBBBRPRFDS
+  swift8: BCBBBRPR
+  branch_name: Hss Funds
+  branch_address: Centro Administrativo Vila Hauer 80010 Curitiba
+  branch_code: FDS
+  city: Curitiba
+  country: Brazil
+- name: Icap Do Brasil Dtvm Ltda
+  swift: ICBDBRR1XXX
+  swift8: ICBDBRR1
+  branch_name: Head Office
+  branch_address: Av Das Americas 700 Rio De Janeiro
+  branch_code: XXX
+  city: Rio De Janeiro
+  country: Brazil
+- name: Indosuez Capital Dtvm S/a
+  swift: DTVMBRS1XXX
+  swift8: DTVMBRS1
+  branch_name: Head Office
+  branch_address: Av. Paulista 37 Sao Paulo
+  branch_code: XXX
+  city: Sao Paulo
+  country: Brazil
+- name: Indosuez W.i. Carr Securities (brazil) Dtvm S.a.
+  swift: WICABRS1XXX
+  swift8: WICABRS1
+  branch_name: Head Office
+  branch_address: Jardine Paulistana 01451-000 Sao Paulo
+  branch_code: XXX
+  city: Sao Paulo
+  country: Brazil
+- name: Industrial And Commercial Bank Of China(brazil
+  swift: ICBKBRSPXXX
+  swift8: ICBKBRSP
+  branch_name: Head Office
+  branch_address: Patio Malzoni, Block B 04538-133 Sao Paulo
+  branch_code: XXX
+  city: Sao Paulo
+  country: Brazil
+- name: Intra S/a Ccv
+  swift: INCVBRS1XXX
+  swift8: INCVBRS1
+  branch_name: Head Office
+  branch_address: Torre Norte 1480 900 Sao Paulo
+  branch_code: XXX
+  city: Sao Paulo
+  country: Brazil
+- name: Itau Asset Management
+  swift: ITSABRS1XXX
+  swift8: ITSABRS1
+  branch_name: No branch name
+  branch_address: No branch address
+  branch_code: XXX
+  city: Sao Paulo
+  country: Brazil
+- name: Jp Morgan Distribuidora
+  swift: JODIBRS1XXX
+  swift8: JODIBRS1
+  branch_name: Head Office
+  branch_address: Av. Brigaderio Faria Lima 3729 04538-905 Sao Paulo
+  branch_code: XXX
+  city: Sao Paulo
+  country: Brazil
+- name: Jpm Cctvm S/a
+  swift: JPCCBRS1XXX
+  swift8: JPCCBRS1
+  branch_name: Head Office
+  branch_address: Av. Brig. Faria Lima 3729 04538 905 Sao Paulo
+  branch_code: XXX
+  city: Sao Paulo
+  country: Brazil
+- name: Jpm Cor De Cam Titu E Val Mob S/a
+  swift: JPMCBRS1XXX
+  swift8: JPMCBRS1
+  branch_name: Head Office
+  branch_address: Av. Paulista 1294 01310-100 Sao Paulo
+  branch_code: XXX
+  city: Sao Paulo
+  country: Brazil
+- name: Liberal S/a Cor De Cam E Val Mob
+  swift: LIBEBRS1XXX
+  swift8: LIBEBRS1
+  branch_name: Head Office
+  branch_address: Rua Libero Badaro 377 01009-000 Sao Paulo
+  branch_code: XXX
+  city: Sao Paulo
+  country: Brazil
+- name: Link S/a Cctvm
+  swift: LICTBRS1XXX
+  swift8: LICTBRS1
+  branch_name: Head Office
+  branch_address: Leopoldo Couto Magalhaes Jr, 758 04542-000 Sao Paulo
+  branch_code: XXX
+  city: Sao Paulo
+  country: Brazil
+- name: Magliano S.a. Corretora De Cambio E Valores Mobiliarios
+  swift: MCALBRS1XXX
+  swift8: MCALBRS1
+  branch_name: Head Office
+  branch_address: Edificio Rachid Saliba 01415-000 Sao Paulo
+  branch_code: XXX
+  city: Sao Paulo
+  country: Brazil
+- name: Merrill Lynch Dtvm
+  swift: MLDTBRS1XXX
+  swift8: MLDTBRS1
+  branch_name: Head Office
+  branch_address: Avenida Paulista 37 01311-902 Sao Paulo
+  branch_code: XXX
+  city: Sao Paulo
+  country: Brazil
+- name: Merrill Lynch S.a. Corretora De Titulos E Valores Mobiliarios
+  swift: MLCVBRS1XXX
+  swift8: MLCVBRS1
+  branch_name: Head Office
+  branch_address: Faria Lima Financial Center Sao Paulo
+  branch_code: XXX
+  city: Sao Paulo
+  country: Brazil
+- name: Midbank-banco De Investimento S.a.
+  swift: MIINBRS1XXX
+  swift8: MIINBRS1
+  branch_name: Head Office
+  branch_address: Avenida Brigadeiro Faria 01452 Sao Paulo
+  branch_code: XXX
+  city: Sao Paulo
+  country: Brazil
+- name: Mirae Asset Securities (brasil) C.t.v.m. Ltda
+  swift: MACBBRS1XXX
+  swift8: MACBBRS1
+  branch_name: Head Office
+  branch_address: E-Tower 04551-060 Sao Paulo
+  branch_code: XXX
+  city: Sao Paulo
+  country: Brazil
+- name: Moody's America Latina Ltda
+  swift: MOATBRS1XXX
+  swift8: MOATBRS1
+  branch_name: Head Office
+  branch_address: Av. Nacoes Unidas, 12.551 Sp04578903 Sao Paulo
+  branch_code: XXX
+  city: Sao Paulo
+  country: Brazil
+- name: Multiplic Banco De Investimento S/a
+  swift: MUBABRS10RJ
+  swift8: MUBABRS1
+  branch_name: Rio De Janeiro
+  branch_address: Rio De Janeiro
+  branch_code: 0RJ
+  city: Rio De Janeiro
+  country: Brazil
+- name: Multiplic Banco De Investimento S/a
+  swift: MUBABRS1XXX
+  swift8: MUBABRS1
+  branch_name: Head Office
+  branch_address: Avenida Jurubatuba 73 04583 Sao Paulo
+  branch_code: XXX
+  city: Sao Paulo
+  country: Brazil
+- name: Multiplic Cvm S/a
+  swift: MUCVBRS1XXX
+  swift8: MUCVBRS1
+  branch_name: Head Office
+  branch_address: Av Paulista 1842 4583 900 Sao Paulo
+  branch_code: XXX
+  city: Sao Paulo
+  country: Brazil
+- name: Nova Futura D.t.v.m. Ltda.
+  swift: NOFVBRS1XXX
+  swift8: NOFVBRS1
+  branch_name: Head Office
+  branch_address: Rua Boa Vista, 254 01014-000 Sao Paulo
+  branch_code: XXX
+  city: Sao Paulo
+  country: Brazil
+- name: Novacao S/a Ccvm
+  swift: NOCCBRS1XXX
+  swift8: NOCCBRS1
+  branch_name: Head Office
+  branch_address: Av. Paulista 1294 01310 915 Sao Paulo
+  branch_code: XXX
+  city: Sao Paulo
+  country: Brazil
+- name: Novinvest S/a Cvm
+  swift: NOCVBRS1XXX
+  swift8: NOCVBRS1
+  branch_name: Head Office
+  branch_address: Rua Boa Vista 63 1014 912 Sao Paulo
+  branch_code: XXX
+  city: Sao Paulo
+  country: Brazil
+- name: Petra-personal Trader Corretora De Titulos E Valores Mobiliarios Ltda
+  swift: PTRABRP1XXX
+  swift8: PTRABRP1
+  branch_name: Head Office
+  branch_address: Edificio Nevada 80420 Curitiba
+  branch_code: XXX
+  city: Curitiba
+  country: Brazil
+- name: Planibanc Cv S/a
+  swift: PLACBRS1XXX
+  swift8: PLACBRS1
+  branch_name: Head Office
+  branch_address: Torre 2 04543 900 Sao Paulo
+  branch_code: XXX
+  city: Sao Paulo
+  country: Brazil
+- name: Planner Corretora De Valores S.a.
+  swift: PLAEBRS1XXX
+  swift8: PLAEBRS1
+  branch_name: Head Office
+  branch_address: Condominio Edificio Eloy Chaves 01311-300 Sao Paulo
+  branch_code: XXX
+  city: Sao Paulo
+  country: Brazil
+- name: Prime S/a Corretora De Cambio E Valores
+  swift: PRCCBRR1XXX
+  swift8: PRCCBRR1
+  branch_name: Head Office
+  branch_address: R. Da Alfandega 91 20070 Rio De Janeiro
+  branch_code: XXX
+  city: Rio De Janeiro
+  country: Brazil
+- name: Prosper S/a Cvc
+  swift: PRVVBRS1XXX
+  swift8: PRVVBRS1
+  branch_name: Head Office
+  branch_address: Rua Do Passeio, 70 1419 Sao Paulo
+  branch_code: XXX
+  city: Sao Paulo
+  country: Brazil
+- name: Prudential Do Brasil Seguros De Vida Sa
+  swift: PBSVBRR1XXX
+  swift8: PBSVBRR1
+  branch_name: Head Office
+  branch_address: 114 Mena Barreto St. 22271-100 Rio De Janeiro
+  branch_code: XXX
+  city: Rio De Janeiro
+  country: Brazil
+- name: Quantia Dtvm Ltda
+  swift: QUCCBRR1XXX
+  swift8: QUCCBRR1
+  branch_name: Head Office
+  branch_address: Rua Frei Caneca 1380 01307 002 Sao Paulo
+  branch_code: XXX
+  city: Sao Paulo
+  country: Brazil
+- name: Renascenca Distribuidora De Titulos E Valores Mobiliarios Ltda.
+  swift: RDTVBRS1XXX
+  swift8: RDTVBRS1
+  branch_name: Head Office
+  branch_address: Alameda Santos 1940 01418-102 Sao Paulo
+  branch_code: XXX
+  city: Sao Paulo
+  country: Brazil
+- name: Rmc S/a Sc
+  swift: RMCRBRS1XXX
+  swift8: RMCRBRS1
+  branch_name: Head Office
+  branch_address: Av. Brigadeiro Faria Lima 1912 1452 Sao Paulo
+  branch_code: XXX
+  city: Sao Paulo
+  country: Brazil
+- name: Royal Bank Of Canada (brasil) S.a.
+  swift: ROYCBRS1XXX
+  swift8: ROYCBRS1
+  branch_name: Head Office
+  branch_address: Pedro Biagi Building 01310 Sao Paulo
+  branch_code: XXX
+  city: Sao Paulo
+  country: Brazil
+- name: Samsung Electronica Da Amazonia Ltda.
+  swift: SECTBRS1820
+  swift8: SECTBRS1
+  branch_name: Seda
+  branch_address: Torre Oeste 04578-000 Sao Paulo
+  branch_code: '820'
+  city: Sao Paulo
+  country: Brazil
+- name: Samsung Electronica Da Amazonia Ltda.
+  swift: SECTBRS1XXX
+  swift8: SECTBRS1
+  branch_name: Head Office
+  branch_address: Torre Oeste, Brooklin Novo 04578-000 Sao Paulo
+  branch_code: XXX
+  city: Sao Paulo
+  country: Brazil
+- name: Santander Brasil S/a Ctvm
+  swift: SABVBRS1XXX
+  swift8: SABVBRS1
+  branch_name: Head Office
+  branch_address: Casa 04752 Sao Paulo
+  branch_code: XXX
+  city: Sao Paulo
+  country: Brazil
+- name: Schahin Ccvm S/a
+  swift: SCHVBRS1XXX
+  swift8: SCHVBRS1
+  branch_name: Head Office
+  branch_address: Rua Vergueiro, 2009 Sao Paulo
+  branch_code: XXX
+  city: Sao Paulo
+  country: Brazil
+- name: Scotiabank Brasil S.a.-banco Multiplo
+  swift: NOSCBRSPXXX
+  swift8: NOSCBRSP
+  branch_name: Head Office
+  branch_address: Av.Brigadeiro Faria Lima 2277 01452-000 Sao Paulo
+  branch_code: XXX
+  city: Sao Paulo
+  country: Brazil
+- name: Slw Corretora De Valores E Cambio Ltda
+  swift: SCVBBRS1XXX
+  swift8: SCVBBRS1
+  branch_name: Head Office
+  branch_address: Rua Dr. Renato Paes De Barros, 04530-001 Sao Paulo
+  branch_code: XXX
+  city: Sao Paulo
+  country: Brazil
+- name: Socopa Sociedade Corretora Paulista S/a.
+  swift: SCPABRS1XXX
+  swift8: SCPABRS1
+  branch_name: Head Office
+  branch_address: Clemente De Faria 01014-907 Sao Paulo
+  branch_code: XXX
+  city: Sao Paulo
+  country: Brazil
+- name: Special Settlement And Custody System (selic
+  swift: SSCSBRR1XXX
+  swift8: SSCSBRR1
+  branch_name: Head Office
+  branch_address: Av. Presidente Vargas 30 20071-001 Rio De Janeiro
+  branch_code: XXX
+  city: Rio De Janeiro
+  country: Brazil
+- name: Spinelli S/a-corretora De Valores Mobiliarios E Cambio
+  swift: SCVCBRS1XXX
+  swift8: SCVCBRS1
+  branch_name: Head Office
+  branch_address: Avendia Brigadeiro Faria Lima 1355 1003 Sao Paulo
+  branch_code: XXX
+  city: Sao Paulo
+  country: Brazil
+- name: Squanto Investimentos Ltd
+  swift: SQINBRS1XXX
+  swift8: SQINBRS1
+  branch_name: Head Office
+  branch_address: 1046 Rua Pedroso Alvarenga 4531004 Sao Paulo
+  branch_code: XXX
+  city: Sao Paulo
+  country: Brazil
+- name: Stock S/a Cor De Cam E Val
+  swift: SCCVBRS1XXX
+  swift8: SCCVBRS1
+  branch_name: Head Office
+  branch_address: Rua Libero Badaro 377 01009-000 Sao Paulo
+  branch_code: XXX
+  city: Sao Paulo
+  country: Brazil
+- name: Talarico Corretora De Cambio E Titulos Mobiliariosltda.
+  swift: TALABRS1XXX
+  swift8: TALABRS1
+  branch_name: Head Office
+  branch_address: Edificio Rio 1014 Sao Paulo
+  branch_code: XXX
+  city: Sao Paulo
+  country: Brazil
+- name: Tese Gestao De Investimentos Ltda
+  swift: TEGIBRR1XXX
+  swift8: TEGIBRR1
+  branch_name: Head Office
+  branch_address: Praca Santos Dumont 70 22470060 Rio De Janeiro
+  branch_code: XXX
+  city: Rio De Janeiro
+  country: Brazil
+- name: The Royal Bank Of Scotland Brasil S.a.-banco De Investimento
+  swift: RBOSBRS1XXX
+  swift8: RBOSBRS1
+  branch_name: Head Office
+  branch_address: Spazio Faria Lima 01451-011 Sao Paulo
+  branch_code: XXX
+  city: Sao Paulo
+  country: Brazil
+- name: Theca Corretora De Cambio, Titulos E Valores Mobiliarios Ltda
+  swift: THECBRS1XXX
+  swift8: THECBRS1
+  branch_name: Head Office
+  branch_address: Condominio Edificio Bonfiglioli 1014 Sao Paulo
+  branch_code: XXX
+  city: Sao Paulo
+  country: Brazil
+- name: Titulo Corretora De Valores S/a
+  swift: TITUBRS1XXX
+  swift8: TITUBRS1
+  branch_name: Head Office
+  branch_address: Edificio Maximum 04548 Sao Paulo
+  branch_code: XXX
+  city: Sao Paulo
+  country: Brazil
+- name: Tov Cctvm Ltda
+  swift: TOVCBRS1XXX
+  swift8: TOVCBRS1
+  branch_name: Head Office
+  branch_address: Rua Joaquim Antunes, 246, 05415-000 Sao Paulo
+  branch_code: XXX
+  city: Sao Paulo
+  country: Brazil
+- name: Tov Corretora De Titulos, Cambio E Valores Mobiliarios Ltda
+  swift: TCTCBRS1XXX
+  swift8: TCTCBRS1
+  branch_name: Head Office
+  branch_address: Rua Joaquim Antunes 246 05415-000 Sao Paulo
+  branch_code: XXX
+  city: Sao Paulo
+  country: Brazil
+- name: Ts-tristar Imperial, Securities And Finance Ltda Service Centre Imperial
+  swift: TISNBRD1XXX
+  swift8: TISNBRD1
+  branch_name: Head Office
+  branch_address: Service Centre Imperial 74884 Goiania Goias
+  branch_code: XXX
+  city: Goiania
+  country: Brazil
+- name: Um Investimentos
+  swift: UMINBRS1XXX
+  swift8: UMINBRS1
+  branch_name: Head Office
+  branch_address: Av. Chedid Jafet 222 04551-065 Sao Paulo
+  branch_code: XXX
+  city: Sao Paulo
+  country: Brazil
+- name: Xp Investimentos Cctvm Sa
+  swift: IVCCBRR1XXX
+  swift8: IVCCBRR1
+  branch_name: Head Office
+  branch_address: Av. Borges De Medeiros N. 601 / 508 22430 041 Rio De Janeiro
+  branch_code: XXX
+  city: Rio De Janeiro
+  country: Brazil

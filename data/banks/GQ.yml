@@ -1,0 +1,90 @@
+---
+GQ:
+- name: Banco Nacional De Guinea Ecuatorial (bange
+  swift: NAGCGQGQXXX
+  swift8: NAGCGQGQ
+  branch_name: Head Office
+  branch_address: Sede Social Bange 430 Malabo
+  branch_code: XXX
+  city: Malabo
+  country: Equatorial Guinea
+- name: Banque Des Etats De L'afrique Centrale D.n. Guinee Equatoriale
+  swift: BEACGQGQ610
+  swift8: BEACGQGQ
+  branch_name: Agence De Bata
+  branch_address: Bata
+  branch_code: '610'
+  city: Bata
+  country: Equatorial Guinea
+- name: Banque Des Etats De L'afrique Centrale D.n. Guinee Equatoriale
+  swift: BEACGQGQXXX
+  swift8: BEACGQGQ
+  branch_name: Head Office
+  branch_address: Malabo
+  branch_code: XXX
+  city: Malabo
+  country: Equatorial Guinea
+- name: Bgfibank Guinee Equatoriale
+  swift: BGFIGQGQXXX
+  swift8: BGFIGQGQ
+  branch_name: Head Office
+  branch_address: Calle Bata 749 Malabo
+  branch_code: XXX
+  city: Malabo
+  country: Equatorial Guinea
+- name: Ccei Bank Ge
+  swift: CCEIGQGQBAT
+  swift8: CCEIGQGQ
+  branch_name: Bata
+  branch_address: Edificio Ccei Bank Guinea 157 Bata
+  branch_code: BAT
+  city: Bata
+  country: Equatorial Guinea
+- name: Ccei Bank Ge
+  swift: CCEIGQGQEBI
+  swift8: CCEIGQGQ
+  branch_name: Ebiebyin
+  branch_address: Edificio Ccei Bank Guinea 33 Bata
+  branch_code: EBI
+  city: Bata
+  country: Equatorial Guinea
+- name: Ccei Bank Ge
+  swift: CCEIGQGQMON
+  swift8: CCEIGQGQ
+  branch_name: Mongomo
+  branch_address: Edificio Ccei Bank Guinea 157 Bata
+  branch_code: MON
+  city: Bata
+  country: Equatorial Guinea
+- name: Ccei Bank Ge
+  swift: CCEIGQGQXXX
+  swift8: CCEIGQGQ
+  branch_name: Head Office
+  branch_address: Calle Presidente Nasser 428 Malabo
+  branch_code: XXX
+  city: Malabo
+  country: Equatorial Guinea
+- name: Commercial Bank Guinea Ecuatorial
+  swift: CBGMGQG1XXX
+  swift8: CBGMGQG1
+  branch_name: Head Office
+  branch_address: Cbge 184 Malabo
+  branch_code: XXX
+  city: Malabo
+  country: Equatorial Guinea
+- name: Ecobank Guinee Equatoriale
+  swift: ECOCGQGQXXX
+  swift8: ECOCGQGQ
+  branch_name: Head Office
+  branch_address: Avenida De La Independencia 01 268 Malabo
+  branch_code: XXX
+  city: Malabo
+  country: Equatorial Guinea
+- name: Societe Generale De Banque En Guinee Equatoriale
+  swift: SGGEGQGQXXX
+  swift8: SGGEGQGQ
+  branch_name: Head Office
+  branch_address: Avenida De La Independencia 686 Malabo
+  branch_code: XXX
+  city: Malabo
+  country: Equatorial Guinea

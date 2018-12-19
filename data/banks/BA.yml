@@ -1,0 +1,274 @@
+---
+BA:
+- name: Hypo Alpe-Adria-Bank D.D.
+  swift: HAABBA22XXX
+  swift8: HAABBA22
+  branch_name: Head Office
+  branch_address: Kneza Branimira 2b 88000 Mostar
+  branch_code: XXX
+  city: Mostar
+  country: Bosnia and Herzegovina
+- name: Balkan Investment Bank Ad
+  swift: BALVBA22XXX
+  swift8: BALVBA22
+  branch_name: Head Office
+  branch_address: Bana Milosavljevica 8 78000 Banja Luka
+  branch_code: XXX
+  city: Banja Luka
+  country: Bosnia and Herzegovina
+- name: Bor Banka Dd Sarajevo
+  swift: BOIRBA22XXX
+  swift8: BOIRBA22
+  branch_name: Head Office
+  branch_address: Obala Kulina Bana 18 71000 Sarajevo
+  branch_code: XXX
+  city: Sarajevo
+  country: Bosnia and Herzegovina
+- name: Bosna Bank International Dd
+  swift: BBIBBA22XXX
+  swift8: BBIBBA22
+  branch_name: Head Office
+  branch_address: Trg Djece Sarajeva 71000 Sarajevo
+  branch_code: XXX
+  city: Sarajevo
+  country: Bosnia and Herzegovina
+- name: Centralna Banka Bosne I Hercegovine
+  swift: CBBSBA22PDS
+  swift8: CBBSBA22
+  branch_name: Department for Public Debt Servicing
+  branch_address: Sarajevo
+  branch_code: PDS
+  city: Sarajevo
+  country: Bosnia and Herzegovina
+- name: Centralna Banka Bosne I Hercegovine
+  swift: CBBSBA22XXX
+  swift8: CBBSBA22
+  branch_name: Head Office
+  branch_address: M. Tita 25 71000 Sarajevo
+  branch_code: XXX
+  city: Sarajevo
+  country: Bosnia and Herzegovina
+- name: Development Bank Of The Federation Of Bosnia And Herzegovina
+  swift: IBBHBA22XXX
+  swift8: IBBHBA22
+  branch_name: Head Office
+  branch_address: Igmanska 1 71000 Sarajevo
+  branch_code: XXX
+  city: Sarajevo
+  country: Bosnia and Herzegovina
+- name: Euro Capital Bank
+  swift: EUCMBA21XXX
+  swift8: EUCMBA21
+  branch_name: Head Office
+  branch_address: Fra Andela Zvisdovica 1 71000 Sarajevo
+  branch_code: XXX
+  city: Sarajevo
+  country: Bosnia and Herzegovina
+- name: Fima Vrijednosnice D.o.o.
+  swift: FIJDBA21XXX
+  swift8: FIJDBA21
+  branch_name: Head Office
+  branch_address: Janeza Trdine 2/1 Rijeka (Rika)
+  branch_code: XXX
+  city: Rijeka Rika
+  country: Bosnia and Herzegovina
+- name: Hippo Banka Dd. Zenica
+  swift: HBZEBA21XXX
+  swift8: HBZEBA21
+  branch_name: Head Office
+  branch_address: Kutina Bana 79 72000 Zenica
+  branch_code: XXX
+  city: Zenica
+  country: Bosnia and Herzegovina
+- name: Hypo Alpe-adria-bank A.d.
+  swift: HAABBA2BXXX
+  swift8: HAABBA2B
+  branch_name: Head Office
+  branch_address: Aleja Svetog Save Bb 78000 Banja Luka
+  branch_code: XXX
+  city: Banja Luka
+  country: Bosnia and Herzegovina
+- name: Intesa Sanpaolo Banka D.d. Bosna I Hercegovina
+  swift: UPBKBA22XXX
+  swift8: UPBKBA22
+  branch_name: Head Office
+  branch_address: Obala Kulina Bana 9a 71000 Sarajevo
+  branch_code: XXX
+  city: Sarajevo
+  country: Bosnia and Herzegovina
+- name: Investiciono-komercijalna Banka Dd Zenica
+  swift: IKBZBA2XXXX
+  swift8: IKBZBA2X
+  branch_name: Head Office
+  branch_address: Trg Samoupravljaca 1 72000 Zenica
+  branch_code: XXX
+  city: Zenica
+  country: Bosnia and Herzegovina
+- name: Komercijalna Banka Ad Banja Luka
+  swift: KOBBBA22XXX
+  swift8: KOBBBA22
+  branch_name: Head Office
+  branch_address: Veselina Maslese 6 78000 Banja Luka
+  branch_code: XXX
+  city: Banja Luka
+  country: Bosnia and Herzegovina
+- name: Komercijalno-investiciona Banka Dd Velika Kladusa
+  swift: KINBBA22XXX
+  swift8: KINBBA22
+  branch_name: Head Office
+  branch_address: Ibrahima Mrzljaka 3 77230 Velika Kladusa
+  branch_code: XXX
+  city: Velika Kladusa
+  country: Bosnia and Herzegovina
+- name: Mf Banka A.d. Banja Luka
+  swift: MFBLBA22XXX
+  swift8: MFBLBA22
+  branch_name: Head Office
+  branch_address: Vase Pelagica 11a 78000 Banja Luka
+  branch_code: XXX
+  city: Banja Luka
+  country: Bosnia and Herzegovina
+- name: Moja Banka Dd Sarajevo
+  swift: FMBABA22XXX
+  swift8: FMBABA22
+  branch_name: Head Office
+  branch_address: Kolodvorska 5 71000 Sarajevo
+  branch_code: XXX
+  city: Sarajevo
+  country: Bosnia and Herzegovina
+- name: Nlb Banka D.d., Tuzla
+  swift: TBTUBA22XXX
+  swift8: TBTUBA22
+  branch_name: Head Office
+  branch_address: Marsala Tita 34 75000 Tuzla
+  branch_code: XXX
+  city: Tuzla
+  country: Bosnia and Herzegovina
+- name: Nlb Razvojna Banka A.d. Banja Luka
+  swift: RAZBBA22XXX
+  swift8: RAZBBA22
+  branch_name: Head Office
+  branch_address: Milana Tepica 4 78000 Banja Luka
+  branch_code: XXX
+  city: Banja Luka
+  country: Bosnia and Herzegovina
+- name: Nova Banka Ad Banjaluka
+  swift: NOBIBA22XXX
+  swift8: NOBIBA22
+  branch_name: Head Office
+  branch_address: Jovana Ducica 17 76300 Bijeljina
+  branch_code: XXX
+  city: Banja Luka
+  country: Bosnia and Herzegovina
+- name: Pavlovic International Bank A.d.
+  swift: PAVLBA22XXX
+  swift8: PAVLBA22
+  branch_name: Head Office
+  branch_address: Karadjordjeva 1 76300 Bijeljina
+  branch_code: XXX
+  city: Bijeljina
+  country: Bosnia and Herzegovina
+- name: Prijedorska Banka A.d.
+  swift: PRIJBA21XXX
+  swift8: PRIJBA21
+  branch_name: Head Office
+  branch_address: Prijevor
+  branch_code: XXX
+  city: Prijevor
+  country: Bosnia and Herzegovina
+- name: Privredna Banka Sarajevo Dd
+  swift: PBSCBA22XXX
+  swift8: PBSCBA22
+  branch_name: Head Office
+  branch_address: Alipasina 6 71000 Sarajevo
+  branch_code: XXX
+  city: Sarajevo
+  country: Bosnia and Herzegovina
+- name: Procredit Bank D.d. Sarajevo, Bosnia And Herzegovina
+  swift: MEBBBA22XXX
+  swift8: MEBBBA22
+  branch_name: Head Office
+  branch_address: Emerika Bluma 8 71000 Sarajevo
+  branch_code: XXX
+  city: Sarajevo
+  country: Bosnia and Herzegovina
+- name: Raiffeisen Bank D.d. Bosna I Hercegovina
+  swift: RZBABA2SXXX
+  swift8: RZBABA2S
+  branch_name: Head Office
+  branch_address: Danijela Ozme 3 71000 Sarajevo
+  branch_code: XXX
+  city: Sarajevo
+  country: Bosnia and Herzegovina
+- name: Sberbank A.d. Banja Luka
+  swift: SABRBA2BXXX
+  swift8: SABRBA2B
+  branch_name: Head Office
+  branch_address: Jevrejska 71 78000 Banja Luka
+  branch_code: XXX
+  city: Banja Luka
+  country: Bosnia and Herzegovina
+- name: Sberbank Bh D.d., Sarajevo
+  swift: SABRBA22XXX
+  swift8: SABRBA22
+  branch_name: Head Office
+  branch_address: Fra Andjela Zvizdovica 1 71000 Sarajevo
+  branch_code: XXX
+  city: Sarajevo
+  country: Bosnia and Herzegovina
+- name: Sparkasse Bank Dd
+  swift: ABSBBA22XXX
+  swift8: ABSBBA22
+  branch_name: Head Office
+  branch_address: Zmaja Od Bosne 7 71000 Sarajevo
+  branch_code: XXX
+  city: Sarajevo
+  country: Bosnia and Herzegovina
+- name: Tas D.o.o.
+  swift: TADOBA21XXX
+  swift8: TADOBA21
+  branch_name: No branch name
+  branch_address: No branch address
+  branch_code: XXX
+  city: Sarajevo
+  country: Bosnia and Herzegovina
+- name: Unicredit Bank
+  swift: UNCRBA22XXX
+  swift8: UNCRBA22
+  branch_name: Head Office
+  branch_address: Kardinala Stepinca Bb 88000 Mostar
+  branch_code: XXX
+  city: Mostar
+  country: Bosnia and Herzegovina
+- name: Unicredit Bank A.d. Banja Luka (former Nova Banjalucka Banka A.d. Banja Luka
+  swift: BLBABA22XXX
+  swift8: BLBABA22
+  branch_name: Head Office
+  branch_address: Marije Bursac 7 78000 Banja Luka
+  branch_code: XXX
+  city: Banja Luka
+  country: Bosnia and Herzegovina
+- name: Union Banka D.d. Sarajevo
+  swift: UBKSBA22XXX
+  swift8: UBKSBA22
+  branch_name: Head Office
+  branch_address: Dubrovacka 6 33000 Sarajevo
+  branch_code: XXX
+  city: Sarajevo
+  country: Bosnia and Herzegovina
+- name: Vakufska Banka Dd Sarajevo
+  swift: VAKUBA22XXX
+  swift8: VAKUBA22
+  branch_name: Head Office
+  branch_address: Ferhadija 2 71000 Sarajevo
+  branch_code: XXX
+  city: Sarajevo
+  country: Bosnia and Herzegovina
+- name: Ziraatbank Bh D.d. Sarajevo
+  swift: TZBBBA22XXX
+  swift8: TZBBBA22
+  branch_name: Head Office
+  branch_address: Strossmayerova 10 71000 Sarajevo
+  branch_code: XXX
+  city: Sarajevo
+  country: Bosnia and Herzegovina

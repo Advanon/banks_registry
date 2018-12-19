@@ -1,0 +1,5458 @@
+---
+ES:
+- name: Aareal Bank Ag
+  swift: AARBESM1XXX
+  swift8: AARBESM1
+  branch_name: Head Office
+  branch_address: Paseo De La Castellana 60 - 4d 28004 Madrid
+  branch_code: XXX
+  city: Madrid
+  country: Spain
+- name: Ahorro Corporacion Financiera, S.V., S.A.
+  swift: AHCFESMMMAD
+  swift8: AHCFESMM
+  branch_name: Madrid Office
+  branch_address: Madrid
+  branch_code: MAD
+  city: Madrid
+  country: Spain
+- name: Ahorro Corporacion Financiera, S.V., S.A.
+  swift: AHCFESMMXXX
+  swift8: AHCFESMM
+  branch_name: Head Office
+  branch_address: Paseo De La Castellana 89 28046 Madrid
+  branch_code: XXX
+  city: Madrid
+  country: Spain
+- name: Ahorro Corporacion Financiera, S.V., S.A.
+  swift: AHCFESMMVAL
+  swift8: AHCFESMM
+  branch_name: Valencia Office
+  branch_address: Valencia
+  branch_code: VAL
+  city: Valencia
+  country: Spain
+- name: Ahorro Corporacion Financiera, S.V., S.A.
+  swift: AHCFESMMBAR
+  swift8: AHCFESMM
+  branch_name: Barcelona Office
+  branch_address: Avenida Diagonal, 640 1d 08017 Barcelona
+  branch_code: BAR
+  city: Barcelona
+  country: Spain
+- name: Allfunds Bank
+  swift: ALLFESMMXXX
+  swift8: ALLFESMM
+  branch_name: Head Office
+  branch_address: Calle Nuria 57 (Colonia 28034 Madrid
+  branch_code: XXX
+  city: Madrid
+  country: Spain
+- name: Allied Banking Corporation
+  swift: ABCMESM1XXX
+  swift8: ABCMESM1
+  branch_name: Head Office
+  branch_address: Calle Gran Via, 31 (6-29) 28013 Madrid
+  branch_code: XXX
+  city: Madrid
+  country: Spain
+- name: Andbank España, S.A.
+  swift: BACAESMMXXX
+  swift8: BACAESMM
+  branch_name: Head Office
+  branch_address: Paseo De La Castellana, 55 28046 Madrid
+  branch_code: XXX
+  city: ''
+  country: Spain
+- name: Aresbank, S.A.
+  swift: AREBESMMBAR
+  swift8: AREBESMM
+  branch_name: '08007 Barcelona'
+  branch_address: Paseo De Gracia 25 08007 Barcelona
+  branch_code: BAR
+  city: Barcelona
+  country: Spain
+- name: Aresbank, S.A.
+  swift: AREBESMMCAN
+  swift8: AREBESMM
+  branch_name: 35007 Las Palmas De Gran Canaria
+  branch_address: Leon Y Castillo 324-326 35007 Las Palmas De Gran Canaria
+  branch_code: CAN
+  city: Las Palmas De Gran Canaria
+  country: Spain
+- name: Aresbank, S.A.
+  swift: AREBESMMINT
+  swift8: AREBESMM
+  branch_name: International Division
+  branch_address: Paseo De La Castellana 35 28046 Madrid
+  branch_code: INT
+  city: Madrid
+  country: Spain
+- name: Aresbank, S.A.
+  swift: AREBESMMINV
+  swift8: AREBESMM
+  branch_name: Financial Division
+  branch_address: Paseo De La Castellana 35 28046 Madrid
+  branch_code: INV
+  city: Madrid
+  country: Spain
+- name: Aresbank, S.A.
+  swift: AREBESMMMAD
+  swift8: AREBESMM
+  branch_name: 28046 Madrid
+  branch_address: Paseo De La Castellana 35 28046 Madrid
+  branch_code: MAD
+  city: Madrid
+  country: Spain
+- name: Aresbank, S.A.
+  swift: AREBESMMXXX
+  swift8: AREBESMM
+  branch_name: Head Office
+  branch_address: Paseo De La Castellana 257 28046 Madrid
+  branch_code: XXX
+  city: Madrid
+  country: Spain
+- name: Aresbank, S.A.
+  swift: AREBESMMMAR
+  swift8: AREBESMM
+  branch_name: 29600 Marbella
+  branch_address: Ctra. Nal. 340 (Malaga-Cadiz) Km 179 29600 Marbella
+  branch_code: MAR
+  city: Marbella
+  country: Spain
+- name: Attijariwafa Bank Europe Sucursal En Espana Sa
+  swift: BCMAESMMXXX
+  swift8: BCMAESMM
+  branch_name: Head Office
+  branch_address: C/Bravo Murillo, 210 28020 Madrid
+  branch_code: XXX
+  city: Madrid
+  country: Spain
+- name: Banca March, S.A
+  swift: BMARES2MXXX
+  swift8: BMARES2M
+  branch_name: Head Office
+  branch_address: Avenida Alejandro Rossello 8 07002 Palma De Mallorca
+  branch_code: XXX
+  city: Palma De Mallorca
+  country: Spain
+- name: Banca Popolare Etica
+  swift: ETICES21XXX
+  swift8: ETICES21
+  branch_name: No branch name
+  branch_address: No branch address
+  branch_code: XXX
+  city: ''
+  country: Spain
+- name: Banca Pueyo, S.A.
+  swift: BAPUES22XXX
+  swift8: BAPUES22
+  branch_name: Head Office
+  branch_address: Ramon Y Cajal, 1 06700 Villanueva De La Serena
+  branch_code: XXX
+  city: Villanueva De La Serena
+  country: Spain
+- name: Banco Alcala S.A.
+  swift: ALCLESMMXXX
+  swift8: ALCLESMM
+  branch_name: Head Office
+  branch_address: Goya 23 Madrid
+  branch_code: XXX
+  city: Madrid
+  country: Spain
+- name: Banco Banif, S.A.
+  swift: NORTESMMXXX
+  swift8: NORTESMM
+  branch_name: Head Office
+  branch_address: Paseo De La Castellana 24 28046 Madrid
+  branch_code: XXX
+  city: Madrid
+  country: Spain
+- name: Banco Bilbao Vizcaya Argentaria S.A
+  swift: BBVAESMMFXD
+  swift8: BBVAESMM
+  branch_name: Treasury Department
+  branch_address: Calle Clara Del Rey 26 28002 Madrid
+  branch_code: FXD
+  city: Madrid
+  country: Spain
+- name: Banco Bilbao Vizcaya Argentaria S.A
+  swift: BBVAESMMXXX
+  swift8: BBVAESMM
+  branch_name: For All Remaining Unlisted Branches
+  branch_address: Calle Clara Del Rey 26 28002 Madrid
+  branch_code: XXX
+  city: Madrid
+  country: Spain
+- name: Banco Bpi S.A.- Sucursal En Espana
+  swift: BBPIESMMXXX
+  swift8: BBPIESMM
+  branch_name: Head Office
+  branch_address: Paseo De La Castellana 40 Bis 28046 Madrid
+  branch_code: XXX
+  city: Madrid
+  country: Spain
+- name: Banco Caixa Geral
+  swift: CGDIESMMXXX
+  swift8: CGDIESMM
+  branch_name: Head Office
+  branch_address: Juan Ignacio Luca De Tena 1 28027 Madrid
+  branch_code: XXX
+  city: Madrid
+  country: Spain
+- name: Banco Caminos
+  swift: CCOCESMMXXX
+  swift8: CCOCESMM
+  branch_name: Head Office
+  branch_address: Calle Almagro 8 28010 Madrid
+  branch_code: XXX
+  city: Madrid
+  country: Spain
+- name: Banco Cooperativo Espanol S.A.
+  swift: BCOEESMMXXX
+  swift8: BCOEESMM
+  branch_name: Head Office
+  branch_address: Virgen De Los Peligros 6 28013 Madrid
+  branch_code: XXX
+  city: Madrid
+  country: Spain
+- name: Banco De Albacete, S.A.
+  swift: ALACESM1XXX
+  swift8: ALACESM1
+  branch_name: Head Office
+  branch_address: Av De Cantabria, S/N 28046 Madrid
+  branch_code: XXX
+  city: ''
+  country: Spain
+- name: Banco De Castilla-La Mancha, S.A.
+  swift: CECAESMM105
+  swift8: CECAESMM
+  branch_name: Cuenca
+  branch_address: Cuenca
+  branch_code: '105'
+  city: Cuenca
+  country: Spain
+- name: Banco De Crédito Social Cooperativo, S.A.
+  swift: BCCAESMMXXX
+  swift8: BCCAESMM
+  branch_name: No branch name
+  branch_address: No branch address
+  branch_code: XXX
+  city: ''
+  country: Spain
+- name: Banco De Depósitos, S.A.
+  swift: BDEPESM1XXX
+  swift8: BDEPESM1
+  branch_name: Head Office
+  branch_address: Building Beatriz 28006 Madrid
+  branch_code: XXX
+  city: ''
+  country: Spain
+- name: Banco De Espana
+  swift: ESPBESMMASI
+  swift8: ESPBESMM
+  branch_name: Asi
+  branch_address: Madrid
+  branch_code: ASI
+  city: Madrid
+  country: Spain
+- name: Banco De Espana
+  swift: ESPBESMMAYM
+  swift8: ESPBESMM
+  branch_name: Aym
+  branch_address: Madrid
+  branch_code: AYM
+  city: Madrid
+  country: Spain
+- name: Banco De Espana
+  swift: ESPBESMMC01
+  swift8: ESPBESMM
+  branch_name: C01
+  branch_address: Madrid
+  branch_code: C01
+  city: Madrid
+  country: Spain
+- name: Banco De Espana
+  swift: ESPBESMMC02
+  swift8: ESPBESMM
+  branch_name: C02
+  branch_address: Madrid
+  branch_code: C02
+  city: Madrid
+  country: Spain
+- name: Banco De Espana
+  swift: ESPBESMMC03
+  swift8: ESPBESMM
+  branch_name: C02
+  branch_address: Madrid
+  branch_code: C03
+  city: Madrid
+  country: Spain
+- name: Banco De Espana
+  swift: ESPBESMMC04
+  swift8: ESPBESMM
+  branch_name: C03
+  branch_address: Madrid
+  branch_code: C04
+  city: Madrid
+  country: Spain
+- name: Banco De Espana
+  swift: ESPBESMMC05
+  swift8: ESPBESMM
+  branch_name: C04
+  branch_address: Madrid
+  branch_code: C05
+  city: Madrid
+  country: Spain
+- name: Banco De Espana
+  swift: ESPBESMMC06
+  swift8: ESPBESMM
+  branch_name: C06
+  branch_address: Madrid
+  branch_code: C06
+  city: Madrid
+  country: Spain
+- name: Banco De Espana
+  swift: ESPBESMMC07
+  swift8: ESPBESMM
+  branch_name: C07
+  branch_address: Madrid
+  branch_code: C07
+  city: Madrid
+  country: Spain
+- name: Banco De Espana
+  swift: ESPBESMMC08
+  swift8: ESPBESMM
+  branch_name: C08
+  branch_address: Madrid
+  branch_code: C08
+  city: Madrid
+  country: Spain
+- name: Banco De Espana
+  swift: ESPBESMMC09
+  swift8: ESPBESMM
+  branch_name: C09
+  branch_address: Madrid
+  branch_code: C09
+  city: Madrid
+  country: Spain
+- name: Banco De Espana
+  swift: ESPBESMMC10
+  swift8: ESPBESMM
+  branch_name: C10
+  branch_address: Madrid
+  branch_code: C10
+  city: Madrid
+  country: Spain
+- name: Banco De Espana
+  swift: ESPBESMMC11
+  swift8: ESPBESMM
+  branch_name: C11
+  branch_address: Madrid
+  branch_code: C11
+  city: Madrid
+  country: Spain
+- name: Banco De Espana
+  swift: ESPBESMMC12
+  swift8: ESPBESMM
+  branch_name: C12
+  branch_address: Madrid
+  branch_code: C12
+  city: Madrid
+  country: Spain
+- name: Banco De Espana
+  swift: ESPBESMMC13
+  swift8: ESPBESMM
+  branch_name: C13
+  branch_address: Madrid
+  branch_code: C13
+  city: Madrid
+  country: Spain
+- name: Banco De Espana
+  swift: ESPBESMMECB
+  swift8: ESPBESMM
+  branch_name: Foreign Operations Back Office
+  branch_address: Madrid
+  branch_code: ECB
+  city: Madrid
+  country: Spain
+- name: Banco De Espana
+  swift: ESPBESMMEUX
+  swift8: ESPBESMM
+  branch_name: Interncb
+  branch_address: Madrid
+  branch_code: EUX
+  city: Madrid
+  country: Spain
+- name: Banco De Espana
+  swift: ESPBESMMFGE
+  swift8: ESPBESMM
+  branch_name: Fge
+  branch_address: Madrid
+  branch_code: FGE
+  city: Madrid
+  country: Spain
+- name: Banco De Espana
+  swift: ESPBESMMFGS
+  swift8: ESPBESMM
+  branch_name: Fgs
+  branch_address: Madrid
+  branch_code: FGS
+  city: Madrid
+  country: Spain
+- name: Banco De Espana
+  swift: ESPBESMMFRB
+  swift8: ESPBESMM
+  branch_name: Frob
+  branch_address: Madrid
+  branch_code: FRB
+  city: Madrid
+  country: Spain
+- name: Banco De Finanzas E Inversiones S.A. (Fibanc)
+  swift: BFIVESBBXXX
+  swift8: BFIVESBB
+  branch_name: Head Office
+  branch_address: Avenida Diagonal 668-670 08034 Barcelona
+  branch_code: XXX
+  city: Barcelona
+  country: Spain
+- name: Banco De La Nacion Argentina, Sucursal Madrid
+  swift: NACNESMMXXX
+  swift8: NACNESMM
+  branch_name: Head Office
+  branch_address: Nunez De Balboa 73 28001 Madrid
+  branch_code: XXX
+  city: Madrid
+  country: Spain
+- name: Banco De La Provincia De Buenos Aires
+  swift: PRBAESM1XXX
+  swift8: PRBAESM1
+  branch_name: Head Office
+  branch_address: Calle Serrano 41 28046 Madrid
+  branch_code: XXX
+  city: Madrid
+  country: Spain
+- name: Banco De Madrid S.A.
+  swift: MADRESMMXXX
+  swift8: MADRESMM
+  branch_name: Head Office
+  branch_address: Ps Castellana 2a 28046 Madrid
+  branch_code: XXX
+  city: Madrid
+  country: Spain
+- name: Banco De Promoción De Negocios, S.A. (Promobanc)
+  swift: PRNEESM1XXX
+  swift8: PRNEESM1
+  branch_name: Head Office
+  branch_address: Bbv Building 28004 Madrid
+  branch_code: XXX
+  city: ''
+  country: Spain
+- name: Banco De Sabadell S.A
+  swift: BSABESBBXXX
+  swift8: BSABESBB
+  branch_name: Head Office
+  branch_address: Plaza Catalunya 1 08201 Sabadell
+  branch_code: XXX
+  city: Sabadell
+  country: Spain
+- name: Banco Depositario Bbva, S.A.
+  swift: BVADESMMXXX
+  swift8: BVADESMM
+  branch_name: Head Office
+  branch_address: Clara Del Rey Building 28002 Madrid
+  branch_code: XXX
+  city: Madrid
+  country: Spain
+- name: Banco Do Brasil S.A
+  swift: BRASESMMXXX
+  swift8: BRASESMM
+  branch_name: Head Office
+  branch_address: C/Jose Ortega Y Gasset 29 28006 Madrid
+  branch_code: XXX
+  city: Madrid
+  country: Spain
+- name: Banco Espanol De Credito
+  swift: ESPCESMMXXX
+  swift8: ESPCESMM
+  branch_name: Madrid and All Spanish Offices
+  branch_address: Cpd 28033 Madrid
+  branch_code: XXX
+  city: Madrid
+  country: Spain
+- name: Banco Espirito Santo Investimento Sucursal Espana
+  swift: ESSIESMMXXX
+  swift8: ESSIESMM
+  branch_name: Head Office
+  branch_address: Serrano 88 28006 Madrid
+  branch_code: XXX
+  city: Madrid
+  country: Spain
+- name: Banco Espirito Santo, Spain Branch
+  swift: BESMESMMXXX
+  swift8: BESMESMM
+  branch_name: Head Office
+  branch_address: C/ Serrano 88 28006 Madrid
+  branch_code: XXX
+  city: Madrid
+  country: Spain
+- name: Banco Europeo De Finanzas, S.A.
+  swift: BEDFESM1XXX
+  swift8: BEDFESM1
+  branch_name: Head Office
+  branch_address: Cl Virgen De Los Peligros 5 28013 Madrid
+  branch_code: XXX
+  city: ''
+  country: Spain
+- name: Banco Finantia Sofinloc, S.A.
+  swift: FIOFESM1XXX
+  swift8: FIOFESM1
+  branch_name: Head Office
+  branch_address: Avenida Menendez Pelayo, 67 28009 Madrid
+  branch_code: XXX
+  city: ''
+  country: Spain
+- name: Banco Industrial De Bilbao, S.A.
+  swift: INBBESM1XXX
+  swift8: INBBESM1
+  branch_name: Head Office
+  branch_address: Bbv Building 28004 Bilbao
+  branch_code: XXX
+  city: ''
+  country: Spain
+- name: Banco Inversis Net, S.A.
+  swift: INVLESMMXXX
+  swift8: INVLESMM
+  branch_name: Head Office
+  branch_address: Av. De La Hispanidad, 6 28042 Madrid
+  branch_code: XXX
+  city: Madrid
+  country: Spain
+- name: Banco Mare Nostrum, S.A.
+  swift: GBMNESMMXXX
+  swift8: GBMNESMM
+  branch_name: Head Office
+  branch_address: 28 Calle Alcala 28014 Madrid
+  branch_code: XXX
+  city: Madrid
+  country: Spain
+- name: Banco Occidental, S.A.
+  swift: OCBAESM1XXX
+  swift8: OCBAESM1
+  branch_name: Head Office
+  branch_address: Ps De La Castellana, 81 Pl. 5 28006 Madrid
+  branch_code: XXX
+  city: ''
+  country: Spain
+- name: Banco Pastor S.A.
+  swift: PSTRESMMBAR
+  swift8: PSTRESMM
+  branch_name: '08007 Barcelona'
+  branch_address: Passeo De Gracia 54 08007 Barcelona
+  branch_code: BAR
+  city: Barcelona
+  country: Spain
+- name: Banco Pastor S.A.
+  swift: PSTRESMMBIL
+  swift8: PSTRESMM
+  branch_name: 48009 Bilbao
+  branch_address: Plaza Del Ensache 1 48009 Bilbao
+  branch_code: BIL
+  city: Bilbao
+  country: Spain
+- name: Banco Pastor S.A.
+  swift: PSTRESMMLCO
+  swift8: PSTRESMM
+  branch_name: 15003 La Coruna (a Coruna)
+  branch_address: Canton Pequeno 1 15003 La Coruna (a Coruna)
+  branch_code: LCO
+  city: La Coruna (a Coruna)
+  country: Spain
+- name: Banco Pastor S.A.
+  swift: PSTRESMMXXX
+  swift8: PSTRESMM
+  branch_name: Head Office
+  branch_address: C/Orillamar 71 15002 La Coruna (a Coruna)
+  branch_code: XXX
+  city: La Coruna (a Coruna)
+  country: Spain
+- name: Banco Pastor S.A.
+  swift: PSTRESMMVAL
+  swift8: PSTRESMM
+  branch_name: 46002 Valencia
+  branch_address: Pascual Y Genis 20 46002 Valencia
+  branch_code: VAL
+  city: Valencia
+  country: Spain
+- name: Banco Pastor S.A.
+  swift: PSTRESMMVGO
+  swift8: PSTRESMM
+  branch_name: Vigo
+  branch_address: Vigo
+  branch_code: VGO
+  city: Vigo
+  country: Spain
+- name: Banco Pastor S.A.
+  swift: PSTRESMMZAR
+  swift8: PSTRESMM
+  branch_name: Zaragoza
+  branch_address: Zaragoza
+  branch_code: ZAR
+  city: Zaragoza
+  country: Spain
+- name: Banco Pichincha España, S.A.
+  swift: PICHESMMXXX
+  swift8: PICHESMM
+  branch_name: Head Office
+  branch_address: Lagasca 4 28001 Madrid
+  branch_code: XXX
+  city: ''
+  country: Spain
+- name: Banco Popular Espanol, S.A.
+  swift: POPUESMMBAR
+  swift8: POPUESMM
+  branch_name: Barcelona
+  branch_address: Barcelona
+  branch_code: BAR
+  city: Barcelona
+  country: Spain
+- name: Banco Popular Espanol, S.A.
+  swift: POPUESMMBOL
+  swift8: POPUESMM
+  branch_name: Securities
+  branch_address: Madrid
+  branch_code: BOL
+  city: Madrid
+  country: Spain
+- name: Banco Popular Espanol, S.A.
+  swift: POPUESMMCMG
+  swift8: POPUESMM
+  branch_name: Cash Management
+  branch_address: Madrid
+  branch_code: CMG
+  city: Madrid
+  country: Spain
+- name: Banco Popular Espanol, S.A.
+  swift: POPUESMMREX
+  swift8: POPUESMM
+  branch_name: Red Exterior Department
+  branch_address: Madrid
+  branch_code: REX
+  city: Madrid
+  country: Spain
+- name: Banco Popular Espanol, S.A.
+  swift: POPUESMMXXX
+  swift8: POPUESMM
+  branch_name: Head Office
+  branch_address: C/ Velazquez 34 28001 Madrid
+  branch_code: XXX
+  city: Madrid
+  country: Spain
+- name: Banco Português De Investimento, S.A., S.E.
+  swift: BPIPESM1XXX
+  swift8: BPIPESM1
+  branch_name: Head Office
+  branch_address: Paseo De La Castellana 40 28046 Madrid
+  branch_code: XXX
+  city: ''
+  country: Spain
+- name: Banco Santander S.A Ciudad Grupo Santander.Edf.Pampa
+  swift: BSCHESMGXXX
+  swift8: BSCHESMG
+  branch_name: Head Office
+  branch_address: Av Cantabria S/N 28660 Madrid
+  branch_code: XXX
+  city: Madrid
+  country: Spain
+- name: Banco Santander S.A.
+  swift: BSCHESMMCLS
+  swift8: BSCHESMM
+  branch_name: Santander Madrid Cls Control Branch
+  branch_address: Madrid
+  branch_code: CLS
+  city: Madrid
+  country: Spain
+- name: Banco Santander S.A.
+  swift: BSCHESMMXXX
+  swift8: BSCHESMM
+  branch_name: All Spain Branches
+  branch_address: Ciudad Grupo Santander 28660 Madrid
+  branch_code: XXX
+  city: Madrid
+  country: Spain
+- name: Bancofar, S.A.
+  swift: BAOFESM1XXX
+  swift8: BAOFESM1
+  branch_name: Head Office
+  branch_address: C/ Fortuny 51 28010 Madrid
+  branch_code: XXX
+  city: ''
+  country: Spain
+- name: Bancopopular-E S.A.
+  swift: POPLESMMXXX
+  swift8: POPLESMM
+  branch_name: No branch name
+  branch_address: No branch address
+  branch_code: XXX
+  city: Madrid
+  country: Spain
+- name: Bank Of America N.A. Madrid
+  swift: BOFAES2XXXX
+  swift8: BOFAES2X
+  branch_name: Head Office
+  branch_address: Torre Picasso 28020 Madrid
+  branch_code: XXX
+  city: Madrid
+  country: Spain
+- name: Bank Of Tokyo-Mitsubishi Ufj Ltd., The
+  swift: BOTKESMXXXX
+  swift8: BOTKESMX
+  branch_name: Madrid Branch
+  branch_address: Calle Jose Ortega Y Gasse 29-30 28006 Madrid
+  branch_code: XXX
+  city: Madrid
+  country: Spain
+- name: Bankia S.A.
+  swift: CAHMESMMXXX
+  swift8: CAHMESMM
+  branch_name: Head Office
+  branch_address: Pintor Sorolla 8 46002 Valencia
+  branch_code: XXX
+  city: Valencia
+  country: Spain
+- name: Bankinter, S.A.
+  swift: BKBKESMMALI
+  swift8: BKBKESMM
+  branch_name: Alicante
+  branch_address: Alicante
+  branch_code: ALI
+  city: Alicante
+  country: Spain
+- name: Bankinter, S.A.
+  swift: BKBKESMMBAR
+  swift8: BKBKESMM
+  branch_name: Barcelona
+  branch_address: Barcelona
+  branch_code: BAR
+  city: Barcelona
+  country: Spain
+- name: Bankinter, S.A.
+  swift: BKBKESMMBIL
+  swift8: BKBKESMM
+  branch_name: Bilbao
+  branch_address: Bilbao
+  branch_code: BIL
+  city: Bilbao
+  country: Spain
+- name: Bankinter, S.A.
+  swift: BKBKESMMMAL
+  swift8: BKBKESMM
+  branch_name: Malaga
+  branch_address: Malaga
+  branch_code: MAL
+  city: Malaga
+  country: Spain
+- name: Bankinter, S.A.
+  swift: BKBKESMMBAC
+  swift8: BKBKESMM
+  branch_name: Back Office Tesoreria-Arbitrajes
+  branch_address: Madrid
+  branch_code: BAC
+  city: Madrid
+  country: Spain
+- name: Bankinter, S.A.
+  swift: BKBKESMMFON
+  swift8: BKBKESMM
+  branch_name: Funds Department
+  branch_address: Madrid
+  branch_code: FON
+  city: Madrid
+  country: Spain
+- name: Bankinter, S.A.
+  swift: BKBKESMMXXX
+  swift8: BKBKESMM
+  branch_name: Head Office
+  branch_address: Pico De San Pedro 2 28760 Madrid
+  branch_code: XXX
+  city: Madrid
+  country: Spain
+- name: Bankinter, S.A.
+  swift: BKBKESMMMUR
+  swift8: BKBKESMM
+  branch_name: Murcia
+  branch_address: Murcia
+  branch_code: MUR
+  city: Murcia
+  country: Spain
+- name: Bankinter, S.A.
+  swift: BKBKESMMNAV
+  swift8: BKBKESMM
+  branch_name: Pamplona
+  branch_address: Pamplona
+  branch_code: NAV
+  city: Pamplona
+  country: Spain
+- name: Bankinter, S.A.
+  swift: BKBKESMMPAL
+  swift8: BKBKESMM
+  branch_name: Palma De Mallorca
+  branch_address: Palma De Mallorca
+  branch_code: PAL
+  city: Palma De Mallorca
+  country: Spain
+- name: Bankinter, S.A.
+  swift: BKBKESMMTEN
+  swift8: BKBKESMM
+  branch_name: Santa Cruz De Tenerife
+  branch_address: Santa Cruz De Tenerife
+  branch_code: TEN
+  city: Santa Cruz De Tenerife
+  country: Spain
+- name: Bankinter, S.A.
+  swift: BKBKESMMSSE
+  swift8: BKBKESMM
+  branch_name: San Sebastian
+  branch_address: San Sebastian
+  branch_code: SSE
+  city: San Sebastian
+  country: Spain
+- name: Bankinter, S.A.
+  swift: BKBKESMMSAN
+  swift8: BKBKESMM
+  branch_name: Santander
+  branch_address: Santander
+  branch_code: SAN
+  city: Santander
+  country: Spain
+- name: Bankinter, S.A.
+  swift: BKBKESMMSEV
+  swift8: BKBKESMM
+  branch_name: Sevilla
+  branch_address: Sevilla
+  branch_code: SEV
+  city: Sevilla
+  country: Spain
+- name: Bankinter, S.A.
+  swift: BKBKESMMVAL
+  swift8: BKBKESMM
+  branch_name: Valencia
+  branch_address: Valencia
+  branch_code: VAL
+  city: Valencia
+  country: Spain
+- name: Bankinter, S.A.
+  swift: BKBKESMMVIG
+  swift8: BKBKESMM
+  branch_name: Vigo
+  branch_address: Vigo
+  branch_code: VIG
+  city: Vigo
+  country: Spain
+- name: Bankinter, S.A.
+  swift: BKBKESMMZAR
+  swift8: BKBKESMM
+  branch_name: Zaragoza
+  branch_address: Zaragoza
+  branch_code: ZAR
+  city: Zaragoza
+  country: Spain
+- name: Bankoa S.A. Credit Agricole
+  swift: BKOAES22XXX
+  swift8: BKOAES22
+  branch_name: Head Office
+  branch_address: Avenida De La Libertad 5 20004 San Sebastian
+  branch_code: XXX
+  city: San Sebastian
+  country: Spain
+- name: Banque Chaabi Du Maroc Sucursal Espana
+  swift: BCDMESMMXXX
+  swift8: BCDMESMM
+  branch_name: Head Office
+  branch_address: Banque Chaabi Du Maroc 28002 Madrid
+  branch_code: XXX
+  city: Madrid
+  country: Spain
+- name: Banque Marocaine Du Commerce Exterieur International, S.A.
+  swift: BMCEESMMXXX
+  swift8: BMCEESMM
+  branch_name: Head Office
+  branch_address: Serrano 59 28006 Madrid
+  branch_code: XXX
+  city: Madrid
+  country: Spain
+- name: Banque Privee Edmond De Rothschild Europe, Sucursal En Espana
+  swift: PRIBESMXXXX
+  swift8: PRIBESMX
+  branch_name: Head Office
+  branch_address: Calle Orfila 8 28010 Madrid
+  branch_code: XXX
+  city: Madrid
+  country: Spain
+- name: Banque Psa Finance, S.E.
+  swift: PSABESM1XXX
+  swift8: PSABESM1
+  branch_name: Head Office
+  branch_address: Cl Julian Camarillo, 6 28040 Madrid
+  branch_code: XXX
+  city: ''
+  country: Spain
+- name: Barclays Bank Plc
+  swift: BPLCESMMXXX
+  swift8: BPLCESMM
+  branch_name: Head Office
+  branch_address: Calle Mateo Inurria, 15 28036 Madrid
+  branch_code: XXX
+  city: Madrid
+  country: Spain
+- name: Barclays Bank S.A.
+  swift: BARCESMMXXX
+  swift8: BARCESMM
+  branch_name: Head Office
+  branch_address: Calle Mateo Inurria, 15 28036 Madrid
+  branch_code: XXX
+  city: Madrid
+  country: Spain
+- name: Bbva Banco De Financiación, S.A.
+  swift: BBFIES21XXX
+  swift8: BBFIES21
+  branch_name: Head Office
+  branch_address: G. via Don Diego Lopez De Haro, 1, 48001 Bilbao
+  branch_code: XXX
+  city: ''
+  country: Spain
+- name: Bigbank As Consumer Finance, Sucursal En España
+  swift: BIGKESM1XXX
+  swift8: BIGKESM1
+  branch_name: No branch name
+  branch_address: No branch address
+  branch_code: XXX
+  city: ''
+  country: Spain
+- name: Bilbao Bizkaia Kutxa
+  swift: BASKES2BXXX
+  swift8: BASKES2B
+  branch_name: Head Office
+  branch_address: Gran via 30 48009 Bilbao
+  branch_code: XXX
+  city: Bilbao
+  country: Spain
+- name: Bmce Euroservices
+  swift: BMEUESM1XXX
+  swift8: BMEUESM1
+  branch_name: Head Office
+  branch_address: Serrano 59 28006 Madrid
+  branch_code: XXX
+  city: Madrid
+  country: Spain
+- name: Bnp Paribas Espana, S.A.
+  swift: BNPAESMMXXX
+  swift8: BNPAESMM
+  branch_name: Head Office
+  branch_address: Ribera Del Loira, 28 28042 Madrid
+  branch_code: XXX
+  city: Madrid
+  country: Spain
+- name: Bnp Paribas Espana, S.A.
+  swift: BNPAESMZXXX
+  swift8: BNPAESMZ
+  branch_name: Head Office
+  branch_address: Ribera Del Loira, 28 28042 Madrid
+  branch_code: XXX
+  city: Madrid
+  country: Spain
+- name: Bnp Paribas S.A. Sucursal En Espana
+  swift: BNPAESMHXXX
+  swift8: BNPAESMH
+  branch_name: Head Office
+  branch_address: Calle Genova 27 28004 Madrid
+  branch_code: XXX
+  city: Madrid
+  country: Spain
+- name: Bnp Paribas S.A. Sucursal En Espana
+  swift: BNPAESMSXXX
+  swift8: BNPAESMS
+  branch_name: Head Office
+  branch_address: Calle Ribera Del Loira 28 28042 Madrid
+  branch_code: XXX
+  city: Madrid
+  country: Spain
+- name: Bnp Paribas Securities Services, Spain
+  swift: PARBESMHXXX
+  swift8: PARBESMH
+  branch_name: Head Office
+  branch_address: Madrid
+  branch_code: XXX
+  city: Madrid
+  country: Spain
+- name: Bnp Paribas Securities Services, Spain
+  swift: PARBESMXFDA
+  swift8: PARBESMX
+  branch_name: Madrid
+  branch_address: Madrid
+  branch_code: FDA
+  city: Madrid
+  country: Spain
+- name: Bnp Paribas Securities Services, Spain
+  swift: PARBESMXXXX
+  swift8: PARBESMX
+  branch_name: Head Office
+  branch_address: Ribera Del Loira 28 28042 Madrid
+  branch_code: XXX
+  city: Madrid
+  country: Spain
+- name: C.M. Capital Markets Bolsa Sociedad De Valores, S.A.
+  swift: CAPIESMMXXX
+  swift8: CAPIESMM
+  branch_name: Head Office
+  branch_address: Centro Empresarial El Plantio 28023 Madrid
+  branch_code: XXX
+  city: Madrid
+  country: Spain
+- name: C.M. Capital Markets Bolsa Sociedad De Valores, S.A.
+  swift: CAPIESMMBKR
+  swift8: CAPIESMM
+  branch_name: Brokerage Services
+  branch_address: Madrid
+  branch_code: BKR
+  city: Madrid
+  country: Spain
+- name: Caixa De Credit Dels. Enginyers-Caja De Credito De Los Ingenieros Soc. Coop.
+    De Credito
+  swift: CDENESBBTES
+  swift8: CDENESBB
+  branch_name: Pruebas Tesoria
+  branch_address: Potosi 08030 Barcelona
+  branch_code: TES
+  city: Barcelona
+  country: Spain
+- name: Caixa De Credit Dels. Enginyers-Caja De Credito De Los Ingenieros Soc. Coop.
+    De Credito
+  swift: CDENESBBXXX
+  swift8: CDENESBB
+  branch_name: Head Office
+  branch_address: Potosi 22 08030 Barcelona
+  branch_code: XXX
+  city: Barcelona
+  country: Spain
+- name: Caixa Destalvis De Catalunya, Tarragona I Manresa(Catalunyacaixa)
+  swift: CESCESBB008
+  swift8: CESCESBB
+  branch_name: Credit Management
+  branch_address: C/Pi 2 .El Prat De Llobregat 08820 Barcelona
+  branch_code: '008'
+  city: Barcelona
+  country: Spain
+- name: Caixa Destalvis De Catalunya, Tarragona I Manresa(Catalunyacaixa)
+  swift: CESCESBB544
+  swift8: CESCESBB
+  branch_name: Treasury Department
+  branch_address: Placa Antoni Maura, 6 08003 Barcelona
+  branch_code: '544'
+  city: Barcelona
+  country: Spain
+- name: Caixa Destalvis De Catalunya, Tarragona I Manresa(Catalunyacaixa)
+  swift: CESCESBB571
+  swift8: CESCESBB
+  branch_name: Back Office Internacional
+  branch_address: C/ Pi 2. El Prat De Llobregat 08820 Barcelona
+  branch_code: '571'
+  city: Barcelona
+  country: Spain
+- name: Caixa Destalvis De Catalunya, Tarragona I Manresa(Catalunyacaixa)
+  swift: CESCESBB600
+  swift8: CESCESBB
+  branch_name: Bke Department
+  branch_address: Plaza Antoni Maura 6 08003 Barcelona
+  branch_code: '600'
+  city: Barcelona
+  country: Spain
+- name: Caixa Destalvis De Catalunya, Tarragona I Manresa(Catalunyacaixa)
+  swift: CESCESBBXXX
+  swift8: CESCESBB
+  branch_name: Main Branch
+  branch_address: Plaza Antoni Maura 6 08003 Barcelona
+  branch_code: XXX
+  city: Barcelona
+  country: Spain
+- name: Caixa Destalvis Del Penedes
+  swift: CECAESMM081
+  swift8: CECAESMM
+  branch_name: Barcelona
+  branch_address: Rambla Nostra Senyora 2-4 08720 Vilafranca Del Penedes
+  branch_code: '081'
+  city: Vilafranca Del Penedes
+  country: Spain
+- name: Caixa Geral De Depósitos, S.A., S.E.
+  swift: CGDIES21XXX
+  swift8: CGDIES21
+  branch_name: Head Office
+  branch_address: Juan Ignacio Luca De Tena 1 28027 Madrid
+  branch_code: XXX
+  city: ''
+  country: Spain
+- name: Caixa Popular Caixa Rural
+  swift: BCOEESMM159
+  swift8: BCOEESMM
+  branch_name: 46980 Paterna
+  branch_address: Avenida Juan De La Cierva 9 46980 Paterna
+  branch_code: '159'
+  city: Paterna
+  country: Spain
+- name: Caixa R. De Callosa De En Sarria Ccv
+  swift: CCRIES2A105
+  swift8: CCRIES2A
+  branch_name: Callosa De Ensarria
+  branch_address: Callosa De Ensarria
+  branch_code: '105'
+  city: ''
+  country: Spain
+- name: Caixa R. De Turis, C.C.V
+  swift: CCRIES2A123
+  swift8: CCRIES2A
+  branch_name: 46389 Turis
+  branch_address: Plaza Constitucion, 2 46389 Turis
+  branch_code: '123'
+  city: Turis
+  country: Spain
+- name: Caixa R.S.Josep De Vilavella Sccv
+  swift: CCRIES2A160
+  swift8: CCRIES2A
+  branch_name: Villavieja
+  branch_address: Villavieja
+  branch_code: '160'
+  city: ''
+  country: Spain
+- name: Caixa Rural Albalat Dels Sorells
+  swift: CCRIES2A186
+  swift8: CCRIES2A
+  branch_name: 46135 Albalat Dels Sorells
+  branch_address: Calle Padre Salvador, 11 46135 Albalat Dels Sorells
+  branch_code: '186'
+  city: Albalat Dels Sorells
+  country: Spain
+- name: Caixa Rural Galega
+  swift: BCOEESMM070
+  swift8: BCOEESMM
+  branch_name: Lugo
+  branch_address: Lugo
+  branch_code: '070'
+  city: Lugo
+  country: Spain
+- name: Caixa Rural Lalcora
+  swift: BCOEESMM113
+  swift8: BCOEESMM
+  branch_name: 12110 Alcora
+  branch_address: San Francisco 14 12110 Alcora
+  branch_code: '113'
+  city: Alcora
+  country: Spain
+- name: Caixa Rural Torrent, C.C.V.
+  swift: CCRIES2A118
+  swift8: CCRIES2A
+  branch_name: Torrent
+  branch_address: Torrent
+  branch_code: '118'
+  city: ''
+  country: Spain
+- name: Caixabank, S.A.
+  swift: CAIXESBBXXX
+  swift8: CAIXESBB
+  branch_name: Main Branch
+  branch_address: Avenida Diagonal 621-629 08028 Barcelona
+  branch_code: XXX
+  city: Barcelona
+  country: Spain
+- name: Caixabank, S.A.
+  swift: CAIXESBB609
+  swift8: CAIXESBB
+  branch_name: 48009 Bilbao
+  branch_address: Granvia Lopez De Haro 38 48009 Bilbao
+  branch_code: '609'
+  city: Bilbao
+  country: Spain
+- name: Caixabank, S.A.
+  swift: CAIXESBB655
+  swift8: CAIXESBB
+  branch_name: 17001 Gerona (Girona)
+  branch_address: Santa Clara 11 17001 Gerona (Girona)
+  branch_code: '655'
+  city: Gerona (Girona)
+  country: Spain
+- name: Caixabank, S.A.
+  swift: CAIXESBB521
+  swift8: CAIXESBB
+  branch_name: 35007 Las Palmas De Gran Canaria
+  branch_address: Leon Y Castillo 429 35007 Las Palmas De Gran Canaria
+  branch_code: '521'
+  city: Las Palmas De Gran Canaria
+  country: Spain
+- name: Caixabank, S.A.
+  swift: CAIXESBB654
+  swift8: CAIXESBB
+  branch_name: 25007 Lerida (Lleida)
+  branch_address: Plaza De La Sal 5 Y 6 25007 Lerida (Lleida)
+  branch_code: '654'
+  city: Lerida (Lleida)
+  country: Spain
+- name: Caixabank, S.A.
+  swift: CAIXESBBMAD
+  swift8: CAIXESBB
+  branch_name: Madrid Territorial
+  branch_address: Paseo De La Castellana 51 28046 Madrid
+  branch_code: MAD
+  city: Madrid
+  country: Spain
+- name: Caixabank, S.A.
+  swift: CAIXESBB652
+  swift8: CAIXESBB
+  branch_name: 07002 Palma De Mallorca
+  branch_address: Avenida Alexandre Rossello 40 07002 Palma De Mallorca
+  branch_code: '652'
+  city: Palma De Mallorca
+  country: Spain
+- name: Caixabank, S.A.
+  swift: CAIXESBB523
+  swift8: CAIXESBB
+  branch_name: 38003 Santa Cruz De Tenerife
+  branch_address: General Gutierrez 4 38003 Santa Cruz De Tenerife
+  branch_code: '523'
+  city: Santa Cruz De Tenerife
+  country: Spain
+- name: Caixabank, S.A.
+  swift: CAIXESBBTAR
+  swift8: CAIXESBB
+  branch_name: 43001 Tarragona
+  branch_address: Rambla Nova 98 43001 Tarragona
+  branch_code: TAR
+  city: Tarragona
+  country: Spain
+- name: Caixabank, S.A.
+  swift: CAIXESBB666
+  swift8: CAIXESBB
+  branch_name: 46002 Valencia
+  branch_address: Plaza Ayuntamiento 21 46002 Valencia
+  branch_code: '666'
+  city: Valencia
+  country: Spain
+- name: Caixabank, S.A.
+  swift: CAIXESBB528
+  swift8: CAIXESBB
+  branch_name: 50001 Zaragoza
+  branch_address: Plaza Aragon 10 50001 Zaragoza
+  branch_code: '528'
+  city: Zaragoza
+  country: Spain
+- name: Caja De Ahorros De Murcia
+  swift: CECAESMM043
+  swift8: CECAESMM
+  branch_name: 30005 Murcia
+  branch_address: Cajamurcia 30005 Murcia
+  branch_code: '043'
+  city: Murcia
+  country: Spain
+- name: Caja De Ahorros De Pollensa
+  swift: CECAESMM056
+  swift8: CECAESMM
+  branch_name: Baleares
+  branch_address: Placa Major 7 07460 Pollensa
+  branch_code: '056'
+  city: Pollensa
+  country: Spain
+- name: Caja De Ahorros De Salamanca Y Soria (Caja Duero)
+  swift: CSSOES2SFIN
+  swift8: CSSOES2S
+  branch_name: Financial Department
+  branch_address: Madrid
+  branch_code: FIN
+  city: Madrid
+  country: Spain
+- name: Caja De Ahorros De Salamanca Y Soria (Caja Duero)
+  swift: CSSOES2STRE
+  swift8: CSSOES2S
+  branch_name: Treasury Department
+  branch_address: Madrid
+  branch_code: TRE
+  city: Madrid
+  country: Spain
+- name: Caja De Ahorros De Salamanca Y Soria (Caja Duero)
+  swift: CSSOES2SXXX
+  swift8: CSSOES2S
+  branch_name: Head Office
+  branch_address: Plaza De Los Bandos 15-17 37002 Salamanca
+  branch_code: XXX
+  city: Salamanca
+  country: Spain
+- name: Caja De Ahorros De Santander Y Cantabria
+  swift: CECAESMM066
+  swift8: CECAESMM
+  branch_name: 39001 Santander
+  branch_address: Plaza De Velarde 3 39001 Santander
+  branch_code: '066'
+  city: Santander
+  country: Spain
+- name: Caja De Ahorros Y Monte De Piedad De Extremadura
+  swift: CECAESMM099
+  swift8: CECAESMM
+  branch_name: 10003 Caceres
+  branch_address: San Pedro 15 10003 Caceres
+  branch_code: '099'
+  city: Caceres
+  country: Spain
+- name: Caja De Ahorros Y Monte De Piedad De Las Baleares
+  swift: CECAESMM051
+  swift8: CECAESMM
+  branch_name: 07001 Palma De Mallorca
+  branch_address: Calle Ramon Llull 2 07001 Palma De Mallorca
+  branch_code: '051'
+  city: Palma De Mallorca
+  country: Spain
+- name: Caja De Ahorros Y Monte De Piedad De Ontinyent
+  swift: CECAESMM045
+  swift8: CECAESMM
+  branch_name: Valencia
+  branch_address: Caja De Ahorros De Ontinyent 46870 Ontinyent
+  branch_code: '045'
+  city: Ontinyent
+  country: Spain
+- name: Caja De Arquitectos S.Coop.De Credito
+  swift: CASDESBBXXX
+  swift8: CASDESBB
+  branch_name: Head Office
+  branch_address: Calle Arcs 1 08002 Barcelona
+  branch_code: XXX
+  city: Barcelona
+  country: Spain
+- name: Caja De Credito De Petrel,C.R.,Ccv
+  swift: CCRIES2A029
+  swift8: CCRIES2A
+  branch_name: 03610 Petrel
+  branch_address: Calle San Bartolome, 2 03610 Petrel
+  branch_code: '029'
+  city: Petrel
+  country: Spain
+- name: Caja Espana De Inversiones, Salamanca Y Soria, Camp
+  swift: CSPAES2L108
+  swift8: CSPAES2L
+  branch_name: 24002 Leon
+  branch_address: Edificio Botines De Gaudi 24002 Leon
+  branch_code: '108'
+  city: Leon
+  country: Spain
+- name: Caja Espana De Inversiones, Salamanca Y Soria, Camp
+  swift: CSPAES2LXXX
+  swift8: CSPAES2L
+  branch_name: Head Office
+  branch_address: Cl Marques De Villamagna, 6 28001 Madrid
+  branch_code: XXX
+  city: Leon
+  country: Spain
+- name: Caja General De Ahorros De Granada
+  swift: CECAESMM031
+  swift8: CECAESMM
+  branch_name: Granada
+  branch_address: Granada
+  branch_code: '031'
+  city: Granada
+  country: Spain
+- name: Caja Laboral Popular, Coop. De Credito (Caja Laboral)
+  swift: CLPEES2MXXX
+  swift8: CLPEES2M
+  branch_name: Head Office
+  branch_address: Paseo Jose Ma Arizmendiarrieta S/N 20500 Mondragon
+  branch_code: XXX
+  city: Mondragon
+  country: Spain
+- name: Caja Rural Catolico Agraria
+  swift: CCRIES2A110
+  swift8: CCRIES2A
+  branch_name: Villarreal
+  branch_address: Villarreal
+  branch_code: '110'
+  city: ''
+  country: Spain
+- name: Caja Rural De Aragon, Sociedad Cooperativa De Credito
+  swift: BCOEESMM191
+  swift8: BCOEESMM
+  branch_name: 50003 Zaragoza
+  branch_address: San Voto, 6 50003 Zaragoza
+  branch_code: '191'
+  city: ''
+  country: Spain
+- name: Caja Rural De Burgos
+  swift: BCOEESMM060
+  swift8: BCOEESMM
+  branch_name: Burgos
+  branch_address: Burgos
+  branch_code: '060'
+  city: Burgos
+  country: Spain
+- name: Caja Rural De San Vicente Vall D'Uxo
+  swift: CCRIES2A102
+  swift8: CCRIES2A
+  branch_name: Vall Duxo
+  branch_address: Vall Duxo
+  branch_code: '102'
+  city: ''
+  country: Spain
+- name: Cajamar Caja Rural, Sociedad Cooperativa De Credito
+  swift: CCRIES2AXXX
+  swift8: CCRIES2A
+  branch_name: Head Office
+  branch_address: Servicios Centrales Cajamar 04006 Almeria
+  branch_code: XXX
+  city: Almeria
+  country: Spain
+- name: Cajasur Banco, S.A
+  swift: CSURES2CXXX
+  swift8: CSURES2C
+  branch_name: Head Office
+  branch_address: Avenida Gran Capitan 11-13 14008 Cordoba
+  branch_code: XXX
+  city: ''
+  country: Spain
+- name: Citibank Espana S.A.
+  swift: CITIES2XXXX
+  swift8: CITIES2X
+  branch_name: Head Office
+  branch_address: Avenida De Europa 19 28108 Madrid
+  branch_code: XXX
+  city: Madrid
+  country: Spain
+- name: Citibank International Plc
+  swift: CITIESMXSEC
+  swift8: CITIESMX
+  branch_name: Restricted Use Citibank Madrid Target 2
+  branch_address: Ortega Y Gasset 29 28006 Madrid
+  branch_code: SEC
+  city: Madrid
+  country: Spain
+- name: Citibank International Plc
+  swift: CITIESMXXXX
+  swift8: CITIESMX
+  branch_name: Head Office
+  branch_address: Jose Ortega Y Gasset 29 - Planta 4 28006 Madrid
+  branch_code: XXX
+  city: Madrid
+  country: Spain
+- name: Citibank N.A.
+  swift: CITIESB1XXX
+  swift8: CITIESB1
+  branch_name: Head Office
+  branch_address: Avenida Diagonal 349 Barcelona
+  branch_code: XXX
+  city: Barcelona
+  country: Spain
+- name: Commerzbank Ag
+  swift: COBAESMXBAR
+  swift8: COBAESMX
+  branch_name: Barcelona
+  branch_address: Barcelona
+  branch_code: BAR
+  city: Barcelona
+  country: Spain
+- name: Commerzbank Ag
+  swift: COBAESMXTMA
+  swift8: COBAESMX
+  branch_name: Administration
+  branch_address: Madrid
+  branch_code: TMA
+  city: Madrid
+  country: Spain
+- name: Commerzbank Ag
+  swift: COBAESMXXXX
+  swift8: COBAESMX
+  branch_name: Head Office
+  branch_address: Edifico Gruzco Iv 28080 Madrid
+  branch_code: XXX
+  city: Madrid
+  country: Spain
+- name: Confederacion Espanola De Cajas De Ahorros
+  swift: CECAESMMXXX
+  swift8: CECAESMM
+  branch_name: Head Office
+  branch_address: Caballero De Gracia 28-30 28013 Madrid
+  branch_code: XXX
+  city: Madrid
+  country: Spain
+- name: Credit Agricole Cib
+  swift: BSUIESMMXXX
+  swift8: BSUIESMM
+  branch_name: Head Office
+  branch_address: Paseo De La Castellana 1 28046 Madrid
+  branch_code: XXX
+  city: Madrid
+  country: Spain
+- name: Credit Agricole Luxembourg, S.E.
+  swift: AGRIESMMXXX
+  swift8: AGRIESMM
+  branch_name: Head Office
+  branch_address: Paseo De La Castellana 1 28406 Madrid
+  branch_code: XXX
+  city: ''
+  country: Spain
+- name: Credit Suisse Ag, Sucursal En Espana
+  swift: CRESESMMXXX
+  swift8: CRESESMM
+  branch_name: Head Office
+  branch_address: Paseo De Recoletos 17 28004 Madrid
+  branch_code: XXX
+  city: Madrid
+  country: Spain
+- name: Deutsche Bank Ag
+  swift: DEUTESM1XXX
+  swift8: DEUTESM1
+  branch_name: Head Office
+  branch_address: Paseo De La Castellana, 18 28046 Madrid
+  branch_code: XXX
+  city: ''
+  country: Spain
+- name: Deutsche Bank Ag Spanish Branch
+  swift: DBSCESMMXXX
+  swift8: DBSCESMM
+  branch_name: Head Office
+  branch_address: Paseo De La Castellana, 42 Madrid
+  branch_code: XXX
+  city: Madrid
+  country: Spain
+- name: Deutsche Bank Sociedad Anonima Espanola
+  swift: DEUTESBBASS
+  swift8: DEUTESBB
+  branch_name: Bcn-Branch
+  branch_address: Barcelona
+  branch_code: ASS
+  city: Barcelona
+  country: Spain
+- name: Deutsche Bank Sociedad Anonima Espanola
+  swift: DEUTESBBXXX
+  swift8: DEUTESBB
+  branch_name: Head Office
+  branch_address: Ronda General Mitre 72-74 08017 Barcelona
+  branch_code: XXX
+  city: Barcelona
+  country: Spain
+- name: Deutsche Bank Sociedad Anonima Espanola
+  swift: DEUTESBB030
+  swift8: DEUTESBB
+  branch_name: 28046 Madrid
+  branch_address: Paseo Castellana 18 28046 Madrid
+  branch_code: '030'
+  city: Madrid
+  country: Spain
+- name: Deutsche Pfandbriefbank Ag, S.E
+  swift: DPBBESM1XXX
+  swift8: DPBBESM1
+  branch_name: Head Office
+  branch_address: Monte Esquinza, 30 28010 Madrid
+  branch_code: XXX
+  city: ''
+  country: Spain
+- name: Dexia Sabadell Banco Local S.A.
+  swift: DSBLESMMXXX
+  swift8: DSBLESMM
+  branch_name: Head Office
+  branch_address: Paseo De Las Doce Estrellas, 4 28042 Madrid
+  branch_code: XXX
+  city: Madrid
+  country: Spain
+- name: Dz Bank Ag Deutsche Zentral Genossenschaftsbank
+  swift: GENOESM1XXX
+  swift8: GENOESM1
+  branch_name: Head Office
+  branch_address: Cl Virgen De Los Peligros, 4 28013 Madrid
+  branch_code: XXX
+  city: Madrid
+  country: Spain
+- name: Ebn Banco De Negocios,S.A.(Ebn Banco)
+  swift: PROAESMMXXX
+  swift8: PROAESMM
+  branch_name: Head Office
+  branch_address: C/ Almagro, 46 Plaza De Ruben Dar 28010 Madrid
+  branch_code: XXX
+  city: Madrid
+  country: Spain
+- name: Evo Banco S.A.
+  swift: EVOBESMMXXX
+  swift8: EVOBESMM
+  branch_name: No branch name
+  branch_address: No branch address
+  branch_code: XXX
+  city: ''
+  country: Spain
+- name: Evo Banco S.A.
+  swift: EVOBESMMBAC
+  swift8: EVOBESMM
+  branch_name: Back Office
+  branch_address: No branch address
+  branch_code: BAC
+  city: Madrid
+  country: Spain
+- name: Evo Banco S.A.
+  swift: EVOBESMMLCO
+  swift8: EVOBESMM
+  branch_name: Payment Systems Dept.
+  branch_address: No branch address
+  branch_code: LCO
+  city: Madrid
+  country: Spain
+- name: Fce Bank Plc S.E.
+  swift: FCEFESM1XXX
+  swift8: FCEFESM1
+  branch_name: Head Office
+  branch_address: Calle Calendula, 13 28046 Madrid
+  branch_code: XXX
+  city: ''
+  country: Spain
+- name: Fortis Bank, S.A., Sucursal En Espana
+  swift: GEBAESMMBAR
+  swift8: GEBAESMM
+  branch_name: Barcelona Branch
+  branch_address: Paseo De Gracia 85 08008 Barcelona
+  branch_code: BAR
+  city: Barcelona
+  country: Spain
+- name: Fortis Bank, S.A., Sucursal En Espana
+  swift: GEBAESMMBIL
+  swift8: GEBAESMM
+  branch_name: 48009 Bilbao
+  branch_address: Conde Aresti 48009 Bilbao
+  branch_code: BIL
+  city: Bilbao
+  country: Spain
+- name: Fortis Bank, S.A., Sucursal En Espana
+  swift: GEBAESMMMAD
+  swift8: GEBAESMM
+  branch_name: Madrid Branch
+  branch_address: Jose Ortega Y Gasset 29 28006 Madrid
+  branch_code: MAD
+  city: Madrid
+  country: Spain
+- name: Fortis Bank, S.A., Sucursal En Espana
+  swift: GEBAESMMXXX
+  swift8: GEBAESMM
+  branch_name: Head Office
+  branch_address: Calle Maria De Molina 54 28006 Madrid
+  branch_code: XXX
+  city: Madrid
+  country: Spain
+- name: Fortis Bank, S.A., Sucursal En Espana
+  swift: GEBAESMMVAL
+  swift8: GEBAESMM
+  branch_name: Valencia Branch
+  branch_address: Calle Perez Pujol 4 46002 Valencia
+  branch_code: VAL
+  city: Valencia
+  country: Spain
+- name: General De Valores Y Cambios S.V. S.A.
+  swift: GVCBESBBXXX
+  swift8: GVCBESBB
+  branch_name: Head Office
+  branch_address: Edificio Kursaal 08007 Barcelona
+  branch_code: XXX
+  city: Barcelona
+  country: Spain
+- name: General De Valores Y Cambios S.V. S.A.
+  swift: GVCBESBBETB
+  swift8: GVCBESBB
+  branch_name: Etb Gvc Gaesco
+  branch_address: Diagonal 429 08036 Barcelona
+  branch_code: ETB
+  city: Barcelona
+  country: Spain
+- name: General Electric Capital Bank, S.A.
+  swift: GEECESB1XXX
+  swift8: GEECESB1
+  branch_name: Head Office
+  branch_address: C/Llull 95/97 08006 Barcelona
+  branch_code: XXX
+  city: ''
+  country: Spain
+- name: Giraud Iberica,S.A
+  swift: GEODES2PXXX
+  swift8: GEODES2P
+  branch_name: Head Office
+  branch_address: Poligono Comarca I, N 8 31195 Pamplona
+  branch_code: XXX
+  city: Pamplona
+  country: Spain
+- name: Gse Tompla Holding, S.L.U.
+  swift: GSEHESMMXXX
+  swift8: GSEHESMM
+  branch_name: Head Office
+  branch_address: Ctra. Daganzo Km 3 28806 Madrid
+  branch_code: XXX
+  city: Madrid
+  country: Spain
+- name: Hsbc Bank Plc
+  swift: MIDLESMMSDD
+  swift8: MIDLESMM
+  branch_name: Sepa Direct Debits
+  branch_address: Madrid
+  branch_code: SDD
+  city: Madrid
+  country: Spain
+- name: Hsbc Bank Plc
+  swift: MIDLESMMXXX
+  swift8: MIDLESMM
+  branch_name: Head Office
+  branch_address: Edificio Torre Picasso 28020 Madrid
+  branch_code: XXX
+  city: Madrid
+  country: Spain
+- name: Hsbc Bank Plc
+  swift: MIDLESMXXXX
+  swift8: MIDLESMX
+  branch_name: Head Office
+  branch_address: Torre Picasso 28020 Madrid
+  branch_code: XXX
+  city: Madrid
+  country: Spain
+- name: Ibercaja Banco S A U
+  swift: CAZRES2ZXXX
+  swift8: CAZRES2Z
+  branch_name: Head Office
+  branch_address: Plaza De Basilio Paraiso 2 50008 Zaragoza
+  branch_code: XXX
+  city: Zaragoza
+  country: Spain
+- name: Ikb Deutsche Industriebank Ag, S.E.
+  swift: IKBDESM1XXX
+  swift8: IKBDESM1
+  branch_name: Head Office
+  branch_address: Paseo De La Castellana, 9-11 28046 Madrid
+  branch_code: XXX
+  city: ''
+  country: Spain
+- name: Industrial And Commercial Bank Of China(Europe)S.A.,Sucursal En Espana
+  swift: ICBKESMMXXX
+  swift8: ICBKESMM
+  branch_name: Head Office
+  branch_address: Calle Paseo De Recoletos 3 28004 Madrid
+  branch_code: XXX
+  city: Madrid
+  country: Spain
+- name: Ing Belgium S.A. Sucursal En Espana
+  swift: BBRUESMXXXX
+  swift8: BBRUESMX
+  branch_name: Head Office
+  branch_address: Genova, 27 28004 Madrid
+  branch_code: XXX
+  city: Madrid
+  country: Spain
+- name: Ing Direct Nv, Sucursal En Espana
+  swift: INGDESMMXXX
+  swift8: INGDESMM
+  branch_name: Head Office
+  branch_address: Calle Severo Ochoa 2 28230 Madrid
+  branch_code: XXX
+  city: Madrid
+  country: Spain
+- name: Intesa Sanpaolo S.P.A. (Former Sanpaolo Imi), Madrid Branch, Madrid
+  swift: BCITESMMXXX
+  swift8: BCITESMM
+  branch_name: Head Office
+  branch_address: Edificio Colon 28046 Madrid
+  branch_code: XXX
+  city: Madrid
+  country: Spain
+- name: Jp Morgan Chase Bank, N.A
+  swift: CHASESM3KEY
+  swift8: CHASESM3
+  branch_name: Test Key and Bke Administration
+  branch_address: Madrid
+  branch_code: KEY
+  city: Madrid
+  country: Spain
+- name: Jp Morgan Chase Bank, N.A
+  swift: CHASESM3XXX
+  swift8: CHASESM3
+  branch_name: Head Office
+  branch_address: Calle De Jose Ortega Y Gasset 29 28006 Madrid
+  branch_code: XXX
+  city: Madrid
+  country: Spain
+- name: Kbl European Private Bankers S.A. Sucursal En Espana
+  swift: KBLXESMMXXX
+  swift8: KBLXESMM
+  branch_name: Head Office
+  branch_address: Calle Serrano 57 28006 Madrid
+  branch_code: XXX
+  city: Madrid
+  country: Spain
+- name: Landesbank Baden-Wuerttemberg
+  swift: SOLAESB1XXX
+  swift8: SOLAESB1
+  branch_name: Head Office
+  branch_address: Avenida Diagonal 435, 4 1 08006 Barcelona
+  branch_code: XXX
+  city: Barcelona
+  country: Spain
+- name: Landesbank Hessen-Thueringen Girozentrale
+  swift: HELAESM1XXX
+  swift8: HELAESM1
+  branch_name: Head Office
+  branch_address: Cl General Castanos, 4 28004 Madrid
+  branch_code: XXX
+  city: Madrid
+  country: Spain
+- name: Liberbank, S.A.
+  swift: CECAESMM048
+  swift8: CECAESMM
+  branch_name: 28014 Madrid
+  branch_address: Carrera De San Jeronimo , 19 28014 Madrid
+  branch_code: '048'
+  city: Madrid
+  country: Spain
+- name: Lombard Odier Darier Hentsch And Cie (Espana) S.V., S.A.
+  swift: LOCYESMMNDP
+  swift8: LOCYESMM
+  branch_name: Ndp Dept
+  branch_address: Paseo De La Castellana 66 28046 Madrid
+  branch_code: NDP
+  city: Madrid
+  country: Spain
+- name: Lombard Odier Darier Hentsch And Cie (Espana) S.V., S.A.
+  swift: LOCYESMMXXX
+  swift8: LOCYESMM
+  branch_name: Head Office
+  branch_address: Paseo De La Castellana 66 28046 Madrid
+  branch_code: XXX
+  city: Madrid
+  country: Spain
+- name: Meff
+  swift: MEFFESBBMES
+  swift8: MEFFESBB
+  branch_name: Meff Euro Services
+  branch_address: Via Laietana 58 08003 Barcelona
+  branch_code: MES
+  city: Barcelona
+  country: Spain
+- name: Meff
+  swift: MEFFESBBMRF
+  swift8: MEFFESBB
+  branch_name: Meff Renta Fija
+  branch_address: Barcelona
+  branch_code: MRF
+  city: Barcelona
+  country: Spain
+- name: Meff
+  swift: MEFFESBBMRG
+  swift8: MEFFESBB
+  branch_name: Margin Account
+  branch_address: Barcelona
+  branch_code: MRG
+  city: Barcelona
+  country: Spain
+- name: Meff
+  swift: MEFFESBBRRR
+  swift8: MEFFESBB
+  branch_name: Meffrepo
+  branch_address: Barcelona
+  branch_code: RRR
+  city: Barcelona
+  country: Spain
+- name: Meff
+  swift: MEFFESBBMRV
+  swift8: MEFFESBB
+  branch_name: Meff Renta Variable
+  branch_address: Torre Picasso 28020 Madrid
+  branch_code: MRV
+  city: Madrid
+  country: Spain
+- name: Meff
+  swift: MEFFESBBXXX
+  swift8: MEFFESBB
+  branch_name: Head Office
+  branch_address: Plaza De La Lealtad, 1 28014 Madrid
+  branch_code: XXX
+  city: Madrid
+  country: Spain
+- name: Meff
+  swift: MEFFESBBCCP
+  swift8: MEFFESBB
+  branch_name: Ancillary System
+  branch_address: Barcelona
+  branch_code: CCP
+  city: Barcelona
+  country: Spain
+- name: Merrill Lynch Capital Markets Espana S.A., Svb
+  swift: MLCEESMMXXX
+  swift8: MLCEESMM
+  branch_name: Head Office
+  branch_address: Edificio Torre Picasso 28020 Madrid
+  branch_code: XXX
+  city: Madrid
+  country: Spain
+- name: Natixis, S.A., S.E.
+  swift: NATXESMMXXX
+  swift8: NATXESMM
+  branch_name: Head Office
+  branch_address: Paseo De Recoletos, 7 Y 9 28004 Madrid
+  branch_code: XXX
+  city: ''
+  country: Spain
+- name: Ncg Banco S.A.
+  swift: CAGLESMMCOP
+  swift8: CAGLESMM
+  branch_name: Intl Operations and Foreign Trade
+  branch_address: Edif. Work Center 15190 La Coruna (a Coruna)
+  branch_code: COP
+  city: La Coruna (a Coruna)
+  country: Spain
+- name: Ncg Banco S.A.
+  swift: CAGLESMMLCO
+  swift8: CAGLESMM
+  branch_name: Payment Systems Dept
+  branch_address: La Coruna (a Coruna)
+  branch_code: LCO
+  city: La Coruna (a Coruna)
+  country: Spain
+- name: Ncg Banco S.A.
+  swift: CAGLESMMXXX
+  swift8: CAGLESMM
+  branch_name: Head Office
+  branch_address: Rua Nueva, 30 15003 La Coruna (a Coruna)
+  branch_code: XXX
+  city: La Coruna (a Coruna)
+  country: Spain
+- name: Ncg Banco S.A.
+  swift: CAGLESMMBAC
+  swift8: CAGLESMM
+  branch_name: Back Office
+  branch_address: Serrano 41 28001 Madrid
+  branch_code: BAC
+  city: Madrid
+  country: Spain
+- name: Ncg Banco S.A.
+  swift: CAGLESMMBOI
+  swift8: CAGLESMM
+  branch_name: Foreign Trade and Intl Operations
+  branch_address: Serrano, 41 28001 Madrid
+  branch_code: BOI
+  city: Madrid
+  country: Spain
+- name: Ncg Banco S.A.
+  swift: CAGLESMMVIG
+  swift8: CAGLESMM
+  branch_name: Vigo
+  branch_address: Vigo
+  branch_code: VIG
+  city: Vigo
+  country: Spain
+- name: Ncg Banco S.A.
+  swift: CAGLESMMVOP
+  swift8: CAGLESMM
+  branch_name: Extranjero-Vigo
+  branch_address: Vigo
+  branch_code: VOP
+  city: Vigo
+  country: Spain
+- name: Nuevo Micro Bank, S.A
+  swift: MIKBESB1XXX
+  swift8: MIKBESB1
+  branch_name: Head Office
+  branch_address: Torre Bcn 08038 Barcelona
+  branch_code: XXX
+  city: ''
+  country: Spain
+- name: Open Bank Santander Consumer S.A.
+  swift: OPENESMMXXX
+  swift8: OPENESMM
+  branch_name: Head Office
+  branch_address: Pampa 28660 Madrid
+  branch_code: XXX
+  city: Madrid
+  country: Spain
+- name: Pictet And Cie (Europe)S.A. Sucursal En Espana
+  swift: PICTESMMXXX
+  swift8: PICTESMM
+  branch_name: Head Office
+  branch_address: Calle Hermosilla No 11 28001 Madrid
+  branch_code: XXX
+  city: Madrid
+  country: Spain
+- name: Pkb Privatbank Ag
+  swift: PKBSES21XXX
+  swift8: PKBSES21
+  branch_name: Head Office
+  branch_address: Cl Orquidea 43 (La Moraleja) 28100 Alcobendas
+  branch_code: XXX
+  city: Alcobendas
+  country: Spain
+- name: Popular Banca Privada
+  swift: POPIESMMXXX
+  swift8: POPIESMM
+  branch_name: Head Office
+  branch_address: Building Beatriz 28006 Madrid
+  branch_code: XXX
+  city: Madrid
+  country: Spain
+- name: Rabobank International Madrid Branch
+  swift: PRABESMMXXX
+  swift8: PRABESMM
+  branch_name: Head Office
+  branch_address: Padilla 30 28006 Madrid
+  branch_code: XXX
+  city: Madrid
+  country: Spain
+- name: Rbc Dexia Investor Services Espana
+  swift: BVALESMMXXX
+  swift8: BVALESMM
+  branch_name: Head Office
+  branch_address: C/Fernando El Santo, 20 28010 Madrid
+  branch_code: XXX
+  city: Madrid
+  country: Spain
+- name: Renta 4 Banco, S.A.
+  swift: RENBESMMXXX
+  swift8: RENBESMM
+  branch_name: Head Office
+  branch_address: Paseo De La Habana 74 28036 Madrid
+  branch_code: XXX
+  city: Madrid
+  country: Spain
+- name: Repsol Ypf S.A.
+  swift: REPYESMMXXX
+  swift8: REPYESMM
+  branch_name: Head Office
+  branch_address: Avda. De Burgos 18 28036 Madrid
+  branch_code: XXX
+  city: Madrid
+  country: Spain
+- name: Royal Bank Of Canada
+  swift: ROYCESM1XXX
+  swift8: ROYCESM1
+  branch_name: Head Office
+  branch_address: Cl Nunez De Balboa, 4, Pl 1- a 28046 Madrid
+  branch_code: XXX
+  city: Madrid
+  country: Spain
+- name: Santander Asset Management, S.A.
+  swift: SAMXESMMXXX
+  swift8: SAMXESMM
+  branch_name: Head Office
+  branch_address: Edificio Marisma 28660 Boadilla Del Monte
+  branch_code: XXX
+  city: Boadilla Del Monte
+  country: Spain
+- name: Santander Brasil, E.F.C., S.A.
+  swift: SBFCESMMXXX
+  swift8: SBFCESMM
+  branch_name: Head Office
+  branch_address: Ciudad Grupo Santander 28660 Boadilla Del Monte
+  branch_code: XXX
+  city: ''
+  country: Spain
+- name: Santander Consumer Finance, S.A.
+  swift: SCFBESMMXXX
+  swift8: SCFBESMM
+  branch_name: Head Office
+  branch_address: Ciudad Grupo Santander 28660 Madrid
+  branch_code: XXX
+  city: Madrid
+  country: Spain
+- name: Santander Investment Services S.A.
+  swift: SABNESMMSSS
+  swift8: SABNESMM
+  branch_name: Santander Securities Services
+  branch_address: Boadilla Del Monte
+  branch_code: SSS
+  city: Boadilla Del Monte
+  country: Spain
+- name: Santander Investment Services S.A.
+  swift: SABNESMMXXX
+  swift8: SABNESMM
+  branch_name: Head Office
+  branch_address: Ed. Marisma 2n 28660 Boadilla Del Monte
+  branch_code: XXX
+  city: Boadilla Del Monte
+  country: Spain
+- name: Santander Securities Services,S.A.
+  swift: BSSSESM2XXX
+  swift8: BSSSESM2
+  branch_name: No branch name
+  branch_address: No branch address
+  branch_code: XXX
+  city: ''
+  country: Spain
+- name: Self Trade Bank
+  swift: SELFESMMXXX
+  swift8: SELFESMM
+  branch_name: Head Office
+  branch_address: Calle Marques De Urquijo 5 28008 Madrid
+  branch_code: XXX
+  city: Madrid
+  country: Spain
+- name: Sociedad De Gestion De Los Sistemas De Registro, Compensacion Y Liquidacion
+    De Valores, S.A. (Iberclear)
+  swift: IBRCESMMASI
+  swift8: IBRCESMM
+  branch_name: Ancillary System
+  branch_address: Madrid
+  branch_code: ASI
+  city: Madrid
+  country: Spain
+- name: Sociedad De Gestion De Los Sistemas De Registro, Compensacion Y Liquidacion
+    De Valores, S.A. (Iberclear)
+  swift: IBRCESMMCDE
+  swift8: IBRCESMM
+  branch_name: Madrid
+  branch_address: Madrid
+  branch_code: CDE
+  city: Madrid
+  country: Spain
+- name: Sociedad De Gestion De Los Sistemas De Registro, Compensacion Y Liquidacion
+    De Valores, S.A. (Iberclear)
+  swift: IBRCESMMGAR
+  swift8: IBRCESMM
+  branch_name: Iberclear-Multilateral Guaranty Account
+  branch_address: Madrid
+  branch_code: GAR
+  city: Madrid
+  country: Spain
+- name: Sociedad De Gestion De Los Sistemas De Registro, Compensacion Y Liquidacion
+    De Valores, S.A. (Iberclear)
+  swift: IBRCESMMINV
+  swift8: IBRCESMM
+  branch_name: Madrid
+  branch_address: Madrid
+  branch_code: INV
+  city: Madrid
+  country: Spain
+- name: Sociedad De Gestion De Los Sistemas De Registro, Compensacion Y Liquidacion
+    De Valores, S.A. (Iberclear)
+  swift: IBRCESMMISS
+  swift8: IBRCESMM
+  branch_name: Madrid
+  branch_address: Madrid
+  branch_code: ISS
+  city: Madrid
+  country: Spain
+- name: Sociedad De Gestion De Los Sistemas De Registro, Compensacion Y Liquidacion
+    De Valores, S.A. (Iberclear)
+  swift: IBRCESMMMVL
+  swift8: IBRCESMM
+  branch_name: Madrid
+  branch_address: Madrid
+  branch_code: MVL
+  city: Madrid
+  country: Spain
+- name: Sociedad De Gestion De Los Sistemas De Registro, Compensacion Y Liquidacion
+    De Valores, S.A. (Iberclear)
+  swift: IBRCESMMSCL
+  swift8: IBRCESMM
+  branch_name: Madrid
+  branch_address: Madrid
+  branch_code: SCL
+  city: Madrid
+  country: Spain
+- name: Sociedad De Gestion De Los Sistemas De Registro, Compensacion Y Liquidacion
+    De Valores, S.A. (Iberclear)
+  swift: IBRCESMMSNF
+  swift8: IBRCESMM
+  branch_name: Senaf
+  branch_address: Palacio De La Bolsa 28014 Madrid
+  branch_code: SNF
+  city: Madrid
+  country: Spain
+- name: Sociedad De Gestion De Los Sistemas De Registro, Compensacion Y Liquidacion
+    De Valores, S.A. (Iberclear)
+  swift: IBRCESMMXXX
+  swift8: IBRCESMM
+  branch_name: Head Office
+  branch_address: Palacio De La Bolsa 28014 Madrid
+  branch_code: XXX
+  city: Madrid
+  country: Spain
+- name: Sociedad Espanola De Sistemas De Pago, S.A.
+  swift: IPAYESMMGT1
+  swift8: IPAYESMM
+  branch_name: Garantias
+  branch_address: C/Miguel Angel, 23 28010 Madrid
+  branch_code: GT1
+  city: Madrid
+  country: Spain
+- name: Sociedad Espanola De Sistemas De Pago, S.A.
+  swift: IPAYESMMXXX
+  swift8: IPAYESMM
+  branch_name: Head Office
+  branch_address: C/Miguel Angel, 23 28010 Madrid
+  branch_code: XXX
+  city: Madrid
+  country: Spain
+- name: Sociedad Espanola De Sistemas De Pago, S.A.
+  swift: IPAYESMMAS1
+  swift8: IPAYESMM
+  branch_name: Sistema Vinculado
+  branch_address: Madrid
+  branch_code: AS1
+  city: Madrid
+  country: Spain
+- name: Sociedad Rectora De La Bolsa De Valores De Barcelona S.A.
+  swift: XBCNESBBSCL
+  swift8: XBCNESBB
+  branch_name: Anciilary System
+  branch_address: Barcelona
+  branch_code: SCL
+  city: Barcelona
+  country: Spain
+- name: Sociedad Rectora De La Bolsa De Valores De Barcelona S.A.
+  swift: XBCNESBBXXX
+  swift8: XBCNESBB
+  branch_name: Head Office
+  branch_address: Paseo De Gracia 19 08007 Barcelona
+  branch_code: XXX
+  city: Barcelona
+  country: Spain
+- name: Sociedad Rectora De La Bolsa De Valores De Barcelona S.A.
+  swift: XBCNESBBGAR
+  swift8: XBCNESBB
+  branch_name: Ser De Comp Y Liq Bolsa De Valores De Barcelona Cuenta Garantias
+  branch_address: Bolsa De Barcelona 08007 Barcelona
+  branch_code: GAR
+  city: Barcelona
+  country: Spain
+- name: Sociedad Rectora De La Bolsa De Valores De Bilbao, S.A.
+  swift: XRBVES2BSCL
+  swift8: XRBVES2B
+  branch_name: Ancillary System
+  branch_address: Bilbao
+  branch_code: SCL
+  city: Bilbao
+  country: Spain
+- name: Sociedad Rectora De La Bolsa De Valores De Bilbao, S.A.
+  swift: XRBVES2BXXX
+  swift8: XRBVES2B
+  branch_name: Head Office
+  branch_address: Jose Ma Olabarri N 1 48001 Bilbao
+  branch_code: XXX
+  city: Bilbao
+  country: Spain
+- name: Sociedad Rectora De La Bolsa De Valores De Bilbao, S.A.
+  swift: XRBVES2BGAR
+  swift8: XRBVES2B
+  branch_name: Liquidacion Cuenta Garantia
+  branch_address: Bolsa De Bilbao 48001 Bilbao
+  branch_code: GAR
+  city: Bilbao
+  country: Spain
+- name: Societe Generale, Sucursal En Espana
+  swift: SOGEESMMBAR
+  swift8: SOGEESMM
+  branch_name: Barcelona
+  branch_address: Barcelona
+  branch_code: BAR
+  city: Barcelona
+  country: Spain
+- name: Societe Generale, Sucursal En Espana
+  swift: SOGEESMMAGM
+  swift8: SOGEESMM
+  branch_name: Market Branch
+  branch_address: Genova 26 28004 Madrid
+  branch_code: AGM
+  city: Madrid
+  country: Spain
+- name: Societe Generale, Sucursal En Espana
+  swift: SOGEESMMTRA
+  swift8: SOGEESMM
+  branch_name: Sg Madrid Trade Services
+  branch_address: Genova 26 28004 Madrid
+  branch_code: TRA
+  city: Madrid
+  country: Spain
+- name: Societe Generale, Sucursal En Espana
+  swift: SOGEESMMXXX
+  swift8: SOGEESMM
+  branch_name: Head Office
+  branch_address: Torre Picasso 28020 Madrid
+  branch_code: XXX
+  city: Madrid
+  country: Spain
+- name: Standard Chartered Bank
+  swift: SCBLESM1XXX
+  swift8: SCBLESM1
+  branch_name: Head Office
+  branch_address: Juan Ignacio Luca De Tena, 17 28046 Madrid
+  branch_code: XXX
+  city: Madrid
+  country: Spain
+- name: Svenska Handelsbanken Ab
+  swift: HANDES21XXX
+  swift8: HANDES21
+  branch_name: Head Office
+  branch_address: Ur Nueva Andalucia 29660 Marbella
+  branch_code: XXX
+  city: Marbella
+  country: Spain
+- name: The Royal Bank Of Scotland N.V. Sucursal En Espana
+  swift: ABNAESMMBAR
+  swift8: ABNAESMM
+  branch_name: Barcelona
+  branch_address: Barcelona
+  branch_code: BAR
+  city: Barcelona
+  country: Spain
+- name: The Royal Bank Of Scotland N.V. Sucursal En Espana
+  swift: ABNAESMMLEB
+  swift8: ABNAESMM
+  branch_name: Local Electronic Banking
+  branch_address: Madrid
+  branch_code: LEB
+  city: Madrid
+  country: Spain
+- name: The Royal Bank Of Scotland N.V. Sucursal En Espana
+  swift: ABNAESMMMAD
+  swift8: ABNAESMM
+  branch_name: 28006 Madrid
+  branch_address: Jose Ortega Y Gasset 29 28006 Madrid
+  branch_code: MAD
+  city: Madrid
+  country: Spain
+- name: The Royal Bank Of Scotland N.V. Sucursal En Espana
+  swift: ABNAESMMXXX
+  swift8: ABNAESMM
+  branch_name: Head Office
+  branch_address: Calle Jose Ortega Y Gasset 29 28002 Madrid
+  branch_code: XXX
+  city: Madrid
+  country: Spain
+- name: Triodos Bank Nv, Se
+  swift: TRIOESMMXXX
+  swift8: TRIOESMM
+  branch_name: Head Office
+  branch_address: C/ Jose Echegaray, 5 28230 Madrid
+  branch_code: XXX
+  city: Madrid
+  country: Spain
+- name: Ubi Banca International-Sucursal En Espana
+  swift: UBIBESMMXXX
+  swift8: UBIBESMM
+  branch_name: Head Office
+  branch_address: Torre Espacio Castellana 28026 Madrid
+  branch_code: XXX
+  city: Madrid
+  country: Spain
+- name: Ubs Bank, S.A.
+  swift: UBSWESMMXXX
+  swift8: UBSWESMM
+  branch_name: Succursal En Espana
+  branch_address: Maria De Molina 4-4a 28006 Madrid
+  branch_code: XXX
+  city: Madrid
+  country: Spain
+- name: Ubs Bank, S.A.
+  swift: UBSWESMMNPB
+  swift8: UBSWESMM
+  branch_name: Branch
+  branch_address: Madrid
+  branch_code: NPB
+  city: Madrid
+  country: Spain
+- name: Unicaja (Montes De Piedad Y Caja De Ahorros De Ronda, Cadiz, Almeria, Malaga,
+    Antequera Y Jaen
+  swift: UCJAES2MXXX
+  swift8: UCJAES2M
+  branch_name: Head Office
+  branch_address: Avenida De Andalucia 10-12 29007 Malaga
+  branch_code: XXX
+  city: Malaga
+  country: Spain
+- name: Unicaja (Montes De Piedad Y Caja De Ahorros De Ronda, Cadiz, Almeria, Malaga,
+    Antequera Y Jaen
+  swift: UCJAES2MGAR
+  swift8: UCJAES2M
+  branch_name: Cta Garantia
+  branch_address: Madrid
+  branch_code: GAR
+  city: Madrid
+  country: Spain
+- name: Unoe Bank, S.A.
+  swift: UNOEESM1XXX
+  swift8: UNOEESM1
+  branch_name: Head Office
+  branch_address: C/Capitan Haya 1 28020 Madrid
+  branch_code: XXX
+  city: ''
+  country: Spain
+- name: Volkswagen Bank Gmbh, S.E.
+  swift: VOWAES21XXX
+  swift8: VOWAES21
+  branch_name: Head Office
+  branch_address: Avenida De Bruselas 34 28108 Alcobendas
+  branch_code: XXX
+  city: ''
+  country: Spain
+- name: Westlb Ag Madrid Branch, Madrid
+  swift: WELAESMMFUN
+  swift8: WELAESMM
+  branch_name: Funding Unit
+  branch_address: Madrid
+  branch_code: FUN
+  city: Madrid
+  country: Spain
+- name: Westlb Ag Madrid Branch, Madrid
+  swift: WELAESMMXXX
+  swift8: WELAESMM
+  branch_name: Head Office
+  branch_address: Serrano, 37 5 Plta. 28001 Madrid
+  branch_code: XXX
+  city: Madrid
+  country: Spain
+- name: Bank Of Tokyo-mitsubishi Ufj, Ltd., The
+  swift: BOTKESM10BB
+  swift8: BOTKESM1
+  branch_name: Barcelona Sub-Branch of Madrid Branch
+  branch_address: Barcelona
+  branch_code: 0BB
+  city: Barcelona
+  country: Spain
+- name: Phoenix Soft Corp Ltd
+  swift: PSCLES21XXX
+  swift8: PSCLES21
+  branch_name: Head Office
+  branch_address: Calle De Coute, 17 36203 Vigo
+  branch_code: XXX
+  city: Vigo
+  country: Spain
+- name: Societe Financiere Et Fonciere
+  swift: SOFFESM1XXX
+  swift8: SOFFESM1
+  branch_name: Head Office
+  branch_address: Madrid
+  branch_code: XXX
+  city: Madrid
+  country: Spain
+- name: Banco Nacional De Cuba
+  swift: BNACESM1XXX
+  swift8: BNACESM1
+  branch_name: Head Office
+  branch_address: Calle Marceliano Santa Maria, 8 28036 Madrid
+  branch_code: XXX
+  city: Madrid
+  country: Spain
+- name: Bzx Investments Ltd
+  swift: BZINES21XXX
+  swift8: BZINES21
+  branch_name: Head Office
+  branch_address: Olympia Building 17310 Lloret De Mar
+  branch_code: XXX
+  city: Lloret De Mar
+  country: Spain
+- name: Banco Internacional, S.a.
+  swift: BIMEESM1XXX
+  swift8: BIMEESM1
+  branch_name: Head Office
+  branch_address: Cl Serrano, 23 28001 Madrid
+  branch_code: XXX
+  city: Madrid
+  country: Spain
+- name: Banca Carige Spa-cassa Di Risparmio Di Genova E Imperia
+  swift: CRGEESM1XXX
+  swift8: CRGEESM1
+  branch_name: Head Office
+  branch_address: Paseo De La Castellana 60 28046 Madrid
+  branch_code: XXX
+  city: Madrid
+  country: Spain
+- name: A.b. Asesores Bursatiles Bolsa, Sa, S.v.b.
+  swift: ABABESM1XXX
+  swift8: ABABESM1
+  branch_name: Head Office
+  branch_address: Plaza De La Lealtad, 3-3o 28014 Madrid
+  branch_code: XXX
+  city: Madrid
+  country: Spain
+- name: A.t. Equities Spain A.v. S.a.
+  swift: ATECESM1XXX
+  swift8: ATECESM1
+  branch_name: Head Office
+  branch_address: Alcala 54 28014 Madrid
+  branch_code: XXX
+  city: Madrid
+  country: Spain
+- name: A.t. Equities Span A.v.b., S.a.
+  swift: EQSAESM1XXX
+  swift8: EQSAESM1
+  branch_name: Head Office
+  branch_address: Fortuny 18 28010 Madrid
+  branch_code: XXX
+  city: Madrid
+  country: Spain
+- name: Abasic Slu
+  swift: DSGLESBBXXX
+  swift8: DSGLESBB
+  branch_name: Head Office
+  branch_address: Bruc 49 08009 Barcelona
+  branch_code: XXX
+  city: Barcelona
+  country: Spain
+- name: Abengoa
+  swift: ABGOESSEXXX
+  swift8: ABGOESSE
+  branch_name: Head Office
+  branch_address: Palmas Altas 41014 Sevilla
+  branch_code: XXX
+  city: Sevilla
+  country: Spain
+- name: Abertis Infraestructuras, Sa
+  swift: ABIRESBBXXX
+  swift8: ABIRESBB
+  branch_name: Head Office
+  branch_address: Avenida Parc Logistic 12-20 08290 Barcelona
+  branch_code: XXX
+  city: Barcelona
+  country: Spain
+- name: Abn-amro, S.a. S.v.b.
+  swift: ABAMESM1XXX
+  swift8: ABAMESM1
+  branch_name: Head Office
+  branch_address: Calle Serrano 55 28006 Madrid
+  branch_code: XXX
+  city: Madrid
+  country: Spain
+- name: Aca, S.a. Sociedad De Valores
+  swift: ACSVESB1XXX
+  swift8: ACSVESB1
+  branch_name: Head Office
+  branch_address: Av. Meridiana, 27 8018 Barcelona
+  branch_code: XXX
+  city: Barcelona
+  country: Spain
+- name: Advantic S.l
+  swift: ADATESM1XXX
+  swift8: ADATESM1
+  branch_name: Head Office
+  branch_address: Cea Bermudez, 56 28003 Madrid
+  branch_code: XXX
+  city: Madrid
+  country: Spain
+- name: Afina Pentor, A.v., S.a.
+  swift: AFPEESM1XXX
+  swift8: AFPEESM1
+  branch_name: Head Office
+  branch_address: P De La Castellana 111 28046 Madrid
+  branch_code: XXX
+  city: Madrid
+  country: Spain
+- name: Agenbolsa A.v.b. S.a.
+  swift: AGAVESB1XXX
+  swift8: AGAVESB1
+  branch_name: Head Office
+  branch_address: Av. Diagonal 453 Bis, 6a Planta 08007 Barcelona
+  branch_code: XXX
+  city: Barcelona
+  country: Spain
+- name: Aguilar Y De La Fuente, S.a. Agencia De Valores
+  swift: AGFAESM1XXX
+  swift8: AGFAESM1
+  branch_name: Head Office
+  branch_address: Claudio Coello 33 28001 Madrid
+  branch_code: XXX
+  city: Madrid
+  country: Spain
+- name: Aldesa Construcciones S.a.
+  swift: ACORESMMXXX
+  swift8: ACORESMM
+  branch_name: Head Office
+  branch_address: 13, Calle Bahia De Pollensa 28042 Madrid
+  branch_code: XXX
+  city: Madrid
+  country: Spain
+- name: All Trading Brokers Europe, A.v., S.a.u.
+  swift: ATBEESM1XXX
+  swift8: ATBEESM1
+  branch_name: Head Office
+  branch_address: C/ Alcala, 54 - 3 Dcha 28014 Madrid
+  branch_code: XXX
+  city: Madrid
+  country: Spain
+- name: Almirall, S.a.
+  swift: PFPFESBBXXX
+  swift8: PFPFESBB
+  branch_name: Head Office
+  branch_address: Ronda General Mitre 151 08022 Barcelona
+  branch_code: XXX
+  city: Barcelona
+  country: Spain
+- name: Altura Markets, S.a, S.v.
+  swift: ALMTESM1XXX
+  swift8: ALMTESM1
+  branch_name: Head Office
+  branch_address: Parque Empresarial Cristalia 28033 Madrid
+  branch_code: XXX
+  city: Madrid
+  country: Spain
+- name: American Express Company Of Spain
+  swift: AMESESM1XXX
+  swift8: AMESESM1
+  branch_name: Head Office
+  branch_address: Plaza Cortes, 2 Madrid
+  branch_code: XXX
+  city: Madrid
+  country: Spain
+- name: Andino, Agencia De Valores Y Bolsa, S.a.
+  swift: ANDOESM1XXX
+  swift8: ANDOESM1
+  branch_name: Head Office
+  branch_address: Jose Ortega Yy Gasset, 22-8 Pta. 28006 Madrid
+  branch_code: XXX
+  city: Madrid
+  country: Spain
+- name: Applus Servicios Tecnologicos,s.l.u
+  swift: APSTES22XXX
+  swift8: APSTES22
+  branch_name: Head Office
+  branch_address: Ctra Acceso a La Facultad De 08193 Cerdanyola Del Valles
+  branch_code: XXX
+  city: Cerdanyola Del Valles
+  country: Spain
+- name: Aribau Productos S L
+  swift: LOCAESM1XXX
+  swift8: LOCAESM1
+  branch_name: Head Office
+  branch_address: Rambla Catalunya 38 28014 Barcelona
+  branch_code: XXX
+  city: Barcelona
+  country: Spain
+- name: Arquia Gestion
+  swift: ARGEESB1XXX
+  swift8: ARGEESB1
+  branch_name: No branch name
+  branch_address: No branch address
+  branch_code: XXX
+  city: Barcelona
+  country: Spain
+- name: Associates Capital Corporation Plc Sucursal En Espana
+  swift: ASSCESM1XXX
+  swift8: ASSCESM1
+  branch_name: Head Office
+  branch_address: Cl Acanto 22 28045 Madrid
+  branch_code: XXX
+  city: Madrid
+  country: Spain
+- name: Atl 12 Capital Inversiones Av, Sa
+  swift: ATCVESM1XXX
+  swift8: ATCVESM1
+  branch_name: Head Office
+  branch_address: Montalban, 9 28014 Madrid
+  branch_code: XXX
+  city: Madrid
+  country: Spain
+- name: Auriga Global Investors Sociedad De Valores, S.a.
+  swift: ASSVESM1XXX
+  swift8: ASSVESM1
+  branch_name: Head Office
+  branch_address: C/ Serrano, 8 28001 Madrid
+  branch_code: XXX
+  city: Madrid
+  country: Spain
+- name: Axa Aurora Vida
+  swift: AXAVES21XXX
+  swift8: AXAVES21
+  branch_name: Head Office
+  branch_address: Place Federico Moyua 4 48009 Bilbao
+  branch_code: XXX
+  city: Bilbao
+  country: Spain
+- name: Axa Ibercapital
+  swift: AXIBESM1XXX
+  swift8: AXIBESM1
+  branch_name: Head Office
+  branch_address: Camino Fuente De La Mora 1 28046 Madrid
+  branch_code: XXX
+  city: Madrid
+  country: Spain
+- name: Axa Mediterranean Services
+  swift: AXMSESB1XXX
+  swift8: AXMSESB1
+  branch_name: Head Office
+  branch_address: Lilla 08029 Barcelona
+  branch_code: XXX
+  city: Barcelona
+  country: Spain
+- name: Axa Seguros Generales, Sa De Seguros Y Reseguros
+  swift: AXIPESBBXXX
+  swift8: AXIPESBB
+  branch_name: Head Office
+  branch_address: Lilla 08029 Barcelona
+  branch_code: XXX
+  city: Barcelona
+  country: Spain
+- name: Axesor Conocer Para Decidir Sa Axesor
+  swift: ACDAES21XXX
+  swift8: ACDAES21
+  branch_name: Head Office
+  branch_address: Axesor 18100 Armilla Granada
+  branch_code: XXX
+  city: Armilla Granada
+  country: Spain
+- name: B. And T. Asociados Financieros, S.a., S.v.b.
+  swift: ASFIESM1XXX
+  swift8: ASFIESM1
+  branch_name: Head Office
+  branch_address: Montalben 5 28014 Madrid
+  branch_code: XXX
+  city: Madrid
+  country: Spain
+- name: B.i. Capital A.v.b., S.a.
+  swift: CATBESM1XXX
+  swift8: CATBESM1
+  branch_name: Head Office
+  branch_address: Pso. Recoletos 3 28004 Madrid
+  branch_code: XXX
+  city: Madrid
+  country: Spain
+- name: Banca Nazionale Del Lavoro
+  swift: BNLIESM1XXX
+  swift8: BNLIESM1
+  branch_name: Head Office
+  branch_address: Paseo De La Castellana, 35 28046 Madrid
+  branch_code: XXX
+  city: Madrid
+  country: Spain
+- name: Banco Alicantino De Comercio S.a.
+  swift: ALCIESM1XXX
+  swift8: ALCIESM1
+  branch_name: Head Office
+  branch_address: Gran via De Hortaleza 3 28043 Madrid
+  branch_code: XXX
+  city: Madrid
+  country: Spain
+- name: Banco Bilbao Vizcaya Argentaria S.a.
+  swift: BBVAESM1CTM
+  swift8: BBVAESM1
+  branch_name: Gestoras De Renta Fija
+  branch_address: Madrid
+  branch_code: CTM
+  city: Madrid
+  country: Spain
+- name: Banco Bilbao Vizcaya Argentaria S.a.
+  swift: BBVAESM1CTX
+  swift8: BBVAESM1
+  branch_name: Equity Executions Confirmations Nsv Ctm
+  branch_address: Madrid
+  branch_code: CTX
+  city: Madrid
+  country: Spain
+- name: Banco Bilbao Vizcaya Argentaria S.a.
+  swift: BBVAESM1RMS
+  swift8: BBVAESM1
+  branch_name: Middle Office Renta Variable
+  branch_address: Bbva 28002 Madrid
+  branch_code: RMS
+  city: Madrid
+  country: Spain
+- name: Banco Bilbao Vizcaya Argentaria S.a.
+  swift: BBVAESMMCMP
+  swift8: BBVAESMM
+  branch_name: Cliente Multipais
+  branch_address: Madrid
+  branch_code: CMP
+  city: Madrid
+  country: Spain
+- name: Banco Bilbao Vizcaya Argentaria S.a.
+  swift: BBVAESMMREL
+  swift8: BBVAESMM
+  branch_name: Madrid
+  branch_address: Madrid
+  branch_code: REL
+  city: Madrid
+  country: Spain
+- name: Banco Canarias De Venezuela, Ca
+  swift: BOCAES21XXX
+  swift8: BOCAES21
+  branch_name: Head Office
+  branch_address: Plaza Alferez Provisional, S/N 38002 Santa Cruz De Tenerife
+  branch_code: XXX
+  city: Santa Cruz De Tenerife
+  country: Spain
+- name: Banco Comercial Most Bank
+  swift: MOSTESM1XXX
+  swift8: MOSTESM1
+  branch_name: Head Office
+  branch_address: Cl Serrano 63 28006 Madrid
+  branch_code: XXX
+  city: Madrid
+  country: Spain
+- name: Banco Comercial Portugues S.a.
+  swift: BCOMESM1XXX
+  swift8: BCOMESM1
+  branch_name: Head Office
+  branch_address: Cl Lopez De Hoyos 35 28002 Madrid
+  branch_code: XXX
+  city: Madrid
+  country: Spain
+- name: Banco Condal, S.a.
+  swift: BCNDESM1XXX
+  swift8: BCNDESM1
+  branch_name: Head Office
+  branch_address: Cl Jose Ortega Y Gasset, 29 28006 Madrid
+  branch_code: XXX
+  city: Madrid
+  country: Spain
+- name: Banco Consolidado Espana, S.a..
+  swift: CONSESM1XXX
+  swift8: CONSESM1
+  branch_name: Head Office
+  branch_address: Velazquez, 82 Madrid
+  branch_code: XXX
+  city: Madrid
+  country: Spain
+- name: Banco De Barcelona, S.a.
+  swift: BAROESM1XXX
+  swift8: BAROESM1
+  branch_name: Head Office
+  branch_address: Bbv Building 28004 Madrid
+  branch_code: XXX
+  city: Madrid
+  country: Spain
+- name: Banco De Desarrollo Economico Espanol
+  swift: DEEEESM10BB
+  swift8: DEEEESM1
+  branch_name: '08007 Barcelona'
+  branch_address: Paseo De Gracia 60 08007 Barcelona
+  branch_code: 0BB
+  city: Barcelona
+  country: Spain
+- name: Banco De Desarrollo Economico Espanol
+  swift: DEEEESM1XXX
+  swift8: DEEEESM1
+  branch_name: Head Office
+  branch_address: Paseo De La Castellana 33 28046 Madrid
+  branch_code: XXX
+  city: Madrid
+  country: Spain
+- name: Banco De Las Activ. Economicas Exteriores (vnesheconombank
+  swift: AEEVESM1XXX
+  swift8: AEEVESM1
+  branch_name: Head Office
+  branch_address: Ps De La Castellana 143 28046 Madrid
+  branch_code: XXX
+  city: Madrid
+  country: Spain
+- name: Banco Do Brasil Sa
+  swift: BRASESB1XXX
+  swift8: BRASESB1
+  branch_name: Head Office
+  branch_address: Cl Jose Ortega Y Gasset, 29 (Pl. 1 08007 Madrid
+  branch_code: XXX
+  city: Madrid
+  country: Spain
+- name: Banco Esfinge S.a.
+  swift: ESFIESM1XXX
+  swift8: ESFIESM1
+  branch_name: Head Office
+  branch_address: Av Menendez Pelayo 67 28009 Madrid
+  branch_code: XXX
+  city: Madrid
+  country: Spain
+- name: Banco Fimestic S.a.
+  swift: FIEIESM1XXX
+  swift8: FIEIESM1
+  branch_name: Head Office
+  branch_address: Cl Retama 3 (Pl 3-2) 28045 Madrid
+  branch_code: XXX
+  city: Madrid
+  country: Spain
+- name: Banco Grupo Cajatres
+  swift: TRESES21XXX
+  swift8: TRESES21
+  branch_name: Head Office
+  branch_address: 1 Avenida Reyes Catolicos 09005 Burgos
+  branch_code: XXX
+  city: Burgos
+  country: Spain
+- name: Banco Grupo Cajatres
+  swift: TRESES2BXXX
+  swift8: TRESES2B
+  branch_name: Head Office
+  branch_address: 1 Avenida Reyes Catolicos 09005 Burgos
+  branch_code: XXX
+  city: Burgos
+  country: Spain
+- name: Banco Industrial De Cataluna, S.a.
+  swift: INALESM1XXX
+  swift8: INALESM1
+  branch_name: Head Office
+  branch_address: Bbv Building 28004 Madrid
+  branch_code: XXX
+  city: Madrid
+  country: Spain
+- name: Banco Pichincha
+  swift: PIESESM1XXX
+  swift8: PIESESM1
+  branch_name: Head Office
+  branch_address: Calle Serrano, 28 28001 Madrid
+  branch_code: XXX
+  city: Madrid
+  country: Spain
+- name: Banco Privado Portugues, S.a.
+  swift: BPPOESM1XXX
+  swift8: BPPOESM1
+  branch_name: Head Office
+  branch_address: Calle Ortega Y Gasset 6 1 Dcha 28006 Madrid
+  branch_code: XXX
+  city: Madrid
+  country: Spain
+- name: Banco Sbs-agro
+  swift: STOLESM1XXX
+  swift8: STOLESM1
+  branch_name: Head Office
+  branch_address: Cl Fernando El Santo 15 28010 Madrid
+  branch_code: XXX
+  city: Madrid
+  country: Spain
+- name: Banco Sygma Hispania
+  swift: SHSAESM1XXX
+  swift8: SHSAESM1
+  branch_name: Head Office
+  branch_address: Cl Albasanz, 16 28001 Madrid
+  branch_code: XXX
+  city: Madrid
+  country: Spain
+- name: Bandenia Banca
+  swift: BNNAESM1XXX
+  swift8: BNNAESM1
+  branch_name: Head Office
+  branch_address: Calle Chile No.4 28290 Madrid
+  branch_code: XXX
+  city: Madrid
+  country: Spain
+- name: Bandenia Capital Investment Plc
+  swift: BNCVESM1XXX
+  swift8: BNCVESM1
+  branch_name: Head Office
+  branch_address: Edificio I, Oficina No.8 28290 Las Rozas De Madrid
+  branch_code: XXX
+  city: Las Rozas De Madrid
+  country: Spain
+- name: Bandenia Emprende S.a.c.
+  swift: BNESESM1XXX
+  swift8: BNESESM1
+  branch_name: Head Office
+  branch_address: Calle Chile No.4 28290 Las Rozas De Madrid
+  branch_code: XXX
+  city: Las Rozas De Madrid
+  country: Spain
+- name: Bandenia Fiduciary Management Ltd
+  swift: BFIGESM1XXX
+  swift8: BFIGESM1
+  branch_name: Head Office
+  branch_address: Calle Chile No.4 28290 Madrid
+  branch_code: XXX
+  city: Madrid
+  country: Spain
+- name: Bandenia Financial Group Plc
+  swift: BFGMESM1XXX
+  swift8: BFGMESM1
+  branch_name: Head Office
+  branch_address: Calle Chile 4, 28290 Madrid
+  branch_code: XXX
+  city: Madrid
+  country: Spain
+- name: Bandenia Finanzia E.d.e., S.l.
+  swift: BAZEESM1XXX
+  swift8: BAZEESM1
+  branch_name: Head Office
+  branch_address: Edificio I, Oficina No.8 28290 Las Rozas De Madrid
+  branch_code: XXX
+  city: Las Rozas De Madrid
+  country: Spain
+- name: Bandenia Participadas S.l.
+  swift: BADTESM1XXX
+  swift8: BADTESM1
+  branch_name: Head Office
+  branch_address: Edificio I, Oficina No.8 28290 Las Rozas De Madrid
+  branch_code: XXX
+  city: Las Rozas De Madrid
+  country: Spain
+- name: Bandenia Private Equity Partnes Ltd
+  swift: BPEEESM1XXX
+  swift8: BPEEESM1
+  branch_name: Head Office
+  branch_address: Edificio I, Oficina No.8 28290 Las Rozas De Madrid
+  branch_code: XXX
+  city: Las Rozas De Madrid
+  country: Spain
+- name: Bandenia Properties Ltd
+  swift: BNRRESM1XXX
+  swift8: BNRRESM1
+  branch_name: Head Office
+  branch_address: Edificio I, Oficina No.8 28290 Las Rozas De Madrid
+  branch_code: XXX
+  city: Las Rozas De Madrid
+  country: Spain
+- name: Bandenia S.a.
+  swift: BNNDESM1XXX
+  swift8: BNNDESM1
+  branch_name: Head Office
+  branch_address: Calle Chile No.4 28290 Madrid
+  branch_code: XXX
+  city: Madrid
+  country: Spain
+- name: Bandenia Secure Processing Ltd
+  swift: BAUCESM1XXX
+  swift8: BAUCESM1
+  branch_name: Head Office
+  branch_address: Edificio I, Oficina No.8 28290 Las Rozas De Madrid
+  branch_code: XXX
+  city: Las Rozas De Madrid
+  country: Spain
+- name: Banesto Banco De Emisiones S.a.
+  swift: BAEMESM1XXX
+  swift8: BAEMESM1
+  branch_name: Head Office
+  branch_address: Av Gran via De Hortaleza 3 28043 Madrid
+  branch_code: XXX
+  city: Madrid
+  country: Spain
+- name: Bank Austria Creditanstalt International Ag
+  swift: BKAUESM1XXX
+  swift8: BKAUESM1
+  branch_name: Head Office
+  branch_address: Cl Fernando El Santo 3 28010 Madrid
+  branch_code: XXX
+  city: Madrid
+  country: Spain
+- name: Bank Of America Europe Card Services, Mbna Espana
+  swift: AECEESM1XXX
+  swift8: AECEESM1
+  branch_name: Head Office
+  branch_address: Jose Echegaray 6 28230 Madrid
+  branch_code: XXX
+  city: Madrid
+  country: Spain
+- name: Bank Of New York, The
+  swift: IRVTESM1XXX
+  swift8: IRVTESM1
+  branch_name: Head Office
+  branch_address: Torre Colon I 28046 Madrid
+  branch_code: XXX
+  city: Madrid
+  country: Spain
+- name: Bankers Trust Company, Sucursal En Espana
+  swift: BKTRESM1XXX
+  swift8: BKTRESM1
+  branch_name: Head Office
+  branch_address: Paseo De La Castellana 42 28046 Madrid
+  branch_code: XXX
+  city: Madrid
+  country: Spain
+- name: Bankia Bolsa Sociedad De Valores, S.a.
+  swift: CMBOESMMXXX
+  swift8: CMBOESMM
+  branch_name: Head Office
+  branch_address: C/ Serrano 39 28001 Madrid
+  branch_code: XXX
+  city: Madrid
+  country: Spain
+- name: Banque Commerciale Du Maroc
+  swift: BCMAESM1XXX
+  swift8: BCMAESM1
+  branch_name: Head Office
+  branch_address: Eurobuilding 28036 Madrid
+  branch_code: XXX
+  city: Madrid
+  country: Spain
+- name: Banque Courtois
+  swift: COURESB1XXX
+  swift8: COURESB1
+  branch_name: Head Office
+  branch_address: Calle Balmes, 89-91 08008 Barcelona
+  branch_code: XXX
+  city: Barcelona
+  country: Spain
+- name: Banque Internationale A Luxembourg
+  swift: BILLESB1XXX
+  swift8: BILLESB1
+  branch_name: Head Office
+  branch_address: Ps De Gracia 16 08007 Barcelona
+  branch_code: XXX
+  city: Barcelona
+  country: Spain
+- name: Banque Regionale D'escompte Et De Depots
+  swift: REDEESM1XXX
+  swift8: REDEESM1
+  branch_name: Head Office
+  branch_address: Ave Felipe Ii, 17 28009 Madrid
+  branch_code: XXX
+  city: Madrid
+  country: Spain
+- name: Banque Scandinave En Suisse
+  swift: SCSIESM1XXX
+  swift8: SCSIESM1
+  branch_name: Head Office
+  branch_address: Av Ricardo Soriano 50 29600 Marbella
+  branch_code: XXX
+  city: Marbella
+  country: Spain
+- name: Banque Scs Alliance
+  swift: BSSAESB1XXX
+  swift8: BSSAESB1
+  branch_name: Head Office
+  branch_address: Av Diagonal 484 08006 Barcelona
+  branch_code: XXX
+  city: Barcelona
+  country: Spain
+- name: Banque Sudameris
+  swift: BSUDESM1XXX
+  swift8: BSUDESM1
+  branch_name: Head Office
+  branch_address: Cl Serrano 67 28006 Madrid
+  branch_code: XXX
+  city: Madrid
+  country: Spain
+- name: Barcelona Stock Exchange
+  swift: XBARESB1XXX
+  swift8: XBARESB1
+  branch_name: Head Office
+  branch_address: Paseo De Gracia 19 08007 Barcelona
+  branch_code: XXX
+  city: Barcelona
+  country: Spain
+- name: Barclays Pizarro Y Rocoder S.a., S.v.b.
+  swift: BAZWESM1XXX
+  swift8: BAZWESM1
+  branch_name: Head Office
+  branch_address: Plaza De Colon 1 28046 Madrid
+  branch_code: XXX
+  city: Madrid
+  country: Spain
+- name: Bayerische Hypo-und Vereinsbank Ag
+  swift: HYVEESM1XXX
+  swift8: HYVEESM1
+  branch_name: Head Office
+  branch_address: Torre Colon 28046 Madrid
+  branch_code: XXX
+  city: Madrid
+  country: Spain
+- name: Bbva And Partners Alternative Investments S.a., A.v.
+  swift: BPAVESM1XXX
+  swift8: BPAVESM1
+  branch_name: Head Office
+  branch_address: Edificio Atica 7 28223 Madrid
+  branch_code: XXX
+  city: Madrid
+  country: Spain
+- name: Bbva Gestion
+  swift: BBGEESM1XXX
+  swift8: BBGEESM1
+  branch_name: Head Office
+  branch_address: Via De Los Poblados S/N 00000 Madrid
+  branch_code: XXX
+  city: Madrid
+  country: Spain
+- name: Bbva Seguros
+  swift: BBSGESM1XXX
+  swift8: BBSGESM1
+  branch_name: Head Office
+  branch_address: Alcala 17 28014 Madrid
+  branch_code: XXX
+  city: Madrid
+  country: Spain
+- name: Bear, Crosby And Pike, A.v., S.a.
+  swift: BECKESM1XXX
+  swift8: BECKESM1
+  branch_name: Head Office
+  branch_address: Barbara De Braganza, 2 Madrid
+  branch_code: XXX
+  city: Madrid
+  country: Spain
+- name: Benito Y Monjardin S.v.b., S.a.
+  swift: BENMESM1XXX
+  swift8: BENMESM1
+  branch_name: Head Office
+  branch_address: Alfonso Xii 26 28014 Madrid
+  branch_code: XXX
+  city: Madrid
+  country: Spain
+- name: Bes Investimento Sa
+  swift: BEIVESM1XXX
+  swift8: BEIVESM1
+  branch_name: Head Office
+  branch_address: Cl Velazquez 108-110 28006 Madrid
+  branch_code: XXX
+  city: Madrid
+  country: Spain
+- name: Bestinver, S.v.b., S.a.
+  swift: BEERESM1XXX
+  swift8: BEERESM1
+  branch_name: Head Office
+  branch_address: C/ Juan De Mena, 8 - 1 D 28014 Madrid
+  branch_code: XXX
+  city: Madrid
+  country: Spain
+- name: Beta Capital S.v.b., S.a.
+  swift: BECAESM1BAR
+  swift8: BECAESM1
+  branch_name: Barcelona Office
+  branch_address: Paseo De Gracia 56 08007 Barcelona
+  branch_code: BAR
+  city: Barcelona
+  country: Spain
+- name: Beta Capital S.v.b., S.a.
+  swift: BECAESM1XXX
+  swift8: BECAESM1
+  branch_name: Head Office
+  branch_address: Claudio Coello 78 28001 Madrid
+  branch_code: XXX
+  city: Madrid
+  country: Spain
+- name: Bilbao Plaza Financiera Depositaria, Agencia De V Lores, S.a.
+  swift: BPFDES21XXX
+  swift8: BPFDES21
+  branch_name: Head Office
+  branch_address: C/ Jose Maria Olabarri, 1 48001 Bilbao
+  branch_code: XXX
+  city: Bilbao
+  country: Spain
+- name: Bolsa De Valencia
+  swift: XVALESV1XXX
+  swift8: XVALESV1
+  branch_name: Head Office
+  branch_address: Calle Libreros 2 Y 4 46002 Valencia
+  branch_code: XXX
+  city: Valencia
+  country: Spain
+- name: Boursorama Sucursal En Espana
+  swift: BOUEESM1XXX
+  swift8: BOUEESM1
+  branch_name: Head Office
+  branch_address: C/ Marques De Urquijo, 5, Pl. 6 Y 28008 Madrid
+  branch_code: XXX
+  city: Madrid
+  country: Spain
+- name: Btm Securities (spain) S.a. S.v.b.
+  swift: BTMSESM1XXX
+  swift8: BTMSESM1
+  branch_name: Head Office
+  branch_address: Jose Ortega Y Gasset 29 28006 Madrid
+  branch_code: XXX
+  city: Madrid
+  country: Spain
+- name: Bucefalia Inversiones Sicav Sa
+  swift: BUIIESB1XXX
+  swift8: BUIIESB1
+  branch_name: Head Office
+  branch_address: Avinguda Diagonal, 668-670 Barcelona
+  branch_code: XXX
+  city: Barcelona
+  country: Spain
+- name: C.r. De Cheste Scc
+  swift: CCRIES2A121
+  swift8: CCRIES2A
+  branch_name: Cheste (Valencia)
+  branch_address: Cheste (Valencia)
+  branch_code: '121'
+  city: Cheste
+  country: Spain
+- name: C.r. La Junquera De Chilches Sccv
+  swift: CCRIES2A157
+  swift8: CCRIES2A
+  branch_name: Chilches
+  branch_address: Chilches
+  branch_code: '157'
+  city: Chilches
+  country: Spain
+- name: C.r. San Roque De Almenara Sccv
+  swift: CCRIES2A095
+  swift8: CCRIES2A
+  branch_name: Almenara
+  branch_address: Almenara
+  branch_code: '095'
+  city: Almenara
+  country: Spain
+- name: C.r.de Alginet Sccv
+  swift: CCRIES2A179
+  swift8: CCRIES2A
+  branch_name: Alginet
+  branch_address: Alginet
+  branch_code: '179'
+  city: Alginet
+  country: Spain
+- name: C.r.de Villar Ccv
+  swift: CCRIES2A152
+  swift8: CCRIES2A
+  branch_name: Villar Del Arzobispo
+  branch_address: Villar Del Arzobispo
+  branch_code: '152'
+  city: Villar Del Arzobispo
+  country: Spain
+- name: C.r.s. Isidro De Vilafames Sccv
+  swift: CCRIES2A165
+  swift8: CCRIES2A
+  branch_name: Vilafames
+  branch_address: Vilafames
+  branch_code: '165'
+  city: Vilafames
+  country: Spain
+- name: C.r.s. Jaime Alquerias Nino Perdido Sccv
+  swift: CCRIES2A119
+  swift8: CCRIES2A
+  branch_name: Alquerias
+  branch_address: Alquerias
+  branch_code: '119'
+  city: Alquerias
+  country: Spain
+- name: C.r.s. Jose De Burriana Sccv
+  swift: CCRIES2A112
+  swift8: CCRIES2A
+  branch_name: Burriana
+  branch_address: Burriana
+  branch_code: '112'
+  city: Burriana
+  country: Spain
+- name: C.r.s. Jose De Nules
+  swift: CCRIES2A135
+  swift8: CCRIES2A
+  branch_name: Nules
+  branch_address: Nules
+  branch_code: '135'
+  city: Nules
+  country: Spain
+- name: Caceis Bank Espana, S.a.
+  swift: IXIUESM1XXX
+  swift8: IXIUESM1
+  branch_name: Head Office
+  branch_address: Edificio Trebol 28027 Madrid
+  branch_code: XXX
+  city: Madrid
+  country: Spain
+- name: Cai Bolsa S.v., S.a.
+  swift: CAOLES21XXX
+  swift8: CAOLES21
+  branch_name: Head Office
+  branch_address: Calle Capitan Portoles 12 50004 Zaragoza
+  branch_code: XXX
+  city: Zaragoza
+  country: Spain
+- name: Caixa Barcelona Seguros Vida, S.a. Seguros Y Reaseguros
+  swift: CBSVESB1XXX
+  swift8: CBSVESB1
+  branch_name: Head Office
+  branch_address: General Almirante, 2-4-6 08014 Barcelona
+  branch_code: XXX
+  city: Barcelona
+  country: Spain
+- name: Caixa Guissona
+  swift: CAXIES21XXX
+  swift8: CAXIES21
+  branch_name: Head Office
+  branch_address: Traspalau 8 25210 Guissona
+  branch_code: XXX
+  city: Guissona
+  country: Spain
+- name: Caixa Rural Altea Ccv
+  swift: CCRIES2A045
+  swift8: CCRIES2A
+  branch_name: Altea
+  branch_address: Altea
+  branch_code: '045'
+  city: Altea
+  country: Spain
+- name: Caja Rural Betxi, S. Coop. De Credito V.
+  swift: BCOEESMM138
+  swift8: BCOEESMM
+  branch_name: 12549 Betxi
+  branch_address: Plaza Mayor 2 12549 Betxi
+  branch_code: '138'
+  city: Betxi
+  country: Spain
+- name: Caja Rural Casas Ibanez Sdad. Coop.
+  swift: BCOEESMM127
+  swift8: BCOEESMM
+  branch_name: 02200 Casas Ibanez
+  branch_address: Cl. La Tercia 49 02200 Casas Ibanez
+  branch_code: '127'
+  city: Casas Ibanez
+  country: Spain
+- name: Caja Rural Central, S.c.c.
+  swift: BCOEESMM005
+  swift8: BCOEESMM
+  branch_name: 03300 Orihuela
+  branch_address: Dr. Sarget, 29 03300 Orihuela
+  branch_code: '005'
+  city: Alicante
+  country: Spain
+- name: Caja Rural De Albal, Coop. De Credito V.
+  swift: BCOEESMM150
+  swift8: BCOEESMM
+  branch_name: 46470 Albal
+  branch_address: Plaza Del Caudillo 24 46470 Albal
+  branch_code: '150'
+  city: Albal
+  country: Spain
+- name: Caja Rural De Algemesi
+  swift: BCOEESMM117
+  swift8: BCOEESMM
+  branch_name: Valencia
+  branch_address: Valencia
+  branch_code: '117'
+  city: Valencia
+  country: Spain
+- name: Caja Rural De Almendralejo
+  swift: BCOEESMM001
+  swift8: BCOEESMM
+  branch_name: 06200 Almendralejo
+  branch_address: Cale Real 22 06200 Almendralejo
+  branch_code: '001'
+  city: Almendralejo
+  country: Spain
+- name: Caja Rural De Asturias
+  swift: BCOEESMM059
+  swift8: BCOEESMM
+  branch_name: Oviedo
+  branch_address: Oviedo
+  branch_code: '059'
+  city: Gijon
+  country: Spain
+- name: Caja Rural De Benicarlo
+  swift: BCOEESMM162
+  swift8: BCOEESMM
+  branch_name: 12580 Benicarlo
+  branch_address: Avenida Joan Carles I 18 12580 Benicarlo
+  branch_code: '162'
+  city: Benicarlo
+  country: Spain
+- name: Caja Rural De Castilla La Mancha, S.c.c.
+  swift: BCOEESMM081
+  swift8: BCOEESMM
+  branch_name: 45004 Toledo
+  branch_address: Mejico, 2 45004 Toledo
+  branch_code: '081'
+  city: Albacete
+  country: Spain
+- name: Caja Rural De Extremadura
+  swift: BCOEESMM009
+  swift8: BCOEESMM
+  branch_name: Badajoz
+  branch_address: Badajoz
+  branch_code: '009'
+  city: Badajoz
+  country: Spain
+- name: Caja Rural De Gijon
+  swift: BCOEESMM007
+  swift8: BCOEESMM
+  branch_name: Gijon
+  branch_address: Gijon
+  branch_code: '007'
+  city: Gijon
+  country: Spain
+- name: Caja Rural De Granada
+  swift: BCOEESMM023
+  swift8: BCOEESMM
+  branch_name: Granada
+  branch_address: Granada
+  branch_code: '023'
+  city: Granada
+  country: Spain
+- name: Caja Rural De Guissona Sociedad Cooperativa De Credito
+  swift: BCOEESMM140
+  swift8: BCOEESMM
+  branch_name: 25210 Guissona
+  branch_address: Raval Traspalau 8 25210 Guissona
+  branch_code: '140'
+  city: Guissona
+  country: Spain
+- name: Caja Rural De Jaen
+  swift: BCOEESMM067
+  swift8: BCOEESMM
+  branch_name: Jaen
+  branch_address: Jaen
+  branch_code: '067'
+  city: Jaen
+  country: Spain
+- name: Caja Rural De L'alcudia
+  swift: BCOEESMM096
+  swift8: BCOEESMM
+  branch_name: Valencia
+  branch_address: Valencia
+  branch_code: '096'
+  city: Valencia
+  country: Spain
+- name: Caja Rural De Navarra
+  swift: BCOEESMM008
+  swift8: BCOEESMM
+  branch_name: Pamplona
+  branch_address: Pamplona
+  branch_code: '008'
+  city: Pamplona
+  country: Spain
+- name: Caja Rural De Salamanca
+  swift: BCOEESMM016
+  swift8: BCOEESMM
+  branch_name: Salamanca
+  branch_address: Salamanca
+  branch_code: '016'
+  city: Salamanca
+  country: Spain
+- name: Caja Rural De Soria
+  swift: BCOEESMM017
+  swift8: BCOEESMM
+  branch_name: Soria
+  branch_address: Soria
+  branch_code: '017'
+  city: Soria
+  country: Spain
+- name: Caja Rural De Teruel
+  swift: BCOEESMM080
+  swift8: BCOEESMM
+  branch_name: Teruel
+  branch_address: Teruel
+  branch_code: '080'
+  city: Teruel
+  country: Spain
+- name: Caja Rural De Utrera
+  swift: BCOEESMM020
+  swift8: BCOEESMM
+  branch_name: Sevilla
+  branch_address: Sevilla
+  branch_code: '020'
+  city: Sevilla
+  country: Spain
+- name: Caja Rural De Villamalea
+  swift: BCOEESMM144
+  swift8: BCOEESMM
+  branch_name: Albacete
+  branch_address: Albacete
+  branch_code: '144'
+  city: Albacete
+  country: Spain
+- name: Caja Rural De Zamora
+  swift: BCOEESMM085
+  swift8: BCOEESMM
+  branch_name: Zamora
+  branch_address: Zamora
+  branch_code: '085'
+  city: Zamora
+  country: Spain
+- name: Caja Rural Del Sur,sdad.coop.cto (formerly Caja Rural De Huelva Y Sevilla
+  swift: BCOEESMM187
+  swift8: BCOEESMM
+  branch_name: Sevilla
+  branch_address: Sevilla
+  branch_code: '187'
+  city: El Cuervo De Sevilla
+  country: Spain
+- name: Caja Rural Nestra Madre Del Sol
+  swift: BCOEESMM115
+  swift8: BCOEESMM
+  branch_name: 14430 Adamuz
+  branch_address: Alto Quadalquivir 4 14430 Adamuz
+  branch_code: '115'
+  city: Adamuz
+  country: Spain
+- name: Caja Rural Ntra Sra Del Rosario
+  swift: BCOEESMM098
+  swift8: BCOEESMM
+  branch_name: 14857 Nueva Carteya (Cordoba)
+  branch_address: Avenida Andalucia 6 14857 Nueva Carteya (Cordoba)
+  branch_code: '098'
+  city: Nueva Carteya
+  country: Spain
+- name: Caja Rural Ntra. Senora De La Esperanza
+  swift: BCOEESMM134
+  swift8: BCOEESMM
+  branch_name: Onda
+  branch_address: Onda
+  branch_code: '134'
+  city: Onda
+  country: Spain
+- name: Caja Rural Ntra. Sra. De Guadalupe, Sdad. Coop. Cdto.
+  swift: BCOEESMM089
+  swift8: BCOEESMM
+  branch_name: 14850 Baena (Cordoba)
+  branch_address: Natalio Rivas 32 14850 Baena (Cordoba)
+  branch_code: '089'
+  city: Baena
+  country: Spain
+- name: Caja Rural Ntra. Sra. Del Campo
+  swift: BCOEESMM104
+  swift8: BCOEESMM
+  branch_name: 14660 Canete Torres (Cordoba)
+  branch_address: Molino 2 14660 Canete Torres (Cordoba)
+  branch_code: '104'
+  city: Canete De Las Torres
+  country: Spain
+- name: Caja Rural San Augustin De Fuente Alamo
+  swift: BCOEESMM018
+  swift8: BCOEESMM
+  branch_name: 30320 Fuente Alamo
+  branch_address: Gran via 1 30320 Fuente Alamo
+  branch_code: '018'
+  city: Fuente Alamo
+  country: Spain
+- name: Caja Rural San Isidro De Les Coves De Vinroma, S. Coop. De Credito V.
+  swift: BCOEESMM166
+  swift8: BCOEESMM
+  branch_name: 12185 Les Coves De Vinroma
+  branch_address: Corso Sant Antoni 27 12185 Les Coves De Vinroma
+  branch_code: '166'
+  city: Les Coves De Vinroma
+  country: Spain
+- name: Caja Rural San Isidro Vall D'uxo
+  swift: BCOEESMM111
+  swift8: BCOEESMM
+  branch_name: Vall Duxo
+  branch_address: Vall Duxo
+  branch_code: '111'
+  city: La Vall d'Uixo
+  country: Spain
+- name: Caja Rural San Jose De Almassora
+  swift: BCOEESMM130
+  swift8: BCOEESMM
+  branch_name: Castellon
+  branch_address: Castellon
+  branch_code: '130'
+  city: Castellon
+  country: Spain
+- name: Caja Rural Vinaros S.c.c.v.
+  swift: BCOEESMM174
+  swift8: BCOEESMM
+  branch_name: 12500 Vinaros
+  branch_address: C. San Cristobal 19 12500 Vinaros
+  branch_code: '174'
+  city: Vinaros
+  country: Spain
+- name: Caja Siete, Caja Rural, Scc
+  swift: BCOEESMM076
+  swift8: BCOEESMM
+  branch_name: Santa Cruz De Tenerife
+  branch_address: Santa Cruz De Tenerife
+  branch_code: '076'
+  city: Santa Cruz De Tenerife
+  country: Spain
+- name: Calculo Y Tratamiento De La Informacion Cti, S.a.
+  swift: CTIXESMMXXX
+  swift8: CTIXESMM
+  branch_name: Head Office
+  branch_address: Avenida De La Industria, 32 28108 Madrid
+  branch_code: XXX
+  city: Madrid
+  country: Spain
+- name: Camion World Comercial Sl
+  swift: CAWCES21XXX
+  swift8: CAWCES21
+  branch_name: Head Office
+  branch_address: Ctra. De La Canya, S/N 17800 Olot
+  branch_code: XXX
+  city: Olot
+  country: Spain
+- name: Candy Hoover Electrodomesticos S.a.
+  swift: CAHEES21XXX
+  swift8: CAHEES21
+  branch_name: Head Office
+  branch_address: Calle Ahumategi Bide, 3 Bergara
+  branch_code: XXX
+  city: Bergara
+  country: Spain
+- name: Carnegie Espana
+  swift: CANEESM1XXX
+  swift8: CANEESM1
+  branch_name: Head Office
+  branch_address: Valenzuela 28046 Madrid
+  branch_code: XXX
+  city: Madrid
+  country: Spain
+- name: Casse Di Risparmio Di Firenze E Pistoia E Pescia
+  swift: PISTESM1XXX
+  swift8: PISTESM1
+  branch_name: Head Office
+  branch_address: Ps De La Castellana 60 28046 Madrid
+  branch_code: XXX
+  city: Madrid
+  country: Spain
+- name: Celeris Servicios Financieros, S.a. E.f.c.
+  swift: CSFAESM1XXX
+  swift8: CSFAESM1
+  branch_name: Head Office
+  branch_address: Juan Esplandiu 13 C-1 28007 Madrid
+  branch_code: XXX
+  city: Madrid
+  country: Spain
+- name: Central Hispano De Bolsa S.v.b., S.a.
+  swift: CEHBESM1XXX
+  swift8: CEHBESM1
+  branch_name: Head Office
+  branch_address: Avenida San Luis 25-27 28033 Madrid
+  branch_code: XXX
+  city: Madrid
+  country: Spain
+- name: Chemical Asset Management
+  swift: CHAGESM1XXX
+  swift8: CHAGESM1
+  branch_name: Head Office
+  branch_address: Castellana 51 28046 Madrid
+  branch_code: XXX
+  city: Madrid
+  country: Spain
+- name: Cimd, S.v.
+  swift: CIDDESM1XXX
+  swift8: CIDDESM1
+  branch_name: Head Office
+  branch_address: Torre Picasso 28020 Madrid
+  branch_code: XXX
+  city: Madrid
+  country: Spain
+- name: Cnp Vida De Seguros Y Reaseguros, S.a.
+  swift: SVSRESM1XXX
+  swift8: SVSRESM1
+  branch_name: Head Office
+  branch_address: Calle Ochandiano, 10 2 Planta 28023 Madrid
+  branch_code: XXX
+  city: Madrid
+  country: Spain
+- name: Cofitur Inversiones Sicav Sa
+  swift: COVSESB1XXX
+  swift8: COVSESB1
+  branch_name: Head Office
+  branch_address: Avinguda Diagonal, 668-670 08034 Barcelona
+  branch_code: XXX
+  city: Barcelona
+  country: Spain
+- name: Compania De Distribucion Integral Logista,s.a.u
+  swift: CDILESMMXXX
+  swift8: CDILESMM
+  branch_name: Head Office
+  branch_address: Edificio 1 28914 Madrid
+  branch_code: XXX
+  city: Madrid
+  country: Spain
+- name: Comsa Emte S.l.
+  swift: CMEMESBBXXX
+  swift8: CMEMESBB
+  branch_name: Head Office
+  branch_address: C/Viriat 47 08014 Barcelona
+  branch_code: XXX
+  city: Barcelona
+  country: Spain
+- name: Comunidad Autonoma De Canarias
+  swift: GCANES21XXX
+  swift8: GCANES21
+  branch_name: Head Office
+  branch_address: Tomas Miller 38 35071 Las Palmas De Gran Canaria
+  branch_code: XXX
+  city: Las Palmas De Gran Canaria
+  country: Spain
+- name: Comunidad Autonoma De Castilla Y Leon
+  swift: JCYLES21XXX
+  swift8: JCYLES21
+  branch_name: Head Office
+  branch_address: Calle Jose Cantalapiedra, 2 47014 Valladolid
+  branch_code: XXX
+  city: Valladolid
+  country: Spain
+- name: Comunidad Autonoma De La Region De Murcia
+  swift: CAMUES21XXX
+  swift8: CAMUES21
+  branch_name: Head Office
+  branch_address: Calle Acisclo Diaz 30071 Murcia
+  branch_code: XXX
+  city: Murcia
+  country: Spain
+- name: Comunidad Autonoma De Las Islas Baleares
+  swift: CBALES21XXX
+  swift8: CBALES21
+  branch_name: Head Office
+  branch_address: Calle Palau Reial 17 7001 Palma De Mallorca
+  branch_code: XXX
+  city: Palma De Mallorca
+  country: Spain
+- name: Comunidad De Madrid
+  swift: CMADESM1XXX
+  swift8: CMADESM1
+  branch_name: Head Office
+  branch_address: Plaza De La Puerta Del Sol, 7 28010 Madrid
+  branch_code: XXX
+  city: Madrid
+  country: Spain
+- name: Consorcio De Compensacion De Seguros
+  swift: CDCSESM1XXX
+  swift8: CDCSESM1
+  branch_name: Head Office
+  branch_address: Consorcio De Compensacion De Seguro 28046 Madrid
+  branch_code: XXX
+  city: Madrid
+  country: Spain
+- name: Consulnor Servicios Financieros, Sociedad De Valores S.a.u.
+  swift: GALAES21XXX
+  swift8: GALAES21
+  branch_name: Head Office
+  branch_address: Calle Gran via Diego Lopez De Haro 48009 Bilbao
+  branch_code: XXX
+  city: Bilbao
+  country: Spain
+- name: Corretaje E Informacion Monetaria Y De Divisas, Sa
+  swift: CIMDESM1XXX
+  swift8: CIMDESM1
+  branch_name: Head Office
+  branch_address: Torre Picasso Madrid
+  branch_code: XXX
+  city: Madrid
+  country: Spain
+- name: Cortal Consors Sucursal En Espana
+  swift: CCSEESM1XXX
+  swift8: CCSEESM1
+  branch_name: Head Office
+  branch_address: Ribera Del Loira, 28 28014 Madrid
+  branch_code: XXX
+  city: Madrid
+  country: Spain
+- name: Credit Agricole Indosuez Cheuvreux Espana, Sa Sv
+  swift: CAICESM1XXX
+  swift8: CAICESM1
+  branch_name: Head Office
+  branch_address: Paseo De La Castellane 1 28046 Madrid
+  branch_code: XXX
+  city: Madrid
+  country: Spain
+- name: Credit Suisse Securities S.v. S.a.
+  swift: CSROESM1XXX
+  swift8: CSROESM1
+  branch_name: Head Office
+  branch_address: Cl Ayala, 42 28001 Madrid
+  branch_code: XXX
+  city: Madrid
+  country: Spain
+- name: Cygnus Asset Management Sgiic, S.a.
+  swift: CSMGESM1XXX
+  swift8: CSMGESM1
+  branch_name: Head Office
+  branch_address: Pza Marques De Salamanca 9 28006 Madrid
+  branch_code: XXX
+  city: Madrid
+  country: Spain
+- name: D.b. Securities, S.a., S.v.b.
+  swift: SCURESM1XXX
+  swift8: SCURESM1
+  branch_name: Head Office
+  branch_address: Paseo Castellana 42 28046 Madrid
+  branch_code: XXX
+  city: Madrid
+  country: Spain
+- name: Dai-ichi Kangyo Bank,ltd,the
+  swift: DKBBESM1XXX
+  swift8: DKBBESM1
+  branch_name: Head Office
+  branch_address: Maria De Molina,4 28006 Madrid
+  branch_code: XXX
+  city: Madrid
+  country: Spain
+- name: Davigel Espana S.a.
+  swift: DAVNES2AXXX
+  swift8: DAVNES2A
+  branch_name: No branch name
+  branch_address: No branch address
+  branch_code: XXX
+  city: Sant Just
+  country: Spain
+- name: De Lage Landen International B.v.
+  swift: LLISESM1XXX
+  swift8: LLISESM1
+  branch_name: Head Office
+  branch_address: Cl Jose Bardasano Baos, 9. 28016 Madrid
+  branch_code: XXX
+  city: Madrid
+  country: Spain
+- name: Depfa-bank Europe, Plc
+  swift: DPFAESM1XXX
+  swift8: DPFAESM1
+  branch_name: Head Office
+  branch_address: Calle Monte Esquinza, 30 28004 Madrid
+  branch_code: XXX
+  city: Madrid
+  country: Spain
+- name: Deutsche Bank Credit S.a.
+  swift: DECRESM1XXX
+  swift8: DECRESM1
+  branch_name: Head Office
+  branch_address: Cl Somera 7-9 (La Florida) 28023 Madrid
+  branch_code: XXX
+  city: Madrid
+  country: Spain
+- name: Deutsche Bank Gestion
+  swift: DEGEESM1XXX
+  swift8: DEGEESM1
+  branch_name: Head Office
+  branch_address: Passeo De La Castellana 18 28043 Madrid
+  branch_code: XXX
+  city: Madrid
+  country: Spain
+- name: Diputacion General De Aragon
+  swift: ARGCES21XXX
+  swift8: ARGCES21
+  branch_name: Head Office
+  branch_address: Plaza De Los Sitios 7 50001 Zaragoza
+  branch_code: XXX
+  city: Zaragoza
+  country: Spain
+- name: Dl Corporation Agencia De Valores S A
+  swift: COAVESB1XXX
+  swift8: COAVESB1
+  branch_name: Head Office
+  branch_address: Calle Muntaner 411 08021 Barcelona
+  branch_code: XXX
+  city: Barcelona
+  country: Spain
+- name: Don Curro Inversiones Sicav Sa
+  swift: DCISESB1XXX
+  swift8: DCISESB1
+  branch_name: Head Office
+  branch_address: Avinguda Diagonal, 668-670 Barcelona
+  branch_code: XXX
+  city: Barcelona
+  country: Spain
+- name: Duro Felguera, S.a.
+  swift: DUFEES21XXX
+  swift8: DUFEES21
+  branch_name: Head Office
+  branch_address: Ada Byron, 90 33203 Gijon
+  branch_code: XXX
+  city: Gijon
+  country: Spain
+- name: Dws Investments Sgiic
+  swift: DWISESM1XXX
+  swift8: DWISESM1
+  branch_name: Head Office
+  branch_address: Edificio Cuspide 28046 Madrid
+  branch_code: XXX
+  city: Madrid
+  country: Spain
+- name: El Fondo De Garantia De Depositos En Cajas De Ahorro
+  swift: FGDCESM1XXX
+  swift8: FGDCESM1
+  branch_name: Head Office
+  branch_address: Calle Jose Ortega Y Gasset, 22 28014 Madrid
+  branch_code: XXX
+  city: Madrid
+  country: Spain
+- name: Electronic Trading System Valores, S.v., S.a.
+  swift: ETSVESM1XXX
+  swift8: ETSVESM1
+  branch_name: Head Office
+  branch_address: Estacion a Odonnell, S/N. 28022 Madrid
+  branch_code: XXX
+  city: Madrid
+  country: Spain
+- name: Endesa, S.a.
+  swift: ENDEESMMXXX
+  swift8: ENDEESMM
+  branch_name: Head Office
+  branch_address: C/ Ribera Del Loira, 60 28042 Madrid
+  branch_code: XXX
+  city: Madrid
+  country: Spain
+- name: Espaclear, Sistemas De Compensacion De Activos Financieros Sa/av
+  swift: ESCCESM1XXX
+  swift8: ESCCESM1
+  branch_name: Head Office
+  branch_address: Pedro Teixeira 8 28020 Madrid
+  branch_code: XXX
+  city: Madrid
+  country: Spain
+- name: Espirito Santo Bank Of Florida
+  swift: ESBFESM1XXX
+  swift8: ESBFESM1
+  branch_name: Head Office
+  branch_address: Cl Serrano, 88 28006 Madrid
+  branch_code: XXX
+  city: Madrid
+  country: Spain
+- name: Eurobank Del Mediterraneo S.a.
+  swift: EUMEESB1XXX
+  swift8: EUMEESB1
+  branch_name: Head Office
+  branch_address: Roger De Lluria 42 08009 Barcelona
+  branch_code: XXX
+  city: Barcelona
+  country: Spain
+- name: Eurodeal A.v.b., S.a.
+  swift: EUDAESM1XXX
+  swift8: EUDAESM1
+  branch_name: Head Office
+  branch_address: Claudio Coello 22 28001 Madrid
+  branch_code: XXX
+  city: Madrid
+  country: Spain
+- name: Eurofinanzas, S.a., S.v.b.
+  swift: EUASESM1XXX
+  swift8: EUASESM1
+  branch_name: Head Office
+  branch_address: Numancia 2 28039 Madrid
+  branch_code: XXX
+  city: Madrid
+  country: Spain
+- name: Europea Popular De Inversiones S.v.b.,s.a.
+  swift: EUPIESM1XXX
+  swift8: EUPIESM1
+  branch_name: Head Office
+  branch_address: Profesor Waksman 5 28036 Madrid
+  branch_code: XXX
+  city: Madrid
+  country: Spain
+- name: European Credit Capital Markets Ltd
+  swift: ECCMESM1XXX
+  swift8: ECCMESM1
+  branch_name: Head Office
+  branch_address: Calle Chile No.4 28290 Madrid
+  branch_code: XXX
+  city: Madrid
+  country: Spain
+- name: European Credit Plc
+  swift: EUCEESM1XXX
+  swift8: EUCEESM1
+  branch_name: Head Office
+  branch_address: Calle Chile No.4 28290 Madrid
+  branch_code: XXX
+  city: Madrid
+  country: Spain
+- name: Eurosafei, Sociedad De Valores Y Bolsa, S.a.
+  swift: ESAFESM1XXX
+  swift8: ESAFESM1
+  branch_name: Head Office
+  branch_address: Goya, 6 28001 Madrid
+  branch_code: XXX
+  city: Madrid
+  country: Spain
+- name: Everis Spain, S.l.u.
+  swift: EVIRESMMXXX
+  swift8: EVIRESMM
+  branch_name: Head Office
+  branch_address: Avenida De Manoteras N 52 28050 Madrid
+  branch_code: XXX
+  city: Madrid
+  country: Spain
+- name: F G Inversiones Bursatiles Sa
+  swift: FGIBESM1XXX
+  swift8: FGIBESM1
+  branch_name: Head Office
+  branch_address: Jose Ortega Y Gasset 2c-5 Madrid
+  branch_code: XXX
+  city: Madrid
+  country: Spain
+- name: Ferrovial S.a.
+  swift: FERRESM1XXX
+  swift8: FERRESM1
+  branch_name: Head Office
+  branch_address: C/ Principe De Vergara, 135 28002 Madrid
+  branch_code: XXX
+  city: Madrid
+  country: Spain
+- name: Fibanc Excellent Fi
+  swift: FBBEESB1XXX
+  swift8: FBBEESB1
+  branch_name: Head Office
+  branch_address: Avinguda Diagonal, 668-670 Barcelona
+  branch_code: XXX
+  city: Barcelona
+  country: Spain
+- name: Fidentiis Equities Sociedad De Valores Sa
+  swift: FIDSESM1XXX
+  swift8: FIDSESM1
+  branch_name: Head Office
+  branch_address: Calle Velazquez 140 28006 Madrid
+  branch_code: XXX
+  city: Madrid
+  country: Spain
+- name: Fiesta Hotels And Resorts Sl
+  swift: PHGPES22XXX
+  swift8: PHGPES22
+  branch_name: No branch name
+  branch_address: No branch address
+  branch_code: XXX
+  city: Ibiza
+  country: Spain
+- name: Finandenia Credit And Guarantee Ltd
+  swift: FCGBESM1XXX
+  swift8: FCGBESM1
+  branch_name: Head Office
+  branch_address: Calle Chile No.4 28290 Madrid
+  branch_code: XXX
+  city: Madrid
+  country: Spain
+- name: Fineco Sociedad De Valores S.a.
+  swift: FIOVES21XXX
+  swift8: FIOVES21
+  branch_name: Head Office
+  branch_address: Ibanez De Bilbao, 9 Bajo 48009 Bilbao
+  branch_code: XXX
+  city: Bilbao
+  country: Spain
+- name: Fitch Ratings Espana. S.a.u.
+  swift: FRIPESB1XXX
+  swift8: FRIPESB1
+  branch_name: Head Office
+  branch_address: Paseo De Gracia, 85 08008 Barcelona
+  branch_code: XXX
+  city: Barcelona
+  country: Spain
+- name: Fluidra, S.a.
+  swift: FDRAESBBXXX
+  swift8: FDRAESBB
+  branch_name: Head Office
+  branch_address: Torre Millenium 08208 Sabadell
+  branch_code: XXX
+  city: Sabadell
+  country: Spain
+- name: Fomento De Construcciones Y Contratas
+  swift: FCOTESB1XXX
+  swift8: FCOTESB1
+  branch_name: Head Office
+  branch_address: Balmes Barcelona
+  branch_code: XXX
+  city: Barcelona
+  country: Spain
+- name: Fonditel Egfp
+  swift: FOEGESM1XXX
+  swift8: FOEGESM1
+  branch_name: Head Office
+  branch_address: Pedro Teixeiro 8 28020 Madrid
+  branch_code: XXX
+  city: Madrid
+  country: Spain
+- name: Fondo De Garantia De Depositos De Entidades De Credito
+  swift: FGDEESM1XXX
+  swift8: FGDEESM1
+  branch_name: Head Office
+  branch_address: Calle Jose Ortega Y Gasset, 22 28014 Madrid
+  branch_code: XXX
+  city: Madrid
+  country: Spain
+- name: Franfinance, Sucursal En Espana
+  swift: FRANESM1XXX
+  swift8: FRANESM1
+  branch_name: Head Office
+  branch_address: Cl Caleruega, 81 (Pl. 4) 28004 Madrid
+  branch_code: XXX
+  city: Madrid
+  country: Spain
+- name: Frit Ravich, S.l.
+  swift: FRAVES22XXX
+  swift8: FRAVES22
+  branch_name: Head Office
+  branch_address: Poligono Industrial Puig Tio 17412 Macanet De La Selva
+  branch_code: XXX
+  city: Macanet De La Selva
+  country: Spain
+- name: Fuji Bank,limited,the
+  swift: FUJIESM1XXX
+  swift8: FUJIESM1
+  branch_name: Head Office
+  branch_address: Centro Comercial Azca 28020 Madrid
+  branch_code: XXX
+  city: Madrid
+  country: Spain
+- name: G.v.c. General De Valores Y Cambios, S.a., S.v.b.
+  swift: GGVCESB1XXX
+  swift8: GGVCESB1
+  branch_name: Head Office
+  branch_address: Rambla Catalynya 33-35 08007 Barcelona
+  branch_code: XXX
+  city: Barcelona
+  country: Spain
+- name: Gaesco Bolsa Sociedad De Valores Y Bolsa Sa
+  swift: GAESESM1XXX
+  swift8: GAESESM1
+  branch_name: Head Office
+  branch_address: Avenida Diagonal, 427 Bis - 429 28001 Barcelona
+  branch_code: XXX
+  city: Barcelona
+  country: Spain
+- name: Gamesa Corporacion Tecnologica, S.a
+  swift: GAMCES2AXXX
+  swift8: GAMCES2A
+  branch_name: Head Office
+  branch_address: Parque Tecnologico De Bizkaia 48170 Zamudio
+  branch_code: XXX
+  city: Zamudio
+  country: Spain
+- name: Gefonsa Sa Agencia De Valores
+  swift: GEAVESM1XXX
+  swift8: GEAVESM1
+  branch_name: Head Office
+  branch_address: Calle Fernando El Sando 2 28010 Madrid
+  branch_code: XXX
+  city: Madrid
+  country: Spain
+- name: General De Valores Y Cambio, S.a., S.v.b.
+  swift: GGVCESM1XXX
+  swift8: GGVCESM1
+  branch_name: Head Office
+  branch_address: Slustiano Olozaga 11 28001 Madrid
+  branch_code: XXX
+  city: Madrid
+  country: Spain
+- name: Generalitat Valenciana
+  swift: CAVAESV1XXX
+  swift8: CAVAESV1
+  branch_name: Head Office
+  branch_address: Calle Caballeros, 2 46003 Valencia
+  branch_code: XXX
+  city: Valencia
+  country: Spain
+- name: Gesinca Inversiones
+  swift: GINVESM1XXX
+  swift8: GINVESM1
+  branch_name: Head Office
+  branch_address: Paseo De La Castellana 87-9 28000 Madrid
+  branch_code: XXX
+  city: Madrid
+  country: Spain
+- name: Gesmadrid S.a., S.g.i.i.c.
+  swift: GESAESM1XXX
+  swift8: GESAESM1
+  branch_name: Head Office
+  branch_address: Paseo De La Castellana 189 Madrid
+  branch_code: XXX
+  city: Madrid
+  country: Spain
+- name: Gesmosa-gbi, A.v., S.a
+  swift: GESGESM1XXX
+  swift8: GESGESM1
+  branch_name: Head Office
+  branch_address: Paseo De La Castellana, 89 28046 Madrid
+  branch_code: XXX
+  city: Madrid
+  country: Spain
+- name: Gestemar Securities S.v.b.
+  swift: GESMESM1XXX
+  swift8: GESMESM1
+  branch_name: Head Office
+  branch_address: Principe De Vergara 131 28002 Madrid
+  branch_code: XXX
+  city: Madrid
+  country: Spain
+- name: Gestinvest Internacional
+  swift: GESNESM1XXX
+  swift8: GESNESM1
+  branch_name: Head Office
+  branch_address: Academia 10 Madrid
+  branch_code: XXX
+  city: Madrid
+  country: Spain
+- name: Gestion De Activos Del Mediterraneo, Sociedad De Alores S.a
+  swift: GEAMES21XXX
+  swift8: GEAMES21
+  branch_name: Head Office
+  branch_address: Avenida De Elche, 178 03008 Alicante
+  branch_code: XXX
+  city: Alicante
+  country: Spain
+- name: Gestion De Patrimonios Mobiliarios, S.a., Agenciade Valores Y Bolsa
+  swift: GEPMESM1XXX
+  swift8: GEPMESM1
+  branch_name: Head Office
+  branch_address: Calle Miguel Angel, 16 - 1 28010 Madrid
+  branch_code: XXX
+  city: Madrid
+  country: Spain
+- name: Globalcaja, Caja Rural De Albacete, Ciudad Real Y Cuenca, S.c.c.
+  swift: BCOEESMM190
+  swift8: BCOEESMM
+  branch_name: 45003 Toledo
+  branch_address: Berna, 1 45003 Toledo
+  branch_code: '190'
+  city: Toledo
+  country: Spain
+- name: Gobierno De Cantabria
+  swift: CTCAES21XXX
+  swift8: CTCAES21
+  branch_name: Head Office
+  branch_address: Hernan Cortes, 9 39003 Santander
+  branch_code: XXX
+  city: Santander
+  country: Spain
+- name: Gobierno De Navarra
+  swift: CANAES21XXX
+  swift8: CANAES21
+  branch_name: Head Office
+  branch_address: Avenida Carlos Iii, 2 31002 Pamplona
+  branch_code: XXX
+  city: Pamplona
+  country: Spain
+- name: Grifols S.a.
+  swift: GRLSESBBXXX
+  swift8: GRLSESBB
+  branch_name: Head Office
+  branch_address: Torre Mapfre 08005 Barcelona
+  branch_code: XXX
+  city: Barcelona
+  country: Spain
+- name: Grupo Inversor Hesperia, S.a.
+  swift: GIHSESB1XXX
+  swift8: GIHSESB1
+  branch_name: No branch name
+  branch_address: No branch address
+  branch_code: XXX
+  city: Barcelona
+  country: Spain
+- name: Grupo Turistico Transhotel S.l.
+  swift: TRCSESMMXXX
+  swift8: TRCSESMM
+  branch_name: Head Office
+  branch_address: Grupo Transhotel 28703 San Sebastian De Reyes
+  branch_code: XXX
+  city: San Sebastian De Reyes
+  country: Spain
+- name: Hermes Bolsa, Avb, S.a.
+  swift: HEBVESB1XXX
+  swift8: HEBVESB1
+  branch_name: Head Office
+  branch_address: Avda. Diagonal, 433 Bis, Pral. 1a 08036 Barcelona
+  branch_code: XXX
+  city: Barcelona
+  country: Spain
+- name: Hewlett-packard Espanola S.l.
+  swift: HEESESM1XXX
+  swift8: HEESESM1
+  branch_name: Head Office
+  branch_address: Parque Empresarial 28230 Las Rozas De Madrid
+  branch_code: XXX
+  city: Las Rozas De Madrid
+  country: Spain
+- name: Hotelbeds Spain, S.l.u.
+  swift: HBDSES21XXX
+  swift8: HBDSES21
+  branch_name: Head Office
+  branch_address: Edificio Mirall Balear 07007 Palma De Mallorca
+  branch_code: XXX
+  city: Palma De Mallorca
+  country: Spain
+- name: Hsbc Intermediarios (espana) A.v.,s.a.
+  swift: HSIEESV1XXX
+  swift8: HSIEESV1
+  branch_name: Head Office
+  branch_address: Edificio Apolo 46002 Valencia
+  branch_code: XXX
+  city: Valencia
+  country: Spain
+- name: Hsbc Investment Bank Plc,sucursal En Espana
+  swift: HSVBESM1XXX
+  swift8: HSVBESM1
+  branch_name: Head Office
+  branch_address: Plaza Pablo Ruiz Picasso, S/N 28020 Madrid
+  branch_code: XXX
+  city: Madrid
+  country: Spain
+- name: Iberdrola S.a.
+  swift: IBDLES2BXXX
+  swift8: IBDLES2B
+  branch_name: Head Office
+  branch_address: Cardenal Gardoqui 8 48008 Bilbao
+  branch_code: XXX
+  city: Bilbao
+  country: Spain
+- name: Iberia Lineas Aereas De Espana S.a.
+  swift: IBLAESMMXXX
+  swift8: IBLAESMM
+  branch_name: Head Office
+  branch_address: Velazquez, 130 28006 Madrid
+  branch_code: XXX
+  city: Madrid
+  country: Spain
+- name: Iberian Equities A.v., S.a.
+  swift: IBEQESM1XXX
+  swift8: IBEQESM1
+  branch_name: Head Office
+  branch_address: Calle Menorca, 3 28009 Madrid
+  branch_code: XXX
+  city: Madrid
+  country: Spain
+- name: Iberostar Hoteles Y Apartamentos, S.l.
+  swift: STARES2MXXX
+  swift8: STARES2M
+  branch_name: Head Office
+  branch_address: Bonaire, 26 07012 Palma De Mallorca
+  branch_code: XXX
+  city: Palma De Mallorca
+  country: Spain
+- name: Ibersecurities Sociedad De Valores S.a.u.
+  swift: IBERESM1XXX
+  swift8: IBERESM1
+  branch_name: Head Office
+  branch_address: Calle Principe De Vergara, 125 28046 Madrid
+  branch_code: XXX
+  city: Madrid
+  country: Spain
+- name: Ifxbg Limited
+  swift: IFXGESM1XXX
+  swift8: IFXGESM1
+  branch_name: Head Office
+  branch_address: Calle Jose Ortega Y Gasset, 29 28006 Madrid
+  branch_code: XXX
+  city: Madrid
+  country: Spain
+- name: Inbarsave Sicav Sa
+  swift: IBSVESB1XXX
+  swift8: IBSVESB1
+  branch_name: Head Office
+  branch_address: Avinguda Diagonal, 668-670 08034 Barcelona
+  branch_code: XXX
+  city: Barcelona
+  country: Spain
+- name: Indosuez Capital Securities Espana, S.a. S.v.b.
+  swift: VALGESM1XXX
+  swift8: VALGESM1
+  branch_name: Head Office
+  branch_address: Passeo De La Castallana 1 28036 Madrid
+  branch_code: XXX
+  city: Madrid
+  country: Spain
+- name: Indra Sistemas, S.a.
+  swift: ISSAESM1XXX
+  swift8: ISSAESM1
+  branch_name: Head Office
+  branch_address: Av. Bruselas, 35 28108 Alcobendas
+  branch_code: XXX
+  city: Alcobendas
+  country: Spain
+- name: Inmob Calera Y Chozas Cart Sicav Sa
+  swift: ICCRESB1XXX
+  swift8: ICCRESB1
+  branch_name: Head Office
+  branch_address: Avinguda Diagonal, 668-670 Barcelona
+  branch_code: XXX
+  city: Barcelona
+  country: Spain
+- name: Instituto De Credito Oficial
+  swift: ICROESMMXXX
+  swift8: ICROESMM
+  branch_name: Head Office
+  branch_address: Istituto De Credito Oficial 28014 Madrid
+  branch_code: XXX
+  city: Madrid
+  country: Spain
+- name: Interbrokers Espanola De Valores, Agencia De Valores, S.a.
+  swift: IEVAESB1XXX
+  swift8: IEVAESB1
+  branch_name: Head Office
+  branch_address: Via Augusta, 200 08021 Barcelona
+  branch_code: XXX
+  city: Barcelona
+  country: Spain
+- name: Intercaixa Valores S.a., S.v.b.
+  swift: ICVAESM1XXX
+  swift8: ICVAESM1
+  branch_name: Head Office
+  branch_address: Paseo De La Castellana, 51/4 28048 Madrid
+  branch_code: XXX
+  city: Madrid
+  country: Spain
+- name: Interdin Bolsa, Sociedad De Valores, S.a.
+  swift: INTOESM1XXX
+  swift8: INTOESM1
+  branch_name: Head Office
+  branch_address: P Castellana, 93 28046 Madrid
+  branch_code: XXX
+  city: Madrid
+  country: Spain
+- name: Intermediarios Financieros, S.a., A.v.b.
+  swift: FSINESM1XXX
+  swift8: FSINESM1
+  branch_name: Head Office
+  branch_address: Vilanueva 12 28001 Madrid
+  branch_code: XXX
+  city: Madrid
+  country: Spain
+- name: Intermoney Valores S.v.b., S.a.
+  swift: IVALESMMXXX
+  swift8: IVALESMM
+  branch_name: Head Office
+  branch_address: Torre Picasso 28020 Madrid
+  branch_code: XXX
+  city: Madrid
+  country: Spain
+- name: Invercaixa Valores S.v.b., S.a.
+  swift: INBVESB1XXX
+  swift8: INBVESB1
+  branch_name: Head Office
+  branch_address: Avenida Diagonal 621 08028 Barcelona
+  branch_code: XXX
+  city: Barcelona
+  country: Spain
+- name: Inverseguros Sociedad De Valores Y Bolsa, S.a.
+  swift: INSGESMMXXX
+  swift8: INSGESMM
+  branch_name: Head Office
+  branch_address: Pedro Munoz Seca 4 28001 Madrid
+  branch_code: XXX
+  city: Madrid
+  country: Spain
+- name: J.l. Contreras Y Asociados, S.a., A.v.b.
+  swift: ASOCESM1XXX
+  swift8: ASOCESM1
+  branch_name: Head Office
+  branch_address: Alcala 93 28009 Madrid
+  branch_code: XXX
+  city: Madrid
+  country: Spain
+- name: J.p. Morgan Securities Limited Sucursal En Espana
+  swift: JPMSESM1XXX
+  swift8: JPMSESM1
+  branch_name: Head Office
+  branch_address: Edificio Beatriz 28006 Madrid
+  branch_code: XXX
+  city: Madrid
+  country: Spain
+- name: J.p. Morgan Securities Limited-sucursal En Espana
+  swift: CHASESM1XXX
+  swift8: CHASESM1
+  branch_name: Head Office
+  branch_address: Edificio Beatriz 28006 Madrid
+  branch_code: XXX
+  city: Madrid
+  country: Spain
+- name: Jb Capital Markets Sociedad De Valores, S.a.
+  swift: MBCMESM1XXX
+  swift8: MBCMESM1
+  branch_name: Head Office
+  branch_address: Plaza Manuel Gomez Moreno, 2 28020 Madrid
+  branch_code: XXX
+  city: Madrid
+  country: Spain
+- name: Jose Gregorio Juncos Martinez
+  swift: JGJMESM1XXX
+  swift8: JGJMESM1
+  branch_name: Head Office
+  branch_address: Calle Claudio Coello, 14 28001 Madrid
+  branch_code: XXX
+  city: Madrid
+  country: Spain
+- name: Jp Morgan Sociedad De Valores Y Bolsa S.a.
+  swift: JPMVESM1XXX
+  swift8: JPMVESM1
+  branch_name: Head Office
+  branch_address: Jose Ortega Y Gasset, 29 28006 Madrid
+  branch_code: XXX
+  city: Madrid
+  country: Spain
+- name: Junta De Andalucia
+  swift: JANDESS1XXX
+  swift8: JANDESS1
+  branch_name: Head Office
+  branch_address: Edif. Torretriana 41071 Sevilla
+  branch_code: XXX
+  city: Sevilla
+  country: Spain
+- name: Junta De Comunidades De Castilla-la Mancha
+  swift: JCMAES21XXX
+  swift8: JCMAES21
+  branch_name: Head Office
+  branch_address: Calle Rio Estenilla, S/N 45002 Toledo
+  branch_code: XXX
+  city: Toledo
+  country: Spain
+- name: Kepler Equities, Sucursal En Espana
+  swift: JBBRESM1XXX
+  swift8: JBBRESM1
+  branch_name: Head Office
+  branch_address: Via Alcala 95 28009 Madrid
+  branch_code: XXX
+  city: Madrid
+  country: Spain
+- name: Kutxagest
+  swift: KUTAES21XXX
+  swift8: KUTAES21
+  branch_name: Head Office
+  branch_address: Ave Sancho El Sabio 18 20010 San Sebastian
+  branch_code: XXX
+  city: San Sebastian
+  country: Spain
+- name: Laboral Kutxa
+  swift: CLPEES21012
+  swift8: CLPEES21
+  branch_name: Vitoria
+  branch_address: Vitoria
+  branch_code: '012'
+  city: Vitoria
+  country: Spain
+- name: Laboral Kutxa
+  swift: CLPEES21023
+  swift8: CLPEES21
+  branch_name: Eibar
+  branch_address: Eibar
+  branch_code: '023'
+  city: Eibar
+  country: Spain
+- name: Laboral Kutxa
+  swift: CLPEES21060
+  swift8: CLPEES21
+  branch_name: San Sebastian
+  branch_address: San Sebastian
+  branch_code: '060'
+  city: San Sebastian
+  country: Spain
+- name: Laboral Kutxa
+  swift: CLPEES21083
+  swift8: CLPEES21
+  branch_name: Bilbao
+  branch_address: Bilbao
+  branch_code: '083'
+  city: Bilbao
+  country: Spain
+- name: Laboral Kutxa
+  swift: CLPEES21121
+  swift8: CLPEES21
+  branch_name: Madrid
+  branch_address: Madrid
+  branch_code: '121'
+  city: Madrid
+  country: Spain
+- name: Laboral Kutxa
+  swift: CLPEES21195
+  swift8: CLPEES21
+  branch_name: Pamplona
+  branch_address: Pamplona
+  branch_code: '195'
+  city: Pamplona
+  country: Spain
+- name: Laboratorios Del Dr. Esteve, S.a.
+  swift: ESTEESBBXXX
+  swift8: ESTEESBB
+  branch_name: Head Office
+  branch_address: Mare De Deu De Montserrat, 221 08041 Barcelona
+  branch_code: XXX
+  city: Barcelona
+  country: Spain
+- name: Laboratorios Hipra, S.a.
+  swift: HIPRES22XXX
+  swift8: HIPRES22
+  branch_name: Head Office
+  branch_address: 135 Avda. La Selva 17170 Gerona (Girona)
+  branch_code: XXX
+  city: Gerona (Girona)
+  country: Spain
+- name: Legg Mason Ltd. Spain
+  swift: LEMPESM1XXX
+  swift8: LEMPESM1
+  branch_name: Head Office
+  branch_address: 28 C/Almagro 28010 Madrid
+  branch_code: XXX
+  city: Madrid
+  country: Spain
+- name: Link Securities Sociedad De Valores S.a.
+  swift: LISEESMMXXX
+  swift8: LISEESMM
+  branch_name: Head Office
+  branch_address: Juan Esplandiu 15, Bajo 28007 Madrid
+  branch_code: XXX
+  city: Madrid
+  country: Spain
+- name: London Forfaiting A Paris, S.a.
+  swift: LOFPESB1XXX
+  swift8: LOFPESB1
+  branch_name: Head Office
+  branch_address: Av Diagonal, 611 (Pl. 6) 08021 Barcelona
+  branch_code: XXX
+  city: Barcelona
+  country: Spain
+- name: M And B Capital Advisers, Sociedad De Valores, S..
+  swift: CADRESM1XXX
+  swift8: CADRESM1
+  branch_name: Head Office
+  branch_address: Edf. Alfredo Mahou 28020 Madrid
+  branch_code: XXX
+  city: Madrid
+  country: Spain
+- name: Mapfre Inversion Sociedad De Valores S.a.
+  swift: MISVESMMXXX
+  swift8: MISVESMM
+  branch_name: Head Office
+  branch_address: Avenida General Peron, 40 28020 Madrid
+  branch_code: XXX
+  city: Madrid
+  country: Spain
+- name: Martinez Gil Y Asociados Agencia Valores Bolsa Sa
+  swift: MAGAESM1XXX
+  swift8: MAGAESM1
+  branch_name: Head Office
+  branch_address: Calle Velazquez 11 28001 Madrid
+  branch_code: XXX
+  city: Madrid
+  country: Spain
+- name: Maxwell E Espinosa A I, S.a.
+  swift: MXESESM1XXX
+  swift8: MXESESM1
+  branch_name: Head Office
+  branch_address: Miguel Angel 11 28010 Madrid
+  branch_code: XXX
+  city: Madrid
+  country: Spain
+- name: Mediacion Bursatil, S.v.b., S.a.
+  swift: MEBUESM1XXX
+  swift8: MEBUESM1
+  branch_name: Head Office
+  branch_address: C/. Eduardo Dato, 23 28010 Madrid
+  branch_code: XXX
+  city: Madrid
+  country: Spain
+- name: Medifond Plus Fi
+  swift: MEPLESB1XXX
+  swift8: MEPLESB1
+  branch_name: Head Office
+  branch_address: Avinguda Diagonal, 668-670 Barcelona
+  branch_code: XXX
+  city: Barcelona
+  country: Spain
+- name: Medigestion 02 Sicav Sa
+  swift: MESVESB1XXX
+  swift8: MESVESB1
+  branch_name: Head Office
+  branch_address: Avinguda Diagonal, 668-670 08034 Barcelona
+  branch_code: XXX
+  city: Barcelona
+  country: Spain
+- name: Mediolanium Alpha Plus-f.i.
+  swift: MEAUESB1XXX
+  swift8: MEAUESB1
+  branch_name: Head Office
+  branch_address: Avinguda Diagonal, 668-670 08034 Barcelona
+  branch_code: XXX
+  city: Barcelona
+  country: Spain
+- name: Meff Sociedad Rectora De Productos Financieros Derivados De Renta Variable,
+    S.a.
+  swift: XMRVESM1XXX
+  swift8: XMRVESM1
+  branch_name: Head Office
+  branch_address: Plaza De La Lealtad, 1 Madrid
+  branch_code: XXX
+  city: Madrid
+  country: Spain
+- name: Meffclear
+  swift: MEFEESB1XXX
+  swift8: MEFEESB1
+  branch_name: Head Office
+  branch_address: Via Laietana, 58 08003 Barcelona
+  branch_code: XXX
+  city: Barcelona
+  country: Spain
+- name: Mercados Y Gestion De Valores A.v.b. S.a.
+  swift: MGVAESM1XXX
+  swift8: MGVAESM1
+  branch_name: Head Office
+  branch_address: Almagro 21 - 4 28010 Madrid
+  branch_code: XXX
+  city: Madrid
+  country: Spain
+- name: Mercagentes S.a., Sociedad De Valores
+  swift: MERSESM1XXX
+  swift8: MERSESM1
+  branch_name: Head Office
+  branch_address: Calle Gran Via, Diego Lopez De Har 48001 Bilbao
+  branch_code: XXX
+  city: Bilbao
+  country: Spain
+- name: Mercato Continuo Espanol
+  swift: XMCEESB1XXX
+  swift8: XMCEESB1
+  branch_name: Head Office
+  branch_address: Paseo De Gracia 19 08007 Barcelona
+  branch_code: XXX
+  city: Barcelona
+  country: Spain
+- name: Mercavalor Sociedad De Valores Sa
+  swift: MERRESM1XXX
+  swift8: MERRESM1
+  branch_name: Head Office
+  branch_address: Avenida Brasil 7 28020 Madrid
+  branch_code: XXX
+  city: Madrid
+  country: Spain
+- name: Merchbolsa Agencia De Valores, S.a
+  swift: XBAVESB1XXX
+  swift8: XBAVESB1
+  branch_name: Head Office
+  branch_address: Calle Diputacio 279 08007 Barcelona
+  branch_code: XXX
+  city: Barcelona
+  country: Spain
+- name: Merrill Lynch Capital Markets Bank Limited
+  swift: MLCBESM1XXX
+  swift8: MLCBESM1
+  branch_name: Head Office
+  branch_address: Torre Picasso 28020 Madrid
+  branch_code: XXX
+  city: Madrid
+  country: Spain
+- name: Merrill Lynch International Bank Limiited
+  swift: MLIBESM1XXX
+  swift8: MLIBESM1
+  branch_name: Head Office
+  branch_address: Torre Picasso 28020 Madrid
+  branch_code: XXX
+  city: Madrid
+  country: Spain
+- name: Mg Valores, S.a., S.v.b.
+  swift: VASVESM1XXX
+  swift8: VASVESM1
+  branch_name: Head Office
+  branch_address: Almagro 21 28010 Madrid
+  branch_code: XXX
+  city: Madrid
+  country: Spain
+- name: Mirabaud Finanzas S.v., S.a.
+  swift: VEFIESM1XXX
+  swift8: VEFIESM1
+  branch_name: Head Office
+  branch_address: Calle Doctor Fleming 21 28004 Barcelona
+  branch_code: XXX
+  city: Madrid
+  country: Spain
+- name: Mirabaud Securities Llp Madrid Branch
+  swift: MIRSESM1XXX
+  swift8: MIRSESM1
+  branch_name: Head Office
+  branch_address: C/ Zurbano 76 28010 Madrid
+  branch_code: XXX
+  city: Madrid
+  country: Spain
+- name: Mizuho Corporate Bank, Ltd.,madrid Branch
+  swift: IBJTESM1XXX
+  swift8: IBJTESM1
+  branch_name: Head Office
+  branch_address: Plaza Pablo Ruiz Picasso, No.1 28020 Madrid
+  branch_code: XXX
+  city: Madrid
+  country: Spain
+- name: Monty Global Payments, S.a.u.
+  swift: MNTYESMMXXX
+  swift8: MNTYESMM
+  branch_name: Head Office
+  branch_address: Cuesta De San Vicente 4 28008 Madrid
+  branch_code: XXX
+  city: Madrid
+  country: Spain
+- name: Moody's Investors Service Espana, S.a.
+  swift: MOODESM1XXX
+  swift8: MOODESM1
+  branch_name: Head Office
+  branch_address: Barbara De Braganza, 2 28004 Madrid
+  branch_code: XXX
+  city: Madrid
+  country: Spain
+- name: Morcote Inversiones Sicav Sa
+  swift: MOIIESB1XXX
+  swift8: MOIIESB1
+  branch_name: Head Office
+  branch_address: Avinguda Diagonal, 668-670 Barcelona
+  branch_code: XXX
+  city: Barcelona
+  country: Spain
+- name: Morgan Stanley Sv. Sa.
+  swift: MSTAESM1XXX
+  swift8: MSTAESM1
+  branch_name: Head Office
+  branch_address: Calle Serrano, 55 28006 Madrid
+  branch_code: XXX
+  city: Madrid
+  country: Spain
+- name: Morgan Stanley Wealth Management, S.v., S.a.
+  swift: MSWMESM1XXX
+  swift8: MSWMESM1
+  branch_name: Head Office
+  branch_address: C/ Serrano 55 28006 Madrid
+  branch_code: XXX
+  city: Madrid
+  country: Spain
+- name: Nebursa, S.a., S.v.b.
+  swift: NEBUESM1XXX
+  swift8: NEBUESM1
+  branch_name: Head Office
+  branch_address: Recoletos 20 28001 Madrid
+  branch_code: XXX
+  city: Madrid
+  country: Spain
+- name: Newcourt Finance (france) S.n.c. Sucursal En Espana
+  swift: NFFSESM1XXX
+  swift8: NFFSESM1
+  branch_name: Head Office
+  branch_address: Cl Cardenal Marcelo Spinola 4-3 28016 Madrid
+  branch_code: XXX
+  city: Madrid
+  country: Spain
+- name: Newedge Group (madrid Branch
+  swift: NEWGESM1XXX
+  swift8: NEWGESM1
+  branch_name: Head Office
+  branch_address: Torres De Colon Torre 1 28046 Madrid
+  branch_code: XXX
+  city: Madrid
+  country: Spain
+- name: Nexus Energia S.a.
+  swift: NEXNESB1XXX
+  swift8: NEXNESB1
+  branch_name: Head Office
+  branch_address: Carrer Consell De Cent 42 08014 Barcelona Catalunya
+  branch_code: XXX
+  city: Barcelona
+  country: Spain
+- name: Nh Hoteles Sa
+  swift: NHSAESMMXXX
+  swift8: NHSAESMM
+  branch_name: Head Office
+  branch_address: C/ Santa Engracia 120 28003 Madrid
+  branch_code: XXX
+  city: Madrid
+  country: Spain
+- name: Nibc Petercam Gestion
+  swift: NIPGES21XXX
+  swift8: NIPGES21
+  branch_name: Head Office
+  branch_address: Paseo De La Castellana 95-5a Pl Madrid
+  branch_code: XXX
+  city: Madrid
+  country: Spain
+- name: Nmas1 Equities, Sv, Sa
+  swift: NMEQESM1XXX
+  swift8: NMEQESM1
+  branch_name: Head Office
+  branch_address: Padilla 17 28006 Madrid
+  branch_code: XXX
+  city: Madrid
+  country: Spain
+- name: Norbolsa, Sociedad De Valores Y Bolsa, S.a
+  swift: NORLESB1BIO
+  swift8: NORLESB1
+  branch_name: Norbolsa
+  branch_address: Navarra 48001 Bilbao
+  branch_code: BIO
+  city: Bilbao
+  country: Spain
+- name: Nordkapp Inversiones Sociedad De Valores S.a
+  swift: NISVESM1XXX
+  swift8: NISVESM1
+  branch_name: Head Office
+  branch_address: Calle Pascual Y Genis 1 28006 Valencia
+  branch_code: XXX
+  city: Valencia
+  country: Spain
+- name: Norwich And Peterborough Building Society
+  swift: NPBSES21XXX
+  swift8: NPBSES21
+  branch_name: Head Office
+  branch_address: Lugar Puerto Sotogrande-Ed C 11310 San Roque
+  branch_code: XXX
+  city: San Roque
+  country: Spain
+- name: Olivarda Sicav Sa
+  swift: OLSIESB1XXX
+  swift8: OLSIESB1
+  branch_name: Head Office
+  branch_address: Avinguda Diagonal, 668-670 Barcelona
+  branch_code: XXX
+  city: Barcelona
+  country: Spain
+- name: Osuna Y Marco, S.a., A.v.b.
+  swift: OSMAESM1XXX
+  swift8: OSMAESM1
+  branch_name: Head Office
+  branch_address: Paseo De Recoltos 21 28001 Madrid
+  branch_code: XXX
+  city: Madrid
+  country: Spain
+- name: Patrinvest Inversion S.i.c.a.v S.a
+  swift: PAIVES21XXX
+  swift8: PAIVES21
+  branch_name: Head Office
+  branch_address: Pl. Clave, 25 12001 Castellon
+  branch_code: XXX
+  city: Castellon
+  country: Spain
+- name: Pentor A.v.b., S.a.
+  swift: PENTESM1XXX
+  swift8: PENTESM1
+  branch_name: Head Office
+  branch_address: Pso Castellana 82 28046 Madrid
+  branch_code: XXX
+  city: Madrid
+  country: Spain
+- name: Philippine National Bank, S.a.
+  swift: PNBMESM1XXX
+  swift8: PNBMESM1
+  branch_name: Head Office
+  branch_address: Cl Mayor, 6 (Pl. 3 - Pta. 2) 28013 Madrid
+  branch_code: XXX
+  city: Madrid
+  country: Spain
+- name: Pontegadea Inversiones, S.l.
+  swift: POGAES2CXXX
+  swift8: POGAES2C
+  branch_name: Head Office
+  branch_address: Avenida Diputacion 15142 Arteixo a Coruna
+  branch_code: XXX
+  city: Arteixo a Coruna
+  country: Spain
+- name: Popular Bolsa, Sociedad De Valores, S.a.
+  swift: POPBESM1XXX
+  swift8: POPBESM1
+  branch_name: Head Office
+  branch_address: Calle Labastida, 11 28001 Madrid
+  branch_code: XXX
+  city: Madrid
+  country: Spain
+- name: Popular Gestion Privada Sgiic
+  swift: PGPSESM1XXX
+  swift8: PGPSESM1
+  branch_name: Head Office
+  branch_address: Juan Ignacion Luca De Tena 11 28027 Madrid
+  branch_code: XXX
+  city: Madrid
+  country: Spain
+- name: Porcelanosa S.a.
+  swift: PRCLES22XXX
+  swift8: PRCLES22
+  branch_name: Head Office
+  branch_address: Ctra Nacional 340 12540 Castellon De La Plana
+  branch_code: XXX
+  city: Castellon De La
+  country: Spain
+- name: Primer Banco Ahorro Y Prestamo Vivienda Familiar,s.a.
+  swift: PAPIESB1XXX
+  swift8: PAPIESB1
+  branch_name: Head Office
+  branch_address: Av Gran via Carlos Iii, 94 8028 Barcelona
+  branch_code: XXX
+  city: Barcelona
+  country: Spain
+- name: Privat Bank S.a.
+  swift: PRVBESB1XXX
+  swift8: PRVBESB1
+  branch_name: Head Office
+  branch_address: Av Diagonal, 464 8017 Barcelona
+  branch_code: XXX
+  city: Barcelona
+  country: Spain
+- name: Privatbank Ihag Zuerich Ag
+  swift: IHZUES21XXX
+  swift8: IHZUES21
+  branch_name: Head Office
+  branch_address: Av Clemente Diaz Ruiz, 10 29650 Fuengirola
+  branch_code: XXX
+  city: Fuengirola
+  country: Spain
+- name: Prosegur Compania De Seguridad, S.a.
+  swift: PSGRESMMXXX
+  swift8: PSGRESMM
+  branch_name: Head Office
+  branch_address: C/ Pajaritos 24 28007 Madrid
+  branch_code: XXX
+  city: Madrid
+  country: Spain
+- name: Proxima Alfa Investments
+  swift: PRLIES21XXX
+  swift8: PRLIES21
+  branch_name: Head Office
+  branch_address: Plaza Manuel Gomez Moreno 2 Madrid
+  branch_code: XXX
+  city: Madrid
+  country: Spain
+- name: Puig, S.l.
+  swift: PUIGESBBXXX
+  swift8: PUIGESBB
+  branch_name: Head Office
+  branch_address: Travesera De Gracia 9 08021 Barcelona
+  branch_code: XXX
+  city: Barcelona
+  country: Spain
+- name: Rci Spain
+  swift: RCINESM1XXX
+  swift8: RCINESM1
+  branch_name: Head Office
+  branch_address: Edificio Renault 28050 Madrid
+  branch_code: XXX
+  city: Madrid
+  country: Spain
+- name: Rcscch 1604 Sicav Sa
+  swift: RCSIESB1XXX
+  swift8: RCSIESB1
+  branch_name: Head Office
+  branch_address: Avinguda Diagonal, 668-670 Barcelona
+  branch_code: XXX
+  city: Barcelona
+  country: Spain
+- name: Registro Nacional De Derechos Da Emission De Gei-renade
+  swift: RNDEES21XXX
+  swift8: RNDEES21
+  branch_name: Head Office
+  branch_address: C/Tramontana 28230 La Coruna (a Coruna)
+  branch_code: XXX
+  city: La Coruna (a Coruna)
+  country: Spain
+- name: Renta 4 Sociedad De Valores, S.a.
+  swift: RENTESMMXXX
+  swift8: RENTESMM
+  branch_name: Head Office
+  branch_address: Paseo De La Habana, 74 28036 Madrid
+  branch_code: XXX
+  city: Madrid
+  country: Spain
+- name: Renta Markets Sv,sa
+  swift: RMSVESM1XXX
+  swift8: RMSVESM1
+  branch_name: No branch name
+  branch_address: No branch address
+  branch_code: XXX
+  city: Madrid
+  country: Spain
+- name: Rentcaixa, S.a De Seguros Y Reaseguros
+  swift: RTCAESB1XXX
+  swift8: RTCAESB1
+  branch_name: Head Office
+  branch_address: General Almirante, 2-4-6 08014 Barcelona
+  branch_code: XXX
+  city: Barcelona
+  country: Spain
+- name: Rheinhyp Rheinische Hypothekenbank A.g.
+  swift: RHRHESM1XXX
+  swift8: RHRHESM1
+  branch_name: Head Office
+  branch_address: Ps De La Castellana 110 28046 Madrid
+  branch_code: XXX
+  city: Madrid
+  country: Spain
+- name: Riva Y Garcia-1877, Sociedad De Valores, S.a.
+  swift: RIGIESB1XXX
+  swift8: RIGIESB1
+  branch_name: Head Office
+  branch_address: Calle Diputacion 246 08007 Barcelona
+  branch_code: XXX
+  city: Barcelona
+  country: Spain
+- name: Roca Sanitario, S. A.
+  swift: GROCESBBXXX
+  swift8: GROCESBB
+  branch_name: Head Office
+  branch_address: 513 Avenida Diagonal 08029 Barcelona
+  branch_code: XXX
+  city: Barcelona
+  country: Spain
+- name: S.e. Banken Luxembourg S.a.
+  swift: LUXEES21XXX
+  swift8: LUXEES21
+  branch_name: Head Office
+  branch_address: Urb. Linda Vista Baja 29670 San Pedro De Alcantara
+  branch_code: XXX
+  city: San Pedro De Alcantara
+  country: Spain
+- name: Samsung Electronica Espanola
+  swift: SECTESM1470
+  swift8: SECTESM1
+  branch_name: Sesa
+  branch_address: Samsung Electronics Iberia S.A. 28108 Madrid
+  branch_code: '470'
+  city: Madrid
+  country: Spain
+- name: Samsung Electronica Espanola
+  swift: SECTESM1XXX
+  swift8: SECTESM1
+  branch_name: Head Office
+  branch_address: Samsung Electronics Iberia S.A. 28108 Madrid
+  branch_code: XXX
+  city: Madrid
+  country: Spain
+- name: Santander Investment Bolsa, S.v., S.a.
+  swift: SCHLESM1XXX
+  swift8: SCHLESM1
+  branch_name: Head Office
+  branch_address: Avenida De Cantabria, S/N Ciudad G 28014 Madrid
+  branch_code: XXX
+  city: Madrid
+  country: Spain
+- name: Schroder Securities Sv Sa
+  swift: SCSUESM1XXX
+  swift8: SCSUESM1
+  branch_name: Head Office
+  branch_address: Valenzuela 8 28014 Madrid
+  branch_code: XXX
+  city: Madrid
+  country: Spain
+- name: Sebroker Bolsa Agencia De Valores, S A
+  swift: SBAOESB1XXX
+  swift8: SBAOESB1
+  branch_name: Head Office
+  branch_address: Calle Diputacion 8007 Barcelona
+  branch_code: XXX
+  city: Barcelona
+  country: Spain
+- name: Segurcaixa Sociedad Anonima De Seguros Y Reaseguros
+  swift: SSAEESB1XXX
+  swift8: SSAEESB1
+  branch_name: Head Office
+  branch_address: Juan Gris, 20-26 08014 Barcelona
+  branch_code: XXX
+  city: Barcelona
+  country: Spain
+- name: Servicio De Pagos Interbancarios,s.a.
+  swift: CAMMES21XXX
+  swift8: CAMMES21
+  branch_name: Head Office
+  branch_address: Cuzco Iv 28046 Madrid
+  branch_code: XXX
+  city: Madrid
+  country: Spain
+- name: Sg Securities Madrid S.v.b., S.a.
+  swift: SGSEESM1XXX
+  swift8: SGSEESM1
+  branch_name: Head Office
+  branch_address: Genova 26 28004 Madrid
+  branch_code: XXX
+  city: Madrid
+  country: Spain
+- name: Siaga S.v.b., S.a.
+  swift: SIAGESM1XXX
+  swift8: SIAGESM1
+  branch_name: Head Office
+  branch_address: Antonio Maura 5 28014 Madrid
+  branch_code: XXX
+  city: Madrid
+  country: Spain
+- name: Sinergia Advisors 2006, A.v. S.a.
+  swift: SIADESM1XXX
+  swift8: SIADESM1
+  branch_name: Head Office
+  branch_address: Velazquez, N. 41 3 28001 Madrid
+  branch_code: XXX
+  city: Madrid
+  country: Spain
+- name: Sociedad Anonima Industrias Celulosa Aragonesa
+  swift: SAICES2ZXXX
+  swift8: SAICES2Z
+  branch_name: Head Office
+  branch_address: Edif.Corporativo 50015 Zaragoza
+  branch_code: XXX
+  city: Zaragoza
+  country: Spain
+- name: Sociedad De Gestion De Los Sistemas De Registro, Compensacion Y Liquidacion
+    De Valores, S.a. (iberclear
+  swift: IBRCESM1AS2
+  swift8: IBRCESM1
+  branch_name: Madrid
+  branch_address: Madrid
+  branch_code: AS2
+  city: Madrid
+  country: Spain
+- name: Sociedad De Gestion De Los Sistemas De Registro, Compensacion Y Liquidacion
+    De Valores, S.a. (iberclear
+  swift: IBRCESMMAS1
+  swift8: IBRCESMM
+  branch_name: Madrid
+  branch_address: Madrid
+  branch_code: AS1
+  city: Madrid
+  country: Spain
+- name: Sociedad Estatal Correos Y Telegrafos, S.a.
+  swift: COYTESM1XXX
+  swift8: COYTESM1
+  branch_name: Head Office
+  branch_address: Centro Directivo De Correios Y 28070 Madrid
+  branch_code: XXX
+  city: Madrid
+  country: Spain
+- name: Sociedad Rectora De La Bolsa De Valores De Bilbaos.a.
+  swift: XBILES21XXX
+  swift8: XBILES21
+  branch_name: Head Office
+  branch_address: C/ Jose Maria Olabarri, 1 48001 Bilbao
+  branch_code: XXX
+  city: Bilbao
+  country: Spain
+- name: Societe Generale Valores
+  swift: SGVLESM1XXX
+  swift8: SGVLESM1
+  branch_name: Head Office
+  branch_address: Genova 26 28004 Madrid
+  branch_code: XXX
+  city: Madrid
+  country: Spain
+- name: Sol Melia, S.a.
+  swift: SOELES21XXX
+  swift8: SOELES21
+  branch_name: Head Office
+  branch_address: Gremio Toneleros, 24 07009 Palma De Mallorca
+  branch_code: XXX
+  city: Palma De Mallorca
+  country: Spain
+- name: Stifel Nicolaus Ltd
+  swift: STNCESM1XXX
+  swift8: STNCESM1
+  branch_name: Head Office
+  branch_address: 30, 1c Dr Fleming 28036 Madrid
+  branch_code: XXX
+  city: Madrid
+  country: Spain
+- name: Telefonica Gestion De Servicios Compartidos Espana
+  swift: TEFGESMMXXX
+  swift8: TEFGESMM
+  branch_name: Head Office
+  branch_address: Condesa De Venadito 7 28027 Madrid
+  branch_code: XXX
+  city: Madrid
+  country: Spain
+- name: Telefonica Gestion De Servicios Compartidos Espana
+  swift: TEFGESM1XXX
+  swift8: TEFGESM1
+  branch_name: Head Office
+  branch_address: Condesa De Venadito 7 28027 Madrid
+  branch_code: XXX
+  city: Madrid
+  country: Spain
+- name: Telefonica, S.a.
+  swift: TEFEESMMXXX
+  swift8: TEFEESMM
+  branch_name: Head Office
+  branch_address: Gran Via,28 28013 Madrid
+  branch_code: XXX
+  city: Madrid
+  country: Spain
+- name: Tesoreria General De La Seguridad Social
+  swift: TESSESM1XXX
+  swift8: TESSESM1
+  branch_name: Head Office
+  branch_address: Plaza De Los Astros 5-7 28014 Madrid
+  branch_code: XXX
+  city: Madrid
+  country: Spain
+- name: Tesoro Publico Traspaso De Depositos
+  swift: TESOESM1SWP
+  swift8: TESOESM1
+  branch_name: Colateral Swaps
+  branch_address: Madrid
+  branch_code: SWP
+  city: Madrid
+  country: Spain
+- name: Tesoro Publico Traspaso De Depositos
+  swift: TESOESM1XXX
+  swift8: TESOESM1
+  branch_name: Head Office
+  branch_address: Alcala 48 28014 Madrid
+  branch_code: XXX
+  city: Madrid
+  country: Spain
+- name: Tesoro Publico-spain Spanish Government Gobierno De Espana
+  swift: TPSGESMMXXX
+  swift8: TPSGESMM
+  branch_name: Head Office
+  branch_address: Paseo Del Prado 6 28014 Madrid
+  branch_code: XXX
+  city: Madrid
+  country: Spain
+- name: Tokyo Sociedad De Valores Y Bolsa (espana) S.a.
+  swift: TSVBESM1XXX
+  swift8: TSVBESM1
+  branch_name: Head Office
+  branch_address: Ortega Y Gasset 29 28006 Madrid
+  branch_code: XXX
+  city: Madrid
+  country: Spain
+- name: Tressis, Sv, Sa
+  swift: TEESESM1XXX
+  swift8: TEESESM1
+  branch_name: Head Office
+  branch_address: Jorge Manrique, 12 Madrid
+  branch_code: XXX
+  city: Madrid
+  country: Spain
+- name: Ubs Securities Espana Sociedad De Valores Sa
+  swift: UBSSESM1XXX
+  swift8: UBSSESM1
+  branch_name: Head Office
+  branch_address: Calle Fortuny 18, 2 28010 Madrid
+  branch_code: XXX
+  city: Madrid
+  country: Spain
+- name: Ucabail, S.e.
+  swift: UCSSESM1XXX
+  swift8: UCSSESM1
+  branch_name: Head Office
+  branch_address: Cl Concha Espina 63 28016 Madrid
+  branch_code: XXX
+  city: Madrid
+  country: Spain
+- name: Unicorp Patrimonio, Sociedad De Valores, S.a.
+  swift: UPSVES21XXX
+  swift8: UPSVES21
+  branch_name: Head Office
+  branch_address: Calle Bolsa, 4 29015 Malaga
+  branch_code: XXX
+  city: Malaga
+  country: Spain
+- name: Union De Creditos Inmobiliarios, S.a.
+  swift: UCINESMMXXX
+  swift8: UCINESMM
+  branch_name: Head Office
+  branch_address: Edificion Ejesur 28045 Madrid
+  branch_code: XXX
+  city: Madrid
+  country: Spain
+- name: Union Fenosa Sa
+  swift: UNFEESM1XXX
+  swift8: UNFEESM1
+  branch_name: Head Office
+  branch_address: Avenida De San Luis 77 Madrid
+  branch_code: XXX
+  city: Madrid
+  country: Spain
+- name: Urquijo Bolsa Y Valores S.v.b., S.a
+  swift: UBAVESM1XXX
+  swift8: UBAVESM1
+  branch_name: Head Office
+  branch_address: Principe De Vergara 131 28002 Madrid
+  branch_code: XXX
+  city: Madrid
+  country: Spain
+- name: Usategi Inversiones Sicav Sa
+  swift: USISESB1XXX
+  swift8: USISESB1
+  branch_name: Head Office
+  branch_address: Avinguda Diagonal, 668-670 Barcelona
+  branch_code: XXX
+  city: Barcelona
+  country: Spain
+- name: Vidacaixa, S.a De Seguros Y Reaseguros
+  swift: VDCAESB1XXX
+  swift8: VDCAESB1
+  branch_name: Head Office
+  branch_address: General Almirante, 2-4-6 08014 Barcelona
+  branch_code: XXX
+  city: Barcelona
+  country: Spain
+- name: Vueling Airlines S.a
+  swift: VLNGESBBXXX
+  swift8: VLNGESBB
+  branch_name: Head Office
+  branch_address: Parque De Negocios Mas Blau Ii 08820 Barcelona
+  branch_code: XXX
+  city: Barcelona
+  country: Spain
+- name: Wafabank
+  swift: WAFAESM1XXX
+  swift8: WAFAESM1
+  branch_name: Head Office
+  branch_address: Ps De La Castellana 81 28046 Madrid
+  branch_code: XXX
+  city: Madrid
+  country: Spain
+- name: X-trade Brokers Dm S.a. Sucursal En Espana
+  swift: TBESESM1XXX
+  swift8: TBESESM1
+  branch_name: Head Office
+  branch_address: Iberia Mart 28020 Madrid
+  branch_code: XXX
+  city: Madrid
+  country: Spain
+- name: Xunta De Galicia
+  swift: CAGCES21XXX
+  swift8: CAGCES21
+  branch_name: Head Office
+  branch_address: Calle De San Caetano S/N 15871 Santiago De Compostela
+  branch_code: XXX
+  city: Santiago De Compostela
+  country: Spain
+- name: Zurich Insurance Plc. Sucursal En Espana
+  swift: ZURIESBBXXX
+  swift8: ZURIESBB
+  branch_name: Head Office
+  branch_address: Via Augusta 200 08021 Barcelona
+  branch_code: XXX
+  city: Barcelona
+  country: Spain

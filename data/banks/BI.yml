@@ -1,0 +1,130 @@
+---
+BI:
+- name: Finbank
+  swift: FIKNBIBIXXX
+  swift8: FIKNBIBI
+  branch_name: Head Office
+  branch_address: Boulvard De La Liberte Bujumbura
+  branch_code: XXX
+  city: Bujumbura
+  country: Burundi
+- name: Banque Burundaise Pour Le Commerce Et L'investissement
+  swift: BUCIBIBIXXX
+  swift8: BUCIBIBI
+  branch_name: Head Office
+  branch_address: Avenue Du Peuple Murundi Bujumbura
+  branch_code: XXX
+  city: Bujumbura
+  country: Burundi
+- name: Banque Commerciale Du Burundi
+  swift: BCBUBIBIXXX
+  swift8: BCBUBIBI
+  branch_name: Head Office
+  branch_address: Chaussee Prince Louis Rwagasore Bujumbura
+  branch_code: XXX
+  city: Bujumbura
+  country: Burundi
+- name: Banque De Credit De Bujumbura
+  swift: BCRBBIBIXXX
+  swift8: BCRBBIBI
+  branch_name: Head Office
+  branch_address: Avenue Patrice Emery Lumumba Bujumbura
+  branch_code: XXX
+  city: Bujumbura
+  country: Burundi
+- name: Banque De Gestion Et De Financement
+  swift: BKGFBIBIXXX
+  swift8: BKGFBIBI
+  branch_name: Head Office
+  branch_address: B.G.F. 1035 Bujumbura
+  branch_code: XXX
+  city: Bujumbura
+  country: Burundi
+- name: Banque De La Republique Du Burundi
+  swift: BRBUBIBIXXX
+  swift8: BRBUBIBI
+  branch_name: Head Office
+  branch_address: Brb Bujumbura
+  branch_code: XXX
+  city: Bujumbura
+  country: Burundi
+- name: Caisse Centrale De Mobilisation Et De Financement
+  swift: CCMFBIB1XXX
+  swift8: CCMFBIB1
+  branch_name: Head Office
+  branch_address: 4 Avenue De La Jrr Bujumbura
+  branch_code: XXX
+  city: Bujumbura
+  country: Burundi
+- name: Caisse D'epargne Du Burundi
+  swift: CADBBIB1XXX
+  swift8: CADBBIB1
+  branch_name: Head Office
+  branch_address: 40 Chaussee Prince Louis Rwagasore Bujumbura
+  branch_code: XXX
+  city: Bujumbura
+  country: Burundi
+- name: Central Bank Of Burundi
+  swift: CBBBBIB1XXX
+  swift8: CBBBBIB1
+  branch_name: Head Office
+  branch_address: Bujumbura
+  branch_code: XXX
+  city: Bujumbura
+  country: Burundi
+- name: Crdb Bank Burundi S.a
+  swift: CORUBIBUXXX
+  swift8: CORUBIBU
+  branch_name: Head Office
+  branch_address: Chausee Du Prince Louise Rwagasore 257 Bujumbura
+  branch_code: XXX
+  city: Bujumbura
+  country: Burundi
+- name: Diamond Trust Bank Burundi S.a
+  swift: DTKEBIBIXXX
+  swift8: DTKEBIBI
+  branch_name: Head Office
+  branch_address: 14 Chaussee Prince Louise Bujumbura
+  branch_code: XXX
+  city: Bujumbura
+  country: Burundi
+- name: Ecobank Burundi
+  swift: ECOCBIBIXXX
+  swift8: ECOCBIBI
+  branch_name: Head Office
+  branch_address: Premium House Bujumbura
+  branch_code: XXX
+  city: Bujumbura
+  country: Burundi
+- name: Interbank Burundi
+  swift: IBBUBIBIADI
+  swift8: IBBUBIBI
+  branch_name: Avenue De Lindustrie Branch
+  branch_address: 15 Avenue De Llindustrie Bujumbura
+  branch_code: ADI
+  city: Bujumbura
+  country: Burundi
+- name: Interbank Burundi
+  swift: IBBUBIBIXXX
+  swift8: IBBUBIBI
+  branch_name: Head Office
+  branch_address: I.B.B. Bujumbura
+  branch_code: XXX
+  city: Bujumbura
+  country: Burundi
+- name: Kcb Bank Burundi Limited
+  swift: KCBLBIBIXXX
+  swift8: KCBLBIBI
+  branch_name: Head Office
+  branch_address: Rohero 1,Avenue Pierre Ngendandumwe 6119 Bujumbura
+  branch_code: XXX
+  city: Bujumbura
+  country: Burundi
+- name: Meridien Biao Bank Burundi Sarl
+  swift: MBBSBIB1XXX
+  swift8: MBBSBIB1
+  branch_name: Head Office
+  branch_address: 1 Boulevard De La Liberte Bujumbura
+  branch_code: XXX
+  city: Bujumbura
+  country: Burundi

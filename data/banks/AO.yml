@@ -1,0 +1,258 @@
+---
+AO:
+- name: Banco Espirito Santo
+  swift: BESCAOLUXXX
+  swift8: BESCAOLU
+  branch_name: Head Office
+  branch_address: Rua Guilherme Pereira Ingles 43 Luanda
+  branch_code: XXX
+  city: Luanda
+  country: Angola
+- name: Banco Angolano De Investimentos, Sarl
+  swift: BAIPAOLUXXX
+  swift8: BAIPAOLU
+  branch_name: Head Office
+  branch_address: Rua Major Kanhangulo, 34 Luanda
+  branch_code: XXX
+  city: Luanda
+  country: Angola
+- name: Banco Angolano Negocios E Comercio
+  swift: ANCEAOLUXXX
+  swift8: ANCEAOLU
+  branch_name: Head Office
+  branch_address: Travessa Da Sorte No 12 5434 Luanda
+  branch_code: XXX
+  city: Luanda
+  country: Angola
+- name: Banco Bic, S.a.
+  swift: BCCBAOLUXXX
+  swift8: BCCBAOLU
+  branch_name: Head Office
+  branch_address: Rua Narciso Espirito Santo 52 Luanda
+  branch_code: XXX
+  city: Luanda
+  country: Angola
+- name: Banco Comercial Angolano
+  swift: COMLAOLUXXX
+  swift8: COMLAOLU
+  branch_name: Head Office
+  branch_address: Avenida Comandante Valodia 83 a Luanda
+  branch_code: XXX
+  city: Luanda
+  country: Angola
+- name: Banco Comercial Do Huambo
+  swift: BCHUAOLUXXX
+  swift8: BCHUAOLU
+  branch_name: Head Office
+  branch_address: Av. Independencia, N. 11-13 Huambo
+  branch_code: XXX
+  city: Huambo
+  country: Angola
+- name: Banco De Desenvolvimento De Angola
+  swift: BDAAAOLUXXX
+  swift8: BDAAAOLU
+  branch_name: Head Office
+  branch_address: Avenida 4 De Fevereiro, 113 Luanda
+  branch_code: XXX
+  city: Luanda
+  country: Angola
+- name: Banco De Fomento Angola Sa
+  swift: BFABAOL1XXX
+  swift8: BFABAOL1
+  branch_name: Head Office
+  branch_address: Luanda
+  branch_code: XXX
+  city: Luanda
+  country: Angola
+- name: Banco De Fomento Sarl Angola
+  swift: BFMXAOLUXXX
+  swift8: BFMXAOLU
+  branch_name: Head Office
+  branch_address: Luanda
+  branch_code: XXX
+  city: Luanda
+  country: Angola
+- name: Banco De Negocios Internacional
+  swift: BNICAOLU052
+  swift8: BNICAOLU
+  branch_name: Luanda
+  branch_address: Luanda
+  branch_code: '052'
+  city: Luanda
+  country: Angola
+- name: Banco De Negocios Internacional
+  swift: BNICAOLUXXX
+  swift8: BNICAOLU
+  branch_name: Head Office
+  branch_address: Travessa Nicolau Castlo Branco, 22 Luanda
+  branch_code: XXX
+  city: Luanda
+  country: Angola
+- name: Banco De Poupanca E Credito Sarl
+  swift: CGDIAOL1XXX
+  swift8: CGDIAOL1
+  branch_name: Head Office
+  branch_address: Largo Saydi Mingas Luanda
+  branch_code: XXX
+  city: Luanda
+  country: Angola
+- name: Banco Kwanza Invest Sa
+  swift: BKIAAOLUXXX
+  swift8: BKIAAOLU
+  branch_name: Head Office
+  branch_address: Avenida Comandante Jika 150 Luanda
+  branch_code: XXX
+  city: Luanda
+  country: Angola
+- name: Banco Kwanza Invest Sa
+  swift: BQCAAOLUXXX
+  swift8: BQCAAOLU
+  branch_name: Head Office
+  branch_address: Avenida Comandante Jika 150 Luanda
+  branch_code: XXX
+  city: Luanda
+  country: Angola
+- name: Banco Millennium Angola Sa
+  swift: BCOMAOLUXXX
+  swift8: BCOMAOLU
+  branch_name: Head Office
+  branch_address: Largo Rainha Ginja 6/8 Luanda
+  branch_code: XXX
+  city: Luanda
+  country: Angola
+- name: Banco Nacional De Angola
+  swift: BNANAOLDXXX
+  swift8: BNANAOLD
+  branch_name: Head Office
+  branch_address: Bna-Sede 1243 Luanda
+  branch_code: XXX
+  city: Luanda
+  country: Angola
+- name: Banco Nacional De Angola
+  swift: BNANAOLUXXX
+  swift8: BNANAOLU
+  branch_name: Head Office
+  branch_address: Av. 4 De Fevereiro 151 1243 Luanda
+  branch_code: XXX
+  city: Luanda
+  country: Angola
+- name: Banco Privado Atlantico
+  swift: PRTLAOLUXXX
+  swift8: PRTLAOLU
+  branch_name: Head Office
+  branch_address: Rua Henrique De Carvalho, Num. 27 Luanda
+  branch_code: XXX
+  city: Luanda
+  country: Angola
+- name: Banco Regional Do Keve, Sarl
+  swift: BRDKAOLUXXX
+  swift8: BRDKAOLU
+  branch_name: Head Office
+  branch_address: Robert Hudson Luanda
+  branch_code: XXX
+  city: Luanda
+  country: Angola
+- name: Banco Sol Sarl
+  swift: SOLOAOLUXXX
+  swift8: SOLOAOLU
+  branch_name: Head Office
+  branch_address: Rue Rei Katyavala, 110/112 Luanda
+  branch_code: XXX
+  city: Luanda
+  country: Angola
+- name: Banco Totta De Angola, S.a.r.l.
+  swift: BCGTAOLUXXX
+  swift8: BCGTAOLU
+  branch_name: Head Office
+  branch_address: Avenida 4 De Fevereiro 99 Luanda
+  branch_code: XXX
+  city: Luanda
+  country: Angola
+- name: Banco Valor Bank
+  swift: BVBXAOLUXXX
+  swift8: BVBXAOLU
+  branch_name: Head Office
+  branch_address: Rua Helder Neto 78 Luanda
+  branch_code: XXX
+  city: Luanda
+  country: Angola
+- name: Banco Vtb Africa, S.a.
+  swift: VTBLAOLUXXX
+  swift8: VTBLAOLU
+  branch_name: Head Office
+  branch_address: Edificio Do Banco Vtb Africa Luanda
+  branch_code: XXX
+  city: Luanda
+  country: Angola
+- name: Bci-banco De Comercio E Industria
+  swift: BCIDAOLUXXX
+  swift8: BCIDAOLU
+  branch_name: Head Office
+  branch_address: Bci-Banco De Comercio E Industria 244 (222) Luanda Ld
+  branch_code: XXX
+  city: Luanda
+  country: Angola
+- name: Bci-mobiliaria, Construcao E Gestao Imobiliaria, S.a.r.l.
+  swift: IMOBAOL1XXX
+  swift8: IMOBAOL1
+  branch_name: No branch name
+  branch_address: No branch address
+  branch_code: XXX
+  city: Luanda
+  country: Angola
+- name: Bmf-banco Bai Microfinancas, Sarl
+  swift: NOSAAOLUXXX
+  swift8: NOSAAOLU
+  branch_name: Head Office
+  branch_address: Rua Ndunduma, 257 Luanda
+  branch_code: XXX
+  city: Luanda
+  country: Angola
+- name: Bpc-banco De Poupanca E Credito
+  swift: BPCLAOLUXXX
+  swift8: BPCLAOLU
+  branch_name: Head Office
+  branch_address: Largo Saydi Mingas Luanda
+  branch_code: XXX
+  city: Luanda
+  country: Angola
+- name: Finibanco Angola S.a
+  swift: FBCOAOLUXXX
+  swift8: FBCOAOLU
+  branch_name: Head Office
+  branch_address: Travessa Engracia Fragoso 24 Luanda
+  branch_code: XXX
+  city: Luanda
+  country: Angola
+- name: Ministerio Das Financas
+  swift: MDFNAOLUXXX
+  swift8: MDFNAOLU
+  branch_name: Head Office
+  branch_address: Edificio Sede Luanda
+  branch_code: XXX
+  city: Luanda
+  country: Angola
+- name: Standard Bank De Angola S.a.
+  swift: SBICAOLUXXX
+  swift8: SBICAOLU
+  branch_name: Head Office
+  branch_address: Edificio Malange Luanda
+  branch_code: XXX
+  city: Luanda
+  country: Angola
+- name: Standard Chartered Bank Angola Sa
+  swift: SCBLAOLUXXX
+  swift8: SCBLAOLU
+  branch_name: No branch name
+  branch_address: No branch address
+  branch_code: XXX
+  city: Luanda
+  country: Angola
+- name: Standard Chartered Bank Angola Sa
+  swift: SCBLAOL1XXX
+  swift8: SCBLAOL1
+  branch_name: Head Office
+  branch_address: Cif Luanda One Luanda
+  branch_code: XXX
+  city: Luanda
+  country: Angola

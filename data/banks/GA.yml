@@ -1,0 +1,194 @@
+---
+GA:
+- name: Citibank N.A.
+  swift: CITIGALXTRD
+  swift8: CITIGALX
+  branch_name: Trade Services Dept
+  branch_address: Rue Kringer Quaben 3940 Libreville
+  branch_code: TRD
+  city: Libreville
+  country: Gabon
+- name: Citibank N.A.
+  swift: CITIGALXXXX
+  swift8: CITIGALX
+  branch_name: Head Office
+  branch_address: Boulevard Quaben Et Rue Kringer Libreville
+  branch_code: XXX
+  city: Libreville
+  country: Gabon
+- name: B.i.c.i. Du Gabon
+  swift: BICIGALXADL
+  swift8: BICIGALX
+  branch_name: Adl Branch
+  branch_address: Libreville
+  branch_code: ADL
+  city: Libreville
+  country: Gabon
+- name: B.i.c.i. Du Gabon
+  swift: BICIGALXMBT
+  swift8: BICIGALX
+  branch_name: Mont-Bouet Branch
+  branch_address: Libreville
+  branch_code: MBT
+  city: Libreville
+  country: Gabon
+- name: B.i.c.i. Du Gabon
+  swift: BICIGALXMDA
+  swift8: BICIGALX
+  branch_name: Moanda Branch
+  branch_address: Moanda
+  branch_code: MDA
+  city: Moanda
+  country: Gabon
+- name: B.i.c.i. Du Gabon
+  swift: BICIGALXOLO
+  swift8: BICIGALX
+  branch_name: Oloumi Branch
+  branch_address: Libreville
+  branch_code: OLO
+  city: Libreville
+  country: Gabon
+- name: B.i.c.i. Du Gabon
+  swift: BICIGALXPOG
+  swift8: BICIGALX
+  branch_name: Port Gentil
+  branch_address: Port Gentil
+  branch_code: POG
+  city: Port Gentil
+  country: Gabon
+- name: B.i.c.i. Du Gabon
+  swift: BICIGALXXXX
+  swift8: BICIGALX
+  branch_name: Head Office
+  branch_address: Libreville
+  branch_code: XXX
+  city: Libreville
+  country: Gabon
+- name: Banque Des Etats De L'afrique Centrale D.n. Gabon
+  swift: BEACGALI510
+  swift8: BEACGALI
+  branch_name: Agence De Port Gentil
+  branch_address: Port Gentil
+  branch_code: '510'
+  city: Port Gentil
+  country: Gabon
+- name: Banque Des Etats De L'afrique Centrale D.n. Gabon
+  swift: BEACGALI520
+  swift8: BEACGALI
+  branch_name: Agence De Franceville
+  branch_address: Franceville
+  branch_code: '520'
+  city: Franceville
+  country: Gabon
+- name: Banque Des Etats De L'afrique Centrale D.n. Gabon
+  swift: BEACGALI530
+  swift8: BEACGALI
+  branch_name: Agence De Oyem
+  branch_address: Oyem
+  branch_code: '530'
+  city: Oyem
+  country: Gabon
+- name: Banque Des Etats De L'afrique Centrale D.n. Gabon
+  swift: BEACGALIXXX
+  swift8: BEACGALI
+  branch_name: Head Office
+  branch_address: Libreville
+  branch_code: XXX
+  city: Libreville
+  country: Gabon
+- name: Banque Gabonaise De Developpement
+  swift: BGADGALIXXX
+  swift8: BGADGALI
+  branch_name: Head Office
+  branch_address: Rue Alfred Marche, 5 Libreville
+  branch_code: XXX
+  city: Libreville
+  country: Gabon
+- name: Bgfibank
+  swift: BGFIGALIBKZ
+  swift8: BGFIGALI
+  branch_name: Libreville
+  branch_address: Bd. De Lindependance Libreville
+  branch_code: BKZ
+  city: Libreville
+  country: Gabon
+- name: Bgfibank
+  swift: BGFIGALIMAL
+  swift8: BGFIGALI
+  branch_name: Libreville
+  branch_address: Bd. De Lindependance Libreville
+  branch_code: MAL
+  city: Libreville
+  country: Gabon
+- name: Bgfibank
+  swift: BGFIGALIOWD
+  swift8: BGFIGALI
+  branch_name: Libreville
+  branch_address: Bd. De Lindependance Libreville
+  branch_code: OWD
+  city: Libreville
+  country: Gabon
+- name: Bgfibank
+  swift: BGFIGALIPOG
+  swift8: BGFIGALI
+  branch_name: Libreville
+  branch_address: Bd. De Lindependance Libreville
+  branch_code: POG
+  city: Libreville
+  country: Gabon
+- name: Bgfibank
+  swift: BGFIGALIPTN
+  swift8: BGFIGALI
+  branch_name: Libreville
+  branch_address: Bd. De Lindependance Libreville
+  branch_code: PTN
+  city: Libreville
+  country: Gabon
+- name: Bgfibank
+  swift: BGFIGALIXXX
+  swift8: BGFIGALI
+  branch_name: Head Office
+  branch_address: Boulevard De Lindependance Libreville
+  branch_code: XXX
+  city: Libreville
+  country: Gabon
+- name: Ecobank Gabon
+  swift: ECOCGALIXXX
+  swift8: ECOCGALI
+  branch_name: Head Office
+  branch_address: Ecobank Gabon Libreville
+  branch_code: XXX
+  city: Libreville
+  country: Gabon
+- name: Gabon-poste
+  swift: CCPGGALIXXX
+  swift8: CCPGGALI
+  branch_name: Head Office
+  branch_address: Delta-Postal 20000 Libreville
+  branch_code: XXX
+  city: Libreville
+  country: Gabon
+- name: Orabank Gabon
+  swift: ORBKGALIXXX
+  swift8: ORBKGALI
+  branch_name: Head Office
+  branch_address: Imm. Les Frangipaniers 20333 Libreville
+  branch_code: XXX
+  city: Libreville
+  country: Gabon
+- name: Uba Gabon
+  swift: UNAFGALIXXX
+  swift8: UNAFGALI
+  branch_name: Head Office
+  branch_address: Immeuble Panoramique Libreville
+  branch_code: XXX
+  city: Libreville
+  country: Gabon
+- name: Union Gabonaise De Banque
+  swift: UGABGALIXXX
+  swift8: UGABGALI
+  branch_name: Head Office
+  branch_address: Avenue Du Colonel Parant Libreville
+  branch_code: XXX
+  city: Libreville
+  country: Gabon

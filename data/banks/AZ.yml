@@ -1,0 +1,458 @@
+---
+AZ:
+- name: Bank Respublika Ojsc
+  swift: BRESAZ22XXX
+  swift8: BRESAZ22
+  branch_name: Head Office
+  branch_address: 21 Khaqani Str. Az1000 Baku
+  branch_code: XXX
+  city: Baku
+  country: Azerbaijan
+- name: Accessbank
+  swift: ACABAZ22XXX
+  swift8: ACABAZ22
+  branch_name: Head Office
+  branch_address: Accessbank 1000 Baku
+  branch_code: XXX
+  city: Baku
+  country: Azerbaijan
+- name: Adjemibank
+  swift: ADJEAZ21XXX
+  swift8: ADJEAZ21
+  branch_name: Head Office
+  branch_address: Hatai Avenue 15 Baku
+  branch_code: XXX
+  city: Baku
+  country: Azerbaijan
+- name: Afb Bank Ojsc
+  swift: AZFIAZ22XXX
+  swift8: AZFIAZ22
+  branch_name: Head Office
+  branch_address: 112 Ismayil Bey Qutqashenli Str. Az1073 Baku
+  branch_code: XXX
+  city: Baku
+  country: Azerbaijan
+- name: Agbank Open Joint-stock Company
+  swift: AZEGAZ22XXX
+  swift8: AZEGAZ22
+  branch_name: Head Office
+  branch_address: 16 Landau Street 1073 Baku
+  branch_code: XXX
+  city: Baku
+  country: Azerbaijan
+- name: Agrarkredit Closed Joint-stock Society Non-bank Credit Organization
+  swift: ACJTAZ22XXX
+  swift8: ACJTAZ22
+  branch_name: Head Office
+  branch_address: Gadirli Street 125 Az1006 Baku
+  branch_code: XXX
+  city: Baku
+  country: Azerbaijan
+- name: Amrahbank Joint-stock Bank
+  swift: AMRAAZ22XXX
+  swift8: AMRAAZ22
+  branch_name: Head Office
+  branch_address: 111, Nizami Street 370000 Baku
+  branch_code: XXX
+  city: Baku
+  country: Azerbaijan
+- name: Atabank
+  swift: ATAZAZ22XXX
+  swift8: ATAZAZ22
+  branch_name: Head Office
+  branch_address: R. Rza Street 111 370014 Baku
+  branch_code: XXX
+  city: Baku
+  country: Azerbaijan
+- name: Atrabank Jsc
+  swift: ATRAAZ22XXX
+  swift8: ATRAAZ22
+  branch_name: Head Office
+  branch_address: J. Khalilov Street, 553 Kvartal 370000 Baku
+  branch_code: XXX
+  city: Baku
+  country: Azerbaijan
+- name: Azbusinessbank
+  swift: AZBUAZ21XXX
+  swift8: AZBUAZ21
+  branch_name: Head Office
+  branch_address: S. Askerova Street 85 Baku
+  branch_code: XXX
+  city: Baku
+  country: Azerbaijan
+- name: Azer-turk Bank
+  swift: AZRTAZ22XXX
+  swift8: AZRTAZ22
+  branch_name: Head Office
+  branch_address: Islam Seferli, 5 370005 Baku
+  branch_code: XXX
+  city: Baku
+  country: Azerbaijan
+- name: Azerbaijan Credit Bank
+  swift: ACJOAZ22XXX
+  swift8: ACJOAZ22
+  branch_name: Head Office
+  branch_address: Nizami Str. 111 Az1000 Baku
+  branch_code: XXX
+  city: Baku
+  country: Azerbaijan
+- name: Azerbaijan Industry Bank Jsc
+  swift: CAPNAZ22XXX
+  swift8: CAPNAZ22
+  branch_name: Head Office
+  branch_address: Azerbaijan Avenue 3 370005 Baku
+  branch_code: XXX
+  city: Baku
+  country: Azerbaijan
+- name: Azerpost Limited Liability Company
+  swift: AZPOAZ22XXX
+  swift8: AZPOAZ22
+  branch_name: Head Office
+  branch_address: U.Hadgibayov Str 36 Az1000 Baku
+  branch_code: XXX
+  city: Baku
+  country: Azerbaijan
+- name: Azersharabbank
+  swift: AZRSAZ21XXX
+  swift8: AZRSAZ21
+  branch_name: Head Office
+  branch_address: Moscowsky Avenue 104 Baku
+  branch_code: XXX
+  city: Baku
+  country: Azerbaijan
+- name: Bank Btb
+  swift: BBTBAZ22XXX
+  swift8: BBTBAZ22
+  branch_name: Head Office
+  branch_address: Parlament Ave 1065 Baku
+  branch_code: XXX
+  city: Baku
+  country: Azerbaijan
+- name: Bank Of Azerbaijan
+  swift: AZEJAZ22XXX
+  swift8: AZEJAZ22
+  branch_name: Head Office
+  branch_address: Samad Vurgun Street 3 370001 Baku
+  branch_code: XXX
+  city: Baku
+  country: Azerbaijan
+- name: Bank Silk Way Ojsv
+  swift: AZALAZ22XXX
+  swift8: AZALAZ22
+  branch_name: Head Office
+  branch_address: 86 Nizami Street 370000 Baku
+  branch_code: XXX
+  city: Baku
+  country: Azerbaijan
+- name: Bank Technique Ojsc
+  swift: TECIAZ22XXX
+  swift8: TECIAZ22
+  branch_name: Head Office
+  branch_address: 1107 Ataturk Avenue 370069 Baku
+  branch_code: XXX
+  city: Baku
+  country: Azerbaijan
+- name: Capital Investment Bank
+  swift: CANSAZ21XXX
+  swift8: CANSAZ21
+  branch_name: Head Office
+  branch_address: 3 Azerbaijan Avenue Baku
+  branch_code: XXX
+  city: Baku
+  country: Azerbaijan
+- name: Capitalbank
+  swift: CAPKAZ21XXX
+  swift8: CAPKAZ21
+  branch_name: Head Office
+  branch_address: 71 Fizuli Str Baku
+  branch_code: XXX
+  city: Baku
+  country: Azerbaijan
+- name: Caucasus Development Bank
+  swift: TDJOAZ22XXX
+  swift8: TDJOAZ22
+  branch_name: Head Office
+  branch_address: Alovsat Guliyev Street 98 Az1006 Baku
+  branch_code: XXX
+  city: Baku
+  country: Azerbaijan
+- name: Central Bank Of The Republic Of Azerbaijan
+  swift: NABZAZ2CXXX
+  swift8: NABZAZ2C
+  branch_name: Head Office
+  branch_address: 32, R. Behbudov 1014 Baku
+  branch_code: XXX
+  city: Baku
+  country: Azerbaijan
+- name: Central Bank Of The Republic Of Azerbaijan
+  swift: NABZAZ2XXXX
+  swift8: NABZAZ2X
+  branch_name: Head Office
+  branch_address: Head Offfice 1014 Baku
+  branch_code: XXX
+  city: Baku
+  country: Azerbaijan
+- name: Commercial Bank Deka-bank
+  swift: DEKBAZ22XXX
+  swift8: DEKBAZ22
+  branch_name: Head Office
+  branch_address: 14/16 Khagani Street 370001 Baku
+  branch_code: XXX
+  city: Baku
+  country: Azerbaijan
+- name: Demirbank Ojsc
+  swift: AZERAZ22XXX
+  swift8: AZERAZ22
+  branch_name: Head Office
+  branch_address: Garabag Street 31 370008 Baku
+  branch_code: XXX
+  city: Baku
+  country: Azerbaijan
+- name: Ege International Baku Bank
+  swift: TRIDAZ21XXX
+  swift8: TRIDAZ21
+  branch_name: Head Office
+  branch_address: 30 Bul-Bul Ave Baku
+  branch_code: XXX
+  city: Baku
+  country: Azerbaijan
+- name: Eurasia Bank
+  swift: AVRAAZ22XXX
+  swift8: AVRAAZ22
+  branch_name: Head Office
+  branch_address: Nizami Str.70 Az1000 Baku
+  branch_code: XXX
+  city: Baku
+  country: Azerbaijan
+- name: Expressbank
+  swift: AZENAZ22XXX
+  swift8: AZENAZ22
+  branch_name: Head Office
+  branch_address: 150/152 Azadlig Ave. Az1106 Baku
+  branch_code: XXX
+  city: Baku
+  country: Azerbaijan
+- name: Gandjabank Joint Stock Commercial Bank
+  swift: GANJAZ22XXX
+  swift8: GANJAZ22
+  branch_name: Head Office
+  branch_address: Ataturk Avenue, 260 374700 Gandja
+  branch_code: XXX
+  city: Gandja
+  country: Azerbaijan
+- name: Garantiyabank
+  swift: GARNAZ21XXX
+  swift8: GARNAZ21
+  branch_name: Head Office
+  branch_address: Yusifzadeh Street 3 Baku
+  branch_code: XXX
+  city: Baku
+  country: Azerbaijan
+- name: Gunaybank Joint Stock Bank
+  swift: GUNAAZ22XXX
+  swift8: GUNAAZ22
+  branch_name: Head Office
+  branch_address: Rasul Rza Street 4/6 370095 Baku
+  branch_code: XXX
+  city: Baku
+  country: Azerbaijan
+- name: Investment Commercial Bank 'nikoil' (formerly Cb 'ulpar'
+  swift: NICBAZ22XXX
+  swift8: NICBAZ22
+  branch_name: Head Office
+  branch_address: Hajibeyov U Street 27 370004 Baku
+  branch_code: XXX
+  city: Baku
+  country: Azerbaijan
+- name: Joint-stock Commercial Bank Rabitabank (gazanbank Branch
+  swift: RBTAAZ2102G
+  swift8: RBTAAZ21
+  branch_name: Gazanbank Branch
+  branch_address: M. Sediyov Street 35 370100 Baku
+  branch_code: 02G
+  city: Baku
+  country: Azerbaijan
+- name: Jsc 'zaminbank'
+  swift: ZAMIAZ22XXX
+  swift8: ZAMIAZ22
+  branch_name: Head Office
+  branch_address: Fizuli Street 59 Az1000 Baku
+  branch_code: XXX
+  city: Baku
+  country: Azerbaijan
+- name: Jscb 'bank Standard'
+  swift: MOSZAZ22XXX
+  swift8: MOSZAZ22
+  branch_name: Head Office
+  branch_address: H. Hajiev Street 4 Az1005 Baku
+  branch_code: XXX
+  city: Baku
+  country: Azerbaijan
+- name: Kapital Bank
+  swift: AIIBAZ2XXXX
+  swift8: AIIBAZ2X
+  branch_name: Head Office
+  branch_address: Fizuli 71 370010 Baku
+  branch_code: XXX
+  city: Baku
+  country: Azerbaijan
+- name: Mech R Bank
+  swift: MECHAZ21XXX
+  swift8: MECHAZ21
+  branch_name: Head Office
+  branch_address: S. Vurgun Street 68 Baku
+  branch_code: XXX
+  city: Baku
+  country: Azerbaijan
+- name: Milli Iran Bank
+  swift: MILIAZ21XXX
+  swift8: MILIAZ21
+  branch_name: Head Office
+  branch_address: S. Askerova Street 85 Baku
+  branch_code: XXX
+  city: Baku
+  country: Azerbaijan
+- name: Muganbank Ojsc
+  swift: MUGAAZ22XXX
+  swift8: MUGAAZ22
+  branch_name: Head Office
+  branch_address: Home 4 Az1000 Baku
+  branch_code: XXX
+  city: Baku
+  country: Azerbaijan
+- name: Nakhchivanbank Ojsc
+  swift: NAXBAZ22XXX
+  swift8: NAXBAZ22
+  branch_name: Head Office
+  branch_address: 7 Dj.Mammadguluzade Az7000 Nakhchivan
+  branch_code: XXX
+  city: Nakhchivan
+  country: Azerbaijan
+- name: National Bank Of Pakistan Baku Branch (state
+  swift: NBPAAZ22XXX
+  swift8: NBPAAZ22
+  branch_name: Head Office
+  branch_address: 41 Istiglaliyyet Street Az1001 Baku
+  branch_code: XXX
+  city: Baku
+  country: Azerbaijan
+- name: Nbc Bank Open Joint Stock Company
+  swift: NBCBAZ22XXX
+  swift8: NBCBAZ22
+  branch_name: Head Office
+  branch_address: Shakhin Mustafaev Str. 27/121 Az 1033 Baku
+  branch_code: XXX
+  city: Baku
+  country: Azerbaijan
+- name: Ojsc Kredobank
+  swift: ANARAZ22XXX
+  swift8: ANARAZ22
+  branch_name: Head Office
+  branch_address: S.Rakhimov Str. 185 Az1014 Baku
+  branch_code: XXX
+  city: Baku
+  country: Azerbaijan
+- name: Ojsc Vtb Bank (azerbaijan
+  swift: VTBAAZ22XXX
+  swift8: VTBAAZ22
+  branch_name: Head Office
+  branch_address: 34 S. Vurgun Str. 1014 Baku
+  branch_code: XXX
+  city: Baku
+  country: Azerbaijan
+- name: Parabank Jscb
+  swift: PAAAAZ22XXX
+  swift8: PAAAAZ22
+  branch_name: Head Office
+  branch_address: Fizuli Street 67 370014 Baku
+  branch_code: XXX
+  city: Baku
+  country: Azerbaijan
+- name: Pasha Bank
+  swift: PAHAAZ22XXX
+  swift8: PAHAAZ22
+  branch_name: Head Office
+  branch_address: 15,Y.Mammadaliyev 1005 Baku
+  branch_code: XXX
+  city: Baku
+  country: Azerbaijan
+- name: Rabitabank
+  swift: RBTAAZ22XXX
+  swift8: RBTAAZ22
+  branch_name: Head Office
+  branch_address: B. Sardarov Street 1 370001 Baku
+  branch_code: XXX
+  city: Baku
+  country: Azerbaijan
+- name: State Oil Fund Of The Republic Of Azerbaijan
+  swift: SOILAZ22XXX
+  swift8: SOILAZ22
+  branch_name: Head Office
+  branch_address: 20 Bulbul Avenue 1014 Baku
+  branch_code: XXX
+  city: Baku
+  country: Azerbaijan
+- name: State Treasury Agency
+  swift: CTREAZ22XXX
+  swift8: CTREAZ22
+  branch_name: Head Office
+  branch_address: Samed Vurgun Street 83 Az1022 Baku
+  branch_code: XXX
+  city: Baku
+  country: Azerbaijan
+- name: The International Bank Of Azerbaijan Republic
+  swift: IBAZAZ2XXXX
+  swift8: IBAZAZ2X
+  branch_name: Head Office
+  branch_address: Nizami Street , 67 Az1005 Baku
+  branch_code: XXX
+  city: Baku
+  country: Azerbaijan
+- name: Turan Commercial Bank
+  swift: TURAAZ22XXX
+  swift8: TURAAZ22
+  branch_name: Head Office
+  branch_address: Nizami Street, 53 370005 Baku
+  branch_code: XXX
+  city: Baku
+  country: Azerbaijan
+- name: Ulfatbank
+  swift: ULFAAZ21XXX
+  swift8: ULFAAZ21
+  branch_name: Head Office
+  branch_address: R. Behbutov 5 Baku
+  branch_code: XXX
+  city: Baku
+  country: Azerbaijan
+- name: Unibank Cb
+  swift: UBAZAZ22XXX
+  swift8: UBAZAZ22
+  branch_name: Head Office
+  branch_address: Tolstoy Street 172 370000 Baku
+  branch_code: XXX
+  city: Baku
+  country: Azerbaijan
+- name: United Credit Bank
+  swift: UCBXAZ22XXX
+  swift8: UCBXAZ22
+  branch_name: Head Office
+  branch_address: 49, N. Rafiyev Street Az1025 Baku
+  branch_code: XXX
+  city: Baku
+  country: Azerbaijan
+- name: Xalq Bank Open Joint-stock Company
+  swift: HAJCAZ22XXX
+  swift8: HAJCAZ22
+  branch_name: Head Office
+  branch_address: Xalq Bank Az1025 Baku
+  branch_code: XXX
+  city: Baku
+  country: Azerbaijan
+- name: Yapikredi Azerbaijan Closed Jsc
+  swift: KABAAZ22XXX
+  swift8: KABAAZ22
+  branch_name: Head Office
+  branch_address: 28 May Street 5 Az1014 Baku
+  branch_code: XXX
+  city: Baku
+  country: Azerbaijan

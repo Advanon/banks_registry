@@ -1,0 +1,90 @@
+---
+BN:
+- name: Hongkong And Shanghai Banking Corporation Limited, The
+  swift: HSBCBNBBXXX
+  swift8: HSBCBNBB
+  branch_name: Head Office
+  branch_address: Hsbc Chambers Bs8811 Bandar Seri Begawan
+  branch_code: XXX
+  city: Bandar Seri Begawan
+  country: Brunei Darussalam
+- name: Malayan Banking Berhad
+  swift: MBBEBNBBXXX
+  swift8: MBBEBNBB
+  branch_name: Head Office
+  branch_address: No.1 Jalan Mc Arthur Bs 8711 Bandar Seri Begawan
+  branch_code: XXX
+  city: Bandar Seri Begawan
+  country: Brunei Darussalam
+- name: United Overseas Bank Ltd
+  swift: UOVBBNBBXXX
+  swift8: UOVBBNBB
+  branch_name: Head Office
+  branch_address: Rba Plaza Bs 8811 Bandar Seri Begawan
+  branch_code: XXX
+  city: Bandar Seri Begawan
+  country: Brunei Darussalam
+- name: Baiduri Bank Berhad
+  swift: BAIDBNBBXXX
+  swift8: BAIDBNBB
+  branch_name: Head Office
+  branch_address: Kiarong Complex Be1318 Bandar Seri Begawan
+  branch_code: XXX
+  city: Bandar Seri Begawan
+  country: Brunei Darussalam
+- name: Bank Islam Brunei Darussalam Berhad (bibd
+  swift: BIBDBNBBXXX
+  swift8: BIBDBNBB
+  branch_name: Head Office
+  branch_address: Bangunan Bibd 8711 Bandar Seri Begawan
+  branch_code: XXX
+  city: Bandar Seri Begawan
+  country: Brunei Darussalam
+- name: Brunei Investment Agency
+  swift: BIAGBNB1XXX
+  swift8: BIAGBNB1
+  branch_name: Head Office
+  branch_address: Ministry of Finance Building Bandar Seri Begawan
+  branch_code: XXX
+  city: Bandar Seri Begawan
+  country: Brunei Darussalam
+- name: Brunei Shell Petroleum
+  swift: BRHPBNB1XXX
+  swift8: BRHPBNB1
+  branch_name: Head Office
+  branch_address: Jalan Utara, Panaga Seria
+  branch_code: XXX
+  city: Seria
+  country: Brunei Darussalam
+- name: Credit Corporation (brunei) Bhd
+  swift: CCBRBNB1XXX
+  swift8: CCBRBNB1
+  branch_name: Head Office
+  branch_address: Batu 2 Jalan Gadong Bandar Seri Begawan
+  branch_code: XXX
+  city: Bandar Seri Begawan
+  country: Brunei Darussalam
+- name: Perbadanan Tabung Amanah Islam Brunei
+  swift: PTAIBNBBXXX
+  swift8: PTAIBNBB
+  branch_name: Head Office
+  branch_address: Jalan Sultan Bs8811 Bandar Seri Begawan
+  branch_code: XXX
+  city: Bandar Seri Begawan
+  country: Brunei Darussalam
+- name: Rhb Bank Berhad, Brunei
+  swift: RHBBBNBBXXX
+  swift8: RHBBBNBB
+  branch_name: Head Office
+  branch_address: Kompleks Yayasan Sultan Haji Bs 8711 Bandar Seri Begawan
+  branch_code: XXX
+  city: Bandar Seri Begawan
+  country: Brunei Darussalam
+- name: Standard Chartered Bank-brunei
+  swift: SCBLBNBBXXX
+  swift8: SCBLBNBB
+  branch_name: Head Office
+  branch_address: Jalan Sultan Komplek 1901 Bandar Seri Begawan
+  branch_code: XXX
+  city: Bandar Seri Begawan
+  country: Brunei Darussalam

@@ -1,0 +1,5114 @@
+---
+JP:
+- name: Aichi Bank, Ltd., The
+  swift: AICHJPJNXXX
+  swift8: AICHJPJN
+  branch_name: Head Office
+  branch_address: 14-12, Sakae 3-Chome, Naka-Ku Nagoya 460-0008
+  branch_code: XXX
+  city: Nagoya
+  country: Japan
+- name: Aichi Bank, Ltd., The
+  swift: AICHJPJ10JS
+  swift8: AICHJPJ1
+  branch_name: Osaka 541
+  branch_address: 1-27, Kyutaromachi 2-Chome, Chuo-Ku Osaka 541
+  branch_code: 0JS
+  city: Osaka
+  country: Japan
+- name: Aichi Bank, Ltd., The
+  swift: AICHJPJ10JT
+  swift8: AICHJPJ1
+  branch_name: Tokyo 103
+  branch_address: 4-10,Nihombashi Muromachi 4-Chome, Tokyo 103
+  branch_code: 0JT
+  city: Tokyo
+  country: Japan
+- name: Akita Bank, Ltd.,The
+  swift: AKITJPJTXXX
+  swift8: AKITJPJT
+  branch_name: Head Office
+  branch_address: 2-1, Sanno 3-Chome Akita 010-8655
+  branch_code: XXX
+  city: Akita
+  country: Japan
+- name: Amagasaki Shinkin Bank, The
+  swift: AMASJPJZXXX
+  swift8: AMASJPJZ
+  branch_name: Head Office
+  branch_address: 30,Kaimeicho 3-Chome, Amagasaki 660-0862
+  branch_code: XXX
+  city: Amagasaki
+  country: Japan
+- name: Aomori Bank Ltd., The
+  swift: AOMBJPJTXXX
+  swift8: AOMBJPJT
+  branch_name: Head Office
+  branch_address: 9-30 Hashimoto 1-Chome Aomori 030-0823
+  branch_code: XXX
+  city: Aomori
+  country: Japan
+- name: Aozora Bank, Ltd
+  swift: NCBTJPJTXXX
+  swift8: NCBTJPJT
+  branch_name: Head Office
+  branch_address: 3-1, Kudan-Minami 1-Chome, Chiyoda-Ku Tokyo 102-8660
+  branch_code: XXX
+  city: Tokyo
+  country: Japan
+- name: Asahi Shinkin Bank, The
+  swift: ASKBJPJTXXX
+  swift8: ASKBJPJT
+  branch_name: Head Office
+  branch_address: 2-1-2 Higashi-Kanda, Chiyoda-Ku Tokyo 101-0031
+  branch_code: XXX
+  city: Tokyo
+  country: Japan
+- name: Ashikaga Bank
+  swift: ASIKJPJTXXX
+  swift8: ASIKJPJT
+  branch_name: Head Office
+  branch_address: 1-25 Sakura 4-Chome, Tochigi Utsunomiya 320-8610
+  branch_code: XXX
+  city: Utsunomiya
+  country: Japan
+- name: Australia And New Zealand Banking Group Limited
+  swift: ANZBJPJXXXX
+  swift8: ANZBJPJX
+  branch_name: Head Office
+  branch_address: Marunouchi Building Tokyo 100-6333
+  branch_code: XXX
+  city: Tokyo
+  country: Japan
+- name: Awa Bank, Ltd., The
+  swift: AWABJPJTXXX
+  swift8: AWABJPJT
+  branch_name: Head Office
+  branch_address: 24-1 Nishisemba-Cho, 2-Chome Tokushima 770-8601
+  branch_code: XXX
+  city: Tokushima
+  country: Japan
+- name: Banco Bilbao Vizcaya Argentaria Tokyo Branch
+  swift: BBVAJPJTXXX
+  swift8: BBVAJPJT
+  branch_name: Head Office
+  branch_address: Fukoku Seimei Bldg. Tokyo 100-0011
+  branch_code: XXX
+  city: Tokyo
+  country: Japan
+- name: Banco Do Brasil S.A
+  swift: BRASJPJTXXX
+  swift8: BRASJPJT
+  branch_name: Head Office
+  branch_address: New Kokusai Building Tokyo 100-0005
+  branch_code: XXX
+  city: Tokyo
+  country: Japan
+- name: Bangkok Bank Public Company Ltd.
+  swift: BKKBJPJTOSA
+  swift8: BKKBJPJT
+  branch_name: Osaka 541-0056
+  branch_address: Koraibashi Nomura Building Osaka 541-0056
+  branch_code: OSA
+  city: Osaka
+  country: Japan
+- name: Bangkok Bank Public Company Ltd.
+  swift: BKKBJPJTXXX
+  swift8: BKKBJPJT
+  branch_name: Head Office
+  branch_address: Bankok Bank Building Tokyo 105-0003
+  branch_code: XXX
+  city: Tokyo
+  country: Japan
+- name: Bank Negara Indonesia (Persero), Pt., Tokyo Branch
+  swift: BNINJPJTXXX
+  swift8: BNINJPJT
+  branch_name: Head Office
+  branch_address: Kokusai Building Tokyo 100-0005
+  branch_code: XXX
+  city: Tokyo
+  country: Japan
+- name: Bank Of America, Tokyo
+  swift: BOFAJPJXXXX
+  swift8: BOFAJPJX
+  branch_name: Tokyo Branch
+  branch_address: Nihonbashi 1-Chome Building Tokyo 103-0027
+  branch_code: XXX
+  city: Tokyo
+  country: Japan
+- name: Bank Of China
+  swift: BKCHJPJTKOB
+  swift8: BKCHJPJT
+  branch_name: Kobe Branch
+  branch_address: Kobe
+  branch_code: KOB
+  city: Kobe
+  country: Japan
+- name: Bank Of China
+  swift: BKCHJPJTNGY
+  swift8: BKCHJPJT
+  branch_name: Nagoya Branch
+  branch_address: Nagoya
+  branch_code: NGY
+  city: Nagoya
+  country: Japan
+- name: Bank Of China
+  swift: BKCHJPJTOSA
+  swift8: BKCHJPJT
+  branch_name: Osaka Branch
+  branch_address: Osaka
+  branch_code: OSA
+  city: Osaka
+  country: Japan
+- name: Bank Of China
+  swift: BKCHJPJTOTM
+  swift8: BKCHJPJT
+  branch_name: Otemachi Branch
+  branch_address: Tokyo
+  branch_code: OTM
+  city: Tokyo
+  country: Japan
+- name: Bank Of China
+  swift: BKCHJPJTXXX
+  swift8: BKCHJPJT
+  branch_name: Tokyo Branch
+  branch_address: Bank of China Building Tokyo 107-0052
+  branch_code: XXX
+  city: Tokyo
+  country: Japan
+- name: Bank Of Communications, Tokyo Branch
+  swift: COMMJPJTXXX
+  swift8: COMMJPJT
+  branch_name: Head Office
+  branch_address: Toranomon Mori Building Tokyo 105-0001
+  branch_code: XXX
+  city: Tokyo
+  country: Japan
+- name: Bank Of Fukuoka, Ltd., The
+  swift: FKBKJPJT100
+  swift8: FKBKJPJT
+  branch_name: Head Office
+  branch_address: Fukuoka
+  branch_code: '100'
+  city: Fukuoka
+  country: Japan
+- name: Bank Of Fukuoka, Ltd., The
+  swift: FKBKJPJTXXX
+  swift8: FKBKJPJT
+  branch_name: Head Office
+  branch_address: 8-7, Yaesu 2-Chome, Chuo-Ku Tokyo 104-0028
+  branch_code: XXX
+  city: Tokyo
+  country: Japan
+- name: Bank Of India
+  swift: BKIDJPJTOSK
+  swift8: BKIDJPJT
+  branch_name: Osaka Branch
+  branch_address: Osaka
+  branch_code: OSK
+  city: Osaka
+  country: Japan
+- name: Bank Of India
+  swift: BKIDJPJTXXX
+  swift8: BKIDJPJT
+  branch_name: Tokyo Branch
+  branch_address: Marunouchi Nakadorii Building Tokyo 100-0005
+  branch_code: XXX
+  city: Tokyo
+  country: Japan
+- name: Bank Of Iwate Ltd., The
+  swift: BAIWJPJTXXX
+  swift8: BAIWJPJT
+  branch_name: Head Office
+  branch_address: 2-3, 1-Chome, Chuo Dori, Iwate Morioka 020-8688
+  branch_code: XXX
+  city: Morioka
+  country: Japan
+- name: Bank Of Japan
+  swift: BOJPJPJTBJ1
+  swift8: BOJPJPJT
+  branch_name: For Japans Reserves Use Only
+  branch_address: Tokyo
+  branch_code: BJ1
+  city: Tokyo
+  country: Japan
+- name: Bank Of Japan
+  swift: BOJPJPJTMF1
+  swift8: BOJPJPJT
+  branch_name: For Japans Reserves Use Only
+  branch_address: Tokyo
+  branch_code: MF1
+  city: Tokyo
+  country: Japan
+- name: Bank Of Japan
+  swift: BOJPJPJTXXX
+  swift8: BOJPJPJT
+  branch_name: Head Office
+  branch_address: 2-1-1 Nihonbashi-Hongokucho, Tokyo 103-8660
+  branch_code: XXX
+  city: Tokyo
+  country: Japan
+- name: Bank Of Kyoto,Ltd.,The
+  swift: BOKFJPJZXXX
+  swift8: BOKFJPJZ
+  branch_name: Head Office
+  branch_address: Karasumadori Matsubara Agaru, Kyoto 600-0000
+  branch_code: XXX
+  city: Kyoto
+  country: Japan
+- name: Bank Of Nagoya, Ltd. , The
+  swift: NAGOJPJNXXX
+  swift8: NAGOJPJN
+  branch_name: Head Office
+  branch_address: 19-17, Nishiki 3-Chome, Naka-Ku Nagoya 460-0003
+  branch_code: XXX
+  city: Nagoya
+  country: Japan
+- name: Bank Of Okinawa, Ltd., The
+  swift: BOKIJPJZXXX
+  swift8: BOKIJPJZ
+  branch_name: Head Office
+  branch_address: 3-10-1 Kumoji Naha 900-0015
+  branch_code: XXX
+  city: Naha
+  country: Japan
+- name: Bank Of Saga, Ltd., The
+  swift: BKSGJPJTSAG
+  swift8: BKSGJPJT
+  branch_name: Saga 840-0813
+  branch_address: 7-20 Tojin 2-Chome Saga 840-0813
+  branch_code: SAG
+  city: Saga
+  country: Japan
+- name: Bank Of Saga, Ltd., The
+  swift: BKSGJPJTXXX
+  swift8: BKSGJPJT
+  branch_name: Head Office
+  branch_address: Ginza First Building Tokyo 104-0061
+  branch_code: XXX
+  city: Tokyo
+  country: Japan
+- name: Bank Of Taiwan, Tokyo Branch
+  swift: BKTWJPJTXXX
+  swift8: BKTWJPJT
+  branch_name: Head Office
+  branch_address: Fukokuseimei Building Tokyo 100-0011
+  branch_code: XXX
+  city: Tokyo
+  country: Japan
+- name: Bank Of The Ryukyus, Ltd.
+  swift: RYUBJPJZXXX
+  swift8: RYUBJPJZ
+  branch_name: Head Office
+  branch_address: 11-1,Kumoji 1-Chome, Okinawa Naha 900-0015
+  branch_code: XXX
+  city: Naha
+  country: Japan
+- name: Bank Of Tokyo-Mitsubishi Ufj Ltd., The
+  swift: BOTKJPJTFUK
+  swift8: BOTKJPJT
+  branch_name: Fukuoka
+  branch_address: Fukuoka
+  branch_code: FUK
+  city: Fukuoka
+  country: Japan
+- name: Bank Of Tokyo-Mitsubishi Ufj Ltd., The
+  swift: BOTKJPJTHIR
+  swift8: BOTKJPJT
+  branch_name: Hiroshima
+  branch_address: Hiroshima
+  branch_code: HIR
+  city: Hiroshima
+  country: Japan
+- name: Bank Of Tokyo-Mitsubishi Ufj Ltd., The
+  swift: BOTKJPJTSMO
+  swift8: BOTKJPJT
+  branch_name: Kitakyusyu
+  branch_address: Kitakyusyu
+  branch_code: SMO
+  city: Kitakyusyu
+  country: Japan
+- name: Bank Of Tokyo-Mitsubishi Ufj Ltd., The
+  swift: BOTKJPJTKOB
+  swift8: BOTKJPJT
+  branch_name: No branch name
+  branch_address: No branch address
+  branch_code: KOB
+  city: Kobe
+  country: Japan
+- name: Bank Of Tokyo-Mitsubishi Ufj Ltd., The
+  swift: BOTKJPJTNGY
+  swift8: BOTKJPJT
+  branch_name: Nagoya
+  branch_address: Nagoya
+  branch_code: NGY
+  city: Nagoya
+  country: Japan
+- name: Bank Of Tokyo-Mitsubishi Ufj Ltd., The
+  swift: BOTKJPJTSAP
+  swift8: BOTKJPJT
+  branch_name: Sapporo
+  branch_address: Sapporo
+  branch_code: SAP
+  city: Sapporo
+  country: Japan
+- name: Bank Of Tokyo-Mitsubishi Ufj Ltd., The
+  swift: BOTKJPJTCLS
+  swift8: BOTKJPJT
+  branch_name: Cls Control Branch-Control Desk
+  branch_address: 3-2, Nihonbashi Hongoku-Cho, Tokyo 103-0021
+  branch_code: CLS
+  city: Tokyo
+  country: Japan
+- name: Bank Of Tokyo-Mitsubishi Ufj Ltd., The
+  swift: BOTKJPJTFGN
+  swift8: BOTKJPJT
+  branch_name: Funds and Foreign Exchange Division
+  branch_address: Tokyo
+  branch_code: FGN
+  city: Tokyo
+  country: Japan
+- name: Bank Of Tokyo-Mitsubishi Ufj Ltd., The
+  swift: BOTKJPJTFND
+  swift8: BOTKJPJT
+  branch_name: Investment Fund Operations Unit
+  branch_address: Tokyo
+  branch_code: FND
+  city: Tokyo
+  country: Japan
+- name: Bank Of Tokyo-Mitsubishi Ufj Ltd., The
+  swift: BOTKJPJTSAD
+  swift8: BOTKJPJT
+  branch_name: Securities Services Division
+  branch_address: Tokyo
+  branch_code: SAD
+  city: Tokyo
+  country: Japan
+- name: Bank Of Tokyo-Mitsubishi Ufj Ltd., The
+  swift: BOTKJPJTXXX
+  swift8: BOTKJPJT
+  branch_name: Head Office
+  branch_address: 7-1 Marunouchi 2-Chome, Chiyoda-Ku Tokyo 100-0005
+  branch_code: XXX
+  city: Tokyo
+  country: Japan
+- name: Bank Of Tokyo-Mitsubishi Ufj Ltd., The
+  swift: BOTKJPJ2XXX
+  swift8: BOTKJPJ2
+  branch_name: Head Office
+  branch_address: Tokyo
+  branch_code: XXX
+  city: Tokyo
+  country: Japan
+- name: Bank Of Yokohama, Ltd., The
+  swift: HAMAJPJTXXX
+  swift8: HAMAJPJT
+  branch_name: Head Office
+  branch_address: 8-2, Nihonbashi 2-Chome, Chuo-Ku Tokyo 103-0027
+  branch_code: XXX
+  city: Tokyo
+  country: Japan
+- name: Barclays Bank Plc
+  swift: BARCJPJ2MFX
+  swift8: BARCJPJ2
+  branch_name: Money Market and Foreign Exchange
+  branch_address: Urbannet Otemachi Building Tokyo 100-0004
+  branch_code: MFX
+  city: Tokyo
+  country: Japan
+- name: Barclays Capital Japan Ltd.
+  swift: BARCJPJ9XXX
+  swift8: BARCJPJ9
+  branch_name: Head Office
+  branch_address: Roppong Hills Mori Tower Tokyo 106-6131
+  branch_code: XXX
+  city: Tokyo
+  country: Japan
+- name: Bgc Shoken Kaisha Limited
+  swift: CFILJPJTXXX
+  swift8: CFILJPJT
+  branch_name: Head Office
+  branch_address: Akasaka Biz Tower Minato-Ku 107-6338
+  branch_code: XXX
+  city: Tokyo
+  country: Japan
+- name: Blackrock Japan Co., Ltd.
+  swift: BGIAJPJTXXX
+  swift8: BGIAJPJT
+  branch_name: Head Office
+  branch_address: Ebisu Prime Square Tower Tokyo 150-8402
+  branch_code: XXX
+  city: Tokyo
+  country: Japan
+- name: Blackrock Japan Co., Ltd.
+  swift: BLKSJPJ1XXX
+  swift8: BLKSJPJ1
+  branch_name: Head Office
+  branch_address: Sapia Tower Tokyo 100-0005
+  branch_code: XXX
+  city: Tokyo
+  country: Japan
+- name: Bnp Paribas S.A. - Tokyo Branch
+  swift: BNPAJPJTXXX
+  swift8: BNPAJPJT
+  branch_name: Head Office
+  branch_address: Grantokyo North Tower Tokyo 100-6741
+  branch_code: XXX
+  city: Tokyo
+  country: Japan
+- name: Bnp Paribas Securities (Japan) Ltd.
+  swift: BNPAJPJ2XXX
+  swift8: BNPAJPJ2
+  branch_name: Head Office
+  branch_address: Grantokyo North Tower Tokyo 100-6740
+  branch_code: XXX
+  city: Tokyo
+  country: Japan
+- name: Brown Brothers Harriman Securities Investment Management (Japan) Inc.
+  swift: BBHCJPJTXXX
+  swift8: BBHCJPJT
+  branch_name: Head Office
+  branch_address: Banzia Building Tokyo 105-0014
+  branch_code: XXX
+  city: Tokyo
+  country: Japan
+- name: Central Tanshi Co., Ltd.
+  swift: CTRLJPJTXXX
+  swift8: CTRLJPJT
+  branch_name: Head Office
+  branch_address: 3-3-14, Nihonbashi Hongokucho Tokyo 103-0021
+  branch_code: XXX
+  city: Tokyo
+  country: Japan
+- name: Chang Hwa Commercial Bank Ltd., Tokyo Branch
+  swift: CCBCJPJTXXX
+  swift8: CCBCJPJT
+  branch_name: Head Office
+  branch_address: Akasaka Twin Tower, Main Tower Tokyo 107-0052
+  branch_code: XXX
+  city: Tokyo
+  country: Japan
+- name: Chiba Bank, Ltd., The
+  swift: CHBAJPJTXXX
+  swift8: CHBAJPJT
+  branch_name: Head Office
+  branch_address: 2-1,Nihombashi Muromachi 2-Chome, Tokyo 103-0022
+  branch_code: XXX
+  city: Tokyo
+  country: Japan
+- name: Chiba Kogyo Bank, Ltd., The
+  swift: CHIKJPJTXXX
+  swift8: CHIKJPJT
+  branch_name: Head Office
+  branch_address: 2-3-3, Nihonbashi Horidomecho, Tokyo 103-0012
+  branch_code: XXX
+  city: Tokyo
+  country: Japan
+- name: China Construction Bank Corporation Tokyo Branch
+  swift: PCBCJPJTXXX
+  swift8: PCBCJPJT
+  branch_name: Head Office
+  branch_address: Otemachi First Square West Tower Tokyo 100-0004
+  branch_code: XXX
+  city: Tokyo
+  country: Japan
+- name: Chinatrust Commercial Bank, Tokyo Branch
+  swift: CTCBJPJTXXX
+  swift8: CTCBJPJT
+  branch_name: Head Office
+  branch_address: Roppongi Hills Mori Tower Tokyo 106-6137
+  branch_code: XXX
+  city: Tokyo
+  country: Japan
+- name: Chugoku Bank, Ltd., The
+  swift: CHGKJPJZXXX
+  swift8: CHGKJPJZ
+  branch_name: Head Office
+  branch_address: 1-15-20, Marunouchi Okayama 700-8628
+  branch_code: XXX
+  city: Okayama
+  country: Japan
+- name: Chugoku Bank, Ltd., The
+  swift: CHGKJPJTXXX
+  swift8: CHGKJPJT
+  branch_name: Head Office
+  branch_address: 4,Nihombashi Muromachi 3-Chome, Tokyo 103-0022
+  branch_code: XXX
+  city: Tokyo
+  country: Japan
+- name: Chukyo Bank, Limited, The
+  swift: CKBKJPJNXXX
+  swift8: CKBKJPJN
+  branch_name: Head Office
+  branch_address: 33-13, Sakae 3-Chome, Naka-Ku Nagoya 460-8681
+  branch_code: XXX
+  city: Nagoya
+  country: Japan
+- name: Cibc World Markets (Japan) Inc.
+  swift: CIWMJPJTXXX
+  swift8: CIWMJPJT
+  branch_name: Head Office
+  branch_address: Hibiya Kokusai Building Tokyo 100-0011
+  branch_code: XXX
+  city: Tokyo
+  country: Japan
+- name: Citibank Japan Ltd.
+  swift: CITIJPJTXXX
+  swift8: CITIJPJT
+  branch_name: Head Office
+  branch_address: Citigroup Center Tokyo 140-8639
+  branch_code: XXX
+  city: Tokyo
+  country: Japan
+- name: Citigroup Global Markets Japan Inc.
+  swift: NSBLJPJTXXX
+  swift8: NSBLJPJT
+  branch_name: Head Office
+  branch_address: Shin-Marunouchi Building Tokyo 100-6520
+  branch_code: XXX
+  city: Tokyo
+  country: Japan
+- name: Commerzbank Ag Tokyo
+  swift: COBAJPJXTOM
+  swift8: COBAJPJX
+  branch_name: Off-Shore Business
+  branch_address: Tokyo
+  branch_code: TOM
+  city: Tokyo
+  country: Japan
+- name: Commerzbank Ag Tokyo
+  swift: COBAJPJXXXX
+  swift8: COBAJPJX
+  branch_name: Head Office
+  branch_address: Atago Green Hills Mori Tower Tokyo 105-6240
+  branch_code: XXX
+  city: Tokyo
+  country: Japan
+- name: Commonwealth Bank Of Australia
+  swift: CTBAJPJTXXX
+  swift8: CTBAJPJT
+  branch_name: Head Office
+  branch_address: Toranomon Waiko Building Tokyo 105-0001
+  branch_code: XXX
+  city: Tokyo
+  country: Japan
+- name: Cosmo Securities Co. Ltd.
+  swift: COSSJPJTXXX
+  swift8: COSSJPJT
+  branch_name: Head Office
+  branch_address: 1-13-4, Uchikanda, Chiyoda-Ku Tokyo 101-8742
+  branch_code: XXX
+  city: Tokyo
+  country: Japan
+- name: Credit Agricole Cib Tokyo Branch
+  swift: BSUIJPJTCOM
+  swift8: BSUIJPJT
+  branch_name: Commodity
+  branch_address: Tokyo
+  branch_code: COM
+  city: Tokyo
+  country: Japan
+- name: Credit Agricole Cib Tokyo Branch
+  swift: BSUIJPJTXXX
+  swift8: BSUIJPJT
+  branch_name: Head Office
+  branch_address: 1-9-2 Higashi Shimbashi, Minato-Ku Tokyo 105 0021
+  branch_code: XXX
+  city: Tokyo
+  country: Japan
+- name: Credit Agricole Securities Asia B.V.
+  swift: CRLYJPJ9XXX
+  swift8: CRLYJPJ9
+  branch_name: Head Office
+  branch_address: Shiodome Sumitomo Building Tokyo 105 0021
+  branch_code: XXX
+  city: Tokyo
+  country: Japan
+- name: Credit Suisse Ag, Tokyo Branch
+  swift: CRESJPJTPBS
+  swift8: CRESJPJT
+  branch_name: Tokyo Branch
+  branch_address: Tokyo
+  branch_code: PBS
+  city: Tokyo
+  country: Japan
+- name: Credit Suisse Ag, Tokyo Branch
+  swift: CRESJPJTXXX
+  swift8: CRESJPJT
+  branch_name: Tokyo Branch
+  branch_address: Izumi Garden Tower Tokyo 106-6024
+  branch_code: XXX
+  city: Tokyo
+  country: Japan
+- name: Credit Suisse Securities (Japan) Ltd.
+  swift: CSFBJPJXEQT
+  swift8: CSFBJPJX
+  branch_name: Equity Settlements
+  branch_address: Tokyo
+  branch_code: EQT
+  city: Tokyo
+  country: Japan
+- name: Credit Suisse Securities (Japan) Ltd.
+  swift: CSFBJPJXPBS
+  swift8: CSFBJPJX
+  branch_name: Tokyo Branch
+  branch_address: Tokyo
+  branch_code: PBS
+  city: Tokyo
+  country: Japan
+- name: Credit Suisse Securities (Japan) Ltd.
+  swift: CSFBJPJXXXX
+  swift8: CSFBJPJX
+  branch_name: Head Office
+  branch_address: Izumi Garden Tower Tokyo 106-6024
+  branch_code: XXX
+  city: Tokyo
+  country: Japan
+- name: Daisan Bank, Ltd., The
+  swift: DSBKJPJTXXX
+  swift8: DSBKJPJT
+  branch_name: Head Office
+  branch_address: 510 Kyomachi Matsusaka 515-8530
+  branch_code: XXX
+  city: Matsusaka
+  country: Japan
+- name: Daishi Bank Ltd.,The
+  swift: DAISJPJTXXX
+  swift8: DAISJPJT
+  branch_name: Head Office
+  branch_address: 6-5, Nihombashi Muromachi 1-Chome Tokyo 103-0022
+  branch_code: XXX
+  city: Tokyo
+  country: Japan
+- name: Daiwa Sb Investments Ltd
+  swift: DSBIJPJTXXX
+  swift8: DSBIJPJT
+  branch_name: Head Office
+  branch_address: Sumitomo Nihonbashi Building Tokyo 103-0027
+  branch_code: XXX
+  city: Tokyo
+  country: Japan
+- name: Daiwa Securities Capital Markets Co.Ltd.
+  swift: DWSCJPJTJSS
+  swift8: DWSCJPJT
+  branch_name: Japanese Securities Settlements
+  branch_address: 2-6-4, Otemachi, Chiyoda-Ku Tokyo 100-0004
+  branch_code: JSS
+  city: Tokyo
+  country: Japan
+- name: Daiwa Securities Capital Markets Co.Ltd.
+  swift: DWSCJPJTXXX
+  swift8: DWSCJPJT
+  branch_name: Head Office
+  branch_address: 9-1, Marunouchi 1-Chome, Chiyodaku Tokyo 100-6752
+  branch_code: XXX
+  city: Tokyo
+  country: Japan
+- name: Dbs Bank Ltd, Tokyo Branch
+  swift: DBSSJPJTXXX
+  swift8: DBSSJPJT
+  branch_name: Head Office
+  branch_address: Yurakucho Denki Building Tokyo 100-0006
+  branch_code: XXX
+  city: Tokyo
+  country: Japan
+- name: Depfa Bank Plc
+  swift: DPFAJPJTXXX
+  swift8: DPFAJPJT
+  branch_name: Tokyo Branch
+  branch_address: Otemachi 1st Square West Tower Tokyo 100-0004
+  branch_code: XXX
+  city: Tokyo
+  country: Japan
+- name: Deutsche Asset Management(Japan)Ltd
+  swift: DEAMJPJTXXX
+  swift8: DEAMJPJT
+  branch_name: Head Office
+  branch_address: Sanno Park Tower Tokyo 100-6173
+  branch_code: XXX
+  city: Tokyo
+  country: Japan
+- name: Deutsche Bank Ag
+  swift: DEUTJPJTXXX
+  swift8: DEUTJPJT
+  branch_name: Tokyo Branch
+  branch_address: 2-11-1, Nagatacho, Chiyoda-Ku Tokyo 100-6170
+  branch_code: XXX
+  city: Tokyo
+  country: Japan
+- name: Deutsche Securities Inc.
+  swift: DEUTJPJ7XXX
+  swift8: DEUTJPJ7
+  branch_name: Head Office
+  branch_address: Sanno Park Tower Tokyo 100-6171
+  branch_code: XXX
+  city: Tokyo
+  country: Japan
+- name: Deutsche Securities Inc.
+  swift: DEUTJPJ9DOM
+  swift8: DEUTJPJ9
+  branch_name: Japanese Equity Settlement Department
+  branch_address: Tokyo
+  branch_code: DOM
+  city: Tokyo
+  country: Japan
+- name: Deutsche Securities Inc.
+  swift: DEUTJPJ9EQT
+  swift8: DEUTJPJ9
+  branch_name: Equity Division
+  branch_address: Tokyo
+  branch_code: EQT
+  city: Tokyo
+  country: Japan
+- name: Deutsche Securities Inc.
+  swift: DEUTJPJ9FX1
+  swift8: DEUTJPJ9
+  branch_name: Forex Division
+  branch_address: Tokyo
+  branch_code: FX1
+  city: Tokyo
+  country: Japan
+- name: Deutsche Securities Inc.
+  swift: DEUTJPJ9XXX
+  swift8: DEUTJPJ9
+  branch_name: Head Office
+  branch_address: Sanno Park Tower Tokyo 100-6171
+  branch_code: XXX
+  city: Tokyo
+  country: Japan
+- name: Ehime Bank, Ltd., The
+  swift: HIMEJPJTXXX
+  swift8: HIMEJPJT
+  branch_name: Head Office
+  branch_address: International Dept. Matsuyama 790-8580
+  branch_code: XXX
+  city: Matsuyama
+  country: Japan
+- name: Eighteenth Bank,Limited,The
+  swift: EITNJPJTXXX
+  swift8: EITNJPJT
+  branch_name: Head Office
+  branch_address: 1-11 Doza-Machi, Nagasaki-City Nagasaki 850-0841
+  branch_code: XXX
+  city: Nagasaki
+  country: Japan
+- name: Fukui Bank, Ltd., The
+  swift: FKUIJPJTXXX
+  swift8: FKUIJPJT
+  branch_name: Head Office
+  branch_address: The Fukui Bank Head Office Fukui 9108660
+  branch_code: XXX
+  city: Fukui
+  country: Japan
+- name: Gifu Shinkin Bank, The
+  swift: GFSBJPJZXXX
+  swift8: GFSBJPJZ
+  branch_name: Head Office
+  branch_address: 6-11,Kandamachi Gifu 500-8833
+  branch_code: XXX
+  city: Gifu
+  country: Japan
+- name: Goldman Sachs Asset Management Japan Ltd.
+  swift: GSAMJPJTXXX
+  swift8: GSAMJPJT
+  branch_name: Head Office
+  branch_address: Roppongi Hills Mori Tower Tokyo 106-6144
+  branch_code: XXX
+  city: Tokyo
+  country: Japan
+- name: Goldman Sachs Japan Co., Ltd.
+  swift: GOLDJPJXXXX
+  swift8: GOLDJPJX
+  branch_name: Head Office
+  branch_address: 10-1 Roppongi 6-Chome, Minato-Ku Tokyo 106-6147
+  branch_code: XXX
+  city: Tokyo
+  country: Japan
+- name: Gunma Bank, Ltd., The
+  swift: GUMAJPJTXXX
+  swift8: GUMAJPJT
+  branch_name: Head Office
+  branch_address: 194 Motosojamachi Maebashi 371 8611
+  branch_code: XXX
+  city: Maebashi
+  country: Japan
+- name: Hachijuni Bank, Ltd., The
+  swift: HABKJPJTXXX
+  swift8: HABKJPJT
+  branch_name: Head Office
+  branch_address: 1-22,Nihonbashi Muromachi Tokyo 103-0022
+  branch_code: XXX
+  city: Tokyo
+  country: Japan
+- name: Hana Bank Tokyo Branch
+  swift: HNBNJPJTXXX
+  swift8: HNBNJPJT
+  branch_name: Head Office
+  branch_address: New Nisseki Building Tokyo 100-0005
+  branch_code: XXX
+  city: Tokyo
+  country: Japan
+- name: Higashi-Nippon Bank, Limited, The
+  swift: HNPBJPJTXXX
+  swift8: HNPBJPJT
+  branch_name: Head Office
+  branch_address: 11-2, Nihonbashi 3-Chome, Chuo-Ku Tokyo 103-0027
+  branch_code: XXX
+  city: Tokyo
+  country: Japan
+- name: Hiroshima Bank, Ltd., The
+  swift: HIROJPJTXXX
+  swift8: HIROJPJT
+  branch_name: Head Office
+  branch_address: 13-1, Nihonbashi 1-Chome, Chuo-Ku Tokyo 103-0027
+  branch_code: XXX
+  city: Tokyo
+  country: Japan
+- name: Hokkaido Bank, Ltd., The
+  swift: HKDBJPJTXXX
+  swift8: HKDBJPJT
+  branch_name: Head Office
+  branch_address: 1 Nishi 4-Chome Odori, Sapporo 060-8676
+  branch_code: XXX
+  city: Sapporo
+  country: Japan
+- name: Hokkoku Bank, Ltd., The
+  swift: HKOKJPJTXXX
+  swift8: HKOKJPJT
+  branch_name: Head Office
+  branch_address: 1, Shimotsutsumi-Cho, Kanazawa Kanazawa 103-0027
+  branch_code: XXX
+  city: Kanazawa
+  country: Japan
+- name: Hokuetsu Bank, Ltd., The
+  swift: HETSJPJTXXX
+  swift8: HETSJPJT
+  branch_name: Head Office
+  branch_address: 2-2-14 Otedori Nagaoka 940-8650
+  branch_code: XXX
+  city: Nagaoka
+  country: Japan
+- name: Hokuriku Bank, Ltd.,The
+  swift: RIKBJPJTXXX
+  swift8: RIKBJPJT
+  branch_name: Head Office
+  branch_address: 3-2-10,Nihonbashi Muromachi, Tokyo 103-0022
+  branch_code: XXX
+  city: Tokyo
+  country: Japan
+- name: Hokuto Bank, Ltd., The
+  swift: HOKBJPJTXXX
+  swift8: HOKBJPJT
+  branch_name: Head Office
+  branch_address: 1-41 Nakadori 3-Chome Akita 010-0001
+  branch_code: XXX
+  city: Akita
+  country: Japan
+- name: Hongkong And Shanghai Banking Corporation Limited, The
+  swift: HSBCJPJTCLS
+  swift8: HSBCJPJT
+  branch_name: Cls Division
+  branch_address: Tokyo
+  branch_code: CLS
+  city: Tokyo
+  country: Japan
+- name: Hongkong And Shanghai Banking Corporation Limited, The
+  swift: HSBCJPJTTRS
+  swift8: HSBCJPJT
+  branch_name: Treasury Department
+  branch_address: Tokyo
+  branch_code: TRS
+  city: Tokyo
+  country: Japan
+- name: Hongkong And Shanghai Banking Corporation Limited, The
+  swift: HSBCJPJTXXX
+  swift8: HSBCJPJT
+  branch_name: Head Office
+  branch_address: Hsbc Building Tokyo 103-0027
+  branch_code: XXX
+  city: Tokyo
+  country: Japan
+- name: Hyakugo Bank,Ltd.,The
+  swift: HYKGJPJTXXX
+  swift8: HYKGJPJT
+  branch_name: Head Office
+  branch_address: 2-6, Nihombashi 1-Chome, Chuo-Ku Tokyo 103-0027
+  branch_code: XXX
+  city: Tokyo
+  country: Japan
+- name: Hyakugo Bank,Ltd.,The
+  swift: HYKGJPJTTSU
+  swift8: HYKGJPJT
+  branch_name: Tsu
+  branch_address: Tsu
+  branch_code: TSU
+  city: Tsu
+  country: Japan
+- name: Hyakujushi Bank, Ltd., The
+  swift: HYAKJPJTXXX
+  swift8: HYAKJPJT
+  branch_name: Head Office
+  branch_address: 8-2 Nihonbashi 3-Chome, Chuo-Ku Tokyo 103-0027
+  branch_code: XXX
+  city: Tokyo
+  country: Japan
+- name: Industrial And Commercial Bank Of China, Tokyo Branch
+  swift: ICBKJPJTXXX
+  swift8: ICBKJPJT
+  branch_name: Head Office
+  branch_address: 1-2-1 Marunouchi, Chiyoda-Ku Tokyo 100-0005
+  branch_code: XXX
+  city: Tokyo
+  country: Japan
+- name: Industrial Bank Of Korea, Tokyo Branch
+  swift: IBKOJPJTXXX
+  swift8: IBKOJPJT
+  branch_name: Head Office
+  branch_address: Akasaka Twin Tower Tokyo 107-0052
+  branch_code: XXX
+  city: Tokyo
+  country: Japan
+- name: Ing Bank N.V.
+  swift: INGBJPJTXXX
+  swift8: INGBJPJT
+  branch_name: Tokyo Branch
+  branch_address: Marunouchi Trust Tower Main Tokyo 100-0005
+  branch_code: XXX
+  city: Tokyo
+  country: Japan
+- name: Intesa Sanpaolo Spa Tokyo
+  swift: BCITJPJTXXX
+  swift8: BCITJPJT
+  branch_name: Head Office
+  branch_address: Hibiya Marine Building Tokyo 100-0006
+  branch_code: XXX
+  city: Tokyo
+  country: Japan
+- name: Itau Unibanco S.A., Tokyo Branch
+  swift: ITAUJPJTXXX
+  swift8: ITAUJPJT
+  branch_name: Head Office
+  branch_address: Marunouchi Center Building Tokyo 100-0005
+  branch_code: XXX
+  city: Tokyo
+  country: Japan
+- name: Iyo Bank, Ltd., The
+  swift: IYOBJPJTXXX
+  swift8: IYOBJPJT
+  branch_name: Head Office
+  branch_address: 14-2 Nihombashi Hakozaki-Cho Tokyo 103-0015
+  branch_code: XXX
+  city: Tokyo
+  country: Japan
+- name: Japan Post Bank, Co., Ltd
+  swift: JPPSJPJKXXX
+  swift8: JPPSJPJK
+  branch_name: Head Office
+  branch_address: 3-2, Kasumigaseki 1chome Tokyo 100-8798
+  branch_code: XXX
+  city: Tokyo
+  country: Japan
+- name: Japan Post Bank, Co., Ltd
+  swift: JPPSJPJ1XXX
+  swift8: JPPSJPJ1
+  branch_name: Head Office
+  branch_address: 3-2 Kasumigaseki 1-Chome Tokyo 100 8798
+  branch_code: XXX
+  city: Tokyo
+  country: Japan
+- name: Japan Securities Depository Center, Inc
+  swift: JJSDJPJTXXX
+  swift8: JJSDJPJT
+  branch_name: Head Office
+  branch_address: Daini Shokden Kaikan Building Tokyo 103 0025
+  branch_code: XXX
+  city: Tokyo
+  country: Japan
+- name: Japan Trustee Services Bank, Ltd.
+  swift: JTSBJPJTAGE
+  swift8: JTSBJPJT
+  branch_name: Agent Account
+  branch_address: Harumi Island Triton Square Tokyo 104 6107
+  branch_code: AGE
+  city: Tokyo
+  country: Japan
+- name: Japan Trustee Services Bank, Ltd.
+  swift: JTSBJPJTXXX
+  swift8: JTSBJPJT
+  branch_name: Head Office
+  branch_address: Harumi Triton Square Tokyo 104-6107
+  branch_code: XXX
+  city: Tokyo
+  country: Japan
+- name: Johnan Shinkin Bank The
+  swift: JSBKJPJTXXX
+  swift8: JSBKJPJT
+  branch_name: Head Office
+  branch_address: 2-3,Nishi-Gotanda 7-Chome, Tokyo 141-0031
+  branch_code: XXX
+  city: Tokyo
+  country: Japan
+- name: Johoku Shinkin Bank, The
+  swift: OJISJPJTXXX
+  swift8: OJISJPJT
+  branch_name: Head Office
+  branch_address: 1-7-10 Toshima Kita-Ku Tokyo 114-8521
+  branch_code: XXX
+  city: Tokyo
+  country: Japan
+- name: Joyo Bank, Ltd., The
+  swift: JOYOJPJTXXX
+  swift8: JOYOJPJT
+  branch_name: Head Office
+  branch_address: 3-3, Shinhara, 1-Chome Tokyo 310-0045
+  branch_code: XXX
+  city: Tokyo
+  country: Japan
+- name: Jp Morgan Chase Bank, N.A
+  swift: CHASJPJTENQ
+  swift8: CHASJPJT
+  branch_name: Telex and S W I F T Message Enquiries
+  branch_address: Tokyo
+  branch_code: ENQ
+  city: Tokyo
+  country: Japan
+- name: Jp Morgan Chase Bank, N.A
+  swift: CHASJPJTKEY
+  swift8: CHASJPJT
+  branch_name: Test Key and Bke Administration
+  branch_address: Tokyo
+  branch_code: KEY
+  city: Tokyo
+  country: Japan
+- name: Jp Morgan Chase Bank, N.A
+  swift: CHASJPJTWSS
+  swift8: CHASJPJT
+  branch_name: Non-Cash Related, Special Purpose
+  branch_address: Tokyo
+  branch_code: WSS
+  city: Tokyo
+  country: Japan
+- name: Jp Morgan Chase Bank, N.A
+  swift: CHASJPJTXXX
+  swift8: CHASJPJT
+  branch_name: Tokyo Branch
+  branch_address: Tokyo Building Tokyo 100-6432
+  branch_code: XXX
+  city: Tokyo
+  country: Japan
+- name: Jpmorgan Asset Management (Japan) Ltd.
+  swift: CHASJPJZKEY
+  swift8: CHASJPJZ
+  branch_name: Test Key and Bke Administration
+  branch_address: Tokyo
+  branch_code: KEY
+  city: Tokyo
+  country: Japan
+- name: Jpmorgan Asset Management (Japan) Ltd.
+  swift: CHASJPJZXXX
+  swift8: CHASJPJZ
+  branch_name: Head Office
+  branch_address: Tokyo Building Tokyo 100-6432
+  branch_code: XXX
+  city: Tokyo
+  country: Japan
+- name: Jpmorgan Chase Bank, N.A.
+  swift: CHASJPJTTSD
+  swift8: CHASJPJT
+  branch_name: Trade Service Department
+  branch_address: No branch address
+  branch_code: TSD
+  city: Tokyo
+  country: Japan
+- name: Jpmorgan Securities Japan Co., Ltd.
+  swift: CHASJPJ9CE1
+  swift8: CHASJPJ9
+  branch_name: Cash Equity Middle Office
+  branch_address: Tokyo
+  branch_code: CE1
+  city: Tokyo
+  country: Japan
+- name: Jpmorgan Securities Japan Co., Ltd.
+  swift: CHASJPJ9KEY
+  swift8: CHASJPJ9
+  branch_name: Test Key and Bke Administration
+  branch_address: Tokyo
+  branch_code: KEY
+  city: Tokyo
+  country: Japan
+- name: Jpmorgan Securities Japan Co., Ltd.
+  swift: CHASJPJ9XXX
+  swift8: CHASJPJ9
+  branch_name: Head Office
+  branch_address: Tokyo Building Tokyo 100-6432
+  branch_code: XXX
+  city: Tokyo
+  country: Japan
+- name: Jpmorgan Securities Japan Co., Ltd.
+  swift: CHASJPJ9EQT
+  swift8: CHASJPJ9
+  branch_name: Equity Operation
+  branch_address: Tokyo
+  branch_code: EQT
+  city: Tokyo
+  country: Japan
+- name: Juroku Bank, Ltd., The
+  swift: JUROJPJTXXX
+  swift8: JUROJPJT
+  branch_name: Head Office
+  branch_address: 8-26 Kandamachi Gifu 500-8516
+  branch_code: XXX
+  city: Gifu
+  country: Japan
+- name: Kagawa Bank Ltd., The
+  swift: KGWBJPJZXXX
+  swift8: KGWBJPJZ
+  branch_name: Head Office
+  branch_address: 6-1 Kamei-Cho Takamatsu-City Takamatsu 760-0050
+  branch_code: XXX
+  city: Takamatsu
+  country: Japan
+- name: Kagoshima Bank, Ltd., The
+  swift: KAGOJPJTXXX
+  swift8: KAGOJPJT
+  branch_name: Head Office
+  branch_address: 6-6 Kinsei-Cho Kagoshima 892-0828
+  branch_code: XXX
+  city: Kagoshima
+  country: Japan
+- name: Kansai Urban Banking Corporation
+  swift: KSBJJPJSXXX
+  swift8: KSBJJPJS
+  branch_name: Head Office
+  branch_address: 2-4 Nishi-Shinsaibashi 1-Chome, Osaka 542-8654
+  branch_code: XXX
+  city: Osaka
+  country: Japan
+- name: Keiyo Bank, Ltd., The
+  swift: KEIBJPJTXXX
+  swift8: KEIBJPJT
+  branch_name: Head Office
+  branch_address: 11-11, Fujimi 1-Chome, Chuo-Ku Chiba 260-0015
+  branch_code: XXX
+  city: Chiba
+  country: Japan
+- name: Kinki Osaka Bank, Ltd., The
+  swift: OSABJPJSXXX
+  swift8: OSABJPJS
+  branch_name: Head Office
+  branch_address: 4-27, Shiromi, 1-Chome, Chuo-Ku Osaka 540-8560
+  branch_code: XXX
+  city: Osaka
+  country: Japan
+- name: Kirayaka Bank, Ltd.
+  swift: SHIAJPJTXXX
+  swift8: SHIAJPJT
+  branch_name: Head Office
+  branch_address: 2-3, Hatagomachi 3-Chome Yamagata 990-8611
+  branch_code: XXX
+  city: Yamagata
+  country: Japan
+- name: Kita-Nippon Bank, Ltd., The
+  swift: KNPBJPJTXXX
+  swift8: KNPBJPJT
+  branch_name: Head Office
+  branch_address: 6-7 Chuodori 1-Chome Morioka 020-8666
+  branch_code: XXX
+  city: Morioka
+  country: Japan
+- name: Kitakyushu Bank, Ltd., The(Formerly A Part Of The Yamaguchi Bank,Ltd.)
+  swift: KITQJPJZXXX
+  swift8: KITQJPJZ
+  branch_name: Head Office
+  branch_address: 1-10, 1-Chome, Sakai-Machi Kitakyusyu 802-6591
+  branch_code: XXX
+  city: Kitakyusyu
+  country: Japan
+- name: Kiyo Bank, Ltd, The
+  swift: KIYOJPJTXXX
+  swift8: KIYOJPJT
+  branch_name: Head Office
+  branch_address: 35,Honmachi 1-Chome Wakayama 640-8656
+  branch_code: XXX
+  city: Wakayama
+  country: Japan
+- name: Kokusai Asset Management Co., Ltd
+  swift: KAMGJPJTFAD
+  swift8: KAMGJPJT
+  branch_name: Fund Accounting Dept
+  branch_address: Tokyo
+  branch_code: FAD
+  city: Tokyo
+  country: Japan
+- name: Kokusai Asset Management Co., Ltd
+  swift: KAMGJPJTXXX
+  swift8: KAMGJPJT
+  branch_name: Head Office
+  branch_address: Kokusai Building Tokyo 100-0005
+  branch_code: XXX
+  city: Tokyo
+  country: Japan
+- name: Kookmin Bank
+  swift: CZNBJPJTOSK
+  swift8: CZNBJPJT
+  branch_name: Osaka Branch
+  branch_address: Keihanshin Midosuji Bldg 6f Osaka 541-0045
+  branch_code: OSK
+  city: Osaka
+  country: Japan
+- name: Kookmin Bank Tokyo Branch
+  swift: CZNBJPJTXXX
+  swift8: CZNBJPJT
+  branch_name: Head Office
+  branch_address: Yurakucho Denki Building Tokyo 100-0006
+  branch_code: XXX
+  city: Tokyo
+  country: Japan
+- name: Korea Development Bank,The,Tokyo Branch
+  swift: KODBJPJTXXX
+  swift8: KODBJPJT
+  branch_name: Head Office
+  branch_address: Fuji Building Tokyo 100-0005
+  branch_code: XXX
+  city: Tokyo
+  country: Japan
+- name: Korea Exchange Bank
+  swift: KOEXJPJTOSA
+  swift8: KOEXJPJT
+  branch_name: Osaka Branch
+  branch_address: Yodoyabashi Mitsui Bldg Osaka 541-0042
+  branch_code: OSA
+  city: Osaka
+  country: Japan
+- name: Korea Exchange Bank
+  swift: KOEXJPJTXXX
+  swift8: KOEXJPJT
+  branch_name: Head Office
+  branch_address: The Shin Kokusai Building Tokyo 100-0005
+  branch_code: XXX
+  city: Tokyo
+  country: Japan
+- name: Kumamoto Family Bank, Ltd., The
+  swift: KUMAJPJZXXX
+  swift8: KUMAJPJZ
+  branch_name: Head Office
+  branch_address: 29-20 Suizenji 6-Chome Chuo-Ku Kumamoto 862-8601
+  branch_code: XXX
+  city: Kumamoto
+  country: Japan
+- name: Kyoto Chuo Shinkin Bank, The
+  swift: KCHUJPJYXXX
+  swift8: KCHUJPJY
+  branch_name: Head Office
+  branch_address: Nishi-Iru Shijo-Karasuma, Kyoto 600-8009
+  branch_code: XXX
+  city: Kyoto
+  country: Japan
+- name: Kyoto Shinkin Bank,The
+  swift: KYSBJPJZXXX
+  swift8: KYSBJPJZ
+  branch_name: Head Office
+  branch_address: Shijo Yanaginobanba, Shimogyo-Ku Kyoto 600-0000
+  branch_code: XXX
+  city: Kyoto
+  country: Japan
+- name: Lombard Odier Darier Hentsch Trust (Japan) Ltd
+  swift: LOCYJPJTNDP
+  swift8: LOCYJPJT
+  branch_name: Ndp Dept
+  branch_address: Tokyo
+  branch_code: NDP
+  city: Tokyo
+  country: Japan
+- name: Lombard Odier Darier Hentsch Trust (Japan) Ltd
+  swift: LOCYJPJTXXX
+  swift8: LOCYJPJT
+  branch_name: Head Office
+  branch_address: Izumi Garden Tower Tokyo 106-6041
+  branch_code: XXX
+  city: Tokyo
+  country: Japan
+- name: Master Trust Bank Of Japan Ltd, The
+  swift: MTBJJPJTAGT
+  swift8: MTBJJPJT
+  branch_name: Investor Services Division
+  branch_address: 11-3, Hamamatsucho 2-Chome Tokyo 105-0013
+  branch_code: AGT
+  city: Tokyo
+  country: Japan
+- name: Master Trust Bank Of Japan Ltd, The
+  swift: MTBJJPJTXXX
+  swift8: MTBJJPJT
+  branch_name: Head Office
+  branch_address: 11-3, Hamamatsucho 2-Chome Tokyo 105-8579
+  branch_code: XXX
+  city: Tokyo
+  country: Japan
+- name: Mega International Commercial Bank Co., Ltd.,
+  swift: ICBCJPJTOSA
+  swift8: ICBCJPJT
+  branch_name: Osaka
+  branch_address: Osaka
+  branch_code: OSA
+  city: Osaka
+  country: Japan
+- name: Mellon Global Investments Japan Co Ltd
+  swift: MELNJPJTXXX
+  swift8: MELNJPJT
+  branch_name: Head Office
+  branch_address: Fuji Bldg Tokyo
+  branch_code: XXX
+  city: Tokyo
+  country: Japan
+- name: Merrill Lynch Japan Securities Co. Ltd
+  swift: MLCOJPJXXXX
+  swift8: MLCOJPJX
+  branch_name: Head Office
+  branch_address: Nihonbashi 1-Chome Building Tokyo 103-8230
+  branch_code: XXX
+  city: Tokyo
+  country: Japan
+- name: Merrill Lynch Japan Securities Co. Ltd
+  swift: MLCOJPJDXXX
+  swift8: MLCOJPJD
+  branch_name: Head Office
+  branch_address: Nihonbashi 1-Chome Building Tokyo 103-8230
+  branch_code: XXX
+  city: Tokyo
+  country: Japan
+- name: Merrill Lynch Japan Securities Co. Ltd
+  swift: MLCOJPJTJES
+  swift8: MLCOJPJT
+  branch_name: Equity Settlement
+  branch_address: Tokyo
+  branch_code: JES
+  city: Tokyo
+  country: Japan
+- name: Merrill Lynch Japan Securities Co. Ltd
+  swift: MLCOJPJTJGB
+  swift8: MLCOJPJT
+  branch_name: Bond Settlement
+  branch_address: Tokyo
+  branch_code: JGB
+  city: Tokyo
+  country: Japan
+- name: Merrill Lynch Japan Securities Co. Ltd
+  swift: MLCOJPJTSDI
+  swift8: MLCOJPJT
+  branch_name: Strategic Development Initiative
+  branch_address: Tokyo
+  branch_code: SDI
+  city: Tokyo
+  country: Japan
+- name: Merrill Lynch Japan Securities Co. Ltd
+  swift: MLCOJPJTTSY
+  swift8: MLCOJPJT
+  branch_name: Treasury Operations
+  branch_address: Tokyo
+  branch_code: TSY
+  city: Tokyo
+  country: Japan
+- name: Merrill Lynch Japan Securities Co. Ltd
+  swift: MLCOJPJTXXX
+  swift8: MLCOJPJT
+  branch_name: Head Office
+  branch_address: Nihonbashi 1-Chome Building Tokyo 103-8230
+  branch_code: XXX
+  city: Tokyo
+  country: Japan
+- name: Metropolitan Bank And Trust Company, Tokyo Branch
+  swift: MBTCJPJTXXX
+  swift8: MBTCJPJT
+  branch_name: Head Office
+  branch_address: Taiheiyo Cement Bldg Tokyo 101-0065
+  branch_code: XXX
+  city: Tokyo
+  country: Japan
+- name: Michinoku Bank, Ltd., The
+  swift: MCHIJPJTXXX
+  swift8: MCHIJPJT
+  branch_name: Head Office
+  branch_address: 1-3-1 Katta Aomori 030-8622
+  branch_code: XXX
+  city: Aomori
+  country: Japan
+- name: Mie Bank Ltd., The
+  swift: MIEBJPJTXXX
+  swift8: MIEBJPJT
+  branch_name: Head Office
+  branch_address: 1-1 Kyobashi 1-Chome Chuo-Ku Tokyo 104-0031
+  branch_code: XXX
+  city: Tokyo
+  country: Japan
+- name: Minato Bank,Ltd,The (Formerly The Hanshin Bank Ltd)
+  swift: HSINJPJKXXX
+  swift8: HSINJPJK
+  branch_name: Head Office
+  branch_address: 1-1, Sannomiya-Cho 2-Chome, Chuo-Ku Kobe 651-0021
+  branch_code: XXX
+  city: Kobe
+  country: Japan
+- name: Mitsubishi Ufj Asset Management Co.,Ltd.
+  swift: MUFJJPJTXXX
+  swift8: MUFJJPJT
+  branch_name: Head Office
+  branch_address: 1-4-5 Marunouchi Chiyoda-Ku 100-8212
+  branch_code: XXX
+  city: Chiyoda-Ku
+  country: Japan
+- name: Mitsubishi Ufj Merrill Lynch Pb Securities Co., Ltd
+  swift: MUMLJPJTXXX
+  swift8: MUMLJPJT
+  branch_name: Head Office
+  branch_address: Nihonbashi 1-Chome Building Tokyo 103-8230
+  branch_code: XXX
+  city: Tokyo
+  country: Japan
+- name: Mitsubishi Ufj Morgan Stanley Securities Co., Ltd.
+  swift: KKSSJPJTXXX
+  swift8: KKSSJPJT
+  branch_name: Head Office
+  branch_address: Marunouchi Building Tokyo 100-0005
+  branch_code: XXX
+  city: Tokyo
+  country: Japan
+- name: Mitsubishi Ufj Trust And Banking Corporation
+  swift: MTBCJPJTXXX
+  swift8: MTBCJPJT
+  branch_name: Head Office
+  branch_address: 4-5, Marunouchi 1 Chome, Tokyo 100-8212
+  branch_code: XXX
+  city: Tokyo
+  country: Japan
+- name: Miyazaki Bank, Ltd., The
+  swift: MIYAJPJTXXX
+  swift8: MIYAJPJT
+  branch_name: Head Office
+  branch_address: 4-3-5 Tachibanadori Higashi Miyazaki 880-0805
+  branch_code: XXX
+  city: Miyazaki
+  country: Japan
+- name: Mizuho Corporate Bank Ltd
+  swift: MHCBJPJ5XXX
+  swift8: MHCBJPJ5
+  branch_name: Head Office
+  branch_address: Marunouchi 1-3-3, Chiyoda-Ku Tokyo
+  branch_code: XXX
+  city: Tokyo
+  country: Japan
+- name: Mizuho Corporate Bank Ltd
+  swift: MHCBJPJTCLS
+  swift8: MHCBJPJT
+  branch_name: Cls Control Branch
+  branch_address: Tokyo
+  branch_code: CLS
+  city: Tokyo
+  country: Japan
+- name: Mizuho Corporate Bank Ltd
+  swift: MHCBJPJTXXX
+  swift8: MHCBJPJT
+  branch_name: Head Office
+  branch_address: 1-3-3 Marunouchi, Chiyoda-Ku Tokyo 100-8210
+  branch_code: XXX
+  city: Tokyo
+  country: Japan
+- name: Mizuho Corporate Bank, Ltd.(Custody)
+  swift: MHCBJPJ2XXX
+  swift8: MHCBJPJ2
+  branch_name: Head Office
+  branch_address: 4-16-13 Tsukishima, Chuo-Ku Tokyo 104-0052
+  branch_code: XXX
+  city: Tokyo
+  country: Japan
+- name: Mizuho Securities Co. Ltd.
+  swift: MHSCJPJTXXX
+  swift8: MHSCJPJT
+  branch_name: Head Office
+  branch_address: Otemachi First Square Tokyo 100-0004
+  branch_code: XXX
+  city: Tokyo
+  country: Japan
+- name: Mizuho Securities Co. Ltd.
+  swift: MHSCJPJ2XXX
+  swift8: MHSCJPJ2
+  branch_name: Head Office
+  branch_address: 1-5-1, Otemachi, Chiyoda-Ku Tokyo
+  branch_code: XXX
+  city: Tokyo
+  country: Japan
+- name: Mizuho Trust And Banking Co., Ltd.
+  swift: YTBCJPJTXXX
+  swift8: YTBCJPJT
+  branch_name: Head Office
+  branch_address: 2-1,Yaesu 1-Chome Chuo-Ku, Tokyo 103-8670
+  branch_code: XXX
+  city: Tokyo
+  country: Japan
+- name: Momiji Bank, Ltd.
+  swift: HRSBJPJTXXX
+  swift8: HRSBJPJT
+  branch_name: Head Office
+  branch_address: 1-24, Ebisu-Cho, Naka-Ku Hiroshima 730-0021
+  branch_code: XXX
+  city: Hiroshima
+  country: Japan
+- name: Morgan Stanley Mufg Securities Co., Ltd.
+  swift: MSTKJPJXCII
+  swift8: MSTKJPJX
+  branch_name: Tokyo
+  branch_address: Tokyo
+  branch_code: CII
+  city: Tokyo
+  country: Japan
+- name: Morgan Stanley Mufg Securities Co., Ltd.
+  swift: MSTKJPJXCLS
+  swift8: MSTKJPJX
+  branch_name: Tokyo
+  branch_address: Tokyo
+  branch_code: CLS
+  city: Tokyo
+  country: Japan
+- name: Morgan Stanley Mufg Securities Co., Ltd.
+  swift: MSTKJPJXFXO
+  swift8: MSTKJPJX
+  branch_name: Foreign Exchange Operations
+  branch_address: Tokyo
+  branch_code: FXO
+  city: Tokyo
+  country: Japan
+- name: Morgan Stanley Mufg Securities Co., Ltd.
+  swift: MSTKJPJXXXX
+  swift8: MSTKJPJX
+  branch_name: Head Office
+  branch_address: Yebisu Garden Place Tower Tokyo 150-6008
+  branch_code: XXX
+  city: Tokyo
+  country: Japan
+- name: Musashino Bank Ltd., The
+  swift: MUBKJPJTTSD
+  swift8: MUBKJPJT
+  branch_name: Treasury and Securities Division
+  branch_address: Saitama
+  branch_code: TSD
+  city: Saitama
+  country: Japan
+- name: Musashino Bank Ltd., The
+  swift: MUBKJPJTXXX
+  swift8: MUBKJPJT
+  branch_name: Head Office
+  branch_address: Omiya-Ku Saitama 331-0852
+  branch_code: XXX
+  city: Saitama
+  country: Japan
+- name: Nagano Bank, Ltd.
+  swift: NAGAJPJZXXX
+  swift8: NAGAJPJZ
+  branch_name: Head Office
+  branch_address: 2-9-38 Nagisa, Matsumoto City Nagano 390-0841
+  branch_code: XXX
+  city: Nagano
+  country: Japan
+- name: Nanto Bank, Ltd, The
+  swift: NANTJPJTXXX
+  swift8: NANTJPJT
+  branch_name: Head Office
+  branch_address: 16 Hashimoto-Cho Nara 630-8677
+  branch_code: XXX
+  city: Nara
+  country: Japan
+- name: National Australia Bank Limited
+  swift: NATAJPJTXXX
+  swift8: NATAJPJT
+  branch_name: Head Office
+  branch_address: Muromachi Higashi Mitsui Building Tokyo 103-0022
+  branch_code: XXX
+  city: Tokyo
+  country: Japan
+- name: National Bank Of Pakistan
+  swift: NBPAJPJTOSK
+  swift8: NBPAJPJT
+  branch_name: Osaka Branch
+  branch_address: Sanei Shinsaibashi Bldg. Osaka
+  branch_code: OSK
+  city: Osaka
+  country: Japan
+- name: National Bank Of Pakistan
+  swift: NBPAJPJTXXX
+  swift8: NBPAJPJT
+  branch_name: Main Branch
+  branch_address: Nishi Shimbashi Mori Building Tokyo
+  branch_code: XXX
+  city: Tokyo
+  country: Japan
+- name: Natixis Japan Securities Co., Ltd.
+  swift: NATXJPJTXXX
+  swift8: NATXJPJT
+  branch_name: Head Office
+  branch_address: 1-11-1, Marunouchi, Chiyoda-Ku Tokyo 100-6226
+  branch_code: XXX
+  city: Tokyo
+  country: Japan
+- name: Nissay Asset Management Corporation
+  swift: NAMJJPJTXXX
+  swift8: NAMJJPJT
+  branch_name: Head Office
+  branch_address: Nihon Seimei Marunouchi Bldg Tokyo 100-8219
+  branch_code: XXX
+  city: Tokyo
+  country: Japan
+- name: Nomura Asset Management Co., Ltd.
+  swift: NAMKJPJTADV
+  swift8: NAMKJPJT
+  branch_name: Advisory Dept
+  branch_address: Tokyo
+  branch_code: ADV
+  city: Tokyo
+  country: Japan
+- name: Nomura Asset Management Co., Ltd.
+  swift: NAMKJPJTBFT
+  swift8: NAMKJPJT
+  branch_name: Bond and Financial Instrument Trading Dept
+  branch_address: Tokyo
+  branch_code: BFT
+  city: Tokyo
+  country: Japan
+- name: Nomura Asset Management Co., Ltd.
+  swift: NAMKJPJTFDV
+  swift8: NAMKJPJT
+  branch_name: Tokyo
+  branch_address: Tokyo
+  branch_code: FDV
+  city: Tokyo
+  country: Japan
+- name: Nomura Asset Management Co., Ltd.
+  swift: NAMKJPJTXXX
+  swift8: NAMKJPJT
+  branch_name: Head Office
+  branch_address: 1-12-1 Nihonbashi, Chuo-Ku Tokyo 103-8260
+  branch_code: XXX
+  city: Tokyo
+  country: Japan
+- name: Nomura Research Institute, Ltd.
+  swift: NRIWJPJTXXX
+  swift8: NRIWJPJT
+  branch_name: Head Office
+  branch_address: S Tower Fukazawa Gatharia Tokyo 135-0042
+  branch_code: XXX
+  city: Tokyo
+  country: Japan
+- name: Nomura Securities Co. Ltd
+  swift: NMRSJPJTXXX
+  swift8: NMRSJPJT
+  branch_name: Head Office
+  branch_address: 1-9-1 Nihonbashi, Chuo-Ku Tokyo 103-8011
+  branch_code: XXX
+  city: Tokyo
+  country: Japan
+- name: Norinchukin Bank, The
+  swift: NOCUJPJTCLS
+  swift8: NOCUJPJT
+  branch_name: Treasury and Securities Operations Division
+  branch_address: Tokyo
+  branch_code: CLS
+  city: Tokyo
+  country: Japan
+- name: Norinchukin Bank, The
+  swift: NOCUJPJTXXX
+  swift8: NOCUJPJT
+  branch_name: Head Office
+  branch_address: 13-2 Yurakucho 1 Chiyoda-Ku Tokyo 100-0006
+  branch_code: XXX
+  city: Tokyo
+  country: Japan
+- name: Ntt Data Getronics Corporation
+  swift: NTDGJPJTXXX
+  swift8: NTDGJPJT
+  branch_name: Head Office
+  branch_address: Cube Kawasaki Kawasaki-Shi 210-0024
+  branch_code: XXX
+  city: Kawasaki-Shi
+  country: Japan
+- name: Ogaki Kyoritsu Bank,Ltd.,The
+  swift: OGAKJPJTXXX
+  swift8: OGAKJPJT
+  branch_name: Head Office
+  branch_address: 3-98 Kuruwamachi Ogaki 503 0887
+  branch_code: XXX
+  city: Ogaki
+  country: Japan
+- name: Oita Bank, Ltd., The
+  swift: OITAJPJTXXX
+  swift8: OITAJPJT
+  branch_name: Head Office
+  branch_address: 4-1, Funai-Machi 3-Chome Oita 870 0021
+  branch_code: XXX
+  city: Oita
+  country: Japan
+- name: Okasan Securities Co., Ltd.
+  swift: OKASJPJTXXX
+  swift8: OKASJPJT
+  branch_name: Head Office
+  branch_address: 1-17-6, Nihonbashi Chuo-Ku Tokyo 103-8278
+  branch_code: XXX
+  city: Tokyo
+  country: Japan
+- name: Osaka City Shinkin Bank, The
+  swift: OSACJPJSXXX
+  swift8: OSACJPJS
+  branch_name: Head Office
+  branch_address: 5-4 Kitahama 2-Chome Chuo-Ku Osaka 541-0041
+  branch_code: XXX
+  city: Osaka
+  country: Japan
+- name: Oversea-Chinese Banking Corporation Limited, Tokyo Branch
+  swift: OCBCJPJTXXX
+  swift8: OCBCJPJT
+  branch_name: Head Office
+  branch_address: Sanno Park Tower Tokyo 100-6105
+  branch_code: XXX
+  city: Tokyo
+  country: Japan
+- name: Panasonic Corporation
+  swift: PANAJPJSXXX
+  swift8: PANAJPJS
+  branch_name: Head Office
+  branch_address: 1006 Kadoma Osaka 571-8501
+  branch_code: XXX
+  city: Osaka
+  country: Japan
+- name: Philippine National Bank Tokyo Branch
+  swift: PNBMJPJTXXX
+  swift8: PNBMJPJT
+  branch_name: Head Office
+  branch_address: Fukide Building Tokyo 105-0001
+  branch_code: XXX
+  city: Tokyo
+  country: Japan
+- name: Pictet Asset Management (Japan) Ltd.
+  swift: PICTJPJTXXX
+  swift8: PICTJPJT
+  branch_name: Head Office
+  branch_address: Kishimoto Building Tokyo 100-0005
+  branch_code: XXX
+  city: Tokyo
+  country: Japan
+- name: Rbc Capital Markets (Japan) Ltd., Tokyo
+  swift: RBDSJPJTXXX
+  swift8: RBDSJPJT
+  branch_name: Head Office
+  branch_address: Toranomon Towers Office Tokyo 105 0001
+  branch_code: XXX
+  city: Tokyo
+  country: Japan
+- name: Rbs Securities Japan Limited, Tokyo Branch
+  swift: NWSJJPJTXXX
+  swift8: NWSJJPJT
+  branch_name: Head Office
+  branch_address: Shin-Marunouchi Center Bldg Tokyo 100-0005
+  branch_code: XXX
+  city: Tokyo
+  country: Japan
+- name: Resona Bank, Ltd., Tokyo
+  swift: DIWAJPJTXXX
+  swift8: DIWAJPJT
+  branch_name: Head Office
+  branch_address: Tokyo International Operations Tokyo 103-0022
+  branch_code: XXX
+  city: Tokyo
+  country: Japan
+- name: Resona Bank, Ltd., Trust Dep.
+  swift: DIWAJPJAXXX
+  swift8: DIWAJPJA
+  branch_name: Head Office
+  branch_address: Fukagawa Gazaria W2 Tokyo 135-8582
+  branch_code: XXX
+  city: Tokyo
+  country: Japan
+- name: Royal Bank Of Canada
+  swift: ROYCJPJTXXX
+  swift8: ROYCJPJT
+  branch_name: Head Office
+  branch_address: Toranomon Towers Office Tokyo 105-0001
+  branch_code: XXX
+  city: Tokyo
+  country: Japan
+- name: Royal Bank Of Scotland Plc
+  swift: RBOSJPJXXXX
+  swift8: RBOSJPJX
+  branch_name: Head Office
+  branch_address: Riverside Yomiuri Building Tokyo 103-0015
+  branch_code: XXX
+  city: Tokyo
+  country: Japan
+- name: Royal Bank Of Scotland Plc (Global Transaction Services)
+  swift: ABNAJPJTXXX
+  swift8: ABNAJPJT
+  branch_name: Global Transaction Services, Tokyo Branch
+  branch_address: 1-6-2 Marunouchi, Chiyoda-Ku Tokyo 100-0005
+  branch_code: XXX
+  city: Tokyo
+  country: Japan
+- name: Saitama Resona Bank, Limited
+  swift: SAIBJPJTXXX
+  swift8: SAIBJPJT
+  branch_name: Head Office
+  branch_address: 2-6,Nihonbashi Muromachi, 1-Chome Tokyo 103-0022
+  branch_code: XXX
+  city: Tokyo
+  country: Japan
+- name: San-In Godo Bank, Ltd., The
+  swift: SGBKJPJTMAT
+  swift8: SGBKJPJT
+  branch_name: Matsue 690-0062
+  branch_address: 10 Uo-Machi Matsue 690-0062
+  branch_code: MAT
+  city: Matsue
+  country: Japan
+- name: Sbi Sumishin Net Bank, Ltd.
+  swift: NTSSJPJTXXX
+  swift8: NTSSJPJT
+  branch_name: Head Office
+  branch_address: Izumi Garden Tower Tokyo 1066018
+  branch_code: XXX
+  city: Tokyo
+  country: Japan
+- name: Schroder Investment Management (Japan) Limited
+  swift: SIMJJPJ2XXX
+  swift8: SIMJJPJ2
+  branch_name: Head Office
+  branch_address: Marunouchi Trust Tower Main Tokyo 100-0005
+  branch_code: XXX
+  city: Tokyo
+  country: Japan
+- name: Schroder Investment Management (Japan) Limited
+  swift: SIMJJPJTXXX
+  swift8: SIMJJPJT
+  branch_name: Head Office
+  branch_address: Marunouchi Trust Tower Main Tokyo 100-0005
+  branch_code: XXX
+  city: Tokyo
+  country: Japan
+- name: Seto Shinkin Bank, The
+  swift: SSBKJPJZXXX
+  swift8: SSBKJPJZ
+  branch_name: Head Office
+  branch_address: 119-1 Higashi Yokoyama-Cho Seto 489-8650
+  branch_code: XXX
+  city: Seto
+  country: Japan
+- name: Shiga Bank, Ltd., The
+  swift: SIGAJPJTXXX
+  swift8: SIGAJPJT
+  branch_name: Head Office
+  branch_address: 1-38 Hamamachi Otsu 520-8686
+  branch_code: XXX
+  city: Otsu
+  country: Japan
+- name: Shikoku Bank,Ltd.,The
+  swift: SIKOJPJTXXX
+  swift8: SIKOJPJT
+  branch_name: Head Office
+  branch_address: 1-1-1 Minamiharimaya-Cho Kochi 780-8605
+  branch_code: XXX
+  city: Kochi
+  country: Japan
+- name: Shimizu Bank Ltd., The
+  swift: SMZGJPJTXXX
+  swift8: SMZGJPJT
+  branch_name: Head Office
+  branch_address: 2,1 Fujimicho Shimizuku Shizuoka 4248715
+  branch_code: XXX
+  city: Shizuoka
+  country: Japan
+- name: Shinhan Bank Japan
+  swift: SHBKJPJXXXX
+  swift8: SHBKJPJX
+  branch_name: Head Office
+  branch_address: 3-1 Toranomon 4-Chome Minato-Ku Tokyo 105-6009
+  branch_code: XXX
+  city: Tokyo
+  country: Japan
+- name: Shinhan Bank Japan
+  swift: SHBKJPJXFUK
+  swift8: SHBKJPJX
+  branch_name: Fukuoka Branch
+  branch_address: 14-13 Tenjin 2-Chome Chuo-Ku Fukuoka 810-0001
+  branch_code: FUK
+  city: Fukuoka
+  country: Japan
+- name: Shinhan Bank Japan
+  swift: SHBKJPJXOSK
+  swift8: SHBKJPJX
+  branch_name: Osaka Branch
+  branch_address: 4-21 Minami-Semba, 4 Chome Chuo-Ku Osaka 542-0081
+  branch_code: OSK
+  city: Osaka
+  country: Japan
+- name: Shinhan Bank Japan
+  swift: SHBKJPJXTOK
+  swift8: SHBKJPJX
+  branch_name: Tokyo Branch
+  branch_address: 3-1 Toranomon 4-Chome Minato-Ku Tokyo 105-6009
+  branch_code: TOK
+  city: Tokyo
+  country: Japan
+- name: Shinkin Central Bank
+  swift: ZENBJPJ2XXX
+  swift8: ZENBJPJ2
+  branch_name: Head Office
+  branch_address: 9-1honmura-Cho Ichigaya Tokyo 162-0845
+  branch_code: XXX
+  city: Tokyo
+  country: Japan
+- name: Shinkin Central Bank
+  swift: ZENBJPJTXXX
+  swift8: ZENBJPJT
+  branch_name: Head Office
+  branch_address: 8-1, Kyobashi 3-Chome Tokyo 104-0031
+  branch_code: XXX
+  city: Tokyo
+  country: Japan
+- name: Shinsei Bank, Ltd.
+  swift: LTCBJPJTHED
+  swift8: LTCBJPJT
+  branch_name: Head Office
+  branch_address: Tokyo
+  branch_code: HED
+  city: Tokyo
+  country: Japan
+- name: Shinsei Bank, Ltd.
+  swift: LTCBJPJTXXX
+  swift8: LTCBJPJT
+  branch_name: Head Office
+  branch_address: 4-3, Nihonbashi-Muromachi 2-Chome, Tokyo 103-8303
+  branch_code: XXX
+  city: Tokyo
+  country: Japan
+- name: Shinwa Bank, Ltd. The
+  swift: SHWAJPJTXXX
+  swift8: SHWAJPJT
+  branch_name: Head Office
+  branch_address: 10-12 Shimanose-Cho Sasebo 857-0806
+  branch_code: XXX
+  city: Sasebo
+  country: Japan
+- name: Shoko Chukin Bank, Ltd., The
+  swift: SKCKJPJTXXX
+  swift8: SKCKJPJT
+  branch_name: Head Office
+  branch_address: 10-17, Yaesu 2-Chome, Chuo-Ku Tokyo 104-0028
+  branch_code: XXX
+  city: Tokyo
+  country: Japan
+- name: Smbc Friend Securities Co., Ltd
+  swift: YAMTJPJTXXX
+  swift8: YAMTJPJT
+  branch_name: Head Office
+  branch_address: 7-12 Kabuto-Cho, Nihonbashi, Chuo-Ku Tokyo 103-8221
+  branch_code: XXX
+  city: Tokyo
+  country: Japan
+- name: Smbc Nikko Securities Inc.
+  swift: NKSCJPJTXXX
+  swift8: NKSCJPJT
+  branch_name: Head Office
+  branch_address: 1-28-23, Shinkawa, Chuo-Ku Tokyo 104-8271
+  branch_code: XXX
+  city: Tokyo
+  country: Japan
+- name: Smbc Nikko Securities Inc.
+  swift: NKSCJPJ1FI1
+  swift8: NKSCJPJ1
+  branch_name: Tokyo
+  branch_address: Tokyo
+  branch_code: FI1
+  city: Tokyo
+  country: Japan
+- name: Societe Generale
+  swift: SOGEJPJTXXX
+  swift8: SOGEJPJT
+  branch_name: Head Office
+  branch_address: Ark Mori Building Tokyo 107-6090
+  branch_code: XXX
+  city: Tokyo
+  country: Japan
+- name: Societe Generale Securities (North Pacific) Ltd.
+  swift: SGNPJPJTXXX
+  swift8: SGNPJPJT
+  branch_name: Head Office
+  branch_address: Ark Mori Building Tokyo 107
+  branch_code: XXX
+  city: Tokyo
+  country: Japan
+- name: Sparx Asset Management Co., Ltd.
+  swift: SPAXJPJTXXX
+  swift8: SPAXJPJT
+  branch_name: Head Office
+  branch_address: Tennoz First Tower Tokyo 140-0002
+  branch_code: XXX
+  city: Tokyo
+  country: Japan
+- name: Standard Chartered Bank
+  swift: SCBLJPJTXXX
+  swift8: SCBLJPJT
+  branch_name: Head Office
+  branch_address: Sanno Park Tower Tokyo 100-6155
+  branch_code: XXX
+  city: Tokyo
+  country: Japan
+- name: State Bank Of India
+  swift: SBINJPJTOSA
+  swift8: SBINJPJT
+  branch_name: Osaka Branch
+  branch_address: Nomura Fudosam Osaka-Bldg Osaka 541 0052
+  branch_code: OSA
+  city: Osaka
+  country: Japan
+- name: State Bank Of India
+  swift: SBINJPJTXXX
+  swift8: SBINJPJT
+  branch_name: Head Office
+  branch_address: Yurakucho Denki Building Tokyo 100-0006
+  branch_code: XXX
+  city: Tokyo
+  country: Japan
+- name: State Street Bank And Trust Company
+  swift: SBOSJPJXXXX
+  swift8: SBOSJPJX
+  branch_name: Head Office
+  branch_address: Midtown Tower Tokyo 107-6239
+  branch_code: XXX
+  city: Tokyo
+  country: Japan
+- name: State Street Trust And Banking Company Limited
+  swift: SSTBJPJXIAR
+  swift8: SSTBJPJX
+  branch_name: Investment Advisory Reporting
+  branch_address: Tokyo
+  branch_code: IAR
+  city: Tokyo
+  country: Japan
+- name: State Street Trust And Banking Company Limited
+  swift: SSTBJPJXIMS
+  swift8: SSTBJPJX
+  branch_name: Investment Manager Outsourcing Services
+  branch_address: Tokyo
+  branch_code: IMS
+  city: Tokyo
+  country: Japan
+- name: State Street Trust And Banking Company Limited
+  swift: SSTBJPJXITM
+  swift8: SSTBJPJX
+  branch_name: Investment Trust Mgmt Pricing Agent Outsourcing
+  branch_address: Tokyo
+  branch_code: ITM
+  city: Tokyo
+  country: Japan
+- name: State Street Trust And Banking Company Limited
+  swift: SSTBJPJXXXX
+  swift8: SSTBJPJX
+  branch_name: Head Office
+  branch_address: Midtown Tower Tokyo 107-6239
+  branch_code: XXX
+  city: Tokyo
+  country: Japan
+- name: Sugamo Shinkin Bank, The
+  swift: SSHBJPJTXXX
+  swift8: SSHBJPJT
+  branch_name: Head Office
+  branch_address: 10-2, Sugamo 2-Chome, Toshima-Ku Tokyo 170-0002
+  branch_code: XXX
+  city: Tokyo
+  country: Japan
+- name: Sumisho Computer Systems Corporation
+  swift: SCSJJPJTXXX
+  swift8: SCSJJPJT
+  branch_name: Head Office
+  branch_address: Harumi Island Triton Sq. Tokyo 104-6241
+  branch_code: XXX
+  city: Tokyo
+  country: Japan
+- name: Sumitomo Mitsui Banking Corporation
+  swift: SMBCJPJTOSA
+  swift8: SMBCJPJT
+  branch_name: Osaka
+  branch_address: Osaka
+  branch_code: OSA
+  city: Osaka
+  country: Japan
+- name: Sumitomo Mitsui Banking Corporation
+  swift: SMBCJPJTCLS
+  swift8: SMBCJPJT
+  branch_name: Cls Control Branch
+  branch_address: Tokyo
+  branch_code: CLS
+  city: Tokyo
+  country: Japan
+- name: Sumitomo Mitsui Banking Corporation
+  swift: SMBCJPJTXXX
+  swift8: SMBCJPJT
+  branch_name: Head Office
+  branch_address: 1-1-2, Marunouchi, Chiyoda-Ku Tokyo 100-0005
+  branch_code: XXX
+  city: Tokyo
+  country: Japan
+- name: Sumitomo Mitsui Banking Corporation
+  swift: SMBCJPJTCST
+  swift8: SMBCJPJT
+  branch_name: Tokyo
+  branch_address: Tokyo
+  branch_code: CST
+  city: Tokyo
+  country: Japan
+- name: Sumitomo Trust And Banking Company, Ltd., The
+  swift: STBCJPJTCLS
+  swift8: STBCJPJT
+  branch_name: Cls Control Branch
+  branch_address: Tokyo
+  branch_code: CLS
+  city: Tokyo
+  country: Japan
+- name: Sumitomo Trust And Banking Company, Ltd., The
+  swift: STBCJPJTCUS
+  swift8: STBCJPJT
+  branch_name: Securities Operation Department
+  branch_address: 11-5 Nihombashi Honcho 4-Chome Tokyo 103-0023
+  branch_code: CUS
+  city: Tokyo
+  country: Japan
+- name: Sumitomo Trust And Banking Company, Ltd., The
+  swift: STBCJPJTSAD
+  swift8: STBCJPJT
+  branch_name: Securities Administration Department
+  branch_address: Tokyo
+  branch_code: SAD
+  city: Tokyo
+  country: Japan
+- name: Sumitomo Trust And Banking Company, Ltd., The
+  swift: STBCJPJTSBS
+  swift8: STBCJPJT
+  branch_name: Sbs Fuchu
+  branch_address: Fuchu Building Tokyo 183-0044
+  branch_code: SBS
+  city: Tokyo
+  country: Japan
+- name: Sumitomo Trust And Banking Company, Ltd., The
+  swift: STBCJPJTXXX
+  swift8: STBCJPJT
+  branch_name: Head Office
+  branch_address: 4-1 Marunouchi 1-Chome, Chiyoda-Ku Tokyo 100-8233
+  branch_code: XXX
+  city: Tokyo
+  country: Japan
+- name: Suruga Bank, Ltd., The
+  swift: SRFXJPJTXXX
+  swift8: SRFXJPJT
+  branch_name: Head Office
+  branch_address: 7-1,Nihonbashi Muromachi Tokyo 103-0022
+  branch_code: XXX
+  city: Tokyo
+  country: Japan
+- name: Swift Customer Service Centre Japan
+  swift: SWHQJPJTXXX
+  swift8: SWHQJPJT
+  branch_name: Head Office
+  branch_address: '0'
+  branch_code: XXX
+  city: Customer Service Centre Jp
+  country: Japan
+- name: Tajima Bank, Ltd, The
+  swift: TJMAJPJZXXX
+  swift8: TJMAJPJZ
+  branch_name: Head Office
+  branch_address: 1-5 Chiyodacho, Toyooka Hyogo 668-8650
+  branch_code: XXX
+  city: Hyogo
+  country: Japan
+- name: Tama Shinkin Bank, The
+  swift: TAMAJPJTXXX
+  swift8: TAMAJPJT
+  branch_name: Head Office
+  branch_address: 8-28, Akebonocho 2-Chome, Tachikawa Tokyo 190-8681
+  branch_code: XXX
+  city: Tokyo
+  country: Japan
+- name: The 77 Bank,Ltd.
+  swift: BOSSJPJTXXX
+  swift8: BOSSJPJT
+  branch_name: Head Office
+  branch_address: 3-20 Chuo 3-Chome Aoba-Ku Sendai 980 8777
+  branch_code: XXX
+  city: Sendai
+  country: Japan
+- name: The Bank Of Kochi, Limited
+  swift: KOTIJPJZXXX
+  swift8: KOTIJPJZ
+  branch_name: Head Office
+  branch_address: 2-24, Sakai-Machi Kochi 780-0834
+  branch_code: XXX
+  city: Kochi
+  country: Japan
+- name: The Bank Of New York Mellon Trust (Japan), Ltd
+  swift: IRVTJPJTXXX
+  swift8: IRVTJPJT
+  branch_name: Head Office
+  branch_address: Marunouchi Trust Tower Tokyo 100-8580
+  branch_code: XXX
+  city: Tokyo
+  country: Japan
+- name: The Bank Of New York Mellon, Tokyo Branch
+  swift: IRVTJPJX848
+  swift8: IRVTJPJX
+  branch_name: Tokyo Branch, Trade Service
+  branch_address: Fukofu Seimei Building Tokyo 100-0011
+  branch_code: '848'
+  city: Tokyo
+  country: Japan
+- name: The Bank Of New York Mellon, Tokyo Branch
+  swift: IRVTJPJXXXX
+  swift8: IRVTJPJX
+  branch_name: Head Office
+  branch_address: Fukofu Seimei Building Tokyo 100-0011
+  branch_code: XXX
+  city: Tokyo
+  country: Japan
+- name: The Hamamatsu Shinkin Bank
+  swift: HMSKJPJTXXX
+  swift8: HMSKJPJT
+  branch_name: Head Office
+  branch_address: Motoshiro-Cho 114-8 Shizuoka 430-0946
+  branch_code: XXX
+  city: Shizuoka
+  country: Japan
+- name: The Higo Bank Limited
+  swift: HIGOJPJTXXX
+  swift8: HIGOJPJT
+  branch_name: Head Office
+  branch_address: 1 Renpeicho Kumamoto 860-8615
+  branch_code: XXX
+  city: Kumamoto
+  country: Japan
+- name: The Nishi-Nippon City Bank, Ltd
+  swift: NISIJPJTFKK
+  swift8: NISIJPJT
+  branch_name: International Dept
+  branch_address: Fukuoka
+  branch_code: FKK
+  city: Fukuoka
+  country: Japan
+- name: The Nishi-Nippon City Bank, Ltd
+  swift: NISIJPJTXXX
+  swift8: NISIJPJT
+  branch_name: Head Office
+  branch_address: 3-6 Hakataekimae,1-Chome Hakata-Ku Fukuoka 812-0011
+  branch_code: XXX
+  city: Fukuoka
+  country: Japan
+- name: The Nomura Trust And Banking Co., Ltd.
+  swift: NMTBJPJTDAM
+  swift8: NMTBJPJT
+  branch_name: Tokyo
+  branch_address: Tokyo
+  branch_code: DAM
+  city: Tokyo
+  country: Japan
+- name: The Nomura Trust And Banking Co., Ltd.
+  swift: NMTBJPJTFXO
+  swift8: NMTBJPJT
+  branch_name: Treasury Department
+  branch_address: Tokyo
+  branch_code: FXO
+  city: Tokyo
+  country: Japan
+- name: The Nomura Trust And Banking Co., Ltd.
+  swift: NMTBJPJTITA
+  swift8: NMTBJPJT
+  branch_name: Tokyo
+  branch_address: Tokyo
+  branch_code: ITA
+  city: Tokyo
+  country: Japan
+- name: The Nomura Trust And Banking Co., Ltd.
+  swift: NMTBJPJTTAD
+  swift8: NMTBJPJT
+  branch_name: Tokyo
+  branch_address: Tokyo
+  branch_code: TAD
+  city: Tokyo
+  country: Japan
+- name: The Nomura Trust And Banking Co., Ltd.
+  swift: NMTBJPJTTRU
+  swift8: NMTBJPJT
+  branch_name: Trust Department
+  branch_address: Tokyo
+  branch_code: TRU
+  city: Tokyo
+  country: Japan
+- name: The Nomura Trust And Banking Co., Ltd.
+  swift: NMTBJPJTXXX
+  swift8: NMTBJPJT
+  branch_name: Head Office
+  branch_address: Urbannet Otemachi Building Tokyo 103-0004
+  branch_code: XXX
+  city: Tokyo
+  country: Japan
+- name: The Senshu Ikeda Bank, Ltd.
+  swift: BIKEJPJSXXX
+  swift8: BIKEJPJS
+  branch_name: Head Office
+  branch_address: 18-14 Chaya-Machi, Kita-Ku Osaka 530-0013
+  branch_code: XXX
+  city: Osaka
+  country: Japan
+- name: The Tochigi Bank Ltd.
+  swift: TOCIJPJTXXX
+  swift8: TOCIJPJT
+  branch_name: Head Office
+  branch_address: 1-18 Nishi 2-Chome Utsunomiya Utsunomiya 320-8680
+  branch_code: XXX
+  city: Utsunomiya
+  country: Japan
+- name: The Tokyo Tanshi Co., Ltd.
+  swift: TKTSJPJTXXX
+  swift8: TKTSJPJT
+  branch_name: Head Office
+  branch_address: Sakura Muromachi Bldg. Tokyo 103-0022
+  branch_code: XXX
+  city: Tokyo
+  country: Japan
+- name: Toho Bank, Ltd., The
+  swift: TOHOJPJTXXX
+  swift8: TOHOJPJT
+  branch_name: Head Office
+  branch_address: 3-25 Ohmachi Fukushima 960-8633
+  branch_code: XXX
+  city: Fukushima
+  country: Japan
+- name: Tokai Tokyo Securities Co. Ltd
+  swift: TTSEJPJTXXX
+  swift8: TTSEJPJT
+  branch_name: Head Office
+  branch_address: 6-2, Nihonbashi 3-Chome, Chuo-Ku Tokyo 103-8275
+  branch_code: XXX
+  city: Tokyo
+  country: Japan
+- name: Tokio Marine Asset Management Co., Ltd.
+  swift: TMAJJPJTXXX
+  swift8: TMAJJPJT
+  branch_name: Head Office
+  branch_address: 1-2-1, Marunouchi, Chiyoda-Ku Tokyo 100 0005
+  branch_code: XXX
+  city: Tokyo
+  country: Japan
+- name: Tokushima Bank Ltd, The
+  swift: TKSBJPJZXXX
+  swift8: TKSBJPJZ
+  branch_name: Head Office
+  branch_address: 1-16 Tomidahama Tokushima 770-0931
+  branch_code: XXX
+  city: Tokushima
+  country: Japan
+- name: Tokyo Higashi Shinkin Bank,The
+  swift: CHSBJPJTXXX
+  swift8: CHSBJPJT
+  branch_name: Head Office
+  branch_address: 35-9, Ryogoku 4-Chome, Sumida-Ku Tokyo 130-8545
+  branch_code: XXX
+  city: Tokyo
+  country: Japan
+- name: Tokyo Star Bank Limited, The
+  swift: TSBKJPJTXXX
+  swift8: TSBKJPJT
+  branch_name: Head Office
+  branch_address: 2-3-5 Akasaka Minato-Ku Tokyo 107-8480
+  branch_code: XXX
+  city: Tokyo
+  country: Japan
+- name: Tokyo Tomin Bank Limited, The
+  swift: TOMIJPJTXXX
+  swift8: TOMIJPJT
+  branch_name: Head Office
+  branch_address: 3-11, Roppongi 2-Chome, Minato-Ku Tokyo 106-0032
+  branch_code: XXX
+  city: Tokyo
+  country: Japan
+- name: Tomato Bank Ltd.
+  swift: TOMAJPJZXXX
+  swift8: TOMAJPJZ
+  branch_name: Head Office
+  branch_address: 3-4, Bancho 2-Chome, Kita-Ku, Okayama 700-0811
+  branch_code: XXX
+  city: Okayama
+  country: Japan
+- name: Toronto Dominion Bank
+  swift: TDOMJPJ1XXX
+  swift8: TDOMJPJ1
+  branch_name: Head Office
+  branch_address: Kamiyacho-Mori Building Tokyo 105-0001
+  branch_code: XXX
+  city: Tokyo
+  country: Japan
+- name: Toshiba Corporation
+  swift: TOSBJPJTXXX
+  swift8: TOSBJPJT
+  branch_name: Head Office
+  branch_address: 1-1 Shibaura 1-Chome Minato-Ku
+  branch_code: XXX
+  city: Minato-Ku
+  country: Japan
+- name: Tottori Bank Ltd., The
+  swift: BIRDJPJZXXX
+  swift8: BIRDJPJZ
+  branch_name: Head Office
+  branch_address: 171, Eirakuonsen-Cho Tottori 680-8686
+  branch_code: XXX
+  city: Tottori
+  country: Japan
+- name: Towa Bank Ltd., The
+  swift: TOWAJPJTXXX
+  swift8: TOWAJPJT
+  branch_name: Head Office
+  branch_address: 12-6 Honmachi, 2-Chome Gunma 371-8560
+  branch_code: XXX
+  city: Gunma
+  country: Japan
+- name: Trust And Custody Services Bank, Ltd.
+  swift: TCSBJPJ2XXX
+  swift8: TCSBJPJ2
+  branch_name: Head Office
+  branch_address: 8-12, 1-Chome, Harumi, Chuo-Ku Tokyo 104-6228
+  branch_code: XXX
+  city: Tokyo
+  country: Japan
+- name: Trust And Custody Services Bank, Ltd.
+  swift: TCSBJPJTXXX
+  swift8: TCSBJPJT
+  branch_name: Head Office
+  branch_address: 8-12, 1-Chome Tokyo 104-6228
+  branch_code: XXX
+  city: Tokyo
+  country: Japan
+- name: Tsukuba Bank,Ltd.
+  swift: KGBKJPJTXXX
+  swift8: KGBKJPJT
+  branch_name: Head Office
+  branch_address: 11-7, 2-Chome, Chuo Tsuchiura-Shi Ibaraki 300-0043
+  branch_code: XXX
+  city: Ibaraki
+  country: Japan
+- name: U.B.A.F. - Union De Banques Arabes Et Francaises Tokyo Branch
+  swift: UBAFJPJXOSA
+  swift8: UBAFJPJX
+  branch_name: Osaka Branch
+  branch_address: Captain Building Osaka 541-0057
+  branch_code: OSA
+  city: Osaka
+  country: Japan
+- name: U.B.A.F. - Union De Banques Arabes Et Francaises Tokyo Branch
+  swift: UBAFJPJXXXX
+  swift8: UBAFJPJX
+  branch_name: Head Office
+  branch_address: Sumitomo Fudosan Kudanshita Bldg Tokyo 101-0051
+  branch_code: XXX
+  city: Tokyo
+  country: Japan
+- name: Ubs Ag Tokyo Branch
+  swift: UBSWJPJTXXX
+  swift8: UBSWJPJT
+  branch_name: Tokyo Branch
+  branch_address: Otemachi First Square Tokyo 100-0004
+  branch_code: XXX
+  city: Tokyo
+  country: Japan
+- name: Ubs Global Asset Management (Japan) Ltd.
+  swift: UBSAJPJTXXX
+  swift8: UBSAJPJT
+  branch_name: Head Office
+  branch_address: East Tower Tokyo 100-0004
+  branch_code: XXX
+  city: Tokyo
+  country: Japan
+- name: Ubs Securities Japan Ltd Tokyo Branch
+  swift: UBSWJPJ9XXX
+  swift8: UBSWJPJ9
+  branch_name: Head Office
+  branch_address: Otemachi First Square Tokyo 100-0004
+  branch_code: XXX
+  city: Tokyo
+  country: Japan
+- name: Ueda Yagi Tanshi Co.,Ltd
+  swift: UYTCJPJTXXX
+  swift8: UYTCJPJT
+  branch_name: Head Office
+  branch_address: 2-3 Nihonbashi-Muromachi 1-Chome Tokyo 103-0022
+  branch_code: XXX
+  city: Tokyo
+  country: Japan
+- name: Unicredit Bank Ag Tokyo Branch (Hypovereinsbank Tokyo Branch)
+  swift: BVBEJPJTXXX
+  swift8: BVBEJPJT
+  branch_name: Head Office
+  branch_address: Otemachi 1 St Square East Tower Tokyo 100-0004
+  branch_code: XXX
+  city: Tokyo
+  country: Japan
+- name: United Overseas Bank Ltd., Tokyo Branch
+  swift: UOVBJPJTBNS
+  swift8: UOVBJPJT
+  branch_name: Banknotes Department
+  branch_address: Tokyo
+  branch_code: BNS
+  city: Tokyo
+  country: Japan
+- name: United Overseas Bank Ltd., Tokyo Branch
+  swift: UOVBJPJTXXX
+  swift8: UOVBJPJT
+  branch_name: Head Office
+  branch_address: Sanno Park Tower Tokyo 100-6113
+  branch_code: XXX
+  city: Tokyo
+  country: Japan
+- name: Wells Fargo Bank, N.A., Tokyo Branch
+  swift: PNBPJPJXXXX
+  swift8: PNBPJPJX
+  branch_name: Head Office
+  branch_address: Marunouchi Trust Tower Main Tokyo Chiyoda-Ku 100-0005
+  branch_code: XXX
+  city: Tokyo
+  country: Japan
+- name: Woori Bank, Tokyo
+  swift: HVBKJPJTXXX
+  swift8: HVBKJPJT
+  branch_name: Head Office
+  branch_address: Mitsui Osk Building Tokyo 105-0001
+  branch_code: XXX
+  city: Tokyo
+  country: Japan
+- name: Yachiyo Bank, Ltd., The
+  swift: YACYJPJTXXX
+  swift8: YACYJPJT
+  branch_name: Head Office
+  branch_address: 9-2 Shinjuku 5-Chome, Shinjuku-Ku Tokyo 160-0022
+  branch_code: XXX
+  city: Tokyo
+  country: Japan
+- name: Yamagata Bank, Ltd., The
+  swift: YAMBJPJTXXX
+  swift8: YAMBJPJT
+  branch_name: Head Office
+  branch_address: 1-2, Nanokamachi, 3-Chome Yamagata 990-8642
+  branch_code: XXX
+  city: Yamagata
+  country: Japan
+- name: Yamaguchi Bank, Ltd., The
+  swift: YMBKJPJTXXX
+  swift8: YMBKJPJT
+  branch_name: Head Office
+  branch_address: 2-36, 4-Chome Takezaki-Cho, Shimonoseki 750-8603
+  branch_code: XXX
+  city: Shimonoseki
+  country: Japan
+- name: Yamanashi Chuo Bank, Ltd., The
+  swift: YCHBJPJTXXX
+  swift8: YCHBJPJT
+  branch_name: Head Office
+  branch_address: 1-20-8 Marunouchi Kofu 400-8601
+  branch_code: XXX
+  city: Kofu
+  country: Japan
+- name: Yokohama Shinkin Bank, The
+  swift: YOKOJPJMXXX
+  swift8: YOKOJPJM
+  branch_name: Head Office
+  branch_address: 2-16-1 Onoe-Cho Naka-Ku Yokohama 231-8466
+  branch_code: XXX
+  city: Yokohama
+  country: Japan
+- name: Bank Of Nova Scotia,the
+  swift: NOSCJPJ1XXX
+  swift8: NOSCJPJ1
+  branch_name: Head Office
+  branch_address: Toranomon Waiko Building Tokyo 105-0001
+  branch_code: XXX
+  city: Tokyo
+  country: Japan
+- name: Export-import Bank Of Korea, The
+  swift: EXIKJPJ1XXX
+  swift8: EXIKJPJ1
+  branch_name: Head Office
+  branch_address: Tokyo
+  branch_code: XXX
+  city: Tokyo
+  country: Japan
+- name: Crosby Securities Ltd
+  swift: CRSEJPJ1XXX
+  swift8: CRSEJPJ1
+  branch_name: Head Office
+  branch_address: Nst Koamicho Building Tokyo 103-0016
+  branch_code: XXX
+  city: Tokyo
+  country: Japan
+- name: Abn Amro Clearing Tokyo Co., Ltd.
+  swift: FCTOJPJ1XXX
+  swift8: FCTOJPJ1
+  branch_name: Head Office
+  branch_address: Atago Green Hills Mori Tower Tokyo 105-6239
+  branch_code: XXX
+  city: Tokyo
+  country: Japan
+- name: Ace Securities Co., Ltd.
+  swift: ACSRJPJ1XXX
+  swift8: ACSRJPJ1
+  branch_name: Head Office
+  branch_address: 2-6-11 Honmachi, Chuo-Ku, Osaka 541-0053
+  branch_code: XXX
+  city: Osaka
+  country: Japan
+- name: Agricultural Bank Of China Tokyo Branch
+  swift: ABOCJPJTXXX
+  swift8: ABOCJPJT
+  branch_name: Head Office
+  branch_address: 511 Yusen Building Chiyoda-Ku 100-0005
+  branch_code: XXX
+  city: Chiyoda-Ku
+  country: Japan
+- name: Aig Global Investment Corp.
+  swift: AIMIJPJ1XXX
+  swift8: AIMIJPJ1
+  branch_name: Head Office
+  branch_address: Aig Building Tokyo 100-0006
+  branch_code: XXX
+  city: Tokyo
+  country: Japan
+- name: Aizawa Securities Co.
+  swift: AIZAJPJ1XXX
+  swift8: AIZAJPJ1
+  branch_name: Head Office
+  branch_address: 20-3 Nihombashi 1-Chome Chuo-Ku Tokyo 103-0027
+  branch_code: XXX
+  city: Tokyo
+  country: Japan
+- name: Akagiya Securities Co. Ltd.
+  swift: AKSEJPJ1XXX
+  swift8: AKSEJPJ1
+  branch_name: Head Office
+  branch_address: 2-7- Nihonbashi Chuo-Ku Tokyo 103-0027
+  branch_code: XXX
+  city: Tokyo
+  country: Japan
+- name: Alliance Capital Asset Management (japan) Ltd
+  swift: ACAMJPJ1XXX
+  swift8: ACAMJPJ1
+  branch_name: Head Office
+  branch_address: Otemachi 1st Square West Tokyo 100-0004
+  branch_code: XXX
+  city: Tokyo
+  country: Japan
+- name: American Express International Japan Asset Management Ltd
+  swift: AMEXJPJ1XXX
+  swift8: AMEXJPJ1
+  branch_name: Head Office
+  branch_address: Landmark Plaza Tokyo 105-0011
+  branch_code: XXX
+  city: Tokyo
+  country: Japan
+- name: Ando Securities Co., Ltd
+  swift: ANOOJPJ1XXX
+  swift8: ANOOJPJ1
+  branch_name: Head Office
+  branch_address: 3-23-21,Nishiki Nagoya 103-0025
+  branch_code: XXX
+  city: Nagoya
+  country: Japan
+- name: Anz Mccaughan Ltd
+  swift: AMCLJPJ1XXX
+  swift8: AMCLJPJ1
+  branch_name: Head Office
+  branch_address: Yanmar Tokyo Building Tokyo 104-0028
+  branch_code: XXX
+  city: Tokyo
+  country: Japan
+- name: Aozora Securities., Ltd.
+  swift: AOSCJPJ1XXX
+  swift8: AOSCJPJ1
+  branch_name: Head Office
+  branch_address: Shiroyama Trust Tower36th Floor Tokyo 105-6036
+  branch_code: XXX
+  city: Tokyo
+  country: Japan
+- name: Ark Securities Co., Ltd.
+  swift: ARKKJPJ1XXX
+  swift8: ARKKJPJ1
+  branch_name: Head Office
+  branch_address: Marunochi Mitsui Bldg Tokyo 104-0032
+  branch_code: XXX
+  city: Tokyo
+  country: Japan
+- name: Axes (japan) Securities Co., Ltd.
+  swift: AXJSJPJ1XXX
+  swift8: AXJSJPJ1
+  branch_name: Head Office
+  branch_address: Toyo Kezai Building Tokyo 103-0021
+  branch_code: XXX
+  city: Tokyo
+  country: Japan
+- name: Bansei Prime Capital Securites Co., Ltd.
+  swift: BSPCJPJ1XXX
+  swift8: BSPCJPJ1
+  branch_name: Head Office
+  branch_address: Bansei Building Kyoto 604-0845
+  branch_code: XXX
+  city: Kyoto
+  country: Japan
+- name: Banyo Securities Co., Ltd
+  swift: BANYJPJ1XXX
+  swift8: BANYJPJ1
+  branch_name: Head Office
+  branch_address: 80 Watamachi Hyogo 670-0921
+  branch_code: XXX
+  city: Hyogo
+  country: Japan
+- name: Barclays Global Investors Japan Investment Trust C O.,ltd
+  swift: BITBJPJ1XXX
+  swift8: BITBJPJ1
+  branch_name: Head Office
+  branch_address: Ebisu Prime Square Tower Tokyo 150-8402
+  branch_code: XXX
+  city: Tokyo
+  country: Japan
+- name: Baring Asset Management (japan) Limited
+  swift: BAMJJPJ1XXX
+  swift8: BAMJJPJ1
+  branch_name: No branch name
+  branch_address: No branch address
+  branch_code: XXX
+  city: Tokyo
+  country: Japan
+- name: Bear Stearns (japan), Ltd
+  swift: BESJJPJ1XXX
+  swift8: BESJJPJ1
+  branch_name: Head Office
+  branch_address: F. Shiroyama Hills Tokyo 105-0001
+  branch_code: XXX
+  city: Tokyo
+  country: Japan
+- name: Bpi International Finance Limited
+  swift: BPIIJPJ1XXX
+  swift8: BPIIJPJ1
+  branch_name: Head Office
+  branch_address: Tokyo
+  branch_code: XXX
+  city: Tokyo
+  country: Japan
+- name: Burns Fry Ltd
+  swift: BFLEJPJ1XXX
+  swift8: BFLEJPJ1
+  branch_name: Head Office
+  branch_address: E-1 Building Tokyo 103-0027
+  branch_code: XXX
+  city: Tokyo
+  country: Japan
+- name: Bv Capital Markets (asia) Ltd.
+  swift: BVCMJPJ1XXX
+  swift8: BVCMJPJ1
+  branch_name: Head Office
+  branch_address: Togin Building Tokyo 100-0005
+  branch_code: XXX
+  city: Tokyo
+  country: Japan
+- name: Capital Partners Securities Co., Ltd
+  swift: CPSTJPJ1XXX
+  swift8: CPSTJPJ1
+  branch_name: Head Office
+  branch_address: Asahi Building Tokyo 103-0027
+  branch_code: XXX
+  city: Tokyo
+  country: Japan
+- name: Central Totan Securities Co., Ltd.
+  swift: CTSSJPJ1XXX
+  swift8: CTSSJPJ1
+  branch_name: Head Office
+  branch_address: Totan Muromachi Building Tokyo 103-0022
+  branch_code: XXX
+  city: Tokyo
+  country: Japan
+- name: Century Securities Co. Ltd.
+  swift: CENSJPJ1XXX
+  swift8: CENSJPJ1
+  branch_name: Head Office
+  branch_address: 2-7-1 Nihonbashi Honcho Chuo-Ku Tokyo 103-0023
+  branch_code: XXX
+  city: Tokyo
+  country: Japan
+- name: Chase Securities
+  swift: CHSCJPJ1XXX
+  swift8: CHSCJPJ1
+  branch_name: Head Office
+  branch_address: Akasaka Park Building Tokyo 107-6111
+  branch_code: XXX
+  city: Tokyo
+  country: Japan
+- name: Chibagin Securities Co., Ltd
+  swift: CHUSJPJ1XXX
+  swift8: CHUSJPJ1
+  branch_name: Head Office
+  branch_address: 1-2-18 Kayaba-Cho, Nihonbashi, Tokyo 103-0025
+  branch_code: XXX
+  city: Tokyo
+  country: Japan
+- name: Chubu Commodity Exchange
+  swift: XCCEJPJ1XXX
+  swift8: XCCEJPJ1
+  branch_name: No branch name
+  branch_address: No branch address
+  branch_code: XXX
+  city: Nagoya
+  country: Japan
+- name: Citicorp Center Japan Ltd. Tokyo Branch
+  swift: CSJLJPJ1XXX
+  swift8: CSJLJPJ1
+  branch_name: Head Office
+  branch_address: Citicorp Center Tokyo 140-8639
+  branch_code: XXX
+  city: Tokyo
+  country: Japan
+- name: Citicorp International Securities Ltd.
+  swift: CSVNJPJ1XXX
+  swift8: CSVNJPJ1
+  branch_name: Head Office
+  branch_address: Citicorp Centre Tokyo 140-0002
+  branch_code: XXX
+  city: Tokyo
+  country: Japan
+- name: Citigroup Asset Management Co., Ltd
+  swift: SSBCJPJ1XXX
+  swift8: SSBCJPJ1
+  branch_name: Head Office
+  branch_address: Ote Center Building Tokyo 100-0004
+  branch_code: XXX
+  city: Tokyo
+  country: Japan
+- name: Clsa Securities Japan Co., Ltd.
+  swift: CLEJJPJ1XXX
+  swift8: CLEJJPJ1
+  branch_name: Head Office
+  branch_address: 16/F, Shiodome Sumitomo Building Tokyo 105-0021
+  branch_code: XXX
+  city: Tokyo
+  country: Japan
+- name: Compag Computer K.k. Finance Industory Network And System Integration
+  swift: COMGJPJ1XXX
+  swift8: COMGJPJ1
+  branch_name: Head Office
+  branch_address: Tokyo
+  branch_code: XXX
+  city: Tokyo
+  country: Japan
+- name: County Natwest Securities Japan Ltd.
+  swift: CNSJJPJ1XXX
+  swift8: CNSJJPJ1
+  branch_name: Head Office
+  branch_address: Aig Building Tokyo 100-0005
+  branch_code: XXX
+  city: Tokyo
+  country: Japan
+- name: Daewoo Securities Co. Ltd
+  swift: DAESJPJ1XXX
+  swift8: DAESJPJ1
+  branch_name: Head Office
+  branch_address: Daito Building Tokyo 103-0027
+  branch_code: XXX
+  city: Tokyo
+  country: Japan
+- name: Dai Chi Kangyo Securities 6f Marunouchi Centre Bldg
+  swift: DCKSJPJ1XXX
+  swift8: DCKSJPJ1
+  branch_name: Head Office
+  branch_address: Marunouchi Centre Building Tokyo 100 005
+  branch_code: XXX
+  city: Tokyo
+  country: Japan
+- name: Dai-ichi Securities Co Ltd.
+  swift: SDAIJPJ1XXX
+  swift8: SDAIJPJ1
+  branch_name: Head Office
+  branch_address: 1-6-2 Nihonbashi Muromachi Chuo-Ku Tokyo 103-0022
+  branch_code: XXX
+  city: Tokyo
+  country: Japan
+- name: Daicel International Finance Bv
+  swift: DAIIJPJ1XXX
+  swift8: DAIIJPJ1
+  branch_name: Head Office
+  branch_address: Azuchi-Machi, Chuo-Ku Osaka 541-0052
+  branch_code: XXX
+  city: Osaka
+  country: Japan
+- name: Daichu Securities Company
+  swift: DACYJPJ1XXX
+  swift8: DACYJPJ1
+  branch_name: Head Office
+  branch_address: 2-6-4 Kouraibashi, Chuo-Ku Osaka 541-0043
+  branch_code: XXX
+  city: Osaka
+  country: Japan
+- name: Daiko Clearing Services Corporation
+  swift: DSBTJPJ1XXX
+  swift8: DSBTJPJ1
+  branch_name: Head Office
+  branch_address: Daiko Kabutocho Tokyo 103-0026
+  branch_code: XXX
+  city: Tokyo
+  country: Japan
+- name: Daisei Securities Co Ltd.
+  swift: DSSEJPJ1XXX
+  swift8: DSSEJPJ1
+  branch_name: Head Office
+  branch_address: Nisshokan Building Tokyo 103-0026
+  branch_code: XXX
+  city: Tokyo
+  country: Japan
+- name: Daishin Securities Co. Ltd
+  swift: SEDAJPJ1XXX
+  swift8: SEDAJPJ1
+  branch_name: Head Office
+  branch_address: Nihonbashi Tec Building Tokyo 103-0013
+  branch_code: XXX
+  city: Tokyo
+  country: Japan
+- name: Daitoku Securities Co. Ltd
+  swift: DAITJPJ1XXX
+  swift8: DAITJPJ1
+  branch_name: Head Office
+  branch_address: 7-30 Sakae 3 Chome Naka-Ku Nagoya Aichi 460-0008
+  branch_code: XXX
+  city: Aichi
+  country: Japan
+- name: Daiwa Asset Management Co. Ltd
+  swift: DAMLJPJ1001
+  swift8: DAMLJPJ1
+  branch_name: No branch name
+  branch_address: No branch address
+  branch_code: '001'
+  city: Tokyo
+  country: Japan
+- name: Daiwa Asset Management Co. Ltd
+  swift: DAMLJPJTXXX
+  swift8: DAMLJPJT
+  branch_name: Head Office
+  branch_address: 1-9-1 Marunouchi Chiyoda-Ku Tokyo 100-6753
+  branch_code: XXX
+  city: Tokyo
+  country: Japan
+- name: Development Bank Of Japan Inc.
+  swift: DEJAJPJ1XXX
+  swift8: DEJAJPJ1
+  branch_name: Head Office
+  branch_address: Otemachi Financial City South Tower Tokyo 100-8178
+  branch_code: XXX
+  city: Tokyo
+  country: Japan
+- name: Diam Co., Ltd
+  swift: DIAMJPJTXXX
+  swift8: DIAMJPJT
+  branch_name: Head Office
+  branch_address: New Tokyo Bldg Chiyoda-Ku 100-0005
+  branch_code: XXX
+  city: Chiyoda
+  country: Japan
+- name: Dillon, Read And Co Inc.
+  swift: DILRJPJ1XXX
+  swift8: DILRJPJ1
+  branch_name: Head Office
+  branch_address: Imperial Tower Tokyo 100-0011
+  branch_code: XXX
+  city: Tokyo
+  country: Japan
+- name: Donaldson, Lufkin And Jenrette Securities Corp.
+  swift: DLJCJPJ1XXX
+  swift8: DLJCJPJ1
+  branch_name: Head Office
+  branch_address: Yaesu-Dai Building Tokyo 104-0031
+  branch_code: XXX
+  city: Tokyo
+  country: Japan
+- name: Dongsuh Securities Co. Ltd.
+  swift: DOSEJPJ1XXX
+  swift8: DOSEJPJ1
+  branch_name: Head Office
+  branch_address: Nissin Building Tokyo 103-0025
+  branch_code: XXX
+  city: Tokyo
+  country: Japan
+- name: Epic Prowess Of Japan Fund
+  swift: EPJFJPJ1XXX
+  swift8: EPJFJPJ1
+  branch_name: Head Office
+  branch_address: Yamato Life Insurance Building Tokyo 100-0011
+  branch_code: XXX
+  city: Tokyo
+  country: Japan
+- name: Epic Wisdom Of Japan
+  swift: EPWJJPJ1XXX
+  swift8: EPWJJPJ1
+  branch_name: Head Office
+  branch_address: Yamato Life Insurance Building Tokyo 100-0011
+  branch_code: XXX
+  city: Tokyo
+  country: Japan
+- name: Fil Investments (japan) Limited
+  swift: FIDIJPJ1XXX
+  swift8: FIDIJPJ1
+  branch_name: Head Office
+  branch_address: Shiroyama Trust Tower Tokyo 105-6019
+  branch_code: XXX
+  city: Tokyo
+  country: Japan
+- name: First Bank Of Toyama, Ltd.
+  swift: FBTYJPJ1XXX
+  swift8: FBTYJPJ1
+  branch_name: Head Office
+  branch_address: 2, Kanda Iwamotocho, Chiyoda-Ku Tokyo 102-0032
+  branch_code: XXX
+  city: Tokyo
+  country: Japan
+- name: Fitch Ratings Japan Limited
+  swift: FRIPJPJ1XXX
+  swift8: FRIPJPJ1
+  branch_name: Head Office
+  branch_address: Kojimachi Crystal City East Wing, Tokyo 102-0083
+  branch_code: XXX
+  city: Tokyo
+  country: Japan
+- name: Fortis Asset Management Japan Co., Ltd.
+  swift: CICJJPJ1XXX
+  swift8: CICJJPJ1
+  branch_name: Head Office
+  branch_address: Nippon Press Center Bldg Tokyo 100-0011
+  branch_code: XXX
+  city: Tokyo
+  country: Japan
+- name: Fpg Securities Co., Ltd.
+  swift: FPSEJPJ1XXX
+  swift8: FPSEJPJ1
+  branch_name: Head Office
+  branch_address: Yusen Bldg. Tokyo 100-0005
+  branch_code: XXX
+  city: Tokyo
+  country: Japan
+- name: Fuji Securities
+  swift: FUSTJPJ1XXX
+  swift8: FUSTJPJ1
+  branch_name: Head Office
+  branch_address: Nihonkokan Building Tokyo 1000004
+  branch_code: XXX
+  city: Tokyo
+  country: Japan
+- name: Fukuoka Stock Exchange
+  swift: XFKAJPJ1XXX
+  swift8: XFKAJPJ1
+  branch_name: Head Office
+  branch_address: 2-14-2, Tenjin, Cho-Ku Fukuoka 810-0001
+  branch_code: XXX
+  city: Fukuoka
+  country: Japan
+- name: Fukuyama Securities Co., Ltd.
+  swift: FKSEJPJ1XXX
+  swift8: FKSEJPJ1
+  branch_name: Head Office
+  branch_address: 4-9-4 Hachoubori Chuo-Ku Tokyo 104-0032
+  branch_code: XXX
+  city: Tokyo
+  country: Japan
+- name: Fx Prime Corporation
+  swift: FXPCJPJ1XXX
+  swift8: FXPCJPJ1
+  branch_name: Head Office
+  branch_address: Sumitomofudosan Aoyamadori Building Tokyo 150-0002
+  branch_code: XXX
+  city: Tokyo
+  country: Japan
+- name: Giorgio Armani Japan Co. Limited
+  swift: GAFIJPJ1XXX
+  swift8: GAFIJPJ1
+  branch_name: No branch name
+  branch_address: No branch address
+  branch_code: XXX
+  city: Tokyo
+  country: Japan
+- name: Gmo Click Securities,inc.
+  swift: GMCSJPJ1XXX
+  swift8: GMCSJPJ1
+  branch_name: Head Office
+  branch_address: Shibuya Infoss Tower Tokyo 150-0031
+  branch_code: XXX
+  city: Tokyo
+  country: Japan
+- name: H.s. Securities Co., Ltd
+  swift: HSCOJPJ1XXX
+  swift8: HSCOJPJ1
+  branch_name: Head Office
+  branch_address: Shinjuku Oak Tower Tokyo 163 6027
+  branch_code: XXX
+  city: Tokyo
+  country: Japan
+- name: Hachijuni Securities Co., Ltd.
+  swift: UEDAJPJ1XXX
+  swift8: UEDAJPJ1
+  branch_name: Head Office
+  branch_address: 2-3-3, Tokita Nagano 386-0018
+  branch_code: XXX
+  city: Nagano
+  country: Japan
+- name: Hanil Securities Co. Ltd
+  swift: HANEJPJ1XXX
+  swift8: HANEJPJ1
+  branch_name: Head Office
+  branch_address: Hino Building Tokyo 103-0025
+  branch_code: XXX
+  city: Tokyo
+  country: Japan
+- name: Hatori-marshall Company Limited
+  swift: HMCLJPJ1XXX
+  swift8: HMCLJPJ1
+  branch_name: Head Office
+  branch_address: Nippon Building Tokyo 100-0004
+  branch_code: XXX
+  city: Tokyo
+  country: Japan
+- name: Hewlett-packard Japan Ltd.
+  swift: HEJAJPJ1XXX
+  swift8: HEJAJPJ1
+  branch_name: Head Office
+  branch_address: 3-29-21 Takaido-Hyashi Tokyo
+  branch_code: XXX
+  city: Tokyo
+  country: Japan
+- name: Hinode Securities Co., Ltd.
+  swift: HISEJPJ1XXX
+  swift8: HISEJPJ1
+  branch_name: Head Office
+  branch_address: 2-3-9 Kouraibashi Chuo-Ku Osaka 541-0043
+  branch_code: XXX
+  city: Osaka
+  country: Japan
+- name: Hiroshima Stock Exchange
+  swift: XHIRJPJ1XXX
+  swift8: XHIRJPJ1
+  branch_name: Head Office
+  branch_address: 14-18,Kanayama-Cho Hiroshima 730-0022
+  branch_code: XXX
+  city: Hiroshima
+  country: Japan
+- name: Hirota Securities Co., Ltd.
+  swift: HIRTJPJ1XXX
+  swift8: HIRTJPJ1
+  branch_name: Head Office
+  branch_address: 1-24, Kitahama 1-Chome Osaka 103-0026
+  branch_code: XXX
+  city: Osaka
+  country: Japan
+- name: Hoare Govett Ltd.
+  swift: HOGTJPJ1XXX
+  swift8: HOGTJPJ1
+  branch_name: Head Office
+  branch_address: Tokyo
+  branch_code: XXX
+  city: Tokyo
+  country: Japan
+- name: Hypo Real Estate Capital Japan Corporation
+  swift: DPBBJPJ1XXX
+  swift8: DPBBJPJ1
+  branch_name: Head Office
+  branch_address: Otemachi 1st Square West Tower Tokyo 100-0004
+  branch_code: XXX
+  city: Tokyo
+  country: Japan
+- name: Hyundai Securities Co., Ltd Tokyo Branch
+  swift: HDTKJPJ1XXX
+  swift8: HDTKJPJ1
+  branch_name: Head Office
+  branch_address: L Ningyocho Building Tokyo 1030013
+  branch_code: XXX
+  city: Tokyo
+  country: Japan
+- name: Ibj Securities
+  swift: IBJSJPJ1XXX
+  swift8: IBJSJPJ1
+  branch_name: Head Office
+  branch_address: 1-51 Otemachi Tokyo 1000004
+  branch_code: XXX
+  city: Tokyo
+  country: Japan
+- name: Ichiyoshi Securities Co. Ltd.
+  swift: ICHIJPJ1XXX
+  swift8: ICHIJPJ1
+  branch_name: Head Office
+  branch_address: 2-14-1 Hatchobori Chuo Ku Tokyo 104-0032
+  branch_code: XXX
+  city: Tokyo
+  country: Japan
+- name: Imagawa Misawaya Securities Co., Ltd
+  swift: IMAGJPJ1XXX
+  swift8: IMAGJPJ1
+  branch_name: Head Office
+  branch_address: 1-6-11 Nihonbashi, Kayaba-Cho Tokyo 103-0025
+  branch_code: XXX
+  city: Tokyo
+  country: Japan
+- name: Imamura Securities Co. Ltd
+  swift: IMAMJPJ1XXX
+  swift8: IMAMJPJ1
+  branch_name: Head Office
+  branch_address: 25 Jikken, Ishikawa Kanazawa 920-0906
+  branch_code: XXX
+  city: Kanazawa
+  country: Japan
+- name: Indocam Japan Limited
+  swift: AGRIJPJ1XXX
+  swift8: AGRIJPJ1
+  branch_name: Head Office
+  branch_address: Hibiya Dai Building Tokyo 100-0011
+  branch_code: XXX
+  city: Tokyo
+  country: Japan
+- name: Indosuez Capital Securities (japan) Ltd
+  swift: ICSJJPJ1XXX
+  swift8: ICSJJPJ1
+  branch_name: Head Office
+  branch_address: 3-29 Jimbocho, Kanda, Chiyoda-Ku Tokyo 101-0051
+  branch_code: XXX
+  city: Tokyo
+  country: Japan
+- name: Instinet Japan Limited
+  swift: INSJJPJ1XXX
+  swift8: INSJJPJ1
+  branch_name: Head Office
+  branch_address: Akasaka Biz Tower Tokyo 107-6336
+  branch_code: XXX
+  city: Tokyo
+  country: Japan
+- name: Instinet Japan Limited
+  swift: ISNTJPJTXXX
+  swift8: ISNTJPJT
+  branch_name: Head Office
+  branch_address: Akasaka Biz Tower Tokyo 107-6336
+  branch_code: XXX
+  city: Tokyo
+  country: Japan
+- name: Interactive Brokers Securities Japan, Inc. Tekko Kaikan 4 F
+  swift: IBSJJPJ1XXX
+  swift8: IBSJJPJ1
+  branch_name: Head Office
+  branch_address: Tekko Kaikan 4 F Tokyo 103-0025
+  branch_code: XXX
+  city: Tokyo
+  country: Japan
+- name: Invast Securities Co.,ltd.
+  swift: KOBEJPJ1XXX
+  swift8: KOBEJPJ1
+  branch_name: Head Office
+  branch_address: Daiya Toranomon Tokyo 105-0003
+  branch_code: XXX
+  city: Tokyo
+  country: Japan
+- name: Isukamoto Securites Comp.
+  swift: TKMTJPJ1XXX
+  swift8: TKMTJPJ1
+  branch_name: Head Office
+  branch_address: Isukamoto Building Osaka 541-0042
+  branch_code: XXX
+  city: Osaka
+  country: Japan
+- name: Itg Japan Ltd
+  swift: ITJAJPJ1XXX
+  swift8: ITJAJPJ1
+  branch_name: Head Office
+  branch_address: Yurakucho Denki Building Tokyo 100-0006
+  branch_code: XXX
+  city: Tokyo
+  country: Japan
+- name: Iwai Securities Ltd.
+  swift: IWAIJPJ1XXX
+  swift8: IWAIJPJ1
+  branch_name: Head Office
+  branch_address: Osaka Heiwa Building Osaka 541-0041
+  branch_code: XXX
+  city: Osaka
+  country: Japan
+- name: J.m. Sassoon And Co (pte) Ltd
+  swift: JMSCJPJ1XXX
+  swift8: JMSCJPJ1
+  branch_name: Head Office
+  branch_address: Yokokawa Building Tokyo 104-0033
+  branch_code: XXX
+  city: Tokyo
+  country: Japan
+- name: J.p. Morgan Investment Management Inc.
+  swift: JPMIJPJ1XXX
+  swift8: JPMIJPJ1
+  branch_name: Head Office
+  branch_address: Akasaka Park Building Tokyo 109-6151
+  branch_code: XXX
+  city: Tokyo
+  country: Japan
+- name: Japan Asia Securities Co., Ltd.
+  swift: MAUCJPJ1XXX
+  swift8: MAUCJPJ1
+  branch_name: Head Office
+  branch_address: 1-7-9 Nihonbashi Kakigaracho, Tokyo 103-0014
+  branch_code: XXX
+  city: Tokyo
+  country: Japan
+- name: Japan Bond Trading Co., Ltd.
+  swift: JBTSJPJ1XXX
+  swift8: JBTSJPJ1
+  branch_name: Head Office
+  branch_address: Yaesu-Daibiru Building Tokyo 104-8309
+  branch_code: XXX
+  city: Tokyo
+  country: Japan
+- name: Japan Credit Rating Agency, Ltd.
+  swift: JCRAJPJ1XXX
+  swift8: JCRAJPJ1
+  branch_name: Head Office
+  branch_address: Jiji Press Building Chuo-Ku 1040061
+  branch_code: XXX
+  city: Chuo-Ku
+  country: Japan
+- name: Japan Electronic Securities Co., Ltd.
+  swift: JESCJPJ1XXX
+  swift8: JESCJPJ1
+  branch_name: Head Office
+  branch_address: Heiwa Building Osaka 541-1200
+  branch_code: XXX
+  city: Osaka
+  country: Japan
+- name: Japan Securities Agents, Ltd.
+  swift: JSEAJPJ1CLR
+  swift8: JSEAJPJ1
+  branch_name: Clearance Section
+  branch_address: Tokyo
+  branch_code: CLR
+  city: Tokyo
+  country: Japan
+- name: Japan Securities Agents, Ltd.
+  swift: JSEAJPJ1CST
+  swift8: JSEAJPJ1
+  branch_name: Custody Section
+  branch_address: Tokyo
+  branch_code: CST
+  city: Tokyo
+  country: Japan
+- name: Japan Securities Agents, Ltd.
+  swift: JSEAJPJ1XXX
+  swift8: JSEAJPJ1
+  branch_name: Head Office
+  branch_address: 1-2-4 Kayabacho Nihonbashi, Chuo-Ku Tokyo 103-8202
+  branch_code: XXX
+  city: Tokyo
+  country: Japan
+- name: Japan Securities Clearing Corporation
+  swift: JSCCJPJ1XXX
+  swift8: JSCCJPJ1
+  branch_name: Head Office
+  branch_address: 2-1, Nihombashi-Kabuto-Cho, Tokyo 103 0026
+  branch_code: XXX
+  city: Tokyo
+  country: Japan
+- name: Japan Securities Finance Co., Ltd
+  swift: JSFTJPJ1XXX
+  swift8: JSFTJPJ1
+  branch_name: Head Office
+  branch_address: 2-10, 1-Chome, Nihombashi-Kayabacho Tokyo 103-0025
+  branch_code: XXX
+  city: Tokyo
+  country: Japan
+- name: Japan Security Clearing Corporation (jgb Clearing
+  swift: JGBCJPJ1XXX
+  swift8: JGBCJPJ1
+  branch_name: Head Office
+  branch_address: 1-1-1 Kyobashi, Chu-Ku Tokyo 104 8309
+  branch_code: XXX
+  city: Tokyo
+  country: Japan
+- name: Japan Wealth Management Securities, Inc.
+  swift: JWMSJPJ1XXX
+  swift8: JWMSJPJ1
+  branch_name: Head Office
+  branch_address: Shiroyama Trust Tower Tokyo 105 6036
+  branch_code: XXX
+  city: Tokyo
+  country: Japan
+- name: Jibun Bank Corporation
+  swift: JICRJPJ1XXX
+  swift8: JICRJPJ1
+  branch_name: Head Office
+  branch_address: Shinjuku Oak Tower Tokyo 163-6006
+  branch_code: XXX
+  city: Tokyo
+  country: Japan
+- name: Jsf Trust And Banking Co.,ltd
+  swift: JSTCJPJ1XXX
+  swift8: JSTCJPJ1
+  branch_name: Head Office
+  branch_address: 2-4, 1-Chome, Kayaba-Cho, Nihonbashi Tokyo 103-0025
+  branch_code: XXX
+  city: Tokyo
+  country: Japan
+- name: Jyujiya Securities Co Ltd
+  swift: JYUJJPJ1XXX
+  swift8: JYUJJPJ1
+  branch_name: Head Office
+  branch_address: 6-17 Nihombashi-Kayaba-Cho 1-Chome Tokyo 103-0025
+  branch_code: XXX
+  city: Tokyo
+  country: Japan
+- name: Kabu.com Securities Co.,ltd.
+  swift: KASLJPJ1XXX
+  swift8: KASLJPJ1
+  branch_name: Head Office
+  branch_address: Keidanren Kaikan,6f Tokyo 100-0004
+  branch_code: XXX
+  city: Tokyo
+  country: Japan
+- name: Kakaku.com Financial,inc.
+  swift: KAFIJPJ1XXX
+  swift8: KAFIJPJ1
+  branch_name: Head Office
+  branch_address: Ebisu Imark Gate 8f Tokyo 150-0022
+  branch_code: XXX
+  city: Tokyo
+  country: Japan
+- name: Kaneju Securities Co., Ltd.
+  swift: KSECJPJ1XXX
+  swift8: KSECJPJ1
+  branch_name: Head Office
+  branch_address: 19-7 Nihonbashi Koami-Cho Chuo-Ku Tokyo 103-0016
+  branch_code: XXX
+  city: Tokyo
+  country: Japan
+- name: Kaneman Securities Co., Ltd.
+  swift: KANEJPJ1XXX
+  swift8: KANEJPJ1
+  branch_name: Head Office
+  branch_address: 3-8 Nihonbashi Kabuto-Cho Chuo-Ku Tokyo 103-0026
+  branch_code: XXX
+  city: Tokyo
+  country: Japan
+- name: Kaneyama Securities Co.
+  swift: KANAJPJ1XXX
+  swift8: KANAJPJ1
+  branch_name: Head Office
+  branch_address: 11-8 Nihombashi-Koami-Cho Chuo-Ku Tokyo 103-0016
+  branch_code: XXX
+  city: Tokyo
+  country: Japan
+- name: Kanmon Shohin Torihikijo (commodity Exchange
+  swift: XKSTJPJ1XXX
+  swift8: XKSTJPJ1
+  branch_name: Head Office
+  branch_address: 1-5 Nabe-Cho Shimonoseki 750-0006
+  branch_code: XXX
+  city: Shimonoseki
+  country: Japan
+- name: Kansai Agricultural Commodities Exchange
+  swift: XKACJPJ1XXX
+  swift8: XKACJPJ1
+  branch_name: Head Office
+  branch_address: 1-10-14 Awaza, Nishi-Ku Osaka 550-0011
+  branch_code: XXX
+  city: Osaka
+  country: Japan
+- name: Kazaka Securities Co., Ltd.
+  swift: NGLOJPJ1XXX
+  swift8: NGLOJPJ1
+  branch_name: Head Office
+  branch_address: Ark Yagi Hills Tokyo 106-0032
+  branch_code: XXX
+  city: Tokyo
+  country: Japan
+- name: Kimura Securities Co., Ltd.
+  swift: KIMUJPJ1XXX
+  swift8: KIMUJPJ1
+  branch_name: Head Office
+  branch_address: 3-3-17 Sakae Naka-Ku Nagoya 460-0008
+  branch_code: XXX
+  city: Nagoya
+  country: Japan
+- name: Kobe Gomu Torihikijo (rubber Exchange
+  swift: XKGTJPJ1XXX
+  swift8: XKGTJPJ1
+  branch_name: Head Office
+  branch_address: 2-5-28 Kyutaro-Machi, Chuo-Ku Osaka 541-0056
+  branch_code: XXX
+  city: Osaka
+  country: Japan
+- name: Kobe Kiito Torihikijo (raw Silk Exchange
+  swift: XKKTJPJ1XXX
+  swift8: XKKTJPJ1
+  branch_name: Head Office
+  branch_address: 126 Higashi-Machi, Chuo-Ku Kobe 650-0031
+  branch_code: XXX
+  city: Kobe
+  country: Japan
+- name: Koe
+  swift: KOEJJPJ1XXX
+  swift8: KOEJJPJ1
+  branch_name: Head Office
+  branch_address: Korin Bldg Tokyo 1010052
+  branch_code: XXX
+  city: Tokyo
+  country: Japan
+- name: Kohsei Securities
+  swift: KOHSJPJ1XXX
+  swift8: KOHSJPJ1
+  branch_name: Head Office
+  branch_address: Tokyo
+  branch_code: XXX
+  city: Tokyo
+  country: Japan
+- name: Kokusai Densin Denwa Co. Ltd.
+  swift: KDDNJPJ1XXX
+  swift8: KDDNJPJ1
+  branch_name: Head Office
+  branch_address: Kdd Building Tokyo 163
+  branch_code: XXX
+  city: Tokyo
+  country: Japan
+- name: Kosei Securities Co.
+  swift: KOSSJPJ1XXX
+  swift8: KOSSJPJ1
+  branch_name: Head Office
+  branch_address: Nihon Building Tokyo 100-0004
+  branch_code: XXX
+  city: Tokyo
+  country: Japan
+- name: Kyokuto Securities Co
+  swift: KYOSJPJ1XXX
+  swift8: KYOSJPJ1
+  branch_name: Head Office
+  branch_address: 4-7 Nihombashi Kayaba-Cho 1-Chome, Tokyo 103-0025
+  branch_code: XXX
+  city: Tokyo
+  country: Japan
+- name: Kyoto Stock Exchange
+  swift: XKYOJPJ1XXX
+  swift8: XKYOJPJ1
+  branch_name: Head Office
+  branch_address: 60,Higashinotoin-Higashiiru- Kyoto 600-0000
+  branch_code: XXX
+  city: Kyoto
+  country: Japan
+- name: Kyowa Securities Co.
+  swift: KYOCJPJ1XXX
+  swift8: KYOCJPJ1
+  branch_name: Head Office
+  branch_address: 8-3 Nihombashi Kabuto-Cho, Chuo-Ku Tokyo 103-0026
+  branch_code: XXX
+  city: Tokyo
+  country: Japan
+- name: Landesbank Baden-wuerttemberg, Tokyo
+  swift: SOLAJPJ1XXX
+  swift8: SOLAJPJ1
+  branch_name: Head Office
+  branch_address: The Imperial Hotel Tower Tokyo 100-0011
+  branch_code: XXX
+  city: Tokyo
+  country: Japan
+- name: Leading Securities Co.,ltd
+  swift: SIEGJPJ1XXX
+  swift8: SIEGJPJ1
+  branch_name: Head Office
+  branch_address: Across Shinkawa Building Tokyo
+  branch_code: XXX
+  city: Tokyo
+  country: Japan
+- name: Lehman Brothers Japan Inc.
+  swift: LBFLJPJ1XXX
+  swift8: LBFLJPJ1
+  branch_name: Head Office
+  branch_address: Roppongi Hills Mori Tower Tokyo 106-6131
+  branch_code: XXX
+  city: Tokyo
+  country: Japan
+- name: Lg Display Japan Co., Ltd.
+  swift: LGDTJPJ1XXX
+  swift8: LGDTJPJ1
+  branch_name: Head Office
+  branch_address: Akasaka Twin Tower Tokyo
+  branch_code: XXX
+  city: Tokyo
+  country: Japan
+- name: Liquidnet Japan Inc.
+  swift: LIQJJPJ1XXX
+  swift8: LIQJJPJ1
+  branch_name: Head Office
+  branch_address: Akasaka Garden City Minato-Ku 107-0052
+  branch_code: XXX
+  city: Minato-Ku
+  country: Japan
+- name: Ltcb Securities Company Limited
+  swift: LTSCJPJ1XXX
+  swift8: LTSCJPJ1
+  branch_name: Head Office
+  branch_address: Hibiya Dai Building Tokyo 100-0011
+  branch_code: XXX
+  city: Tokyo
+  country: Japan
+- name: Lucky Securities Co Ltd
+  swift: LUCSJPJ1XXX
+  swift8: LUCSJPJ1
+  branch_name: Head Office
+  branch_address: Yusho Building Tokyo 103-0025
+  branch_code: XXX
+  city: Tokyo
+  country: Japan
+- name: Macquarie Capital Securities (japan) Limited
+  swift: MACQJPJ1XXX
+  swift8: MACQJPJ1
+  branch_name: Head Office
+  branch_address: New Otani Garden Court Tokyo 1020094
+  branch_code: XXX
+  city: Tokyo
+  country: Japan
+- name: Maeda Securities Co
+  swift: MAEEJPJ1XXX
+  swift8: MAEEJPJ1
+  branch_name: Head Office
+  branch_address: 11-11 Shinkawa 1-Chome, Chuo-Ku Tokyo 104-0033
+  branch_code: XXX
+  city: Tokyo
+  country: Japan
+- name: Maeda Securities Ltd.
+  swift: MAESJPJ1XXX
+  swift8: MAESJPJ1
+  branch_name: Head Office
+  branch_address: Fukuoka Shoken Building Fukuoka 810-0001
+  branch_code: XXX
+  city: Fukuoka
+  country: Japan
+- name: Marudai Securities Co., Ltd.
+  swift: RUDAJPJ1XXX
+  swift8: RUDAJPJ1
+  branch_name: Head Office
+  branch_address: Kabuta-Choo Chuoo Building Tokyo 103-0026
+  branch_code: XXX
+  city: Tokyo
+  country: Japan
+- name: Marufuku Securities Co
+  swift: MAREJPJ1XXX
+  swift8: MAREJPJ1
+  branch_name: Head Office
+  branch_address: 4-2 Hacchobori 1-Chome, Chuo-Ku Tokyo 104-0032
+  branch_code: XXX
+  city: Tokyo
+  country: Japan
+- name: Maruhachi Securities Co
+  swift: MARCJPJ1NGY
+  swift8: MARCJPJ1
+  branch_name: Nagoya 460-0008
+  branch_address: 3-4-28 Sakae, Naka-Ku Nagoya 460-0008
+  branch_code: NGY
+  city: Nagoya
+  country: Japan
+- name: Maruhachi Securities Co
+  swift: MARCJPJ1XXX
+  swift8: MARCJPJ1
+  branch_name: Head Office
+  branch_address: 15-12 Nihombashi Kabuto-Cho, Tokyo 103-0026
+  branch_code: XXX
+  city: Tokyo
+  country: Japan
+- name: Maruichi Securities Co
+  swift: MAUSJPJ1XXX
+  swift8: MAUSJPJ1
+  branch_name: Head Office
+  branch_address: 13-1 Nihombashi Koami-Cho, Chuo-Ku Tokyo 103-0016
+  branch_code: XXX
+  city: Tokyo
+  country: Japan
+- name: Marukuni Securities Co.
+  swift: MAUUJPJ1XXX
+  swift8: MAUUJPJ1
+  branch_name: Head Office
+  branch_address: 10-2 Nihombashi Koami-Cho, Chuo-Ku Tokyo 103-0016
+  branch_code: XXX
+  city: Tokyo
+  country: Japan
+- name: Marusan Securities Co., Ltd.
+  swift: MARUJPJ1XXX
+  swift8: MARUJPJ1
+  branch_name: Head Office
+  branch_address: 2-5-2 Nihonbashi Chuo-Ku Tokyo 103-0027
+  branch_code: XXX
+  city: Tokyo
+  country: Japan
+- name: Matsui Securities Co
+  swift: MATEJPJ1XXX
+  swift8: MATEJPJ1
+  branch_name: Head Office
+  branch_address: 20-7 Nihombashi 1-Chome Chuo-Ku Tokyo 103-0027
+  branch_code: XXX
+  city: Tokyo
+  country: Japan
+- name: Me Net Securities Co., Ltd.
+  swift: TMTDJPJ1XXX
+  swift8: TMTDJPJ1
+  branch_name: Head Office
+  branch_address: Zentoku Roppongi Building Tokyo 106-0032
+  branch_code: XXX
+  city: Tokyo
+  country: Japan
+- name: Meiko National Securities Co., Ltd.
+  swift: MESCJPJ1XXX
+  swift8: MESCJPJ1
+  branch_name: Head Office
+  branch_address: Sumisei Nihonbashi Koami-Cho Bldg Tokyo 103-0016
+  branch_code: XXX
+  city: Tokyo
+  country: Japan
+- name: Meiwa Securities Co
+  swift: MEICJPJ1XXX
+  swift8: MEICJPJ1
+  branch_name: Head Office
+  branch_address: 7-15 Nihombashi Kabuto-Cho Tokyo 103-0026
+  branch_code: XXX
+  city: Tokyo
+  country: Japan
+- name: Mercedes-benz Japan Co.ltd.
+  swift: DAIXJPJTXXX
+  swift8: DAIXJPJT
+  branch_name: Head Office
+  branch_address: Roppongi First Building Tokyo 106-8506
+  branch_code: XXX
+  city: Tokyo
+  country: Japan
+- name: Mf Global Fxa Securities Ltd
+  swift: MFGLJPJ1XXX
+  swift8: MFGLJPJ1
+  branch_name: Head Office
+  branch_address: Nbf Hibiya Bldg Tokyo 100-0011
+  branch_code: XXX
+  city: Tokyo
+  country: Japan
+- name: Midland Montagu Securities Ltd
+  swift: MIMSJPJ1XXX
+  swift8: MIMSJPJ1
+  branch_name: Head Office
+  branch_address: Aiu Building Tokyo 100-0005
+  branch_code: XXX
+  city: Tokyo
+  country: Japan
+- name: Miki Securities Co., Ltd
+  swift: MIKIJPJ1XXX
+  swift8: MIKIJPJ1
+  branch_name: Head Office
+  branch_address: 1-20-9 Nihombashi 1, Chuo-Ku Tokyo 103-0027
+  branch_code: XXX
+  city: Tokyo
+  country: Japan
+- name: Minex Corporation
+  swift: MINXJPJ1XXX
+  swift8: MINXJPJ1
+  branch_name: Head Office
+  branch_address: Nanwa-Nihonbashi Building Tokyo 103-0022
+  branch_code: XXX
+  city: Tokyo
+  country: Japan
+- name: Misawaya Securities Co
+  swift: MISSJPJ1XXX
+  swift8: MISSJPJ1
+  branch_name: Head Office
+  branch_address: 5-4 Nihombashi Hakozaki-Cho Chuo-Ku Tokyo 103-0015
+  branch_code: XXX
+  city: Tokyo
+  country: Japan
+- name: Mito Securities Co., Ltd.
+  swift: MITSJPJ1XXX
+  swift8: MITSJPJ1
+  branch_name: Head Office
+  branch_address: Kowa Building Tokyo 100-0027
+  branch_code: XXX
+  city: Tokyo
+  country: Japan
+- name: Mitsubushi Trust Asset Management Co., Ltd
+  swift: MTAMJPJ1XXX
+  swift8: MTAMJPJ1
+  branch_name: Head Office
+  branch_address: Aoyama Building Tokyo 107-0061
+  branch_code: XXX
+  city: Tokyo
+  country: Japan
+- name: Mitsui Life Insurance Company Ltd
+  swift: MMLIJPJ1XXX
+  swift8: MMLIJPJ1
+  branch_name: Head Office
+  branch_address: 2-1-1, Otemachi, Chiyoda-Ku Tokyo 100-8123
+  branch_code: XXX
+  city: Tokyo
+  country: Japan
+- name: Mizuho Asset Management Co., Ltd.
+  swift: DKAMJPJ1XXX
+  swift8: DKAMJPJ1
+  branch_name: Head Office
+  branch_address: Mita Twin Bldg Tokyo 100-0005
+  branch_code: XXX
+  city: Tokyo
+  country: Japan
+- name: Mizuho Bank, Ltd.
+  swift: MHCBJPJ6XXX
+  swift8: MHCBJPJ6
+  branch_name: Head Office
+  branch_address: 1-3-3, Marunouchi, Chiyoda-Ku Tokyo 100-8210
+  branch_code: XXX
+  city: Tokyo
+  country: Japan
+- name: Mizuho Securities Co.,ltd
+  swift: MHSCJPJ3XXX
+  swift8: MHSCJPJ3
+  branch_name: Head Office
+  branch_address: Jowa Yaesu Bldg Chuo-Ku
+  branch_code: XXX
+  city: Chuo
+  country: Japan
+- name: Monex Fx,inc.
+  swift: MOFXJPJ1XXX
+  swift8: MOFXJPJ1
+  branch_name: Head Office
+  branch_address: River Side Yomiuri Bld Chuo-Ku 103-0015
+  branch_code: XXX
+  city: Chuo-Ku
+  country: Japan
+- name: Monex, Inc.
+  swift: MNXIJPJ1XXX
+  swift8: MNXIJPJ1
+  branch_name: Head Office
+  branch_address: 2-4-1 Kojimachi, Tokyo 102-0083
+  branch_code: XXX
+  city: Tokyo
+  country: Japan
+- name: Moody's (japan) K.k.
+  swift: MOJAJPJ1XXX
+  swift8: MOJAJPJ1
+  branch_name: Head Office
+  branch_address: Atago Green Hills Mori Tower Tokyo 105-6220
+  branch_code: XXX
+  city: Tokyo
+  country: Japan
+- name: Moody's Sf Japan K.k. (msfj) 20th F
+  swift: MOJMJPJ1XXX
+  swift8: MOJMJPJ1
+  branch_name: Head Office
+  branch_address: Atago Green Hills Mori Tower Tokyo 105-6220
+  branch_code: XXX
+  city: Tokyo
+  country: Japan
+- name: Morgan Stanley Asset And Investment Trust Management Co., Limited
+  swift: MSAMJPJ1XXX
+  swift8: MSAMJPJ1
+  branch_name: Head Office
+  branch_address: Yebisu Garden Place Tower Tokyo 150-6009
+  branch_code: XXX
+  city: Tokyo
+  country: Japan
+- name: Murosei Securities Co., Ltd.
+  swift: MUSEJPJ1XXX
+  swift8: MUSEJPJ1
+  branch_name: Head Office
+  branch_address: Nishoskan Building Tokyo 103-0026
+  branch_code: XXX
+  city: Tokyo
+  country: Japan
+- name: Musashi Securities Company Limited
+  swift: ADOMJPJ1XXX
+  swift8: ADOMJPJ1
+  branch_name: Head Office
+  branch_address: 2-86 Honcho Kumagaya 360-0042
+  branch_code: XXX
+  city: Kumagaya
+  country: Japan
+- name: Nagano Securities Co.,ltd.
+  swift: NGNOJPJ1XXX
+  swift8: NGNOJPJ1
+  branch_name: Head Office
+  branch_address: 606-8 Nisigocho Nagano 380-0845
+  branch_code: XXX
+  city: Nagano
+  country: Japan
+- name: Nagasaki Bank
+  swift: NAGKJPJ1XXX
+  swift8: NAGKJPJ1
+  branch_name: Head Office
+  branch_address: 3-14 Sakaemachi Nagasakishi Nagasaki 8508666
+  branch_code: XXX
+  city: Nagasakishi
+  country: Japan
+- name: Nagasaki-ken Rodo Kinko Bank
+  swift: NARKJPJ1XXX
+  swift8: NARKJPJ1
+  branch_name: Head Office
+  branch_address: 4-16 Daikoku-Machi Nagasaki-Sh Nagasaki 850
+  branch_code: XXX
+  city: Nagasaki
+  country: Japan
+- name: Nagoya Kokumotsu Satou Torihikijo (grain And Sugar Exchange
+  swift: XNKSJPJ1XXX
+  swift8: XNKSJPJ1
+  branch_name: Head Office
+  branch_address: 2-3-2 Meieki-Minami, Nakamura-Ku Nagoya 450-0003
+  branch_code: XXX
+  city: Nagoya
+  country: Japan
+- name: Nagoya Seni Torihikijo (textile Exchange
+  swift: XNSTJPJ1XXX
+  swift8: XNSTJPJ1
+  branch_name: Head Office
+  branch_address: 3-2-15 Nishiki, Naka-Ku Nagoya 460-0003
+  branch_code: XXX
+  city: Nagoya
+  country: Japan
+- name: Nagoya Stock Exchange
+  swift: XNGOJPJ1XXX
+  swift8: XNGOJPJ1
+  branch_name: Head Office
+  branch_address: 3-3-17, Sakae, Naka-Ku Nagoya 460-0008
+  branch_code: XXX
+  city: Nagoya
+  country: Japan
+- name: Naito Securities Co
+  swift: NAIEJPJ1OSA
+  swift8: NAIEJPJ1
+  branch_name: Osaka 541-0043
+  branch_address: 1-5-9 Kouraibashi, Chuo-Ku Osaka 541-0043
+  branch_code: OSA
+  city: Osaka
+  country: Japan
+- name: Naito Securities Co
+  swift: NAIEJPJ1XXX
+  swift8: NAIEJPJ1
+  branch_name: Head Office
+  branch_address: 10-1 Nihombashi Ningyo-Cho 3-Chome Tokyo 103-0013
+  branch_code: XXX
+  city: Tokyo
+  country: Japan
+- name: Nakahara Securities Co
+  swift: NAKSJPJ1XXX
+  swift8: NAKSJPJ1
+  branch_name: Head Office
+  branch_address: 4-1 Nihombashi Muromachi 4-Chome Tokyo 103-0022
+  branch_code: XXX
+  city: Tokyo
+  country: Japan
+- name: Nakaizumi Securities Co, Ltd
+  swift: IWTAJPJ1XXX
+  swift8: IWTAJPJ1
+  branch_name: Head Office
+  branch_address: 968 Nakaizumi, Iwata-City Shizuoka 438-0078
+  branch_code: XXX
+  city: Shizuoka
+  country: Japan
+- name: Naruse Securities Co
+  swift: NAREJPJ1XXX
+  swift8: NAREJPJ1
+  branch_name: Head Office
+  branch_address: 4-2 Nihombashi Kabuto-Cho Chuo-Ku Tokyo 103-0026
+  branch_code: XXX
+  city: Tokyo
+  country: Japan
+- name: National Mutual Insurance Federation Of Agricultural Cooperatives
+  swift: ZENKJPJ1XXX
+  swift8: ZENKJPJ1
+  branch_name: Head Office
+  branch_address: 7-9 Hirakawa-Cho, 2-Chome Tokyo 102-8630
+  branch_code: XXX
+  city: Tokyo
+  country: Japan
+- name: Nations-crt Japan Inc.
+  swift: NACJJPJ1XXX
+  swift8: NACJJPJ1
+  branch_name: Head Office
+  branch_address: 3-18-19 Toranomon Minato-Ku Tokyo 105-0001
+  branch_code: XXX
+  city: Tokyo
+  country: Japan
+- name: Netwing Securities Co., Ltd.
+  swift: NIKSJPJ1XXX
+  swift8: NIKSJPJ1
+  branch_name: Head Office
+  branch_address: Nihonbashi 1-Chome 2 18 Tokyo 103-0025
+  branch_code: XXX
+  city: Tokyo
+  country: Japan
+- name: Newedge Japan Inc
+  swift: NEWGJPJ1XXX
+  swift8: NEWGJPJ1
+  branch_name: Head Office
+  branch_address: Tower 10-1 Tokyo 106-6117
+  branch_code: XXX
+  city: Tokyo
+  country: Japan
+- name: Niigata Securities Co., Ltd.
+  swift: NIGTJPJ1XXX
+  swift8: NIGTJPJ1
+  branch_name: Head Office
+  branch_address: 3-8-26 Jyonaicyo, Nagaoka-Shi Niigata 940-0061
+  branch_code: XXX
+  city: Niigata
+  country: Japan
+- name: Niigata Stock Exchange
+  swift: XNIIJPJ1XXX
+  swift8: XNIIJPJ1
+  branch_name: Head Office
+  branch_address: 1245,Hachiban-Cho Niigata 951
+  branch_code: XXX
+  city: Niigata
+  country: Japan
+- name: Nike Japan Corp.
+  swift: NIKEJPJ1XXX
+  swift8: NIKEJPJ1
+  branch_name: Head Office
+  branch_address: Sea Fort Square Center Building Tokyo 140-8631
+  branch_code: XXX
+  city: Tokyo
+  country: Japan
+- name: Nike Japan Group Llc
+  swift: NJGLJPJ1XXX
+  swift8: NJGLJPJ1
+  branch_name: Head Office
+  branch_address: 2-3-12 Higashi-Shingawa Tokyo 140-8631
+  branch_code: XXX
+  city: '8631'
+  country: Japan
+- name: Nikko Asset Management Co., Ltd
+  swift: NAMTJPJ1OP1
+  swift8: NAMTJPJ1
+  branch_name: Operations
+  branch_address: Tokyo
+  branch_code: OP1
+  city: Tokyo
+  country: Japan
+- name: Nikko Asset Management Co., Ltd
+  swift: NAMTJPJ1XXX
+  swift8: NAMTJPJ1
+  branch_name: Head Office
+  branch_address: Tokyo Takarazuka Building Tokyo 100-0006
+  branch_code: XXX
+  city: Tokyo
+  country: Japan
+- name: Nikon Corporation
+  swift: NKONJPJ1XXX
+  swift8: NKONJPJ1
+  branch_name: Head Office
+  branch_address: Shin Yurakucho Building Tokyo 100-8331
+  branch_code: XXX
+  city: Tokyo
+  country: Japan
+- name: Nippon Life Insurance Company
+  swift: NLICJPJ1BND
+  swift8: NLICJPJ1
+  branch_name: Global Bond
+  branch_address: Tokyo
+  branch_code: BND
+  city: Tokyo
+  country: Japan
+- name: Nippon Life Insurance Company
+  swift: NLICJPJ1EQY
+  swift8: NLICJPJ1
+  branch_name: Global Equity
+  branch_address: Tokyo
+  branch_code: EQY
+  city: Tokyo
+  country: Japan
+- name: Nippon Life Insurance Company
+  swift: NLICJPJ1XXX
+  swift8: NLICJPJ1
+  branch_name: Head Office
+  branch_address: 1-2-2, Yurakucho, Chiyoda-Ku Tokyo 100-8444
+  branch_code: XXX
+  city: Tokyo
+  country: Japan
+- name: Nippon Securities
+  swift: NISEJPJ1XXX
+  swift8: NISEJPJ1
+  branch_name: Head Office
+  branch_address: 1-7-7 Honcho Chuo-Ku Osaka 541-0053
+  branch_code: XXX
+  city: Osaka
+  country: Japan
+- name: Nis Securities Co., Ltd.
+  swift: YAMEJPJ1OSA
+  swift8: YAMEJPJ1
+  branch_name: Osaka 541-0048
+  branch_address: Kawaramachi Chuo Building Osaka 541-0048
+  branch_code: OSA
+  city: Osaka
+  country: Japan
+- name: Nis Securities Co., Ltd.
+  swift: YAMEJPJ1XXX
+  swift8: YAMEJPJ1
+  branch_name: Head Office
+  branch_address: L-Tower Tokyo 163-1522
+  branch_code: XXX
+  city: Tokyo
+  country: Japan
+- name: Nishimura Securities Co., Ltd
+  swift: NISMJPJ1XXX
+  swift8: NISMJPJ1
+  branch_name: Head Office
+  branch_address: 65 Tachiuri Nishimachi Shimogyo-Ku Kyoto 600-8007
+  branch_code: XXX
+  city: Kyoto
+  country: Japan
+- name: Nissan Century Securities Co., Ltd.
+  swift: NISSJPJ1XXX
+  swift8: NISSJPJ1
+  branch_name: Head Office
+  branch_address: 11 Nihonbashi Kakigaracho Tokyo 103-0014
+  branch_code: XXX
+  city: Tokyo
+  country: Japan
+- name: Nissho Iwai Securities Co., Ltd.
+  swift: NISHJPJ1XXX
+  swift8: NISHJPJ1
+  branch_name: Head Office
+  branch_address: Roppongiz Mori Building Tokyo 106-0032
+  branch_code: XXX
+  city: Tokyo
+  country: Japan
+- name: Nomura Financial Products And Services Inc
+  swift: NFPSJPJTXXX
+  swift8: NFPSJPJT
+  branch_name: Head Office
+  branch_address: Otemachi Chiyoda-Ku 2-2-2 Tokyo
+  branch_code: XXX
+  city: Tokyo
+  country: Japan
+- name: Nomura Financial Products And Services Inc
+  swift: NFPSJPJ1XXX
+  swift8: NFPSJPJ1
+  branch_name: Head Office
+  branch_address: Matsuyama 1-1-9, Okinawa
+  branch_code: XXX
+  city: Okinawa
+  country: Japan
+- name: Norinchukin Trust And Banking Co., Ltd., The
+  swift: NCTBJPJ1XXX
+  swift8: NCTBJPJ1
+  branch_name: Head Office
+  branch_address: 1-1-12 Uchikanda, Chiyoda-Ku Tokyo 101-0047
+  branch_code: XXX
+  city: Tokyo
+  country: Japan
+- name: Okachi Securities Co., Ltd.
+  swift: OKSEJPJ1XXX
+  swift8: OKSEJPJ1
+  branch_name: Head Office
+  branch_address: 3-7-29 Sakae Naka-Ku Nagoya 460-0008
+  branch_code: XXX
+  city: Nagoya
+  country: Japan
+- name: Okasan Online Securities Co.,ltd
+  swift: OKAOJPJ1XXX
+  swift8: OKAOJPJ1
+  branch_name: Head Office
+  branch_address: Torelance Ginza Building Tokyo 104-0061
+  branch_code: XXX
+  city: Tokyo
+  country: Japan
+- name: Okinawa Kaiho Bank
+  swift: OKWAJPJ1XXX
+  swift8: OKWAJPJ1
+  branch_name: Head Office
+  branch_address: 2-9-12 Kumojinaha-Shi Okinawa 100
+  branch_code: XXX
+  city: Okinawa
+  country: Japan
+- name: Orient Securities Co., Ltd.
+  swift: ORITJPJ1XXX
+  swift8: ORITJPJ1
+  branch_name: Head Office
+  branch_address: Wakamatsu Building Tokyo 103-0023
+  branch_code: XXX
+  city: Tokyo
+  country: Japan
+- name: Orix Bank Coporation
+  swift: ORCRJPJ1XXX
+  swift8: ORCRJPJ1
+  branch_name: Head Office
+  branch_address: 3-22-8 Shiba, Minato-Ku Tokyo 105-0014
+  branch_code: XXX
+  city: Tokyo
+  country: Japan
+- name: Orix Securities Corporation
+  swift: AKANJPJ1XXX
+  swift8: AKANJPJ1
+  branch_name: Head Office
+  branch_address: Grande Building Tokyo 104-0032
+  branch_code: XXX
+  city: Tokyo
+  country: Japan
+- name: Osaka Mercantile Exchange
+  swift: XOSMJPJ1XXX
+  swift8: XOSMJPJ1
+  branch_name: Head Office
+  branch_address: 5-28 Kyutaro-Machi 2 Chome Chuo-Ku Osaka 541-0056
+  branch_code: XXX
+  city: Osaka
+  country: Japan
+- name: Osaka Seni Torihikijo (textile Exchange
+  swift: XOSTJPJ1XXX
+  swift8: XOSTJPJ1
+  branch_name: Head Office
+  branch_address: 2-5-28 Kyutaro-Machi, Chuo-Ku Osaka 541-0056
+  branch_code: XXX
+  city: Osaka
+  country: Japan
+- name: Osaka Shoken Daiko Co., Lt.
+  swift: OSSHJPJ1XXX
+  swift8: OSSHJPJ1
+  branch_name: Head Office
+  branch_address: Tokyo
+  branch_code: XXX
+  city: Tokyo
+  country: Japan
+- name: Osawa Securities Co
+  swift: OSASJPJ1XXX
+  swift8: OSASJPJ1
+  branch_name: Head Office
+  branch_address: 2-13 Nihombashi-Kayaba-Cho 1-Chome Tokyo 103-0025
+  branch_code: XXX
+  city: Tokyo
+  country: Japan
+- name: Pcm International Inc. Tokyo
+  swift: PCINJPJ1XXX
+  swift8: PCINJPJ1
+  branch_name: Head Office
+  branch_address: Gfl N.E.S. Building Tokyo 150-0031
+  branch_code: XXX
+  city: Tokyo
+  country: Japan
+- name: Phillip Securities Japan, Ltd.
+  swift: PHSJJPJ1XXX
+  swift8: PHSJJPJ1
+  branch_name: Head Office
+  branch_address: 4-2, Nihonbashi Kabuto-Cho, Chuo-Ku Tokyo 103-0026
+  branch_code: XXX
+  city: Tokyo
+  country: Japan
+- name: Pinebridge Investments Japan Co., Ltd.
+  swift: AIGGJPJ1XXX
+  swift8: AIGGJPJ1
+  branch_name: Head Office
+  branch_address: Aig Building Tokyo 100-0005
+  branch_code: XXX
+  city: Tokyo
+  country: Japan
+- name: Prudential Investment Management Japan Co., Ltd.
+  swift: PIMJJPJ1XXX
+  swift8: PIMJJPJ1
+  branch_name: Head Office
+  branch_address: Prudential Tower Tokyo 100-0014
+  branch_code: XXX
+  city: Tokyo
+  country: Japan
+- name: Prudential Securities
+  swift: PRUSJPJ1XXX
+  swift8: PRUSJPJ1
+  branch_name: Head Office
+  branch_address: Shiroyama Jt Mori Building Tokyo 105-0001
+  branch_code: XXX
+  city: Tokyo
+  country: Japan
+- name: Richardson Greenshields Of Canada Ltd.
+  swift: RIGCJPJ1XXX
+  swift8: RIGCJPJ1
+  branch_name: Head Office
+  branch_address: Yurakucho Denki Building Tokyo 100-0006
+  branch_code: XXX
+  city: Tokyo
+  country: Japan
+- name: Roland Dg Corporation
+  swift: RODGJPJTXXX
+  swift8: RODGJPJT
+  branch_name: Head Office
+  branch_address: 1-6-4 Shinmiyakoda, Kita-Ku Shizuoka 431-2104
+  branch_code: XXX
+  city: Shizuoka
+  country: Japan
+- name: Saikyo Bank Ltd., The
+  swift: SAKBJPJ1XXX
+  swift8: SAKBJPJ1
+  branch_name: Head Office
+  branch_address: 10-2 Heiwadori 1-Chome Shunan 745-0015
+  branch_code: XXX
+  city: Shunan
+  country: Japan
+- name: Sakamoto Hokuriku Securities Co., Ltd.
+  swift: SHSKJPJ1XXX
+  swift8: SHSKJPJ1
+  branch_name: Head Office
+  branch_address: 25 Shimothuthumi Kanazawa Ishikawa 920-0917
+  branch_code: XXX
+  city: Ishikawa
+  country: Japan
+- name: Sakura Securities
+  swift: KUSEJPJ1XXX
+  swift8: KUSEJPJ1
+  branch_name: Head Office
+  branch_address: Kasumigaseki Building Tokyo 1006050
+  branch_code: XXX
+  city: Tokyo
+  country: Japan
+- name: Samsung Japan Co.,ltd
+  swift: SECTJPJ1201
+  swift8: SECTJPJ1
+  branch_name: Sjc
+  branch_address: Roppongi T-Cube 3-1-1 Tokyo 106-8532
+  branch_code: '201'
+  city: Tokyo
+  country: Japan
+- name: Samsung Japan Co.,ltd
+  swift: SECTJPJ1230
+  swift8: SECTJPJ1
+  branch_name: Syri
+  branch_address: 2-7, Sugasawa-Cho Tsurumi-Ku Yokohama 230-0027
+  branch_code: '230'
+  city: Yokohama
+  country: Japan
+- name: Samsung Japan Co.,ltd
+  swift: SECTJPJ1290
+  swift8: SECTJPJ1
+  branch_name: Stj
+  branch_address: Ichigaya Tokyu Bldg Tokyo 102-0073
+  branch_code: '290'
+  city: Tokyo
+  country: Japan
+- name: Samsung Japan Co.,ltd
+  swift: SECTJPJ1XXX
+  swift8: SECTJPJ1
+  branch_name: Head Office
+  branch_address: Roppongi T-Cube 3-1-1 Tokyo 106-8532
+  branch_code: XXX
+  city: Tokyo
+  country: Japan
+- name: Sanei Securities Co
+  swift: SAEEJPJ1XXX
+  swift8: SAEEJPJ1
+  branch_name: Head Office
+  branch_address: 12-7 Kyobashi 3-Chome Chuo-Ku Tokyo 104-0031
+  branch_code: XXX
+  city: Tokyo
+  country: Japan
+- name: Sanwa Asset Management Co., Ltd
+  swift: SWAMJPJ1XXX
+  swift8: SWAMJPJ1
+  branch_name: Head Office
+  branch_address: Ote Center Building Tokyo 100-0041
+  branch_code: XXX
+  city: Tokyo
+  country: Japan
+- name: Sanyo Securities Co., Ltd.
+  swift: SESAJPJ1XXX
+  swift8: SESAJPJ1
+  branch_name: Head Office
+  branch_address: 1-8-1 Nihonbashi Kayabacho Chuo-Ku Tokyo 103-0025
+  branch_code: XXX
+  city: Tokyo
+  country: Japan
+- name: Sapporo Stock Exchange
+  swift: XSAPJPJ1XXX
+  swift8: XSAPJPJ1
+  branch_name: Head Office
+  branch_address: 5-14-1, Minamiichija-Nisho, Chuo-Ku Sapporo 060-0061
+  branch_code: XXX
+  city: Sapporo
+  country: Japan
+- name: Sassoon Securities Japan Ltd
+  swift: SASJJPJ1XXX
+  swift8: SASJJPJ1
+  branch_name: Head Office
+  branch_address: 21-6 Hacchobori 2-Chome Chuo-Ku Tokyo 104 0032
+  branch_code: XXX
+  city: Tokyo
+  country: Japan
+- name: Saxo Bank Fx Securities K.k.
+  swift: SAUCJPJ1XXX
+  swift8: SAUCJPJ1
+  branch_name: Head Office
+  branch_address: Kamiyacho Sankei Building Tokyo 106-0041
+  branch_code: XXX
+  city: Tokyo
+  country: Japan
+- name: Sbi Remit Co., Ltd
+  swift: SBIRJPJTXXX
+  swift8: SBIRJPJT
+  branch_name: No branch name
+  branch_address: No branch address
+  branch_code: XXX
+  city: Tokyo
+  country: Japan
+- name: Sbi Securities Co.,ltd.
+  swift: ETRSJPJ1XXX
+  swift8: ETRSJPJ1
+  branch_name: Head Office
+  branch_address: Izumi Garden Tower Tokyo 106-6019
+  branch_code: XXX
+  city: Tokyo
+  country: Japan
+- name: Schroder Securities Japan Limited
+  swift: SSCHJPJ1XXX
+  swift8: SSCHJPJ1
+  branch_name: Head Office
+  branch_address: Ark Mori Building Tokyo 107-6090
+  branch_code: XXX
+  city: Tokyo
+  country: Japan
+- name: Scotia Capital Markets
+  swift: SCMCJPJ1XXX
+  swift8: SCMCJPJ1
+  branch_name: Head Office
+  branch_address: Fukoku Seime Building Tokyo 100-0011
+  branch_code: XXX
+  city: Tokyo
+  country: Japan
+- name: Sekisui Finance Company Limited
+  swift: SEFCJPJ1XXX
+  swift8: SEFCJPJ1
+  branch_name: Head Office
+  branch_address: 2-4-4 Nishi Tenma Osaka 530
+  branch_code: XXX
+  city: Osaka
+  country: Japan
+- name: Shinei Ishino Securities Co., Ltd.
+  swift: SISCJPJ1XXX
+  swift8: SISCJPJ1
+  branch_name: Head Office
+  branch_address: 27 Naniwa-Cho Chuo-Ku Kobe 650-0035
+  branch_code: XXX
+  city: Kobe
+  country: Japan
+- name: Shinginko Tokyo, Limited
+  swift: SGTKJPJ1XXX
+  swift8: SGTKJPJ1
+  branch_name: Head Office
+  branch_address: Ote Center Bldg. Tokyo 100-0004
+  branch_code: XXX
+  city: Tokyo
+  country: Japan
+- name: Shinkin Asset Management Co., Ltd
+  swift: SKAMJPJ1XXX
+  swift8: SKAMJPJ1
+  branch_name: Head Office
+  branch_address: Toyota Tsusyo Building Tokyo 103-0027
+  branch_code: XXX
+  city: Tokyo
+  country: Japan
+- name: Shinkin Securities Co., Ltd.
+  swift: SKSCJPJ1XXX
+  swift8: SKSCJPJ1
+  branch_name: Head Office
+  branch_address: 8-1, Kyobashi 3-Chome, Chuo-Ku Tokyo 104-0031
+  branch_code: XXX
+  city: Tokyo
+  country: Japan
+- name: Shinkin Trust Bank, Ltd.
+  swift: SKTBJPJ1XXX
+  swift8: SKTBJPJ1
+  branch_name: Head Office
+  branch_address: Kanamatsu Building Tokyo 104-0031
+  branch_code: XXX
+  city: Tokyo
+  country: Japan
+- name: Shinkumi Federation Bank, The
+  swift: ZSFBJPJ1XXX
+  swift8: ZSFBJPJ1
+  branch_name: Head Office
+  branch_address: 9-1 Kyobashi, 1- Chome, Chuo-Ku Tokyo 104-8310
+  branch_code: XXX
+  city: Tokyo
+  country: Japan
+- name: Shinsei Securities Co., Ltd.
+  swift: SSECJPJ1XXX
+  swift8: SSECJPJ1
+  branch_name: Head Office
+  branch_address: Nihonbashi Muromachi Nomura Tokyo 103-0022
+  branch_code: XXX
+  city: Tokyo
+  country: Japan
+- name: Shinsei Trust Banking Co.,ltd.
+  swift: SHTCJPJ1XXX
+  swift8: SHTCJPJ1
+  branch_name: Head Office
+  branch_address: Nihonbashi Muromachi Nomura Build. Tokyo 103-0022
+  branch_code: XXX
+  city: Tokyo
+  country: Japan
+- name: Shinwa Securities Co., Ltd.
+  swift: SINWJPJ1XXX
+  swift8: SINWJPJ1
+  branch_name: Head Office
+  branch_address: 1251-1 8th Ave, Kamiokawamae-Dori Niigata 951-8068
+  branch_code: XXX
+  city: Niigata
+  country: Japan
+- name: Smith New Court Securities Ltd.
+  swift: SSNCJPJ1XXX
+  swift8: SSNCJPJ1
+  branch_name: Head Office
+  branch_address: Ryuren Building Tokyo 105-0011
+  branch_code: XXX
+  city: Tokyo
+  country: Japan
+- name: Sony Bank Inc.
+  swift: SNYBJPJTXXX
+  swift8: SNYBJPJT
+  branch_name: Head Office
+  branch_address: 3-26 Kanda-Nishikicho, Chiyoda-Ku Tokyo 101-0054
+  branch_code: XXX
+  city: Tokyo
+  country: Japan
+- name: Sony Global Solutions Inc.
+  swift: SGSIJPJ1XXX
+  swift8: SGSIJPJ1
+  branch_name: Head Office
+  branch_address: Gotenhyama Technology Center Tokyo
+  branch_code: XXX
+  city: Tokyo
+  country: Japan
+- name: State Street Global Markets (japan
+  swift: SSGRJPJ1XXX
+  swift8: SSGRJPJ1
+  branch_name: Head Office
+  branch_address: Midtown Tower Tokyo 107-6239
+  branch_code: XXX
+  city: Tokyo
+  country: Japan
+- name: Stb Asset Management Co.,ltd.
+  swift: SAGLJPJ1XXX
+  swift8: SAGLJPJ1
+  branch_name: Head Office
+  branch_address: 2-3-1 Yaesu, Chuo-Ku Tokyo 104-0028
+  branch_code: XXX
+  city: Tokyo
+  country: Japan
+- name: Sumitomo Life Insurance Company
+  swift: SLICJPJ1XXX
+  swift8: SLICJPJ1
+  branch_name: Head Office
+  branch_address: 7-18-24, Tsukiji, Chuo-Ku Tokyo 104-8430
+  branch_code: XXX
+  city: Tokyo
+  country: Japan
+- name: Sumitomo Mitsui Asset Management Company Limited
+  swift: SMAMJPJ1XXX
+  swift8: SMAMJPJ1
+  branch_name: Head Office
+  branch_address: Atago Green H Ills Mori Tower Minato-Ku 105 6228
+  branch_code: XXX
+  city: Minato-Ku
+  country: Japan
+- name: Sumitomo Mitsui Trust Bank,limited
+  swift: STBCJPJ2XXX
+  swift8: STBCJPJ2
+  branch_name: Head Office
+  branch_address: 1-4-1 Marunouchi, Chiyoda-Ku Chiyoda-Ku Tokyo-to 1008233
+  branch_code: XXX
+  city: Chiyoda-Ku Tokyo-To
+  country: Japan
+- name: Sun Hung Kai Securities Ltd
+  swift: SHKEJPJ1XXX
+  swift8: SHKEJPJ1
+  branch_name: Head Office
+  branch_address: Park Side Annex Tokyo 102-0075
+  branch_code: XXX
+  city: Tokyo
+  country: Japan
+- name: T And D Asset Management Co., Ltd.
+  swift: TDAMJPJ1XXX
+  swift8: TDAMJPJ1
+  branch_name: Head Office
+  branch_address: 1-2-3, Kaigan, Minato-Ku Tokyo
+  branch_code: XXX
+  city: Tokyo
+  country: Japan
+- name: Tachibana Securities Co., Ltd.
+  swift: TACHJPJ1XXX
+  swift8: TACHJPJ1
+  branch_name: Head Office
+  branch_address: 1-13-14 Nihonbashi Kayaba-Cho Tokyo 103-0025
+  branch_code: XXX
+  city: Tokyo
+  country: Japan
+- name: Taiheiyo Securities Co., Ltd.
+  swift: TAIHJPJ1XXX
+  swift8: TAIHJPJ1
+  branch_name: Head Office
+  branch_address: 2-26-5 Nihonbashi Ningyo-Cho Tokyo 103-0013
+  branch_code: XXX
+  city: Tokyo
+  country: Japan
+- name: Taihelyo Securites Co Ltd
+  swift: TAHSJPJ1XXX
+  swift8: TAHSJPJ1
+  branch_name: Head Office
+  branch_address: 26-5 Nihombashi Ningyo-Cho 2-Chome Tokyo 103-0013
+  branch_code: XXX
+  city: Tokyo
+  country: Japan
+- name: Taiyo Investment Trust Managemement Limited
+  swift: TITMJPJ1XXX
+  swift8: TITMJPJ1
+  branch_name: Head Office
+  branch_address: 1-17-10 Nihonbashi Chuo-Ku Tokyo 103-0027
+  branch_code: XXX
+  city: Tokyo
+  country: Japan
+- name: Takagi Securities Co.
+  swift: TAKAJPJ1XXX
+  swift8: TAKAJPJ1
+  branch_name: Head Office
+  branch_address: Osaka Ekimae Daiichi Building Osaka 530-0001
+  branch_code: XXX
+  city: Osaka
+  country: Japan
+- name: The Daito Bank,ltd
+  swift: DATTJPJ1XXX
+  swift8: DATTJPJ1
+  branch_name: Head Office
+  branch_address: 19-1 Nakamachi Koriyama-Shi 963-8004
+  branch_code: XXX
+  city: Shi
+  country: Japan
+- name: The Fukuho Bank Ltd
+  swift: FUHOJPJ1XXX
+  swift8: FUHOJPJ1
+  branch_name: Head Office
+  branch_address: Osaka
+  branch_code: XXX
+  city: Osaka
+  country: Japan
+- name: The Fukushima Bank,ltd.
+  swift: FKSBJPJ1XXX
+  swift8: FKSBJPJ1
+  branch_name: Head Office
+  branch_address: 2-5,Bansei Cho Fukushima 960-8625
+  branch_code: XXX
+  city: Fukushima
+  country: Japan
+- name: The Howa Bank Ltd
+  swift: HOWAJPJ1XXX
+  swift8: HOWAJPJ1
+  branch_name: Head Office
+  branch_address: 4-10 Oojinakamati Oita 870-8686
+  branch_code: XXX
+  city: Oita
+  country: Japan
+- name: The Imamura Securities Co., Ltd
+  swift: IMAMJPJKXXX
+  swift8: IMAMJPJK
+  branch_name: Head Office
+  branch_address: Jitsuken-Machi, 25 Kanazawa 920-0906
+  branch_code: XXX
+  city: Kanazawa
+  country: Japan
+- name: The Kagoshimasogo Shinkin Bank
+  swift: KAHHJPJ1XXX
+  swift8: KAHHJPJ1
+  branch_name: Head Office
+  branch_address: 1-6-30 Yojiro Kagoshima 890-0062
+  branch_code: XXX
+  city: Kagoshima
+  country: Japan
+- name: The Kanagawa Bank,ltd.
+  swift: KANGJPJ1XXX
+  swift8: KANGJPJ1
+  branch_name: Head Office
+  branch_address: 9-166 Choja-Machi Naka-Ku Yokohama Kanagawa 231-0033
+  branch_code: XXX
+  city: Kanagawa
+  country: Japan
+- name: The Minami-nippon Bank,ltd.
+  swift: MINPJPJ1XXX
+  swift8: MINPJPJ1
+  branch_name: Head Office
+  branch_address: 1-1 Yamashita-Cho Kagoshima-City Kagoshima 892-0816
+  branch_code: XXX
+  city: Kagoshima
+  country: Japan
+- name: The Miyazaki Taiyo Bank, Ltd.
+  swift: MITYJPJ1XXX
+  swift8: MITYJPJ1
+  branch_name: Head Office
+  branch_address: 1-31,2-Chome Hiroshima Miyazaki 880-0806
+  branch_code: XXX
+  city: Miyazaki
+  country: Japan
+- name: The National Registry System
+  swift: NRSKJPJ1XXX
+  swift8: NRSKJPJ1
+  branch_name: Head Office
+  branch_address: Ministry of the Environment Tokyo 100-8975
+  branch_code: XXX
+  city: Tokyo
+  country: Japan
+- name: The Ohkawa Shinkin Bank Fukuoka Japan
+  swift: OHSHJPJ1XXX
+  swift8: OHSHJPJ1
+  branch_name: Head Office
+  branch_address: 305-1 Enokizu, Ohkawa Fukuoka 831-0004
+  branch_code: XXX
+  city: Fukuoka
+  country: Japan
+- name: The Sendai Bank,ltd.
+  swift: SEDIJPJ1XXX
+  swift8: SEDIJPJ1
+  branch_name: Head Office
+  branch_address: 2-1-1, Ichibancho, Aoba-Ku, Sendai Myagi 980-8656
+  branch_code: XXX
+  city: Myagi
+  country: Japan
+- name: The Shimane Bank, Ltd.
+  swift: SHMMJPJ1XXX
+  swift8: SHMMJPJ1
+  branch_name: Head Office
+  branch_address: 2-35 Higashihonmachi Matsue 690-0842
+  branch_code: XXX
+  city: Matsue
+  country: Japan
+- name: The Taiko Bank,ltd.
+  swift: TAIKJPJ1XXX
+  swift8: TAIKJPJ1
+  branch_name: Head Office
+  branch_address: 1-5-6 Ote-Dori Nagaoka 940-8651
+  branch_code: XXX
+  city: Nagaoka
+  country: Japan
+- name: The Taisho Bank,ltd
+  swift: TASHJPJ1XXX
+  swift8: TASHJPJ1
+  branch_name: Head Office
+  branch_address: Toradpia Yodoyabahi Osaka 540-8693
+  branch_code: XXX
+  city: Osaka
+  country: Japan
+- name: The Tohoku Bank, Ltd
+  swift: TOHKJPJ1XXX
+  swift8: TOHKJPJ1
+  branch_name: Head Office
+  branch_address: 3-1 Uchimaru Morioka 020 0023
+  branch_code: XXX
+  city: Morioka
+  country: Japan
+- name: Tir Securities
+  swift: STIRJPJ1XXX
+  swift8: STIRJPJ1
+  branch_name: Head Office
+  branch_address: Canal Tower Tokyo 103-0016
+  branch_code: XXX
+  city: Tokyo
+  country: Japan
+- name: Tokai Securities Co
+  swift: TOKSJPJ10JN
+  swift8: TOKSJPJ1
+  branch_name: Nagoya 460
+  branch_address: 2-20-20 Nishiki Naka-Ku Nagoya 460
+  branch_code: 0JN
+  city: Nagoya
+  country: Japan
+- name: Tokai Securities Co
+  swift: TOKSJPJ1XXX
+  swift8: TOKSJPJ1
+  branch_name: Head Office
+  branch_address: 8-8 Yaesu 2-Chome Chuo-Ku Tokyo 104-0028
+  branch_code: XXX
+  city: Tokyo
+  country: Japan
+- name: Tokyo Aim,inc
+  swift: XTAMJPJ1XXX
+  swift8: XTAMJPJ1
+  branch_name: Head Office
+  branch_address: 2-1 Nihombashi-Kabuto-Cho, Chuo-Ku Tokyo
+  branch_code: XXX
+  city: Tokyo
+  country: Japan
+- name: Tokyo Financial Exchange Inc.
+  swift: XTFFJPJ1XXX
+  swift8: XTFFJPJ1
+  branch_name: Head Office
+  branch_address: Ichiban-Cho Tokyu Building Tokyo 100-0004
+  branch_code: XXX
+  city: Tokyo
+  country: Japan
+- name: Tokyo Forex And Ueda Harlow Ltd.
+  swift: TFUHJPJ1XXX
+  swift8: TFUHJPJ1
+  branch_name: Head Office
+  branch_address: Sakura Muromachi Bldg Tokyo 103-0022
+  branch_code: XXX
+  city: Tokyo
+  country: Japan
+- name: Tokyo Kogyoin Torihikijo (commodity Exchange
+  swift: XTKTJPJ1XXX
+  swift8: XTKTJPJ1
+  branch_name: Head Office
+  branch_address: 10-7 Nihonbashi Horidomecho, 1-Cho Tokyo 103-0012
+  branch_code: XXX
+  city: Tokyo
+  country: Japan
+- name: Tokyo Kokumotsu Shohin Torihikijo (grain Exchange
+  swift: XTKOJPJ1XXX
+  swift8: XTKOJPJ1
+  branch_name: Head Office
+  branch_address: 1-12-5 Nihonbashi Kakigara-Cho Tokyo 103
+  branch_code: XXX
+  city: Tokyo
+  country: Japan
+- name: Tokyo Rengo Securities Co
+  swift: TORSJPJ1XXX
+  swift8: TORSJPJ1
+  branch_name: Head Office
+  branch_address: 7-6 Nihombashi-Kayaba-Cho 3-Chome Tokyo 103-0025
+  branch_code: XXX
+  city: Tokyo
+  country: Japan
+- name: Tokyo Shoken Daiko Co., Ltd.
+  swift: TSDAJPJ1XXX
+  swift8: TSDAJPJ1
+  branch_name: Head Office
+  branch_address: Tokyo
+  branch_code: XXX
+  city: Tokyo
+  country: Japan
+- name: Tokyo Stock Exchange, Inc.
+  swift: XTKSJPJ1XXX
+  swift8: XTKSJPJ1
+  branch_name: Head Office
+  branch_address: 2-1 Nihombashi Kabutocho Tokyo 103-8220
+  branch_code: XXX
+  city: Tokyo
+  country: Japan
+- name: Tokyo-mitsubishi Asset Management Ltd
+  swift: TMAMJPJ1XXX
+  swift8: TMAMJPJ1
+  branch_name: Head Office
+  branch_address: Fuji Building Tokyo 100-0005
+  branch_code: XXX
+  city: Tokyo
+  country: Japan
+- name: Toronto-dominion Securities Inc.
+  swift: TDSEJPJ1XXX
+  swift8: TDSEJPJ1
+  branch_name: Head Office
+  branch_address: Fuji Building Tokyo 100-0005
+  branch_code: XXX
+  city: Tokyo
+  country: Japan
+- name: Totan Capital Markets Co., Ltd.
+  swift: TIUDJPJ1XXX
+  swift8: TIUDJPJ1
+  branch_name: Head Office
+  branch_address: Sakura Muromachi Bldg Tokyo 103-0022
+  branch_code: XXX
+  city: Tokyo
+  country: Japan
+- name: Totan Derivatives Co. Ltd., The
+  swift: TTDTJPJ1XXX
+  swift8: TTDTJPJ1
+  branch_name: Head Office
+  branch_address: Sakura Muronachi Bldg Tokyo 103-0022
+  branch_code: XXX
+  city: Tokyo
+  country: Japan
+- name: Towa Securities Co., Ltd.
+  swift: TOWSJPJ1XXX
+  swift8: TOWSJPJ1
+  branch_name: Head Office
+  branch_address: 1-3-3 Shinkawa Chuo-Ku Tokyo 104-0033
+  branch_code: XXX
+  city: Tokyo
+  country: Japan
+- name: Toyo Securities Co Ltd
+  swift: TYSCJPJ1XXX
+  swift8: TYSCJPJ1
+  branch_name: Head Office
+  branch_address: 1-20-5 Nihonbashi Chuo-Ku Tokyo 103-8678
+  branch_code: XXX
+  city: Tokyo
+  country: Japan
+- name: Toyohashi Kanken Torihikijo (dried Cocoon Exchange
+  swift: XTKAJPJ1XXX
+  swift8: XTKAJPJ1
+  branch_name: Head Office
+  branch_address: 2-52 Ekimae-Odori, Toyohashi-Shi Aichi 489
+  branch_code: XXX
+  city: Aichi
+  country: Japan
+- name: Toyota Asset Management Co., Ltd
+  swift: TAMCJPJ1XXX
+  swift8: TAMCJPJ1
+  branch_name: Head Office
+  branch_address: Shiroyama Jt Mori Building Tokyo 105-6018
+  branch_code: XXX
+  city: Tokyo
+  country: Japan
+- name: Toyota Financial Services Securities Corporation
+  swift: TFSCJPJ1XXX
+  swift8: TFSCJPJ1
+  branch_name: Head Office
+  branch_address: Ntt Data Fushimi Building Nagoya 460 0003
+  branch_code: XXX
+  city: Nagoya
+  country: Japan
+- name: Traders Securities Co.,ltd No3
+  swift: TRSDJPJ1XXX
+  swift8: TRSDJPJ1
+  branch_name: Head Office
+  branch_address: 7f Sumitomo Higashi-Shinbashibldg Tokyo 105-0013
+  branch_code: XXX
+  city: Tokyo
+  country: Japan
+- name: Travelex Japan Kk
+  swift: TRAVJPJ1XXX
+  swift8: TRAVJPJ1
+  branch_name: Head Office
+  branch_address: Akasaka Twin Tower East Tokyo
+  branch_code: XXX
+  city: Tokyo
+  country: Japan
+- name: Tri Securities Ltd.
+  swift: STRIJPJ1XXX
+  swift8: STRIJPJ1
+  branch_name: Head Office
+  branch_address: Tokyo
+  branch_code: XXX
+  city: Tokyo
+  country: Japan
+- name: Ueda Butler Treasury Services Limited Tokyo
+  swift: UBTSJPJ1XXX
+  swift8: UBTSJPJ1
+  branch_name: Head Office
+  branch_address: Ogura Bldg Tokyo 103-0022
+  branch_code: XXX
+  city: Tokyo
+  country: Japan
+- name: Universal Securities Co., Ltd.
+  swift: UNSCJPJ1XXX
+  swift8: UNSCJPJ1
+  branch_name: Head Office
+  branch_address: 3-4-2 Marunouchi Chiyoda-Ku Tokyo 100-0005
+  branch_code: XXX
+  city: Tokyo
+  country: Japan
+- name: Utsumiya Securities Co.,ltd.
+  swift: UTSSJPJ1XXX
+  swift8: UTSSJPJ1
+  branch_name: Head Office
+  branch_address: 12-4, Nihombashi-Kayaba-Cho Tokyo 103-0025
+  branch_code: XXX
+  city: Tokyo
+  country: Japan
+- name: Utsunomiya Securities Co., Ltd.
+  swift: USCOJPJ1XXX
+  swift8: USCOJPJ1
+  branch_name: Head Office
+  branch_address: 1-21 Izumi-Chou, Utsunomiya-Shi Tochigi 320-0034
+  branch_code: XXX
+  city: Tochigi
+  country: Japan
+- name: Yahata Securities Co
+  swift: YAHSJPJ1XXX
+  swift8: YAHSJPJ1
+  branch_name: Head Office
+  branch_address: Koura Buiding Tokyo 103-0025
+  branch_code: XXX
+  city: Tokyo
+  country: Japan
+- name: Yamabun Securities Co. Ltd.
+  swift: YAMSJPJ1XXX
+  swift8: YAMSJPJ1
+  branch_name: Head Office
+  branch_address: 18-3 Nihonbashi Koami-Cho Chuo-Ku Tokyo 103-0016
+  branch_code: XXX
+  city: Tokyo
+  country: Japan
+- name: Yamagata Securities Co.,ltd
+  swift: YMGTJPJ1XXX
+  swift8: YMGTJPJ1
+  branch_name: Head Office
+  branch_address: 2-1-41, Nanukamachi Yamagata 990-0042
+  branch_code: XXX
+  city: Yamagata
+  country: Japan
+- name: Yamamaru Securities Co Ltd
+  swift: YAMRJPJ1XXX
+  swift8: YAMRJPJ1
+  branch_name: Head Office
+  branch_address: 3-11 Nihombashi Kabuto-Cho Chuo-Ku Tokyo 103-0026
+  branch_code: XXX
+  city: Tokyo
+  country: Japan
+- name: Yamani Securities Co
+  swift: YAASJPJ1XXX
+  swift8: YAASJPJ1
+  branch_name: Head Office
+  branch_address: 6-17 Nihombashi-Kayaba Chuo-Ku Tokyo 103-0025
+  branch_code: XXX
+  city: Tokyo
+  country: Japan
+- name: Yamawa Securities Co
+  swift: YAAEJPJ1XXX
+  swift8: YAAEJPJ1
+  branch_name: Head Office
+  branch_address: 1-3 Nihombashi-Kabuto-Cho Chuo-Ku Tokyo 103-0026
+  branch_code: XXX
+  city: Tokyo
+  country: Japan
+- name: Yasuda Capital Management Co., Ltd
+  swift: YCMCJPJ1XXX
+  swift8: YCMCJPJ1
+  branch_name: Head Office
+  branch_address: Nkk Building Tokyo 100-0005
+  branch_code: XXX
+  city: Tokyo
+  country: Japan
+- name: Yokogawa Financial Services Company Limited
+  swift: YFSCJPJ1XXX
+  swift8: YFSCJPJ1
+  branch_name: Head Office
+  branch_address: 2-9-32 Naka-Machi Tokyo 180
+  branch_code: XXX
+  city: Tokyo
+  country: Japan
+- name: Yokohama Commodity Exchange
+  swift: XYKTJPJ1XXX
+  swift8: XYKTJPJ1
+  branch_name: Head Office
+  branch_address: Silk Centre Yokohama 236
+  branch_code: XXX
+  city: Yokohama
+  country: Japan
+- name: Yutaka Securities Co., Ltd.
+  swift: YUTEJPJ1NGY
+  swift8: YUTEJPJ1
+  branch_name: Nagoya 460-0008
+  branch_address: 3-7-1 Sakae, Nakaku Nagoya 460-0008
+  branch_code: NGY
+  city: Nagoya
+  country: Japan
+- name: Yutaka Securities Co., Ltd.
+  swift: YUTEJPJ1XXX
+  swift8: YUTEJPJ1
+  branch_name: Head Office
+  branch_address: 10-14 Nihombashi-Horidome-Cho Tokyo 103-0012
+  branch_code: XXX
+  city: Tokyo
+  country: Japan
+- name: Daiwa Securities Co Ltd
+  swift: DAREJPJTXXX
+  swift8: DAREJPJT
+  branch_name: Head Office
+  branch_address: 6-4 Otemachi 2-Chome, Chiyoda-Ku Tokyo 100-8101
+  branch_code: XXX
+  city: Tokyo
+  country: Japan

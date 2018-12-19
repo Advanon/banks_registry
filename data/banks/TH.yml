@@ -1,0 +1,2132 @@
+---
+TH:
+- name: Australia And New Zealand Banking Group Limited
+  swift: ANZBTHB1XXX
+  swift8: ANZBTHB1
+  branch_name: Head Office
+  branch_address: Gpf Witthayu Towers A93/1 Bangkok 10330
+  branch_code: XXX
+  city: Bangkok
+  country: Thailand
+- name: Bangkok Bank Public Company Limited
+  swift: BKKBTHBKTRD
+  swift8: BKKBTHBK
+  branch_name: Bond Trading
+  branch_address: Bangkok Bank Building Bangkok 10500
+  branch_code: TRD
+  city: Bangkok
+  country: Thailand
+- name: Bangkok Bank Public Company Limited
+  swift: BKKBTHBKXXX
+  swift8: BKKBTHBK
+  branch_name: Head Office
+  branch_address: 333 Silom Road, Bangruk Bangkok 10500
+  branch_code: XXX
+  city: Bangkok
+  country: Thailand
+- name: Bangkok Bank Public Company Limited
+  swift: BKKBTHB10BC
+  swift8: BKKBTHB1
+  branch_name: Chiangmai
+  branch_address: Chiangmai
+  branch_code: 0BC
+  city: Chiangmai
+  country: Thailand
+- name: Bangkok Bank Public Company Limited
+  swift: BKKBTHB10BP
+  swift8: BKKBTHB1
+  branch_name: Phuket
+  branch_address: Phuket
+  branch_code: 0BP
+  city: Phuket
+  country: Thailand
+- name: Bangkok Bank Public Company Limited
+  swift: BKKBTHB10BS
+  swift8: BKKBTHB1
+  branch_name: Songkhla
+  branch_address: Songkhla
+  branch_code: 0BS
+  city: Songkhla
+  country: Thailand
+- name: Bank Of America, N.A. Bangkok
+  swift: BOFATH2XTHA
+  swift8: BOFATH2X
+  branch_name: Bangkok Branch
+  branch_address: Bangkok
+  branch_code: THA
+  city: Bangkok
+  country: Thailand
+- name: Bank Of America, N.A. Bangkok
+  swift: BOFATH2XXXX
+  swift8: BOFATH2X
+  branch_name: Head Office
+  branch_address: Crc Tower Bangkok 10330
+  branch_code: XXX
+  city: Bangkok
+  country: Thailand
+- name: Bank Of Ayudhya Public Company Limited
+  swift: AYUDTHBKXXX
+  swift8: AYUDTHBK
+  branch_name: Head Office
+  branch_address: 1222 Rama Iii Road Bangkok 10120
+  branch_code: XXX
+  city: Bangkok
+  country: Thailand
+- name: Bank Of Ayudhya Public Company Limited
+  swift: AYUDTHB10BP
+  swift8: AYUDTHB1
+  branch_name: Phuket
+  branch_address: Phuket
+  branch_code: 0BP
+  city: Phuket
+  country: Thailand
+- name: Bank Of Ayudhya Public Company Limited
+  swift: AYUDTHB10BS
+  swift8: AYUDTHB1
+  branch_name: Songkhla
+  branch_address: Songkhla
+  branch_code: 0BS
+  city: Songkhla
+  country: Thailand
+- name: Bank Of China, Bangkok Branch
+  swift: BKCHTHBKXXX
+  swift8: BKCHTHBK
+  branch_name: Head Office
+  branch_address: Bangkok City Tower Bangkok 10120
+  branch_code: XXX
+  city: Bangkok
+  country: Thailand
+- name: Bank Of Thailand
+  swift: BOTHTHBKXXX
+  swift8: BOTHTHBK
+  branch_name: Head Office
+  branch_address: 273 Samsen Road, Bangkhunprom Bangkok 10200
+  branch_code: XXX
+  city: Bangkok
+  country: Thailand
+- name: Bank Of Thailand
+  swift: BOTHTHB1ACG
+  swift8: BOTHTHB1
+  branch_name: Accounting Group
+  branch_address: 273 Samsen Road Bangkok 10200
+  branch_code: ACG
+  city: Bangkok
+  country: Thailand
+- name: Bank Of Thailand
+  swift: BOTHTHB1ASD
+  swift8: BOTHTHB1
+  branch_name: Accounting and Supply Department
+  branch_address: Boromarajajonani Nakhon Pathom 73120
+  branch_code: ASD
+  city: Nakhon Pathom
+  country: Thailand
+- name: Bank Of Thailand
+  swift: BOTHTHB1CAT
+  swift8: BOTHTHB1
+  branch_name: Bot Deposits Account Services Team
+  branch_address: Bangkok
+  branch_code: CAT
+  city: Bangkok
+  country: Thailand
+- name: Bank Of Thailand
+  swift: BOTHTHB1DAS
+  swift8: BOTHTHB1
+  branch_name: Bot Deposits Account Management Services
+  branch_address: Bangkok
+  branch_code: DAS
+  city: Bangkok
+  country: Thailand
+- name: Bank Of Thailand
+  swift: BOTHTHB1DDG
+  swift8: BOTHTHB1
+  branch_name: Deposits and Debt Instruments Group
+  branch_address: Bangkok
+  branch_code: DDG
+  city: Bangkok
+  country: Thailand
+- name: Bank Of Thailand
+  swift: BOTHTHB1ECH
+  swift8: BOTHTHB1
+  branch_name: Electronic Clearing House, Payment Systems Group
+  branch_address: Surawongse Office Bangkok 10500
+  branch_code: ECH
+  city: Bangkok
+  country: Thailand
+- name: Bank Of Thailand
+  swift: BOTHTHB1FMG
+  swift8: BOTHTHB1
+  branch_name: Fund Management Group
+  branch_address: Bank of Thailand Bangkok 10200
+  branch_code: FMG
+  city: Bangkok
+  country: Thailand
+- name: Bank Of Thailand
+  swift: BOTHTHB1FOC
+  swift8: BOTHTHB1
+  branch_name: Credit and Refinancing Division, Financial Markets Operations Group
+  branch_address: Head Office Bangkok 10200
+  branch_code: FOC
+  city: Bangkok
+  country: Thailand
+- name: Bank Of Thailand
+  swift: BOTHTHB1FOT
+  swift8: BOTHTHB1
+  branch_name: Treasury Operations Division, F O G
+  branch_address: 273 Samsen Road Bangkok 10200
+  branch_code: FOT
+  city: Bangkok
+  country: Thailand
+- name: Bank Of Thailand
+  swift: BOTHTHB1NEO
+  swift8: BOTHTHB1
+  branch_name: Bot Northeastern Regional Office
+  branch_address: Bangkok
+  branch_code: NEO
+  city: Bangkok
+  country: Thailand
+- name: Bank Of Thailand
+  swift: BOTHTHB1NIG
+  swift8: BOTHTHB1
+  branch_name: Note Issue Group
+  branch_address: Bangkok
+  branch_code: NIG
+  city: Bangkok
+  country: Thailand
+- name: Bank Of Thailand
+  swift: BOTHTHB1NRO
+  swift8: BOTHTHB1
+  branch_name: Bot Northern Regional Office
+  branch_address: Bangkok
+  branch_code: NRO
+  city: Bangkok
+  country: Thailand
+- name: Bank Of Thailand
+  swift: BOTHTHB1OP1
+  swift8: BOTHTHB1
+  branch_name: Bahtnet Operation Team 1, Payment Systems Group
+  branch_address: Head Office Building Bangkok 10200
+  branch_code: OP1
+  city: Bangkok
+  country: Thailand
+- name: Bank Of Thailand
+  swift: BOTHTHB1OP2
+  swift8: BOTHTHB1
+  branch_name: Bahtnet Operation Team 2, Payment Systems Group
+  branch_address: Head Office Building Bangkok 10200
+  branch_code: OP2
+  city: Bangkok
+  country: Thailand
+- name: Bank Of Thailand
+  swift: BOTHTHB1PSG
+  swift8: BOTHTHB1
+  branch_name: Bahtnet Operation Team, Payment Systems Group
+  branch_address: Head Office Building Bangkok 10200
+  branch_code: PSG
+  city: Bangkok
+  country: Thailand
+- name: Bank Of Thailand
+  swift: BOTHTHB1SRO
+  swift8: BOTHTHB1
+  branch_name: Bot Southern Regional Office
+  branch_address: Bangkok
+  branch_code: SRO
+  city: Bangkok
+  country: Thailand
+- name: Bank Of Thailand, Bahtnet Payment System
+  swift: BOTHTHBPXXX
+  swift8: BOTHTHBP
+  branch_name: Head Office
+  branch_address: Head Office Building Bangkok 10200
+  branch_code: XXX
+  city: Bangkok
+  country: Thailand
+- name: Bank Of Tokyo-Mitsubishi Ufj Ltd., The
+  swift: BOTKTHBXXXX
+  swift8: BOTKTHBX
+  branch_name: Bangkok Branch
+  branch_address: Harindhron Tower Bangkok 10500
+  branch_code: XXX
+  city: Bangkok
+  country: Thailand
+- name: Bnp Paribas Thailand - Bangkok Branch
+  swift: BNPATHBKXXX
+  swift8: BNPATHBK
+  branch_name: Head Office
+  branch_address: Abdulrahim Place Bangkok 10500
+  branch_code: XXX
+  city: Bangkok
+  country: Thailand
+- name: Cimb Thai Bank Public Company Limited (Formerly Bankthai Public Company Limited)
+  swift: UBOBTHBKXXX
+  swift8: UBOBTHBK
+  branch_name: Head Office
+  branch_address: Langsuan Road Building Bangkok 10330
+  branch_code: XXX
+  city: Bangkok
+  country: Thailand
+- name: Citibank N.A
+  swift: CITITHBXIBF
+  swift8: CITITHBX
+  branch_name: International Banking Facility
+  branch_address: 82 North Sathorn Road, Silom Bangkok 10500
+  branch_code: IBF
+  city: Bangkok
+  country: Thailand
+- name: Citibank N.A
+  swift: CITITHBXXXX
+  swift8: CITITHBX
+  branch_name: Head Office
+  branch_address: Interchange 21 Building Bangkok 10110
+  branch_code: XXX
+  city: Bangkok
+  country: Thailand
+- name: Credit Agricole Cib
+  swift: BSUITHBKXXX
+  swift8: BSUITHBK
+  branch_name: Head Office
+  branch_address: 152 Wireless Road Bangkok 10330
+  branch_code: XXX
+  city: Bangkok
+  country: Thailand
+- name: Deutsche Bank Ag, Bangkok Branch
+  swift: DEUTTHBKGMO
+  swift8: DEUTTHBK
+  branch_name: Bangkok
+  branch_address: 208 Wireless Bangkok 10330
+  branch_code: GMO
+  city: Bangkok
+  country: Thailand
+- name: Deutsche Bank Ag, Bangkok Branch
+  swift: DEUTTHBKXXX
+  swift8: DEUTTHBK
+  branch_name: Head Office
+  branch_address: 208 Wireless Road Bangkok 10330
+  branch_code: XXX
+  city: Bangkok
+  country: Thailand
+- name: Export-Import Bank Of Thailand
+  swift: EXTHTHBKXXX
+  swift8: EXTHTHBK
+  branch_name: Head Office
+  branch_address: Exim Building Bangkok 10400
+  branch_code: XXX
+  city: Bangkok
+  country: Thailand
+- name: Government Savings Bank
+  swift: GSBATHBKXXX
+  swift8: GSBATHBK
+  branch_name: Head Office
+  branch_address: Building 1 Bangkok 10400
+  branch_code: XXX
+  city: Bangkok
+  country: Thailand
+- name: Hongkong And Shanghai Banking Corporation Limited, The
+  swift: HSBCTHBKXXX
+  swift8: HSBCTHBK
+  branch_name: Head Office
+  branch_address: Hsbc Building Bangkok 10500
+  branch_code: XXX
+  city: Bangkok
+  country: Thailand
+- name: Indian Overseas Bank (Formerly Bharat Overseas Bank Ltd.)
+  swift: BHOBTHBKXXX
+  swift8: BHOBTHBK
+  branch_name: Head Office
+  branch_address: 221 Rajawongse Rd., Bangkok 10100
+  branch_code: XXX
+  city: Bangkok
+  country: Thailand
+- name: Islamic Bank Of Thailand
+  swift: TIBTTHBKXXX
+  swift8: TIBTTHBK
+  branch_name: Head Office
+  branch_address: Um Tower Bangkok 10250
+  branch_code: XXX
+  city: Bangkok
+  country: Thailand
+- name: Jpmorgan Chase Bank, N.A., Bangkok Branch
+  swift: CHASTHBXIBF
+  swift8: CHASTHBX
+  branch_name: Interanational Banking Facility
+  branch_address: Bangkok
+  branch_code: IBF
+  city: Bangkok
+  country: Thailand
+- name: Jpmorgan Chase Bank, N.A., Bangkok Branch
+  swift: CHASTHBXKEY
+  swift8: CHASTHBX
+  branch_name: Test Key and Bke Administration
+  branch_address: Bangkok
+  branch_code: KEY
+  city: Bangkok
+  country: Thailand
+- name: Jpmorgan Chase Bank, N.A., Bangkok Branch
+  swift: CHASTHBXLND
+  swift8: CHASTHBX
+  branch_name: Loans and Depositis Services
+  branch_address: Bubhajit Building Bangkok 10500
+  branch_code: LND
+  city: Bangkok
+  country: Thailand
+- name: Jpmorgan Chase Bank, N.A., Bangkok Branch
+  swift: CHASTHBXMTS
+  swift8: CHASTHBX
+  branch_name: Money Transfer Services
+  branch_address: Bubhajit Building Bangkok 10500
+  branch_code: MTS
+  city: Bangkok
+  country: Thailand
+- name: Jpmorgan Chase Bank, N.A., Bangkok Branch
+  swift: CHASTHBXTRO
+  swift8: CHASTHBX
+  branch_name: Tradingtreasury Operations
+  branch_address: Bubhajit Building Bangkok 10500
+  branch_code: TRO
+  city: Bangkok
+  country: Thailand
+- name: Jpmorgan Chase Bank, N.A., Bangkok Branch
+  swift: CHASTHBXTSD
+  swift8: CHASTHBX
+  branch_name: Trade Services
+  branch_address: Bubhajit Building Bangkok 10500
+  branch_code: TSD
+  city: Bangkok
+  country: Thailand
+- name: Jpmorgan Chase Bank, N.A., Bangkok Branch
+  swift: CHASTHBXXXX
+  swift8: CHASTHBX
+  branch_name: Head Office
+  branch_address: Bubhajit Building Bangkok 10500
+  branch_code: XXX
+  city: Bangkok
+  country: Thailand
+- name: Jpmorgan Chase Bank, N.A., Bangkok Branch
+  swift: CHASTHBXSEC
+  swift8: CHASTHBX
+  branch_name: Jpmorgan Securities-Thailand
+  branch_address: No branch address
+  branch_code: SEC
+  city: Bangkok
+  country: Thailand
+- name: Kasikornbank Public Company Limited
+  swift: KASITHBKCMD
+  swift8: KASITHBK
+  branch_name: Cash Management Department
+  branch_address: Bangkok
+  branch_code: CMD
+  city: Bangkok
+  country: Thailand
+- name: Kasikornbank Public Company Limited
+  swift: KASITHBKCUS
+  swift8: KASITHBK
+  branch_name: Custodian Service Division
+  branch_address: Bangkok
+  branch_code: CUS
+  city: Bangkok
+  country: Thailand
+- name: Kasikornbank Public Company Limited
+  swift: KASITHBKFMD
+  swift8: KASITHBK
+  branch_name: Fund Management Dept
+  branch_address: Bangkok
+  branch_code: FMD
+  city: Bangkok
+  country: Thailand
+- name: Kasikornbank Public Company Limited
+  swift: KASITHBKIBF
+  swift8: KASITHBK
+  branch_name: Bangkok International Banking Facility
+  branch_address: Bangkok
+  branch_code: IBF
+  city: Bangkok
+  country: Thailand
+- name: Kasikornbank Public Company Limited
+  swift: KASITHBKOMT
+  swift8: KASITHBK
+  branch_name: Foreign Exchange and Remittance Dept
+  branch_address: Bangkok
+  branch_code: OMT
+  city: Bangkok
+  country: Thailand
+- name: Kasikornbank Public Company Limited
+  swift: KASITHBKPHA
+  swift8: KASITHBK
+  branch_name: Phahonyothin Centre
+  branch_address: Bangkok
+  branch_code: PHA
+  city: Bangkok
+  country: Thailand
+- name: Kasikornbank Public Company Limited
+  swift: KASITHBKRAJ
+  swift8: KASITHBK
+  branch_name: Ratburana Centre
+  branch_address: Bangkok
+  branch_code: RAJ
+  city: Bangkok
+  country: Thailand
+- name: Kasikornbank Public Company Limited
+  swift: KASITHBKSIL
+  swift8: KASITHBK
+  branch_name: Silom Centre
+  branch_address: Bangkok
+  branch_code: SIL
+  city: Bangkok
+  country: Thailand
+- name: Kasikornbank Public Company Limited
+  swift: KASITHBKSKS
+  swift8: KASITHBK
+  branch_name: Bangkhunthian Centre
+  branch_address: 1 Thai Farmers Lane, Ratburana Road Bangkok 1040
+  branch_code: SKS
+  city: Bangkok
+  country: Thailand
+- name: Kasikornbank Public Company Limited
+  swift: KASITHBKSPA
+  swift8: KASITHBK
+  branch_name: Suapa Centre
+  branch_address: Bangkok
+  branch_code: SPA
+  city: Bangkok
+  country: Thailand
+- name: Kasikornbank Public Company Limited
+  swift: KASITHBKSUK
+  swift8: KASITHBK
+  branch_name: Sukhumvit Centre
+  branch_address: Bangkok
+  branch_code: SUK
+  city: Bangkok
+  country: Thailand
+- name: Kasikornbank Public Company Limited
+  swift: KASITHBKXXX
+  swift8: KASITHBK
+  branch_name: Head Office
+  branch_address: Kasikornbank Bangkok 10140
+  branch_code: XXX
+  city: Bangkok
+  country: Thailand
+- name: Kasikornbank Public Company Limited
+  swift: KASITHBKCHM
+  swift8: KASITHBK
+  branch_name: Chiangmai Centre
+  branch_address: Chiangmai
+  branch_code: CHM
+  city: Chiangmai
+  country: Thailand
+- name: Kasikornbank Public Company Limited
+  swift: KASITHBKLAM
+  swift8: KASITHBK
+  branch_name: Laemchabang Centre
+  branch_address: Cholburi
+  branch_code: LAM
+  city: Cholburi
+  country: Thailand
+- name: Kasikornbank Public Company Limited
+  swift: KASITHBKHDY
+  swift8: KASITHBK
+  branch_name: Hadyai Centre
+  branch_address: Hadyai
+  branch_code: HDY
+  city: Hadyai
+  country: Thailand
+- name: Kasikornbank Public Company Limited
+  swift: KASITHBKNAV
+  swift8: KASITHBK
+  branch_name: Navanakorn Centre
+  branch_address: Pathumtani
+  branch_code: NAV
+  city: Pathumtani
+  country: Thailand
+- name: Kasikornbank Public Company Limited
+  swift: KASITHB10BS
+  swift8: KASITHB1
+  branch_name: Songkhla
+  branch_address: Songkhla
+  branch_code: 0BS
+  city: Songkhla
+  country: Thailand
+- name: Korea Exchange Bank
+  swift: KOEXTHB1XXX
+  swift8: KOEXTHB1
+  branch_name: Head Office
+  branch_address: Maneeya Center Bangkok 10500
+  branch_code: XXX
+  city: Bangkok
+  country: Thailand
+- name: Krung Thai Bank Public Company Limited
+  swift: KRTHTHBKXXX
+  swift8: KRTHTHBK
+  branch_name: Head Office
+  branch_address: 35 Sukhumvit Road Bangkok 10110
+  branch_code: XXX
+  city: Bangkok
+  country: Thailand
+- name: Krung Thai Bank Public Company Limited
+  swift: KRTHTHB10B2
+  swift8: KRTHTHB1
+  branch_name: Samutprakarn
+  branch_address: Samutprakarn
+  branch_code: 0B2
+  city: Samutprakarn
+  country: Thailand
+- name: Krung Thai Bank Public Company Limited
+  swift: KRTHTHB10BC
+  swift8: KRTHTHB1
+  branch_name: Chiangmai
+  branch_address: Chiangmai
+  branch_code: 0BC
+  city: Chiangmai
+  country: Thailand
+- name: Krung Thai Bank Public Company Limited
+  swift: KRTHTHB10BS
+  swift8: KRTHTHB1
+  branch_name: Haydai
+  branch_address: Songkhla
+  branch_code: 0BS
+  city: Songkhla
+  country: Thailand
+- name: Mega International Commercial Bank Public Company Limited
+  swift: ICBCTHBKBNA
+  swift8: ICBCTHBK
+  branch_name: Bangna Branch
+  branch_address: Thosapol Land 3,Unit B Bangkok 10260
+  branch_code: BNA
+  city: Bangkok
+  country: Thailand
+- name: Mega International Commercial Bank Public Company Limited
+  swift: ICBCTHBKXXX
+  swift8: ICBCTHBK
+  branch_name: Head Office, Bangkok
+  branch_address: 36/12 P.S. Tower Bangkok 10110
+  branch_code: XXX
+  city: Bangkok
+  country: Thailand
+- name: Mega International Commercial Bank Public Company Limited
+  swift: ICBCTHBKCHB
+  swift8: ICBCTHBK
+  branch_name: Chonburi Branch
+  branch_address: 39/4 Moo 3, Sukhumvit Rd., Chonburi 20130
+  branch_code: CHB
+  city: Chonburi
+  country: Thailand
+- name: Mega International Commercial Bank Public Company Limited
+  swift: ICBCTHBKBPO
+  swift8: ICBCTHBK
+  branch_name: Banpong Branch
+  branch_address: Songpol Rd Rajburi
+  branch_code: BPO
+  city: Rajburi
+  country: Thailand
+- name: Mercedes-Benz (Thailand) Limited
+  swift: DAIXTHBKXXX
+  swift8: DAIXTHBK
+  branch_name: Head Office
+  branch_address: Rajanakarn Building Bangkok 10120
+  branch_code: XXX
+  city: Bangkok
+  country: Thailand
+- name: Mercedes-Benz Leasing (Thailand) Co. Ltd.
+  swift: MBLETHBKXXX
+  swift8: MBLETHBK
+  branch_name: Head Office
+  branch_address: Rajanakarn Building Bangkok 10120
+  branch_code: XXX
+  city: Bangkok
+  country: Thailand
+- name: Mercedes-Benz Manufacturing (Thailand) Limited
+  swift: MBMATHBKXXX
+  swift8: MBMATHBK
+  branch_name: Head Office
+  branch_address: Rajanakarn Building Bangkok 10120
+  branch_code: XXX
+  city: Bangkok
+  country: Thailand
+- name: Mizuho Corporate Bank, Ltd., Bangkok Branch (Formerly The Dai-Ichi Kangyo
+    Bank, Ltd., Bangkok Branch)
+  swift: MHCBTHBKXXX
+  swift8: MHCBTHBK
+  branch_name: Head Office
+  branch_address: Tisco Tower Bangkok 10500
+  branch_code: XXX
+  city: Bangkok
+  country: Thailand
+- name: Oversea-Chinese Banking Corporation Limited, Bangkok Branch
+  swift: OCBCTHBKXXX
+  swift8: OCBCTHBK
+  branch_name: Head Office
+  branch_address: Q-House Lumpini Bangkok 10120
+  branch_code: XXX
+  city: Bangkok
+  country: Thailand
+- name: Rhb Bank Berhad
+  swift: DCBBTHBKXXX
+  swift8: DCBBTHBK
+  branch_name: Head Office
+  branch_address: Liberty Square Bldg Bangkok 10500
+  branch_code: XXX
+  city: Bangkok
+  country: Thailand
+- name: Siam Commercial Bank Pcl, The
+  swift: SICOTHBKTSD
+  swift8: SICOTHBK
+  branch_name: Treasury Department
+  branch_address: Bangkok
+  branch_code: TSD
+  city: Bangkok
+  country: Thailand
+- name: Siam Commercial Bank Pcl, The
+  swift: SICOTHBKXXX
+  swift8: SICOTHBK
+  branch_name: Head Office
+  branch_address: Building 2 Bangkok 10400
+  branch_code: XXX
+  city: Bangkok
+  country: Thailand
+- name: Small And Medium Entreprise Development Bank Of Thailand
+  swift: SMEBTHBKXXX
+  swift8: SMEBTHBK
+  branch_name: Head Office
+  branch_address: Sme Bank Tower Bangkok 10400
+  branch_code: XXX
+  city: Bangkok
+  country: Thailand
+- name: Societe Generale
+  swift: SOGETHB1XXX
+  swift8: SOGETHB1
+  branch_name: Head Office
+  branch_address: Crc Tower Bangkok 10330
+  branch_code: XXX
+  city: Bangkok
+  country: Thailand
+- name: Standard Chartered Bank (Thai) Pcl
+  swift: SCBLTHBXXXX
+  swift8: SCBLTHBX
+  branch_name: Head Office
+  branch_address: 90 North Sathorn Road, Silom Bangkok 10500
+  branch_code: XXX
+  city: Bangkok
+  country: Thailand
+- name: Sumitomo Mitsui Banking Corporation
+  swift: SMBCTHBKXXX
+  swift8: SMBCTHBK
+  branch_name: Head Office
+  branch_address: Boonmitr Building Bangkok 10500
+  branch_code: XXX
+  city: Bangkok
+  country: Thailand
+- name: Thailand Securities Depository Co Ltd
+  swift: TSDCTHBKXXX
+  swift8: TSDCTHBK
+  branch_name: Head Office
+  branch_address: The Stock Exchange of Thailand Bangkok 10110
+  branch_code: XXX
+  city: Bangkok
+  country: Thailand
+- name: Thanachart Bank Public Company Limited
+  swift: THBKTHBKXXX
+  swift8: THBKTHBK
+  branch_name: Head Office
+  branch_address: 900 Tonson Tower Bangkok 10330
+  branch_code: XXX
+  city: Bangkok
+  country: Thailand
+- name: Thanachart Bank Public Company Limited
+  swift: EFSPTHB1XXX
+  swift8: EFSPTHB1
+  branch_name: Head Office
+  branch_address: Mbk Tower Bangkok 10330
+  branch_code: XXX
+  city: Bangkok
+  country: Thailand
+- name: The Royal Bank Of Scotland N.V., Bangkok Branch, Formerly Known As Abn Amro
+    Bank N.V., Bangkok Branch
+  swift: ABNATHBKXXX
+  swift8: ABNATHBK
+  branch_name: Head Office
+  branch_address: Bangkok City Tower Bangkok 10120
+  branch_code: XXX
+  city: Bangkok
+  country: Thailand
+- name: Tmb Bank Public Company Limited
+  swift: TMBKTHBKXXX
+  swift8: TMBKTHBK
+  branch_name: Head Office
+  branch_address: 3000 Phaholyothin Road Chatuchak Bangkok 10900
+  branch_code: XXX
+  city: Bangkok
+  country: Thailand
+- name: Tmb Bank Public Company Limited
+  swift: TMBKTHB10BC
+  swift8: TMBKTHB1
+  branch_name: Chiangmai
+  branch_address: Chiangmai
+  branch_code: 0BC
+  city: Chiangmai
+  country: Thailand
+- name: Tmb Bank Public Company Limited
+  swift: TMBKTHB10BS
+  swift8: TMBKTHB1
+  branch_name: Songkhla
+  branch_address: Songkhla
+  branch_code: 0BS
+  city: Songkhla
+  country: Thailand
+- name: United Overseas Bank (Thai) Public Company Limted
+  swift: UOVBTHBKXXX
+  swift8: UOVBTHBK
+  branch_name: Head Office
+  branch_address: 191 South Sathon Road, Khet Bangkok 10120
+  branch_code: XXX
+  city: Bangkok
+  country: Thailand
+- name: United States Department Of State
+  swift: USDSTHB1XXX
+  swift8: USDSTHB1
+  branch_name: Head Office
+  branch_address: Bangkok
+  branch_code: XXX
+  city: Bangkok
+  country: Thailand
+- name: Fpb Asia Limited
+  swift: FPASTHB1XXX
+  swift8: FPASTHB1
+  branch_name: Head Office
+  branch_address: Bangkok
+  branch_code: XXX
+  city: Bangkok
+  country: Thailand
+- name: Bpi International Finance Limited
+  swift: BPIITHB1XXX
+  swift8: BPIITHB1
+  branch_name: Head Office
+  branch_address: Bangkok
+  branch_code: XXX
+  city: Bangkok
+  country: Thailand
+- name: W.i. Carr (far East) Limited
+  swift: WICATHB1XXX
+  swift8: WICATHB1
+  branch_name: Head Office
+  branch_address: Nava Finance and Securities Bldg. Bangkok 10330
+  branch_code: XXX
+  city: Bangkok
+  country: Thailand
+- name: James Capel Asia Limited
+  swift: JCALTHB1XXX
+  swift8: JCALTHB1
+  branch_name: Head Office
+  branch_address: Bangkok
+  branch_code: XXX
+  city: Bangkok
+  country: Thailand
+- name: Acl Securities Co. Ltd
+  swift: ACSCTHB1XXX
+  swift8: ACSCTHB1
+  branch_name: Head Office
+  branch_address: 999/9 the Offices at Centralworld Bangkok 10330
+  branch_code: XXX
+  city: Bangkok
+  country: Thailand
+- name: Adkinson Securities Ltd
+  swift: ADKSTHB1XXX
+  swift8: ADKSTHB1
+  branch_name: Head Office
+  branch_address: Sinthon Building Bangkok 10330
+  branch_code: XXX
+  city: Bangkok
+  country: Thailand
+- name: Advance Finance Public Company Limited
+  swift: ADVNTHB1XXX
+  swift8: ADVNTHB1
+  branch_name: Head Office
+  branch_address: Crc Tower Bangkok 10330
+  branch_code: XXX
+  city: Bangkok
+  country: Thailand
+- name: Afco Securities Corp Limited
+  swift: AFCETHB1XXX
+  swift8: AFCETHB1
+  branch_name: Head Office
+  branch_address: Harin Dhorn Tower Bangkok 10500
+  branch_code: XXX
+  city: Bangkok
+  country: Thailand
+- name: Aig Retail Bank Public Co., Ltd
+  swift: AFTCTHB1XXX
+  swift8: AFTCTHB1
+  branch_name: Head Office
+  branch_address: 990 Abdulrahim Building Bangkok 10500
+  branch_code: XXX
+  city: Bangkok
+  country: Thailand
+- name: Aira Securities Public Company Limited
+  swift: PSSCTHB1XXX
+  swift8: PSSCTHB1
+  branch_name: Head Office
+  branch_address: Sg Tower Bangkok 10330
+  branch_code: XXX
+  city: Bangkok
+  country: Thailand
+- name: Al Atas International Trading House (thailand) Limited
+  swift: AITHTHB1XXX
+  swift8: AITHTHB1
+  branch_name: Head Office
+  branch_address: Central World Tower Bangkok 10330
+  branch_code: XXX
+  city: Bangkok
+  country: Thailand
+- name: American Express Bank Ltd
+  swift: AEIBTHB1XXX
+  swift8: AEIBTHB1
+  branch_name: Head Office
+  branch_address: 388 Phayonyotin Road Bangkok 10400
+  branch_code: XXX
+  city: Bangkok
+  country: Thailand
+- name: Amsteel Securities (thailand) Public Co., Ltd
+  swift: ASTLTHB1XXX
+  swift8: ASTLTHB1
+  branch_name: Head Office
+  branch_address: Vorawat Building Bangkok 10500
+  branch_code: XXX
+  city: Bangkok
+  country: Thailand
+- name: Apple Wealth Securities Company Limited
+  swift: AWSCTHB1XXX
+  swift8: AWSCTHB1
+  branch_name: No branch name
+  branch_address: No branch address
+  branch_code: XXX
+  city: Bangkok
+  country: Thailand
+- name: Asia Credit Foncier Co., Ltd.
+  swift: ASCITHB1XXX
+  swift8: ASCITHB1
+  branch_name: Head Office
+  branch_address: Siamsquare Soi 4, Rama 1 Bangkok 10330
+  branch_code: XXX
+  city: Bangkok
+  country: Thailand
+- name: Asia Equity Thailand Ltd
+  swift: ASETTHB1XXX
+  swift8: ASETTHB1
+  branch_name: Head Office
+  branch_address: Kket Yannawa Bangkok 10120
+  branch_code: XXX
+  city: Bangkok
+  country: Thailand
+- name: Asia Plus Securities Public Company Limited
+  swift: AAASTHB1XXX
+  swift8: AAASTHB1
+  branch_name: Head Office
+  branch_address: Sathorn City Tower Bangkok 10120
+  branch_code: XXX
+  city: Bangkok
+  country: Thailand
+- name: Asia Securities Trading Co Ltd
+  swift: ASSRTHB1XXX
+  swift8: ASSRTHB1
+  branch_name: Head Office
+  branch_address: Sathorn City Tower Bangkok 10120
+  branch_code: XXX
+  city: Bangkok
+  country: Thailand
+- name: Asia Wealth Securities Company Limited
+  swift: CGSTTHB1XXX
+  swift8: CGSTTHB1
+  branch_name: Head Office
+  branch_address: Q. House Lumpini Building Bangkok 10120
+  branch_code: XXX
+  city: Bangkok
+  country: Thailand
+- name: Asset Plus Securities Company Limited
+  swift: APSSTHB1XXX
+  swift8: APSSTHB1
+  branch_name: Head Office
+  branch_address: Lake Rajada Bldg Bangkok 10110
+  branch_code: XXX
+  city: Bangkok
+  country: Thailand
+- name: Ayudhya Securities Public Company Limited
+  swift: AYITTHB1001
+  swift8: AYITTHB1
+  branch_name: Bangkok
+  branch_address: Ploenchit Tower Bangkok 10330
+  branch_code: '001'
+  city: Bangkok
+  country: Thailand
+- name: Ayudhya Securities Public Company Limited
+  swift: AYITTHB1XXX
+  swift8: AYITTHB1
+  branch_name: Head Office
+  branch_address: 999/9 the Offices at Centralworld Bangkok 10330
+  branch_code: XXX
+  city: Bangkok
+  country: Thailand
+- name: Bangkok First Investment And Trust Public Company Limited
+  swift: BFITTHB1XXX
+  swift8: BFITTHB1
+  branch_name: Head Office
+  branch_address: Bangkok Insurance Building Bangkok 10120
+  branch_code: XXX
+  city: Bangkok
+  country: Thailand
+- name: Bangkok Investment Public Co. Ltd.
+  swift: BIPUTHB1XXX
+  swift8: BIPUTHB1
+  branch_name: Head Office
+  branch_address: Soi Aree Bangkok 10110
+  branch_code: XXX
+  city: Bangkok
+  country: Thailand
+- name: Bangkok Mass Transit Authority
+  swift: MARHTHB1XXX
+  swift8: MARHTHB1
+  branch_name: Head Office
+  branch_address: Thiemruam-Mitre Road Bangkok 00000
+  branch_code: XXX
+  city: Bangkok
+  country: Thailand
+- name: Bank For Agriculture And Agricultural Cooperatives
+  swift: ALCBTHB1XXX
+  swift8: ALCBTHB1
+  branch_name: Head Office
+  branch_address: 469 Nakhon Sawan Road Bangkok 10300
+  branch_code: XXX
+  city: Bangkok
+  country: Thailand
+- name: Bank For Agriculture And Agricultural Cooperatives
+  swift: BAABTHBKXXX
+  swift8: BAABTHBK
+  branch_name: Head Office
+  branch_address: 469 Nakhon Sawan Road Bangkok 10300
+  branch_code: XXX
+  city: Bangkok
+  country: Thailand
+- name: Bank Of Thailand Employee's Thrift And Credit Cooperative Ltd
+  swift: TETCTHB1XXX
+  swift8: TETCTHB1
+  branch_name: Head Office
+  branch_address: Samsen Road Bangkok 00000
+  branch_code: XXX
+  city: Bangkok
+  country: Thailand
+- name: Bara Development Finance And Securites Co.ltd.
+  swift: BDFCTHB1XXX
+  swift8: BDFCTHB1
+  branch_name: Head Office
+  branch_address: U-Chuliang Foundation Bldg Bangkok 10500
+  branch_code: XXX
+  city: Bangkok
+  country: Thailand
+- name: Barclays De Zoete Wedd Securities Ltd
+  swift: BZWLTHB1XXX
+  swift8: BZWLTHB1
+  branch_name: Head Office
+  branch_address: Amarin Tower Bangkok 10330
+  branch_code: XXX
+  city: Bangkok
+  country: Thailand
+- name: Baring Research Ltd
+  swift: BARHTHB1XXX
+  swift8: BARHTHB1
+  branch_name: Head Office
+  branch_address: Bb Building Bangkok 10110
+  branch_code: XXX
+  city: Bangkok
+  country: Thailand
+- name: Bnp Prime Peregine Securities (thailand) Ltd
+  swift: BPPETHB1XXX
+  swift8: BPPETHB1
+  branch_name: Head Office
+  branch_address: Mbk Tower Bangkok 10330
+  branch_code: XXX
+  city: Bangkok
+  country: Thailand
+- name: Book Club Finance Public Company Limited, The
+  swift: BCFPTHB1XXX
+  swift8: BCFPTHB1
+  branch_name: Head Office
+  branch_address: Siam Commercial Bank Building 2 Bangkok 10400
+  branch_code: XXX
+  city: Bangkok
+  country: Thailand
+- name: Bualuang Securities Public Company Limited
+  swift: BSPOTHB1XXX
+  swift8: BSPOTHB1
+  branch_name: Head Office
+  branch_address: Silom Complex Office Building Bangkok 10500
+  branch_code: XXX
+  city: Bangkok
+  country: Thailand
+- name: Caisse Nationale Du Credit Agricole
+  swift: AGRITHB1XXX
+  swift8: AGRITHB1
+  branch_name: Head Office
+  branch_address: Kian Gwan House Bangkok
+  branch_code: XXX
+  city: Bangkok
+  country: Thailand
+- name: Capital Nomura Securities Public Co Ltd
+  swift: NMRSTHB1XXX
+  swift8: NMRSTHB1
+  branch_name: Head Office
+  branch_address: Thai Wah Tower Bangkok 10120
+  branch_code: XXX
+  city: Bangkok
+  country: Thailand
+- name: Capital Nomura Securities Public Company Limited
+  swift: CAPETHB1XXX
+  swift8: CAPETHB1
+  branch_name: Head Office
+  branch_address: Thai Wah Tower I Bangkok 10120
+  branch_code: XXX
+  city: Bangkok
+  country: Thailand
+- name: Cathay Trust Co Ltd
+  swift: CATTTHB1XXX
+  swift8: CATTTHB1
+  branch_name: Head Office
+  branch_address: Cathay Trust Building Bangkok 10500
+  branch_code: XXX
+  city: Bangkok
+  country: Thailand
+- name: Chiangmai Lending Office
+  swift: LENDTHB10BC
+  swift8: LENDTHB1
+  branch_name: Chiangmai
+  branch_address: 50/79-80 Hillside Plaza Building Chiangmai 50000
+  branch_code: 0BC
+  city: Chiangmai
+  country: Thailand
+- name: Chonburi Lending Office
+  swift: LENDTHB1XXX
+  swift8: LENDTHB1
+  branch_name: Head Office
+  branch_address: 34-1/2 Phrayasajja Road, Muang Chonburi 20000
+  branch_code: XXX
+  city: Chonburi
+  country: Thailand
+- name: Cimb Securities (thailand) Co., Ltd
+  swift: SEETTHB1XXX
+  swift8: SEETTHB1
+  branch_name: Head Office
+  branch_address: 44 Cimb Bank Thai Tower Bangkok 10330
+  branch_code: XXX
+  city: Bangkok
+  country: Thailand
+- name: Citicorp Securities (thailand) Ltd
+  swift: CISTTHB1XXX
+  swift8: CISTTHB1
+  branch_name: Head Office
+  branch_address: Saenthong Thani Building Bangkok 10500
+  branch_code: XXX
+  city: Bangkok
+  country: Thailand
+- name: Clsa Securities (thailand) Ltd
+  swift: CLSATHB1XXX
+  swift8: CLSATHB1
+  branch_name: Head Office
+  branch_address: M Thai Tower Bangkok 10330
+  branch_code: XXX
+  city: Bangkok
+  country: Thailand
+- name: Comptroller General's Department
+  swift: CGDXTHB1XXX
+  swift8: CGDXTHB1
+  branch_name: Head Office
+  branch_address: Rama Vi Rd Bangkok 10400
+  branch_code: XXX
+  city: Bangkok
+  country: Thailand
+- name: Credit Suisse Securities (thailand) Limited
+  swift: CSFBTHB1XXX
+  swift8: CSFBTHB1
+  branch_name: Head Office
+  branch_address: Abdulrahim Place Bangkok 10500
+  branch_code: XXX
+  city: Bangkok
+  country: Thailand
+- name: Crosby Research Ltd
+  swift: CRSHTHB1XXX
+  swift8: CRSHTHB1
+  branch_name: Head Office
+  branch_address: Silom Complex Bangkok 10500
+  branch_code: XXX
+  city: Bangkok
+  country: Thailand
+- name: Dbs Vickers Securities (thailand) Company Limited
+  swift: DBSVTHB1XXX
+  swift8: DBSVTHB1
+  branch_name: Head Office
+  branch_address: Siam Tower Bangkok 10330
+  branch_code: XXX
+  city: Bangkok
+  country: Thailand
+- name: Deposit Protection Agency
+  swift: DEPGTHB1XXX
+  swift8: DEPGTHB1
+  branch_name: Head Office
+  branch_address: Eastwater Building Bangkok 10900
+  branch_code: XXX
+  city: Bangkok
+  country: Thailand
+- name: Dhana Nakorn Finance And Securities Public Co.,ltd.
+  swift: DNFETHB1XXX
+  swift8: DNFETHB1
+  branch_name: Head Office
+  branch_address: Sirinrat Bldg Bangkok 10110
+  branch_code: XXX
+  city: Bangkok
+  country: Thailand
+- name: Dynamic Eastern Finance Thailand (1991) Public Co Ltd
+  swift: DEFTTHB1XXX
+  swift8: DEFTTHB1
+  branch_name: Head Office
+  branch_address: 459-471 Asoke-Dindaeng Road Bangkok 10310
+  branch_code: XXX
+  city: Bangkok
+  country: Thailand
+- name: Electricity Generating Authority Of Thailand
+  swift: EGATTHB1XXX
+  swift8: EGATTHB1
+  branch_name: Head Office
+  branch_address: Charansanitwong Road Bangkok 00000
+  branch_code: XXX
+  city: Bangkok
+  country: Thailand
+- name: Expressway And Rapid Transit Authority Of Thailand
+  swift: ERTATHB1XXX
+  swift8: ERTATHB1
+  branch_name: Head Office
+  branch_address: Phahonyothin Road Bangkok 00000
+  branch_code: XXX
+  city: Bangkok
+  country: Thailand
+- name: Far East Securities Company Limited
+  swift: FESCTHB1XXX
+  swift8: FESCTHB1
+  branch_name: Head Office
+  branch_address: Crc Tower, All Seasons Place Bangkok 10330
+  branch_code: XXX
+  city: Bangkok
+  country: Thailand
+- name: Finance Center-fucc Bank International
+  swift: FUCCTHB1XXX
+  swift8: FUCCTHB1
+  branch_name: Head Office
+  branch_address: Crc Tower Bangkok 10330
+  branch_code: XXX
+  city: Bangkok
+  country: Thailand
+- name: Finansa Credit Ltd
+  swift: FIRDTHB1XXX
+  swift8: FIRDTHB1
+  branch_name: Head Office
+  branch_address: Tisco Tower Bangkok 10500
+  branch_code: XXX
+  city: Bangkok
+  country: Thailand
+- name: Finansa Securities Ltd
+  swift: FIEUTHB1XXX
+  swift8: FIEUTHB1
+  branch_name: Head Office
+  branch_address: Tisco Tower Bangkok 10330
+  branch_code: XXX
+  city: Bangkok
+  country: Thailand
+- name: Finansia Syrus Securities Public Company Limited
+  swift: SYSOTHB1XXX
+  swift8: SYSOTHB1
+  branch_name: Head Office
+  branch_address: The Offices of Centralworld Bangkok 10330
+  branch_code: XXX
+  city: Bangkok
+  country: Thailand
+- name: First Asia Securities Public Co. Ltd.
+  swift: FASPTHB1XXX
+  swift8: FASPTHB1
+  branch_name: Head Office
+  branch_address: Thai C.C. Tower Bangkok 10120
+  branch_code: XXX
+  city: Bangkok
+  country: Thailand
+- name: First Bangkok City Finance And Securities Public Company Limited
+  swift: FBCFTHB1XXX
+  swift8: FBCFTHB1
+  branch_name: Head Office
+  branch_address: 323 United Center Building Bangkok 10500
+  branch_code: XXX
+  city: Bangkok
+  country: Thailand
+- name: Fitch Ratings (thailand) Limited
+  swift: FRIPTHB1XXX
+  swift8: FRIPTHB1
+  branch_name: Head Office
+  branch_address: Wave Place, 55 Wireless Road, Bangkok 10330
+  branch_code: XXX
+  city: Bangkok
+  country: Thailand
+- name: G20 Asset Management Co., Ltd.
+  swift: GSMNTHB1XXX
+  swift8: GSMNTHB1
+  branch_name: Head Office
+  branch_address: 11/3 Soi 18, Sukhumvit Road Bangkok 10100
+  branch_code: XXX
+  city: Bangkok
+  country: Thailand
+- name: Ge Money Retail Bank Public Company
+  swift: MRPCTHB1XXX
+  swift8: MRPCTHB1
+  branch_name: Head Office
+  branch_address: Capital Tower Bangkok 10330
+  branch_code: XXX
+  city: Bangkok
+  country: Thailand
+- name: General Finance And Securities Co Ltd
+  swift: GEFSTHB1XXX
+  swift8: GEFSTHB1
+  branch_name: Head Office
+  branch_address: Sg Tower Bangkok 10330
+  branch_code: XXX
+  city: Bangkok
+  country: Thailand
+- name: Global Thai Finance And Securities Co. Ltd
+  swift: GTFCTHB1XXX
+  swift8: GTFCTHB1
+  branch_name: Head Office
+  branch_address: Sinthorn Building 2 Bangkok 10330
+  branch_code: XXX
+  city: Bangkok
+  country: Thailand
+- name: Globlex Securities Co Ltd
+  swift: GLSCTHB1XXX
+  swift8: GLSCTHB1
+  branch_name: Head Office
+  branch_address: Crc Tower, All Seasons Place Bangkok 10330
+  branch_code: XXX
+  city: Bangkok
+  country: Thailand
+- name: Government Housing Bank
+  swift: GOHUTHB1XXX
+  swift8: GOHUTHB1
+  branch_name: Head Office
+  branch_address: 63 Rama Ix Road Huayhhwong Bangkok 10320
+  branch_code: XXX
+  city: Bangkok
+  country: Thailand
+- name: Government Pension Fund
+  swift: GOPFTHB1XXX
+  swift8: GOPFTHB1
+  branch_name: Head Office
+  branch_address: 990, Rama Iv Road Bangkok 10500
+  branch_code: XXX
+  city: Bangkok
+  country: Thailand
+- name: Hg Asia Investment Research Ltd
+  swift: ASIRTHB1XXX
+  swift8: ASIRTHB1
+  branch_name: Head Office
+  branch_address: C.P. Tower Building Bangkok 10500
+  branch_code: XXX
+  city: Bangkok
+  country: Thailand
+- name: I V Global Securities Public Company Limited
+  swift: ISPCTHB1XXX
+  swift8: ISPCTHB1
+  branch_name: Head Office
+  branch_address: Mercury Tower Bangkok 10330
+  branch_code: XXX
+  city: Bangkok
+  country: Thailand
+- name: Industrial And Commercial Bank Of China (thai) Public Company Limited
+  swift: ICBKTHBKXXX
+  swift8: ICBKTHBK
+  branch_name: Head Office
+  branch_address: Emporium Tower Bangkok 10110
+  branch_code: XXX
+  city: Bangkok
+  country: Thailand
+- name: Industrial And Commercial Bank Of China (thai) Public Company Limited
+  swift: ACLXTHBKXXX
+  swift8: ACLXTHBK
+  branch_name: Head Office
+  branch_address: Emporium Tower Bangkok 10110
+  branch_code: XXX
+  city: Bangkok
+  country: Thailand
+- name: Jp Morgan Securities (thailand) Limited
+  swift: JPSTTHB1XXX
+  swift8: JPSTTHB1
+  branch_name: Head Office
+  branch_address: Bubhajit Building Bangkok 10500
+  branch_code: XXX
+  city: Bangkok
+  country: Thailand
+- name: Kaewsong (2548) Public Company Limited
+  swift: BCFSTHB1XXX
+  swift8: BCFSTHB1
+  branch_name: Head Office
+  branch_address: F/3-6 Siam Commercial Bank Building Bangkok 10330
+  branch_code: XXX
+  city: Bangkok
+  country: Thailand
+- name: Kasikorn Asset Management Co Ltd
+  swift: KAMOTHB1XXX
+  swift8: KAMOTHB1
+  branch_name: Head Office
+  branch_address: Muangthai-Phatra 1 Bangkok 10320
+  branch_code: XXX
+  city: Bangkok
+  country: Thailand
+- name: Kasikorn Securities Public Company Limited
+  swift: KSPCTHB1XXX
+  swift8: KSPCTHB1
+  branch_name: Head Office
+  branch_address: Kasikornbank Building Bangkok 10400
+  branch_code: XXX
+  city: Bangkok
+  country: Thailand
+- name: Kgi Securities (thailand) Public Company Limited.
+  swift: KSOPTHB1001
+  swift8: KSOPTHB1
+  branch_name: Bangkok
+  branch_address: United Center Bangkok 10500
+  branch_code: '001'
+  city: Bangkok
+  country: Thailand
+- name: Kgi Securities (thailand) Public Company Limited.
+  swift: KSOPTHB1XXX
+  swift8: KSOPTHB1
+  branch_name: Head Office
+  branch_address: 323 United Center Building Bangkok 10500
+  branch_code: XXX
+  city: Bangkok
+  country: Thailand
+- name: Khon Kaen Lending Office
+  swift: LENDTHB10BH
+  swift8: LENDTHB1
+  branch_name: Khon Kaen
+  branch_address: Namuang Road, Muang District Khon Kaen 40000
+  branch_code: 0BH
+  city: Khon Kaen
+  country: Thailand
+- name: Kiatnakin Bank Public Company Limited
+  swift: KIFITHB1XXX
+  swift8: KIFITHB1
+  branch_name: Head Office
+  branch_address: Amarin Tower Bangkok 10330
+  branch_code: XXX
+  city: Bangkok
+  country: Thailand
+- name: Kiatnakin Finance And Securities Public Co Ltd
+  swift: KFSPTHB1XXX
+  swift8: KFSPTHB1
+  branch_name: Head Office
+  branch_address: Amarin Tower Bangkok 10330
+  branch_code: XXX
+  city: Bangkok
+  country: Thailand
+- name: Kim Eng Securities (thailand) Public Company Limited
+  swift: KESATHB1XXX
+  swift8: KESATHB1
+  branch_name: Head Office
+  branch_address: Mercury Tower Bangkok 10330
+  branch_code: XXX
+  city: Bangkok
+  country: Thailand
+- name: Krungthai Thanakit Finance Public Company Limited
+  swift: KRUTTHB1XXX
+  swift8: KRUTTHB1
+  branch_name: Head Office
+  branch_address: Sermmit Tower Bangkok 10110
+  branch_code: XXX
+  city: Bangkok
+  country: Thailand
+- name: Ksit Finance And Securities Plc
+  swift: KFSCTHB1XXX
+  swift8: KFSCTHB1
+  branch_name: Head Office
+  branch_address: Mbk Tower Bangkok 10330
+  branch_code: XXX
+  city: Bangkok
+  country: Thailand
+- name: Kt Zmico Securities Company Limited
+  swift: ZMSCTHB1XXX
+  swift8: ZMSCTHB1
+  branch_name: Head Office
+  branch_address: Liberty Square Building Bangkok 10500
+  branch_code: XXX
+  city: Bangkok
+  country: Thailand
+- name: Ktb Securities Limited
+  swift: HSTHTHB1XXX
+  swift8: HSTHTHB1
+  branch_name: Head Office
+  branch_address: Mbk Tower Bangkok 10330
+  branch_code: XXX
+  city: Bangkok
+  country: Thailand
+- name: Land And Houses Retail Bank Public Company Limited
+  swift: LAHRTHB1XXX
+  swift8: LAHRTHB1
+  branch_name: Head Office
+  branch_address: Q. House Building Bangkok 10120
+  branch_code: XXX
+  city: Bangkok
+  country: Thailand
+- name: Lynn Phillips Mortgage Credit Foncier Co.,ltd
+  swift: LPMCTHB1XXX
+  swift8: LPMCTHB1
+  branch_name: Head Office
+  branch_address: Ratchadaphisek Road Bangkok 00000
+  branch_code: XXX
+  city: Bangkok
+  country: Thailand
+- name: Macquarie Securities (thailand) Limited
+  swift: IBSTTHB1XXX
+  swift8: IBSTTHB1
+  branch_name: Head Office
+  branch_address: Crc Tower, All Seasons Place Bangkok 10330
+  branch_code: XXX
+  city: Bangkok
+  country: Thailand
+- name: Mass Rapid Transit Authority Of Thailand
+  swift: MRTATHB1XXX
+  swift8: MRTATHB1
+  branch_name: Head Office
+  branch_address: Rama Ix Road Bangkok 00000
+  branch_code: XXX
+  city: Bangkok
+  country: Thailand
+- name: Mercantile Bank Ltd.
+  swift: HLEBTHB1XXX
+  swift8: HLEBTHB1
+  branch_name: Head Office
+  branch_address: 127 South Sathorn Rd., Bangkok 10120
+  branch_code: XXX
+  city: Bangkok
+  country: Thailand
+- name: Merchant Partners Securities Public Company Limited
+  swift: ADSCTHB1XXX
+  swift8: ADSCTHB1
+  branch_name: Head Office
+  branch_address: Crc Tower All Seasons Place Bangkok 10330
+  branch_code: XXX
+  city: Bangkok
+  country: Thailand
+- name: Merrill Lynch Securities (thailand) Limited
+  swift: SECYTHB1XXX
+  swift8: SECYTHB1
+  branch_name: Head Office
+  branch_address: Sindhorn 1 Bangkok 10330
+  branch_code: XXX
+  city: Bangkok
+  country: Thailand
+- name: Metropolitan Waterworks Authority
+  swift: MEWATHB1XXX
+  swift8: MEWATHB1
+  branch_name: Head Office
+  branch_address: Prachachuen Road Bangkok
+  branch_code: XXX
+  city: Bangkok
+  country: Thailand
+- name: Mizuho Bank, Ltd., Bangkok Branch
+  swift: MHCBTHB2XXX
+  swift8: MHCBTHB2
+  branch_name: No branch name
+  branch_address: No branch address
+  branch_code: XXX
+  city: Bangkok Krung Thep
+  country: Thailand
+- name: Multi-credit Corporation Of Thailand Ltd.
+  swift: MULCTHB1XXX
+  swift8: MULCTHB1
+  branch_name: Head Office
+  branch_address: Kian Gwan Building 2 Bangkok 10330
+  branch_code: XXX
+  city: Bangkok
+  country: Thailand
+- name: Nakhon Ratchasima Lending Office
+  swift: LENDTHB10BR
+  swift8: LENDTHB1
+  branch_name: Nakhon Ratchasima
+  branch_address: 91-93 Mahadthai Road, Muang Nakhon Ratchasima 30000
+  branch_code: 0BR
+  city: Nakhon Ratchasima
+  country: Thailand
+- name: National Finance Public Company Limited
+  swift: NFSPTHB1XXX
+  swift8: NFSPTHB1
+  branch_name: Head Office
+  branch_address: Mbk Tower Bangkok 10330
+  branch_code: XXX
+  city: Bangkok
+  country: Thailand
+- name: National Housing Authority
+  swift: NAHATHB1XXX
+  swift8: NAHATHB1
+  branch_name: Head Office
+  branch_address: Head Office Building Bangkok 10240
+  branch_code: XXX
+  city: Bangkok
+  country: Thailand
+- name: National Itmx Co., Ltd.
+  swift: NAITTHB1XXX
+  swift8: NAITTHB1
+  branch_name: Head Office
+  branch_address: Tower a Bangkok 10330
+  branch_code: XXX
+  city: Bangkok
+  country: Thailand
+- name: Nava Finance And Securities Co Ltd.
+  swift: NAVATHB1XXX
+  swift8: NAVATHB1
+  branch_name: Head Office
+  branch_address: Nava Finance Building Bangkok 10330
+  branch_code: XXX
+  city: Bangkok
+  country: Thailand
+- name: Nithipat Capital And Securities Co. Ltd.
+  swift: NCSCTHB1XXX
+  swift8: NCSCTHB1
+  branch_name: Head Office
+  branch_address: 52 Thaniya Plaza Building Bangkok 10500
+  branch_code: XXX
+  city: Bangkok
+  country: Thailand
+- name: Office For Securities Brokerage Services
+  swift: OFSBTHB10BN
+  swift8: OFSBTHB1
+  branch_name: Nakhon Pathom
+  branch_address: 111-112 Petchkasem Road, Nakhon Pathom 73000
+  branch_code: 0BN
+  city: Nakhon Pathom
+  country: Thailand
+- name: Office For Securities Brokerage Services
+  swift: OFSBTHB10BS
+  swift8: OFSBTHB1
+  branch_name: Songkhla
+  branch_address: Lee Garden Songkhla 90110
+  branch_code: 0BS
+  city: Songkhla
+  country: Thailand
+- name: Office For Securities Brokerage Services
+  swift: OFSBTHB10BT
+  swift8: OFSBTHB1
+  branch_name: Trang
+  branch_address: 59-5/7 Huay Yot Road, Thap Thing, Trang 92000
+  branch_code: 0BT
+  city: Trang
+  country: Thailand
+- name: Office For Securities Brokerage Services
+  swift: OFSBTHB1XXX
+  swift8: OFSBTHB1
+  branch_name: Head Office
+  branch_address: 77-1 Sripoom Road, Muang District Chiangmai 50000
+  branch_code: XXX
+  city: Chiangmai
+  country: Thailand
+- name: Osk Securities (thailand) Public Company Limited
+  swift: BFSOTHB1XXX
+  swift8: BFSOTHB1
+  branch_name: Head Office
+  branch_address: Bangkok Insurance Building Bangkok 10120
+  branch_code: XXX
+  city: Bangkok
+  country: Thailand
+- name: Overseas Union Bank Ltd.
+  swift: OUBKTHB1XXX
+  swift8: OUBKTHB1
+  branch_name: Head Office
+  branch_address: Regent House Bangkok 10330
+  branch_code: XXX
+  city: Bangkok
+  country: Thailand
+- name: Panasonic Treasury Centre (thailand) Co., Ltd.
+  swift: PANATHB1XXX
+  swift8: PANATHB1
+  branch_name: Head Office
+  branch_address: 26 Orakarn Building Bangkok 10330
+  branch_code: XXX
+  city: Bangkok
+  country: Thailand
+- name: Phatra Securities Public Company Limited
+  swift: PHSUTHB1XXX
+  swift8: PHSUTHB1
+  branch_name: Head Office
+  branch_address: Muang Thai-Phatra Tower 1 Bangkok 10310
+  branch_code: XXX
+  city: Bangkok
+  country: Thailand
+- name: Phillip Securities (thailand) Public Co. Ltd
+  swift: PSTPTHB1XXX
+  swift8: PSTPTHB1
+  branch_name: Head Office
+  branch_address: Thai Cc Tower Bangkok 10120
+  branch_code: XXX
+  city: Bangkok
+  country: Thailand
+- name: Poonpipat Finance And Securities Co Ltd.
+  swift: POFSTHB1XXX
+  swift8: POFSTHB1
+  branch_name: Head Office
+  branch_address: Sathorn Thani Building Bangkok 10500
+  branch_code: XXX
+  city: Bangkok
+  country: Thailand
+- name: Provincial Electricity Authority
+  swift: PREHTHB1XXX
+  swift8: PREHTHB1
+  branch_name: Head Office
+  branch_address: Ngamwongwan Road Bangkok 00000
+  branch_code: XXX
+  city: Bangkok
+  country: Thailand
+- name: Provincial Waterworks Authority
+  swift: PRWATHB1XXX
+  swift8: PRWATHB1
+  branch_name: Head Office
+  branch_address: Chaengwattana Road Bangkok 00000
+  branch_code: XXX
+  city: Bangkok
+  country: Thailand
+- name: Ptt Public Company Limited
+  swift: PTPCTHB1XXX
+  swift8: PTPCTHB1
+  branch_name: Head Office
+  branch_address: Vibhavadi Rangsit Road Bangkok
+  branch_code: XXX
+  city: Bangkok
+  country: Thailand
+- name: Public Debt Management Office
+  swift: PDMOTHB1XXX
+  swift8: PDMOTHB1
+  branch_name: Head Office
+  branch_address: Rama Vi Road Bangkok 00000
+  branch_code: XXX
+  city: Bangkok
+  country: Thailand
+- name: S.c.f. Finance And Securities Pcl
+  swift: SCFSTHB1XXX
+  swift8: SCFSTHB1
+  branch_name: Head Office
+  branch_address: Charn Issara Tower Ii Bldg Bangkok 10310
+  branch_code: XXX
+  city: Bangkok
+  country: Thailand
+- name: Sahaviriya Credit Foncier Co.,ltd.
+  swift: SCFCTHB1XXX
+  swift8: SCFCTHB1
+  branch_name: Head Office
+  branch_address: Surasak Road Bangkok 00000
+  branch_code: XXX
+  city: Bangkok
+  country: Thailand
+- name: Scb Securities Co Ltd
+  swift: SSTCTHB1001
+  swift8: SSTCTHB1
+  branch_name: Bangkok
+  branch_address: Sindhorn Building Bangkok 10330
+  branch_code: '001'
+  city: Bangkok
+  country: Thailand
+- name: Scb Securities Co Ltd
+  swift: SSTCTHB1XXX
+  swift8: SSTCTHB1
+  branch_name: Head Office
+  branch_address: Sindhorn Bldg Bangkok 10330
+  branch_code: XXX
+  city: Bangkok
+  country: Thailand
+- name: Seamico Securities Public Company Limited
+  swift: SESPTHB1XXX
+  swift8: SESPTHB1
+  branch_name: Head Office
+  branch_address: Liberty Square Building Bangkok 10500
+  branch_code: XXX
+  city: Bangkok
+  country: Thailand
+- name: Secondary Mortgage Corporation
+  swift: SMCRTHB1XXX
+  swift8: SMCRTHB1
+  branch_name: Head Office
+  branch_address: Muang Thai-Phatra Office Tower Ii Bangkok 10320
+  branch_code: XXX
+  city: Bangkok
+  country: Thailand
+- name: Securities One Public Company Limited
+  swift: SOPCTHB1XXX
+  swift8: SOPCTHB1
+  branch_name: Head Office
+  branch_address: Soi Mahardlekluang 1 Bangkok 10330
+  branch_code: XXX
+  city: Bangkok
+  country: Thailand
+- name: Siam City Credit Finance And Securities Public Company Limited
+  swift: SCCFTHB1XXX
+  swift8: SCCFTHB1
+  branch_name: Head Office
+  branch_address: 518/5 Maneeya Building Bangkok 10330
+  branch_code: XXX
+  city: Bangkok
+  country: Thailand
+- name: Siam City Securities Company Limited
+  swift: CACYTHB1XXX
+  swift8: CACYTHB1
+  branch_name: Head Office
+  branch_address: Cathay Trust Building Bangkok 10330
+  branch_code: XXX
+  city: Bangkok
+  country: Thailand
+- name: Sicco Securities Public Company Limited
+  swift: SSPOTHB1XXX
+  swift8: SSPOTHB1
+  branch_name: Head Office
+  branch_address: Sinthorn Tower 2 Bangkok 10330
+  branch_code: XXX
+  city: Bangkok
+  country: Thailand
+- name: Sime Bank Berhad
+  swift: SIMETHB1XXX
+  swift8: SIMETHB1
+  branch_name: Head Office
+  branch_address: 149 Suapa Road Bangkok
+  branch_code: XXX
+  city: Bangkok
+  country: Thailand
+- name: Small Industry Finance Corporation
+  swift: SIFPTHB1XXX
+  swift8: SIFPTHB1
+  branch_name: Head Office
+  branch_address: Siripinyo Tower Bangkok 10400
+  branch_code: XXX
+  city: Bangkok
+  country: Thailand
+- name: Standard Chartered Securities Ltd
+  swift: SCSETHB1XXX
+  swift8: SCSETHB1
+  branch_name: Head Office
+  branch_address: Sg Tower Bangkok 10330
+  branch_code: XXX
+  city: Bangkok
+  country: Thailand
+- name: State Railway Of Thailand
+  swift: STRHTHB1XXX
+  swift8: STRHTHB1
+  branch_name: Head Office
+  branch_address: Rongmuang Road Bangkok 00000
+  branch_code: XXX
+  city: Bangkok
+  country: Thailand
+- name: Thai Asset Management Corporation
+  swift: TAMOTHB1XXX
+  swift8: TAMOTHB1
+  branch_name: Head Office
+  branch_address: Exim Building Bangkok 10400
+  branch_code: XXX
+  city: Bangkok
+  country: Thailand
+- name: Thai Bond Market Association
+  swift: TBDCTHB1XXX
+  swift8: TBDCTHB1
+  branch_name: Head Office
+  branch_address: Vanissa Bldg Bangkok 10330
+  branch_code: XXX
+  city: Bangkok
+  country: Thailand
+- name: Thai Credit Retail Bank Co., Ltd.
+  swift: THCETHB1XXX
+  swift8: THCETHB1
+  branch_name: Head Office
+  branch_address: New Thai Life Insurance Building Bangkok 10400
+  branch_code: XXX
+  city: Bangkok
+  country: Thailand
+- name: Thai Financial Syndicate Public Co Ltd.
+  swift: TFSPTHB1XXX
+  swift8: TFSPTHB1
+  branch_name: Head Office
+  branch_address: World Trade Centre Building Bangkok 10330
+  branch_code: XXX
+  city: Bangkok
+  country: Thailand
+- name: Thai Financial Trust Public Co Ltd.
+  swift: TFTPTHB1XXX
+  swift8: TFTPTHB1
+  branch_name: Head Office
+  branch_address: Tci Tower Bangkok 10110
+  branch_code: XXX
+  city: Bangkok
+  country: Thailand
+- name: Thai Fuji Finance And Securities Co Ltd.
+  swift: TFFSTHB1XXX
+  swift8: TFFSTHB1
+  branch_name: Head Office
+  branch_address: Quality House Building Bangkok 10500
+  branch_code: XXX
+  city: Bangkok
+  country: Thailand
+- name: Thai Investment And Securities Co. Ltd.
+  swift: THISTHB1XXX
+  swift8: THISTHB1
+  branch_name: Head Office
+  branch_address: Boonmitr Building Bangkok 10500
+  branch_code: XXX
+  city: Bangkok
+  country: Thailand
+- name: Thai Keha Credit Foncier Public Company Limited
+  swift: TKCFTHB1XXX
+  swift8: TKCFTHB1
+  branch_name: Head Office
+  branch_address: Thai Life Insurance Bangkok 10400
+  branch_code: XXX
+  city: Bangkok
+  country: Thailand
+- name: Thai Sakura Finance And Securities Co Ltd.
+  swift: TSFSTHB1XXX
+  swift8: TSFSTHB1
+  branch_name: Head Office
+  branch_address: Boonmitr Building Bangkok 10500
+  branch_code: XXX
+  city: Bangkok
+  country: Thailand
+- name: Thai Samsung Electronics Co.,ltd.
+  swift: SECTTHB15A0
+  swift8: SECTTHB1
+  branch_name: Tse
+  branch_address: Chonburi
+  branch_code: 5A0
+  city: Chonburi
+  country: Thailand
+- name: Thai Samsung Electronics Co.,ltd.
+  swift: SECTTHB1XXX
+  swift8: SECTTHB1
+  branch_name: Head Office
+  branch_address: 313 Moo 1 Sukhaphiban 8 Rd Chonburi 20230
+  branch_code: XXX
+  city: Chonburi
+  country: Thailand
+- name: Thai Securities Co.ltd.
+  swift: THASTHB1XXX
+  swift8: THASTHB1
+  branch_name: Head Office
+  branch_address: Boonmitr Bldg Bangkok 10500
+  branch_code: XXX
+  city: Bangkok
+  country: Thailand
+- name: Thailand Clearing House Co., Ltd
+  swift: TCHCTHB1XXX
+  swift8: TCHCTHB1
+  branch_name: Head Office
+  branch_address: Stock Exchange of Thailand Bangkok 10110
+  branch_code: XXX
+  city: Bangkok
+  country: Thailand
+- name: Thailand Post Co Ltd
+  swift: TPSTTHB1XXX
+  swift8: TPSTTHB1
+  branch_name: Head Office
+  branch_address: 111 M.3 Changwattana Road, Laksi, Bangkok 10210-0299
+  branch_code: XXX
+  city: Bangkok
+  country: Thailand
+- name: Thaimex Finance And Securities Public Co. Ltd.
+  swift: TFSUTHB1XXX
+  swift8: TFSUTHB1
+  branch_name: Head Office
+  branch_address: Thai Life, Insurance Building 2 Bangkok 10500
+  branch_code: XXX
+  city: Bangkok
+  country: Thailand
+- name: Thaisri Insurance Co., Ltd
+  swift: THIOTHB1XXX
+  swift8: THIOTHB1
+  branch_name: Head Office
+  branch_address: Thaisri Tower Bangkok 10600
+  branch_code: XXX
+  city: Bangkok
+  country: Thailand
+- name: Thana One Finance And Securities Ltd.
+  swift: TOFETHB1XXX
+  swift8: TOFETHB1
+  branch_name: Head Office
+  branch_address: Orakarn Building Bangkok 10330
+  branch_code: XXX
+  city: Bangkok
+  country: Thailand
+- name: Thanachart Securities Public Company Limited
+  swift: NASMTHB1XXX
+  swift8: NASMTHB1
+  branch_name: Head Office
+  branch_address: Mbk Tower Bangkok 10330
+  branch_code: XXX
+  city: Bangkok
+  country: Thailand
+- name: Thanapol Finance And Securities Co Ltd.
+  swift: THFETHB1XXX
+  swift8: THFETHB1
+  branch_name: Head Office
+  branch_address: 133 Sukhumvit 21 Road Bangkok 10110
+  branch_code: XXX
+  city: Bangkok
+  country: Thailand
+- name: The Ocean Securities And Finance Co. Ltd.
+  swift: OCSFTHB1XXX
+  swift8: OCSFTHB1
+  branch_name: Head Office
+  branch_address: 163 Surawong Road Bangkok 10500
+  branch_code: XXX
+  city: Bangkok
+  country: Thailand
+- name: The Office Of The Securities And Exchange Commission
+  swift: OSECTHB1XXX
+  swift8: OSECTHB1
+  branch_name: Head Office
+  branch_address: Diethelmtowers B Bangkok 10330
+  branch_code: XXX
+  city: Bangkok
+  country: Thailand
+- name: The Revenue Department Of Thailand
+  swift: REDPTHB1XXX
+  swift8: REDPTHB1
+  branch_name: Head Office
+  branch_address: 90 Soi Phaholyothin 7 Bangkok 10400
+  branch_code: XXX
+  city: Bangkok
+  country: Thailand
+- name: The Siam Industrial Credit Public Company Limited
+  swift: SSICTHB1XXX
+  swift8: SSICTHB1
+  branch_name: Head Office
+  branch_address: Sinthorn Tower 2 Bangkok 10330
+  branch_code: XXX
+  city: Bangkok
+  country: Thailand
+- name: The Sri Muang Insurance Company Limited
+  swift: SMICTHB1XXX
+  swift8: SMICTHB1
+  branch_name: Head Office
+  branch_address: 195 Empire Tower Bangkok 10120
+  branch_code: XXX
+  city: Bangkok
+  country: Thailand
+- name: The Stock Exchange Of Thailand
+  swift: XBKKTHB1XXX
+  swift8: XBKKTHB1
+  branch_name: Head Office
+  branch_address: The Stock Exchange of Thailand Bld Bangkok 10110
+  branch_code: XXX
+  city: Bangkok
+  country: Thailand
+- name: Tisco Bank Public Company Limited
+  swift: TFPCTHB1XXX
+  swift8: TFPCTHB1
+  branch_name: Head Office
+  branch_address: Tisco Tower Bangkok 10500
+  branch_code: XXX
+  city: Bangkok
+  country: Thailand
+- name: Tisco Securities Company Limited
+  swift: TSCCTHB1XXX
+  swift8: TSCCTHB1
+  branch_name: Head Office
+  branch_address: Tisco Tower Bangkok 10500
+  branch_code: XXX
+  city: Bangkok
+  country: Thailand
+- name: Trang Lending Office
+  swift: LENDTHB10BT
+  swift8: LENDTHB1
+  branch_name: Trang
+  branch_address: Wall Street Building Trang 92000
+  branch_code: 0BT
+  city: Trang
+  country: Thailand
+- name: Trinity Securities Company Limited
+  swift: TRSOTHB1XXX
+  swift8: TRSOTHB1
+  branch_name: Head Office
+  branch_address: Bangkok City Tower Bangkok 10120
+  branch_code: XXX
+  city: Bangkok
+  country: Thailand
+- name: Tsfc Securities Limited.
+  swift: TSFCTHB1XXX
+  swift8: TSFCTHB1
+  branch_name: Head Office
+  branch_address: Ploenchit Tower Bangkok 10330
+  branch_code: XXX
+  city: Bangkok
+  country: Thailand
+- name: Ubs Securities (thailand) Limited
+  swift: SWPSTHB1XXX
+  swift8: SWPSTHB1
+  branch_name: Head Office
+  branch_address: Diethelm Tower B Bangkok 10330
+  branch_code: XXX
+  city: Bangkok
+  country: Thailand
+- name: Union Asia Finance Public Co. Ltd
+  swift: UAPFTHB1XXX
+  swift8: UAPFTHB1
+  branch_name: Head Office
+  branch_address: Tower Building Bangkok 10120
+  branch_code: XXX
+  city: Bangkok
+  country: Thailand
+- name: Union Securities Co Ltd.
+  swift: UNIUTHB1XXX
+  swift8: UNIUTHB1
+  branch_name: Head Office
+  branch_address: P.S. Tower Bangkok 10110
+  branch_code: XXX
+  city: Bangkok
+  country: Thailand
+- name: United Securities Public Company Limited
+  swift: UNSETHB1XXX
+  swift8: UNSETHB1
+  branch_name: Head Office
+  branch_address: Thanapoom Tower Bangkok 10400
+  branch_code: XXX
+  city: Bangkok
+  country: Thailand
+- name: Uob Kay Hian Securities (thailand) Co Ltd
+  swift: UKHSTHB1XXX
+  swift8: UKHSTHB1
+  branch_name: Head Office
+  branch_address: Sindhorn Tower 1 Bangkok 10330
+  branch_code: XXX
+  city: Bangkok
+  country: Thailand
+- name: Vickers Ballas Securities Co. Ltd
+  swift: VIBSTHB1XXX
+  swift8: VIBSTHB1
+  branch_name: Head Office
+  branch_address: Nava Building Bangkok 10330
+  branch_code: XXX
+  city: Bangkok
+  country: Thailand
+- name: Wall Street Finance And Securities Public Company Limited
+  swift: WSFSTHB10BK
+  swift8: WSFSTHB1
+  branch_name: Head Office
+  branch_address: 33-18 Wall Street Tower G Bangkok 10500
+  branch_code: 0BK
+  city: Bangkok
+  country: Thailand
+- name: Wall Street Finance And Securities Public Company Limited
+  swift: WSFSTHB1XXX
+  swift8: WSFSTHB1
+  branch_name: Yaowaraj Branch
+  branch_address: 308 Karnchanadhat Building Bangkok 10100
+  branch_code: XXX
+  city: Bangkok
+  country: Thailand
+- name: Yuanta Securities (thailand) Company Limited
+  swift: YSTCTHB1XXX
+  swift8: YSTCTHB1
+  branch_name: Head Office
+  branch_address: Mercury Tower Bangkok 10330
+  branch_code: XXX
+  city: Bangkok
+  country: Thailand

@@ -1,0 +1,5418 @@
+---
+BD:
+- name: Ab Bank Limited
+  swift: ABBLBDDH002
+  swift8: ABBLBDDH
+  branch_name: Karwan Bazar Branch
+  branch_address: 102, Kazi Nazrul Islam Avenue Dhaka
+  branch_code: '002'
+  city: Dhaka
+  country: Bangladesh
+- name: Ab Bank Limited
+  swift: ABBLBDDH003
+  swift8: ABBLBDDH
+  branch_name: Imamganj Branch
+  branch_address: 40, Imamganj Dhaka
+  branch_code: '003'
+  city: Dhaka
+  country: Bangladesh
+- name: Ab Bank Limited
+  swift: ABBLBDDH004
+  swift8: ABBLBDDH
+  branch_name: Motijheel Branch
+  branch_address: 8, Rajuk Avenue - Motijheel C/a Dhaka
+  branch_code: '004'
+  city: Dhaka
+  country: Bangladesh
+- name: Ab Bank Limited
+  swift: ABBLBDDH005
+  swift8: ABBLBDDH
+  branch_name: Principal Branch
+  branch_address: Bcic Bhaban 1000 Dhaka
+  branch_code: '005'
+  city: Dhaka
+  country: Bangladesh
+- name: Ab Bank Limited
+  swift: ABBLBDDH006
+  swift8: ABBLBDDH
+  branch_name: New Elephant Road Branch
+  branch_address: 92, New Elephant Road Dhaka
+  branch_code: '006'
+  city: Dhaka
+  country: Bangladesh
+- name: Ab Bank Limited
+  swift: ABBLBDDH009
+  swift8: ABBLBDDH
+  branch_name: Kakrail Branch
+  branch_address: 81, Vip Road Dhaka
+  branch_code: '009'
+  city: Dhaka
+  country: Bangladesh
+- name: Ab Bank Limited
+  swift: ABBLBDDH010
+  swift8: ABBLBDDH
+  branch_name: North South Road Branch
+  branch_address: 9/1, North South Road Dhaka
+  branch_code: '010'
+  city: Dhaka
+  country: Bangladesh
+- name: Ab Bank Limited
+  swift: ABBLBDDH011
+  swift8: ABBLBDDH
+  branch_name: Mohakhali Branch
+  branch_address: Pacific Plaza Dhaka
+  branch_code: '011'
+  city: Dhaka
+  country: Bangladesh
+- name: Ab Bank Limited
+  swift: ABBLBDDH013
+  swift8: ABBLBDDH
+  branch_name: Nawabpur Road Branch
+  branch_address: 198-202, Newabpur Road Dhaka
+  branch_code: '013'
+  city: Dhaka
+  country: Bangladesh
+- name: Ab Bank Limited
+  swift: ABBLBDDH019
+  swift8: ABBLBDDH
+  branch_name: Gulshan Branch
+  branch_address: House Cwn (A) 3 1212 Dhaka
+  branch_code: '019'
+  city: Dhaka
+  country: Bangladesh
+- name: Ab Bank Limited
+  swift: ABBLBDDH020
+  swift8: ABBLBDDH
+  branch_name: Uttara Branch
+  branch_address: House 11 1230 Dhaka
+  branch_code: '020'
+  city: Dhaka
+  country: Bangladesh
+- name: Ab Bank Limited
+  swift: ABBLBDDH101
+  swift8: ABBLBDDH
+  branch_name: Agrabad Branch
+  branch_address: 26, Agrabad C/a Chittagong
+  branch_code: '101'
+  city: Chittagong
+  country: Bangladesh
+- name: Ab Bank Limited
+  swift: ABBLBDDH102
+  swift8: ABBLBDDH
+  branch_name: Khatunganj Branch
+  branch_address: 396, Khatunganj Chittagong
+  branch_code: '102'
+  city: Chittagong
+  country: Bangladesh
+- name: Ab Bank Limited
+  swift: ABBLBDDH103
+  swift8: ABBLBDDH
+  branch_name: Station Road Branch
+  branch_address: 85, Station Road, Nupur Market Chittagong
+  branch_code: '103'
+  city: Chittagong
+  country: Bangladesh
+- name: Ab Bank Limited
+  swift: ABBLBDDH105
+  swift8: ABBLBDDH
+  branch_name: Epz Branch
+  branch_address: P.O. Export Processing Zone Chittagong
+  branch_code: '105'
+  city: Chittagong
+  country: Bangladesh
+- name: Ab Bank Limited
+  swift: ABBLBDDH110
+  swift8: ABBLBDDH
+  branch_name: Cda Avenue Branch
+  branch_address: 1367 Cda Avenue Chittagong
+  branch_code: '110'
+  city: Chittagong
+  country: Bangladesh
+- name: Ab Bank Limited
+  swift: ABBLBDDH111
+  swift8: ABBLBDDH
+  branch_name: Dargah Gate Branch
+  branch_address: Rajmanjil Sylhet
+  branch_code: '111'
+  city: Sylhet
+  country: Bangladesh
+- name: Ab Bank Limited
+  swift: ABBLBDDH112
+  swift8: ABBLBDDH
+  branch_name: V I P Road Branch
+  branch_address: Surma Tower Sylhet
+  branch_code: '112'
+  city: Sylhet
+  country: Bangladesh
+- name: Ab Bank Limited
+  swift: ABBLBDDH126
+  swift8: ABBLBDDH
+  branch_name: Jubilee Road Branch
+  branch_address: Enayet Bazar Chittagong
+  branch_code: '126'
+  city: Chittagong
+  country: Bangladesh
+- name: Ab Bank Limited
+  swift: ABBLBDDH201
+  swift8: ABBLBDDH
+  branch_name: Bogra Branch
+  branch_address: 324, Kazi Nazrul Islam Sarak Bogra
+  branch_code: '201'
+  city: Bogra
+  country: Bangladesh
+- name: Asian Development Bank
+  swift: ASDBBDD1XXX
+  swift8: ASDBBDD1
+  branch_name: Head Office
+  branch_address: Bsl Office Complex Dhaka
+  branch_code: XXX
+  city: Dhaka
+  country: Bangladesh
+- name: Citibank N.A.
+  swift: CITIBDDXCTG
+  swift8: CITIBDDX
+  branch_name: Chittagong Branch
+  branch_address: Chittagong
+  branch_code: CTG
+  city: Chittagong
+  country: Bangladesh
+- name: Citibank N.A.
+  swift: CITIBDDXOBU
+  swift8: CITIBDDX
+  branch_name: Offshore Banking Unit
+  branch_address: Dhaka
+  branch_code: OBU
+  city: Dhaka
+  country: Bangladesh
+- name: Citibank N.A.
+  swift: CITIBDDXXXX
+  swift8: CITIBDDX
+  branch_name: Head Office
+  branch_address: Dhaka
+  branch_code: XXX
+  city: Dhaka
+  country: Bangladesh
+- name: Habib Bank Ltd.
+  swift: HABBBDDH0CH
+  swift8: HABBBDDH
+  branch_name: Chittagong
+  branch_address: Chittagong
+  branch_code: 0CH
+  city: Chittagong
+  country: Bangladesh
+- name: Habib Bank Ltd.
+  swift: HABBBDDHXXX
+  swift8: HABBBDDH
+  branch_name: Head Office
+  branch_address: 53 Motijheel Commercial Area Dhaka
+  branch_code: XXX
+  city: Dhaka
+  country: Bangladesh
+- name: Hongkong And Shanghai Banking Corporation Ltd, The
+  swift: HSBCBDDHCHG
+  swift8: HSBCBDDH
+  branch_name: Chittagong
+  branch_address: Chittagong
+  branch_code: CHG
+  city: Chittagong
+  country: Bangladesh
+- name: Hongkong And Shanghai Banking Corporation Ltd, The
+  swift: HSBCBDDHXXX
+  swift8: HSBCBDDH
+  branch_name: Head Office
+  branch_address: Anchor Tower 1205 Dhaka
+  branch_code: XXX
+  city: Dhaka
+  country: Bangladesh
+- name: National Bank Of Pakistan
+  swift: NBPABDDHXXX
+  swift8: NBPABDDH
+  branch_name: Head Office
+  branch_address: 79 Motijheel Commercial Area Dhaka
+  branch_code: XXX
+  city: Dhaka
+  country: Bangladesh
+- name: Standard Chartered Bank
+  swift: SCBLBDDXCTG
+  swift8: SCBLBDDX
+  branch_name: Chittagong
+  branch_address: 33 Agrabad C/a Chittagong
+  branch_code: CTG
+  city: Chittagong
+  country: Bangladesh
+- name: Standard Chartered Bank
+  swift: SCBLBDDXSVR
+  swift8: SCBLBDDX
+  branch_name: Savar Epz Branch
+  branch_address: Savar Epz, Savar Dhaka
+  branch_code: SVR
+  city: Dhaka
+  country: Bangladesh
+- name: Standard Chartered Bank
+  swift: SCBLBDDXXXX
+  swift8: SCBLBDDX
+  branch_name: Head Office
+  branch_address: Alico Building 1000 Dhaka
+  branch_code: XXX
+  city: Dhaka
+  country: Bangladesh
+- name: State Bank Of India
+  swift: SBINBDDH055
+  swift8: SBINBDDH
+  branch_name: Rajshahi Branch
+  branch_address: House A1 Rajshahi
+  branch_code: '055'
+  city: Rajshahi
+  country: Bangladesh
+- name: State Bank Of India
+  swift: SBINBDDH056
+  swift8: SBINBDDH
+  branch_name: Khulna Branch
+  branch_address: 64,Kda Avenue Khulna
+  branch_code: '056'
+  city: Khulna
+  country: Bangladesh
+- name: State Bank Of India
+  swift: SBINBDDHCTG
+  swift8: SBINBDDH
+  branch_name: Chittagong
+  branch_address: Chittagong Stock Exchange Bldg. Chittagong
+  branch_code: CTG
+  city: Chittagong
+  country: Bangladesh
+- name: State Bank Of India
+  swift: SBINBDDHGUL
+  swift8: SBINBDDH
+  branch_name: Gulshan Branch
+  branch_address: Uday Tower 1212 Dhaka
+  branch_code: GUL
+  city: Dhaka
+  country: Bangladesh
+- name: State Bank Of India
+  swift: SBINBDDHOBC
+  swift8: SBINBDDH
+  branch_name: Offshore Banking Unit, Chittagong
+  branch_address: Stock Exchange 4100 Chittagong
+  branch_code: OBC
+  city: Chittagong
+  country: Bangladesh
+- name: State Bank Of India
+  swift: SBINBDDHOBD
+  swift8: SBINBDDH
+  branch_name: Offsore Banking Unit, Dhaka
+  branch_address: Sadharan Bima 1000 Dhaka
+  branch_code: OBD
+  city: Dhaka
+  country: Bangladesh
+- name: State Bank Of India
+  swift: SBINBDDHSYL
+  swift8: SBINBDDH
+  branch_name: Sylhet Branch
+  branch_address: Rose View Complex Sylhet
+  branch_code: SYL
+  city: Sylhet
+  country: Bangladesh
+- name: State Bank Of India
+  swift: SBINBDDHXXX
+  swift8: SBINBDDH
+  branch_name: Head Office
+  branch_address: Sadharan Bima Sadan 1000 Dhaka
+  branch_code: XXX
+  city: Dhaka
+  country: Bangladesh
+- name: A.f.m. Shamsuddin
+  swift: SHAMBDD1XXX
+  swift8: SHAMBDD1
+  branch_name: Head Office
+  branch_address: Block a Section 6 1216 Dhaka
+  branch_code: XXX
+  city: Dhaka
+  country: Bangladesh
+- name: Abdul Haque And Sons Ltd.
+  swift: ABDHBDD1XXX
+  swift8: ABDHBDD1
+  branch_name: Head Office
+  branch_address: Stock Exchange Building 1000 Dhaka
+  branch_code: XXX
+  city: Dhaka
+  country: Bangladesh
+- name: Abdul Hye
+  swift: ABDYBDD1XXX
+  swift8: ABDYBDD1
+  branch_name: Head Office
+  branch_address: 6 Road No. 76 Gulshan Model Town 1000 Dhaka
+  branch_code: XXX
+  city: Dhaka
+  country: Bangladesh
+- name: Abdul Latif Miah
+  swift: ABLMBDD1XXX
+  swift8: ABLMBDD1
+  branch_name: Head Office
+  branch_address: Stock Exchange Building 1000 Dhaka
+  branch_code: XXX
+  city: Dhaka
+  country: Bangladesh
+- name: Abdus Samad
+  swift: ABDABDD1XXX
+  swift8: ABDABDD1
+  branch_name: Head Office
+  branch_address: Lamon Grass 1212 Dhaka
+  branch_code: XXX
+  city: Dhaka
+  country: Bangladesh
+- name: Adarsha Securities (pvt.) Ltd.
+  swift: ADSPBDD1XXX
+  swift8: ADSPBDD1
+  branch_name: Head Office
+  branch_address: Stock Exchange Building 1000 Dhaka
+  branch_code: XXX
+  city: Dhaka
+  country: Bangladesh
+- name: Agrani Bank Limited
+  swift: AGBKBDDH000
+  swift8: AGBKBDDH
+  branch_name: International Division, Dhaka
+  branch_address: Agrani Bank Bhavan 1000 Dhaka
+  branch_code: '000'
+  city: Dhaka
+  country: Bangladesh
+- name: Agrani Bank Limited
+  swift: AGBKBDDH001
+  swift8: AGBKBDDH
+  branch_name: Principal Branch, Dhaka
+  branch_address: Agrani Bank Bhavan 1000 Dhaka
+  branch_code: '001'
+  city: Dhaka
+  country: Bangladesh
+- name: Agrani Bank Limited
+  swift: AGBKBDDH002
+  swift8: AGBKBDDH
+  branch_name: Bangabandhu Avenue Corporate Branch
+  branch_address: 32 B.B. Avenue 1000 Dhaka
+  branch_code: '002'
+  city: Dhaka
+  country: Bangladesh
+- name: Agrani Bank Limited
+  swift: AGBKBDDH003
+  swift8: AGBKBDDH
+  branch_name: Moulvi Bazar Branch, Dhaka
+  branch_address: 144, Mitford Road, Dhaka 1000 Dhaka
+  branch_code: '003'
+  city: Dhaka
+  country: Bangladesh
+- name: Agrani Bank Limited
+  swift: AGBKBDDH004
+  swift8: AGBKBDDH
+  branch_name: Amin Court Branch, Dhaka
+  branch_address: Amincourt Bhavan 1000 Dhaka
+  branch_code: '004'
+  city: Dhaka
+  country: Bangladesh
+- name: Agrani Bank Limited
+  swift: AGBKBDDH006
+  swift8: AGBKBDDH
+  branch_name: Foreign Exchange Branch, Dhaka
+  branch_address: 1, Rajuk Avenue 1000 Dhaka
+  branch_code: '006'
+  city: Dhaka
+  country: Bangladesh
+- name: Agrani Bank Limited
+  swift: AGBKBDDH007
+  swift8: AGBKBDDH
+  branch_name: Sadarghat Branch
+  branch_address: Dhaka
+  branch_code: '007'
+  city: Dhaka
+  country: Bangladesh
+- name: Agrani Bank Limited
+  swift: AGBKBDDH008
+  swift8: AGBKBDDH
+  branch_name: Banani Branch
+  branch_address: Dhaka
+  branch_code: '008'
+  city: Dhaka
+  country: Bangladesh
+- name: Agrani Bank Limited
+  swift: AGBKBDDH009
+  swift8: AGBKBDDH
+  branch_name: B B Road Corp Br
+  branch_address: Narayanganj
+  branch_code: '009'
+  city: Narayanganj
+  country: Bangladesh
+- name: Agrani Bank Limited
+  swift: AGBKBDDH010
+  swift8: AGBKBDDH
+  branch_name: Court Road Branch
+  branch_address: Court Road 1400 Narayanganj
+  branch_code: '010'
+  city: Narayanganj
+  country: Bangladesh
+- name: Agrani Bank Limited
+  swift: AGBKBDDH011
+  swift8: AGBKBDDH
+  branch_name: Faridpur Branch
+  branch_address: Faridpur
+  branch_code: '011'
+  city: Faridpur
+  country: Bangladesh
+- name: Agrani Bank Limited
+  swift: AGBKBDDH012
+  swift8: AGBKBDDH
+  branch_name: Wasa Branch
+  branch_address: Wasa Bhaban 1215 Dhaka
+  branch_code: '012'
+  city: Dhaka
+  country: Bangladesh
+- name: Agrani Bank Limited
+  swift: AGBKBDDH013
+  swift8: AGBKBDDH
+  branch_name: Dhaka
+  branch_address: Dhaka
+  branch_code: '013'
+  city: Dhaka
+  country: Bangladesh
+- name: Agrani Bank Limited
+  swift: AGBKBDDH014
+  swift8: AGBKBDDH
+  branch_name: Nawabpur Road Branch
+  branch_address: Dhaka
+  branch_code: '014'
+  city: Dhaka
+  country: Bangladesh
+- name: Agrani Bank Limited
+  swift: AGBKBDDH015
+  swift8: AGBKBDDH
+  branch_name: Commercial Area Branch, Chittagong
+  branch_address: 28, Syed Court, Agrabad C/A, Chittagong
+  branch_code: '015'
+  city: Chittagong
+  country: Bangladesh
+- name: Agrani Bank Limited
+  swift: AGBKBDDH016
+  swift8: AGBKBDDH
+  branch_name: Asadgonj Branch
+  branch_address: Chittagong
+  branch_code: '016'
+  city: Chittagong
+  country: Bangladesh
+- name: Agrani Bank Limited
+  swift: AGBKBDDH017
+  swift8: AGBKBDDH
+  branch_name: Laldighi East Branch, Chittagong
+  branch_address: Laldighi-East Chittagong
+  branch_code: '017'
+  city: Chittagong
+  country: Bangladesh
+- name: Agrani Bank Limited
+  swift: AGBKBDDH018
+  swift8: AGBKBDDH
+  branch_name: Agrabad Jahan Bld Corp Br
+  branch_address: Chittagong
+  branch_code: '018'
+  city: Chittagong
+  country: Bangladesh
+- name: Agrani Bank Limited
+  swift: AGBKBDDH020
+  swift8: AGBKBDDH
+  branch_name: Rajgonj Branch
+  branch_address: Comilla
+  branch_code: '020'
+  city: Comilla
+  country: Bangladesh
+- name: Agrani Bank Limited
+  swift: AGBKBDDH021
+  swift8: AGBKBDDH
+  branch_name: Laldighirpar Branch
+  branch_address: Laldighirpar, Sylhet Sylhet
+  branch_code: '021'
+  city: Sylhet
+  country: Bangladesh
+- name: Agrani Bank,ramna Branch,dhaka(phaka
+  swift: AGBKBDDH005
+  swift8: AGBKBDDH
+  branch_name: Ramna Branch, Dhaka
+  branch_address: 18, B.B Avenue, Dhaka 1000 Dhaka
+  branch_code: '005'
+  city: Dhaka
+  country: Bangladesh
+- name: Al-arafah Islami Bank Ltd.
+  swift: ALARBDDH066
+  swift8: ALARBDDH
+  branch_name: 1000 Dhaka
+  branch_address: Rahman Mension 1000 Dhaka
+  branch_code: '066'
+  city: Dhaka
+  country: Bangladesh
+- name: Al-arafah Islami Bank Ltd.
+  swift: ALARBDDH067
+  swift8: ALARBDDH
+  branch_name: 1000 Dhaka
+  branch_address: 3 Moulvi Bazar 1000 Dhaka
+  branch_code: '067'
+  city: Dhaka
+  country: Bangladesh
+- name: Al-arafah Islami Bank Ltd.
+  swift: ALARBDDH068
+  swift8: ALARBDDH
+  branch_name: Khulna
+  branch_address: 144 Sir Iqbal Road Khulna
+  branch_code: '068'
+  city: Khulna
+  country: Bangladesh
+- name: Al-arafah Islami Bank Ltd.
+  swift: ALARBDDH069
+  swift8: ALARBDDH
+  branch_name: Chittagong
+  branch_address: 34 Agrabad Commercial Area Chittagong
+  branch_code: '069'
+  city: Chittagong
+  country: Bangladesh
+- name: Al-arafah Islami Bank Ltd.
+  swift: ALARBDDH070
+  swift8: ALARBDDH
+  branch_name: 3100 Sylhet
+  branch_address: Reasort Tower 3100 Sylhet
+  branch_code: '070'
+  city: Sylhet
+  country: Bangladesh
+- name: Al-arafah Islami Bank Ltd.
+  swift: ALARBDDH071
+  swift8: ALARBDDH
+  branch_name: Bogra
+  branch_address: 21/1 Thana Road, Kotwali Bogra
+  branch_code: '071'
+  city: Bogra
+  country: Bangladesh
+- name: Al-arafah Islami Bank Ltd.
+  swift: ALARBDDH072
+  swift8: ALARBDDH
+  branch_name: Chittagong
+  branch_address: 146 Chan Miah Lane, Kotwali Chittagong
+  branch_code: '072'
+  city: Chittagong
+  country: Bangladesh
+- name: Al-arafah Islami Bank Ltd.
+  swift: ALARBDDH073
+  swift8: ALARBDDH
+  branch_name: Rajshahi
+  branch_address: 239 Shabib Bazar, Boalia Rajshahi
+  branch_code: '073'
+  city: Rajshahi
+  country: Bangladesh
+- name: Al-arafah Islami Bank Ltd.
+  swift: ALARBDDH074
+  swift8: ALARBDDH
+  branch_name: Dhaka
+  branch_address: 85/87 Nawabpur Road Dhaka
+  branch_code: '074'
+  city: Dhaka
+  country: Bangladesh
+- name: Al-arafah Islami Bank Ltd.
+  swift: ALARBDDH075
+  swift8: ALARBDDH
+  branch_name: 1000 Dhaka
+  branch_address: 125 Motijheel Commercial Area 1000 Dhaka
+  branch_code: '075'
+  city: Dhaka
+  country: Bangladesh
+- name: Al-arafah Islami Bank Ltd.
+  swift: ALARBDDH076
+  swift8: ALARBDDH
+  branch_name: Chittagong
+  branch_address: Kader Plaza Chittagong
+  branch_code: '076'
+  city: Chittagong
+  country: Bangladesh
+- name: Al-arafah Islami Bank Ltd.
+  swift: ALARBDDH077
+  swift8: ALARBDDH
+  branch_name: Dhaka
+  branch_address: 86 Shantinager Vip Road Dhaka
+  branch_code: '077'
+  city: Dhaka
+  country: Bangladesh
+- name: Al-arafah Islami Bank Ltd.
+  swift: ALARBDDH078
+  swift8: ALARBDDH
+  branch_name: Sayedpur Branch
+  branch_address: Shahid Dr. Zikrul Haque Road 5310 Nilphaniari
+  branch_code: '078'
+  city: Nilphamari
+  country: Bangladesh
+- name: Al-arafah Islami Bank Ltd.
+  swift: ALARBDDH079
+  swift8: ALARBDDH
+  branch_name: Dhaka
+  branch_address: 56 Kamal Ataturk Avenue, Banani Dhaka
+  branch_code: '079'
+  city: Dhaka
+  country: Bangladesh
+- name: Al-arafah Islami Bank Ltd.
+  swift: ALARBDDH080
+  swift8: ALARBDDH
+  branch_name: Dilkusha Branch
+  branch_address: 63 1000 Dilkusha
+  branch_code: '080'
+  city: Dilkusha
+  country: Bangladesh
+- name: Al-arafah Islami Bank Ltd.
+  swift: ALARBDDH081
+  swift8: ALARBDDH
+  branch_name: New Elephant Road Branch
+  branch_address: 91 1205 Dhaka
+  branch_code: '081'
+  city: Dhaka
+  country: Bangladesh
+- name: Al-arafah Islami Bank Ltd.
+  swift: ALARBDDH082
+  swift8: ALARBDDH
+  branch_name: Uttara Branch
+  branch_address: H-13 1231 Dhaka
+  branch_code: '082'
+  city: Dhaka
+  country: Bangladesh
+- name: Al-arafah Islami Bank Ltd.
+  swift: ALARBDDH083
+  swift8: ALARBDDH
+  branch_name: Jatrabari Branch
+  branch_address: 6, Shahid Faruque Sharak 1204 Dhaka
+  branch_code: '083'
+  city: Dhaka
+  country: Bangladesh
+- name: Al-arafah Islami Bank Ltd.
+  swift: ALARBDDH084
+  swift8: ALARBDDH
+  branch_name: Dhanmondi Branch
+  branch_address: Ahmed Tower 1209 Dhaka
+  branch_code: '084'
+  city: Dhaka
+  country: Bangladesh
+- name: Al-arafah Islami Bank Ltd.
+  swift: ALARBDDH085
+  swift8: ALARBDDH
+  branch_name: North South Road Branch
+  branch_address: Shahid Syed Nazrul Islam Sarani, 96 1100 Dhaka
+  branch_code: '085'
+  city: Dhaka
+  country: Bangladesh
+- name: Bangladesh Bank
+  swift: BBHOBDDHXXX
+  swift8: BBHOBDDH
+  branch_name: Head Office
+  branch_address: Extention Building-2 1000 Dhaka
+  branch_code: XXX
+  city: Dhaka
+  country: Bangladesh
+- name: Bangladesh Commerce Bank Ltd.
+  swift: BCBLBDDH013
+  swift8: BCBLBDDH
+  branch_name: Principal Branch
+  branch_address: Taranga Complex 1000 Dhaka
+  branch_code: '013'
+  city: Dhaka
+  country: Bangladesh
+- name: Bangladesh Commerce Bank Ltd.
+  swift: BCBLBDDH014
+  swift8: BCBLBDDH
+  branch_name: Agrabad Branch
+  branch_address: Jiban Bima Bhaban Chittagong
+  branch_code: '014'
+  city: Chittagong
+  country: Bangladesh
+- name: Bangladesh Commerce Bank Ltd.
+  swift: BCBLBDDH015
+  swift8: BCBLBDDH
+  branch_name: Bangshal Branch
+  branch_address: Shahid Sayed Nazrul Islam Sarony 1100 Dhaka
+  branch_code: '015'
+  city: Dhaka
+  country: Bangladesh
+- name: Bangladesh Commerce Bank Ltd.
+  swift: BCBLBDDH016
+  swift8: BCBLBDDH
+  branch_name: Tanbazar Branch
+  branch_address: Islam Super Market Ngonj-1400 Narayanganj
+  branch_code: '016'
+  city: Narayanganj
+  country: Bangladesh
+- name: Bangladesh Commerce Bank Ltd.
+  swift: BCBLBDDH017
+  swift8: BCBLBDDH
+  branch_name: Moulavi Bazar Branch
+  branch_address: 77/6 Moulavi Bazar 1100 Dhaka
+  branch_code: '017'
+  city: Dhaka
+  country: Bangladesh
+- name: Bangladesh Commerce Bank Ltd.
+  swift: BCBLBDDH018
+  swift8: BCBLBDDH
+  branch_name: Gulshan Branch
+  branch_address: Pladium Market Cn C- 1 1212 Dhaka
+  branch_code: '018'
+  city: Dhaka
+  country: Bangladesh
+- name: Bangladesh Commerce Bank Ltd.
+  swift: BCBLBDDH019
+  swift8: BCBLBDDH
+  branch_name: Dilkusha Branch
+  branch_address: Dhaka
+  branch_code: '019'
+  city: Dhaka
+  country: Bangladesh
+- name: Bangladesh Commerce Bank Ltd.
+  swift: BCBLBDDH020
+  swift8: BCBLBDDH
+  branch_name: Jubilee Road Branch
+  branch_address: Arfana Centre 4000 Chittagong
+  branch_code: '020'
+  city: Chittagong
+  country: Bangladesh
+- name: Bangladesh Commerce Bank Ltd.
+  swift: BCBLBDDHXXX
+  swift8: BCBLBDDH
+  branch_name: Head Office
+  branch_address: Taranga Complex 1000 Dhaka
+  branch_code: XXX
+  city: Dhaka
+  country: Bangladesh
+- name: Bangladesh Development Bank Limited (bdbl
+  swift: BDDBBDDHXXX
+  swift8: BDDBBDDH
+  branch_name: Head Office
+  branch_address: Bdbl Bhaban, Own Building 1000 Dhaka
+  branch_code: XXX
+  city: Dhaka
+  country: Bangladesh
+- name: Bangladesh Krishi Bank
+  swift: BKBABDDHAGD
+  swift8: BKBABDDH
+  branch_name: Agrabad Cor Branch
+  branch_address: Noor Mansion 4100 Chittagong
+  branch_code: AGD
+  city: Chittagong
+  country: Bangladesh
+- name: Bangladesh Krishi Bank
+  swift: BKBABDDHCWK
+  swift8: BKBABDDH
+  branch_name: Chawk Bazar Branch
+  branch_address: Rahamatganj (Dalpatty) 1211 Dhaka
+  branch_code: CWK
+  city: Dhaka
+  country: Bangladesh
+- name: Bangladesh Krishi Bank
+  swift: BKBABDDHKBB
+  swift8: BKBABDDH
+  branch_name: Kawran Bazar Corporate Branch
+  branch_address: Bkb 1215 Dhaka
+  branch_code: KBB
+  city: Dhaka
+  country: Bangladesh
+- name: Bangladesh Krishi Bank
+  swift: BKBABDDHKLN
+  swift8: BKBABDDH
+  branch_name: Khulna Corporate Branch
+  branch_address: 7,Sir Iqbal Road 9100 Khulna
+  branch_code: KLN
+  city: Khulna
+  country: Bangladesh
+- name: Bangladesh Krishi Bank
+  swift: BKBABDDHKST
+  swift8: BKBABDDH
+  branch_name: Kushtia Branch
+  branch_address: Bangabandhu Market 7000 Kushtia
+  branch_code: KST
+  city: Kushtia
+  country: Bangladesh
+- name: Bangladesh Krishi Bank
+  swift: BKBABDDHLPO
+  swift8: BKBABDDH
+  branch_name: Local Principal Office
+  branch_address: Krishi Bank Bhaban 1000 Dhaka
+  branch_code: LPO
+  city: Dhaka
+  country: Bangladesh
+- name: Bangladesh Krishi Bank
+  swift: BKBABDDHSHO
+  swift8: BKBABDDH
+  branch_name: Sholo Shahar Branch
+  branch_address: Cda Avenue 4203 Chittagong
+  branch_code: SHO
+  city: Chittagong
+  country: Bangladesh
+- name: Bangladesh Krishi Bank
+  swift: BKBABDDHSRS
+  swift8: BKBABDDH
+  branch_name: Sharsha Branch
+  branch_address: 'P/O:Sharsha, Thana: Sharsha 7430 Jessore'
+  branch_code: SRS
+  city: Jessore
+  country: Bangladesh
+- name: Bangladesh Krishi Bank
+  swift: BKBABDDHXXX
+  swift8: BKBABDDH
+  branch_name: Head Office
+  branch_address: Krishi Bank Bhaban 1000 Dhaka
+  branch_code: XXX
+  city: Dhaka
+  country: Bangladesh
+- name: Bangladesh Post
+  swift: BDSHBDD1XXX
+  swift8: BDSHBDD1
+  branch_name: Head Office
+  branch_address: Dak Bhaban 1000 Dhaka
+  branch_code: XXX
+  city: Dhaka
+  country: Bangladesh
+- name: Bank Alfalah Limited (bangladesh-dhaka Branch
+  swift: ALFHBDDH702
+  swift8: ALFHBDDH
+  branch_name: Gulshan Branch Dhaka
+  branch_address: 168- Gulsh Avenue Dhaka
+  branch_code: '702'
+  city: Dhaka
+  country: Bangladesh
+- name: Bank Alfalah Limited (bangladesh-dhaka Branch
+  swift: ALFHBDDH703
+  swift8: ALFHBDDH
+  branch_name: Agrabad Branch
+  branch_address: 57- Agrabad Chittagong
+  branch_code: '703'
+  city: Chittagong
+  country: Bangladesh
+- name: Bank Alfalah Limited (bangladesh-dhaka Branch
+  swift: ALFHBDDHXXX
+  swift8: ALFHBDDH
+  branch_name: Head Office
+  branch_address: 5, Rajuk Avenue, Moti Jheel 1000 Dhaka
+  branch_code: XXX
+  city: Dhaka
+  country: Bangladesh
+- name: Bank Asia Ltd
+  swift: BALBBDDH002
+  swift8: BALBBDDH
+  branch_name: Corporate Branch
+  branch_address: Noor Tower 1215 Dhaka
+  branch_code: '002'
+  city: Dhaka
+  country: Bangladesh
+- name: Bank Asia Ltd
+  swift: BALBBDDH003
+  swift8: BALBBDDH
+  branch_name: Principal Office
+  branch_address: Tea Board Building 1000 Dhaka
+  branch_code: '003'
+  city: Dhaka
+  country: Bangladesh
+- name: Bank Asia Ltd
+  swift: BALBBDDH004
+  swift8: BALBBDDH
+  branch_name: Gulshan Branch
+  branch_address: Dhaka
+  branch_code: '004'
+  city: Dhaka
+  country: Bangladesh
+- name: Bank Asia Ltd
+  swift: BALBBDDH005
+  swift8: BALBBDDH
+  branch_name: Agrabad Branch
+  branch_address: Dar-E-Sahiddee Chittagong
+  branch_code: '005'
+  city: Chittagong
+  country: Bangladesh
+- name: Bank Asia Ltd
+  swift: BALBBDDH007
+  swift8: BALBBDDH
+  branch_name: Scotia Branch
+  branch_address: Rangs Bhaban 1215 Dhaka
+  branch_code: '007'
+  city: Dhaka
+  country: Bangladesh
+- name: Bank Asia Ltd
+  swift: BALBBDDH008
+  swift8: BALBBDDH
+  branch_name: Mcb-Dilkusha Branch
+  branch_address: 4, Dilkusha C/a 1000 Dhaka
+  branch_code: '008'
+  city: Dhaka
+  country: Bangladesh
+- name: Bank Asia Ltd
+  swift: BALBBDDH009
+  swift8: BALBBDDH
+  branch_name: Mcb-Seikh Mujib Road Branch
+  branch_address: 7, Seikhmujib Road, Agrabad Chittagong
+  branch_code: '009'
+  city: Chittagong
+  country: Bangladesh
+- name: Bank Asia Ltd
+  swift: BALBBDDH012
+  swift8: BALBBDDH
+  branch_name: Mcb Banani Branch
+  branch_address: 24 Kemal Ataturk Avenue, Banani 1213 Dhaka
+  branch_code: '012'
+  city: Dhaka
+  country: Bangladesh
+- name: Bank Asia Ltd
+  swift: BALBBDDH013
+  swift8: BALBBDDH
+  branch_name: Khatungonj Branch
+  branch_address: Chittagong
+  branch_code: '013'
+  city: Chittagong
+  country: Bangladesh
+- name: Bank Asia Ltd
+  swift: BALBBDDH014
+  swift8: BALBBDDH
+  branch_name: Mitford Branch
+  branch_address: Dhaka
+  branch_code: '014'
+  city: Dhaka
+  country: Bangladesh
+- name: Bank Asia Ltd
+  swift: BALBBDDH015
+  swift8: BALBBDDH
+  branch_name: Uttara Branch
+  branch_address: House 79/a 1230 Dhaka
+  branch_code: '015'
+  city: Dhaka
+  country: Bangladesh
+- name: Bank Asia Ltd
+  swift: BALBBDDH017
+  swift8: BALBBDDH
+  branch_name: North South Road Branch
+  branch_address: Shaheed Syed Nazrul Islam Sharani 1100 Dhaka
+  branch_code: '017'
+  city: Dhaka
+  country: Bangladesh
+- name: Bank Asia Ltd
+  swift: BALBBDDH018
+  swift8: BALBBDDH
+  branch_name: Cda Avenue Branch
+  branch_address: 665, Cda Avenue 4000 Chittagong
+  branch_code: '018'
+  city: Chittagong
+  country: Bangladesh
+- name: Bank Asia Ltd
+  swift: BALBBDDH022
+  swift8: BALBBDDH
+  branch_name: Station Road Branch
+  branch_address: Mohiuddin Market 4000 Chittagong
+  branch_code: '022'
+  city: Chittagong
+  country: Bangladesh
+- name: Bank Asia Ltd
+  swift: BALBBDDH027
+  swift8: BALBBDDH
+  branch_name: Epz Branch
+  branch_address: Zone Service Complex Chittagong
+  branch_code: '027'
+  city: Chittagong
+  country: Bangladesh
+- name: Bank Asia Ltd
+  swift: BALBBDDH028
+  swift8: BALBBDDH
+  branch_name: Mohakhali Branch
+  branch_address: 82, Mohakhali C/a - Mohakhali 1212 Dhaka
+  branch_code: '028'
+  city: Dhaka
+  country: Bangladesh
+- name: Bank Asia Ltd
+  swift: BALBBDDH030
+  swift8: BALBBDDH
+  branch_name: Anderkilla Branch
+  branch_address: 184, J.M Sen Avenue - Anderkilla 4000 Chittagong
+  branch_code: '030'
+  city: Chittagong
+  country: Bangladesh
+- name: Bank Asia Ltd
+  swift: BALBBDDHCTS
+  swift8: BALBBDDH
+  branch_name: Central Trade Services Unit
+  branch_address: Tea Board Building 1000 Dhaka
+  branch_code: CTS
+  city: Dhaka
+  country: Bangladesh
+- name: Bank Asia Ltd
+  swift: BALBBDDHOBU
+  swift8: BALBBDDH
+  branch_name: Off-Shore Banking Unit
+  branch_address: Zone Service Complex Chittagong
+  branch_code: OBU
+  city: Chittagong
+  country: Bangladesh
+- name: Bank Asia Ltd
+  swift: BALBBDDHXXX
+  swift8: BALBBDDH
+  branch_name: Head Office
+  branch_address: Tea Board Bhaban 1000 Dhaka
+  branch_code: XXX
+  city: Dhaka
+  country: Bangladesh
+- name: Basic Bank Limited
+  swift: BKSIBDDH002
+  swift8: BKSIBDDH
+  branch_name: Main Branch
+  branch_address: Bana Shilpa Bhaban 1000 Dhaka
+  branch_code: '002'
+  city: Dhaka
+  country: Bangladesh
+- name: Basic Bank Limited
+  swift: BKSIBDDH004
+  swift8: BKSIBDDH
+  branch_name: Khatungonj Branch
+  branch_address: 193, Khatungonj 4000 Chittagong
+  branch_code: '004'
+  city: Chittagong
+  country: Bangladesh
+- name: Basic Bank Limited
+  swift: BKSIBDDH006
+  swift8: BKSIBDDH
+  branch_name: Bangshal Branch
+  branch_address: 230, North South Road, Bangshal 1100 Dhaka
+  branch_code: '006'
+  city: Dhaka
+  country: Bangladesh
+- name: Basic Bank Limited
+  swift: BKSIBDDH008
+  swift8: BKSIBDDH
+  branch_name: Agrabad Branch
+  branch_address: Pine View 4100 Chittagong
+  branch_code: '008'
+  city: Chittagong
+  country: Bangladesh
+- name: Basic Bank Limited
+  swift: BKSIBDDH009
+  swift8: BKSIBDDH
+  branch_name: Shantinagar Branch
+  branch_address: 14, Kakrail 1000 Dhaka
+  branch_code: '009'
+  city: Dhaka
+  country: Bangladesh
+- name: Basic Bank Limited
+  swift: BKSIBDDH012
+  swift8: BKSIBDDH
+  branch_name: Bogra Branch
+  branch_address: Bhabani Shachin Bhaban 5800 Bogra
+  branch_code: '012'
+  city: Bogra
+  country: Bangladesh
+- name: Basic Bank Limited
+  swift: BKSIBDDH013
+  swift8: BKSIBDDH
+  branch_name: Jubilee Road Branch
+  branch_address: G.R. Plaza 4000 Chittagong
+  branch_code: '013'
+  city: Chittagong
+  country: Bangladesh
+- name: Basic Bank Limited
+  swift: BKSIBDDH014
+  swift8: BKSIBDDH
+  branch_name: Tanbazar Branch
+  branch_address: 16/1, S.M. Maleh Road 1400 Narayanganj
+  branch_code: '014'
+  city: Narayanganj
+  country: Bangladesh
+- name: Basic Bank Limited
+  swift: BKSIBDDH015
+  swift8: BKSIBDDH
+  branch_name: Dilkusha Branch
+  branch_address: 13, Dilkusha 1000 Dhaka
+  branch_code: '015'
+  city: Dhaka
+  country: Bangladesh
+- name: Basic Bank Limited
+  swift: BKSIBDDH016
+  swift8: BKSIBDDH
+  branch_name: Asadgonj Branch
+  branch_address: 40/41, Ramjoy Mohajan Lane, 4000 Chittagong
+  branch_code: '016'
+  city: Chittagong
+  country: Bangladesh
+- name: Basic Bank Limited
+  swift: BKSIBDDH021
+  swift8: BKSIBDDH
+  branch_name: Gulshan Branch
+  branch_address: 112, Gulshan Avenue, Gulshan 1212 Dhaka
+  branch_code: '021'
+  city: Dhaka
+  country: Bangladesh
+- name: Basic Bank Limited
+  swift: BKSIBDDH022
+  swift8: BKSIBDDH
+  branch_name: Mirpur Branch
+  branch_address: Bscic Electronic Complex 1221 Dhaka
+  branch_code: '022'
+  city: Dhaka
+  country: Bangladesh
+- name: Basic Bank Limited
+  swift: BKSIBDDH023
+  swift8: BKSIBDDH
+  branch_name: Babubazar Branch
+  branch_address: Haji Yusuf Mansion 1100 Dhaka
+  branch_code: '023'
+  city: Dhaka
+  country: Bangladesh
+- name: Basic Bank Limited
+  swift: BKSIBDDH024
+  swift8: BKSIBDDH
+  branch_name: Maulvibazar Branch
+  branch_address: Gulbadan Market 1211 Dhaka
+  branch_code: '024'
+  city: Dhaka
+  country: Bangladesh
+- name: Basic Bank Limited
+  swift: BKSIBDDH025
+  swift8: BKSIBDDH
+  branch_name: Khulna Branch
+  branch_address: 107 Sir Iqbal Road 9100 Khulna
+  branch_code: '025'
+  city: Khulna
+  country: Bangladesh
+- name: Basic Bank Limited
+  swift: BKSIBDDH026
+  swift8: BKSIBDDH
+  branch_name: Zindabazar Branch
+  branch_address: Wahid View 3100 Sylhet
+  branch_code: '026'
+  city: Sylhet
+  country: Bangladesh
+- name: Basic Bank Limited
+  swift: BKSIBDDHXXX
+  swift8: BKSIBDDH
+  branch_name: Head Office
+  branch_address: Sena Kalyan Bhaban 1000 Dhaka
+  branch_code: XXX
+  city: Dhaka
+  country: Bangladesh
+- name: Brac Bank Limited
+  swift: BRAKBDDHXXX
+  swift8: BRAKBDDH
+  branch_name: Head Office
+  branch_address: 1 Gulshan Avenue, Gulshan 1 1212 Dhaka
+  branch_code: XXX
+  city: Dhaka
+  country: Bangladesh
+- name: Brac Epl Stock Brokerage Limited
+  swift: BETBBDD1XXX
+  swift8: BETBBDD1
+  branch_name: Head Office
+  branch_address: Ww Tower 1000 Dhaka
+  branch_code: XXX
+  city: Dhaka
+  country: Bangladesh
+- name: British American Tobacco Bangladesh Company Limited
+  swift: BATSBDA1XXX
+  swift8: BATSBDA1
+  branch_name: Head Office
+  branch_address: Mohakhali 1206 Dhaka
+  branch_code: XXX
+  city: Dhaka
+  country: Bangladesh
+- name: City Bank Limited The
+  swift: CIBLBDDHXXX
+  swift8: CIBLBDDH
+  branch_name: Head Office
+  branch_address: 10, Dilkusha Commercial Area 1000 Dhaka
+  branch_code: XXX
+  city: Dhaka
+  country: Bangladesh
+- name: Commercial Bank Of Ceylon Ltd.
+  swift: CCEYBDDHXXX
+  swift8: CCEYBDDH
+  branch_name: Head Office
+  branch_address: 47, Motijeheel C/a 1000 Dhaka
+  branch_code: XXX
+  city: Dhaka
+  country: Bangladesh
+- name: Dhaka Bank Limited
+  swift: DHBLBDDH101
+  swift8: DHBLBDDH
+  branch_name: Local Office
+  branch_address: Adamjee Court 1000 Dhaka
+  branch_code: '101'
+  city: Dhaka
+  country: Bangladesh
+- name: Dhaka Bank Limited
+  swift: DHBLBDDH102
+  swift8: DHBLBDDH
+  branch_name: Bangshal Branch
+  branch_address: 2 Bangshal Lane, North South Road 8 1000 Dhaka
+  branch_code: '102'
+  city: Dhaka
+  country: Bangladesh
+- name: Dhaka Bank Limited
+  swift: DHBLBDDH103
+  swift8: DHBLBDDH
+  branch_name: Banani Branch
+  branch_address: 73/B Kemal Ataturk Avenue, Banani Dhaka
+  branch_code: '103'
+  city: Dhaka
+  country: Bangladesh
+- name: Dhaka Bank Limited
+  swift: DHBLBDDH104
+  swift8: DHBLBDDH
+  branch_name: Imamganj Branch
+  branch_address: 1 Imamganj Lane, Imamganj Bazar 1100 Dhaka
+  branch_code: '104'
+  city: Dhaka
+  country: Bangladesh
+- name: Dhaka Bank Limited
+  swift: DHBLBDDH105
+  swift8: DHBLBDDH
+  branch_name: Narayanganj Branch
+  branch_address: 26-29 Sim.Maleh Road Tanbazar 1604 Dhaka
+  branch_code: '105'
+  city: Dhaka
+  country: Bangladesh
+- name: Dhaka Bank Limited
+  swift: DHBLBDDH107
+  swift8: DHBLBDDH
+  branch_name: Foreign Exchange Branch
+  branch_address: Biman Office 1000 Dhaka
+  branch_code: '107'
+  city: Dhaka
+  country: Bangladesh
+- name: Dhaka Bank Limited
+  swift: DHBLBDDH109
+  swift8: DHBLBDDH
+  branch_name: Dhanmondi Branch
+  branch_address: Momtaz Plaza 1205 Dhaka
+  branch_code: '109'
+  city: Dhaka
+  country: Bangladesh
+- name: Dhaka Bank Limited
+  swift: DHBLBDDH110
+  swift8: DHBLBDDH
+  branch_name: Kawran Bazar Branch
+  branch_address: Summit Center 1215 Dhaka
+  branch_code: '110'
+  city: Dhaka
+  country: Bangladesh
+- name: Dhaka Bank Limited
+  swift: DHBLBDDH201
+  swift8: DHBLBDDH
+  branch_name: Agrabad Branch
+  branch_address: Sadharan Bima Sadan 4200 Chittagong
+  branch_code: '201'
+  city: Chittagong
+  country: Bangladesh
+- name: Dhaka Bank Limited
+  swift: DHBLBDDH202
+  swift8: DHBLBDDH
+  branch_name: Khatunganj Branch
+  branch_address: 292-293 Khatunganj Road, Khatunganj 4200 Chittagong
+  branch_code: '202'
+  city: Chittagong
+  country: Bangladesh
+- name: Dhaka Bank Limited
+  swift: DHBLBDDH203
+  swift8: DHBLBDDH
+  branch_name: Jubilee Road Branch
+  branch_address: 183 Jubilee Road 4200 Chittagong
+  branch_code: '203'
+  city: Chittagong
+  country: Bangladesh
+- name: Dhaka Bank Limited
+  swift: DHBLBDDH204
+  swift8: DHBLBDDH
+  branch_name: Uttara Branch
+  branch_address: Uttara Dhaka
+  branch_code: '204'
+  city: Dhaka
+  country: Bangladesh
+- name: Dhaka Bank Limited
+  swift: DHBLBDDH301
+  swift8: DHBLBDDH
+  branch_name: Laldighirpar Branch
+  branch_address: 960 Laldighirpar P.S.Kotwali Sylhet
+  branch_code: '301'
+  city: Sylhet
+  country: Bangladesh
+- name: Dhaka Bank Limited
+  swift: DHBLBDDH991
+  swift8: DHBLBDDH
+  branch_name: Offshore Branch
+  branch_address: Depz, Saver Dhaka
+  branch_code: '991'
+  city: Dhaka
+  country: Bangladesh
+- name: Dhaka Bank Limited
+  swift: DHBLBDDHGUL
+  swift8: DHBLBDDH
+  branch_name: Gulshan Branch
+  branch_address: Holding No 24 1212 Dhaka
+  branch_code: GUL
+  city: Dhaka
+  country: Bangladesh
+- name: Dhaka Bank Limited
+  swift: DHBLBDDHIB1
+  swift8: DHBLBDDH
+  branch_name: Islami Banking Branch
+  branch_address: Sara Tower 1212 Dhaka
+  branch_code: IB1
+  city: Dhaka
+  country: Bangladesh
+- name: Dhaka Bank Limited
+  swift: DHBLBDDHTOC
+  swift8: DHBLBDDH
+  branch_name: Trade Operation
+  branch_address: Sadaran Bima Sadan Chittagong
+  branch_code: TOC
+  city: Chittagong
+  country: Bangladesh
+- name: Dhaka Bank Limited
+  swift: DHBLBDDHTOD
+  swift8: DHBLBDDH
+  branch_name: Trade Operation
+  branch_address: Bgmea Complex 1215 Dhaka
+  branch_code: TOD
+  city: Dhaka
+  country: Bangladesh
+- name: Dhaka Bank Limited
+  swift: DHBLBDDHXXX
+  swift8: DHBLBDDH
+  branch_name: Head Office
+  branch_address: Biman Bhaban 1000 Dhaka
+  branch_code: XXX
+  city: Dhaka
+  country: Bangladesh
+- name: Dhaka Stock Exchange Ltd
+  swift: XDHABDD1XXX
+  swift8: XDHABDD1
+  branch_name: Head Office
+  branch_address: Stock Exchange Building 1000 Dhaka
+  branch_code: XXX
+  city: Dhaka
+  country: Bangladesh
+- name: Dutch-bangla Bank Ltd
+  swift: DBBLBDDH101
+  swift8: DBBLBDDH
+  branch_name: Local Office
+  branch_address: Purbani Annex 1000 Dhaka
+  branch_code: '101'
+  city: Dhaka
+  country: Bangladesh
+- name: Dutch-bangla Bank Ltd
+  swift: DBBLBDDH102
+  swift8: DBBLBDDH
+  branch_name: Agrabad Branch
+  branch_address: Quaderi Chanmber 4100 Chittagong
+  branch_code: '102'
+  city: Chittagong
+  country: Bangladesh
+- name: Dutch-bangla Bank Ltd
+  swift: DBBLBDDH103
+  swift8: DBBLBDDH
+  branch_name: Banani Branch
+  branch_address: Block-C 1213 Dhaka
+  branch_code: '103'
+  city: Dhaka
+  country: Bangladesh
+- name: Dutch-bangla Bank Ltd
+  swift: DBBLBDDH104
+  swift8: DBBLBDDH
+  branch_name: Nababpur Branch
+  branch_address: 165 Nababpur Road 1000 Dhaka
+  branch_code: '104'
+  city: Dhaka
+  country: Bangladesh
+- name: Dutch-bangla Bank Ltd
+  swift: DBBLBDDH105
+  swift8: DBBLBDDH
+  branch_name: Motijheel Foreign Exchange Branch
+  branch_address: Zerin Mansion 1000 Dhaka
+  branch_code: '105'
+  city: Dhaka
+  country: Bangladesh
+- name: Dutch-bangla Bank Ltd
+  swift: DBBLBDDH106
+  swift8: DBBLBDDH
+  branch_name: Narayangonj Branch
+  branch_address: S.M. Maleh Road 1400 Narayanganj
+  branch_code: '106'
+  city: Narayanganj
+  country: Bangladesh
+- name: Dutch-bangla Bank Ltd
+  swift: DBBLBDDH107
+  swift8: DBBLBDDH
+  branch_name: Kawran Bazar Branch
+  branch_address: Bsrs Building 1215 Dhaka
+  branch_code: '107'
+  city: Dhaka
+  country: Bangladesh
+- name: Dutch-bangla Bank Ltd
+  swift: DBBLBDDH109
+  swift8: DBBLBDDH
+  branch_name: Baburhat Branch
+  branch_address: Madhabdi Bazar Narsinghdi
+  branch_code: '109'
+  city: Narsinghdi
+  country: Bangladesh
+- name: Dutch-bangla Bank Ltd
+  swift: DBBLBDDH110
+  swift8: DBBLBDDH
+  branch_name: Dhanmondi Branch
+  branch_address: House 500-A/1 1205 Dhaka
+  branch_code: '110'
+  city: Dhaka
+  country: Bangladesh
+- name: Dutch-bangla Bank Ltd
+  swift: DBBLBDDH111
+  swift8: DBBLBDDH
+  branch_name: B B Road Branch
+  branch_address: 60 B.B. Road Narayanganj
+  branch_code: '111'
+  city: Narayanganj
+  country: Bangladesh
+- name: Dutch-bangla Bank Ltd
+  swift: DBBLBDDH116
+  swift8: DBBLBDDH
+  branch_name: Gulshan Branch
+  branch_address: Plot 6, Block-Ces (F) 1212 Dhaka
+  branch_code: '116'
+  city: Dhaka
+  country: Bangladesh
+- name: Dutch-bangla Bank Ltd
+  swift: DBBLBDDH117
+  swift8: DBBLBDDH
+  branch_name: Uttara Branch
+  branch_address: Plot No.7, Road No.7, Sector No.4 Dhaka
+  branch_code: '117'
+  city: Dhaka
+  country: Bangladesh
+- name: Dutch-bangla Bank Ltd
+  swift: DBBLBDDH118
+  swift8: DBBLBDDH
+  branch_name: Islampur Branch
+  branch_address: 114, 115, 116, Islampur Dhaka
+  branch_code: '118'
+  city: Dhaka
+  country: Bangladesh
+- name: Dutch-bangla Bank Ltd
+  swift: DBBLBDDH122
+  swift8: DBBLBDDH
+  branch_name: Dhaka Epz Branch
+  branch_address: Baipail, Ashulia Dhaka
+  branch_code: '122'
+  city: Dhaka
+  country: Bangladesh
+- name: Dutch-bangla Bank Ltd
+  swift: DBBLBDDH155
+  swift8: DBBLBDDH
+  branch_name: Khatungonj Branch
+  branch_address: Yakub Bhaban Chittagong
+  branch_code: '155'
+  city: Chittagong
+  country: Bangladesh
+- name: Dutch-bangla Bank Ltd
+  swift: DBBLBDDHCTS
+  swift8: DBBLBDDH
+  branch_name: Centralized Trade Services
+  branch_address: 315/B, Tejgaon I/a 1208 Dhaka
+  branch_code: CTS
+  city: Dhaka
+  country: Bangladesh
+- name: Dutch-bangla Bank Ltd
+  swift: DBBLBDDHXXX
+  swift8: DBBLBDDH
+  branch_name: Head Office
+  branch_address: Senakalyan Bhaban 1000 Dhaka
+  branch_code: XXX
+  city: Dhaka
+  country: Bangladesh
+- name: Eastern Bank Ltd.
+  swift: EBLDBDDH001
+  swift8: EBLDBDDH
+  branch_name: Head Office
+  branch_address: Jiban Bima Bhaban 1000 Dhaka
+  branch_code: '001'
+  city: Dhaka
+  country: Bangladesh
+- name: Eastern Bank Ltd.
+  swift: EBLDBDDH002
+  swift8: EBLDBDDH
+  branch_name: Principal Branch
+  branch_address: Jiban Bima Bhaban 1000 Dhaka
+  branch_code: '002'
+  city: Dhaka
+  country: Bangladesh
+- name: Eastern Bank Ltd.
+  swift: EBLDBDDH003
+  swift8: EBLDBDDH
+  branch_name: Agrabad Branch
+  branch_address: 75, Agrabad Commercial Area 4100 Chittagong
+  branch_code: '003'
+  city: Chittagong
+  country: Bangladesh
+- name: Eastern Bank Ltd.
+  swift: EBLDBDDH004
+  swift8: EBLDBDDH
+  branch_name: Khulna Branch
+  branch_address: 07, Old Jessore Road 9100 Khulna
+  branch_code: '004'
+  city: Khulna
+  country: Bangladesh
+- name: Eastern Bank Ltd.
+  swift: EBLDBDDH005
+  swift8: EBLDBDDH
+  branch_name: Motijheel Branch
+  branch_address: Swadhinata Bhaban 1000 Dhaka
+  branch_code: '005'
+  city: Dhaka
+  country: Bangladesh
+- name: Eastern Bank Ltd.
+  swift: EBLDBDDH006
+  swift8: EBLDBDDH
+  branch_name: Khatungonj Branch
+  branch_address: 173, Khatungonj, Badsha Market 4000 Chittagong
+  branch_code: '006'
+  city: Chittagong
+  country: Bangladesh
+- name: Eastern Bank Ltd.
+  swift: EBLDBDDH007
+  swift8: EBLDBDDH
+  branch_name: English Road Branch
+  branch_address: 05, English Road 1100 Dhaka
+  branch_code: '007'
+  city: Dhaka
+  country: Bangladesh
+- name: Eastern Bank Ltd.
+  swift: EBLDBDDH008
+  swift8: EBLDBDDH
+  branch_name: Laldighir Paar Branch
+  branch_address: 1818, Laldighir Paar, New Market 3100 Sylhet
+  branch_code: '008'
+  city: Sylhet
+  country: Bangladesh
+- name: Eastern Bank Ltd.
+  swift: EBLDBDDH009
+  swift8: EBLDBDDH
+  branch_name: Moulvi Bazar Branch
+  branch_address: 26, Sylhet Trunk Road, Moulvi Bazar 3200 Sylhet
+  branch_code: '009'
+  city: Sylhet
+  country: Bangladesh
+- name: Eastern Bank Ltd.
+  swift: EBLDBDDH010
+  swift8: EBLDBDDH
+  branch_name: Jessore Branch
+  branch_address: 25/A, R.N. Road 7400 Jessore
+  branch_code: '010'
+  city: Jessore
+  country: Bangladesh
+- name: Eastern Bank Ltd.
+  swift: EBLDBDDH012
+  swift8: EBLDBDDH
+  branch_name: Jubilee Road Branch
+  branch_address: 263, Jubilee Road Branch 4000 Chittagong
+  branch_code: '012'
+  city: Chittagong
+  country: Bangladesh
+- name: Eastern Bank Ltd.
+  swift: EBLDBDDH013
+  swift8: EBLDBDDH
+  branch_name: Chawk Mughultuly Branch
+  branch_address: 150, Chawk Mughultuly 1100 Dhaka
+  branch_code: '013'
+  city: Dhaka
+  country: Bangladesh
+- name: Eastern Bank Ltd.
+  swift: EBLDBDDH014
+  swift8: EBLDBDDH
+  branch_name: Sonargaon Road Branch
+  branch_address: Sonargaon Road, Hatirpool 1205 Dhaka
+  branch_code: '014'
+  city: Dhaka
+  country: Bangladesh
+- name: Eastern Bank Ltd.
+  swift: EBLDBDDH015
+  swift8: EBLDBDDH
+  branch_name: Station Road Branch
+  branch_address: 22-23 Station Road 4000 Chittagong
+  branch_code: '015'
+  city: Chittagong
+  country: Bangladesh
+- name: Eastern Bank Ltd.
+  swift: EBLDBDDH016
+  swift8: EBLDBDDH
+  branch_name: Rajshahi Branch
+  branch_address: Habib Plaza Rajshahi
+  branch_code: '016'
+  city: Rajshahi
+  country: Bangladesh
+- name: Eastern Bank Ltd.
+  swift: EBLDBDDH017
+  swift8: EBLDBDDH
+  branch_name: Dhanmondi Branch
+  branch_address: House 7 1205 Dhaka
+  branch_code: '017'
+  city: Dhaka
+  country: Bangladesh
+- name: Eastern Bank Ltd.
+  swift: EBLDBDDH018
+  swift8: EBLDBDDH
+  branch_name: Bogra Branch
+  branch_address: Bogra
+  branch_code: '018'
+  city: Bogra
+  country: Bangladesh
+- name: Eastern Bank Ltd.
+  swift: EBLDBDDH019
+  swift8: EBLDBDDH
+  branch_name: O R Nizam Road Brach
+  branch_address: Avenue Centre 4000 Chittagong
+  branch_code: '019'
+  city: Chittagong
+  country: Bangladesh
+- name: Eastern Bank Ltd.
+  swift: EBLDBDDH020
+  swift8: EBLDBDDH
+  branch_name: Chouhatta Branch
+  branch_address: Feroz Centre 3100 Sylhet
+  branch_code: '020'
+  city: Sylhet
+  country: Bangladesh
+- name: Eastern Bank Ltd.
+  swift: EBLDBDDH021
+  swift8: EBLDBDDH
+  branch_name: Mirpur Branch
+  branch_address: Plot 04 1216 Dhaka
+  branch_code: '021'
+  city: Dhaka
+  country: Bangladesh
+- name: Equity Partners Securities Limited
+  swift: EPSRBDD1XXX
+  swift8: EPSRBDD1
+  branch_name: Head Office
+  branch_address: Dse Annex Building 1000 Dhaka
+  branch_code: XXX
+  city: Dhaka
+  country: Bangladesh
+- name: Export Import Bank Of Bangladesh Ltd
+  swift: EXBKBDDH001
+  swift8: EXBKBDDH
+  branch_name: Motijheel Branch
+  branch_address: Sharif Mansion 1000 Dhaka
+  branch_code: '001'
+  city: Dhaka
+  country: Bangladesh
+- name: Export Import Bank Of Bangladesh Ltd
+  swift: EXBKBDDH002
+  swift8: EXBKBDDH
+  branch_name: Panthapath Branch
+  branch_address: 19/2 West Panthapath, Dhaka
+  branch_code: '002'
+  city: Dhaka
+  country: Bangladesh
+- name: Export Import Bank Of Bangladesh Ltd
+  swift: EXBKBDDH003
+  swift8: EXBKBDDH
+  branch_name: Agrabad Branch
+  branch_address: Nawla Chamber Chittagong
+  branch_code: '003'
+  city: Chittagong
+  country: Bangladesh
+- name: Export Import Bank Of Bangladesh Ltd
+  swift: EXBKBDDH004
+  swift8: EXBKBDDH
+  branch_name: Khatungonj Branch
+  branch_address: Union Square Building Chittagong
+  branch_code: '004'
+  city: Chittagong
+  country: Bangladesh
+- name: Export Import Bank Of Bangladesh Ltd
+  swift: EXBKBDDH006
+  swift8: EXBKBDDH
+  branch_name: Imamgonj Branch
+  branch_address: Haji Abdul Kader Mansion Dhaka
+  branch_code: '006'
+  city: Dhaka
+  country: Bangladesh
+- name: Export Import Bank Of Bangladesh Ltd
+  swift: EXBKBDDH007
+  swift8: EXBKBDDH
+  branch_name: Gulshan Branch
+  branch_address: 75 Gulshan Avenue Dhaka
+  branch_code: '007'
+  city: Dhaka
+  country: Bangladesh
+- name: Export Import Bank Of Bangladesh Ltd
+  swift: EXBKBDDH010
+  swift8: EXBKBDDH
+  branch_name: Nawabpur Branch
+  branch_address: 198/1 Nawabpur Road 1100 Dhaka
+  branch_code: '010'
+  city: Dhaka
+  country: Bangladesh
+- name: Export Import Bank Of Bangladesh Ltd
+  swift: EXBKBDDH011
+  swift8: EXBKBDDH
+  branch_name: Narayangonj Branch
+  branch_address: 14/1 S.M. Malesh Road Narayanganj
+  branch_code: '011'
+  city: Narayanganj
+  country: Bangladesh
+- name: Export Import Bank Of Bangladesh Ltd
+  swift: EXBKBDDH013
+  swift8: EXBKBDDH
+  branch_name: Rajuk Avenue Branch
+  branch_address: 9 Dit Avenue 1000 Dhaka
+  branch_code: '013'
+  city: Dhaka
+  country: Bangladesh
+- name: Export Import Bank Of Bangladesh Ltd
+  swift: EXBKBDDH014
+  swift8: EXBKBDDH
+  branch_name: New Eskaton Branch
+  branch_address: New Eskaton Road 27/1 1000 Dhaka
+  branch_code: '014'
+  city: Dhaka
+  country: Bangladesh
+- name: Export Import Bank Of Bangladesh Ltd
+  swift: EXBKBDDH015
+  swift8: EXBKBDDH
+  branch_name: Uttara
+  branch_address: House 61/a Dhaka
+  branch_code: '015'
+  city: Dhaka
+  country: Bangladesh
+- name: Export Import Bank Of Bangladesh Ltd
+  swift: EXBKBDDH017
+  swift8: EXBKBDDH
+  branch_name: Mirpur Branch
+  branch_address: Srayoshee Tower 1216 Dhaka
+  branch_code: '017'
+  city: Dhaka
+  country: Bangladesh
+- name: Export Import Bank Of Bangladesh Ltd
+  swift: EXBKBDDH018
+  swift8: EXBKBDDH
+  branch_name: Jubilee Road
+  branch_address: Enayet Bazar Chittagong
+  branch_code: '018'
+  city: Chittagong
+  country: Bangladesh
+- name: Export Import Bank Of Bangladesh Ltd
+  swift: EXBKBDDH019
+  swift8: EXBKBDDH
+  branch_name: Elephant Road Branch
+  branch_address: The Shahera Circle Complex 1205 Dhaka
+  branch_code: '019'
+  city: Dhaka
+  country: Bangladesh
+- name: Export Import Bank Of Bangladesh Ltd
+  swift: EXBKBDDH021
+  swift8: EXBKBDDH
+  branch_name: Bogra Branch
+  branch_address: Sheikh Mansion 5800 Bogra
+  branch_code: '021'
+  city: Bogra
+  country: Bangladesh
+- name: Export Import Bank Of Bangladesh Ltd
+  swift: EXBKBDDH023
+  swift8: EXBKBDDH
+  branch_name: Malibagh Branch
+  branch_address: D.I.T. Road 484 1217 Dhaka
+  branch_code: '023'
+  city: Dhaka
+  country: Bangladesh
+- name: Export Import Bank Of Bangladesh Ltd
+  swift: EXBKBDDH026
+  swift8: EXBKBDDH
+  branch_name: C D a Avenue Branch
+  branch_address: Commerce View Complex 4000 Chittagong
+  branch_code: '026'
+  city: Chittagong
+  country: Bangladesh
+- name: Export Import Bank Of Bangladesh Ltd
+  swift: EXBKBDDH029
+  swift8: EXBKBDDH
+  branch_name: Bashundhara Road Branch
+  branch_address: No branch address
+  branch_code: '029'
+  city: Dhaka
+  country: Bangladesh
+- name: Export Import Bank Of Bangladesh Ltd
+  swift: EXBKBDDH035
+  swift8: EXBKBDDH
+  branch_name: Karwan Bazar Branch
+  branch_address: Bgmea Complex 1215 Dhaka
+  branch_code: '035'
+  city: Dhaka
+  country: Bangladesh
+- name: Export Import Bank Of Bangladesh Ltd
+  swift: EXBKBDDH039
+  swift8: EXBKBDDH
+  branch_name: Head Office Corporate Branch
+  branch_address: Symphony 1212 Dhaka
+  branch_code: '039'
+  city: Dhaka
+  country: Bangladesh
+- name: First Security Islami Bank Limited
+  swift: FSEBBDDHAGR
+  swift8: FSEBBDDH
+  branch_name: Agrabad
+  branch_address: 163 Sheikh Mujib Road Chittagong
+  branch_code: AGR
+  city: Chittagong
+  country: Bangladesh
+- name: First Security Islami Bank Limited
+  swift: FSEBBDDHBAN
+  swift8: FSEBBDDH
+  branch_name: Banani Branch
+  branch_address: Kamal Ataturk Avenue, Banani Model 1212 Dhaka
+  branch_code: BAN
+  city: Dhaka
+  country: Bangladesh
+- name: First Security Islami Bank Limited
+  swift: FSEBBDDHBNG
+  swift8: FSEBBDDH
+  branch_name: Bangshal
+  branch_address: 121/2 Lutfor Rahman Lane 1000 Dhaka
+  branch_code: BNG
+  city: Dhaka
+  country: Bangladesh
+- name: First Security Islami Bank Limited
+  swift: FSEBBDDHDHA
+  swift8: FSEBBDDH
+  branch_name: Dhanmondi Branch
+  branch_address: House 88/1 1205 Dhaka
+  branch_code: DHA
+  city: Dhaka
+  country: Bangladesh
+- name: First Security Islami Bank Limited
+  swift: FSEBBDDHDIL
+  swift8: FSEBBDDH
+  branch_name: Dilkusha
+  branch_address: 23 Dilkusha 1000 Dhaka
+  branch_code: DIL
+  city: Dhaka
+  country: Bangladesh
+- name: First Security Islami Bank Limited
+  swift: FSEBBDDHGUL
+  swift8: FSEBBDDH
+  branch_name: Gulshan Branch
+  branch_address: 122 Gushan Avenue 1212 Dhaka
+  branch_code: GUL
+  city: Dhaka
+  country: Bangladesh
+- name: First Security Islami Bank Limited
+  swift: FSEBBDDHJUB
+  swift8: FSEBBDDH
+  branch_name: Jubilee Road Branch
+  branch_address: 365 Jubilee Road 4000 Chittagong
+  branch_code: JUB
+  city: Chittagong
+  country: Bangladesh
+- name: First Security Islami Bank Limited
+  swift: FSEBBDDHKTG
+  swift8: FSEBBDDH
+  branch_name: Khatungong
+  branch_address: 142 Chand Meah Lane Chittagong
+  branch_code: KTG
+  city: Chittagong
+  country: Bangladesh
+- name: First Security Islami Bank Limited
+  swift: FSEBBDDHMKH
+  swift8: FSEBBDDH
+  branch_name: Mohakhali
+  branch_address: Khaja Tower 1000 Dhaka
+  branch_code: MKH
+  city: Dhaka
+  country: Bangladesh
+- name: First Security Islami Bank Limited
+  swift: FSEBBDDHSYL
+  swift8: FSEBBDDH
+  branch_name: Sylhet Branch
+  branch_address: Salim Mansion Sylhet
+  branch_code: SYL
+  city: Sylhet
+  country: Bangladesh
+- name: First Security Islami Bank Limited
+  swift: FSEBBDDHXXX
+  swift8: FSEBBDDH
+  branch_name: Head Office
+  branch_address: Head Office 1000 Dhaka
+  branch_code: XXX
+  city: Dhaka
+  country: Bangladesh
+- name: Icb Islamic Bank Limited
+  swift: BBSHBDDH002
+  swift8: BBSHBDDH
+  branch_name: Principal Office
+  branch_address: 17 Motijheel Commercial Area 1000 Dhaka
+  branch_code: '002'
+  city: Dhaka
+  country: Bangladesh
+- name: Icb Islamic Bank Limited
+  swift: BBSHBDDH003
+  swift8: BBSHBDDH
+  branch_name: Agrabad Branch
+  branch_address: 36 Agrabad Commercial Area 4100 Chittagong
+  branch_code: '003'
+  city: Chittagong
+  country: Bangladesh
+- name: Icb Islamic Bank Limited
+  swift: BBSHBDDH005
+  swift8: BBSHBDDH
+  branch_name: Khatunganj Branch
+  branch_address: 276 Khatunganj 4100 Chittagong
+  branch_code: '005'
+  city: Chittagong
+  country: Bangladesh
+- name: Icb Islamic Bank Limited
+  swift: BBSHBDDH006
+  swift8: BBSHBDDH
+  branch_name: Vip Road Branch
+  branch_address: 35/C, Nayapaltan, Vip Road 1000 Dhaka
+  branch_code: '006'
+  city: Dhaka
+  country: Bangladesh
+- name: Icb Islamic Bank Limited
+  swift: BBSHBDDH007
+  swift8: BBSHBDDH
+  branch_name: Sylhet Branch
+  branch_address: Collectorate Mosque Building 3100 Sylhet
+  branch_code: '007'
+  city: Sylhet
+  country: Bangladesh
+- name: Icb Islamic Bank Limited
+  swift: BBSHBDDH008
+  swift8: BBSHBDDH
+  branch_name: Narayanganj Branch
+  branch_address: 15 S.M. Maleh Road 1400 Narayanganj
+  branch_code: '008'
+  city: Narayanganj
+  country: Bangladesh
+- name: Icb Islamic Bank Limited
+  swift: BBSHBDDH015
+  swift8: BBSHBDDH
+  branch_name: Khulna Branch
+  branch_address: 7 Sir Iqbal Road 9001 Khulna
+  branch_code: '015'
+  city: Khulna
+  country: Bangladesh
+- name: Icb Islamic Bank Limited
+  swift: BBSHBDDH025
+  swift8: BBSHBDDH
+  branch_name: Gulshan Branch
+  branch_address: 48 South Avenue, Gulshan 1212 Dhaka
+  branch_code: '025'
+  city: Dhaka
+  country: Bangladesh
+- name: Icb Islamic Bank Limited
+  swift: BBSHBDDH029
+  swift8: BBSHBDDH
+  branch_name: Babubazar Branch
+  branch_address: 21 Amenian Street, Babubazar 1100 Dhaka
+  branch_code: '029'
+  city: Dhaka
+  country: Bangladesh
+- name: Icb Islamic Bank Limited
+  swift: BBSHBDDH030
+  swift8: BBSHBDDH
+  branch_name: Nawabpur Branch
+  branch_address: Israt Hotel Dhaka
+  branch_code: '030'
+  city: Dhaka
+  country: Bangladesh
+- name: Icb Islamic Bank Limited
+  swift: BBSHBDDHXXX
+  swift8: BBSHBDDH
+  branch_name: Head Office
+  branch_address: T.K. Bhaban 1215 Dhaka
+  branch_code: XXX
+  city: Dhaka
+  country: Bangladesh
+- name: Idlc Securities Limited
+  swift: IDLCBDD1XXX
+  swift8: IDLCBDD1
+  branch_name: Head Office
+  branch_address: Peoples Insurance Bhaban 1000 Dhaka
+  branch_code: XXX
+  city: Dhaka
+  country: Bangladesh
+- name: Imtiyaz Husain And Co
+  swift: IMHUBDD1XXX
+  swift8: IMHUBDD1
+  branch_name: Head Office
+  branch_address: 316 Ab Teogaon I.A. 1208 Dhaka
+  branch_code: XXX
+  city: Dhaka
+  country: Bangladesh
+- name: International Finance Investment And Commerce Bank Ltd.
+  swift: IFICBDDH001
+  swift8: IFICBDDH
+  branch_name: Motijheel Branch
+  branch_address: Islam Chamber 1000 Dhaka
+  branch_code: '001'
+  city: Dhaka
+  country: Bangladesh
+- name: International Finance Investment And Commerce Bank Ltd.
+  swift: IFICBDDH002
+  swift8: IFICBDDH
+  branch_name: Gulshan Branch
+  branch_address: 1 Ces (A) Dhaka
+  branch_code: '002'
+  city: Dhaka
+  country: Bangladesh
+- name: International Finance Investment And Commerce Bank Ltd.
+  swift: IFICBDDH003
+  swift8: IFICBDDH
+  branch_name: Narayanganj Branch
+  branch_address: Jahan Super Market 1400 Narayanganj
+  branch_code: '003'
+  city: Narayanganj
+  country: Bangladesh
+- name: International Finance Investment And Commerce Bank Ltd.
+  swift: IFICBDDH004
+  swift8: IFICBDDH
+  branch_name: Moulvibazar Branch
+  branch_address: Moulvi Bazar 1100 Dhaka
+  branch_code: '004'
+  city: Dhaka
+  country: Bangladesh
+- name: International Finance Investment And Commerce Bank Ltd.
+  swift: IFICBDDH005
+  swift8: IFICBDDH
+  branch_name: Islampur Branch
+  branch_address: Dhaka
+  branch_code: '005'
+  city: Dhaka
+  country: Bangladesh
+- name: International Finance Investment And Commerce Bank Ltd.
+  swift: IFICBDDH006
+  swift8: IFICBDDH
+  branch_name: Dhanmondi Branch
+  branch_address: Road 2, House 2, Dhanmondi R/a 1205 Dhaka
+  branch_code: '006'
+  city: Dhaka
+  country: Bangladesh
+- name: International Finance Investment And Commerce Bank Ltd.
+  swift: IFICBDDH008
+  swift8: IFICBDDH
+  branch_name: Federation Branch
+  branch_address: Federation Building 1000 Dhaka
+  branch_code: '008'
+  city: Dhaka
+  country: Bangladesh
+- name: International Finance Investment And Commerce Bank Ltd.
+  swift: IFICBDDH011
+  swift8: IFICBDDH
+  branch_name: Bangshal Branch
+  branch_address: Hotel Al Razzaque 1100 Dhaka
+  branch_code: '011'
+  city: Dhaka
+  country: Bangladesh
+- name: International Finance Investment And Commerce Bank Ltd.
+  swift: IFICBDDH014
+  swift8: IFICBDDH
+  branch_name: Elephant Road Branch
+  branch_address: Regent Plaza 1205 Dhaka
+  branch_code: '014'
+  city: Dhaka
+  country: Bangladesh
+- name: International Finance Investment And Commerce Bank Ltd.
+  swift: IFICBDDH017
+  swift8: IFICBDDH
+  branch_name: Kawran Bazar Branch
+  branch_address: Petro Center 1215 Dhaka
+  branch_code: '017'
+  city: Dhaka
+  country: Bangladesh
+- name: International Finance Investment And Commerce Bank Ltd.
+  swift: IFICBDDH024
+  swift8: IFICBDDH
+  branch_name: Uttara Branch
+  branch_address: Uttara Tower 1230 Dhaka
+  branch_code: '024'
+  city: Dhaka
+  country: Bangladesh
+- name: International Finance Investment And Commerce Bank Ltd.
+  swift: IFICBDDH029
+  swift8: IFICBDDH
+  branch_name: Nawabpur Branch
+  branch_address: Barek Plaza 1100 Dhaka
+  branch_code: '029'
+  city: Dhaka
+  country: Bangladesh
+- name: International Finance Investment And Commerce Bank Ltd.
+  swift: IFICBDDH030
+  swift8: IFICBDDH
+  branch_name: Agrabad Branch
+  branch_address: 30, Agrabad C/a Chittagong
+  branch_code: '030'
+  city: Chittagong
+  country: Bangladesh
+- name: International Finance Investment And Commerce Bank Ltd.
+  swift: IFICBDDH031
+  swift8: IFICBDDH
+  branch_name: Khatunganj Branch
+  branch_address: 249/250, Khatunganj Road Chittagong
+  branch_code: '031'
+  city: Chittagong
+  country: Bangladesh
+- name: International Finance Investment And Commerce Bank Ltd.
+  swift: IFICBDDH033
+  swift8: IFICBDDH
+  branch_name: Sylhet Branch
+  branch_address: Sylhet
+  branch_code: '033'
+  city: Sylhet
+  country: Bangladesh
+- name: International Finance Investment And Commerce Bank Ltd.
+  swift: IFICBDDH036
+  swift8: IFICBDDH
+  branch_name: Terri Bazar Branch
+  branch_address: 12 Terri Bazar Chittagong
+  branch_code: '036'
+  city: Chittagong
+  country: Bangladesh
+- name: International Finance Investment And Commerce Bank Ltd.
+  swift: IFICBDDH060
+  swift8: IFICBDDH
+  branch_name: Khulna Branch
+  branch_address: 81, Lower Jessore Road Khulna
+  branch_code: '060'
+  city: Khulna
+  country: Bangladesh
+- name: International Finance Investment And Commerce Bank Ltd.
+  swift: IFICBDDH061
+  swift8: IFICBDDH
+  branch_name: Jessore Branch
+  branch_address: 59 Nsc Road Jessore
+  branch_code: '061'
+  city: Jessore
+  country: Bangladesh
+- name: International Finance Investment And Commerce Bank Ltd.
+  swift: IFICBDDH063
+  swift8: IFICBDDH
+  branch_name: Noapara Branch
+  branch_address: Noapara Bazar Noapara
+  branch_code: '063'
+  city: Noapara
+  country: Bangladesh
+- name: International Finance Investment And Commerce Bank Ltd.
+  swift: IFICBDDH065
+  swift8: IFICBDDH
+  branch_name: Satkhira Branch
+  branch_address: Nazmul Sarani Satkhira
+  branch_code: '065'
+  city: Satkhira
+  country: Bangladesh
+- name: Islami Bank Bangladesh Ltd
+  swift: IBBLBDDH102
+  swift8: IBBLBDDH
+  branch_name: Local Office
+  branch_address: 75, Motijheel Commercial Area 1000 Dhaka
+  branch_code: '102'
+  city: Dhaka
+  country: Bangladesh
+- name: Islami Bank Bangladesh Ltd
+  swift: IBBLBDDH103
+  swift8: IBBLBDDH
+  branch_name: Agrabad Branch
+  branch_address: Jaks Shopping Complex 4000 Chittagong
+  branch_code: '103'
+  city: Chittagong
+  country: Bangladesh
+- name: Islami Bank Bangladesh Ltd
+  swift: IBBLBDDH104
+  swift8: IBBLBDDH
+  branch_name: Sylhet Branch
+  branch_address: 288, Taltola Sylhet
+  branch_code: '104'
+  city: Sylhet
+  country: Bangladesh
+- name: Islami Bank Bangladesh Ltd
+  swift: IBBLBDDH105
+  swift8: IBBLBDDH
+  branch_name: Chawk Mugaltuly Branch
+  branch_address: 93, Chawk Mugaltuly Dhaka
+  branch_code: '105'
+  city: Dhaka
+  country: Bangladesh
+- name: Islami Bank Bangladesh Ltd
+  swift: IBBLBDDH106
+  swift8: IBBLBDDH
+  branch_name: Khatungonj Branch
+  branch_address: 199, Amir Market Chittagong
+  branch_code: '106'
+  city: Chittagong
+  country: Bangladesh
+- name: Islami Bank Bangladesh Ltd
+  swift: IBBLBDDH107
+  swift8: IBBLBDDH
+  branch_name: Khulna Branch
+  branch_address: 28, Sir Iqbal Road Khulna
+  branch_code: '107'
+  city: Khulna
+  country: Bangladesh
+- name: Islami Bank Bangladesh Ltd
+  swift: IBBLBDDH108
+  swift8: IBBLBDDH
+  branch_name: Narayanganj Branch
+  branch_address: 40, S.M. Maleh Road Narayanganj
+  branch_code: '108'
+  city: Narayanganj
+  country: Bangladesh
+- name: Islami Bank Bangladesh Ltd
+  swift: IBBLBDDH109
+  swift8: IBBLBDDH
+  branch_name: Foreign Exchange Branch
+  branch_address: 41, Dilkusha Commercial Area Dhaka
+  branch_code: '109'
+  city: Dhaka
+  country: Bangladesh
+- name: Islami Bank Bangladesh Ltd
+  swift: IBBLBDDH110
+  swift8: IBBLBDDH
+  branch_name: Islampur Branch
+  branch_address: 41-42, Islampur Road Dhaka
+  branch_code: '110'
+  city: Dhaka
+  country: Bangladesh
+- name: Islami Bank Bangladesh Ltd
+  swift: IBBLBDDH111
+  swift8: IBBLBDDH
+  branch_name: Barisal Branch
+  branch_address: 132/121, East Bogra Road, Sajrini M 8200 Barisal
+  branch_code: '111'
+  city: Barisal
+  country: Bangladesh
+- name: Islami Bank Bangladesh Ltd
+  swift: IBBLBDDH112
+  swift8: IBBLBDDH
+  branch_name: Bogra Branch
+  branch_address: 801, Thana Road Bogra
+  branch_code: '112'
+  city: Bogra
+  country: Bangladesh
+- name: Islami Bank Bangladesh Ltd
+  swift: IBBLBDDH113
+  swift8: IBBLBDDH
+  branch_name: Rajshahi Branch
+  branch_address: 119/123, Shaheb Bazar Road Rajshahi
+  branch_code: '113'
+  city: Rajshahi
+  country: Bangladesh
+- name: Islami Bank Bangladesh Ltd
+  swift: IBBLBDDH115
+  swift8: IBBLBDDH
+  branch_name: Pabna Branch
+  branch_address: Sonapatty Pabna
+  branch_code: '115'
+  city: Pabna
+  country: Bangladesh
+- name: Islami Bank Bangladesh Ltd
+  swift: IBBLBDDH118
+  swift8: IBBLBDDH
+  branch_name: Nawabpur Branch
+  branch_address: 210-211, Nawabpur Road Dhaka
+  branch_code: '118'
+  city: Dhaka
+  country: Bangladesh
+- name: Islami Bank Bangladesh Ltd
+  swift: IBBLBDDH119
+  swift8: IBBLBDDH
+  branch_name: Narsingdi Branch
+  branch_address: 139 Sutapatty, Narsingdi Bazar Narsinghdi
+  branch_code: '119'
+  city: Narsinghdi
+  country: Bangladesh
+- name: Islami Bank Bangladesh Ltd
+  swift: IBBLBDDH123
+  swift8: IBBLBDDH
+  branch_name: 1000 Dhaka
+  branch_address: International Banking Wing, 1000 Dhaka
+  branch_code: '123'
+  city: Dhaka
+  country: Bangladesh
+- name: Islami Bank Bangladesh Ltd
+  swift: IBBLBDDH124
+  swift8: IBBLBDDH
+  branch_name: Anderkilla Branch
+  branch_address: G.A. Bhaban Chittagong
+  branch_code: '124'
+  city: Chittagong
+  country: Bangladesh
+- name: Islami Bank Bangladesh Ltd
+  swift: IBBLBDDH125
+  swift8: IBBLBDDH
+  branch_name: Jessore Branch
+  branch_address: 7-8, Railway Road Jessore
+  branch_code: '125'
+  city: Jessore
+  country: Bangladesh
+- name: Islami Bank Bangladesh Ltd
+  swift: IBBLBDDH126
+  swift8: IBBLBDDH
+  branch_name: Chaumuhani Branch
+  branch_address: 856 Feni Road, Chaumuhani Noakhali
+  branch_code: '126'
+  city: Noakhali
+  country: Bangladesh
+- name: Islami Bank Bangladesh Ltd
+  swift: IBBLBDDH129
+  swift8: IBBLBDDH
+  branch_name: New Market Branch
+  branch_address: Doza Mansion Dhaka
+  branch_code: '129'
+  city: Dhaka
+  country: Bangladesh
+- name: Jamuna Bank Limited
+  swift: JAMUBDDH035
+  swift8: JAMUBDDH
+  branch_name: Mohakhali Branch
+  branch_address: 32 Mohakhali C/a Dhaka
+  branch_code: '035'
+  city: Dhaka
+  country: Bangladesh
+- name: Jamuna Bank Limited
+  swift: JAMUBDDH036
+  swift8: JAMUBDDH
+  branch_name: Moulvi Bazar Branch
+  branch_address: Moulvi Bazar Dhaka
+  branch_code: '036'
+  city: Dhaka
+  country: Bangladesh
+- name: Jamuna Bank Limited
+  swift: JAMUBDDH037
+  swift8: JAMUBDDH
+  branch_name: Dilkusha Branch
+  branch_address: 33 Dilkusha C/a Dhaka
+  branch_code: '037'
+  city: Dhaka
+  country: Bangladesh
+- name: Jamuna Bank Limited
+  swift: JAMUBDDH038
+  swift8: JAMUBDDH
+  branch_name: Agrabad Branch
+  branch_address: 77-77 Agrabad C/a Chittagong
+  branch_code: '038'
+  city: Chittagong
+  country: Bangladesh
+- name: Jamuna Bank Limited
+  swift: JAMUBDDH039
+  swift8: JAMUBDDH
+  branch_name: Sonargaon Road Branch
+  branch_address: 1/G Free School Street, Sonargaon Dhaka
+  branch_code: '039'
+  city: Dhaka
+  country: Bangladesh
+- name: Jamuna Bank Limited
+  swift: JAMUBDDH040
+  swift8: JAMUBDDH
+  branch_name: Nayabazar Branch
+  branch_address: 10/3 Malitola, North South Road 1000 Dhaka
+  branch_code: '040'
+  city: Dhaka
+  country: Bangladesh
+- name: Jamuna Bank Limited
+  swift: JAMUBDDH041
+  swift8: JAMUBDDH
+  branch_name: Shantinagar Branch
+  branch_address: 41/B Chamilibag, Shantinagar 1217 Dhaka
+  branch_code: '041'
+  city: Dhaka
+  country: Bangladesh
+- name: Jamuna Bank Limited
+  swift: JAMUBDDH042
+  swift8: JAMUBDDH
+  branch_name: Khatungonj Branch
+  branch_address: 1575 Pathargata , Koteali Chittagong
+  branch_code: '042'
+  city: Chittagong
+  country: Bangladesh
+- name: Jamuna Bank Limited
+  swift: JAMUBDDH043
+  swift8: JAMUBDDH
+  branch_name: Gulshan Branch
+  branch_address: Land View Commercial Center 1212 Dhaka
+  branch_code: '043'
+  city: Dhaka
+  country: Bangladesh
+- name: Jamuna Bank Limited
+  swift: JAMUBDDH044
+  swift8: JAMUBDDH
+  branch_name: Naogaon Branch
+  branch_address: 247 Sadar Road Naogaon
+  branch_code: '044'
+  city: Naogaon
+  country: Bangladesh
+- name: Jamuna Bank Limited
+  swift: JAMUBDDH045
+  swift8: JAMUBDDH
+  branch_name: Foreign Exchange Branch
+  branch_address: 2, D.I.T Avenue (Extension) 1000 Dhaka
+  branch_code: '045'
+  city: Dhaka
+  country: Bangladesh
+- name: Jamuna Bank Limited
+  swift: JAMUBDDH047
+  swift8: JAMUBDDH
+  branch_name: Narayanganj Branch
+  branch_address: Holding No:Old-137,New-207 1400 Narayanganj
+  branch_code: '047'
+  city: Narayanganj
+  country: Bangladesh
+- name: Jamuna Bank Limited
+  swift: JAMUBDDH048
+  swift8: JAMUBDDH
+  branch_name: Dhanmondi Branch
+  branch_address: House No:17,17/a 1205 Dhaka
+  branch_code: '048'
+  city: Dhaka
+  country: Bangladesh
+- name: Jamuna Bank Limited
+  swift: JAMUBDDH049
+  swift8: JAMUBDDH
+  branch_name: Jublee Road Islamic Banking Branch
+  branch_address: Modina Tower, Kotwali 4000 Chittagong
+  branch_code: '049'
+  city: Chittagong
+  country: Bangladesh
+- name: Jamuna Bank Limited
+  swift: JAMUBDDH050
+  swift8: JAMUBDDH
+  branch_name: Rajshahi Branch
+  branch_address: 88, Shaheb Bazar, Zero Point 6100 Rajshahi
+  branch_code: '050'
+  city: Rajshahi
+  country: Bangladesh
+- name: Jamuna Bank Limited
+  swift: JAMUBDDH051
+  swift8: JAMUBDDH
+  branch_name: Motijheel
+  branch_address: Surma Tower 1000 Dhaka
+  branch_code: '051'
+  city: Dhaka
+  country: Bangladesh
+- name: Jamuna Bank Limited
+  swift: JAMUBDDH052
+  swift8: JAMUBDDH
+  branch_name: Dholaikhal
+  branch_address: 119/B/1 New Distillary Road, 1204 Dhaka
+  branch_code: '052'
+  city: Dhaka
+  country: Bangladesh
+- name: Jamuna Bank Limited
+  swift: JAMUBDDH053
+  swift8: JAMUBDDH
+  branch_name: Banani
+  branch_address: Tower Hamlet 1213 Dhaka
+  branch_code: '053'
+  city: Dhaka
+  country: Bangladesh
+- name: Jamuna Bank Limited
+  swift: JAMUBDDH054
+  swift8: JAMUBDDH
+  branch_name: Uttara
+  branch_address: Singapore Plaza 1230 Dhaka
+  branch_code: '054'
+  city: Dhaka
+  country: Bangladesh
+- name: Jamuna Bank Limited
+  swift: JAMUBDDH055
+  swift8: JAMUBDDH
+  branch_name: Bhatiyari
+  branch_address: Newaz Market 4315 Chittagong
+  branch_code: '055'
+  city: Chittagong
+  country: Bangladesh
+- name: Janata Bank Limited
+  swift: JANBBDDHADG
+  swift8: JANBBDDH
+  branch_name: Asadgonj Corporate Branch
+  branch_address: N.G.S. Chamber 4000 Chittagong
+  branch_code: ADG
+  city: Chittagong
+  country: Bangladesh
+- name: Janata Bank Limited
+  swift: JANBBDDHBNG
+  swift8: JANBBDDH
+  branch_name: Bangabandhu Road Corporate Branch
+  branch_address: 29 Bangabandhu Road 1400 Narayanganj
+  branch_code: BNG
+  city: Narayanganj
+  country: Bangladesh
+- name: Janata Bank Limited
+  swift: JANBBDDHBOG
+  swift8: JANBBDDH
+  branch_name: Bogra Corporate Branch
+  branch_address: Baragula, Jhautola 5800 Bogra
+  branch_code: BOG
+  city: Bogra
+  country: Bangladesh
+- name: Janata Bank Limited
+  swift: JANBBDDHBSL
+  swift8: JANBBDDH
+  branch_name: Barisal Corporate Branch
+  branch_address: Municipal Super Market 8200 Barisal
+  branch_code: BSL
+  city: Barisal
+  country: Bangladesh
+- name: Janata Bank Limited
+  swift: JANBBDDHCCN
+  swift8: JANBBDDH
+  branch_name: Comilla Branch
+  branch_address: Rajgonj Road 3500 Comilla
+  branch_code: CCN
+  city: Comilla
+  country: Bangladesh
+- name: Janata Bank Limited
+  swift: JANBBDDHCDA
+  swift8: JANBBDDH
+  branch_name: Foreign Exchange Corporate Branch
+  branch_address: Cda Anex Building 4000 Chittagong
+  branch_code: CDA
+  city: Chittagong
+  country: Bangladesh
+- name: Janata Bank Limited
+  swift: JANBBDDHDCB
+  swift8: JANBBDDH
+  branch_name: Dilkusha Corporate Branch
+  branch_address: 29 Dilkusha Commercial Area 1000 Dhaka
+  branch_code: DCB
+  city: Dhaka
+  country: Bangladesh
+- name: Janata Bank Limited
+  swift: JANBBDDHDNJ
+  swift8: JANBBDDH
+  branch_name: Dinajpur Corporate Branch
+  branch_address: Janata Bank Limited 5200 Dinajpur
+  branch_code: DNJ
+  city: Dinajpur
+  country: Bangladesh
+- name: Janata Bank Limited
+  swift: JANBBDDHELE
+  swift8: JANBBDDH
+  branch_name: Elephant Road Corporate Branch
+  branch_address: 272, Elephant Road Dhaka-1205 Dhaka
+  branch_code: ELE
+  city: Dhaka
+  country: Bangladesh
+- name: Janata Bank Limited
+  swift: JANBBDDHFAR
+  swift8: JANBBDDH
+  branch_name: Faridpur Corporate Branch
+  branch_address: Janata Bank More 7800 Faridpur
+  branch_code: FAR
+  city: Faridpur
+  country: Bangladesh
+- name: Janata Bank Limited
+  swift: JANBBDDHFEC
+  swift8: JANBBDDH
+  branch_name: Foreign Exchange Corporate Branch
+  branch_address: 57, Purana Paltan 1000 Dhaka
+  branch_code: FEC
+  city: Dhaka
+  country: Bangladesh
+- name: Janata Bank Limited
+  swift: JANBBDDHFES
+  swift8: JANBBDDH
+  branch_name: Sylhet Branch
+  branch_address: Airport Road 3102 Sylhet
+  branch_code: FES
+  city: Sylhet
+  country: Bangladesh
+- name: Janata Bank Limited
+  swift: JANBBDDHFGD
+  swift8: JANBBDDH
+  branch_name: Farmgate Corporate Branch
+  branch_address: 14, Tejkuni Para, Tejgaon 1215 Dhaka
+  branch_code: FGD
+  city: Dhaka
+  country: Bangladesh
+- name: Janata Bank Limited
+  swift: JANBBDDHGRB
+  swift8: JANBBDDH
+  branch_name: Gandaria Corporate Branch
+  branch_address: 110, Distilary Road, Gandaria Dhaka-1204 Dhaka
+  branch_code: GRB
+  city: Dhaka-Dhaka
+  country: Bangladesh
+- name: Janata Bank Limited
+  swift: JANBBDDHIMA
+  swift8: JANBBDDH
+  branch_name: Imamgonj Corporate Branch
+  branch_address: Janata Bank Building 1100 Dhaka
+  branch_code: IMA
+  city: Dhaka
+  country: Bangladesh
+- name: Janata Bank Limited
+  swift: JANBBDDHJBC
+  swift8: JANBBDDH
+  branch_name: Janata Bhaban Corporate Branch
+  branch_address: Janata Bhaban 1000 Dhaka
+  branch_code: JBC
+  city: Dhaka
+  country: Bangladesh
+- name: Janata Bank Limited
+  swift: JANBBDDHJBD
+  swift8: JANBBDDH
+  branch_name: Local Office
+  branch_address: Annex Building 1000 Dhaka
+  branch_code: JBD
+  city: Dhaka
+  country: Bangladesh
+- name: Janata Bank Limited
+  swift: JANBBDDHJMK
+  swift8: JANBBDDH
+  branch_name: M K Road Corporate Branch
+  branch_address: Jes Tower 7400 Jessore
+  branch_code: JMK
+  city: Jessore
+  country: Bangladesh
+- name: Janata Bank Limited
+  swift: JANBBDDHJRD
+  swift8: JANBBDDH
+  branch_name: Ramna Corporate Branch
+  branch_address: 15, Bangabandhu Avenue 1000 Dhaka
+  branch_code: JRD
+  city: Dhaka
+  country: Bangladesh
+- name: Janata Bank Limited
+  swift: JANBBDDHJWC
+  swift8: JANBBDDH
+  branch_name: Wasa Corporate Branch
+  branch_address: 159-160, Motijheel Commercial Area 1000 Dhaka
+  branch_code: JWC
+  city: Dhaka
+  country: Bangladesh
+- name: Lankabangla Securities Limited
+  swift: VBSEBDD1XXX
+  swift8: VBSEBDD1
+  branch_name: Head Office
+  branch_address: Dse Annexed 1000 Dhaka
+  branch_code: XXX
+  city: Dhaka
+  country: Bangladesh
+- name: Meghna Bank Limited
+  swift: MGBLBDDHXXX
+  swift8: MGBLBDDH
+  branch_name: No branch name
+  branch_address: No branch address
+  branch_code: XXX
+  city: Dhaka
+  country: Bangladesh
+- name: Mercantile Bank Limited
+  swift: MBLBBDDH001
+  swift8: MBLBBDDH
+  branch_name: Main Branch
+  branch_address: Dhaka
+  branch_code: '001'
+  city: Dhaka
+  country: Bangladesh
+- name: Mercantile Bank Limited
+  swift: MBLBBDDH002
+  swift8: MBLBBDDH
+  branch_name: Kawran Bazar Branch
+  branch_address: Ambershah Maszid Complex 1215 Dhaka
+  branch_code: '002'
+  city: Dhaka
+  country: Bangladesh
+- name: Mercantile Bank Limited
+  swift: MBLBBDDH003
+  swift8: MBLBBDDH
+  branch_name: Agrabad Branch
+  branch_address: Hotel Hawai Building Chittagong
+  branch_code: '003'
+  city: Chittagong
+  country: Bangladesh
+- name: Mercantile Bank Limited
+  swift: MBLBBDDH005
+  swift8: MBLBBDDH
+  branch_name: Rajshahi Branch
+  branch_address: 61 Shaheb Bazar 0001 Rajshahi
+  branch_code: '005'
+  city: Rajshahi
+  country: Bangladesh
+- name: Mercantile Bank Limited
+  swift: MBLBBDDH006
+  swift8: MBLBBDDH
+  branch_name: Dhanmondi Branch
+  branch_address: Cosmon Tower 1205 Dhaka
+  branch_code: '006'
+  city: Dhaka
+  country: Bangladesh
+- name: Mercantile Bank Limited
+  swift: MBLBBDDH007
+  swift8: MBLBBDDH
+  branch_name: Banani Branch
+  branch_address: Awal Centre 1212 Dhaka
+  branch_code: '007'
+  city: Dhaka
+  country: Bangladesh
+- name: Mercantile Bank Limited
+  swift: MBLBBDDH008
+  swift8: MBLBBDDH
+  branch_name: Sylhet Branch
+  branch_address: Laldighirpar 2200 Sylhet
+  branch_code: '008'
+  city: Sylhet
+  country: Bangladesh
+- name: Mercantile Bank Limited
+  swift: MBLBBDDH009
+  swift8: MBLBBDDH
+  branch_name: Naogaon Branch
+  branch_address: Main Road, Chakdev 2300 Naogaon
+  branch_code: '009'
+  city: Naogaon
+  country: Bangladesh
+- name: Mercantile Bank Limited
+  swift: MBLBBDDH010
+  swift8: MBLBBDDH
+  branch_name: Khatungonj Branch
+  branch_address: 599 Ramjoy Mohajan Lane Chittagong
+  branch_code: '010'
+  city: Chittagong
+  country: Bangladesh
+- name: Mercantile Bank Limited
+  swift: MBLBBDDH011
+  swift8: MBLBBDDH
+  branch_name: Nayabazar Branch
+  branch_address: 25/1 Zinda Bahar (1st Lane) 1100 Dhaka
+  branch_code: '011'
+  city: Dhaka
+  country: Bangladesh
+- name: Mercantile Bank Limited
+  swift: MBLBBDDH012
+  swift8: MBLBBDDH
+  branch_name: Mohakhali Branch
+  branch_address: 17 Mohakhali 1212 Dhaka
+  branch_code: '012'
+  city: Dhaka
+  country: Bangladesh
+- name: Mercantile Bank Limited
+  swift: MBLBBDDH013
+  swift8: MBLBBDDH
+  branch_name: Motijheel Branch
+  branch_address: Melek Mension 1000 Dhaka
+  branch_code: '013'
+  city: Dhaka
+  country: Bangladesh
+- name: Mercantile Bank Limited
+  swift: MBLBBDDH014
+  swift8: MBLBBDDH
+  branch_name: Elephant Road Branch
+  branch_address: Osman Plaza 1205 Dhaka
+  branch_code: '014'
+  city: Dhaka
+  country: Bangladesh
+- name: Mercantile Bank Limited
+  swift: MBLBBDDH015
+  swift8: MBLBBDDH
+  branch_name: Mirpur Branch
+  branch_address: 184, Shenpara 1216 Dhaka
+  branch_code: '015'
+  city: Dhaka
+  country: Bangladesh
+- name: Mercantile Bank Limited
+  swift: MBLBBDDH016
+  swift8: MBLBBDDH
+  branch_name: Jubilee Road Branch
+  branch_address: Jublilee Road 4000 Chittagong
+  branch_code: '016'
+  city: Chittagong
+  country: Bangladesh
+- name: Mercantile Bank Limited
+  swift: MBLBBDDH017
+  swift8: MBLBBDDH
+  branch_name: Uttara Branch
+  branch_address: Dhaka
+  branch_code: '017'
+  city: Dhaka
+  country: Bangladesh
+- name: Mercantile Bank Limited
+  swift: MBLBBDDH018
+  swift8: MBLBBDDH
+  branch_name: Bogra Branch
+  branch_address: Barogola 3300 Bogra
+  branch_code: '018'
+  city: Bogra
+  country: Bangladesh
+- name: Mercantile Bank Limited
+  swift: MBLBBDDH019
+  swift8: MBLBBDDH
+  branch_name: Gulshan Branch
+  branch_address: Dhaka
+  branch_code: '019'
+  city: Dhaka
+  country: Bangladesh
+- name: Mercantile Bank Limited
+  swift: MBLBBDDH020
+  swift8: MBLBBDDH
+  branch_name: Bijoynagar Branch
+  branch_address: Kazunddin Tower, 47 Bijoynagar Old 1000 Dhaka
+  branch_code: '020'
+  city: Dhaka
+  country: Bangladesh
+- name: Mercantile Bank Limited
+  swift: MBLBBDDH021
+  swift8: MBLBBDDH
+  branch_name: Satmasjid Rd Branch
+  branch_address: 735 (Old), 82/a (New) 1205 Dhaka
+  branch_code: '021'
+  city: Dhaka
+  country: Bangladesh
+- name: Midland Bank Limited
+  swift: MDBLBDDH352
+  swift8: MDBLBDDH
+  branch_name: No branch name
+  branch_address: No branch address
+  branch_code: '352'
+  city: Dhaka
+  country: Bangladesh
+- name: Midland Bank Limited
+  swift: MDBLBDDH353
+  swift8: MDBLBDDH
+  branch_name: Agrabad Branch
+  branch_address: No branch address
+  branch_code: '353'
+  city: Chittagong
+  country: Bangladesh
+- name: Midland Bank Limited
+  swift: MDBLBDDHXXX
+  swift8: MDBLBDDH
+  branch_name: No branch name
+  branch_address: No branch address
+  branch_code: XXX
+  city: Dhaka
+  country: Bangladesh
+- name: Midland Bank Limited
+  swift: MDBLBDD1XXX
+  swift8: MDBLBDD1
+  branch_name: Head Office
+  branch_address: N B Tower Dhaka
+  branch_code: XXX
+  city: Dhaka
+  country: Bangladesh
+- name: Modhumoti Bank Limited
+  swift: MODHBDDHXXX
+  swift8: MODHBDDH
+  branch_name: No branch name
+  branch_address: No branch address
+  branch_code: XXX
+  city: Dhaka
+  country: Bangladesh
+- name: Mtb Securities Limited
+  swift: MTSUBDD1XXX
+  swift8: MTSUBDD1
+  branch_name: Head Office
+  branch_address: Ww Tower 1000 Dhaka
+  branch_code: XXX
+  city: Dhaka
+  country: Bangladesh
+- name: Mtb Securities Limited
+  swift: MTSRBDD1XXX
+  swift8: MTSRBDD1
+  branch_name: Head Office
+  branch_address: Ww Tower 1000 Dhaka
+  branch_code: XXX
+  city: Dhaka
+  country: Bangladesh
+- name: Mutual Trust Bank Limited
+  swift: MTBLBDDHAGB
+  swift8: MTBLBDDH
+  branch_name: Agrabad Branch
+  branch_address: 37 Agrabad C/a Chittagong
+  branch_code: AGB
+  city: Chittagong
+  country: Bangladesh
+- name: Mutual Trust Bank Limited
+  swift: MTBLBDDHBBB
+  swift8: MTBLBDDH
+  branch_name: Babu Bazar Branch
+  branch_address: 15 Armenian Street Dhaka
+  branch_code: BBB
+  city: Dhaka
+  country: Bangladesh
+- name: Mutual Trust Bank Limited
+  swift: MTBLBDDHDHA
+  swift8: MTBLBDDH
+  branch_name: Dhanmondi Branch
+  branch_address: House 81(New),Road 8/A (New) 1209 Dhaka
+  branch_code: DHA
+  city: Dhaka
+  country: Bangladesh
+- name: Mutual Trust Bank Limited
+  swift: MTBLBDDHDIL
+  swift8: MTBLBDDH
+  branch_name: Dilkusha Branch
+  branch_address: 68 Dilkusha C/a Dhaka
+  branch_code: DIL
+  city: Dhaka
+  country: Bangladesh
+- name: Mutual Trust Bank Limited
+  swift: MTBLBDDHGUL
+  swift8: MTBLBDDH
+  branch_name: Gulshan Branch
+  branch_address: Capita South Avenue Tower 1212 Dhaka
+  branch_code: GUL
+  city: Dhaka
+  country: Bangladesh
+- name: Mutual Trust Bank Limited
+  swift: MTBLBDDHJUB
+  swift8: MTBLBDDH
+  branch_name: Jubilee Road Branch
+  branch_address: Amafhha Center 4000 Chittagong
+  branch_code: JUB
+  city: Chittagong
+  country: Bangladesh
+- name: Mutual Trust Bank Limited
+  swift: MTBLBDDHKTG
+  swift8: MTBLBDDH
+  branch_name: Khatungonj Branch
+  branch_address: Crown Chamber 4000 Chittagong
+  branch_code: KTG
+  city: Chittagong
+  country: Bangladesh
+- name: Mutual Trust Bank Limited
+  swift: MTBLBDDHOBU
+  swift8: MTBLBDDH
+  branch_name: Offshore Banking Unit
+  branch_address: Ww Tower 1000 Dhaka
+  branch_code: OBU
+  city: Dhaka
+  country: Bangladesh
+- name: Mutual Trust Bank Limited
+  swift: MTBLBDDHPBR
+  swift8: MTBLBDDH
+  branch_name: Principal Branch
+  branch_address: 7-8 Motijheel C/a Dhaka
+  branch_code: PBR
+  city: Dhaka
+  country: Bangladesh
+- name: Mutual Trust Bank Limited
+  swift: MTBLBDDHPPB
+  swift8: MTBLBDDH
+  branch_name: Panthapath Branch
+  branch_address: 69/1 Panthapath Dhaka
+  branch_code: PPB
+  city: Dhaka
+  country: Bangladesh
+- name: Mutual Trust Bank Limited
+  swift: MTBLBDDHPSB
+  swift8: MTBLBDDH
+  branch_name: Progati Sarani Branch
+  branch_address: 15/5 Progati Sarani Dhaka
+  branch_code: PSB
+  city: Dhaka
+  country: Bangladesh
+- name: Mutual Trust Bank Limited
+  swift: MTBLBDDHTSC
+  swift8: MTBLBDDH
+  branch_name: Trade Services
+  branch_address: Aktharuzzaman Center 14100 Chittagong
+  branch_code: TSC
+  city: Chittagong
+  country: Bangladesh
+- name: Mutual Trust Bank Limited
+  swift: MTBLBDDHTSD
+  swift8: MTBLBDDH
+  branch_name: Trade Services
+  branch_address: Capita South Avenue Tower 1212 Dhaka
+  branch_code: TSD
+  city: Dhaka
+  country: Bangladesh
+- name: Mutual Trust Bank Limited
+  swift: MTBLBDDHTSM
+  swift8: MTBLBDDH
+  branch_name: Trade Services, Motijheel Sub-Centre
+  branch_address: Ww Tower 1000 Dhaka
+  branch_code: TSM
+  city: Dhaka
+  country: Bangladesh
+- name: Mutual Trust Bank Limited
+  swift: MTBLBDDHUTR
+  swift8: MTBLBDDH
+  branch_name: Uttara Model Town Branch
+  branch_address: House 39,Road 7,Sector 4 1230 Dhaka
+  branch_code: UTR
+  city: Dhaka
+  country: Bangladesh
+- name: Mutual Trust Bank Limited
+  swift: MTBLBDDHXXX
+  swift8: MTBLBDDH
+  branch_name: Head Office
+  branch_address: Bhuiya Center 1000 Dhaka
+  branch_code: XXX
+  city: Dhaka
+  country: Bangladesh
+- name: National Bank Limited
+  swift: NBLBBDDH001
+  swift8: NBLBBDDH
+  branch_name: Dilkusha Branch
+  branch_address: 48 Dilkusha C/a 1000 Dhaka
+  branch_code: '001'
+  city: Dhaka
+  country: Bangladesh
+- name: National Bank Limited
+  swift: NBLBBDDH002
+  swift8: NBLBBDDH
+  branch_name: Khatungonj Branch
+  branch_address: 34 Chand Meah Lane Chittagong
+  branch_code: '002'
+  city: Chittagong
+  country: Bangladesh
+- name: National Bank Limited
+  swift: NBLBBDDH003
+  swift8: NBLBBDDH
+  branch_name: Imamganj Branch
+  branch_address: 1 Moulvi Bazar Dhaka
+  branch_code: '003'
+  city: Dhaka
+  country: Bangladesh
+- name: National Bank Limited
+  swift: NBLBBDDH004
+  swift8: NBLBBDDH
+  branch_name: Agrabad Branch
+  branch_address: 67 Agrabad C/a Chittagong
+  branch_code: '004'
+  city: Chittagong
+  country: Bangladesh
+- name: National Bank Limited
+  swift: NBLBBDDH005
+  swift8: NBLBBDDH
+  branch_name: Rajshahi Branch
+  branch_address: 106-109 Shaheb Bazar Rajshahi
+  branch_code: '005'
+  city: Rajshahi
+  country: Bangladesh
+- name: National Bank Limited
+  swift: NBLBBDDH006
+  swift8: NBLBBDDH
+  branch_name: Rangpur Branch
+  branch_address: G.L. Roy Road Rangpur
+  branch_code: '006'
+  city: Rangpur
+  country: Bangladesh
+- name: National Bank Limited
+  swift: NBLBBDDH007
+  swift8: NBLBBDDH
+  branch_name: Khulna Branch
+  branch_address: 2 Sir Iqbal Road Khulna
+  branch_code: '007'
+  city: Khulna
+  country: Bangladesh
+- name: National Bank Limited
+  swift: NBLBBDDH008
+  swift8: NBLBBDDH
+  branch_name: Sylhet Branch
+  branch_address: Laldighir Par Sylhet
+  branch_code: '008'
+  city: Sylhet
+  country: Bangladesh
+- name: National Bank Limited
+  swift: NBLBBDDH010
+  swift8: NBLBBDDH
+  branch_name: Narayanganj Branch
+  branch_address: 11 S.M. Maleh Road Tan Bazar Narayanganj
+  branch_code: '010'
+  city: Narayanganj
+  country: Bangladesh
+- name: National Bank Limited
+  swift: NBLBBDDH012
+  swift8: NBLBBDDH
+  branch_name: Bangshal Branch
+  branch_address: 22 Bangshal Road 1100 Dhaka
+  branch_code: '012'
+  city: Dhaka
+  country: Bangladesh
+- name: National Bank Limited
+  swift: NBLBBDDH013
+  swift8: NBLBBDDH
+  branch_name: Barisal Branch
+  branch_address: 100 Sadar Road Barisal
+  branch_code: '013'
+  city: Barisal
+  country: Bangladesh
+- name: National Bank Limited
+  swift: NBLBBDDH015
+  swift8: NBLBBDDH
+  branch_name: Elephant Road Branch
+  branch_address: 3 Elephant Road 1205 Dhaka
+  branch_code: '015'
+  city: Dhaka
+  country: Bangladesh
+- name: National Bank Limited
+  swift: NBLBBDDH016
+  swift8: NBLBBDDH
+  branch_name: Jubilee Road Branch
+  branch_address: 922 Jubilee Road Chittagong
+  branch_code: '016'
+  city: Chittagong
+  country: Bangladesh
+- name: National Bank Limited
+  swift: NBLBBDDH019
+  swift8: NBLBBDDH
+  branch_name: 95 Court Road, Moulvibazar
+  branch_address: Moulvibazar
+  branch_code: '019'
+  city: Moulvibazar
+  country: Bangladesh
+- name: National Bank Limited
+  swift: NBLBBDDH021
+  swift8: NBLBBDDH
+  branch_name: Foreign Exchange Branch
+  branch_address: 19 Rajuk Avenue 1000 Dhaka
+  branch_code: '021'
+  city: Dhaka
+  country: Bangladesh
+- name: National Bank Limited
+  swift: NBLBBDDH022
+  swift8: NBLBBDDH
+  branch_name: Brahmanbaria Branch
+  branch_address: Kalasreepara Brahmanbaria
+  branch_code: '022'
+  city: Brahmanbaria
+  country: Bangladesh
+- name: National Bank Limited
+  swift: NBLBBDDH024
+  swift8: NBLBBDDH
+  branch_name: Satkhira Branch
+  branch_address: 32-33 Old College Road, Sultanpur Satkhira
+  branch_code: '024'
+  city: Satkhira
+  country: Bangladesh
+- name: National Bank Limited
+  swift: NBLBBDDH026
+  swift8: NBLBBDDH
+  branch_name: Mymensingh Branch
+  branch_address: Nishikanta Gosh Road 29/1 Mymensingh
+  branch_code: '026'
+  city: Mymensingh
+  country: Bangladesh
+- name: National Bank Limited
+  swift: NBLBBDDH029
+  swift8: NBLBBDDH
+  branch_name: Jessore Branch
+  branch_address: 11-12 Garikhana Main Road Jessore
+  branch_code: '029'
+  city: Jessore
+  country: Bangladesh
+- name: National Bank Limited
+  swift: NBLBBDDH031
+  swift8: NBLBBDDH
+  branch_name: Babu Bazar Branch
+  branch_address: 4 Azizullah Road 1100 Dhaka
+  branch_code: '031'
+  city: Dhaka
+  country: Bangladesh
+- name: National Credit And Commerce Bank Limited
+  swift: NCCLBDDHAGB
+  swift8: NCCLBDDH
+  branch_name: Agrabad Branch
+  branch_address: Noor Chamber Chittagong
+  branch_code: AGB
+  city: Chittagong
+  country: Bangladesh
+- name: National Credit And Commerce Bank Limited
+  swift: NCCLBDDHBBB
+  swift8: NCCLBDDH
+  branch_name: Babubazar Branch
+  branch_address: Reza Medicine Market 1100 Dhaka
+  branch_code: BBB
+  city: Dhaka
+  country: Bangladesh
+- name: National Credit And Commerce Bank Limited
+  swift: NCCLBDDHBNB
+  swift8: NCCLBDDH
+  branch_name: Bangshal Branch
+  branch_address: 216 Bangshal Road 1100 Dhaka
+  branch_code: BNB
+  city: Dhaka
+  country: Bangladesh
+- name: National Credit And Commerce Bank Limited
+  swift: NCCLBDDHDLB
+  swift8: NCCLBDDH
+  branch_name: Dilkusha Branch
+  branch_address: Hossain Chamber 1212 Dhaka
+  branch_code: DLB
+  city: Dhaka
+  country: Bangladesh
+- name: National Credit And Commerce Bank Limited
+  swift: NCCLBDDHDMB
+  swift8: NCCLBDDH
+  branch_name: Dhanmondi Branch
+  branch_address: Road 27 (Old), 1209 Dhaka
+  branch_code: DMB
+  city: Dhaka
+  country: Bangladesh
+- name: National Credit And Commerce Bank Limited
+  swift: NCCLBDDHFEB
+  swift8: NCCLBDDH
+  branch_name: Foreign Exchange Branch
+  branch_address: 39/a Toyenbee Circular Road 1000 Dhaka
+  branch_code: FEB
+  city: Dhaka
+  country: Bangladesh
+- name: National Credit And Commerce Bank Limited
+  swift: NCCLBDDHGSB
+  swift8: NCCLBDDH
+  branch_name: Gulshan Branch
+  branch_address: Metropolitan Shopping Plaza 1212 Dhaka
+  branch_code: GSB
+  city: Dhaka
+  country: Bangladesh
+- name: National Credit And Commerce Bank Limited
+  swift: NCCLBDDHHID
+  swift8: NCCLBDDH
+  branch_name: International Division
+  branch_address: 7-8 Motijheel Commercial Area 1000 Dhaka
+  branch_code: HID
+  city: Dhaka
+  country: Bangladesh
+- name: National Credit And Commerce Bank Limited
+  swift: NCCLBDDHJRB
+  swift8: NCCLBDDH
+  branch_name: Jubilee Road Branch
+  branch_address: Dominion Plaza Chittagong
+  branch_code: JRB
+  city: Chittagong
+  country: Bangladesh
+- name: National Credit And Commerce Bank Limited
+  swift: NCCLBDDHJSB
+  swift8: NCCLBDDH
+  branch_name: Jessore Branch
+  branch_address: Jess Tower Jessore
+  branch_code: JSB
+  city: Jessore
+  country: Bangladesh
+- name: National Credit And Commerce Bank Limited
+  swift: NCCLBDDHKLB
+  swift8: NCCLBDDH
+  branch_name: Khulna Branch
+  branch_address: 3 K.D. Gosh Road Khulna
+  branch_code: KLB
+  city: Khulna
+  country: Bangladesh
+- name: National Credit And Commerce Bank Limited
+  swift: NCCLBDDHKTB
+  swift8: NCCLBDDH
+  branch_name: Khatungonj Branch
+  branch_address: 601 Ramjoy Mohajan Lane Chittagong
+  branch_code: KTB
+  city: Chittagong
+  country: Bangladesh
+- name: National Credit And Commerce Bank Limited
+  swift: NCCLBDDHKWB
+  swift8: NCCLBDDH
+  branch_name: Kawranbazar Branch
+  branch_address: Hasney Tower Dhaka
+  branch_code: KWB
+  city: Dhaka
+  country: Bangladesh
+- name: National Credit And Commerce Bank Limited
+  swift: NCCLBDDHLDB
+  swift8: NCCLBDDH
+  branch_name: Laldighirpar Branch
+  branch_address: Idris Bhaban Sylhet
+  branch_code: LDB
+  city: Sylhet
+  country: Bangladesh
+- name: National Credit And Commerce Bank Limited
+  swift: NCCLBDDHMBB
+  swift8: NCCLBDDH
+  branch_name: Malibagh Branch
+  branch_address: B-61, Malibagh Chowdhury Para 1217 Dhaka
+  branch_code: MBB
+  city: Dhaka
+  country: Bangladesh
+- name: National Credit And Commerce Bank Limited
+  swift: NCCLBDDHMFD
+  swift8: NCCLBDDH
+  branch_name: Mitford Branch
+  branch_address: 173-174 Mitford 1100 Dhaka
+  branch_code: MFD
+  city: Dhaka
+  country: Bangladesh
+- name: National Credit And Commerce Bank Limited
+  swift: NCCLBDDHMGB
+  swift8: NCCLBDDH
+  branch_name: Moghbazar Branch
+  branch_address: 382 Moghbazar, Tongi Diversion Road Dhaka
+  branch_code: MGB
+  city: Dhaka
+  country: Bangladesh
+- name: National Credit And Commerce Bank Limited
+  swift: NCCLBDDHMTB
+  swift8: NCCLBDDH
+  branch_name: Motijheel Branch
+  branch_address: 6 Motijheel Commercial Area 1000 Dhaka
+  branch_code: MTB
+  city: Dhaka
+  country: Bangladesh
+- name: National Credit And Commerce Bank Limited
+  swift: NCCLBDDHNGB
+  swift8: NCCLBDDH
+  branch_name: Narayanganj Branch, Taramia Mansion, 187-Bangabandhu Road, Narayanganj
+  branch_address: Narayanganj
+  branch_code: NGB
+  city: Narayanganj
+  country: Bangladesh
+- name: National Credit And Commerce Bank Limited
+  swift: NCCLBDDHORN
+  swift8: NCCLBDDH
+  branch_name: O R Nizam Road Branch
+  branch_address: 659 O.R. Nizam Road Chittagong
+  branch_code: ORN
+  city: Chittagong
+  country: Bangladesh
+- name: Nrb Commercial Bank Limited
+  swift: NRBBBDDHGUL
+  swift8: NRBBBDDH
+  branch_name: Gulshan Branch
+  branch_address: No branch address
+  branch_code: GUL
+  city: Dhaka
+  country: Bangladesh
+- name: Nrb Commercial Bank Limited
+  swift: NRBBBDDHPRB
+  swift8: NRBBBDDH
+  branch_name: Principal Branch
+  branch_address: No branch address
+  branch_code: PRB
+  city: Dhaka
+  country: Bangladesh
+- name: Nrb Commercial Bank Limited
+  swift: NRBBBDDHXXX
+  swift8: NRBBBDDH
+  branch_name: Head Office
+  branch_address: Motijheel C/A, 114 1000 Dhaka
+  branch_code: XXX
+  city: Dhaka
+  country: Bangladesh
+- name: Nrb Commercial Bank Limited
+  swift: NRBBBDD1XXX
+  swift8: NRBBBDD1
+  branch_name: Head Office
+  branch_address: Motijheel C/A, 114 1000 Dhaka
+  branch_code: XXX
+  city: Dhaka
+  country: Bangladesh
+- name: Nrb Global Bank Limited
+  swift: NGBLBDDHXXX
+  swift8: NGBLBDDH
+  branch_name: No branch name
+  branch_address: No branch address
+  branch_code: XXX
+  city: Dhaka
+  country: Bangladesh
+- name: One Bank Limited
+  swift: ONEBBDDH001
+  swift8: ONEBBDDH
+  branch_name: Principal Branch
+  branch_address: Zaman Court 1000 Dhaka
+  branch_code: '001'
+  city: Dhaka
+  country: Bangladesh
+- name: One Bank Limited
+  swift: ONEBBDDH002
+  swift8: ONEBBDDH
+  branch_name: Agrabad Branch
+  branch_address: 95, Agrabad Chittagong
+  branch_code: '002'
+  city: Chittagong
+  country: Bangladesh
+- name: One Bank Limited
+  swift: ONEBBDDH003
+  swift8: ONEBBDDH
+  branch_name: Gulshan Branch
+  branch_address: 97, Gulshan Avenue 1212 Dhaka
+  branch_code: '003'
+  city: Dhaka
+  country: Bangladesh
+- name: One Bank Limited
+  swift: ONEBBDDH004
+  swift8: ONEBBDDH
+  branch_name: Khatungonj Branch
+  branch_address: 110-111, Khatungonj Chittagong
+  branch_code: '004'
+  city: Chittagong
+  country: Bangladesh
+- name: One Bank Limited
+  swift: ONEBBDDH005
+  swift8: ONEBBDDH
+  branch_name: Ganakbari Epz Branch
+  branch_address: Shomsher Plaza Savar
+  branch_code: '005'
+  city: Savar
+  country: Bangladesh
+- name: One Bank Limited
+  swift: ONEBBDDH006
+  swift8: ONEBBDDH
+  branch_name: Uttara Branch
+  branch_address: House 14 Dhaka
+  branch_code: '006'
+  city: Dhaka
+  country: Bangladesh
+- name: One Bank Limited
+  swift: ONEBBDDH008
+  swift8: ONEBBDDH
+  branch_name: Imamgonj Branch
+  branch_address: 18 Roy Ishwar Chandra Shill 1100 Dhaka
+  branch_code: '008'
+  city: Dhaka
+  country: Bangladesh
+- name: One Bank Limited
+  swift: ONEBBDDH011
+  swift8: ONEBBDDH
+  branch_name: Mirpur Branch
+  branch_address: Plot 2 1216 Dhaka
+  branch_code: '011'
+  city: Dhaka
+  country: Bangladesh
+- name: One Bank Limited
+  swift: ONEBBDDH013
+  swift8: ONEBBDDH
+  branch_name: Dhanmondi Branch
+  branch_address: House 24 1205 Dhaka
+  branch_code: '013'
+  city: Dhaka
+  country: Bangladesh
+- name: One Bank Limited
+  swift: ONEBBDDH014
+  swift8: ONEBBDDH
+  branch_name: Jessore Branch
+  branch_address: M.S. Orchid Centre Jessore
+  branch_code: '014'
+  city: Jessore
+  country: Bangladesh
+- name: One Bank Limited
+  swift: ONEBBDDH017
+  swift8: ONEBBDDH
+  branch_name: Narayanganj Branch
+  branch_address: Haque Plaza Narayanganj
+  branch_code: '017'
+  city: Narayanganj
+  country: Bangladesh
+- name: One Bank Limited
+  swift: ONEBBDDH018
+  swift8: ONEBBDDH
+  branch_name: Banani Branch
+  branch_address: Dhaka
+  branch_code: '018'
+  city: Dhaka
+  country: Bangladesh
+- name: One Bank Limited
+  swift: ONEBBDDH020
+  swift8: ONEBBDDH
+  branch_name: Motijheel Branch
+  branch_address: Sharif Mension 1000 Dhaka
+  branch_code: '020'
+  city: Dhaka
+  country: Bangladesh
+- name: One Bank Limited
+  swift: ONEBBDDH022
+  swift8: ONEBBDDH
+  branch_name: Kakrail Branch
+  branch_address: Mushafir Tower 1000 Dhaka
+  branch_code: '022'
+  city: Dhaka
+  country: Bangladesh
+- name: One Bank Limited
+  swift: ONEBBDDH023
+  swift8: ONEBBDDH
+  branch_name: Jubilee Road Branch
+  branch_address: Kader Tower Chittagong
+  branch_code: '023'
+  city: Chittagong
+  country: Bangladesh
+- name: One Bank Limited
+  swift: ONEBBDDH025
+  swift8: ONEBBDDH
+  branch_name: Progoti Sharani Branch
+  branch_address: Ridge Dale Dhaka
+  branch_code: '025'
+  city: Dhaka
+  country: Bangladesh
+- name: One Bank Limited
+  swift: ONEBBDDH027
+  swift8: ONEBBDDH
+  branch_name: Elephant Road Branch
+  branch_address: Globe Centre 1205 Dhaka
+  branch_code: '027'
+  city: Dhaka
+  country: Bangladesh
+- name: One Bank Limited
+  swift: ONEBBDDH051
+  swift8: ONEBBDDH
+  branch_name: Laldighirpar Branch
+  branch_address: Town Boarding Buildign 3100 Sylhet
+  branch_code: '051'
+  city: Sylhet
+  country: Bangladesh
+- name: One Bank Limited
+  swift: ONEBBDDHOBU
+  swift8: ONEBBDDH
+  branch_name: Offshore Banking Unit
+  branch_address: 97, Gulshan Avenue, Dhaka 1212 Dhaka
+  branch_code: OBU
+  city: Dhaka
+  country: Bangladesh
+- name: One Bank Limited
+  swift: ONEBBDDHXXX
+  swift8: ONEBBDDH
+  branch_name: Head Office
+  branch_address: Hrc Bhaban 1215 Dhaka
+  branch_code: XXX
+  city: Dhaka
+  country: Bangladesh
+- name: Prime Bank Limited
+  swift: PRBLBDDH001
+  swift8: PRBLBDDH
+  branch_name: Motijheel Branch
+  branch_address: Adamjee Court Bldg 1000 Dhaka
+  branch_code: '001'
+  city: Dhaka
+  country: Bangladesh
+- name: Prime Bank Limited
+  swift: PRBLBDDH002
+  swift8: PRBLBDDH
+  branch_name: Khatunganj Branch
+  branch_address: Nabi Super Market 4000 Chittagong
+  branch_code: '002'
+  city: Chittagong
+  country: Bangladesh
+- name: Prime Bank Limited
+  swift: PRBLBDDH003
+  swift8: PRBLBDDH
+  branch_name: Moulvi Bazar Branch
+  branch_address: 77/3, Moulvi Bazar Branch 1100 Dhaka
+  branch_code: '003'
+  city: Dhaka
+  country: Bangladesh
+- name: Prime Bank Limited
+  swift: PRBLBDDH004
+  swift8: PRBLBDDH
+  branch_name: Khulna Branch
+  branch_address: 76, Khan A. Sabur Road 9100 Khulna
+  branch_code: '004'
+  city: Khulna
+  country: Bangladesh
+- name: Prime Bank Limited
+  swift: PRBLBDDH005
+  swift8: PRBLBDDH
+  branch_name: Islamic Banking Branch
+  branch_address: 19, Dilkusha C/a 1000 Dhaka
+  branch_code: '005'
+  city: Dhaka
+  country: Bangladesh
+- name: Prime Bank Limited
+  swift: PRBLBDDH006
+  swift8: PRBLBDDH
+  branch_name: Sylhet Branch
+  branch_address: Laldighirpar 3100 Sylhet
+  branch_code: '006'
+  city: Sylhet
+  country: Bangladesh
+- name: Prime Bank Limited
+  swift: PRBLBDDH007
+  swift8: PRBLBDDH
+  branch_name: Mohakhali Branch
+  branch_address: Golam Sharif Mension 1212 Dhaka
+  branch_code: '007'
+  city: Dhaka
+  country: Bangladesh
+- name: Prime Bank Limited
+  swift: PRBLBDDH008
+  swift8: PRBLBDDH
+  branch_name: Barisal Branch
+  branch_address: Hemayet Uddin Road 8200 Barisal
+  branch_code: '008'
+  city: Barisal
+  country: Bangladesh
+- name: Prime Bank Limited
+  swift: PRBLBDDH009
+  swift8: PRBLBDDH
+  branch_name: Rajshahi Branch
+  branch_address: 138/144, Shaheb Bazar 6100 Rajshahi
+  branch_code: '009'
+  city: Rajshahi
+  country: Bangladesh
+- name: Prime Bank Limited
+  swift: PRBLBDDH010
+  swift8: PRBLBDDH
+  branch_name: Kawran Bazar Branch
+  branch_address: Hardy Plaza 1215 Dhaka
+  branch_code: '010'
+  city: Dhaka
+  country: Bangladesh
+- name: Prime Bank Limited
+  swift: PRBLBDDH011
+  swift8: PRBLBDDH
+  branch_name: Elephant Road Branch
+  branch_address: Sahera Circle 1205 Dhaka
+  branch_code: '011'
+  city: Dhaka
+  country: Bangladesh
+- name: Prime Bank Limited
+  swift: PRBLBDDH012
+  swift8: PRBLBDDH
+  branch_name: Narayanganj Branch
+  branch_address: Modern Model Complex 1400 Narayanganj
+  branch_code: '012'
+  city: Narayanganj
+  country: Bangladesh
+- name: Prime Bank Limited
+  swift: PRBLBDDH013
+  swift8: PRBLBDDH
+  branch_name: Mouchak Branch
+  branch_address: Manhaltan Tower 1217 Dhaka
+  branch_code: '013'
+  city: Dhaka
+  country: Bangladesh
+- name: Prime Bank Limited
+  swift: PRBLBDDH014
+  swift8: PRBLBDDH
+  branch_name: Ganakbari Branch, Savar
+  branch_address: Somsher Plaza 1340 Dhaka
+  branch_code: '014'
+  city: Dhaka
+  country: Bangladesh
+- name: Prime Bank Limited
+  swift: PRBLBDDH015
+  swift8: PRBLBDDH
+  branch_name: Agrabad Branch
+  branch_address: Chamber House 4100 Chittagong
+  branch_code: '015'
+  city: Chittagong
+  country: Bangladesh
+- name: Prime Bank Limited
+  swift: PRBLBDDH016
+  swift8: PRBLBDDH
+  branch_name: Gulshan Branch
+  branch_address: 28, Gulshan North C/a 1212 Dhaka
+  branch_code: '016'
+  city: Dhaka
+  country: Bangladesh
+- name: Prime Bank Limited
+  swift: PRBLBDDH017
+  swift8: PRBLBDDH
+  branch_name: Jubilee Road Branch
+  branch_address: Amaffa Center 4000 Chittagong
+  branch_code: '017'
+  city: Chittagong
+  country: Bangladesh
+- name: Prime Bank Limited
+  swift: PRBLBDDH018
+  swift8: PRBLBDDH
+  branch_name: Jessore Branch
+  branch_address: Jessore
+  branch_code: '018'
+  city: Jessore
+  country: Bangladesh
+- name: Prime Bank Limited
+  swift: PRBLBDDH019
+  swift8: PRBLBDDH
+  branch_name: Foreign Exchange Branch
+  branch_address: Dhaka
+  branch_code: '019'
+  city: Dhaka
+  country: Bangladesh
+- name: Prime Bank Limited
+  swift: PRBLBDDH020
+  swift8: PRBLBDDH
+  branch_name: Banani Branch
+  branch_address: House 62, 1212 Dhaka
+  branch_code: '020'
+  city: Dhaka
+  country: Bangladesh
+- name: Pubali Bank Limited
+  swift: PUBABDDH194
+  swift8: PUBABDDH
+  branch_name: International Division, Head Office
+  branch_address: Dhaka
+  branch_code: '194'
+  city: Dhaka
+  country: Bangladesh
+- name: Pubali Bank Limited
+  swift: PUBABDDH195
+  swift8: PUBABDDH
+  branch_name: Motijheel Branch
+  branch_address: Sena Kalyan Bhaban 1000 Dhaka
+  branch_code: '195'
+  city: Dhaka
+  country: Bangladesh
+- name: Pubali Bank Limited
+  swift: PUBABDDH196
+  swift8: PUBABDDH
+  branch_name: B B Avenue Corporate Branch
+  branch_address: Dhaka
+  branch_code: '196'
+  city: Dhaka
+  country: Bangladesh
+- name: Pubali Bank Limited
+  swift: PUBABDDH197
+  swift8: PUBABDDH
+  branch_name: Sadarghat Branch
+  branch_address: 7, Chitta Ranjan Avenue 1100 Dhaka
+  branch_code: '197'
+  city: Dhaka
+  country: Bangladesh
+- name: Pubali Bank Limited
+  swift: PUBABDDH198
+  swift8: PUBABDDH
+  branch_name: Chawk Bazar Branch
+  branch_address: Dhaka
+  branch_code: '198'
+  city: Dhaka
+  country: Bangladesh
+- name: Pubali Bank Limited
+  swift: PUBABDDH199
+  swift8: PUBABDDH
+  branch_name: Dhaka Stadium Branch
+  branch_address: Lal Bhaban 1000 Dhaka
+  branch_code: '199'
+  city: Dhaka
+  country: Bangladesh
+- name: Pubali Bank Limited
+  swift: PUBABDDH200
+  swift8: PUBABDDH
+  branch_name: Foreign Exchange Branch
+  branch_address: 24, Motijheel C/a 1000 Dhaka
+  branch_code: '200'
+  city: Dhaka
+  country: Bangladesh
+- name: Pubali Bank Limited
+  swift: PUBABDDH201
+  swift8: PUBABDDH
+  branch_name: Principal Branch
+  branch_address: Pubali Bhaban 1000 Dhaka
+  branch_code: '201'
+  city: Dhaka
+  country: Bangladesh
+- name: Pubali Bank Limited
+  swift: PUBABDDH202
+  swift8: PUBABDDH
+  branch_name: Narayangonj Branch
+  branch_address: 2, Bangabandhu Road 1400 Narayanganj
+  branch_code: '202'
+  city: Narayanganj
+  country: Bangladesh
+- name: Pubali Bank Limited
+  swift: PUBABDDH203
+  swift8: PUBABDDH
+  branch_name: Mymensingh Main Branch
+  branch_address: Mymensingh
+  branch_code: '203'
+  city: Mymensingh
+  country: Bangladesh
+- name: Pubali Bank Limited
+  swift: PUBABDDH204
+  swift8: PUBABDDH
+  branch_name: Agrabad Branch
+  branch_address: 99, Agrabad C/a 4100 Chittagong
+  branch_code: '204'
+  city: Chittagong
+  country: Bangladesh
+- name: Pubali Bank Limited
+  swift: PUBABDDH205
+  swift8: PUBABDDH
+  branch_name: Khatungonj Branch
+  branch_address: Chittagong
+  branch_code: '205'
+  city: Chittagong
+  country: Bangladesh
+- name: Pubali Bank Limited
+  swift: PUBABDDH206
+  swift8: PUBABDDH
+  branch_name: Cda Branch
+  branch_address: Cda Building 4000 Chittagong
+  branch_code: '206'
+  city: Chittagong
+  country: Bangladesh
+- name: Pubali Bank Limited
+  swift: PUBABDDH207
+  swift8: PUBABDDH
+  branch_name: Laldighi East Branch
+  branch_address: Laldighi East Chittagong
+  branch_code: '207'
+  city: Chittagong
+  country: Bangladesh
+- name: Pubali Bank Limited
+  swift: PUBABDDH208
+  swift8: PUBABDDH
+  branch_name: Sylhet Main Branch
+  branch_address: Sylhet
+  branch_code: '208'
+  city: Sylhet
+  country: Bangladesh
+- name: Pubali Bank Limited
+  swift: PUBABDDH209
+  swift8: PUBABDDH
+  branch_name: Comilla Branch
+  branch_address: Kandirpar 3500 Comilla
+  branch_code: '209'
+  city: Comilla
+  country: Bangladesh
+- name: Pubali Bank Limited
+  swift: PUBABDDH210
+  swift8: PUBABDDH
+  branch_name: Panthapath Branch
+  branch_address: Haque Chamber (1st Floor) 1215 Dhaka
+  branch_code: '210'
+  city: Dhaka
+  country: Bangladesh
+- name: Pubali Bank Limited
+  swift: PUBABDDH211
+  swift8: PUBABDDH
+  branch_name: Khulna Main Branch
+  branch_address: Khulna
+  branch_code: '211'
+  city: Khulna
+  country: Bangladesh
+- name: Pubali Bank Limited
+  swift: PUBABDDH212
+  swift8: PUBABDDH
+  branch_name: Barisal Branch
+  branch_address: 18, K.B. Hemayetuddin Road Barisal
+  branch_code: '212'
+  city: Barisal
+  country: Bangladesh
+- name: Pubali Bank Limited
+  swift: PUBABDDH213
+  swift8: PUBABDDH
+  branch_name: Rajshahi Branch
+  branch_address: Rajshahi
+  branch_code: '213'
+  city: Rajshahi
+  country: Bangladesh
+- name: Rupali Bank Ltd
+  swift: RUPBBDDHAGC
+  swift8: RUPBBDDH
+  branch_name: Agrabad Branch
+  branch_address: Siason House 4000 Chittagong
+  branch_code: AGC
+  city: Chittagong
+  country: Bangladesh
+- name: Rupali Bank Ltd
+  swift: RUPBBDDHDPK
+  swift8: RUPBBDDH
+  branch_name: 9202 Khulna
+  branch_address: 718/1, 9202 Khulna
+  branch_code: DPK
+  city: Khulna
+  country: Bangladesh
+- name: Rupali Bank Ltd
+  swift: RUPBBDDHJRD
+  swift8: RUPBBDDH
+  branch_name: Johnson Road Branch
+  branch_address: 51 North Brooke Hall Road 1100 Dhaka
+  branch_code: JRD
+  city: Dhaka
+  country: Bangladesh
+- name: Rupali Bank Ltd
+  swift: RUPBBDDHLOD
+  swift8: RUPBBDDH
+  branch_name: Local Office, Dhaka
+  branch_address: Rupali Bhaban 0719 Dhaka
+  branch_code: LOD
+  city: Dhaka
+  country: Bangladesh
+- name: Rupali Bank Ltd
+  swift: RUPBBDDHMBS
+  swift8: RUPBBDDH
+  branch_name: Mira Bazar Branch
+  branch_address: Rupali Sadan Buidling 3100 Sylhet
+  branch_code: MBS
+  city: Sylhet
+  country: Bangladesh
+- name: Rupali Bank Ltd
+  swift: RUPBBDDHMCD
+  swift8: RUPBBDDH
+  branch_name: Motijheel Corporate Branch
+  branch_address: 59, Motjheel C/a 1000 Dhaka
+  branch_code: MCD
+  city: Dhaka
+  country: Bangladesh
+- name: Rupali Bank Ltd
+  swift: RUPBBDDHMFD
+  swift8: RUPBBDDH
+  branch_name: Mitford Branch
+  branch_address: 94, Chawk Mugultoly 1211 Dhaka
+  branch_code: MFD
+  city: Dhaka
+  country: Bangladesh
+- name: Rupali Bank Ltd
+  swift: RUPBBDDHPPD
+  swift8: RUPBBDDH
+  branch_name: Purana Paltan Corporate Branch
+  branch_address: Farhan-Moni Singh Buidling 1000 Dhaka
+  branch_code: PPD
+  city: Dhaka
+  country: Bangladesh
+- name: Rupali Bank Ltd
+  swift: RUPBBDDHRBD
+  swift8: RUPBBDDH
+  branch_name: Ramna Corporate Branch
+  branch_address: 13, Bangabandhu Avenue 1000 Dhaka
+  branch_code: RBD
+  city: Dhaka
+  country: Bangladesh
+- name: Rupali Bank Ltd
+  swift: RUPBBDDHREM
+  swift8: RUPBBDDH
+  branch_name: Remittance Division
+  branch_address: Rupali Bhaban, 1000 Dhaka
+  branch_code: REM
+  city: Dhaka
+  country: Bangladesh
+- name: Rupali Bank Ltd
+  swift: RUPBBDDHRFB
+  swift8: RUPBBDDH
+  branch_name: Foreign Exchange Corporate Branch, Dhaka
+  branch_address: 9/G, Motijheel Commercial Area 1000 Dhaka
+  branch_code: RFB
+  city: Dhaka
+  country: Bangladesh
+- name: Rupali Bank Ltd
+  swift: RUPBBDDHRSC
+  swift8: RUPBBDDH
+  branch_name: Rupali Sadan Branch, Chittagong
+  branch_address: Rupali Sadan Chittagong Chittagong
+  branch_code: RSC
+  city: Chittagong
+  country: Bangladesh
+- name: Rupali Bank Ltd
+  swift: RUPBBDDHRSD
+  swift8: RUPBBDDH
+  branch_name: Rupali Sadan Corporate Branch
+  branch_address: 156-157 Rupali Sadan 1000 Dhaka
+  branch_code: RSD
+  city: Dhaka
+  country: Bangladesh
+- name: Rupali Bank Ltd
+  swift: RUPBBDDHSBK
+  swift8: RUPBBDDH
+  branch_name: Shams-Building Branch, Khulna
+  branch_address: Shams-Building Khulna
+  branch_code: SBK
+  city: Khulna
+  country: Bangladesh
+- name: Rupali Bank Ltd
+  swift: RUPBBDDHSBR
+  swift8: RUPBBDDH
+  branch_name: Shaheb Bazar Branch
+  branch_address: Fahmida Bhaban, Ghoramara 6100 Rajshahi
+  branch_code: SBR
+  city: Rajshahi
+  country: Bangladesh
+- name: Rupali Bank Ltd
+  swift: RUPBBDDHSKN
+  swift8: RUPBBDDH
+  branch_name: Shaista Khan Road S K Road Branch, Narayangonj
+  branch_address: 32, S. K. Road Narayanganj
+  branch_code: SKN
+  city: Narayanganj
+  country: Bangladesh
+- name: Rupali Bank Ltd
+  swift: RUPBBDDHTCB
+  swift8: RUPBBDDH
+  branch_name: Tcb Bhaban Branch
+  branch_address: Tcb Building 1215 Dhaka
+  branch_code: TCB
+  city: Dhaka
+  country: Bangladesh
+- name: Rupali Bank Ltd
+  swift: RUPBBDDHTRB
+  swift8: RUPBBDDH
+  branch_name: Thana Road Branch
+  branch_address: Dr. Yasin Plaza 5800 Bogra
+  branch_code: TRB
+  city: Bogra
+  country: Bangladesh
+- name: Rupali Bank Ltd
+  swift: RUPBBDDHXXX
+  swift8: RUPBBDDH
+  branch_name: Head Office
+  branch_address: Rupali Bhaban 1000 Dhaka
+  branch_code: XXX
+  city: Dhaka
+  country: Bangladesh
+- name: Sar Securities Ltd
+  swift: SEROBDD1XXX
+  swift8: SEROBDD1
+  branch_name: Head Office
+  branch_address: Dse Building 1000 Dhaka
+  branch_code: XXX
+  city: Dhaka
+  country: Bangladesh
+- name: Scl Securities Limited
+  swift: SCSOBDD1XXX
+  swift8: SCSOBDD1
+  branch_name: Head Office
+  branch_address: Modhumita Building 1000 Dhaka
+  branch_code: XXX
+  city: Dhaka
+  country: Bangladesh
+- name: Ses Co. Ltd.
+  swift: SESEBDD1XXX
+  swift8: SESEBDD1
+  branch_name: Head Office
+  branch_address: Anchor Tower 1205 Dhaka
+  branch_code: XXX
+  city: Dhaka
+  country: Bangladesh
+- name: Ses Company Limited
+  swift: SEOFBDD1XXX
+  swift8: SEOFBDD1
+  branch_name: Head Office
+  branch_address: Sonartori Tower 1000 Dhaka
+  branch_code: XXX
+  city: Dhaka
+  country: Bangladesh
+- name: Shahjalal Islami Bank Limited
+  swift: SJBLBDD1KWR
+  swift8: SJBLBDD1
+  branch_name: Kawran Bazar Branch
+  branch_address: T K Bhaban Dhaka
+  branch_code: KWR
+  city: Dhaka
+  country: Bangladesh
+- name: Shahjalal Islami Bank Limited
+  swift: SJBLBDDHAGB
+  swift8: SJBLBDDH
+  branch_name: Agrabad Branch
+  branch_address: 104 Agrabad C/a Chittagong
+  branch_code: AGB
+  city: Chittagong
+  country: Bangladesh
+- name: Shahjalal Islami Bank Limited
+  swift: SJBLBDDHBAN
+  swift8: SJBLBDDH
+  branch_name: Banani Branch
+  branch_address: Dhaka
+  branch_code: BAN
+  city: Dhaka
+  country: Bangladesh
+- name: Shahjalal Islami Bank Limited
+  swift: SJBLBDDHBNA
+  swift8: SJBLBDDH
+  branch_name: Banani
+  branch_address: Dhaka
+  branch_code: BNA
+  city: Dhaka
+  country: Bangladesh
+- name: Shahjalal Islami Bank Limited
+  swift: SJBLBDDHBNG
+  swift8: SJBLBDDH
+  branch_name: Bangshal Branch
+  branch_address: 215/1, Bangshal Road 1100 Dhaka
+  branch_code: BNG
+  city: Dhaka
+  country: Bangladesh
+- name: Shahjalal Islami Bank Limited
+  swift: SJBLBDDHCPC
+  swift8: SJBLBDDH
+  branch_name: 2-B Gulshan South Avenue 4th Floor
+  branch_address: Dhaka
+  branch_code: CPC
+  city: Dhaka
+  country: Bangladesh
+- name: Shahjalal Islami Bank Limited
+  swift: SJBLBDDHDHN
+  swift8: SJBLBDDH
+  branch_name: Dhanmondi Branch
+  branch_address: Road4, Dhanmondi 1205 Dhaka
+  branch_code: DHN
+  city: Dhaka
+  country: Bangladesh
+- name: Shahjalal Islami Bank Limited
+  swift: SJBLBDDHDMB
+  swift8: SJBLBDDH
+  branch_name: Dhaka Main Branch
+  branch_address: 58 Dilkusha C/a 1000 Dhaka
+  branch_code: DMB
+  city: Dhaka
+  country: Bangladesh
+- name: Shahjalal Islami Bank Limited
+  swift: SJBLBDDHESK
+  swift8: SJBLBDDH
+  branch_name: Eskaton Fantasia
+  branch_address: 122 and 123, New Eskaton Dhaka
+  branch_code: ESK
+  city: Dhaka
+  country: Bangladesh
+- name: Shahjalal Islami Bank Limited
+  swift: SJBLBDDHFEX
+  swift8: SJBLBDDH
+  branch_name: Foreign Exchange Branch
+  branch_address: Karim Chamber 1000 Dhaka
+  branch_code: FEX
+  city: Dhaka
+  country: Bangladesh
+- name: Shahjalal Islami Bank Limited
+  swift: SJBLBDDHGUL
+  swift8: SJBLBDDH
+  branch_name: Gulshan Branch
+  branch_address: Road 32, Gulshan 1212 Dhaka
+  branch_code: GUL
+  city: Dhaka
+  country: Bangladesh
+- name: Shahjalal Islami Bank Limited
+  swift: SJBLBDDHJSR
+  swift8: SJBLBDDH
+  branch_name: Jessore
+  branch_address: 'Holding No: 91, M.K. Road, Kotawaly Jessore'
+  branch_code: JSR
+  city: Jessore
+  country: Bangladesh
+- name: Shahjalal Islami Bank Limited
+  swift: SJBLBDDHJUB
+  swift8: SJBLBDDH
+  branch_name: Chittagong
+  branch_address: Hoque Tower Chittagong
+  branch_code: JUB
+  city: Chittagong
+  country: Bangladesh
+- name: Shahjalal Islami Bank Limited
+  swift: SJBLBDDHKAW
+  swift8: SJBLBDDH
+  branch_name: T K Bhaban
+  branch_address: Tk Bhaban Dhaka
+  branch_code: KAW
+  city: Dhaka
+  country: Bangladesh
+- name: Shahjalal Islami Bank Limited
+  swift: SJBLBDDHKHU
+  swift8: SJBLBDDH
+  branch_name: Khulna
+  branch_address: Khulna
+  branch_code: KHU
+  city: Khulna
+  country: Bangladesh
+- name: Shahjalal Islami Bank Limited
+  swift: SJBLBDDHKLN
+  swift8: SJBLBDDH
+  branch_name: Khulna Branch
+  branch_address: Khulna
+  branch_code: KLN
+  city: Khulna
+  country: Bangladesh
+- name: Shahjalal Islami Bank Limited
+  swift: SJBLBDDHKTG
+  swift8: SJBLBDDH
+  branch_name: Khatunganj Branch
+  branch_address: 94-95 Khatunganj Chittagong
+  branch_code: KTG
+  city: Chittagong
+  country: Bangladesh
+- name: Shahjalal Islami Bank Limited
+  swift: SJBLBDDHMFB
+  swift8: SJBLBDDH
+  branch_name: Mitford Branch
+  branch_address: 173-174 Mitford Road 1211 Dhaka
+  branch_code: MFB
+  city: Dhaka
+  country: Bangladesh
+- name: Shahjalal Islami Bank Limited
+  swift: SJBLBDDHMOT
+  swift8: SJBLBDDH
+  branch_name: Karim Chamber
+  branch_address: Karim Chamber 1000 Dhaka
+  branch_code: MOT
+  city: Dhaka
+  country: Bangladesh
+- name: Shahjalal Islami Bank Limited
+  swift: SJBLBDDHNGJ
+  swift8: SJBLBDDH
+  branch_name: Narayanganj Branch
+  branch_address: Osman Tower Dhaka
+  branch_code: NGJ
+  city: Dhaka
+  country: Bangladesh
+- name: Shajalal Bank
+  swift: SHAJBDD1XXX
+  swift8: SHAJBDD1
+  branch_name: Head Office
+  branch_address: Dhaka
+  branch_code: XXX
+  city: Dhaka
+  country: Bangladesh
+- name: Social Islami Bank Limited
+  swift: SOIVBDDHAGB
+  swift8: SOIVBDDH
+  branch_name: Agrabad Branch, Chittagong
+  branch_address: 103 Agrabad C/a Chittagong
+  branch_code: AGB
+  city: Chittagong
+  country: Bangladesh
+- name: Social Islami Bank Limited
+  swift: SOIVBDDHBAN
+  swift8: SOIVBDDH
+  branch_name: Banani
+  branch_address: 48 Kamal Attaturk Avenue Dhaka-1213 Dhaka
+  branch_code: BAN
+  city: Dhaka
+  country: Bangladesh
+- name: Social Islami Bank Limited
+  swift: SOIVBDDHBBR
+  swift8: SOIVBDDH
+  branch_name: Babubazar Branch, Dhaka
+  branch_address: Sultana Super Market Dhaka
+  branch_code: BBR
+  city: Dhaka
+  country: Bangladesh
+- name: Social Islami Bank Limited
+  swift: SOIVBDDHBOG
+  swift8: SOIVBDDH
+  branch_name: Bogra Branch, Bogra
+  branch_address: Tin Potty, Borogola Bogra
+  branch_code: BOG
+  city: Bogra
+  country: Bangladesh
+- name: Social Islami Bank Limited
+  swift: SOIVBDDHCTP
+  swift8: SOIVBDDH
+  branch_name: Centralized Trade Processing Unit Ctpu
+  branch_address: 15 Dilkusha C/a Dhaka-1000 Dhaka
+  branch_code: CTP
+  city: Dhaka
+  country: Bangladesh
+- name: Social Islami Bank Limited
+  swift: SOIVBDDHGUL
+  swift8: SOIVBDDH
+  branch_name: Gulshan Branch, Dhaka
+  branch_address: 106 Gulshan Avenue Dhaka
+  branch_code: GUL
+  city: Dhaka
+  country: Bangladesh
+- name: Social Islami Bank Limited
+  swift: SOIVBDDHJUB
+  swift8: SOIVBDDH
+  branch_name: Jubilee Road
+  branch_address: Haque Marker(1st Floor) Chittagong Chittagong
+  branch_code: JUB
+  city: Chittagong Chittagong
+  country: Bangladesh
+- name: Social Islami Bank Limited
+  swift: SOIVBDDHKHU
+  swift8: SOIVBDDH
+  branch_name: Khulna Branch
+  branch_address: 2 Sir Iqbal Road Khulna
+  branch_code: KHU
+  city: Khulna
+  country: Bangladesh
+- name: Social Islami Bank Limited
+  swift: SOIVBDDHKTJ
+  swift8: SOIVBDDH
+  branch_name: Khatungonj Branch
+  branch_address: 96 Khatungonj Chittagong
+  branch_code: KTJ
+  city: Chittagong
+  country: Bangladesh
+- name: Social Islami Bank Limited
+  swift: SOIVBDDHMVR
+  swift8: SOIVBDDH
+  branch_name: Moulvibazar Branch, Dhaka
+  branch_address: Wahid Center Dhaka
+  branch_code: MVR
+  city: Dhaka
+  country: Bangladesh
+- name: Social Islami Bank Limited
+  swift: SOIVBDDHNGJ
+  swift8: SOIVBDDH
+  branch_name: Narayanganj
+  branch_address: 3 S. M. Maleh Road, Tanbazar 1400 Narayanganj
+  branch_code: NGJ
+  city: Narayanganj
+  country: Bangladesh
+- name: Social Islami Bank Limited
+  swift: SOIVBDDHOBU
+  swift8: SOIVBDDH
+  branch_name: Offshore Banking Unit
+  branch_address: 48 Kemal Attaturk Avenue Dhaka-1213 Dhaka
+  branch_code: OBU
+  city: Dhaka
+  country: Bangladesh
+- name: Social Islami Bank Limited
+  swift: SOIVBDDHPRN
+  swift8: SOIVBDDH
+  branch_name: Principal Branch, Dhaka
+  branch_address: 15 Dilkusha C/a Dhaka
+  branch_code: PRN
+  city: Dhaka
+  country: Bangladesh
+- name: Social Islami Bank Limited
+  swift: SOIVBDDHRAJ
+  swift8: SOIVBDDH
+  branch_name: Rajshahi Branch
+  branch_address: 219 Shaheb Bazar Main Road Rajshahi
+  branch_code: RAJ
+  city: Rajshahi
+  country: Bangladesh
+- name: Social Islami Bank Limited
+  swift: SOIVBDDHSYL
+  swift8: SOIVBDDH
+  branch_name: Sylhet Branch
+  branch_address: Central Plaza Sylhet
+  branch_code: SYL
+  city: Sylhet
+  country: Bangladesh
+- name: Social Islami Bank Limited
+  swift: SOIVBDDHXXX
+  swift8: SOIVBDDH
+  branch_name: Head Office
+  branch_address: 15 Dilkusha Commercial Area 1000 Dhaka
+  branch_code: XXX
+  city: Dhaka
+  country: Bangladesh
+- name: Sonali Bank Limited
+  swift: BSONBDDHAGR
+  swift8: BSONBDDH
+  branch_name: Agrabad Corporate Branch, Chittagong
+  branch_address: Seikh Mujib Road 4100 Chittagong
+  branch_code: AGR
+  city: Chittagong
+  country: Bangladesh
+- name: Sonali Bank Limited
+  swift: BSONBDDHBBA
+  swift8: BSONBDDH
+  branch_name: Banga Bandhu Avenue Corporate Branch
+  branch_address: 28 Banga Bandhu Avenue 1000 Dhaka
+  branch_code: BBA
+  city: Dhaka
+  country: Bangladesh
+- name: Sonali Bank Limited
+  swift: BSONBDDHBHT
+  swift8: BSONBDDH
+  branch_name: Sonali Bank Limited, Bahaddarhat Branch, Chittagong
+  branch_address: Chittagong
+  branch_code: BHT
+  city: Chittagong
+  country: Bangladesh
+- name: Sonali Bank Limited
+  swift: BSONBDDHBOG
+  swift8: BSONBDDH
+  branch_name: Corporate Branch Bogra
+  branch_address: Bogra Main Road 5800 Bogra
+  branch_code: BOG
+  city: Bogra
+  country: Bangladesh
+- name: Sonali Bank Limited
+  swift: BSONBDDHBRM
+  swift8: BSONBDDH
+  branch_name: Brahmanbaria Br
+  branch_address: Brahmanbaria
+  branch_code: BRM
+  city: Brahmanbaria
+  country: Bangladesh
+- name: Sonali Bank Limited
+  swift: BSONBDDHBWP
+  swift8: BSONBDDH
+  branch_name: B Wapda Bhaban Corporate Branch, Motijheel
+  branch_address: Bwapda Bhaban 1000 Dhaka
+  branch_code: BWP
+  city: Dhaka
+  country: Bangladesh
+- name: Sonali Bank Limited
+  swift: BSONBDDHCCB
+  swift8: BSONBDDH
+  branch_name: Comilla Corporate Br
+  branch_address: Sonali Bank Limited Comilla
+  branch_code: CCB
+  city: Comilla
+  country: Bangladesh
+- name: Sonali Bank Limited
+  swift: BSONBDDHCHP
+  swift8: BSONBDDH
+  branch_name: Chapai Nawabgonj Br
+  branch_address: Chapainawabganj
+  branch_code: CHP
+  city: Chapainawabganj
+  country: Bangladesh
+- name: Sonali Bank Limited
+  swift: BSONBDDHCNT
+  swift8: BSONBDDH
+  branch_name: Cantonment Corporate Branch
+  branch_address: Dhaka Cantonment Road 1206 Dhaka
+  branch_code: CNT
+  city: Dhaka
+  country: Bangladesh
+- name: Sonali Bank Limited
+  swift: BSONBDDHCTG
+  swift8: BSONBDDH
+  branch_name: Laldighi Corporate Branch
+  branch_address: Sonali Bank Limited Bhaban 4000 Chittagong
+  branch_code: CTG
+  city: Chittagong
+  country: Bangladesh
+- name: Sonali Bank Limited
+  swift: BSONBDDHCTK
+  swift8: BSONBDDH
+  branch_name: Sonali Bank Limited, Chhatak Branch, Sunamganj
+  branch_address: Sunamganj
+  branch_code: CTK
+  city: Sunamganj
+  country: Bangladesh
+- name: Sonali Bank Limited
+  swift: BSONBDDHCWK
+  swift8: BSONBDDH
+  branch_name: Chowk Bazar Br
+  branch_address: Sonali Bank Limited 1100 Dhaka
+  branch_code: CWK
+  city: Dhaka
+  country: Bangladesh
+- name: Sonali Bank Limited
+  swift: BSONBDDHDAU
+  swift8: BSONBDDH
+  branch_name: Daulatpur Corporate Branch
+  branch_address: Khan A. Sabur Road 7000 Khulna
+  branch_code: DAU
+  city: Khulna
+  country: Bangladesh
+- name: Sonali Bank Limited
+  swift: BSONBDDHDGT
+  swift8: BSONBDDH
+  branch_name: Dargagate Corporate Branch, Dargagate
+  branch_address: Air Port Road 3100 Sylhet
+  branch_code: DGT
+  city: Sylhet
+  country: Bangladesh
+- name: Sonali Bank Limited
+  swift: BSONBDDHDHN
+  swift8: BSONBDDH
+  branch_name: Dhanmondi Branch
+  branch_address: Bhaban House 1205 Dhaka
+  branch_code: DHN
+  city: Dhaka
+  country: Bangladesh
+- name: Sonali Bank Limited
+  swift: BSONBDDHDIL
+  swift8: BSONBDDH
+  branch_name: Dilkusha Corporate Branch, Dhaka
+  branch_address: 5 Dilkusha Commercial Area 1000 Dhaka
+  branch_code: DIL
+  city: Dhaka
+  country: Bangladesh
+- name: Sonali Bank Limited
+  swift: BSONBDDHDNJ
+  swift8: BSONBDDH
+  branch_name: Corporate Branch Dinajpur
+  branch_address: Main Road 5200 Dinajpur
+  branch_code: DNJ
+  city: Dinajpur
+  country: Bangladesh
+- name: Sonali Bank Limited
+  swift: BSONBDDHFCD
+  swift8: BSONBDDH
+  branch_name: Foreign Currency Management Division, Head Office
+  branch_address: Sonali Bank Bhaban 1000 Dhaka
+  branch_code: FCD
+  city: Dhaka
+  country: Bangladesh
+- name: Sonali Bank Limited
+  swift: BSONBDDHFEB
+  swift8: BSONBDDH
+  branch_name: Foreign Exchange Corporate Branch
+  branch_address: 11/2 Toyeenbi Circular Road 1000 Dhaka
+  branch_code: FEB
+  city: Dhaka
+  country: Bangladesh
+- name: Sonali Bank Limited
+  swift: BSONBDDHGRN
+  swift8: BSONBDDH
+  branch_name: Green Road Br
+  branch_address: Dhaka
+  branch_code: GRN
+  city: Dhaka
+  country: Bangladesh
+- name: South Bangla Agriculture And Commerce Bank Limited
+  swift: SBACBDDHXXX
+  swift8: SBACBDDH
+  branch_name: No branch name
+  branch_address: No branch address
+  branch_code: XXX
+  city: Dhaka
+  country: Bangladesh
+- name: Southeast Bank Limited
+  swift: SEBDBDDHAGA
+  swift8: SEBDBDDH
+  branch_name: Agargaon Branch
+  branch_address: Agargaon Admn. Area 1207 Dhaka
+  branch_code: AGA
+  city: Dhaka
+  country: Bangladesh
+- name: Southeast Bank Limited
+  swift: SEBDBDDHAGR
+  swift8: SEBDBDDH
+  branch_name: Agrabad Branch, Chittagong
+  branch_address: Jahan Building Chittagong
+  branch_code: AGR
+  city: Chittagong
+  country: Bangladesh
+- name: Southeast Bank Limited
+  swift: SEBDBDDHBAN
+  swift8: SEBDBDDH
+  branch_name: Banani Branch
+  branch_address: Plot 71, Block B 1213 Dhaka
+  branch_code: BAN
+  city: Dhaka
+  country: Bangladesh
+- name: Southeast Bank Limited
+  swift: SEBDBDDHBNG
+  swift8: SEBDBDDH
+  branch_name: Bangshal Branch, Dhaka
+  branch_address: 14/3 North South Road 1100 Dhaka
+  branch_code: BNG
+  city: Dhaka
+  country: Bangladesh
+- name: Southeast Bank Limited
+  swift: SEBDBDDHCDA
+  swift8: SEBDBDDH
+  branch_name: Cda Avenue Branch
+  branch_address: Ali Villa Chittagong
+  branch_code: CDA
+  city: Chittagong
+  country: Bangladesh
+- name: Southeast Bank Limited
+  swift: SEBDBDDHCRP
+  swift8: SEBDBDDH
+  branch_name: Corporate Branch
+  branch_address: Plot 52-53, Dilkusha C/a 1000 Dhaka
+  branch_code: CRP
+  city: Dhaka
+  country: Bangladesh
+- name: Southeast Bank Limited
+  swift: SEBDBDDHDHN
+  swift8: SEBDBDDH
+  branch_name: Dhanmondi Branch, Dhaka
+  branch_address: Road No. 11(New) 1205 Dhaka
+  branch_code: DHN
+  city: Dhaka
+  country: Bangladesh
+- name: Southeast Bank Limited
+  swift: SEBDBDDHESK
+  swift8: SEBDBDDH
+  branch_name: New Eskaton Branch
+  branch_address: 23/Ka, New Eskaton Road 1000 Dhaka
+  branch_code: ESK
+  city: Dhaka
+  country: Bangladesh
+- name: Southeast Bank Limited
+  swift: SEBDBDDHGUL
+  swift8: SEBDBDDH
+  branch_name: Gulshan Branch, Dhaka
+  branch_address: 1 Gulshan Avenue 1212 Dhaka
+  branch_code: GUL
+  city: Dhaka
+  country: Bangladesh
+- name: Southeast Bank Limited
+  swift: SEBDBDDHIMG
+  swift8: SEBDBDDH
+  branch_name: Imamganj Branch, Dhaka
+  branch_address: Bhuiyan Market 1100 Dhaka
+  branch_code: IMG
+  city: Dhaka
+  country: Bangladesh
+- name: Southeast Bank Limited
+  swift: SEBDBDDHJUB
+  swift8: SEBDBDDH
+  branch_name: Jubilee Road Branch, Chittagong
+  branch_address: Haji Golam Rasul Market Chittagong
+  branch_code: JUB
+  city: Chittagong
+  country: Bangladesh
+- name: Southeast Bank Limited
+  swift: SEBDBDDHKLN
+  swift8: SEBDBDDH
+  branch_name: Khulna Branch
+  branch_address: 155 Sir Iqbal Road Khulna
+  branch_code: KLN
+  city: Khulna
+  country: Bangladesh
+- name: Southeast Bank Limited
+  swift: SEBDBDDHKRN
+  swift8: SEBDBDDH
+  branch_name: Karwan Bazar Branch
+  branch_address: Pragati-Rpr Centre 1215 Dhaka
+  branch_code: KRN
+  city: Dhaka
+  country: Bangladesh
+- name: Southeast Bank Limited
+  swift: SEBDBDDHKTG
+  swift8: SEBDBDDH
+  branch_name: Khatunganj Branch, Chittagong
+  branch_address: 410/411 Khatunganj Chittagong
+  branch_code: KTG
+  city: Chittagong
+  country: Bangladesh
+- name: Southeast Bank Limited
+  swift: SEBDBDDHLDP
+  swift8: SEBDBDDH
+  branch_name: Laldighirpar Branch, Sylhet
+  branch_address: 1778/1779 New Market Sylhet
+  branch_code: LDP
+  city: Sylhet
+  country: Bangladesh
+- name: Southeast Bank Limited
+  swift: SEBDBDDHMIB
+  swift8: SEBDBDDH
+  branch_name: Motijheel Branch Islamic Banking
+  branch_address: 125, Motijheel C/a 1000 Dhaka
+  branch_code: MIB
+  city: Dhaka
+  country: Bangladesh
+- name: Southeast Bank Limited
+  swift: SEBDBDDHNAR
+  swift8: SEBDBDDH
+  branch_name: Narayanganj Branch
+  branch_address: House 26-29 Narayanganj
+  branch_code: NAR
+  city: Narayanganj
+  country: Bangladesh
+- name: Southeast Bank Limited
+  swift: SEBDBDDHNER
+  swift8: SEBDBDDH
+  branch_name: New Elephant Road Branch
+  branch_address: 39, New Elephant Road, Kazi 1205 Dhaka
+  branch_code: NER
+  city: Dhaka
+  country: Bangladesh
+- name: Southeast Bank Limited
+  swift: SEBDBDDHOBC
+  swift8: SEBDBDDH
+  branch_name: Off-Shore Banking Unit Obu, Cepz
+  branch_address: Zone Service Complex 4223 Chittagong
+  branch_code: OBC
+  city: Chittagong
+  country: Bangladesh
+- name: Southeast Bank Limited
+  swift: SEBDBDDHOBU
+  swift8: SEBDBDDH
+  branch_name: Dhaka
+  branch_address: Building-1 Dhaka
+  branch_code: OBU
+  city: Dhaka
+  country: Bangladesh
+- name: Standard Bank Limited
+  swift: SDBLBDDH102
+  swift8: SDBLBDDH
+  branch_name: Principal Branch
+  branch_address: Chamber Building 1000 Dhaka
+  branch_code: '102'
+  city: Dhaka
+  country: Bangladesh
+- name: Standard Bank Limited
+  swift: SDBLBDDH103
+  swift8: SDBLBDDH
+  branch_name: Khatungonj Branch
+  branch_address: 33 Ramjoy Mohajon Lane Chittagong
+  branch_code: '103'
+  city: Chittagong
+  country: Bangladesh
+- name: Standard Bank Limited
+  swift: SDBLBDDH104
+  swift8: SDBLBDDH
+  branch_name: Imamgonj Branch
+  branch_address: Bellal Market Dhaka
+  branch_code: '104'
+  city: Dhaka
+  country: Bangladesh
+- name: Standard Bank Limited
+  swift: SDBLBDDH105
+  swift8: SDBLBDDH
+  branch_name: Topkhana Road
+  branch_address: 36 Topkhana Road Dhaka
+  branch_code: '105'
+  city: Dhaka
+  country: Bangladesh
+- name: Standard Bank Limited
+  swift: SDBLBDDH107
+  swift8: SDBLBDDH
+  branch_name: Agrabad Branch
+  branch_address: Hossen Chamber Chittagong
+  branch_code: '107'
+  city: Chittagong
+  country: Bangladesh
+- name: Standard Bank Limited
+  swift: SDBLBDDH108
+  swift8: SDBLBDDH
+  branch_name: Khulna Branch
+  branch_address: Chamber Building Khulna
+  branch_code: '108'
+  city: Khulna
+  country: Bangladesh
+- name: Standard Bank Limited
+  swift: SDBLBDDH109
+  swift8: SDBLBDDH
+  branch_name: Gulshan Branch
+  branch_address: 4/a Kamal Ataturk Avenue Dhaka
+  branch_code: '109'
+  city: Dhaka
+  country: Bangladesh
+- name: Standard Bank Limited
+  swift: SDBLBDDH110
+  swift8: SDBLBDDH
+  branch_name: Sylhet Branch
+  branch_address: No branch address
+  branch_code: '110'
+  city: Sylhet
+  country: Bangladesh
+- name: Standard Bank Limited
+  swift: SDBLBDDH112
+  swift8: SDBLBDDH
+  branch_name: Jubilee Road Branch
+  branch_address: 6 Noor Ahmed Road Chittagong
+  branch_code: '112'
+  city: Chittagong
+  country: Bangladesh
+- name: Standard Bank Limited
+  swift: SDBLBDDH113
+  swift8: SDBLBDDH
+  branch_name: Foreign Ex Branch
+  branch_address: 81 Motijheel C/a 1000 Dhaka
+  branch_code: '113'
+  city: Dhaka
+  country: Bangladesh
+- name: Standard Bank Limited
+  swift: SDBLBDDH114
+  swift8: SDBLBDDH
+  branch_name: Dhanmondi Branch
+  branch_address: House 4 1209 Dhaka
+  branch_code: '114'
+  city: Dhaka
+  country: Bangladesh
+- name: Standard Bank Limited
+  swift: SDBLBDDH115
+  swift8: SDBLBDDH
+  branch_name: Uttara Model Town Branch
+  branch_address: Pl 113/C, Rd-7, Sec-4 1000 Dhaka
+  branch_code: '115'
+  city: Dhaka
+  country: Bangladesh
+- name: Standard Bank Limited
+  swift: SDBLBDDH116
+  swift8: SDBLBDDH
+  branch_name: Narayangonj Branch
+  branch_address: Khan Super Market 1400 Dhaka
+  branch_code: '116'
+  city: Dhaka
+  country: Bangladesh
+- name: Standard Bank Limited
+  swift: SDBLBDDH117
+  swift8: SDBLBDDH
+  branch_name: Gulshan-1 Branch
+  branch_address: Uday Tower 1212 Dhaka
+  branch_code: '117'
+  city: Dhaka
+  country: Bangladesh
+- name: Standard Bank Limited
+  swift: SDBLBDDH118
+  swift8: SDBLBDDH
+  branch_name: Dhaka
+  branch_address: 77 Bir Uttam C R Dutta Road Dhaka
+  branch_code: '118'
+  city: Dhaka
+  country: Bangladesh
+- name: Standard Bank Limited
+  swift: SDBLBDDH119
+  swift8: SDBLBDDH
+  branch_name: Banani Branch
+  branch_address: 106, Road No. 11 Dhaka
+  branch_code: '119'
+  city: Dhaka
+  country: Bangladesh
+- name: Standard Bank Limited
+  swift: SDBLBDDH120
+  swift8: SDBLBDDH
+  branch_name: Mirpur Branch
+  branch_address: Northern Lions R.P. Tower(1st Fl.) 1216 Dhaka
+  branch_code: '120'
+  city: Dhaka
+  country: Bangladesh
+- name: Standard Bank Limited
+  swift: SDBLBDDHXXX
+  swift8: SDBLBDDH
+  branch_name: Head Office
+  branch_address: Chamber Building 1000 Dhaka
+  branch_code: XXX
+  city: Dhaka
+  country: Bangladesh
+- name: The Farmers Bank Limited
+  swift: FRMSBDDHXXX
+  swift8: FRMSBDDH
+  branch_name: No branch name
+  branch_address: No branch address
+  branch_code: XXX
+  city: Dhaka
+  country: Bangladesh
+- name: The Premier Bank Limited
+  swift: PRMRBDDHAGR
+  swift8: PRMRBDDH
+  branch_name: Agrabad Branch
+  branch_address: Al Islam Chamber Chittagong
+  branch_code: AGR
+  city: Chittagong
+  country: Bangladesh
+- name: The Premier Bank Limited
+  swift: PRMRBDDHBNN
+  swift8: PRMRBDDH
+  branch_name: Banani Branch
+  branch_address: Dhaka
+  branch_code: BNN
+  city: Dhaka
+  country: Bangladesh
+- name: The Premier Bank Limited
+  swift: PRMRBDDHDHN
+  swift8: PRMRBDDH
+  branch_name: Dhanmondi Branch
+  branch_address: House No. 84 1209 Dhaka
+  branch_code: DHN
+  city: Dhaka
+  country: Bangladesh
+- name: The Premier Bank Limited
+  swift: PRMRBDDHDIL
+  swift8: PRMRBDDH
+  branch_name: Dilkusha Branch
+  branch_address: 44 Dilkusha C/a Dhaka
+  branch_code: DIL
+  city: Dhaka
+  country: Bangladesh
+- name: The Premier Bank Limited
+  swift: PRMRBDDHELE
+  swift8: PRMRBDDH
+  branch_name: Elephant Road Branch
+  branch_address: 248 New Elephant Road 1209 Dhaka
+  branch_code: ELE
+  city: Dhaka
+  country: Bangladesh
+- name: The Premier Bank Limited
+  swift: PRMRBDDHGUL
+  swift8: PRMRBDDH
+  branch_name: Gulshan Branch
+  branch_address: 140 Gulshan Avenue 1212 Dhaka
+  branch_code: GUL
+  city: Dhaka
+  country: Bangladesh
+- name: The Premier Bank Limited
+  swift: PRMRBDDHIMG
+  swift8: PRMRBDDH
+  branch_name: Imamgonj Branch
+  branch_address: 75 Mitford Road Dhaka
+  branch_code: IMG
+  city: Dhaka
+  country: Bangladesh
+- name: The Premier Bank Limited
+  swift: PRMRBDDHKBR
+  swift8: PRMRBDDH
+  branch_name: Kawranbazar Branch
+  branch_address: Progoti Rpr Centre Dhaka
+  branch_code: KBR
+  city: Dhaka
+  country: Bangladesh
+- name: The Premier Bank Limited
+  swift: PRMRBDDHKLN
+  swift8: PRMRBDDH
+  branch_name: Khulna Branch
+  branch_address: 141 Sir Iqbal Road Khulna
+  branch_code: KLN
+  city: Khulna
+  country: Bangladesh
+- name: The Premier Bank Limited
+  swift: PRMRBDDHKTG
+  swift8: PRMRBDDH
+  branch_name: Khatungonj Branch
+  branch_address: Nabi Super Market Chittagong
+  branch_code: KTG
+  city: Chittagong
+  country: Bangladesh
+- name: The Premier Bank Limited
+  swift: PRMRBDDHMHK
+  swift8: PRMRBDDH
+  branch_name: Islami Banking Branch, Mohakhali
+  branch_address: 99 Mohakhali C/a 1212 Dhaka
+  branch_code: MHK
+  city: Dhaka
+  country: Bangladesh
+- name: The Premier Bank Limited
+  swift: PRMRBDDHMTJ
+  swift8: PRMRBDDH
+  branch_name: Motijheel Branch
+  branch_address: 81 Motijheel C/a 1000 Dhaka
+  branch_code: MTJ
+  city: Dhaka
+  country: Bangladesh
+- name: The Premier Bank Limited
+  swift: PRMRBDDHNRG
+  swift8: PRMRBDDH
+  branch_name: Narayangonj Branch
+  branch_address: Sm Maleh Road 53/3 Narayanganj
+  branch_code: NRG
+  city: Narayanganj
+  country: Bangladesh
+- name: The Premier Bank Limited
+  swift: PRMRBDDHUTT
+  swift8: PRMRBDDH
+  branch_name: Uttara Branch
+  branch_address: House No. 39 Dhaka
+  branch_code: UTT
+  city: Dhaka
+  country: Bangladesh
+- name: The Premier Bank Limited
+  swift: PRMRBDDHXXX
+  swift8: PRMRBDDH
+  branch_name: Head Office
+  branch_address: Iqbal Centre 1213 Dhaka
+  branch_code: XXX
+  city: Dhaka
+  country: Bangladesh
+- name: Trust Bank Ltd., The
+  swift: TTBLBDDH002
+  swift8: TTBLBDDH
+  branch_name: Principal Branch
+  branch_address: Trust Bhahban 1206 Dhaka
+  branch_code: '002'
+  city: Dhaka
+  country: Bangladesh
+- name: Trust Bank Ltd., The
+  swift: TTBLBDDH003
+  swift8: TTBLBDDH
+  branch_name: Sena Kalyan Bhaban Branch
+  branch_address: Sena Kalyan Bhaban 1000 Dhaka
+  branch_code: '003'
+  city: Dhaka
+  country: Bangladesh
+- name: Trust Bank Ltd., The
+  swift: TTBLBDDH012
+  swift8: TTBLBDDH
+  branch_name: Agrabad Branch
+  branch_address: Shilpa Bank Bhaban Chittagong
+  branch_code: '012'
+  city: Chittagong
+  country: Bangladesh
+- name: Trust Bank Ltd., The
+  swift: TTBLBDDH014
+  swift8: TTBLBDDH
+  branch_name: Dhanmondi Branch
+  branch_address: Bdr Gate No. 4, Bdr Head Quarter 1205 Dhaka
+  branch_code: '014'
+  city: Dhaka
+  country: Bangladesh
+- name: Trust Bank Ltd., The
+  swift: TTBLBDDH015
+  swift8: TTBLBDDH
+  branch_name: Khatunganj
+  branch_address: 205, Main Road, Khatunganj Chittagong
+  branch_code: '015'
+  city: Chittagong
+  country: Bangladesh
+- name: Trust Bank Ltd., The
+  swift: TTBLBDDH017
+  swift8: TTBLBDDH
+  branch_name: Dilkusha Corporate Branch
+  branch_address: People Insurance Bhaban 1000 Dhaka
+  branch_code: '017'
+  city: Dhaka
+  country: Bangladesh
+- name: Trust Bank Ltd., The
+  swift: TTBLBDDH020
+  swift8: TTBLBDDH
+  branch_name: Cda Avenue Branch
+  branch_address: Elite House Chittagong
+  branch_code: '020'
+  city: Chittagong
+  country: Bangladesh
+- name: Trust Bank Ltd., The
+  swift: TTBLBDDH021
+  swift8: TTBLBDDH
+  branch_name: Sylhet Corporate Branch
+  branch_address: Bma Bhaban Sylhet
+  branch_code: '021'
+  city: Sylhet
+  country: Bangladesh
+- name: Trust Bank Ltd., The
+  swift: TTBLBDDH022
+  swift8: TTBLBDDH
+  branch_name: Millennium Branch
+  branch_address: Bir Shrestha Sheed Jahangir Gate 1206 Dhaka
+  branch_code: '022'
+  city: Dhaka
+  country: Bangladesh
+- name: Trust Bank Ltd., The
+  swift: TTBLBDDH023
+  swift8: TTBLBDDH
+  branch_name: Uttara Corporate Branch
+  branch_address: House No.111/a Dhaka
+  branch_code: '023'
+  city: Dhaka
+  country: Bangladesh
+- name: Trust Bank Ltd., The
+  swift: TTBLBDDH024
+  swift8: TTBLBDDH
+  branch_name: Halishahar Branch
+  branch_address: Holding No. 2030/a (Monirat Plaza) Chittagong
+  branch_code: '024'
+  city: Chittagong
+  country: Bangladesh
+- name: Trust Bank Ltd., The
+  swift: TTBLBDDH030
+  swift8: TTBLBDDH
+  branch_name: Karwan Bazar Branch
+  branch_address: Jenith Tower Dhaka
+  branch_code: '030'
+  city: Dhaka
+  country: Bangladesh
+- name: Trust Bank Ltd., The
+  swift: TTBLBDDH035
+  swift8: TTBLBDDH
+  branch_name: Narayangonj Branch
+  branch_address: 1 Alam Khan Lane Narayanganj
+  branch_code: '035'
+  city: Narayanganj
+  country: Bangladesh
+- name: Trust Bank Ltd., The
+  swift: TTBLBDDH040
+  swift8: TTBLBDDH
+  branch_name: Khulna Branch
+  branch_address: Sena Kalyan Bhaban Khulna
+  branch_code: '040'
+  city: Khulna
+  country: Bangladesh
+- name: Trust Bank Ltd., The
+  swift: TTBLBDDHXXX
+  swift8: TTBLBDDH
+  branch_name: Head Office
+  branch_address: Montijheel Commercial Area 1000 Dhaka
+  branch_code: XXX
+  city: Dhaka
+  country: Bangladesh
+- name: Union Bank Limited
+  swift: UBLDBDDHXXX
+  swift8: UBLDBDDH
+  branch_name: No branch name
+  branch_address: No branch address
+  branch_code: XXX
+  city: Dhaka
+  country: Bangladesh
+- name: United Commercial Bank Ltd
+  swift: UCBLBDDHAGB
+  swift8: UCBLBDDH
+  branch_name: Agrabad Branch
+  branch_address: Kashfia Plaza 4000 Chittagong
+  branch_code: AGB
+  city: Chittagong
+  country: Bangladesh
+- name: United Commercial Bank Ltd
+  swift: UCBLBDDHBGR
+  swift8: UCBLBDDH
+  branch_name: Bogra Branch
+  branch_address: Pashari Mansion 5800 Bogra
+  branch_code: BGR
+  city: Bogra
+  country: Bangladesh
+- name: United Commercial Bank Ltd
+  swift: UCBLBDDHBJN
+  swift8: UCBLBDDH
+  branch_name: Bijoynagar Branch
+  branch_address: Dhaka
+  branch_code: BJN
+  city: Dhaka
+  country: Bangladesh
+- name: United Commercial Bank Ltd
+  swift: UCBLBDDHBNB
+  swift8: UCBLBDDH
+  branch_name: Banani Branch
+  branch_address: Dhaka
+  branch_code: BNB
+  city: Dhaka
+  country: Bangladesh
+- name: United Commercial Bank Ltd
+  swift: UCBLBDDHBNG
+  swift8: UCBLBDDH
+  branch_name: Bangshal Branch
+  branch_address: 32/3, Malitola Road, North - 1000 Dhaka
+  branch_code: BNG
+  city: Dhaka
+  country: Bangladesh
+- name: United Commercial Bank Ltd
+  swift: UCBLBDDHEPR
+  swift8: UCBLBDDH
+  branch_name: Elephant Road Branch
+  branch_address: 19, Elephant Road 1205 Dhaka
+  branch_code: EPR
+  city: Dhaka
+  country: Bangladesh
+- name: United Commercial Bank Ltd
+  swift: UCBLBDDHFEX
+  swift8: UCBLBDDH
+  branch_name: Foreign Exchange Branch, Dhaka
+  branch_address: 20,Dilkusha C/a 1000 Dhaka
+  branch_code: FEX
+  city: Dhaka
+  country: Bangladesh
+- name: United Commercial Bank Ltd
+  swift: UCBLBDDHGAB
+  swift8: UCBLBDDH
+  branch_name: Gulshan Avenue Branch
+  branch_address: Dhaka
+  branch_code: GAB
+  city: Dhaka
+  country: Bangladesh
+- name: United Commercial Bank Ltd
+  swift: UCBLBDDHGSN
+  swift8: UCBLBDDH
+  branch_name: Gulshan Branch
+  branch_address: 32, Gulshan North C/a Dhaka
+  branch_code: GSN
+  city: Dhaka
+  country: Bangladesh
+- name: United Commercial Bank Ltd
+  swift: UCBLBDDHJBR
+  swift8: UCBLBDDH
+  branch_name: Jubilee Road Branch
+  branch_address: Rifle Club Shopping Complexe 4000 Chittagong
+  branch_code: JBR
+  city: Chittagong
+  country: Bangladesh
+- name: United Commercial Bank Ltd
+  swift: UCBLBDDHKBZ
+  swift8: UCBLBDDH
+  branch_name: Kawran Bazar Branch
+  branch_address: Kawran Bazar Dhaka
+  branch_code: KBZ
+  city: Dhaka
+  country: Bangladesh
+- name: United Commercial Bank Ltd
+  swift: UCBLBDDHKDM
+  swift8: UCBLBDDH
+  branch_name: Kadamtali Branch
+  branch_address: Chittagong
+  branch_code: KDM
+  city: Chittagong
+  country: Bangladesh
+- name: United Commercial Bank Ltd
+  swift: UCBLBDDHKLN
+  swift8: UCBLBDDH
+  branch_name: Khulna Branch
+  branch_address: Khulna
+  branch_code: KLN
+  city: Khulna
+  country: Bangladesh
+- name: United Commercial Bank Ltd
+  swift: UCBLBDDHKTG
+  swift8: UCBLBDDH
+  branch_name: Khatunganj
+  branch_address: 601,Ramjoy Mohajan Lane Khatunganj 4000 Chittagong
+  branch_code: KTG
+  city: Chittagong
+  country: Bangladesh
+- name: United Commercial Bank Ltd
+  swift: UCBLBDDHMBD
+  swift8: UCBLBDDH
+  branch_name: Moulvi Bazar Branch
+  branch_address: Dhaka
+  branch_code: MBD
+  city: Dhaka
+  country: Bangladesh
+- name: United Commercial Bank Ltd
+  swift: UCBLBDDHMKH
+  swift8: UCBLBDDH
+  branch_name: Mohakhali Branch
+  branch_address: Dhaka
+  branch_code: MKH
+  city: Dhaka
+  country: Bangladesh
+- name: United Commercial Bank Ltd
+  swift: UCBLBDDHNBH
+  swift8: UCBLBDDH
+  branch_name: North Brook Hall Road Branch
+  branch_address: Dhaka
+  branch_code: NBH
+  city: Dhaka
+  country: Bangladesh
+- name: United Commercial Bank Ltd
+  swift: UCBLBDDHNBZ
+  swift8: UCBLBDDH
+  branch_name: Naya Bazar Branch
+  branch_address: 9, Bashakari Lane, Naya Bazar Dhaka
+  branch_code: NBZ
+  city: Dhaka
+  country: Bangladesh
+- name: United Commercial Bank Ltd
+  swift: UCBLBDDHNGJ
+  swift8: UCBLBDDH
+  branch_name: Narayanganj Branch
+  branch_address: 10, S.M.Maleh Road, Tanbazar 1400 Narayanganj
+  branch_code: NGJ
+  city: Narayanganj
+  country: Bangladesh
+- name: United Commercial Bank Ltd
+  swift: UCBLBDDHNWP
+  swift8: UCBLBDDH
+  branch_name: Nawabpur Branch
+  branch_address: Dhaka
+  branch_code: NWP
+  city: Dhaka
+  country: Bangladesh
+- name: Uttara Bank Limited
+  swift: UTBLBDDH431
+  swift8: UTBLBDDH
+  branch_name: International Division
+  branch_address: Uttara Bank Building 1000 Dhaka
+  branch_code: '431'
+  city: Dhaka
+  country: Bangladesh
+- name: Uttara Bank Limited
+  swift: UTBLBDDH432
+  swift8: UTBLBDDH
+  branch_name: Local Office
+  branch_address: 50, Bir Uttam Shaheed 1000 Dhaka
+  branch_code: '432'
+  city: Dhaka
+  country: Bangladesh
+- name: Uttara Bank Limited
+  swift: UTBLBDDH433
+  swift8: UTBLBDDH
+  branch_name: Dilkusha Branch
+  branch_address: 54,Dilkusha Com.Area 1000 Dhaka
+  branch_code: '433'
+  city: Dhaka
+  country: Bangladesh
+- name: Uttara Bank Limited
+  swift: UTBLBDDH434
+  swift8: UTBLBDDH
+  branch_name: Chawk Bazar Dhaka Branch
+  branch_address: 5, Begum Bazar 1100 Dhaka
+  branch_code: '434'
+  city: Dhaka
+  country: Bangladesh
+- name: Uttara Bank Limited
+  swift: UTBLBDDH435
+  swift8: UTBLBDDH
+  branch_name: Foreign Exchange Branch
+  branch_address: 69,Dilkusha Com.Area 1000 Dhaka
+  branch_code: '435'
+  city: Dhaka
+  country: Bangladesh
+- name: Uttara Bank Limited
+  swift: UTBLBDDH436
+  swift8: UTBLBDDH
+  branch_name: Islampur Branch
+  branch_address: Dhaka
+  branch_code: '436'
+  city: Dhaka
+  country: Bangladesh
+- name: Uttara Bank Limited
+  swift: UTBLBDDH437
+  swift8: UTBLBDDH
+  branch_name: Narayanganj
+  branch_address: 150,B.B Road 1400 Narayanganj
+  branch_code: '437'
+  city: Narayanganj
+  country: Bangladesh
+- name: Uttara Bank Limited
+  swift: UTBLBDDH438
+  swift8: UTBLBDDH
+  branch_name: Ramna Branch
+  branch_address: Dhaka
+  branch_code: '438'
+  city: Dhaka
+  country: Bangladesh
+- name: Uttara Bank Limited
+  swift: UTBLBDDH439
+  swift8: UTBLBDDH
+  branch_name: Agrabad Branch
+  branch_address: 74,Agrabad Com.Area 4200 Chittagong
+  branch_code: '439'
+  city: Chittagong
+  country: Bangladesh
+- name: Uttara Bank Limited
+  swift: UTBLBDDH440
+  swift8: UTBLBDDH
+  branch_name: Sylhet Branch
+  branch_address: Shahir Plaza Sylhet
+  branch_code: '440'
+  city: Sylhet
+  country: Bangladesh
+- name: Uttara Bank Limited
+  swift: UTBLBDDH441
+  swift8: UTBLBDDH
+  branch_name: Comilla Branch
+  branch_address: Dipika Cinema Building 3500 Comilla
+  branch_code: '441'
+  city: Comilla
+  country: Bangladesh
+- name: Uttara Bank Limited
+  swift: UTBLBDDH442
+  swift8: UTBLBDDH
+  branch_name: Khatungonj Branch
+  branch_address: Chittagong
+  branch_code: '442'
+  city: Chittagong
+  country: Bangladesh
+- name: Uttara Bank Limited
+  swift: UTBLBDDH443
+  swift8: UTBLBDDH
+  branch_name: Sir Iqbal Road Branch
+  branch_address: 2/A, Sir Iqbal Road 9100 Khulna
+  branch_code: '443'
+  city: Khulna
+  country: Bangladesh
+- name: Uttara Bank Limited
+  swift: UTBLBDDH444
+  swift8: UTBLBDDH
+  branch_name: Barisal Branch
+  branch_address: Arya Laxmi Bhavan 8200 Barisal
+  branch_code: '444'
+  city: Barisal
+  country: Bangladesh
+- name: Uttara Bank Limited
+  swift: UTBLBDDH445
+  swift8: UTBLBDDH
+  branch_name: Shaheb Bazar Branch
+  branch_address: Karim Super Market Rajshahi
+  branch_code: '445'
+  city: Rajshahi
+  country: Bangladesh
+- name: Uttara Bank Limited
+  swift: UTBLBDDH446
+  swift8: UTBLBDDH
+  branch_name: Rangpur Branch
+  branch_address: Dewan Bari Road Rangpur
+  branch_code: '446'
+  city: Rangpur
+  country: Bangladesh
+- name: Uttara Bank Limited
+  swift: UTBLBDDH447
+  swift8: UTBLBDDH
+  branch_name: Bogra Branch
+  branch_address: Habib Mansion 5800 Bogra
+  branch_code: '447'
+  city: Bogra
+  country: Bangladesh
+- name: Uttara Bank Limited
+  swift: UTBLBDDH448
+  swift8: UTBLBDDH
+  branch_name: Moulavi Bazar Branch
+  branch_address: Tajmohol Complex 1100 Dhaka
+  branch_code: '448'
+  city: Dhaka
+  country: Bangladesh
+- name: Uttara Bank Limited
+  swift: UTBLBDDH449
+  swift8: UTBLBDDH
+  branch_name: Bangabandhu Avenue Branch
+  branch_address: 12,Bangabandhu Avenue 1000 Dhaka
+  branch_code: '449'
+  city: Dhaka
+  country: Bangladesh
+- name: Uttara Bank Limited
+  swift: UTBLBDDH450
+  swift8: UTBLBDDH
+  branch_name: Laldighi Branch
+  branch_address: 120, Laldighi West Chittagong
+  branch_code: '450'
+  city: Chittagong
+  country: Bangladesh
+- name: Woori Bank, Dhaka
+  swift: HVBKBDDHXXX
+  swift8: HVBKBDDH
+  branch_name: Head Office
+  branch_address: Plot No 15 Block No Cws (A) 1212 Dhaka
+  branch_code: XXX
+  city: Dhaka
+  country: Bangladesh

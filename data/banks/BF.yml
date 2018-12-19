@@ -1,0 +1,147 @@
+---
+BF:
+- name: Banque Centrale Des Etats De L'afrique De L'ouest
+  swift: BCAOBFBFBOB
+  swift8: BCAOBFBF
+  branch_name: Bobo-Dioulasso Branch
+  branch_address: Bobo-Dioulasso
+  branch_code: BOB
+  city: Dioulasso
+  country: Burkina Faso
+- name: Banque Centrale Des Etats De L'afrique De L'ouest
+  swift: BCAOBFBFXXX
+  swift8: BCAOBFBF
+  branch_name: Head Office
+  branch_address: Avenue Bassawarga Ouagadougou
+  branch_code: XXX
+  city: Ouagadougou
+  country: Burkina Faso
+- name: Bank Of Africa-burkina Fasso
+  swift: AFRIBFBFXXX
+  swift8: AFRIBFBF
+  branch_name: Head Office
+  branch_address: Avenue De La Resistance Du 17 Mai, Ouagadougou
+  branch_code: XXX
+  city: Ouagadougou
+  country: Burkina Faso
+- name: Banque Atlantique Burkina Faso
+  swift: ATBFBFBFXXX
+  swift8: ATBFBFBF
+  branch_name: Head Office
+  branch_address: Immeuble Noria Holding 01 Ouagadougou
+  branch_code: XXX
+  city: Ouagadougou
+  country: Burkina Faso
+- name: Banque Commerciale Du Burkina
+  swift: BNCFBFBFXXX
+  swift8: BNCFBFBF
+  branch_name: Head Office
+  branch_address: 800 Avenue De La Nation 1336 Ouagadougou
+  branch_code: XXX
+  city: Ouagadougou
+  country: Burkina Faso
+- name: Banque De L'habitat Du Burkina Faso
+  swift: BHBFBFBFXXX
+  swift8: BHBFBFBF
+  branch_name: Head Office
+  branch_address: 1200 Avenue Kwame Nkrumah 01 Ouagadougou
+  branch_code: XXX
+  city: Ouagadougou
+  country: Burkina Faso
+- name: Banque Internationale Du Burkina
+  swift: BIBUBFBFXXX
+  swift8: BIBUBFBF
+  branch_name: Head Office
+  branch_address: Avenue Dimdolobson Ouagadougou
+  branch_code: XXX
+  city: Ouagadougou
+  country: Burkina Faso
+- name: Banque Nationale De Developpement
+  swift: NDEVBFB1XXX
+  swift8: NDEVBFB1
+  branch_name: Head Office
+  branch_address: Ouagadougou
+  branch_code: XXX
+  city: Ouagadougou
+  country: Burkina Faso
+- name: Banque Pour Le Financement Du Commerce Et Des Investissements Du Burkina
+  swift: BFCBBFB1XXX
+  swift8: BFCBBFB1
+  branch_name: Head Office
+  branch_address: 4 Rue Du Marche Ouagadougou
+  branch_code: XXX
+  city: Ouagadougou
+  country: Burkina Faso
+- name: Banque Sahelo-saharienne Pour L'investissement Et Le Commerce (burkina Faso)
+    S.a.
+  swift: BSAHBFBFXXX
+  swift8: BSAHBFBF
+  branch_name: Head Office
+  branch_address: Av. Du Dr. Kwame Nkrumah 10 Ouagadougou
+  branch_code: XXX
+  city: Ouagadougou
+  country: Burkina Faso
+- name: Bicia Du Burkina
+  swift: BICIBFBXXXX
+  swift8: BICIBFBX
+  branch_name: Head Office
+  branch_address: 497 Avenue Dr Kwame Nkrumah 01 Ouagadougou
+  branch_code: XXX
+  city: Ouagadougou
+  country: Burkina Faso
+- name: Caisse Centrale De Cooperation Economique
+  swift: CCECBFB1XXX
+  swift8: CCECBFB1
+  branch_name: Head Office
+  branch_address: Ouagadougou
+  branch_code: XXX
+  city: Ouagadougou
+  country: Burkina Faso
+- name: Cbao Groupe Attijariwafa Bank Burkina Faso
+  swift: CBAOBFBGXXX
+  swift8: CBAOBFBG
+  branch_name: Head Office
+  branch_address: Imm. Bismillahi 2 Cms 11 Ouagadougou
+  branch_code: XXX
+  city: Ouagadougou Ouagadougou
+  country: Burkina Faso
+- name: Coris Bank International
+  swift: CORIBFBFXXX
+  swift8: CORIBFBF
+  branch_name: Head Office
+  branch_address: Nassa Ouagadougou
+  branch_code: XXX
+  city: Ouagadougou
+  country: Burkina Faso
+- name: Depositaire Central-banque De Reglement (dcbr Burkina Faso
+  swift: DCRCBFB1XXX
+  swift8: DCRCBFB1
+  branch_name: Head Office
+  branch_address: 180/220 Rue 3-119 Ouagadougou
+  branch_code: XXX
+  city: Ouagadougou
+  country: Burkina Faso
+- name: Ecobank Burkina
+  swift: ECOCBFBFXXX
+  swift8: ECOCBFBF
+  branch_name: Head Office
+  branch_address: Espace Fadima 145 Ouagadougou
+  branch_code: XXX
+  city: Ouagadougou
+  country: Burkina Faso
+- name: La Banque Agricole Et Commerciale Du Burkina (bacb),la
+  swift: CNCBBFBFXXX
+  swift8: CNCBBFBF
+  branch_name: Head Office
+  branch_address: 2, Avenue Gamal Abdel Nasser - Ouagadougou
+  branch_code: XXX
+  city: Ouagadougou
+  country: Burkina Faso
+- name: Societe Generale De Banques Au Burkina 'sgbb'
+  swift: SGBBBFBFXXX
+  swift8: SGBBBFBF
+  branch_name: Head Office
+  branch_address: 4 Rue Du Marche Ouagadougou
+  branch_code: XXX
+  city: Ouagadougou
+  country: Burkina Faso

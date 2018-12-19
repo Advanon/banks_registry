@@ -1,0 +1,2450 @@
+---
+UA:
+- name: Accordbank Commercial Bank
+  swift: ACDCUAUKXXX
+  swift8: ACDCUAUK
+  branch_name: Head Office
+  branch_address: Stetsenko Str. 6 04136 Kiev
+  branch_code: XXX
+  city: Kiev
+  country: Ukraine
+- name: Agrarian Commercial Bank Ojsc
+  swift: AGCBUAUKXXX
+  swift8: AGCBUAUK
+  branch_name: Head Office
+  branch_address: 9a Dimitrov Street 03150 Kiev
+  branch_code: XXX
+  city: Kiev
+  country: Ukraine
+- name: Apeks-Bank
+  swift: APKSUAUKXXX
+  swift8: APKSUAUK
+  branch_name: Head Office
+  branch_address: 2/16, Pecherska Street 01014 Kiev
+  branch_code: XXX
+  city: Kiev
+  country: Ukraine
+- name: Arcada Jscb
+  swift: ARJSUAUKXXX
+  swift8: ARJSUAUK
+  branch_name: Head Office
+  branch_address: 3, Ul. Olginska 01001 Kiev
+  branch_code: XXX
+  city: Kiev
+  country: Ukraine
+- name: Artem-Bank
+  swift: ARTLUAUKXXX
+  swift8: ARTLUAUK
+  branch_name: Head Office
+  branch_address: 103, Artema Street 04050 Kiev
+  branch_code: XXX
+  city: Kiev
+  country: Ukraine
+- name: Astrabank
+  swift: ASTRUAUKXXX
+  swift8: ASTRUAUK
+  branch_name: Head Office
+  branch_address: 16-B, Heroiv Stalinhrada Ave. 04210 Kiev
+  branch_code: XXX
+  city: Kiev
+  country: Ukraine
+- name: Avant-Bank Pjsc
+  swift: AVSCUAUKXXX
+  swift8: AVSCUAUK
+  branch_name: Head Office
+  branch_address: 23 I.Klimenko Str. 03110 Kiev
+  branch_code: XXX
+  city: Kiev
+  country: Ukraine
+- name: Bank 3/4
+  swift: BKVKUAUKXXX
+  swift8: BKVKUAUK
+  branch_name: Head Office
+  branch_address: Frunze Street 04080 Kiev
+  branch_code: XXX
+  city: Kiev
+  country: Ukraine
+- name: Bank For Investments And Savings
+  swift: BFISUAUKXXX
+  swift8: BFISUAUK
+  branch_name: Head Office
+  branch_address: Melnikova 83-D 04119 Kiev
+  branch_code: XXX
+  city: Kiev
+  country: Ukraine
+- name: Bank Of Cyprus
+  swift: AVTOUA22XXX
+  swift8: AVTOUA22
+  branch_name: Head Office
+  branch_address: 45, Uritskogo Str. 03035 Kiev
+  branch_code: XXX
+  city: Kiev
+  country: Ukraine
+- name: Bank Pivdennyi
+  swift: PIVDUA22XXX
+  swift8: PIVDUA22
+  branch_name: Head Office
+  branch_address: 6/1 Krasnova Str. 65059 Odesa
+  branch_code: XXX
+  city: Odesa
+  country: Ukraine
+- name: Bank Sich
+  swift: SICHUAUKXXX
+  swift8: SICHUAUK
+  branch_name: Head Office
+  branch_address: Volodymyrska Str. 63 01033 Kiev
+  branch_code: XXX
+  city: Kiev
+  country: Ukraine
+- name: Bm Bank, Jsc
+  swift: BMLTUAUKXXX
+  swift8: BMLTUAUK
+  branch_name: Head Office
+  branch_address: Shevchenko Av.,37/122 01032 Kiev
+  branch_code: XXX
+  city: Kiev
+  country: Ukraine
+- name: Bohuslav Bank
+  swift: BOHUUAUKXXX
+  swift8: BOHUUAUK
+  branch_name: Head Office
+  branch_address: 81 Nizhneyurkovskaya 04080 Kiev
+  branch_code: XXX
+  city: Kiev
+  country: Ukraine
+- name: Center Commercial Bank
+  swift: CENTUAUKXXX
+  swift8: CENTUAUK
+  branch_name: Head Office
+  branch_address: R. Okipnoy Street 8a 02002 Kiev
+  branch_code: XXX
+  city: Kiev
+  country: Ukraine
+- name: Classicbank
+  swift: CLBKUA2NXXX
+  swift8: CLBKUA2N
+  branch_name: Head Office
+  branch_address: 10 Baumana Str., Bld.75 49044 Dnipropetrovsk
+  branch_code: XXX
+  city: Dnipropetrovsk
+  country: Ukraine
+- name: Credit Agricole Cib
+  swift: CRLYUAUXXXX
+  swift8: CRLYUAUX
+  branch_name: Head Office
+  branch_address: 23-a Volodymyrska Street 1034 Kiev
+  branch_code: XXX
+  city: Kiev
+  country: Ukraine
+- name: Credit Dnepr Bank, Ukraine (Head Office)
+  swift: CRDEUA2NXXX
+  swift8: CRDEUA2N
+  branch_name: Head Office
+  branch_address: 17 Lenin Street 49600 Dnipropetrovsk
+  branch_code: XXX
+  city: Dnipropetrovsk
+  country: Ukraine
+- name: Credit Europe Bank
+  swift: FBHLUAUKXXX
+  swift8: FBHLUAUK
+  branch_name: Head Office
+  branch_address: Chervonoarmijska Str., 77-a 03150 Kiev
+  branch_code: XXX
+  city: Kiev
+  country: Ukraine
+- name: Diamant Bank Joint Stock Bank
+  swift: DMBAUAUKXXX
+  swift8: DMBAUAUK
+  branch_name: Head Office
+  branch_address: 10 A, Kontraktova Square 04070 Kiev
+  branch_code: XXX
+  city: Kiev
+  country: Ukraine
+- name: Eurobank Pjsc Cb
+  swift: EUBNUAUKXXX
+  swift8: EUBNUAUK
+  branch_name: Head Office
+  branch_address: T. Shevchenko Blvd. 35 01032 Kiev
+  branch_code: XXX
+  city: Kiev
+  country: Ukraine
+- name: Finbank
+  swift: FNBKUA22XXX
+  swift8: FNBKUA22
+  branch_name: Head Office
+  branch_address: 4a, Shevchenko 65032 Odesa
+  branch_code: XXX
+  city: Odesa
+  country: Ukraine
+- name: Finexbank
+  swift: FINXUAUKXXX
+  swift8: FINXUAUK
+  branch_name: Head Office
+  branch_address: Povitroflotskyi Avenue 54 03151 Kiev
+  branch_code: XXX
+  city: Kiev
+  country: Ukraine
+- name: First Investment Bank
+  swift: FIBXUAUKXXX
+  swift8: FIBXUAUK
+  branch_name: Head Office
+  branch_address: 6, Chervonyh Kozakiv Avenue 04073 Kiev
+  branch_code: XXX
+  city: Kiev
+  country: Ukraine
+- name: First Ukrainian International Bank
+  swift: FUIBUA2XDNI
+  swift8: FUIBUA2X
+  branch_name: Commercial Branch
+  branch_address: Dzerzhinskogo Street 23 320600 Dnipropetrovsk
+  branch_code: DNI
+  city: Dnipropetrovsk
+  country: Ukraine
+- name: First Ukrainian International Bank
+  swift: FUIBUA2XDON
+  swift8: FUIBUA2X
+  branch_name: Commercial Branch
+  branch_address: Universitetskaya Street 2a 340000 Donetsk
+  branch_code: DON
+  city: Donetsk
+  country: Ukraine
+- name: First Ukrainian International Bank
+  swift: FUIBUA2XXXX
+  swift8: FUIBUA2X
+  branch_name: Head Office
+  branch_address: Business Center 83001 Donetsk
+  branch_code: XXX
+  city: Donetsk
+  country: Ukraine
+- name: First Ukrainian International Bank
+  swift: FUIBUA2XKHA
+  swift8: FUIBUA2X
+  branch_name: Commercial Branch
+  branch_address: Mironositskaya Street 25 310002 Kharkiv
+  branch_code: KHA
+  city: Kharkiv
+  country: Ukraine
+- name: First Ukrainian International Bank
+  swift: FUIBUA2XKIE
+  swift8: FUIBUA2X
+  branch_name: Main Commercial Branch
+  branch_address: Proreznaya Street 8 252001 Kiev
+  branch_code: KIE
+  city: Kiev
+  country: Ukraine
+- name: First Ukrainian International Bank
+  swift: FUIBUA2XLUG
+  swift8: FUIBUA2X
+  branch_name: Commercial Branch
+  branch_address: Magnitogorskaya Street 2 348011 Luhansk
+  branch_code: LUG
+  city: Luhansk
+  country: Ukraine
+- name: First Ukrainian International Bank
+  swift: FUIBUA2XLVO
+  swift8: FUIBUA2X
+  branch_name: Commercial Branch
+  branch_address: Chaikovskogo Street 17 79000 Lviv
+  branch_code: LVO
+  city: Lviv
+  country: Ukraine
+- name: First Ukrainian International Bank
+  swift: FUIBUA2XMPL
+  swift8: FUIBUA2X
+  branch_name: Commercial Branch
+  branch_address: Engelsa Street 39a 341000 Mariupol
+  branch_code: MPL
+  city: Mariupol
+  country: Ukraine
+- name: First Ukrainian International Bank
+  swift: FUIBUA2XNIC
+  swift8: FUIBUA2X
+  branch_name: Commercial Branch
+  branch_address: Lenina Avenue 67 327017 Mykolaiv
+  branch_code: NIC
+  city: Mykolaiv
+  country: Ukraine
+- name: First Ukrainian International Bank
+  swift: FUIBUA2XODE
+  swift8: FUIBUA2X
+  branch_name: Commercial Branch
+  branch_address: Chkalova Street 92-94 270045 Odesa
+  branch_code: ODE
+  city: Odesa
+  country: Ukraine
+- name: First Ukrainian International Bank
+  swift: FUIBUA2XZAP
+  swift8: FUIBUA2X
+  branch_name: Zaporozhye Branch
+  branch_address: 40 Let Sovetskoy Ukrainy Street 51 330035 Zaporozhye
+  branch_code: ZAP
+  city: Zaporozhye
+  country: Ukraine
+- name: First Ukrainian International Bank
+  swift: DONIUA2XXXX
+  swift8: DONIUA2X
+  branch_name: Head Office
+  branch_address: 38 Artema Street 83086 Donetsk
+  branch_code: XXX
+  city: Donetsk
+  country: Ukraine
+- name: Fortuna Bank Ltd
+  swift: FTNAUAUKXXX
+  swift8: FTNAUAUK
+  branch_name: Head Office
+  branch_address: 35v, Borychiv Tik Str 04070 Kiev
+  branch_code: XXX
+  city: Kiev
+  country: Ukraine
+- name: Globus Bank
+  swift: GLIBUA22XXX
+  swift8: GLIBUA22
+  branch_name: Head Office
+  branch_address: 19/5, Kurenevskiy Pereulok 04073 Kiev
+  branch_code: XXX
+  city: Kiev
+  country: Ukraine
+- name: Grant Bank
+  swift: GRBKUA2X011
+  swift8: GRBKUA2X
+  branch_name: 1st Subsidiary
+  branch_address: Pr Lenina 40 Kharkiv
+  branch_code: '011'
+  city: Kharkiv
+  country: Ukraine
+- name: Grant Bank
+  swift: GRBKUA2XXXX
+  swift8: GRBKUA2X
+  branch_name: Head Office
+  branch_address: Ul. Danilevskogo 19 310058 Kharkiv
+  branch_code: XXX
+  city: Kharkiv
+  country: Ukraine
+- name: Grant Bank
+  swift: GRBKUA2XKIE
+  swift8: GRBKUA2X
+  branch_name: Kiev
+  branch_address: Ul Klimenko 23 Kiev
+  branch_code: KIE
+  city: Kiev
+  country: Ukraine
+- name: Industrial Financial Bank
+  swift: INFLUAUKXXX
+  swift8: INFLUAUK
+  branch_name: Head Office
+  branch_address: Kvartal 278 39627 Kremenchug
+  branch_code: XXX
+  city: Kremenchug
+  country: Ukraine
+- name: Ing Bank Ukraine
+  swift: INGBUAUKXXX
+  swift8: INGBUAUK
+  branch_name: Head Office
+  branch_address: 30-a Spasskaya Street 04070 Kiev
+  branch_code: XXX
+  city: Kiev
+  country: Ukraine
+- name: International Investment Bank
+  swift: IINBUAUKXXX
+  swift8: IINBUAUK
+  branch_name: Head Office
+  branch_address: 16, Lavrska Str. 01015 Kiev
+  branch_code: XXX
+  city: Kiev
+  country: Ukraine
+- name: Joint Stock Company Accent-Bank
+  swift: UKCBUAUKXXX
+  swift8: UKCBUAUK
+  branch_name: Head Office
+  branch_address: 11 Batumska Street 49074 Dnipropetrovsk
+  branch_code: XXX
+  city: Dnipropetrovsk
+  country: Ukraine
+- name: Joint-Stock Bank Morskoy
+  swift: MORKUAUKXXX
+  swift8: MORKUAUK
+  branch_name: Head Office
+  branch_address: Brestskaya Str., 18a 99001 Sevastopol
+  branch_code: XXX
+  city: Sevastopol
+  country: Ukraine
+- name: Jsb Clearing House
+  swift: CLHSUAUXXXX
+  swift8: CLHSUAUX
+  branch_name: Head Office
+  branch_address: Borysoglibska Street,5a 04070 Kiev
+  branch_code: XXX
+  city: Kiev
+  country: Ukraine
+- name: Jsbcommercial Industrial Bank
+  swift: CIBFUAUKXXX
+  swift8: CIBFUAUK
+  branch_name: Head Office
+  branch_address: 6 Vorovskogo Street 254053 Kiev
+  branch_code: XXX
+  city: Kiev
+  country: Ukraine
+- name: Jsc Bank Finance And Credit
+  swift: FBACUAU1SEV
+  swift8: FBACUAU1
+  branch_name: Sevastopol Branch
+  branch_address: Sevastopol
+  branch_code: SEV
+  city: Sevastopol
+  country: Ukraine
+- name: Jsc Bank Finance And Credit
+  swift: FBACUAU1SIM
+  swift8: FBACUAU1
+  branch_name: Crimea Regional Branch
+  branch_address: Simferopol
+  branch_code: SIM
+  city: Simferopol
+  country: Ukraine
+- name: Jsc Kredobank (Formerly Jsc Kredyt Bank(Ukraina))
+  swift: WUCBUA2XXXX
+  swift8: WUCBUA2X
+  branch_name: Head Office
+  branch_address: Sakharova Street 78 79026 Lviv
+  branch_code: XXX
+  city: Lviv
+  country: Ukraine
+- name: Jsc The State Export-Import Bank Of Ukraine
+  swift: EXBSUAUXCHK
+  swift8: EXBSUAUX
+  branch_name: Cherkasy Branch
+  branch_address: 288 Gogolia 18002 Cherkasy
+  branch_code: CHK
+  city: Cherkasy
+  country: Ukraine
+- name: Jsc The State Export-Import Bank Of Ukraine
+  swift: EXBSUAUXCHH
+  swift8: EXBSUAUX
+  branch_name: Chernigiv Branch
+  branch_address: 80, Myru Avenue 14005 Chernihiv
+  branch_code: CHH
+  city: Chernihiv
+  country: Ukraine
+- name: Jsc The State Export-Import Bank Of Ukraine
+  swift: EXBSUAUXCHV
+  swift8: EXBSUAUX
+  branch_name: Chernivtsi Branch
+  branch_address: 183 Holovna 58022 Chernivtsi
+  branch_code: CHV
+  city: Chernivtsi
+  country: Ukraine
+- name: Jsc The State Export-Import Bank Of Ukraine
+  swift: EXBSUAUXDNI
+  swift8: EXBSUAUX
+  branch_name: Dnipropetrovsk Branch
+  branch_address: 26 Lenina Street 49000 Dnipropetrovsk
+  branch_code: DNI
+  city: Dnipropetrovsk
+  country: Ukraine
+- name: Jsc The State Export-Import Bank Of Ukraine
+  swift: EXBSUAUXDON
+  swift8: EXBSUAUX
+  branch_name: Donetsk Branch
+  branch_address: 8a, Myru Avenue 83015 Donetsk
+  branch_code: DON
+  city: Donetsk
+  country: Ukraine
+- name: Jsc The State Export-Import Bank Of Ukraine
+  swift: EXBSUAUXIVF
+  swift8: EXBSUAUX
+  branch_name: Ivano-Frankivsk Branch
+  branch_address: Nezalezhnosty Street 10 76000 Ivano-Frankivsk
+  branch_code: IVF
+  city: Ivano-Frankivsk
+  country: Ukraine
+- name: Jsc The State Export-Import Bank Of Ukraine
+  swift: EXBSUAUXIZM
+  swift8: EXBSUAUX
+  branch_name: Izmail Branch
+  branch_address: 66, Heroiv Stalingrada Street 68600 Izmail
+  branch_code: IZM
+  city: Izmail
+  country: Ukraine
+- name: Jsc The State Export-Import Bank Of Ukraine
+  swift: EXBSUAUXKHA
+  swift8: EXBSUAUX
+  branch_name: Kharkiv Branch
+  branch_address: 11, Chernyshevska Street 61057 Kharkiv
+  branch_code: KHA
+  city: Kharkiv
+  country: Ukraine
+- name: Jsc The State Export-Import Bank Of Ukraine
+  swift: EXBSUAUXKHE
+  swift8: EXBSUAUX
+  branch_name: Kherson Branch
+  branch_address: 46 Radianska 73000 Kherson
+  branch_code: KHE
+  city: Kherson
+  country: Ukraine
+- name: Jsc The State Export-Import Bank Of Ukraine
+  swift: EXBSUAUXKHM
+  swift8: EXBSUAUX
+  branch_name: Khmelnytsky Branch
+  branch_address: 14/1 Prybuzka 290001 Khmelnytsky
+  branch_code: KHM
+  city: Khmelnytsky
+  country: Ukraine
+- name: Jsc The State Export-Import Bank Of Ukraine
+  swift: EXBSUAUXKIV
+  swift8: EXBSUAUX
+  branch_name: Kyiv Branch
+  branch_address: 11b, Vorovskogo Street 04053 Kiev
+  branch_code: KIV
+  city: Kiev
+  country: Ukraine
+- name: Jsc The State Export-Import Bank Of Ukraine
+  swift: EXBSUAUXXXX
+  swift8: EXBSUAUX
+  branch_name: Head Office
+  branch_address: 127 Gorkogo Street 03150 Kiev
+  branch_code: XXX
+  city: Kiev
+  country: Ukraine
+- name: Jsc The State Export-Import Bank Of Ukraine
+  swift: EXBSUAUXKIR
+  swift8: EXBSUAUX
+  branch_name: Kirovograd Branch
+  branch_address: 16, Zhovtnevoi Revoluutsii Street 25001 Kirovohrad
+  branch_code: KIR
+  city: Kirovohrad
+  country: Ukraine
+- name: Jsc The State Export-Import Bank Of Ukraine
+  swift: EXBSUAUXKRH
+  swift8: EXBSUAUX
+  branch_name: Kryvy Rih Branch
+  branch_address: 37 K. Marx Avenue 60000 Kryvy Rih
+  branch_code: KRH
+  city: Kryvy Rih
+  country: Ukraine
+- name: Jsc The State Export-Import Bank Of Ukraine
+  swift: EXBSUAUXLUH
+  swift8: EXBSUAUX
+  branch_name: Lugansk Branch
+  branch_address: 4l, Oboronna Street 91011 Luhansk
+  branch_code: LUH
+  city: Luhansk
+  country: Ukraine
+- name: Jsc The State Export-Import Bank Of Ukraine
+  swift: EXBSUAUXLUT
+  swift8: EXBSUAUX
+  branch_name: Lutsk Branch
+  branch_address: 5 Bogdana Khmelnitskogo Street 43025 Lutsk
+  branch_code: LUT
+  city: Lutsk
+  country: Ukraine
+- name: Jsc The State Export-Import Bank Of Ukraine
+  swift: EXBSUAUXLVI
+  swift8: EXBSUAUX
+  branch_name: Lviv Branch
+  branch_address: 4, Mitskevycha Square 79000 Lviv
+  branch_code: LVI
+  city: Lviv
+  country: Ukraine
+- name: Jsc The State Export-Import Bank Of Ukraine
+  swift: EXBSUAUXMAR
+  swift8: EXBSUAUX
+  branch_name: Mariupol Branch
+  branch_address: Building 1 87525 Mariupol
+  branch_code: MAR
+  city: Mariupol
+  country: Ukraine
+- name: Jsc The State Export-Import Bank Of Ukraine
+  swift: EXBSUAUXMYK
+  swift8: EXBSUAUX
+  branch_name: Mykolaiv Branch
+  branch_address: 25a Dekabrystiv 54017 Mykolaiv
+  branch_code: MYK
+  city: Mykolaiv
+  country: Ukraine
+- name: Jsc The State Export-Import Bank Of Ukraine
+  swift: EXBSUAUXODE
+  swift8: EXBSUAUX
+  branch_name: Odesa Branch
+  branch_address: 8 Chernyahouskogo 65009 Odesa
+  branch_code: ODE
+  city: Odesa
+  country: Ukraine
+- name: Jsc Ukrainian Securities Depository (Formerly Interregional Securities Union)
+  swift: IRSUUAUKXXX
+  swift8: IRSUUAUK
+  branch_name: Head Office
+  branch_address: 7g, Tropinina Street 04107 Kiev
+  branch_code: XXX
+  city: Kiev
+  country: Ukraine
+- name: Khreschatyk Commercial Bank
+  swift: KHRCUAUKXXX
+  swift8: KHRCUAUK
+  branch_name: Head Office
+  branch_address: 8a Khreschatyk Street 01001 Kiev
+  branch_code: XXX
+  city: Kiev
+  country: Ukraine
+- name: Lviv Bank
+  swift: LVIVUA2XXXX
+  swift8: LVIVUA2X
+  branch_name: Head Office
+  branch_address: 1 Serbska St. 79008 Lviv
+  branch_code: XXX
+  city: Lviv
+  country: Ukraine
+- name: Marfin Bank
+  swift: MTBAUA2DILK
+  swift8: MTBAUA2D
+  branch_name: Ilichevsk Branch
+  branch_address: 28 Lenin Street 65082 Ilichevsk
+  branch_code: ILK
+  city: Ilichevsk
+  country: Ukraine
+- name: Marfin Bank
+  swift: MTBAUA2DODE
+  swift8: MTBAUA2D
+  branch_name: Odesa Central Branch
+  branch_address: 7 Yekaterinskaya Square 65026 Odesa
+  branch_code: ODE
+  city: Odesa
+  country: Ukraine
+- name: Marfin Bank
+  swift: MTBAUA2DXXX
+  swift8: MTBAUA2D
+  branch_name: Head Office
+  branch_address: 11 Polskiy Spusk 65026 Odesa
+  branch_code: XXX
+  city: Odesa
+  country: Ukraine
+- name: Marfin Bank
+  swift: MTBAUA2DSYM
+  swift8: MTBAUA2D
+  branch_name: Simferopol Branch
+  branch_address: 1b Pervomayskaya Street 95007 Simferopol
+  branch_code: SYM
+  city: Simferopol
+  country: Ukraine
+- name: Megabank Pjsc
+  swift: DBBKUA2KCHK
+  swift8: DBBKUA2K
+  branch_name: Cherkasy
+  branch_address: Cherkasy
+  branch_code: CHK
+  city: Cherkasy
+  country: Ukraine
+- name: Megabank Pjsc
+  swift: DBBKUA2KCHE
+  swift8: DBBKUA2K
+  branch_name: 14000 Chernihiv
+  branch_address: Miru Avenue 12 14000 Chernihiv
+  branch_code: CHE
+  city: Chernihiv
+  country: Ukraine
+- name: Megabank Pjsc
+  swift: DBBKUA2KDON
+  swift8: DBBKUA2K
+  branch_name: Donetsk
+  branch_address: Donetsk
+  branch_code: DON
+  city: Donetsk
+  country: Ukraine
+- name: Megabank Pjsc
+  swift: DBBKUA2KXXX
+  swift8: DBBKUA2K
+  branch_name: Head Office
+  branch_address: Artema Street 30 61002 Kharkiv
+  branch_code: XXX
+  city: Kharkiv
+  country: Ukraine
+- name: Megabank Pjsc
+  swift: DBBKUA2KKHE
+  swift8: DBBKUA2K
+  branch_name: 73000 Kherson
+  branch_address: Girskoho Street 73000 Kherson
+  branch_code: KHE
+  city: Kherson
+  country: Ukraine
+- name: Megabank Pjsc
+  swift: DBBKUA2KKIE
+  swift8: DBBKUA2K
+  branch_name: Kiev
+  branch_address: Kiev
+  branch_code: KIE
+  city: Kiev
+  country: Ukraine
+- name: Megabank Pjsc
+  swift: DBBKUA2KKIR
+  swift8: DBBKUA2K
+  branch_name: 25015 Kirovohrad
+  branch_address: Druzhby Narodiv Square 3 25015 Kirovohrad
+  branch_code: KIR
+  city: Kirovohrad
+  country: Ukraine
+- name: Megabank Pjsc
+  swift: DBBKUA2KLVI
+  swift8: DBBKUA2K
+  branch_name: Lviv
+  branch_address: Lviv
+  branch_code: LVI
+  city: Lviv
+  country: Ukraine
+- name: Megabank Pjsc
+  swift: DBBKUA2KMYK
+  swift8: DBBKUA2K
+  branch_name: 54030 Mykolaiv
+  branch_address: Spaska Street 54030 Mykolaiv
+  branch_code: MYK
+  city: Mykolaiv
+  country: Ukraine
+- name: Megabank Pjsc
+  swift: DBBKUA2KPOL
+  swift8: DBBKUA2K
+  branch_name: 36020 Poltava
+  branch_address: Komsomolska Street 17 36020 Poltava
+  branch_code: POL
+  city: Poltava
+  country: Ukraine
+- name: Megabank Pjsc
+  swift: DBBKUA2KVIN
+  swift8: DBBKUA2K
+  branch_name: Vinnytsia
+  branch_address: Vinnytsia
+  branch_code: VIN
+  city: Vinnytsia
+  country: Ukraine
+- name: Megabank Pjsc
+  swift: DBBKUA2KZHY
+  swift8: DBBKUA2K
+  branch_name: Zhytomyr
+  branch_address: Zhytomyr
+  branch_code: ZHY
+  city: Zhytomyr
+  country: Ukraine
+- name: Misto Bank Ltd
+  swift: MIBKUA2DXXX
+  swift8: MIBKUA2D
+  branch_name: Head Office
+  branch_address: 11 , Fontanskaya Doroga 65009 Odesa
+  branch_code: XXX
+  city: Odesa
+  country: Ukraine
+- name: National Bank Of Ukraine
+  swift: NBUAUAUXXXX
+  swift8: NBUAUAUX
+  branch_name: Head Office
+  branch_address: 9 Institutskaya 01601 Kiev
+  branch_code: XXX
+  city: Kiev
+  country: Ukraine
+- name: National Bank Of Ukraine
+  swift: NBUAUAU1PMU
+  swift8: NBUAUAU1
+  branch_name: Project Monitoring Unit
+  branch_address: Kiev
+  branch_code: PMU
+  city: Kiev
+  country: Ukraine
+- name: National Depository Of Ukraine
+  swift: NADUUAUKXXX
+  swift8: NADUUAUK
+  branch_name: Head Office
+  branch_address: Street Boris Grinchenko, 3 01001 Kiev
+  branch_code: XXX
+  city: Kiev
+  country: Ukraine
+- name: Ojsc Euroindustribank
+  swift: EUOMUA2XXXX
+  swift8: EUOMUA2X
+  branch_name: Head Office
+  branch_address: 1, Donbassky Lane 83003 Donetsk
+  branch_code: XXX
+  city: Donetsk
+  country: Ukraine
+- name: Okci Bank
+  swift: OKCIUA2XXXX
+  swift8: OKCIUA2X
+  branch_name: Head Office
+  branch_address: 17, Gazova St. 79058 Lviv
+  branch_code: XXX
+  city: Lviv
+  country: Ukraine
+- name: Petrocommerce-Ukraine Bank Jsc
+  swift: PECOUAUKXXX
+  swift8: PECOUAUK
+  branch_name: Head Office
+  branch_address: 20 Velyka Zhytomyrska Str. 01025 Kiev
+  branch_code: XXX
+  city: Kiev
+  country: Ukraine
+- name: Piraeus Bank Icb, Jsc
+  swift: ICBIUAUKXXX
+  swift8: ICBIUAUK
+  branch_name: Head Office
+  branch_address: 8 Illinska 04070 Kiev
+  branch_code: XXX
+  city: Kiev
+  country: Ukraine
+- name: Pjsc Alfa-Bank
+  swift: ALFAUAUKXXX
+  swift8: ALFAUAUK
+  branch_name: Head Office
+  branch_address: 4/6 Desyatinna Street 01025 Kiev
+  branch_code: XXX
+  city: Kiev
+  country: Ukraine
+- name: Pjsc Bank Trust
+  swift: REUSUAUKXXX
+  swift8: REUSUAUK
+  branch_name: Head Office
+  branch_address: Sergeya Strutinskogo Street, 8 010014 Kiev
+  branch_code: XXX
+  city: Kiev
+  country: Ukraine
+- name: Pjsc Bta Bank
+  swift: UCTBUAUKXXX
+  swift8: UCTBUAUK
+  branch_name: Head Office
+  branch_address: 75, Zhilyanskaya Street 01032 Kiev
+  branch_code: XXX
+  city: Kiev
+  country: Ukraine
+- name: Pjsc Citibank
+  swift: CITIUAUKXXX
+  swift8: CITIUAUK
+  branch_name: Head Office
+  branch_address: 16-G Dymytrovia Street 03150 Kiev
+  branch_code: XXX
+  city: Kiev
+  country: Ukraine
+- name: Pjsc Creditwest Bank
+  swift: CREWUAUKXXX
+  swift8: CREWUAUK
+  branch_name: Head Office
+  branch_address: Kovpaka Street, 17 03150 Kiev
+  branch_code: XXX
+  city: Kiev
+  country: Ukraine
+- name: Pjsc Deutsche Bank Dbu
+  swift: DEUTUAUKXXX
+  swift8: DEUTUAUK
+  branch_name: Head Office
+  branch_address: 20 Lavrska Str. 01015 Kiev
+  branch_code: XXX
+  city: Kiev
+  country: Ukraine
+- name: Pjsc Volksbank
+  swift: ELECUA2XXXX
+  swift8: ELECUA2X
+  branch_name: Head Office
+  branch_address: Hrabovskoho 11 79000 Lviv
+  branch_code: XXX
+  city: Lviv
+  country: Ukraine
+- name: Pjsc Vtb Bank
+  swift: VTBRUAUKXXX
+  swift8: VTBRUAUK
+  branch_name: Head Office
+  branch_address: 8/26, Shevchenko Avenue 01004 Kiev
+  branch_code: XXX
+  city: Kiev
+  country: Ukraine
+- name: Policombank Jscb
+  swift: PLICUA22XXX
+  swift8: PLICUA22
+  branch_name: Head Office
+  branch_address: 3, Kyivska Str. 14005 Chernihiv
+  branch_code: XXX
+  city: Chernihiv
+  country: Ukraine
+- name: Poltava-Bank Poltava Joint Stock Bank
+  swift: POLTUA2XXXX
+  swift8: POLTUA2X
+  branch_name: Head Office
+  branch_address: 40a Parizhskoy Kommuny Street 36020 Poltava
+  branch_code: XXX
+  city: Poltava
+  country: Ukraine
+- name: Premium Bank
+  swift: PREIUAUKXXX
+  swift8: PREIUAUK
+  branch_name: Head Office
+  branch_address: 1/36 Ul. Bastionnaya 01004 Kiev
+  branch_code: XXX
+  city: Kiev
+  country: Ukraine
+- name: Privatbank
+  swift: PBANUA2XGA1
+  swift8: PBANUA2X
+  branch_name: Branch 1
+  branch_address: Artemovsk
+  branch_code: GA1
+  city: Artemovsk
+  country: Ukraine
+- name: Privatbank
+  swift: PBANUA2XGA2
+  swift8: PBANUA2X
+  branch_name: Branch 2
+  branch_address: Artemovsk
+  branch_code: GA2
+  city: Artemovsk
+  country: Ukraine
+- name: Privatbank
+  swift: PBANUA2XCHK
+  swift8: PBANUA2X
+  branch_name: Cherkasy
+  branch_address: Cherkasy
+  branch_code: CHK
+  city: Cherkasy
+  country: Ukraine
+- name: Privatbank
+  swift: PBANUA2XCHR
+  swift8: PBANUA2X
+  branch_name: Chernihiv Regional Branch
+  branch_address: Chernihiv
+  branch_code: CHR
+  city: Chernihiv
+  country: Ukraine
+- name: Privatbank
+  swift: PBANUA2XCVF
+  swift8: PBANUA2X
+  branch_name: Chernivtsi Branch
+  branch_address: Chernivtsi
+  branch_code: CVF
+  city: Chernivtsi
+  country: Ukraine
+- name: Privatbank
+  swift: PBANUA2XCGF
+  swift8: PBANUA2X
+  branch_name: Chervonograd Branch
+  branch_address: Chervonograd
+  branch_code: CGF
+  city: Chervonograd
+  country: Ukraine
+- name: Privatbank
+  swift: PBANUA2XDZF
+  swift8: PBANUA2X
+  branch_name: Dniprodzerjinsk Branch
+  branch_address: Dniprodzerjinsk
+  branch_code: DZF
+  city: Dniprodzerjinsk
+  country: Ukraine
+- name: Privatbank
+  swift: PBANUA2XXXX
+  swift8: PBANUA2X
+  branch_name: Head Office
+  branch_address: 50 Naberezhnaya Pobedy 49094 Dnipropetrovsk
+  branch_code: XXX
+  city: Dnipropetrovsk
+  country: Ukraine
+- name: Privatbank
+  swift: PBANUA2XDON
+  swift8: PBANUA2X
+  branch_name: Donetsk
+  branch_address: Donetsk
+  branch_code: DON
+  city: Donetsk
+  country: Ukraine
+- name: Privatbank
+  swift: PBANUA2XFEF
+  swift8: PBANUA2X
+  branch_name: Feodosiya Branch
+  branch_address: Feodosiya
+  branch_code: FEF
+  city: Feodosiya
+  country: Ukraine
+- name: Privatbank
+  swift: PBANUA2XEVF
+  swift8: PBANUA2X
+  branch_name: Evpatoria Branch
+  branch_address: Evpatoria
+  branch_code: EVF
+  city: Evpatoria
+  country: Ukraine
+- name: Privatbank
+  swift: PBANUA2XGR1
+  swift8: PBANUA2X
+  branch_name: Central Branch
+  branch_address: Gorlovka City
+  branch_code: GR1
+  city: Gorlovka City
+  country: Ukraine
+- name: Privatbank
+  swift: PBANUA2XGRL
+  swift8: PBANUA2X
+  branch_name: Gorlovka Main Branch
+  branch_address: Gorlovka City
+  branch_code: GRL
+  city: Gorlovka City
+  country: Ukraine
+- name: Privatbank
+  swift: PBANUA2XIFF
+  swift8: PBANUA2X
+  branch_name: Ivano-Frankivsk Branch
+  branch_address: Ivano-Frankivsk
+  branch_code: IFF
+  city: Ivano-Frankivsk
+  country: Ukraine
+- name: Privatbank
+  swift: PBANUA2XKHF
+  swift8: PBANUA2X
+  branch_name: Kerch Branch
+  branch_address: Kerch
+  branch_code: KHF
+  city: Kerch
+  country: Ukraine
+- name: Privatbank
+  swift: PBANUA2XGKH
+  swift8: PBANUA2X
+  branch_name: Khartsizsk
+  branch_address: Khartsizsk
+  branch_code: GKH
+  city: Khartsizsk
+  country: Ukraine
+- name: Privatbank
+  swift: PBANUA2XHAF
+  swift8: PBANUA2X
+  branch_name: Kharkiv Branch
+  branch_address: Kharkiv
+  branch_code: HAF
+  city: Kharkiv
+  country: Ukraine
+- name: Privatbank
+  swift: PBANUA2XHRN
+  swift8: PBANUA2X
+  branch_name: Kherson
+  branch_address: Kherson
+  branch_code: HRN
+  city: Kherson
+  country: Ukraine
+- name: Privatbank
+  swift: PBANUA2XHMF
+  swift8: PBANUA2X
+  branch_name: Khmelnytsky Branch
+  branch_address: Khmelnytsky
+  branch_code: HMF
+  city: Khmelnytsky
+  country: Ukraine
+- name: Privatbank
+  swift: PBANUA2XK2F
+  swift8: PBANUA2X
+  branch_name: Raschetny Centr Branch No 2
+  branch_address: Kiev
+  branch_code: K2F
+  city: Kiev
+  country: Ukraine
+- name: Procredit Bank, Ukraine (Formerly Micro Finance Bank Of Ukraine)
+  swift: MIFCUAUKXXX
+  swift8: MIFCUAUK
+  branch_name: Head Office
+  branch_address: 107-a Peremohy Av. 03115 Kiev
+  branch_code: XXX
+  city: Kiev
+  country: Ukraine
+- name: Prominvestbank
+  swift: UPIBUAUXKIE
+  swift8: UPIBUAUX
+  branch_name: Third Party Statements
+  branch_address: 12, Shevchenko Lane 01001 Kiev
+  branch_code: KIE
+  city: Kiev
+  country: Ukraine
+- name: Prominvestbank
+  swift: UPIBUAUXXXX
+  swift8: UPIBUAUX
+  branch_name: Head Office
+  branch_address: Shevchenko Lane 12 252001 Kiev
+  branch_code: XXX
+  city: Kiev
+  country: Ukraine
+- name: Prominvestbank
+  swift: UPIBUAUXDON
+  swift8: UPIBUAUX
+  branch_name: Donestsk Branch
+  branch_address: 1, Ploscha Radyanska 83002 Donetsk
+  branch_code: DON
+  city: Donetsk
+  country: Ukraine
+- name: Prominvestbank
+  swift: UPIBUAUXIVF
+  swift8: UPIBUAUX
+  branch_name: Ivano-Frankisvsk Branch
+  branch_address: 32, Vul. Dnstrovska 76015 Ivano-Frankivsk
+  branch_code: IVF
+  city: Ivano-Frankivsk
+  country: Ukraine
+- name: Prominvestbank
+  swift: UPIBUAUXREG
+  swift8: UPIBUAUX
+  branch_name: Kiev Regional Branch
+  branch_address: 8, Vul Kosiora 01135 Kiev
+  branch_code: REG
+  city: Kiev
+  country: Ukraine
+- name: Prominvestbank
+  swift: UPIBUAUXLUG
+  swift8: UPIBUAUX
+  branch_name: Luhansk Branch
+  branch_address: 36, Vul. K. Marska 91055 Luhansk
+  branch_code: LUG
+  city: Luhansk
+  country: Ukraine
+- name: Prominvestbank
+  swift: UPIBUAUXLVO
+  swift8: UPIBUAUX
+  branch_name: Lviv Brach
+  branch_address: 2, Vul. Akad Gbaryuka 79007 Lviv
+  branch_code: LVO
+  city: Lviv
+  country: Ukraine
+- name: Prominvestbank
+  swift: UPIBUAUXILY
+  swift8: UPIBUAUX
+  branch_name: Illichivsk Branch in Mariupol
+  branch_address: 136 Prospect Illicha 87535 Mariupol
+  branch_code: ILY
+  city: Mariupol
+  country: Ukraine
+- name: Prominvestbank
+  swift: UPIBUAUXNIC
+  swift8: UPIBUAUX
+  branch_name: Mykolaiv Branch
+  branch_address: 4a Vul. Dekabrystiv 54013 Mykolaiv
+  branch_code: NIC
+  city: Mykolaiv
+  country: Ukraine
+- name: Prominvestbank
+  swift: UPIBUAUXODE
+  swift8: UPIBUAUX
+  branch_name: Odesa Branch
+  branch_address: 36 Vul. Pushiinska 65026 Odesa
+  branch_code: ODE
+  city: Odesa
+  country: Ukraine
+- name: Prominvestbank
+  swift: UPIBUAUXSYM
+  swift8: UPIBUAUX
+  branch_name: Simferopol Branch
+  branch_address: 10 Vul. Sevastoposka 95011 Simferopol
+  branch_code: SYM
+  city: Simferopol
+  country: Ukraine
+- name: Prominvestbank
+  swift: UPIBUAUXZAP
+  swift8: UPIBUAUX
+  branch_name: Zaporizhye Branch
+  branch_address: 20a Proso Mayakovskoho 69035 Zaporozhye
+  branch_code: ZAP
+  city: Zaporozhye
+  country: Ukraine
+- name: Prominvestbank
+  swift: UPIBUAUXUZH
+  swift8: UPIBUAUX
+  branch_name: Uzhhrod Branch
+  branch_address: 10, Vul. Krylova 88000 Uzhhorod
+  branch_code: UZH
+  city: Uzhhorod
+  country: Ukraine
+- name: Public Joint Stock Company Bank Familny
+  swift: DOBYUA2TXXX
+  swift8: DOBYUA2T
+  branch_name: Head Office
+  branch_address: 59 Mira Avenue 83052 Donetsk
+  branch_code: XXX
+  city: Donetsk
+  country: Ukraine
+- name: Public Joint Stock Company Bank Vostok
+  swift: ACJCUA2NXXX
+  swift8: ACJCUA2N
+  branch_name: Head Office
+  branch_address: 24 Kursantskaya 49051 Dnipropetrovsk
+  branch_code: XXX
+  city: Dnipropetrovsk
+  country: Ukraine
+- name: Public Joint Stock Company Joint Stock Bank Express-Bank
+  swift: EXPBUAUKDON
+  swift8: EXPBUAUK
+  branch_name: Donetsk Branch
+  branch_address: Puskina 11, Ave. 83000 Donetsk
+  branch_code: DON
+  city: Donetsk
+  country: Ukraine
+- name: Public Joint Stock Company Joint Stock Bank Express-Bank
+  swift: EXPBUAUKKHA
+  swift8: EXPBUAUK
+  branch_name: Kharkiv Branch
+  branch_address: Slovyanskaya Street 6 61052 Kharkiv
+  branch_code: KHA
+  city: Kharkiv
+  country: Ukraine
+- name: Public Joint Stock Company Joint Stock Bank Express-Bank
+  swift: EXPBUAUKXXX
+  swift8: EXPBUAUK
+  branch_name: Head Office
+  branch_address: 25, Povitroflotsky Avenue 03049 Kiev
+  branch_code: XXX
+  city: Kiev
+  country: Ukraine
+- name: Public Joint Stock Company Joint Stock Bank Express-Bank
+  swift: EXPBUAUKKON
+  swift8: EXPBUAUK
+  branch_name: Konotop Branch
+  branch_address: Shiroka Street 4 41600 Konotop
+  branch_code: KON
+  city: Konotop
+  country: Ukraine
+- name: Public Joint Stock Company Joint Stock Bank Express-Bank
+  swift: EXPBUAUKODE
+  swift8: EXPBUAUK
+  branch_name: Odesa Branch
+  branch_address: 26,Kanatna Str. 65014 Odesa
+  branch_code: ODE
+  city: Odesa
+  country: Ukraine
+- name: Public Joint Stock Company Joint Stock Commercial Bank Noviy
+  swift: NJSOUA2NXXX
+  swift8: NJSOUA2N
+  branch_name: Head Office
+  branch_address: 93 Karl Markx Avenue 49000 Dnipropetrovsk
+  branch_code: XXX
+  city: Dnipropetrovsk
+  country: Ukraine
+- name: Public Joint Stock Company Platinum Bank
+  swift: INMCUAUKXXX
+  swift8: INMCUAUK
+  branch_name: Head Office
+  branch_address: 12 Amosova Str. 03680 Kiev
+  branch_code: XXX
+  city: Kiev
+  country: Ukraine
+- name: Public Joint Stock Company State Savings Bank Of Ukraine
+  swift: COSBUAUKCHK
+  swift8: COSBUAUK
+  branch_name: Cherkasy Regional Branch
+  branch_address: 221, Hreschatik Street 257002 Cherkasy
+  branch_code: CHK
+  city: Cherkasy
+  country: Ukraine
+- name: Public Joint Stock Company State Savings Bank Of Ukraine
+  swift: COSBUAUKCHG
+  swift8: COSBUAUK
+  branch_name: Chernihiv Regional Branch
+  branch_address: Lenina Street 19 220000 Chernihiv
+  branch_code: CHG
+  city: Chernihiv
+  country: Ukraine
+- name: Public Joint Stock Company State Savings Bank Of Ukraine
+  swift: COSBUAUKCHV
+  swift8: COSBUAUK
+  branch_name: Chernivtsi Regional Branch
+  branch_address: Chervonoarmiyska Street 224 274013 Chernivtsi
+  branch_code: CHV
+  city: Chernivtsi
+  country: Ukraine
+- name: Public Joint Stock Company State Savings Bank Of Ukraine
+  swift: COSBUAUKDNI
+  swift8: COSBUAUK
+  branch_name: Dnipropetrovsk Regional Branch
+  branch_address: Clary Cetkin Street 9-a 320044 Dnipropetrovsk
+  branch_code: DNI
+  city: Dnipropetrovsk
+  country: Ukraine
+- name: Public Joint Stock Company State Savings Bank Of Ukraine
+  swift: COSBUAUKDON
+  swift8: COSBUAUK
+  branch_name: Donetsk Regional Branch
+  branch_address: Ovnatanyana Street 34-a 340017 Donetsk
+  branch_code: DON
+  city: Donetsk
+  country: Ukraine
+- name: Public Joint Stock Company State Savings Bank Of Ukraine
+  swift: COSBUAUKIVF
+  swift8: COSBUAUK
+  branch_name: Ivano-Frankivsk Regional Branch
+  branch_address: 14 Mazepy Street 284000 Ivano-Frankivsk
+  branch_code: IVF
+  city: Ivano-Frankivsk
+  country: Ukraine
+- name: Public Joint Stock Company State Savings Bank Of Ukraine
+  swift: COSBUAUKKHA
+  swift8: COSBUAUK
+  branch_name: Kharkiv Regional Branch
+  branch_address: Konstitutsiy Sqr. 22 310003 Kharkiv
+  branch_code: KHA
+  city: Kharkiv
+  country: Ukraine
+- name: Public Joint Stock Company State Savings Bank Of Ukraine
+  swift: COSBUAUKKHE
+  swift8: COSBUAUK
+  branch_name: Kherson Regional Branch
+  branch_address: Suvorova Street 24 325000 Kherson
+  branch_code: KHE
+  city: Kherson
+  country: Ukraine
+- name: Public Joint Stock Company State Savings Bank Of Ukraine
+  swift: COSBUAUKKHM
+  swift8: COSBUAUK
+  branch_name: Khmelnytsky Regional Branch
+  branch_address: Volodymirskaya Street 109 280000 Khmelnytsky
+  branch_code: KHM
+  city: Khmelnytsky
+  country: Ukraine
+- name: Public Joint Stock Company State Savings Bank Of Ukraine
+  swift: COSBUAUKKIE
+  swift8: COSBUAUK
+  branch_name: Kyiv Regional Branch
+  branch_address: Volodymirskaya Street 27 252034 Kiev
+  branch_code: KIE
+  city: Kiev
+  country: Ukraine
+- name: Public Joint Stock Company State Savings Bank Of Ukraine
+  swift: COSBUAUKXXX
+  swift8: COSBUAUK
+  branch_name: Head Office
+  branch_address: Hospitalna Street, 12-G 01023 Kiev
+  branch_code: XXX
+  city: Kiev
+  country: Ukraine
+- name: Public Joint Stock Company State Savings Bank Of Ukraine
+  swift: COSBUAUKKIR
+  swift8: COSBUAUK
+  branch_name: Kirovohrad Regional Branch
+  branch_address: Dekabrystiv 7 316050 Kirovohrad
+  branch_code: KIR
+  city: Kirovohrad
+  country: Ukraine
+- name: Public Joint Stock Company State Savings Bank Of Ukraine
+  swift: COSBUAUKLUH
+  swift8: COSBUAUK
+  branch_name: Luhansk Regional Branch
+  branch_address: Lenina Street 40 348000 Luhansk
+  branch_code: LUH
+  city: Luhansk
+  country: Ukraine
+- name: Public Joint Stock Company State Savings Bank Of Ukraine
+  swift: COSBUAUKVOL
+  swift8: COSBUAUK
+  branch_name: Volyn Regional Branch
+  branch_address: Chervonogo Hresta Street 8 263001 Lutsk
+  branch_code: VOL
+  city: Lutsk
+  country: Ukraine
+- name: Public Joint Stock Company State Savings Bank Of Ukraine
+  swift: COSBUAUKLVI
+  swift8: COSBUAUK
+  branch_name: Lviv Regional Branch
+  branch_address: Sichovyh Striltsiv Street 9 290000 Lviv
+  branch_code: LVI
+  city: Lviv
+  country: Ukraine
+- name: Public Joint Stock Company State Savings Bank Of Ukraine
+  swift: COSBUAUKMYK
+  swift8: COSBUAUK
+  branch_name: Mykolaiv Regional Branch
+  branch_address: Kherson Avenue 50 327024 Mykolaiv
+  branch_code: MYK
+  city: Mykolaiv
+  country: Ukraine
+- name: Public Joint Stock Company State Savings Bank Of Ukraine
+  swift: COSBUAUKODE
+  swift8: COSBUAUK
+  branch_name: Odesa Regional Branch
+  branch_address: Lenina Street 6 270010 Odesa
+  branch_code: ODE
+  city: Odesa
+  country: Ukraine
+- name: Public Joint Stock Company State Savings Bank Of Ukraine
+  swift: COSBUAUKPOL
+  swift8: COSBUAUK
+  branch_name: Poltava Regional Branch
+  branch_address: Kotlyarevskogo Street 22 314000 Poltava
+  branch_code: POL
+  city: Poltava
+  country: Ukraine
+- name: Public Joint Stock Company State Savings Bank Of Ukraine
+  swift: COSBUAUKRIV
+  swift8: COSBUAUK
+  branch_name: Rivne Regional Branch
+  branch_address: Petlury Street 16 266028 Rivne
+  branch_code: RIV
+  city: Rivne
+  country: Ukraine
+- name: Public Joint Stock Company State Savings Bank Of Ukraine
+  swift: COSBUAUKCRI
+  swift8: COSBUAUK
+  branch_name: Crimea Regional Branch
+  branch_address: Kievskaya Street 55/2 333000 Simferopol
+  branch_code: CRI
+  city: Simferopol
+  country: Ukraine
+- name: Public Joint-Stock Company Bank Market Technology
+  swift: BRTSUAUKXXX
+  swift8: BRTSUAUK
+  branch_name: Head Office
+  branch_address: Lukyanivska St. 1a 04107 Kiev
+  branch_code: XXX
+  city: Kiev
+  country: Ukraine
+- name: Public Joint-Stock Company Commercial Bank Pravex-Bank
+  swift: PRAVUAUKXXX
+  swift8: PRAVUAUK
+  branch_name: Head Office
+  branch_address: Klovskiy Uzviz 9/2 01021 Kiev
+  branch_code: XXX
+  city: Kiev
+  country: Ukraine
+- name: Public Joint-Stock Company Otp Bank
+  swift: OTPVUAUKXXX
+  swift8: OTPVUAUK
+  branch_name: Head Office
+  branch_address: Otp Bank 01033 Kiev
+  branch_code: XXX
+  city: Kiev
+  country: Ukraine
+- name: Public Joint-Stock Company Otp Bank
+  swift: OTPVUAU1002
+  swift8: OTPVUAU1
+  branch_name: Besarabsky Branch
+  branch_address: 9/2 B. Vasylkivska Street 01004 Kiev
+  branch_code: '002'
+  city: Kiev
+  country: Ukraine
+- name: Public Joint-Stock Company Otp Bank
+  swift: OTPVUAU1003
+  swift8: OTPVUAU1
+  branch_name: Mykhailivsky Branch
+  branch_address: 2 Mykhailivska Street 01001 Kiev
+  branch_code: '003'
+  city: Kiev
+  country: Ukraine
+- name: Public Joint-Stock Company Otp Bank
+  swift: OTPVUAU1004
+  swift8: OTPVUAU1
+  branch_name: Pechersky Branch
+  branch_address: 44 Schorsa Street 01133 Kiev
+  branch_code: '004'
+  city: Kiev
+  country: Ukraine
+- name: Public Joint-Stock Company Otp Bank
+  swift: OTPVUAU1005
+  swift8: OTPVUAU1
+  branch_name: Obolonsky Branch
+  branch_address: 18 Tymoshenka Street 04210 Kiev
+  branch_code: '005'
+  city: Kiev
+  country: Ukraine
+- name: Public Joint-Stock Company Otp Bank
+  swift: OTPVUAU1100
+  swift8: OTPVUAU1
+  branch_name: Donetsk Branch
+  branch_address: 127 Postysheva Street 83055 Donetsk
+  branch_code: '100'
+  city: Donetsk
+  country: Ukraine
+- name: Public Joint-Stock Company Otp Bank
+  swift: OTPVUAU1200
+  swift8: OTPVUAU1
+  branch_name: Zaporizhzhya Branch
+  branch_address: 66 Lenina Av 69063 Zaporizhzhya
+  branch_code: '200'
+  city: Zaporizhzhya
+  country: Ukraine
+- name: Public Joint-Stock Company Otp Bank
+  swift: OTPVUAU1300
+  swift8: OTPVUAU1
+  branch_name: Dnipropetrovsk Branch
+  branch_address: 20 Artema Street 49030 Dnipropetrovsk
+  branch_code: '300'
+  city: Dnipropetrovsk
+  country: Ukraine
+- name: Public Joint-Stock Company Otp Bank
+  swift: OTPVUAU1400
+  swift8: OTPVUAU1
+  branch_name: Mykolaiv Branch
+  branch_address: 6a Spaska Street 54030 Mykolaiv
+  branch_code: '400'
+  city: Mykolaiv
+  country: Ukraine
+- name: Public Joint-Stock Company Otp Bank
+  swift: OTPVUAU1500
+  swift8: OTPVUAU1
+  branch_name: Odesa Branch
+  branch_address: 10 Bunina Street 65026 Odesa
+  branch_code: '500'
+  city: Odesa
+  country: Ukraine
+- name: Public Joint-Stock Company Otp Bank
+  swift: OTPVUAU1700
+  swift8: OTPVUAU1
+  branch_name: Kharkiv Branch
+  branch_address: 56 Sumska Street 61002 Kharkiv
+  branch_code: '700'
+  city: Kharkiv
+  country: Ukraine
+- name: Region Bank, Joint Stock Commercial Regional Bank
+  swift: REGBUA2KXXX
+  swift8: REGBUA2K
+  branch_name: Head Office
+  branch_address: Darwin Street 4 61002 Kharkiv
+  branch_code: XXX
+  city: Kharkiv
+  country: Ukraine
+- name: Rodovid Bank
+  swift: PERCUAUXXXX
+  swift8: PERCUAUX
+  branch_name: Head Office
+  branch_address: 1-3, Pivnychno-Syretska 04136 Kiev
+  branch_code: XXX
+  city: Kiev
+  country: Ukraine
+- name: Seb Bank
+  swift: AGGIUAUXXXX
+  swift8: AGGIUAUX
+  branch_name: Head Office
+  branch_address: Chervonoarmiyska Street 10 01004 Kiev
+  branch_code: XXX
+  city: Kiev
+  country: Ukraine
+- name: Tascombank Jsc (Formerly Bank Business Standard)
+  swift: MUNIUA22XXX
+  swift8: MUNIUA22
+  branch_name: Head Office
+  branch_address: 15a Kurenivska Street 04073 Kiev
+  branch_code: XXX
+  city: Kiev
+  country: Ukraine
+- name: Ukrainian Bank Of Reconstruction And Development
+  swift: UKRDUAUKXXX
+  swift8: UKRDUAUK
+  branch_name: Head Office
+  branch_address: 4, Olexij Terokhin Street 04080 Kiev
+  branch_code: XXX
+  city: Kiev
+  country: Ukraine
+- name: Ukrainian Capital Bank
+  swift: UKCAUAUKXXX
+  swift8: UKCAUAUK
+  branch_name: Head Office
+  branch_address: Pobedy Avenue, 67 03062 Kiev
+  branch_code: XXX
+  city: Kiev
+  country: Ukraine
+- name: Ukrainian Professional Bank Open Joint-Stock Company
+  swift: UKPBUAUKXXX
+  swift8: UKPBUAUK
+  branch_name: Head Office
+  branch_address: 15 2660 Kiev
+  branch_code: XXX
+  city: Kiev
+  country: Ukraine
+- name: Ukrgasbank Jsb
+  swift: UGASUAUKXXX
+  swift8: UGASUAUK
+  branch_name: Head Office
+  branch_address: Chervonoarmiyska, 39 01004 Kiev
+  branch_code: XXX
+  city: Kiev
+  country: Ukraine
+- name: Ukrinbank
+  swift: UKRBUAUXXXX
+  swift8: UKRBUAUX
+  branch_name: Head Office
+  branch_address: 10 a Smirnova-Lastochkina Street 04053 Kiev
+  branch_code: XXX
+  city: Kiev
+  country: Ukraine
+- name: Ukrsibbank
+  swift: KHABUA2KXXX
+  swift8: KHABUA2K
+  branch_name: Head Office
+  branch_address: Moskovsky Ave 60 61001 Kharkiv
+  branch_code: XXX
+  city: Kharkiv
+  country: Ukraine
+- name: Ukrsotsbank
+  swift: UKRSUAUXXXX
+  swift8: UKRSUAUX
+  branch_name: Head Office
+  branch_address: Kovpaka Street 29 03150 Kiev
+  branch_code: XXX
+  city: Kiev
+  country: Ukraine
+- name: Unex Joint Stock Bank
+  swift: UNJTUAUKXXX
+  swift8: UNJTUAUK
+  branch_name: Head Office
+  branch_address: 38 Pochainynska St. 04070 Kiev
+  branch_code: XXX
+  city: Kiev
+  country: Ukraine
+- name: Universal Bank Ojsc
+  swift: UNJSUAUKXXX
+  swift8: UNJSUAUK
+  branch_name: Head Office
+  branch_address: 54/19 Avtozavodskaya Str. 04114 Kiev
+  branch_code: XXX
+  city: Kiev
+  country: Ukraine
+- name: "'east-industrial Commercial Bank ' Jsc"
+  swift: EACJUA21XXX
+  swift8: EACJUA21
+  branch_name: Head Office
+  branch_address: 155/26 Bakinskih Komisarov Str 91047 Lugansk
+  branch_code: XXX
+  city: Lugansk
+  country: Ukraine
+- name: "'industrialbank'"
+  swift: IJSOUA2NDNI
+  swift8: IJSOUA2N
+  branch_name: Dnipropetrovsk Branch
+  branch_address: Voroshilova 16 49044 Dnipropetrovsk
+  branch_code: DNI
+  city: Dnipropetrovsk
+  country: Ukraine
+- name: "'industrialbank'"
+  swift: IJSOUA2NKHE
+  swift8: IJSOUA2N
+  branch_name: Kherson Branch
+  branch_address: I. Kulika 77 73008 Kherson
+  branch_code: KHE
+  city: Kherson
+  country: Ukraine
+- name: "'industrialbank'"
+  swift: IJSOUA2NKIE
+  swift8: IJSOUA2N
+  branch_name: Kiev Branch
+  branch_address: Kutuzova 18/7 01133 Kiev
+  branch_code: KIE
+  city: Kiev
+  country: Ukraine
+- name: "'industrialbank'"
+  swift: IJSOUA2NKRE
+  swift8: IJSOUA2N
+  branch_name: Kremenchug Branch
+  branch_address: Lenina 18/14 39600 Kremenchug
+  branch_code: KRE
+  city: Kremenchug
+  country: Ukraine
+- name: "'industrialbank'"
+  swift: IJSOUA2NLUH
+  swift8: IJSOUA2N
+  branch_name: Luhansk
+  branch_address: Lenina 2 91055 Luhansk
+  branch_code: LUH
+  city: Luhansk
+  country: Ukraine
+- name: "'industrialbank'"
+  swift: IJSOUA2NLVI
+  swift8: IJSOUA2N
+  branch_name: Lviv Branch
+  branch_address: Lypynskogo 12 79000 Lviv
+  branch_code: LVI
+  city: Lviv
+  country: Ukraine
+- name: "'industrialbank'"
+  swift: IJSOUA2NRIV
+  swift8: IJSOUA2N
+  branch_name: Rivne Branch
+  branch_address: Soborna 40 33028 Rivne
+  branch_code: RIV
+  city: Rivne
+  country: Ukraine
+- name: "'industrialbank'"
+  swift: IJSOUA2NSUM
+  swift8: IJSOUA2N
+  branch_name: Sumy Branch
+  branch_address: Cherepina 26 40035 Sumy
+  branch_code: SUM
+  city: Sumy
+  country: Ukraine
+- name: "'industrialbank'"
+  swift: IJSOUA2NXXX
+  swift8: IJSOUA2N
+  branch_name: Head Office
+  branch_address: 39d-40 Let Sov. Ukraini 69037 Zaporozhye
+  branch_code: XXX
+  city: Zaporozhye
+  country: Ukraine
+- name: "'industrialbank'"
+  swift: IJSOUA2NZAP
+  swift8: IJSOUA2N
+  branch_name: Zaporozhye Branch
+  branch_address: Zaporozhye
+  branch_code: ZAP
+  city: Zaporozhye
+  country: Ukraine
+- name: "'raiffeisen Bank Aval' Public Joint Stock Company"
+  swift: AVALUAUKCKB
+  swift8: AVALUAUK
+  branch_name: Central Kiev Branch
+  branch_address: Kiev
+  branch_code: CKB
+  city: Kiev
+  country: Ukraine
+- name: "'raiffeisen Bank Aval' Public Joint Stock Company"
+  swift: AVALUAUKDNI
+  swift8: AVALUAUK
+  branch_name: Dnipropetrovsk Branch
+  branch_address: Dnipropetrovsk
+  branch_code: DNI
+  city: Dnipropetrovsk
+  country: Ukraine
+- name: "'raiffeisen Bank Aval' Public Joint Stock Company"
+  swift: AVALUAUKKHA
+  swift8: AVALUAUK
+  branch_name: Kharkiv Branch
+  branch_address: Kharkiv
+  branch_code: KHA
+  city: Kharkiv
+  country: Ukraine
+- name: "'raiffeisen Bank Aval' Public Joint Stock Company"
+  swift: AVALUAUKKHE
+  swift8: AVALUAUK
+  branch_name: Kherson Branch
+  branch_address: Kherson
+  branch_code: KHE
+  city: Kherson
+  country: Ukraine
+- name: "'raiffeisen Bank Aval' Public Joint Stock Company"
+  swift: AVALUAUKKIR
+  swift8: AVALUAUK
+  branch_name: Kirovohrad Branch
+  branch_address: Kirovohrad
+  branch_code: KIR
+  city: Kirovohrad
+  country: Ukraine
+- name: "'raiffeisen Bank Aval' Public Joint Stock Company"
+  swift: AVALUAUKLVI
+  swift8: AVALUAUK
+  branch_name: Lviv Branch
+  branch_address: Lviv
+  branch_code: LVI
+  city: Lviv
+  country: Ukraine
+- name: "'raiffeisen Bank Aval' Public Joint Stock Company"
+  swift: AVALUAUKNIC
+  swift8: AVALUAUK
+  branch_name: Mykolaiv Branch
+  branch_address: Mykolaiv
+  branch_code: NIC
+  city: Mykolaiv
+  country: Ukraine
+- name: "'raiffeisen Bank Aval' Public Joint Stock Company"
+  swift: AVALUAUKODE
+  swift8: AVALUAUK
+  branch_name: Odesa Branch
+  branch_address: Odesa
+  branch_code: ODE
+  city: Odesa
+  country: Ukraine
+- name: "'raiffeisen Bank Aval' Public Joint Stock Company"
+  swift: AVALUAUKXXX
+  swift8: AVALUAUK
+  branch_name: Head Office
+  branch_address: Leskov Street 9 01011 Kiev
+  branch_code: XXX
+  city: Kiev
+  country: Ukraine
+- name: "'subsidiary Bank Sberbank Of Russia' Public Joint-stock Company"
+  swift: SABRUAUKXXX
+  swift8: SABRUAUK
+  branch_name: Head Office
+  branch_address: 46 Volodymirska Street 01034 Kiev
+  branch_code: XXX
+  city: Kiev
+  country: Ukraine
+- name: "'ukrainian Financial Group' Commercial Bank B"
+  swift: UFGCUAU1XXX
+  swift8: UFGCUAU1
+  branch_name: Head Office
+  branch_address: Grushevsky Street, 34/1 01001 Kiev
+  branch_code: XXX
+  city: Kiev
+  country: Ukraine
+- name: Arcelormittal Kryviy Rih Vat
+  swift: USINUA21XXX
+  swift8: USINUA21
+  branch_name: Head Office
+  branch_address: 1, Ordzhonokidze Street 50095 Kryvy Rih
+  branch_code: XXX
+  city: Kryvy Rih
+  country: Ukraine
+- name: Argo Ltd
+  swift: AROOUA21XXX
+  swift8: AROOUA21
+  branch_name: Head Office
+  branch_address: 20, Vynnychenko Str. 58009 Chernivtsi
+  branch_code: XXX
+  city: Chernivtsi
+  country: Ukraine
+- name: Bank Alliance Pjsc
+  swift: ALJJUAU1XXX
+  swift8: ALJJUAU1
+  branch_name: Head Office
+  branch_address: 16-a Building 04073 Kiev
+  branch_code: XXX
+  city: Kiev
+  country: Ukraine
+- name: Bank Prestige Jsb
+  swift: SLAPUAU1XXX
+  swift8: SLAPUAU1
+  branch_name: Head Office
+  branch_address: 6, Proreznaya Street 1034 Kiev
+  branch_code: XXX
+  city: Kiev
+  country: Ukraine
+- name: Cb 'zemelny Capital', Ltd.
+  swift: ZECPUAU1XXX
+  swift8: ZECPUAU1
+  branch_name: Head Office
+  branch_address: N. 15 Pushkina Str. 49101 Dnipropetrovsk
+  branch_code: XXX
+  city: Dnipropetrovsk
+  country: Ukraine
+- name: Chernigiv Bank
+  swift: CHRKUA21XXX
+  swift8: CHRKUA21
+  branch_name: Head Office
+  branch_address: Vul Serjozhnikova 64 Chernihiv
+  branch_code: XXX
+  city: Chernihiv
+  country: Ukraine
+- name: Credit Agricole Bank Pjsc
+  swift: AGRIUAUKCIB
+  swift8: AGRIUAUK
+  branch_name: Cib Branch
+  branch_address: 23-A, Volodymyrska St. 01034 Kyiv
+  branch_code: CIB
+  city: Kyiv
+  country: Ukraine
+- name: Credit Agricole Bank Pjsc
+  swift: AGRIUAUKXXX
+  swift8: AGRIUAUK
+  branch_name: Head Office
+  branch_address: 42/4, Pushkinska St. 01004 Kiev
+  branch_code: XXX
+  city: Kiev
+  country: Ukraine
+- name: Credit Agricole Bank Pjsc
+  swift: INEJUAUK201
+  swift8: INEJUAUK
+  branch_name: Dnepropetrovsk Branch
+  branch_address: 2, Pivdenna Street 49044 Dnipropetrovsk
+  branch_code: '201'
+  city: Dnipropetrovsk
+  country: Ukraine
+- name: Credit Agricole Bank Pjsc
+  swift: INEJUAUK501
+  swift8: INEJUAUK
+  branch_name: Donetsk Branch
+  branch_address: 4, Konstitution Area 83000 Donetsk
+  branch_code: '501'
+  city: Donetsk
+  country: Ukraine
+- name: Credit Agricole Bank Pjsc
+  swift: INEJUAUKXXX
+  swift8: INEJUAUK
+  branch_name: Head Office
+  branch_address: 42/4, Pushkinska St. 01004 Kiev
+  branch_code: XXX
+  city: Kiev
+  country: Ukraine
+- name: Credit Agricole Bank Pjsc
+  swift: INEJUAUK401
+  swift8: INEJUAUK
+  branch_name: Kharkov Branch
+  branch_address: 2, R. Luksemburg Area 61003 Kharkiv
+  branch_code: '401'
+  city: Kharkiv
+  country: Ukraine
+- name: Credit Agricole Bank Pjsc
+  swift: INEJUAUK101
+  swift8: INEJUAUK
+  branch_name: Lvov Branch
+  branch_address: 23, Pekarska Street 79008 Lviv
+  branch_code: '101'
+  city: Lviv
+  country: Ukraine
+- name: Credit Agricole Bank Pjsc
+  swift: INEJUAUK301
+  swift8: INEJUAUK
+  branch_name: Poltava Branch
+  branch_address: 62, Shevchenka Street 36039 Poltava
+  branch_code: '301'
+  city: Poltava
+  country: Ukraine
+- name: Credit Agricole Bank Pjsc
+  swift: INEJUAUK711
+  swift8: INEJUAUK
+  branch_name: Odessa Branch
+  branch_address: 25a, Fontanska Doroga Street 65009 Odesa
+  branch_code: '711'
+  city: Odesa
+  country: Ukraine
+- name: Credit Agricole Bank Pjsc
+  swift: INEJUAUK601
+  swift8: INEJUAUK
+  branch_name: Vinnitsa Branch
+  branch_address: 10, Teatralna Street 21050 Vinnytsia
+  branch_code: '601'
+  city: Vinnytsia
+  country: Ukraine
+- name: Credit Optima Bank Pjsc
+  swift: CEOIUAU1XXX
+  swift8: CEOIUAU1
+  branch_name: Head Office
+  branch_address: 69, Dmitrovskaya Street 01135 Kiev
+  branch_code: XXX
+  city: Kiev
+  country: Ukraine
+- name: Credit Union Narodna
+  swift: CRURUA21XXX
+  swift8: CRURUA21
+  branch_name: Head Office
+  branch_address: Korobov 3a 49099 Dnipropetrovsk
+  branch_code: XXX
+  city: Dnipropetrovsk
+  country: Ukraine
+- name: Delta Bank
+  swift: DELTUAU1XXX
+  swift8: DELTUAU1
+  branch_name: Head Office
+  branch_address: Ul. Shchorsa 36b 1133 Kiev
+  branch_code: XXX
+  city: Kiev
+  country: Ukraine
+- name: Dialogbank, Ltd.
+  swift: DIAOUA21XXX
+  swift8: DIAOUA21
+  branch_name: Head Office
+  branch_address: 26, Sverdlova Str. 49101 Dnipropetrovsk
+  branch_code: XXX
+  city: Dnipropetrovsk
+  country: Ukraine
+- name: Dragon Capital
+  swift: DRCPUAU1XXX
+  swift8: DRCPUAU1
+  branch_name: Head Office
+  branch_address: 36d, Saksaganskogo St. 01036 Kiev
+  branch_code: XXX
+  city: Kiev
+  country: Ukraine
+- name: Drgn Limited
+  swift: DRAOUAU1XXX
+  swift8: DRAOUAU1
+  branch_name: Head Office
+  branch_address: 36-B Saksahanskogo 01033 Kiev
+  branch_code: XXX
+  city: Kiev
+  country: Ukraine
+- name: Etalon Bank
+  swift: ETALUAU1XXX
+  swift8: ETALUAU1
+  branch_name: Head Office
+  branch_address: Proreznaya St., 6 252034 Kiev
+  branch_code: XXX
+  city: Kiev
+  country: Ukraine
+- name: Fidobank (formerly Seb Bank
+  swift: FDBKUAUXXXX
+  swift8: FDBKUAUX
+  branch_name: Head Office
+  branch_address: Chervonoarmiyska Street 10 01004 Kiev
+  branch_code: XXX
+  city: Kiev
+  country: Ukraine
+- name: Foyil Securities New Europe Zat
+  swift: FSNEUAU1XXX
+  swift8: FSNEUAU1
+  branch_name: Head Office
+  branch_address: 8, Iliinska Street 4070 Kiev
+  branch_code: XXX
+  city: Kiev
+  country: Ukraine
+- name: Gasbank, Joint Stock Bank Ukraine
+  swift: GJSAUAU1XXX
+  swift8: GJSAUAU1
+  branch_name: Head Office
+  branch_address: Ierevanskastreet 1 252086 Kiev
+  branch_code: XXX
+  city: Kiev
+  country: Ukraine
+- name: Interregional Financial Company
+  swift: INFYUAU1XXX
+  swift8: INFYUAU1
+  branch_name: Head Office
+  branch_address: 36b Saksaganskogo Street 01033 Kiev
+  branch_code: XXX
+  city: Kiev
+  country: Ukraine
+- name: Invest-bank Ukraine Jsc
+  swift: KIBBUA21XXX
+  swift8: KIBBUA21
+  branch_name: Head Office
+  branch_address: 11, Novgorodskaya Str 61166 Kharkiv
+  branch_code: XXX
+  city: Kharkiv
+  country: Ukraine
+- name: Investbank Joint Stock Commercial Bank
+  swift: INJOUA21XXX
+  swift8: INJOUA21
+  branch_name: Head Office
+  branch_address: Bolshaya Arnautskaya Str., 2b 65012 Odessa
+  branch_code: XXX
+  city: Odessa
+  country: Ukraine
+- name: Joint Stock Company 'accent-bank'
+  swift: UKCBUAU102V
+  swift8: UKCBUAU1
+  branch_name: Lviv
+  branch_address: Lviv
+  branch_code: 02V
+  city: Lviv
+  country: Ukraine
+- name: Joint Stock Company Tmm-bank
+  swift: JSOTUAU1XXX
+  swift8: JSOTUAU1
+  branch_name: Head Office
+  branch_address: Panelna 5 01002 Kiev
+  branch_code: XXX
+  city: Kiev
+  country: Ukraine
+- name: Joint-stock Bank 'morskoy'
+  swift: MORKUAU1EV2
+  swift8: MORKUAU1
+  branch_name: Evpatoria Branch 2
+  branch_address: 51/50 Lenina Street 97400 Evpatoria
+  branch_code: EV2
+  city: Evpatoria
+  country: Ukraine
+- name: Joint-stock Bank 'morskoy'
+  swift: MORKUAU1EVP
+  swift8: MORKUAU1
+  branch_name: Evpatoria Branch
+  branch_address: 102 Internatsionalnaya Street 97400 Evpatoria
+  branch_code: EVP
+  city: Evpatoria
+  country: Ukraine
+- name: Joint-stock Bank 'morskoy'
+  swift: MORKUAU1FEO
+  swift8: MORKUAU1
+  branch_name: Feodosiya Branch
+  branch_address: 11 Galereynaya Street 98100 Feodosiya
+  branch_code: FEO
+  city: Feodosiya
+  country: Ukraine
+- name: Joint-stock Bank 'morskoy'
+  swift: MORKUAU1KER
+  swift8: MORKUAU1
+  branch_name: Kerch Branch
+  branch_address: 26 Sverdlov Street 98320 Kerch
+  branch_code: KER
+  city: Kerch
+  country: Ukraine
+- name: Joint-stock Bank 'morskoy'
+  swift: MORKUAU1KHE
+  swift8: MORKUAU1
+  branch_name: Kherson Branch
+  branch_address: 14 Komsomolskaya Street 73000 Kherson
+  branch_code: KHE
+  city: Kherson
+  country: Ukraine
+- name: Joint-stock Bank 'morskoy'
+  swift: MORKUAU1MY2
+  swift8: MORKUAU1
+  branch_name: Mykolaiv Branch 2
+  branch_address: 5/7 Naberezhnaya Street 54001 Mykolaiv
+  branch_code: MY2
+  city: Mykolaiv
+  country: Ukraine
+- name: Joint-stock Bank 'morskoy'
+  swift: MORKUAU1MYK
+  swift8: MORKUAU1
+  branch_name: Mykolaiv Branch
+  branch_address: 8a Pushkinskaya Street 54001 Mykolaiv
+  branch_code: MYK
+  city: Mykolaiv
+  country: Ukraine
+- name: Joint-stock Bank 'morskoy'
+  swift: MORKUAU1SIM
+  swift8: MORKUAU1
+  branch_name: Simferopol Branch
+  branch_address: 2 Mendeleyeva Street 95034 Simferopol
+  branch_code: SIM
+  city: Simferopol
+  country: Ukraine
+- name: Jsb 'ukoopspilka'
+  swift: JSUKUAU1XXX
+  swift8: JSUKUAU1
+  branch_name: Head Office
+  branch_address: 7/11 Kreshatik Street 01001 Kiev
+  branch_code: XXX
+  city: Kiev
+  country: Ukraine
+- name: Jsb Olumpic Ukraine
+  swift: JSOUUAU1XXX
+  swift8: JSOUUAU1
+  branch_name: Head Office
+  branch_address: Stelmaha, 10a Kiev
+  branch_code: XXX
+  city: Kiev
+  country: Ukraine
+- name: Jsc 'cominvestbank' (formerly Koopinvestbank Ltd Commercial Bank
+  swift: KOOPUAUXXXX
+  swift8: KOOPUAUX
+  branch_name: Head Office
+  branch_address: 10, Hojdy Street 88000 Uzhhorod
+  branch_code: XXX
+  city: Uzhhorod
+  country: Ukraine
+- name: Kharkov Commodity Exchange
+  swift: XKHRUA21XXX
+  swift8: XKHRUA21
+  branch_name: Head Office
+  branch_address: Universitetskaya Street 5 310000 Kharkiv
+  branch_code: XXX
+  city: Kharkiv
+  country: Ukraine
+- name: Kiev Universal Exchange
+  swift: XKIEUAU1XXX
+  swift8: XKIEUAU1
+  branch_name: Head Office
+  branch_address: Kudryashova Street 1 252000 Kiev
+  branch_code: XXX
+  city: Kiev
+  country: Ukraine
+- name: National Electronic Registry Of Ukraine
+  swift: NERKUAU1XXX
+  swift8: NERKUAU1
+  branch_name: Head Office
+  branch_address: National Environmental Investment 03035 Kiev
+  branch_code: XXX
+  city: Kiev
+  country: Ukraine
+- name: Odessa Commodity Exchange
+  swift: XODEUA21XXX
+  swift8: XODEUA21
+  branch_name: Head Office
+  branch_address: Chernomorskaya Doroga 140-a 270000 Odesa
+  branch_code: XXX
+  city: Odesa
+  country: Ukraine
+- name: Odessa-bank Jscb
+  swift: ODBKUA21XXX
+  swift8: ODBKUA21
+  branch_name: Head Office
+  branch_address: 32, Knyazheskaya Street 65029 Odesa
+  branch_code: XXX
+  city: Odesa
+  country: Ukraine
+- name: Open Joint Stock Company Commercial Bank'standart'
+  swift: STRTUAUKXXX
+  swift8: STRTUAUK
+  branch_name: Head Office
+  branch_address: 45 Pochaynynskaya Str. 04071 Kiev
+  branch_code: XXX
+  city: Kiev
+  country: Ukraine
+- name: Pc Bank Jsc
+  swift: JSCJUAU1XXX
+  swift8: JSCJUAU1
+  branch_name: Head Office
+  branch_address: 4 03067 Kiev
+  branch_code: XXX
+  city: Kiev
+  country: Ukraine
+- name: Pjsc 'alpari Bank'
+  swift: ALPAUAUKXXX
+  swift8: ALPAUAUK
+  branch_name: No branch name
+  branch_address: No branch address
+  branch_code: XXX
+  city: Kiev
+  country: Ukraine
+- name: Pjsc 'cb 'financial Partner'
+  swift: FNPRUAUKXXX
+  swift8: FNPRUAUK
+  branch_name: Head Office
+  branch_address: 1 Lukyanivska Str. 04107 Kiev
+  branch_code: XXX
+  city: Kiev
+  country: Ukraine
+- name: Pjsc 'finance Bank'
+  swift: FINBUAUKXXX
+  swift8: FINBUAUK
+  branch_name: No branch name
+  branch_address: No branch address
+  branch_code: XXX
+  city: Kiev
+  country: Ukraine
+- name: Pjsc 'motor-bank'
+  swift: MOOJUA2ZXXX
+  swift8: MOOJUA2Z
+  branch_name: Head Office
+  branch_address: 54b Motorobudivnykiv Str. 69068 Zaporizhzhya
+  branch_code: XXX
+  city: Zaporizhzhya
+  country: Ukraine
+- name: Pjsc Bank Avangard
+  swift: AVGDUAUKXXX
+  swift8: AVGDUAUK
+  branch_name: No branch name
+  branch_address: No branch address
+  branch_code: XXX
+  city: Kiev
+  country: Ukraine
+- name: Pjsc Bat Prilucky Tobacco Company
+  swift: BATSUA21XXX
+  swift8: BATSUA21
+  branch_name: No branch name
+  branch_address: No branch address
+  branch_code: XXX
+  city: Prylucky
+  country: Ukraine
+- name: Pjsc Idea Bank
+  swift: IDBAUAUKXXX
+  swift8: IDBAUAUK
+  branch_name: Head Office
+  branch_address: Valova Str. 11 79008 Lviv
+  branch_code: XXX
+  city: Lviv
+  country: Ukraine
+- name: Pjsc Idea Bank
+  swift: PRJBUAU1XXX
+  swift8: PRJBUAU1
+  branch_name: Head Office
+  branch_address: 11 Valova Str. 79008 Lviv
+  branch_code: XXX
+  city: Lviv
+  country: Ukraine
+- name: Pjsc Jsc Bank Trust-capital
+  swift: TCBNUAUKXXX
+  swift8: TCBNUAUK
+  branch_name: No branch name
+  branch_address: No branch address
+  branch_code: XXX
+  city: Kiev
+  country: Ukraine
+- name: Pjsc Seb Corporate Bank
+  swift: ESSEUAUKXXX
+  swift8: ESSEUAUK
+  branch_name: Head Office
+  branch_address: 7 Mikhailovskaya Str. 01001 Kiev
+  branch_code: XXX
+  city: Kiev
+  country: Ukraine
+- name: Pjsc Ukrainian Construction Investment Bank
+  swift: UCIBUAUKXXX
+  swift8: UCIBUAUK
+  branch_name: No branch name
+  branch_address: No branch address
+  branch_code: XXX
+  city: Kyiv
+  country: Ukraine
+- name: Prichernomorye Bank
+  swift: PRIHUA21XXX
+  swift8: PRIHUA21
+  branch_name: Head Office
+  branch_address: 33 Gagarin Avenue 320005 Dnipropetrovsk
+  branch_code: XXX
+  city: Dnipropetrovsk
+  country: Ukraine
+- name: Pridneprovsk Commodity Exchange
+  swift: XPRIUA21XXX
+  swift8: XPRIUA21
+  branch_name: Head Office
+  branch_address: Dzerzhinskogo Street 23 320000 Dnipropetrovsk
+  branch_code: XXX
+  city: Dnipropetrovsk
+  country: Ukraine
+- name: Public Join-stock Company 'bank 'sofiyskiy'
+  swift: SFBNUAUKXXX
+  swift8: SFBNUAUK
+  branch_name: Head Office
+  branch_address: Vozduhoflotskiy 54 03151 Kiev
+  branch_code: XXX
+  city: Kiev
+  country: Ukraine
+- name: Public Joint Stock Company 'metabank'
+  swift: MTLGUA2NXXX
+  swift8: MTLGUA2N
+  branch_name: Head Office
+  branch_address: Pr. Metallurgov, 30 69006 Zaporozhye
+  branch_code: XXX
+  city: Zaporozhye
+  country: Ukraine
+- name: Public Joint Stock Company 'state Savings Bank Of Ukraine'
+  swift: COSBUAUKSUM
+  swift8: COSBUAUK
+  branch_name: Sumy Regional Branch
+  branch_address: Gorkogo Streret 32 244030 Sumy
+  branch_code: SUM
+  city: Sumy
+  country: Ukraine
+- name: Public Joint Stock Company 'state Savings Bank Of Ukraine'
+  swift: COSBUAUKTER
+  swift8: COSBUAUK
+  branch_name: Ternopil Regional Branch
+  branch_address: Voly Sqr. 2 282001 Ternopil
+  branch_code: TER
+  city: Ternopil
+  country: Ukraine
+- name: Public Joint Stock Company 'state Savings Bank Of Ukraine'
+  swift: COSBUAUKVIN
+  swift8: COSBUAUK
+  branch_name: Vinnitsia Regional Branch
+  branch_address: Sobornaya Street 71 287100 Vinnytsia
+  branch_code: VIN
+  city: Vinnytsia
+  country: Ukraine
+- name: Public Joint Stock Company 'state Savings Bank Of Ukraine'
+  swift: COSBUAUKZAK
+  swift8: COSBUAUK
+  branch_name: Zakarpattya Regional Branch
+  branch_address: Fedentsya Street 9 294000 Uzhhorod
+  branch_code: ZAK
+  city: Uzhhorod
+  country: Ukraine
+- name: Public Joint Stock Company 'state Savings Bank Of Ukraine'
+  swift: COSBUAUKZAP
+  swift8: COSBUAUK
+  branch_name: Zaporozhye Regional Branch
+  branch_address: Lenina Avenue 48 330063 Zaporozhye
+  branch_code: ZAP
+  city: Zaporozhye
+  country: Ukraine
+- name: Public Joint Stock Company 'state Savings Bank Of Ukraine'
+  swift: COSBUAUKZHI
+  swift8: COSBUAUK
+  branch_name: Zhytomyr Regional Branch
+  branch_address: Peremogy Street 15 262014 Zhytomyr
+  branch_code: ZHI
+  city: Zhytomyr
+  country: Ukraine
+- name: Public Joint Stock Company Bank Alliance
+  swift: ALJSUAUKXXX
+  swift8: ALJSUAUK
+  branch_name: No branch name
+  branch_address: No branch address
+  branch_code: XXX
+  city: Kiev
+  country: Ukraine
+- name: Public Joint-stock Company 'bank' 'unison'
+  swift: UNSBUAUKXXX
+  swift8: UNSBUAUK
+  branch_name: Head Office
+  branch_address: 30a Nauky Avenue 03028 Kiev
+  branch_code: XXX
+  city: Kiev
+  country: Ukraine
+- name: Public Joint-stock Company Bank Mikhaylivskiy
+  swift: MIKHUAUKXXX
+  swift8: MIKHUAUK
+  branch_name: No branch name
+  branch_address: No branch address
+  branch_code: XXX
+  city: Kiev
+  country: Ukraine
+- name: Public Joint-stock Company Bank Mikhaylivskiy
+  swift: PJCMUAU1XXX
+  swift8: PJCMUAU1
+  branch_name: No branch name
+  branch_address: No branch address
+  branch_code: XXX
+  city: Kyiv
+  country: Ukraine
+- name: Samsung Electronics Ukraine Company
+  swift: SECTUAU1960
+  swift8: SECTUAU1
+  branch_name: Kiev
+  branch_address: 01032, Zhylianska St., 75a Kiev
+  branch_code: '960'
+  city: Kiev
+  country: Ukraine
+- name: Samsung Electronics Ukraine Company
+  swift: SECTUAU1962
+  swift8: SECTUAU1
+  branch_name: Kiev
+  branch_address: 01032, Zhylianska St., 75a Kiev
+  branch_code: '962'
+  city: Kiev
+  country: Ukraine
+- name: Samsung Electronics Ukraine Company
+  swift: SECTUAU1XXX
+  swift8: SECTUAU1
+  branch_name: Head Office
+  branch_address: Zhylianska St. 75a 01032 Kiev
+  branch_code: XXX
+  city: Kiev
+  country: Ukraine
+- name: Tk Credit Jscb
+  swift: TKCBUAU1XXX
+  swift8: TKCBUAU1
+  branch_name: Head Office
+  branch_address: 18/24 Dmytrivska Street 1054 Kiev
+  branch_code: XXX
+  city: Kiev
+  country: Ukraine
+- name: Ukrainian Commodity Exchange
+  swift: XUKCUAU1XXX
+  swift8: XUKCUAU1
+  branch_name: Head Office
+  branch_address: Desyatinnaya Street 4/6 252000 Kiev
+  branch_code: XXX
+  city: Kiev
+  country: Ukraine
+- name: Ukrainian State Enterprise Of Posts 'ukrposhta'
+  swift: USEUUAU1XXX
+  swift8: USEUUAU1
+  branch_name: Head Office
+  branch_address: Khreschatyk St. , 22 01001 Kiev
+  branch_code: XXX
+  city: Kiev
+  country: Ukraine
+- name: Ukrainian Universal Commodity Exchange
+  swift: XUKRUAU1XXX
+  swift8: XUKRUAU1
+  branch_name: Head Office
+  branch_address: Pr Academic Glushkova, 1 252650 Kiev
+  branch_code: XXX
+  city: Kiev
+  country: Ukraine
+- name: Ukrposhta Ukrainian State Enterprise Of Posts
+  swift: SEPSUAU1XXX
+  swift8: SEPSUAU1
+  branch_name: Head Office
+  branch_address: Khreschatyk St., 22 1001 Kiev
+  branch_code: XXX
+  city: Kiev
+  country: Ukraine
+- name: United Commercial Bank
+  swift: UNCCUA21FEO
+  swift8: UNCCUA21
+  branch_name: Feodosiya Branch
+  branch_address: 2 98100 Feodosiya
+  branch_code: FEO
+  city: Feodosiya
+  country: Ukraine
+- name: United Commercial Bank
+  swift: UNCCUA21SEV
+  swift8: UNCCUA21
+  branch_name: Primorsky Branch
+  branch_address: 99029 Sevastopol
+  branch_code: SEV
+  city: Sevastopol
+  country: Ukraine
+- name: United Commercial Bank
+  swift: UNCCUA21XXX
+  swift8: UNCCUA21
+  branch_name: Head Office
+  branch_address: 5, Karl Libknecht Street 95000 Simferopol
+  branch_code: XXX
+  city: Simferopol
+  country: Ukraine
+- name: United Commercial Bank
+  swift: UNCCUA21YAL
+  swift8: UNCCUA21
+  branch_name: Yalta Branch
+  branch_address: 5 98600 Yalta
+  branch_code: YAL
+  city: Yalta
+  country: Ukraine

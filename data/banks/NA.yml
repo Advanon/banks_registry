@@ -1,0 +1,138 @@
+---
+NA:
+- name: Absa Bank Namibia Limited
+  swift: ABSANAN1XXX
+  swift8: ABSANAN1
+  branch_name: Head Office
+  branch_address: Swaco House Windhoek
+  branch_code: XXX
+  city: Windhoek
+  country: Namibia
+- name: Bank Of Namibia
+  swift: CBKNNANAPCH
+  swift8: CBKNNANA
+  branch_name: Clearing House
+  branch_address: Windhoek
+  branch_code: PCH
+  city: Windhoek
+  country: Namibia
+- name: Bank Of Namibia
+  swift: CBKNNANXXXX
+  swift8: CBKNNANX
+  branch_name: Head Office
+  branch_address: 71 Robert Mugabe Avenue 9000 Windhoek
+  branch_code: XXX
+  city: Windhoek
+  country: Namibia
+- name: Bank Windhoek Limited
+  swift: BWLINANXCHM
+  swift8: BWLINANX
+  branch_name: Global Custody Branch
+  branch_address: Windhoek
+  branch_code: CHM
+  city: Windhoek
+  country: Namibia
+- name: Bank Windhoek Limited
+  swift: BWLINANXXXX
+  swift8: BWLINANX
+  branch_name: Head Office
+  branch_address: Independence Avenue 262 Windhoek
+  branch_code: XXX
+  city: Windhoek
+  country: Namibia
+- name: City Savings And Investment Bank Holdings Ltd.
+  swift: CSIHNAN1XXX
+  swift8: CSIHNAN1
+  branch_name: Head Office
+  branch_address: Igi Building Windhoek
+  branch_code: XXX
+  city: Windhoek
+  country: Namibia
+- name: First National Bank Of Namibia Limited
+  swift: FIRNNANXXXX
+  swift8: FIRNNANX
+  branch_name: Head Office
+  branch_address: First National Bank Building 9000 Windhoek
+  branch_code: XXX
+  city: Windhoek
+  country: Namibia
+- name: Investment House Namibia (pty) Ltd
+  swift: IHNANANXXXX
+  swift8: IHNANANX
+  branch_name: Head Office
+  branch_address: Southern Life Tower Windhoek
+  branch_code: XXX
+  city: Windhoek
+  country: Namibia
+- name: Investment House Namibia (pty) Ltd.
+  swift: HYSANAN1XXX
+  swift8: HYSANAN1
+  branch_name: Head Office
+  branch_address: Nimrod Building 9000 Windhoek
+  branch_code: XXX
+  city: Windhoek
+  country: Namibia
+- name: Irwin, Jacobs, Greene And Associates (pty) Ltd.
+  swift: IJGLNANAXXX
+  swift8: IJGLNANA
+  branch_name: Head Office
+  branch_address: Sanlam Center Windhoek
+  branch_code: XXX
+  city: Windhoek
+  country: Namibia
+- name: Namclear (pty) Limited
+  swift: NAMCNANXXXX
+  swift8: NAMCNANX
+  branch_name: Head Office
+  branch_address: First National Bank Building Windhoek
+  branch_code: XXX
+  city: Windhoek
+  country: Namibia
+- name: Namibia Equity Brokers (pty) Ltd
+  swift: NBOENANXXXX
+  swift8: NBOENANX
+  branch_name: Head Office
+  branch_address: City Centre Building Windhoek
+  branch_code: XXX
+  city: Windhoek
+  country: Namibia
+- name: Namibian Stock Exchange
+  swift: XNAMNAN1XXX
+  swift8: XNAMNAN1
+  branch_name: Head Office
+  branch_address: Kaiserkrone Centre Windhoek
+  branch_code: XXX
+  city: Windhoek
+  country: Namibia
+- name: Nedbank Namibia Limited
+  swift: NEDSNANXXXX
+  swift8: NEDSNANX
+  branch_name: Head Office
+  branch_address: 12-20 Dr Frans Indongo Street Windhoek
+  branch_code: XXX
+  city: Windhoek
+  country: Namibia
+- name: Simonis Storm Securities (pty) Ltd
+  swift: FLMSNANXXXX
+  swift8: FLMSNANX
+  branch_name: Head Office
+  branch_address: 152 Robert Mugabe Ave. Windhoek
+  branch_code: XXX
+  city: Windhoek
+  country: Namibia
+- name: Small And Medium Enterprises Bank
+  swift: SMEBNANAXXX
+  swift8: SMEBNANA
+  branch_name: Head Office
+  branch_address: 172 Jan Jonker Street, Ausspanplatz 9000 Windhoek
+  branch_code: XXX
+  city: Windhoek
+  country: Namibia
+- name: Standard Bank Namibia Limited
+  swift: SBNMNANXXXX
+  swift8: SBNMNANX
+  branch_name: Head Office
+  branch_address: Mutual Platz, Post Mall Street Windhoek
+  branch_code: XXX
+  city: Windhoek
+  country: Namibia

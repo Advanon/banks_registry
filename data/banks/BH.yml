@@ -1,0 +1,1146 @@
+---
+BH:
+- name: Allied Banking Corporation
+  swift: ABCMBHB1XXX
+  swift8: ABCMBHB1
+  branch_name: Head Office
+  branch_address: Bahrain Tower Manama
+  branch_code: XXX
+  city: Manama
+  country: Bahrain
+- name: Arab Bank Plc
+  swift: ARABBHBMMAN
+  swift8: ARABBHBM
+  branch_name: Commercial Branch
+  branch_address: Government Street Manama
+  branch_code: MAN
+  city: Manama
+  country: Bahrain
+- name: Bank Of Baroda
+  swift: BARBBHBMXXX
+  swift8: BARBBHBM
+  branch_name: Head Office
+  branch_address: Bab-Al-Bahrain Building 2778 Manama
+  branch_code: XXX
+  city: Manama
+  country: Bahrain
+- name: Canara Bank
+  swift: CNRBBHBMXXX
+  swift8: CNRBBHBM
+  branch_name: Head Office
+  branch_address: Zamil Tower 65170 Manama
+  branch_code: XXX
+  city: Manama
+  country: Bahrain
+- name: Citibank N.A.
+  swift: CITIBHBXBBU
+  swift8: CITIBHBX
+  branch_name: Bahrain Offshore Unit
+  branch_address: Manama
+  branch_code: BBU
+  city: Manama
+  country: Bahrain
+- name: Citibank N.A.
+  swift: CITIBHBXTRD
+  swift8: CITIBHBX
+  branch_name: Trade
+  branch_address: Manama
+  branch_code: TRD
+  city: Manama
+  country: Bahrain
+- name: Citibank N.A.
+  swift: CITIBHBXXXX
+  swift8: CITIBHBX
+  branch_name: Head Office
+  branch_address: Bab Al Bahrain Building Manama
+  branch_code: XXX
+  city: Manama
+  country: Bahrain
+- name: Credit Agricole Cib
+  swift: BSUIBHBMXXX
+  swift8: BSUIBHBM
+  branch_name: Head Office
+  branch_address: Addax Tower Manama
+  branch_code: XXX
+  city: Manama
+  country: Bahrain
+- name: Gulf International Bank, B.S.C.
+  swift: GULFBHBMCLS
+  swift8: GULFBHBM
+  branch_name: Manama
+  branch_address: Al-Dowali Building Manama
+  branch_code: CLS
+  city: Manama
+  country: Bahrain
+- name: Gulf International Bank, B.S.C.
+  swift: GULFBHBMXXX
+  swift8: GULFBHBM
+  branch_name: Head Office
+  branch_address: Al-Dowali Building Manama
+  branch_code: XXX
+  city: Manama
+  country: Bahrain
+- name: Habib Bank Ltd.
+  swift: HABBBHBMOBU
+  swift8: HABBBHBM
+  branch_name: Offshore Banking Unit
+  branch_address: Babul Bahrain Bldg. Manama
+  branch_code: OBU
+  city: Manama
+  country: Bahrain
+- name: Habib Bank Ltd.
+  swift: HABBBHBMXXX
+  swift8: HABBBHBM
+  branch_name: Head Office
+  branch_address: Manama Center Manama
+  branch_code: XXX
+  city: Manama
+  country: Bahrain
+- name: Hdfc Bank Limited
+  swift: HDFCBHBMXXX
+  swift8: HDFCBHBM
+  branch_name: Head Office
+  branch_address: Building 1459 Manama
+  branch_code: XXX
+  city: Manama
+  country: Bahrain
+- name: Icici Bank Ltd
+  swift: ICICBHBMCOP
+  swift8: ICICBHBM
+  branch_name: Central Operations
+  branch_address: Manama
+  branch_code: COP
+  city: Manama
+  country: Bahrain
+- name: Icici Bank Ltd
+  swift: ICICBHBMGTS
+  swift8: ICICBHBM
+  branch_name: Global Trade Service Unit
+  branch_address: Municipality No. 116, Building 114 1494 Manama
+  branch_code: GTS
+  city: Manama
+  country: Bahrain
+- name: Icici Bank Ltd
+  swift: ICICBHBMIOG
+  swift8: ICICBHBM
+  branch_name: Iiog
+  branch_address: Municipality No. 116, Building 114 1494 Manama
+  branch_code: IOG
+  city: Manama
+  country: Bahrain
+- name: Icici Bank Ltd
+  swift: ICICBHBMTMG
+  swift8: ICICBHBM
+  branch_name: Treasury
+  branch_address: Municipality No. 116, Building 114 1494 Manama
+  branch_code: TMG
+  city: Manama
+  country: Bahrain
+- name: Icici Bank Ltd
+  swift: ICICBHBMXXX
+  swift8: ICICBHBM
+  branch_name: Head Office
+  branch_address: Manama
+  branch_code: XXX
+  city: Manama
+  country: Bahrain
+- name: Jpmorgan Chase Bank, N.A.
+  swift: CHASBHBMKEY
+  swift8: CHASBHBM
+  branch_name: Test Key and Bke Administration
+  branch_address: Manama
+  branch_code: KEY
+  city: Manama
+  country: Bahrain
+- name: Jpmorgan Chase Bank, N.A.
+  swift: CHASBHBMXXX
+  swift8: CHASBHBM
+  branch_name: Head Office
+  branch_address: Bahrain Commercial Complex Manama
+  branch_code: XXX
+  city: Manama
+  country: Bahrain
+- name: National Bank Of Pakistan
+  swift: NBPABHBMXXX
+  swift8: NBPABHBM
+  branch_name: Head Office
+  branch_address: 9-Manama Centre Manama
+  branch_code: XXX
+  city: Manama
+  country: Bahrain
+- name: Standard Chartered Bank
+  swift: SCBLBHBMOBU
+  swift8: SCBLBHBM
+  branch_name: Offshore Banking Unit
+  branch_address: Manama
+  branch_code: OBU
+  city: Manama
+  country: Bahrain
+- name: Standard Chartered Bank
+  swift: SCBLBHBMXXX
+  swift8: SCBLBHBM
+  branch_name: All Offices
+  branch_address: Building 180 315 Manama
+  branch_code: XXX
+  city: Manama
+  country: Bahrain
+- name: Bank Of Tokyo-mitsubishi Ufj, Ltd., The
+  swift: BOTKBHBMXXX
+  swift8: BOTKBHBM
+  branch_name: Bahrain Branch
+  branch_address: Standard Chartered Building Manama
+  branch_code: XXX
+  city: Manama
+  country: Bahrain
+- name: Abc Islamic Bank (e.c
+  swift: ABCIBHBMXXX
+  swift8: ABCIBHBM
+  branch_name: Head Office
+  branch_address: Abc Tower, Building 152 Manama
+  branch_code: XXX
+  city: Manama
+  country: Bahrain
+- name: Ahli United Bank B.s.c.
+  swift: AUBBBHBMISB
+  swift8: AUBBBHBM
+  branch_name: Alhilal Islamic Banking Services
+  branch_address: Ahli United Bank 2424 Manama
+  branch_code: ISB
+  city: Manama
+  country: Bahrain
+- name: Ahli United Bank B.s.c.
+  swift: AUBBBHBMXXX
+  swift8: AUBBBHBM
+  branch_name: Head Office
+  branch_address: Aub Seef Hq Manama
+  branch_code: XXX
+  city: Manama
+  country: Bahrain
+- name: Al Ahlia Securities W.l.l
+  swift: GUSRBHB1XXX
+  swift8: GUSRBHB1
+  branch_name: Head Office
+  branch_address: Al-Hidaya Building 1 Manama
+  branch_code: XXX
+  city: Manama
+  country: Bahrain
+- name: Al Baraka Islamic Bank
+  swift: ABIBBHBMXXX
+  swift8: ABIBBHBM
+  branch_name: Head Office
+  branch_address: Al Baraka Tower 1882 Manama
+  branch_code: XXX
+  city: Manama
+  country: Bahrain
+- name: Al Salam Bank Bahrain
+  swift: ALSABHBMXXX
+  swift8: ALSABHBM
+  branch_name: Head Office
+  branch_address: Avenue 58 Manama
+  branch_code: XXX
+  city: Manama
+  country: Bahrain
+- name: Albaraka Banking Group
+  swift: ABBGBHBMXXX
+  swift8: ABBGBHBM
+  branch_name: Head Office
+  branch_address: Albaraka Tower 1882 Manama
+  branch_code: XXX
+  city: Manama
+  country: Bahrain
+- name: Allied Bank Limited, Wholesale Banking Branch
+  swift: ABLWBHBMXXX
+  swift8: ABLWBHBM
+  branch_name: Head Office
+  branch_address: Al Rossais Tower 11838 Manama
+  branch_code: XXX
+  city: Manama
+  country: Bahrain
+- name: Alubaf Arab International Bank B.s.c. (c
+  swift: ALUBBHBMXXX
+  swift8: ALUBBHBM
+  branch_name: Head Office
+  branch_address: Wind Tower, Building No. 403 Manama
+  branch_code: XXX
+  city: Manama
+  country: Bahrain
+- name: Arab Bank Plc, Offshore Banking Unit (obu
+  swift: ARABBHBMXXX
+  swift8: ARABBHBM
+  branch_name: Head Office
+  branch_address: Building 540/542 317 Manama
+  branch_code: XXX
+  city: Manama
+  country: Bahrain
+- name: Arab Banking Corporation (b.s.c.
+  swift: ABCOBHBMXXX
+  swift8: ABCOBHBM
+  branch_name: Head Office
+  branch_address: Abc Tower Building No. 152, Manama
+  branch_code: XXX
+  city: Manama
+  country: Bahrain
+- name: Arab Financial Services Co. B.s.c
+  swift: AFSCBHB1XXX
+  swift8: AFSCBHB1
+  branch_name: Head Office
+  branch_address: Afs Tower Manama
+  branch_code: XXX
+  city: Manama
+  country: Bahrain
+- name: Arab Investment Company, The
+  swift: TAIQBHBMXXX
+  swift8: TAIQBHBM
+  branch_name: Head Office
+  branch_address: The Arab Investment Co. Bldg 2309 Manama
+  branch_code: XXX
+  city: Manama
+  country: Bahrain
+- name: Arab Petroleum Investments Corporation
+  swift: APICBHBMBH2
+  swift8: APICBHBM
+  branch_name: Apicorp Bahrain Project
+  branch_address: Al Muayyed Tower Manama
+  branch_code: BH2
+  city: Manama
+  country: Bahrain
+- name: Arab Petroleum Investments Corporation
+  swift: APICBHBMXXX
+  swift8: APICBHBM
+  branch_name: Head Office
+  branch_address: Al Moayyed Tower Manama
+  branch_code: XXX
+  city: Manama
+  country: Bahrain
+- name: Arcapita
+  swift: FIIVBHBMXXX
+  swift8: FIIVBHBM
+  branch_name: Head Office
+  branch_address: Batelco Com. Ctr Manama
+  branch_code: XXX
+  city: Manama
+  country: Bahrain
+- name: Askari Bank Limited, Bahrain Branch
+  swift: ASCMBHBMXXX
+  swift8: ASCMBHBM
+  branch_name: Head Office
+  branch_address: Bdb Building Manama
+  branch_code: XXX
+  city: Manama
+  country: Bahrain
+- name: Bahrain Bourse
+  swift: BHBNBHBMXXX
+  swift8: BHBNBHBM
+  branch_name: Head Office
+  branch_address: Harbour Mall, Building 1435 346 Manama
+  branch_code: XXX
+  city: Manama
+  country: Bahrain
+- name: Bahrain Development Bank B S C (c
+  swift: BDBBBHBMXXX
+  swift8: BDBBBHBM
+  branch_name: Head Office
+  branch_address: Buliding 170 Manama
+  branch_code: XXX
+  city: Manama
+  country: Bahrain
+- name: Bahrain Financing Company
+  swift: BFCCBHBMXXX
+  swift8: BFCCBHBM
+  branch_name: Head Office
+  branch_address: Bab Al Bahrain Manama
+  branch_code: XXX
+  city: Manama
+  country: Bahrain
+- name: Bahrain Financing Company Bsc
+  swift: BAHFBHB1XXX
+  swift8: BAHFBHB1
+  branch_name: Head Office
+  branch_address: Citibank Building Manama
+  branch_code: XXX
+  city: Manama
+  country: Bahrain
+- name: Bahrain India International Exchange Co.b.s.c
+  swift: BIEEBHB1XXX
+  swift8: BIEEBHB1
+  branch_name: Head Office
+  branch_address: No. 3809 304 Manama
+  branch_code: XXX
+  city: Manama
+  country: Bahrain
+- name: Bahrain Islamic Bank B.s.c.
+  swift: BIBBBHBMINV
+  swift8: BIBBBHBM
+  branch_name: Investment and Treasury Back Office
+  branch_address: Al-Salam Tower 5240 Manama
+  branch_code: INV
+  city: Manama
+  country: Bahrain
+- name: Bahrain Islamic Bank B.s.c.
+  swift: BIBBBHBMTFD
+  swift8: BIBBBHBM
+  branch_name: Trade Finance Department
+  branch_address: Al-Salam Tower 5240 Manama
+  branch_code: TFD
+  city: Manama
+  country: Bahrain
+- name: Bahrain Islamic Bank B.s.c.
+  swift: BIBBBHBMXXX
+  swift8: BIBBBHBM
+  branch_name: Head Office
+  branch_address: Al Salam Tower Manama
+  branch_code: XXX
+  city: Manama
+  country: Bahrain
+- name: Bahrain Middle East Bank B.s.c
+  swift: BMEABHBMXXX
+  swift8: BMEABHBM
+  branch_name: Head Office
+  branch_address: Bmb Centre Manama
+  branch_code: XXX
+  city: Manama
+  country: Bahrain
+- name: Bahrain Stock Exchange
+  swift: XBAHBHB1XXX
+  swift8: XBAHBHB1
+  branch_name: Head Office
+  branch_address: Al Hedaya Manama
+  branch_code: XXX
+  city: Manama
+  country: Bahrain
+- name: Bank Al Habib Limited
+  swift: BAHLBHBMXXX
+  swift8: BAHLBHBM
+  branch_name: Head Office
+  branch_address: 1302 Al Moayyed Tower Manama
+  branch_code: XXX
+  city: Manama
+  country: Bahrain
+- name: Bank Al-khair B.s.c. (c
+  swift: UINSBHBNXXX
+  swift8: UINSBHBN
+  branch_name: Head Office
+  branch_address: Tenants Wing 31700 Manama
+  branch_code: XXX
+  city: Manama
+  country: Bahrain
+- name: Bank Alfalah Limited Bahrain
+  swift: ALFHBHBMXXX
+  swift8: ALFHBHBM
+  branch_name: Head Office
+  branch_address: Bahrain Financial Harbour Manama
+  branch_code: XXX
+  city: Manama
+  country: Bahrain
+- name: Bbk
+  swift: BBKUBHBMADL
+  swift8: BBKUBHBM
+  branch_name: Adliya Branch
+  branch_address: Manama
+  branch_code: ADL
+  city: Manama
+  country: Bahrain
+- name: Bbk
+  swift: BBKUBHBMBUD
+  swift8: BBKUBHBM
+  branch_name: Budaiya Branch
+  branch_address: Manama
+  branch_code: BUD
+  city: Manama
+  country: Bahrain
+- name: Bbk
+  swift: BBKUBHBMCLG
+  swift8: BBKUBHBM
+  branch_name: Clearing Section
+  branch_address: Manama
+  branch_code: CLG
+  city: Manama
+  country: Bahrain
+- name: Bbk
+  swift: BBKUBHBMCMK
+  swift8: BBKUBHBM
+  branch_name: Central Market Branch
+  branch_address: Manama
+  branch_code: CMK
+  city: Manama
+  country: Bahrain
+- name: Bbk
+  swift: BBKUBHBMCSU
+  swift8: BBKUBHBM
+  branch_name: Lc Department
+  branch_address: Manama
+  branch_code: CSU
+  city: Manama
+  country: Bahrain
+- name: Bbk
+  swift: BBKUBHBMDIP
+  swift8: BBKUBHBM
+  branch_name: Diplomatic Area Branch
+  branch_address: Manama
+  branch_code: DIP
+  city: Manama
+  country: Bahrain
+- name: Bbk
+  swift: BBKUBHBMERF
+  swift8: BBKUBHBM
+  branch_name: East Riffa Branch
+  branch_address: Manama
+  branch_code: ERF
+  city: Manama
+  country: Bahrain
+- name: Bbk
+  swift: BBKUBHBMEXH
+  swift8: BBKUBHBM
+  branch_name: Exhibition Branch
+  branch_address: Manama
+  branch_code: EXH
+  city: Manama
+  country: Bahrain
+- name: Bbk
+  swift: BBKUBHBMHTN
+  swift8: BBKUBHBM
+  branch_name: Hamad Town
+  branch_address: Manama
+  branch_code: HTN
+  city: Manama
+  country: Bahrain
+- name: Bbk
+  swift: BBKUBHBMITN
+  swift8: BBKUBHBM
+  branch_name: Isa Town Branch
+  branch_address: Manama
+  branch_code: ITN
+  city: Manama
+  country: Bahrain
+- name: Bbk
+  swift: BBKUBHBMLOP
+  swift8: BBKUBHBM
+  branch_name: Credit Services Unit
+  branch_address: Manama
+  branch_code: LOP
+  city: Manama
+  country: Bahrain
+- name: Bbk
+  swift: BBKUBHBMMAX
+  swift8: BBKUBHBM
+  branch_name: Credimax
+  branch_address: Al Hedaya 1 305 Manama
+  branch_code: MAX
+  city: Manama
+  country: Bahrain
+- name: Bbk
+  swift: BBKUBHBMMBR
+  swift8: BBKUBHBM
+  branch_name: Main Branch
+  branch_address: Manama
+  branch_code: MBR
+  city: Manama
+  country: Bahrain
+- name: Bbk
+  swift: BBKUBHBMMHF
+  swift8: BBKUBHBM
+  branch_name: Muharraq Branch
+  branch_address: Manama
+  branch_code: MHF
+  city: Manama
+  country: Bahrain
+- name: Bbk
+  swift: BBKUBHBMMNM
+  swift8: BBKUBHBM
+  branch_name: Manama Branch
+  branch_address: Manama
+  branch_code: MNM
+  city: Manama
+  country: Bahrain
+- name: Bbk
+  swift: BBKUBHBMMSF
+  swift8: BBKUBHBM
+  branch_name: Muharraq Suq Branch
+  branch_address: Manama
+  branch_code: MSF
+  city: Manama
+  country: Bahrain
+- name: Bbk
+  swift: BBKUBHBMREC
+  swift8: BBKUBHBM
+  branch_name: Reconciliation
+  branch_address: Manama
+  branch_code: REC
+  city: Manama
+  country: Bahrain
+- name: Bbk
+  swift: BBKUBHBMREF
+  swift8: BBKUBHBM
+  branch_name: Refinery Branch
+  branch_address: Manama
+  branch_code: REF
+  city: Manama
+  country: Bahrain
+- name: Bbk
+  swift: BBKUBHBMREM
+  swift8: BBKUBHBM
+  branch_name: Remittances Department
+  branch_address: Manama
+  branch_code: REM
+  city: Manama
+  country: Bahrain
+- name: Bbk
+  swift: BBKUBHBMSAL
+  swift8: BBKUBHBM
+  branch_name: Salaries Department
+  branch_address: Manama
+  branch_code: SAL
+  city: Manama
+  country: Bahrain
+- name: Bmi Bank Bsc (c
+  swift: BMUSBHBMWMB
+  swift8: BMUSBHBM
+  branch_name: Wealth Management Branch
+  branch_address: Bahrain World Trade Center 350 Manama
+  branch_code: WMB
+  city: Manama
+  country: Bahrain
+- name: Bmi Bank Bsc (c
+  swift: BMUSBHBMXXX
+  swift8: BMUSBHBM
+  branch_name: Head Office
+  branch_address: Bldg 128 350 Manama
+  branch_code: XXX
+  city: Manama
+  country: Bahrain
+- name: Bnp Paribas 3u
+  swift: BNPABHBWXXX
+  swift8: BNPABHBW
+  branch_name: Head Office
+  branch_address: Ugb Tower 5253 Manama
+  branch_code: XXX
+  city: Manama
+  country: Bahrain
+- name: Bnp Paribas Bahrein-manama Offshore Banking Unit(obu
+  swift: BNPABHBMWMI
+  swift8: BNPABHBM
+  branch_name: Manama Offshore Banking Unitobu
+  branch_address: Manama
+  branch_code: WMI
+  city: Manama
+  country: Bahrain
+- name: Bnp Paribas Bahrein-manama Offshore Banking Unit(obu
+  swift: BNPABHBMXXX
+  swift8: BNPABHBM
+  branch_name: Head Office
+  branch_address: Ugb Tower Manama
+  branch_code: XXX
+  city: Manama
+  country: Bahrain
+- name: Bnp Paribas Manama, Full Commercial Branch (fcb
+  swift: BNPABHBCXXX
+  swift8: BNPABHBC
+  branch_name: Head Office
+  branch_address: Ugb Tower Manama
+  branch_code: XXX
+  city: Manama
+  country: Bahrain
+- name: Bnp Paribas Manama, Full Commercial Branch (fcb
+  swift: BNPABHC1OBU
+  swift8: BNPABHC1
+  branch_name: Offshore Banking Unit
+  branch_address: Bahrain Tower Manama
+  branch_code: OBU
+  city: Manama
+  country: Bahrain
+- name: Central Bank Of Bahrain
+  swift: BMAGBHBMXXX
+  swift8: BMAGBHBM
+  branch_name: Head Office
+  branch_address: Road 1702 317 Manama
+  branch_code: XXX
+  city: Manama
+  country: Bahrain
+- name: Charles Fulton (gulf) Wll
+  swift: CFGWBHB1XXX
+  swift8: CFGWBHB1
+  branch_name: Head Office
+  branch_address: Building 203 Manama
+  branch_code: XXX
+  city: Manama
+  country: Bahrain
+- name: Credit Libanais Sal
+  swift: CLIBBHBBXXX
+  swift8: CLIBBHBB
+  branch_name: Head Office
+  branch_address: 428 Doha Tower 5576 Manama
+  branch_code: XXX
+  city: Manama
+  country: Bahrain
+- name: Denizbank As Bahrain Branch (obu
+  swift: DENIBHBXXXX
+  swift8: DENIBHBX
+  branch_name: Head Office
+  branch_address: Al Jasrah Tower, Building N0 95 Manama
+  branch_code: XXX
+  city: Manama
+  country: Bahrain
+- name: Elaf Bank Bsc Closed
+  swift: ILAFBHBMXXX
+  swift8: ILAFBHBM
+  branch_name: Head Office
+  branch_address: Addax Tower 11939 Manama
+  branch_code: XXX
+  city: Manama
+  country: Bahrain
+- name: Eskan Bank
+  swift: ESKBBHBMXXX
+  swift8: ESKBBHBM
+  branch_name: Head Office
+  branch_address: Almoayyed Tower Manama
+  branch_code: XXX
+  city: Manama
+  country: Bahrain
+- name: Finansbank A.s. Bahrain Branch
+  swift: FNNBBHBMXXX
+  swift8: FNNBBHBM
+  branch_name: Head Office
+  branch_address: Building 150 2435 Manama
+  branch_code: XXX
+  city: Manama
+  country: Bahrain
+- name: First Energy Bank
+  swift: FEBBBHBMXXX
+  swift8: FEBBBHBM
+  branch_name: Head Office
+  branch_address: Bahrain Financial Harbour 209 Manama
+  branch_code: XXX
+  city: Manama
+  country: Bahrain
+- name: First Leasing Bank
+  swift: FLBBBHB1XXX
+  swift8: FLBBBHB1
+  branch_name: Head Office
+  branch_address: Addax Tower Al Seef
+  branch_code: XXX
+  city: Seef
+  country: Bahrain
+- name: Gulf Custody Company-bharain
+  swift: GCCOBHB1XXX
+  swift8: GCCOBHB1
+  branch_name: Head Office
+  branch_address: Nbb Tower Manama
+  branch_code: XXX
+  city: Manama
+  country: Bahrain
+- name: Gulf Finance House
+  swift: GFHIBHBMXXX
+  swift8: GFHIBHBM
+  branch_name: Head Office
+  branch_address: 1708 - Al Salam Tower - 722 Manama
+  branch_code: XXX
+  city: Manama
+  country: Bahrain
+- name: Housing Bank For Trade And Finance/bahrain, Manama, The
+  swift: HBHOBHBMXXX
+  swift8: HBHOBHBM
+  branch_name: Head Office
+  branch_address: Manama Centre Manama
+  branch_code: XXX
+  city: Manama
+  country: Bahrain
+- name: Hsbc Bank Middle East
+  swift: BBMEBHBXOBU
+  swift8: BBMEBHBX
+  branch_name: Offshore Banking Unit
+  branch_address: Hsbc Bank Middle East Building 207 Muharraq
+  branch_code: OBU
+  city: Muharraq
+  country: Bahrain
+- name: Hsbc Bank Middle East
+  swift: BBMEBHBXXXX
+  swift8: BBMEBHBX
+  branch_name: Head Office
+  branch_address: Bbme Building Manama
+  branch_code: XXX
+  city: Manama
+  country: Bahrain
+- name: Ing Bank A.s. Bahrain Branch (formerly Oyak Bank A.s. Bahrain Branch
+  swift: INGBBHBMXXX
+  swift8: INGBBHBM
+  branch_name: Head Office
+  branch_address: Unitag House Manama
+  branch_code: XXX
+  city: Manama
+  country: Bahrain
+- name: Ithmaar Bank B.s.c.
+  swift: FIBHBHBMXXX
+  swift8: FIBHBHBM
+  branch_name: Head Office
+  branch_address: Addax Tower Manama
+  branch_code: XXX
+  city: Manama
+  country: Bahrain
+- name: Khaleeji Commercial Bank B.s.c. (c
+  swift: KHCBBHBMXXX
+  swift8: KHCBBHBM
+  branch_name: Head Office
+  branch_address: Al Zamil Tower 10006 Manama
+  branch_code: XXX
+  city: Manama
+  country: Bahrain
+- name: Korea Exchange Bank, Bahrain Branch
+  swift: KOEXBHBMXXX
+  swift8: KOEXBHBM
+  branch_name: Head Office
+  branch_address: Yateem Centre Building Manama
+  branch_code: XXX
+  city: Manama
+  country: Bahrain
+- name: Kuwait Finance House
+  swift: KFHOBHBMXXX
+  swift8: KFHOBHBM
+  branch_name: Head Office
+  branch_address: Dilmun Tower a Manama
+  branch_code: XXX
+  city: Manama
+  country: Bahrain
+- name: Kuwait Turkish Participation Bank Inc. Bahrain Branch
+  swift: KTEFBHBMXXX
+  swift8: KTEFBHBM
+  branch_name: Head Office
+  branch_address: Dilmun Tower a 305 Manama
+  branch_code: XXX
+  city: Manama
+  country: Bahrain
+- name: Liquidity Management Centre B.s.c
+  swift: LMCSBHBMXXX
+  swift8: LMCSBHBM
+  branch_name: Head Office
+  branch_address: 1708, Al-Salam Tower 11567 Manama
+  branch_code: XXX
+  city: Manama
+  country: Bahrain
+- name: Mashreqbank Psc.
+  swift: BOMLBHBMXXX
+  swift8: BOMLBHBM
+  branch_name: Head Office
+  branch_address: Industry Building Manama
+  branch_code: XXX
+  city: Manama
+  country: Bahrain
+- name: Mcb Bank Limited
+  swift: MUCBBHBMXXX
+  swift8: MUCBBHBM
+  branch_name: Head Office
+  branch_address: Bkic Building Manama
+  branch_code: XXX
+  city: Manama
+  country: Bahrain
+- name: Mubasher Financial Services
+  swift: MFSVBHB1XXX
+  swift8: MFSVBHB1
+  branch_name: Head Office
+  branch_address: Euro Tower 110 00 Sanabis
+  branch_code: XXX
+  city: Sanabis
+  country: Bahrain
+- name: Mubasher Financial Services Bsc Bahrain
+  swift: MFSCBHBMXXX
+  swift8: MFSCBHBM
+  branch_name: Head Office
+  branch_address: 112, Euro Tower , Building 485 Manama
+  branch_code: XXX
+  city: Manama
+  country: Bahrain
+- name: National Bank Of Abu Dhabi-offshore Banking Unit (obu
+  swift: NBADBHBMBRA
+  swift8: NBADBHBM
+  branch_name: Bahrain Branch
+  branch_address: Road No.2833, Manama
+  branch_code: BRA
+  city: Manama
+  country: Bahrain
+- name: National Bank Of Abu Dhabi-offshore Banking Unit (obu
+  swift: NBADBHBMTFO
+  swift8: NBADBHBM
+  branch_name: Trade Finance Department
+  branch_address: Manama
+  branch_code: TFO
+  city: Manama
+  country: Bahrain
+- name: National Bank Of Abu Dhabi-offshore Banking Unit (obu
+  swift: NBADBHBMXXX
+  swift8: NBADBHBM
+  branch_name: Head Office
+  branch_address: Murad Building 304 Manama
+  branch_code: XXX
+  city: Manama
+  country: Bahrain
+- name: National Bank Of Bahrain
+  swift: NBOBBHBMMTD
+  swift8: NBOBBHBM
+  branch_name: Money Transfers Department
+  branch_address: Manama
+  branch_code: MTD
+  city: Manama
+  country: Bahrain
+- name: National Bank Of Bahrain
+  swift: NBOBBHBMTOP
+  swift8: NBOBBHBM
+  branch_name: Treasury Operation
+  branch_address: Manama
+  branch_code: TOP
+  city: Manama
+  country: Bahrain
+- name: National Bank Of Bahrain
+  swift: NBOBBHBMXXX
+  swift8: NBOBBHBM
+  branch_name: Head Office
+  branch_address: Nbb Building Manama
+  branch_code: XXX
+  city: Manama
+  country: Bahrain
+- name: National Bank Of Kuwait Sak
+  swift: NBOKBHBMFCB
+  swift8: NBOKBHBM
+  branch_name: Manama
+  branch_address: Manama
+  branch_code: FCB
+  city: Manama
+  country: Bahrain
+- name: National Bank Of Kuwait Sak
+  swift: NBOKBHBMXXX
+  swift8: NBOKBHBM
+  branch_name: Head Office
+  branch_address: 135 Bmb Building Manama
+  branch_code: XXX
+  city: Manama
+  country: Bahrain
+- name: Ncb Capital
+  swift: NCCOBHBMXXX
+  swift8: NCCOBHBM
+  branch_name: Head Office
+  branch_address: The National Commercial Bank 10363 Manama
+  branch_code: XXX
+  city: Manama
+  country: Bahrain
+- name: Nikko Investment Banking (middle East) Ec
+  swift: NIBEBHB1XXX
+  swift8: NIBEBHB1
+  branch_name: Head Office
+  branch_address: Unitag House Manama
+  branch_code: XXX
+  city: Manama
+  country: Bahrain
+- name: Nomura Investment Banking (middle East) B.s.c.
+  swift: NIBMBHB1XXX
+  swift8: NIBMBHB1
+  branch_name: Head Office
+  branch_address: Bmb Center Manama
+  branch_code: XXX
+  city: Manama
+  country: Bahrain
+- name: Nonoo Exchange Company Bsc (c
+  swift: NOEXBHB1XXX
+  swift8: NOEXBHB1
+  branch_name: Head Office
+  branch_address: Shaikh Isa Avenue Manama
+  branch_code: XXX
+  city: Manama
+  country: Bahrain
+- name: Osool Asset Management B.s.c. (c
+  swift: OSOLBHBMXXX
+  swift8: OSOLBHBM
+  branch_name: No branch name
+  branch_address: No branch address
+  branch_code: XXX
+  city: Manama
+  country: Bahrain
+- name: R.p. Martin (bahrain) Wll
+  swift: MABWBHB1XXX
+  swift8: MABWBHB1
+  branch_name: Head Office
+  branch_address: Yateem Centre Manama
+  branch_code: XXX
+  city: Manama
+  country: Bahrain
+- name: Rafidain Bank
+  swift: RAFBBHBMXXX
+  swift8: RAFBBHBM
+  branch_name: Head Office
+  branch_address: Hedaya House Bldg.No.1 607 Manama
+  branch_code: XXX
+  city: Manama
+  country: Bahrain
+- name: Rafidain Bank
+  swift: RAFBBHB1XXX
+  swift8: RAFBBHB1
+  branch_name: Head Office
+  branch_address: Heaya House Building Manama Manama
+  branch_code: XXX
+  city: Manama
+  country: Bahrain
+- name: Robert Fleming Holdings Ltd
+  swift: ROFHBHB1XXX
+  swift8: ROFHBHB1
+  branch_name: Head Office
+  branch_address: Bahrain Commercial Complex Manama
+  branch_code: XXX
+  city: Manama
+  country: Bahrain
+- name: Saudi National Commercial Bank-obu
+  swift: SNCBBHBM861
+  swift8: SNCBBHBM
+  branch_name: S and P Bahrain
+  branch_address: Bwtc-27/28th Floor East Tower 10363 Manama
+  branch_code: '861'
+  city: Manama
+  country: Bahrain
+- name: Saudi National Commercial Bank-obu
+  swift: SNCBBHBMCOM
+  swift8: SNCBBHBM
+  branch_name: Full Commercial Branch
+  branch_address: Manama
+  branch_code: COM
+  city: Manama
+  country: Bahrain
+- name: Saudi National Commercial Bank-obu
+  swift: SNCBBHBMXXX
+  swift8: SNCBBHBM
+  branch_name: Head Office
+  branch_address: Diplomat Tower, Block 317 Manama
+  branch_code: XXX
+  city: Manama
+  country: Bahrain
+- name: Securities And Investment Co.(b.s.c
+  swift: SICSBHBMXXX
+  swift8: SICSBHBM
+  branch_name: Head Office
+  branch_address: Bmb Building Manama
+  branch_code: XXX
+  city: Manama
+  country: Bahrain
+- name: Seera Investment Bank B.s.c. (closed
+  swift: UIBBBHBMXXX
+  swift8: UIBBBHBM
+  branch_name: Head Office
+  branch_address: Seera Building Manama
+  branch_code: XXX
+  city: Manama
+  country: Bahrain
+- name: State Bank Of India, Obu
+  swift: SBINBHBMFCB
+  swift8: SBINBHBM
+  branch_name: Full Commercial Branch
+  branch_address: Building No 60, Block 306 Manama
+  branch_code: FCB
+  city: Manama
+  country: Bahrain
+- name: State Bank Of India, Obu
+  swift: SBINBHBMXXX
+  swift8: SBINBHBM
+  branch_name: Head Office
+  branch_address: Bahrain Tower Manama
+  branch_code: XXX
+  city: Manama
+  country: Bahrain
+- name: Taib Bank B.s.c.(c
+  swift: TAIBBHBMXXX
+  swift8: TAIBBHBM
+  branch_name: Head Office
+  branch_address: Taib Tower 20485 Manama
+  branch_code: XXX
+  city: Manama
+  country: Bahrain
+- name: Trans Arabian Development Company E.c.
+  swift: TRDEBHB1XXX
+  swift8: TRDEBHB1
+  branch_name: Head Office
+  branch_address: Manama
+  branch_code: XXX
+  city: Manama
+  country: Bahrain
+- name: Turkiye Halk Bankasi A.s. Bahrain (obu) Branch
+  swift: TRHBBHBMXXX
+  swift8: TRHBBHBM
+  branch_name: Head Office
+  branch_address: Bahrain Dev. Bank Building 11378 Manama
+  branch_code: XXX
+  city: Manama
+  country: Bahrain
+- name: Turkiye Is Bankasi A.s. Bahrain Branch
+  swift: ISBKBHBMXXX
+  swift8: ISBKBHBM
+  branch_name: Head Office
+  branch_address: Al Jasrah Tower Manama
+  branch_code: XXX
+  city: Manama
+  country: Bahrain
+- name: Turkiye Vakiflar Bankasi T.a.o. Bahrain Branch (obu
+  swift: TVBABHBMXXX
+  swift8: TVBABHBM
+  branch_name: Head Office
+  branch_address: Al Rossais Tower Manama
+  branch_code: XXX
+  city: Manama
+  country: Bahrain
+- name: United Bank Limited
+  swift: UNILBHBMXXX
+  swift8: UNILBHBM
+  branch_name: Head Office
+  branch_address: Building 218 Manama
+  branch_code: XXX
+  city: Manama
+  country: Bahrain
+- name: United Gulf Bank B.s.c
+  swift: UGUBBHBMXXX
+  swift8: UGUBBHBM
+  branch_name: Head Office
+  branch_address: Ugb Tower Manama
+  branch_code: XXX
+  city: Manama
+  country: Bahrain
+- name: United Gulf Bank Securities Co.
+  swift: UNGUBHB1XXX
+  swift8: UNGUBHB1
+  branch_name: Head Office
+  branch_address: Ugb Tower Manama
+  branch_code: XXX
+  city: Manama
+  country: Bahrain
+- name: Venture Capital Bank Bsc
+  swift: VCBKBHBMXXX
+  swift8: VCBKBHBM
+  branch_name: Head Office
+  branch_address: Venture Capital Bank Building 317 Manama
+  branch_code: XXX
+  city: Manama
+  country: Bahrain
+- name: Woori Bank, Manama
+  swift: HVBKBHBMXXX
+  swift8: HVBKBHBM
+  branch_name: Head Office
+  branch_address: Manama Centre Entrance 1 Manama
+  branch_code: XXX
+  city: Manama
+  country: Bahrain
+- name: Yapi Ve Kredi Bankasi Bahrain Offshore Banking Un It
+  swift: YAPIBHBXXXX
+  swift8: YAPIBHBX
+  branch_name: Head Office
+  branch_address: Bahrain Development, Bank Building Manama
+  branch_code: XXX
+  city: Manama
+  country: Bahrain
+- name: Zain Bahrain B.s.c Closed
+  swift: ZAINBHBMXXX
+  swift8: ZAINBHBM
+  branch_name: Head Office
+  branch_address: Al Afoo Manama
+  branch_code: XXX
+  city: Manama
+  country: Bahrain
+- name: Zenj Exchange Co. W.l.l
+  swift: ZENJBHBMXXX
+  swift8: ZENJBHBM
+  branch_name: Head Office
+  branch_address: Block 304 Manama
+  branch_code: XXX
+  city: Manama
+  country: Bahrain

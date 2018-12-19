@@ -1,0 +1,138 @@
+---
+GN:
+- name: African Development Bank
+  swift: ADBGGNG1XXX
+  swift8: ADBGGNG1
+  branch_name: Head Office
+  branch_address: 37 Cite Des Nations Conakry
+  branch_code: XXX
+  city: Conakry
+  country: Guinea
+- name: Afriland First Bank Guinee S A
+  swift: CCEIGNGNXXX
+  swift8: CCEIGNGN
+  branch_name: Head Office
+  branch_address: Commune De Kaloum 324 324 Conakry
+  branch_code: XXX
+  city: Conakry
+  country: Guinea
+- name: Banque Centrale De La Republique De Guinee
+  swift: REPCGNGAXXX
+  swift8: REPCGNGA
+  branch_name: No branch name
+  branch_address: No branch address
+  branch_code: XXX
+  city: Conakry
+  country: Guinea
+- name: Banque Centrale De La Republique De Guinee
+  swift: REPCGNGNXXX
+  swift8: REPCGNGN
+  branch_name: Head Office
+  branch_address: 12 Boulevard Du Commerce Conakry
+  branch_code: XXX
+  city: Conakry
+  country: Guinea
+- name: Banque Internationale Pour Le Commerce Et L'industrie De La Guinee
+  swift: BICIGNCXXXX
+  swift8: BICIGNCX
+  branch_name: Head Office
+  branch_address: Avenue De La Republique 1484 Conakry
+  branch_code: XXX
+  city: Conakry
+  country: Guinea
+- name: Banque Islamique De Guinee
+  swift: ISGUGNGNXXX
+  swift8: ISGUGNGN
+  branch_name: Head Office
+  branch_address: Immeuble Nafaya Conakry
+  branch_code: XXX
+  city: Conakry
+  country: Guinea
+- name: Banque Populaire Maroco-guineenne Sa
+  swift: POMBGNGNXXX
+  swift8: POMBGNGN
+  branch_name: Head Office
+  branch_address: Banque Populaire Maroco-Guineenne Conakry
+  branch_code: XXX
+  city: Conakry
+  country: Guinea
+- name: Banque Pour Le Commerce Et L'industrie De Guinee
+  swift: COLIGNGNXXX
+  swift8: COLIGNGN
+  branch_name: Head Office
+  branch_address: Siege Bci 359 Conakry
+  branch_code: XXX
+  city: Conakry
+  country: Guinea
+- name: Bsic Guinee Conakry
+  swift: BSGNGNGNXXX
+  swift8: BSGNGNGN
+  branch_name: Head Office
+  branch_address: Fawaz Building 224 Conakry
+  branch_code: XXX
+  city: Conakry
+  country: Guinea
+- name: Ecobank Guinee
+  swift: ECOCGNCNXXX
+  swift8: ECOCGNCN
+  branch_name: Head Office
+  branch_address: Immeuble Al Iman Conakry
+  branch_code: XXX
+  city: Conakry
+  country: Guinea
+- name: First International Bank Sa
+  swift: FIBLGNGNXXX
+  swift8: FIBLGNGN
+  branch_name: Head Office
+  branch_address: Avenue De La Republique 557 Conakry
+  branch_code: XXX
+  city: Conakry
+  country: Guinea
+- name: International Commercial Bank Sa
+  swift: ICMOGNCNXXX
+  swift8: ICMOGNCN
+  branch_name: Head Office
+  branch_address: Ex-Cite Chemins De Fer Conakry
+  branch_code: XXX
+  city: Conakry
+  country: Guinea
+- name: Nsia Banque Guinee
+  swift: BIAOGNGNXXX
+  swift8: BIAOGNGN
+  branch_name: Head Office
+  branch_address: Almamya 483 Conakry
+  branch_code: XXX
+  city: Conakry
+  country: Guinea
+- name: Orabank Guinee
+  swift: ORBKGNGNXXX
+  swift8: ORBKGNGN
+  branch_name: Head Office
+  branch_address: 5 Bld., Angle 6e Av. Centre Ville Conakry
+  branch_code: XXX
+  city: Conakry
+  country: Guinea
+- name: Skye Bank Guinea Limited S.a.
+  swift: SKYEGNGNXXX
+  swift8: SKYEGNGN
+  branch_name: Head Office
+  branch_address: Skye House Conakry
+  branch_code: XXX
+  city: Conakry
+  country: Guinea
+- name: Societe Generale De Banques En Guinee
+  swift: SGGNGNGNXXX
+  swift8: SGGNGNGN
+  branch_name: Head Office
+  branch_address: Avenue De La Republique Conakry
+  branch_code: XXX
+  city: Conakry
+  country: Guinea
+- name: United Bank For Africa Guinea
+  swift: UBAGGNCNXXX
+  swift8: UBAGGNCN
+  branch_name: Head Office
+  branch_address: Immeuble Sonoco 1198 Conakry
+  branch_code: XXX
+  city: Conakry
+  country: Guinea

@@ -1,0 +1,170 @@
+---
+RW:
+- name: Access Bank (rwanda) Sa
+  swift: BKORRWRWXXX
+  swift8: BKORRWRW
+  branch_name: Head Office
+  branch_address: Utc Building 2059 Kigali
+  branch_code: XXX
+  city: Kigali
+  country: Rwanda
+- name: Bank Of Kigali Limited
+  swift: BKIGRWRWXXX
+  swift8: BKIGRWRW
+  branch_name: Head Office
+  branch_address: 63 Avenue Du Commerce Kigali
+  branch_code: XXX
+  city: Kigali
+  country: Rwanda
+- name: Banque Commerciale Du Rwanda
+  swift: BCRWRWRWXXX
+  swift8: BCRWRWRW
+  branch_name: Head Office
+  branch_address: Boulevard De La Revolution, 11 Kigali
+  branch_code: XXX
+  city: Kigali
+  country: Rwanda
+- name: Banque De L'habitat Du Rwanda
+  swift: LHRWRWRWXXX
+  swift8: LHRWRWRW
+  branch_name: Head Office
+  branch_address: Avenue De La Justice 1034 Kigali
+  branch_code: XXX
+  city: Kigali
+  country: Rwanda
+- name: Banque Nationale Du Rwanda (bnr
+  swift: BNRWRWRPXXX
+  swift8: BNRWRWRP
+  branch_name: Head Office
+  branch_address: Avenue Paul 6 Kigali
+  branch_code: XXX
+  city: Kigali
+  country: Rwanda
+- name: Banque Nationale Du Rwanda (bnr
+  swift: BNRWRWRWXXX
+  swift8: BNRWRWRW
+  branch_name: Head Office
+  branch_address: Bnr 250 Kigali
+  branch_code: XXX
+  city: Kigali
+  country: Rwanda
+- name: Banque Populaire Du Rwanda S.a
+  swift: BPRWRWRWXXX
+  swift8: BPRWRWRW
+  branch_name: Head Office
+  branch_address: Avenue De Larmee Kigali
+  branch_code: XXX
+  city: Kigali
+  country: Rwanda
+- name: Compagnie Generale De Banque/cogebanque
+  swift: CGBKRWRWXXX
+  swift8: CGBKRWRW
+  branch_name: Head Office
+  branch_address: Telecom House 5230 Kigali
+  branch_code: XXX
+  city: Kigali
+  country: Rwanda
+- name: Development Bank Of Rwanda
+  swift: BRDRRWRWXXX
+  swift8: BRDRRWRW
+  branch_name: Head Office
+  branch_address: Rdb Building Kigali
+  branch_code: XXX
+  city: Kigali
+  country: Rwanda
+- name: Ecobank Rwanda
+  swift: ECOCRWRWXXX
+  swift8: ECOCRWRW
+  branch_name: Head Office
+  branch_address: 13 Avenue De La Paix Kigali
+  branch_code: XXX
+  city: Kigali
+  country: Rwanda
+- name: Equity Bank Rwanda Limited
+  swift: EQBLRWRWXXX
+  swift8: EQBLRWRW
+  branch_name: Head Office
+  branch_address: Nssf Building Kigali
+  branch_code: XXX
+  city: Kigali
+  country: Rwanda
+- name: Fina Bank S.a.
+  swift: BARWRWRWXXX
+  swift8: BARWRWRW
+  branch_name: Head Office
+  branch_address: 20 Boulevard De La Revolution Kigali
+  branch_code: XXX
+  city: Kigali
+  country: Rwanda
+- name: Kcb Rwanda Sa
+  swift: KCBLRWRW161
+  swift8: KCBLRWRW
+  branch_name: Central Clearing Centre-Head Office
+  branch_address: Plot 1229/6404 5620 Kigali
+  branch_code: '161'
+  city: Kigali
+  country: Rwanda
+- name: Kcb Rwanda Sa
+  swift: KCBLRWRW162
+  swift8: KCBLRWRW
+  branch_name: Kcb Rwanda-Rubavu
+  branch_address: Kcb Rwanda - Rubavu Branch 679 Rubavu
+  branch_code: '162'
+  city: Rubavu
+  country: Rwanda
+- name: Kcb Rwanda Sa
+  swift: KCBLRWRW163
+  swift8: KCBLRWRW
+  branch_name: Kcb Rwanda-Huye Branch
+  branch_address: Kcb Rwanda - Huye Branch 54 Huye
+  branch_code: '163'
+  city: Huye
+  country: Rwanda
+- name: Kcb Rwanda Sa
+  swift: KCBLRWRW164
+  swift8: KCBLRWRW
+  branch_name: Kcb Rwanda-Rusizi Branch
+  branch_address: Kcb Rwanda - Rusizi Branch 300 Rusizi
+  branch_code: '164'
+  city: Rusizi
+  country: Rwanda
+- name: Kcb Rwanda Sa
+  swift: KCBLRWRW165
+  swift8: KCBLRWRW
+  branch_name: Kcb Rwanda-Musanze Branch
+  branch_address: Kcb Rwanda - Musanze Branch 227 Musanze
+  branch_code: '165'
+  city: Musanze
+  country: Rwanda
+- name: Kcb Rwanda Sa
+  swift: KCBLRWRWXXX
+  swift8: KCBLRWRW
+  branch_name: Head Office
+  branch_address: Avenue De La Paix 5620 Kigali
+  branch_code: XXX
+  city: Kigali
+  country: Rwanda
+- name: National Bank Of Rwanda
+  swift: CBRWRWR1XXX
+  swift8: CBRWRWR1
+  branch_name: Head Office
+  branch_address: Kigali
+  branch_code: XXX
+  city: Kigali
+  country: Rwanda
+- name: Urwego Opportunity Bank Limited
+  swift: UOBRRWRWXXX
+  swift8: UOBRRWRW
+  branch_name: No branch name
+  branch_address: No branch address
+  branch_code: XXX
+  city: Kigali
+  country: Rwanda
+- name: Urwego Opportunity Bank Limited
+  swift: UOBRRWR1XXX
+  swift8: UOBRRWR1
+  branch_name: Head Office
+  branch_address: Urwego Opportunity Bank Main Office 748 Kigali
+  branch_code: XXX
+  city: Kigali
+  country: Rwanda

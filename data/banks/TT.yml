@@ -1,0 +1,298 @@
+---
+TT:
+- name: Citicorp Merchant Bank Limited
+  swift: CIMETTP1XXX
+  swift8: CIMETTP1
+  branch_name: Head Office
+  branch_address: 12 Queens Park East Port of Spain
+  branch_code: XXX
+  city: Port of Spain
+  country: Trinidad and Tobago
+- name: Agricultural Development Bank
+  swift: ADEVTTP1023
+  swift8: ADEVTTP1
+  branch_name: Arima
+  branch_address: 40-40a Green Street Arima
+  branch_code: '023'
+  city: Arima
+  country: Trinidad and Tobago
+- name: Agricultural Development Bank
+  swift: ADEVTTP1025
+  swift8: ADEVTTP1
+  branch_name: Chaguanas
+  branch_address: Mid Centre Mall Chaguanas
+  branch_code: '025'
+  city: Chaguanas
+  country: Trinidad and Tobago
+- name: Agricultural Development Bank
+  swift: ADEVTTP1026
+  swift8: ADEVTTP1
+  branch_name: San Fernando
+  branch_address: 7 Cipero Street San Fernando
+  branch_code: '026'
+  city: San Fernando
+  country: Trinidad and Tobago
+- name: Agricultural Development Bank
+  swift: ADEVTTP1027
+  swift8: ADEVTTP1
+  branch_name: Rio Claro
+  branch_address: Administration Building Rio Claro
+  branch_code: '027'
+  city: Rio Claro
+  country: Trinidad and Tobago
+- name: Agricultural Development Bank
+  swift: ADEVTTP1028
+  swift8: ADEVTTP1
+  branch_name: Tobago
+  branch_address: I.D.C. Mall Scarborough
+  branch_code: '028'
+  city: Scarborough
+  country: Trinidad and Tobago
+- name: Agricultural Development Bank
+  swift: ADEVTTP1XXX
+  swift8: ADEVTTP1
+  branch_name: Head Office
+  branch_address: 87 Henry Street Port of Spain
+  branch_code: XXX
+  city: Port of Spain
+  country: Trinidad and Tobago
+- name: Aic Securites Limited
+  swift: AICBTTPSXXX
+  swift8: AICBTTPS
+  branch_name: Head Office
+  branch_address: 143, Long Circular Road Port of Spain
+  branch_code: XXX
+  city: Port of Spain
+  country: Trinidad and Tobago
+- name: Ansa Merchant Bank Limited
+  swift: ANFMTTP1XXX
+  swift8: ANFMTTP1
+  branch_name: Head Office
+  branch_address: Ansa Centre Port of Spain
+  branch_code: XXX
+  city: Port of Spain
+  country: Trinidad and Tobago
+- name: Bank Of Baroda (trinidad And Tobago) Limited
+  swift: BARBTTPSXXX
+  swift8: BARBTTPS
+  branch_name: Head Office
+  branch_address: Furness House Port of Spain
+  branch_code: XXX
+  city: Port of Spain
+  country: Trinidad and Tobago
+- name: Bourse Brokers Limited
+  swift: BOBRTTP1XXX
+  swift8: BOBRTTP1
+  branch_name: Head Office
+  branch_address: Furness House Port of Spain
+  branch_code: XXX
+  city: Port of Spain
+  country: Trinidad and Tobago
+- name: Caribbean Money Market Brokers Limited
+  swift: CMMBTTP1XXX
+  swift8: CMMBTTP1
+  branch_name: Head Office
+  branch_address: Furness Court Port of Spain
+  branch_code: XXX
+  city: Port of Spain
+  country: Trinidad and Tobago
+- name: Caribbean Stockbrokers Limited
+  swift: CSTKTTP1XXX
+  swift8: CSTKTTP1
+  branch_name: Head Office
+  branch_address: 67 Independence Square Port of Spain
+  branch_code: XXX
+  city: Port of Spain
+  country: Trinidad and Tobago
+- name: Central Bank Of Trinidad And Tobago
+  swift: CBTTTTPSXXX
+  swift8: CBTTTTPS
+  branch_name: Head Office
+  branch_address: Central Bank Building Port of Spain
+  branch_code: XXX
+  city: Port of Spain
+  country: Trinidad and Tobago
+- name: Citibank (trinidad And Tobago) Limited
+  swift: CITITTPSXXX
+  swift8: CITITTPS
+  branch_name: Head Office
+  branch_address: 12 Queens Park East Port of Spain
+  branch_code: XXX
+  city: Port of Spain
+  country: Trinidad and Tobago
+- name: Clico Investment Bank Limited
+  swift: CLNNTTP1XXX
+  swift8: CLNNTTP1
+  branch_name: Head Office
+  branch_address: 1 Rust Street Port of Spain
+  branch_code: XXX
+  city: Port of Spain
+  country: Trinidad and Tobago
+- name: Cmmb Securities Limited
+  swift: CMMSTTP1XXX
+  swift8: CMMSTTP1
+  branch_name: Head Office
+  branch_address: 1 Richmond Street Port of Spain
+  branch_code: XXX
+  city: Port of Spain
+  country: Trinidad and Tobago
+- name: First Citizens Asset Management Limited
+  swift: FCTATTP1XXX
+  swift8: FCTATTP1
+  branch_name: Head Office
+  branch_address: 50 St. Vincent Street Port of Spain
+  branch_code: XXX
+  city: Port of Spain
+  country: Trinidad and Tobago
+- name: First Citizens Bank Limited
+  swift: FCTTTTPSXXX
+  swift8: FCTTTTPS
+  branch_name: Head Office
+  branch_address: 50 St. Vincent Street Port of Spain
+  branch_code: XXX
+  city: Port of Spain
+  country: Trinidad and Tobago
+- name: First Citizens Merchant Bank Ltd.
+  swift: IIMETTP1XXX
+  swift8: IIMETTP1
+  branch_name: Head Office
+  branch_address: 45 Abercromby Street Port of Spain
+  branch_code: XXX
+  city: Port of Spain
+  country: Trinidad and Tobago
+- name: Firstcaribbean International Bank (t And T) Ltd.
+  swift: FCIBTTPSXXX
+  swift8: FCIBTTPS
+  branch_name: Head Office
+  branch_address: 74 Long Circular Road Port of Spain
+  branch_code: XXX
+  city: Port of Spain
+  country: Trinidad and Tobago
+- name: Intercommercial Bank Limited
+  swift: IBLITTPSXXX
+  swift8: IBLITTPS
+  branch_name: Head Office
+  branch_address: Dms Plaza Chaguanas
+  branch_code: XXX
+  city: Chaguanas
+  country: Trinidad and Tobago
+- name: Intercommercial Trust And Merchant Bank Limited
+  swift: INRHTTP1XXX
+  swift8: INRHTTP1
+  branch_name: Head Office
+  branch_address: Dsm Plaza Chaguanas
+  branch_code: XXX
+  city: Chaguanas
+  country: Trinidad and Tobago
+- name: Mercantile Banking And Financial Corporation Limited, The
+  swift: MEFRTTP1XXX
+  swift8: MEFRTTP1
+  branch_name: Head Office
+  branch_address: 12 Victoria Avenue Port of Spain
+  branch_code: XXX
+  city: Port of Spain
+  country: Trinidad and Tobago
+- name: Rbc Royal Bank (trinidad And Tobago) Limited (formerly Rbtt Bank Limited
+  swift: RBTTTTPXXXX
+  swift8: RBTTTTPX
+  branch_name: Head Office
+  branch_address: Royal Court 287 Port of Spain
+  branch_code: XXX
+  city: Port of Spain
+  country: Trinidad and Tobago
+- name: Rbtt Merchant Bank Limited
+  swift: RBMETTP1XXX
+  swift8: RBMETTP1
+  branch_name: Head Office
+  branch_address: Corner Broadway and Independence Sq Port of Spain
+  branch_code: XXX
+  city: Port of Spain
+  country: Trinidad and Tobago
+- name: Republic Bank Limited
+  swift: RBNKTTPXXXX
+  swift8: RBNKTTPX
+  branch_name: Head Office
+  branch_address: Foreign Exchange Centre Port of Spain
+  branch_code: XXX
+  city: Port of Spain
+  country: Trinidad and Tobago
+- name: Republic Finance And Merchant Bank Limited
+  swift: REFHTTP1XXX
+  swift8: REFHTTP1
+  branch_name: Head Office
+  branch_address: Republic House Port of Spain
+  branch_code: XXX
+  city: Port of Spain
+  country: Trinidad and Tobago
+- name: Republic Securities Limited
+  swift: REPSTTP1XXX
+  swift8: REPSTTP1
+  branch_name: Head Office
+  branch_address: Briar House Port of Spain
+  branch_code: XXX
+  city: Port of Spain
+  country: Trinidad and Tobago
+- name: Scotia Dbg Investments Ltd
+  swift: DEBOTTP1XXX
+  swift8: DEBOTTP1
+  branch_name: Head Office
+  branch_address: Pwc Building Port of Spain
+  branch_code: XXX
+  city: Port of Spain
+  country: Trinidad and Tobago
+- name: Scotiabank Trinidad And Tobago Ltd.
+  swift: NOSCTTPSXXX
+  swift8: NOSCTTPS
+  branch_name: Head Office
+  branch_address: Scotia Centre Port of Spain
+  branch_code: XXX
+  city: Port of Spain
+  country: Trinidad and Tobago
+- name: Scotiatrust And Merchant Bank Trinidad And Tobago Limited
+  swift: SMTTTTP1XXX
+  swift8: SMTTTTP1
+  branch_name: Head Office
+  branch_address: Scotiabank Centre Port of Spain
+  branch_code: XXX
+  city: Port of Spain
+  country: Trinidad and Tobago
+- name: The Trinidad And Tobago Stock Exchange Limited
+  swift: XTRNTTP1XXX
+  swift8: XTRNTTP1
+  branch_name: Head Office
+  branch_address: Nicholas Tower Port of Spain
+  branch_code: XXX
+  city: Port of Spain
+  country: Trinidad and Tobago
+- name: Trinidad And Tobago Central Securities Depository Limited
+  swift: TTCSTTP1XXX
+  swift8: TTCSTTP1
+  branch_name: Head Office
+  branch_address: 1 Ajax Street Port of Spain
+  branch_code: XXX
+  city: Port of Spain
+  country: Trinidad and Tobago
+- name: Trinidad And Tobago Unit Trust Corporation
+  swift: TTUTTTP1XXX
+  swift8: TTUTTTP1
+  branch_name: Head Office
+  branch_address: Utc Financial Centre Port of Spain
+  branch_code: XXX
+  city: Port of Spain
+  country: Trinidad and Tobago
+- name: United Bank Of Trinidad And Tobago
+  swift: UBTTTTP1XXX
+  swift8: UBTTTTP1
+  branch_name: Head Office
+  branch_address: 74 Independence Square Port of Spain
+  branch_code: XXX
+  city: Port of Spain
+  country: Trinidad and Tobago
+- name: West Indies Stockbrokers Limited
+  swift: WEITTTP1XXX
+  swift8: WEITTTP1
+  branch_name: Head Office
+  branch_address: Albion Plaza, Port of Spain
+  branch_code: XXX
+  city: Port of Spain
+  country: Trinidad and Tobago

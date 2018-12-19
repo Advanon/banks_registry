@@ -1,0 +1,562 @@
+---
+SM:
+- name: Asset Banca S.P.A.
+  swift: ASTTSMSMXXX
+  swift8: ASTTSMSM
+  branch_name: Head Office
+  branch_address: Via Iii Settembre 210 47891 Dogana
+  branch_code: XXX
+  city: Dogana
+  country: San Marino
+- name: Asset Banca S.P.A.
+  swift: ASTTSMS1001
+  swift8: ASTTSMS1
+  branch_name: Sede Centrale
+  branch_address: Via Tre Settembre 210 47891 Dogana
+  branch_code: '001'
+  city: Dogana
+  country: San Marino
+- name: Asset Banca S.P.A.
+  swift: ASTTSMS1002
+  swift8: ASTTSMS1
+  branch_name: Succursale di Murata
+  branch_address: Via Trasmundo Da Fano 4 47890 Murata
+  branch_code: '002'
+  city: Murata
+  country: San Marino
+- name: Asset Banca S.P.A.
+  swift: ASTTSMS1003
+  swift8: ASTTSMS1
+  branch_name: Succursale di Gualdicciolo
+  branch_address: Via Fabrizio Da Montebello 47892 Gualdicciolo
+  branch_code: '003'
+  city: Gualdicciolo
+  country: San Marino
+- name: Asset Banca S.P.A.
+  swift: ASTTSMS1004
+  swift8: ASTTSMS1
+  branch_name: Succursale di Domagnano
+  branch_address: Via Cinque Febbraio 17 47895 Domagnano
+  branch_code: '004'
+  city: Domagnano
+  country: San Marino
+- name: Asset Banca S.P.A.
+  swift: ASTTSMS1005
+  swift8: ASTTSMS1
+  branch_name: Succursale Dogana
+  branch_address: Piazza Tini, 96 47891 Dogana
+  branch_code: '005'
+  city: Dogana
+  country: San Marino
+- name: Banca Agricola Commerciale Della Repubblica Di San Marino
+  swift: BASMSMSMXXX
+  swift8: BASMSMSM
+  branch_name: Head Office
+  branch_address: Piazza Marino Tini 26 47891 Dogana
+  branch_code: XXX
+  city: Dogana
+  country: San Marino
+- name: Banca Centrale Della Repubblica Di San Marino
+  swift: ICSMSMSMXXX
+  swift8: ICSMSMSM
+  branch_name: Head Office
+  branch_address: Via Del Voltone, 120 47890 San Marino
+  branch_code: XXX
+  city: San Marino
+  country: San Marino
+- name: Banca Centrale Della Repubblica Di San Marino
+  swift: ICSMSMS1001
+  swift8: ICSMSMS1
+  branch_name: Sportello Tesoreria-Esattoria
+  branch_address: Palazzo Sums 47890 San Marino
+  branch_code: '001'
+  city: San Marino
+  country: San Marino
+- name: Banca Di San Marino Spa
+  swift: MAOISMSM005
+  swift8: MAOISMSM
+  branch_name: Agenzia Borgo Maggiore
+  branch_address: Banca di San Marino 47893 Borgo Maggiore
+  branch_code: '005'
+  city: Borgo Maggiore
+  country: San Marino
+- name: Banca Di San Marino Spa
+  swift: MAOISMSM003
+  swift8: MAOISMSM
+  branch_name: Agenzia Domagnano
+  branch_address: Banca di San Marino 47895 Domagnano
+  branch_code: '003'
+  city: Domagnano
+  country: San Marino
+- name: Banca Di San Marino Spa
+  swift: MAOISMSM006
+  swift8: MAOISMSM
+  branch_name: Agenzia Sede Centrale
+  branch_address: Banca di San Marino 47896 Faetano
+  branch_code: '006'
+  city: Faetano
+  country: San Marino
+- name: Banca Di San Marino Spa
+  swift: MAOISMSMXXX
+  swift8: MAOISMSM
+  branch_name: Head Office
+  branch_address: Strada Della Croce 39 47896 Faetano
+  branch_code: XXX
+  city: Faetano
+  country: San Marino
+- name: Banca Di San Marino Spa
+  swift: MAOISMSM009
+  swift8: MAOISMSM
+  branch_name: Agenzia Gualdicciolo
+  branch_address: Banca di San Marino Agenzia 47892 Gualdicciolo
+  branch_code: '009'
+  city: Gualdicciolo
+  country: San Marino
+- name: Banca Di San Marino Spa
+  swift: MAOISMSM007
+  swift8: MAOISMSM
+  branch_name: Agenzia Rovereta
+  branch_address: Banca di San Marino 47891 Rovereta
+  branch_code: '007'
+  city: Rovereta
+  country: San Marino
+- name: Banca Di San Marino Spa
+  swift: MAOISMSM002
+  swift8: MAOISMSM
+  branch_name: Agenzia Dogana
+  branch_address: Banca di San Marino Agenzia Dogana 47891 Dogana
+  branch_code: '002'
+  city: Dogana
+  country: San Marino
+- name: Banca Di San Marino Spa
+  swift: MAOISMSM001
+  swift8: MAOISMSM
+  branch_name: Agenzia Citta
+  branch_address: Banca di San Marino Agenzia Citta 47890 San Marino
+  branch_code: '001'
+  city: San Marino
+  country: San Marino
+- name: Banca Di San Marino Spa
+  swift: MAOISMSM004
+  swift8: MAOISMSM
+  branch_name: Agenzia Citta 1
+  branch_address: Banca di San Marino 47890 San Marino
+  branch_code: '004'
+  city: San Marino
+  country: San Marino
+- name: Banca Di San Marino Spa
+  swift: MAOISMSM008
+  swift8: MAOISMSM
+  branch_name: Agenzia Monte Giardino
+  branch_address: Banca di San Marino 47898 Monte Giardino
+  branch_code: '008'
+  city: Monte Giardino
+  country: San Marino
+- name: Banca Di San Marino Spa
+  swift: MAOISMSM010
+  swift8: MAOISMSM
+  branch_name: Agenzia Wtc
+  branch_address: Wtc (World Trade Center) 47891 Dogana
+  branch_code: '010'
+  city: Dogana
+  country: San Marino
+- name: Banca Di San Marino Spa
+  swift: MAOISMSM011
+  swift8: MAOISMSM
+  branch_name: Agenzia Murata
+  branch_address: Via Del Serrone, 67/B 47890 Murata
+  branch_code: '011'
+  city: Murata
+  country: San Marino
+- name: Banca Di San Marino Spa
+  swift: MAOISMSM012
+  swift8: MAOISMSM
+  branch_name: Agenzia Fiorina
+  branch_address: Centro Fiorina 47895 Domagnano
+  branch_code: '012'
+  city: Domagnano
+  country: San Marino
+- name: Banca Di San Marino Spa
+  swift: MAOISMSM022
+  swift8: MAOISMSM
+  branch_name: Divisione Private
+  branch_address: Via Campolungo, 59 47891 Dogana
+  branch_code: '022'
+  city: Dogana
+  country: San Marino
+- name: Banca Sammarinese Di Investimento S.P.A.
+  swift: BSDISMSDXXX
+  swift8: BSDISMSD
+  branch_name: Head Office
+  branch_address: Via Monaldo Da Falciano 3 47891 Rovereta
+  branch_code: XXX
+  city: Rovereta
+  country: San Marino
+- name: Banca Sammarinese Di Investimento S.P.A.
+  swift: BSDISMD1001
+  swift8: BSDISMD1
+  branch_name: Filiale di Rovereta
+  branch_address: Filiale di Rovereta 47891 Rovereta
+  branch_code: '001'
+  city: Rovereta
+  country: San Marino
+- name: Banca Sammarinese Di Investimento S.P.A.
+  swift: BSDISMD1002
+  swift8: BSDISMD1
+  branch_name: Filiale di Dogana
+  branch_address: Filiale di Dogana 47891 Dogana
+  branch_code: '002'
+  city: Dogana
+  country: San Marino
+- name: Banca Sammarinese Di Investimento S.P.A.
+  swift: BSDISMD1003
+  swift8: BSDISMD1
+  branch_name: Filiale di Borgo Maggiore
+  branch_address: Filiale di Borgo Maggiore 47893 Borgo Maggiore
+  branch_code: '003'
+  city: Borgo Maggiore
+  country: San Marino
+- name: Banca Sammarinese Di Investimento S.P.A.
+  swift: BSDISMD1004
+  swift8: BSDISMD1
+  branch_name: Filiale di Citta
+  branch_address: No branch address
+  branch_code: '004'
+  city: San Marino
+  country: San Marino
+- name: Cassa Di Risparmio Della Republica Di San Marino
+  swift: CSSMSMSMXXX
+  swift8: CSSMSMSM
+  branch_name: Head Office
+  branch_address: Piazzetta Del Titano 2 47890 San Marino
+  branch_code: XXX
+  city: San Marino
+  country: San Marino
+- name: Cassa Di Risparmio Della Republica Di San Marino
+  swift: CSSMSMS1001
+  swift8: CSSMSMS1
+  branch_name: Ag Borgo Maggiore
+  branch_address: Borgo Maggiore
+  branch_code: '001'
+  city: Borgo Maggiore
+  country: San Marino
+- name: Cassa Di Risparmio Della Republica Di San Marino
+  swift: CSSMSMS1002
+  swift8: CSSMSMS1
+  branch_name: Ag Serravalle
+  branch_address: Serravalle
+  branch_code: '002'
+  city: Serravalle
+  country: San Marino
+- name: Cassa Di Risparmio Della Republica Di San Marino
+  swift: CSSMSMS1003
+  swift8: CSSMSMS1
+  branch_name: Ag Dogana
+  branch_address: Dogana
+  branch_code: '003'
+  city: Dogana
+  country: San Marino
+- name: Cassa Di Risparmio Della Republica Di San Marino
+  swift: CSSMSMS1004
+  swift8: CSSMSMS1
+  branch_name: Ag Gualdicciolo
+  branch_address: Gualdicciolo
+  branch_code: '004'
+  city: Gualdicciolo
+  country: San Marino
+- name: Cassa Di Risparmio Della Republica Di San Marino
+  swift: CSSMSMS1005
+  swift8: CSSMSMS1
+  branch_name: Ag Citta1
+  branch_address: San Marino
+  branch_code: '005'
+  city: San Marino
+  country: San Marino
+- name: Cassa Di Risparmio Della Republica Di San Marino
+  swift: CSSMSMS1006
+  swift8: CSSMSMS1
+  branch_name: Ag Chiesanuova
+  branch_address: Chiesanuova
+  branch_code: '006'
+  city: Chiesanuova
+  country: San Marino
+- name: Cassa Di Risparmio Della Republica Di San Marino
+  swift: CSSMSMS1008
+  swift8: CSSMSMS1
+  branch_name: Ag Citta2
+  branch_address: San Marino
+  branch_code: '008'
+  city: San Marino
+  country: San Marino
+- name: Cassa Di Risparmio Della Republica Di San Marino
+  swift: CSSMSMS1009
+  swift8: CSSMSMS1
+  branch_name: Ag Cailungo
+  branch_address: Cailungo
+  branch_code: '009'
+  city: Cailungo
+  country: San Marino
+- name: Cassa Di Risparmio Della Republica Di San Marino
+  swift: CSSMSMS1010
+  swift8: CSSMSMS1
+  branch_name: Ag Rovereta
+  branch_address: Rovereta
+  branch_code: '010'
+  city: Rovereta
+  country: San Marino
+- name: Cassa Di Risparmio Della Republica Di San Marino
+  swift: CSSMSMS1011
+  swift8: CSSMSMS1
+  branch_name: Ag Murata
+  branch_address: Murata
+  branch_code: '011'
+  city: Murata
+  country: San Marino
+- name: Cassa Di Risparmio Della Republica Di San Marino
+  swift: CSSMSMS1012
+  swift8: CSSMSMS1
+  branch_name: Ag Centrale
+  branch_address: San Marino
+  branch_code: '012'
+  city: San Marino
+  country: San Marino
+- name: Cassa Di Risparmio Della Republica Di San Marino
+  swift: CSSMSMS1013
+  swift8: CSSMSMS1
+  branch_name: Ag Fiorentino
+  branch_address: Fiorentino
+  branch_code: '013'
+  city: Fiorentino
+  country: San Marino
+- name: Cassa Di Risparmio Della Republica Di San Marino
+  swift: CSSMSMS1014
+  swift8: CSSMSMS1
+  branch_name: Ag Domagnano
+  branch_address: Domagnano
+  branch_code: '014'
+  city: Domagnano
+  country: San Marino
+- name: Cassa Di Risparmio Della Republica Di San Marino
+  swift: CSSMSMS1015
+  swift8: CSSMSMS1
+  branch_name: Ag Faetano
+  branch_address: Faetano
+  branch_code: '015'
+  city: Faetano
+  country: San Marino
+- name: Cassa Di Risparmio Della Republica Di San Marino
+  swift: CSSMSMS1016
+  swift8: CSSMSMS1
+  branch_name: Ag Ponte Mellini
+  branch_address: Dogana
+  branch_code: '016'
+  city: Dogana
+  country: San Marino
+- name: Credito Industriale Sammarinese
+  swift: CRRNSMSMXXX
+  swift8: CRRNSMSM
+  branch_name: Head Office
+  branch_address: Piazza Bertoldi 8 47899 Serravalle
+  branch_code: XXX
+  city: Serravalle
+  country: San Marino
+- name: Euro Commercial Bank Spa
+  swift: EUCDSMSM001
+  swift8: EUCDSMSM
+  branch_name: Branch Dogana
+  branch_address: Via Iii Settembre, 111 47891 Dogana
+  branch_code: '001'
+  city: Dogana
+  country: San Marino
+- name: Euro Commercial Bank Spa
+  swift: EUCDSMSM002
+  swift8: EUCDSMSM
+  branch_name: Branch Domagnano
+  branch_address: Via Xxv Marzo,36 47895 Domagnano
+  branch_code: '002'
+  city: Domagnano
+  country: San Marino
+- name: Banca Agricola Commerciale Istituto Bancario Sammarinese S.p.a.
+  swift: BASMSMS1001
+  swift8: BASMSMS1
+  branch_name: Citta
+  branch_address: San Marino
+  branch_code: '001'
+  city: San Marino
+  country: San Marino
+- name: Banca Agricola Commerciale Istituto Bancario Sammarinese S.p.a.
+  swift: BASMSMS1002
+  swift8: BASMSMS1
+  branch_name: Murata
+  branch_address: Murata
+  branch_code: '002'
+  city: Murata
+  country: San Marino
+- name: Banca Agricola Commerciale Istituto Bancario Sammarinese S.p.a.
+  swift: BASMSMS1003
+  swift8: BASMSMS1
+  branch_name: Gualdicciolo
+  branch_address: Gualdicciolo
+  branch_code: '003'
+  city: Gualdicciolo
+  country: San Marino
+- name: Banca Agricola Commerciale Istituto Bancario Sammarinese S.p.a.
+  swift: BASMSMS1004
+  swift8: BASMSMS1
+  branch_name: O Scarito
+  branch_address: Borgo Maggiore
+  branch_code: '004'
+  city: Borgo Maggiore
+  country: San Marino
+- name: Banca Agricola Commerciale Istituto Bancario Sammarinese S.p.a.
+  swift: BASMSMS1005
+  swift8: BASMSMS1
+  branch_name: Rovereta
+  branch_address: Rovereta
+  branch_code: '005'
+  city: Rovereta
+  country: San Marino
+- name: Banca Agricola Commerciale Istituto Bancario Sammarinese S.p.a.
+  swift: BASMSMS1006
+  swift8: BASMSMS1
+  branch_name: M Tini
+  branch_address: Dogana
+  branch_code: '006'
+  city: Dogana
+  country: San Marino
+- name: Banca Agricola Commerciale Istituto Bancario Sammarinese S.p.a.
+  swift: BASMSMS1007
+  swift8: BASMSMS1
+  branch_name: Fiorentino
+  branch_address: Fiorentino
+  branch_code: '007'
+  city: Fiorentino
+  country: San Marino
+- name: Banca Agricola Commerciale Istituto Bancario Sammarinese S.p.a.
+  swift: BASMSMS1008
+  swift8: BASMSMS1
+  branch_name: La Ciarulla
+  branch_address: Serravalle
+  branch_code: '008'
+  city: Serravalle
+  country: San Marino
+- name: Banca Agricola Commerciale Istituto Bancario Sammarinese S.p.a.
+  swift: BASMSMS1009
+  swift8: BASMSMS1
+  branch_name: Tavolucci
+  branch_address: Borgo Maggiore
+  branch_code: '009'
+  city: Borgo Maggiore
+  country: San Marino
+- name: Banca Agricola Commerciale Istituto Bancario Sammarinese S.p.a.
+  swift: BASMSMS1011
+  swift8: BASMSMS1
+  branch_name: Private
+  branch_address: Dogana
+  branch_code: '011'
+  city: Dogana
+  country: San Marino
+- name: Banca Agricola Commerciale Istituto Bancario Sammarinese S.p.a.
+  swift: BASMSMS1012
+  swift8: BASMSMS1
+  branch_name: Corporate
+  branch_address: Dogana
+  branch_code: '012'
+  city: Dogana
+  country: San Marino
+- name: Banca Agricola Commerciale Istituto Bancario Sammarinese S.p.a.
+  swift: BASMSMS1013
+  swift8: BASMSMS1
+  branch_name: Admiral
+  branch_address: Dogana
+  branch_code: '013'
+  city: Dogana
+  country: San Marino
+- name: Banca Agricola Commerciale Istituto Bancario Sammarinese S.p.a.
+  swift: BASMSMS1014
+  swift8: BASMSMS1
+  branch_name: Wtc
+  branch_address: Dogana
+  branch_code: '014'
+  city: Dogana
+  country: San Marino
+- name: Banca Agricola Commerciale Istituto Bancario Sammarinese S.p.a.
+  swift: BASMSMS1015
+  swift8: BASMSMS1
+  branch_name: Cailungo
+  branch_address: Cailungo
+  branch_code: '015'
+  city: Cailungo
+  country: San Marino
+- name: Banca Agricola Commerciale Istituto Bancario Sammarinese S.p.a.
+  swift: BASMSMS1016
+  swift8: BASMSMS1
+  branch_name: Faetano
+  branch_address: Faetano
+  branch_code: '016'
+  city: Faetano
+  country: San Marino
+- name: Banca Cis S.p.a.
+  swift: CRRNSMS1100
+  swift8: CRRNSMS1
+  branch_name: Serravalle
+  branch_address: Serravalle
+  branch_code: '100'
+  city: Serravalle
+  country: San Marino
+- name: Banca Cis S.p.a.
+  swift: CRRNSMS1102
+  swift8: CRRNSMS1
+  branch_name: Borgo Maggiore
+  branch_address: Borgo Maggiore
+  branch_code: '102'
+  city: Borgo Maggiore
+  country: San Marino
+- name: Banca Cis S.p.a.
+  swift: CRRNSMS1104
+  swift8: CRRNSMS1
+  branch_name: Centro Tonelli
+  branch_address: Dogana
+  branch_code: '104'
+  city: Dogana
+  country: San Marino
+- name: Banca Cis S.p.a.
+  swift: CRRNSMS1105
+  swift8: CRRNSMS1
+  branch_name: No branch name
+  branch_address: No branch address
+  branch_code: '105'
+  city: Rovereta
+  country: San Marino
+- name: Banca Cis S.p.a.
+  swift: CRRNSMS1106
+  swift8: CRRNSMS1
+  branch_name: Via 3 Settembre, 119
+  branch_address: No branch address
+  branch_code: '106'
+  city: Dogana
+  country: San Marino
+- name: Banca Cis S.p.a.
+  swift: CRRNSMS1107
+  swift8: CRRNSMS1
+  branch_name: No branch name
+  branch_address: No branch address
+  branch_code: '107'
+  city: Domagnano
+  country: San Marino
+- name: Banca Impresa Di San Marino S.p.a.
+  swift: BTITSMS1XXX
+  swift8: BTITSMS1
+  branch_name: Head Office
+  branch_address: Via Alfonso Giangi 16 47891 Dogana
+  branch_code: XXX
+  city: Dogana
+  country: San Marino
+- name: Poste San Marino
+  swift: SAOOSMS1XXX
+  swift8: SAOOSMS1
+  branch_name: Head Office
+  branch_address: 17, Contrada Omerelli 47890 San Marino
+  branch_code: XXX
+  city: San Marino
+  country: San Marino

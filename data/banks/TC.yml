@@ -1,0 +1,50 @@
+---
+TC:
+- name: Bordier International Bank And Trust Ltd.
+  swift: BIBTTCG1XXX
+  swift8: BIBTTCG1
+  branch_name: Head Office
+  branch_address: Caribbean Place Providenciales
+  branch_code: XXX
+  city: Providenciales
+  country: Turks and Caicos Islands
+- name: British Caribbean Bank Limited
+  swift: BCBATCGPXXX
+  swift8: BCBATCGP
+  branch_name: Head Office
+  branch_address: Governors Road Providenciales
+  branch_code: XXX
+  city: Providenciales
+  country: Turks and Caicos Islands
+- name: First National Bank Limited
+  swift: FTNLTCG1XXX
+  swift8: FTNLTCG1
+  branch_name: Head Office
+  branch_address: The Arch Plaza Providenciales
+  branch_code: XXX
+  city: Providenciales
+  country: Turks and Caicos Islands
+- name: Firstcaribbean International Bank (bahamas) Limited, Turks And Caicos
+  swift: FCIBTCGPXXX
+  swift8: FCIBTCGP
+  branch_name: Head Office
+  branch_address: Leeward Highway Providenciales
+  branch_code: XXX
+  city: Providenciales
+  country: Turks and Caicos Islands
+- name: Scotiabank (turks And Caicos) Ltd
+  swift: NOSCTCGPXXX
+  swift8: NOSCTCGP
+  branch_name: Head Office
+  branch_address: Town Centre Mall Providenciales
+  branch_code: XXX
+  city: Providenciales
+  country: Turks and Caicos Islands
+- name: Turks And Caicos Banking Co. Ltd
+  swift: TCBCTCGPXXX
+  swift8: TCBCTCGP
+  branch_name: Head Office
+  branch_address: Duke Street Grand Turk
+  branch_code: XXX
+  city: Grand Turk
+  country: Turks and Caicos Islands

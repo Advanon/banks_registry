@@ -1,0 +1,106 @@
+---
+HT:
+- name: Banque Nationale De Paris
+  swift: BNPAHTP1XXX
+  swift8: BNPAHTP1
+  branch_name: Head Office
+  branch_address: Port Au Prince
+  branch_code: XXX
+  city: Port Au Prince
+  country: Haiti
+- name: Citibank N.A
+  swift: CITIHTP1XXX
+  swift8: CITIHTP1
+  branch_name: Head Office
+  branch_address: 242, Autoroute De Delmas Port Au Prince
+  branch_code: XXX
+  city: Port Au Prince
+  country: Haiti
+- name: Bank Of Nova Scotia,the
+  swift: NOSCHTPPXXX
+  swift8: NOSCHTPP
+  branch_name: Head Office
+  branch_address: 360 Boulevard J.J. Dessalines Port Au Prince
+  branch_code: XXX
+  city: Port Au Prince
+  country: Haiti
+- name: Banque De L'union Haitienne
+  swift: BUHEHTPPXXX
+  swift8: BUHEHTPP
+  branch_name: Head Office
+  branch_address: Angles Rue Du Quai Et Bonne Foi Port Au Prince
+  branch_code: XXX
+  city: Port Au Prince
+  country: Haiti
+- name: Banque De La Republique D'haiti
+  swift: BRHAHTPPXXX
+  swift8: BRHAHTPP
+  branch_name: Head Office
+  branch_address: Angle Rues De Miracles, Magasin Port Au Prince
+  branch_code: XXX
+  city: Port Au Prince
+  country: Haiti
+- name: Banque De Promotion Commerciale Et Industrielle S.a.
+  swift: BDPCHTP1XXX
+  swift8: BDPCHTP1
+  branch_name: Head Office
+  branch_address: 113, Rue Faubert 6140 Petion-Ville
+  branch_code: XXX
+  city: Petion-Ville
+  country: Haiti
+- name: Banque Nationale De Credit (bnc
+  swift: BNCHHTPPXXX
+  swift8: BNCHHTPP
+  branch_name: Head Office
+  branch_address: Angle Rue Des Miracles, Rue Du Port Au Prince
+  branch_code: XXX
+  city: Port Au Prince
+  country: Haiti
+- name: Banque Nationale De Developpement Agricole Et Industriel
+  swift: BNDIHT21XXX
+  swift8: BNDIHT21
+  branch_name: Head Office
+  branch_address: 19 B-C Berne Cap-Haitien
+  branch_code: XXX
+  city: Cap-Haitien
+  country: Haiti
+- name: Capital Bank S.a.
+  swift: CPPLHTPPXXX
+  swift8: CPPLHTPP
+  branch_name: Head Office
+  branch_address: 149-151 Angle Rue Des Miracles Et Port Au Prince
+  branch_code: XXX
+  city: Port Au Prince
+  country: Haiti
+- name: Societe Generale Haitienne De Banque S.a.
+  swift: SOGHHTP1022
+  swift8: SOGHHTP1
+  branch_name: Delmas Branch
+  branch_address: Port Au Prince
+  branch_code: '022'
+  city: Port Au Prince
+  country: Haiti
+- name: Societe Generale Haitienne De Banque S.a.
+  swift: SOGHHTP1023
+  swift8: SOGHHTP1
+  branch_name: Petion-Ville
+  branch_address: Petion-Ville
+  branch_code: '023'
+  city: Petion-Ville
+  country: Haiti
+- name: Societe Generale Haitienne De Banque S.a.
+  swift: SOGHHTPPXXX
+  swift8: SOGHHTPP
+  branch_name: Head Office
+  branch_address: Sogebank Ht 6120 Port Au Prince
+  branch_code: XXX
+  city: Port Au Prince
+  country: Haiti
+- name: Unibank S.a.
+  swift: UBNKHTPPXXX
+  swift8: UBNKHTPP
+  branch_name: Head Office
+  branch_address: Immeuble Rivoli Petion-Ville
+  branch_code: XXX
+  city: Petion-Ville
+  country: Haiti

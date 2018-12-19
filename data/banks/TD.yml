@@ -1,0 +1,98 @@
+---
+TD:
+- name: Banque Agricole Et Commerciale
+  swift: BAGCTDNDXXX
+  swift8: BAGCTDND
+  branch_name: Head Office
+  branch_address: Banque Agricole Et Commerciale 1727 Ndjamena
+  branch_code: XXX
+  city: N'Djamena
+  country: Chad
+- name: Banque Commerciale Du Chari
+  swift: BCCXTDNDXXX
+  swift8: BCCXTDND
+  branch_name: Head Office
+  branch_address: Banque Commerciale Du Chari Ndjamena
+  branch_code: XXX
+  city: N ' Djamena
+  country: Chad
+- name: Banque Des Etats De L'afrique Centrale D.n. Tchad
+  swift: BEACTDND210
+  swift8: BEACTDND
+  branch_name: Agence De Moundou
+  branch_address: Moundou
+  branch_code: '210'
+  city: Moundou
+  country: Chad
+- name: Banque Des Etats De L'afrique Centrale D.n. Tchad
+  swift: BEACTDND220
+  swift8: BEACTDND
+  branch_name: Agence De Sarh
+  branch_address: Sarh
+  branch_code: '220'
+  city: Sarh
+  country: Chad
+- name: Banque Des Etats De L'afrique Centrale D.n. Tchad
+  swift: BEACTDNDXXX
+  swift8: BEACTDND
+  branch_name: Head Office
+  branch_address: Ndjamena
+  branch_code: XXX
+  city: N'Djamena
+  country: Chad
+- name: Banque Sahelo-saharienne Pour L'investissement Et Le Commerce (tchad) S.a.
+  swift: BSAHTDNDXXX
+  swift8: BSAHTDND
+  branch_name: Head Office
+  branch_address: Avenue Charles De Gaulle Ndjamena
+  branch_code: XXX
+  city: N ' Djamena
+  country: Chad
+- name: Banque Tchadienne De Credit Et De Depots S.a. (b.t.c.d.
+  swift: BTCHTDN1XXX
+  swift8: BTCHTDN1
+  branch_name: Head Office
+  branch_address: 2-6, Rue Robert Levy 461 Ndjamena
+  branch_code: XXX
+  city: N ' Djamena
+  country: Chad
+- name: Commercial Bank Tchad
+  swift: CBTNTDNDXXX
+  swift8: CBTNTDND
+  branch_name: Head Office
+  branch_address: Commercial Bank Tchad 19 Ndjamena
+  branch_code: XXX
+  city: N ' Djamena
+  country: Chad
+- name: Ecobank Tchad
+  swift: ECOCTDNDXXX
+  swift8: ECOCTDND
+  branch_name: Head Office
+  branch_address: Biat Ndjamena
+  branch_code: XXX
+  city: N'Djamena
+  country: Chad
+- name: Orabank Tchad
+  swift: ORBKTDNDXXX
+  swift8: ORBKTDND
+  branch_name: Head Office
+  branch_address: Avenue Charles De Gaulle Ndjamena
+  branch_code: XXX
+  city: N'Djamena
+  country: Chad
+- name: Societe Generale Tchad
+  swift: SOGETDNDXXX
+  swift8: SOGETDND
+  branch_name: Head Office
+  branch_address: 2-6 Rue Robert Levy Ndjamena
+  branch_code: XXX
+  city: N'Djamena
+  country: Chad
+- name: United Bank For Africa-tchad
+  swift: UNAFTDNDXXX
+  swift8: UNAFTDND
+  branch_name: Head Office
+  branch_address: Avenue Charles De Gaulle 1148 Ndjamena
+  branch_code: XXX
+  city: N'Djamena
+  country: Chad

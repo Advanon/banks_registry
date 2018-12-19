@@ -1,0 +1,42 @@
+---
+GF:
+- name: Credit Agricole
+  swift: AGRIGFG1CAY
+  swift8: AGRIGFG1
+  branch_name: Cayenne
+  branch_address: Cayenne
+  branch_code: CAY
+  city: Cayenne
+  country: French Guiana
+- name: Credit Agricole
+  swift: AGRIGFG1KOU
+  swift8: AGRIGFG1
+  branch_name: Kourou
+  branch_address: Kourou
+  branch_code: KOU
+  city: Kourou
+  country: French Guiana
+- name: Credit Agricole
+  swift: AGRIGFG1SDM
+  swift8: AGRIGFG1
+  branch_name: Saint Laurent Du Maroni
+  branch_address: Saint Laurent Du Maroni
+  branch_code: SDM
+  city: Saint Laurent Du Maroni
+  country: French Guiana
+- name: Banque Nationale De Paris Guyane
+  swift: BNPAGFGXXXX
+  swift8: BNPAGFGX
+  branch_name: Head Office
+  branch_address: 2 Place Victor Schoelcher Cayenne
+  branch_code: XXX
+  city: Cayenne
+  country: French Guiana
+- name: Credit Moderne Guyane
+  swift: CMOGGFG1XXX
+  swift8: CMOGGFG1
+  branch_name: Head Office
+  branch_address: Lotissement Heliconias 97300 Cayenne
+  branch_code: XXX
+  city: Cayenne
+  country: French Guiana

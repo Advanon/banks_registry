@@ -1,0 +1,26 @@
+---
+ER:
+- name: Bank Of Eritrea
+  swift: BOERERAIXXX
+  swift8: BOERERAI
+  branch_name: Head Office
+  branch_address: Nakfa Street 849 Asmara
+  branch_code: XXX
+  city: Asmara
+  country: Eritrea
+- name: Commercial Bank Of Eritrea
+  swift: CBERERAIXXX
+  swift8: CBERERAI
+  branch_name: Head Office
+  branch_address: 208 Liberty Avenue Asmara
+  branch_code: XXX
+  city: Asmara
+  country: Eritrea
+- name: Housing And Commerce Bank Of Eritrea
+  swift: HCBEERAIXXX
+  swift8: HCBEERAI
+  branch_name: Head Office
+  branch_address: Bahti Meskerem Square Asmara
+  branch_code: XXX
+  city: Asmara
+  country: Eritrea

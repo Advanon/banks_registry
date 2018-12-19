@@ -1,0 +1,122 @@
+---
+MN:
+- name: Bank Of Mongolia, The
+  swift: BOMUMNUBXXX
+  swift8: BOMUMNUB
+  branch_name: Head Office
+  branch_address: The Central Bank 210646 Ulaanbaatar
+  branch_code: XXX
+  city: Ulaanbaatar
+  country: Mongolia
+- name: Capital Bank Of Mongolia
+  swift: CBMNMNUBXXX
+  swift8: CBMNMNUB
+  branch_name: Head Office
+  branch_address: 48 Sambuu Street 211238 Ulaanbaatar
+  branch_code: XXX
+  city: Ulaanbaatar
+  country: Mongolia
+- name: Capitron Bank
+  swift: CPITMNUBXXX
+  swift8: CPITMNUB
+  branch_name: Head Office
+  branch_address: Usny Gudamj-4, 2-R Khoroo 28 Ulaanbaatar
+  branch_code: XXX
+  city: Ulaanbaatar
+  country: Mongolia
+- name: Chinggis Khaan Bank
+  swift: CHKHMNUBXXX
+  swift8: CHKHMNUB
+  branch_name: Head Office
+  branch_address: New Century Plaza 210628 Ulaanbaatar
+  branch_code: XXX
+  city: Ulaanbaatar
+  country: Mongolia
+- name: Credit Bank Of Mongolia
+  swift: CRMNMNUBXXX
+  swift8: CRMNMNUB
+  branch_name: Head Office
+  branch_address: Building of Credit Bank 20a Ulaanbaatar
+  branch_code: XXX
+  city: Ulaanbaatar
+  country: Mongolia
+- name: Development Bank Of Mongolia
+  swift: DBOMMNUBXXX
+  swift8: DBOMMNUB
+  branch_name: Head Office
+  branch_address: Government Building 2 15160 Ulaanbaatar
+  branch_code: XXX
+  city: Ulaanbaatar
+  country: Mongolia
+- name: Golomt Bank Of Mongolia
+  swift: GLMTMNUBXXX
+  swift8: GLMTMNUB
+  branch_name: Head Office
+  branch_address: Suhbaatar Square 3 11720a Ulaanbaatar
+  branch_code: XXX
+  city: Ulaanbaatar
+  country: Mongolia
+- name: Khan Bank Of Mongolia
+  swift: AGMOMNUBXXX
+  swift8: AGMOMNUB
+  branch_name: Head Office
+  branch_address: Khan Bank 210351 Ulaanbaatar
+  branch_code: XXX
+  city: Ulaanbaatar
+  country: Mongolia
+- name: National Investment Bank Of Mongolia
+  swift: NAIMMNUBXXX
+  swift8: NAIMMNUB
+  branch_name: Head Office
+  branch_address: City Plaza 210213 Ulaanbaatar
+  branch_code: XXX
+  city: Ulaanbaatar
+  country: Mongolia
+- name: State Bank
+  swift: STBMMNUBXXX
+  swift8: STBMMNUB
+  branch_name: Head Office
+  branch_address: Choimbol - 6 210644 Ulaanbaatar
+  branch_code: XXX
+  city: Ulaanbaatar
+  country: Mongolia
+- name: Trade And Development Bank Of Mongolia
+  swift: TDBMMNUBXXX
+  swift8: TDBMMNUB
+  branch_name: Head Office
+  branch_address: Tdbm Building 11 Ulaanbaatar
+  branch_code: XXX
+  city: Ulaanbaatar
+  country: Mongolia
+- name: Transport Development Bank Of Mongolia
+  swift: TRDMMNU1XXX
+  swift8: TRDMMNU1
+  branch_name: Head Office
+  branch_address: Delta San Building 211238 Ulaanbaatar
+  branch_code: XXX
+  city: Ulaanbaatar
+  country: Mongolia
+- name: Transport Development Bank Of Mongolia
+  swift: TRDMMNUBXXX
+  swift8: TRDMMNUB
+  branch_name: Head Office
+  branch_address: Delta San Building 211238 Ulaanbaatar
+  branch_code: XXX
+  city: Ulaanbaatar
+  country: Mongolia
+- name: Ulaanbaatar City Bank
+  swift: CIBMMNUBXXX
+  swift8: CIBMMNUB
+  branch_name: Head Office
+  branch_address: Citys Government Building 3 46370 Ulaanbaatar
+  branch_code: XXX
+  city: Ulaanbaatar
+  country: Mongolia
+- name: Xacbank
+  swift: CAXBMNUBXXX
+  swift8: CAXBMNUB
+  branch_name: Head Office
+  branch_address: Xac Bank Building 210646 Ulaanbaatar
+  branch_code: XXX
+  city: Ulaanbaatar
+  country: Mongolia

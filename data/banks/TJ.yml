@@ -1,0 +1,178 @@
+---
+TJ:
+- name: Accessbank Tajikistan
+  swift: ACTJTJ22XXX
+  swift8: ACTJTJ22
+  branch_name: Head Office
+  branch_address: Firdavsii 61/1 734061 Dushanbe
+  branch_code: XXX
+  city: Dushanbe
+  country: Tajikistan
+- name: Agroinvestbank Open Joint Stock Company
+  swift: AGIBTJ22XXX
+  swift8: AGIBTJ22
+  branch_name: Head Office
+  branch_address: 21, Pr Saady Sherozi 734018 Dushanbe
+  branch_code: XXX
+  city: Dushanbe
+  country: Tajikistan
+- name: Amonatbonk The State Saving Bank Republic Of Tajikistan
+  swift: ASSETJ22XXX
+  swift8: ASSETJ22
+  branch_name: Head Office
+  branch_address: Lohuti 24 734013 Dushanbe
+  branch_code: XXX
+  city: Dushanbe
+  country: Tajikistan
+- name: Central Asian Bank
+  swift: CEAATJ21XXX
+  swift8: CEAATJ21
+  branch_name: Head Office
+  branch_address: N. Karabaev Street 42 a 734018 Dushanbe
+  branch_code: XXX
+  city: Dushanbe
+  country: Tajikistan
+- name: Cjsc 'bonki Rushdi Tojikiston'
+  swift: BRTATJ22XXX
+  swift8: BRTATJ22
+  branch_name: Head Office
+  branch_address: Bonki Rushdi Tojikiston 735700 Dushanbe
+  branch_code: XXX
+  city: Dushanbe
+  country: Tajikistan
+- name: Cjsc Ib 'kont'
+  swift: KONTTJ22XXX
+  swift8: KONTTJ22
+  branch_name: Head Office
+  branch_address: Bukhoro 43 734025 Dushanbe
+  branch_code: XXX
+  city: Dushanbe
+  country: Tajikistan
+- name: Cjsmdo 'spitamen Capital'
+  swift: SPRBTJ22XXX
+  swift8: SPRBTJ22
+  branch_name: Head Office
+  branch_address: Shamsi Street 4 734064 Dushanbe
+  branch_code: XXX
+  city: Dushanbe
+  country: Tajikistan
+- name: Csd Mdo 'imon International'
+  swift: NABWTJ22XXX
+  swift8: NABWTJ22
+  branch_name: No branch name
+  branch_address: No branch address
+  branch_code: XXX
+  city: Khujand
+  country: Tajikistan
+- name: Eskaha Bank Opened Joint Stock Company
+  swift: EOJSTJ21XXX
+  swift8: EOJSTJ21
+  branch_name: Head Office
+  branch_address: Ojsc Bank Eskata 735712 Khujand
+  branch_code: XXX
+  city: Khujand
+  country: Tajikistan
+- name: Eskhata Bank Opened Joint Stock Company
+  swift: EJSATJ22XXX
+  swift8: EJSATJ22
+  branch_name: Head Office
+  branch_address: 135, Gagarin 735712 Khujand
+  branch_code: XXX
+  city: Khujand
+  country: Tajikistan
+- name: Fnbo Creditinvest Zao
+  swift: CRZNTJ21XXX
+  swift8: CRZNTJ21
+  branch_name: Head Office
+  branch_address: A.Donish Street, 57a 734024 Dushanbe
+  branch_code: XXX
+  city: Dushanbe
+  country: Tajikistan
+- name: Fononbank Cjsc
+  swift: FONOTJ22XXX
+  swift8: FONOTJ22
+  branch_name: Head Office
+  branch_address: Fononbank 734049 Dushanbe
+  branch_code: XXX
+  city: Dushanbe
+  country: Tajikistan
+- name: Kafolatbank
+  swift: KACJTJ22XXX
+  swift8: KACJTJ22
+  branch_name: Head Office
+  branch_address: 4/1, Akademik Rajabov 734025 Dushanbe
+  branch_code: XXX
+  city: Dushanbe
+  country: Tajikistan
+- name: Kazkommertsbank Tajikistan
+  swift: KATJTJ21XXX
+  swift8: KATJTJ21
+  branch_name: Head Office
+  branch_address: 24a, Ayni Str. 734012 Dushanbe
+  branch_code: XXX
+  city: Dushanbe
+  country: Tajikistan
+- name: Mdo Matin
+  swift: MDMATJ21XXX
+  swift8: MDMATJ21
+  branch_name: Head Office
+  branch_address: Kamoli Khujandi, 157 735700 Khujand
+  branch_code: XXX
+  city: Khujand
+  country: Tajikistan
+- name: National Bank Of Tajikistan
+  swift: NATJTJ22XXX
+  swift8: NATJTJ22
+  branch_name: Head Office
+  branch_address: Rudaki Avenue 23/2 734025 Dushanbe
+  branch_code: XXX
+  city: Dushanbe
+  country: Tajikistan
+- name: Nbp Pakistan Subsidiary Bank
+  swift: NBPATJ22XXX
+  swift8: NBPATJ22
+  branch_name: Head Office
+  branch_address: Ayni Avenue 48 734024 Dushanbe
+  branch_code: XXX
+  city: Dushanbe
+  country: Tajikistan
+- name: Orienbank, Open Joint Stock Company
+  swift: OTJKTJ22XXX
+  swift8: OTJKTJ22
+  branch_name: Head Office
+  branch_address: Rudaki Avenue 95/1 734001 Dushanbe
+  branch_code: XXX
+  city: Dushanbe
+  country: Tajikistan
+- name: Sohibkorbank
+  swift: SOHBTJ22XXX
+  swift8: SOHBTJ22
+  branch_name: Head Office
+  branch_address: 10/17 N. Muhammad Str. 734012 Dushanbe
+  branch_code: XXX
+  city: Dushanbe
+  country: Tajikistan
+- name: Tajprombank Zao
+  swift: TAZATJ22XXX
+  swift8: TAZATJ22
+  branch_name: Head Office
+  branch_address: Rudaki Avenue 22a 734025 Dushanbe
+  branch_code: XXX
+  city: Dushanbe
+  country: Tajikistan
+- name: The First Microfinancebank
+  swift: FMBTTJ22XXX
+  swift8: FMBTTJ22
+  branch_name: Head Office
+  branch_address: 105 Rudaki Avenue 734001 Dushanbe
+  branch_code: XXX
+  city: Dushanbe
+  country: Tajikistan
+- name: Tojiksodirotbonk
+  swift: TOJITJ22XXX
+  swift8: TOJITJ22
+  branch_name: Head Office
+  branch_address: Dehlavi Street, 4 734012 Dushanbe
+  branch_code: XXX
+  city: Dushanbe
+  country: Tajikistan

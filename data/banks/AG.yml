@@ -1,0 +1,154 @@
+---
+AG:
+- name: Royal Bank Of Canada
+  swift: ROYCAGAGXXX
+  swift8: ROYCAGAG
+  branch_name: Head Office
+  branch_address: Market and High Streets St. Johns
+  branch_code: XXX
+  city: St. John'S
+  country: Antigua and Barbuda
+- name: Firstcaribbean International Bank
+  swift: FCIBAGAGXXX
+  swift8: FCIBAGAG
+  branch_name: Head Office
+  branch_address: High Street St. Johns
+  branch_code: XXX
+  city: St. John'S
+  country: Antigua and Barbuda
+- name: Abi Bank Ltd.
+  swift: ANBIAGAGXXX
+  swift8: ANBIAGAG
+  branch_name: Head Office
+  branch_address: Abi Financial Centre St. Johns
+  branch_code: XXX
+  city: St. John ' S
+  country: Antigua and Barbuda
+- name: Antigua Commercial Bank
+  swift: ANCBAGAGXXX
+  swift8: ANCBAGAG
+  branch_name: Head Office
+  branch_address: Thames and St. Marys Streets St. Johns
+  branch_code: XXX
+  city: St. John'S
+  country: Antigua and Barbuda
+- name: Antigua Commercial Bank
+  swift: AOBAAGA1XXX
+  swift8: AOBAAGA1
+  branch_name: Head Office
+  branch_address: Thames and St. Marys Streets St. Johns
+  branch_code: XXX
+  city: St. John'S
+  country: Antigua and Barbuda
+- name: Antigua Overseas Bank Ltd
+  swift: AOBKAGAGXXX
+  swift8: AOBKAGAG
+  branch_name: Head Office
+  branch_address: High Street and Corn Alley St. Johns
+  branch_code: XXX
+  city: St. John ' S
+  country: Antigua and Barbuda
+- name: Bank Of Nova Scotia,the
+  swift: NOSCAGAGXXX
+  swift8: NOSCAGAG
+  branch_name: Head Office
+  branch_address: High Street St. Johns
+  branch_code: XXX
+  city: St. John'S
+  country: Antigua and Barbuda
+- name: Boi Bank Corporation
+  swift: BOIBAGAGXXX
+  swift8: BOIBAGAG
+  branch_name: Head Office
+  branch_address: Woods Centre St. Johns
+  branch_code: XXX
+  city: St. John'S
+  country: Antigua and Barbuda
+- name: Brs Banque S.a.
+  swift: BRSFAGAGXXX
+  swift8: BRSFAGAG
+  branch_name: Head Office
+  branch_address: Woods Centre 00000 St. Johns
+  branch_code: XXX
+  city: St. John'S
+  country: Antigua and Barbuda
+- name: Caribbean Union Bank Ltd
+  swift: CUNBAGAGXXX
+  swift8: CUNBAGAG
+  branch_name: Head Office
+  branch_address: Global Financial Centre St. Johns
+  branch_code: XXX
+  city: St. John'S
+  country: Antigua and Barbuda
+- name: Davos International Bank, Ltd.
+  swift: DANLAGAGXXX
+  swift8: DANLAGAG
+  branch_name: Head Office
+  branch_address: London House Building St. Johns
+  branch_code: XXX
+  city: St. John'S
+  country: Antigua and Barbuda
+- name: Eastern Caribbean Amalgamated Bank Ltd. (ecab
+  swift: ECABAGAGXXX
+  swift8: ECABAGAG
+  branch_name: Head Office
+  branch_address: Airport Boulevard, at Pavilion Drive Coolidge
+  branch_code: XXX
+  city: Coolidge
+  country: Antigua and Barbuda
+- name: Global Bank Of Commerce, Ltd.
+  swift: GBCLAGAGXXX
+  swift8: GBCLAGAG
+  branch_name: Head Office
+  branch_address: Woods Centre St. Johns
+  branch_code: XXX
+  city: St. John ' S
+  country: Antigua and Barbuda
+- name: Government Of Antigua And Barbuda
+  swift: GVABAGAGXXX
+  swift8: GVABAGAG
+  branch_name: Head Office
+  branch_address: Ministry of Finance and Economy St. Johns
+  branch_code: XXX
+  city: St. John'S
+  country: Antigua and Barbuda
+- name: Meinl Bank (antigua) Limited
+  swift: MBALAGAGXXX
+  swift8: MBALAGAG
+  branch_name: Head Office
+  branch_address: Long Street and Hardcastle Avenue St. Johns
+  branch_code: XXX
+  city: St. John'S
+  country: Antigua and Barbuda
+- name: North International Bank, Ltd.
+  swift: NOITAGAGXXX
+  swift8: NOITAGAG
+  branch_name: Head Office
+  branch_address: Village Walk Commercial Center 00000 St. Johns
+  branch_code: XXX
+  city: St. John'S
+  country: Antigua and Barbuda
+- name: Pkb Privatbank Ltd
+  swift: PKBSAGA1XXX
+  swift8: PKBSAGA1
+  branch_name: Head Office
+  branch_address: Redcliffe Quay 10 St. Johns
+  branch_code: XXX
+  city: St. John'S
+  country: Antigua and Barbuda
+- name: Trium Bank And Trust Ltd.
+  swift: TBTLAGAGXXX
+  swift8: TBTLAGAG
+  branch_name: Head Office
+  branch_address: Jasmine Court , Bldg 2 St. Johns
+  branch_code: XXX
+  city: St. John'S
+  country: Antigua and Barbuda
+- name: V.t.i. Bank Ltd
+  swift: VTIBAGA1XXX
+  swift8: VTIBAGA1
+  branch_name: Head Office
+  branch_address: Jardine Court St. Johns
+  branch_code: XXX
+  city: St. John'S
+  country: Antigua and Barbuda

@@ -1,0 +1,26 @@
+---
+MH:
+- name: Bank Of Hawaii
+  swift: BOHIMH21XXX
+  swift8: BOHIMH21
+  branch_name: Head Office
+  branch_address: Majuro
+  branch_code: XXX
+  city: Majuro
+  country: Marshall Islands
+- name: Bank Of Marshall Islands
+  swift: BOMDMH22XXX
+  swift8: BOMDMH22
+  branch_name: Head Office
+  branch_address: Robert Reimers Enterprises Complex 96960 Majuro
+  branch_code: XXX
+  city: Majuro
+  country: Marshall Islands
+- name: Bank Of Marshall Islands
+  swift: BOMDMH21XXX
+  swift8: BOMDMH21
+  branch_name: Head Office
+  branch_address: Robert Reimers Enterprises Complex 96960 Majuro
+  branch_code: XXX
+  city: Majuro
+  country: Marshall Islands

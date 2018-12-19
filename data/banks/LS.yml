@@ -1,0 +1,50 @@
+---
+LS:
+- name: Central Bank Of Lesotho
+  swift: CBLELSMXXXX
+  swift8: CBLELSMX
+  branch_name: Head Office
+  branch_address: Corner of Moshoeshoe and Airport Maseru
+  branch_code: XXX
+  city: Maseru
+  country: Lesotho
+- name: First National Bank Of Lesotho
+  swift: FIRNLSMXXXX
+  swift8: FIRNLSMX
+  branch_name: Head Office
+  branch_address: Lndc Complex 100 Maseru
+  branch_code: XXX
+  city: Maseru
+  country: Lesotho
+- name: Lesotho Postbank
+  swift: LESHLSMMXXX
+  swift8: LESHLSMM
+  branch_name: Head Office
+  branch_address: Post Office Building 100 Maseru
+  branch_code: XXX
+  city: Maseru
+  country: Lesotho
+- name: Maluti Mountain Brewery Limited
+  swift: SABMLSM1XXX
+  swift8: SABMLSM1
+  branch_name: Head Office
+  branch_address: Site 44 Industrial Area Maseru
+  branch_code: XXX
+  city: Maseru
+  country: Lesotho
+- name: Nedbank (lesotho) Limited
+  swift: NEDLLSMXXXX
+  swift8: NEDLLSMX
+  branch_name: Head Office
+  branch_address: Kingsway Road 100 Maseru
+  branch_code: XXX
+  city: Maseru
+  country: Lesotho
+- name: Standard Lesotho Bank Ltd.
+  swift: SBICLSMXXXX
+  swift8: SBICLSMX
+  branch_name: Head Office
+  branch_address: Bank Building 100 Maseru
+  branch_code: XXX
+  city: Maseru
+  country: Lesotho

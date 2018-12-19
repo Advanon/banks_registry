@@ -1,0 +1,2666 @@
+---
+PT:
+- name: Agencia Gestao Da Tesouraria E Div. Publica Igcp Epe
+  swift: IGCPPTPLXXX
+  swift8: IGCPPTPL
+  branch_name: Head Office
+  branch_address: Av. Da Republica 57 1050-189 Lisbon
+  branch_code: XXX
+  city: Lisbon
+  country: Portugal
+- name: Banco Bai Europa Sa
+  swift: BAIPPTPLXXX
+  swift8: BAIPPTPL
+  branch_name: Head Office
+  branch_address: Avenida Antonio Augusto Aguiar, 1050-020 Lisbon
+  branch_code: XXX
+  city: Lisbon
+  country: Portugal
+- name: Banco Bic Portugues S.A.
+  swift: BPNPPTPLSFE
+  swift8: BPNPPTPL
+  branch_name: Sucursal Financeira Exterior
+  branch_address: Madeira
+  branch_code: SFE
+  city: Madeira
+  country: Portugal
+- name: Banco Bilbao Vizcaya Argentaria (Portugal) S.A.
+  swift: BBVAPTPLXXX
+  swift8: BBVAPTPL
+  branch_name: Head Office
+  branch_address: Avenida Da Liberdade 222 1250 148 Lisbon Cedex
+  branch_code: XXX
+  city: Lisbon
+  country: Portugal
+- name: Banco Bilbao Vizcaya Argentaria (Portugal) S.A.
+  swift: BBVAPTPLTG2
+  swift8: BBVAPTPL
+  branch_name: Lisbon
+  branch_address: Lisbon
+  branch_code: TG2
+  city: Lisbon
+  country: Portugal
+- name: Banco Bpi Sa
+  swift: BBPIPTPLXXX
+  swift8: BBPIPTPL
+  branch_name: All Pt Branches Not Listed
+  branch_address: Rue Tenente Valadim, 284 4100-476 Porto
+  branch_code: XXX
+  city: Porto
+  country: Portugal
+- name: Banco Bpi Sa
+  swift: BBPIPTPLFUN
+  swift8: BBPIPTPL
+  branch_name: Offshore Branch
+  branch_address: Rua Da Alfandega 18 9000 059 Funchal
+  branch_code: FUN
+  city: Funchal
+  country: Portugal
+- name: Banco Comercial Portugues
+  swift: BCOMPTPLOFI
+  swift8: BCOMPTPL
+  branch_name: Offshore Branch-Corporate Area
+  branch_address: Funchal
+  branch_code: OFI
+  city: Funchal
+  country: Portugal
+- name: Banco Comercial Portugues
+  swift: BCOMPTPLSFE
+  swift8: BCOMPTPL
+  branch_name: Offshore Branch
+  branch_address: Funchal
+  branch_code: SFE
+  city: Funchal
+  country: Portugal
+- name: Banco Comercial Portugues
+  swift: BCOMPTPLFUN
+  swift8: BCOMPTPL
+  branch_name: Funchal
+  branch_address: Funchal
+  branch_code: FUN
+  city: Funchal
+  country: Portugal
+- name: Banco Comercial Portugues
+  swift: BCOMPTPLXXX
+  swift8: BCOMPTPL
+  branch_name: All Non Listed Branches
+  branch_address: Rua Do Instituto Industrial 7 1249-006 Lisbon
+  branch_code: XXX
+  city: Lisbon
+  country: Portugal
+- name: Banco Comercial Portugues
+  swift: BCOMPTPLB01
+  swift8: BCOMPTPL
+  branch_name: Bopb-Lisboa
+  branch_address: Edificio D. Luis 1249-006 Lisbon
+  branch_code: B01
+  city: Lisbon
+  country: Portugal
+- name: Banco Comercial Portugues
+  swift: BCOMPTPLINT
+  swift8: BCOMPTPL
+  branch_name: Correspondent Banking Division
+  branch_address: Lisbon
+  branch_code: INT
+  city: Lisbon
+  country: Portugal
+- name: Banco Comercial Portugues
+  swift: BCOMPTPLDRI
+  swift8: BCOMPTPL
+  branch_name: Institutional Custody
+  branch_address: Lisbon
+  branch_code: DRI
+  city: Lisbon
+  country: Portugal
+- name: Banco Comercial Portugues
+  swift: BCOMPTPLLEU
+  swift8: BCOMPTPL
+  branch_name: Rua Instituto Industrial N 7
+  branch_address: D. Luis 1249-006 Lisbon
+  branch_code: LEU
+  city: Lisbon
+  country: Portugal
+- name: Banco Comercial Portugues
+  swift: BCOMPTPLDIF
+  swift8: BCOMPTPL
+  branch_name: Treasury Division
+  branch_address: Lisbon
+  branch_code: DIF
+  city: Lisbon
+  country: Portugal
+- name: Banco Comercial Portugues
+  swift: BCOMPTPLB07
+  swift8: BCOMPTPL
+  branch_name: 2744-005 Lisbon
+  branch_address: Taguspark 2744-005 Lisbon
+  branch_code: B07
+  city: Lisbon
+  country: Portugal
+- name: Banco Comercial Portugues
+  swift: BCOMPTPLLES
+  swift8: BCOMPTPL
+  branch_name: Lisbon
+  branch_address: Lisbon
+  branch_code: LES
+  city: Lisbon
+  country: Portugal
+- name: Banco Comercial Portugues
+  swift: BCOMPTPLOTP
+  swift8: BCOMPTPL
+  branch_name: Tagus Park
+  branch_address: Oeiras
+  branch_code: OTP
+  city: Oeiras
+  country: Portugal
+- name: Banco Comercial Portugues
+  swift: BCOMPTPLPLC
+  swift8: BCOMPTPL
+  branch_name: Latino Coelho
+  branch_address: Porto
+  branch_code: PLC
+  city: Porto
+  country: Portugal
+- name: Banco Comercial Portugues
+  swift: CISFPTP1XXX
+  swift8: CISFPTP1
+  branch_name: Head Office
+  branch_address: Tagus Park 2744-005 Oeiras
+  branch_code: XXX
+  city: Oeiras
+  country: Portugal
+- name: Banco De Caja Espana De Inversiones Salamanca Y Soria S.A.
+  swift: CSSOPTPXXXX
+  swift8: CSSOPTPX
+  branch_name: Head Office
+  branch_address: Avenue 5 De Outubro 73 D 1200 Lisbon
+  branch_code: XXX
+  city: Lisbon
+  country: Portugal
+- name: Banco De Investimento Global S.A.
+  swift: BDIGPTPLXXX
+  swift8: BDIGPTPL
+  branch_name: Head Office
+  branch_address: Edificio Big 1200-869 Lisbon
+  branch_code: XXX
+  city: Lisbon
+  country: Portugal
+- name: Banco De Portugal
+  swift: BGALPTTGCCB
+  swift8: BGALPTTG
+  branch_name: Bp-Ccbm
+  branch_address: Lisbon
+  branch_code: CCB
+  city: Lisbon
+  country: Portugal
+- name: Banco De Portugal
+  swift: BGALPTTGBAC
+  swift8: BGALPTTG
+  branch_name: Bp-Back-Office
+  branch_address: Lisbon
+  branch_code: BAC
+  city: Lisbon
+  country: Portugal
+- name: Banco De Portugal
+  swift: BGALPTTGMRR
+  swift8: BGALPTTG
+  branch_name: Bp-Minimum Reserves
+  branch_address: Lisbon
+  branch_code: MRR
+  city: Lisbon
+  country: Portugal
+- name: Banco De Portugal
+  swift: BGALPTTGSIT
+  swift8: BGALPTTG
+  branch_name: Bp-Monetary Policy Operations
+  branch_address: Lisbon
+  branch_code: SIT
+  city: Lisbon
+  country: Portugal
+- name: Banco De Portugal
+  swift: BGALPTPLDCP
+  swift8: BGALPTPL
+  branch_name: Contabilidade E Pagamentos
+  branch_address: Lisbon
+  branch_code: DCP
+  city: Lisbon
+  country: Portugal
+- name: Banco De Portugal
+  swift: BGALPTTGDET
+  swift8: BGALPTTG
+  branch_name: Det-Emissao E Tesouraria
+  branch_address: Lisbon
+  branch_code: DET
+  city: Lisbon
+  country: Portugal
+- name: Banco De Portugal
+  swift: BGALPTPLGPF
+  swift8: BGALPTPL
+  branch_name: Funds
+  branch_address: Lisbon
+  branch_code: GPF
+  city: Lisbon
+  country: Portugal
+- name: Banco De Portugal
+  swift: BGALPTTGXXX
+  swift8: BGALPTTG
+  branch_name: Sistemas De Pagamentos
+  branch_address: Edificio Portugal 1150-012 Lisbon
+  branch_code: XXX
+  city: Lisbon
+  country: Portugal
+- name: Banco De Portugal
+  swift: BGALPTPLXXX
+  swift8: BGALPTPL
+  branch_name: Head Office
+  branch_address: Rua Febo Moniz 2 1100 Lisbon
+  branch_code: XXX
+  city: Lisbon
+  country: Portugal
+- name: Banco De Portugal
+  swift: BGALPTPLCON
+  swift8: BGALPTPL
+  branch_name: Lisbon
+  branch_address: Lisbon
+  branch_code: CON
+  city: Lisbon
+  country: Portugal
+- name: Banco De Portugal
+  swift: BGALPTTGFGC
+  swift8: BGALPTTG
+  branch_name: Fundo Garantia
+  branch_address: Porto
+  branch_code: FGC
+  city: Porto
+  country: Portugal
+- name: Banco De Portugal
+  swift: BGALPTPLPTP
+  swift8: BGALPTPL
+  branch_name: Collateral Management Pt Parties
+  branch_address: Lisbon
+  branch_code: PTP
+  city: Lisbon
+  country: Portugal
+- name: Banco De Portugal
+  swift: BGALPTTGMMI
+  swift8: BGALPTTG
+  branch_name: Mercado Monetario Interbancario
+  branch_address: Lisbon
+  branch_code: MMI
+  city: Lisbon
+  country: Portugal
+- name: Banco De Portugal
+  swift: BGALPTTGPTP
+  swift8: BGALPTTG
+  branch_name: Collateral Management Pt Parties
+  branch_address: Lisbon
+  branch_code: PTP
+  city: Lisbon
+  country: Portugal
+- name: Banco De Sabadell S.A
+  swift: BSABPTP1XXX
+  swift8: BSABPTP1
+  branch_name: Head Office
+  branch_address: 35 Avenida Marques De Pombal Lisbon
+  branch_code: XXX
+  city: Lisbon
+  country: Portugal
+- name: Banco Do Brasil Ag Sucursal Em Portugal
+  swift: BRASPTPLXXX
+  swift8: BRASPTPL
+  branch_name: Head Office
+  branch_address: Avenida Da Republica, 35 1050-186 Lisbon
+  branch_code: XXX
+  city: Lisbon
+  country: Portugal
+- name: Banco Efisa S.A.
+  swift: EFISPTPLXXX
+  swift8: EFISPTPL
+  branch_name: Head Office
+  branch_address: Av. Antonio Augusto Aguiar 132 Lisbon
+  branch_code: XXX
+  city: Lisbon
+  country: Portugal
+- name: Banco Espirito Santo De Investimento S.A.
+  swift: ESSIPTPLXXX
+  swift8: ESSIPTPL
+  branch_name: Head Office
+  branch_address: Edifizio Quartzo 1269-161 Lisbon
+  branch_code: XXX
+  city: Lisbon
+  country: Portugal
+- name: Banco Espirito Santo Dos Acores S.A.
+  swift: BESAPTPAXXX
+  swift8: BESAPTPA
+  branch_name: Head Office
+  branch_address: Rua Hintze Ribeiro 2-8 9500-049 Ponta Delgada
+  branch_code: XXX
+  city: Ponta Delgada
+  country: Portugal
+- name: Banco Espirito Santo S.A.
+  swift: BESCPTPLOSF
+  swift8: BESCPTPL
+  branch_name: Sucursal Financeira Exterior, Madeira Branch
+  branch_address: Rua Antonio Jose De Almeida 3-1 9000 Funchal
+  branch_code: OSF
+  city: Funchal
+  country: Portugal
+- name: Banco Espirito Santo S.A.
+  swift: BESCPTPLXXX
+  swift8: BESCPTPL
+  branch_name: Head Office
+  branch_address: Avenida Da Liberdade 195 1250 Lisbon
+  branch_code: XXX
+  city: Lisbon
+  country: Portugal
+- name: Banco Espirito Santo S.A.
+  swift: BESCPTPLOPR
+  swift8: BESCPTPL
+  branch_name: 4000 Porto
+  branch_address: Rua Jose Falcao 176 4000 Porto
+  branch_code: OPR
+  city: Porto
+  country: Portugal
+- name: Banco Finantia S.A.
+  swift: BFIAPTPLCOR
+  swift8: BFIAPTPL
+  branch_name: Finantia Corretora
+  branch_address: Rua General Firmino Miguel 51 Lisbon
+  branch_code: COR
+  city: Lisbon
+  country: Portugal
+- name: Banco Finantia S.A.
+  swift: BFIAPTPLINT
+  swift8: BFIAPTPL
+  branch_name: Finantia International
+  branch_address: Rua General Firmino Miguel 5 1600 Lisbon
+  branch_code: INT
+  city: Lisbon
+  country: Portugal
+- name: Banco Finantia S.A.
+  swift: BFIAPTPLSEC
+  swift8: BFIAPTPL
+  branch_name: Finantia Securities
+  branch_address: Rua General Firmino Miguel 5 1600 Lisbon
+  branch_code: SEC
+  city: Lisbon
+  country: Portugal
+- name: Banco Finantia S.A.
+  swift: BFIAPTPLXXX
+  swift8: BFIAPTPL
+  branch_name: Head Office
+  branch_address: Rua General Firmino Miguel 5 1600 Lisbon
+  branch_code: XXX
+  city: Lisbon
+  country: Portugal
+- name: Banco Invest S.A.
+  swift: IVVSPTPLXXX
+  swift8: IVVSPTPL
+  branch_name: Head Office
+  branch_address: Torre 1 1070-101 Lisbon
+  branch_code: XXX
+  city: Lisbon
+  country: Portugal
+- name: Banco Popular Portugal S.A.
+  swift: CRBNPTPLXXX
+  swift8: CRBNPTPL
+  branch_name: Head Office
+  branch_address: Rua Ramalho Ortigao 51 1099-090 Lisbon
+  branch_code: XXX
+  city: Lisbon
+  country: Portugal
+- name: Banco Portugues De Gestao S.A.
+  swift: BPGPPTPLXXX
+  swift8: BPGPPTPL
+  branch_name: Head Office
+  branch_address: Rua Do Salitre, 165-167 1250-198 Lisbon
+  branch_code: XXX
+  city: Lisbon
+  country: Portugal
+- name: Banco Portugues De Investimento S.A.
+  swift: BPIPPTPLXXX
+  swift8: BPIPPTPL
+  branch_name: Head Office
+  branch_address: Largo Jean Monnet 1 1200 Lisbon
+  branch_code: XXX
+  city: Lisbon
+  country: Portugal
+- name: Banco Privado Atlantico Europa Sa
+  swift: BAPAPTPLXXX
+  swift8: BAPAPTPL
+  branch_name: Head Office
+  branch_address: Amoreiras Square 1070-313 Lisbon
+  branch_code: XXX
+  city: Lisbon
+  country: Portugal
+- name: Banco Santander Totta Sa
+  swift: TOTAPTPLXXX
+  swift8: TOTAPTPL
+  branch_name: Head Office
+  branch_address: Centro Totta 1049-058 Lisbon
+  branch_code: XXX
+  city: Lisbon
+  country: Portugal
+- name: Banco Santander Totta Sa
+  swift: TOTAPTPLMOB
+  swift8: TOTAPTPL
+  branch_name: Madeira Offshore Branch
+  branch_address: Madeira
+  branch_code: MOB
+  city: Madeira
+  country: Portugal
+- name: Banif Banco De Investimento S.A.
+  swift: BNFIPTPLXXX
+  swift8: BNFIPTPL
+  branch_name: Head Office
+  branch_address: Rua Tierno Galvan 1070-274 Lisbon
+  branch_code: XXX
+  city: Lisbon
+  country: Portugal
+- name: Banif Banco Internacional Do Funchal S.A.
+  swift: BNIFPTPLFUN
+  swift8: BNIFPTPL
+  branch_name: Endereco Swift Funchal
+  branch_address: Rua Joao Tavira 30 9008 Funchal
+  branch_code: FUN
+  city: Funchal
+  country: Portugal
+- name: Banif Banco Internacional Do Funchal S.A.
+  swift: BNIFPTPLSFE
+  swift8: BNIFPTPL
+  branch_name: Endereco Swift Sfe
+  branch_address: Rua Joao Tavira 30 9008 Funchal
+  branch_code: SFE
+  city: Funchal
+  country: Portugal
+- name: Banif Banco Internacional Do Funchal S.A.
+  swift: BNIFPTPLXXX
+  swift8: BNIFPTPL
+  branch_name: Head Office
+  branch_address: Avenia Jose Malhoa 1070 Lisbon
+  branch_code: XXX
+  city: Lisbon
+  country: Portugal
+- name: Banif Banco Internacional Do Funchal S.A.
+  swift: BNIFPTPLOPO
+  swift8: BNIFPTPL
+  branch_name: Endereco Swift Porto
+  branch_address: Avenida Dos Aliados 4000 Porto
+  branch_code: OPO
+  city: Porto
+  country: Portugal
+- name: Banque Privee Edmond De Rothschild Europe Sucursal Portuguesa
+  swift: PRIBPTPXXXX
+  swift8: PRIBPTPX
+  branch_name: Head Office
+  branch_address: Rua D. Pedro V, 130 1250-095 Lisbon
+  branch_code: XXX
+  city: Lisbon
+  country: Portugal
+- name: Banque Privee Espirito Santo S.A. Sucursal Em Portugal
+  swift: CFESPTPLXXX
+  swift8: CFESPTPL
+  branch_name: Head Office
+  branch_address: Avenida Da Liberdade 131 1250-140 Lisbon
+  branch_code: XXX
+  city: Lisbon
+  country: Portugal
+- name: Barclays Bank Plc
+  swift: BARCPTPLXXX
+  swift8: BARCPTPL
+  branch_name: Head Office
+  branch_address: Edificio Republica 1050 Lisbon
+  branch_code: XXX
+  city: Lisbon
+  country: Portugal
+- name: Barclays Bank Plc
+  swift: BARCPTPLOPR
+  swift8: BARCPTPL
+  branch_name: 4000 Porto
+  branch_address: Praca Mouzinho De Albuquerque 173 4000 Porto
+  branch_code: OPR
+  city: Porto
+  country: Portugal
+- name: Bnp Paribas Portugal
+  swift: BNPAPTPLLIS
+  swift8: BNPAPTPL
+  branch_name: Lisbon
+  branch_address: Lisbon
+  branch_code: LIS
+  city: Lisbon
+  country: Portugal
+- name: Bnp Paribas Sucursal Em Portugal
+  swift: BNPAPTPLXXX
+  swift8: BNPAPTPL
+  branch_name: Head Office
+  branch_address: Avenida 5 De Outubro 206 1050-065 Lisbon
+  branch_code: XXX
+  city: Lisbon
+  country: Portugal
+- name: Caixa Banco De Investimento S.A.
+  swift: CXBIPTPLXXX
+  swift8: CXBIPTPL
+  branch_name: Head Office
+  branch_address: Rua Barata Salgueiro 33 1269-057 Lisbon
+  branch_code: XXX
+  city: Lisbon
+  country: Portugal
+- name: Caixa Banco De Investimento S.A.
+  swift: CXBIPTPLMOB
+  swift8: CXBIPTPL
+  branch_name: Madeira Offshore Branch
+  branch_address: Madeira
+  branch_code: MOB
+  city: Madeira
+  country: Portugal
+- name: Caixa Central De Credito Agricola Mutuo
+  swift: CCCMPTPLXXX
+  swift8: CCCMPTPL
+  branch_name: Head Office
+  branch_address: Rua Castilho 233-233a 1070 Lisbon
+  branch_code: XXX
+  city: Lisbon
+  country: Portugal
+- name: Caixa Credito Agricola Mutuo De Leiria Crl
+  swift: CDCTPTP2XXX
+  swift8: CDCTPTP2
+  branch_name: Head Office
+  branch_address: Avenida Combatentes Grande 2400-801 Leiria
+  branch_code: XXX
+  city: Leiria
+  country: Portugal
+- name: Caixa Economica Da Misericordia De Angra Do Heroismo
+  swift: CEMAPTP2XXX
+  swift8: CEMAPTP2
+  branch_name: Head Office
+  branch_address: Cemah 9700 011 Angra Do Heroismo
+  branch_code: XXX
+  city: Angra Do Heroismo
+  country: Portugal
+- name: Caixa Geral De Depositos
+  swift: CGDIPTPLOSF
+  swift8: CGDIPTPL
+  branch_name: Madeira Offshore Branch
+  branch_address: Avenida Arriaga 17 Funchal
+  branch_code: OSF
+  city: Funchal
+  country: Portugal
+- name: Caixa Geral De Depositos
+  swift: CGDIPTPLXXX
+  swift8: CGDIPTPL
+  branch_name: Head Office
+  branch_address: Avenida Joao Xxi 63 1000-300 Lisbon
+  branch_code: XXX
+  city: Lisbon
+  country: Portugal
+- name: Caixa Geral De Depositos
+  swift: CGDIPTPLOPR
+  swift8: CGDIPTPL
+  branch_name: 4000 Porto
+  branch_address: Rua Camoes 139 4000 Porto
+  branch_code: OPR
+  city: Porto
+  country: Portugal
+- name: Citibank International Plc
+  swift: CITIPTPXSEC
+  swift8: CITIPTPX
+  branch_name: Citibank Lisbon Target 2
+  branch_address: Lisbon
+  branch_code: SEC
+  city: Lisbon
+  country: Portugal
+- name: Citibank International Plc
+  swift: CITIPTPXXXX
+  swift8: CITIPTPX
+  branch_name: Sucursal Em Portugal
+  branch_address: Edificio Fundacao 1269-056 Lisbon
+  branch_code: XXX
+  city: Lisbon
+  country: Portugal
+- name: Citibank International Plc
+  swift: CITIPTPXMAD
+  swift8: CITIPTPX
+  branch_name: Sucursal Financeira Exterior
+  branch_address: Av. Arriaga 77 9000-060 Funchal
+  branch_code: MAD
+  city: Funchal
+  country: Portugal
+- name: Deutsche Bank Ag Portugal Branch
+  swift: DEUTPTPLFUN
+  swift8: DEUTPTPL
+  branch_name: Sucursal Financeira Exterior-Offshore
+  branch_address: Ed. Marina Club, Sala 209, Floor 2 9004-553 Funchal
+  branch_code: FUN
+  city: Funchal
+  country: Portugal
+- name: Deutsche Bank Ag Portugal Branch
+  swift: DEUTPTPLSIC
+  swift8: DEUTPTPL
+  branch_name: Sicoi
+  branch_address: Lisbon
+  branch_code: SIC
+  city: Lisbon
+  country: Portugal
+- name: Deutsche Bank Ag Portugal Branch
+  swift: DEUTPTPLXXX
+  swift8: DEUTPTPL
+  branch_name: Head Office
+  branch_address: Rua Castilho 20 1250-069 Lisbon
+  branch_code: XXX
+  city: Lisbon
+  country: Portugal
+- name: Dexia Sabadell Sucursal Portugal
+  swift: DSBLPTPLXXX
+  swift8: DSBLPTPL
+  branch_name: Head Office
+  branch_address: Av. Da Liberdade, 180 E 1250-146 Lisbon
+  branch_code: XXX
+  city: Lisbon
+  country: Portugal
+- name: Fce Bank Plc
+  swift: FCEFPTP1XXX
+  swift8: FCEFPTP1
+  branch_name: Head Office
+  branch_address: Av Da Liberdade, 249, 5 1250 195 Lisbon
+  branch_code: XXX
+  city: Lisbon
+  country: Portugal
+- name: Finibanco S.A.
+  swift: FBCOPTPPLIS
+  swift8: FBCOPTPP
+  branch_name: 1050 Lisbon
+  branch_address: Avenida Berna 10 1050 Lisbon
+  branch_code: LIS
+  city: Lisbon
+  country: Portugal
+- name: Finibanco S.A.
+  swift: FBCOPTPPXXX
+  swift8: FBCOPTPP
+  branch_name: Head Office
+  branch_address: Rua Julio Dinis 157 4000 Porto
+  branch_code: XXX
+  city: Porto
+  country: Portugal
+- name: Hyposwiss Private Bank Geneve Sa Sucursal Em Portugal
+  swift: CCIEPTPXXXX
+  swift8: CCIEPTPX
+  branch_name: Head Office
+  branch_address: Avenida Da Liberdade 190 1250-147 Lisbon
+  branch_code: XXX
+  city: Lisbon
+  country: Portugal
+- name: Ing B Nv/Sa Sucursal Em Portugal (Formerly Bank Brussels Lambert Lisbon Branch)
+  swift: BBRUPTPLXXX
+  swift8: BBRUPTPL
+  branch_name: Head Office
+  branch_address: Av. Da Liberdade, 200 1250-147 Lisbon
+  branch_code: XXX
+  city: Lisbon
+  country: Portugal
+- name: Itau Bba International Limited Sucursal Em Portugal
+  swift: ITAUPTPLXXX
+  swift8: ITAUPTPL
+  branch_name: Head Office
+  branch_address: Torre 3 1099-048 Lisbon
+  branch_code: XXX
+  city: Lisbon
+  country: Portugal
+- name: Ncg Banco S.A. Sucursal Em Portugal
+  swift: CAGLPTPLXXX
+  swift8: CAGLPTPL
+  branch_name: Head Office
+  branch_address: Av. Marechal Gomes Da Costa, 1131 4150-360 Porto
+  branch_code: XXX
+  city: Porto
+  country: Portugal
+- name: A-vision-prestacao De Servicos
+  swift: AVPEPTP1XXX
+  swift8: AVPEPTP1
+  branch_name: No branch name
+  branch_address: No branch address
+  branch_code: XXX
+  city: Palmela
+  country: Portugal
+- name: Allianz Portugal
+  swift: ALPOPTP1XXX
+  swift8: ALPOPTP1
+  branch_name: Head Office
+  branch_address: Rua Andrade Corvo 32 1069 Lisbon
+  branch_code: XXX
+  city: Lisbon
+  country: Portugal
+- name: Argentaria Volare
+  swift: ARVOPTP1XXX
+  swift8: ARVOPTP1
+  branch_name: Head Office
+  branch_address: Rua Soairo Pereira Gomes 1 1600 Lisbon
+  branch_code: XXX
+  city: Lisbon
+  country: Portugal
+- name: Ascor Dealer S.a.
+  swift: ASDEPTP1XXX
+  swift8: ASDEPTP1
+  branch_name: Head Office
+  branch_address: Rua Da Conceicao 131 1100 Lisbon
+  branch_code: XXX
+  city: Lisbon
+  country: Portugal
+- name: Atrium Investimentos-sociedade Financeira De Corretagem, Sa
+  swift: AIFCPTP1XXX
+  swift8: AIFCPTP1
+  branch_name: Head Office
+  branch_address: Avenida Da Republica, 35 1050-186 Lisbon
+  branch_code: XXX
+  city: Lisbon
+  country: Portugal
+- name: Autoeuropa
+  swift: AUOEPTP1XXX
+  swift8: AUOEPTP1
+  branch_name: No branch name
+  branch_address: No branch address
+  branch_code: XXX
+  city: Quinta Do
+  country: Portugal
+- name: Axa Life Europe Limited Sucursal Em Portugal
+  swift: AXLPPTP1XXX
+  swift8: AXLPPTP1
+  branch_name: Head Office
+  branch_address: Praca Marques De Pombal 14 00000 Lisbon
+  branch_code: XXX
+  city: Lisbon
+  country: Portugal
+- name: Axa Portugal Seguros Vida
+  swift: APSVPTP1XXX
+  swift8: APSVPTP1
+  branch_name: Head Office
+  branch_address: Rua Camillo Castelo Branco 445 1150-083 Lisbon
+  branch_code: XXX
+  city: Lisbon
+  country: Portugal
+- name: Banco Cetelem Sa
+  swift: CETMPTP1XXX
+  swift8: CETMPTP1
+  branch_name: Head Office
+  branch_address: 12 Avenida Dos Combatentes 1600-001 Lisbon
+  branch_code: XXX
+  city: Lisbon
+  country: Portugal
+- name: Banco Comercial De Macau S.a.r.l.
+  swift: CMACPTP1OPR
+  swift8: CMACPTP1
+  branch_name: 4100 Porto
+  branch_address: Avenida Boavista 757 4100 Porto
+  branch_code: OPR
+  city: Porto
+  country: Portugal
+- name: Banco Comercial De Macau S.a.r.l.
+  swift: CMACPTP1XXX
+  swift8: CMACPTP1
+  branch_name: Head Office
+  branch_address: Rua De Sao Juliao, 149 2 1050 Lisbon
+  branch_code: XXX
+  city: Lisbon
+  country: Portugal
+- name: Banco Credibom, Sa
+  swift: CRBBPTP1XXX
+  swift8: CRBBPTP1
+  branch_name: Head Office
+  branch_address: Avenida General Norton De Matos, 71 1495-148 Alges
+  branch_code: XXX
+  city: Alges
+  country: Portugal
+- name: Banco De Boston Latino Americano S.a.
+  swift: BBLAPTP1XXX
+  swift8: BBLAPTP1
+  branch_name: Head Office
+  branch_address: Avenida Arriaga 77 9000 Funchal
+  branch_code: XXX
+  city: Funchal
+  country: Portugal
+- name: Banco De Investimento Imobiliario Sa
+  swift: INIOPTP1XXX
+  swift8: INIOPTP1
+  branch_name: Head Office
+  branch_address: 62 Rua Augusta 1100-001 Lisbon
+  branch_code: XXX
+  city: Lisbon
+  country: Portugal
+- name: Banco Expresso Atlantico Sa
+  swift: EXATPTP1XXX
+  swift8: EXATPTP1
+  branch_name: Head Office
+  branch_address: 120 Rua De S. Nicolau 1100-001 Lisbon
+  branch_code: XXX
+  city: Lisbon
+  country: Portugal
+- name: Banco Madesant-sociedade Unipessoal S.a. (zona Franca Da Madeira
+  swift: MASNPTP1XXX
+  swift8: MASNPTP1
+  branch_name: Head Office
+  branch_address: Avenida Arriaga 73-2 Sala 211 9004-04 Funchal
+  branch_code: XXX
+  city: Funchal
+  country: Portugal
+- name: Banco Mais Sa
+  swift: MIISPTP1XXX
+  swift8: MIISPTP1
+  branch_name: Head Office
+  branch_address: 7 Rua Soeiro Pereira Gomes 1600-196 Lisbon
+  branch_code: XXX
+  city: Lisbon
+  country: Portugal
+- name: Banco Mello
+  swift: MEOLPTP1XXX
+  swift8: MEOLPTP1
+  branch_name: Head Office
+  branch_address: 3, Rua Alexandre Herculano 50 Lisbon
+  branch_code: XXX
+  city: Lisbon
+  country: Portugal
+- name: Banco Mello De Investimentos S.a.
+  swift: MEIIPTP1XXX
+  swift8: MEIIPTP1
+  branch_name: Head Office
+  branch_address: 4/5 Rua Alexandre Herculano 50 Lisbon
+  branch_code: XXX
+  city: Lisbon
+  country: Portugal
+- name: Banco Mello Imobiliario, Sa
+  swift: MEIMPTP1XXX
+  swift8: MEIMPTP1
+  branch_name: Head Office
+  branch_address: Rua Alexandre Herculano, 50, 5. 1250-001 Lisbon
+  branch_code: XXX
+  city: Lisbon
+  country: Portugal
+- name: Banco Primus, S.a.
+  swift: PRUUPTP1XXX
+  swift8: PRUUPTP1
+  branch_name: Head Office
+  branch_address: Rua Quinta Da Quinta, Quinta Da Fon 2770-192 Paco De Arcos
+  branch_code: XXX
+  city: Paco De
+  country: Portugal
+- name: Banco Santander Consumer Portugal Sa
+  swift: IBNBPTP1XXX
+  swift8: IBNBPTP1
+  branch_name: Head Office
+  branch_address: Rua Castilho 2 1269-073 Lisbon
+  branch_code: XXX
+  city: Lisbon
+  country: Portugal
+- name: Bank Of China (luxembourg) S.a. Portugal Branch
+  swift: BKCHPTPLXXX
+  swift8: BKCHPTPL
+  branch_name: Head Office
+  branch_address: Rua Duque De Palmela 35-37 1250097 Lisbon
+  branch_code: XXX
+  city: Lisbon
+  country: Portugal
+- name: Banque Psa Finance (sucursal Em Portugal
+  swift: PSABPTP1XXX
+  swift8: PSABPTP1
+  branch_name: Head Office
+  branch_address: Rua General Firmino Miguel, 3-8 1600-001 Lisbon
+  branch_code: XXX
+  city: Lisbon
+  country: Portugal
+- name: Barclays Fundos, Sa
+  swift: BAUUPTP1XXX
+  swift8: BAUUPTP1
+  branch_name: Head Office
+  branch_address: Av. Republica, No 50 1050-196 Lisbon
+  branch_code: XXX
+  city: Lisbon
+  country: Portugal
+- name: Bie-bank And Trust Ltd
+  swift: BITUPTP1XXX
+  swift8: BITUPTP1
+  branch_name: Head Office
+  branch_address: Rue Tierno Galvan 1070 Lisbon
+  branch_code: XXX
+  city: Lisbon
+  country: Portugal
+- name: Bnp Paribas Securities Services, S.a.
+  swift: PARBPTP1XXX
+  swift8: PARBPTP1
+  branch_name: Head Office
+  branch_address: Avenida 5 De Outubro, 206, 3 1000 Lisbon
+  branch_code: XXX
+  city: Lisbon
+  country: Portugal
+- name: Bnp Paribas Wealth Management, S.a.
+  swift: BPWMPTP1XXX
+  swift8: BPWMPTP1
+  branch_name: Head Office
+  branch_address: Avenida 5 De Outubro 206 1050-065 Lisbon
+  branch_code: XXX
+  city: Lisbon
+  country: Portugal
+- name: Bolsa De Derivados Do Porto
+  swift: XBDPPTP1XXX
+  swift8: XBDPPTP1
+  branch_name: Head Office
+  branch_address: Av Da Boavista 3433 4149 Porto
+  branch_code: XXX
+  city: Porto
+  country: Portugal
+- name: Bpi Dealer-sociedade Financeira De Corretagem, A
+  swift: BSFCPTP1XXX
+  swift8: BSFCPTP1
+  branch_name: Head Office
+  branch_address: Rua Tenente Valadim, 284 4100 Porto
+  branch_code: XXX
+  city: Porto
+  country: Portugal
+- name: Bpi Gestao De Activos-sociedade Gestora De Fundo S De Investimento Mobiliario,
+    Sa
+  swift: BPGAPTP1XXX
+  swift8: BPGAPTP1
+  branch_name: Head Office
+  branch_address: Braamcamp 1250-049 Lisbon
+  branch_code: XXX
+  city: Lisbon
+  country: Portugal
+- name: Caixa Agricola Gestione
+  swift: CAOGPTP1XXX
+  swift8: CAOGPTP1
+  branch_name: Head Office
+  branch_address: Avenida Da Republica 23 Lisbon
+  branch_code: XXX
+  city: Lisbon
+  country: Portugal
+- name: Caixa De Credito Agricloa Mutuo De Aljustrel E Alm Odovar, C.r.l.
+  swift: CROUPTP1XXX
+  swift8: CROUPTP1
+  branch_name: Head Office
+  branch_address: Rua Jose Francisco Da Silva Alvaro 7600 010 Aljustrel
+  branch_code: XXX
+  city: Aljustrel
+  country: Portugal
+- name: Caixa De Credito Agricola Mutuo Beira Centro Crl
+  swift: CCAUPTP1XXX
+  swift8: CCAUPTP1
+  branch_name: Head Office
+  branch_address: Rua Dr. Luis Caetano Lobo 3300-011 Arganil
+  branch_code: XXX
+  city: Arganil
+  country: Portugal
+- name: Caixa De Credito Agricola Mutuo Da Area Metropolitana Do Porto Crl
+  swift: CCATPTP1XXX
+  swift8: CCATPTP1
+  branch_name: Head Office
+  branch_address: Avenida Visconde De Barreiros, 85 4440-501 Maia
+  branch_code: XXX
+  city: Maia
+  country: Portugal
+- name: Caixa De Credito Agricola Mutuo Da Batalha Crl
+  swift: CCGMPTP1XXX
+  swift8: CCGMPTP1
+  branch_name: Head Office
+  branch_address: Rua Do Infante D. Fernando, 2 2440-010 Batalha
+  branch_code: XXX
+  city: Batalha
+  country: Portugal
+- name: Caixa De Credito Agricola Mutuo Da Chamusca, C.r.l
+  swift: CCCHPTP1XXX
+  swift8: CCCHPTP1
+  branch_name: Head Office
+  branch_address: Rua Direita De S. Pedro, 216 2140-098 Chamusca
+  branch_code: XXX
+  city: Chamusca
+  country: Portugal
+- name: Caixa De Credito Agricola Mutuo Da Costa Verde Crl
+  swift: CCGTPTP1XXX
+  swift8: CCGTPTP1
+  branch_name: Head Office
+  branch_address: 1342a Avenida Da Republica 4400-001 Vila Nova De Gaia
+  branch_code: XXX
+  city: Vila Nova De Gaia
+  country: Portugal
+- name: Caixa De Credito Agricola Mutuo Da Figueira Da Fozcrl
+  swift: CCGOPTP1XXX
+  swift8: CCGOPTP1
+  branch_name: Head Office
+  branch_address: Av. Saraiva De Carvalho, 118 3080-011 Figueira Da Foz
+  branch_code: XXX
+  city: Figueira Da Foz
+  country: Portugal
+- name: Caixa De Credito Agricola Mutuo Da Guarda Crl
+  swift: CCRMPTP1XXX
+  swift8: CCRMPTP1
+  branch_name: Head Office
+  branch_address: 4, Rua Camilo Castelo Branco 6300-671 Guarda
+  branch_code: XXX
+  city: Guarda
+  country: Portugal
+- name: Caixa De Credito Agricola Mutuo Da Murtosa Crl
+  swift: CCRUPTP1XXX
+  swift8: CCRUPTP1
+  branch_name: Head Office
+  branch_address: Lugar Da Acabada - Pardelhas 3870-101 Murtosa
+  branch_code: XXX
+  city: Murtosa
+  country: Portugal
+- name: Caixa De Credito Agricola Mutuo Da Regiao De Braga
+  swift: CCROPTP1XXX
+  swift8: CCROPTP1
+  branch_name: Head Office
+  branch_address: Rua Santa Luzia 5370-361 Mirandela
+  branch_code: XXX
+  city: Mirandela
+  country: Portugal
+- name: Caixa De Credito Agricola Mutuo Da Regiao Do Fundao
+  swift: CCIMPTP1XXX
+  swift8: CCIMPTP1
+  branch_name: Head Office
+  branch_address: Rua Dos Tres Lagares 6230-201 Fundao
+  branch_code: XXX
+  city: Fundao
+  country: Portugal
+- name: Caixa De Credito Agricola Mutuo Da Terra Quente Crl
+  swift: CCIUPTP1XXX
+  swift8: CCIUPTP1
+  branch_name: Head Office
+  branch_address: Rua Luis De Camoes 5140-051 Carrazeda De Ansiaes
+  branch_code: XXX
+  city: Carrazeda De Ansiaes
+  country: Portugal
+- name: Caixa De Credito Agricola Mutuo Da Zona Do Pinhal Crl
+  swift: CCCUPTP1XXX
+  swift8: CCCUPTP1
+  branch_name: Head Office
+  branch_address: 31 Praca Da Republica 6100-601 Serta
+  branch_code: XXX
+  city: Serta
+  country: Portugal
+- name: Caixa De Credito Agricola Mutuo Das Serras De Ansiao Crl
+  swift: CCLUPTP1XXX
+  swift8: CCLUPTP1
+  branch_name: Head Office
+  branch_address: Rua Dr. Adriano Rego, 14 3240-101 Ansiao
+  branch_code: XXX
+  city: Ansiao
+  country: Portugal
+- name: Caixa De Credito Agricola Mutuo De Abrunheira Crl
+  swift: CCLTPTP1XXX
+  swift8: CCLTPTP1
+  branch_name: Head Office
+  branch_address: Abrunheira 3140 201 Montemor-O-Velho
+  branch_code: XXX
+  city: Montemor-O-Velho
+  country: Portugal
+- name: Caixa De Credito Agricola Mutuo De Agueda, Crl.
+  swift: CCLOPTP1XXX
+  swift8: CCLOPTP1
+  branch_name: Head Office
+  branch_address: Av. 25 De Abril, S/N 3750 101 Agueda
+  branch_code: XXX
+  city: Agueda
+  country: Portugal
+- name: Caixa De Credito Agricola Mutuo De Aguiar Da Beira
+  swift: CCCTPTP1XXX
+  swift8: CCCTPTP1
+  branch_name: Head Office
+  branch_address: S/N Avenida 5 De Outubro 3570 001 Aguiar Da Beira
+  branch_code: XXX
+  city: Aguiar Da Beira
+  country: Portugal
+- name: Caixa De Credito Agricola Mutuo De Albergaria-a-velha
+  swift: CCOUPTP1XXX
+  swift8: CCOUPTP1
+  branch_name: Head Office
+  branch_address: 10 Rua Almirante Reis 3850 001 Albergaria-A-Velha
+  branch_code: XXX
+  city: Albergaria a Velha
+  country: Portugal
+- name: Caixa De Credito Agricola Mutuo De Albufeira Crl
+  swift: CCOTPTP1XXX
+  swift8: CCOTPTP1
+  branch_name: Head Office
+  branch_address: Rua 5 De Outubro, 29 8200 450 Albufeira
+  branch_code: XXX
+  city: Albufeira
+  country: Portugal
+- name: Caixa De Credito Agricola Mutuo De Alcacer Do Sal Crl
+  swift: CRGTPTP1XXX
+  swift8: CRGTPTP1
+  branch_name: Head Office
+  branch_address: 28 Avenida Dos Aviadores 7580 001 Alcacer Do Sal
+  branch_code: XXX
+  city: Alcacer Do Sal
+  country: Portugal
+- name: Caixa De Credito Agricola Mutuo De Alcacovas E Viana Do Alentejo
+  swift: CCOOPTP1XXX
+  swift8: CCOOPTP1
+  branch_name: Head Office
+  branch_address: 25 Rua Miguel Bombarda 7090 201 Viana Do Alentejo
+  branch_code: XXX
+  city: Viana Do Alentejo
+  country: Portugal
+- name: Caixa De Credito Agricola Mutuo De Alcanhoes, C.rl.
+  swift: CRRUPTP1XXX
+  swift8: CRRUPTP1
+  branch_name: Head Office
+  branch_address: Rua Paulino Da Cunha E Silva, 260 Santarem
+  branch_code: XXX
+  city: Santarem
+  country: Portugal
+- name: Caixa De Credito Agricola Mutuo De Alcobaca, Crl
+  swift: CRRTPTP1XXX
+  swift8: CRRTPTP1
+  branch_name: Head Office
+  branch_address: Rua Dr. Brilhante, 20 E 22 2460 011 Alcobaca
+  branch_code: XXX
+  city: Alcobaca
+  country: Portugal
+- name: Caixa De Credito Agricola Mutuo De Alcoutim Crl
+  swift: CRAUPTP1XXX
+  swift8: CRAUPTP1
+  branch_name: Head Office
+  branch_address: Rua Dr. Antero Cabral/Rua 8970 201 Martim Longo
+  branch_code: XXX
+  city: Martim Longo
+  country: Portugal
+- name: Caixa De Credito Agricola Mutuo De Alenquer Crl
+  swift: CCLMPTP1XXX
+  swift8: CCLMPTP1
+  branch_name: Head Office
+  branch_address: 53 a Rua Sacadura Cabral 2580 283 Alenquer
+  branch_code: XXX
+  city: Alenquer
+  country: Portugal
+- name: Caixa De Credito Agricola Mutuo De Aljezur Crl
+  swift: CROMPTP1XXX
+  swift8: CROMPTP1
+  branch_name: Head Office
+  branch_address: 76-78 Rua 25 De Abril 8670 011 Aljezur
+  branch_code: XXX
+  city: Aljezur
+  country: Portugal
+- name: Caixa De Credito Agricola Mutuo De Alte Crl
+  swift: CRIUPTP1XXX
+  swift8: CRIUPTP1
+  branch_name: Head Office
+  branch_address: S/N Rua Da Igreja 8100 221 Alte
+  branch_code: XXX
+  city: Alte
+  country: Portugal
+- name: Caixa De Credito Agricola Mutuo De Alter Do Chao,crl
+  swift: CRAOPTP1XXX
+  swift8: CRAOPTP1
+  branch_name: Head Office
+  branch_address: Av. 25 Abril 17 7440 11 Alter Do Chao
+  branch_code: XXX
+  city: Alter Do Chao
+  country: Portugal
+- name: Caixa De Credito Agricola Mutuo De Amares, Coopertiva De Responsabilisade
+    Limitada
+  swift: CRRMPTP1XXX
+  swift8: CRRMPTP1
+  branch_name: Head Office
+  branch_address: Praca Do Comercio - Ferreiros 4720 011 Amares
+  branch_code: XXX
+  city: Amares
+  country: Portugal
+- name: Caixa De Credito Agricola Mutuo De Anadia Crl
+  swift: CRGMPTP1XXX
+  swift8: CRGMPTP1
+  branch_name: Head Office
+  branch_address: Avenida Do Cabecinho, S/N 3780 201 Anadia
+  branch_code: XXX
+  city: Anadia
+  country: Portugal
+- name: Caixa De Credito Agricola Mutuo De Armamar E Moime
+  swift: CEAMPTP1XXX
+  swift8: CEAMPTP1
+  branch_name: Head Office
+  branch_address: 26 Praca Da Republica 5110 101 Armamar
+  branch_code: XXX
+  city: Armamar
+  country: Portugal
+- name: Caixa De Credito Agricola Mutuo De Arouca Crl
+  swift: CRLTPTP1XXX
+  swift8: CRLTPTP1
+  branch_name: Head Office
+  branch_address: Avenida Do Movimento Das Forcas Arm 4540 101 Arouca
+  branch_code: XXX
+  city: Arouca
+  country: Portugal
+- name: Caixa De Credito Agricola Mutuo De Arronches Crl
+  swift: CEATPTP1XXX
+  swift8: CEATPTP1
+  branch_name: Head Office
+  branch_address: Rua Dr. Edmundo Curvelo 7340 001 Arronches
+  branch_code: XXX
+  city: Arronches
+  country: Portugal
+- name: Caixa De Credito Agricola Mutuo De Arruda Dos Vinhos Crl
+  swift: CRIOPTP1XXX
+  swift8: CRIOPTP1
+  branch_name: Head Office
+  branch_address: Rua Irene Lisboa, 3 - R/C 2630 111 Arruda Dos Vinhos
+  branch_code: XXX
+  city: Arruda Dos Vinhos
+  country: Portugal
+- name: Caixa De Credito Agricola Mutuo De Aveiro Crl
+  swift: CEGMPTP1XXX
+  swift8: CEGMPTP1
+  branch_name: Head Office
+  branch_address: 31 Estrada De Vilar 3800 001 Aveiro
+  branch_code: XXX
+  city: Aveiro
+  country: Portugal
+- name: Caixa De Credito Agricola Mutuo De Avis
+  swift: CEGUPTP1XXX
+  swift8: CEGUPTP1
+  branch_name: Head Office
+  branch_address: 84 Rua 1 De Maio 7480 101 Avis
+  branch_code: XXX
+  city: Avis
+  country: Portugal
+- name: Caixa De Credito Agricola Mutuo De Azambuja Crl
+  swift: CROOPTP1XXX
+  swift8: CROOPTP1
+  branch_name: Head Office
+  branch_address: Rua Engenheiro Moniz Da Maia, 57-a 2050 301 Azambuja
+  branch_code: XXX
+  city: Azambuja
+  country: Portugal
+- name: Caixa De Credito Agricola Mutuo De Barcelos Crl
+  swift: CEGTPTP1XXX
+  swift8: CEGTPTP1
+  branch_name: Head Office
+  branch_address: Praceta Dr. Francisco Sa Carneiro 4750 251 Barcelos
+  branch_code: XXX
+  city: Barcelos
+  country: Portugal
+- name: Caixa De Credito Agricola Mutuo De Beja E Mertola Crl
+  swift: CERMPTP1XXX
+  swift8: CERMPTP1
+  branch_name: Head Office
+  branch_address: Largo Engenheiro Duarte Pacheco, 1 7800 011 Beja
+  branch_code: XXX
+  city: Beja
+  country: Portugal
+- name: Caixa De Credito Agricola Mutuo De Benavente Crl
+  swift: CERUPTP1XXX
+  swift8: CERUPTP1
+  branch_name: Head Office
+  branch_address: 12 E 13 Largo Duarte Lopes 2130 011 Benavente
+  branch_code: XXX
+  city: Benavente
+  country: Portugal
+- name: Caixa De Credito Agricola Mutuo De Bombarral Crl
+  swift: CERTPTP1XXX
+  swift8: CERTPTP1
+  branch_name: Head Office
+  branch_address: Rua Do Comercio, 58 2540 001 Bombarral
+  branch_code: XXX
+  city: Bombarral
+  country: Portugal
+- name: Caixa De Credito Agricola Mutuo De Borba Crl
+  swift: CEROPTP1XXX
+  swift8: CEROPTP1
+  branch_name: Head Office
+  branch_address: Av Do Povo 48 a 52 7150 101 Borba
+  branch_code: XXX
+  city: Borba
+  country: Portugal
+- name: Caixa De Credito Agricola Mutuo De Cabeceiras De B Asto, Crl
+  swift: CEIUPTP1XXX
+  swift8: CEIUPTP1
+  branch_name: Head Office
+  branch_address: Rua Antunes Basto 4860 131 Refojos
+  branch_code: XXX
+  city: Refojos
+  country: Portugal
+- name: Caixa De Credito Agricola Mutuo De Cadaval Crl
+  swift: CEITPTP1XXX
+  swift8: CEITPTP1
+  branch_name: Head Office
+  branch_address: Rua Dos Bombeiros Voluntarios, 36 2550 101 Cadaval
+  branch_code: XXX
+  city: Cadaval
+  country: Portugal
+- name: Caixa De Credito Agricola Mutuo De Caldas Da Rainh A, Obidos E Peniche, Crl
+  swift: CEIOPTP1XXX
+  swift8: CEIOPTP1
+  branch_name: Head Office
+  branch_address: Rua Coronel Soeiro De Brito 14, S/ 2500 078 Caldas Da Rainha
+  branch_code: XXX
+  city: Caldas Da Rainha
+  country: Portugal
+- name: Caixa De Credito Agricola Mutuo De Campo Maior Crl
+  swift: CEAUPTP1XXX
+  swift8: CEAUPTP1
+  branch_name: Head Office
+  branch_address: Av. Da Liberdade, 4 E 4-a 7370 011 Campo Maior
+  branch_code: XXX
+  city: Campo Maior
+  country: Portugal
+- name: Caixa De Credito Agricola Mutuo De Cantanhede Crl
+  swift: CEOUPTP1XXX
+  swift8: CEOUPTP1
+  branch_name: Head Office
+  branch_address: 23 Largo Combatentes Da Grande 3060 121 Cantanhede
+  branch_code: XXX
+  city: Cantanhede
+  country: Portugal
+- name: Caixa De Credito Agricola Mutuo De Carregal Do Sal
+  swift: CEOTPTP1XXX
+  swift8: CEOTPTP1
+  branch_name: Head Office
+  branch_address: 9 Rua Antonio Augusto Magalhaes 3430 001 Carregal Do Sal
+  branch_code: XXX
+  city: Carregal Do Sal
+  country: Portugal
+- name: Caixa De Credito Agricola Mutuo De Castelo Branco Crl
+  swift: CEOOPTP1XXX
+  swift8: CEOOPTP1
+  branch_name: Head Office
+  branch_address: 22 Avenida General Humberto Delgado 6000 031 Castelo Branco
+  branch_code: XXX
+  city: Castelo Branco
+  country: Portugal
+- name: Caixa De Credito Agricola Mutuo De Castro Daire Crl
+  swift: CELMPTP1XXX
+  swift8: CELMPTP1
+  branch_name: Head Office
+  branch_address: S/N Rua Da Misercordia 3600 101 Castro Daire
+  branch_code: XXX
+  city: Castro Daire
+  country: Portugal
+- name: Caixa De Credito Agricola Mutuo De Celorico Da Beira
+  swift: CELUPTP1XXX
+  swift8: CELUPTP1
+  branch_name: Head Office
+  branch_address: S/N Rua Sacadura Cabral 6360 301 Celorico Da Beira
+  branch_code: XXX
+  city: Celorico Da Beira
+  country: Portugal
+- name: Caixa De Credito Agricola Mutuo De Coimbra Crl
+  swift: CELTPTP1XXX
+  swift8: CELTPTP1
+  branch_name: Head Office
+  branch_address: Rua Joao Machado, 78 3000 001 Coimbra
+  branch_code: XXX
+  city: Coimbra
+  country: Portugal
+- name: Caixa De Credito Agricola Mutuo De Coruche Crl
+  swift: CELOPTP1XXX
+  swift8: CELOPTP1
+  branch_name: Head Office
+  branch_address: Rua Da Misericordia, 32 E 36 2100 011 Coruche
+  branch_code: XXX
+  city: Coruche
+  country: Portugal
+- name: Caixa De Credito Agricola Mutuo De Entre Tejo E Sado Crl
+  swift: CDAUPTP1XXX
+  swift8: CDAUPTP1
+  branch_name: Head Office
+  branch_address: Rua Alexandre Herculano, 50-a 2900 011 Setubal
+  branch_code: XXX
+  city: Setubal
+  country: Portugal
+- name: Caixa De Credito Agricola Mutuo De Estarreja Crl
+  swift: CDATPTP1XXX
+  swift8: CDATPTP1
+  branch_name: Head Office
+  branch_address: Av. 25 De Abril, 55-B 3860 201 Estarreja
+  branch_code: XXX
+  city: Estarreja
+  country: Portugal
+- name: Caixa De Credito Agricola Mutuo De Estremoz, Monfrte E Arronches Crl
+  swift: CDAOPTP1XXX
+  swift8: CDAOPTP1
+  branch_name: Head Office
+  branch_address: Largo Da Republica, 1/2 7100 050 Estremoz
+  branch_code: XXX
+  city: Estremoz
+  country: Portugal
+- name: Caixa De Credito Agricola Mutuo De Evora Crl
+  swift: CDGMPTP1XXX
+  swift8: CDGMPTP1
+  branch_name: Head Office
+  branch_address: 12/15 Praca Do Giraldo 7000 141 Evora
+  branch_code: XXX
+  city: Evora
+  country: Portugal
+- name: Caixa De Credito Agricola Mutuo De Fafe Crl
+  swift: CDGUPTP1XXX
+  swift8: CDGUPTP1
+  branch_name: Head Office
+  branch_address: R. Ferreira De Castro 4820 101 Fafe
+  branch_code: XXX
+  city: Fafe
+  country: Portugal
+- name: Caixa De Credito Agricola Mutuo De Favaios Crl
+  swift: CDGTPTP1XXX
+  swift8: CDGTPTP1
+  branch_name: Head Office
+  branch_address: Vila Real 5070 261 Favaios
+  branch_code: XXX
+  city: Favaios
+  country: Portugal
+- name: Caixa De Credito Agricola Mutuo De Ferreira Do Alentejo
+  swift: CDGOPTP1XXX
+  swift8: CDGOPTP1
+  branch_name: Head Office
+  branch_address: Avenida General Humberto Delgado, 7900 111 Ferreira Do Alentejo
+  branch_code: XXX
+  city: Ferreira Do Alentejo
+  country: Portugal
+- name: Caixa De Credito Agricola Mutuo De Figueiro Dos Vinhos
+  swift: CDRMPTP1XXX
+  swift8: CDRMPTP1
+  branch_name: Head Office
+  branch_address: S/N Rua Major Neutel De Abreu 3260 300 Figueiro Dos Vinhos
+  branch_code: XXX
+  city: Figueiro Dos Vinhos
+  country: Portugal
+- name: Caixa De Credito Agricola Mutuo De Fornos De Algodres-c.r.l.
+  swift: CDRUPTP1XXX
+  swift8: CDRUPTP1
+  branch_name: Head Office
+  branch_address: Urb. Zona Sul 6370 101 Fornos De Algodres
+  branch_code: XXX
+  city: Fornos De Algodres
+  country: Portugal
+- name: Caixa De Credito Agricola Mutuo De Guimaraes
+  swift: CDRTPTP1XXX
+  swift8: CDRTPTP1
+  branch_name: Head Office
+  branch_address: 18 Largo Joao Franco 4800 011 Guimaraes
+  branch_code: XXX
+  city: Guimaraes
+  country: Portugal
+- name: Caixa De Credito Agricola Mutuo De Idanha-a-nova E
+  swift: CDROPTP1XXX
+  swift8: CDROPTP1
+  branch_name: Head Office
+  branch_address: Largo Do Municipio 6060 101 Idanha-A-Nova
+  branch_code: XXX
+  city: Idanha-A-Nova
+  country: Portugal
+- name: Caixa De Credito Agricola Mutuo De Ilhavo Crl
+  swift: CDIMPTP1XXX
+  swift8: CDIMPTP1
+  branch_name: Head Office
+  branch_address: 94 Avenida 25 De Abril 6090 511 Ilhavo
+  branch_code: XXX
+  city: Ilhavo
+  country: Portugal
+- name: Caixa De Credito Agricola Mutuo De Lafoes Crl
+  swift: CDIUPTP1XXX
+  swift8: CDIUPTP1
+  branch_name: Head Office
+  branch_address: R. Dr. Guilherme Coutinho 3670 228 Vouzela
+  branch_code: XXX
+  city: Vouzela
+  country: Portugal
+- name: Caixa De Credito Agricola Mutuo De Lagoa Crl
+  swift: CDITPTP1XXX
+  swift8: CDITPTP1
+  branch_name: Head Office
+  branch_address: Rua Fonseca De Almeida 8400 301 Lagoa
+  branch_code: XXX
+  city: Lagoa
+  country: Portugal
+- name: Caixa De Credito Agricola Mutuo De Lamego Crl
+  swift: CDIOPTP1XXX
+  swift8: CDIOPTP1
+  branch_name: Head Office
+  branch_address: 4 Praceta Eng Arantes De Oliveira 5100 011 Lamego
+  branch_code: XXX
+  city: Lamego
+  country: Portugal
+- name: Caixa De Credito Agricola Mutuo De Loures, Sintra E Litoral, Crl
+  swift: CDCOPTP1XXX
+  swift8: CDCOPTP1
+  branch_name: Head Office
+  branch_address: Avenida Combatentes Da Grande Guer 2670 340 Loures
+  branch_code: XXX
+  city: Loures
+  country: Portugal
+- name: Caixa De Credito Agricola Mutuo De Lourinha Crl
+  swift: CDOUPTP1XXX
+  swift8: CDOUPTP1
+  branch_name: Head Office
+  branch_address: Largo Da Republica, 14 2530 059 Lourinha
+  branch_code: XXX
+  city: Lourinha
+  country: Portugal
+- name: Caixa De Credito Agricola Mutuo De Mafra Crl
+  swift: CDOTPTP1XXX
+  swift8: CDOTPTP1
+  branch_name: Head Office
+  branch_address: Terreiro D. Joao V 2640 401 Mafra
+  branch_code: XXX
+  city: Mafra
+  country: Portugal
+- name: Caixa De Credito Agricola Mutuo De Mira Crl
+  swift: CDLMPTP1XXX
+  swift8: CDLMPTP1
+  branch_name: Head Office
+  branch_address: 125 Rua Dr. Antonio Jose De Almeida 3070 011 Mira
+  branch_code: XXX
+  city: Mira
+  country: Portugal
+- name: Caixa De Credito Agricola Mutuo De Mogadouro E Vim Ioso, Cooperativa De Responsabilidade
+    Limitada
+  swift: CDLUPTP1XXX
+  swift8: CDLUPTP1
+  branch_name: Head Office
+  branch_address: Avenida Do Sabor, 59 - 61 5200 201 Mogadouro
+  branch_code: XXX
+  city: Mogadouro
+  country: Portugal
+- name: Caixa De Credito Agricola Mutuo De Monforte Crl
+  swift: CDLTPTP1XXX
+  swift8: CDLTPTP1
+  branch_name: Head Office
+  branch_address: 20/21 Praca Da Republica 7450 100 Monforte
+  branch_code: XXX
+  city: Monforte
+  country: Portugal
+- name: Caixa De Credito Agricola Mutuo De Montalegre, Cr
+  swift: CDLOPTP1XXX
+  swift8: CDLOPTP1
+  branch_name: Head Office
+  branch_address: Rua General Humberto Delgado, S/N 5470 201 Montalegre
+  branch_code: XXX
+  city: Montalegre
+  country: Portugal
+- name: Caixa De Credito Agricola Mutuo De Montemor-o-novo
+  swift: CIAUPTP1XXX
+  swift8: CIAUPTP1
+  branch_name: Head Office
+  branch_address: Avenida Enida Gago Coutinho 7050 001 Montemor-O-Novo
+  branch_code: XXX
+  city: Montemor-O-Novo
+  country: Portugal
+- name: Caixa De Credito Agricola Mutuo De Mora Crl
+  swift: CIATPTP1XXX
+  swift8: CIATPTP1
+  branch_name: Head Office
+  branch_address: Praca Conselheiro Fernando Sousa 7490 201 Mora
+  branch_code: XXX
+  city: Mora
+  country: Portugal
+- name: Caixa De Credito Agricola Mutuo De Mortagua Crl
+  swift: CEOMPTP1XXX
+  swift8: CEOMPTP1
+  branch_name: Head Office
+  branch_address: S/N Rua Dr. Jose Lopes De Oliveira 3450 111 Mortagua
+  branch_code: XXX
+  city: Mortagua
+  country: Portugal
+- name: Caixa De Credito Agricola Mutuo De Nelas Crl
+  swift: CIGMPTP1XXX
+  swift8: CIGMPTP1
+  branch_name: Head Office
+  branch_address: S/N Largo De S. Pedra 3520 011 Nelas
+  branch_code: XXX
+  city: Nelas
+  country: Portugal
+- name: Caixa De Credito Agricola Mutuo De Olhao Crl
+  swift: CIGUPTP1XXX
+  swift8: CIGUPTP1
+  branch_name: Head Office
+  branch_address: S/N Avenida D. Maria Lizarda 8700 061 Moncarapacho
+  branch_code: XXX
+  city: Moncarapacho
+  country: Portugal
+- name: Caixa De Credito Agricola Mutuo De Oliveira De Azemeis Crl
+  swift: CRLMPTP1XXX
+  swift8: CRLMPTP1
+  branch_name: Head Office
+  branch_address: Rua Luis De Camoes, 76 3720 088 Oliveira De Azemeis
+  branch_code: XXX
+  city: Oliveira De Azemeis
+  country: Portugal
+- name: Caixa De Credito Agricola Mutuo De Oliveira Do Bairro Crl
+  swift: CIGOPTP1XXX
+  swift8: CIGOPTP1
+  branch_name: Head Office
+  branch_address: Zona Central Oliveira Do Bairro 3770 101 Oliveira Do Bairro
+  branch_code: XXX
+  city: Oliveira Do Bairro
+  country: Portugal
+- name: Caixa De Credito Agricola Mutuo De Oliveira Do Hos Pital, C.r.l.
+  swift: CIRMPTP1XXX
+  swift8: CIRMPTP1
+  branch_name: Head Office
+  branch_address: Rua Professor Antonio Ribeiro Garci 3880 001 Oliveira Do Hospital
+  branch_code: XXX
+  city: Oliveira Do Hospital
+  country: Portugal
+- name: Caixa De Credito Agricola Mutuo De Ovar Crl
+  swift: CIRUPTP1XXX
+  swift8: CIRUPTP1
+  branch_name: Head Office
+  branch_address: 9 Rua Timor Ovar
+  branch_code: XXX
+  city: Ovar
+  country: Portugal
+- name: Caixa De Credito Agricola Mutuo De Paredes Crl
+  swift: CIRTPTP1XXX
+  swift8: CIRTPTP1
+  branch_name: Head Office
+  branch_address: Avenida Comendador Abilio Seabra, 4580 002 Paredes
+  branch_code: XXX
+  city: Paredes
+  country: Portugal
+- name: Caixa De Credito Agricola Mutuo De Penalva Do Castelo
+  swift: CIROPTP1XXX
+  swift8: CIROPTP1
+  branch_name: Head Office
+  branch_address: 34 Rua 1 De Dezembro 3550 121 Penalva Do Castelo
+  branch_code: XXX
+  city: Penalva Do Castelo
+  country: Portugal
+- name: Caixa De Credito Agricola Mutuo De Pernes Crl
+  swift: CIIMPTP1XXX
+  swift8: CIIMPTP1
+  branch_name: Head Office
+  branch_address: Rua Eng. Antonio Torres, 140/140-a 2000 490 Pernes
+  branch_code: XXX
+  city: Pernes
+  country: Portugal
+- name: Caixa De Credito Agricola Mutuo De Pombal Crl
+  swift: CEAOPTP1XXX
+  swift8: CEAOPTP1
+  branch_name: Head Office
+  branch_address: Praca Da Republica 3100 311 Pombal
+  branch_code: XXX
+  city: Pombal
+  country: Portugal
+- name: Caixa De Credito Agricola Mutuo De Ponte De Sor Crl
+  swift: CIITPTP1XXX
+  swift8: CIITPTP1
+  branch_name: Head Office
+  branch_address: 12 Avenida Da Liberdade 7400 111 Ponte De Sor
+  branch_code: XXX
+  city: Ponte De Sor
+  country: Portugal
+- name: Caixa De Credito Agricola Mutuo De Portalegre Crl
+  swift: CIIOPTP1XXX
+  swift8: CIIOPTP1
+  branch_name: Head Office
+  branch_address: S/N Rua D. Augusto Eduardo Nunes 7300 011 Portalegre
+  branch_code: XXX
+  city: Portalegre
+  country: Portugal
+- name: Caixa De Credito Agricola Mutuo De Porto De Mos Crl
+  swift: CICUPTP1XXX
+  swift8: CICUPTP1
+  branch_name: Head Office
+  branch_address: Av De Santo Antonio, 20c 2480 860 Porto De Mos
+  branch_code: XXX
+  city: Porto De Mos
+  country: Portugal
+- name: Caixa De Credito Agricola Mutuo De Povoa De Varzim, Vila Do Conde E Esposende
+    Crl
+  swift: CIOMPTP1XXX
+  swift8: CIOMPTP1
+  branch_name: Head Office
+  branch_address: Avenida Mouzinho De Albuquerque 4490 401 Povoa De Varzim
+  branch_code: XXX
+  city: Povoa De Varzim
+  country: Portugal
+- name: Caixa De Credito Agricola Mutuo De Salvaterra De Magos
+  swift: CIOTPTP1XXX
+  swift8: CIOTPTP1
+  branch_name: Head Office
+  branch_address: 96 Avenida Dr. Roberto Ferreira 2120 011 Salvaterra De Magos
+  branch_code: XXX
+  city: Salvaterra De Magos
+  country: Portugal
+- name: Caixa De Credito Agricola Mutuo De Samora Correia Crl
+  swift: CIOOPTP1XXX
+  swift8: CIOOPTP1
+  branch_name: Head Office
+  branch_address: Avenida De O Seculo 99 2135 001 Samora Correia
+  branch_code: XXX
+  city: Samora Correia
+  country: Portugal
+- name: Caixa De Credito Agricola Mutuo De Santa Marta De Penaguiao
+  swift: CILMPTP1XXX
+  swift8: CILMPTP1
+  branch_name: Head Office
+  branch_address: Bloco a 5030 451 Santa Marta De Penaguiao
+  branch_code: XXX
+  city: Santa Marta De Penaguiao
+  country: Portugal
+- name: Caixa De Credito Agricola Mutuo De Santiago Do Cacem Crl
+  swift: CILUPTP1XXX
+  swift8: CILUPTP1
+  branch_name: Head Office
+  branch_address: Avenida Dom Nuno Alvares Pereira, 7540 060 Santiago Do Cacem
+  branch_code: XXX
+  city: Santiago Do Cacem
+  country: Portugal
+- name: Caixa De Credito Agricola Mutuo De Sao Bartolomeu
+  swift: CILTPTP1XXX
+  swift8: CILTPTP1
+  branch_name: Head Office
+  branch_address: 48/52 Rua Da Liberdade 8375 009 S. Bartolomeu De Messines
+  branch_code: XXX
+  city: S. Bartolomeu De Messines
+  country: Portugal
+- name: Caixa De Credito Agricola Mutuo De Sao Joao Da Pesqueira Crl
+  swift: CIOUPTP1XXX
+  swift8: CIOUPTP1
+  branch_name: Head Office
+  branch_address: Av. Marques De Soveral 5130 301 S. Joao Da Pesqueira
+  branch_code: XXX
+  city: S. Joao Da Pesqueira
+  country: Portugal
+- name: Caixa De Credito Agricola Mutuo De Sao Pedro Do Sul
+  swift: CTAUPTP1XXX
+  swift8: CTAUPTP1
+  branch_name: Head Office
+  branch_address: S/N Rua Serpa Pinto 3660 401 S. Pedro Do Sul
+  branch_code: XXX
+  city: S. Pedro Do Sul
+  country: Portugal
+- name: Caixa De Credito Agricola Mutuo De Sao Teotonio, Rl
+  swift: CTAMPTP1XXX
+  swift8: CTAMPTP1
+  branch_name: Head Office
+  branch_address: Rua 25 De Abril, 8 7630 561 S. Teotonio
+  branch_code: XXX
+  city: S. Teotonio
+  country: Portugal
+- name: Caixa De Credito Agricola Mutuo De Satao E Vila Nova De Paiva
+  swift: CTATPTP1XXX
+  swift8: CTATPTP1
+  branch_name: Head Office
+  branch_address: 130/134 Rua Dr. Hilario Almeida 3560 131 Satao
+  branch_code: XXX
+  city: Satao
+  country: Portugal
+- name: Caixa De Credito Agricola Mutuo De Seia Crl
+  swift: CTAOPTP1XXX
+  swift8: CTAOPTP1
+  branch_name: Head Office
+  branch_address: Largo Marques De Silva 6270 371 Seia
+  branch_code: XXX
+  city: Seia
+  country: Portugal
+- name: Caixa De Credito Agricola Mutuo De Sever Do Vouga
+  swift: CTGMPTP1XXX
+  swift8: CTGMPTP1
+  branch_name: Head Office
+  branch_address: Avenida Comendador Augusto Martins 3740 201 Sever Do Vouga
+  branch_code: XXX
+  city: Sever Do Vouga
+  country: Portugal
+- name: Caixa De Credito Agricola Mutuo De Silves Crl
+  swift: CTGUPTP1XXX
+  swift8: CTGUPTP1
+  branch_name: Head Office
+  branch_address: 22 Rua Comendador Vilarinho 8300 010 Silves
+  branch_code: XXX
+  city: Silves
+  country: Portugal
+- name: Caixa De Credito Agricola Mutuo De Sousel Crl
+  swift: CTGOPTP1XXX
+  swift8: CTGOPTP1
+  branch_name: Head Office
+  branch_address: Praca Da Republica 7470 181 Sousel
+  branch_code: XXX
+  city: Sousel
+  country: Portugal
+- name: Caixa De Credito Agricola Mutuo De Tabuaco E Serna
+  swift: CEGOPTP1XXX
+  swift8: CEGOPTP1
+  branch_name: Head Office
+  branch_address: Rua Sa De Albergaria 5120 371 Tabuaco
+  branch_code: XXX
+  city: Tabuaco
+  country: Portugal
+- name: Caixa De Credito Agricola Mutuo De Tarouca-cooperativa De Responsabilidade
+    Limitada
+  swift: CTRTPTP1XXX
+  swift8: CTRTPTP1
+  branch_name: Head Office
+  branch_address: Av. Vice-Almirante Adriano Saavedra 3610 100 Tarouca
+  branch_code: XXX
+  city: Tarouca
+  country: Portugal
+- name: Caixa De Credito Agricola Mutuo De Terras De Miranda Do Douro Crl
+  swift: CTROPTP1XXX
+  swift8: CTROPTP1
+  branch_name: Head Office
+  branch_address: Rua Da Industria 5225 031 Miranda Do Douro
+  branch_code: XXX
+  city: Miranda Do Douro
+  country: Portugal
+- name: Caixa De Credito Agricola Mutuo De Terras Do Sousa, Ave, Basto E Tamega, Crl
+  swift: CTIMPTP1XXX
+  swift8: CTIMPTP1
+  branch_name: Head Office
+  branch_address: Avenida Doutor Leonardo Coimbra 4610 101 Felgueiras
+  branch_code: XXX
+  city: Felgueiras
+  country: Portugal
+- name: Caixa De Credito Agricola Mutuo De Torres Vedras,c.r.l
+  swift: CTIUPTP1XXX
+  swift8: CTIUPTP1
+  branch_name: Head Office
+  branch_address: Rua Santos Bernardes, 16-a 2560 231 Torres Vedras
+  branch_code: XXX
+  city: Torres Vedras
+  country: Portugal
+- name: Caixa De Credito Agricola Mutuo De Tramagal, C.r..
+  swift: CTITPTP1XXX
+  swift8: CTITPTP1
+  branch_name: Head Office
+  branch_address: Estrada Nacional 118, 626 2200 000 Tramagal
+  branch_code: XXX
+  city: Tramagal
+  country: Portugal
+- name: Caixa De Credito Agricola Mutuo De Vagos Crl
+  swift: CIIUPTP1XXX
+  swift8: CIIUPTP1
+  branch_name: Head Office
+  branch_address: Rua Padre Vicente Maria Da Rocha 3840 381 Vagos
+  branch_code: XXX
+  city: Vagos
+  country: Portugal
+- name: Caixa De Credito Agricola Mutuo De Vale De Cambra Crl
+  swift: CTCMPTP1XXX
+  swift8: CTCMPTP1
+  branch_name: Head Office
+  branch_address: Rua Do Hospital 402-404 3730 030 Vale De Cambra
+  branch_code: XXX
+  city: Vale De Cambra
+  country: Portugal
+- name: Caixa De Credito Agricola Mutuo De Vila Do Bispo Crl
+  swift: CTCUPTP1XXX
+  swift8: CTCUPTP1
+  branch_name: Head Office
+  branch_address: 40 Rua Do Hospital 8650 400 Vila Do Bispo
+  branch_code: XXX
+  city: Vila Do Bispo
+  country: Portugal
+- name: Caixa De Credito Agricola Mutuo De Vila Franca Das Naves, C R L
+  swift: CTCTPTP1XXX
+  swift8: CTCTPTP1
+  branch_name: Head Office
+  branch_address: Rua Do Comercio 6420 701 Vila Franca Das Naves
+  branch_code: XXX
+  city: Vila Franca Das Naves
+  country: Portugal
+- name: Caixa De Credito Agricola Mutuo De Vila Franca De Xira Crl
+  swift: CTCOPTP1XXX
+  swift8: CTCOPTP1
+  branch_name: Head Office
+  branch_address: Largo Marques De Pombal, 1 E 2 2600 011 Vila Franca De Xira
+  branch_code: XXX
+  city: Vila Franca De Xira
+  country: Portugal
+- name: Caixa De Credito Agricola Mutuo De Vila Nova De Ancos
+  swift: CTOMPTP1XXX
+  swift8: CTOMPTP1
+  branch_name: Head Office
+  branch_address: Rua Da Relvinha 3130 400 Vila Nova De Ancos
+  branch_code: XXX
+  city: Vila Nova De Ancos
+  country: Portugal
+- name: Caixa De Credito Agricola Mutuo De Vila Nova De Famalicao Crl
+  swift: CTOUPTP1XXX
+  swift8: CTOUPTP1
+  branch_name: Head Office
+  branch_address: R. St Leocadia 1091 4760 10 Vila Nova De Famalicao
+  branch_code: XXX
+  city: Vila Nova De Famalicao
+  country: Portugal
+- name: Caixa De Credito Agricola Mutuo De Vila Nova De Tazem
+  swift: CTOTPTP1XXX
+  swift8: CTOTPTP1
+  branch_name: Head Office
+  branch_address: Largo Joaquim Borges Artiaga 6290 631 Vila Nova De Tazem
+  branch_code: XXX
+  city: Vila Nova De Tazem
+  country: Portugal
+- name: Caixa De Credito Agricola Mutuo De Vila Verde E De
+  swift: CTOOPTP1XXX
+  swift8: CTOOPTP1
+  branch_name: Head Office
+  branch_address: Praca 5 De Outubro 4730 701 Vila Verde
+  branch_code: XXX
+  city: Vila Verde
+  country: Portugal
+- name: Caixa De Credito Agricola Mutuo De Vila Vicosa
+  swift: CTLMPTP1XXX
+  swift8: CTLMPTP1
+  branch_name: Head Office
+  branch_address: Avenida Duques De Braganca 7160 201 Vila Vicosa
+  branch_code: XXX
+  city: Vila Vicosa
+  country: Portugal
+- name: Caixa De Credito Agricola Mutuo De Viseu-tondela
+  swift: CTLUPTP1XXX
+  swift8: CTLUPTP1
+  branch_name: Head Office
+  branch_address: 111-117 Rua Alexandre Herculano 3500 001 Viseu
+  branch_code: XXX
+  city: Viseu
+  country: Portugal
+- name: Caixa De Credito Agricola Mutuo Do Algarve Crl
+  swift: CTLTPTP1XXX
+  swift8: CTLTPTP1
+  branch_name: Head Office
+  branch_address: Rua De Santo Antonio, 123 8000 010 Faro
+  branch_code: XXX
+  city: Faro
+  country: Portugal
+- name: Caixa De Credito Agricola Mutuo Do Alto Corgo E Ta
+  swift: CIGTPTP1XXX
+  swift8: CIGTPTP1
+  branch_name: Head Office
+  branch_address: Bloca a 5000 261 Vila Real
+  branch_code: XXX
+  city: Vila Real
+  country: Portugal
+- name: Caixa De Credito Agricola Mutuo Do Alto Douro Crl
+  swift: COAMPTP1XXX
+  swift8: COAMPTP1
+  branch_name: Head Office
+  branch_address: Avenida Dr. Francisco Sa Carneiro, 5070 011 Alijo
+  branch_code: XXX
+  city: Alijo
+  country: Portugal
+- name: Caixa De Credito Agricola Mutuo Do Alto Guadiana
+  swift: COAUPTP1XXX
+  swift8: COAUPTP1
+  branch_name: Head Office
+  branch_address: 33-35 Rua 1 De Maio 7200 201 Reguengos De Monsaraz
+  branch_code: XXX
+  city: Reguengos De Monsaraz
+  country: Portugal
+- name: Caixa De Credito Agricola Mutuo Do Alto Minho, Cr
+  swift: COATPTP1XXX
+  swift8: COATPTP1
+  branch_name: Head Office
+  branch_address: Rua De Aveiro, 119 4900 299 Viana Do Castelo
+  branch_code: XXX
+  city: Viana Do Castelo
+  country: Portugal
+- name: Caixa De Credito Agricola Mutuo Do Cartaxo, Crl
+  swift: COAOPTP1XXX
+  swift8: COAOPTP1
+  branch_name: Head Office
+  branch_address: Rua Dr. Manuel Gomes Da Silva, 24 2070 1 Cartaxo
+  branch_code: XXX
+  city: Cartaxo
+  country: Portugal
+- name: Caixa De Credito Agricola Mutuo Do Concelho Da Feira
+  swift: CTIOPTP1XXX
+  swift8: CTIOPTP1
+  branch_name: Head Office
+  branch_address: 23 Rua Dr. Vitorino De Sa 4520 151 Santa Maria Da Feira
+  branch_code: XXX
+  city: Santa Maria Da Feira
+  country: Portugal
+- name: Caixa De Credito Agricola Mutuo Do Concelho De Mealhada
+  swift: CTRMPTP1XXX
+  swift8: CTRMPTP1
+  branch_name: Head Office
+  branch_address: Rua Branquinho Carvalho 4520 151 Mealhada
+  branch_code: XXX
+  city: Mealhada
+  country: Portugal
+- name: Caixa De Credito Agricola Mutuo Do Concelho De Pinhel
+  swift: COGTPTP1XXX
+  swift8: COGTPTP1
+  branch_name: Head Office
+  branch_address: Freixedas
+  branch_code: XXX
+  city: Freixedas
+  country: Portugal
+- name: Caixa De Credito Agricola Mutuo Do Guadiana Inter.
+  swift: COGOPTP1XXX
+  swift8: COGOPTP1
+  branch_name: Head Office
+  branch_address: Rua Das Tercarias 7860 001 Moura
+  branch_code: XXX
+  city: Moura
+  country: Portugal
+- name: Caixa De Credito Agricola Mutuo Do Minho Crl
+  swift: CORMPTP1XXX
+  swift8: CORMPTP1
+  branch_name: Head Office
+  branch_address: 132-2 Rua Eca De Queiros 4700 011 Braga
+  branch_code: XXX
+  city: Braga
+  country: Portugal
+- name: Caixa De Credito Agricola Mutuo Do Norte Alentejan
+  swift: COIUPTP1XXX
+  swift8: COIUPTP1
+  branch_name: Head Office
+  branch_address: 14 Rua Da Lagoa 7460 100 Fronteira
+  branch_code: XXX
+  city: Fronteira
+  country: Portugal
+- name: Caixa De Credito Agricola Mutuo Do Peso Da Regua
+  swift: COIOPTP1XXX
+  swift8: COIOPTP1
+  branch_name: Head Office
+  branch_address: 67 Rua Dos Camilos Peso Da Regua
+  branch_code: XXX
+  city: Peso Da Regua
+  country: Portugal
+- name: Caixa De Credito Agricola Mutuo Do Ribatejo Centro
+  swift: COGUPTP1XXX
+  swift8: COGUPTP1
+  branch_name: Head Office
+  branch_address: 23 Rua Dr. Teixeira Guedes 2000 011 Santarem
+  branch_code: XXX
+  city: Santarem
+  country: Portugal
+- name: Caixa De Credito Agricola Mutuo Do Ribatejo Nortec.r.l.
+  swift: COOUPTP1XXX
+  swift8: COOUPTP1
+  branch_name: Head Office
+  branch_address: Praca 5 De Outubro, 37 2350 405 Torres Novas
+  branch_code: XXX
+  city: Torres Novas
+  country: Portugal
+- name: Caixa De Credito Agricola Mutuo Do Ribatejo Sul Crl
+  swift: COOTPTP1XXX
+  swift8: COOTPTP1
+  branch_name: Head Office
+  branch_address: Rua Direita, 36, R/C 2080 301 Benfica Do Ribatejo
+  branch_code: XXX
+  city: Benfica Do Ribatejo
+  country: Portugal
+- name: Caixa De Credito Agricola Mutuo Do Sobral Do Monteagraco Crl
+  swift: CTGTPTP1XXX
+  swift8: CTGTPTP1
+  branch_name: Head Office
+  branch_address: Avenida Marques De Pombal, 27/29 2590 001 Sobral De Monte Agraco
+  branch_code: XXX
+  city: Sobral De Monte Agraco
+  country: Portugal
+- name: Caixa De Credito Agricola Mutuo Do Sotavento Algarve
+  swift: COOOPTP1XXX
+  swift8: COOOPTP1
+  branch_name: Head Office
+  branch_address: 1 Rua Borda De Agua De Aguiar 8800 326 Tavira
+  branch_code: XXX
+  city: Tavira
+  country: Portugal
+- name: Caixa De Credito Agricola Mutuo Do Vale Do Dao C.r.l.
+  swift: CDOOPTP1XXX
+  swift8: CDOOPTP1
+  branch_name: Head Office
+  branch_address: Avenida Da Liberdade, 62/64 3530 100 Mangualde
+  branch_code: XXX
+  city: Mangualde
+  country: Portugal
+- name: Caixa De Credito Agricola Mutuo Do Vale Do Sousa
+  swift: COLMPTP1XXX
+  swift8: COLMPTP1
+  branch_name: Head Office
+  branch_address: S/N Largo Da Devesa 4560 451 Penafiel
+  branch_code: XXX
+  city: Penafiel
+  country: Portugal
+- name: Caixa De Credito Agricola Mutuo Dos Acores Crl
+  swift: CTLOPTP1XXX
+  swift8: CTLOPTP1
+  branch_name: Head Office
+  branch_address: Rua Manuel Inacio Correia 15 9500-087 Ponta Delgada
+  branch_code: XXX
+  city: Ponta Delgada
+  country: Portugal
+- name: Caixa Economica Da Associacao De Socorros Mutuos De Empregados No Comercio
+    De Lisboa
+  swift: CEARPTP1XXX
+  swift8: CEARPTP1
+  branch_name: Head Office
+  branch_address: Largo De Sao Cristovao 1 1100 001 Lisbon
+  branch_code: XXX
+  city: Lisbon
+  country: Portugal
+- name: Caixa Economica Do Porto
+  swift: CAEPPTP1XXX
+  swift8: CAEPPTP1
+  branch_name: Head Office
+  branch_address: Rua Formosa, 325 - 1 4000 011 Porto
+  branch_code: XXX
+  city: Porto
+  country: Portugal
+- name: Caixa Economica Social
+  swift: CAEOPTP1XXX
+  swift8: CAEOPTP1
+  branch_name: Head Office
+  branch_address: Rua Coelho Neto, 27 4000 011 Porto
+  branch_code: XXX
+  city: Porto
+  country: Portugal
+- name: Caixagest Tecnicas De Gestao De Fundos, Sa
+  swift: CTGFPTP1XXX
+  swift8: CTGFPTP1
+  branch_name: Head Office
+  branch_address: Edificio Caixa Geral De Depositos 1000-300 Lisbon
+  branch_code: XXX
+  city: Lisbon
+  country: Portugal
+- name: Central Investimentos
+  swift: CENIPTP1XXX
+  swift8: CENIPTP1
+  branch_name: Head Office
+  branch_address: Avenida Miguel Bombadero Lisbon
+  branch_code: XXX
+  city: Lisbon
+  country: Portugal
+- name: Central-banco De Investimento, Sa
+  swift: PCBIPTP1XXX
+  swift8: PCBIPTP1
+  branch_name: Head Office
+  branch_address: Cbi 1050-185 Lisbon
+  branch_code: XXX
+  city: Lisbon
+  country: Portugal
+- name: Companhia Portuguesa De Rating, S.a
+  swift: COOGPTP1XXX
+  swift8: COOGPTP1
+  branch_name: Head Office
+  branch_address: Rua Luciano Cordeiro, 123 1050139 Lisbon
+  branch_code: XXX
+  city: Lisbon
+  country: Portugal
+- name: Credibanco-banco De Credito Pessoal Sa
+  swift: CRRSPTP1XXX
+  swift8: CRRSPTP1
+  branch_name: Head Office
+  branch_address: 62-74 Rua Augusta 1100 001 Lisbon
+  branch_code: XXX
+  city: Lisbon
+  country: Portugal
+- name: Credifin-banco De Credito Ao Consumo S.a.
+  swift: CRRCPTP1XXX
+  swift8: CRRCPTP1
+  branch_name: Head Office
+  branch_address: Rua Do Pinheiro Manso, 662 4150 011 Porto
+  branch_code: XXX
+  city: Porto
+  country: Portugal
+- name: Ctt-correios De Portugal, S.a.
+  swift: CTTPPTP1XXX
+  swift8: CTTPPTP1
+  branch_name: Head Office
+  branch_address: Av. D. Joao Ii Lt 1.12.03 1999-001 Lisbon
+  branch_code: XXX
+  city: Lisbon
+  country: Portugal
+- name: Dif Broker-soc.corretora, S.a.
+  swift: DBRCPTP1XXX
+  swift8: DBRCPTP1
+  branch_name: Head Office
+  branch_address: Av. Da Liberdade, 244 1250-149 Lisbon
+  branch_code: XXX
+  city: Lisbon
+  country: Portugal
+- name: Esaf-es Fundos De Investimento Imobiliario, Sa
+  swift: EFIIPTP1XXX
+  swift8: EFIIPTP1
+  branch_name: Head Office
+  branch_address: Avenida Alvares Cabral, 41 1250-015 Lisbon
+  branch_code: XXX
+  city: Lisbon
+  country: Portugal
+- name: Esaf-es Fundos De Investimento Mobiliario, Sa
+  swift: EFIMPTP1XXX
+  swift8: EFIMPTP1
+  branch_name: Head Office
+  branch_address: Avenida Alvares Cabral, 41 1250-015 Lisbon
+  branch_code: XXX
+  city: Lisbon
+  country: Portugal
+- name: Esaf-es Fundos De Pensoes, Sa
+  swift: ESFPPTP1XXX
+  swift8: ESFPPTP1
+  branch_name: Head Office
+  branch_address: Avenida Alvares Cabral, 41 1250-015 Lisbon
+  branch_code: XXX
+  city: Lisbon
+  country: Portugal
+- name: Esaf-espirito Santo Gestao De Patrimonios, S.a.
+  swift: ESGPPTP1XXX
+  swift8: ESGPPTP1
+  branch_name: Head Office
+  branch_address: Avenida Alvares Cabral, 41, R/C 1 1250-015 Lisbon
+  branch_code: XXX
+  city: Lisbon
+  country: Portugal
+- name: Eser Sociedade Financeira De Corretagem Sa
+  swift: ESFCPTP1XXX
+  swift8: ESFCPTP1
+  branch_name: Head Office
+  branch_address: Torre 3-11/Amoreiras 1070 Lisbon
+  branch_code: XXX
+  city: Lisbon
+  country: Portugal
+- name: Espirito Santo Dealer Sociedade Financeira De Corretagem
+  swift: ESDEPTP1XXX
+  swift8: ESDEPTP1
+  branch_name: Head Office
+  branch_address: Torre 3 1070 Lisbon
+  branch_code: XXX
+  city: Lisbon
+  country: Portugal
+- name: Euronext Lisboa
+  swift: XLISPTP1XXX
+  swift8: XLISPTP1
+  branch_name: Head Office
+  branch_address: Praca Duque De Saldanha, 1-5a 1050 Lisbon
+  branch_code: XXX
+  city: Lisbon
+  country: Portugal
+- name: F And C Portugal, Gestao De Patrimonios, S.a.
+  swift: PGPAPTP1XXX
+  swift8: PGPAPTP1
+  branch_name: Head Office
+  branch_address: Avenida Jose Malhoa, 27 1070-157 Lisbon
+  branch_code: XXX
+  city: Lisbon
+  country: Portugal
+- name: Fincor-sociedade Corretora Sa
+  swift: FICCPTP1XXX
+  swift8: FICCPTP1
+  branch_name: Head Office
+  branch_address: Rua Castilho, 44 1250-071 Lisbon
+  branch_code: XXX
+  city: Lisbon
+  country: Portugal
+- name: Finivalor-sociedade Gestora De Fundos Mobiliarios S.a.
+  swift: FIVRPTP1XXX
+  swift8: FIVRPTP1
+  branch_name: Head Office
+  branch_address: Finibanco 1050-040 Lisbon
+  branch_code: XXX
+  city: Lisbon
+  country: Portugal
+- name: Fundo De Garantia De Depositos
+  swift: FUGDPTP1XXX
+  swift8: FUGDPTP1
+  branch_name: Head Office
+  branch_address: Avenida Da Republica 57/70 1050-189 Lisbon
+  branch_code: XXX
+  city: Lisbon
+  country: Portugal
+- name: Fundo De Resolucao
+  swift: FURSPTP1XXX
+  swift8: FURSPTP1
+  branch_name: Head Office
+  branch_address: Av Republica57 1050-189 Lisbon
+  branch_code: XXX
+  city: Lisbon
+  country: Portugal
+- name: Fundo Garantia Credito Agricola Mut Uo
+  swift: FGCAPTP1XXX
+  swift8: FGCAPTP1
+  branch_name: Head Office
+  branch_address: Av Republica 57 1050-189 Lisbon
+  branch_code: XXX
+  city: Lisbon
+  country: Portugal
+- name: Golden Broker Sociedade Corretora Sa
+  swift: GBSCPTP1XXX
+  swift8: GBSCPTP1
+  branch_name: Head Office
+  branch_address: Golden Broker 4100-135 Porto
+  branch_code: XXX
+  city: Porto
+  country: Portugal
+- name: Hbf-banco Financiero Sa
+  swift: HBFIPTP1XXX
+  swift8: HBFIPTP1
+  branch_name: Head Office
+  branch_address: 245-4 Avenida Da Liberdade 1250 001 Lisbon
+  branch_code: XXX
+  city: Lisbon
+  country: Portugal
+- name: Hypothekenbank Frankfurt Ag, Portugal Branch
+  swift: EHYPPTP1XXX
+  swift8: EHYPPTP1
+  branch_name: Head Office
+  branch_address: Praca Duque De Saldanha 1-3b Lisbon
+  branch_code: XXX
+  city: Lisbon
+  country: Portugal
+- name: Igfcss
+  swift: IGFCPT21XXX
+  swift8: IGFCPT21
+  branch_name: Head Office
+  branch_address: Av Fernao De Magalhaes Porto
+  branch_code: XXX
+  city: Porto
+  country: Portugal
+- name: Interbolsa-s.g.s.l.s.c.v.m., S.a.
+  swift: IBLSPTPPCUG
+  swift8: IBLSPTPP
+  branch_name: Porto
+  branch_address: Porto
+  branch_code: CUG
+  city: Porto
+  country: Portugal
+- name: Interbolsa-s.g.s.l.s.c.v.m., S.a.
+  swift: IBLSPTPPXXX
+  swift8: IBLSPTPP
+  branch_name: Head Office
+  branch_address: Avenida Da Boavista, 3433 4100-138 Porto
+  branch_code: XXX
+  city: Porto
+  country: Portugal
+- name: Intermoney Portugal
+  swift: IMPTPTP1XXX
+  swift8: IMPTPTP1
+  branch_name: Head Office
+  branch_address: Avenida Das Forcas Armadas 1600-079 Lisbon
+  branch_code: XXX
+  city: Lisbon
+  country: Portugal
+- name: Intermoney Valores, Sociedad De Valores, Sa-succursal Em Portugal
+  swift: IVSVPTP1XXX
+  swift8: IVSVPTP1
+  branch_name: Head Office
+  branch_address: Edificio Open 1600-079 Lisbon
+  branch_code: XXX
+  city: Lisbon
+  country: Portugal
+- name: Intervalores-sociedade Corretora, S.a.
+  swift: ITCAPTP1XXX
+  swift8: ITCAPTP1
+  branch_name: Head Office
+  branch_address: Rua Dr. Antonio Candido, N.10 1050-076 Lisbon
+  branch_code: XXX
+  city: Lisbon
+  country: Portugal
+- name: Investquest Societa Gestora Patrimonios
+  swift: ISGAPTP1XXX
+  swift8: ISGAPTP1
+  branch_name: Head Office
+  branch_address: Rua Castilho 75 6 Esq 1250068 Lisbon
+  branch_code: XXX
+  city: Lisbon
+  country: Portugal
+- name: L.j. Carregosa
+  swift: CAOEPTP1XXX
+  swift8: CAOEPTP1
+  branch_name: Head Office
+  branch_address: Av. Da Boavista, 1083 4100-129 Porto
+  branch_code: XXX
+  city: Porto
+  country: Portugal
+- name: Lisbon Brokers Sociedade Corretora S.a.
+  swift: LBSCPTP1XXX
+  swift8: LBSCPTP1
+  branch_name: Head Office
+  branch_address: Rua Do Alecrim 73 1200-015 Lisbon
+  branch_code: XXX
+  city: Lisbon
+  country: Portugal
+- name: Luso Partners-sociedade Corretora, S.a.
+  swift: LPSCPTP1XXX
+  swift8: LPSCPTP1
+  branch_name: Head Office
+  branch_address: Rua De Sao Juliao, 30 1100-525 Lisbon
+  branch_code: XXX
+  city: Lisbon
+  country: Portugal
+- name: M.g. Gestao De Activos Financeiros-sociedade Gestora De Fundos De Investimento
+    Mobiliario S.a.
+  swift: GAFSPTP1XXX
+  swift8: GAFSPTP1
+  branch_name: Head Office
+  branch_address: Rua General Firmino Miguel, 5 1600-100 Lisbon
+  branch_code: XXX
+  city: Lisbon
+  country: Portugal
+- name: Macif Portugal
+  swift: MAPGPTP1XXX
+  swift8: MAPGPTP1
+  branch_name: Head Office
+  branch_address: Praca Da Alegria 21, 22 E 23 1250004 Lisbon
+  branch_code: XXX
+  city: Lisbon
+  country: Portugal
+- name: Math Fund
+  swift: MAUDPTP1XXX
+  swift8: MAUDPTP1
+  branch_name: Head Office
+  branch_address: Domingo Sequeira 273a Lisbon
+  branch_code: XXX
+  city: Lisbon
+  country: Portugal
+- name: Midas Securities
+  swift: MIDEPTP1XXX
+  swift8: MIDEPTP1
+  branch_name: Head Office
+  branch_address: Praca Do Campo Paqueno 45-7 Lisbon
+  branch_code: XXX
+  city: Lisbon
+  country: Portugal
+- name: Miillennium Bcp-gestao De Fundos De Investimento, Sa
+  swift: MBGFPTP1XXX
+  swift8: MBGFPTP1
+  branch_name: Head Office
+  branch_address: Avenida Jose Malhoa 1070-157 Lisbon
+  branch_code: XXX
+  city: Lisbon
+  country: Portugal
+- name: Millenium Bcp
+  swift: MIBPPTP1XXX
+  swift8: MIBPPTP1
+  branch_name: Head Office
+  branch_address: Av.Jose Mal Hoa Lote 1686 1070-157 Lisbon
+  branch_code: XXX
+  city: Lisbon
+  country: Portugal
+- name: Monte De Piedad Y Caja General De Ahorros De Badajoz, Sucursal Em Portugal
+  swift: MPCGPTP1XXX
+  swift8: MPCGPTP1
+  branch_name: Head Office
+  branch_address: Rua Eca De Queiroz , Nr. 29 1050-095 Lisbon
+  branch_code: XXX
+  city: Lisbon
+  country: Portugal
+- name: Montepio Geral-caixa Economica
+  swift: MPIOPTPLTIT
+  swift8: MPIOPTPL
+  branch_name: Servicio Titulos
+  branch_address: Rua Joao Chagas, 53 1495-072 Alges
+  branch_code: TIT
+  city: Alges
+  country: Portugal
+- name: Montepio Geral-caixa Economica
+  swift: MPIOPTPLXXX
+  swift8: MPIOPTPL
+  branch_name: Head Office
+  branch_address: Rua Do Ouro 219-241 1100 Lisbon
+  branch_code: XXX
+  city: Lisbon
+  country: Portugal
+- name: Ncg Banco, S.a., Sucursal Em Portugal
+  swift: CAGLPTP1LBU
+  swift8: CAGLPTP1
+  branch_name: Lisbon Unconnected
+  branch_address: Lisbon
+  branch_code: LBU
+  city: Lisbon
+  country: Portugal
+- name: Nco Dealer, Sa
+  swift: NCOEPTP1XXX
+  swift8: NCOEPTP1
+  branch_name: Head Office
+  branch_address: Rua Laura Alves 12-6 1069-171 Lisbon
+  branch_code: XXX
+  city: Lisbon
+  country: Portugal
+- name: Ok2deal-sociedade Corretora, S.a.
+  swift: OKCOPTP1XXX
+  swift8: OKCOPTP1
+  branch_name: Head Office
+  branch_address: Rua Das Oliveiras, 104 4050-448 Porto
+  branch_code: XXX
+  city: Porto
+  country: Portugal
+- name: Omiclear-sociedade De Compensacao De Mercados De Energia, S.g.c.c.c.c., S.a.
+  swift: OMICPTPLASA
+  swift8: OMICPTPL
+  branch_name: Ancillary System Account
+  branch_address: Lisbon
+  branch_code: ASA
+  city: Lisbon
+  country: Portugal
+- name: Omiclear-sociedade De Compensacao De Mercados De Energia, S.g.c.c.c.c., S.a.
+  swift: OMICPTPLXXX
+  swift8: OMICPTPL
+  branch_name: Head Office
+  branch_address: Avenida Casal Ribeiro, 14 8 1000-092 Lisbon
+  branch_code: XXX
+  city: Lisbon
+  country: Portugal
+- name: Oney Ific Sa
+  swift: ONIFPTP1XXX
+  swift8: ONIFPTP1
+  branch_name: Head Office
+  branch_address: Atlas 1 1495-139 Lisbon
+  branch_code: XXX
+  city: Lisbon
+  country: Portugal
+- name: Orey Valores-sociedade Corretora, S.a.
+  swift: OVSCPTP1XXX
+  swift8: OVSCPTP1
+  branch_name: Head Office
+  branch_address: Edificio Amoreiras Square 1070-313 Lisbon
+  branch_code: XXX
+  city: Lisbon
+  country: Portugal
+- name: Paulo Lopes And Lopes Lda
+  swift: PLLAPTP1XXX
+  swift8: PLLAPTP1
+  branch_name: Head Office
+  branch_address: Av. Herais Do Ultramar, 175 3100-462 Pombal
+  branch_code: XXX
+  city: Pombal
+  country: Portugal
+- name: Pexsettle
+  swift: PEXSPTP1XXX
+  swift8: PEXSPTP1
+  branch_name: Head Office
+  branch_address: Avenida Sidonio Pais, 20 1050-215 Lisbon
+  branch_code: XXX
+  city: Lisbon
+  country: Portugal
+- name: Portuguese Emission Trading Registry
+  swift: PETGPTP1XXX
+  swift8: PETGPTP1
+  branch_name: Head Office
+  branch_address: Agencia Portuguesa Do Ambiente 2611-865 Amadora
+  branch_code: XXX
+  city: Amadora
+  country: Portugal
+- name: Rheinhyp Rheinische Hypothenkenbank Ag
+  swift: RHRHPTP1XXX
+  swift8: RHRHPTP1
+  branch_name: Head Office
+  branch_address: 123-4 Rua Luciano Cordeiro 1050 139 Lisbon
+  branch_code: XXX
+  city: Lisbon
+  country: Portugal
+- name: Royal Bank Of Scotland Plc-sucursal Em Portugal
+  swift: RBOSPTP1XXX
+  swift8: RBOSPTP1
+  branch_name: Head Office
+  branch_address: Avenida Da Liberdade 131 1269-036 Lisbon
+  branch_code: XXX
+  city: Lisbon
+  country: Portugal
+- name: Samsung Electronica Portugal
+  swift: SECTPTP14E0
+  swift8: SECTPTP1
+  branch_name: Sep
+  branch_address: No branch address
+  branch_code: 4E0
+  city: Lisbon
+  country: Portugal
+- name: Samsung Electronica Portugal
+  swift: SECTPTP1XXX
+  swift8: SECTPTP1
+  branch_name: Head Office
+  branch_address: Edificio 5b 2740 Lisbon
+  branch_code: XXX
+  city: Lisbon
+  country: Portugal
+- name: Santander Asset Management-sociedade Gestora De Fundos De Investimento Mobiliario,
+    S.a.
+  swift: SAGCPTP1XXX
+  swift8: SAGCPTP1
+  branch_name: Head Office
+  branch_address: Rua Da Mesquita, 6 109-24 Lisbon
+  branch_code: XXX
+  city: Lisbon
+  country: Portugal
+- name: Sibs-sociedade Interbancaria De Servicos S.a
+  swift: SISRPTP1XXX
+  swift8: SISRPTP1
+  branch_name: Head Office
+  branch_address: Rua Soeiro Pereira Gomes Lisbon Lisbon
+  branch_code: XXX
+  city: Lisbon Lisbon
+  country: Portugal
+- name: Societa Gestora Do Fundo De Pensoes
+  swift: SGFEPTP1XXX
+  swift8: SGFEPTP1
+  branch_name: Head Office
+  branch_address: Avenida Da Republica 57/70 Lisbon
+  branch_code: XXX
+  city: Lisbon
+  country: Portugal
+- name: The Bank Of Tokyo-mitsubishi Ufj, Ltd.
+  swift: BOTKPTP1XXX
+  swift8: BOTKPTP1
+  branch_name: Lisbon Office
+  branch_address: Avenida Da Liberdade 180 E-6 Esq Lisbon
+  branch_code: XXX
+  city: Lisbon
+  country: Portugal
+- name: Unicre-instituicao Financeira De Credito S.a.
+  swift: UIFCPTP1XXX
+  swift8: UIFCPTP1
+  branch_name: Head Office
+  branch_address: Av. Antonio Augusto De Aguiar, 122 1050-019 Lisbon
+  branch_code: XXX
+  city: Lisbon
+  country: Portugal
+- name: Universo-banco Directo
+  swift: UVBDPTP1XXX
+  swift8: UVBDPTP1
+  branch_name: Head Office
+  branch_address: Avenida Da Boavista 1245 4150 Porto
+  branch_code: XXX
+  city: Porto
+  country: Portugal
+- name: X-trade Brokers D.m. S.a.
+  swift: TBPTPTP1XXX
+  swift8: TBPTPTP1
+  branch_name: Head Office
+  branch_address: Praca Duque De Saldanha N1 1050-094 Lisbon
+  branch_code: XXX
+  city: Lisbon
+  country: Portugal
+- name: Zurich-companhia De Seguros S.a.
+  swift: ZURIPTPLXXX
+  swift8: ZURIPTPL
+  branch_name: Head Office
+  branch_address: Edificio Zurich 1269-058 Lisbon
+  branch_code: XXX
+  city: Lisbon
+  country: Portugal

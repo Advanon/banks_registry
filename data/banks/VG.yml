@@ -1,0 +1,203 @@
+---
+VG:
+- name: Firstcaribbean International Bank
+  swift: FCIBVGVGXXX
+  swift8: FCIBVGVG
+  branch_name: Head Office
+  branch_address: Road Town Tortola
+  branch_code: XXX
+  city: Tortola
+  country: British Virgin Islands
+- name: Eurowire Clearing Corporation
+  swift: EUCTVGV1XXX
+  swift8: EUCTVGV1
+  branch_name: Head Office
+  branch_address: 3076 Sir Francis Drakes Highway Roadtown
+  branch_code: XXX
+  city: Roadtown
+  country: British Virgin Islands
+- name: Ifxbg Limited
+  swift: IFXGVGV1XXX
+  swift8: IFXGVGV1
+  branch_name: Head Office
+  branch_address: Trident Chambers Roadtown Tortola
+  branch_code: XXX
+  city: Roadtown Tortola
+  country: British Virgin Islands
+- name: Bevco Limited
+  swift: BEVCVGV1BEV
+  swift8: BEVCVGV1
+  branch_name: Tortola
+  branch_address: Tortola
+  branch_code: BEV
+  city: Tortola
+  country: British Virgin Islands
+- name: Bevco Limited
+  swift: BEVCVGV1XXX
+  swift8: BEVCVGV1
+  branch_name: Head Office
+  branch_address: Kingston Chambers Tortola
+  branch_code: XXX
+  city: Tortola
+  country: British Virgin Islands
+- name: Bursatil Clearing Corporation Limited
+  swift: BCCLVGV1XXX
+  swift8: BCCLVGV1
+  branch_name: Head Office
+  branch_address: Roadtown Tortola
+  branch_code: XXX
+  city: Tortola
+  country: British Virgin Islands
+- name: Carlsson Currency Fund Limited
+  swift: CACFVGV1XXX
+  swift8: CACFVGV1
+  branch_name: Head Office
+  branch_address: Mill Mall Roadtown
+  branch_code: XXX
+  city: Roadtown
+  country: British Virgin Islands
+- name: Chemium International Corp.
+  swift: CHNIVGV1XXX
+  swift8: CHNIVGV1
+  branch_name: Head Office
+  branch_address: C/O Quijano and Associates, Road Tortola
+  branch_code: XXX
+  city: Tortola
+  country: British Virgin Islands
+- name: Cimb Limited
+  swift: CBMBVGV1XXX
+  swift8: CBMBVGV1
+  branch_name: Head Office
+  branch_address: Craigmuir Chambers Tortola
+  branch_code: XXX
+  city: Tortola
+  country: British Virgin Islands
+- name: De Shaw International
+  swift: SHILVGV1XXX
+  swift8: SHILVGV1
+  branch_name: Head Office
+  branch_address: Craig Muir Chambers Tortola
+  branch_code: XXX
+  city: Tortola
+  country: British Virgin Islands
+- name: Everyoung Capital Management Limited
+  swift: EVCMVGV1XXX
+  swift8: EVCMVGV1
+  branch_name: Head Office
+  branch_address: Palm Grove House Tortola
+  branch_code: XXX
+  city: Tortola
+  country: British Virgin Islands
+- name: Ibis International Fund Limited
+  swift: IBIFVGV1XXX
+  swift8: IBIFVGV1
+  branch_name: Head Office
+  branch_address: Tropic Isle Building Tortola
+  branch_code: XXX
+  city: Tortola
+  country: British Virgin Islands
+- name: Ion Volium Strategy Limited
+  swift: IOVSVGV1XXX
+  swift8: IOVSVGV1
+  branch_name: Head Office
+  branch_address: Walkers Bvi Limited / Po Box 92 / 1 0000 Roadtown
+  branch_code: XXX
+  city: Roadtown
+  country: British Virgin Islands
+- name: Mvm Overseas Capital Ltd
+  swift: MVOCVGV1XXX
+  swift8: MVOCVGV1
+  branch_name: Head Office
+  branch_address: 3076 Sir Francis Drakes Highway Roadtown
+  branch_code: XXX
+  city: Roadtown
+  country: British Virgin Islands
+- name: Ourinvest Capital Inc
+  swift: OUCAVGV1XXX
+  swift8: OUCAVGV1
+  branch_name: Head Office
+  branch_address: Craigmur Chambers Tortola
+  branch_code: XXX
+  city: Tortola
+  country: British Virgin Islands
+- name: Pacific Alliance Investment Management Limited
+  swift: PAIEVGV1XXX
+  swift8: PAIEVGV1
+  branch_name: Head Office
+  branch_address: Commence Chambers Tortola
+  branch_code: XXX
+  city: Tortola
+  country: British Virgin Islands
+- name: Pacific Capital Group Limited
+  swift: PACGVGV1XXX
+  swift8: PACGVGV1
+  branch_name: Head Office
+  branch_address: Abbott Building Tortola
+  branch_code: XXX
+  city: Tortola
+  country: British Virgin Islands
+- name: Pyrrho Management Limited
+  swift: PYMAVGV1XXX
+  swift8: PYMAVGV1
+  branch_name: Head Office
+  branch_address: Offshore Incorporations Centre Tortola
+  branch_code: XXX
+  city: Tortola
+  country: British Virgin Islands
+- name: Quant Asset Management
+  swift: QUAAVGV1XXX
+  swift8: QUAAVGV1
+  branch_name: Head Office
+  branch_address: Craigmuir Chambers Tortola
+  branch_code: XXX
+  city: Tortola
+  country: British Virgin Islands
+- name: Ramburs Inc
+  swift: RAMBVGV1XXX
+  swift8: RAMBVGV1
+  branch_name: Head Office
+  branch_address: Omar Hodge Tortola
+  branch_code: XXX
+  city: Tortola
+  country: British Virgin Islands
+- name: Scotiabank (british Virgin Islands) Ltd.
+  swift: NOSCVGVGXXX
+  swift8: NOSCVGVG
+  branch_name: Head Office
+  branch_address: Wickhams Cay 1 Tortola
+  branch_code: XXX
+  city: Tortola
+  country: British Virgin Islands
+- name: Value Star Asset Management
+  swift: VSAMVGV1XXX
+  swift8: VSAMVGV1
+  branch_name: Head Office
+  branch_address: Offshore Incorporations Centre Tortola
+  branch_code: XXX
+  city: Tortola
+  country: British Virgin Islands
+- name: Vp Bank (bvi) Ltd.
+  swift: VPBVVGV1XXX
+  swift8: VPBVVGV1
+  branch_name: Head Office
+  branch_address: 3076 Sir Francis Drakes Highway Tortola
+  branch_code: XXX
+  city: Tortola
+  country: British Virgin Islands
+VI:
+- name: Bank Of Nova Scotia,the
+  swift: NOSCVIVIXXX
+  swift8: NOSCVIVI
+  branch_name: Head Office
+  branch_address: 5781 Krondprindsens Gade Ste 1 00802 St. Thomas
+  branch_code: XXX
+  city: St. Thomas
+  country: British Virgin Islands
+- name: Citibank, N.a.
+  swift: CITIVIV1XXX
+  swift8: CITIVIV1
+  branch_name: Head Office
+  branch_address: Port Sale/Havensight 00803-5167 St. Thomas
+  branch_code: XXX
+  city: St. Thomas
+  country: British Virgin Islands

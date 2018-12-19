@@ -1,0 +1,650 @@
+---
+IM:
+- name: Abbey National Treasury International Limited, Isle Of Man
+  swift: ANILIMDXXXX
+  swift8: ANILIMDX
+  branch_name: Head Office
+  branch_address: Carrick House Im99 1nh Douglas
+  branch_code: XXX
+  city: Douglas
+  country: Isle Of Man
+- name: Bank Of Scotland
+  swift: BOFSIM21001
+  swift8: BOFSIM21
+  branch_name: Isle of Man Mtgs No 2
+  branch_address: Douglas
+  branch_code: '001'
+  city: Douglas
+  country: Isle Of Man
+- name: Bank Of Scotland
+  swift: BOFSIM21007
+  swift8: BOFSIM21
+  branch_name: Douglas Iom R 12 47 51
+  branch_address: Douglas
+  branch_code: '007'
+  city: Douglas
+  country: Isle Of Man
+- name: Bank Of Scotland
+  swift: BOFSIM21IMM
+  swift8: BOFSIM21
+  branch_name: Mortgages
+  branch_address: Douglas
+  branch_code: IMM
+  city: Douglas
+  country: Isle Of Man
+- name: Bank Of Scotland
+  swift: BOFSIM21IOM
+  swift8: BOFSIM21
+  branch_name: International, Isle of Man
+  branch_address: Douglas
+  branch_code: IOM
+  city: Douglas
+  country: Isle Of Man
+- name: Bank Of Scotland
+  swift: BOFSIM21XXX
+  swift8: BOFSIM21
+  branch_name: Head Office
+  branch_address: Prospect Hill Douglas
+  branch_code: XXX
+  city: Douglas
+  country: Isle Of Man
+- name: Bank Of Scotland
+  swift: BOFSIMA1XXX
+  swift8: BOFSIMA1
+  branch_name: Head Office
+  branch_address: Prospect Hill Douglas
+  branch_code: XXX
+  city: Douglas
+  country: Isle Of Man
+- name: Barclays Bank Plc
+  swift: BARCIMD10D2
+  swift8: BARCIMD1
+  branch_name: Personal Banking International-Isle of Man
+  branch_address: Eagle Court Im99 1rh Douglas
+  branch_code: 0D2
+  city: Douglas
+  country: Isle Of Man
+- name: Barclays Bank Plc
+  swift: BARCIMD10D3
+  swift8: BARCIMD1
+  branch_name: Personal Banking International-Cust A-F Isle of Man
+  branch_address: Eagle Court Im99 1rh Douglas
+  branch_code: 0D3
+  city: Douglas
+  country: Isle Of Man
+- name: Barclays Bank Plc
+  swift: BARCIMD10D4
+  swift8: BARCIMD1
+  branch_name: Personal Banking International-Cust G-M Isle of Man
+  branch_address: Eagle Court Im99 1rh Douglas
+  branch_code: 0D4
+  city: Douglas
+  country: Isle Of Man
+- name: Barclays Bank Plc
+  swift: BARCIMD10D5
+  swift8: BARCIMD1
+  branch_name: Personal Banking International-Cust N-Z Isle of Man
+  branch_address: Eagle Court Im99 1rh Douglas
+  branch_code: 0D5
+  city: Douglas
+  country: Isle Of Man
+- name: Barclays Bank Plc
+  swift: BARCIMD10D6
+  swift8: BARCIMD1
+  branch_name: Barclays Bank Plc Iom
+  branch_address: Victoria Street Im99 1aj Douglas
+  branch_code: 0D6
+  city: Douglas
+  country: Isle Of Man
+- name: Barclays Bank Plc
+  swift: BARCIMD10D7
+  swift8: BARCIMD1
+  branch_name: Isle of Man Knightsbridge International Banking Centre
+  branch_address: Eagle Court 25, Circular Road Im99 1rh Douglas
+  branch_code: 0D7
+  city: Douglas
+  country: Isle Of Man
+- name: Barclays Bank Plc
+  swift: BARCIMD10WI
+  swift8: BARCIMD1
+  branch_name: Bpci Limited Woolwich Iom
+  branch_address: Barclays House Im99 1aj Douglas
+  branch_code: 0WI
+  city: Douglas
+  country: Isle Of Man
+- name: Barclays Bank Plc
+  swift: BARCIMD1XXX
+  swift8: BARCIMD1
+  branch_name: Head Office
+  branch_address: Barclays House Im99 1aj Douglas
+  branch_code: XXX
+  city: Douglas
+  country: Isle Of Man
+- name: Clydesdale Bank Plc
+  swift: CLYDIMD1XXX
+  swift8: CLYDIMD1
+  branch_name: Head Office
+  branch_address: 49 Victoria Street Douglas
+  branch_code: XXX
+  city: Douglas
+  country: Isle Of Man
+- name: Coutts And Co (Manx) Limited
+  swift: COUTIMDDXXX
+  swift8: COUTIMDD
+  branch_name: Head Office
+  branch_address: 1 Prospect Hill Im1 1es Douglas
+  branch_code: XXX
+  city: Douglas
+  country: Isle Of Man
+- name: Fairbairn Private Bank (Iom) Ltd.
+  swift: RFLCIMDXXXX
+  swift8: RFLCIMDX
+  branch_name: Head Office
+  branch_address: St Marys Court Im1 1eu Douglas
+  branch_code: XXX
+  city: Douglas
+  country: Isle Of Man
+- name: Habib European Bank Limited
+  swift: HBZUIMDDXXX
+  swift8: HBZUIMDD
+  branch_name: Head Office
+  branch_address: St. James House Im1 2pq Douglas
+  branch_code: XXX
+  city: Douglas
+  country: Isle Of Man
+- name: Halifax Plc
+  swift: HLFXIMD1001
+  swift8: HLFXIMD1
+  branch_name: Halifax Int
+  branch_address: Douglas
+  branch_code: '001'
+  city: Douglas
+  country: Isle Of Man
+- name: Halifax Plc
+  swift: HLFXIMD1002
+  swift8: HLFXIMD1
+  branch_name: Isle of Man R
+  branch_address: Douglas
+  branch_code: '002'
+  city: Douglas
+  country: Isle Of Man
+- name: Halifax Plc
+  swift: HLFXIMD1XXX
+  swift8: HLFXIMD1
+  branch_name: Head Office
+  branch_address: Douglas
+  branch_code: XXX
+  city: Douglas
+  country: Isle Of Man
+- name: Hsbc Bank Plc
+  swift: MIDLIM21XXX
+  swift8: MIDLIM21
+  branch_name: Head Office
+  branch_address: Celtic House Im99 1bu Douglas
+  branch_code: XXX
+  city: Douglas
+  country: Isle Of Man
+- name: Isle Of Man Bank
+  swift: RBOSIMD2XXX
+  swift8: RBOSIMD2
+  branch_name: Head Office
+  branch_address: Howard Pearson House Im2 4rp Douglas
+  branch_code: XXX
+  city: Douglas
+  country: Isle Of Man
+- name: Isle Of Man Bank
+  swift: RBOSIM41ATH
+  swift8: RBOSIM41
+  branch_name: Athol Street
+  branch_address: 2 Athol Street Im99 1an Douglas
+  branch_code: ATH
+  city: Douglas
+  country: Isle Of Man
+- name: Isle Of Man Bank
+  swift: RBOSIM41EST
+  swift8: RBOSIM41
+  branch_name: East Region
+  branch_address: Douglas
+  branch_code: EST
+  city: Douglas
+  country: Isle Of Man
+- name: Isle Of Man Bank
+  swift: RBOSIM41PEL
+  swift8: RBOSIM41
+  branch_name: Peel Branch
+  branch_address: Douglas
+  branch_code: PEL
+  city: Douglas
+  country: Isle Of Man
+- name: Isle Of Man Bank
+  swift: RBOSIM41RAM
+  swift8: RBOSIM41
+  branch_name: Ramsey Branch
+  branch_address: Douglas
+  branch_code: RAM
+  city: Douglas
+  country: Isle Of Man
+- name: Isle Of Man Bank
+  swift: RBOSIM41STH
+  swift8: RBOSIM41
+  branch_name: South Region
+  branch_address: Douglas
+  branch_code: STH
+  city: Douglas
+  country: Isle Of Man
+- name: Natwest - Isle Of Man
+  swift: RBOSIMDDXXX
+  swift8: RBOSIMDD
+  branch_name: Head Office
+  branch_address: 2 Athol Street Im99 1an Douglas
+  branch_code: XXX
+  city: Douglas
+  country: Isle Of Man
+- name: Royal Bank Of Canada
+  swift: ROYCIMD1XXX
+  swift8: ROYCIMD1
+  branch_name: Head Office
+  branch_address: Douglas
+  branch_code: XXX
+  city: Douglas
+  country: Isle Of Man
+- name: Royal Bank Of Scotland International Limited, The
+  swift: RBOSIMDXXXX
+  swift8: RBOSIMDX
+  branch_name: Head Office
+  branch_address: 2 Victoria Street Douglas
+  branch_code: XXX
+  city: Douglas
+  country: Isle Of Man
+- name: Standard Bank Isle Of Man Limited
+  swift: SBICIMDXXXX
+  swift8: SBICIMDX
+  branch_name: Head Office
+  branch_address: Standard Bank House Im1 1sb Douglas
+  branch_code: XXX
+  city: Douglas
+  country: Isle Of Man
+- name: Standard Bank Of South Africa Ltd, Isle Of Man Branch
+  swift: SBZAIMDDXXX
+  swift8: SBZAIMDD
+  branch_name: Head Office
+  branch_address: 64 Athold Street Im99 1bz Douglas
+  branch_code: XXX
+  city: Douglas
+  country: Isle Of Man
+- name: Zurich Bank International Limited
+  swift: ZBILIMDDXXX
+  swift8: ZBILIMDD
+  branch_name: Head Office
+  branch_address: 43-51 Athol Street Im99 1et Douglas
+  branch_code: XXX
+  city: Douglas
+  country: Isle Of Man
+- name: Lloyds Bank International Limited
+  swift: LOYDIMD1001
+  swift8: LOYDIMD1
+  branch_name: Victory House, Douglas
+  branch_address: Victory House Im99 1ah Douglas
+  branch_code: '001'
+  city: Douglas
+  country: Isle Of Man
+- name: Lloyds Bank International Limited
+  swift: LOYDIMD1002
+  swift8: LOYDIMD1
+  branch_name: Isle of Man Offshore Centre
+  branch_address: Peveril Buildings Im99 1ss Douglas
+  branch_code: '002'
+  city: Douglas
+  country: Isle Of Man
+- name: Lloyds Bank International Limited
+  swift: LOYDIMD1003
+  swift8: LOYDIMD1
+  branch_name: Strand Street, Douglas
+  branch_address: Strand Street 78 Im99 1ab Douglas
+  branch_code: '003'
+  city: Douglas
+  country: Isle Of Man
+- name: Lloyds Bank International Limited
+  swift: LOYDIMD1004
+  swift8: LOYDIMD1
+  branch_name: Ramsey
+  branch_address: Parliament Street 71 Im8 1ay Ramsey
+  branch_code: '004'
+  city: Ramsey
+  country: Isle Of Man
+- name: Lloyds Bank International Limited
+  swift: LOYDIMD1005
+  swift8: LOYDIMD1
+  branch_name: Castletown
+  branch_address: The Square Im9 1lg Castletown
+  branch_code: '005'
+  city: Castletown
+  country: Isle Of Man
+- name: Lloyds Bank International Limited
+  swift: LOYDIMD1XXX
+  swift8: LOYDIMD1
+  branch_name: Head Office
+  branch_address: Prospect Hill Douglas
+  branch_code: XXX
+  city: Douglas
+  country: Isle Of Man
+- name: Baloise (iom) Limited
+  swift: BAOMIMD1XXX
+  swift8: BAOMIMD1
+  branch_name: Head Office
+  branch_address: Ioma House Im1 Iet Douglas
+  branch_code: XXX
+  city: Douglas
+  country: Isle Of Man
+- name: Barclays Private Bank And Trust (isle Of Man) Limited
+  swift: BPBLIMD1XXX
+  swift8: BPBLIMD1
+  branch_name: Head Office
+  branch_address: Queen Victoria House Douglas
+  branch_code: XXX
+  city: Douglas
+  country: Isle Of Man
+- name: Barclays Private Clients International Limited
+  swift: BFIMIMD1XXX
+  swift8: BFIMIMD1
+  branch_name: Head Office
+  branch_address: Barclays House Douglas
+  branch_code: XXX
+  city: Douglas
+  country: Isle Of Man
+- name: Capital International Limted
+  swift: CIGLIMDDCFM
+  swift8: CIGLIMDD
+  branch_name: Capital Financial Markets
+  branch_address: Douglas
+  branch_code: CFM
+  city: Douglas
+  country: Isle Of Man
+- name: Capital International Limted
+  swift: CIGLIMDDCFS
+  swift8: CIGLIMDD
+  branch_name: Capital Fund Services
+  branch_address: Douglas
+  branch_code: CFS
+  city: Douglas
+  country: Isle Of Man
+- name: Capital International Limted
+  swift: CIGLIMDDCIL
+  swift8: CIGLIMDD
+  branch_name: Douglas
+  branch_address: Douglas
+  branch_code: CIL
+  city: Douglas
+  country: Isle Of Man
+- name: Capital International Limted
+  swift: CIGLIMDDCTS
+  swift8: CIGLIMDD
+  branch_name: Capital Treasury Services
+  branch_address: Douglas
+  branch_code: CTS
+  city: Douglas
+  country: Isle Of Man
+- name: Capital International Limted
+  swift: CIGLIMDDXXX
+  swift8: CIGLIMDD
+  branch_name: Head Office
+  branch_address: Capital House Im1 1ag Douglas
+  branch_code: XXX
+  city: Douglas
+  country: Isle Of Man
+- name: Capital International Ltd
+  swift: CAITIMD1XXX
+  swift8: CAITIMD1
+  branch_name: Head Office
+  branch_address: Mill Court Im99 5xh Castletown
+  branch_code: XXX
+  city: Castletown
+  country: Isle Of Man
+- name: Capital International Ltd-isle Of Man
+  swift: CAITIMD1001
+  swift8: CAITIMD1
+  branch_name: Im99 5xh Castletown
+  branch_address: Mill Court Im99 5xh Castletown
+  branch_code: '001'
+  city: Castletown
+  country: Isle Of Man
+- name: Celtic Bank Ltd
+  swift: CELBIMD1XXX
+  swift8: CELBIMD1
+  branch_name: Head Office
+  branch_address: Lord Street Douglas
+  branch_code: XXX
+  city: Douglas
+  country: Isle Of Man
+- name: Charlemagne Capital (iom) Ltd
+  swift: CHPMIMD1XXX
+  swift8: CHPMIMD1
+  branch_name: Head Office
+  branch_address: Regent House Im1 1en Douglas
+  branch_code: XXX
+  city: Douglas
+  country: Isle Of Man
+- name: Conister Bank Limited
+  swift: CNNIIMD2XXX
+  swift8: CNNIIMD2
+  branch_name: Head Office
+  branch_address: Clarendon House Im 1 2ln Douglas
+  branch_code: XXX
+  city: Douglas
+  country: Isle Of Man
+- name: Equilibrium Solutions Ltd
+  swift: EQSOIMD1XXX
+  swift8: EQSOIMD1
+  branch_name: Head Office
+  branch_address: 8 Prospect Hill Im1 4ls Douglas
+  branch_code: XXX
+  city: Douglas
+  country: Isle Of Man
+- name: Fleming (jersey) Limited
+  swift: FLJEIMD1XXX
+  swift8: FLJEIMD1
+  branch_name: Head Office
+  branch_address: 5 Mount Pleasant Im1 2pu Douglas
+  branch_code: XXX
+  city: Douglas
+  country: Isle Of Man
+- name: Fortis (isle Of Man) Limited
+  swift: MPIEIMD1XXX
+  swift8: MPIEIMD1
+  branch_name: Head Office
+  branch_address: Pierson House Douglas
+  branch_code: XXX
+  city: Douglas
+  country: Isle Of Man
+- name: Hsbc Trust Corporation (isle Of Man) Limited
+  swift: MIDLIMD1XXX
+  swift8: MIDLIMD1
+  branch_name: Head Office
+  branch_address: Douglas
+  branch_code: XXX
+  city: Douglas
+  country: Isle Of Man
+- name: Kkb Limited
+  swift: KKBBIMD1XXX
+  swift8: KKBBIMD1
+  branch_name: Head Office
+  branch_address: 19 Peel Road Imi 4ls Douglas
+  branch_code: XXX
+  city: Douglas
+  country: Isle Of Man
+- name: Laxey
+  swift: LAXEIMD1XXX
+  swift8: LAXEIMD1
+  branch_name: Head Office
+  branch_address: Derby House Im1 1jd Douglas
+  branch_code: XXX
+  city: Douglas
+  country: Isle Of Man
+- name: Mannin International Bank
+  swift: MAIBIMD1XXX
+  swift8: MAIBIMD1
+  branch_name: Head Office
+  branch_address: Balla Salla
+  branch_code: XXX
+  city: Salla
+  country: Isle Of Man
+- name: Nationwide International Limited
+  swift: NAIIIMD1XXX
+  swift8: NAIIIMD1
+  branch_name: Head Office
+  branch_address: 5 - 11 St Georges Street Im99 1rn Douglas
+  branch_code: XXX
+  city: Douglas
+  country: Isle Of Man
+- name: Natwest-isle Of Man
+  swift: RBOSIM31XXX
+  swift8: RBOSIM31
+  branch_name: Head Office
+  branch_address: 2 Athol Street Im99 1aq Douglas
+  branch_code: XXX
+  city: Douglas
+  country: Isle Of Man
+- name: R.l. Stott
+  swift: RLSTIMD1XXX
+  swift8: RLSTIMD1
+  branch_name: Head Office
+  branch_address: Exchange House Douglas
+  branch_code: XXX
+  city: Douglas
+  country: Isle Of Man
+- name: Ramsey Crookall And Co. Ltd.
+  swift: RAYCIMD1XXX
+  swift8: RAYCIMD1
+  branch_name: Head Office
+  branch_address: 25 Athol Street Im1 1qh Douglas
+  branch_code: XXX
+  city: Douglas
+  country: Isle Of Man
+- name: Rational Group Ltd
+  swift: RTNLIMDDXXX
+  swift8: RTNLIMDD
+  branch_name: Head Office
+  branch_address: Douglas Bay Complex Im3 1dz Onchan
+  branch_code: XXX
+  city: Onchan
+  country: Isle Of Man
+- name: Royal Bank Of Scotland Isle Of Man (plc
+  swift: RBOSIMD1571
+  swift8: RBOSIMD1
+  branch_name: Douglas
+  branch_address: Douglas
+  branch_code: '571'
+  city: Douglas
+  country: Isle Of Man
+- name: Royal Bank Of Scotland Isle Of Man (plc
+  swift: RBOSIMD1XXX
+  swift8: RBOSIMD1
+  branch_name: Head Office
+  branch_address: Douglas
+  branch_code: XXX
+  city: Douglas
+  country: Isle Of Man
+- name: Royal Skandia Life Assurance Limited
+  swift: ROKLIMDIOPS
+  swift8: ROKLIMDI
+  branch_name: Branch Operations
+  branch_address: Onchan
+  branch_code: OPS
+  city: Onchan
+  country: Isle Of Man
+- name: Royal Skandia Life Assurance Limited
+  swift: ROKLIMDIXXX
+  swift8: ROKLIMDI
+  branch_name: Head Office
+  branch_address: Skandia House Im99 1nu Onchan
+  branch_code: XXX
+  city: Onchan
+  country: Isle Of Man
+- name: Royal Skandia Life Assurance Limited
+  swift: ROKLIMD1XXX
+  swift8: ROKLIMD1
+  branch_name: Head Office
+  branch_address: Skandia House Im99 1nu Onchan
+  branch_code: XXX
+  city: Onchan
+  country: Isle Of Man
+- name: Royal Skandia Treasury
+  swift: ROKTIMD1XXX
+  swift8: ROKTIMD1
+  branch_name: Head Office
+  branch_address: Skandia House Im99 1nu Douglas
+  branch_code: XXX
+  city: Douglas
+  country: Isle Of Man
+- name: Shearwater Securities Limited
+  swift: SHSRIMD1XXX
+  swift8: SHSRIMD1
+  branch_name: Head Office
+  branch_address: 1 the Parade Castletown
+  branch_code: XXX
+  city: Castletown
+  country: Isle Of Man
+- name: Standard Bank Investment Corp.
+  swift: SBICIMD1XXX
+  swift8: SBICIMD1
+  branch_name: Head Office
+  branch_address: Douglas
+  branch_code: XXX
+  city: Douglas
+  country: Isle Of Man
+- name: Standard Bank Stockbrokers (iom) Ltd.
+  swift: STBTIMD1XXX
+  swift8: STBTIMD1
+  branch_name: Head Office
+  branch_address: Exchange House Im99 1bb Douglas
+  branch_code: XXX
+  city: Douglas
+  country: Isle Of Man
+- name: Standard Finance (isle Of Man) Ltd
+  swift: STFIIMD1XXX
+  swift8: STFIIMD1
+  branch_name: Head Office
+  branch_address: Standard Bank House Im1 1sb Douglas
+  branch_code: XXX
+  city: Douglas
+  country: Isle Of Man
+- name: Sun Life Global Management Limited
+  swift: SLGNIMD1XXX
+  swift8: SLGNIMD1
+  branch_name: Head Office
+  branch_address: 10 Bridge Street M99 5ub Castletown
+  branch_code: XXX
+  city: Castletown
+  country: Isle Of Man
+- name: Thomas Miller Investment (isle Of Man) Limited
+  swift: MIMIIMD1XXX
+  swift8: MIMIIMD1
+  branch_name: Head Office
+  branch_address: 16/17 Mount Havelock M1 2qg Douglas
+  branch_code: XXX
+  city: Douglas
+  country: Isle Of Man
+- name: Tibra Structured Products Limited
+  swift: TISRIMD1XXX
+  swift8: TISRIMD1
+  branch_name: Head Office
+  branch_address: Prospect Chambers Im1 1et Douglas
+  branch_code: XXX
+  city: Douglas
+  country: Isle Of Man
+- name: Ulster Bank (i.o.m.) Limited
+  swift: ULSBIMD1XXX
+  swift8: ULSBIMD1
+  branch_name: Head Office
+  branch_address: 46 Athol Street Douglas
+  branch_code: XXX
+  city: Douglas
+  country: Isle Of Man
+- name: W H Ireland (iom) Limited
+  swift: IRIOIMD1XXX
+  swift8: IRIOIMD1
+  branch_name: Head Office
+  branch_address: Athol House Im1 1lb Douglas
+  branch_code: XXX
+  city: Douglas
+  country: Isle Of Man

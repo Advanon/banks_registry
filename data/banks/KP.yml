@@ -1,0 +1,106 @@
+---
+KP:
+- name: Bank Of East Land, Pyongyang
+  swift: BOELKPPYXXX
+  swift8: BOELKPPY
+  branch_name: Head Office
+  branch_address: Bel Building Pyongyang
+  branch_code: XXX
+  city: Pyongyang
+  country: North Korea
+- name: Brilliance Banking Corporation Ltd.
+  swift: BRBKKPP1XXX
+  swift8: BRBKKPP1
+  branch_name: Head Office
+  branch_address: Youth Hotel Pyongyang
+  branch_code: XXX
+  city: Pyongyang
+  country: North Korea
+- name: First Credit Bank
+  swift: KYCBKPPYXXX
+  swift8: KYCBKPPY
+  branch_name: Head Office
+  branch_address: Pyongyang Information Centre Pyongyang
+  branch_code: XXX
+  city: Pyongyang
+  country: North Korea
+- name: Foreign Trade Bank Of The D.p.r. Of Korea
+  swift: FTBDKPPYKBC
+  swift8: FTBDKPPY
+  branch_name: Pyongyang
+  branch_address: Pyongyang
+  branch_code: KBC
+  city: Pyongyang
+  country: North Korea
+- name: Foreign Trade Bank Of The D.p.r. Of Korea
+  swift: FTBDKPPYXXX
+  swift8: FTBDKPPY
+  branch_name: Head Office
+  branch_address: Ftb Building Pyongyang
+  branch_code: XXX
+  city: Pyongyang
+  country: North Korea
+- name: Ilsim International Bank
+  swift: ILSIKPPYXXX
+  swift8: ILSIKPPY
+  branch_name: Head Office
+  branch_address: Isb Building Pyongyang
+  branch_code: XXX
+  city: Pyongyang
+  country: North Korea
+- name: Korea Daesong Bank
+  swift: KDBKKPPYXXX
+  swift8: KDBKKPPY
+  branch_name: Head Office
+  branch_address: Kdb Building Pyongyang
+  branch_code: XXX
+  city: Pyongyang
+  country: North Korea
+- name: Korea Kwangson Banking Corp.
+  swift: KKBCKPPYXXX
+  swift8: KKBCKPPY
+  branch_name: Head Office
+  branch_address: Kkbc Building Pyongyang
+  branch_code: XXX
+  city: Pyongyang
+  country: North Korea
+- name: Korea United Development Bank, D.p.r. Of Korea
+  swift: KUDBKPPYXXX
+  swift8: KUDBKPPY
+  branch_name: Head Office
+  branch_address: Kudb Building Pyongyang
+  branch_code: XXX
+  city: Pyongyang
+  country: North Korea
+- name: Koryo Commercial Bank Ltd.
+  swift: KCBKKPP1XXX
+  swift8: KCBKKPP1
+  branch_name: Head Office
+  branch_address: Kcb Building Pyongyang
+  branch_code: XXX
+  city: Pyongyang
+  country: North Korea
+- name: Koryo Credit Development Bank
+  swift: KGCBKPPYXXX
+  swift8: KGCBKPPY
+  branch_name: Head Office
+  branch_address: Yanggakdo International Hotel Pyongyang
+  branch_code: XXX
+  city: Pyongyang
+  country: North Korea
+- name: Kumgang Bank
+  swift: KMBKKPPYXXX
+  swift8: KMBKKPPY
+  branch_name: Head Office
+  branch_address: Kumgang Bank Building Pyongyang
+  branch_code: XXX
+  city: Pyongyang
+  country: North Korea
+- name: North East Asia Bank
+  swift: NEABKPPYXXX
+  swift8: NEABKPPY
+  branch_name: Head Office
+  branch_address: North East Asia Bank 114 Pyongyang
+  branch_code: XXX
+  city: Pyongyang
+  country: North Korea

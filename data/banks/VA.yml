@@ -1,0 +1,26 @@
+---
+VA:
+- name: Amministrazione Del Patrimonio Della Sede Apostolica
+  swift: APDEVAVAXXX
+  swift8: APDEVAVA
+  branch_name: Head Office
+  branch_address: Cortile Del Triangolo Palazzo Apost I-00120 Vatican City
+  branch_code: XXX
+  city: I-Vatican City
+  country: Vatican
+- name: Istituto Per Le Opere Di Religione
+  swift: IOPRVAVXXXX
+  swift8: IOPRVAVX
+  branch_name: Head Office
+  branch_address: 00120 Vatican City
+  branch_code: XXX
+  city: Vatican City
+  country: Vatican
+- name: Poste Vaticane
+  swift: VATIVAV1XXX
+  swift8: VATIVAV1
+  branch_name: No branch name
+  branch_address: No branch address
+  branch_code: XXX
+  city: Citta Del
+  country: Vatican

@@ -1,0 +1,250 @@
+---
+CR:
+- name: Banco Bac San Jose
+  swift: BSNJCRSJXXX
+  swift8: BSNJCRSJ
+  branch_name: Head Office
+  branch_address: Banco De San Jose San Jose
+  branch_code: XXX
+  city: San Jose
+  country: Costa Rica
+- name: Banco Bct S.a.
+  swift: CCIOCRSJBBI
+  swift8: CCIOCRSJ
+  branch_name: Foreign Exchange Department
+  branch_address: San Jose
+  branch_code: BBI
+  city: San Jose
+  country: Costa Rica
+- name: Banco Bct S.a.
+  swift: CCIOCRSJXXX
+  swift8: CCIOCRSJ
+  branch_name: Head Office
+  branch_address: Bct 1106 San Jose
+  branch_code: XXX
+  city: San Jose
+  country: Costa Rica
+- name: Banco Cathay De Costa Rica, S.a.
+  swift: KTAYCRSJXXX
+  swift8: KTAYCRSJ
+  branch_name: Head Office
+  branch_address: 500 Mts. Oeste De Sylvania, Pavas San Jose
+  branch_code: XXX
+  city: San Jose
+  country: Costa Rica
+- name: Banco Central De Costa Rica
+  swift: BCCRCRSJXXX
+  swift8: BCCRCRSJ
+  branch_name: Head Office
+  branch_address: Avenida Central Y Primera 1000 San Jose
+  branch_code: XXX
+  city: San Jose
+  country: Costa Rica
+- name: Banco Citibank De Costa Rica S.a.
+  swift: BACUCRSJXXX
+  swift8: BACUCRSJ
+  branch_name: Head Office
+  branch_address: Oficina La Uruca 1000 San Jose
+  branch_code: XXX
+  city: San Jose
+  country: Costa Rica
+- name: Banco Credito Agricola De Cartago
+  swift: BCACCRS1XXX
+  swift8: BCACCRS1
+  branch_name: Head Office
+  branch_address: Bcac Cartago
+  branch_code: XXX
+  city: Cartago
+  country: Costa Rica
+- name: Banco Credito Agricola De Cartago
+  swift: BCACCRSJXXX
+  swift8: BCACCRSJ
+  branch_name: Head Office
+  branch_address: Edf. Bancredito 5572 San Jose
+  branch_code: XXX
+  city: San Jose
+  country: Costa Rica
+- name: Banco Davivienda (costa Rica), S.a.
+  swift: BXBACRSJXXX
+  swift8: BXBACRSJ
+  branch_name: Head Office
+  branch_address: Tournon 7983-1000 San Jose
+  branch_code: XXX
+  city: San Jose
+  country: Costa Rica
+- name: Banco De Costa Rica
+  swift: BCRICRSJXXX
+  swift8: BCRICRSJ
+  branch_name: Head Office
+  branch_address: Av Central Y Av Segunda Entre 10035-1000 San Jose
+  branch_code: XXX
+  city: San Jose
+  country: Costa Rica
+- name: Banco De Soluciones Bansol De Costa Rica S.a. (formerly Financiera Acobo S.a.
+  swift: BDSOCRSJXXX
+  swift8: BDSOCRSJ
+  branch_name: Head Office
+  branch_address: Banco Bansol 10882-1000 San Pedro
+  branch_code: XXX
+  city: San Pedro
+  country: Costa Rica
+- name: Banco Del Istmo (costa Rica) S.a.
+  swift: BALYCRS1XXX
+  swift8: BALYCRS1
+  branch_name: Head Office
+  branch_address: Avenida Cebtral Y Primera Calle 2 San Jose
+  branch_code: XXX
+  city: San Jose
+  country: Costa Rica
+- name: Banco General (costa Rica), S.a.
+  swift: BAGECRSJXXX
+  swift8: BAGECRSJ
+  branch_name: Head Office
+  branch_address: Forum 1 13811-1000 San Jose
+  branch_code: XXX
+  city: San Jose
+  country: Costa Rica
+- name: Banco Improsa, S.a.
+  swift: BIMPCRSJXXX
+  swift8: BIMPCRSJ
+  branch_name: Head Office
+  branch_address: 300 Este, 200 Sur, Iglesia Santa San Jose
+  branch_code: XXX
+  city: San Jose
+  country: Costa Rica
+- name: Banco Internacional De Exportacion S.a.
+  swift: BAIECRS1XXX
+  swift8: BAIECRS1
+  branch_name: Head Office
+  branch_address: C Ctl a 1 Y 3 San Jose
+  branch_code: XXX
+  city: San Jose
+  country: Costa Rica
+- name: Banco Lafise S.a.
+  swift: BCCECRSJXXX
+  swift8: BCCECRSJ
+  branch_name: Head Office
+  branch_address: Ofiplaza Del Este San Jose
+  branch_code: XXX
+  city: San Jose
+  country: Costa Rica
+- name: Banco Nacional De Costa Rica
+  swift: BNCRCRSJGCI
+  swift8: BNCRCRSJ
+  branch_name: San Jose
+  branch_address: San Jose
+  branch_code: GCI
+  city: San Jose
+  country: Costa Rica
+- name: Banco Nacional De Costa Rica
+  swift: BNCRCRSJXXX
+  swift8: BNCRCRSJ
+  branch_name: Head Office
+  branch_address: Avenida 1 Y 3 San Jose
+  branch_code: XXX
+  city: San Jose
+  country: Costa Rica
+- name: Banco Popular Y De Desarrollo Comunal
+  swift: BPDCCRSJXXX
+  swift8: BPDCCRSJ
+  branch_name: Head Office
+  branch_address: Edificio Metropolitano 10000 San Jose
+  branch_code: XXX
+  city: San Jose
+  country: Costa Rica
+- name: Banco Promerica
+  swift: PRMKCRSJXXX
+  swift8: PRMKCRSJ
+  branch_name: Head Office
+  branch_address: Edif Promerica San Jose
+  branch_code: XXX
+  city: San Jose
+  country: Costa Rica
+- name: Bct Valores Puesto De Bolsa Sa
+  swift: BVPBCRS1XXX
+  swift8: BVPBCRS1
+  branch_name: Head Office
+  branch_address: Edificio Bct San Jose
+  branch_code: XXX
+  city: San Jose
+  country: Costa Rica
+- name: Central De Valores, S.a. (ceval
+  swift: CEVCCRS1XXX
+  swift8: CEVCCRS1
+  branch_name: Head Office
+  branch_address: Ed. Banco Agricola De Cartago 1736-1000 San Jose
+  branch_code: XXX
+  city: San Jose
+  country: Costa Rica
+- name: Compania Financiera De Londres Ltda.
+  swift: FILOCRS1XXX
+  swift8: FILOCRS1
+  branch_name: Head Office
+  branch_address: Cosiol Building San Jose
+  branch_code: XXX
+  city: San Jose
+  country: Costa Rica
+- name: Coopenae
+  swift: CPOPCRS1XXX
+  swift8: CPOPCRS1
+  branch_name: Head Office
+  branch_address: Calle 2 Ave 12 Y 14 1010 San Jose
+  branch_code: XXX
+  city: San Jose
+  country: Costa Rica
+- name: Cooperativa De Ahorro Y Credito De Los Servidores Publicos
+  swift: CAOVCRS1XXX
+  swift8: CAOVCRS1
+  branch_name: Head Office
+  branch_address: Coopeservidores R.L 5525-1000 San Jose
+  branch_code: XXX
+  city: San Jose San Jose
+  country: Costa Rica
+- name: Corporacion Franco-americana De Finanzas(costa Rica) S.a.
+  swift: FAFCCRS1XXX
+  swift8: FAFCCRS1
+  branch_name: Head Office
+  branch_address: Oficentro Torres Del Campo San Jose
+  branch_code: XXX
+  city: San Jose
+  country: Costa Rica
+- name: Financiera G And T Continental Costa Rica S.a.
+  swift: FCCRCRS1XXX
+  swift8: FCCRCRS1
+  branch_name: Head Office
+  branch_address: Boulevar Rhormoser San Jose
+  branch_code: XXX
+  city: San Jose
+  country: Costa Rica
+- name: Fitch Costa Rica Calificadora De Riesgo S.a.
+  swift: FRIPCRS1XXX
+  swift8: FRIPCRS1
+  branch_name: Head Office
+  branch_address: Edificio Fomento Urbano 1000 San Jose
+  branch_code: XXX
+  city: San Jose
+  country: Costa Rica
+- name: Grupo Mutual Alajuela-la Vivienda De Ahorro Y Prestamo
+  swift: GMAVCRS1XXX
+  swift8: GMAVCRS1
+  branch_name: Head Office
+  branch_address: Oficinas Centrales 533-4050 Alajuela
+  branch_code: XXX
+  city: Alajuela
+  country: Costa Rica
+- name: Instituto Nacional De Seguros
+  swift: ISNSCRS1XXX
+  swift8: ISNSCRS1
+  branch_name: Head Office
+  branch_address: Instituto Nacional De Seguros 10061-1000 San Jose
+  branch_code: XXX
+  city: San Jose
+  country: Costa Rica
+- name: Scotiabank De Costa Rica
+  swift: NOSCCRSJXXX
+  swift8: NOSCCRSJ
+  branch_name: Head Office
+  branch_address: Av. Primavera, Calle 0-2 1000 San Jose
+  branch_code: XXX
+  city: San Jose
+  country: Costa Rica

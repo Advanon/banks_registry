@@ -1,0 +1,26 @@
+---
+TL:
+- name: Australia And New Zealand Banking Group Ltd
+  swift: ANZBTLDIXXX
+  swift8: ANZBTLDI
+  branch_name: Head Office
+  branch_address: 17-19 Jalan Rua Jose Maria Marques Dili
+  branch_code: XXX
+  city: Dili
+  country: Timor-Leste
+- name: Banking And Payments Authority Of East Timor
+  swift: BCTLTLDIXXX
+  swift8: BCTLTLDI
+  branch_name: Head Office
+  branch_address: Bpa Building Dili
+  branch_code: XXX
+  city: Dili
+  country: Timor-Leste
+- name: Caixa Geral De Depositos, Sa
+  swift: CGDITLDIXXX
+  swift8: CGDITLDI
+  branch_name: Head Office
+  branch_address: Edificio Bnu Dili
+  branch_code: XXX
+  city: Dili
+  country: Timor-Leste

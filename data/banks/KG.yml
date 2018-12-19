@@ -1,0 +1,194 @@
+---
+KG:
+- name: Bai-tushum And Partners Microfinance Bank Cjsc
+  swift: BBTPKG22XXX
+  swift8: BBTPKG22
+  branch_name: Head Office
+  branch_address: 76 Umetaliev 720001 Bishkek
+  branch_code: XXX
+  city: Bishkek
+  country: Kyrgyzstan
+- name: Aiyl Bank
+  swift: AIYLKG22XXX
+  swift8: AIYLKG22
+  branch_name: Head Office
+  branch_address: 50, Pushkin Street 720011 Bishkek
+  branch_code: XXX
+  city: Bishkek
+  country: Kyrgyzstan
+- name: Amanbank (joint-stock Russian-kyrgyz Amanbank
+  swift: AJRAKG22XXX
+  swift8: AJRAKG22
+  branch_name: Head Office
+  branch_address: 249, Ul. Tynystanova 720040 Bishkek
+  branch_code: XXX
+  city: Bishkek
+  country: Kyrgyzstan
+- name: Bakai Bank Joint Stock
+  swift: BAKAKG22XXX
+  swift8: BAKAKG22
+  branch_name: Head Office
+  branch_address: Isanova Street 75 720001 Bishkek
+  branch_code: XXX
+  city: Bishkek
+  country: Kyrgyzstan
+- name: Bank Kyrgyzstan Jsc
+  swift: KYRSKG22XXX
+  swift8: KYRSKG22
+  branch_name: Head Office
+  branch_address: 54 Togolok Moldo Street 720001 Bishkek
+  branch_code: XXX
+  city: Bishkek
+  country: Kyrgyzstan
+- name: Bank Of Asia Cjsc
+  swift: ASCJKG22XXX
+  swift8: ASCJKG22
+  branch_name: Head Office
+  branch_address: 303 Mira Ave. 720016 Bishkek
+  branch_code: XXX
+  city: Bishkek
+  country: Kyrgyzstan
+- name: Bta Bank Cjsc (formerly Ineximbank Cjsc), Bishkek,kg
+  swift: EIMBKG22XXX
+  swift8: EIMBKG22
+  branch_name: Head Office
+  branch_address: 118, Moscovskaya Str 720001 Bishkek
+  branch_code: XXX
+  city: Bishkek
+  country: Kyrgyzstan
+- name: Demir Kyrgyz International Bank
+  swift: DEMIKG22XXX
+  swift8: DEMIKG22
+  branch_name: Head Office
+  branch_address: 245 Chui Avenue 720040 Bishkek
+  branch_code: XXX
+  city: Bishkek
+  country: Kyrgyzstan
+- name: Dos-credobank Ojsc
+  swift: DOSSKG22XXX
+  swift8: DOSSKG22
+  branch_name: Head Office
+  branch_address: 52, Chuy Prospect 720011 Bishkek
+  branch_code: XXX
+  city: Bishkek
+  country: Kyrgyzstan
+- name: Financecreditbank Kab
+  swift: FIKBKG22XXX
+  swift8: FIKBKG22
+  branch_name: Head Office
+  branch_address: 105 Abdrakhmanova 720021 Bishkek
+  branch_code: XXX
+  city: Bishkek
+  country: Kyrgyzstan
+- name: Investment Bank 'ysyk-kol'
+  swift: INVYKG22XXX
+  swift8: INVYKG22
+  branch_name: Head Office
+  branch_address: 133 Sovetskaya 720021 Bishkek
+  branch_code: XXX
+  city: Bishkek
+  country: Kyrgyzstan
+- name: Joint-stock Ecoislamicbank
+  swift: ECBIKG22XXX
+  swift8: ECBIKG22
+  branch_name: Head Office
+  branch_address: Pereulok Geologichesky 17 720031 Bishkek
+  branch_code: XXX
+  city: Bishkek
+  country: Kyrgyzstan
+- name: Kyrgyz Investment And Credit Bank
+  swift: KICBKG22XXX
+  swift8: KICBKG22
+  branch_name: Head Office
+  branch_address: South Gate Business Center 720075 Bishkek
+  branch_code: XXX
+  city: Bishkek
+  country: Kyrgyzstan
+- name: Kyrgyzkredit Bank
+  swift: KYRGKG22XXX
+  swift8: KYRGKG22
+  branch_name: Head Office
+  branch_address: Ibraimova 40/1, Bokonbaeva 59/1 720000 Bishkek
+  branch_code: XXX
+  city: Bishkek
+  country: Kyrgyzstan
+- name: National Bank Of Pakistan Bishkek Branch
+  swift: NBPAKG22XXX
+  swift8: NBPAKG22
+  branch_name: Head Office
+  branch_address: Nbp Building 720021 Bishkek
+  branch_code: XXX
+  city: Bishkek
+  country: Kyrgyzstan
+- name: National Bank Of The Kyrgyz Republic
+  swift: NBKIKG22XXX
+  swift8: NBKIKG22
+  branch_name: Head Office
+  branch_address: Umetalieva Street 101 720040 Bishkek
+  branch_code: XXX
+  city: Bishkek
+  country: Kyrgyzstan
+- name: Ojsc Halyk Bank Kyrgyzstan
+  swift: MAKAKG22XXX
+  swift8: MAKAKG22
+  branch_name: Head Office
+  branch_address: 390 Frunze Street 720033 Bishkek
+  branch_code: XXX
+  city: Bishkek
+  country: Kyrgyzstan
+- name: Ojsc Kyrgyzdyikanbank
+  swift: KSBCKG22XXX
+  swift8: KSBCKG22
+  branch_name: No branch name
+  branch_address: No branch address
+  branch_code: XXX
+  city: Bishkek
+  country: Kyrgyzstan
+- name: Ojsc Russian Investment Bank
+  swift: RINBKG22XXX
+  swift8: RINBKG22
+  branch_name: No branch name
+  branch_address: No branch address
+  branch_code: XXX
+  city: Bishkek
+  country: Kyrgyzstan
+- name: Ojsc Russian Investment Bank
+  swift: ZLKRKG22XXX
+  swift8: ZLKRKG22
+  branch_name: Head Office
+  branch_address: Moskovskaya Street 80/1 720021 Bishkek
+  branch_code: XXX
+  city: Bishkek
+  country: Kyrgyzstan
+- name: Optima Bank Ojsc
+  swift: ENEJKG22XXX
+  swift8: ENEJKG22
+  branch_name: Head Office
+  branch_address: 493 Jibek-Jolu Street 720070 Bishkek
+  branch_code: XXX
+  city: Bishkek
+  country: Kyrgyzstan
+- name: Rsk Bank
+  swift: SESVKG22XXX
+  swift8: SESVKG22
+  branch_name: Head Office
+  branch_address: Molodaya Gvardia 38 a 7200010 Bishkek
+  branch_code: XXX
+  city: Bishkek
+  country: Kyrgyzstan
+- name: The Open Joint-stock Company Capital Bank
+  swift: AKILKG22XXX
+  swift8: AKILKG22
+  branch_name: Head Office
+  branch_address: 161, Moskovskaya Str. 720010 Bishkek
+  branch_code: XXX
+  city: Bishkek
+  country: Kyrgyzstan
+- name: Tolubay Bank-closed Joint Stock Company
+  swift: TOLUKG22XXX
+  swift8: TOLUKG22
+  branch_name: Head Office
+  branch_address: Toktogul 247 720010 Bishkek
+  branch_code: XXX
+  city: Bishkek
+  country: Kyrgyzstan

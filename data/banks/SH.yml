@@ -1,0 +1,10 @@
+---
+SH:
+- name: Bank of St. Helena, Pobocka Zahranicnej Banky
+  swift: BHELSHJJXXX
+  swift8: BHELSHJJ
+  branch_name: Head Office
+  branch_address: Market street 95
+  branch_code: XXX
+  city: Jamestown
+  country: Saint Helena

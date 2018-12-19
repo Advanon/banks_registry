@@ -1,0 +1,6050 @@
+---
+NL:
+- name: Abb Finance B.V.
+  swift: ABBCNL2AXXX
+  swift8: ABBCNL2A
+  branch_name: Head Office
+  branch_address: Burgemeester Haspelslaan 45 1181 Nb Amsterdam
+  branch_code: XXX
+  city: Amsterdam
+  country: Netherlands
+- name: Abn Amro Bank N.V.
+  swift: ABNANL2AALC
+  swift8: ABNANL2A
+  branch_name: Asset and Liability Management Support
+  branch_address: Amsterdam
+  branch_code: ALC
+  city: Amsterdam
+  country: Netherlands
+- name: Abn Amro Bank N.V.
+  swift: ABNANL2AMEL
+  swift8: ABNANL2A
+  branch_name: Amsterdam
+  branch_address: Amsterdam
+  branch_code: MEL
+  city: Amsterdam
+  country: Netherlands
+- name: Abn Amro Bank N.V.
+  swift: ABNANL2AWSS
+  swift8: ABNANL2A
+  branch_name: 1000 Ea Amsterdam
+  branch_address: Foppingadreef 26 1000 Ea Amsterdam
+  branch_code: WSS
+  city: Amsterdam
+  country: Netherlands
+- name: Abn Amro Bank N.V.
+  swift: ABNANL2AXXX
+  swift8: ABNANL2A
+  branch_name: Head Office
+  branch_address: Gustav Mahlerlaan 10 1082 Pp Amsterdam
+  branch_code: XXX
+  city: Amsterdam
+  country: Netherlands
+- name: Abn Amro Bank N.V.
+  swift: ABNANL2AAGS
+  swift8: ABNANL2A
+  branch_name: Agency Services
+  branch_address: Breda
+  branch_code: AGS
+  city: Breda
+  country: Netherlands
+- name: Abn Amro Bank N.V.
+  swift: ABNANL2AMAR
+  swift8: ABNANL2A
+  branch_name: Markets Nl Department
+  branch_address: Breda
+  branch_code: MAR
+  city: Breda
+  country: Netherlands
+- name: Abn Amro Bank N.V.
+  swift: ABNANL2ARET
+  swift8: ABNANL2A
+  branch_name: Euroclear Nederland Retail
+  branch_address: Breda
+  branch_code: RET
+  city: Breda
+  country: Netherlands
+- name: Abn Amro Bank N.V.
+  swift: ABNANL2ASOB
+  swift8: ABNANL2A
+  branch_name: Breda
+  branch_address: Breda
+  branch_code: SOB
+  city: Breda
+  country: Netherlands
+- name: Abn Amro Clearing Bank N.V.
+  swift: ABNCNL2AXXX
+  swift8: ABNCNL2A
+  branch_name: Head Office
+  branch_address: Gustav Mahlerlaan 10 1082 Pp Amsterdam
+  branch_code: XXX
+  city: Amsterdam
+  country: Netherlands
+- name: Abn Amro Clearing Bank N.V.
+  swift: ABNCNL2AFND
+  swift8: ABNCNL2A
+  branch_name: Fund Processing
+  branch_address: Amsterdam
+  branch_code: FND
+  city: Amsterdam
+  country: Netherlands
+- name: Abn Amro Clearing Bank N.V.
+  swift: ABNCNL2ASBL
+  swift8: ABNCNL2A
+  branch_name: Abnc B and Amp Ld
+  branch_address: Amsterdam
+  branch_code: SBL
+  city: Amsterdam
+  country: Netherlands
+- name: Abn Amro Clearing Bank N.V.
+  swift: ABNCNL2ASYD
+  swift8: ABNCNL2A
+  branch_name: 'Aacb Entity Routing: Asia Pacific'
+  branch_address: No branch address
+  branch_code: SYD
+  city: Amsterdam
+  country: Netherlands
+- name: Achmea Hypotheek Bank
+  swift: AHBKNL2GXXX
+  swift8: AHBKNL2G
+  branch_name: Head Office
+  branch_address: Lange Houtstraat 8 2511 Cw Den Haag
+  branch_code: XXX
+  city: Den Haag
+  country: Netherlands
+- name: Achmea Retail Bank N.V.
+  swift: ARBNNL22XXX
+  swift8: ARBNNL22
+  branch_name: Head Office
+  branch_address: Storkstraat 12 3833 Lb Leusden
+  branch_code: XXX
+  city: Leusden
+  country: Netherlands
+- name: Aegon Bank N.V.
+  swift: KNABNL2HXXX
+  swift8: KNABNL2H
+  branch_name: Head Office
+  branch_address: Capellalaan 25 2132 Jk Hoofddorp
+  branch_code: XXX
+  city: Hoofddorp
+  country: Netherlands
+- name: Aegon Bank N.V.
+  swift: AEGONL2UXXX
+  swift8: AEGONL2U
+  branch_name: Head Office
+  branch_address: Kcn Tower 3436 Zz Nieuwegein
+  branch_code: XXX
+  city: Nieuwegein
+  country: Netherlands
+- name: Aegon Nv
+  swift: AENVNL2GXXX
+  swift8: AENVNL2G
+  branch_name: Head Office
+  branch_address: Mariahoeve 2591 Tv Den Haag
+  branch_code: XXX
+  city: Den Haag
+  country: Netherlands
+- name: Akzo Nobel N.V.
+  swift: AKZONL2AXXX
+  swift8: AKZONL2A
+  branch_name: Head Office
+  branch_address: Atrium 1077 Zz Amsterdam
+  branch_code: XXX
+  city: Amsterdam
+  country: Netherlands
+- name: Amsterdam Trade Bank N.V.
+  swift: ATBANL2AXXX
+  swift8: ATBANL2A
+  branch_name: Head Office
+  branch_address: Herengracht 475 1017 Bs Amsterdam
+  branch_code: XXX
+  city: Amsterdam
+  country: Netherlands
+- name: Amsterdam Trade Bank N.V.
+  swift: STOLNL2AXXX
+  swift8: STOLNL2A
+  branch_name: Head Office
+  branch_address: Herengracht 475 1017 Bs Amsterdam
+  branch_code: XXX
+  city: Amsterdam
+  country: Netherlands
+- name: Anadolubank Nederland N.V.
+  swift: ANDLNL2AXXX
+  swift8: ANDLNL2A
+  branch_name: Head Office
+  branch_address: Gebouw Officia 1 1083 Hj Amsterdam
+  branch_code: XXX
+  city: Amsterdam
+  country: Netherlands
+- name: Anthos Bank B.V.
+  swift: ANHHNL21XXX
+  swift8: ANHHNL21
+  branch_name: Head Office
+  branch_address: Jachthavenweg 111 Amsterdam
+  branch_code: XXX
+  city: Amsterdam
+  country: Netherlands
+- name: Apg Algemene Pensioen Groep Nv
+  swift: ABPTNL2HAAA
+  swift8: ABPTNL2H
+  branch_name: Treasury Center Inz 8005
+  branch_address: Heerlen
+  branch_code: AAA
+  city: Heerlen
+  country: Netherlands
+- name: Apg Algemene Pensioen Groep Nv
+  swift: ABPTNL2HAAB
+  swift8: ABPTNL2H
+  branch_name: Heerlen
+  branch_address: Heerlen
+  branch_code: AAB
+  city: Heerlen
+  country: Netherlands
+- name: Apg Algemene Pensioen Groep Nv
+  swift: ABPTNL2HAAC
+  swift8: ABPTNL2H
+  branch_name: Treasury Center Inz 8004
+  branch_address: Heerlen
+  branch_code: AAC
+  city: Heerlen
+  country: Netherlands
+- name: Apg Algemene Pensioen Groep Nv
+  swift: ABPTNL2HAAD
+  swift8: ABPTNL2H
+  branch_name: Treasury Center Inz 8006
+  branch_address: Heerlen
+  branch_code: AAD
+  city: Heerlen
+  country: Netherlands
+- name: Apg Algemene Pensioen Groep Nv
+  swift: ABPTNL2HAOS
+  swift8: ABPTNL2H
+  branch_name: Heerlen
+  branch_address: Heerlen
+  branch_code: AOS
+  city: Heerlen
+  country: Netherlands
+- name: Apg Algemene Pensioen Groep Nv
+  swift: ABPTNL2HAOT
+  swift8: ABPTNL2H
+  branch_name: Heerlen
+  branch_address: Heerlen
+  branch_code: AOT
+  city: Heerlen
+  country: Netherlands
+- name: Apg Algemene Pensioen Groep Nv
+  swift: ABPTNL2HLOS
+  swift8: ABPTNL2H
+  branch_name: Heerlen
+  branch_address: Heerlen
+  branch_code: LOS
+  city: Heerlen
+  country: Netherlands
+- name: Apg Algemene Pensioen Groep Nv
+  swift: ABPTNL2HLOT
+  swift8: ABPTNL2H
+  branch_name: Heerlen
+  branch_address: Heerlen
+  branch_code: LOT
+  city: Heerlen
+  country: Netherlands
+- name: Apg Algemene Pensioen Groep Nv
+  swift: ABPTNL2HXXX
+  swift8: ABPTNL2H
+  branch_name: Head Office
+  branch_address: Oude Lindestraat 70 6411 Ej Heerlen
+  branch_code: XXX
+  city: Heerlen
+  country: Netherlands
+- name: Aramco Overseas Company B.V.
+  swift: ARAMNL2AXXX
+  swift8: ARAMNL2A
+  branch_name: Head Office
+  branch_address: Aoc Bv Leiden Office 2300 Ae Leiden
+  branch_code: XXX
+  city: Leiden
+  country: Netherlands
+- name: Asn Bank
+  swift: ASNBNL21XXX
+  swift8: ASNBNL21
+  branch_name: Head Office
+  branch_address: Bezuidenhoutseweg 153 2594 Ag Den Haag
+  branch_code: XXX
+  city: Ag Den Haag
+  country: Netherlands
+- name: Asr Bank N.V.
+  swift: ASRBNL2RXXX
+  swift8: ASRBNL2R
+  branch_name: Head Office
+  branch_address: Archimedeslaan 10 3500 Hb Utrecht
+  branch_code: XXX
+  city: Utrecht
+  country: Netherlands
+- name: Asr Verzekeringen Nederland N.V
+  swift: FTSINL2UXXX
+  swift8: FTSINL2U
+  branch_name: Head Office
+  branch_address: Amev Huis 3584 Ba Utrecht
+  branch_code: XXX
+  city: Utrecht
+  country: Netherlands
+- name: Attijariwafa Bank Europe Netherlands
+  swift: BCMANL2AXXX
+  swift8: BCMANL2A
+  branch_name: Head Office
+  branch_address: Bos En Lommerplein 157 1055 Ad Amsterdam
+  branch_code: XXX
+  city: Amsterdam
+  country: Netherlands
+- name: Bank Insinger De Beaufort Nv
+  swift: INSINL2ANRA
+  swift8: INSINL2A
+  branch_name: Amsterdam
+  branch_address: Amsterdam
+  branch_code: NRA
+  city: Amsterdam
+  country: Netherlands
+- name: Bank Insinger De Beaufort Nv
+  swift: INSINL2AXXX
+  swift8: INSINL2A
+  branch_name: Head Office
+  branch_address: Herengracht 537 1017 Bv Amsterdam
+  branch_code: XXX
+  city: Amsterdam
+  country: Netherlands
+- name: Bank Mendes Gans N.V.
+  swift: BKMGNL2AXXX
+  swift8: BKMGNL2A
+  branch_name: Head Office
+  branch_address: Herengracht 619 1017 Ce Amsterdam
+  branch_code: XXX
+  city: Amsterdam
+  country: Netherlands
+- name: Bank Of America, N.A. Amsterdam
+  swift: BOFANLNXXXX
+  swift8: BOFANLNX
+  branch_name: Head Office
+  branch_address: Rembrandt Tower Amsterdam
+  branch_code: XXX
+  city: Amsterdam
+  country: Netherlands
+- name: Bank Of America, N.A. Amsterdam
+  swift: BOFANLNXLIQ
+  swift8: BOFANLNX
+  branch_name: Amsterdam
+  branch_address: Amsterdam
+  branch_code: LIQ
+  city: Amsterdam
+  country: Netherlands
+- name: Bank Of China (Luxembourg) S.A., Rotterdam Branch
+  swift: BKCHNL2RXXX
+  swift8: BKCHNL2R
+  branch_name: Head Office
+  branch_address: Westblaak 109 3012 Kg Rotterdam
+  branch_code: XXX
+  city: Rotterdam
+  country: Netherlands
+- name: Bank Of Scotland Plc
+  swift: BOFSNL2AXXX
+  swift8: BOFSNL2A
+  branch_name: Head Office
+  branch_address: Queens Towers 0062 Ea Amsterdam
+  branch_code: XXX
+  city: Amsterdam
+  country: Netherlands
+- name: Bank Of Scotland Plc
+  swift: BOFSNL21002
+  swift8: BOFSNL21
+  branch_name: Amsterdam Branche Retail
+  branch_address: De Entree 254 1101 Ee Amsterdam
+  branch_code: '002'
+  city: Amsterdam
+  country: Netherlands
+- name: Bank Of Tokyo-Mitsubishi Ufj (Holland) N.V.
+  swift: BOTKNL2XXXX
+  swift8: BOTKNL2X
+  branch_name: Head Office
+  branch_address: World Trade Center Tower D 1077 Ar Amsterdam
+  branch_code: XXX
+  city: Amsterdam
+  country: Netherlands
+- name: Banque Chaabi Du Maroc
+  swift: BCDMNL22XXX
+  swift8: BCDMNL22
+  branch_name: Head Office
+  branch_address: De Clercqstraat 55 1067 Ng Amsterdam
+  branch_code: XXX
+  city: Amsterdam
+  country: Netherlands
+- name: Banque Chaabi Du Maroc
+  swift: BCDMNL21XXX
+  swift8: BCDMNL21
+  branch_name: Head Office
+  branch_address: De Clercqstraat 55 1067 Ng Amsterdam
+  branch_code: XXX
+  city: Ng Amsterdam
+  country: Netherlands
+- name: Binckbank N.V.
+  swift: BICKNL2AXXX
+  swift8: BICKNL2A
+  branch_name: Head Office
+  branch_address: Vijzelstraat 20 1017 Hk Amsterdam
+  branch_code: XXX
+  city: Amsterdam
+  country: Netherlands
+- name: Binckbank N.V.
+  swift: BICKNL21PRF
+  swift8: BICKNL21
+  branch_name: Professional Services
+  branch_address: Amsterdam
+  branch_code: PRF
+  city: Amsterdam
+  country: Netherlands
+- name: Binckbank N.V.
+  swift: BINKNL21XXX
+  swift8: BINKNL21
+  branch_name: Head Office
+  branch_address: Barbara Strozzilaan 310 1083 Hn Amsterdam
+  branch_code: XXX
+  city: Hn Amsterdam
+  country: Netherlands
+- name: Bmce Euroservices
+  swift: BMEUNL21XXX
+  swift8: BMEUNL21
+  branch_name: No branch name
+  branch_address: No branch address
+  branch_code: XXX
+  city: Ja Amsterdam
+  country: Netherlands
+- name: Bnp Paribas S.A. - The Netherlands Branch
+  swift: BNPANL2AXXX
+  swift8: BNPANL2A
+  branch_name: Head Office
+  branch_address: Herengracht 595 1017 Ce Amsterdam
+  branch_code: XXX
+  city: Amsterdam
+  country: Netherlands
+- name: Bnp Paribas S.A. - The Netherlands Branch
+  swift: BNPANL2HXXX
+  swift8: BNPANL2H
+  branch_name: Head Office
+  branch_address: Herengracht 477 1017 Bs Amsterdam
+  branch_code: XXX
+  city: Amsterdam
+  country: Netherlands
+- name: Bnp Paribas Securities Services
+  swift: PARBNL31XXX
+  swift8: PARBNL31
+  branch_name: Head Office
+  branch_address: Herengracht 477 1017 Bw Amsterdam
+  branch_code: XXX
+  city: Amsterdam
+  country: Netherlands
+- name: Cggveritas Services Holding B.V.
+  swift: CGGVNL2AXXX
+  swift8: CGGVNL2A
+  branch_name: Head Office
+  branch_address: Wtc 1077 Xv Amsterdam
+  branch_code: XXX
+  city: Amsterdam
+  country: Netherlands
+- name: Citco Bank Nederland N.V.
+  swift: CITCNL2AXXX
+  swift8: CITCNL2A
+  branch_name: Head Office
+  branch_address: Naritaweg 165 1043 Bw Amsterdam
+  branch_code: XXX
+  city: Amsterdam
+  country: Netherlands
+- name: Citibank International Plc Netherlands Branch
+  swift: CITINL2XCB2
+  swift8: CITINL2X
+  branch_name: Infopool Services
+  branch_address: Amsterdam
+  branch_code: CB2
+  city: Amsterdam
+  country: Netherlands
+- name: Citibank International Plc Netherlands Branch
+  swift: CITINL2XSEC
+  swift8: CITINL2X
+  branch_name: Restricted Use Citibank Amsterdam Target 2
+  branch_address: Amsterdam
+  branch_code: SEC
+  city: Amsterdam
+  country: Netherlands
+- name: Citibank International Plc Netherlands Branch
+  swift: CITINL2XTFT
+  swift8: CITINL2X
+  branch_name: Restricted Use Citibank Amsterdam Target 2
+  branch_address: Amsterdam
+  branch_code: TFT
+  city: Amsterdam
+  country: Netherlands
+- name: Citibank International Plc Netherlands Branch
+  swift: CITINL2XXXX
+  swift8: CITINL2X
+  branch_name: Head Office
+  branch_address: Wtc Schiphol Tower D8 1118 Bh Schiphol
+  branch_code: XXX
+  city: Amsterdam
+  country: Netherlands
+- name: Coca-Cola Hbc Finance B.V.
+  swift: CCHBNL2AXXX
+  swift8: CCHBNL2A
+  branch_name: Head Office
+  branch_address: Naritaweg 165 1043 Bw Amsterdam
+  branch_code: XXX
+  city: Amsterdam
+  country: Netherlands
+- name: Coca-Cola Hbc Finance B.V.
+  swift: CCHBNL2A424
+  swift8: CCHBNL2A
+  branch_name: Bg Confirmations
+  branch_address: No branch address
+  branch_code: '424'
+  city: Amsterdam
+  country: Netherlands
+- name: Commerzbank Ag Kantoor Amsterdam
+  swift: COBANL2XTAM
+  swift8: COBANL2X
+  branch_name: Amsterdam
+  branch_address: Amsterdam
+  branch_code: TAM
+  city: Amsterdam
+  country: Netherlands
+- name: Commerzbank Ag Kantoor Amsterdam
+  swift: COBANL2XXXX
+  swift8: COBANL2X
+  branch_name: Head Office
+  branch_address: Strawinskylaan 2501 1077 Zz Amsterdam
+  branch_code: XXX
+  city: Amsterdam
+  country: Netherlands
+- name: Credit Europe Bank N.V.
+  swift: FBHLNL2AXXX
+  swift8: FBHLNL2A
+  branch_name: Head Office
+  branch_address: Karspeldreef 6a 1101 Cj Amsterdam
+  branch_code: XXX
+  city: Amsterdam
+  country: Netherlands
+- name: Daimler International Finance B.V.
+  swift: DAIXNL2XXXX
+  swift8: DAIXNL2X
+  branch_name: Head Office
+  branch_address: Van Deventerlaan 50 3528 Ae Utrecht
+  branch_code: XXX
+  city: Utrecht
+  country: Netherlands
+- name: Delta Lloyd Asset Management
+  swift: DLIMNL2AXXX
+  swift8: DLIMNL2A
+  branch_name: Head Office
+  branch_address: Spaklerweg 4 1096 Ba Amsterdam
+  branch_code: XXX
+  city: Amsterdam
+  country: Netherlands
+- name: Delta Lloyd Bank N.V.
+  swift: DLBKNL2AXXX
+  swift8: DLBKNL2A
+  branch_name: Head Office
+  branch_address: Joan Muyskenweg 4 1096 Cj Amsterdam
+  branch_code: XXX
+  city: Amsterdam
+  country: Netherlands
+- name: Demir-Halk Bank (Nederland) N.V.
+  swift: DHBNNL2RXXX
+  swift8: DHBNNL2R
+  branch_name: Head Office
+  branch_address: Parklaan 8 3016 Bb Rotterdam
+  branch_code: XXX
+  city: Rotterdam
+  country: Netherlands
+- name: Demir-Halk Bank (Nederland) N.V.
+  swift: DHBNNL2RCOL
+  swift8: DHBNNL2R
+  branch_name: No branch name
+  branch_address: No branch address
+  branch_code: COL
+  city: Rotterdam
+  country: Netherlands
+- name: Deutsche Bank A.G. Amsterdam
+  swift: DEUTNL2ASEC
+  swift8: DEUTNL2A
+  branch_name: Securities
+  branch_address: No branch address
+  branch_code: SEC
+  city: Amsterdam
+  country: Netherlands
+- name: Deutsche Bank A.G. Amsterdam
+  swift: DEUTNL2ASSS
+  swift8: DEUTNL2A
+  branch_name: Esescode
+  branch_address: Amsterdam
+  branch_code: SSS
+  city: Amsterdam
+  country: Netherlands
+- name: Deutsche Bank A.G. Amsterdam
+  swift: DEUTNL2AXXX
+  swift8: DEUTNL2A
+  branch_name: Head Office
+  branch_address: Entree 99-197 1101he Amsterdam
+  branch_code: XXX
+  city: Amsterdam
+  country: Netherlands
+- name: Deutsche Bank A.G. Amsterdam
+  swift: DEUTNL2A002
+  swift8: DEUTNL2A
+  branch_name: Dnb Code
+  branch_address: No branch address
+  branch_code: '002'
+  city: Amsterdam
+  country: Netherlands
+- name: Deutsche Bank Nederland N.V.
+  swift: DEUTNL2NXXX
+  swift8: DEUTNL2N
+  branch_name: Head Office
+  branch_address: De Entree 99-197 1101 He Amsterdam
+  branch_code: XXX
+  city: Amsterdam
+  country: Netherlands
+- name: Dutch Ministry Of Finance
+  swift: MIFINL2GXXX
+  swift8: MIFINL2G
+  branch_name: Head Office
+  branch_address: Korte Voorhout 7 2511 Cw Den Haag
+  branch_code: XXX
+  city: Den Haag
+  country: Netherlands
+- name: Dutch State Treasury Agency
+  swift: DSTANL2AXXX
+  swift8: DSTANL2A
+  branch_name: Head Office
+  branch_address: Korte Voorhout 7 2511 Cw Den Haag
+  branch_code: XXX
+  city: Den Haag
+  country: Netherlands
+- name: Economy Bank N.V.,The
+  swift: TEBUNL2AXXX
+  swift8: TEBUNL2A
+  branch_name: Head Office
+  branch_address: Prof. W.H. Keesomlaan 5 1183 Dj Amstelveen
+  branch_code: XXX
+  city: Amstelveen
+  country: Netherlands
+- name: Equens Nederland B.V.
+  swift: INNDNL2UDDE
+  swift8: INNDNL2U
+  branch_name: Utrecht
+  branch_address: Utrecht
+  branch_code: DDE
+  city: Utrecht
+  country: Netherlands
+- name: Equens Nederland B.V.
+  swift: INNDNL2UEBA
+  swift8: INNDNL2U
+  branch_name: Utrecht
+  branch_address: Utrecht
+  branch_code: EBA
+  city: Utrecht
+  country: Netherlands
+- name: Equens Nederland B.V.
+  swift: INNDNL2UEQU
+  swift8: INNDNL2U
+  branch_name: Utrecht
+  branch_address: Utrecht
+  branch_code: EQU
+  city: Utrecht
+  country: Netherlands
+- name: Equens Nederland B.V.
+  swift: INNDNL2URAB
+  swift8: INNDNL2U
+  branch_name: Utrecht
+  branch_address: Utrecht
+  branch_code: RAB
+  city: Utrecht
+  country: Netherlands
+- name: Equens Nederland B.V.
+  swift: INNDNL2UXXX
+  swift8: INNDNL2U
+  branch_name: Head Office
+  branch_address: Eendrachtlaan 315 3526 Lb Utrecht
+  branch_code: XXX
+  city: Utrecht
+  country: Netherlands
+- name: Euroclear Nederland (Previously Known As Necigef)
+  swift: NECINL2A206
+  swift8: NECINL2A
+  branch_name: Target 2
+  branch_address: Amsterdam
+  branch_code: '206'
+  city: Amsterdam
+  country: Netherlands
+- name: Euroclear Nederland (Previously Known As Necigef)
+  swift: NECINL2A207
+  swift8: NECINL2A
+  branch_name: Target 2
+  branch_address: Amsterdam
+  branch_code: '207'
+  city: Amsterdam
+  country: Netherlands
+- name: Euroclear Nederland (Previously Known As Necigef)
+  swift: NECINL2A320
+  swift8: NECINL2A
+  branch_name: Amsterdam
+  branch_address: Amsterdam
+  branch_code: '320'
+  city: Amsterdam
+  country: Netherlands
+- name: Euroclear Nederland (Previously Known As Necigef)
+  swift: NECINL2A730
+  swift8: NECINL2A
+  branch_name: Target 2
+  branch_address: Amsterdam
+  branch_code: '730'
+  city: Amsterdam
+  country: Netherlands
+- name: Euroclear Nederland (Previously Known As Necigef)
+  swift: NECINL2A775
+  swift8: NECINL2A
+  branch_name: Target 2
+  branch_address: Amsterdam
+  branch_code: '775'
+  city: Amsterdam
+  country: Netherlands
+- name: Euroclear Nederland (Previously Known As Necigef)
+  swift: NECINL2A777
+  swift8: NECINL2A
+  branch_name: Target 2
+  branch_address: Amsterdam
+  branch_code: '777'
+  city: Amsterdam
+  country: Netherlands
+- name: Euroclear Nederland (Previously Known As Necigef)
+  swift: NECINL2AFEN
+  swift8: NECINL2A
+  branch_name: Fit Enl
+  branch_address: Amsterdam
+  branch_code: FEN
+  city: Amsterdam
+  country: Netherlands
+- name: Euroclear Nederland (Previously Known As Necigef)
+  swift: NECINL2AXXX
+  swift8: NECINL2A
+  branch_name: Head Office
+  branch_address: Herengracht 459-469 1017 Bs Amsterdam
+  branch_code: XXX
+  city: Amsterdam
+  country: Netherlands
+- name: European Multilateral Clearing Facility N.V. (Emcf)
+  swift: EMCFNL22XXX
+  swift8: EMCFNL22
+  branch_name: Head Office
+  branch_address: Rokin 55 1012 Kk Amsterdam
+  branch_code: XXX
+  city: Amsterdam
+  country: Netherlands
+- name: European Multilateral Clearing Facility N.V. (Emcf)
+  swift: EMCFNL2AXXX
+  swift8: EMCFNL2A
+  branch_name: Head Office
+  branch_address: Apollolaan 150 1077bg Amsterdam
+  branch_code: XXX
+  city: Amsterdam
+  country: Netherlands
+- name: Fce Bank Plc
+  swift: FCEENL21XXX
+  swift8: FCEENL21
+  branch_name: Head Office
+  branch_address: Amsteldijk 216/217 1079 Lk Amsterdam
+  branch_code: XXX
+  city: Amsterdam
+  country: Netherlands
+- name: Fgh Bank N.V.
+  swift: FRGHNL21XXX
+  swift8: FRGHNL21
+  branch_name: Head Office
+  branch_address: Leidseveer 50 3511 Sb Utrecht
+  branch_code: XXX
+  city: Utrecht
+  country: Netherlands
+- name: Garantibank International Nv
+  swift: UGBINL2AXXX
+  swift8: UGBINL2A
+  branch_name: Head Office
+  branch_address: Keizersgracht 569-575 1017 Dr Amsterdam
+  branch_code: XXX
+  city: Amsterdam
+  country: Netherlands
+- name: Global Collect Services B.V.
+  swift: GLOONL2AXXX
+  swift8: GLOONL2A
+  branch_name: Head Office
+  branch_address: Planetenweg 43-59 2132 Hm Hoofddorp
+  branch_code: XXX
+  city: Hoofddorp
+  country: Netherlands
+- name: Habib Bank Ltd.
+  swift: HABBNL2RXXX
+  swift8: HABBNL2R
+  branch_name: Head Office
+  branch_address: Rotterdam
+  branch_code: XXX
+  city: Rotterdam
+  country: Netherlands
+- name: Holland Clearing House N.V.
+  swift: HCHANL2AXXX
+  swift8: HCHANL2A
+  branch_name: Head Office
+  branch_address: Prins Bernardplein 200 1097 Jb Amsterdam
+  branch_code: XXX
+  city: Amsterdam
+  country: Netherlands
+- name: Hsbc Bank Plc
+  swift: HSBCNL2ASDD
+  swift8: HSBCNL2A
+  branch_name: Sepa Direct Debits
+  branch_address: Amsterdam
+  branch_code: SDD
+  city: Amsterdam
+  country: Netherlands
+- name: Hsbc Bank Plc
+  swift: HSBCNL2AXXX
+  swift8: HSBCNL2A
+  branch_name: Head Office
+  branch_address: De Entree 1101 Ee Amsterdam
+  branch_code: XXX
+  city: Amsterdam
+  country: Netherlands
+- name: Icl Finance Bv
+  swift: ICFNNL2AXXX
+  swift8: ICFNNL2A
+  branch_name: Head Office
+  branch_address: Fosfaatweg 48 1013bm Amsterdam
+  branch_code: XXX
+  city: Amsterdam
+  country: Netherlands
+- name: Ikb Deutsche Industriebank Ag
+  swift: IKDINL21XXX
+  swift8: IKDINL21
+  branch_name: Head Office
+  branch_address: Apollolaan 133-135 1077 Ar Amsterdam
+  branch_code: XXX
+  city: Amsterdam
+  country: Netherlands
+- name: Industrial And Commercial Bank Of China (Europe) S.A. Amsterdam Branch
+  swift: ICBKNL2AXXX
+  swift8: ICBKNL2A
+  branch_name: Head Office
+  branch_address: Johannes Vermeerstraat 7 1071 Dk Amsterdam
+  branch_code: XXX
+  city: Amsterdam
+  country: Netherlands
+- name: Ing Bank N.V.
+  swift: INGBNL2ACLS
+  swift8: INGBNL2A
+  branch_name: 1102 Bw Amsterdam
+  branch_address: Bijlmerdreef 109 1102 Bw Amsterdam
+  branch_code: CLS
+  city: Amsterdam
+  country: Netherlands
+- name: Ing Bank N.V.
+  swift: INGBNL2AXXX
+  swift8: INGBNL2A
+  branch_name: Head Office
+  branch_address: Financial Plaza 1102 Bw Amsterdam
+  branch_code: XXX
+  city: Amsterdam
+  country: Netherlands
+- name: Ing Bank N.V.
+  swift: INGBNL2SFSS
+  swift8: INGBNL2S
+  branch_name: Fss
+  branch_address: Amsterdam
+  branch_code: FSS
+  city: Amsterdam
+  country: Netherlands
+- name: Ing Bank N.V.
+  swift: INGBNL2SPAS
+  swift8: INGBNL2S
+  branch_name: Securities Services Nl
+  branch_address: Van Heenvlietlaan 220 1083 Cn Amsterdam
+  branch_code: PAS
+  city: Amsterdam
+  country: Netherlands
+- name: Ing Bank N.V.
+  swift: INGBNL2SSMK
+  swift8: INGBNL2S
+  branch_name: Securities Services Nl
+  branch_address: Amsterdam
+  branch_code: SMK
+  city: Amsterdam
+  country: Netherlands
+- name: Ing Bank N.V.
+  swift: INGBNL2SWIA
+  swift8: INGBNL2S
+  branch_name: Securites Services Nl
+  branch_address: Van Heenvlietlaan 220 1083 Cn Amsterdam
+  branch_code: WIA
+  city: Amsterdam
+  country: Netherlands
+- name: Ing Bank N.V.
+  swift: INGBNL2AGPC
+  swift8: INGBNL2A
+  branch_name: No branch name
+  branch_address: No branch address
+  branch_code: GPC
+  city: Amsterdam
+  country: Netherlands
+- name: Ing Bank N.V.
+  swift: INGBNL2ALMI
+  swift8: INGBNL2A
+  branch_name: 1102 Bd Amsterdam
+  branch_address: Treasury Center 1102 Bd Amsterdam
+  branch_code: LMI
+  city: Amsterdam
+  country: Netherlands
+- name: Ing Investment Management
+  swift: INGINL2GXXX
+  swift8: INGINL2G
+  branch_name: Head Office
+  branch_address: Prinses Beatrixlaan 15 2595 Ak Den Haag
+  branch_code: XXX
+  city: Den Haag
+  country: Netherlands
+- name: Intesa Sanpaolo S.P.A. (Former Sanpaolo Imi), Amsterdam Branch, Amsterdam
+  swift: BCITNL2AXXX
+  swift8: BCITNL2A
+  branch_name: Head Office
+  branch_address: Strawinskylaan 769 1077 Xx Amsterdam
+  branch_code: XXX
+  city: Amsterdam
+  country: Netherlands
+- name: Isbank Gmbh, Amsterdam Branch
+  swift: ISBKNL2AAMS
+  swift8: ISBKNL2A
+  branch_name: Amsterdam
+  branch_address: Amsterdam
+  branch_code: AMS
+  city: Amsterdam
+  country: Netherlands
+- name: Isbank Gmbh, Amsterdam Branch
+  swift: ISBKNL2AXXX
+  swift8: ISBKNL2A
+  branch_name: Head Office
+  branch_address: Wtc, Tower C 1077 Xx Amsterdam
+  branch_code: XXX
+  city: Amsterdam
+  country: Netherlands
+- name: Jp Morgan Chase Bank, N.A
+  swift: CHASNL2XENQ
+  swift8: CHASNL2X
+  branch_name: Telex and S W I F T Message Enquiries
+  branch_address: Atrium Building First Floor 1077 Zx Amsterdam
+  branch_code: ENQ
+  city: Amsterdam
+  country: Netherlands
+- name: Jp Morgan Chase Bank, N.A
+  swift: CHASNL2XKEY
+  swift8: CHASNL2X
+  branch_name: Test Key and Bke Administration
+  branch_address: Amsterdam
+  branch_code: KEY
+  city: Amsterdam
+  country: Netherlands
+- name: Jp Morgan Chase Bank, N.A
+  swift: CHASNL2XXXX
+  swift8: CHASNL2X
+  branch_name: Head Office
+  branch_address: Atrium Building 1077 Zx Amsterdam
+  branch_code: XXX
+  city: Amsterdam
+  country: Netherlands
+- name: Kas Bank N.V
+  swift: KASANL2AECL
+  swift8: KASANL2A
+  branch_name: Kas Internal Use
+  branch_address: Amsterdam
+  branch_code: ECL
+  city: Amsterdam
+  country: Netherlands
+- name: Kas Bank N.V
+  swift: KASANL2AXXX
+  swift8: KASANL2A
+  branch_name: Head Office
+  branch_address: Spuistraat 172 1000 Db Amsterdam
+  branch_code: XXX
+  city: Amsterdam
+  country: Netherlands
+- name: Kbc Bank Nederland Nv
+  swift: KREDNL2XXXX
+  swift8: KREDNL2X
+  branch_name: Head Office
+  branch_address: Watermanweg 92 3067 Gg Rotterdam
+  branch_code: XXX
+  city: Rotterdam
+  country: Netherlands
+- name: Kempen And Co N.V.
+  swift: KEMPNL2AXXX
+  swift8: KEMPNL2A
+  branch_name: Head Office
+  branch_address: Beethovenstraat 300 1070 Ar Amsterdam
+  branch_code: XXX
+  city: Amsterdam
+  country: Netherlands
+- name: Kempen Capital Management Nv
+  swift: KECANL2AXXX
+  swift8: KECANL2A
+  branch_name: Head Office
+  branch_address: Wtc 1077 Wz Amsterdam
+  branch_code: XXX
+  city: Amsterdam
+  country: Netherlands
+- name: Koninklijke Kpn Nv
+  swift: KPNCNL2GXXX
+  swift8: KPNCNL2G
+  branch_name: Head Office
+  branch_address: Maanplein 55 2516 Ck Den Haag
+  branch_code: XXX
+  city: Den Haag
+  country: Netherlands
+- name: Koninklijke Philips Electronics N.V.
+  swift: KOPLNL2EXXX
+  swift8: KOPLNL2E
+  branch_name: Head Office
+  branch_address: High Tech Campus 5 5656 Ae Eindhoven
+  branch_code: XXX
+  city: Eindhoven
+  country: Netherlands
+- name: Koninklijke Philips Electronics N.V.
+  swift: KOPLNL21XXX
+  swift8: KOPLNL21
+  branch_name: Head Office
+  branch_address: Hbt 12 1086 Bc Amsterdam
+  branch_code: XXX
+  city: Amsterdam
+  country: Netherlands
+- name: Korea Exchange Bank, Amsterdam Branch
+  swift: KOEXNL2AXXX
+  swift8: KOEXNL2A
+  branch_name: Head Office
+  branch_address: Dr. Willen Dreesweg 2 1185 Vb Amstelveen
+  branch_code: XXX
+  city: Amstelveen
+  country: Netherlands
+- name: Lanschot Bankiers Nv F. Van
+  swift: FVLBNL22AMS
+  swift8: FVLBNL22
+  branch_name: 1071 Ln Amsterdam
+  branch_address: Concertgebouwplein 20 1071 Ln Amsterdam
+  branch_code: AMS
+  city: Amsterdam
+  country: Netherlands
+- name: Lanschot Bankiers Nv F. Van
+  swift: FVLBNL22XXX
+  swift8: FVLBNL22
+  branch_name: Head Office
+  branch_address: Hooge Steenweg 29 5211 Jn S-Hertogenbosch
+  branch_code: XXX
+  city: S-Hertogenbosch
+  country: Netherlands
+- name: Leaseplan Corporation N.V.
+  swift: LPLNNL2ALPB
+  swift8: LPLNNL2A
+  branch_name: Lease Plan Bank
+  branch_address: Pj Oudweg 41 1314 Almere-Stad
+  branch_code: LPB
+  city: Almere-Stad
+  country: Netherlands
+- name: Leaseplan Corporation N.V.
+  swift: LPLNNL2AXXX
+  swift8: LPLNNL2A
+  branch_name: Head Office
+  branch_address: P.J. Oudweg 41 1314 Cj Almere-Stad
+  branch_code: XXX
+  city: Almere-Stad
+  country: Netherlands
+- name: Lloyds Tsb Bank Plc
+  swift: LOYDNL2AXXX
+  swift8: LOYDNL2A
+  branch_name: Head Office
+  branch_address: Statenbolwerk 1 2011 Mk Haarlem
+  branch_code: XXX
+  city: Haarlem
+  country: Netherlands
+- name: Lombard Odier Darier Hentsch En Cie (Nederland) N.V.
+  swift: LOCYNL2ANDP
+  swift8: LOCYNL2A
+  branch_name: Ndp Dept
+  branch_address: Amsterdam
+  branch_code: NDP
+  city: Amsterdam
+  country: Netherlands
+- name: Lombard Odier Darier Hentsch En Cie (Nederland) N.V.
+  swift: LOCYNL2AXXX
+  swift8: LOCYNL2A
+  branch_name: Head Office
+  branch_address: Weteringpoort 1017 Sb Amsterdam
+  branch_code: XXX
+  city: Amsterdam
+  country: Netherlands
+- name: Mars Nederland B.V.
+  swift: TWIXNL22XXX
+  swift8: TWIXNL22
+  branch_name: Head Office
+  branch_address: Taylorweg 5 5466 Ae Veghel
+  branch_code: XXX
+  city: Veghel
+  country: Netherlands
+- name: Mega International Commercial Bank Co. Ltd
+  swift: ICBCNL2AXXX
+  swift8: ICBCNL2A
+  branch_name: Head Office
+  branch_address: World Trade Center 1077 Xx Amsterdam
+  branch_code: XXX
+  city: Amsterdam
+  country: Netherlands
+- name: Mizuho Corporate Bank Nederland N.V.
+  swift: MHCBNL2AXXX
+  swift8: MHCBNL2A
+  branch_name: Head Office
+  branch_address: Apollolaan 171 1077 as Amsterdam
+  branch_code: XXX
+  city: Amsterdam
+  country: Netherlands
+- name: Mn Services Nv (Investment Management)
+  swift: MNSNNL22XXX
+  swift8: MNSNNL22
+  branch_name: Head Office
+  branch_address: Burgemeester Elsenlaan 329 2282 Mz Rijswijk
+  branch_code: XXX
+  city: Rijswijk
+  country: Netherlands
+- name: Nationale-Nederlanden Bank N.V.
+  swift: NNBANL2GXXX
+  swift8: NNBANL2G
+  branch_name: Head Office
+  branch_address: Hp E.10.038 2595 Ak Den Haag
+  branch_code: XXX
+  city: Den Haag
+  country: Netherlands
+- name: Nationale-Nederlanden Bank N.V.
+  swift: NNBANL2GTRY
+  swift8: NNBANL2G
+  branch_name: Treasury
+  branch_address: Amstelpoort 1097 Dp Amsterdam
+  branch_code: TRY
+  city: Amsterdam
+  country: Netherlands
+- name: Nederlands Centraal Instituut Voor Giraal Effectenverkeer
+  swift: ESESNL2A777
+  swift8: ESESNL2A
+  branch_name: Amsterdam
+  branch_address: Amsterdam
+  branch_code: '777'
+  city: Amsterdam
+  country: Netherlands
+- name: Nederlands Centraal Instituut Voor Giraal Effectenverkeer
+  swift: ESESNL2AINT
+  swift8: ESESNL2A
+  branch_name: Amsterdam
+  branch_address: Amsterdam
+  branch_code: INT
+  city: Amsterdam
+  country: Netherlands
+- name: Nederlands Centraal Instituut Voor Giraal Effectenverkeer
+  swift: ESESNL2ALE1
+  swift8: ESESNL2A
+  branch_name: Amsterdam
+  branch_address: Amsterdam
+  branch_code: LE1
+  city: Amsterdam
+  country: Netherlands
+- name: Nederlands Centraal Instituut Voor Giraal Effectenverkeer
+  swift: ESESNL2ALE2
+  swift8: ESESNL2A
+  branch_name: Amsterdam
+  branch_address: Amsterdam
+  branch_code: LE2
+  city: Amsterdam
+  country: Netherlands
+- name: Nederlands Centraal Instituut Voor Giraal Effectenverkeer
+  swift: ESESNL2AT2X
+  swift8: ESESNL2A
+  branch_name: Target2
+  branch_address: Amsterdam
+  branch_code: T2X
+  city: Amsterdam
+  country: Netherlands
+- name: Nederlands Centraal Instituut Voor Giraal Effectenverkeer
+  swift: ESESNL2AXXX
+  swift8: ESESNL2A
+  branch_name: Head Office
+  branch_address: Postbus 19163 1000 Gd Amsterdam
+  branch_code: XXX
+  city: Amsterdam
+  country: Netherlands
+- name: Nederlands Centraal Instituut Voor Giraal Effectenverkeer
+  swift: ESESNL2AFDB
+  swift8: ESESNL2A
+  branch_name: Amsterdam
+  branch_address: Amsterdam
+  branch_code: FDB
+  city: Amsterdam
+  country: Netherlands
+- name: Nederlands Centraal Instituut Voor Giraal Effectenverkeer
+  swift: ESESNL2AISS
+  swift8: ESESNL2A
+  branch_name: Amsterdam
+  branch_address: Amsterdam
+  branch_code: ISS
+  city: Amsterdam
+  country: Netherlands
+- name: Nederlandsche Bank (De) N.V.
+  swift: FLORNL2AAMD
+  swift8: FLORNL2A
+  branch_name: Agency Amsterdam
+  branch_address: Amsterdam
+  branch_code: AMD
+  city: Amsterdam
+  country: Netherlands
+- name: Nederlandsche Bank (De) N.V.
+  swift: FLORNL2ABEX
+  swift8: FLORNL2A
+  branch_name: Dnb-Eses Cross Ncb Position With Nbb
+  branch_address: Amsterdam
+  branch_code: BEX
+  city: Amsterdam
+  country: Netherlands
+- name: Nederlandsche Bank (De) N.V.
+  swift: FLORNL2ACAC
+  swift8: FLORNL2A
+  branch_name: Dnb-Eses Contingency Account
+  branch_address: Amsterdam
+  branch_code: CAC
+  city: Amsterdam
+  country: Netherlands
+- name: Nederlandsche Bank (De) N.V.
+  swift: FLORNL2ACCB
+  swift8: FLORNL2A
+  branch_name: Ccbm
+  branch_address: Amsterdam
+  branch_code: CCB
+  city: Amsterdam
+  country: Netherlands
+- name: Nederlandsche Bank (De) N.V.
+  swift: FLORNL2ACON
+  swift8: FLORNL2A
+  branch_name: Amsterdam
+  branch_address: Amsterdam
+  branch_code: CON
+  city: Amsterdam
+  country: Netherlands
+- name: Nederlandsche Bank (De) N.V.
+  swift: FLORNL2ACUR
+  swift8: FLORNL2A
+  branch_name: Currency Department
+  branch_address: Amsterdam
+  branch_code: CUR
+  city: Amsterdam
+  country: Netherlands
+- name: Nederlandsche Bank (De) N.V.
+  swift: FLORNL2AECL
+  swift8: FLORNL2A
+  branch_name: Dnb-Eses Mirror-Technical Account
+  branch_address: Amsterdam
+  branch_code: ECL
+  city: Amsterdam
+  country: Netherlands
+- name: Nederlandsche Bank (De) N.V.
+  swift: FLORNL2AEUR
+  swift8: FLORNL2A
+  branch_name: Euro Operations
+  branch_address: Amsterdam
+  branch_code: EUR
+  city: Amsterdam
+  country: Netherlands
+- name: Nederlandsche Bank (De) N.V.
+  swift: FLORNL2AEUX
+  swift8: FLORNL2A
+  branch_name: Target2 Ecb-Ncb Account
+  branch_address: Amsterdam
+  branch_code: EUX
+  city: Amsterdam
+  country: Netherlands
+- name: Nederlandsche Bank (De) N.V.
+  swift: FLORNL2AFEB
+  swift8: FLORNL2A
+  branch_name: Controllers Department
+  branch_address: Amsterdam
+  branch_code: FEB
+  city: Amsterdam
+  country: Netherlands
+- name: Nederlandsche Bank (De) N.V.
+  swift: FLORNL2AFEX
+  swift8: FLORNL2A
+  branch_name: Foreign Exchange
+  branch_address: Westeinde 1 1017 Zn Amsterdam
+  branch_code: FEX
+  city: Amsterdam
+  country: Netherlands
+- name: Nederlandsche Bank (De) N.V.
+  swift: FLORNL2AFRX
+  swift8: FLORNL2A
+  branch_name: Dnb-Eses Cross Ncb Position With Bdf
+  branch_address: Amsterdam
+  branch_code: FRX
+  city: Amsterdam
+  country: Netherlands
+- name: Nederlandsche Bank (De) N.V.
+  swift: FLORNL2AGFT
+  swift8: FLORNL2A
+  branch_name: Guilders Funds Transfer
+  branch_address: Westeinde 1 1017 Zn Amsterdam
+  branch_code: GFT
+  city: Amsterdam
+  country: Netherlands
+- name: Nederlandsche Bank (De) N.V.
+  swift: FLORNL2AXXX
+  swift8: FLORNL2A
+  branch_name: Head Office
+  branch_address: Westeinde 1 1017 Zn Amsterdam
+  branch_code: XXX
+  city: Amsterdam
+  country: Netherlands
+- name: Nederlandse Financierings-Maatschappij Voor Ontwikkelingslanden N.V.
+  swift: NFMONL2GXXX
+  swift8: NFMONL2G
+  branch_name: Head Office
+  branch_address: Anna Van Saksenlaan 71 2593 Hw Den Haag
+  branch_code: XXX
+  city: Den Haag
+  country: Netherlands
+- name: Nederlandse Waterschapsbank N.V.
+  swift: NWABNL2GXXX
+  swift8: NWABNL2G
+  branch_name: Head Office
+  branch_address: Rooseveltplantsoen 3 2517 Kr Den Haag
+  branch_code: XXX
+  city: Den Haag
+  country: Netherlands
+- name: Nederlandse Waterschapsbank N.V.
+  swift: NWABNL2GNMC
+  swift8: NWABNL2G
+  branch_name: No branch name
+  branch_address: No branch address
+  branch_code: NMC
+  city: Gravenhage
+  country: Netherlands
+- name: Nibc Bank N.V
+  swift: DNIBNL2GRM1
+  swift8: DNIBNL2G
+  branch_name: Retail Markets Branch 1
+  branch_address: Den Haag
+  branch_code: RM1
+  city: Den Haag
+  country: Netherlands
+- name: Nibc Bank N.V
+  swift: DNIBNL2GXXX
+  swift8: DNIBNL2G
+  branch_name: Head Office
+  branch_address: Carnegieplein 4 2517 Kj Den Haag
+  branch_code: XXX
+  city: Den Haag
+  country: Netherlands
+- name: Nomura Asia Holding N.V.
+  swift: NAHLNL2AXXX
+  swift8: NAHLNL2A
+  branch_name: Head Office
+  branch_address: Rembrandt Tower 1096 Ha Amsterdam
+  branch_code: XXX
+  city: Amsterdam
+  country: Netherlands
+- name: Nv Bank Nederlandse Gemeenten
+  swift: BNGHNL2GXXX
+  swift8: BNGHNL2G
+  branch_name: Head Office
+  branch_address: Koninginnegracht 2 2514 Aa Den Haag
+  branch_code: XXX
+  city: Den Haag
+  country: Netherlands
+- name: Nv Bank Nederlandse Gemeenten
+  swift: BNGHNL2GNMC
+  swift8: BNGHNL2G
+  branch_name: No branch name
+  branch_address: No branch address
+  branch_code: NMC
+  city: Den Haag
+  country: Netherlands
+- name: Nv Settlement Bank Of The Netherlands
+  swift: SBNLNL2AXXX
+  swift8: SBNLNL2A
+  branch_name: Head Office
+  branch_address: Amsterdam
+  branch_code: XXX
+  city: Amsterdam
+  country: Netherlands
+- name: Perfetti Van Melle Holding B.V.
+  swift: PEMHNL22XXX
+  swift8: PEMHNL22
+  branch_name: Head Office
+  branch_address: Zoete Inval 20 4815 Hk Breda
+  branch_code: XXX
+  city: Breda
+  country: Netherlands
+- name: Pggm
+  swift: PGGMNL22XXX
+  swift8: PGGMNL22
+  branch_name: Head Office
+  branch_address: Noordweg Noord 150 3704 Jg Zeist
+  branch_code: XXX
+  city: Zeist
+  country: Netherlands
+- name: Rabobank Nederland
+  swift: RABONL2UBRO
+  swift8: RABONL2U
+  branch_name: Only Use on Request
+  branch_address: Utrecht
+  branch_code: BRO
+  city: Utrecht
+  country: Netherlands
+- name: Rabobank Nederland
+  swift: RABONL2UCLS
+  swift8: RABONL2U
+  branch_name: For Cls Only
+  branch_address: Utrecht
+  branch_code: CLS
+  city: Utrecht
+  country: Netherlands
+- name: Rabobank Nederland
+  swift: RABONL2UIBS
+  swift8: RABONL2U
+  branch_name: Only Use on Request
+  branch_address: Utrecht
+  branch_code: IBS
+  city: Utrecht
+  country: Netherlands
+- name: Rabobank Nederland
+  swift: RABONL2UPBO
+  swift8: RABONL2U
+  branch_name: Only Use on Request
+  branch_address: Utrecht
+  branch_code: PBO
+  city: Utrecht
+  country: Netherlands
+- name: Rabobank Nederland
+  swift: RABONL2URSA
+  swift8: RABONL2U
+  branch_name: Rabobank Securities
+  branch_address: Utrecht
+  branch_code: RSA
+  city: Utrecht
+  country: Netherlands
+- name: Rabobank Nederland
+  swift: RABONL2USCR
+  swift8: RABONL2U
+  branch_name: Only Use on Request
+  branch_address: Utrecht
+  branch_code: SCR
+  city: Utrecht
+  country: Netherlands
+- name: Rabobank Nederland
+  swift: RABONL2UUEF
+  swift8: RABONL2U
+  branch_name: Utrecht Equity Finance, for Eses Cash Account Only
+  branch_address: Utrecht
+  branch_code: UEF
+  city: Utrecht
+  country: Netherlands
+- name: Rabobank Nederland
+  swift: RABONL2UXXX
+  swift8: RABONL2U
+  branch_name: And All Member Rabobanks
+  branch_address: Croeselaan 18 3500 Hg Utrecht
+  branch_code: XXX
+  city: Utrecht
+  country: Netherlands
+- name: Regiobank
+  swift: RBRBNL21XXX
+  swift8: RBRBNL21
+  branch_name: Head Office
+  branch_address: Croeselaan 1 3521 Bj Utrecht
+  branch_code: XXX
+  city: Utrecht
+  country: Netherlands
+- name: Robeco Institutional Asset Management B.V.
+  swift: RGVMNL2RABA
+  swift8: RGVMNL2R
+  branch_name: Riam
+  branch_address: Rotterdam
+  branch_code: ABA
+  city: Rotterdam
+  country: Netherlands
+- name: Robeco Institutional Asset Management B.V.
+  swift: RGVMNL2RALA
+  swift8: RGVMNL2R
+  branch_name: 3011 Ag Rotterdam
+  branch_address: Robeco Nv 3011 Ag Rotterdam
+  branch_code: ALA
+  city: Rotterdam
+  country: Netherlands
+- name: Robeco Institutional Asset Management B.V.
+  swift: RGVMNL2RANN
+  swift8: RGVMNL2R
+  branch_name: 3011ag Rotterdam
+  branch_address: Robeco Nv 3011ag Rotterdam
+  branch_code: ANN
+  city: Rotterdam
+  country: Netherlands
+- name: Robeco Institutional Asset Management B.V.
+  swift: RGVMNL2RAVE
+  swift8: RGVMNL2R
+  branch_name: Riam
+  branch_address: Rotterdam
+  branch_code: AVE
+  city: Rotterdam
+  country: Netherlands
+- name: Robeco Institutional Asset Management B.V.
+  swift: RGVMNL2RBBK
+  swift8: RGVMNL2R
+  branch_name: Riam
+  branch_address: Rotterdam
+  branch_code: BBK
+  city: Rotterdam
+  country: Netherlands
+- name: Robeco Institutional Asset Management B.V.
+  swift: RGVMNL2RBLT
+  swift8: RGVMNL2R
+  branch_name: Riam
+  branch_address: Rotterdam
+  branch_code: BLT
+  city: Rotterdam
+  country: Netherlands
+- name: Robeco Institutional Asset Management B.V.
+  swift: RGVMNL2RBOO
+  swift8: RGVMNL2R
+  branch_name: Riam
+  branch_address: Rotterdam
+  branch_code: BOO
+  city: Rotterdam
+  country: Netherlands
+- name: Robeco Institutional Asset Management B.V.
+  swift: RGVMNL2RCAL
+  swift8: RGVMNL2R
+  branch_name: Riam
+  branch_address: Rotterdam
+  branch_code: CAL
+  city: Rotterdam
+  country: Netherlands
+- name: Robeco Institutional Asset Management B.V.
+  swift: RGVMNL2RCAT
+  swift8: RGVMNL2R
+  branch_name: Riam
+  branch_address: Rotterdam
+  branch_code: CAT
+  city: Rotterdam
+  country: Netherlands
+- name: Robeco Institutional Asset Management B.V.
+  swift: RGVMNL2RCLF
+  swift8: RGVMNL2R
+  branch_name: Riam
+  branch_address: Rotterdam
+  branch_code: CLF
+  city: Rotterdam
+  country: Netherlands
+- name: Robeco Institutional Asset Management B.V.
+  swift: RGVMNL2RCON
+  swift8: RGVMNL2R
+  branch_name: Riam
+  branch_address: Rotterdam
+  branch_code: CON
+  city: Rotterdam
+  country: Netherlands
+- name: Robeco Institutional Asset Management B.V.
+  swift: RGVMNL2RCRE
+  swift8: RGVMNL2R
+  branch_name: Riam
+  branch_address: Rotterdam
+  branch_code: CRE
+  city: Rotterdam
+  country: Netherlands
+- name: Robeco Institutional Asset Management B.V.
+  swift: RGVMNL2RCRL
+  swift8: RGVMNL2R
+  branch_name: Riam
+  branch_address: Rotterdam
+  branch_code: CRL
+  city: Rotterdam
+  country: Netherlands
+- name: Robeco Institutional Asset Management B.V.
+  swift: RGVMNL2RCYG
+  swift8: RGVMNL2R
+  branch_name: Riam
+  branch_address: Rotterdam
+  branch_code: CYG
+  city: Rotterdam
+  country: Netherlands
+- name: Robeco Institutional Asset Management B.V.
+  swift: RGVMNL2RDAK
+  swift8: RGVMNL2R
+  branch_name: Riam
+  branch_address: Rotterdam
+  branch_code: DAK
+  city: Rotterdam
+  country: Netherlands
+- name: Robeco Institutional Asset Management B.V.
+  swift: RGVMNL2RDAR
+  swift8: RGVMNL2R
+  branch_name: Riam
+  branch_address: Rotterdam
+  branch_code: DAR
+  city: Rotterdam
+  country: Netherlands
+- name: Robeco Institutional Asset Management B.V.
+  swift: RGVMNL2RDCO
+  swift8: RGVMNL2R
+  branch_name: Riam
+  branch_address: No branch address
+  branch_code: DCO
+  city: Rotterdam
+  country: Netherlands
+- name: Robeco Institutional Asset Management B.V.
+  swift: RGVMNL2RDHO
+  swift8: RGVMNL2R
+  branch_name: No branch name
+  branch_address: No branch address
+  branch_code: DHO
+  city: Rotterdam
+  country: Netherlands
+- name: Robeco Institutional Asset Management B.V.
+  swift: RGVMNL2RDIE
+  swift8: RGVMNL2R
+  branch_name: Riam
+  branch_address: No branch address
+  branch_code: DIE
+  city: Rotterdam
+  country: Netherlands
+- name: Robeco Institutional Asset Management B.V.
+  swift: RGVMNL2RDIN
+  swift8: RGVMNL2R
+  branch_name: No branch name
+  branch_address: No branch address
+  branch_code: DIN
+  city: Rotterdam
+  country: Netherlands
+- name: Roche Pharmholding B.V.
+  swift: ROCHNL22XXX
+  swift8: ROCHNL22
+  branch_name: Head Office
+  branch_address: Beneluxlaan 2a 3446 Gr Woerden
+  branch_code: XXX
+  city: Woerden
+  country: Netherlands
+- name: Sabic Capital Bv
+  swift: SBBVNL2AXXX
+  swift8: SBBVNL2A
+  branch_name: Head Office
+  branch_address: World Trade Center 1077 Xv Amsterdam
+  branch_code: XXX
+  city: Amsterdam
+  country: Netherlands
+- name: Schlumberger Finance Bv
+  swift: SFBVNL2GSHB
+  swift8: SFBVNL2G
+  branch_name: Den Haag
+  branch_address: Den Haag
+  branch_code: SHB
+  city: Den Haag
+  country: Netherlands
+- name: Schlumberger Finance Bv
+  swift: SFBVNL2GXXX
+  swift8: SFBVNL2G
+  branch_name: Head Office
+  branch_address: Parkstraat 83-89 2514 Jg Den Haag
+  branch_code: XXX
+  city: Den Haag
+  country: Netherlands
+- name: Schretlen En Co N.V.
+  swift: SCRTNL2AXXX
+  swift8: SCRTNL2A
+  branch_name: Head Office
+  branch_address: Apollohouse 1077 Ab Amsterdam
+  branch_code: XXX
+  city: Amsterdam
+  country: Netherlands
+- name: Shell Asset Management Company B.V.
+  swift: SHELNL2GXXX
+  swift8: SHELNL2G
+  branch_name: Head Office
+  branch_address: Sir Winston Churchill Tower 2285 Sj Rijswijk
+  branch_code: XXX
+  city: Rijswijk
+  country: Netherlands
+- name: Shell Asset Management Company B.V.
+  swift: SAGMNL21XXX
+  swift8: SAGMNL21
+  branch_name: Head Office
+  branch_address: Sir Winston Churchillln 366h 2285 Sj Rijswijk
+  branch_code: XXX
+  city: Rijswijk
+  country: Netherlands
+- name: Sns Asset Management
+  swift: SNSINL2AXXX
+  swift8: SNSINL2A
+  branch_name: Head Office
+  branch_address: Pettelaarpark 120 5201 Dz S-Hertogenbosch
+  branch_code: XXX
+  city: S-Hertogenbosch
+  country: Netherlands
+- name: Sns Bank N.V.
+  swift: SNSBNL2AXXX
+  swift8: SNSBNL2A
+  branch_name: Head Office
+  branch_address: Utrechtsestraat 46 6800 Hw Arnhem
+  branch_code: XXX
+  city: All Dutch Offices
+  country: Netherlands
+- name: Sns Bank N.V.
+  swift: SNSBNL2ASEC
+  swift8: SNSBNL2A
+  branch_name: Securities
+  branch_address: Nieuwezijdsvoorburgwal 162 1012 Sj Amsterdam
+  branch_code: SEC
+  city: Amsterdam
+  country: Netherlands
+- name: Sns Bank N.V.
+  swift: SNSBNL2ABOS
+  swift8: SNSBNL2A
+  branch_name: Securities
+  branch_address: Pettelaarpark 120 5216 Pt S-Hertogenbosch
+  branch_code: BOS
+  city: S-Hertogenbosch
+  country: Netherlands
+- name: Sns Bank N.V.
+  swift: SNSBNL2ASFM
+  swift8: SNSBNL2A
+  branch_name: Financial Markets
+  branch_address: No branch address
+  branch_code: SFM
+  city: Amsterdam
+  country: Netherlands
+- name: Sociale Verzekeringsbank
+  swift: SOVENL2AXXX
+  swift8: SOVENL2A
+  branch_name: Head Office
+  branch_address: Van Heuven Goedhartlaan 1 1181 Kj Amstelveen
+  branch_code: XXX
+  city: Amstelveen
+  country: Netherlands
+- name: Societe Generale
+  swift: SOGENL2ATRA
+  swift8: SOGENL2A
+  branch_name: Sg Amsterdam Trade Service
+  branch_address: Amsterdam
+  branch_code: TRA
+  city: Amsterdam
+  country: Netherlands
+- name: Societe Generale
+  swift: SOGENL2AXXX
+  swift8: SOGENL2A
+  branch_name: Head Office
+  branch_address: Rembrandt Tower 1096 Ha Amsterdam
+  branch_code: XXX
+  city: Amsterdam
+  country: Netherlands
+- name: Staalbankiers N.V.
+  swift: STALNL2GXXX
+  swift8: STALNL2G
+  branch_name: Head Office
+  branch_address: Lange Houtstraat 8 2511 Cw Den Haag
+  branch_code: XXX
+  city: Den Haag
+  country: Netherlands
+- name: Staalbankiers N.V.
+  swift: STALNL2GNMC
+  swift8: STALNL2G
+  branch_name: No branch name
+  branch_address: No branch address
+  branch_code: NMC
+  city: Den Haag
+  country: Netherlands
+- name: Standard Chartered Latin America B.V.
+  swift: SCBLNL2AXXX
+  swift8: SCBLNL2A
+  branch_name: Head Office
+  branch_address: Naritaweg 165 1043bw Amsterdam
+  branch_code: XXX
+  city: Amsterdam
+  country: Netherlands
+- name: Subway International B.V.
+  swift: SUBTNL21XXX
+  swift8: SUBTNL21
+  branch_name: No branch name
+  branch_address: No branch address
+  branch_code: XXX
+  city: Amsterdam
+  country: Netherlands
+- name: Svenska Handelsbanken (Publ) Ab
+  swift: HANDNL2AXXX
+  swift8: HANDNL2A
+  branch_name: Head Office
+  branch_address: Strawinskylaan 3051 1077 Zx Amsterdam
+  branch_code: XXX
+  city: Amsterdam
+  country: Netherlands
+- name: Swift Customer Service Centre Europe
+  swift: SWHQNLNLSVC
+  swift8: SWHQNLNL
+  branch_name: Ordering and Billing Services
+  branch_address: '0'
+  branch_code: SVC
+  city: Customer Service Centre Europe
+  country: Netherlands
+- name: Swift Customer Service Centre Europe
+  swift: SWHQNLNLXXX
+  swift8: SWHQNLNL
+  branch_name: Head Office
+  branch_address: '0'
+  branch_code: XXX
+  city: Customer Service Centre Europe
+  country: Netherlands
+- name: Syntrus Achmea Asset Management
+  swift: SYAVNL22XXX
+  swift8: SYAVNL22
+  branch_name: Head Office
+  branch_address: Meernzicht 3454 Pv De Meern
+  branch_code: XXX
+  city: De Meern
+  country: Netherlands
+- name: Td Waterhouse Bank Nv
+  swift: TDOMNL2AXXX
+  swift8: TDOMNL2A
+  branch_name: Head Office
+  branch_address: World Trade Center 1077 Xx Amsterdam
+  branch_code: XXX
+  city: Amsterdam
+  country: Netherlands
+- name: The Royal Bank Of Scotland N.V.
+  swift: RBOSNL2AXXX
+  swift8: RBOSNL2A
+  branch_name: Rbs Nl
+  branch_address: Amsterdam
+  branch_code: XXX
+  city: Amsterdam
+  country: Netherlands
+- name: The Royal Bank Of Scotland N.V.
+  swift: RBOSNL2RGLO
+  swift8: RBOSNL2R
+  branch_name: Rbs Nv Gbm Loan Operations
+  branch_address: Amsterdam
+  branch_code: GLO
+  city: Amsterdam
+  country: Netherlands
+- name: The Royal Bank Of Scotland N.V.
+  swift: RBOSNL2RTCM
+  swift8: RBOSNL2R
+  branch_name: Global Banking and Markets Operations
+  branch_address: Amsterdam
+  branch_code: TCM
+  city: Amsterdam
+  country: Netherlands
+- name: The Royal Bank Of Scotland N.V.
+  swift: RBOSNL2RXXX
+  swift8: RBOSNL2R
+  branch_name: Head Office
+  branch_address: Gustav Mahlerlaan 10 1082 Pp Amsterdam
+  branch_code: XXX
+  city: Amsterdam
+  country: Netherlands
+- name: The Royal Bank Of Scotland N.V.
+  swift: RBOSNLNVNMC
+  swift8: RBOSNLNV
+  branch_name: No branch name
+  branch_address: No branch address
+  branch_code: NMC
+  city: Amsterdam
+  country: Netherlands
+- name: The Royal Bank Of Scotland N.V.
+  swift: RBOSNLNVXXX
+  swift8: RBOSNLNV
+  branch_name: Head Office
+  branch_address: Gustav Mahlerlaan 350 1082 Me Amsterdam
+  branch_code: XXX
+  city: Amsterdam
+  country: Netherlands
+- name: Theodoor Gilissen Bankiers N.V.
+  swift: GILLNL2AXXX
+  swift8: GILLNL2A
+  branch_name: Head Office
+  branch_address: Keizersgracht 617 1017 Ds Amsterdam
+  branch_code: XXX
+  city: Amsterdam
+  country: Netherlands
+- name: Tp Vision Holding Bv
+  swift: TPVINL2EXXX
+  swift8: TPVINL2E
+  branch_name: Head Office
+  branch_address: High Tech Campus 5 5656 Ae Eindhoven
+  branch_code: XXX
+  city: Eindhoven
+  country: Netherlands
+- name: Triodos Bank Nv
+  swift: TRIONL2UXXX
+  swift8: TRIONL2U
+  branch_name: Head Office
+  branch_address: Utrechtseweg 60 3704 He Zeist
+  branch_code: XXX
+  city: Zeist
+  country: Netherlands
+- name: Ubs Bank (Netherlands) B.V.
+  swift: UBSWNL2AXXX
+  swift8: UBSWNL2A
+  branch_name: Head Office
+  branch_address: Rembrandt Tower 1096 Ha Amsterdam
+  branch_code: XXX
+  city: Amsterdam
+  country: Netherlands
+- name: Unilever Finance International Bv
+  swift: BFOFNL2RXXX
+  swift8: BFOFNL2R
+  branch_name: Head Office
+  branch_address: Weena 455 3013 Al Rotterdam
+  branch_code: XXX
+  city: Rotterdam
+  country: Netherlands
+- name: Volker Wessels Stevin Financial Services Bv
+  swift: VWFSNL2RXXX
+  swift8: VWFSNL2R
+  branch_name: Head Office
+  branch_address: Adriaan Volkerhuis 3063 an Rotterdam
+  branch_code: XXX
+  city: Rotterdam
+  country: Netherlands
+- name: Yapi Kredi Bank Nederland N.V.
+  swift: KABANL2AXXX
+  swift8: KABANL2A
+  branch_name: Head Office
+  branch_address: Rembrandt Tower 1096 Ha Amsterdam
+  branch_code: XXX
+  city: Amsterdam
+  country: Netherlands
+- name: Zwitserlevenbank
+  swift: ZWLBNL21XXX
+  swift8: ZWLBNL21
+  branch_name: Head Office
+  branch_address: Croeselaan 1 3521 Bj Utrecht
+  branch_code: XXX
+  city: Utrecht
+  country: Netherlands
+- name: Union Bancaire Privee
+  swift: UNBVNL21XXX
+  swift8: UNBVNL21
+  branch_name: Head Office
+  branch_address: De Entree 11-13 1101 Bh Amsterdam
+  branch_code: XXX
+  city: Amsterdam
+  country: Netherlands
+- name: Societe Financiere Et Fonciere
+  swift: SOFFNL21XXX
+  swift8: SOFFNL21
+  branch_name: Head Office
+  branch_address: Amsterdam
+  branch_code: XXX
+  city: Amsterdam
+  country: Netherlands
+- name: Sns Property Finance B.v.
+  swift: SNPFNL21XXX
+  swift8: SNPFNL21
+  branch_name: Head Office
+  branch_address: Westerdorpsstraat 66 3871 Az Hoevelaken
+  branch_code: XXX
+  city: Hoevelaken
+  country: Netherlands
+- name: 2b Trading B.v.
+  swift: TRNINL21XXX
+  swift8: TRNINL21
+  branch_name: Head Office
+  branch_address: Aquamarin 51 1382 Kl Weesp
+  branch_code: XXX
+  city: Weesp
+  country: Netherlands
+- name: 323 Trading B.v.
+  swift: TRNGNL21XXX
+  swift8: TRNGNL21
+  branch_name: Head Office
+  branch_address: Nieuwezijds Voorburgwal 120-4 1012 Sh Amsterdam
+  branch_code: XXX
+  city: Amsterdam
+  country: Netherlands
+- name: Aagus Financial Services Group N.v.
+  swift: AFSRNL21XXX
+  swift8: AFSRNL21
+  branch_name: Head Office
+  branch_address: Plotterweg 33 3821 Bb Amersfoort
+  branch_code: XXX
+  city: Amersfoort
+  country: Netherlands
+- name: Abr Financial B.v.
+  swift: ABRFNL21XXX
+  swift8: ABRFNL21
+  branch_name: Head Office
+  branch_address: Wtc, A-Tower 1077 Xx Amsterdam
+  branch_code: XXX
+  city: Amsterdam
+  country: Netherlands
+- name: Accent Aigu B.v.
+  swift: ACCINL21XXX
+  swift8: ACCINL21
+  branch_name: Head Office
+  branch_address: Nieuwezijds Voorburgwal 4-10 1012 Rz Amsterdam
+  branch_code: XXX
+  city: Amsterdam
+  country: Netherlands
+- name: Accent Grave B.v.
+  swift: AGRVNL21XXX
+  swift8: AGRVNL21
+  branch_name: Head Office
+  branch_address: Nieuwezijds Voorburgwal 4-10 1012 Rz Amsterdam
+  branch_code: XXX
+  city: Amsterdam
+  country: Netherlands
+- name: Achmea Bank Holding N.v.
+  swift: ACHLNL21XXX
+  swift8: ACHLNL21
+  branch_name: Head Office
+  branch_address: Lange Houtstraat 39298 2511 Cw S-Gravenhage
+  branch_code: XXX
+  city: S-Gravenhage
+  country: Netherlands
+- name: Acona Bv
+  swift: ACOANL21XXX
+  swift8: ACOANL21
+  branch_name: Head Office
+  branch_address: Europlaza Amsterdam
+  branch_code: XXX
+  city: Amsterdam
+  country: Netherlands
+- name: Adviesbureau Voor Vermogens-beheer Van Grafhorst B.v.
+  swift: AVBGNL21XXX
+  swift8: AVBGNL21
+  branch_name: Head Office
+  branch_address: De Eschmolen, 318 7491 Hx Delden
+  branch_code: XXX
+  city: Delden
+  country: Netherlands
+- name: Adviesgroep Reyersen Van Buuren B.v
+  swift: ADRBNL21XXX
+  swift8: ADRBNL21
+  branch_name: Head Office
+  branch_address: Handelsweg, 59c 1181 Za Amstelveen
+  branch_code: XXX
+  city: Amstelveen
+  country: Netherlands
+- name: Adyen B.v.
+  swift: ADYENL21XXX
+  swift8: ADYENL21
+  branch_name: Head Office
+  branch_address: Simon Carmiggeltstraat 6-50 1011 Dj Amsterdam
+  branch_code: XXX
+  city: Amsterdam
+  country: Netherlands
+- name: Aegon Financiele Diensten B.v.
+  swift: AEFDNL21XXX
+  swift8: AEFDNL21
+  branch_name: Head Office
+  branch_address: Lange Marktstraat, 11 8911 Ad Leeuwarden
+  branch_code: XXX
+  city: Leeuwarden
+  country: Netherlands
+- name: Aegon Investment Management B.v.
+  swift: AEIMNL21XXX
+  swift8: AEIMNL21
+  branch_name: Head Office
+  branch_address: Aegonplein, 20 2591 Tv S-Gravenhage
+  branch_code: XXX
+  city: S-Gravenhage
+  country: Netherlands
+- name: Aespen Futures Bv
+  swift: AESPNL21XXX
+  swift8: AESPNL21
+  branch_name: Head Office
+  branch_address: Nieuwetijds Voorburgwal 120-7 1012 Sh Amsterdam
+  branch_code: XXX
+  city: Amsterdam
+  country: Netherlands
+- name: Aex-agricultural Futures Exchange
+  swift: XAEXNL21XXX
+  swift8: XAEXNL21
+  branch_name: Head Office
+  branch_address: Beursplein 5 Amsterdam
+  branch_code: XXX
+  city: Amsterdam
+  country: Netherlands
+- name: Afs Brokers B.v.
+  swift: AFBRNL21XXX
+  swift8: AFBRNL21
+  branch_name: Head Office
+  branch_address: Oudezijds Voorburgwal, 282 1012 Gl Amsterdam
+  branch_code: XXX
+  city: Amsterdam
+  country: Netherlands
+- name: Afs Capital Management B.v.
+  swift: ACMNNL21XXX
+  swift8: ACMNNL21
+  branch_name: Head Office
+  branch_address: Oudezijds Voorburgwal, 282 1012 Gl Amsterdam
+  branch_code: XXX
+  city: Amsterdam
+  country: Netherlands
+- name: Afs Capital Markets B.v.
+  swift: AFCRNL21XXX
+  swift8: AFCRNL21
+  branch_name: Head Office
+  branch_address: Oudezijds Voorburgwal, 282 1012 Gl Amsterdam
+  branch_code: XXX
+  city: Amsterdam
+  country: Netherlands
+- name: Afs Moneybrokers B.v.
+  swift: AFMONL21XXX
+  swift8: AFMONL21
+  branch_name: Head Office
+  branch_address: Oudezijds Voorburgwal, 282 1012 Gl Amsterdam
+  branch_code: XXX
+  city: Amsterdam
+  country: Netherlands
+- name: Afs Vermogensbeheer Bv
+  swift: AFSVNL21XXX
+  swift8: AFSVNL21
+  branch_name: Head Office
+  branch_address: Heemsteedseweg 26 3992 Ls Houten
+  branch_code: XXX
+  city: Houten
+  country: Netherlands
+- name: Agrigento Bassa B.v.
+  swift: AGBSNL21XXX
+  swift8: AGBSNL21
+  branch_name: Head Office
+  branch_address: Dorpsstraat 52 1749 Ag Warmenhuizen
+  branch_code: XXX
+  city: Warmenhuizen
+  country: Netherlands
+- name: All Energy Trading Bv
+  swift: AETRNL21XXX
+  swift8: AETRNL21
+  branch_name: Head Office
+  branch_address: Gouden Bocht Complex 1017 Bs Amsterdam
+  branch_code: XXX
+  city: Amsterdam
+  country: Netherlands
+- name: All Options International Bv
+  swift: AOINNL21XXX
+  swift8: AOINNL21
+  branch_name: Head Office
+  branch_address: Gouden Bocht 1017 Bs Amsterdam
+  branch_code: XXX
+  city: Amsterdam
+  country: Netherlands
+- name: Allianz Nederland Asset Management Bv
+  swift: ANAANL21XXX
+  swift8: ANAANL21
+  branch_name: Head Office
+  branch_address: Buizerdlaan 12 3435 Sb Nieuwegein
+  branch_code: XXX
+  city: Nieuwegein
+  country: Netherlands
+- name: Alpinvest Partners N.v.
+  swift: ALPPNL21XXX
+  swift8: ALPPNL21
+  branch_name: Head Office
+  branch_address: Jachthavenweg, 118 1081 Kj Amsterdam
+  branch_code: XXX
+  city: Amsterdam
+  country: Netherlands
+- name: Amoptions Trading Viii B.v.
+  swift: ATRVNL21XXX
+  swift8: ATRVNL21
+  branch_name: Head Office
+  branch_address: Damrak 37/38 1012 Lk Amsterdam
+  branch_code: XXX
+  city: Amsterdam
+  country: Netherlands
+- name: Amro Securities
+  swift: AMRSNL21XXX
+  swift8: AMRSNL21
+  branch_name: Head Office
+  branch_address: Fopingadreef 22 Amsterdam
+  branch_code: XXX
+  city: Amsterdam
+  country: Netherlands
+- name: Amstel Capital Management B.v.
+  swift: ACMGNL21XXX
+  swift8: ACMGNL21
+  branch_name: Head Office
+  branch_address: Zevenend 45 I 1251 Rl Laren
+  branch_code: XXX
+  city: Laren
+  country: Netherlands
+- name: Amstel Funds En Asset Management B.v.
+  swift: AFAMNL21XXX
+  swift8: AFAMNL21
+  branch_name: Head Office
+  branch_address: Museumplaza 1017 Rz Amsterdam
+  branch_code: XXX
+  city: Amsterdam
+  country: Netherlands
+- name: Amstel Securities N.v.
+  swift: AMSSNL21XXX
+  swift8: AMSSNL21
+  branch_name: No branch name
+  branch_address: No branch address
+  branch_code: XXX
+  city: Amsterdam
+  country: Netherlands
+- name: Amsterdam Brokers B.v.
+  swift: AMBRNL21XXX
+  swift8: AMBRNL21
+  branch_name: Head Office
+  branch_address: Herengracht, 491 1017 Bt Amsterdam
+  branch_code: XXX
+  city: Amsterdam
+  country: Netherlands
+- name: Amsterdam Commodity Exchange
+  swift: XACENL21XXX
+  swift8: XACENL21
+  branch_name: Head Office
+  branch_address: Koopmansbeurs Amsterdam
+  branch_code: XXX
+  city: Amsterdam
+  country: Netherlands
+- name: Amsterdam International Bank And Trust Company B.v.
+  swift: AITONL21XXX
+  swift8: AITONL21
+  branch_name: Head Office
+  branch_address: De Entree 11-13 1101 Bh Amsterdam
+  branch_code: XXX
+  city: Amsterdam
+  country: Netherlands
+- name: Amsterdams Effectenkantoor B.v.
+  swift: AMEFNL21XXX
+  swift8: AMEFNL21
+  branch_name: Head Office
+  branch_address: Herengracht, 208-214 1016 Bs Amsterdam
+  branch_code: XXX
+  city: Amsterdam
+  country: Netherlands
+- name: Amsterdamse Effectenbeurs
+  swift: XAMSNL21XXX
+  swift8: XAMSNL21
+  branch_name: Head Office
+  branch_address: Beursplein 5 1012 Jw Amsterdam
+  branch_code: XXX
+  city: Amsterdam
+  country: Netherlands
+- name: Amstgeld Nv
+  swift: AMSGNL21XXX
+  swift8: AMSGNL21
+  branch_name: Head Office
+  branch_address: Paleisstraat 1 1012 Rb Amsterdam
+  branch_code: XXX
+  city: Amsterdam
+  country: Netherlands
+- name: Andropan Asset Management B.v.
+  swift: AAMMNL21XXX
+  swift8: AAMMNL21
+  branch_name: Head Office
+  branch_address: Herengracht, 206-216 1016 Bs Amsterdam
+  branch_code: XXX
+  city: Amsterdam
+  country: Netherlands
+- name: Anthos Asset Management B.v.
+  swift: AAEMNL21XXX
+  swift8: AAEMNL21
+  branch_name: Head Office
+  branch_address: Jachthavenweg 111 1008 Ab Amsterdam
+  branch_code: XXX
+  city: Amsterdam
+  country: Netherlands
+- name: Aot Securities B.v.
+  swift: AOSENL21XXX
+  swift8: AOSENL21
+  branch_name: Head Office
+  branch_address: Vijzelstraat 20 1012 Hk Amsterdam
+  branch_code: XXX
+  city: Amsterdam
+  country: Netherlands
+- name: Aot Stockspecialist B.v.
+  swift: AOTSNL21XXX
+  swift8: AOTSNL21
+  branch_name: Head Office
+  branch_address: Oudezijds Voorburgwal 282 1012gl Amsterdam
+  branch_code: XXX
+  city: Amsterdam
+  country: Netherlands
+- name: Arcos Dorados Bv
+  swift: ADBVNL2AXXX
+  swift8: ADBVNL2A
+  branch_name: No branch name
+  branch_address: No branch address
+  branch_code: XXX
+  city: Hn Amsterdam
+  country: Netherlands
+- name: Argenta Spaarbank-bijkantoor Nederland
+  swift: ARSNNL21XXX
+  swift8: ARSNNL21
+  branch_name: Head Office
+  branch_address: Nieuwe Boschstraat 51 4811 Cv Breda
+  branch_code: XXX
+  city: Breda
+  country: Netherlands
+- name: Asahi Bank (nederland) N.v.
+  swift: ASNENL21XXX
+  swift8: ASNENL21
+  branch_name: Head Office
+  branch_address: Strawinskylaan 3029 1077 Zx Amsterdam
+  branch_code: XXX
+  city: Amsterdam
+  country: Netherlands
+- name: Asset Enhancement Group B.v.
+  swift: ASEGNL21XXX
+  swift8: ASEGNL21
+  branch_name: Head Office
+  branch_address: Kastanjelaan, 4 5283 We Boxtel
+  branch_code: XXX
+  city: Boxtel
+  country: Netherlands
+- name: Aster-x Capital Management B.v
+  swift: ASCENL21XXX
+  swift8: ASCENL21
+  branch_name: Head Office
+  branch_address: Haaksbergweg 75 1101 Br Amsterdam
+  branch_code: XXX
+  city: Amsterdam
+  country: Netherlands
+- name: Asw
+  swift: ASWANL21XXX
+  swift8: ASWANL21
+  branch_name: Head Office
+  branch_address: Huizermaatweg 550 1276 Lm Huizen
+  branch_code: XXX
+  city: Huizen
+  country: Netherlands
+- name: Attica Vermogensbeheer B.v.
+  swift: ATVENL21XXX
+  swift8: ATVENL21
+  branch_name: Head Office
+  branch_address: Emmaplein, 2 1075 Aw Amsterdam
+  branch_code: XXX
+  city: Amsterdam
+  country: Netherlands
+- name: Avero Bancaire Diensten N.v.
+  swift: AVBDNL21XXX
+  swift8: AVBDNL21
+  branch_name: Head Office
+  branch_address: Lange Houtstraat 4-8 2511 Cw S-Gravenhage
+  branch_code: XXX
+  city: S-Gravenhage
+  country: Netherlands
+- name: Azl Vermogensbeheer B.v.
+  swift: AZLVNL21XXX
+  swift8: AZLVNL21
+  branch_name: Head Office
+  branch_address: Akerstraat 92 6411 Hd Heerlen
+  branch_code: XXX
+  city: Heerlen
+  country: Netherlands
+- name: B.a. Van Doorn En Comp B.v.
+  swift: DCOMNL21XXX
+  swift8: DCOMNL21
+  branch_name: Head Office
+  branch_address: Herengracht, 479 1017 Bs Amsterdam
+  branch_code: XXX
+  city: Amsterdam
+  country: Netherlands
+- name: Bakkenist En Emmens N.v.
+  swift: BKEMNL21XXX
+  swift8: BKEMNL21
+  branch_name: Head Office
+  branch_address: Utrechtseweg, 82 3702 Ad Zeist
+  branch_code: XXX
+  city: Zeist
+  country: Netherlands
+- name: Banco Do Estado De Sao Paolo S.a.
+  swift: ESAONL21XXX
+  swift8: ESAONL21
+  branch_name: Head Office
+  branch_address: Strawinskylaan 1131 1077 Xx Amsterdam
+  branch_code: XXX
+  city: Amsterdam
+  country: Netherlands
+- name: Banco Exterior De Espana Sa
+  swift: EXESNL21XXX
+  swift8: EXESNL21
+  branch_name: Head Office
+  branch_address: Westblaak 109 3012 Kh Rotterdam
+  branch_code: XXX
+  city: Rotterdam
+  country: Netherlands
+- name: Bank Bercoop N.v.
+  swift: BEOONL21XXX
+  swift8: BEOONL21
+  branch_name: Head Office
+  branch_address: Willinge Prinsstraat 20 8421 Pe Oldeberkoop
+  branch_code: XXX
+  city: Oldeberkoop
+  country: Netherlands
+- name: Bank Labouchere N.v.
+  swift: LABCNL21XXX
+  swift8: LABCNL21
+  branch_name: Head Office
+  branch_address: Keizersgracht 617 1017 Ds Amsterdam
+  branch_code: XXX
+  city: Amsterdam
+  country: Netherlands
+- name: Bank Of New York Mellon Sa/nv, Amsterdam Branch
+  swift: BNYMNL22DNB
+  swift8: BNYMNL22
+  branch_name: Lab
+  branch_address: No branch address
+  branch_code: DNB
+  city: Amsterdam
+  country: Netherlands
+- name: Bank Of New York Mellon Sa/nv, Amsterdam Branch
+  swift: BNYMNL22XXX
+  swift8: BNYMNL22
+  branch_name: Head Office
+  branch_address: Wtc Building, Podium Office, B Tower 1077 Xx Amsterdam
+  branch_code: XXX
+  city: Amsterdam
+  country: Netherlands
+- name: Bank Of Taiwan (europe) N.v.
+  swift: TAIPNL21XXX
+  swift8: TAIPNL21
+  branch_name: Head Office
+  branch_address: Strawinskylaan 1105 1077 Xx Amsterdam
+  branch_code: XXX
+  city: Amsterdam
+  country: Netherlands
+- name: Bank Oyens En Van Eeghen Nv
+  swift: OYENNL21XXX
+  swift8: OYENNL21
+  branch_name: Head Office
+  branch_address: Singel 134 1015 Ag Amsterdam
+  branch_code: XXX
+  city: Amsterdam
+  country: Netherlands
+- name: Bank Ten Cate And Cie Nv
+  swift: TECTNL21XXX
+  swift8: TECTNL21
+  branch_name: Head Office
+  branch_address: Herengracht 130 1015 Bv Amsterdam
+  branch_code: XXX
+  city: Amsterdam
+  country: Netherlands
+- name: Bank Voor Zeeland N.v.
+  swift: ZEELNL21XXX
+  swift8: ZEELNL21
+  branch_name: Head Office
+  branch_address: Grote Markt 21 4461 Ah Goes
+  branch_code: XXX
+  city: Goes
+  country: Netherlands
+- name: Barclays Bank Plc Amsterdam Branch
+  swift: BARCNL21XXX
+  swift8: BARCNL21
+  branch_name: Head Office
+  branch_address: Strawinskylaan 1453 1077 Xx Amsterdam
+  branch_code: XXX
+  city: Amsterdam
+  country: Netherlands
+- name: Bary Securities N.v., De
+  swift: BAYRNL21XXX
+  swift8: BAYRNL21
+  branch_name: Head Office
+  branch_address: Herengracht 450 1017 Ca Amsterdam
+  branch_code: XXX
+  city: Amsterdam
+  country: Netherlands
+- name: Beer En Van Stapele B.v.
+  swift: BETPNL21XXX
+  swift8: BETPNL21
+  branch_name: Head Office
+  branch_address: Herengracht 466 1017 Ca Amsterdam
+  branch_code: XXX
+  city: Amsterdam
+  country: Netherlands
+- name: Belastingdienst/centrale Douane-administratie
+  swift: BEDONL21XXX
+  swift8: BEDONL21
+  branch_name: Head Office
+  branch_address: Apeldoorn
+  branch_code: XXX
+  city: Apeldoorn
+  country: Netherlands
+- name: Belastingdienst/particulieren/ondernemingen Buitenland/wir
+  swift: BEOUNL21XXX
+  swift8: BEOUNL21
+  branch_name: Head Office
+  branch_address: Heerlen
+  branch_code: XXX
+  city: Heerlen
+  country: Netherlands
+- name: Bene Trading Bv
+  swift: BTRDNL21XXX
+  swift8: BTRDNL21
+  branch_name: Head Office
+  branch_address: Bonte Kraailaan 9 1343 Aj Almere
+  branch_code: XXX
+  city: Almere
+  country: Netherlands
+- name: Bens International Trading B.v.
+  swift: BITDNL21XXX
+  swift8: BITDNL21
+  branch_name: Head Office
+  branch_address: Ramen, 11 1621 Ek Hoorn
+  branch_code: XXX
+  city: Hoorn
+  country: Netherlands
+- name: Berben's Effectenkantoor B.v.
+  swift: BEFENL21XXX
+  swift8: BEFENL21
+  branch_name: Head Office
+  branch_address: Schatbeurderlaan 10 6002 Ed Weert
+  branch_code: XXX
+  city: Weert
+  country: Netherlands
+- name: Bergshoeff Options B.v.
+  swift: BEOPNL21XXX
+  swift8: BEOPNL21
+  branch_name: Head Office
+  branch_address: Parnassialaan 11 2116 Tn Bentveld
+  branch_code: XXX
+  city: Bentveld
+  country: Netherlands
+- name: Better Options Llp
+  swift: BOLPNL21XXX
+  swift8: BOLPNL21
+  branch_name: Head Office
+  branch_address: Nieuwezijds Voorburgwal 120-1 1012 Sh Amsterdam
+  branch_code: XXX
+  city: Amsterdam
+  country: Netherlands
+- name: Beusmans Capital Management B.v.
+  swift: BCMNNL21XXX
+  swift8: BCMNNL21
+  branch_name: Head Office
+  branch_address: Spoorweglaan, 10 6221 Bs Maastricht
+  branch_code: XXX
+  city: Maastricht
+  country: Netherlands
+- name: Bezemer Clements Schipper Vermogensbeheer B.v.
+  swift: BCSVNL21XXX
+  swift8: BCSVNL21
+  branch_name: Head Office
+  branch_address: Steupelstraat, 20 3065 Je Rotterdam
+  branch_code: XXX
+  city: Rotterdam
+  country: Netherlands
+- name: Blackrock (netherlands) B.v.
+  swift: BLNENL21XXX
+  swift8: BLNENL21
+  branch_name: Head Office
+  branch_address: Bus. Center 5611 Zt Eindhoven
+  branch_code: XXX
+  city: Eindhoven
+  country: Netherlands
+- name: Blg Wonen
+  swift: BLGWNL21XXX
+  swift8: BLGWNL21
+  branch_name: Head Office
+  branch_address: Jos Klijnenlaan 288 6164 Az Geleen
+  branch_code: XXX
+  city: Geleen
+  country: Netherlands
+- name: Blue Sky Group B.v.
+  swift: BLSGNL21XXX
+  swift8: BLSGNL21
+  branch_name: Head Office
+  branch_address: Professor E M Meijersln 1 1183 Av Amstelveen
+  branch_code: XXX
+  city: Amstelveen
+  country: Netherlands
+- name: Bng Capital Management B.v.
+  swift: BCMTNL21XXX
+  swift8: BCMTNL21
+  branch_name: Head Office
+  branch_address: Koninginnegracht 2 2514 Aa S-Gravenhage
+  branch_code: XXX
+  city: S-Gravenhage
+  country: Netherlands
+- name: Bnp Paribas Bank Nv
+  swift: BNPANL22XXX
+  swift8: BNPANL22
+  branch_name: Head Office
+  branch_address: 595 Herengracht 1017 Ce Amsterdam
+  branch_code: XXX
+  city: Amsterdam
+  country: Netherlands
+- name: Bnp Paribas Investment Partners Netherlands Nv
+  swift: FIAHNL21XXX
+  swift8: FIAHNL21
+  branch_name: Head Office
+  branch_address: Burgerweeshuispad 201 1076 Gr Amsterdam
+  branch_code: XXX
+  city: Amsterdam
+  country: Netherlands
+- name: Bnp Paribas Obam N.v
+  swift: BNAONL21XXX
+  swift8: BNAONL21
+  branch_name: Head Office
+  branch_address: Burgerweeshuispad 201 1076 Gr Amsterdam
+  branch_code: XXX
+  city: Amsterdam
+  country: Netherlands
+- name: Bnp Paribas S.a.-the Netherlands Branch
+  swift: BNPANL2HNMC
+  swift8: BNPANL2H
+  branch_name: No branch name
+  branch_address: No branch address
+  branch_code: NMC
+  city: Amsterdam
+  country: Netherlands
+- name: Boer En Olij Effectenhuis
+  swift: BOOENL21XXX
+  swift8: BOOENL21
+  branch_name: Head Office
+  branch_address: Veemkade 240-242 1019 Hd Amsterdam
+  branch_code: XXX
+  city: Amsterdam
+  country: Netherlands
+- name: Bondsspaarbank Voor De Eemsmond N.v.
+  swift: BOEMNL21XXX
+  swift8: BOEMNL21
+  branch_name: Head Office
+  branch_address: Wijkstraat 17 9901 Ae Appingedam
+  branch_code: XXX
+  city: Appingedam
+  country: Netherlands
+- name: Booking.com
+  swift: BOOKNL2AXXX
+  swift8: BOOKNL2A
+  branch_name: Head Office
+  branch_address: The Bank 1017 Ce Amsterdam
+  branch_code: XXX
+  city: Amsterdam
+  country: Netherlands
+- name: Borghols B.v.
+  swift: BORHNL21XXX
+  swift8: BORHNL21
+  branch_name: Head Office
+  branch_address: Herengracht 199-201 1016 Be Amsterdam
+  branch_code: XXX
+  city: Amsterdam
+  country: Netherlands
+- name: Boris Trading B.v.
+  swift: BOTRNL21XXX
+  swift8: BOTRNL21
+  branch_name: Head Office
+  branch_address: Louisahoeve 23 2131 Mp Hoofddorp
+  branch_code: XXX
+  city: Hoofddorp
+  country: Netherlands
+- name: Bouwfonds Asset Management B.v.
+  swift: BOSMNL21XXX
+  swift8: BOSMNL21
+  branch_name: Head Office
+  branch_address: Ruimtevaart 28 3824 Mx Amersfoort
+  branch_code: XXX
+  city: Amersfoort
+  country: Netherlands
+- name: Bouwfonds Reim B.v.
+  swift: BOWRNL21XXX
+  swift8: BOWRNL21
+  branch_name: Head Office
+  branch_address: De Beek, 18 3871 Ms Hoevelaken
+  branch_code: XXX
+  city: Hoevelaken
+  country: Netherlands
+- name: Box Consultants B.v.
+  swift: BOXCNL21XXX
+  swift8: BOXCNL21
+  branch_name: Head Office
+  branch_address: Parklaan 81 a 5613 Bb Eindhoven
+  branch_code: XXX
+  city: Eindhoven
+  country: Netherlands
+- name: Bustelberg Effectenkantoor B.v.
+  swift: BEFTNL21XXX
+  swift8: BEFTNL21
+  branch_name: Head Office
+  branch_address: Ulvenhoutselaan 4835 Mc Breda
+  branch_code: XXX
+  city: Breda
+  country: Netherlands
+- name: Bzw Nederland Nv
+  swift: BZWNNL21XXX
+  swift8: BZWNNL21
+  branch_name: Head Office
+  branch_address: Atrium Strawinskylaan 3053 1077 Zx Amsterdam
+  branch_code: XXX
+  city: Amsterdam
+  country: Netherlands
+- name: C.e. De Bruin Vermogensbeheer B.v.
+  swift: BRVENL21XXX
+  swift8: BRVENL21
+  branch_name: Head Office
+  branch_address: Hertogstraat, 1g 5611 Pa Eindhoven
+  branch_code: XXX
+  city: Eindhoven
+  country: Netherlands
+- name: Caceis Netherlands
+  swift: FNETNL21XXX
+  swift8: FNETNL21
+  branch_name: Head Office
+  branch_address: De Ruyterkade 6-I 1013 Aa Amsterdam
+  branch_code: XXX
+  city: Amsterdam
+  country: Netherlands
+- name: Caerus Ii B.v.
+  swift: CEERNL21XXX
+  swift8: CEERNL21
+  branch_name: Head Office
+  branch_address: Beursplein 5 (Box 16) 1012jw Amsterdam
+  branch_code: XXX
+  city: Amsterdam
+  country: Netherlands
+- name: Caerus Iii B.v.
+  swift: CAERNL21XXX
+  swift8: CAERNL21
+  branch_name: Head Office
+  branch_address: Beursplein 5 (Box 16) 1012 Jw Amsterdam
+  branch_code: XXX
+  city: Amsterdam
+  country: Netherlands
+- name: Calimero Trading B.v.
+  swift: CTRDNL21XXX
+  swift8: CTRDNL21
+  branch_name: Head Office
+  branch_address: Pa Verkuyllaan 50 1171 Eg Badhoevedorp
+  branch_code: XXX
+  city: Badhoevedorp
+  country: Netherlands
+- name: Cardano Risk Management B.v.
+  swift: CRKMNL21XXX
+  swift8: CRKMNL21
+  branch_name: Head Office
+  branch_address: World Trade Center 3011 Aa Rotterdam
+  branch_code: XXX
+  city: Rotterdam
+  country: Netherlands
+- name: Cardano Structuring B.v.
+  swift: CADUNL21XXX
+  swift8: CADUNL21
+  branch_name: Head Office
+  branch_address: Beursplein, 37 3011 Aa Rotterdam
+  branch_code: XXX
+  city: Rotterdam
+  country: Netherlands
+- name: Cardif Levensverzekeringen Nv
+  swift: CARZNL21XXX
+  swift8: CARZNL21
+  branch_name: Head Office
+  branch_address: Hoevestein 28 4903 Sc Oosterhout
+  branch_code: XXX
+  city: Oosterhout
+  country: Netherlands
+- name: Cardif Schadeverzekeringen Nv
+  swift: CACZNL21XXX
+  swift8: CACZNL21
+  branch_name: Head Office
+  branch_address: Hoevestein 28 Oosterhout
+  branch_code: XXX
+  city: Oosterhout
+  country: Netherlands
+- name: Cargill Bv
+  swift: CRGINL21XXX
+  swift8: CRGINL21
+  branch_name: Head Office
+  branch_address: Coenhavenweg 2 1013 Bl Amsterdam
+  branch_code: XXX
+  city: Bl Amsterdam
+  country: Netherlands
+- name: Cdk Bank N.v.
+  swift: CDKBNL21XXX
+  swift8: CDKBNL21
+  branch_name: Head Office
+  branch_address: Koningin Wilhelminalaan 7-9 3527 La Utrecht
+  branch_code: XXX
+  city: Utrecht
+  country: Netherlands
+- name: Cebulon Options B.v.
+  swift: CEOPNL21XXX
+  swift8: CEOPNL21
+  branch_name: Head Office
+  branch_address: Binnenkant 29 1011 Bj Amsterdam
+  branch_code: XXX
+  city: Amsterdam
+  country: Netherlands
+- name: Cebulon Vof
+  swift: CEVONL21XXX
+  swift8: CEVONL21
+  branch_name: Head Office
+  branch_address: Binnenkant 29 1011 Bj Amsterdam
+  branch_code: XXX
+  city: Amsterdam
+  country: Netherlands
+- name: Centercross B.v.
+  swift: CENCNL21XXX
+  swift8: CENCNL21
+  branch_name: Head Office
+  branch_address: Papenbroekssteeg 2 1012 Nw Amsterdam
+  branch_code: XXX
+  city: Amsterdam
+  country: Netherlands
+- name: Charterhouse Vermogensbeheer B.v.
+  swift: CHVENL21XXX
+  swift8: CHVENL21
+  branch_name: Head Office
+  branch_address: Sluispolderweg, 11 1505 Hj Zaandam
+  branch_code: XXX
+  city: Zaandam
+  country: Netherlands
+- name: Chiao Tung Bank Europe N.v.
+  swift: CHTUNL21XXX
+  swift8: CHTUNL21
+  branch_name: Head Office
+  branch_address: Atrium 1077 Zx Amsterdam
+  branch_code: XXX
+  city: Amsterdam
+  country: Netherlands
+- name: Cho Option Traders B.v.
+  swift: CHOTNL21XXX
+  swift8: CHOTNL21
+  branch_name: Head Office
+  branch_address: Rijswijkseweg 341 2516 Hh S-Gravenhage
+  branch_code: XXX
+  city: S-Gravenhage
+  country: Netherlands
+- name: Ciba Specialty Chemicals Treasury Service Bv
+  swift: CIBNNL21XXX
+  swift8: CIBNNL21
+  branch_name: Head Office
+  branch_address: Sortieweg 39 6219 Nt Maastricht
+  branch_code: XXX
+  city: Maastricht
+  country: Netherlands
+- name: Clearnet Amsterdam
+  swift: CLIQNL21XXX
+  swift8: CLIQNL21
+  branch_name: Head Office
+  branch_address: Damrak 1000 Gd Amsterdam
+  branch_code: XXX
+  city: Amsterdam
+  country: Netherlands
+- name: Cmv Bank B.v.
+  swift: CMVCNL21XXX
+  swift8: CMVCNL21
+  branch_name: Head Office
+  branch_address: Plotterweg 33 3821 Bb Amersfoort
+  branch_code: XXX
+  city: Amersfoort
+  country: Netherlands
+- name: Columbus Group B.v.
+  swift: COLGNL21XXX
+  swift8: COLGNL21
+  branch_name: Head Office
+  branch_address: Industrieweg 10 3606 as Maarssen
+  branch_code: XXX
+  city: Maarssen
+  country: Netherlands
+- name: Consortium Helveticum B.v.
+  swift: COHENL21XXX
+  swift8: COHENL21
+  branch_name: Head Office
+  branch_address: Coolsingel 120 3011 Ag Rotterdam
+  branch_code: XXX
+  city: Rotterdam
+  country: Netherlands
+- name: Converse Netherlands B.v.
+  swift: COVHNL21XXX
+  swift8: COVHNL21
+  branch_name: Head Office
+  branch_address: Colosseum 1 1213nl Hilversum
+  branch_code: XXX
+  city: Hilversum
+  country: Netherlands
+- name: Converse Netherlands B.v. Finance Division
+  swift: CNFDNL21XXX
+  swift8: CNFDNL21
+  branch_name: Head Office
+  branch_address: Colosseum 1 1213 Nl Hilversum
+  branch_code: XXX
+  city: Hilversum
+  country: Netherlands
+- name: Cordares Vermogensbeheer B.v.
+  swift: CORHNL21XXX
+  swift8: CORHNL21
+  branch_name: Head Office
+  branch_address: Basisweg 10 1043 Ap Amsterdam
+  branch_code: XXX
+  city: Amsterdam
+  country: Netherlands
+- name: Credit Agricole Cheuvreux Netherlands N, Amsterdam
+  swift: CACHNL21XXX
+  swift8: CACHNL21
+  branch_name: Head Office
+  branch_address: Honthorststraat 9 1071 Dc Amsterdam
+  branch_code: XXX
+  city: Amsterdam
+  country: Netherlands
+- name: Criterion Arbitrage And Trading B.v
+  swift: CRBDNL21XXX
+  swift8: CRBDNL21
+  branch_name: Head Office
+  branch_address: Beursplein 5 1012 Jw Amsterdam
+  branch_code: XXX
+  city: Amsterdam
+  country: Netherlands
+- name: Cross Options Int. Xi B.v.
+  swift: CRNINL21XXX
+  swift8: CRNINL21
+  branch_name: Head Office
+  branch_address: Papanbroeksstreeg 2 1012 Nw Amsterdam
+  branch_code: XXX
+  city: Amsterdam
+  country: Netherlands
+- name: Curvalue Ii B.v.
+  swift: CUVVNL21XXX
+  swift8: CUVVNL21
+  branch_name: Head Office
+  branch_address: Nieuwezijds Voorburgwal 120-7 1012 Sh Amsterdam
+  branch_code: XXX
+  city: Amsterdam
+  country: Netherlands
+- name: Curvalue Iii B.v.
+  swift: CUIINL21XXX
+  swift8: CUIINL21
+  branch_name: Head Office
+  branch_address: Nieuwezijds Voorburgwal 120-7 1012 Sh Amsterdam
+  branch_code: XXX
+  city: Amsterdam
+  country: Netherlands
+- name: Dcm Brokers B.v.
+  swift: DCMBNL21XXX
+  swift8: DCMBNL21
+  branch_name: Head Office
+  branch_address: Struisgras 13a 1441 Wc Purmerend
+  branch_code: XXX
+  city: Purmerend
+  country: Netherlands
+- name: De Lage Landen International B.v
+  swift: DLLINL2EXXX
+  swift8: DLLINL2E
+  branch_name: Head Office
+  branch_address: Vestdijk 51 5611 Ca Eindhoven
+  branch_code: XXX
+  city: Ca Eindhoven
+  country: Netherlands
+- name: De Vermogensspecialist B.v.
+  swift: VERMNL21XXX
+  swift8: VERMNL21
+  branch_name: Head Office
+  branch_address: Vredehofstraat, 13 3761 Ha Soest
+  branch_code: XXX
+  city: Soest
+  country: Netherlands
+- name: De Veste Vermogensbeheer B.v.
+  swift: VESVNL21XXX
+  swift8: VESVNL21
+  branch_name: Head Office
+  branch_address: Nobellaan 1 4622 Ah Bergen Op Zoom
+  branch_code: XXX
+  city: Bergen Op Zoom
+  country: Netherlands
+- name: De Vries En Co B.v.
+  swift: VRIENL21XXX
+  swift8: VRIENL21
+  branch_name: Head Office
+  branch_address: Tolweg, 5 3741 Lm Baarn
+  branch_code: XXX
+  city: Baarn
+  country: Netherlands
+- name: De Vries En Westermann B.v.
+  swift: VRWENL21XXX
+  swift8: VRWENL21
+  branch_name: Head Office
+  branch_address: Rijnlanderweg, 767 2132 Nk Hoofddorp
+  branch_code: XXX
+  city: Hoofddorp
+  country: Netherlands
+- name: De Waerdt Vermogensbeheer B.v.
+  swift: WAVENL21XXX
+  swift8: WAVENL21
+  branch_name: Head Office
+  branch_address: Bingerweg, 18-P 2031 Az Haarlem
+  branch_code: XXX
+  city: Haarlem
+  country: Netherlands
+- name: Deep Blue Capital B.v.
+  swift: DEBCNL21XXX
+  swift8: DEBCNL21
+  branch_name: Head Office
+  branch_address: Init Gebouw 1018 Ll Amsterdam
+  branch_code: XXX
+  city: Amsterdam
+  country: Netherlands
+- name: Degiro B.v.
+  swift: HIQANL21XXX
+  swift8: HIQANL21
+  branch_name: Head Office
+  branch_address: Herengracht 442 1017 Bz Amsterdam
+  branch_code: XXX
+  city: Amsterdam
+  country: Netherlands
+- name: Degroof Vermogensbeheer N.v.
+  swift: DVERNL21XXX
+  swift8: DVERNL21
+  branch_name: Head Office
+  branch_address: Nesland 1-V 1382 Mz Weesp
+  branch_code: XXX
+  city: Weesp
+  country: Netherlands
+- name: Delta Lloyd Asset Management N.v.
+  swift: DLANNL21XXX
+  swift8: DLANNL21
+  branch_name: Head Office
+  branch_address: Amstelplein 6 1096 Bc Amsterdam
+  branch_code: XXX
+  city: Amsterdam
+  country: Netherlands
+- name: Delta Lloyd Rentefonds
+  swift: DLRTNL21XXX
+  swift8: DLRTNL21
+  branch_name: Head Office
+  branch_address: Amsterdam
+  branch_code: XXX
+  city: Amsterdam
+  country: Netherlands
+- name: Deno Vermogensbeheer B.v.
+  swift: DEVRNL21XXX
+  swift8: DEVRNL21
+  branch_name: Head Office
+  branch_address: Geusseltweg, 5c 6225 Xs Maastricht
+  branch_code: XXX
+  city: Maastricht
+  country: Netherlands
+- name: Dexia Bank Nederland Nv
+  swift: DEXNNL21XXX
+  swift8: DEXNNL21
+  branch_name: Head Office
+  branch_address: Piet Heinkade 55 Amsterdam
+  branch_code: XXX
+  city: Amsterdam
+  country: Netherlands
+- name: Dijkstra Beaumont Wealth Management B.v.
+  swift: DBWMNL21XXX
+  swift8: DBWMNL21
+  branch_name: Head Office
+  branch_address: Newtonlaan, 115 3584 Bh Utrecht
+  branch_code: XXX
+  city: Utrecht
+  country: Netherlands
+- name: Dima Vermogensbeheer B.v.
+  swift: DIMVNL21XXX
+  swift8: DIMVNL21
+  branch_name: Head Office
+  branch_address: Huize De Lange Akker 5056 Ka Berkel-Enschot
+  branch_code: XXX
+  city: Berkel-Enschot
+  country: Netherlands
+- name: Direktbank N.v.
+  swift: DIRKNL21XXX
+  swift8: DIRKNL21
+  branch_name: Head Office
+  branch_address: Professor J H Bavinckln 3 1183 at Amstelveen
+  branch_code: XXX
+  city: Amstelveen
+  country: Netherlands
+- name: Domix Opties B.v.
+  swift: DOMENL21XXX
+  swift8: DOMENL21
+  branch_name: Head Office
+  branch_address: Rotstergaastweg 40 8452 Lb Nieuweschoot
+  branch_code: XXX
+  city: Nieuweschoot
+  country: Netherlands
+- name: Douchka B.v.
+  swift: DOUKNL21XXX
+  swift8: DOUKNL21
+  branch_name: Head Office
+  branch_address: Vergulde Draakstraat 15 1335 Wl Almere
+  branch_code: XXX
+  city: Almere
+  country: Netherlands
+- name: Dsb Bank (zaandam) Nv
+  swift: SBHONL21XXX
+  swift8: SBHONL21
+  branch_name: Head Office
+  branch_address: Ebbehout 1 1507 Ea Zaandam
+  branch_code: XXX
+  city: Zaandam
+  country: Netherlands
+- name: Dsm Pensions Services
+  swift: DSMHNL21XXX
+  swift8: DSMHNL21
+  branch_name: Head Office
+  branch_address: Het Overloon 1 6411 Te Heerlen
+  branch_code: XXX
+  city: Heerlen
+  country: Netherlands
+- name: Dutch Emissions Authority
+  swift: DUEANL21XXX
+  swift8: DUEANL21
+  branch_name: Head Office
+  branch_address: Nederlandse Emissieautoriteit, 2595 Al Den Haag
+  branch_code: XXX
+  city: Al Den Haag
+  country: Netherlands
+- name: Dvb Bank Nv
+  swift: DVBVNL21XXX
+  swift8: DVBVNL21
+  branch_name: Head Office
+  branch_address: Parklaan 2 3016 Bb Rotterdam
+  branch_code: XXX
+  city: Rotterdam
+  country: Netherlands
+- name: E.d.i. Equity Derivatives Investments B.v.
+  swift: EEDINL21XXX
+  swift8: EEDINL21
+  branch_name: Head Office
+  branch_address: Herengracht 199-121 1016 Be Amsterdam
+  branch_code: XXX
+  city: Amsterdam
+  country: Netherlands
+- name: Eclipse Options (nl) B.v.
+  swift: ECOTNL21XXX
+  swift8: ECOTNL21
+  branch_name: Head Office
+  branch_address: Beechavenue 54-80 1119 Pw Schiphol
+  branch_code: XXX
+  city: Schiphol
+  country: Netherlands
+- name: Edutraders Iii B.v.
+  swift: EDUINL21XXX
+  swift8: EDUINL21
+  branch_name: Head Office
+  branch_address: De Kweek 18 6741 Et Lunteren
+  branch_code: XXX
+  city: Lunteren
+  country: Netherlands
+- name: Effectenkantoor Nieuwe Uitleg B.v.
+  swift: EFNUNL21XXX
+  swift8: EFNUNL21
+  branch_name: Head Office
+  branch_address: Nieuwe Uitleg, 10 2514 Bp S-Gravenhage
+  branch_code: XXX
+  city: S-Gravenhage
+  country: Netherlands
+- name: Effective Traders Amsterdam B.v.
+  swift: EFTANL21XXX
+  swift8: EFTANL21
+  branch_name: Head Office
+  branch_address: Nieuwezijds Voorburgwal 39193 1012 Rc Amsterdam
+  branch_code: XXX
+  city: Amsterdam
+  country: Netherlands
+- name: Endex European Energy Derivatives Exchange N.v.
+  swift: EEEDNL21XXX
+  swift8: EEEDNL21
+  branch_name: Head Office
+  branch_address: World Trade Center 1077 Wz Amsterdam
+  branch_code: XXX
+  city: Amsterdam
+  country: Netherlands
+- name: Eneco Energy Trade B.v.
+  swift: ENECNL21XXX
+  swift8: ENECNL21
+  branch_name: Head Office
+  branch_address: Rivium Quadrant 75 2909 Lc Capelle Aan Den Ijssel
+  branch_code: XXX
+  city: Den Ijssel
+  country: Netherlands
+- name: Eureffect Asset Management B.v.
+  swift: EAMNNL21XXX
+  swift8: EAMNNL21
+  branch_name: Head Office
+  branch_address: Herengracht 208 1016 Bs Amsterdam
+  branch_code: XXX
+  city: Amsterdam
+  country: Netherlands
+- name: Euro American Participations B.v.
+  swift: EUAPNL21XXX
+  swift8: EUAPNL21
+  branch_name: Head Office
+  branch_address: Koninginnegracht 7 2514 Aa S-Gravenhage
+  branch_code: XXX
+  city: S-Gravenhage
+  country: Netherlands
+- name: Euronext Com, Commodities Futures And Options
+  swift: XEUCNL21XXX
+  swift8: XEUCNL21
+  branch_name: Head Office
+  branch_address: Amsterdam
+  branch_code: XXX
+  city: Amsterdam
+  country: Netherlands
+- name: Euronext Eqf, Equities And Indices Derivatives
+  swift: XEUENL21XXX
+  swift8: XEUENL21
+  branch_name: Head Office
+  branch_address: Amsterdam
+  branch_code: XXX
+  city: Amsterdam
+  country: Netherlands
+- name: Euronext Irf, Interest Rate Future And Options
+  swift: XEUINL21XXX
+  swift8: XEUINL21
+  branch_name: Head Office
+  branch_address: Amsterdam
+  branch_code: XXX
+  city: Amsterdam
+  country: Netherlands
+- name: Ext B.v.
+  swift: EXTXNL21XXX
+  swift8: EXTXNL21
+  branch_name: Head Office
+  branch_address: Waldorpstraat 17a 2501 Ca Den Haag
+  branch_code: XXX
+  city: Den Haag
+  country: Netherlands
+- name: Exxonmobil Capital Netherlands Bv
+  swift: EXXONL21XXX
+  swift8: EXXONL21
+  branch_name: Head Office
+  branch_address: Graaf Engelbertlaan 75 4837 Ds Breda
+  branch_code: XXX
+  city: Breda
+  country: Netherlands
+- name: F.i.n.t.
+  swift: FININL21XXX
+  swift8: FININL21
+  branch_name: Head Office
+  branch_address: Herengracht 619 1017 Ce Amsterdam
+  branch_code: XXX
+  city: Amsterdam
+  country: Netherlands
+- name: Falcinvest Asset Management B.v.
+  swift: FAMNNL21XXX
+  swift8: FAMNNL21
+  branch_name: Head Office
+  branch_address: Plesmanstraat 62 3905 Kz Veenendaal
+  branch_code: XXX
+  city: Veenendaal
+  country: Netherlands
+- name: Faxtor Securities B.v.
+  swift: FAXSNL21XXX
+  swift8: FAXSNL21
+  branch_name: Head Office
+  branch_address: World Trade Center 1077 Xx Amsterdam
+  branch_code: XXX
+  city: Amsterdam
+  country: Netherlands
+- name: Fenc Netherlands B.v.
+  swift: FENTNL21XXX
+  swift8: FENTNL21
+  branch_name: Head Office
+  branch_address: Jachthavenweg 109 K 1012 Sh Amsterdam
+  branch_code: XXX
+  city: Amsterdam
+  country: Netherlands
+- name: Fieret En Van Lynden B.v.
+  swift: FLYNNL21XXX
+  swift8: FLYNNL21
+  branch_name: Head Office
+  branch_address: Langbroekerdijk A, 24 3947 Bh Langbroek
+  branch_code: XXX
+  city: Langbroek
+  country: Netherlands
+- name: Fimagro B.v.
+  swift: FMMANL21XXX
+  swift8: FMMANL21
+  branch_name: Head Office
+  branch_address: Rondweg, 1 4524 Jl Sluis
+  branch_code: XXX
+  city: Sluis
+  country: Netherlands
+- name: Finaltrust Vermogensbeheer B.v.
+  swift: FVERNL21XXX
+  swift8: FVERNL21
+  branch_name: Head Office
+  branch_address: Luchthavenweg 59x 5657 Ea Eindhoven
+  branch_code: XXX
+  city: Eindhoven
+  country: Netherlands
+- name: Financiele Onderneming Smidswater B.v.
+  swift: FOSMNL21XXX
+  swift8: FOSMNL21
+  branch_name: Head Office
+  branch_address: Smidswater, 27 2514 Bw S-Gravenhage
+  branch_code: XXX
+  city: S-Gravenhage
+  country: Netherlands
+- name: Financiele Termijnmarket Amsterdam
+  swift: XFTANL21XXX
+  swift8: XFTANL21
+  branch_name: Head Office
+  branch_address: Amsterdam
+  branch_code: XXX
+  city: Amsterdam
+  country: Netherlands
+- name: Finles Vermogensbeheer B.v.
+  swift: FIVMNL21XXX
+  swift8: FIVMNL21
+  branch_name: Head Office
+  branch_address: Van Sijpesteijnkade 23 3521 Ah Utrecht
+  branch_code: XXX
+  city: Utrecht
+  country: Netherlands
+- name: First Capital Asset Managers B.v.
+  swift: FCAMNL21XXX
+  swift8: FCAMNL21
+  branch_name: Head Office
+  branch_address: Schoolstraat, 27 2242 Ke Wassenaar
+  branch_code: XXX
+  city: Wassenaar
+  country: Netherlands
+- name: First Euro Securities And Derivatives Trading B.v.
+  swift: FESDNL21XXX
+  swift8: FESDNL21
+  branch_name: Head Office
+  branch_address: Spoordreef 28 1315 Gp Almere
+  branch_code: XXX
+  city: Almere
+  country: Netherlands
+- name: Florint B.v.
+  swift: FLOINL21XXX
+  swift8: FLOINL21
+  branch_name: Head Office
+  branch_address: Vijzelstraat 20 1017 Hk Amsterdam
+  branch_code: XXX
+  city: Amsterdam
+  country: Netherlands
+- name: Flow Traders B.v.
+  swift: FLTRNL21XXX
+  swift8: FLTRNL21
+  branch_name: Head Office
+  branch_address: Paleisstraat 1 1012 Rb Amsterdam
+  branch_code: XXX
+  city: Amsterdam
+  country: Netherlands
+- name: Fluhalp Trading Bv
+  swift: FLUTNL21XXX
+  swift8: FLUTNL21
+  branch_name: Head Office
+  branch_address: Naritaweg 185 1043 Bw Amsterdam
+  branch_code: XXX
+  city: Amsterdam
+  country: Netherlands
+- name: Forger Equity Trading B.v.
+  swift: FOETNL21XXX
+  swift8: FOETNL21
+  branch_name: Head Office
+  branch_address: Van Weedestraat 3, 2hoog 3761 Ca Soest
+  branch_code: XXX
+  city: Soest
+  country: Netherlands
+- name: Fortis (gsla) B.v.
+  swift: GSLANL21XXX
+  swift8: GSLANL21
+  branch_name: Head Office
+  branch_address: Rokin 55 1012 Kk Amsterdam
+  branch_code: XXX
+  city: Amsterdam
+  country: Netherlands
+- name: Fortis Bank Global Clearing Nv
+  swift: FBGCNL21XXX
+  swift8: FBGCNL21
+  branch_name: Head Office
+  branch_address: Rokin 55 1012 Kk Amsterdam
+  branch_code: XXX
+  city: Amsterdam
+  country: Netherlands
+- name: Fortop B.v.
+  swift: FOTPNL21XXX
+  swift8: FOTPNL21
+  branch_name: Head Office
+  branch_address: Jagerslaan Noord 47 2242 Sx Wassenaar
+  branch_code: XXX
+  city: Wassenaar
+  country: Netherlands
+- name: Forza Vermogensbeheer B.v.
+  swift: FORVNL21XXX
+  swift8: FORVNL21
+  branch_name: Head Office
+  branch_address: Vrijthof 20 6211 Ld Maastricht
+  branch_code: XXX
+  city: Maastricht
+  country: Netherlands
+- name: Franke En Partners Pensioen-advies En Vermogensbeheer Bv
+  swift: FPPVNL21XXX
+  swift8: FPPVNL21
+  branch_name: Head Office
+  branch_address: Wilhelminasingel 113 6221 Bj Maastricht
+  branch_code: XXX
+  city: Maastricht
+  country: Netherlands
+- name: Fundix N.v.
+  swift: FUNXNL21XXX
+  swift8: FUNXNL21
+  branch_name: Head Office
+  branch_address: Vondelstraat 47 1054 Gj Amsterdam
+  branch_code: XXX
+  city: Amsterdam
+  country: Netherlands
+- name: Future Surfing B.v.
+  swift: FUTSNL21XXX
+  swift8: FUTSNL21
+  branch_name: Head Office
+  branch_address: Rembrandtlaan 43 3723 Bg Bilthoven
+  branch_code: XXX
+  city: Bilthoven
+  country: Netherlands
+- name: Gestion Nv
+  swift: GESONL21XXX
+  swift8: GESONL21
+  branch_name: Head Office
+  branch_address: Minervalaan 103 1007 Jd Amsterdam
+  branch_code: XXX
+  city: Amsterdam
+  country: Netherlands
+- name: Global Derivatives Trading Amsterdam B.v.
+  swift: GDTANL21XXX
+  swift8: GDTANL21
+  branch_name: Head Office
+  branch_address: Dam 27 V 1012 Js Amsterdam
+  branch_code: XXX
+  city: Amsterdam
+  country: Netherlands
+- name: Global Exchange Trading Services Bv
+  swift: GETSNL21XXX
+  swift8: GETSNL21
+  branch_name: Head Office
+  branch_address: Vijzelstraat 20 1017 Hk Amsterdam
+  branch_code: XXX
+  city: Amsterdam
+  country: Netherlands
+- name: Gooisch Effectenhuis B.v.
+  swift: GOEFNL21XXX
+  swift8: GOEFNL21
+  branch_name: Head Office
+  branch_address: Noordereinde, 9 1243 Jg S-Graveland
+  branch_code: XXX
+  city: S-Graveland
+  country: Netherlands
+- name: Goris En Ladru Vermogensbeheer B.v.
+  swift: GOLVNL21XXX
+  swift8: GOLVNL21
+  branch_name: Head Office
+  branch_address: Huigsloterdijk, 395 2158 Ls Buitenkaag
+  branch_code: XXX
+  city: Buitenkaag
+  country: Netherlands
+- name: Grafische Bedrijfsfondsen
+  swift: GRBENL21XXX
+  swift8: GRBENL21
+  branch_name: Head Office
+  branch_address: Zwaansvliet 3 1081 Ap Amsterdam
+  branch_code: XXX
+  city: Amsterdam
+  country: Netherlands
+- name: Groeivermogen N.v.
+  swift: GROENL21XXX
+  swift8: GROENL21
+  branch_name: Head Office
+  branch_address: De Entree 27 1101 Bh Amsterdam
+  branch_code: XXX
+  city: Amsterdam
+  country: Netherlands
+- name: Groenstate Vermogensadvies B.v.
+  swift: GRVENL21XXX
+  swift8: GRVENL21
+  branch_name: Head Office
+  branch_address: Hazenweg 110 7556 Bm Hengelo
+  branch_code: XXX
+  city: Hengelo
+  country: Netherlands
+- name: Gruenberg Investments B.v.
+  swift: GRNVNL21XXX
+  swift8: GRNVNL21
+  branch_name: Head Office
+  branch_address: Weteringschans 26 1017 Sg Amsterdam
+  branch_code: XXX
+  city: Sg Amsterdam
+  country: Netherlands
+- name: Gunma Bank Europe N.v.
+  swift: GUNUNL21XXX
+  swift8: GUNUNL21
+  branch_name: Head Office
+  branch_address: Strawinskylaan 743 1077 Xx Amsterdam
+  branch_code: XXX
+  city: Amsterdam
+  country: Netherlands
+- name: Gvb Capital Management B.v.
+  swift: GVCMNL21XXX
+  swift8: GVCMNL21
+  branch_name: Head Office
+  branch_address: Hoge Nieuwstraat, 32 2514 El S-Gravenhage
+  branch_code: XXX
+  city: S-Gravenhage
+  country: Netherlands
+- name: Hanzevast Capital N.v.
+  swift: HCAPNL21XXX
+  swift8: HCAPNL21
+  branch_name: Head Office
+  branch_address: Utrechtseweg 47 1200 Ae Hilversum
+  branch_code: XXX
+  city: Hilversum
+  country: Netherlands
+- name: Harmony Vermogensbeheer B.v.
+  swift: HAVENL21XXX
+  swift8: HAVENL21
+  branch_name: Head Office
+  branch_address: Stationsweg 1431 Eg Aalsmeer
+  branch_code: XXX
+  city: Aalsmeer
+  country: Netherlands
+- name: Hartwig Ii B.v.
+  swift: HARTNL21XXX
+  swift8: HARTNL21
+  branch_name: Head Office
+  branch_address: Strawinskylaan 377 1077 Xx Amsterdam
+  branch_code: XXX
+  city: Amsterdam
+  country: Netherlands
+- name: Havenbedrijf Rotterdam (port Of Rotterdam
+  swift: POFRNL2RXXX
+  swift8: POFRNL2R
+  branch_name: No branch name
+  branch_address: No branch address
+  branch_code: XXX
+  city: Rotterdam
+  country: Netherlands
+- name: Heerema Marine Contractors Finance Bv
+  swift: HMCFNL2LXXX
+  swift8: HMCFNL2L
+  branch_name: Head Office
+  branch_address: 55 Vondellaan 2332aa Leiden
+  branch_code: XXX
+  city: Leiden
+  country: Netherlands
+- name: Het Haags Effektenkantoor B.v.
+  swift: HHEFNL21XXX
+  swift8: HHEFNL21
+  branch_name: Head Office
+  branch_address: Javastraat 24 2585 an S-Gravenhage
+  branch_code: XXX
+  city: S-Gravenhage
+  country: Netherlands
+- name: Het Hollandsch Effectenkantoor B.v.
+  swift: HHECNL21XXX
+  swift8: HHECNL21
+  branch_name: Head Office
+  branch_address: Westblaak 228 3012 Kp Rotterdam
+  branch_code: XXX
+  city: Rotterdam
+  country: Netherlands
+- name: Hewlett-packard Nederland B.v.
+  swift: HENLNL21XXX
+  swift8: HENLNL21
+  branch_name: Head Office
+  branch_address: 16 Startbaan 1187 Xr Amstelveen
+  branch_code: XXX
+  city: Amstelveen
+  country: Netherlands
+- name: Hieronymus Options B.v.
+  swift: HIOPNL21XXX
+  swift8: HIOPNL21
+  branch_name: Head Office
+  branch_address: Keizersgracht 296 B 1016 Ew Amsterdam
+  branch_code: XXX
+  city: Amsterdam
+  country: Netherlands
+- name: Himalayan Fund N.v.
+  swift: HIFUNL21XXX
+  swift8: HIFUNL21
+  branch_name: Head Office
+  branch_address: Legmeerdijk 182 1187 Nj Amstelveen
+  branch_code: XXX
+  city: Amstelveen
+  country: Netherlands
+- name: Hiq Trading And Liquidity Providing N.v.
+  swift: HIQTNL21XXX
+  swift8: HIQTNL21
+  branch_name: Head Office
+  branch_address: Herengracht 442 1017bz Amsterdam
+  branch_code: XXX
+  city: Amsterdam
+  country: Netherlands
+- name: Hiroshima Bank (europe) N.v.
+  swift: HIEUNL21XXX
+  swift8: HIEUNL21
+  branch_name: Head Office
+  branch_address: Strawinskylaan 749 1077 Xx Amsterdam
+  branch_code: XXX
+  city: Amsterdam
+  country: Netherlands
+- name: Hof Hoorneman Bankiers Nv
+  swift: HHBANL22XXX
+  swift8: HHBANL22
+  branch_name: Head Office
+  branch_address: Oosthaven 52 2801 Pe Gouda
+  branch_code: XXX
+  city: Gouda
+  country: Netherlands
+- name: Homburg Participaties B.v.
+  swift: HOMPNL21XXX
+  swift8: HOMPNL21
+  branch_name: Head Office
+  branch_address: Beckeringhstraat, 36 3762 Ex Soest
+  branch_code: XXX
+  city: Soest
+  country: Netherlands
+- name: Hopstaken Johannesma En Co B.v.
+  swift: HOPJNL21XXX
+  swift8: HOPJNL21
+  branch_name: Head Office
+  branch_address: Beursplein, 37 3011 Aa Rotterdam
+  branch_code: XXX
+  city: Rotterdam
+  country: Netherlands
+- name: Hot Traders V.o.f.
+  swift: HOTVNL21XXX
+  swift8: HOTVNL21
+  branch_name: Head Office
+  branch_address: Beursplein 5 1012 Jw Amsterdam
+  branch_code: XXX
+  city: Amsterdam
+  country: Netherlands
+- name: Ide International Derivatives Enterprise B.v.
+  swift: IIDNNL21XXX
+  swift8: IIDNNL21
+  branch_name: Head Office
+  branch_address: Damrak 68-I 1012 Lm Amsterdam
+  branch_code: XXX
+  city: Amsterdam
+  country: Netherlands
+- name: Ifn Finance B.v.
+  swift: IFFANL21XXX
+  swift8: IFFANL21
+  branch_name: Head Office
+  branch_address: Lichtenauerlaan 150 3062 Me Rotterdam
+  branch_code: XXX
+  city: Rotterdam
+  country: Netherlands
+- name: Imc B.v.
+  swift: IMCBNL21INF
+  swift8: IMCBNL21
+  branch_name: Info Desk Ams
+  branch_address: Amsterdam
+  branch_code: INF
+  city: Amsterdam
+  country: Netherlands
+- name: Imc B.v.
+  swift: IMCBNL21MMX
+  swift8: IMCBNL21
+  branch_name: Market Making Ams
+  branch_address: Amsterdam
+  branch_code: MMX
+  city: Amsterdam
+  country: Netherlands
+- name: Imc B.v.
+  swift: IMCBNL21XXX
+  swift8: IMCBNL21
+  branch_name: Head Office
+  branch_address: Strawinskylaan 377 1077 Amsterdam
+  branch_code: XXX
+  city: Amsterdam
+  country: Netherlands
+- name: Imc Options B.v.
+  swift: IMOPNL21XXX
+  swift8: IMOPNL21
+  branch_name: Head Office
+  branch_address: D-Toren 3hg 1077 Xx Amsterdam
+  branch_code: XXX
+  city: Amsterdam
+  country: Netherlands
+- name: Imc Securities B.v.
+  swift: IMCSNL21XXX
+  swift8: IMCSNL21
+  branch_name: Head Office
+  branch_address: Strawinskylaan, 377 1077 Xx Amsterdam
+  branch_code: XXX
+  city: Amsterdam
+  country: Netherlands
+- name: Imc Trading B.v.
+  swift: IMTRNL21XXX
+  swift8: IMTRNL21
+  branch_name: Head Office
+  branch_address: Wtc 1077 Xx Amsterdam
+  branch_code: XXX
+  city: Amsterdam
+  country: Netherlands
+- name: Ims Institutional Management Services B.v.
+  swift: IIMSNL21XXX
+  swift8: IIMSNL21
+  branch_name: Head Office
+  branch_address: Storkstraat, 10 3833 Lb Leusden
+  branch_code: XXX
+  city: Leusden
+  country: Netherlands
+- name: Independent Trading Combination Effecten B.v.
+  swift: ITCFNL21XXX
+  swift8: ITCFNL21
+  branch_name: Head Office
+  branch_address: Spuistraat, 114c 1012 Va Amsterdam
+  branch_code: XXX
+  city: Amsterdam
+  country: Netherlands
+- name: Indubel Vermogensbeheer Nv
+  swift: INVHNL21XXX
+  swift8: INVHNL21
+  branch_name: Head Office
+  branch_address: Keizersgracht, 560-562 1017 Em Amsterdam
+  branch_code: XXX
+  city: Amsterdam
+  country: Netherlands
+- name: Ing Am Interfinance Sevices B.v.
+  swift: INGJNL21XXX
+  swift8: INGJNL21
+  branch_name: Head Office
+  branch_address: Prinses Beatrixlaan 15 2595 Ak S-Gravenhage
+  branch_code: XXX
+  city: S-Gravenhage
+  country: Netherlands
+- name: Ing Asset Management B.v.
+  swift: INGKNL21XXX
+  swift8: INGKNL21
+  branch_name: Head Office
+  branch_address: Prinses Beatrixlaan 15 2595 Ak S-Gravenhage
+  branch_code: XXX
+  city: S-Gravenhage
+  country: Netherlands
+- name: Ing Direct N.v.
+  swift: INGDNL21XXX
+  swift8: INGDNL21
+  branch_name: Head Office
+  branch_address: Bijlmerplein 888 1102 Mg Amsterdam
+  branch_code: XXX
+  city: Amsterdam
+  country: Netherlands
+- name: Ing Im Advisors B.v.
+  swift: INGWNL21XXX
+  swift8: INGWNL21
+  branch_name: Head Office
+  branch_address: Prinses Beatrixlaan 15 2595 Ak S-Gravenhage
+  branch_code: XXX
+  city: S-Gravenhage
+  country: Netherlands
+- name: Ing Investment Management Netherlands N.v.
+  swift: INGONL21XXX
+  swift8: INGONL21
+  branch_name: Head Office
+  branch_address: Prinses Beatrixlaan 15 2595 Ak S-Gravenhage
+  branch_code: XXX
+  city: S-Gravenhage
+  country: Netherlands
+- name: Ing Personal Fund Services B.v.
+  swift: INGQNL21XXX
+  swift8: INGQNL21
+  branch_name: Head Office
+  branch_address: Prinses Beatrixlaan 15 2595 Ak S-Gravenhage
+  branch_code: XXX
+  city: S-Gravenhage
+  country: Netherlands
+- name: Ingramm International N.v.
+  swift: IGITNL21XXX
+  swift8: IGITNL21
+  branch_name: Head Office
+  branch_address: Oslo 24 2993 Ld Barendrecht
+  branch_code: XXX
+  city: Barendrecht
+  country: Netherlands
+- name: Inmaxxa B.v.
+  swift: INMXNL21XXX
+  swift8: INMXNL21
+  branch_name: Head Office
+  branch_address: Onze Lieve Vrouwewal, 8 6211 Hh Maastricht
+  branch_code: XXX
+  city: Maastricht
+  country: Netherlands
+- name: Insinger De Beaufort Asset Management N.v.
+  swift: IBAMNL21XXX
+  swift8: IBAMNL21
+  branch_name: Head Office
+  branch_address: Herengracht 537 1017 Bv Amsterdam
+  branch_code: XXX
+  city: Amsterdam
+  country: Netherlands
+- name: Instituut Voor Beleggingsstrategie B.v.
+  swift: INLGNL21XXX
+  swift8: INLGNL21
+  branch_name: Head Office
+  branch_address: Herengracht, 479 1017 Bs Amsterdam
+  branch_code: XXX
+  city: Amsterdam
+  country: Netherlands
+- name: Intal B.v.
+  swift: ITTANL21XXX
+  swift8: ITTANL21
+  branch_name: Head Office
+  branch_address: Papenbroekssteeg 2 1012 Nw Amsterdam
+  branch_code: XXX
+  city: Amsterdam
+  country: Netherlands
+- name: Inter Value Options B.v.
+  swift: ITVONL21XXX
+  swift8: ITVONL21
+  branch_name: Head Office
+  branch_address: Paramariboplein 39hs 1058 Ap Amsterdam
+  branch_code: XXX
+  city: Amsterdam
+  country: Netherlands
+- name: Interactie Bank N.v.
+  swift: IACBNL21XXX
+  swift8: IACBNL21
+  branch_name: Head Office
+  branch_address: Herengracht 450-454 1017 Ca Amsterdam
+  branch_code: XXX
+  city: Amsterdam
+  country: Netherlands
+- name: Interbank N.v.
+  swift: INKBNL21XXX
+  swift8: INKBNL21
+  branch_name: Head Office
+  branch_address: Hogehilweg 5 1101 Ca Amsterdam
+  branch_code: XXX
+  city: Amsterdam
+  country: Netherlands
+- name: International Assets Advisory Corporation Europe B.v.
+  swift: IAACNL21XXX
+  swift8: IAACNL21
+  branch_name: Head Office
+  branch_address: Stationsplein 62 3743 Km Baarn
+  branch_code: XXX
+  city: Baarn
+  country: Netherlands
+- name: International Bank And Trust Corp.
+  swift: IBTCNL21XXX
+  swift8: IBTCNL21
+  branch_name: Head Office
+  branch_address: H. Bosmansstraat 21 Amsterdam
+  branch_code: XXX
+  city: Amsterdam
+  country: Netherlands
+- name: International Card Services B.v.
+  swift: ICSVNL21XXX
+  swift8: ICSVNL21
+  branch_name: Head Office
+  branch_address: Wisselwerking 32 1112 Xp Diemen
+  branch_code: XXX
+  city: Diemen
+  country: Netherlands
+- name: Interpolis Pensioenen Vermogensbeheer B.v.
+  swift: INPVNL21XXX
+  swift8: INPVNL21
+  branch_name: Head Office
+  branch_address: Rijnzathe 10 3454 Pv De Meem
+  branch_code: XXX
+  city: De Meem
+  country: Netherlands
+- name: Invest Consult B.v.
+  swift: IVVCNL21XXX
+  swift8: IVVCNL21
+  branch_name: Head Office
+  branch_address: Haverdijk 62 4841 as Prinsenbeek
+  branch_code: XXX
+  city: Prinsenbeek
+  country: Netherlands
+- name: Invest4you N.v.
+  swift: INYONL21XXX
+  swift8: INYONL21
+  branch_name: Head Office
+  branch_address: Ridderstraat, 25 5256 Ee Heusden
+  branch_code: XXX
+  city: Heusden
+  country: Netherlands
+- name: Investment Management Group
+  swift: INMGNL21XXX
+  swift8: INMGNL21
+  branch_name: Head Office
+  branch_address: Spuistraat 114 1012 Va Amsterdam
+  branch_code: XXX
+  city: Amsterdam
+  country: Netherlands
+- name: Ivm Vermogensbeheer B.v.
+  swift: IVMVNL21XXX
+  swift8: IVMVNL21
+  branch_name: Head Office
+  branch_address: Keizersgracht 472 1017 Eg Amsterdam
+  branch_code: XXX
+  city: Amsterdam
+  country: Netherlands
+- name: Ivv Asset Management B.v.
+  swift: IVAENL21XXX
+  swift8: IVAENL21
+  branch_name: Head Office
+  branch_address: Oosthavenkade, 39 a 3134 Nw Vlaardingen
+  branch_code: XXX
+  city: Vlaardingen
+  country: Netherlands
+- name: J And T Private Equity B.v.
+  swift: PREQNL21XXX
+  swift8: PREQNL21
+  branch_name: Head Office
+  branch_address: Weteringschans 26 1017 Sg Amsterdam
+  branch_code: XXX
+  city: Sg Amsterdam
+  country: Netherlands
+- name: Jansen En Van Noort Vermogensbeheer B.v.
+  swift: JNVENL21XXX
+  swift8: JNVENL21
+  branch_name: Head Office
+  branch_address: Westwaarts, 46 2711 Ac Zoetermeer
+  branch_code: XXX
+  city: Zoetermeer
+  country: Netherlands
+- name: Jmc International Marketmakers Combination Bv
+  swift: JMCINL21XXX
+  swift8: JMCINL21
+  branch_name: Head Office
+  branch_address: Paleisstraat 1 1012 Rb Amsterdam
+  branch_code: XXX
+  city: Amsterdam
+  country: Netherlands
+- name: Kairos Asset Management B.v.
+  swift: KAMENL21XXX
+  swift8: KAMENL21
+  branch_name: Head Office
+  branch_address: Rokerijweg, 12 1271 Ah Huizen
+  branch_code: XXX
+  city: Huizen
+  country: Netherlands
+- name: Kaldenbach Derivatives Trading B.v.
+  swift: KADTNL21XXX
+  swift8: KADTNL21
+  branch_name: Head Office
+  branch_address: Watersniplaan 3 2261 Dh Leidschendam
+  branch_code: XXX
+  city: Leidschendam
+  country: Netherlands
+- name: Kbw Wesselius Effectenbank N.v.
+  swift: KBWFNL21XXX
+  swift8: KBWFNL21
+  branch_name: Head Office
+  branch_address: De Ruyterkade 113 1011 Ab Amsterdam
+  branch_code: XXX
+  city: Amsterdam
+  country: Netherlands
+- name: Keijser Capital N.v.
+  swift: KECLNL21XXX
+  swift8: KECLNL21
+  branch_name: Head Office
+  branch_address: Koningslaan 34 1075 Ad Amsterdam
+  branch_code: XXX
+  city: Amsterdam
+  country: Netherlands
+- name: Kemp Trading Bv T/a Nino Options
+  swift: KTNONL21XXX
+  swift8: KTNONL21
+  branch_name: Head Office
+  branch_address: Beursplein 5 1012 Jw Amsterdam
+  branch_code: XXX
+  city: Amsterdam
+  country: Netherlands
+- name: Kepler Equities, Amsterdam Branch
+  swift: JBBRNL21XXX
+  swift8: JBBRNL21
+  branch_name: Head Office
+  branch_address: Herengracht 466 1017 Ca Amsterdam
+  branch_code: XXX
+  city: Amsterdam
+  country: Netherlands
+- name: Keytrade Bank
+  swift: KEYTNL21XXX
+  swift8: KEYTNL21
+  branch_name: Head Office
+  branch_address: Hofplein 33 3011 Aj Rotterdam
+  branch_code: XXX
+  city: Rotterdam
+  country: Netherlands
+- name: Klinkenberg Traders B.v.
+  swift: KLTRNL21XXX
+  swift8: KLTRNL21
+  branch_name: Head Office
+  branch_address: Beursplein 5 1012 Jw Amsterdam
+  branch_code: XXX
+  city: Amsterdam
+  country: Netherlands
+- name: Klm Uk Pension Scheme
+  swift: KLPSNL21XXX
+  swift8: KLPSNL21
+  branch_name: Head Office
+  branch_address: P/a Blue Sky Group 1183 Av Amstelveen
+  branch_code: XXX
+  city: Amstelveen
+  country: Netherlands
+- name: Kocbank Nederland N.v.
+  swift: KOCDNL21XXX
+  swift8: KOCDNL21
+  branch_name: Head Office
+  branch_address: Rembrandt Tower 1096 Ha Amsterdam
+  branch_code: XXX
+  city: Amsterdam
+  country: Netherlands
+- name: Koninklijke Cooperatieve Bloemenveiling Floraholland U.a.
+  swift: FLHONL2HXXX
+  swift8: FLHONL2H
+  branch_name: No branch name
+  branch_address: No branch address
+  branch_code: XXX
+  city: Honselersdijk
+  country: Netherlands
+- name: Koninklijke Dsm N.v.
+  swift: KDSMNL2HBEL
+  swift8: KDSMNL2H
+  branch_name: Heerlen
+  branch_address: Heerlen
+  branch_code: BEL
+  city: Heerlen
+  country: Netherlands
+- name: Koninklijke Dsm N.v.
+  swift: KDSMNL2HNLD
+  swift8: KDSMNL2H
+  branch_name: Heerlen
+  branch_address: Heerlen
+  branch_code: NLD
+  city: Heerlen
+  country: Netherlands
+- name: Koninklijke Dsm N.v.
+  swift: KDSMNL2HXXX
+  swift8: KDSMNL2H
+  branch_name: Head Office
+  branch_address: Het Overloon 1 6411 Te Heerlen
+  branch_code: XXX
+  city: Heerlen
+  country: Netherlands
+- name: Kopvos En Partners B.v.
+  swift: KOPPNL21XXX
+  swift8: KOPPNL21
+  branch_name: Head Office
+  branch_address: Nieuwe Markt, 65e 4701 Ad Roosendaal
+  branch_code: XXX
+  city: Roosendaal
+  country: Netherlands
+- name: Kuperus Effecten B.v.
+  swift: KUPENL21XXX
+  swift8: KUPENL21
+  branch_name: Head Office
+  branch_address: Brediusweg 20 1401 Ag Bussum
+  branch_code: XXX
+  city: Bussum
+  country: Netherlands
+- name: Laaken Asset Management N.v.
+  swift: LASMNL21XXX
+  swift8: LASMNL21
+  branch_name: Head Office
+  branch_address: Keizersgracht 534 1017 Ek Amsterdam
+  branch_code: XXX
+  city: Amsterdam
+  country: Netherlands
+- name: Lancelot Vermogensbeheer B.v.
+  swift: LANVNL21XXX
+  swift8: LANVNL21
+  branch_name: Head Office
+  branch_address: Herengracht, 199-201 1016 Be Amsterdam
+  branch_code: XXX
+  city: Amsterdam
+  country: Netherlands
+- name: Lasalle Investment Management Securities B.v.
+  swift: LIMUNL21XXX
+  swift8: LIMUNL21
+  branch_name: Head Office
+  branch_address: Herengracht, 471 1017 Bs Amsterdam
+  branch_code: XXX
+  city: Amsterdam
+  country: Netherlands
+- name: Leaseplan Corporation N.v.(ref Leaseplan Bank
+  swift: LPLNNL2FXXX
+  swift8: LPLNNL2F
+  branch_name: Head Office
+  branch_address: P.J. Oudweg 41 1314 Almere-Stad
+  branch_code: XXX
+  city: Almere-Stad
+  country: Netherlands
+- name: Leenen En Spencer Vermogensbeheer B.v.
+  swift: LESVNL21XXX
+  swift8: LESVNL21
+  branch_name: Head Office
+  branch_address: Aston Martinlaan, 16 3261 Nb Oud Beijerland
+  branch_code: XXX
+  city: Oud Beijerland
+  country: Netherlands
+- name: Lentjes En Drossaerts N.v.
+  swift: LEDRNL21XXX
+  swift8: LEDRNL21
+  branch_name: Head Office
+  branch_address: Verwersstraat 29 5211 Ht S-Hertogenbosch
+  branch_code: XXX
+  city: S-Hertogenbosch
+  country: Netherlands
+- name: Leopark Options B.v.
+  swift: LEOPNL21XXX
+  swift8: LEOPNL21
+  branch_name: Head Office
+  branch_address: Rokin 28 / 4 1012 Kt Amsterdam
+  branch_code: XXX
+  city: Amsterdam
+  country: Netherlands
+- name: Lg Electronics European Shared Service Center B.v.
+  swift: LGETNL21XXX
+  swift8: LGETNL21
+  branch_name: Head Office
+  branch_address: Veluwezoom 15 1327 Ae Almere
+  branch_code: XXX
+  city: Almere
+  country: Netherlands
+- name: Lloyds Bank Plc.
+  swift: LOYDNL21LIQ
+  swift8: LOYDNL21
+  branch_name: Liquidity
+  branch_address: Amsterdam
+  branch_code: LIQ
+  city: Amsterdam
+  country: Netherlands
+- name: Loyalis Financial Services N.v.
+  swift: LOFSNL21XXX
+  swift8: LOFSNL21
+  branch_name: Head Office
+  branch_address: Tower C 1118 Bh Schiphol
+  branch_code: XXX
+  city: Schiphol
+  country: Netherlands
+- name: Lunar Vermogensbeheer B.v.
+  swift: LUVENL21XXX
+  swift8: LUVENL21
+  branch_name: Head Office
+  branch_address: W a Scholtenlaan, 25 6865 Vt Doorwerth
+  branch_code: XXX
+  city: Doorwerth
+  country: Netherlands
+- name: Luyben En Brouwer Capitalmanagement B.v.
+  swift: LUBCNL21XXX
+  swift8: LUBCNL21
+  branch_name: Head Office
+  branch_address: Rietzangerlaan, 44 3403 Zc Ijsselstein
+  branch_code: XXX
+  city: Ijsselstein
+  country: Netherlands
+- name: Lynx B.v.
+  swift: LYNXNL21XXX
+  swift8: LYNXNL21
+  branch_name: Head Office
+  branch_address: Herengracht, 503/3 1017 Bv Amsterdam
+  branch_code: XXX
+  city: Amsterdam
+  country: Netherlands
+- name: M En M Trading B.v.
+  swift: TRGDNL21XXX
+  swift8: TRGDNL21
+  branch_name: Head Office
+  branch_address: Traay 211 3971 Gj Driebergen-Rijsenburg
+  branch_code: XXX
+  city: Amsterdam
+  country: Netherlands
+- name: M.a. En J.h. Damste Beheer B.v.
+  swift: DAMHNL21XXX
+  swift8: DAMHNL21
+  branch_name: Head Office
+  branch_address: Beursplein 5 1012 Jw Amsterdam
+  branch_code: XXX
+  city: Amsterdam
+  country: Netherlands
+- name: Maas En Van Lingen Vermogensbeheer B.v.
+  swift: MALVNL21XXX
+  swift8: MALVNL21
+  branch_name: Head Office
+  branch_address: De Paal, 1-6 1305 Ad Almere
+  branch_code: XXX
+  city: Almere
+  country: Netherlands
+- name: Market Makers United B.v.
+  swift: MMUNNL21XXX
+  swift8: MMUNNL21
+  branch_name: Head Office
+  branch_address: Prins Hendrikkade 48 B 1012 Ac Amsterdam
+  branch_code: XXX
+  city: Amsterdam
+  country: Netherlands
+- name: Market Wizards B.v.
+  swift: MARWNL21XXX
+  swift8: MARWNL21
+  branch_name: Head Office
+  branch_address: Singel 373 1012 Wl Amsterdam
+  branch_code: XXX
+  city: Amsterdam
+  country: Netherlands
+- name: Math B.v.
+  swift: MTTHNL21XXX
+  swift8: MTTHNL21
+  branch_name: Head Office
+  branch_address: Van Hogendorpstraat 7 2012 Mn Haarlem
+  branch_code: XXX
+  city: Haarlem
+  country: Netherlands
+- name: Matrix Asset Management B.v.
+  swift: MATMNL21XXX
+  swift8: MATMNL21
+  branch_name: Head Office
+  branch_address: Molenstraat, 32 2611 Kb Delft
+  branch_code: XXX
+  city: Delft
+  country: Netherlands
+- name: Max Effect B.v.
+  swift: MAXENL21XXX
+  swift8: MAXENL21
+  branch_name: Head Office
+  branch_address: Zijlweg, 133a 2015 Be Haarlem
+  branch_code: XXX
+  city: Haarlem
+  country: Netherlands
+- name: Maynard En Keynes B.v.
+  swift: MAYKNL21XXX
+  swift8: MAYKNL21
+  branch_name: Head Office
+  branch_address: Prins Hendrikkade, 48a 1012 Ac Amsterdam
+  branch_code: XXX
+  city: Amsterdam
+  country: Netherlands
+- name: Meeus Vermogensbeheer B.v.
+  swift: MEEVNL21XXX
+  swift8: MEEVNL21
+  branch_name: Head Office
+  branch_address: Willemstraat 42005 4811 Ah Breda
+  branch_code: XXX
+  city: Breda
+  country: Netherlands
+- name: Metzler Nederland B.v.
+  swift: MENDNL21XXX
+  swift8: MENDNL21
+  branch_name: Head Office
+  branch_address: Strawinskylaan 961 1077 Xx Amsterdam
+  branch_code: XXX
+  city: Amsterdam
+  country: Netherlands
+- name: Mijn Broker Bv
+  swift: MBRONL21XXX
+  swift8: MBRONL21
+  branch_name: Head Office
+  branch_address: Gorslaan 45 1441 Rg Purmerend
+  branch_code: XXX
+  city: Rg Purmerend
+  country: Netherlands
+- name: Mmx Trading Bv
+  swift: MMXTNL21XXX
+  swift8: MMXTNL21
+  branch_name: Head Office
+  branch_address: Beursplein 5 1012 Jw Amsterdam
+  branch_code: XXX
+  city: Amsterdam
+  country: Netherlands
+- name: Mn Services
+  swift: SEVSNL21XXX
+  swift8: SEVSNL21
+  branch_name: Head Office
+  branch_address: 329 Burgemeester Elsenlaan 2280 He Rijswijk
+  branch_code: XXX
+  city: Rijswijk
+  country: Netherlands
+- name: Mn Services Nv (investment Manage Ment
+  swift: MNSNNL2AXXX
+  swift8: MNSNNL2A
+  branch_name: Head Office
+  branch_address: Zilveren Toren 2595 Ak S-Gravenhage
+  branch_code: XXX
+  city: S-Gravenhage
+  country: Netherlands
+- name: Mn Services Vermogensbeheer B.v.
+  swift: SEVENL21XXX
+  swift8: SEVENL21
+  branch_name: Head Office
+  branch_address: Burgemeester Elsenlaan 329 2282 Mz Rijswijk
+  branch_code: XXX
+  city: Rijswijk
+  country: Netherlands
+- name: Mnf Bank N.v.
+  swift: MNFMNL21XXX
+  swift8: MNFMNL21
+  branch_name: Head Office
+  branch_address: Barbizonlaan 1 2908 Ma Capelle Aan Den Ijssel
+  branch_code: XXX
+  city: Capelle Aan Den Ijssel
+  country: Netherlands
+- name: Mollema En Van Til Vermogensbeheer B.v.
+  swift: MOTVNL21XXX
+  swift8: MOTVNL21
+  branch_name: Head Office
+  branch_address: Haagse Schouwweg, 6-D 2332 Kg Leiden
+  branch_code: XXX
+  city: Leiden
+  country: Netherlands
+- name: Mondiaen Capital Management N.v.
+  swift: MCANNL21XXX
+  swift8: MCANNL21
+  branch_name: Head Office
+  branch_address: De Lairessestraat, 77 1071 Nv Amsterdam
+  branch_code: XXX
+  city: Amsterdam
+  country: Netherlands
+- name: Mr1 Futures B.v.
+  swift: FURENL21XXX
+  swift8: FURENL21
+  branch_name: Head Office
+  branch_address: Vosseveldlaan 56 3768 Gn Soest
+  branch_code: XXX
+  city: Soest
+  country: Netherlands
+- name: Munnik Opties En Futures Trading B.v.
+  swift: MOFTNL21XXX
+  swift8: MOFTNL21
+  branch_name: Head Office
+  branch_address: Beursplein 5 1012 Jw Amsterdam
+  branch_code: XXX
+  city: Amsterdam
+  country: Netherlands
+- name: N.v. De Vereenigde Effecten Compagnie
+  swift: VECPNL21XXX
+  swift8: VECPNL21
+  branch_name: Head Office
+  branch_address: Jan Nieuwenhuizenplein, 12 1135 Wv Edam
+  branch_code: XXX
+  city: Edam
+  country: Netherlands
+- name: Nationale Nederlanden Financiele Diensten B.v.
+  swift: NNFDNL21XXX
+  swift8: NNFDNL21
+  branch_name: Head Office
+  branch_address: Mr. Treublaan 7 1097 Dp Amsterdam
+  branch_code: XXX
+  city: Amsterdam
+  country: Netherlands
+- name: New Hbu N.v.
+  swift: NEHBNL21XXX
+  swift8: NEHBNL21
+  branch_name: Head Office
+  branch_address: De Parade 1081 Vx Amstelveen
+  branch_code: XXX
+  city: Vx Amstelveen
+  country: Netherlands
+- name: Newtrade Derivatives I B.v.
+  swift: NEDINL21XXX
+  swift8: NEDINL21
+  branch_name: Head Office
+  branch_address: Paleisstraat 1 1012 Rb Amsterdam
+  branch_code: XXX
+  city: Amsterdam
+  country: Netherlands
+- name: Nibc Private Investment Management N.v.
+  swift: NPIANL21XXX
+  swift8: NPIANL21
+  branch_name: Head Office
+  branch_address: Carnegieplein 4 2517 Kj S-Gravenhage
+  branch_code: XXX
+  city: S-Gravenhage
+  country: Netherlands
+- name: Nidera B.v.
+  swift: NIHANL2RXXX
+  swift8: NIHANL2R
+  branch_name: No branch name
+  branch_address: No branch address
+  branch_code: XXX
+  city: Rotterdam
+  country: Netherlands
+- name: Nieuwenhuys Brink Crommelin Duurzaam Vermogensbeheer B.v.
+  swift: NBCDNL21XXX
+  swift8: NBCDNL21
+  branch_name: Head Office
+  branch_address: Leeuwenveldseweg, 1 1382 Lv Weesp
+  branch_code: XXX
+  city: Weesp
+  country: Netherlands
+- name: Nike 360 Holding Bv
+  swift: NIKHNL21XXX
+  swift8: NIKHNL21
+  branch_name: Head Office
+  branch_address: Colosseum 1 1213 Nl Hilversum
+  branch_code: XXX
+  city: Hilversum
+  country: Netherlands
+- name: Nike Europe Holding B.v.
+  swift: NIEHNL21XXX
+  swift8: NIEHNL21
+  branch_name: Head Office
+  branch_address: Colosseum 1 1213nl Hilversum
+  branch_code: XXX
+  city: Hilversum
+  country: Netherlands
+- name: Nike European Operations Netherland S B.v.
+  swift: NIKENL21XXX
+  swift8: NIKENL21
+  branch_name: Head Office
+  branch_address: Colosseum 1 1200 Hj Hilversum
+  branch_code: XXX
+  city: Hilversum
+  country: Netherlands
+- name: Nike Sphere C.v.
+  swift: NIPPNL21XXX
+  swift8: NIPPNL21
+  branch_name: Head Office
+  branch_address: Colosseum 1 1213 Nl Hilversum
+  branch_code: XXX
+  city: Hilversum
+  country: Netherlands
+- name: Nike Trading Company B.v. Singapore Branch
+  swift: NTCINL21XXX
+  swift8: NTCINL21
+  branch_name: Head Office
+  branch_address: Colosseum 1 1213 Nl Hilversum
+  branch_code: XXX
+  city: Hilversum
+  country: Netherlands
+- name: Nike Trading Company Bv
+  swift: NITCNL21XXX
+  swift8: NITCNL21
+  branch_name: Head Office
+  branch_address: Colosseum 1 1213 Nl Hilversum
+  branch_code: XXX
+  city: Hilversum
+  country: Netherlands
+- name: Nikko Bank (nederland) N.v.
+  swift: NIKNNL21XXX
+  swift8: NIKNNL21
+  branch_name: Head Office
+  branch_address: Locatellikade 1 1076 Az Amsterdam
+  branch_code: XXX
+  city: Amsterdam
+  country: Netherlands
+- name: Nld Asset Management B.v.
+  swift: NLAMNL21XXX
+  swift8: NLAMNL21
+  branch_name: Head Office
+  branch_address: Odijkseweg, 39 3994 as Houten
+  branch_code: XXX
+  city: Houten
+  country: Netherlands
+- name: Nomura Nederland N.v.
+  swift: NOMNNL21XXX
+  swift8: NOMNNL21
+  branch_name: Head Office
+  branch_address: Atrium 1 Hg 1077 Zx Amsterdam
+  branch_code: XXX
+  city: Amsterdam
+  country: Netherlands
+- name: Noordam Vermogensbeheer B.v.
+  swift: NVERNL21XXX
+  swift8: NVERNL21
+  branch_name: Head Office
+  branch_address: Amsterdamsestraatweg, 55a 3744 Ma Baarn
+  branch_code: XXX
+  city: Baarn
+  country: Netherlands
+- name: Noordnederlands Effektenkantoor B.v.
+  swift: NOEFNL21XXX
+  swift8: NOEFNL21
+  branch_name: Head Office
+  branch_address: Westerkade 16 9718 as Groningen
+  branch_code: XXX
+  city: Groningen
+  country: Netherlands
+- name: Nyenburgh Beheer N.v.
+  swift: NYENNL21XXX
+  swift8: NYENNL21
+  branch_name: Head Office
+  branch_address: Vijzelstraat 20 Amsterdam
+  branch_code: XXX
+  city: Amsterdam
+  country: Netherlands
+- name: Ohra Bank N.v.
+  swift: OHAANL21XXX
+  swift8: OHAANL21
+  branch_name: Head Office
+  branch_address: Rijksweg West 2 6842 Bd Arnhem
+  branch_code: XXX
+  city: Arnhem
+  country: Netherlands
+- name: Ohv
+  swift: OHVONL21XXX
+  swift8: OHVONL21
+  branch_name: Head Office
+  branch_address: Amsteldijk 166 1079 Lh Amsterdam
+  branch_code: XXX
+  city: Amsterdam
+  country: Netherlands
+- name: Onafhankelijk Vermogensbeheer 's Gravenhage B.v.
+  swift: ONVGNL21XXX
+  swift8: ONVGNL21
+  branch_name: Head Office
+  branch_address: Smidswater, 27 2514 Bw S-Gravenhage
+  branch_code: XXX
+  city: S-Gravenhage
+  country: Netherlands
+- name: Oolders, Heijning En Voogelaar B.v.
+  swift: OOHVNL21XXX
+  swift8: OOHVNL21
+  branch_name: Head Office
+  branch_address: Amsteldijk 166 1079 Lh Amsterdam
+  branch_code: XXX
+  city: Amsterdam
+  country: Netherlands
+- name: Optima Options B.v.
+  swift: OPOPNL21XXX
+  swift8: OPOPNL21
+  branch_name: Head Office
+  branch_address: Herengracht 14 D 1015 Bk Amsterdam
+  branch_code: XXX
+  city: Amsterdam
+  country: Netherlands
+- name: Optimix Vermogensbeheer N.v.
+  swift: OPVENL21XXX
+  swift8: OPVENL21
+  branch_name: Head Office
+  branch_address: Johannes Vermeerstraat 14 1071 Dr Amsterdam
+  branch_code: XXX
+  city: Amsterdam
+  country: Netherlands
+- name: Optionsxpress Europe B.v.
+  swift: OPTENL21XXX
+  swift8: OPTENL21
+  branch_name: Head Office
+  branch_address: Kingsfordweg 151 1043 Gr Amsterdam
+  branch_code: XXX
+  city: Amsterdam
+  country: Netherlands
+- name: Optiver Vof
+  swift: OPTVNL21IVE
+  swift8: OPTVNL21
+  branch_name: Amsterdam
+  branch_address: Amsterdam
+  branch_code: IVE
+  city: Amsterdam
+  country: Netherlands
+- name: Optiver Vof
+  swift: OPTVNL21XXX
+  swift8: OPTVNL21
+  branch_name: Head Office
+  branch_address: De Ruyterkade 112 1011 Ab Amsterdam
+  branch_code: XXX
+  city: Amsterdam
+  country: Netherlands
+- name: Optra V.o.f.
+  swift: OPVONL21XXX
+  swift8: OPVONL21
+  branch_name: Head Office
+  branch_address: De Ruyterkade 112 1011 Ab Amsterdam
+  branch_code: XXX
+  city: Amsterdam
+  country: Netherlands
+- name: Optrix V.o.f.
+  swift: OPTFNL21XXX
+  swift8: OPTFNL21
+  branch_name: Head Office
+  branch_address: De Ruyterkade 112 1011 Ab Amsterdam
+  branch_code: XXX
+  city: Amsterdam
+  country: Netherlands
+- name: Oranjeveste B.v.
+  swift: ORANNL21XXX
+  swift8: ORANNL21
+  branch_name: Head Office
+  branch_address: Herengracht, 491 1017 Bt Amsterdam
+  branch_code: XXX
+  city: Amsterdam
+  country: Netherlands
+- name: Oyens And Van Eeghen Wholesale Brokerage B.v.
+  swift: OEWBNL21XXX
+  swift8: OEWBNL21
+  branch_name: Head Office
+  branch_address: Paleisstraat 1 Amsterdam
+  branch_code: XXX
+  city: Amsterdam
+  country: Netherlands
+- name: Paerel Trading Partners B.v.
+  swift: PTRPNL21XXX
+  swift8: PTRPNL21
+  branch_name: Head Office
+  branch_address: Herengracht 199-201 1016 Be Amsterdam
+  branch_code: XXX
+  city: Amsterdam
+  country: Netherlands
+- name: Palladyne Asset Management B.v.
+  swift: PASNNL21XXX
+  swift8: PASNNL21
+  branch_name: Head Office
+  branch_address: Nesland, 5 Bg 1382 Mz Weesp
+  branch_code: XXX
+  city: Weesp
+  country: Netherlands
+- name: Panasonic Global Treasury Center B.v.
+  swift: PANANL21XXX
+  swift8: PANANL21
+  branch_name: Head Office
+  branch_address: Strawinskylaan 3105 1469 Amsterdam
+  branch_code: XXX
+  city: Amsterdam
+  country: Netherlands
+- name: Pbi Securities B.v.
+  swift: PBISNL21XXX
+  swift8: PBISNL21
+  branch_name: Head Office
+  branch_address: Herengracht 500 1017 Cb Amsterdam
+  branch_code: XXX
+  city: Amsterdam
+  country: Netherlands
+- name: Pensioenfonds Nederlandse Bisdommen
+  swift: PENMNL21XXX
+  swift8: PENMNL21
+  branch_name: No branch name
+  branch_address: No branch address
+  branch_code: XXX
+  city: Amsterdam
+  country: Netherlands
+- name: Pensioenfonds Openbaar Vervoer
+  swift: PEOVNL21XXX
+  swift8: PEOVNL21
+  branch_name: Head Office
+  branch_address: Arthur Van Schendelstraat 850 3511 Ml Utrecht
+  branch_code: XXX
+  city: Utrecht
+  country: Netherlands
+- name: Petercam Nederland N.v.
+  swift: PECSNL21XXX
+  swift8: PECSNL21
+  branch_name: Head Office
+  branch_address: De Lairessestraat 180 1075 Hm Amsterdam
+  branch_code: XXX
+  city: Amsterdam
+  country: Netherlands
+- name: Petrus Wealth Management B.v.
+  swift: PEWMNL21XXX
+  swift8: PEWMNL21
+  branch_name: Head Office
+  branch_address: St. Janstraat 67 4741 Am Hoeven
+  branch_code: XXX
+  city: Hoeven
+  country: Netherlands
+- name: Philipse En Co B.v.
+  swift: PHIPNL21XXX
+  swift8: PHIPNL21
+  branch_name: Head Office
+  branch_address: Concertgebouwplein, 9 1071 Ll Amsterdam
+  branch_code: XXX
+  city: Amsterdam
+  country: Netherlands
+- name: Postbank Groen N.v.
+  swift: GRNNNL21XXX
+  swift8: GRNNNL21
+  branch_name: Head Office
+  branch_address: Haarlemmerweg 520 1014 Bl Amsterdam
+  branch_code: XXX
+  city: Amsterdam
+  country: Netherlands
+- name: Private Finance B.v.
+  swift: PRVFNL21XXX
+  swift8: PRVFNL21
+  branch_name: Head Office
+  branch_address: Middendreef 269 8233 Gt Lelystad
+  branch_code: XXX
+  city: Lelystad
+  country: Netherlands
+- name: Pro Asset Management B.v.
+  swift: PAMENL21XXX
+  swift8: PAMENL21
+  branch_name: Head Office
+  branch_address: Herengracht 199-201 1016 Be Amsterdam
+  branch_code: XXX
+  city: Amsterdam
+  country: Netherlands
+- name: Proventus B.v.
+  swift: PRVNNL21XXX
+  swift8: PRVNNL21
+  branch_name: Head Office
+  branch_address: Markt 65 a 4331 Lk Middelburg
+  branch_code: XXX
+  city: Middelburg
+  country: Netherlands
+- name: Providence Capital N.v.
+  swift: PRVCNL21XXX
+  swift8: PRVCNL21
+  branch_name: Head Office
+  branch_address: Meerweg 7 1405 Ba Bussum
+  branch_code: XXX
+  city: Bussum
+  country: Netherlands
+- name: Pvf Nederland N.v.
+  swift: PVNDNL21XXX
+  swift8: PVNDNL21
+  branch_name: Head Office
+  branch_address: Molenwerf 39296 1014 Ag Amsterdam
+  branch_code: XXX
+  city: Amsterdam
+  country: Netherlands
+- name: Quantrust Vermogensbeheer B.v.
+  swift: QUVENL21XXX
+  swift8: QUVENL21
+  branch_name: Head Office
+  branch_address: Hooigracht, 40 2514 Bg S-Gravenhage
+  branch_code: XXX
+  city: S-Gravenhage
+  country: Netherlands
+- name: Qv Management B.v.
+  swift: MAGMNL21XXX
+  swift8: MAGMNL21
+  branch_name: Head Office
+  branch_address: Schoolstraat, 27 2242 Ke Wassenaar
+  branch_code: XXX
+  city: Wassenaar
+  country: Netherlands
+- name: Raet Bv
+  swift: RAETNL21XXX
+  swift8: RAETNL21
+  branch_name: Head Office
+  branch_address: Plotterweg 38 3800 Bl Amersfoort
+  branch_code: XXX
+  city: Bl Amersfoort
+  country: Netherlands
+- name: Rbc Finance B.v.
+  swift: ROYCNL21XXX
+  swift8: ROYCNL21
+  branch_name: Head Office
+  branch_address: Amsterdam
+  branch_code: XXX
+  city: Amsterdam
+  country: Netherlands
+- name: Reaal Bancaire Diensten
+  swift: REBANL21XXX
+  swift8: REBANL21
+  branch_name: No branch name
+  branch_address: No branch address
+  branch_code: XXX
+  city: Utrecht
+  country: Netherlands
+- name: Ribo Investments B.v.
+  swift: RIBNNL21XXX
+  swift8: RIBNNL21
+  branch_name: Head Office
+  branch_address: Koningstraat, 5 3319 Rk Dordrecht
+  branch_code: XXX
+  city: Dordrecht
+  country: Netherlands
+- name: Rijnlandse Bank N.v.
+  swift: RIJNNL21XXX
+  swift8: RIJNNL21
+  branch_name: Head Office
+  branch_address: Jutfaseweg 1 3522 Ha Utrecht
+  branch_code: XXX
+  city: Utrecht
+  country: Netherlands
+- name: Ritzer En Rouw Private Management B.v.
+  swift: RRPANL21XXX
+  swift8: RRPANL21
+  branch_name: Head Office
+  branch_address: Dorpstraat, 162 a 5504 Hm Veldhoven
+  branch_code: XXX
+  city: Veldhoven
+  country: Netherlands
+- name: River Options And Futures Trading B.v.
+  swift: ROFTNL21XXX
+  swift8: ROFTNL21
+  branch_name: Head Office
+  branch_address: Raadhuisdijk 21 6627 Ac Maasbommel
+  branch_code: XXX
+  city: Maasbommel
+  country: Netherlands
+- name: Robeco Effectenbank N.v.
+  swift: ROEFNL21XXX
+  swift8: ROEFNL21
+  branch_name: Head Office
+  branch_address: Herengracht 4g3 1017 Bt Amsterdam
+  branch_code: XXX
+  city: Amsterdam
+  country: Netherlands
+- name: Robeco Securities Lending B.v.
+  swift: RSELNL21XXX
+  swift8: RSELNL21
+  branch_name: Head Office
+  branch_address: Coolsingel 120 3011 Ag Rotterdam
+  branch_code: XXX
+  city: Rotterdam
+  country: Netherlands
+- name: Robein Bank N.v.
+  swift: ROBNNL21XXX
+  swift8: ROBNNL21
+  branch_name: Head Office
+  branch_address: Sophialaan 4 2514 Jp Den Haag
+  branch_code: XXX
+  city: Den Haag
+  country: Netherlands
+- name: Roku Option Traders B.v.
+  swift: ROPTNL21XXX
+  swift8: ROPTNL21
+  branch_name: Head Office
+  branch_address: Walgang 10 1411 Lm Naarden
+  branch_code: XXX
+  city: Naarden
+  country: Netherlands
+- name: Ropal Opties B.v.
+  swift: ROPINL21XXX
+  swift8: ROPINL21
+  branch_name: Head Office
+  branch_address: Koningin Julianalaan 93 3832 Bc Leusden
+  branch_code: XXX
+  city: Leusden
+  country: Netherlands
+- name: Roparco N.v.
+  swift: ROPANL21XXX
+  swift8: ROPANL21
+  branch_name: Head Office
+  branch_address: Coolsingel 120 3011 Ag Rotterdam
+  branch_code: XXX
+  city: Rotterdam
+  country: Netherlands
+- name: Rothmans Far East B.v.
+  swift: BATSNL21XXX
+  swift8: BATSNL21
+  branch_name: No branch name
+  branch_address: No branch address
+  branch_code: XXX
+  city: Amstelveen
+  country: Netherlands
+- name: Rouws En Ceulen Bureau Voor Vermogensbeheer
+  swift: RCBVNL21XXX
+  swift8: RCBVNL21
+  branch_name: Head Office
+  branch_address: Wilhelminapark, 21 4818 Sl Breda
+  branch_code: XXX
+  city: Breda
+  country: Netherlands
+- name: Rvo Vermogensadvies B.v.
+  swift: RVOVNL21XXX
+  swift8: RVOVNL21
+  branch_name: Head Office
+  branch_address: Rijksweg 116 1906 Bk Limmen
+  branch_code: XXX
+  city: Limmen
+  country: Netherlands
+- name: Sabmiller Plc
+  swift: SABMNL21AFR
+  swift8: SABMNL21
+  branch_name: Rotterdam
+  branch_address: Rotterdam
+  branch_code: AFR
+  city: Rotterdam
+  country: Netherlands
+- name: Sabmiller Plc
+  swift: SABMNL21BOT
+  swift8: SABMNL21
+  branch_name: Rotterdam
+  branch_address: Rotterdam
+  branch_code: BOT
+  city: Rotterdam
+  country: Netherlands
+- name: Sabmiller Plc
+  swift: SABMNL21MAN
+  swift8: SABMNL21
+  branch_name: Rotterdam
+  branch_address: Rotterdam
+  branch_code: MAN
+  city: Rotterdam
+  country: Netherlands
+- name: Sabmiller Plc
+  swift: SABMNL21XXX
+  swift8: SABMNL21
+  branch_name: Head Office
+  branch_address: Schouwburgplein 30-34 3012 Cl Rotterdam
+  branch_code: XXX
+  city: Rotterdam
+  country: Netherlands
+- name: Saen Options Bv
+  swift: SAOPNL21XXX
+  swift8: SAOPNL21
+  branch_name: Head Office
+  branch_address: Gebouw Candida 1012 Sj Amsterdam
+  branch_code: XXX
+  city: Amsterdam
+  country: Netherlands
+- name: Saen Trading B.v.
+  swift: SATDNL21XXX
+  swift8: SATDNL21
+  branch_name: Head Office
+  branch_address: Beursplein 5 1012 Jw Amsterdam
+  branch_code: XXX
+  city: Amsterdam
+  country: Netherlands
+- name: Saened B.v.
+  swift: SAEDNL21XXX
+  swift8: SAEDNL21
+  branch_name: Head Office
+  branch_address: Nieuwezijds Voorburgwal 120 1012 Sh Amsterdam
+  branch_code: XXX
+  city: Amsterdam
+  country: Netherlands
+- name: Samsung Electronics Europe Logistics
+  swift: SECTNL214B0
+  swift8: SECTNL21
+  branch_name: Sels
+  branch_address: Olof Palme Straat 10 2616 Lr Delft
+  branch_code: 4B0
+  city: Lr Delft
+  country: Netherlands
+- name: Samsung Electronics Europe Logistics
+  swift: SECTNL214B1
+  swift8: SECTNL21
+  branch_name: Sebn
+  branch_address: Olof Palmestraat 10 2616lr Delft
+  branch_code: 4B1
+  city: Delft
+  country: Netherlands
+- name: Samsung Electronics Europe Logistics
+  swift: SECTNL214B3
+  swift8: SECTNL21
+  branch_name: Stbn
+  branch_address: Olof Palmestraat 10 2616 Delft
+  branch_code: 4B3
+  city: Delft
+  country: Netherlands
+- name: Samsung Electronics Europe Logistics
+  swift: SECTNL214C0
+  swift8: SECTNL21
+  branch_name: Seo
+  branch_address: Delft
+  branch_code: 4C0
+  city: Delft
+  country: Netherlands
+- name: Samsung Electronics Europe Logistics
+  swift: SECTNL214N0
+  swift8: SECTNL21
+  branch_name: No branch name
+  branch_address: No branch address
+  branch_code: 4N0
+  city: Amsterdam
+  country: Netherlands
+- name: Samsung Electronics Europe Logistics
+  swift: SECTNL21XXX
+  swift8: SECTNL21
+  branch_name: Head Office
+  branch_address: Olof Palme Straat 10 2616 Lr Delft
+  branch_code: XXX
+  city: Lr Delft
+  country: Netherlands
+- name: Sares Invest B.v.
+  swift: SARNNL21XXX
+  swift8: SARNNL21
+  branch_name: Head Office
+  branch_address: Rokin, 44 Iii 1012 Kv Amsterdam
+  branch_code: XXX
+  city: Amsterdam
+  country: Netherlands
+- name: Scrocca Option Trading B.v.
+  swift: SCOGNL21XXX
+  swift8: SCOGNL21
+  branch_name: Head Office
+  branch_address: Oudezijdsvoorburgwal 302 1012 Gl Amsterdam
+  branch_code: XXX
+  city: Amsterdam
+  country: Netherlands
+- name: Scrocca Option Trading B.v.
+  swift: SCPDNL21XXX
+  swift8: SCPDNL21
+  branch_name: Head Office
+  branch_address: Malleweg 2 1902 Rx Castricum
+  branch_code: XXX
+  city: Castricum
+  country: Netherlands
+- name: Sequoia Vermogensbeheer V.o.f.
+  swift: SEVONL21XXX
+  swift8: SEVONL21
+  branch_name: Head Office
+  branch_address: Stationsweg, 6c 6861 Eg Oosterbeek
+  branch_code: XXX
+  city: Oosterbeek
+  country: Netherlands
+- name: Siberie Options N.v.
+  swift: SCVENL21XXX
+  swift8: SCVENL21
+  branch_name: Head Office
+  branch_address: Oudezijds Voorburgwal, 302 1012 Gl Amsterdam
+  branch_code: XXX
+  city: Amsterdam
+  country: Netherlands
+- name: Simon A. Cohen Vermogensbeheer B.v.
+  swift: SCVRNL21XXX
+  swift8: SCVRNL21
+  branch_name: Head Office
+  branch_address: Veerkade 7a 3016 De Rotterdam
+  branch_code: XXX
+  city: Rotterdam
+  country: Netherlands
+- name: Smart Trading
+  swift: SMTRNL21XXX
+  swift8: SMTRNL21
+  branch_name: Head Office
+  branch_address: Beursplein 5 3762 Cs Amsterdam
+  branch_code: XXX
+  city: Cs Amsterdam
+  country: Netherlands
+- name: Sns Individual Account Management B.v.
+  swift: SIAENL21XXX
+  swift8: SIAENL21
+  branch_name: Head Office
+  branch_address: Nieuwezijds Voorburgwal 162 1012 Sj Amsterdam
+  branch_code: XXX
+  city: Amsterdam
+  country: Netherlands
+- name: Sns Securities N.v.
+  swift: SNSCNL21XXX
+  swift8: SNSCNL21
+  branch_name: Head Office
+  branch_address: Nieuwezijds Voorburgwal 162 1012 Sj Amsterdam
+  branch_code: XXX
+  city: Amsterdam
+  country: Netherlands
+- name: Spaar-en Voorschotbank Nv
+  swift: SVOONL21XXX
+  swift8: SVOONL21
+  branch_name: Head Office
+  branch_address: Torenplein 7 9231 Cg Surhuisterveen
+  branch_code: XXX
+  city: Surhuisterveen
+  country: Netherlands
+- name: Spf Beheer B.v.
+  swift: SPFENL2USPF
+  swift8: SPFENL2U
+  branch_name: Utrecht
+  branch_address: Utrecht
+  branch_code: SPF
+  city: Utrecht
+  country: Netherlands
+- name: Spf Beheer B.v.
+  swift: SPFENL2USPV
+  swift8: SPFENL2U
+  branch_name: Utrecht
+  branch_address: Utrecht
+  branch_code: SPV
+  city: Utrecht
+  country: Netherlands
+- name: Spf Beheer B.v.
+  swift: SPFENL2UXXX
+  swift8: SPFENL2U
+  branch_name: Head Office
+  branch_address: Arthur Van Schendelstraat 850 3500 Ga Utrecht
+  branch_code: XXX
+  city: Utrecht
+  country: Netherlands
+- name: Spf Vermogensbeheer B.v.
+  swift: SPVENL21XXX
+  swift8: SPVENL21
+  branch_name: Head Office
+  branch_address: Binnenweg 49 2101 Jb Heemstede
+  branch_code: XXX
+  city: Heemstede
+  country: Netherlands
+- name: Spoorwegpensioenfonds
+  swift: SPORNL21XXX
+  swift8: SPORNL21
+  branch_name: Head Office
+  branch_address: Arthur Van Schendelstraat 850 3511 Ml Utrecht
+  branch_code: XXX
+  city: Utrecht
+  country: Netherlands
+- name: State Street Bank Gmbh Amsterdam Branch
+  swift: SBOSNL2AXXX
+  swift8: SBOSNL2A
+  branch_name: No branch name
+  branch_address: No branch address
+  branch_code: XXX
+  city: Jr Amsterdam
+  country: Netherlands
+- name: Steentjes Vermogensbeheer B.v.
+  swift: STVRNL21XXX
+  swift8: STVRNL21
+  branch_name: Head Office
+  branch_address: Nieuwe Ginnekenstraat 20 D 4811 Nr Breda
+  branch_code: XXX
+  city: Breda
+  country: Netherlands
+- name: Stellio Design
+  swift: STDENL21XXX
+  swift8: STDENL21
+  branch_name: Head Office
+  branch_address: Hooch 1 2951 Se Alblasserdam
+  branch_code: XXX
+  city: Alblasserdam
+  country: Netherlands
+- name: Stichting Algemeen Pensioenfonds Klm
+  swift: SAEKNL21XXX
+  swift8: SAEKNL21
+  branch_name: Head Office
+  branch_address: Prof. E.M. Meijerslaan 1 1183 Av Amstelveen
+  branch_code: XXX
+  city: Amstelveen
+  country: Netherlands
+- name: Stichting Axa Beleggingsrekening
+  swift: STXBNL21XXX
+  swift8: STXBNL21
+  branch_name: Head Office
+  branch_address: Graadt Van Roggenweg 500 3531 Ah Utrecht
+  branch_code: XXX
+  city: Utrecht
+  country: Netherlands
+- name: Stichting Bedrijfstakpensioenfonds Voor De Schoen-, Leder-en Lederwarenindustrie
+  swift: SBSDNL21XXX
+  swift8: SBSDNL21
+  branch_name: Head Office
+  branch_address: P/a Blue Sky Group Amstelveen
+  branch_code: XXX
+  city: Amstelveen
+  country: Netherlands
+- name: Stichting Beleggingsrekening Ant-trust
+  swift: STBNNL21XXX
+  swift8: STBNNL21
+  branch_name: Head Office
+  branch_address: Claude Debussylaan, 24 1082 Md Amsterdam
+  branch_code: XXX
+  city: Amsterdam
+  country: Netherlands
+- name: Stichting Degiro
+  swift: STDGNL21XXX
+  swift8: STDGNL21
+  branch_name: No branch name
+  branch_address: No branch address
+  branch_code: XXX
+  city: Bz Amsterdam
+  country: Netherlands
+- name: Stichting Depositogarantiefonds
+  swift: STDINL21XXX
+  swift8: STDINL21
+  branch_name: Head Office
+  branch_address: Westeinde 1 1017 Zn Amsterdam
+  branch_code: XXX
+  city: Amsterdam
+  country: Netherlands
+- name: Stichting Pensioenfonds Astellas
+  swift: STFTNL21XXX
+  swift8: STFTNL21
+  branch_name: No branch name
+  branch_address: No branch address
+  branch_code: XXX
+  city: Amsterdam
+  country: Netherlands
+- name: Stichting Pensioenfonds Azl
+  swift: STNZNL21XXX
+  swift8: STNZNL21
+  branch_name: No branch name
+  branch_address: No branch address
+  branch_code: XXX
+  city: Amsterdam
+  country: Netherlands
+- name: Stichting Pensioenfonds Ballast Nedam
+  swift: SPTDNL21XXX
+  swift8: SPTDNL21
+  branch_name: No branch name
+  branch_address: No branch address
+  branch_code: XXX
+  city: Amsterdam
+  country: Netherlands
+- name: Stichting Pensioenfonds Blue Sky Group
+  swift: SPBYNL21XXX
+  swift8: SPBYNL21
+  branch_name: Head Office
+  branch_address: Prof. E.M. Meijerslaan 1 1183 Av Amstelveen
+  branch_code: XXX
+  city: Amstelveen
+  country: Netherlands
+- name: Stichting Pensioenfonds Cap Gemini Nederland
+  swift: SEPGNL21XXX
+  swift8: SEPGNL21
+  branch_name: No branch name
+  branch_address: No branch address
+  branch_code: XXX
+  city: Amsterdam
+  country: Netherlands
+- name: Stichting Pensioenfonds Croda
+  swift: STSDNL21XXX
+  swift8: STSDNL21
+  branch_name: No branch name
+  branch_address: No branch address
+  branch_code: XXX
+  city: Amsterdam
+  country: Netherlands
+- name: Stichting Pensioenfonds Eriks
+  swift: STNKNL21XXX
+  swift8: STNKNL21
+  branch_name: No branch name
+  branch_address: No branch address
+  branch_code: XXX
+  city: Amsterdam
+  country: Netherlands
+- name: Stichting Pensioenfonds Gazelle
+  swift: STEZNL21XXX
+  swift8: STEZNL21
+  branch_name: No branch name
+  branch_address: No branch address
+  branch_code: XXX
+  city: Amsterdam
+  country: Netherlands
+- name: Stichting Pensioenfonds Hoogovens
+  swift: STPHNL21XXX
+  swift8: STPHNL21
+  branch_name: Head Office
+  branch_address: Ijmuiden
+  branch_code: XXX
+  city: Ijmuiden
+  country: Netherlands
+- name: Stichting Pensioenfonds Huntsman Rozenburg
+  swift: SPHZNL21XXX
+  swift8: SPHZNL21
+  branch_name: No branch name
+  branch_address: No branch address
+  branch_code: XXX
+  city: Amsterdam
+  country: Netherlands
+- name: Stichting Pensioenfonds Klm-cabinepersoneel
+  swift: STPKNL21XXX
+  swift8: STPKNL21
+  branch_name: Head Office
+  branch_address: Prof. E.M. Meijerslaan 1 1183 Av Amstelveen
+  branch_code: XXX
+  city: Amstelveen
+  country: Netherlands
+- name: Stichting Pensioenfonds Metaal En Techniek
+  swift: SPMTNL21XXX
+  swift8: SPMTNL21
+  branch_name: Head Office
+  branch_address: Burg Elsenlann 329 2282m2 Rijswijk
+  branch_code: XXX
+  city: Rijswijk
+  country: Netherlands
+- name: Stichting Pensioenfonds Openbare Bibliotheken
+  swift: SPNHNL21XXX
+  swift8: SPNHNL21
+  branch_name: No branch name
+  branch_address: No branch address
+  branch_code: XXX
+  city: Amsterdam
+  country: Netherlands
+- name: Stichting Pensioenfonds Staples
+  swift: SPNPNL21CM1
+  swift8: SPNPNL21
+  branch_name: No branch name
+  branch_address: No branch address
+  branch_code: CM1
+  city: Amsterdam
+  country: Netherlands
+- name: Stichting Pensioenfonds Staples
+  swift: SPNPNL21CM2
+  swift8: SPNPNL21
+  branch_name: No branch name
+  branch_address: No branch address
+  branch_code: CM2
+  city: Amsterdam
+  country: Netherlands
+- name: Stichting Pensioenfonds Staples
+  swift: SPNPNL21OPT
+  swift8: SPNPNL21
+  branch_name: No branch name
+  branch_address: No branch address
+  branch_code: OPT
+  city: Amsterdam
+  country: Netherlands
+- name: Stichting Pensioenfonds Staples
+  swift: SPNPNL21XXX
+  swift8: SPNPNL21
+  branch_name: No branch name
+  branch_address: No branch address
+  branch_code: XXX
+  city: Amsterdam
+  country: Netherlands
+- name: Stichting Pensioenfonds Tandartsen En Tandartsspecialisten
+  swift: SPTPNL21XXX
+  swift8: SPTPNL21
+  branch_name: No branch name
+  branch_address: No branch address
+  branch_code: XXX
+  city: Amsterdam
+  country: Netherlands
+- name: Stichting Pensioenfonds Voor Het Vliegend Personeel Klm
+  swift: SPHHNL21XXX
+  swift8: SPHHNL21
+  branch_name: Head Office
+  branch_address: Prof. E.M. Meijerslaan 1 1183 Av Amstelveen
+  branch_code: XXX
+  city: Amstelveen
+  country: Netherlands
+- name: Stichting Pensioenfonds Will Niemeijer
+  swift: SPWJNL21XXX
+  swift8: SPWJNL21
+  branch_name: No branch name
+  branch_address: No branch address
+  branch_code: XXX
+  city: Amsterdam
+  country: Netherlands
+- name: Stichting Total Pensioenfonds Nederland
+  swift: STNENL21XXX
+  swift8: STNENL21
+  branch_name: Head Office
+  branch_address: P/a Blue Sky Group 1183 Av Amstelveen
+  branch_code: XXX
+  city: Amstelveen
+  country: Netherlands
+- name: Stichting Trust Pensioenfonds Pvf N.v.
+  swift: STPPNL21XXX
+  swift8: STPPNL21
+  branch_name: Head Office
+  branch_address: Amsterdam
+  branch_code: XXX
+  city: Amsterdam
+  country: Netherlands
+- name: Stichting Vakbondsspaarbank Spn
+  swift: STVSNL21XXX
+  swift8: STVSNL21
+  branch_name: Head Office
+  branch_address: Mr. Treublaan 1097 Dp Amsterdam
+  branch_code: XXX
+  city: Amsterdam
+  country: Netherlands
+- name: Stockwave Order Execution B.v.
+  swift: STOUNL21XXX
+  swift8: STOUNL21
+  branch_name: Head Office
+  branch_address: Herengracht, 141 1015 Bh Amsterdam
+  branch_code: XXX
+  city: Amsterdam
+  country: Netherlands
+- name: Stom En Geusebroek B.v.
+  swift: STGENL21XXX
+  swift8: STGENL21
+  branch_name: Head Office
+  branch_address: Professor J H Bavinckln, 5 1183 at Amstelveen
+  branch_code: XXX
+  city: Amstelveen
+  country: Netherlands
+- name: Stroeve En Co. Breda N.v.
+  swift: STBENL21XXX
+  swift8: STBENL21
+  branch_name: Head Office
+  branch_address: Seeligsingel, 7 4811 Cn Breda
+  branch_code: XXX
+  city: Breda
+  country: Netherlands
+- name: Sucden (uk) Ltd.
+  swift: SCDDNL21XXX
+  swift8: SCDDNL21
+  branch_name: Head Office
+  branch_address: 1e Dorpsstraat, 22 3701 Hb Zeist
+  branch_code: XXX
+  city: Zeist
+  country: Netherlands
+- name: Sumiclear Europe B.v.
+  swift: SUCLNL21XXX
+  swift8: SUCLNL21
+  branch_name: Head Office
+  branch_address: World Trade Center 1077 Xx Amsterdam
+  branch_code: XXX
+  city: Amsterdam
+  country: Netherlands
+- name: Summer Traders B.v.
+  swift: SUMRNL21XXX
+  swift8: SUMRNL21
+  branch_name: Head Office
+  branch_address: Baljuw 17 1412 Dj Naarden
+  branch_code: XXX
+  city: Naarden
+  country: Netherlands
+- name: Svb
+  swift: SOVENL31XXX
+  swift8: SOVENL31
+  branch_name: Head Office
+  branch_address: Van Heuven Goedhartlaan 1 1181 Kj Amstelveen
+  branch_code: XXX
+  city: Amstelveen
+  country: Netherlands
+- name: Swiss Life Asset Management (nederland) B.v.
+  swift: SLSNNL21XXX
+  swift8: SLSNNL21
+  branch_name: Head Office
+  branch_address: Burgemeester Rijnderslaan 7 1185 Md Amstelveen
+  branch_code: XXX
+  city: Amstelveen
+  country: Netherlands
+- name: Tappel Trading B.v.
+  swift: TAPRNL21XXX
+  swift8: TAPRNL21
+  branch_name: Head Office
+  branch_address: 1e Jan Vd Heijdenstr 32, 2v 1072 Tv Amsterdam
+  branch_code: XXX
+  city: Amsterdam
+  country: Netherlands
+- name: Tene Effecten B.v.
+  swift: TENENL21XXX
+  swift8: TENENL21
+  branch_name: Head Office
+  branch_address: 2e Hogeweg, 12 3701 Az Zeist
+  branch_code: XXX
+  city: Zeist
+  country: Netherlands
+- name: Teulings Van Der Hoeven Van Beuningen Vermogensbeheer
+  swift: THBVNL21XXX
+  swift8: THBVNL21
+  branch_name: Head Office
+  branch_address: Dorpsstraat, 1a 5261 Cj Vught
+  branch_code: XXX
+  city: Vught
+  country: Netherlands
+- name: The Hague Options I B.v.
+  swift: HAOPNL21XXX
+  swift8: HAOPNL21
+  branch_name: Head Office
+  branch_address: Waalsdorperweg 53 2597 Hp S-Gravenhage
+  branch_code: XXX
+  city: S-Gravenhage
+  country: Netherlands
+- name: The Last Lap B.v.
+  swift: LLAPNL21XXX
+  swift8: LLAPNL21
+  branch_name: Head Office
+  branch_address: P Cornelisz Hooftstr 138-2 1071 Ce Amsterdam
+  branch_code: XXX
+  city: Amsterdam
+  country: Netherlands
+- name: The Royal Bank Of Scotland Plc Amsterdam
+  swift: RBOSNL2XEQT
+  swift8: RBOSNL2X
+  branch_name: Equity Operations
+  branch_address: Amsterdam
+  branch_code: EQT
+  city: Amsterdam
+  country: Netherlands
+- name: The Royal Bank Of Scotland Plc Amsterdam
+  swift: RBOSNL2XTCM
+  swift8: RBOSNL2X
+  branch_name: Markets and Intl Banking Operations
+  branch_address: Amsterdam
+  branch_code: TCM
+  city: Amsterdam
+  country: Netherlands
+- name: The Royal Bank Of Scotland Plc Amsterdam
+  swift: RBOSNL2XXXX
+  swift8: RBOSNL2X
+  branch_name: Head Office
+  branch_address: Gustav Mahlerlaan 350 1082 Me Amsterdam
+  branch_code: XXX
+  city: Amsterdam
+  country: Netherlands
+- name: Theta Capital Management B.v.
+  swift: THCMNL21XXX
+  swift8: THCMNL21
+  branch_name: Head Office
+  branch_address: De Lairessestraat, 180 1075 Hm Amsterdam
+  branch_code: XXX
+  city: Amsterdam
+  country: Netherlands
+- name: Tibra Trading Netherlands B.v.
+  swift: TITNNL21XXX
+  swift8: TITNNL21
+  branch_name: Head Office
+  branch_address: Singel 373 1012 Wl Amsterdam
+  branch_code: XXX
+  city: Amsterdam
+  country: Netherlands
+- name: Tielkemeijer En Partners Vermogensbeheer B.v.
+  swift: TIPVNL21XXX
+  swift8: TIPVNL21
+  branch_name: Head Office
+  branch_address: Rivium Westlaan, 17 2909 Ld Capelle Aan Den Ijssel
+  branch_code: XXX
+  city: Capelle Aan Den Ijssel
+  country: Netherlands
+- name: Tkp Investments Bv
+  swift: TKPINL21XXX
+  swift8: TKPINL21
+  branch_name: Head Office
+  branch_address: Stationsplein 9 9726 Ae Groningen
+  branch_code: XXX
+  city: Groningen
+  country: Netherlands
+- name: Today's Beheer B.v.
+  swift: TODBNL21XXX
+  swift8: TODBNL21
+  branch_name: Head Office
+  branch_address: Keizersgracht, 680-1 1017 Et Amsterdam
+  branch_code: XXX
+  city: Amsterdam
+  country: Netherlands
+- name: Tom Broker B.v. (tom Smart Execution
+  swift: TOMTNL21XXX
+  swift8: TOMTNL21
+  branch_name: Head Office
+  branch_address: Barbara Strozzilaan 310-322 Amsterdam
+  branch_code: XXX
+  city: Amsterdam
+  country: Netherlands
+- name: Total Investment Services B.v.
+  swift: TOISNL21XXX
+  swift8: TOISNL21
+  branch_name: Head Office
+  branch_address: Ooisestraat, 4 4054 Mn Echteld
+  branch_code: XXX
+  city: Echteld
+  country: Netherlands
+- name: Tradingport B.v.
+  swift: TRDNNL21XXX
+  swift8: TRDNNL21
+  branch_name: Head Office
+  branch_address: Corkstraat, 46 3047 Ac Rotterdam
+  branch_code: XXX
+  city: Rotterdam
+  country: Netherlands
+- name: Tradit
+  swift: TRDTNL21XXX
+  swift8: TRDTNL21
+  branch_name: Head Office
+  branch_address: Schipholweg 89b 2316 Zl Leiden
+  branch_code: XXX
+  city: Leiden
+  country: Netherlands
+- name: Transtrend B.v.
+  swift: TRNENL21XXX
+  swift8: TRNENL21
+  branch_name: Head Office
+  branch_address: Weena Unit C5.070 723 3013 Am Rotterdam
+  branch_code: XXX
+  city: Rotterdam
+  country: Netherlands
+- name: Travelex Bank N.v.
+  swift: TRVXNL21XXX
+  swift8: TRVXNL21
+  branch_name: Head Office
+  branch_address: Wisselwerking 2-6 1112xk Diemen
+  branch_code: XXX
+  city: Diemen
+  country: Netherlands
+- name: Triodos Meespierson Sustainable Investment Management B.v.
+  swift: TMSINL21XXX
+  swift8: TMSINL21
+  branch_name: Head Office
+  branch_address: Varrolaan 51 3584 Bt Utrecht
+  branch_code: XXX
+  city: Utrecht
+  country: Netherlands
+- name: Trustpartners N.v.
+  swift: TRUPNL21XXX
+  swift8: TRUPNL21
+  branch_name: Head Office
+  branch_address: Marathon, 3 C 1213 Pb Hilversum
+  branch_code: XXX
+  city: Hilversum
+  country: Netherlands
+- name: Trustus Capital Management B.v.
+  swift: TRPGNL21XXX
+  swift8: TRPGNL21
+  branch_name: Head Office
+  branch_address: Sewei 2 8501 Sp Joure
+  branch_code: XXX
+  city: Joure
+  country: Netherlands
+- name: Turtle Trading B.v.
+  swift: TURTNL21XXX
+  swift8: TURTNL21
+  branch_name: Head Office
+  branch_address: Singel 373 Iv 1012 Wl Amsterdam
+  branch_code: XXX
+  city: Amsterdam
+  country: Netherlands
+- name: Ubs Investment Bank Nederland Bv
+  swift: SBWRNL21XXX
+  swift8: SBWRNL21
+  branch_name: Head Office
+  branch_address: Herengracht 564 1017 Ch Amsterdam
+  branch_code: XXX
+  city: Amsterdam
+  country: Netherlands
+- name: Ufj Bank Nederland N.v.
+  swift: UFJNNL21XXX
+  swift8: UFJNNL21
+  branch_name: Head Office
+  branch_address: Keizersgracht 452 1016 Gd Amsterdam
+  branch_code: XXX
+  city: Amsterdam
+  country: Netherlands
+- name: Unigarant Financiele Diensten B.v.
+  swift: UNFDNL21XXX
+  swift8: UNFDNL21
+  branch_name: Head Office
+  branch_address: Plotterweg 33 3821 Bb Amersfoort
+  branch_code: XXX
+  city: Amersfoort
+  country: Netherlands
+- name: Unilever
+  swift: UNLLNL21XXX
+  swift8: UNLLNL21
+  branch_name: Head Office
+  branch_address: Weena 455 3013 Al Rotterdam
+  branch_code: XXX
+  city: Rotterdam
+  country: Netherlands
+- name: Unilever Beleggingsbank Bv
+  swift: UNBGNL21XXX
+  swift8: UNBGNL21
+  branch_name: Head Office
+  branch_address: Weena 457 3013 Al Rotterdam
+  branch_code: XXX
+  city: Rotterdam
+  country: Netherlands
+- name: Unilever Plc
+  swift: UNLENL21XXX
+  swift8: UNLENL21
+  branch_name: Head Office
+  branch_address: Corporate Centre 3013 Al Rotterdam
+  branch_code: XXX
+  city: Rotterdam
+  country: Netherlands
+- name: Unisys Payment Services And Solutions
+  swift: UPSONL21XXX
+  swift8: UPSONL21
+  branch_name: Head Office
+  branch_address: Olmenlaan 1 3833 Av Leusden
+  branch_code: XXX
+  city: Leusden
+  country: Netherlands
+- name: Utr8 Bv
+  swift: UTRUNL21XXX
+  swift8: UTRUNL21
+  branch_name: Head Office
+  branch_address: Groenmarktstraat 58 3521av Utrecht
+  branch_code: XXX
+  city: Utrecht
+  country: Netherlands
+- name: Van Amstberg Capital Management B.v.
+  swift: AMCGNL21XXX
+  swift8: AMCGNL21
+  branch_name: Head Office
+  branch_address: Sophialaan, 1 1213 Xk Hilversum
+  branch_code: XXX
+  city: Hilversum
+  country: Netherlands
+- name: Van De Wolken Knappe
+  swift: VDWKNL21XXX
+  swift8: VDWKNL21
+  branch_name: Head Office
+  branch_address: Westermarkt 2 1016 Dk Amsterdam
+  branch_code: XXX
+  city: Amsterdam
+  country: Netherlands
+- name: Van Der Hoop Effecten Bank N.v.
+  swift: HOEFNL21XXX
+  swift8: HOEFNL21
+  branch_name: Head Office
+  branch_address: Herengracht 469 1000 Ae Amsterdam
+  branch_code: XXX
+  city: Amsterdam
+  country: Netherlands
+- name: Van Der Moolen Effectenspecialist B.v.
+  swift: MOEFNL21XXX
+  swift8: MOEFNL21
+  branch_name: Head Office
+  branch_address: Keizersgracht 307 1016 Eo Amsterdam
+  branch_code: XXX
+  city: Amsterdam
+  country: Netherlands
+- name: Van Der Moolen Financial Services B.v.
+  swift: MOFVNL21XXX
+  swift8: MOFVNL21
+  branch_name: Head Office
+  branch_address: Nieuwezijds Voorburgwal, 120 1012 Sh Amsterdam
+  branch_code: XXX
+  city: Amsterdam
+  country: Netherlands
+- name: Van Der Moolen Obligaties B.v.
+  swift: MOOINL21XXX
+  swift8: MOOINL21
+  branch_name: Head Office
+  branch_address: Keizersgracht 307 1016 Ed Amsterdam
+  branch_code: XXX
+  city: Amsterdam
+  country: Netherlands
+- name: Van Doorenmalen En Partners Vermogensconsultancy
+  swift: DOPVNL21XXX
+  swift8: DOPVNL21
+  branch_name: Head Office
+  branch_address: Pampuslaan, 1 1382 Jm Weesp
+  branch_code: XXX
+  city: Weesp
+  country: Netherlands
+- name: Van Doorn Securities B.v.
+  swift: VDOSNL21XXX
+  swift8: VDOSNL21
+  branch_name: Head Office
+  branch_address: Herenstaele 1016 Bs Amsterdam
+  branch_code: XXX
+  city: Amsterdam
+  country: Netherlands
+- name: Van Doorn Trust And Securities Bv
+  swift: DOTSNL21XXX
+  swift8: DOTSNL21
+  branch_name: Head Office
+  branch_address: Dam 27 1012 Js Amsterdam
+  branch_code: XXX
+  city: Amsterdam
+  country: Netherlands
+- name: Van Gansewinkel Groep Bv
+  swift: VGWGNL2EXXX
+  swift8: VGWGNL2E
+  branch_name: No branch name
+  branch_address: No branch address
+  branch_code: XXX
+  city: Eindhoven
+  country: Netherlands
+- name: Van Gansewinkel Groep Bv
+  swift: VGWGNL21XXX
+  swift8: VGWGNL21
+  branch_name: Head Office
+  branch_address: 240 Flight Forum 5657 Dh Eindhoven
+  branch_code: XXX
+  city: Eindhoven
+  country: Netherlands
+- name: Van Lawick En Co Vermogensbeheer C.v.
+  swift: LAWVNL21XXX
+  swift8: LAWVNL21
+  branch_name: Head Office
+  branch_address: Van Hengellaan, 2 1217 as Hilversum
+  branch_code: XXX
+  city: Hilversum
+  country: Netherlands
+- name: Van Lieshout En Partners N.v.
+  swift: LIPANL21XXX
+  swift8: LIPANL21
+  branch_name: Head Office
+  branch_address: Maliebaan, 45 3581 Cd Utrecht
+  branch_code: XXX
+  city: Utrecht
+  country: Netherlands
+- name: Vattenfall Energy Trading Netherlands Nv
+  swift: VETTNL21XXX
+  swift8: VETTNL21
+  branch_name: Head Office
+  branch_address: Spaklerweg 20 1096 Ba Amsterdam
+  branch_code: XXX
+  city: Amsterdam
+  country: Netherlands
+- name: Vbk Services (netherlands) B.v.
+  swift: VBKSNLA1XXX
+  swift8: VBKSNLA1
+  branch_name: Head Office
+  branch_address: Oetgenstraat 95 1091 Rc Amsterdam
+  branch_code: XXX
+  city: Amsterdam
+  country: Netherlands
+- name: Velthuijse En Mulder Vermogensbeheer B.v.
+  swift: VEMVNL21XXX
+  swift8: VEMVNL21
+  branch_name: Head Office
+  branch_address: Herengracht 466 1017 Ca Amsterdam
+  branch_code: XXX
+  city: Amsterdam
+  country: Netherlands
+- name: Verhoef En Van Jaarsveld Vermogensbeheer
+  swift: VEJVNL21XXX
+  swift8: VEJVNL21
+  branch_name: Head Office
+  branch_address: St. Ignatiusstraat, 253b 4817 Kk Breda
+  branch_code: XXX
+  city: Breda
+  country: Netherlands
+- name: Vermogens Advies Administratie B.v.
+  swift: VEADNL21XXX
+  swift8: VEADNL21
+  branch_name: Head Office
+  branch_address: Rembrandt Tower 1096 Ha Amsterdam
+  branch_code: XXX
+  city: Amsterdam
+  country: Netherlands
+- name: Vermogensparaplu Beheer B.v.
+  swift: VEBENL21XXX
+  swift8: VEBENL21
+  branch_name: Head Office
+  branch_address: Rembrandt Tower 1096 Ha Amsterdam
+  branch_code: XXX
+  city: Amsterdam
+  country: Netherlands
+- name: Verwer En Janssen Vermogensmanagement B.v.
+  swift: VJAVNL21XXX
+  swift8: VJAVNL21
+  branch_name: Head Office
+  branch_address: Antoniusdreef, 2 4564 as Sint Jansteen
+  branch_code: XXX
+  city: Sint Jansteen
+  country: Netherlands
+- name: Vierlander Effecten N.v.
+  swift: VIEFNL21XXX
+  swift8: VIEFNL21
+  branch_name: Head Office
+  branch_address: Herengracht 199-201 1016 Be Amsterdam
+  branch_code: XXX
+  city: Amsterdam
+  country: Netherlands
+- name: Vladeracken B.v.
+  swift: VLARNL21XXX
+  swift8: VLARNL21
+  branch_name: Head Office
+  branch_address: Frankenstraat, 26 2582 Sl S-Gravenhage
+  branch_code: XXX
+  city: S-Gravenhage
+  country: Netherlands
+- name: Vola Financieringsmaatschappij B.v.
+  swift: VOLFNL21XXX
+  swift8: VOLFNL21
+  branch_name: Head Office
+  branch_address: Mr. Treublaan 7 1097 Dp Amsterdam
+  branch_code: XXX
+  city: Amsterdam
+  country: Netherlands
+- name: Volkswagen Bank Gmbh Filiaal Nederland
+  swift: VOWANL21DFM
+  swift8: VOWANL21
+  branch_name: Dfm N V
+  branch_address: Amersfoort
+  branch_code: DFM
+  city: Amersfoort
+  country: Netherlands
+- name: Volkswagen Bank Gmbh Filiaal Nederland
+  swift: VOWANL21XXX
+  swift8: VOWANL21
+  branch_name: Head Office
+  branch_address: Terminalweg 20 3821 Aj Amersfoort
+  branch_code: XXX
+  city: Amersfoort
+  country: Netherlands
+- name: Volkswagen International Finance N.v
+  swift: VOIFNL21XXX
+  swift8: VOIFNL21
+  branch_name: No branch name
+  branch_address: No branch address
+  branch_code: XXX
+  city: Amsterdam
+  country: Netherlands
+- name: Vpv Bankiers Nv
+  swift: VPVGNL21XXX
+  swift8: VPVGNL21
+  branch_name: Head Office
+  branch_address: Oosthaven 52 2801 Pe Gouda
+  branch_code: XXX
+  city: Gouda
+  country: Netherlands
+- name: Vpv Bankiers Nv
+  swift: VPVGNL22XXX
+  swift8: VPVGNL22
+  branch_name: Head Office
+  branch_address: Oosthaven 52 2801 Pe Gouda
+  branch_code: XXX
+  city: Gouda
+  country: Netherlands
+- name: Vsb Bank N.v.
+  swift: VSBVNL21XXX
+  swift8: VSBVNL21
+  branch_name: Head Office
+  branch_address: Archimedeslaan 6 3584 Ba Utrecht
+  branch_code: XXX
+  city: Utrecht
+  country: Netherlands
+- name: Vw International Payment Services
+  swift: VIPSNL21XXX
+  swift8: VIPSNL21
+  branch_name: No branch name
+  branch_address: No branch address
+  branch_code: XXX
+  city: Amsterdam
+  country: Netherlands
+- name: Waerdeveldt B.v. Asset Management Amsterdamse Effectenbeurs
+  swift: WAMMNL21XXX
+  swift8: WAMMNL21
+  branch_name: Head Office
+  branch_address: Amsterdamse Effectenbeurs 1012 Jw Amsterdam
+  branch_code: XXX
+  city: Amsterdam
+  country: Netherlands
+- name: Wallaart Derivatives B.v.
+  swift: WADENL21XXX
+  swift8: WADENL21
+  branch_name: Head Office
+  branch_address: Oude Zeeweg 51 a 2202 Cj Noordwijk
+  branch_code: XXX
+  city: Noordwijk
+  country: Netherlands
+- name: Wallich En Matthes B.v.
+  swift: WALMNL21XXX
+  swift8: WALMNL21
+  branch_name: Head Office
+  branch_address: Keizersgracht, 307 1016 Ed Amsterdam
+  branch_code: XXX
+  city: Amsterdam
+  country: Netherlands
+- name: Waterland Investment Services B.v.
+  swift: WAIENL21XXX
+  swift8: WAIENL21
+  branch_name: Head Office
+  branch_address: Kooltjesbuurt Het Arsenaal Naarden 1411 Rz Naarden
+  branch_code: XXX
+  city: Naarden
+  country: Netherlands
+- name: Wealth Management Partners N.v.
+  swift: WMPANL21XXX
+  swift8: WMPANL21
+  branch_name: Head Office
+  branch_address: Commerce Parc, Gebouw E 1186 Dm Amstelveen
+  branch_code: XXX
+  city: Amstelveen
+  country: Netherlands
+- name: Webb Traders Bv
+  swift: WETRNL21XXX
+  swift8: WETRNL21
+  branch_name: Head Office
+  branch_address: De Ruyterkade 112 1011 Ab Amsterdam
+  branch_code: XXX
+  city: Amsterdam
+  country: Netherlands
+- name: Wesa-effecten B.v.
+  swift: WESFNL21XXX
+  swift8: WESFNL21
+  branch_name: Head Office
+  branch_address: Singel 540 1017 Az Amsterdam
+  branch_code: XXX
+  city: Amsterdam
+  country: Netherlands
+- name: Westlandutrecht Bank
+  swift: WUBKNL21XXX
+  swift8: WUBKNL21
+  branch_name: Head Office
+  branch_address: Treublaan 7 1097 Dp Amsterdam
+  branch_code: XXX
+  city: Amsterdam
+  country: Netherlands
+- name: Westlandutrecht Bank
+  swift: WUBKNL2AXXX
+  swift8: WUBKNL2A
+  branch_name: Head Office
+  branch_address: Treublaan 7 1097 Dp Amsterdam
+  branch_code: XXX
+  city: Amsterdam
+  country: Netherlands
+- name: Westlandutrecht Effectenbank N.v.
+  swift: AMSTNL21XXX
+  swift8: AMSTNL21
+  branch_name: Head Office
+  branch_address: Paleisstraat 1 1012 Rb Amsterdam
+  branch_code: XXX
+  city: Amsterdam
+  country: Netherlands
+- name: Westlandutrecht Hypotheekbank N.v.
+  swift: WEHPNL21XXX
+  swift8: WEHPNL21
+  branch_name: Head Office
+  branch_address: Mr. Treublaan 7 1097 Dp Amsterdam
+  branch_code: XXX
+  city: Amsterdam
+  country: Netherlands
+- name: Westplan Investors Participaties B.v.
+  swift: WEIPNL21XXX
+  swift8: WEIPNL21
+  branch_name: Head Office
+  branch_address: Haven, 3b 2161 Ks Lisse
+  branch_code: XXX
+  city: Lisse
+  country: Netherlands
+- name: Wijs En Van Oostveen B.v.
+  swift: WIJSNL21XXX
+  swift8: WIJSNL21
+  branch_name: Head Office
+  branch_address: Herengracht, 491 1017 Bt Amsterdam
+  branch_code: XXX
+  city: Amsterdam
+  country: Netherlands
+- name: Wilgenhaege Vermogensbeheer B.v.
+  swift: WILVNL21XXX
+  swift8: WILVNL21
+  branch_name: Head Office
+  branch_address: Polarisavenue, 97 2132 Jh Hoofddorp
+  branch_code: XXX
+  city: Hoofddorp
+  country: Netherlands
+- name: Wilshire Associates Europe B.v.
+  swift: WIAENL21XXX
+  swift8: WIAENL21
+  branch_name: Head Office
+  branch_address: Wtc, Tower H 1077 Xv Amsterdam
+  branch_code: XXX
+  city: Amsterdam
+  country: Netherlands
+- name: Win Trading B.v.
+  swift: WITRNL21XXX
+  swift8: WITRNL21
+  branch_name: Head Office
+  branch_address: Middenweg 124 1462 Hk Middenbeemster
+  branch_code: XXX
+  city: Middenbeemster
+  country: Netherlands
+- name: Winchester Capital B.v.
+  swift: WIAPNL21XXX
+  swift8: WIAPNL21
+  branch_name: Head Office
+  branch_address: Keizersgracht 127 1015 Cj Amsterdam
+  branch_code: XXX
+  city: Amsterdam
+  country: Netherlands
+- name: Wjm Trading B.v.
+  swift: WJMTNL21XXX
+  swift8: WJMTNL21
+  branch_name: Head Office
+  branch_address: Evert Van De Beekstraat 42 1118 Cl Schiphol
+  branch_code: XXX
+  city: Schiphol
+  country: Netherlands
+- name: Wolters, Wolkers En Co B.v.
+  swift: WOWONL21XXX
+  swift8: WOWONL21
+  branch_name: Head Office
+  branch_address: Eisenhowerlaan, 124 2517 Km S-Gravenhage
+  branch_code: XXX
+  city: S-Gravenhage
+  country: Netherlands
+- name: Wtss B.v.
+  swift: WTSSNL2RXXX
+  swift8: WTSSNL2R
+  branch_name: Head Office
+  branch_address: 59 Jan Ligthartstraat 3083al Rotterdam
+  branch_code: XXX
+  city: Rotterdam
+  country: Netherlands
+- name: Zom Holland B.v.
+  swift: ZOHONL21XXX
+  swift8: ZOHONL21
+  branch_name: Head Office
+  branch_address: Westerdorpsstraat 68 a 3871 Az Hoevelaken
+  branch_code: XXX
+  city: Hoevelaken
+  country: Netherlands
+- name: Zwitserleven Vermogensbeheer N.v.
+  swift: ZWVENL21XXX
+  swift8: ZWVENL21
+  branch_name: Head Office
+  branch_address: Burgemeester Rijnderslaan 7 1185 Md Amstelveen
+  branch_code: XXX
+  city: Amstelveen
+  country: Netherlands

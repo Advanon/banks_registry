@@ -1,0 +1,3362 @@
+---
+TR:
+- name: Adabank A.S.
+  swift: ADABTRISXXX
+  swift8: ADABTRIS
+  branch_name: Head Office
+  branch_address: Rumeli Han 34387 Istanbul
+  branch_code: XXX
+  city: Istanbul
+  country: Turkey
+- name: Akbank T.A.S.
+  swift: AKBKTRIS002
+  swift8: AKBKTRIS
+  branch_name: 01010 Adana
+  branch_address: Cinarli Mah. Ataturk Caddesi 17 01010 Adana
+  branch_code: '002'
+  city: Adana
+  country: Turkey
+- name: Akbank T.A.S.
+  swift: AKBKTRIS005
+  swift8: AKBKTRIS
+  branch_name: 06041 Ankara
+  branch_address: Ataturk Bulvari 5/B Ulus 06041 Ankara
+  branch_code: '005'
+  city: Ankara
+  country: Turkey
+- name: Akbank T.A.S.
+  swift: AKBKTRIS056
+  swift8: AKBKTRIS
+  branch_name: 07001 Antalya
+  branch_address: Elmali Mah. Kazim Ozalp Caddesi 37 07001 Antalya
+  branch_code: '056'
+  city: Antalya
+  country: Turkey
+- name: Akbank T.A.S.
+  swift: AKBKTRIS043
+  swift8: AKBKTRIS
+  branch_name: 16020 Bursa
+  branch_address: Karaseyh Mah. Ataturk Caddesi 49 16020 Bursa
+  branch_code: '043'
+  city: Bursa
+  country: Turkey
+- name: Akbank T.A.S.
+  swift: AKBKTRIS012
+  swift8: AKBKTRIS
+  branch_name: Denizli Branch
+  branch_address: Saraylar Mah. Oguzhan Cadessi 8 20100 Denizli
+  branch_code: '012'
+  city: Denizli
+  country: Turkey
+- name: Akbank T.A.S.
+  swift: AKBKTRIS057
+  swift8: AKBKTRIS
+  branch_name: 27001 Gaziantep
+  branch_address: Dugmeci Mah. Suburcu Caddesi 28 27001 Gaziantep
+  branch_code: '057'
+  city: Gaziantep
+  country: Turkey
+- name: Akbank T.A.S.
+  swift: AKBKTRIS035
+  swift8: AKBKTRIS
+  branch_name: 31200 Iskenderun
+  branch_address: Maresal Cakmak Caddesi 7 31200 Iskenderun
+  branch_code: '035'
+  city: Iskenderun
+  country: Turkey
+- name: Akbank T.A.S.
+  swift: AKBKTRIS004
+  swift8: AKBKTRIS
+  branch_name: Bahcekapi Branch
+  branch_address: Buyuk Postane Caddesi 47 Eminonu 34435 Istanbul
+  branch_code: '004'
+  city: Istanbul
+  country: Turkey
+- name: Akbank T.A.S.
+  swift: AKBKTRIS019
+  swift8: AKBKTRIS
+  branch_name: Galata Branch
+  branch_address: Eski Gumruk Sok. 2 Karakoy 80030 Istanbul
+  branch_code: '019'
+  city: Istanbul
+  country: Turkey
+- name: Akbank T.A.S.
+  swift: AKBKTRIS020
+  swift8: AKBKTRIS
+  branch_name: Kadikoy Branch
+  branch_address: Sogutlucesme Caddesi 15/17 Kadikoy 81320 Istanbul
+  branch_code: '020'
+  city: Istanbul
+  country: Turkey
+- name: Akbank T.A.S.
+  swift: AKBKTRIS039
+  swift8: AKBKTRIS
+  branch_name: Beyoglu Branch
+  branch_address: Istiklal Caddesi 219 Beyoglu 80073 Istanbul
+  branch_code: '039'
+  city: Istanbul
+  country: Turkey
+- name: Akbank T.A.S.
+  swift: AKBKTRIS192
+  swift8: AKBKTRIS
+  branch_name: Main Branch
+  branch_address: Sabanci Center 80745 Istanbul
+  branch_code: '192'
+  city: Istanbul
+  country: Turkey
+- name: Akbank T.A.S.
+  swift: AKBKTRIS888
+  swift8: AKBKTRIS
+  branch_name: International Operations
+  branch_address: Eski Buyukdere Cad. No 29 80670 Istanbul
+  branch_code: '888'
+  city: Istanbul
+  country: Turkey
+- name: Akbank T.A.S.
+  swift: AKBKTRISXXX
+  swift8: AKBKTRIS
+  branch_name: Head Office
+  branch_address: Sabanci Center 34330 Istanbul
+  branch_code: XXX
+  city: Istanbul
+  country: Turkey
+- name: Akbank T.A.S.
+  swift: AKBKTRIS006
+  swift8: AKBKTRIS
+  branch_name: 35210 Izmir
+  branch_address: Cumhuriyet Bulvari 33 35210 Izmir
+  branch_code: '006'
+  city: Izmir
+  country: Turkey
+- name: Akbank T.A.S.
+  swift: AKBKTRIS066
+  swift8: AKBKTRIS
+  branch_name: 41001 Izmit
+  branch_address: Hurriyet Caddesi 89 41001 Izmit
+  branch_code: '066'
+  city: Izmit
+  country: Turkey
+- name: Akbank T.A.S.
+  swift: AKBKTRIS999
+  swift8: AKBKTRIS
+  branch_name: Treasury Operations
+  branch_address: Kocaeli
+  branch_code: '999'
+  city: Kocaeli
+  country: Turkey
+- name: Akbank T.A.S.
+  swift: AKBKTRIS018
+  swift8: AKBKTRIS
+  branch_name: 33001 Mersin
+  branch_address: Ataturk Caddesi 1 33001 Mersin
+  branch_code: '018'
+  city: Mersin
+  country: Turkey
+- name: Akbank T.A.S.
+  swift: AKBKTRIS622
+  swift8: AKBKTRIS
+  branch_name: Mersin Free Zone Branch
+  branch_address: Serbest Bolge 1. Caddesi L Adasi 19 33020 Mersin
+  branch_code: '622'
+  city: Mersin
+  country: Turkey
+- name: Akbank T.A.S.
+  swift: AKBKTRIS059
+  swift8: AKBKTRIS
+  branch_name: 55189 Samsun
+  branch_address: Kale Mah. Gazi Caddesi 43 55189 Samsun
+  branch_code: '059'
+  city: Samsun
+  country: Turkey
+- name: Aktif Yatirim Bankasi A.S.
+  swift: CAYTTRIS001
+  swift8: CAYTTRIS
+  branch_name: 34010 Istanbul
+  branch_address: Calikholding 34010 Istanbul
+  branch_code: '001'
+  city: Istanbul
+  country: Turkey
+- name: Aktif Yatirim Bankasi A.S.
+  swift: CAYTTRIS002
+  swift8: CAYTTRIS
+  branch_name: 34010 Istanbul
+  branch_address: Calikholding 34010 Istanbul
+  branch_code: '002'
+  city: Istanbul
+  country: Turkey
+- name: Aktif Yatirim Bankasi A.S.
+  swift: CAYTTRIS003
+  swift8: CAYTTRIS
+  branch_name: 34010 Istanbul
+  branch_address: Calikholding 34010 Istanbul
+  branch_code: '003'
+  city: Istanbul
+  country: Turkey
+- name: Aktif Yatirim Bankasi A.S.
+  swift: CAYTTRISXXX
+  swift8: CAYTTRIS
+  branch_name: Head Office
+  branch_address: Buyukdere Cad. Zincirlikuyu, 34394 Istanbul
+  branch_code: XXX
+  city: Istanbul
+  country: Turkey
+- name: Albaraka Turk Participation Bank
+  swift: BTFHTRISXXX
+  swift8: BTFHTRIS
+  branch_name: Head Office
+  branch_address: Headquarter 34768 Istanbul
+  branch_code: XXX
+  city: Istanbul
+  country: Turkey
+- name: Alternatifbank A.S.
+  swift: ALFBTRIS909
+  swift8: ALFBTRIS
+  branch_name: Ankara Branch
+  branch_address: Ataturk Bulvari 125 Ankara
+  branch_code: '909'
+  city: Ankara
+  country: Turkey
+- name: Alternatifbank A.S.
+  swift: ALFBTRIS908
+  swift8: ALFBTRIS
+  branch_name: Bursa Branch
+  branch_address: Hasim Iscan Caddesi Togtas Ishani 2 Bursa
+  branch_code: '908'
+  city: Bursa
+  country: Turkey
+- name: Alternatifbank A.S.
+  swift: ALFBTRISXXX
+  swift8: ALFBTRIS
+  branch_name: Head Office
+  branch_address: Cumhuriyet Caddesi No:46 34367 Istanbul
+  branch_code: XXX
+  city: Istanbul
+  country: Turkey
+- name: Alternatifbank A.S.
+  swift: ALFBTRIS907
+  swift8: ALFBTRIS
+  branch_name: Izmir Branch
+  branch_address: Sehit Nevres Bulvari 23 35210 Izmir
+  branch_code: '907'
+  city: Izmir
+  country: Turkey
+- name: Anadolubank A.S.
+  swift: ANDLTRISTUZ
+  swift8: ANDLTRIS
+  branch_name: Tuzla Free Zone Branch
+  branch_address: Turut Kosar Cad. 34957 Istanbul
+  branch_code: TUZ
+  city: Istanbul
+  country: Turkey
+- name: Anadolubank A.S.
+  swift: ANDLTRISXXX
+  swift8: ANDLTRIS
+  branch_name: Head Office
+  branch_address: Silahsor Caddesi No:77, Bomonti, 80210 Istanbul
+  branch_code: XXX
+  city: Istanbul
+  country: Turkey
+- name: Arab Turkish Bank
+  swift: ATUBTRISXXX
+  swift8: ATUBTRIS
+  branch_name: Head Office
+  branch_address: Valikonagi Caddesi 10, Nisantasi 34367 Istanbul
+  branch_code: XXX
+  city: Istanbul
+  country: Turkey
+- name: Asya Katilim Bankasi A.S.
+  swift: ASYATRIS004
+  swift8: ASYATRIS
+  branch_name: Merter Branch
+  branch_address: Osmaniye Mahallesi Fatih Caddesi, Istanbul
+  branch_code: '004'
+  city: Istanbul
+  country: Turkey
+- name: Asya Katilim Bankasi A.S.
+  swift: ASYATRIS005
+  swift8: ASYATRIS
+  branch_name: Sisli Branch
+  branch_address: Halaskargazi Caddesi No. 369 Sisli Istanbul
+  branch_code: '005'
+  city: Istanbul
+  country: Turkey
+- name: Asya Katilim Bankasi A.S.
+  swift: ASYATRISXXX
+  swift8: ASYATRIS
+  branch_name: Head Office
+  branch_address: Kucuksu Caddesi Akcakoca Sok 34768 Istanbul
+  branch_code: XXX
+  city: Istanbul
+  country: Turkey
+- name: Asya Katilim Bankasi A.S.
+  swift: ASYATRIS007
+  swift8: ASYATRIS
+  branch_name: Izmir Branch
+  branch_address: Gaziosmanpasa Bulvari No. 58 Z-1 Izmir
+  branch_code: '007'
+  city: Izmir
+  country: Turkey
+- name: Bankpozitif Kredi Ve Kalkinma Bankasi A.S.
+  swift: BPTRTRISXXX
+  swift8: BPTRTRIS
+  branch_name: Head Office
+  branch_address: Beybi Giz Plaza 34398 Istanbul
+  branch_code: XXX
+  city: Istanbul
+  country: Turkey
+- name: Birlesik Fon Bankasi A.S.
+  swift: BAYDTRISXXX
+  swift8: BAYDTRIS
+  branch_name: Head Office
+  branch_address: Buyukdere Cad. 143 34394 Istanbul
+  branch_code: XXX
+  city: Istanbul
+  country: Turkey
+- name: Citibank A.S.
+  swift: CITITRIXANK
+  swift8: CITITRIX
+  branch_name: Ankara
+  branch_address: Cakmak Apt Ankara
+  branch_code: ANK
+  city: Ankara
+  country: Turkey
+- name: Citibank A.S.
+  swift: CITITRIXXXX
+  swift8: CITITRIX
+  branch_name: Head Office
+  branch_address: Maya Akar Center 34394 Istanbul
+  branch_code: XXX
+  city: Istanbul
+  country: Turkey
+- name: Citibank A.S.
+  swift: CITITRIXIZM
+  swift8: CITITRIX
+  branch_name: Izmir
+  branch_address: Ataturk Caddesi 92/2 Izmir
+  branch_code: IZM
+  city: Izmir
+  country: Turkey
+- name: Denizbank A.S.
+  swift: DENITRIS234
+  swift8: DENITRIS
+  branch_name: Adana Carsi
+  branch_address: Adana
+  branch_code: '234'
+  city: Adana
+  country: Turkey
+- name: Denizbank A.S.
+  swift: DENITRIS323
+  swift8: DENITRIS
+  branch_name: Kuzey Adana
+  branch_address: Adana
+  branch_code: '323'
+  city: Adana
+  country: Turkey
+- name: Denizbank A.S.
+  swift: DENITRIS327
+  swift8: DENITRIS
+  branch_name: Yuregir
+  branch_address: Adana
+  branch_code: '327'
+  city: Adana
+  country: Turkey
+- name: Denizbank A.S.
+  swift: DENITRIS940
+  swift8: DENITRIS
+  branch_name: Adana Branch
+  branch_address: Adana
+  branch_code: '940'
+  city: Adana
+  country: Turkey
+- name: Denizbank A.S.
+  swift: DENITRIS212
+  swift8: DENITRIS
+  branch_name: Afyon
+  branch_address: Afyon
+  branch_code: '212'
+  city: Afyon
+  country: Turkey
+- name: Denizbank A.S.
+  swift: DENITRIS336
+  swift8: DENITRIS
+  branch_name: Aksaray
+  branch_address: Aksaray
+  branch_code: '336'
+  city: Aksaray
+  country: Turkey
+- name: Denizbank A.S.
+  swift: DENITRIS338
+  swift8: DENITRIS
+  branch_name: Adiyaman
+  branch_address: Adiyaman
+  branch_code: '338'
+  city: Adiyaman
+  country: Turkey
+- name: Denizbank A.S.
+  swift: DENITRIS201
+  swift8: DENITRIS
+  branch_name: Adapazari Branch
+  branch_address: Adapazari
+  branch_code: '201'
+  city: Adapazari
+  country: Turkey
+- name: Denizbank A.S.
+  swift: DENITRIS211
+  swift8: DENITRIS
+  branch_name: Yildiz Branch
+  branch_address: Ankara
+  branch_code: '211'
+  city: Ankara
+  country: Turkey
+- name: Denizbank A.S.
+  swift: DENITRIS216
+  swift8: DENITRIS
+  branch_name: Cebeci
+  branch_address: Ankara
+  branch_code: '216'
+  city: Ankara
+  country: Turkey
+- name: Denizbank A.S.
+  swift: DENITRIS218
+  swift8: DENITRIS
+  branch_name: Gimat Branch
+  branch_address: Ankara
+  branch_code: '218'
+  city: Ankara
+  country: Turkey
+- name: Denizbank A.S.
+  swift: DENITRIS271
+  swift8: DENITRIS
+  branch_name: Mithatpasa
+  branch_address: Ankara
+  branch_code: '271'
+  city: Ankara
+  country: Turkey
+- name: Denizbank A.S.
+  swift: DENITRIS310
+  swift8: DENITRIS
+  branch_name: Ostim
+  branch_address: Ankara
+  branch_code: '310'
+  city: Ankara
+  country: Turkey
+- name: Denizbank A.S.
+  swift: DENITRIS320
+  swift8: DENITRIS
+  branch_name: Siteler Ankara
+  branch_address: Ankara
+  branch_code: '320'
+  city: Ankara
+  country: Turkey
+- name: Denizbank A.S.
+  swift: DENITRIS341
+  swift8: DENITRIS
+  branch_name: Ankara Baskent Ozel Bankacilik Merkezi
+  branch_address: Ankara
+  branch_code: '341'
+  city: Ankara
+  country: Turkey
+- name: Denizbank A.S.
+  swift: DENITRIS343
+  swift8: DENITRIS
+  branch_name: Baskent Universitesi
+  branch_address: Ankara
+  branch_code: '343'
+  city: Ankara
+  country: Turkey
+- name: Denizbank A.S.
+  swift: DENITRIS352
+  swift8: DENITRIS
+  branch_name: Polatli
+  branch_address: Ankara
+  branch_code: '352'
+  city: Ankara
+  country: Turkey
+- name: Denizbank A.S.
+  swift: DENITRIS362
+  swift8: DENITRIS
+  branch_name: Kecioren
+  branch_address: Ankara
+  branch_code: '362'
+  city: Ankara
+  country: Turkey
+- name: Denizbank A.S.
+  swift: DENITRIS373
+  swift8: DENITRIS
+  branch_name: Sincan
+  branch_address: Ankara
+  branch_code: '373'
+  city: Ankara
+  country: Turkey
+- name: Denizbank A.S.
+  swift: DENITRIS909
+  swift8: DENITRIS
+  branch_name: Ankara Branch
+  branch_address: Ataturk Bulvari No. 103/A, Kizilay Ankara
+  branch_code: '909'
+  city: Ankara
+  country: Turkey
+- name: Deutsche Bank A.S.
+  swift: DEUTTRISCUS
+  swift8: DEUTTRIS
+  branch_name: Custody Services
+  branch_address: Istanbul
+  branch_code: CUS
+  city: Istanbul
+  country: Turkey
+- name: Deutsche Bank A.S.
+  swift: DEUTTRISPBC
+  swift8: DEUTTRIS
+  branch_name: Private Banking Department
+  branch_address: Istanbul
+  branch_code: PBC
+  city: Istanbul
+  country: Turkey
+- name: Deutsche Bank A.S.
+  swift: DEUTTRISXXX
+  swift8: DEUTTRIS
+  branch_name: Head Office
+  branch_address: Tekfen Tower Istanbul
+  branch_code: XXX
+  city: Istanbul
+  country: Turkey
+- name: Deutsche Bank Istanbul
+  swift: BKTRTRISCUS
+  swift8: BKTRTRIS
+  branch_name: Custody Department
+  branch_address: Istanbul
+  branch_code: CUS
+  city: Istanbul
+  country: Turkey
+- name: Deutsche Bank Istanbul
+  swift: BKTRTRISGFX
+  swift8: BKTRTRIS
+  branch_name: Global Markets
+  branch_address: Istanbul
+  branch_code: GFX
+  city: Istanbul
+  country: Turkey
+- name: Diler Yatirim Bankasi A.S.
+  swift: DYAKTRISXXX
+  swift8: DYAKTRIS
+  branch_name: Head Office
+  branch_address: Diler Han 34420 Istanbul
+  branch_code: XXX
+  city: Istanbul
+  country: Turkey
+- name: Eco Trade And Development Bank
+  swift: ECTVTRISXXX
+  swift8: ECTVTRIS
+  branch_name: Head Office
+  branch_address: 'Meclis-I Mebusan Cad. No: 79 34427 Istanbul'
+  branch_code: XXX
+  city: Istanbul
+  country: Turkey
+- name: Eurobank Tekfen A.S.
+  swift: TEKFTRIS901
+  swift8: TEKFTRIS
+  branch_name: Head Office
+  branch_address: Istinye Yokusu Istinye 80860 Istanbul
+  branch_code: '901'
+  city: Istanbul
+  country: Turkey
+- name: Eurobank Tekfen A.S.
+  swift: TEKFTRIS970
+  swift8: TEKFTRIS
+  branch_name: A H L Serbest Bolge Branch
+  branch_address: Istanbul
+  branch_code: '970'
+  city: Istanbul
+  country: Turkey
+- name: Eurobank Tekfen A.S.
+  swift: TEKFTRISSEC
+  swift8: TEKFTRIS
+  branch_name: 34330 Istanbul
+  branch_address: Tekfen Tower 34330 Istanbul
+  branch_code: SEC
+  city: Istanbul
+  country: Turkey
+- name: Eurobank Tekfen A.S.
+  swift: TEKFTRISXXX
+  swift8: TEKFTRIS
+  branch_name: Head Office
+  branch_address: Tekfentower No 209 34330 Istanbul
+  branch_code: XXX
+  city: Istanbul
+  country: Turkey
+- name: Fibabanka A.S.
+  swift: FBHLTRISXXX
+  swift8: FBHLTRIS
+  branch_name: Head Office
+  branch_address: Abdi Ipekci Cad. 63, Macka 34367 Istanbul
+  branch_code: XXX
+  city: Istanbul
+  country: Turkey
+- name: Finansbank A.S.
+  swift: FNNBTRISADA
+  swift8: FNNBTRIS
+  branch_name: Adana Branch
+  branch_address: Adana
+  branch_code: ADA
+  city: Adana
+  country: Turkey
+- name: Finansbank A.S.
+  swift: FNNBTRISANK
+  swift8: FNNBTRIS
+  branch_name: Ankara Branch
+  branch_address: Ankara
+  branch_code: ANK
+  city: Ankara
+  country: Turkey
+- name: Finansbank A.S.
+  swift: FNNBTRISAUS
+  swift8: FNNBTRIS
+  branch_name: Ulus Branch
+  branch_address: Ankara
+  branch_code: AUS
+  city: Ankara
+  country: Turkey
+- name: Finansbank A.S.
+  swift: FNNBTRISNCT
+  swift8: FNNBTRIS
+  branch_name: Necatibey Branch
+  branch_address: Ankara
+  branch_code: NCT
+  city: Ankara
+  country: Turkey
+- name: Finansbank A.S.
+  swift: FNNBTRISSIT
+  swift8: FNNBTRIS
+  branch_name: Siteler Branch
+  branch_address: Ankara
+  branch_code: SIT
+  city: Ankara
+  country: Turkey
+- name: Finansbank A.S.
+  swift: FNNBTRISATK
+  swift8: FNNBTRIS
+  branch_name: Antakya Branch
+  branch_address: Antakya
+  branch_code: ATK
+  city: Antakya
+  country: Turkey
+- name: Finansbank A.S.
+  swift: FNNBTRISANT
+  swift8: FNNBTRIS
+  branch_name: Antalya Branch
+  branch_address: Antalya
+  branch_code: ANT
+  city: Antalya
+  country: Turkey
+- name: Finansbank A.S.
+  swift: FNNBTRISMNV
+  swift8: FNNBTRIS
+  branch_name: Manavgat Branch
+  branch_address: Antalya
+  branch_code: MNV
+  city: Antalya
+  country: Turkey
+- name: Finansbank A.S.
+  swift: FNNBTRISKUS
+  swift8: FNNBTRIS
+  branch_name: Kusadasi Branch
+  branch_address: Aydin
+  branch_code: KUS
+  city: Aydin
+  country: Turkey
+- name: Finansbank A.S.
+  swift: FNNBTRISBLS
+  swift8: FNNBTRIS
+  branch_name: Balikesir Branch
+  branch_address: Balikesir
+  branch_code: BLS
+  city: Balikesir
+  country: Turkey
+- name: Finansbank A.S.
+  swift: FNNBTRISBUR
+  swift8: FNNBTRIS
+  branch_name: Bursa Branch
+  branch_address: Bursa
+  branch_code: BUR
+  city: Bursa
+  country: Turkey
+- name: Finansbank A.S.
+  swift: FNNBTRISDEN
+  swift8: FNNBTRIS
+  branch_name: Denizli Branch
+  branch_address: Denizli
+  branch_code: DEN
+  city: Denizli
+  country: Turkey
+- name: Finansbank A.S.
+  swift: FNNBTRISDIY
+  swift8: FNNBTRIS
+  branch_name: Diyarbakir Branch
+  branch_address: Diyarbakir
+  branch_code: DIY
+  city: Diyarbakir
+  country: Turkey
+- name: Finansbank A.S.
+  swift: FNNBTRISESK
+  swift8: FNNBTRIS
+  branch_name: Eskisehir Branch
+  branch_address: Eskisehir
+  branch_code: ESK
+  city: Eskisehir
+  country: Turkey
+- name: Finansbank A.S.
+  swift: FNNBTRISGZT
+  swift8: FNNBTRIS
+  branch_name: Gaziantep Branch
+  branch_address: Gaziantep
+  branch_code: GZT
+  city: Gaziantep
+  country: Turkey
+- name: Finansbank A.S.
+  swift: FNNBTRISAHL
+  swift8: FNNBTRIS
+  branch_name: Ataturk Havalimani Free Zone Branch, Istanbul
+  branch_address: Istanbul
+  branch_code: AHL
+  city: Istanbul
+  country: Turkey
+- name: Finansbank A.S.
+  swift: FNNBTRISALT
+  swift8: FNNBTRIS
+  branch_name: Altunizade Branch
+  branch_address: Istanbul
+  branch_code: ALT
+  city: Istanbul
+  country: Turkey
+- name: Finansbank A.S.
+  swift: FNNBTRISAVC
+  swift8: FNNBTRIS
+  branch_name: Avcilar Branch
+  branch_address: Istanbul
+  branch_code: AVC
+  city: Istanbul
+  country: Turkey
+- name: Finansbank A.S.
+  swift: FNNBTRISBAY
+  swift8: FNNBTRIS
+  branch_name: Bayrampasa Branch
+  branch_address: Istanbul
+  branch_code: BAY
+  city: Istanbul
+  country: Turkey
+- name: Finansbank A.S.
+  swift: FNNBTRISELM
+  swift8: FNNBTRIS
+  branch_name: Elmadag Branch
+  branch_address: Istanbul
+  branch_code: ELM
+  city: Istanbul
+  country: Turkey
+- name: Gsd Yatirim Bankasi A.S.
+  swift: GSDBTRISXXX
+  swift8: GSDBTRIS
+  branch_name: Head Office
+  branch_address: Aydinevler Mah.Kaptan Rifat Sk.No:3 34854 Istanbul
+  branch_code: XXX
+  city: Istanbul
+  country: Turkey
+- name: Habib Bank Ltd.
+  swift: HABBTRISXXX
+  swift8: HABBTRIS
+  branch_name: Head Office
+  branch_address: Hacionbasilar Ishani 80222 Istanbul
+  branch_code: XXX
+  city: Istanbul
+  country: Turkey
+- name: Hsbc Bank A.S.
+  swift: HSBCTRIX001
+  swift8: HSBCTRIX
+  branch_name: International Division
+  branch_address: Istanbul
+  branch_code: '001'
+  city: Istanbul
+  country: Turkey
+- name: Hsbc Bank A.S.
+  swift: HSBCTRIX002
+  swift8: HSBCTRIX
+  branch_name: Cheque and Clearing Center
+  branch_address: Ayazaga Mah Istanbul
+  branch_code: '002'
+  city: Istanbul
+  country: Turkey
+- name: Hsbc Bank A.S.
+  swift: HSBCTRIX113
+  swift8: HSBCTRIX
+  branch_name: Custody and Clearing
+  branch_address: Istanbul
+  branch_code: '113'
+  city: Istanbul
+  country: Turkey
+- name: Hsbc Bank A.S.
+  swift: HSBCTRIX727
+  swift8: HSBCTRIX
+  branch_name: Ataturk Hava Limani Free Zone Branch
+  branch_address: Istanbul
+  branch_code: '727'
+  city: Istanbul
+  country: Turkey
+- name: Hsbc Bank A.S.
+  swift: HSBCTRIX933
+  swift8: HSBCTRIX
+  branch_name: Fc Customer Payments
+  branch_address: Istanbul
+  branch_code: '933'
+  city: Istanbul
+  country: Turkey
+- name: Hsbc Bank A.S.
+  swift: HSBCTRIX956
+  swift8: HSBCTRIX
+  branch_name: Foreign Operations Center
+  branch_address: Buyukdere Caddesi No:2 80620 Istanbul
+  branch_code: '956'
+  city: Istanbul
+  country: Turkey
+- name: Hsbc Bank A.S.
+  swift: HSBCTRIXHYM
+  swift8: HSBCTRIX
+  branch_name: Securities
+  branch_address: Istanbul
+  branch_code: HYM
+  city: Istanbul
+  country: Turkey
+- name: Hsbc Bank A.S.
+  swift: HSBCTRIXXXX
+  swift8: HSBCTRIX
+  branch_name: Head Office
+  branch_address: Buyukdere Cad 2 80620 Istanbul
+  branch_code: XXX
+  city: Istanbul
+  country: Turkey
+- name: Hsbc Yatirim Menkul Degerler A.S
+  swift: HSBYTRISXXX
+  swift8: HSBYTRIS
+  branch_name: Head Office
+  branch_address: D Blok 34394 Istanbul
+  branch_code: XXX
+  city: Istanbul
+  country: Turkey
+- name: Imkb Takas Ve Saklama Bankasi A.S.
+  swift: TVSBTRISXXX
+  swift8: TVSBTRIS
+  branch_name: Head Office
+  branch_address: Sisli Merkez Mah. Merkez Cad. No:6 34381 Istanbul
+  branch_code: XXX
+  city: Istanbul
+  country: Turkey
+- name: Ing Bank A.S. (Formerly Oyak Bank A.S.)
+  swift: INGBTRIS205
+  swift8: INGBTRIS
+  branch_name: Kucuksaat Branch
+  branch_address: Adana
+  branch_code: '205'
+  city: Adana
+  country: Turkey
+- name: Ing Bank A.S. (Formerly Oyak Bank A.S.)
+  swift: INGBTRIS206
+  swift8: INGBTRIS
+  branch_name: Gazipasa Branch
+  branch_address: Adana
+  branch_code: '206'
+  city: Adana
+  country: Turkey
+- name: Ing Bank A.S. (Formerly Oyak Bank A.S.)
+  swift: INGBTRIS260
+  swift8: INGBTRIS
+  branch_name: Adana Branch
+  branch_address: Adana
+  branch_code: '260'
+  city: Adana
+  country: Turkey
+- name: Ing Bank A.S. (Formerly Oyak Bank A.S.)
+  swift: INGBTRIS381
+  swift8: INGBTRIS
+  branch_name: Barkal Branch
+  branch_address: Adana
+  branch_code: '381'
+  city: Adana
+  country: Turkey
+- name: Ing Bank A.S. (Formerly Oyak Bank A.S.)
+  swift: INGBTRIS446
+  swift8: INGBTRIS
+  branch_name: Turgut Ozal Bulvari Branch
+  branch_address: Adana
+  branch_code: '446'
+  city: Adana
+  country: Turkey
+- name: Ing Bank A.S. (Formerly Oyak Bank A.S.)
+  swift: INGBTRIS169
+  swift8: INGBTRIS
+  branch_name: Adapazari Branch
+  branch_address: Adapazari
+  branch_code: '169'
+  city: Adapazari
+  country: Turkey
+- name: Ing Bank A.S. (Formerly Oyak Bank A.S.)
+  swift: INGBTRIS674
+  swift8: INGBTRIS
+  branch_name: Adiyaman Branch
+  branch_address: Adiyaman
+  branch_code: '674'
+  city: Adiyaman
+  country: Turkey
+- name: Ing Bank A.S. (Formerly Oyak Bank A.S.)
+  swift: INGBTRIS181
+  swift8: INGBTRIS
+  branch_name: Afyonkarahisar Branch
+  branch_address: Afyon
+  branch_code: '181'
+  city: Afyon
+  country: Turkey
+- name: Ing Bank A.S. (Formerly Oyak Bank A.S.)
+  swift: INGBTRIS297
+  swift8: INGBTRIS
+  branch_name: Aksaray Branch
+  branch_address: Aksaray
+  branch_code: '297'
+  city: Aksaray
+  country: Turkey
+- name: Ing Bank A.S. (Formerly Oyak Bank A.S.)
+  swift: INGBTRIS113
+  swift8: INGBTRIS
+  branch_name: Akhisar Branch
+  branch_address: Akhisar
+  branch_code: '113'
+  city: Akhisar
+  country: Turkey
+- name: Ing Bank A.S. (Formerly Oyak Bank A.S.)
+  swift: INGBTRIS146
+  swift8: INGBTRIS
+  branch_name: Alanya Branch
+  branch_address: Alanya
+  branch_code: '146'
+  city: Alanya
+  country: Turkey
+- name: Ing Bank A.S. (Formerly Oyak Bank A.S.)
+  swift: INGBTRIS313
+  swift8: INGBTRIS
+  branch_name: Aliaga Branch
+  branch_address: Aliaga
+  branch_code: '313'
+  city: Aliaga
+  country: Turkey
+- name: Ing Bank A.S. (Formerly Oyak Bank A.S.)
+  swift: INGBTRIS111
+  swift8: INGBTRIS
+  branch_name: Necatibey Branch
+  branch_address: Ankara
+  branch_code: '111'
+  city: Ankara
+  country: Turkey
+- name: Ing Bank A.S. (Formerly Oyak Bank A.S.)
+  swift: INGBTRIS151
+  swift8: INGBTRIS
+  branch_name: Turan Gunes Branch
+  branch_address: Ankara
+  branch_code: '151'
+  city: Ankara
+  country: Turkey
+- name: Ing Bank A.S. (Formerly Oyak Bank A.S.)
+  swift: INGBTRIS174
+  swift8: INGBTRIS
+  branch_name: Ostim Branch
+  branch_address: Ankara
+  branch_code: '174'
+  city: Ankara
+  country: Turkey
+- name: Ing Bank A.S. (Formerly Oyak Bank A.S.)
+  swift: INGBTRIS190
+  swift8: INGBTRIS
+  branch_name: Bahcelievler Branch
+  branch_address: Ankara
+  branch_code: '190'
+  city: Ankara
+  country: Turkey
+- name: Ing Bank A.S. (Formerly Oyak Bank A.S.)
+  swift: INGBTRIS207
+  swift8: INGBTRIS
+  branch_name: Bakanliklar Branch
+  branch_address: Ankara
+  branch_code: '207'
+  city: Ankara
+  country: Turkey
+- name: Ing Bank A.S. (Formerly Oyak Bank A.S.)
+  swift: INGBTRIS209
+  swift8: INGBTRIS
+  branch_name: Cebeci Branch
+  branch_address: Ankara
+  branch_code: '209'
+  city: Ankara
+  country: Turkey
+- name: Ing Bank A.S. (Formerly Oyak Bank A.S.)
+  swift: INGBTRIS211
+  swift8: INGBTRIS
+  branch_name: Kazim Karabekir Branch
+  branch_address: Ankara
+  branch_code: '211'
+  city: Ankara
+  country: Turkey
+- name: Ing Bank A.S. (Formerly Oyak Bank A.S.)
+  swift: INGBTRIS212
+  swift8: INGBTRIS
+  branch_name: Koroglu Branch
+  branch_address: Ankara
+  branch_code: '212'
+  city: Ankara
+  country: Turkey
+- name: Is Yatirim Menkul Degerler As
+  swift: ISISTRISXXX
+  swift8: ISISTRIS
+  branch_name: Head Office
+  branch_address: Is Kuleleri Istanbul
+  branch_code: XXX
+  city: Istanbul
+  country: Turkey
+- name: Jp Morgan Chase Bank, N.A
+  swift: CHASTRISENQ
+  swift8: CHASTRIS
+  branch_name: Telex and S W I F T Message Enquiries
+  branch_address: Istanbul
+  branch_code: ENQ
+  city: Istanbul
+  country: Turkey
+- name: Jp Morgan Chase Bank, N.A
+  swift: CHASTRISKEY
+  swift8: CHASTRIS
+  branch_name: Test Key and Bke Administration
+  branch_address: Istanbul
+  branch_code: KEY
+  city: Istanbul
+  country: Turkey
+- name: Jp Morgan Chase Bank, N.A
+  swift: CHASTRISXXX
+  swift8: CHASTRIS
+  branch_name: Head Office
+  branch_address: Atakule a Blok 80700 Istanbul
+  branch_code: XXX
+  city: Istanbul
+  country: Turkey
+- name: Kuveyt Turk Katilim Bankasi A.S.
+  swift: KTEFTRISXXX
+  swift8: KTEFTRIS
+  branch_name: Head Office
+  branch_address: Buyukdere Cad. No. 129, Esentepe 34394 Istanbul
+  branch_code: XXX
+  city: Istanbul
+  country: Turkey
+- name: Merrill Lynch Yatirim Bank As
+  swift: MEYYTRISIST
+  swift8: MEYYTRIS
+  branch_name: Treasury
+  branch_address: Istanbul
+  branch_code: IST
+  city: Istanbul
+  country: Turkey
+- name: Merrill Lynch Yatirim Bank As
+  swift: MEYYTRISMLB
+  swift8: MEYYTRIS
+  branch_name: Mlyb
+  branch_address: Istanbul
+  branch_code: MLB
+  city: Istanbul
+  country: Turkey
+- name: Merrill Lynch Yatirim Bank As
+  swift: MEYYTRISXXX
+  swift8: MEYYTRIS
+  branch_name: Head Office
+  branch_address: Buyukdere Cad Istanbul
+  branch_code: XXX
+  city: Istanbul
+  country: Turkey
+- name: Morgan Stanley Menkul Degerler Anonim Sirketi
+  swift: MSMDTRISXXX
+  swift8: MSMDTRIS
+  branch_name: Head Office
+  branch_address: Kanyon Ofis Binasi 34394 Istanbul
+  branch_code: XXX
+  city: Istanbul
+  country: Turkey
+- name: Nurol Investment Bank Inc. (Nurol Yatirim Bankasi A.S.)
+  swift: NUROTRISXXX
+  swift8: NUROTRIS
+  branch_name: Head Office
+  branch_address: Maslak Nurol Plaza 34398 Istanbul
+  branch_code: XXX
+  city: Istanbul
+  country: Turkey
+- name: Sekerbank T.A.S.
+  swift: SEKETR2AAHL
+  swift8: SEKETR2A
+  branch_name: Ataturk Hava Limani Branch
+  branch_address: Istanbul
+  branch_code: AHL
+  city: Istanbul
+  country: Turkey
+- name: Sekerbank T.A.S.
+  swift: SEKETR2AAIS
+  swift8: SEKETR2A
+  branch_name: Istanbul
+  branch_address: Cumhuriyet Mah Abdi Ipekci Cad 34878 Istanbul
+  branch_code: AIS
+  city: Istanbul
+  country: Turkey
+- name: Sekerbank T.A.S.
+  swift: SEKETR2AXXX
+  swift8: SEKETR2A
+  branch_name: Head Office
+  branch_address: Metrocity Is Merkezi 34330 Istanbul
+  branch_code: XXX
+  city: Istanbul
+  country: Turkey
+- name: Sekerbank T.A.S.
+  swift: SEKETR2AKSB
+  swift8: SEKETR2A
+  branch_name: Serbest Bolge
+  branch_address: Ankara Karyolu 15.Km Kayseri
+  branch_code: KSB
+  city: Kayseri
+  country: Turkey
+- name: Sekerbank T.A.S.
+  swift: SEKETR21022
+  swift8: SEKETR21
+  branch_name: 01010 Adana
+  branch_address: Abidinpasa Caddesi 42 01010 Adana
+  branch_code: '022'
+  city: Adana
+  country: Turkey
+- name: Sekerbank T.A.S.
+  swift: SEKETR2102B
+  swift8: SEKETR21
+  branch_name: Bursa
+  branch_address: Osmangazi Caddesi 19a Bursa
+  branch_code: 02B
+  city: Bursa
+  country: Turkey
+- name: Sekerbank T.A.S.
+  swift: SEKETR2102D
+  swift8: SEKETR21
+  branch_name: Denizli
+  branch_address: Denizli
+  branch_code: 02D
+  city: Denizli
+  country: Turkey
+- name: Sekerbank T.A.S.
+  swift: SEKETR2102M
+  swift8: SEKETR21
+  branch_name: 33070 Mersin
+  branch_address: Zafer Caddesi 91 33070 Mersin
+  branch_code: 02M
+  city: Mersin
+  country: Turkey
+- name: Societe Generale
+  swift: SOGETRISXXX
+  swift8: SOGETRIS
+  branch_name: Head Office
+  branch_address: Akmerkez 34337 Istanbul
+  branch_code: XXX
+  city: Istanbul
+  country: Turkey
+- name: T Bank-Turkland Bank A.S.
+  swift: TBNKTRIS022
+  swift8: TBNKTRIS
+  branch_name: Bakanliklar Branch
+  branch_address: 'Ataturk Bulvari No : 185, Kizilay Ankara'
+  branch_code: '022'
+  city: Ankara
+  country: Turkey
+- name: T Bank-Turkland Bank A.S.
+  swift: TBNKTRIS037
+  swift8: TBNKTRIS
+  branch_name: Ankara-Ostim Branch
+  branch_address: 100.Yil Bulvari Yenimahalle-Ostim Ankara
+  branch_code: '037'
+  city: Ankara
+  country: Turkey
+- name: T Bank-Turkland Bank A.S.
+  swift: TBNKTRIS010
+  swift8: TBNKTRIS
+  branch_name: Antalya Branch
+  branch_address: Ali Cetinkaya Cad. No.12 07100 Antalya
+  branch_code: '010'
+  city: Antalya
+  country: Turkey
+- name: T Bank-Turkland Bank A.S.
+  swift: TBNKTRIS042
+  swift8: TBNKTRIS
+  branch_name: Denizli Branch
+  branch_address: 2. Ticari Yol-464 Sokak Denizli
+  branch_code: '042'
+  city: Denizli
+  country: Turkey
+- name: T Bank-Turkland Bank A.S.
+  swift: TBNKTRIS040
+  swift8: TBNKTRIS
+  branch_name: Gaziantep Branch
+  branch_address: Sever Is Merkezi No:10/B Gaziantep
+  branch_code: '040'
+  city: Gaziantep
+  country: Turkey
+- name: T Bank-Turkland Bank A.S.
+  swift: TBNKTRIS035
+  swift8: TBNKTRIS
+  branch_name: Izmir Branch
+  branch_address: Erboy Ishani Izmir
+  branch_code: '035'
+  city: Izmir
+  country: Turkey
+- name: T Bank-Turkland Bank A.S.
+  swift: TBNKTRIS004
+  swift8: TBNKTRIS
+  branch_name: Merkez Branch
+  branch_address: Mete Cad. No:40 Taksim 80060 Istanbul
+  branch_code: '004'
+  city: Istanbul
+  country: Turkey
+- name: T Bank-Turkland Bank A.S.
+  swift: TBNKTRIS015
+  swift8: TBNKTRIS
+  branch_name: Etiler Branch
+  branch_address: Nispetiye Cad No. 18, Etiler 80600 Istanbul
+  branch_code: '015'
+  city: Istanbul
+  country: Turkey
+- name: T Bank-Turkland Bank A.S.
+  swift: TBNKTRIS023
+  swift8: TBNKTRIS
+  branch_name: Kadikoy Branch
+  branch_address: Kusdili Cad.Atakol Ishani 81030 Istanbul
+  branch_code: '023'
+  city: Istanbul
+  country: Turkey
+- name: T Bank-Turkland Bank A.S.
+  swift: TBNKTRIS025
+  swift8: TBNKTRIS
+  branch_name: Gunesli Branch
+  branch_address: Ziyal Plaza, B Blok Istanbul
+  branch_code: '025'
+  city: Istanbul
+  country: Turkey
+- name: T Bank-Turkland Bank A.S.
+  swift: TBNKTRIS026
+  swift8: TBNKTRIS
+  branch_name: Kozyatagi Branch
+  branch_address: Perdemsac Plaza No:17 Istanbul
+  branch_code: '026'
+  city: Istanbul
+  country: Turkey
+- name: T Bank-Turkland Bank A.S.
+  swift: TBNKTRIS029
+  swift8: TBNKTRIS
+  branch_name: Bayrampasa Branch
+  branch_address: 18/1 Orta Mah.Abdi Ipekci Cad. Istanbul
+  branch_code: '029'
+  city: Istanbul
+  country: Turkey
+- name: T Bank-Turkland Bank A.S.
+  swift: TBNKTRIS032
+  swift8: TBNKTRIS
+  branch_name: Beylikduzu Branch
+  branch_address: No:11,Cumhuriyet Mahallesi Gurpinar Istanbul
+  branch_code: '032'
+  city: Istanbul
+  country: Turkey
+- name: T Bank-Turkland Bank A.S.
+  swift: TBNKTRIS033
+  swift8: TBNKTRIS
+  branch_name: Levent Branch
+  branch_address: N:14, Oto Sanayi Sitesi Fatih Cad. Istanbul
+  branch_code: '033'
+  city: Istanbul
+  country: Turkey
+- name: T Bank-Turkland Bank A.S.
+  swift: TBNKTRIS034
+  swift8: TBNKTRIS
+  branch_name: Dudullu Branch
+  branch_address: Keyap Carsi No:22 Istanbul
+  branch_code: '034'
+  city: Istanbul
+  country: Turkey
+- name: T Bank-Turkland Bank A.S.
+  swift: TBNKTRIS038
+  swift8: TBNKTRIS
+  branch_name: Ikitelli Branch
+  branch_address: C Blok, Goksu Plaza Istanbul
+  branch_code: '038'
+  city: Istanbul
+  country: Turkey
+- name: T Bank-Turkland Bank A.S.
+  swift: TBNKTRIS039
+  swift8: TBNKTRIS
+  branch_name: Caddebostan Branch
+  branch_address: No:271 Bagdat Cad. Kadikoy Istanbul
+  branch_code: '039'
+  city: Istanbul
+  country: Turkey
+- name: T Bank-Turkland Bank A.S.
+  swift: TBNKTRIS043
+  swift8: TBNKTRIS
+  branch_name: Dolayoba Branch
+  branch_address: Orta Mah.Baris Is Merkezi Istanbul
+  branch_code: '043'
+  city: Istanbul
+  country: Turkey
+- name: T Bank-Turkland Bank A.S.
+  swift: TBNKTRIS044
+  swift8: TBNKTRIS
+  branch_name: Avcilar Branch
+  branch_address: 'No: 245 Cihangir Mahallesi, Istanbul'
+  branch_code: '044'
+  city: Istanbul
+  country: Turkey
+- name: T Bank-Turkland Bank A.S.
+  swift: TBNKTRISXXX
+  swift8: TBNKTRIS
+  branch_name: Head Office
+  branch_address: Sisli Plaza 34360 Istanbul
+  branch_code: XXX
+  city: Istanbul
+  country: Turkey
+- name: The Royal Bank Of Scotland N.V. Head Office Amsterdam Istanbul Main
+  swift: ABNATRISXXX
+  swift8: ABNATRIS
+  branch_name: Head Office
+  branch_address: Tamburi Ali Efendi Sokak No.13 34337 Istanbul
+  branch_code: XXX
+  city: Istanbul
+  country: Turkey
+- name: Turk Ekonomi Bankasi A.S.
+  swift: TEBUTRIS026
+  swift8: TEBUTRIS
+  branch_name: Adana Branch
+  branch_address: Turan Cemal Beriker Bulvari Gulec 01120 Adana
+  branch_code: '026'
+  city: Adana
+  country: Turkey
+- name: Turk Ekonomi Bankasi A.S.
+  swift: TEBUTRIS117
+  swift8: TEBUTRIS
+  branch_name: Ataturk Caddesi Adana Branch
+  branch_address: Ataturk Cad. Ulcaz Apt. 72 Seyhan 01120 Adana
+  branch_code: '117'
+  city: Adana
+  country: Turkey
+- name: Turk Ekonomi Bankasi A.S.
+  swift: TEBUTRIS156
+  swift8: TEBUTRIS
+  branch_name: Yuregir Branch
+  branch_address: 'Cumhuriyet Mah., 770 Sok. No: 11/A, 01280 Adana'
+  branch_code: '156'
+  city: Adana
+  country: Turkey
+- name: Turk Ekonomi Bankasi A.S.
+  swift: TEBUTRIS164
+  swift8: TEBUTRIS
+  branch_name: Barkal Branch
+  branch_address: Mersin Yolu 01010 Adana
+  branch_code: '164'
+  city: Adana
+  country: Turkey
+- name: Turk Ekonomi Bankasi A.S.
+  swift: TEBUTRIS206
+  swift8: TEBUTRIS
+  branch_name: Saydam Caddesi Branch
+  branch_address: Sucuzade Mah., Saydam Cad. No:42 01030 Adana
+  branch_code: '206'
+  city: Adana
+  country: Turkey
+- name: Turk Ekonomi Bankasi A.S.
+  swift: TEBUTRIS269
+  swift8: TEBUTRIS
+  branch_name: Adana Mobilyacilar Branch
+  branch_address: Guzelevler Mah. 01310 Adana
+  branch_code: '269'
+  city: Adana
+  country: Turkey
+- name: Turk Ekonomi Bankasi A.S.
+  swift: TEBUTRIS312
+  swift8: TEBUTRIS
+  branch_name: Saricam Branch
+  branch_address: 'Kozan Caddesi No: 185/a Yuregir 01220 Adana'
+  branch_code: '312'
+  city: Adana
+  country: Turkey
+- name: Turk Ekonomi Bankasi A.S.
+  swift: TEBUTRIS359
+  swift8: TEBUTRIS
+  branch_name: Cukurova Kurumsal Branch
+  branch_address: Cinarli Mahallesi Ataturk Cad. N.15 01120 Adana
+  branch_code: '359'
+  city: Adana
+  country: Turkey
+- name: Turk Ekonomi Bankasi A.S.
+  swift: TEBUTRIS445
+  swift8: TEBUTRIS
+  branch_name: Adana Carsi Branch
+  branch_address: 'Karasoku Mah. Kizilay Cad. No: 14 S 01010 Adana'
+  branch_code: '445'
+  city: Adana
+  country: Turkey
+- name: Turk Ekonomi Bankasi A.S.
+  swift: TEBUTRIS446
+  swift8: TEBUTRIS
+  branch_name: Adana Toros Branch
+  branch_address: Sargut Apt. 01170 Adana
+  branch_code: '446'
+  city: Adana
+  country: Turkey
+- name: Turk Ekonomi Bankasi A.S.
+  swift: TEBUTRIS524
+  swift8: TEBUTRIS
+  branch_name: Adana Cukurova Branch
+  branch_address: Cinarli Mahallesi Ataturk Caddesi N 01120 Adana
+  branch_code: '524'
+  city: Adana
+  country: Turkey
+- name: Turk Ekonomi Bankasi A.S.
+  swift: TEBUTRIS535
+  swift8: TEBUTRIS
+  branch_name: Adana Atikop Branch
+  branch_address: Adana Is Merkezi a Blok 01010 Adana
+  branch_code: '535'
+  city: Adana
+  country: Turkey
+- name: Turk Ekonomi Bankasi A.S.
+  swift: TEBUTRIS573
+  swift8: TEBUTRIS
+  branch_name: Yeni Adana Branch
+  branch_address: Yesilkose Sitesi a Blok 01170 Adana
+  branch_code: '573'
+  city: Adana
+  country: Turkey
+- name: Turk Ekonomi Bankasi A.S.
+  swift: TEBUTRIS116
+  swift8: TEBUTRIS
+  branch_name: Afyon Branch
+  branch_address: Umurbey Mahallesi, Park Yokusu 03200 Afyon
+  branch_code: '116'
+  city: Afyon
+  country: Turkey
+- name: Turk Ekonomi Bankasi A.S.
+  swift: TEBUTRIS510
+  swift8: TEBUTRIS
+  branch_name: Afyon Kadiana Branch
+  branch_address: Davulcuoglu Is Hani Alti 03200 Afyon
+  branch_code: '510'
+  city: Afyon
+  country: Turkey
+- name: Turk Ekonomi Bankasi A.S.
+  swift: TEBUTRIS281
+  swift8: TEBUTRIS
+  branch_name: Adiyaman Branch
+  branch_address: Yeni Pinar Mahallesi Adiyaman
+  branch_code: '281'
+  city: Adiyaman
+  country: Turkey
+- name: Turk Ekonomi Bankasi A.S.
+  swift: TEBUTRIS354
+  swift8: TEBUTRIS
+  branch_name: Aksaray Branch
+  branch_address: 'Minarecik Mahallesi No: 8/A, Aksaray'
+  branch_code: '354'
+  city: Aksaray
+  country: Turkey
+- name: Turk Ekonomi Bankasi A.S.
+  swift: TEBUTRIS108
+  swift8: TEBUTRIS
+  branch_name: Alanya Branch
+  branch_address: Ataturk Caddesi No 42/A, Alanya 07400 Alanya
+  branch_code: '108'
+  city: Alanya
+  country: Turkey
+- name: Turk Ekonomi Bankasi A.S.
+  swift: TEBUTRIS006
+  swift8: TEBUTRIS
+  branch_name: Ankara Branch
+  branch_address: 'Ataturk Bulvari No: 231 06691 Ankara'
+  branch_code: '006'
+  city: Ankara
+  country: Turkey
+- name: Turk Ekonomi Bankasi A.S.
+  swift: TEBUTRIS034
+  swift8: TEBUTRIS
+  branch_name: Ulus Ankara Branch
+  branch_address: Necatibey Mahalllesi Anafartalar Ankara
+  branch_code: '034'
+  city: Ankara
+  country: Turkey
+- name: Turkish Bank A.S.
+  swift: TUBATRISTBL
+  swift8: TUBATRIS
+  branch_name: Foreign Operations Department
+  branch_address: Valikonagi Cad 7 80200 Istanbul
+  branch_code: TBL
+  city: Istanbul
+  country: Turkey
+- name: Turkish Bank A.S.
+  swift: TUBATRISXXX
+  swift8: TUBATRIS
+  branch_name: Head Office
+  branch_address: Dolapdere Cad No:225 Pangalti 34375 Istanbul
+  branch_code: XXX
+  city: Istanbul
+  country: Turkey
+- name: Turkiye Cumhuriyeti Ziraat Bankasi A.S.
+  swift: TCZBTR2AANK
+  swift8: TCZBTR2A
+  branch_name: Corporate Banking Branch
+  branch_address: Ankara
+  branch_code: ANK
+  city: Ankara
+  country: Turkey
+- name: Turkiye Cumhuriyeti Ziraat Bankasi A.S.
+  swift: TCZBTR2AXXX
+  swift8: TCZBTR2A
+  branch_name: Head Office
+  branch_address: Gazi Mustafa Kemal Bulvari, 164 06570 Ankara
+  branch_code: XXX
+  city: Ankara
+  country: Turkey
+- name: Turkiye Cumhuriyeti Ziraat Bankasi A.S.
+  swift: TCZBTR2AANT
+  swift8: TCZBTR2A
+  branch_name: Antalya Free Trade Zone Branch
+  branch_address: Antalya
+  branch_code: ANT
+  city: Antalya
+  country: Turkey
+- name: Turkiye Cumhuriyeti Ziraat Bankasi A.S.
+  swift: TCZBTR2AIZM
+  swift8: TCZBTR2A
+  branch_name: Izmir Corporate Banking Branch
+  branch_address: Izmir
+  branch_code: IZM
+  city: Izmir
+  country: Turkey
+- name: Turkiye Cumhuriyeti Ziraat Bankasi A.S.
+  swift: TCZBTR2AMER
+  swift8: TCZBTR2A
+  branch_name: Mersin Free Trade Zone Branch
+  branch_address: 33100 Mersin
+  branch_code: MER
+  city: Mersin
+  country: Turkey
+- name: Turkiye Finans Katilim Bankasi A.S.
+  swift: AFKBTRISXXX
+  swift8: AFKBTRIS
+  branch_name: Head Office
+  branch_address: Adnan Kahveci Cad. No:139, Kartal 81450 Istanbul
+  branch_code: XXX
+  city: Istanbul
+  country: Turkey
+- name: Turkiye Garanti Bankasi A.S.
+  swift: TGBATRIS489
+  swift8: TGBATRIS
+  branch_name: Aegean Free Zone Branch
+  branch_address: Izmir
+  branch_code: '489'
+  city: Izmir
+  country: Turkey
+- name: Turkiye Garanti Bankasi A.S.
+  swift: TGBATRIS093
+  swift8: TGBATRIS
+  branch_name: Try Vostro Accounts Services
+  branch_address: Istanbul
+  branch_code: '093'
+  city: Istanbul
+  country: Turkey
+- name: Turkiye Garanti Bankasi A.S.
+  swift: TGBATRIS381
+  swift8: TGBATRIS
+  branch_name: Istanbul Corporate Banking Operations Division
+  branch_address: Istanbul
+  branch_code: '381'
+  city: Istanbul
+  country: Turkey
+- name: Turkiye Garanti Bankasi A.S.
+  swift: TGBATRIS382
+  swift8: TGBATRIS
+  branch_name: Bakirkoy Corporate Banking Operations Division
+  branch_address: Istanbul
+  branch_code: '382'
+  city: Istanbul
+  country: Turkey
+- name: Turkiye Garanti Bankasi A.S.
+  swift: TGBATRIS383
+  swift8: TGBATRIS
+  branch_name: Kozyatagi Corporate Banking Operations Division
+  branch_address: Istanbul
+  branch_code: '383'
+  city: Istanbul
+  country: Turkey
+- name: Turkiye Garanti Bankasi A.S.
+  swift: TGBATRIS384
+  swift8: TGBATRIS
+  branch_name: Baskent Corporate Banking Operations Division
+  branch_address: Istanbul
+  branch_code: '384'
+  city: Istanbul
+  country: Turkey
+- name: Turkiye Garanti Bankasi A.S.
+  swift: TGBATRIS982
+  swift8: TGBATRIS
+  branch_name: Treasury Planning and Operations Division
+  branch_address: Istanbul
+  branch_code: '982'
+  city: Istanbul
+  country: Turkey
+- name: Turkiye Garanti Bankasi A.S.
+  swift: TGBATRIS986
+  swift8: TGBATRIS
+  branch_name: Reconciliations Division
+  branch_address: Istanbul
+  branch_code: '986'
+  city: Istanbul
+  country: Turkey
+- name: Turkiye Garanti Bankasi A.S.
+  swift: TGBATRIS987
+  swift8: TGBATRIS
+  branch_name: Cheque and Promissory Note Processing Division
+  branch_address: Istanbul
+  branch_code: '987'
+  city: Istanbul
+  country: Turkey
+- name: Turkiye Garanti Bankasi A.S.
+  swift: TGBATRISXXX
+  swift8: TGBATRIS
+  branch_name: Head Office
+  branch_address: Genel Mudurluk 34340 Istanbul
+  branch_code: XXX
+  city: Istanbul
+  country: Turkey
+- name: Turkiye Garanti Bankasi A.S.
+  swift: TGBATRIS310
+  swift8: TGBATRIS
+  branch_name: Mersin Free Zone Branch
+  branch_address: Mersin
+  branch_code: '310'
+  city: Mersin
+  country: Turkey
+- name: Turkiye Halk Bankasi A.S. (Head Office)
+  swift: TRHBTR2ARCN
+  swift8: TRHBTR2A
+  branch_name: Reconciliation Division
+  branch_address: T.Halk Bankasi A.S.(Head Office) 34749 Istanbul
+  branch_code: RCN
+  city: Ankara
+  country: Turkey
+- name: Turkiye Halk Bankasi A.S. (Head Office)
+  swift: TRHBTR2AXXX
+  swift8: TRHBTR2A
+  branch_name: Head Office
+  branch_address: No:4 K:19 34749 Istanbul B.Atasehir
+  branch_code: XXX
+  city: Ankara
+  country: Turkey
+- name: Turkiye Halk Bankasi A.S. (Head Office)
+  swift: TRHBTR2AFIS
+  swift8: TRHBTR2A
+  branch_name: Financial Institutions and Subsidiaries Department
+  branch_address: T.Halk Bankasi A.S.(Head Office) 34749 Istanbul
+  branch_code: FIS
+  city: Istanbul
+  country: Turkey
+- name: Turkiye Halk Bankasi A.S. (Head Office)
+  swift: TRHBTR2ATRY
+  swift8: TRHBTR2A
+  branch_name: Treasury Operations
+  branch_address: T.Halk Bankasi A.S.(Head Office) 34749 Istanbul
+  branch_code: TRY
+  city: Istanbul
+  country: Turkey
+- name: Turkiye Ihracat Kredi Bankasi (Turk Eximbank)
+  swift: TIKBTR2AKRD
+  swift8: TIKBTR2A
+  branch_name: Efil 4 Credit
+  branch_address: Ankara
+  branch_code: KRD
+  city: Ankara
+  country: Turkey
+- name: Turkiye Ihracat Kredi Bankasi (Turk Eximbank)
+  swift: TIKBTR2AXXX
+  swift8: TIKBTR2A
+  branch_name: Head Office
+  branch_address: 'Milli Mudafaa Caddesi No: 20 06100 Ankara'
+  branch_code: XXX
+  city: Ankara
+  country: Turkey
+- name: Turkiye Is Bankasi A.S.
+  swift: ISBKTRISCUS
+  swift8: ISBKTRIS
+  branch_name: Custody Department
+  branch_address: Istanbul
+  branch_code: CUS
+  city: Istanbul
+  country: Turkey
+- name: Turkiye Is Bankasi A.S.
+  swift: ISBKTRISINT
+  swift8: ISBKTRIS
+  branch_name: Lcs, Collections and Treasury Transactions
+  branch_address: Istanbul
+  branch_code: INT
+  city: Istanbul
+  country: Turkey
+- name: Turkiye Is Bankasi A.S.
+  swift: ISBKTRISISP
+  swift8: ISBKTRIS
+  branch_name: Portfolio Management
+  branch_address: Is Kuleleri 34330 Istanbul
+  branch_code: ISP
+  city: Istanbul
+  country: Turkey
+- name: Turkiye Is Bankasi A.S.
+  swift: ISBKTRISXXX
+  swift8: ISBKTRIS
+  branch_name: All Turkey Offices
+  branch_address: 4.Levent 34330 Istanbul
+  branch_code: XXX
+  city: Istanbul
+  country: Turkey
+- name: Turkiye Kalkinma Bankasi A.S.
+  swift: TKBNTR2AXXX
+  swift8: TKBNTR2A
+  branch_name: Head Office
+  branch_address: Genel Mudurluk 06440 Ankara
+  branch_code: XXX
+  city: Ankara
+  country: Turkey
+- name: Turkiye Vakiflar Bankasi T.A.O.
+  swift: TVBATR2ACUS
+  swift8: TVBATR2A
+  branch_name: Custody Main Branch
+  branch_address: Ata Plaza No:100 06530 Ankara
+  branch_code: CUS
+  city: Ankara
+  country: Turkey
+- name: Turkiye Vakiflar Bankasi T.A.O.
+  swift: TVBATR2AFEX
+  swift8: TVBATR2A
+  branch_name: Treasury Department
+  branch_address: Ankara
+  branch_code: FEX
+  city: Ankara
+  country: Turkey
+- name: Turkiye Vakiflar Bankasi T.A.O.
+  swift: TVBATR2A337
+  swift8: TVBATR2A
+  branch_name: Ege Free Zone
+  branch_address: Ege Free Zone 35410 Izmir
+  branch_code: '337'
+  city: Izmir
+  country: Turkey
+- name: Turkiye Vakiflar Bankasi T.A.O.
+  swift: TVBATR2A320
+  swift8: TVBATR2A
+  branch_name: Ataturk Hava Limani a H L Free Zone
+  branch_address: Ataturk Hava Limani Free Zone 34149 Istanbul
+  branch_code: '320'
+  city: Istanbul
+  country: Turkey
+- name: Turkiye Vakiflar Bankasi T.A.O.
+  swift: TVBATR2A358
+  swift8: TVBATR2A
+  branch_name: Istanbul Deri Ve Endustri Free Zone
+  branch_address: Ist.Deri Ve End. Free Zone 34957 Istanbul
+  branch_code: '358'
+  city: Istanbul
+  country: Turkey
+- name: Turkiye Vakiflar Bankasi T.A.O.
+  swift: TVBATR2A304
+  swift8: TVBATR2A
+  branch_name: Mersin Free Zone
+  branch_address: Mersin Free Zone 33185 Mersin
+  branch_code: '304'
+  city: Mersin
+  country: Turkey
+- name: Yapi Ve Kredi Bankasi A.S.
+  swift: YAPITRIS612
+  swift8: YAPITRIS
+  branch_name: Ahl Free Zone Branch
+  branch_address: A Block No:49 34830 Istanbul
+  branch_code: '612'
+  city: Istanbul
+  country: Turkey
+- name: Yapi Ve Kredi Bankasi A.S.
+  swift: YAPITRISAUD
+  swift8: YAPITRIS
+  branch_name: Audit Department
+  branch_address: Yapi Kredi Bank Plaza 34330 Istanbul
+  branch_code: AUD
+  city: Istanbul
+  country: Turkey
+- name: Yapi Ve Kredi Bankasi A.S.
+  swift: YAPITRISCHQ
+  swift8: YAPITRIS
+  branch_name: Cheque Department
+  branch_address: Yapi Kredi Bank Plaza 34330 Istanbul
+  branch_code: CHQ
+  city: Istanbul
+  country: Turkey
+- name: Yapi Ve Kredi Bankasi A.S.
+  swift: YAPITRISCOM
+  swift8: YAPITRIS
+  branch_name: Communication Department
+  branch_address: Yapi Kredi Bank Plaza 34330 Istanbul
+  branch_code: COM
+  city: Istanbul
+  country: Turkey
+- name: Yapi Ve Kredi Bankasi A.S.
+  swift: YAPITRISCOR
+  swift8: YAPITRIS
+  branch_name: Correspondent Department
+  branch_address: Yapi Kredi Bank Plaza 34330 Istanbul
+  branch_code: COR
+  city: Istanbul
+  country: Turkey
+- name: Yapi Ve Kredi Bankasi A.S.
+  swift: YAPITRISCRC
+  swift8: YAPITRIS
+  branch_name: Credit Cards Department
+  branch_address: Yapi Kredi Bank Plaza 34330 Istanbul
+  branch_code: CRC
+  city: Istanbul
+  country: Turkey
+- name: Yapi Ve Kredi Bankasi A.S.
+  swift: YAPITRISFAC
+  swift8: YAPITRIS
+  branch_name: Faktoring
+  branch_address: Buyukdere Cad. No. 101, Lalezar 80310 Istanbul
+  branch_code: FAC
+  city: Istanbul
+  country: Turkey
+- name: Yapi Ve Kredi Bankasi A.S.
+  swift: YAPITRISFEX
+  swift8: YAPITRIS
+  branch_name: Fx-Mm Operations
+  branch_address: Yapi Kredi Plaza 80620 Istanbul
+  branch_code: FEX
+  city: Istanbul
+  country: Turkey
+- name: Yapi Ve Kredi Bankasi A.S.
+  swift: YAPITRISINQ
+  swift8: YAPITRIS
+  branch_name: Inquiry Department
+  branch_address: Yapi Kredi Bank Plaza 34330 Istanbul
+  branch_code: INQ
+  city: Istanbul
+  country: Turkey
+- name: Yapi Ve Kredi Bankasi A.S.
+  swift: YAPITRISINV
+  swift8: YAPITRIS
+  branch_name: Investment
+  branch_address: Yapi Kredi Plaza Buyukdere Cad., 80650 Istanbul
+  branch_code: INV
+  city: Istanbul
+  country: Turkey
+- name: Yapi Ve Kredi Bankasi A.S.
+  swift: YAPITRISPNR
+  swift8: YAPITRIS
+  branch_name: Pay and Receive Department
+  branch_address: Yapi Kredi Bank Plaza 34330 Istanbul
+  branch_code: PNR
+  city: Istanbul
+  country: Turkey
+- name: Yapi Ve Kredi Bankasi A.S.
+  swift: YAPITRISREC
+  swift8: YAPITRIS
+  branch_name: Reconciliation Department
+  branch_address: Yapi Kredi Bank Plaza 34330 Istanbul
+  branch_code: REC
+  city: Istanbul
+  country: Turkey
+- name: Yapi Ve Kredi Bankasi A.S.
+  swift: YAPITRISXXX
+  swift8: YAPITRIS
+  branch_name: Head Office
+  branch_address: Yapi Kredi Plaza 34330 Istanbul
+  branch_code: XXX
+  city: Istanbul
+  country: Turkey
+- name: Ak Portfoy Yonetimi A.s.
+  swift: POYNTRI1XXX
+  swift8: POYNTRI1
+  branch_name: Head Office
+  branch_address: Sabanci Center Kule 2 34330 Istanbul
+  branch_code: XXX
+  city: Istanbul
+  country: Turkey
+- name: Ak Yatirim Menkul De Erler A.s.
+  swift: YAMGTRI1XXX
+  swift8: YAMGTRI1
+  branch_name: Head Office
+  branch_address: Noenue Cad. 42 34437 Istanbul
+  branch_code: XXX
+  city: Istanbul
+  country: Turkey
+- name: Akdeniz Menkul De Erler Ticaret A.s.
+  swift: AKMDTRI1XXX
+  swift8: AKMDTRI1
+  branch_name: Head Office
+  branch_address: 'Siracevizler Cad. No: 43 Kat: 1,5 80260 Istanbul'
+  branch_code: XXX
+  city: Istanbul
+  country: Turkey
+- name: Aks Menkul De Erler As
+  swift: AKMETRI1XXX
+  swift8: AKMETRI1
+  branch_name: Head Office
+  branch_address: Bueyuekdere Cad. Istanbul
+  branch_code: XXX
+  city: Istanbul
+  country: Turkey
+- name: Alan Menkul De Erler As
+  swift: ALMDTRI1XXX
+  swift8: ALMDTRI1
+  branch_name: Head Office
+  branch_address: Halaskargazi C N 360/14 80220 Istanbul
+  branch_code: XXX
+  city: Istanbul
+  country: Turkey
+- name: Alan Securities Inc.
+  swift: ALSITRI1XXX
+  swift8: ALSITRI1
+  branch_name: Head Office
+  branch_address: Ikbal Is Merkezi 34367 Istanbul
+  branch_code: XXX
+  city: Istanbul
+  country: Turkey
+- name: Ali Alpay Menkul Degerler
+  swift: AAMDTRI1XXX
+  swift8: AAMDTRI1
+  branch_name: Head Office
+  branch_address: Rihtim Caddesi 245 Karakoy Istanbul
+  branch_code: XXX
+  city: Istanbul
+  country: Turkey
+- name: Altay Menkul Degerler
+  swift: ALMETRI1XXX
+  swift8: ALMETRI1
+  branch_name: Head Office
+  branch_address: Valikonagi Caddesi 30/2 Nisantasi Istanbul
+  branch_code: XXX
+  city: Istanbul
+  country: Turkey
+- name: Alternatif Yatirim As
+  swift: ALMITRI1XXX
+  swift8: ALMITRI1
+  branch_name: Head Office
+  branch_address: Elmadag Han 34367 Istanbul
+  branch_code: XXX
+  city: Istanbul
+  country: Turkey
+- name: Anadolu Hayat Emeklilik As
+  swift: ANHETRI1XXX
+  swift8: ANHETRI1
+  branch_name: Head Office
+  branch_address: 'Kuleleri Kule: 2 Kat 34330 Istanbul'
+  branch_code: XXX
+  city: Istanbul
+  country: Turkey
+- name: Ankara Emeklilik A.s.
+  swift: ANEMTRI1XXX
+  swift8: ANEMTRI1
+  branch_name: Head Office
+  branch_address: Bolkan Center 34381 Istanbul
+  branch_code: XXX
+  city: Istanbul
+  country: Turkey
+- name: Arigil Menkul Degerler A.s.
+  swift: ARMRTRI1XXX
+  swift8: ARMRTRI1
+  branch_name: Head Office
+  branch_address: Cihangir Havyar Sok 80060 Istanbul
+  branch_code: XXX
+  city: Istanbul
+  country: Turkey
+- name: Arti Menkul Degerler
+  swift: ARMLTRI1XXX
+  swift8: ARMLTRI1
+  branch_name: Head Office
+  branch_address: Halaskargazi Caddesi 295/4 Osmanbey Istanbul
+  branch_code: XXX
+  city: Istanbul
+  country: Turkey
+- name: Asbank Ltd.
+  swift: ASBNTR21XXX
+  swift8: ASBNTR21
+  branch_name: Central Branch
+  branch_address: Mecidiye Sokak 8 10 Mersin
+  branch_code: XXX
+  city: Mersin
+  country: Turkey
+- name: Asia Pacific Banking Group Turkey
+  swift: APGTTRI1XXX
+  swift8: APGTTRI1
+  branch_name: Head Office
+  branch_address: Level 8 Tekfen Tower 34394 Istanbul
+  branch_code: XXX
+  city: Istanbul
+  country: Turkey
+- name: Ata Invest Inc
+  swift: ATASTRI1XXX
+  swift8: ATASTRI1
+  branch_name: Head Office
+  branch_address: Emirhan Caddesi 145/a 34349 Istanbul
+  branch_code: XXX
+  city: Istanbul
+  country: Turkey
+- name: Ata Menkul Degerler
+  swift: ATMDTRI1XXX
+  swift8: ATMDTRI1
+  branch_name: Head Office
+  branch_address: Emirhan Caddesi 145/a Balmumcu Istanbul
+  branch_code: XXX
+  city: Istanbul
+  country: Turkey
+- name: Az Global Portfoy Yonetimi As
+  swift: GLPYTRI1XXX
+  swift8: GLPYTRI1
+  branch_name: Head Office
+  branch_address: 'Rihtim Cad. No: 51 Kemankes 34425 Istanbul'
+  branch_code: XXX
+  city: Istanbul
+  country: Turkey
+- name: Bab Menkul De Erler Ticareti As
+  swift: BAMDTRI1XXX
+  swift8: BAMDTRI1
+  branch_name: Head Office
+  branch_address: Valikona I Caddesi No 77/1 Istanbul
+  branch_code: XXX
+  city: Istanbul
+  country: Turkey
+- name: Bank Of Tokyo-mitsubishi Ufj Turkey A.s.
+  swift: BOTKTRISXXX
+  swift8: BOTKTRIS
+  branch_name: No branch name
+  branch_address: No branch address
+  branch_code: XXX
+  city: Istanbul
+  country: Turkey
+- name: Baran Menkul De Erler A.s.
+  swift: BAEETRI1XXX
+  swift8: BAEETRI1
+  branch_name: Head Office
+  branch_address: 'Ba Dat Cad. No: 497/6 Suadiye 81070 Istanbul'
+  branch_code: XXX
+  city: Istanbul
+  country: Turkey
+- name: Basak Menkul Degerler A.s
+  swift: BAEGTRI1XXX
+  swift8: BAEGTRI1
+  branch_name: Head Office
+  branch_address: Abdi Ipekci Cad. Kizilkaya Apt. 80680 Istanbul
+  branch_code: XXX
+  city: Istanbul
+  country: Turkey
+- name: Baskent Securities, Inc.
+  swift: BAUETRI1XXX
+  swift8: BAUETRI1
+  branch_name: Head Office
+  branch_address: Bolkan Center 34381 Istanbul
+  branch_code: XXX
+  city: Istanbul
+  country: Turkey
+- name: Bayindir Menkul De Erler A.s
+  swift: BAKDTRI1XXX
+  swift8: BAKDTRI1
+  branch_name: Head Office
+  branch_address: Bueyuekder Cad. Buelent Tarcan Sok. Istanbul
+  branch_code: XXX
+  city: Istanbul
+  country: Turkey
+- name: Bender Menkul Degerler A.s
+  swift: BMDGTRI1XXX
+  swift8: BMDGTRI1
+  branch_name: Head Office
+  branch_address: Meclis-I Mebusan Cad.No:1,Ekemen 34427 Istanbul
+  branch_code: XXX
+  city: Istanbul
+  country: Turkey
+- name: Beta Menkul Degerler
+  swift: BEMDTRI1XXX
+  swift8: BEMDTRI1
+  branch_name: Head Office
+  branch_address: Istanbul Caddesi 39 Kat.2 Bakirkoy Istanbul
+  branch_code: XXX
+  city: Istanbul
+  country: Turkey
+- name: Bgc Partners Menkul Degerler As
+  swift: BPMRTRI1XXX
+  swift8: BPMRTRI1
+  branch_name: Head Office
+  branch_address: Kanyon Office Building 34394 Istanbul
+  branch_code: XXX
+  city: Istanbul
+  country: Turkey
+- name: Birikim Menkul Degerler
+  swift: BIMDTRI1XXX
+  swift8: BIMDTRI1
+  branch_name: Head Office
+  branch_address: Fahri Gizdem Sokak 1/1 Gayrettepe Istanbul
+  branch_code: XXX
+  city: Istanbul
+  country: Turkey
+- name: Bizim Menkul Degerler A.s.
+  swift: BIMRTRI1XXX
+  swift8: BIMRTRI1
+  branch_name: Head Office
+  branch_address: Adnan Kahveci Cd. 139 Kartal 34768 Istanbul
+  branch_code: XXX
+  city: Istanbul
+  country: Turkey
+- name: Bumerang Menkul De Erler A.s.
+  swift: BUMETRI1XXX
+  swift8: BUMETRI1
+  branch_name: Head Office
+  branch_address: Uest Denizbank Sitesi No:20 80860 Istanbul
+  branch_code: XXX
+  city: Istanbul
+  country: Turkey
+- name: Burgan Bank A.s.
+  swift: TEKFTRIS946
+  swift8: TEKFTRIS
+  branch_name: Factoring
+  branch_address: No branch address
+  branch_code: '946'
+  city: Istanbul
+  country: Turkey
+- name: Ca Das Menkul De Erler As
+  swift: CAMGTRI1XXX
+  swift8: CAMGTRI1
+  branch_name: Head Office
+  branch_address: Tesvikiye Cad Ikbal Is Merkezi Istanbul
+  branch_code: XXX
+  city: Istanbul
+  country: Turkey
+- name: Camis Menkul De Erler A.s.
+  swift: CAMDTRI1XXX
+  swift8: CAMDTRI1
+  branch_name: Head Office
+  branch_address: Is Kuleleri Kule:3 34330 Istanbul
+  branch_code: XXX
+  city: Istanbul
+  country: Turkey
+- name: Can Menkul Degerler
+  swift: CAMETRI1XXX
+  swift8: CAMETRI1
+  branch_name: Head Office
+  branch_address: Buyukdere Caddesi 8 K:6 Sisli Istanbul
+  branch_code: XXX
+  city: Istanbul
+  country: Turkey
+- name: Censa Menkul De Erler A.s.
+  swift: CEMDTRI1XXX
+  swift8: CEMDTRI1
+  branch_name: Head Office
+  branch_address: Ahi Evran Caddesi No:1 Istanbul
+  branch_code: XXX
+  city: Istanbul
+  country: Turkey
+- name: Ceros Menkul Degerler A.s.
+  swift: CERSTRI1XXX
+  swift8: CERSTRI1
+  branch_name: Head Office
+  branch_address: Ruzgarlibahce Mahallesi, 34805 Istanbul
+  branch_code: XXX
+  city: Istanbul
+  country: Turkey
+- name: Citi Menkul De Erler A.s.
+  swift: TEMDTRI1XXX
+  swift8: TEMDTRI1
+  branch_name: Head Office
+  branch_address: Tekfen Tower 34394 Istanbul
+  branch_code: XXX
+  city: Istanbul
+  country: Turkey
+- name: Cyprus Credit Bank Ltd.
+  swift: CYCRTRI1XXX
+  swift8: CYCRTRI1
+  branch_name: Nisantasi Branch
+  branch_address: Vali Konagi Avenue 80220 Istanbul
+  branch_code: XXX
+  city: Istanbul
+  country: Turkey
+- name: Cyprus Intec Bank
+  swift: CYIOTR21XXX
+  swift8: CYIOTR21
+  branch_name: Head Office
+  branch_address: 40 Osman Pasa Caddesi Lefkosa Mersin
+  branch_code: XXX
+  city: Mersin
+  country: Turkey
+- name: Datek Securities Inc.
+  swift: DSBPTRI1XXX
+  swift8: DSBPTRI1
+  branch_name: Head Office
+  branch_address: Beybigiz Plaza 80670 Istanbul
+  branch_code: XXX
+  city: Istanbul
+  country: Turkey
+- name: Delta Menkul De Erler A.s
+  swift: DEMDTRI1XXX
+  swift8: DEMDTRI1
+  branch_name: Head Office
+  branch_address: Tesvikiye Caddesi Istanbul
+  branch_code: XXX
+  city: Istanbul
+  country: Turkey
+- name: Demir Faktoring A.s.
+  swift: DEFKTRI1XXX
+  swift8: DEFKTRI1
+  branch_name: Head Office
+  branch_address: Guevercin Sok. 16 34330 Istanbul
+  branch_code: XXX
+  city: Istanbul
+  country: Turkey
+- name: Denge Menkul Degerler
+  swift: DEMETRI1XXX
+  swift8: DEMETRI1
+  branch_name: Head Office
+  branch_address: Kemeralti Caddesi Kalaycioglu 80020 Istanbul
+  branch_code: XXX
+  city: Istanbul
+  country: Turkey
+- name: Deniz Portfoey Yoenetimi A.s.
+  swift: DEPYTRT1XXX
+  swift8: DEPYTRT1
+  branch_name: Head Office
+  branch_address: Bueyuekdere Cad. Semsir Is Merkez 34394 Istanbul
+  branch_code: XXX
+  city: Istanbul
+  country: Turkey
+- name: Deniz Yatirim Menkul Degerler A.s.
+  swift: DYULTRI1XXX
+  swift8: DYULTRI1
+  branch_name: Head Office
+  branch_address: Buyukdere Plaza 34394 Istanbul
+  branch_code: XXX
+  city: Istanbul
+  country: Turkey
+- name: Derborsa Menkul Degerler
+  swift: DEMGTRI1XXX
+  swift8: DEMGTRI1
+  branch_name: Head Office
+  branch_address: Dervisoglu Sakak Dervis Han 10 Istanbul
+  branch_code: XXX
+  city: Istanbul
+  country: Turkey
+- name: Deutsche Bank Anonim Sirketi
+  swift: TUMETRI1XXX
+  swift8: TUMETRI1
+  branch_name: Head Office
+  branch_address: Eski Bueyuekdere Caddesi Tekfen Tw 34394 Istanbul
+  branch_code: XXX
+  city: Istanbul
+  country: Turkey
+- name: Dis Yatirim Menkul De Erler A.s
+  swift: DYKLTRI1XXX
+  swift8: DYKLTRI1
+  branch_name: Head Office
+  branch_address: Blok C 80630 Istanbul
+  branch_code: XXX
+  city: Istanbul
+  country: Turkey
+- name: Duenya Menkul De Erler A.s
+  swift: DUMDTRI1XXX
+  swift8: DUMDTRI1
+  branch_name: Head Office
+  branch_address: Noebethane Cad. Kargili Sok. 34113 Istanbul
+  branch_code: XXX
+  city: Istanbul
+  country: Turkey
+- name: Eczacibasi Menkul De Erler A.s.
+  swift: ECZATRI1XXX
+  swift8: ECZATRI1
+  branch_name: Head Office
+  branch_address: Tekfen Tower 34394 Istanbul
+  branch_code: XXX
+  city: Istanbul
+  country: Turkey
+- name: Eczacibasi Menkul De Erler A.s.
+  swift: EZMDTRI1XXX
+  swift8: EZMDTRI1
+  branch_name: Head Office
+  branch_address: Tekfen Tower 34394 Istanbul
+  branch_code: XXX
+  city: Istanbul
+  country: Turkey
+- name: Eczacibasi-ubp Portfoey Yoenetimi A.s.
+  swift: ECPYTRI1XXX
+  swift8: ECPYTRI1
+  branch_name: Head Office
+  branch_address: Tekfen Tower 34394 Istanbul
+  branch_code: XXX
+  city: Istanbul
+  country: Turkey
+- name: Efg Istanbul Menkul De Erler Anonim Sirketi
+  swift: ISMETRI1XXX
+  swift8: ISMETRI1
+  branch_name: Head Office
+  branch_address: Buyukdere Plaza 80620 Istanbul
+  branch_code: XXX
+  city: Istanbul
+  country: Turkey
+- name: Ege Yatirim Menkul De Erler A.s.
+  swift: EYMDTRI1XXX
+  swift8: EYMDTRI1
+  branch_name: Head Office
+  branch_address: Akatlar Ebulula C F2 C Blok 80280 Istanbul
+  branch_code: XXX
+  city: Istanbul
+  country: Turkey
+- name: Egemen Menkul Degerler
+  swift: EGMDTR21XXX
+  swift8: EGMDTR21
+  branch_name: Head Office
+  branch_address: Sair Esref Bulvari 35/1 Montro Izmir
+  branch_code: XXX
+  city: Izmir
+  country: Turkey
+- name: Ekinciler Investment And Securities Inc
+  swift: EKISTRI1XXX
+  swift8: EKISTRI1
+  branch_name: Head Office
+  branch_address: Dedeman Ticaret Merkezi, 34349 Istanbul
+  branch_code: XXX
+  city: Istanbul
+  country: Turkey
+- name: Ekinciler Menkul Degerler
+  swift: EKMDTRI1XXX
+  swift8: EKMDTRI1
+  branch_name: Head Office
+  branch_address: Levent Caddesi Yeni Sulun Sokak 80620 Istanbul
+  branch_code: XXX
+  city: Istanbul
+  country: Turkey
+- name: Ekinciler Yatirim Menkul De Erler As
+  swift: EYMGTRI1XXX
+  swift8: EYMGTRI1
+  branch_name: Head Office
+  branch_address: Dedeman Ticaret Merkezi 34349 Istanbul
+  branch_code: XXX
+  city: Istanbul
+  country: Turkey
+- name: Ekol Menkul Degerler
+  swift: EKMETRI1XXX
+  swift8: EKMETRI1
+  branch_name: Head Office
+  branch_address: Ataturk Bulvari 148/4 Aksaray Istanbul
+  branch_code: XXX
+  city: Istanbul
+  country: Turkey
+- name: Ekspo Faktoring A.s.
+  swift: EKSFTRI2XXX
+  swift8: EKSFTRI2
+  branch_name: Head Office
+  branch_address: Spring Giz Plaza B Blok 34398 Istanbul
+  branch_code: XXX
+  city: Istanbul
+  country: Turkey
+- name: Ekspres Yatirim Menkul De Erler A.s.
+  swift: EYMETRI1XXX
+  swift8: EYMETRI1
+  branch_name: Head Office
+  branch_address: 'Bueyuekdere Cad. No: 106 Kat:15 34394 Istanbul'
+  branch_code: XXX
+  city: Istanbul
+  country: Turkey
+- name: Erste Securities Istanbul Menkul Degerler A.s.
+  swift: ESIETRI1XXX
+  swift8: ESIETRI1
+  branch_name: Head Office
+  branch_address: Kanyon Ofis Blogu 34394 Istanbul
+  branch_code: XXX
+  city: Istanbul
+  country: Turkey
+- name: Evgin Menkul Degerler
+  swift: EVMDTRI1XXX
+  swift8: EVMDTRI1
+  branch_name: Head Office
+  branch_address: Halaskargazi Caddesi 224/1 Sisli Istanbul
+  branch_code: XXX
+  city: Istanbul
+  country: Turkey
+- name: Evis Menkul De Erler As
+  swift: EVMETRI1XXX
+  swift8: EVMETRI1
+  branch_name: Head Office
+  branch_address: Sehit Muhtar C Demirkut Istanbul
+  branch_code: XXX
+  city: Istanbul
+  country: Turkey
+- name: Faisal Islamic Bank Of Kibris
+  swift: FAIKTR21XXX
+  swift8: FAIKTR21
+  branch_name: Head Office
+  branch_address: Faisal Islamic Bank Building Mersin
+  branch_code: XXX
+  city: Mersin
+  country: Turkey
+- name: Finans Portfoey Yoenetimi A.s.
+  swift: FIPYTRI1XXX
+  swift8: FIPYTRI1
+  branch_name: Head Office
+  branch_address: Akmerkez B Kulesi 80600 Istanbul
+  branch_code: XXX
+  city: Istanbul
+  country: Turkey
+- name: Finans Yatirim Menkul De Erler As
+  swift: FYMDTRI1XXX
+  swift8: FYMDTRI1
+  branch_name: Head Office
+  branch_address: Akmerkez B Kulesi 34330 Istanbul
+  branch_code: XXX
+  city: Istanbul
+  country: Turkey
+- name: Finanscorp Finansman Yatirim
+  swift: FIFATRI1XXX
+  swift8: FIFATRI1
+  branch_name: Head Office
+  branch_address: Cumhuriyet Caddesi 20 Elmadag Istanbul
+  branch_code: XXX
+  city: Istanbul
+  country: Turkey
+- name: Finba Menkul Degerler
+  swift: FIMDTRI1XXX
+  swift8: FIMDTRI1
+  branch_name: Head Office
+  branch_address: Yesil Cimen Caddesi 23/1 Besiktas Istanbul
+  branch_code: XXX
+  city: Istanbul
+  country: Turkey
+- name: Fitch Turkey Finansal Derecelendirme Hizemetleri A.s.
+  swift: FRIPTRI1XXX
+  swift8: FRIPTRI1
+  branch_name: Head Office
+  branch_address: 'Is Kuleler Kule 2, : 4, 34330 80620 Istanbul'
+  branch_code: XXX
+  city: Istanbul
+  country: Turkey
+- name: Form Menkul De Erler A.s
+  swift: FOMDTRI1XXX
+  swift8: FOMDTRI1
+  branch_name: Head Office
+  branch_address: Macka Cad. 73/4 Istanbul
+  branch_code: XXX
+  city: Istanbul
+  country: Turkey
+- name: Fortis Portfoey Yoenetimi A.s.
+  swift: FOPYTRI1XXX
+  swift8: FOPYTRI1
+  branch_name: Head Office
+  branch_address: Bueyuekdere Cad. 1. 34330 Istanbul
+  branch_code: XXX
+  city: Istanbul
+  country: Turkey
+- name: Fortis Yatirim Menkul De Erler A.s.
+  swift: FYMETRI1XXX
+  swift8: FYMETRI1
+  branch_name: Head Office
+  branch_address: 'Dilhayat Sok. No: 8 80600 Istanbul'
+  branch_code: XXX
+  city: Istanbul
+  country: Turkey
+- name: Fortress Bank I.b.u Ltd
+  swift: FOIITR21XXX
+  swift8: FOIITR21
+  branch_name: Head Office
+  branch_address: No 9 Sh. Huseyin Pasa Av 00000 Yeni Sehir
+  branch_code: XXX
+  city: Yeni
+  country: Turkey
+- name: Galata Securities Inc.
+  swift: GALSTRI1XXX
+  swift8: GALSTRI1
+  branch_name: Head Office
+  branch_address: Dursun Han 34433 Istanbul
+  branch_code: XXX
+  city: Istanbul
+  country: Turkey
+- name: Garanti Menkul Degerler
+  swift: GAMDTRI1XXX
+  swift8: GAMDTRI1
+  branch_name: Head Office
+  branch_address: Mete Caddesi Park Han 40 Taksim Istanbul
+  branch_code: XXX
+  city: Istanbul
+  country: Turkey
+- name: Garanti Portfoey Yoenetimi A.s.
+  swift: GAPYTRI1XXX
+  swift8: GAPYTRI1
+  branch_name: Head Office
+  branch_address: 'Emirhan Caddesi No: 145 B Blok 34349 Istanbul'
+  branch_code: XXX
+  city: Istanbul
+  country: Turkey
+- name: Garanti Yatirim Menkul Kiymetler Anonimsirketi
+  swift: GYMKTRI1XXX
+  swift8: GYMKTRI1
+  branch_name: Head Office
+  branch_address: Garanti Binasi. Nispetiye Mahallesi 34340 Istanbul
+  branch_code: XXX
+  city: Istanbul
+  country: Turkey
+- name: Gedik Yatirim Menkul De Erler A.s.
+  swift: GEMDTRI1XXX
+  swift8: GEMDTRI1
+  branch_name: Head Office
+  branch_address: Cumhuriyet Mah.E-5 Yanyol No:29 34876 Istanbul
+  branch_code: XXX
+  city: Istanbul
+  country: Turkey
+- name: Gedik Yatirim Ortakli I A.s.
+  swift: GEISTRI1XXX
+  swift8: GEISTRI1
+  branch_name: Head Office
+  branch_address: Cumhuriyet Mah.E-5 Yanyol 29 34876 Istanbul
+  branch_code: XXX
+  city: Istanbul
+  country: Turkey
+- name: Genborsa Menkul Degerler
+  swift: GEMETRI1XXX
+  swift8: GEMETRI1
+  branch_name: Head Office
+  branch_address: Buyukdere Caddesi 14 K:5 Sisli 80220 Istanbul
+  branch_code: XXX
+  city: Istanbul
+  country: Turkey
+- name: Gfc General Finans Menkul Degerler A.s.
+  swift: GGFMTRI1XXX
+  swift8: GGFMTRI1
+  branch_name: Head Office
+  branch_address: Macka Caddesi 1 34367 Istanbul
+  branch_code: XXX
+  city: Istanbul
+  country: Turkey
+- name: Global Menkul De Erler A.s.
+  swift: GLOSTRI1XXX
+  swift8: GLOSTRI1
+  branch_name: Head Office
+  branch_address: Maya Akar Center 80280 Istanbul
+  branch_code: XXX
+  city: Istanbul
+  country: Turkey
+- name: Gueven Menkul De Erler A.s.
+  swift: GUMETRI1XXX
+  swift8: GUMETRI1
+  branch_name: Head Office
+  branch_address: Bueyuekdere Cad. No:100-102 80220 Istanbul
+  branch_code: XXX
+  city: Istanbul
+  country: Turkey
+- name: Guney Menkul Degerler A.s.
+  swift: GUMDTRI1XXX
+  swift8: GUMDTRI1
+  branch_name: Head Office
+  branch_address: Has Center Is Merkezi Mehmetcik Sk. 34180 Istanbul
+  branch_code: XXX
+  city: Istanbul
+  country: Turkey
+- name: Hedef Menkul De Erler
+  swift: HEMDTRI1XXX
+  swift8: HEMDTRI1
+  branch_name: Head Office
+  branch_address: Blok a 34357 Istanbul
+  branch_code: XXX
+  city: Istanbul
+  country: Turkey
+- name: Hsbc Portfoey Yoenetimi A.s.
+  swift: HSPYTRI1XXX
+  swift8: HSPYTRI1
+  branch_name: Head Office
+  branch_address: Bueyuekdere Caddesi 34394 Istanbul
+  branch_code: XXX
+  city: Istanbul
+  country: Turkey
+- name: Iktisat Yatirim Menkul De Erler A.s.
+  swift: IYMDTRI1XXX
+  swift8: IYMDTRI1
+  branch_name: Head Office
+  branch_address: Buyukdere Cad. Metrocity Is Mrk 171 Istanbul
+  branch_code: XXX
+  city: Istanbul
+  country: Turkey
+- name: Info Menkul De Erler A.s.
+  swift: IMDGTRI1XXX
+  swift8: IMDGTRI1
+  branch_name: Head Office
+  branch_address: Muehuerdar Eminpasa S Cesmeli H N 3 Istanbul
+  branch_code: XXX
+  city: Istanbul
+  country: Turkey
+- name: Info Securities Inc
+  swift: INSRTRI1XXX
+  swift8: INSRTRI1
+  branch_name: Head Office
+  branch_address: Plaza Spring Giz Maslak 20080 Istanbul
+  branch_code: XXX
+  city: Istanbul
+  country: Turkey
+- name: Info Yatirim A.s.
+  swift: INYATRI1XXX
+  swift8: INYATRI1
+  branch_name: Head Office
+  branch_address: No:20 Buyukdere Caddessi 34330 Istanbul
+  branch_code: XXX
+  city: Istanbul
+  country: Turkey
+- name: Ing Bank A.s. (formerly Oyak Bank A.s.
+  swift: INGBTRIS683
+  swift8: INGBTRIS
+  branch_name: Findikzade Branch
+  branch_address: No branch address
+  branch_code: '683'
+  city: Istanbul
+  country: Turkey
+- name: Ing Bank A.s. (formerly Oyak Bank A.s.
+  swift: INGBTRIS710
+  swift8: INGBTRIS
+  branch_name: Arnavutkoy Branch
+  branch_address: No branch address
+  branch_code: '710'
+  city: Istanbul
+  country: Turkey
+- name: Ing Bank A.s. (formerly Oyak Bank A.s.
+  swift: INGBTRIS720
+  swift8: INGBTRIS
+  branch_name: Etimesgut Branch
+  branch_address: Ankara
+  branch_code: '720'
+  city: Ankara
+  country: Turkey
+- name: Ing Bank A.s. (formerly Oyak Bank A.s.
+  swift: INGBTRIS721
+  swift8: INGBTRIS
+  branch_name: Gaziantep Ticari Branch
+  branch_address: Gaziantep
+  branch_code: '721'
+  city: Gaziantep
+  country: Turkey
+- name: Ing Bank A.s. (formerly Oyak Bank A.s.
+  swift: INGBTRIS722
+  swift8: INGBTRIS
+  branch_name: Bagcilar Inonu
+  branch_address: No branch address
+  branch_code: '722'
+  city: Istanbul
+  country: Turkey
+- name: Ing Bank A.s. (formerly Oyak Bank A.s.
+  swift: INGBTRIS723
+  swift8: INGBTRIS
+  branch_name: Ipekyolu Branch
+  branch_address: Gaziantep
+  branch_code: '723'
+  city: Gaziantep
+  country: Turkey
+- name: Ing Bank A.s. (formerly Oyak Bank A.s.
+  swift: INGBTRIS724
+  swift8: INGBTRIS
+  branch_name: Bursa Organize Sanayi
+  branch_address: Bursa
+  branch_code: '724'
+  city: Bursa
+  country: Turkey
+- name: Ing Bank A.s. (formerly Oyak Bank A.s.
+  swift: INGBTRIS725
+  swift8: INGBTRIS
+  branch_name: Sultangazi Branch
+  branch_address: No branch address
+  branch_code: '725'
+  city: Istanbul
+  country: Turkey
+- name: Ing Bank A.s. (formerly Oyak Bank A.s.
+  swift: INGBTRIS726
+  swift8: INGBTRIS
+  branch_name: Koprubasi Branch
+  branch_address: Eskisehir
+  branch_code: '726'
+  city: Eskisehir
+  country: Turkey
+- name: Ing Bank A.s. (formerly Oyak Bank A.s.
+  swift: INGBTRIS727
+  swift8: INGBTRIS
+  branch_name: Pursaklar Branch
+  branch_address: Ankara
+  branch_code: '727'
+  city: Ankara
+  country: Turkey
+- name: Ing Bank A.s. (formerly Oyak Bank A.s.
+  swift: INGBTRIS728
+  swift8: INGBTRIS
+  branch_name: Ankara Nato Yolu Branch
+  branch_address: Ankara
+  branch_code: '728'
+  city: Ankara
+  country: Turkey
+- name: Ing Bank A.s. (formerly Oyak Bank A.s.
+  swift: INGBTRIS729
+  swift8: INGBTRIS
+  branch_name: Ibrahimaga Caddesi Branch
+  branch_address: Kocaeli
+  branch_code: '729'
+  city: Kocaeli
+  country: Turkey
+- name: Ing Bank A.s. (formerly Oyak Bank A.s.
+  swift: INGBTRIS730
+  swift8: INGBTRIS
+  branch_name: Esenler Branch
+  branch_address: No branch address
+  branch_code: '730'
+  city: Istanbul
+  country: Turkey
+- name: Ing Bank A.s. (formerly Oyak Bank A.s.
+  swift: INGBTRIS731
+  swift8: INGBTRIS
+  branch_name: Beykent Branch
+  branch_address: No branch address
+  branch_code: '731'
+  city: Istanbul
+  country: Turkey
+- name: Ing Bank A.s. (formerly Oyak Bank A.s.
+  swift: INGBTRIS732
+  swift8: INGBTRIS
+  branch_name: Bursa Kestel Osb Branch
+  branch_address: Bursa
+  branch_code: '732'
+  city: Bursa
+  country: Turkey
+- name: Ing Bank A.s. (formerly Oyak Bank A.s.
+  swift: INGBTRIS733
+  swift8: INGBTRIS
+  branch_name: Bursa Cali Yolu Branch
+  branch_address: No branch address
+  branch_code: '733'
+  city: Bursa
+  country: Turkey
+- name: Ing Bank A.s. (formerly Oyak Bank A.s.
+  swift: INGBTRIS734
+  swift8: INGBTRIS
+  branch_name: Gulsan Branch
+  branch_address: No branch address
+  branch_code: '734'
+  city: Samsun
+  country: Turkey
+- name: Ing Bank A.s. (formerly Oyak Bank A.s.
+  swift: INGBTRIS735
+  swift8: INGBTRIS
+  branch_name: Malatya Cevreyolu Branch
+  branch_address: No branch address
+  branch_code: '735'
+  city: Malatya
+  country: Turkey
+- name: Ing Bank A.s. (formerly Oyak Bank A.s.
+  swift: INGBTRIS736
+  swift8: INGBTRIS
+  branch_name: Seyhan Branch
+  branch_address: No branch address
+  branch_code: '736'
+  city: Adana
+  country: Turkey
+- name: Ing Menkul Degerler A.s.
+  swift: ABMDTRI1XXX
+  swift8: ABMDTRI1
+  branch_name: Head Office
+  branch_address: Guney Plaza 34389 Istanbul
+  branch_code: XXX
+  city: Istanbul
+  country: Turkey
+- name: Is Investment
+  swift: IVSMTRI1XXX
+  swift8: IVSMTRI1
+  branch_name: Head Office
+  branch_address: 'Is Kuleleri, Kule: 2 Kat: 12 4. 34330 Istanbul'
+  branch_code: XXX
+  city: Istanbul
+  country: Turkey
+- name: Is Portfoey Yoenetimi A.s.
+  swift: POYETRI1XXX
+  swift8: POYETRI1
+  branch_name: Head Office
+  branch_address: Is Kuleleri Kule 2 Kat 12 80620 Istanbul
+  branch_code: XXX
+  city: Istanbul
+  country: Turkey
+- name: Is Yatirim Ortakli I A.s.
+  swift: YAORTRI1XXX
+  swift8: YAORTRI1
+  branch_name: Head Office
+  branch_address: Bueyuekdere Cad. Is Kuleleri 34330 Istanbul
+  branch_code: XXX
+  city: Istanbul
+  country: Turkey
+- name: Isiklar Menkul Degerler A.s.
+  swift: ISMDTRI1XXX
+  swift8: ISMDTRI1
+  branch_name: Head Office
+  branch_address: Ahmet Adnan Saygun Caddesi Canan 80840 Istanbul
+  branch_code: XXX
+  city: Istanbul
+  country: Turkey
+- name: Istanbul Menkul Kiymetler Borsasi
+  swift: XISTTRI1XXX
+  swift8: XISTTRI1
+  branch_name: Head Office
+  branch_address: I.M.K.B. 34467 Istanbul
+  branch_code: XXX
+  city: Istanbul
+  country: Turkey
+- name: Kapital Menkul De Erler A.s.
+  swift: KMDGTRI1XXX
+  swift8: KMDGTRI1
+  branch_name: Head Office
+  branch_address: Bueyuekdere Cad. No:61 34398 Istanbul
+  branch_code: XXX
+  city: Istanbul
+  country: Turkey
+- name: Karon Menkul Degerler A.s.
+  swift: KAMDTRI1XXX
+  swift8: KAMDTRI1
+  branch_name: Head Office
+  branch_address: Blok C Istanbul
+  branch_code: XXX
+  city: Istanbul
+  country: Turkey
+- name: Kibris Kredi Bankasi Ltd.
+  swift: KKIBTRI1XXX
+  swift8: KKIBTRI1
+  branch_name: Head Office
+  branch_address: Bueyuekdere Caddesi No:118 80280 Istanbul
+  branch_code: XXX
+  city: Istanbul
+  country: Turkey
+- name: Koc Allianz Hayat Ve Emeklilik A.s.
+  swift: KAHETRI1XXX
+  swift8: KAHETRI1
+  branch_name: Head Office
+  branch_address: Baglarbasi Kisikli Cad. No:11 34662 Istanbul
+  branch_code: XXX
+  city: Istanbul
+  country: Turkey
+- name: Koc Finansal Kiralama Anonim Sirketi
+  swift: KFIKTRI1XXX
+  swift8: KFIKTRI1
+  branch_name: Head Office
+  branch_address: 28, Kisikli Caddesi 34662 Istanbul
+  branch_code: XXX
+  city: Istanbul
+  country: Turkey
+- name: Koc Portfoy Yonetimi A.s.
+  swift: KOPYTRI1XXX
+  swift8: KOPYTRI1
+  branch_name: Head Office
+  branch_address: Rbaros Bulvari Morbasan Sokak 34349 Istanbul
+  branch_code: XXX
+  city: Istanbul
+  country: Turkey
+- name: Koc Yatirim Menkul De Erler A.s
+  swift: KOMDTRI1XXX
+  swift8: KOMDTRI1
+  branch_name: Head Office
+  branch_address: Barbaros Bulvari Morbasan Sokak 80700 Istanbul
+  branch_code: XXX
+  city: Istanbul
+  country: Turkey
+- name: Korfez Yatirim Menkul Degerler A.s.
+  swift: KYMDTRI1XXX
+  swift8: KYMDTRI1
+  branch_name: Head Office
+  branch_address: Bahceler Sokak 25 Mecidiyekoy 80290 Istanbul
+  branch_code: XXX
+  city: Istanbul
+  country: Turkey
+- name: Med Menkul Degerler
+  swift: MEMDTRI1XXX
+  swift8: MEMDTRI1
+  branch_name: Head Office
+  branch_address: Macka Caddesi Aziziye Palas Kat/1 Istanbul
+  branch_code: XXX
+  city: Istanbul
+  country: Turkey
+- name: Meksa Menkul De Erler Ticaret As
+  swift: MEMETRI1XXX
+  swift8: MEMETRI1
+  branch_name: Head Office
+  branch_address: Bueyuekdere C Fargo Is H N 147/2 Istanbul
+  branch_code: XXX
+  city: Istanbul
+  country: Turkey
+- name: Menka Menkul De Erler Ticareti As
+  swift: MEMGTRI1XXX
+  swift8: MEMGTRI1
+  branch_name: Head Office
+  branch_address: Spring Giz Plaza 80670 Istanbul
+  branch_code: XXX
+  city: Istanbul
+  country: Turkey
+- name: Merkez Menkul De Erler As
+  swift: MEMLTR21XXX
+  swift8: MEMLTR21
+  branch_name: Head Office
+  branch_address: Anafartalar Cad No 61 Ulus 6250 Ankara
+  branch_code: XXX
+  city: Ankara
+  country: Turkey
+- name: Merkezi Kayit Kurulusu A.s.
+  swift: MKKCTRISXXX
+  swift8: MKKCTRIS
+  branch_name: Head Office
+  branch_address: Suzer Plaza 34367 Istanbul
+  branch_code: XXX
+  city: Istanbul
+  country: Turkey
+- name: Mert Menkul Degerler
+  swift: MEMRTRI1XXX
+  swift8: MEMRTRI1
+  branch_name: Head Office
+  branch_address: Blok B Istanbul
+  branch_code: XXX
+  city: Istanbul
+  country: Turkey
+- name: Mondial Private Bank
+  swift: MORETR21XXX
+  swift8: MORETR21
+  branch_name: Head Office
+  branch_address: Apt Dunlupinar Mersin
+  branch_code: XXX
+  city: Mersin
+  country: Turkey
+- name: Murad Kuran Menkul Degerler
+  swift: MKMDTRI1XXX
+  swift8: MKMDTRI1
+  branch_name: Head Office
+  branch_address: Eski Yildiz Caddesi 40/3 Besiktas Istanbul
+  branch_code: XXX
+  city: Istanbul
+  country: Turkey
+- name: Mustafa Yilmaz Menkul De Erler As
+  swift: MYMDTRI1XXX
+  swift8: MYMDTRI1
+  branch_name: Head Office
+  branch_address: Kapalicarsi Bodrum H K 2 N 24 Istanbul
+  branch_code: XXX
+  city: Istanbul
+  country: Turkey
+- name: Nurol Menkul Kiymetler A.s.
+  swift: NMKYTRI1XXX
+  swift8: NMKYTRI1
+  branch_name: Head Office
+  branch_address: Nurol Plaza 80670 Istanbul
+  branch_code: XXX
+  city: Istanbul
+  country: Turkey
+- name: Odeabank A.s.
+  swift: ODEATRISXXX
+  swift8: ODEATRIS
+  branch_name: Head Office
+  branch_address: Windowist Tower 9-11 34467 Istanbul
+  branch_code: XXX
+  city: Istanbul
+  country: Turkey
+- name: Oenceki Ismi Stok Menkul De Erler A.s.
+  swift: TMDGTRI1XXX
+  swift8: TMDGTRI1
+  branch_name: Head Office
+  branch_address: Iz Plaza Giz 34398 Istanbul
+  branch_code: XXX
+  city: Istanbul
+  country: Turkey
+- name: Oencue Menkul De Erler A.s.
+  swift: ONMDTRI1XXX
+  swift8: ONMDTRI1
+  branch_name: Head Office
+  branch_address: Istiklal Cad. Beyo Lu Is Merkezi 36 80060 Istanbul
+  branch_code: XXX
+  city: Istanbul
+  country: Turkey
+- name: Oener Menkul De Erler As
+  swift: ONMGTRI1XXX
+  swift8: ONMGTRI1
+  branch_name: Head Office
+  branch_address: Cumhuriyet Cad Isik Apt 249/1 Istanbul
+  branch_code: XXX
+  city: Istanbul
+  country: Turkey
+- name: Onder Menkul Degerler
+  swift: ONMETRI1XXX
+  swift8: ONMETRI1
+  branch_name: Head Office
+  branch_address: Buyukdere Caddesi 18/3 Sisli Istanbul
+  branch_code: XXX
+  city: Istanbul
+  country: Turkey
+- name: Oyak Menkul Degereler A.s.
+  swift: OYMDTRI1XXX
+  swift8: OYMDTRI1
+  branch_name: Head Office
+  branch_address: Buyukdere Caddesi Beytem Plaza Istanbul
+  branch_code: XXX
+  city: Istanbul
+  country: Turkey
+- name: Oyak Yatirim Yatirim Menkul Deg. A.s.
+  swift: OYYMTRI1XXX
+  swift8: OYYMTRI1
+  branch_name: Head Office
+  branch_address: Akatlar Ebulula Cad F2 34335 Istanbul
+  branch_code: XXX
+  city: Istanbul
+  country: Turkey
+- name: Park Yatirim Bankasi A.s.
+  swift: PAYATRI1XXX
+  swift8: PAYATRI1
+  branch_name: Head Office
+  branch_address: Buyukdere Cad.Meseli Sokak No.9 80620 Istanbul
+  branch_code: XXX
+  city: Istanbul
+  country: Turkey
+- name: Park-raymond James Securities
+  swift: PRJSTRI1XXX
+  swift8: PRJSTRI1
+  branch_name: Head Office
+  branch_address: Nisbetiye Cd. A. Nail 80360 Istanbul
+  branch_code: XXX
+  city: Istanbul
+  country: Turkey
+- name: Pay Menkul De Erler A.s.
+  swift: PAMDTRI1XXX
+  swift8: PAMDTRI1
+  branch_name: Head Office
+  branch_address: Vefa Bayiri Sk. S Bankasi Bloklari Istanbul
+  branch_code: XXX
+  city: Istanbul
+  country: Turkey
+- name: Phillipcapital Menkul Degerler A.s.
+  swift: HAMDTRI1XXX
+  swift8: HAMDTRI1
+  branch_name: Head Office
+  branch_address: Cemil Bengue Cad 80340 Istanbul
+  branch_code: XXX
+  city: Istanbul
+  country: Turkey
+- name: Piramit Menkul Degerler
+  swift: PIMDTRI1XXX
+  swift8: PIMDTRI1
+  branch_name: Head Office
+  branch_address: Hudavendigar Caddesi 1/6 Sirkeci Istanbul
+  branch_code: XXX
+  city: Istanbul
+  country: Turkey
+- name: Polen Menkul De Erler A.s.
+  swift: POMDTRI1XXX
+  swift8: POMDTRI1
+  branch_name: Head Office
+  branch_address: Mete Caddesi 14/8 Taksim Istanbul
+  branch_code: XXX
+  city: Istanbul
+  country: Turkey
+- name: Prim Menkul De Erler A.s.
+  swift: PRMDTRI1XXX
+  swift8: PRMDTRI1
+  branch_name: Head Office
+  branch_address: Levent Caddesi No:3 34330 Istanbul
+  branch_code: XXX
+  city: Istanbul
+  country: Turkey
+- name: Rahim International Bank
+  swift: RAITTR21XXX
+  swift8: RAITTR21
+  branch_name: Head Office
+  branch_address: 9 Sh Huseyin Pasa Caddesi, Mersin
+  branch_code: XXX
+  city: Mersin
+  country: Turkey
+- name: Rozak Demir Profil Ticaret Ve Sanayi A.s.
+  swift: RDPTTRI1XXX
+  swift8: RDPTTRI1
+  branch_name: Head Office
+  branch_address: Ikitelli Organize Sanayii 00000 Istanbul
+  branch_code: XXX
+  city: Istanbul
+  country: Turkey
+- name: Salahsun Hekimoglu Menkul Degerler
+  swift: SHMDTRI1XXX
+  swift8: SHMDTRI1
+  branch_name: Head Office
+  branch_address: Abdi Ipekci Caddesi 40/6 Nisantasi Istanbul
+  branch_code: XXX
+  city: Istanbul
+  country: Turkey
+- name: Samsung Electronics Istanbul Marketing And Trading Ltd Company
+  swift: SECTTRI1750
+  swift8: SECTTRI1
+  branch_name: Istanbul
+  branch_address: Flatofis Istanbul Is Merkezi Istanbul
+  branch_code: '750'
+  city: Istanbul
+  country: Turkey
+- name: Samsung Electronics Istanbul Marketing And Trading Ltd Company
+  swift: SECTTRI1XXX
+  swift8: SECTTRI1
+  branch_name: Head Office
+  branch_address: Flatofis Istanbul Is Merkezi Otakci Istanbul
+  branch_code: XXX
+  city: Istanbul
+  country: Turkey
+- name: San Menkul De Erler A.s.
+  swift: SAMDTRI1XXX
+  swift8: SAMDTRI1
+  branch_name: Head Office
+  branch_address: Meclis-I Mebusan Cad. 131/1-2 Istanbul
+  branch_code: XXX
+  city: Istanbul
+  country: Turkey
+- name: Sayilgan Menkul De Erler Ticareti As
+  swift: SAMGTRI1XXX
+  swift8: SAMGTRI1
+  branch_name: Head Office
+  branch_address: Hocapasa Mahallesi Ankara Caddesi 34430 Istanbul
+  branch_code: XXX
+  city: Istanbul
+  country: Turkey
+- name: Seker Yatirim Menkul De Erler As
+  swift: SYMDTRI1XXX
+  swift8: SYMDTRI1
+  branch_name: Head Office
+  branch_address: Inoenue Caddesi Tuemsah Han No :36 34427 Istanbul
+  branch_code: XXX
+  city: Istanbul
+  country: Turkey
+- name: Setatborsa Menkul Degerler
+  swift: SEMDTRI1XXX
+  swift8: SEMDTRI1
+  branch_name: Head Office
+  branch_address: Ergenekon Caddesi 100/1 Ferikoy Istanbul
+  branch_code: XXX
+  city: Istanbul
+  country: Turkey
+- name: Shell
+  swift: HHELTR21XXX
+  swift8: HHELTR21
+  branch_name: Head Office
+  branch_address: Mithat Unal Caddesi Izmir
+  branch_code: XXX
+  city: Izmir
+  country: Turkey
+- name: Sinai Yatirim Ve Kredi Bankasi A.o.
+  swift: SYKBTRI1XXX
+  swift8: SYKBTRI1
+  branch_name: Head Office
+  branch_address: Barbaros Bulvari, Akdogan Sokak 4 80690 Istanbul
+  branch_code: XXX
+  city: Istanbul
+  country: Turkey
+- name: Standard Chartered Yatirim Bankasi Turk A.s.
+  swift: SCBLTRISXXX
+  swift8: SCBLTRIS
+  branch_name: Head Office
+  branch_address: Yapi Kredi Plaza Block C Istanbul
+  branch_code: XXX
+  city: Istanbul
+  country: Turkey
+- name: Stok Menkul Degerler
+  swift: STMDTRI1XXX
+  swift8: STMDTRI1
+  branch_name: Head Office
+  branch_address: Buyukdere Caddesi 28/12 Mecidiyekoy Istanbul
+  branch_code: XXX
+  city: Istanbul
+  country: Turkey
+- name: Strateji Menkul De Erler A. S
+  swift: STSETRI1XXX
+  swift8: STSETRI1
+  branch_name: Head Office
+  branch_address: Bueyuekdere Cad. No:100-102 80280 Istanbul
+  branch_code: XXX
+  city: Istanbul
+  country: Turkey
+- name: Strateji Menkul Degerler A.s.
+  swift: STMETRI1XXX
+  swift8: STMETRI1
+  branch_name: Head Office
+  branch_address: Maya Akar Center Kat 26 34394 Istanbul
+  branch_code: XXX
+  city: Istanbul
+  country: Turkey
+- name: T.garanti Bankasi A.s.(portfoy Saklama
+  swift: TGASTRI1XXX
+  swift8: TGASTRI1
+  branch_name: Head Office
+  branch_address: T.Garanti Bankasi as Genel Mudurluk 34340 Istanbul
+  branch_code: XXX
+  city: Istanbul
+  country: Turkey
+- name: Tacirler Menkul Degerler A.s.
+  swift: TAMRTRI1XXX
+  swift8: TAMRTRI1
+  branch_name: Head Office
+  branch_address: Nispetiye Caddesi Akmerkez Etiler Istanbul
+  branch_code: XXX
+  city: Istanbul
+  country: Turkey
+- name: Taib Yatirim Menkul Degerler A.s.
+  swift: TYMDTRI1XXX
+  swift8: TYMDTRI1
+  branch_name: Head Office
+  branch_address: 19 Mayis Mah. Dr. Sevket Bey Sokak 80220 Istanbul
+  branch_code: XXX
+  city: Istanbul
+  country: Turkey
+- name: Taksim Menkul De Erler A.s.
+  swift: TAMDTRI1XXX
+  swift8: TAMDTRI1
+  branch_name: Head Office
+  branch_address: Noenue Cad. Duenya Sa Lik Sok. 34437 Istanbul
+  branch_code: XXX
+  city: Istanbul
+  country: Turkey
+- name: Tan Menkul De Erler Ticareti
+  swift: TAMETRI1XXX
+  swift8: TAMETRI1
+  branch_name: Head Office
+  branch_address: Yildiz Posta Caddesi Ayyildiz Istanbul
+  branch_code: XXX
+  city: Istanbul
+  country: Turkey
+- name: Teb Portfoey Yoenetimi A.s.
+  swift: TEPYTRI1XXX
+  swift8: TEPYTRI1
+  branch_name: Head Office
+  branch_address: Yildirim Goeker Caddesi.Maya Plaza 34335 Istanbul
+  branch_code: XXX
+  city: Istanbul
+  country: Turkey
+- name: Teb Yatirim Menkul Degerler A.s.
+  swift: TYMETRI1XXX
+  swift8: TYMETRI1
+  branch_name: Head Office
+  branch_address: Park Plaza 34398 Istanbul
+  branch_code: XXX
+  city: Istanbul
+  country: Turkey
+- name: Tekfen Menkul Kiymetler A.s.
+  swift: TEMKTRI1XXX
+  swift8: TEMKTRI1
+  branch_name: Head Office
+  branch_address: Aytar Caddesi Metro Ishani 10 D:8 80600 Istanbul
+  branch_code: XXX
+  city: Istanbul
+  country: Turkey
+- name: Tektas Menkul Degerler
+  swift: TAMGTRI1XXX
+  swift8: TAMGTRI1
+  branch_name: Head Office
+  branch_address: Macka Caddesi 22/2 Tesvikiye Istanbul
+  branch_code: XXX
+  city: Istanbul
+  country: Turkey
+- name: Toros Menkul De Erler As
+  swift: TOMDTRI1XXX
+  swift8: TOMDTRI1
+  branch_name: Head Office
+  branch_address: Bueyuekdere C Basman Han N 4/3 Istanbul
+  branch_code: XXX
+  city: Istanbul
+  country: Turkey
+- name: Turkiye Turizim Yatirim Dis Ticaret Bankasi As
+  swift: TTYDTR2102I
+  swift8: TTYDTR21
+  branch_name: Izmir
+  branch_address: Izmir
+  branch_code: 02I
+  city: Izmir
+  country: Turkey
+- name: Turkiye Turizim Yatirim Dis Ticaret Bankasi As
+  swift: TTYDTR2102T
+  swift8: TTYDTR21
+  branch_name: Antalya
+  branch_address: Antalya
+  branch_code: 02T
+  city: Antalya
+  country: Turkey
+- name: Turkiye Turizim Yatirim Dis Ticaret Bankasi As
+  swift: TTYDTR21XXX
+  swift8: TTYDTR21
+  branch_name: Head Office
+  branch_address: Cinnah Cad Goereme Sokak Nazmibey I Ankara
+  branch_code: XXX
+  city: Ankara
+  country: Turkey
+- name: Ubs Menkul Degerler As
+  swift: ARMGTRI1XXX
+  swift8: ARMGTRI1
+  branch_name: Head Office
+  branch_address: Kanyon Ofis No 185 34394 Istanbul
+  branch_code: XXX
+  city: Istanbul
+  country: Turkey
+- name: Unicorn Capital Menkul De Erler A.s.
+  swift: IYMETRI1XXX
+  swift8: IYMETRI1
+  branch_name: Head Office
+  branch_address: Muallim Naci Cad.No:47 80840 Istanbul
+  branch_code: XXX
+  city: Istanbul
+  country: Turkey
+- name: Unicredit Menkul Degerler A.s.
+  swift: UNMDTRI1XXX
+  swift8: UNMDTRI1
+  branch_name: Head Office
+  branch_address: Buyukdere Plaza 34394 Istanbul
+  branch_code: XXX
+  city: Istanbul
+  country: Turkey
+- name: Unlu Menkul Degerler
+  swift: DUUSTRI1XXX
+  swift8: DUUSTRI1
+  branch_name: Head Office
+  branch_address: Uso Center 34398 Istanbul
+  branch_code: XXX
+  city: Istanbul
+  country: Turkey
+- name: Yapi Kredi Emeklilik A.s.
+  swift: YAKETRI1XXX
+  swift8: YAKETRI1
+  branch_name: Head Office
+  branch_address: Yapi Kredi Plaza 34330 Istanbul
+  branch_code: XXX
+  city: Istanbul
+  country: Turkey
+- name: Yatirim Finansman Menkul De Erler A.s
+  swift: YFMDTRI1XXX
+  swift8: YFMDTRI1
+  branch_name: Head Office
+  branch_address: Akmerkez 34337 Istanbul
+  branch_code: XXX
+  city: Istanbul
+  country: Turkey
+- name: Yener Kaya Menkul Degerler
+  swift: YKMDTRI1XXX
+  swift8: YKMDTRI1
+  branch_name: Head Office
+  branch_address: Nedcatibey Caddesi 90/2 Karakoy Istanbul
+  branch_code: XXX
+  city: Istanbul
+  country: Turkey
+- name: Yesilada Bank Ltd.
+  swift: YESITR21XXX
+  swift8: YESITR21
+  branch_name: Head Office
+  branch_address: 11 Atatuerk Bulvari 99999 Mersin
+  branch_code: XXX
+  city: Mersin
+  country: Turkey
+- name: Ziraat Portfoey Yoenetimi A.s.
+  swift: ZIPYTRI1XXX
+  swift8: ZIPYTRI1
+  branch_name: Head Office
+  branch_address: Levent Carsi Cad. Emlak Carsisi 34330 Istanbul
+  branch_code: XXX
+  city: Istanbul
+  country: Turkey

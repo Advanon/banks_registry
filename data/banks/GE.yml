@@ -1,0 +1,514 @@
+---
+GE:
+- name: Bank Of Georgia
+  swift: BAGAGE22CUS
+  swift8: BAGAGE22
+  branch_name: Custody Services
+  branch_address: Tbilisi
+  branch_code: CUS
+  city: Tbilisi
+  country: Georgia
+- name: Bank Of Georgia
+  swift: BAGAGE22GTS
+  swift8: BAGAGE22
+  branch_name: '0179 Tbilisi'
+  branch_address: Bg Capital 0179 Tbilisi
+  branch_code: GTS
+  city: Tbilisi
+  country: Georgia
+- name: Bank Of Georgia
+  swift: BAGAGE22XXX
+  swift8: BAGAGE22
+  branch_name: Head Office
+  branch_address: Jsc Bank of Georgia 0105 Tbilisi
+  branch_code: XXX
+  city: Tbilisi
+  country: Georgia
+- name: Basisbank, Jsc
+  swift: CBASGE22XXX
+  swift8: CBASGE22
+  branch_name: Head Office
+  branch_address: Ketevan Tsamebuli, 1 0103 Tbilisi
+  branch_code: XXX
+  city: Tbilisi
+  country: Georgia
+- name: Halyk Bank Georgia Jsc
+  swift: HABGGE22XXX
+  swift8: HABGGE22
+  branch_name: Head Office
+  branch_address: 41, Bakhtrioni Str 0194 Tbilisi
+  branch_code: XXX
+  city: Tbilisi
+  country: Georgia
+- name: International Bank Of Azerbaijan-Georgia
+  swift: IBAZGE22XXX
+  swift8: IBAZGE22
+  branch_name: Head Office
+  branch_address: Leonidze 1 0105 Tbilisi
+  branch_code: XXX
+  city: Tbilisi
+  country: Georgia
+- name: Jsc Bta Bank
+  swift: DISNGE22XXX
+  swift8: DISNGE22
+  branch_name: Head Office
+  branch_address: 73a Tsereteli Avenue 0119 Tbilisi
+  branch_code: XXX
+  city: Tbilisi
+  country: Georgia
+- name: Jsc Cartu Bank
+  swift: CRTUGE22092
+  swift8: CRTUGE22
+  branch_name: Batumi Branch
+  branch_address: 2, Griboedova Str. 6000 Batumi
+  branch_code: '092'
+  city: Batumi
+  country: Georgia
+- name: Jsc Cartu Bank
+  swift: CRTUGE22087
+  swift8: CRTUGE22
+  branch_name: Kutaisi Branch
+  branch_address: 4, Paliashvili Str 4600 Kutaisi
+  branch_code: '087'
+  city: Kutaisi
+  country: Georgia
+- name: Jsc Cartu Bank
+  swift: CRTUGE22086
+  swift8: CRTUGE22
+  branch_name: Mtatsminda Branch
+  branch_address: 1, Vekua Str 0105 Tbilisi
+  branch_code: '086'
+  city: Tbilisi
+  country: Georgia
+- name: Jsc Cartu Bank
+  swift: CRTUGE22XXX
+  swift8: CRTUGE22
+  branch_name: Head Office
+  branch_address: Chavchavadze Avenue 39 a 380062 Tbilisi
+  branch_code: XXX
+  city: Tbilisi
+  country: Georgia
+- name: Jsc Liberty Bank
+  swift: LBRTGE22XXX
+  swift8: LBRTGE22
+  branch_name: Head Office
+  branch_address: 74 Chavchavadze Ave. 0162 Tbilisi
+  branch_code: XXX
+  city: Tbilisi
+  country: Georgia
+- name: Jsc Vtb Bank Georgia
+  swift: UGEBGE22617
+  swift8: UGEBGE22
+  branch_name: Akhaltsikhe Branch
+  branch_address: 8 M. Iadze Street 0800 Akhaltsikhe
+  branch_code: '617'
+  city: Akhaltsikhe
+  country: Georgia
+- name: Jsc Vtb Bank Georgia
+  swift: UGEBGE22655
+  swift8: UGEBGE22
+  branch_name: Batumi Branch
+  branch_address: 20 Luka Asatiani 6000 Batumi
+  branch_code: '655'
+  city: Batumi
+  country: Georgia
+- name: Jsc Vtb Bank Georgia
+  swift: UGEBGE22622
+  swift8: UGEBGE22
+  branch_name: Gardabani Branch
+  branch_address: 5 Vagzali Street 1300 Gardabani
+  branch_code: '622'
+  city: Gardabani
+  country: Georgia
+- name: Jsc Vtb Bank Georgia
+  swift: UGEBGE22602
+  swift8: UGEBGE22
+  branch_name: Gori Branch
+  branch_address: 4 Stalini Street 1400 Gori
+  branch_code: '602'
+  city: Gori
+  country: Georgia
+- name: Jsc Vtb Bank Georgia
+  swift: UGEBGE22624
+  swift8: UGEBGE22
+  branch_name: Gurjaani Branch
+  branch_address: 10 Sanapiro Street 1500 Gurjaani
+  branch_code: '624'
+  city: Gurjaani
+  country: Georgia
+- name: Jsc Vtb Bank Georgia
+  swift: UGEBGE22605
+  swift8: UGEBGE22
+  branch_name: Kutaisi Branch
+  branch_address: 35 Z. Phaliashvili Street 4600 Kutaisi
+  branch_code: '605'
+  city: Kutaisi
+  country: Georgia
+- name: Jsc Vtb Bank Georgia
+  swift: UGEBGE22639
+  swift8: UGEBGE22
+  branch_name: Marneuli Branch
+  branch_address: 74 Rustaveli Street 3000 Marneuli
+  branch_code: '639'
+  city: Marneuli
+  country: Georgia
+- name: Jsc Vtb Bank Georgia
+  swift: UGEBGE22643
+  swift8: UGEBGE22
+  branch_name: Ozurgeti Branch
+  branch_address: 6 Ioane Petritsi Street 3500 Ozurgeti
+  branch_code: '643'
+  city: Ozurgeti
+  country: Georgia
+- name: Jsc Vtb Bank Georgia
+  swift: UGEBGE22606
+  swift8: UGEBGE22
+  branch_name: Poti Branch
+  branch_address: 13 Rustaveli Street 4400 Poti
+  branch_code: '606'
+  city: Poti
+  country: Georgia
+- name: Jsc Vtb Bank Georgia
+  swift: UGEBGE22607
+  swift8: UGEBGE22
+  branch_name: Rustavi Branch
+  branch_address: 38 A. Rustaveli Street 3700 Rustavi
+  branch_code: '607'
+  city: Rustavi
+  country: Georgia
+- name: Jsc Vtb Bank Georgia
+  swift: UGEBGE22604
+  swift8: UGEBGE22
+  branch_name: Rustaveli Branch
+  branch_address: 16-18 Rustaveli Ave. 0108 Tbilisi
+  branch_code: '604'
+  city: Tbilisi
+  country: Georgia
+- name: Jsc Vtb Bank Georgia
+  swift: UGEBGE22615
+  swift8: UGEBGE22
+  branch_name: Central Branch
+  branch_address: Tbilisi
+  branch_code: '615'
+  city: Tbilisi
+  country: Georgia
+- name: Jsc Vtb Bank Georgia
+  swift: UGEBGE22665
+  swift8: UGEBGE22
+  branch_name: Didube Branch
+  branch_address: 15 Tamar Mepe Avenue 0112 Tbilisi
+  branch_code: '665'
+  city: Tbilisi
+  country: Georgia
+- name: Jsc Vtb Bank Georgia
+  swift: UGEBGE22666
+  swift8: UGEBGE22
+  branch_name: Mtatsminda Branch
+  branch_address: 14 G. Chanturia Street 0108 Tbilisi
+  branch_code: '666'
+  city: Tbilisi
+  country: Georgia
+- name: Jsc Vtb Bank Georgia
+  swift: UGEBGE22668
+  swift8: UGEBGE22
+  branch_name: Krzanini Branch
+  branch_address: 4 Leselidze Street 0107 Tbilisi
+  branch_code: '668'
+  city: Tbilisi
+  country: Georgia
+- name: Jsc Vtb Bank Georgia
+  swift: UGEBGE22670
+  swift8: UGEBGE22
+  branch_name: Saburtalo Branch
+  branch_address: 21 Vaja-Pshavela Avenue 0160 Tbilisi
+  branch_code: '670'
+  city: Tbilisi
+  country: Georgia
+- name: Jsc Vtb Bank Georgia
+  swift: UGEBGE22687
+  swift8: UGEBGE22
+  branch_name: Abkhazeti Branch
+  branch_address: 14 Chanturia Street 0108 Tbilisi
+  branch_code: '687'
+  city: Tbilisi
+  country: Georgia
+- name: Jsc Vtb Bank Georgia
+  swift: UGEBGE22XXX
+  swift8: UGEBGE22
+  branch_name: Head Office
+  branch_address: Head Office Building Tbilisi
+  branch_code: XXX
+  city: Tbilisi
+  country: Georgia
+- name: Jsc Vtb Bank Georgia
+  swift: UGEBGE22629
+  swift8: UGEBGE22
+  branch_name: Telavi Branch
+  branch_address: 3 G. Saakadze Street 2200 Telavi
+  branch_code: '629'
+  city: Telavi
+  country: Georgia
+- name: Jsc Vtb Bank Georgia
+  swift: UGEBGE22603
+  swift8: UGEBGE22
+  branch_name: Zugdidi Branch
+  branch_address: 7 M. Phaliashvili Street 2100 Zugdidi
+  branch_code: '603'
+  city: Zugdidi
+  country: Georgia
+- name: Mfo Intel Express Georgia Ltd
+  swift: INEXGE22XXX
+  swift8: INEXGE22
+  branch_name: Head Office
+  branch_address: Mardjanishvili Str. 28 0102 Tbilisi
+  branch_code: XXX
+  city: Tbilisi
+  country: Georgia
+- name: Mfo Intel Express Georgia Ltd
+  swift: INEXGE21XXX
+  swift8: INEXGE21
+  branch_name: Head Office
+  branch_address: Mardjanishvili Str. 28 0102 Tbilisi
+  branch_code: XXX
+  city: Tbilisi
+  country: Georgia
+- name: Millennium Worx Llc
+  swift: MLNMGE22XXX
+  swift8: MLNMGE22
+  branch_name: Head Office
+  branch_address: Melikishvili Aveniue 16 Tbilisi
+  branch_code: XXX
+  city: Tbilisi
+  country: Georgia
+- name: National Bank Of Georgia
+  swift: BNLNGE22XXX
+  swift8: BNLNGE22
+  branch_name: Head Office
+  branch_address: Leonidze Str. 3/5 0105 Tbilisi
+  branch_code: XXX
+  city: Tbilisi
+  country: Georgia
+- name: Procredit Bank, Georgia
+  swift: MIBGGE22XXX
+  swift8: MIBGGE22
+  branch_name: Head Office
+  branch_address: 154, D. Agmashenebeli Ave. 0112 Tbilisi
+  branch_code: XXX
+  city: Tbilisi
+  country: Georgia
+- name: Progressbank
+  swift: PRSGGE22XXX
+  swift8: PRSGGE22
+  branch_name: Head Office
+  branch_address: 8, Baratashvili Street 0105 Tbilisi
+  branch_code: XXX
+  city: Tbilisi
+  country: Georgia
+- name: T.C. Ziraat Bankasi A.S. Tbilisi Branch
+  swift: TCZBGE22XXX
+  swift8: TCZBGE22
+  branch_name: Head Office
+  branch_address: Agmashenebeli Ave. 0112 Tbilisi
+  branch_code: XXX
+  city: Tbilisi
+  country: Georgia
+- name: Tbc Bank
+  swift: TBCBGE22835
+  swift8: TBCBGE22
+  branch_name: Batumi Branch
+  branch_address: 34 K. Gamsakhurdia Street 6000 Batumi
+  branch_code: '835'
+  city: Batumi
+  country: Georgia
+- name: Tbc Bank
+  swift: TBCBGE22762
+  swift8: TBCBGE22
+  branch_name: Borjomi Branch
+  branch_address: 121 Shoter Restaveli Street 1200 Borjomi
+  branch_code: '762'
+  city: Borjomi
+  country: Georgia
+- name: Tbc Bank
+  swift: TBCBGE22888
+  swift8: TBCBGE22
+  branch_name: Kutaisi Branch
+  branch_address: 2 David Agmashenebeli Square 4600 Kutaisi
+  branch_code: '888'
+  city: Kutaisi
+  country: Georgia
+- name: Tbc Bank
+  swift: TBCBGE22937
+  swift8: TBCBGE22
+  branch_name: Poti Branch
+  branch_address: 13 Lagrahzhe Street 4400 Poti
+  branch_code: '937'
+  city: Poti
+  country: Georgia
+- name: Tbc Bank
+  swift: TBCBGE22844
+  swift8: TBCBGE22
+  branch_name: Rustavi Branch
+  branch_address: 14 Megobrober Ave 3700 Rustavi
+  branch_code: '844'
+  city: Rustavi
+  country: Georgia
+- name: Tbc Bank
+  swift: TBCBGE22818
+  swift8: TBCBGE22
+  branch_name: Vera Branch
+  branch_address: 18 Petre Melikishvibi Ave 0179 Tbilisi
+  branch_code: '818'
+  city: Tbilisi
+  country: Georgia
+- name: Tbc Bank
+  swift: TBCBGE22820
+  swift8: TBCBGE22
+  branch_name: Nadzaladevi Branch
+  branch_address: 109 Tsothe Dediani Ave 0101 Tbilisi
+  branch_code: '820'
+  city: Tbilisi
+  country: Georgia
+- name: Tbc Bank
+  swift: TBCBGE22821
+  swift8: TBCBGE22
+  branch_name: Mtatsminda Branch
+  branch_address: 1 Shota Rustaveli Ave 0105 Tbilisi
+  branch_code: '821'
+  city: Tbilisi
+  country: Georgia
+- name: Tbc Bank
+  swift: TBCBGE22830
+  swift8: TBCBGE22
+  branch_name: Central Branch
+  branch_address: 11 Chevehavadze Ave 0179 Tbilisi
+  branch_code: '830'
+  city: Tbilisi
+  country: Georgia
+- name: Tbc Bank
+  swift: TBCBGE22836
+  swift8: TBCBGE22
+  branch_name: Didube Branch
+  branch_address: 117, Tsereteli Ave. 0119 Tbilisi
+  branch_code: '836'
+  city: Tbilisi
+  country: Georgia
+- name: Tbc Bank
+  swift: TBCBGE22838
+  swift8: TBCBGE22
+  branch_name: Saburtalo Branch
+  branch_address: 12, Kazbegi Ave. 0160 Tbilisi
+  branch_code: '838'
+  city: Tbilisi
+  country: Georgia
+- name: Tbc Bank
+  swift: TBCBGE22850
+  swift8: TBCBGE22
+  branch_name: Marjanishvili Branch
+  branch_address: 7 Marjanishvili Street 0102 Tbilisi
+  branch_code: '850'
+  city: Tbilisi
+  country: Georgia
+- name: Tbc Bank
+  swift: TBCBGE22XXX
+  swift8: TBCBGE22
+  branch_name: Head Office
+  branch_address: Marjanishvili Street 7 0102 Tbilisi
+  branch_code: XXX
+  city: Tbilisi
+  country: Georgia
+- name: Tbc Bank
+  swift: TBCBGE22824
+  swift8: TBCBGE22
+  branch_name: Telavi Branch
+  branch_address: 27 Shoter Rustaveli Street 2200 Telavi
+  branch_code: '824'
+  city: Telavi
+  country: Georgia
+- name: Treasury Service Ministry Of Finance Of Georgia
+  swift: TSMFGE22XXX
+  swift8: TSMFGE22
+  branch_name: Head Office
+  branch_address: 16 Gorgasali St. 0114 Tbilisi
+  branch_code: XXX
+  city: Tbilisi
+  country: Georgia
+- name: British American Tobacco Georgia Limited
+  swift: BATSGE21XXX
+  swift8: BATSGE21
+  branch_name: No branch name
+  branch_address: No branch address
+  branch_code: XXX
+  city: Tbilisi
+  country: Georgia
+- name: Finca Bank Georgia Jsc
+  swift: FGEOGE22XXX
+  swift8: FGEOGE22
+  branch_name: No branch name
+  branch_address: No branch address
+  branch_code: XXX
+  city: Tbilisi
+  country: Georgia
+- name: Galt And Taggart (jsc) Securities
+  swift: GTJSGE21XXX
+  swift8: GTJSGE21
+  branch_name: Head Office
+  branch_address: 74 a Chavchavadze Ave Tbilisi
+  branch_code: XXX
+  city: Tbilisi
+  country: Georgia
+- name: Georgian Investment Group
+  swift: GEIGGE21XXX
+  swift8: GEIGGE21
+  branch_name: Head Office
+  branch_address: 24 Mosashvili Street 0162 Tbilisi
+  branch_code: XXX
+  city: Tbilisi
+  country: Georgia
+- name: Jsc Caucasus Development Bank-georgia
+  swift: DEVGGE22XXX
+  swift8: DEVGGE22
+  branch_name: No branch name
+  branch_address: No branch address
+  branch_code: XXX
+  city: Tbilisi
+  country: Georgia
+- name: Jsc Kor Standard Bank
+  swift: KSBGGE22XXX
+  swift8: KSBGGE22
+  branch_name: Head Office
+  branch_address: 43 Chavchavadze Ave 0162 Tbilisi
+  branch_code: XXX
+  city: Tbilisi
+  country: Georgia
+- name: Jsc Kor Standard Bank
+  swift: AGREGE22XXX
+  swift8: AGREGE22
+  branch_name: Head Office
+  branch_address: 43 Chavchavadze Ave 0162 Tbilisi
+  branch_code: XXX
+  city: Tbilisi
+  country: Georgia
+- name: Jsc Pasha Bank Georgia
+  swift: PAHAGE22XXX
+  swift8: PAHAGE22
+  branch_name: Head Office
+  branch_address: 15 Rustaveli Avenue 0108 Tbilisi
+  branch_code: XXX
+  city: Tbilisi
+  country: Georgia
+- name: Russian-georgian Bank Of Reconstruction And Development
+  swift: RGBRGE21XXX
+  swift8: RGBRGE21
+  branch_name: Head Office
+  branch_address: Zubalashvili Street 32 380010 Tbilisi
+  branch_code: XXX
+  city: Tbilisi
+  country: Georgia
+- name: Turkiye Is Bankasi A.s. Batumi Branch
+  swift: ISBKGE22XXX
+  swift8: ISBKGE22
+  branch_name: Head Office
+  branch_address: L.Asatiani / Rustaveli 1/25 6000 Batumi
+  branch_code: XXX
+  city: Batumi
+  country: Georgia

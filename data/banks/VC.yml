@@ -1,0 +1,98 @@
+---
+VC:
+- name: Firstcaribbean International Bank
+  swift: FCIBVCVCXXX
+  swift8: FCIBVCVC
+  branch_name: Head Office
+  branch_address: Halifax Street Kingstown
+  branch_code: XXX
+  city: Kingstown
+  country: Saint Vincent and the Grenadines
+- name: Bank Of Nova Scotia,the
+  swift: NOSCVCVCXXX
+  swift8: NOSCVCVC
+  branch_name: Head Office
+  branch_address: White Chapel and Halifax Streets Kingstown
+  branch_code: XXX
+  city: Kingstown
+  country: Saint Vincent and the Grenadines
+- name: Rbtt Bank Carribean Limited
+  swift: RBTTVCVC022
+  swift8: RBTTVCVC
+  branch_name: Bequia
+  branch_address: Bayshore Mall Bequia
+  branch_code: '022'
+  city: Bequia
+  country: Saint Vincent and the Grenadines
+- name: Rbtt Bank Carribean Limited
+  swift: RBTTVCVCXXX
+  swift8: RBTTVCVC
+  branch_name: Head Office
+  branch_address: 81 South River Road Kingstown
+  branch_code: XXX
+  city: Kingstown
+  country: Saint Vincent and the Grenadines
+- name: B2b Bank Limited
+  swift: BTBBVCVCXXX
+  swift8: BTBBVCVC
+  branch_name: Head Office
+  branch_address: The Financial Services Centre Vc0100 Kingstown
+  branch_code: XXX
+  city: Kingstown
+  country: Saint Vincent and the Grenadines
+- name: Caribbean And Overseas Trust Bank
+  swift: CADTVC21XXX
+  swift8: CADTVC21
+  branch_name: Head Office
+  branch_address: Egmont Street Kingstown
+  branch_code: XXX
+  city: Kingstown
+  country: Saint Vincent and the Grenadines
+- name: Euro Pacific Bank Limited
+  swift: EPBLVCVCXXX
+  swift8: EPBLVCVC
+  branch_name: Head Office
+  branch_address: Euro House Vc0100 Kingstown
+  branch_code: XXX
+  city: Kingstown
+  country: Saint Vincent and the Grenadines
+- name: Government Of St.vincent And The Grenadines
+  swift: GVVGVCVCXXX
+  swift8: GVVGVCVC
+  branch_name: Head Office
+  branch_address: Administrative Centre Kingstown
+  branch_code: XXX
+  city: Kingstown
+  country: Saint Vincent and the Grenadines
+- name: Loyal Bank Limited
+  swift: LOYAVCVXXXX
+  swift8: LOYAVCVX
+  branch_name: Head Office
+  branch_address: Loyal Bank Limited Kingstown
+  branch_code: XXX
+  city: Kingstown
+  country: Saint Vincent and the Grenadines
+- name: National Commercial Bank (svg) Ltd.
+  swift: NCBVVC22XXX
+  swift8: NCBVVC22
+  branch_name: Head Office
+  branch_address: Bedford Street Kingstown
+  branch_code: XXX
+  city: Kingstown
+  country: Saint Vincent and the Grenadines
+- name: Stb Swiss Trust Bank Ltd
+  swift: STBSVCV1XXX
+  swift8: STBSVCV1
+  branch_name: Head Office
+  branch_address: Halifax Street Kingstown
+  branch_code: XXX
+  city: Kingstown
+  country: Saint Vincent and the Grenadines
+- name: Vanilla Direct Bank Ltd.
+  swift: VDBLVCV1XXX
+  swift8: VDBLVCV1
+  branch_name: Head Office
+  branch_address: Hinds Bldg Kingstown
+  branch_code: XXX
+  city: Kingstown
+  country: Saint Vincent and the Grenadines

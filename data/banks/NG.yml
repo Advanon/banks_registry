@@ -1,0 +1,794 @@
+---
+NG:
+- name: Access Bank Plc
+  swift: ABNGNGLAXXX
+  swift8: ABNGNGLA
+  branch_name: Head Office
+  branch_address: Oyin Jolayemi Street 1665, 12935 Lagos
+  branch_code: XXX
+  city: Lagos
+  country: Nigeria
+- name: African Export Import Bank
+  swift: AFXMNGLAXXX
+  swift8: AFXMNGLA
+  branch_name: Head Office
+  branch_address: Rivers State Office Complex Abuja
+  branch_code: XXX
+  city: Abuja
+  country: Nigeria
+- name: Bank Phb Plc
+  swift: PLNINGLAXXX
+  swift8: PLNINGLA
+  branch_name: Head Office
+  branch_address: Keystone Bank Building Lagos Vi
+  branch_code: XXX
+  city: Lagos
+  country: Nigeria
+- name: Central Bank Of Nigeria
+  swift: CBNINGLAXXX
+  swift8: CBNINGLA
+  branch_name: Head Office
+  branch_address: Timure Square Lagos
+  branch_code: XXX
+  city: Lagos
+  country: Nigeria
+- name: Citibank Nigeria Limited
+  swift: CITINGLATRD
+  swift8: CITINGLA
+  branch_name: Trade Services Department
+  branch_address: Nr 1 Idowu Taylor Street, Victoria Lagos
+  branch_code: TRD
+  city: Lagos
+  country: Nigeria
+- name: Citibank Nigeria Limited
+  swift: CITINGLAXXX
+  swift8: CITINGLA
+  branch_name: Head Office
+  branch_address: Charles S Sankey House 6391 Lagos
+  branch_code: XXX
+  city: Lagos
+  country: Nigeria
+- name: Diamond Bank Plc
+  swift: DBLNNGLAXXX
+  swift8: DBLNNGLA
+  branch_name: Head Office
+  branch_address: Nba House Lagos
+  branch_code: XXX
+  city: Lagos
+  country: Nigeria
+- name: Ecobank Nigeria Plc
+  swift: ECOCNGLAXXX
+  swift8: ECOCNGLA
+  branch_name: Head Office
+  branch_address: Plot 21 Ahmadu Bello Way Lagos
+  branch_code: XXX
+  city: Lagos
+  country: Nigeria
+- name: Ecobank Nigeria Plc
+  swift: OCBINGLA024
+  swift8: OCBINGLA
+  branch_name: Aba
+  branch_address: 38b St. Michael Road Aba
+  branch_code: '024'
+  city: Aba
+  country: Nigeria
+- name: Ecobank Nigeria Plc
+  swift: OCBINGLA023
+  swift8: OCBINGLA
+  branch_name: Abuja
+  branch_address: National Centre for Women Abuja
+  branch_code: '023'
+  city: Abuja
+  country: Nigeria
+- name: Ecobank Nigeria Plc
+  swift: OCBINGLA029
+  swift8: OCBINGLA
+  branch_name: Asaba Branch
+  branch_address: Asaba
+  branch_code: '029'
+  city: Asaba
+  country: Nigeria
+- name: Ecobank Nigeria Plc
+  swift: OCBINGLA02K
+  swift8: OCBINGLA
+  branch_name: Kano
+  branch_address: 83 Ibrahim Taiwo Street Kano
+  branch_code: 02K
+  city: Kano
+  country: Nigeria
+- name: Ecobank Nigeria Plc
+  swift: OCBINGLAXXX
+  swift8: OCBINGLA
+  branch_name: Head Office
+  branch_address: Ecobank 72688 Lagos
+  branch_code: XXX
+  city: Lagos
+  country: Nigeria
+- name: Ecobank Nigeria Plc
+  swift: OCBINGLA031
+  swift8: OCBINGLA
+  branch_name: Idumagbo Branch
+  branch_address: Lagos
+  branch_code: '031'
+  city: Lagos
+  country: Nigeria
+- name: Ecobank Nigeria Plc
+  swift: OCBINGLA028
+  swift8: OCBINGLA
+  branch_name: Port Harcourt
+  branch_address: Trans Amadi Industrial Layout Port Harcourt
+  branch_code: '028'
+  city: Port Harcourt
+  country: Nigeria
+- name: Ecobank Nigeria Plc
+  swift: OCBINGLA026
+  swift8: OCBINGLA
+  branch_name: Onitsha
+  branch_address: 69 Old/New Market Road Onitsha
+  branch_code: '026'
+  city: Onitsha
+  country: Nigeria
+- name: Ecobank Nigeria Plc
+  swift: OCBINGLA030
+  swift8: OCBINGLA
+  branch_name: Oceanic Bank Web Platform
+  branch_address: Ozumba Mbadiwe Victoria Island
+  branch_code: '030'
+  city: Victoria Island
+  country: Nigeria
+- name: Ecobank Nigeria Plc
+  swift: OCBINGLA027
+  swift8: OCBINGLA
+  branch_name: Warri
+  branch_address: 138 Warri/Sapele Road Warri
+  branch_code: '027'
+  city: Warri
+  country: Nigeria
+- name: Fidelity Bank Plc
+  swift: FIDTNGLAXXX
+  swift8: FIDTNGLA
+  branch_name: Head Office
+  branch_address: Fidelity Place Lagos
+  branch_code: XXX
+  city: Lagos
+  country: Nigeria
+- name: Fidelity Bank Plc
+  swift: FUMRNGL1XXX
+  swift8: FUMRNGL1
+  branch_name: Head Office
+  branch_address: Savannah House Lagos
+  branch_code: XXX
+  city: Lagos
+  country: Nigeria
+- name: First Bank Of Nigeria Plc
+  swift: FBNINGLAGCS
+  swift8: FBNINGLA
+  branch_name: Custodian Services
+  branch_address: Lagos
+  branch_code: GCS
+  city: Lagos
+  country: Nigeria
+- name: First Bank Of Nigeria Plc
+  swift: FBNINGLAXXX
+  swift8: FBNINGLA
+  branch_name: Head Office
+  branch_address: Samuel Asabia House Lagos
+  branch_code: XXX
+  city: Lagos
+  country: Nigeria
+- name: First City Monument Bank
+  swift: FCMBNGLAWEB
+  swift8: FCMBNGLA
+  branch_name: Electronic Banking
+  branch_address: Lagos
+  branch_code: WEB
+  city: Lagos
+  country: Nigeria
+- name: First City Monument Bank
+  swift: FCMBNGLAXXX
+  swift8: FCMBNGLA
+  branch_name: Head Office
+  branch_address: Primrose Tower Lagos
+  branch_code: XXX
+  city: Lagos
+  country: Nigeria
+- name: Guaranty Trust Bank Limited
+  swift: GTBINGLAIFP
+  swift8: GTBINGLA
+  branch_name: Info Pool
+  branch_address: Lagos
+  branch_code: IFP
+  city: Lagos
+  country: Nigeria
+- name: Guaranty Trust Bank Limited
+  swift: GTBINGLAXXX
+  swift8: GTBINGLA
+  branch_name: Head Office
+  branch_address: Lagos
+  branch_code: XXX
+  city: Lagos
+  country: Nigeria
+- name: Skye Bank Plc
+  swift: PRDTNGLAXXX
+  swift8: PRDTNGLA
+  branch_name: Head Office
+  branch_address: Plot 708/709 Adeola Hopewell Lagos
+  branch_code: XXX
+  city: Lagos
+  country: Nigeria
+- name: Spring Bank Plc
+  swift: SPRGNGLAXXX
+  swift8: SPRGNGLA
+  branch_name: Head Office
+  branch_address: 143 Ahmadu Bello Way, Victoria 234 Lagos
+  branch_code: XXX
+  city: Lagos
+  country: Nigeria
+- name: Stanbic Ibtc Bank Plc
+  swift: SBICNGLXXXX
+  swift8: SBICNGLX
+  branch_name: Head Office
+  branch_address: I.B.T.C. Place 101007 Lagos
+  branch_code: XXX
+  city: Lagos
+  country: Nigeria
+- name: Stanbic Ibtc Bank Plc
+  swift: SBICNGLXKAN
+  swift8: SBICNGLX
+  branch_name: Kano Branch
+  branch_address: Africa Alliance Building Kano
+  branch_code: KAN
+  city: Kano
+  country: Nigeria
+- name: Standard Chartered Bank Nigeria Limited
+  swift: SCBLNGLASSU
+  swift8: SCBLNGLA
+  branch_name: Securities Services
+  branch_address: Lagos
+  branch_code: SSU
+  city: Lagos
+  country: Nigeria
+- name: Standard Chartered Bank Nigeria Limited
+  swift: SCBLNGLAXXX
+  swift8: SCBLNGLA
+  branch_name: Head Office
+  branch_address: Unitrust House Lagos
+  branch_code: XXX
+  city: Lagos
+  country: Nigeria
+- name: Standard Chartered Bank Nigeria Limited
+  swift: SCBLNGLAPYT
+  swift8: SCBLNGLA
+  branch_name: Unitrust, Head Office Branch
+  branch_address: Unitrust House 80038 Lagos
+  branch_code: PYT
+  city: Lagos
+  country: Nigeria
+- name: Standard Chartered Bank Nigeria Limited
+  swift: SCBLNGLATSY
+  swift8: SCBLNGLA
+  branch_name: Treasury Services
+  branch_address: No branch address
+  branch_code: TSY
+  city: Lagos
+  country: Nigeria
+- name: Sterling Bank Plc
+  swift: NAMENGLAXXX
+  swift8: NAMENGLA
+  branch_name: Head Office
+  branch_address: Sterling Towers Lagos
+  branch_code: XXX
+  city: Lagos
+  country: Nigeria
+- name: Union Bank Of Nigeria Plc
+  swift: UBNINGLAXXX
+  swift8: UBNINGLA
+  branch_name: Head Office
+  branch_address: Alagbon House Building Lagos
+  branch_code: XXX
+  city: Lagos
+  country: Nigeria
+- name: United Bank For Africa Plc
+  swift: UNAFNGLA088
+  swift8: UNAFNGLA
+  branch_name: Aba Main Branch
+  branch_address: Ikotekpene Road Aba
+  branch_code: '088'
+  city: Aba
+  country: Nigeria
+- name: United Bank For Africa Plc
+  swift: UNAFNGLA171
+  swift8: UNAFNGLA
+  branch_name: Aba-Owerri Rd Branch
+  branch_address: 171/173 Aba/Owerri Rd. Aba
+  branch_code: '171'
+  city: Aba
+  country: Nigeria
+- name: United Bank For Africa Plc
+  swift: UNAFNGLA223
+  swift8: UNAFNGLA
+  branch_name: Eziukwu Branch
+  branch_address: 3a Cementary Road Aba
+  branch_code: '223'
+  city: Aba
+  country: Nigeria
+- name: United Bank For Africa Plc
+  swift: UNAFNGLA055
+  swift8: UNAFNGLA
+  branch_name: Abeokuta Branch
+  branch_address: 48, Tinubu Street, Ibara Abeokuta
+  branch_code: '055'
+  city: Abeokuta
+  country: Nigeria
+- name: United Bank For Africa Plc
+  swift: UNAFNGLA114
+  swift8: UNAFNGLA
+  branch_name: Abuja Branch
+  branch_address: Area 3, Garki, Abuja Abuja
+  branch_code: '114'
+  city: Abuja
+  country: Nigeria
+- name: United Bank For Africa Plc
+  swift: UNAFNGLA215
+  swift8: UNAFNGLA
+  branch_name: Nicon Noga Branch
+  branch_address: Nicon Noga Hotel Abuja
+  branch_code: '215'
+  city: Abuja
+  country: Nigeria
+- name: United Bank For Africa Plc
+  swift: UNAFNGLA056
+  swift8: UNAFNGLA
+  branch_name: Akure Branch
+  branch_address: 19a, Oba Adesina Road Akure
+  branch_code: '056'
+  city: Akure
+  country: Nigeria
+- name: United Bank For Africa Plc
+  swift: UNAFNGLA175
+  swift8: UNAFNGLA
+  branch_name: Asaba Branch
+  branch_address: 149a, Nnebisi Road Asaba
+  branch_code: '175'
+  city: Asaba
+  country: Nigeria
+- name: United Bank For Africa Plc
+  swift: UNAFNGLA164
+  swift8: UNAFNGLA
+  branch_name: Awka Branch
+  branch_address: 29 Enugu-East Road Awka
+  branch_code: '164'
+  city: Awka
+  country: Nigeria
+- name: United Bank For Africa Plc
+  swift: UNAFNGLA094
+  swift8: UNAFNGLA
+  branch_name: Calabar Branch
+  branch_address: Calabar Road Calabar
+  branch_code: '094'
+  city: Calabar
+  country: Nigeria
+- name: United Bank For Africa Plc
+  swift: UNAFNGLA126
+  swift8: UNAFNGLA
+  branch_name: Hadejia Branch
+  branch_address: Jigawa-Hadejia Road Hadejia
+  branch_code: '126'
+  city: Hadejia
+  country: Nigeria
+- name: United Bank For Africa Plc
+  swift: UNAFNGLA084
+  swift8: UNAFNGLA
+  branch_name: Enugu Branch
+  branch_address: Station Road Enugu
+  branch_code: '084'
+  city: Enugu
+  country: Nigeria
+- name: United Bank For Africa Plc
+  swift: UNAFNGLA123
+  swift8: UNAFNGLA
+  branch_name: Unec Branch
+  branch_address: Unn, Enugu Campus Enugu
+  branch_code: '123'
+  city: Enugu
+  country: Nigeria
+- name: United Bank For Africa Plc
+  swift: UNAFNGLA176
+  swift8: UNAFNGLA
+  branch_name: Agbani Road Branch
+  branch_address: 143 Agbani Road Enugu
+  branch_code: '176'
+  city: Enugu
+  country: Nigeria
+- name: United Bank For Africa Plc
+  swift: UNAFNGLA054
+  swift8: UNAFNGLA
+  branch_name: Funtua Branch
+  branch_address: 19, Katsina Road Funtua
+  branch_code: '054'
+  city: Funtua
+  country: Nigeria
+- name: United Bank For Africa Plc
+  swift: UNAFNGLA044
+  swift8: UNAFNGLA
+  branch_name: Benin Branch
+  branch_address: 4, Akpakpava Road Benin City
+  branch_code: '044'
+  city: Benin City
+  country: Nigeria
+- name: United Bank For Africa Plc
+  swift: UNAFNGLA117
+  swift8: UNAFNGLA
+  branch_name: Ugbowo Branch
+  branch_address: 156 Uselu Road, Ugbowo Benin City
+  branch_code: '117'
+  city: Benin City
+  country: Nigeria
+- name: United Bank For Africa Plc
+  swift: UNAFNGLA112
+  swift8: UNAFNGLA
+  branch_name: Idah Branch
+  branch_address: 89c Ayegba Oma Idah
+  branch_code: '112'
+  city: Idah
+  country: Nigeria
+- name: United Bank For Africa Plc
+  swift: UNAFNGLA030
+  swift8: UNAFNGLA
+  branch_name: Bauchi Branch
+  branch_address: Comm. Area, Bank Rd. Bauchi
+  branch_code: '030'
+  city: Bauchi
+  country: Nigeria
+- name: United Bank For Africa Plc
+  swift: UNAFNGLA040
+  swift8: UNAFNGLA
+  branch_name: Ibadan Main Branch
+  branch_address: Lebanon Street Ibadan
+  branch_code: '040'
+  city: Ibadan
+  country: Nigeria
+- name: Unity Bank Plc
+  swift: ICITNGLAXXX
+  swift8: ICITNGLA
+  branch_name: Head Office
+  branch_address: 290a, Akin Olugbade Street Lagos
+  branch_code: XXX
+  city: Lagos
+  country: Nigeria
+- name: Wema Bank Plc
+  swift: WEMANGLA02K
+  swift8: WEMANGLA
+  branch_name: Kano
+  branch_address: Kano
+  branch_code: 02K
+  city: Kano
+  country: Nigeria
+- name: Wema Bank Plc
+  swift: WEMANGLAXXX
+  swift8: WEMANGLA
+  branch_name: Head Office
+  branch_address: Wema Towers Lagos
+  branch_code: XXX
+  city: Lagos
+  country: Nigeria
+- name: Wema Bank Plc
+  swift: WEMANGLA02T
+  swift8: WEMANGLA
+  branch_name: Tinubu
+  branch_address: Tinubu
+  branch_code: 02T
+  city: Tinubu
+  country: Nigeria
+- name: Zenith Bank Plc
+  swift: ZEIBNGLA013
+  swift8: ZEIBNGLA
+  branch_name: Abuja Branch
+  branch_address: Abuja
+  branch_code: '013'
+  city: Abuja
+  country: Nigeria
+- name: Zenith Bank Plc
+  swift: ZEIBNGLAWEB
+  swift8: ZEIBNGLA
+  branch_name: Electronic Transactions
+  branch_address: Lagos
+  branch_code: WEB
+  city: Lagos
+  country: Nigeria
+- name: Zenith Bank Plc
+  swift: ZEIBNGLAXXX
+  swift8: ZEIBNGLA
+  branch_name: Head Office
+  branch_address: Zenith Heights Lagos
+  branch_code: XXX
+  city: Lagos
+  country: Nigeria
+- name: Bzx Investments Ltd
+  swift: BZINNGL1XXX
+  swift8: BZINNGL1
+  branch_name: Head Office
+  branch_address: Bzx Investments and Finance 633817 Ilesha
+  branch_code: XXX
+  city: Ilesha
+  country: Nigeria
+- name: Associated Discount House Limited
+  swift: ADHLNGLAXXX
+  swift8: ADHLNGLA
+  branch_name: Head Office
+  branch_address: St. Nicholas House La01 Lagos
+  branch_code: XXX
+  city: Lagos
+  country: Nigeria
+- name: B2bsolutins Ltd
+  swift: BBSONGL1XXX
+  swift8: BBSONGL1
+  branch_name: Head Office
+  branch_address: 7 Bunmi Joseph Close Gbagada 23401 Lagos
+  branch_code: XXX
+  city: Lagos
+  country: Nigeria
+- name: Bt International (nigeria) Ltd.
+  swift: NIGINGL1XXX
+  swift8: NIGINGL1
+  branch_name: Head Office
+  branch_address: Stock Exchange Building Lagos
+  branch_code: XXX
+  city: Lagos
+  country: Nigeria
+- name: Central Securities Clearing System Limited
+  swift: CSCYNGLAXXX
+  swift8: CSCYNGLA
+  branch_name: Head Office
+  branch_address: The Nigerian Stock Exchange House Lagos
+  branch_code: XXX
+  city: Lagos
+  country: Nigeria
+- name: Central Securities Clearing System Limited
+  swift: CSCYNGL1XXX
+  swift8: CSCYNGL1
+  branch_name: Head Office
+  branch_address: The Nigerian Stock Exchange House Lagos
+  branch_code: XXX
+  city: Lagos
+  country: Nigeria
+- name: Chapel Hill Denham Securities Limited
+  swift: CHDENGL1XXX
+  swift8: CHDENGL1
+  branch_name: Head Office
+  branch_address: 45 Saka Tinubu Street Lagos
+  branch_code: XXX
+  city: Lagos
+  country: Nigeria
+- name: Chapel Hill Denham Securities Limited
+  swift: CHDENGLAXXX
+  swift8: CHDENGLA
+  branch_name: Head Office
+  branch_address: 45 Saka Tinubu Street Lagos
+  branch_code: XXX
+  city: Lagos
+  country: Nigeria
+- name: City Express Bank Limited
+  swift: CIEHNGL1XXX
+  swift8: CIEHNGL1
+  branch_name: Head Office
+  branch_address: City Express Bank House Lagos
+  branch_code: XXX
+  city: Lagos
+  country: Nigeria
+- name: Csl Stockbrokers Limited
+  swift: CSSKNGL1XXX
+  swift8: CSSKNGL1
+  branch_name: Head Office
+  branch_address: Primrose Towers Lagos
+  branch_code: XXX
+  city: Lagos
+  country: Nigeria
+- name: Devcom Bank Ltd
+  swift: DEVCNGL1XXX
+  swift8: DEVCNGL1
+  branch_name: Head Office
+  branch_address: 18 a Oko-Awo Close Lagos
+  branch_code: XXX
+  city: Lagos
+  country: Nigeria
+- name: Devcom Merchant Bank Ltd.
+  swift: DEMBNGL1XXX
+  swift8: DEMBNGL1
+  branch_name: Head Office
+  branch_address: 18a Oko Awo Close, Victoria Island Lagos
+  branch_code: XXX
+  city: Lagos
+  country: Nigeria
+- name: First Interstate Merchant Bank (nigeria) Ltd.
+  swift: FIMNNGL1XXX
+  swift8: FIMNNGL1
+  branch_name: Head Office
+  branch_address: Unity House Lagos
+  branch_code: XXX
+  city: Lagos
+  country: Nigeria
+- name: Fortune International Banc Plc
+  swift: FOIBNGL1XXX
+  swift8: FOIBNGL1
+  branch_name: Head Office
+  branch_address: Fortune Bank Lagos
+  branch_code: XXX
+  city: Lagos
+  country: Nigeria
+- name: Fsdh Merchant Bank Ltd
+  swift: FSDHNGLAXXX
+  swift8: FSDHNGLA
+  branch_name: Head Office
+  branch_address: Uac House 12913 Lagos
+  branch_code: XXX
+  city: Lagos
+  country: Nigeria
+- name: Gulf Bank Of Nigeria Plc
+  swift: GBNPNGL1XXX
+  swift8: GBNPNGL1
+  branch_name: Head Office
+  branch_address: 42a, Afribank Street, Victoria Lagos
+  branch_code: XXX
+  city: Lagos
+  country: Nigeria
+- name: Hallmark Bank Plc
+  swift: HALMNGL1XXX
+  swift8: HALMNGL1
+  branch_name: Head Office
+  branch_address: 137/139 Broad Street 12917 Lagos
+  branch_code: XXX
+  city: Lagos
+  country: Nigeria
+- name: Heritage Banking Company Limited
+  swift: HBCLNGLAXXX
+  swift8: HBCLNGLA
+  branch_name: Head Office
+  branch_address: Moshood Olugbani Street 171a Lagos
+  branch_code: XXX
+  city: Lagos
+  country: Nigeria
+- name: Ikon Capital Africa Limited
+  swift: IKONNGL1XXX
+  swift8: IKONNGL1
+  branch_name: Head Office
+  branch_address: Fortune Towers Lagos
+  branch_code: XXX
+  city: Lagos
+  country: Nigeria
+- name: Jaiz Bank Plc
+  swift: JAIZNGLAXXX
+  swift8: JAIZNGLA
+  branch_name: Head Office
+  branch_address: Kano House 900001 Abuja
+  branch_code: XXX
+  city: Abuja
+  country: Nigeria
+- name: Kakawa Discount House
+  swift: KDHLNGLAXXX
+  swift8: KDHLNGLA
+  branch_name: Head Office
+  branch_address: Marina 20 Lagos
+  branch_code: XXX
+  city: Lagos
+  country: Nigeria
+- name: Lobe Bank Of Nigeria
+  swift: LBNINGL1XXX
+  swift8: LBNINGL1
+  branch_name: Head Office
+  branch_address: Victoria Island Lagos
+  branch_code: XXX
+  city: Lagos
+  country: Nigeria
+- name: Manny Bank Ltd.
+  swift: MAMBNGL1XXX
+  swift8: MAMBNGL1
+  branch_name: Head Office
+  branch_address: 2 Adeyemo Alakija Street, Victoria Lagos
+  branch_code: XXX
+  city: Lagos
+  country: Nigeria
+- name: Metropolitan Bank Ltd
+  swift: METMNGL1XXX
+  swift8: METMNGL1
+  branch_name: Head Office
+  branch_address: 24, Idowu Taylor Street Lagos
+  branch_code: XXX
+  city: Lagos
+  country: Nigeria
+- name: Nigeria Universal Bank Limited
+  swift: KACBNG21XXX
+  swift8: KACBNG21
+  branch_name: Head Office
+  branch_address: Yakubu Gowon Way Kaduna
+  branch_code: XXX
+  city: Kaduna
+  country: Nigeria
+- name: Nigeria Universal Bank Ltd.
+  swift: KNUBNGL1022
+  swift8: KNUBNGL1
+  branch_name: Katsina
+  branch_address: 57 Katsinard, Dutsin Ma Katsina
+  branch_code: '022'
+  city: Katsina
+  country: Nigeria
+- name: Nigeria Universal Bank Ltd.
+  swift: KNUBNGL1XXX
+  swift8: KNUBNGL1
+  branch_name: Head Office
+  branch_address: Lagos
+  branch_code: XXX
+  city: Lagos
+  country: Nigeria
+- name: Nigerian Export Import Bank
+  swift: NEXMNGLAXXX
+  swift8: NEXMNGLA
+  branch_name: Head Office
+  branch_address: Nexim House Abuja
+  branch_code: XXX
+  city: Abuja
+  country: Nigeria
+- name: Nigerian Industrial Development Bank Ltd
+  swift: NIDBNGL1XXX
+  swift8: NIDBNGL1
+  branch_name: Head Office
+  branch_address: Nidb House Lagos
+  branch_code: XXX
+  city: Lagos
+  country: Nigeria
+- name: Nigerian Stock Exchange, The
+  swift: XNSANGL1XXX
+  swift8: XNSANGL1
+  branch_name: Head Office
+  branch_address: Stock Exchange House Lagos
+  branch_code: XXX
+  city: Lagos
+  country: Nigeria
+- name: Rand Merchant Bank Nigeria
+  swift: FIRNNGLAXXX
+  swift8: FIRNNGLA
+  branch_name: Head Office
+  branch_address: Churchgate Towers 2 Victoria Island
+  branch_code: XXX
+  city: Victoria Island
+  country: Nigeria
+- name: Renaissance Securities (nigeria) Limited
+  swift: REECNGL1XXX
+  swift8: REECNGL1
+  branch_name: Head Office
+  branch_address: Fortune Towers Lagos
+  branch_code: XXX
+  city: Lagos
+  country: Nigeria
+- name: Samsung Electronics West Africa Limited
+  swift: SECTNGL1701
+  swift8: SECTNGL1
+  branch_name: Lagos
+  branch_address: Mulliner Tower Lagos
+  branch_code: '701'
+  city: Lagos
+  country: Nigeria
+- name: Samsung Electronics West Africa Limited
+  swift: SECTNGL1XXX
+  swift8: SECTNGL1
+  branch_name: Head Office
+  branch_address: Mulliner Tower Lagos
+  branch_code: XXX
+  city: Lagos
+  country: Nigeria
+- name: Trade Bank Plc
+  swift: TDEBNGL1XXX
+  swift8: TDEBNGL1
+  branch_name: Head Office
+  branch_address: Great Nigerian House Lagos
+  branch_code: XXX
+  city: Lagos
+  country: Nigeria
+- name: Trade-on-web, Llc
+  swift: TRLLNGL1XXX
+  swift8: TRLLNGL1
+  branch_name: Head Office
+  branch_address: 3b Ekabor St. Off Kosini Street Warri
+  branch_code: XXX
+  city: Warri
+  country: Nigeria

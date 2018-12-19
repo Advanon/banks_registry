@@ -1,0 +1,10 @@
+---
+PW:
+- name: Bank Of Hawaii
+  swift: BOHIPW21XXX
+  swift8: BOHIPW21
+  branch_name: Head Office
+  branch_address: Koror
+  branch_code: XXX
+  city: Koror
+  country: Palau

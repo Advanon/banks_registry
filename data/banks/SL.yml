@@ -1,0 +1,138 @@
+---
+SL:
+- name: Access Bank Sierra Leone Limited
+  swift: ABSFSLFRXXX
+  swift8: ABSFSLFR
+  branch_name: Head Office
+  branch_address: 30 Siaka Steven Street Freetown
+  branch_code: XXX
+  city: Freetown
+  country: Sierra Leone
+- name: Bank Of Sierra Leone
+  swift: BSLESLFAXXX
+  swift8: BSLESLFA
+  branch_name: Head Office
+  branch_address: Freetown
+  branch_code: XXX
+  city: Freetown
+  country: Sierra Leone
+- name: Bank Of Sierra Leone
+  swift: BSLESLFRXXX
+  swift8: BSLESLFR
+  branch_name: Head Office
+  branch_address: Main Bank Freetown
+  branch_code: XXX
+  city: Freetown
+  country: Sierra Leone
+- name: Bank Phb Sierra Leone
+  swift: PHBXSLFRXXX
+  swift8: PHBXSLFR
+  branch_name: Head Office
+  branch_address: No. 3 Rowdon Street Freetown
+  branch_code: XXX
+  city: Freetown
+  country: Sierra Leone
+- name: Ecobank Sierra Leone Limited
+  swift: ECOCSLFRXXX
+  swift8: ECOCSLFR
+  branch_name: Head Office
+  branch_address: Ecobank Sierra Leone Limited Freetown
+  branch_code: XXX
+  city: Freetown
+  country: Sierra Leone
+- name: First International Bank (sl) Limited
+  swift: FSTISLFRXXX
+  swift8: FSTISLFR
+  branch_name: Head Office
+  branch_address: First International Bank Freetown
+  branch_code: XXX
+  city: Freetown
+  country: Sierra Leone
+- name: Guaranty Trust Bank (sl) Ltd
+  swift: GTBISLFRXXX
+  swift8: GTBISLFR
+  branch_name: Head Office
+  branch_address: Sparta Building Freetown
+  branch_code: XXX
+  city: Freetown
+  country: Sierra Leone
+- name: Hfc Mortgage And Savings (sl) Plc
+  swift: HFCMSLFRXXX
+  swift8: HFCMSLFR
+  branch_name: Head Office
+  branch_address: Liverpool Street 30 Freetown
+  branch_code: XXX
+  city: Freetown
+  country: Sierra Leone
+- name: International Commercial Bank(sl) Limited
+  swift: ICBZSLFRXXX
+  swift8: ICBZSLFR
+  branch_name: Head Office
+  branch_address: No 22 Rawdon Street Freetown
+  branch_code: XXX
+  city: Freetown
+  country: Sierra Leone
+- name: National Cooperative Development Bank Ltd.
+  swift: NCDBSLF1XXX
+  swift8: NCDBSLF1
+  branch_name: Head Office
+  branch_address: 28 Siaka Stevens Street Freetown
+  branch_code: XXX
+  city: Freetown
+  country: Sierra Leone
+- name: Rokel Commercial Bank (sierra Leone) Ltd.
+  swift: RCBKSLFRXXX
+  swift8: RCBKSLFR
+  branch_name: Head Office
+  branch_address: Head Office Freetown Ft
+  branch_code: XXX
+  city: Freetown Ft
+  country: Sierra Leone
+- name: Sierra Leone Commercial Bank Ltd
+  swift: SLCBSLFRXXX
+  swift8: SLCBSLFR
+  branch_name: Head Office
+  branch_address: Christian Smith Building Freetown
+  branch_code: XXX
+  city: Freetown
+  country: Sierra Leone
+- name: Skye Bank (sl) Ltd
+  swift: SKYESLFRXXX
+  swift8: SKYESLFR
+  branch_name: Head Office
+  branch_address: Siaka Stevens Street Freetown
+  branch_code: XXX
+  city: Freetown
+  country: Sierra Leone
+- name: Standard Chartered Bank Sierra Leone Ltd
+  swift: SCBLSLFRXXX
+  swift8: SCBLSLFR
+  branch_name: Head Office
+  branch_address: 9-11 Lightfoot Boston Street Freetown
+  branch_code: XXX
+  city: Freetown
+  country: Sierra Leone
+- name: Union Trust Bank Limited
+  swift: UTBSSLFRXXX
+  swift8: UTBSSLFR
+  branch_name: Head Office
+  branch_address: Union Trust Bank Limited Freetown
+  branch_code: XXX
+  city: Freetown
+  country: Sierra Leone
+- name: United Bank For Africa (s/l) Ltd
+  swift: UNAFSLFRXXX
+  swift8: UNAFSLFR
+  branch_name: Head Office
+  branch_address: Gebara House Freetown
+  branch_code: XXX
+  city: Freetown
+  country: Sierra Leone
+- name: Zenith Bank (sierra Leone) Limited
+  swift: ZESLSLFRXXX
+  swift8: ZESLSLFR
+  branch_name: Head Office
+  branch_address: 18/20 Rawdon Street 00232 Freetown
+  branch_code: XXX
+  city: Freetown
+  country: Sierra Leone

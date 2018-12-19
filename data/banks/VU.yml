@@ -1,0 +1,98 @@
+---
+VU:
+- name: Westpac Banking Corporation
+  swift: WPACVUVXXXX
+  swift8: WPACVUVX
+  branch_name: Head Office
+  branch_address: Kumul Highway Vila
+  branch_code: XXX
+  city: Vila
+  country: Vanuatu
+- name: Anz Bank (vanuatu) Ltd
+  swift: ANZBVUVXXXX
+  swift8: ANZBVUVX
+  branch_name: Head Office
+  branch_address: Anz House Vila
+  branch_code: XXX
+  city: Vila
+  country: Vanuatu
+- name: Asia Merchant Bank Limited
+  swift: AMBVVUVUXXX
+  swift8: AMBVVUVU
+  branch_name: Head Office
+  branch_address: Hawkes Law House Port Vila
+  branch_code: XXX
+  city: Port Vila
+  country: Vanuatu
+- name: Bred (vanuatu) Ltd
+  swift: BREDVUVUXXX
+  swift8: BREDVUVU
+  branch_name: Head Office
+  branch_address: Lini Highway Port Vila
+  branch_code: XXX
+  city: Port Vila
+  country: Vanuatu
+- name: Financial Partners Bank Limited
+  swift: FPBLVUV1XXX
+  swift8: FPBLVUV1
+  branch_name: Head Office
+  branch_address: Pkf House Port Vila
+  branch_code: XXX
+  city: Port Vila
+  country: Vanuatu
+- name: Investors' Trust Limited
+  swift: ITLIVUV1XXX
+  swift8: ITLIVUV1
+  branch_name: Head Office
+  branch_address: Itl House Vila
+  branch_code: XXX
+  city: Vila
+  country: Vanuatu
+- name: National Bank Of Vanuatu Limited
+  swift: NBOVVUVUXXX
+  swift8: NBOVVUVU
+  branch_name: Head Office
+  branch_address: Air Vanuatu Bldg. 249 Port Vila
+  branch_code: XXX
+  city: Port Vila
+  country: Vanuatu
+- name: Nautilus International Bank Ltd
+  swift: NAIOVUV1XXX
+  swift8: NAIOVUV1
+  branch_name: Head Office
+  branch_address: 23 Main Street 000000 Port Vila
+  branch_code: XXX
+  city: Port Vila
+  country: Vanuatu
+- name: Pacific International Trust Co. Ltd
+  swift: PITCVUV1XXX
+  swift8: PITCVUV1
+  branch_name: Head Office
+  branch_address: International Building Port Vila
+  branch_code: XXX
+  city: Port Vila
+  country: Vanuatu
+- name: Pacific Private Bank Limited
+  swift: PPBLVUVUXXX
+  swift8: PPBLVUVU
+  branch_name: Head Office
+  branch_address: Govant Building Port Vila
+  branch_code: XXX
+  city: Port Vila
+  country: Vanuatu
+- name: Reserve Bank Of Vanuatu
+  swift: RBVAVUVUXXX
+  swift8: RBVAVUVU
+  branch_name: Head Office
+  branch_address: Emmanuel Brunet Street Port Vila
+  branch_code: XXX
+  city: Port Vila
+  country: Vanuatu
+- name: Vanuatu International Trust Company Limited
+  swift: VITRVUV1XXX
+  swift8: VITRVUV1
+  branch_name: Head Office
+  branch_address: Bdo House Port Vila
+  branch_code: XXX
+  city: Port Vila
+  country: Vanuatu

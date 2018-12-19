@@ -1,0 +1,1671 @@
+---
+GR:
+- name: Aegean Baltic Bank S.A.
+  swift: AEBAGRAAXXX
+  swift8: AEBAGRAA
+  branch_name: Head Office
+  branch_address: Maroussi 15124 Athens
+  branch_code: XXX
+  city: Athens
+  country: Greece
+- name: Agricultural Bank Of Greece
+  swift: ABGRGRAA203
+  swift8: ABGRGRAA
+  branch_name: Agrinio Branch
+  branch_address: Anastasiadi and Palama Street 30100 Agrinio
+  branch_code: '203'
+  city: Agrinio
+  country: Greece
+- name: Agricultural Bank Of Greece
+  swift: ABGRGRAA208
+  swift8: ABGRGRAA
+  branch_name: Alexandroupoli Br
+  branch_address: Alexandroupoli
+  branch_code: '208'
+  city: Alexandroupoli
+  country: Greece
+- name: Agricultural Bank Of Greece
+  swift: ABGRGRAAXXX
+  swift8: ABGRGRAA
+  branch_name: Head Office
+  branch_address: 4 Panepistimiou Street 106 71 Athens
+  branch_code: XXX
+  city: Athens
+  country: Greece
+- name: Agricultural Bank Of Greece
+  swift: ABGRGRAA222
+  swift8: ABGRGRAA
+  branch_name: Arta Br
+  branch_address: Arta
+  branch_code: '222'
+  city: Arta
+  country: Greece
+- name: Agricultural Bank Of Greece
+  swift: ABGRGRAA100
+  swift8: ABGRGRAA
+  branch_name: Main Branch
+  branch_address: 4 Panepistimiou Street 106 71 Athens
+  branch_code: '100'
+  city: Athens
+  country: Greece
+- name: Agricultural Bank Of Greece
+  swift: ABGRGRAA207
+  swift8: ABGRGRAA
+  branch_name: Attikis Br
+  branch_address: 246 Messogion Ave. 155 61 Athens
+  branch_code: '207'
+  city: Athens
+  country: Greece
+- name: Agricultural Bank Of Greece
+  swift: ABGRGRAA215
+  swift8: ABGRGRAA
+  branch_name: Nea Smyrni Br
+  branch_address: 21, 25th Martiou Str. 171 21 Athens
+  branch_code: '215'
+  city: Athens
+  country: Greece
+- name: Agricultural Bank Of Greece
+  swift: ABGRGRAA201
+  swift8: ABGRGRAA
+  branch_name: Chalkida Branch
+  branch_address: 40 E. Venizelou Street 34100 Chalkida
+  branch_code: '201'
+  city: Chalkida
+  country: Greece
+- name: Agricultural Bank Of Greece
+  swift: ABGRGRAA109
+  swift8: ABGRGRAA
+  branch_name: Chania Branch
+  branch_address: 82 Strat. Tzanakaki Street 73100 Chania
+  branch_code: '109'
+  city: Chania
+  country: Greece
+- name: Agricultural Bank Of Greece
+  swift: ABGRGRAA220
+  swift8: ABGRGRAA
+  branch_name: Florina Br
+  branch_address: Florina
+  branch_code: '220'
+  city: Florina
+  country: Greece
+- name: Agricultural Bank Of Greece
+  swift: ABGRGRAA216
+  swift8: ABGRGRAA
+  branch_name: Drama Br
+  branch_address: Drama
+  branch_code: '216'
+  city: Drama
+  country: Greece
+- name: Agricultural Bank Of Greece
+  swift: ABGRGRAA300
+  swift8: ABGRGRAA
+  branch_name: Heraklion Branch
+  branch_address: Eth. Antistaseos Limani 71201 Heraklion
+  branch_code: '300'
+  city: Heraklion
+  country: Greece
+- name: Agricultural Bank Of Greece
+  swift: ABGRGRAA103
+  swift8: ABGRGRAA
+  branch_name: Ioannina Branch
+  branch_address: 9 Dagli Street 45100 Ioannina
+  branch_code: '103'
+  city: Ioannina
+  country: Greece
+- name: Agricultural Bank Of Greece
+  swift: ABGRGRAA108
+  swift8: ABGRGRAA
+  branch_name: Kalamata Branch
+  branch_address: 2 Sidirodromikou Stathmou Avenue 24100 Kalamata
+  branch_code: '108'
+  city: Kalamata
+  country: Greece
+- name: Agricultural Bank Of Greece
+  swift: ABGRGRAA218
+  swift8: ABGRGRAA
+  branch_name: Karditsa Br
+  branch_address: Karditsa
+  branch_code: '218'
+  city: Karditsa
+  country: Greece
+- name: Agricultural Bank Of Greece
+  swift: ABGRGRAA104
+  swift8: ABGRGRAA
+  branch_name: Kastoria Branch
+  branch_address: 18 3rd Septembriou-Pl Davaki 52100 Kastoria
+  branch_code: '104'
+  city: Kastoria
+  country: Greece
+- name: Agricultural Bank Of Greece
+  swift: ABGRGRAA106
+  swift8: ABGRGRAA
+  branch_name: Katerini Branch
+  branch_address: 9 I Dragoumi Street 60100 Katerini
+  branch_code: '106'
+  city: Katerini
+  country: Greece
+- name: Agricultural Bank Of Greece
+  swift: ABGRGRAA219
+  swift8: ABGRGRAA
+  branch_name: Komotini Br
+  branch_address: Komotini
+  branch_code: '219'
+  city: Komotini
+  country: Greece
+- name: Agricultural Bank Of Greece
+  swift: ABGRGRAA800
+  swift8: ABGRGRAA
+  branch_name: Kavala Branch
+  branch_address: 66 Erithrou Stavrou Street 65100 Kavala
+  branch_code: '800'
+  city: Kavala
+  country: Greece
+- name: Agricultural Bank Of Greece
+  swift: ABGRGRAA206
+  swift8: ABGRGRAA
+  branch_name: Kozani Br
+  branch_address: Kozani
+  branch_code: '206'
+  city: Kozani
+  country: Greece
+- name: Alpha Bank Ae
+  swift: CRBAGRAAXXX
+  swift8: CRBAGRAA
+  branch_name: Head Office
+  branch_address: 10 Pesmazoglou 10252 Athens
+  branch_code: XXX
+  city: Athens
+  country: Greece
+- name: Attica Bank Sa
+  swift: ATTIGRAAXXX
+  swift8: ATTIGRAA
+  branch_name: Head Office
+  branch_address: 23 Omirou Street 106 72 Athens
+  branch_code: XXX
+  city: Athens
+  country: Greece
+- name: Bank Of America, N.A. Athens
+  swift: BOFAGR2XXXX
+  swift8: BOFAGR2X
+  branch_name: Head Office
+  branch_address: 68 Vasilissis Sofias 11528 Athens
+  branch_code: XXX
+  city: Athens
+  country: Greece
+- name: Bank Of Cyprus Public Company Limited
+  swift: BCYPGRAAXXX
+  swift8: BCYPGRAA
+  branch_name: Head Office
+  branch_address: 170 Alexandras Avenue 115 21 Athens
+  branch_code: XXX
+  city: Athens
+  country: Greece
+- name: Bank Of Greece
+  swift: BNGRGRAA013
+  swift8: BNGRGRAA
+  branch_name: Foreign Exchange Transcactions Section
+  branch_address: Athens
+  branch_code: '013'
+  city: Athens
+  country: Greece
+- name: Bank Of Greece
+  swift: BNGRGRAA027
+  swift8: BNGRGRAA
+  branch_name: Government Securities Custody and Management Section
+  branch_address: Athens
+  branch_code: '027'
+  city: Athens
+  country: Greece
+- name: Bank Of Greece
+  swift: BNGRGRAA042
+  swift8: BNGRGRAA
+  branch_name: Deposit Accounts Section
+  branch_address: Athens
+  branch_code: '042'
+  city: Athens
+  country: Greece
+- name: Bank Of Greece
+  swift: BNGRGRAA094
+  swift8: BNGRGRAA
+  branch_name: Money Markets Section
+  branch_address: Athens
+  branch_code: '094'
+  city: Athens
+  country: Greece
+- name: Bank Of Greece
+  swift: BNGRGRAAACO
+  swift8: BNGRGRAA
+  branch_name: Athens Clearing Office
+  branch_address: Athens
+  branch_code: ACO
+  city: Athens
+  country: Greece
+- name: Bank Of Greece
+  swift: BNGRGRAABR4
+  swift8: BNGRGRAA
+  branch_name: Tgt2 Sad Bank Indirect Member
+  branch_address: Athens
+  branch_code: BR4
+  city: Athens
+  country: Greece
+- name: Bank Of Greece
+  swift: BNGRGRAABR8
+  swift8: BNGRGRAA
+  branch_name: Tgt2 Account27, Indirect Member
+  branch_address: Athens
+  branch_code: BR8
+  city: Athens
+  country: Greece
+- name: Bank Of Greece
+  swift: BNGRGRAACCB
+  swift8: BNGRGRAA
+  branch_name: Book Entry Securities Managemt Section-Corr Central Bk Model Syst
+  branch_address: Athens
+  branch_code: CCB
+  city: Athens
+  country: Greece
+- name: Bank Of Greece
+  swift: BNGRGRAACON
+  swift8: BNGRGRAA
+  branch_name: Large-Value Payments System Management Section
+  branch_address: Athens
+  branch_code: CON
+  city: Athens
+  country: Greece
+- name: Bank Of Greece
+  swift: BNGRGRAADIA
+  swift8: BNGRGRAA
+  branch_name: Dias-Ch
+  branch_address: Athens
+  branch_code: DIA
+  city: Athens
+  country: Greece
+- name: Bank Of Greece
+  swift: BNGRGRAAEUX
+  swift8: BNGRGRAA
+  branch_name: Ecb Account for Bank of Greece
+  branch_address: Athens
+  branch_code: EUX
+  city: Athens
+  country: Greece
+- name: Bank Of Greece
+  swift: BNGRGRAAFXD
+  swift8: BNGRGRAA
+  branch_name: Treasury Operations Support Section
+  branch_address: Panepistimiou Street 21 10250 Athens
+  branch_code: FXD
+  city: Athens
+  country: Greece
+- name: Bank Of Greece
+  swift: BNGRGRAAHRM
+  swift8: BNGRGRAA
+  branch_name: Hermes Rtgs System
+  branch_address: Panepistimiou Street 21 10250 Athens
+  branch_code: HRM
+  city: Athens
+  country: Greece
+- name: Bank Of Greece
+  swift: BNGRGRAAPBS
+  swift8: BNGRGRAA
+  branch_name: Payments of Book Entry Securities Section
+  branch_address: Athens
+  branch_code: PBS
+  city: Athens
+  country: Greece
+- name: Bank Of Greece
+  swift: BNGRGRAASCT
+  swift8: BNGRGRAA
+  branch_name: Sepa Credit Transfer
+  branch_address: Athens
+  branch_code: SCT
+  city: Athens
+  country: Greece
+- name: Bank Of Greece
+  swift: BNGRGRAASSS
+  swift8: BNGRGRAA
+  branch_name: Book Entry Securities Management Section
+  branch_address: Athens
+  branch_code: SSS
+  city: Athens
+  country: Greece
+- name: Bank Of Greece
+  swift: BNGRGRAAST2
+  swift8: BNGRGRAA
+  branch_name: Athens
+  branch_address: Athens
+  branch_code: ST2
+  city: Athens
+  country: Greece
+- name: Bank Of Greece
+  swift: BNGRGRAAXXX
+  swift8: BNGRGRAA
+  branch_name: Head Office
+  branch_address: 21 Panepistimiou Avenue 102 50 Athens
+  branch_code: XXX
+  city: Athens
+  country: Greece
+- name: Bank Of Greece
+  swift: BNGRGRAA012
+  swift8: BNGRGRAA
+  branch_name: Reserves Management Backup Section
+  branch_address: Athens
+  branch_code: '012'
+  city: Athens
+  country: Greece
+- name: Bank Of Greece
+  swift: BNGRGRAA017
+  swift8: BNGRGRAA
+  branch_name: Documentary Credits Section
+  branch_address: Athens
+  branch_code: '017'
+  city: Athens
+  country: Greece
+- name: Black Sea Trade And Development Bank
+  swift: BSTDGR2TXXX
+  swift8: BSTDGR2T
+  branch_name: Head Office
+  branch_address: Komninon Street 1 54624 Thessaloniki
+  branch_code: XXX
+  city: Thessaloniki
+  country: Greece
+- name: Bnp Paribas Securities Services, Greece
+  swift: PARBGRAXXXX
+  swift8: PARBGRAX
+  branch_name: Head Office
+  branch_address: 94 Vas. Sofias Avenue and 1 115 28 Athens
+  branch_code: XXX
+  city: Athens
+  country: Greece
+- name: Citibank International Plc - Greek Branch
+  swift: CITIGRAA731
+  swift8: CITIGRAA
+  branch_name: Athens
+  branch_address: Athens
+  branch_code: '731'
+  city: Athens
+  country: Greece
+- name: Citibank International Plc - Greek Branch
+  swift: CITIGRAASEC
+  swift8: CITIGRAA
+  branch_name: Restricted Use Citibank Athens Target 2
+  branch_address: Athens
+  branch_code: SEC
+  city: Athens
+  country: Greece
+- name: Citibank International Plc - Greek Branch
+  swift: CITIGRAAXXX
+  swift8: CITIGRAA
+  branch_name: Head Office
+  branch_address: 54 Syngrou Avenue 117 42 Athens
+  branch_code: XXX
+  city: Athens
+  country: Greece
+- name: Citibank International Plc - Greek Branch
+  swift: CITIGRAA732
+  swift8: CITIGRAA
+  branch_name: Piraeus
+  branch_address: Piraeus
+  branch_code: '732'
+  city: Piraeus
+  country: Greece
+- name: Citibank International Plc - Greek Branch
+  swift: CITIGRAA733
+  swift8: CITIGRAA
+  branch_name: Thessaloniki
+  branch_address: Thessaloniki
+  branch_code: '733'
+  city: Thessaloniki
+  country: Greece
+- name: Citibank N.A.
+  swift: CITIGR21022
+  swift8: CITIGR21
+  branch_name: 52100 Kastoria
+  branch_address: 121 Grammou Street 52100 Kastoria
+  branch_code: '022'
+  city: Kastoria
+  country: Greece
+- name: Citibank N.A.
+  swift: CITIGR210AG
+  swift8: CITIGR21
+  branch_name: Glyfada
+  branch_address: Glyfada
+  branch_code: 0AG
+  city: Glyfada
+  country: Greece
+- name: Citibank N.A.
+  swift: CITIGR21XXX
+  swift8: CITIGR21
+  branch_name: Head Office
+  branch_address: Larissa
+  branch_code: XXX
+  city: Larissa
+  country: Greece
+- name: Fce Bank Plc
+  swift: FOGRGRA1XXX
+  swift8: FOGRGRA1
+  branch_name: Head Office
+  branch_address: 4 Konstantinoupoleos Avenue 15451 Peristeri
+  branch_code: XXX
+  city: Peristeri
+  country: Greece
+- name: Greek Branch Of Kedr Jcsc Cb
+  swift: KEDRGRAAXXX
+  swift8: KEDRGRAA
+  branch_name: Head Office
+  branch_address: 130 Syngrou Avenue 11745 Athens
+  branch_code: XXX
+  city: Athens
+  country: Greece
+- name: Hellenic Exchanges S.A.
+  swift: HCSDGRAAASI
+  swift8: HCSDGRAA
+  branch_name: Helex Ancillary System
+  branch_address: Athens
+  branch_code: ASI
+  city: Athens
+  country: Greece
+- name: Hellenic Exchanges S.A.
+  swift: HCSDGRAAXXX
+  swift8: HCSDGRAA
+  branch_name: Head Office
+  branch_address: 110, Athinon Ave 10442 Athens
+  branch_code: XXX
+  city: Athens
+  country: Greece
+- name: Hsbc Bank Plc
+  swift: MIDLGRAASDD
+  swift8: MIDLGRAA
+  branch_name: Sepa Direct Debits
+  branch_address: Athens
+  branch_code: SDD
+  city: Athens
+  country: Greece
+- name: Hsbc Bank Plc
+  swift: MIDLGRAAXXX
+  swift8: MIDLGRAA
+  branch_name: All Greek Branches
+  branch_address: 1a Sekeri Street Athens
+  branch_code: XXX
+  city: Athens
+  country: Greece
+- name: Hsbc Bank Plc
+  swift: MIDLGRAAGSS
+  swift8: MIDLGRAA
+  branch_name: Securities Services
+  branch_address: Piraeus
+  branch_code: GSS
+  city: Piraeus
+  country: Greece
+- name: Investment Bank Of Greece S.A.
+  swift: IBOGGRAAXXX
+  swift8: IBOGGRAA
+  branch_name: Head Office
+  branch_address: 24b Kifissias Ave., 151 25 Athens
+  branch_code: XXX
+  city: Athens
+  country: Greece
+- name: Ministry Of Ecomony And Finance, General Accounting Office
+  swift: MFGAGRAAXXX
+  swift8: MFGAGRAA
+  branch_name: Head Office
+  branch_address: 37 Panepistimiou Street 10165 Athens
+  branch_code: XXX
+  city: Athens
+  country: Greece
+- name: National Bank Of Greece S.A.
+  swift: ETHNGRAACUS
+  swift8: ETHNGRAA
+  branch_name: Custodian for Foreign Inst Investors
+  branch_address: Europa Plaza 17675 Athens
+  branch_code: CUS
+  city: Athens
+  country: Greece
+- name: National Bank Of Greece S.A.
+  swift: ETHNGRAAGRI
+  swift8: ETHNGRAA
+  branch_name: Custodian for Greek Inst Investors
+  branch_address: Europa Plaza 17675 Athens
+  branch_code: GRI
+  city: Athens
+  country: Greece
+- name: National Bank Of Greece S.A.
+  swift: ETHNGRAAXXX
+  swift8: ETHNGRAA
+  branch_name: Head Office
+  branch_address: 86 Aeolou Street 105 59 Athens
+  branch_code: XXX
+  city: Athens
+  country: Greece
+- name: Olayan Investments Company Establishment
+  swift: OLAYGR22XXX
+  swift8: OLAYGR22
+  branch_name: Head Office
+  branch_address: 111 Poseidonos Avenue 16610 Glyfada
+  branch_code: XXX
+  city: Glyfada
+  country: Greece
+- name: Piraeus Bank Sa
+  swift: PIRBGRAAXXX
+  swift8: PIRBGRAA
+  branch_name: Head Office
+  branch_address: 4 Amerikis Street 105 64 Athens
+  branch_code: XXX
+  city: Athens
+  country: Greece
+- name: Royal Bank Of Scotland Plc
+  swift: RBOSGRAAXXX
+  swift8: RBOSGRAA
+  branch_name: Head Office
+  branch_address: 45 Akti Miaouli Street 18510 Piraeus
+  branch_code: XXX
+  city: Piraeus
+  country: Greece
+- name: T.C. Ziraat Bankasi Athens Central Branch
+  swift: TCZBGRATXXX
+  swift8: TCZBGRAT
+  branch_name: Head Office
+  branch_address: 2 Ermou 10563 Athens
+  branch_code: XXX
+  city: Athens
+  country: Greece
+- name: Unicredit Bank Ag (Hypovereinsbank) Athens
+  swift: HYVEGRAAXXX
+  swift8: HYVEGRAA
+  branch_name: Head Office
+  branch_address: 7 Heraklitou Street 10673 Athens
+  branch_code: XXX
+  city: Athens
+  country: Greece
+- name: Unicredit Bank Ag (Hypovereinsbank) Athens
+  swift: HYVEGRAATRS
+  swift8: HYVEGRAA
+  branch_name: Target2
+  branch_address: Athens
+  branch_code: TRS
+  city: Athens
+  country: Greece
+- name: Volkswagen Bank Gmbh
+  swift: VOWAGRA1XXX
+  swift8: VOWAGRA1
+  branch_name: Head Office
+  branch_address: 93 Posidonos Avenue 16674 Athens
+  branch_code: XXX
+  city: Athens
+  country: Greece
+- name: Gmac Bank Gmbh
+  swift: OPELGRA1XXX
+  swift8: OPELGRA1
+  branch_name: Head Office
+  branch_address: Polis 15125 Maroussi
+  branch_code: XXX
+  city: Maroussi
+  country: Greece
+- name: A. Sarris Securities S.a.
+  swift: SAUEGRA1XXX
+  swift8: SAUEGRA1
+  branch_name: Head Office
+  branch_address: 6, Dragatsaniou Str. 10559 Athens
+  branch_code: XXX
+  city: Athens
+  country: Greece
+- name: Abax Securities S.a.
+  swift: ABXEGRA1XXX
+  swift8: ABXEGRA1
+  branch_name: Head Office
+  branch_address: 7, P. P. Germanou Street 10561 Athens
+  branch_code: XXX
+  city: Athens
+  country: Greece
+- name: Aeolian Investment Fund S.a.
+  swift: AEIFGRA1XXX
+  swift8: AEIFGRA1
+  branch_name: Head Office
+  branch_address: 14 Filikis Eterias Square 10673 Athens
+  branch_code: XXX
+  city: Athens
+  country: Greece
+- name: Agricultural Bank Of Greece Securities S.a.
+  swift: AGGEGRA1XXX
+  swift8: AGGEGRA1
+  branch_name: Head Office
+  branch_address: 1, Fillelinon Str. 10557 Athens
+  branch_code: XXX
+  city: Athens
+  country: Greece
+- name: Alico Eurobank
+  swift: ALEEGRA1XXX
+  swift8: ALEEGRA1
+  branch_name: Head Office
+  branch_address: 8 Othonos Street Athens
+  branch_code: XXX
+  city: Athens
+  country: Greece
+- name: Alke Stockbrokers S.a.
+  swift: ALKEGRA1XXX
+  swift8: ALKEGRA1
+  branch_name: Head Office
+  branch_address: 33, Stadiou Str. 10559 Athens
+  branch_code: XXX
+  city: Athens
+  country: Greece
+- name: Alpha Finance Brokerage Investment Services S.a.
+  swift: ALPRGRA1XXX
+  swift8: ALPRGRA1
+  branch_name: Head Office
+  branch_address: 5 Merlin Street 106 71 Athens
+  branch_code: XXX
+  city: Athens
+  country: Greece
+- name: Alpha Private Investment Services
+  swift: APISGRA1XXX
+  swift8: APISGRA1
+  branch_name: Head Office
+  branch_address: 14, Pesmazoglou Str. 10564 Athens
+  branch_code: XXX
+  city: Athens
+  country: Greece
+- name: Alpha Trust Investment Services S.a
+  swift: ATIEGR21XXX
+  swift8: ATIEGR21
+  branch_name: Head Office
+  branch_address: 5-7 Xenias and Harilaou Trikoupi St 14562 Kifisia
+  branch_code: XXX
+  city: Kifisia
+  country: Greece
+- name: Artion Securities S.a.
+  swift: ARSIGRA1XXX
+  swift8: ARSIGRA1
+  branch_name: Head Office
+  branch_address: 4 Sina Street 10672 Athens
+  branch_code: XXX
+  city: Athens
+  country: Greece
+- name: Athens Derivatives Exchange S.a. (adex), The
+  swift: XADEGRA1XXX
+  swift8: XADEGRA1
+  branch_name: Head Office
+  branch_address: Lekka Street 23-25 10562 Athens
+  branch_code: XXX
+  city: Athens
+  country: Greece
+- name: Athens Stock Exchange
+  swift: XATHGRA1XXX
+  swift8: XATHGRA1
+  branch_name: Head Office
+  branch_address: Sofokleous Street 10 105 59 Athens
+  branch_code: XXX
+  city: Athens
+  country: Greece
+- name: Athexclear
+  swift: ATHCGRA1XXX
+  swift8: ATHCGRA1
+  branch_name: Head Office
+  branch_address: 110 Athinon Avenue 10442 Athens
+  branch_code: XXX
+  city: Athens
+  country: Greece
+- name: Athinaiki Securities S.a.
+  swift: ATSUGRA1XXX
+  swift8: ATSUGRA1
+  branch_name: Head Office
+  branch_address: 33, Stadiou Str. 10559 Athens
+  branch_code: XXX
+  city: Athens
+  country: Greece
+- name: Atlas Securities Sa
+  swift: ATSRGRA1XXX
+  swift8: ATSRGRA1
+  branch_name: Head Office
+  branch_address: Michalakopoulou 125 and Vervainon 1 11527 Athens
+  branch_code: XXX
+  city: Athens
+  country: Greece
+- name: Axon Securities S.a.
+  swift: AXSEGRA1XXX
+  swift8: AXSEGRA1
+  branch_name: Head Office
+  branch_address: 48, Stadiou Str. 10564 Athens
+  branch_code: XXX
+  city: Athens
+  country: Greece
+- name: Beta Chrimatistiriaki Anonymi Etairia Parochis Ependytikon Ypiresion
+  swift: BETEGRA1XXX
+  swift8: BETEGRA1
+  branch_name: Head Office
+  branch_address: 29 Alexandras Avenue 11473 Athens
+  branch_code: XXX
+  city: Athens
+  country: Greece
+- name: Bmw Austria Bank Gmbh
+  swift: BMASGRA1XXX
+  swift8: BMASGRA1
+  branch_name: Head Office
+  branch_address: Zeppou 33 16675 Athens
+  branch_code: XXX
+  city: Athens
+  country: Greece
+- name: Bnp Paribas Grece
+  swift: BNPAGRA1XXX
+  swift8: BNPAGRA1
+  branch_name: Athens Branch
+  branch_address: 94 Vasilisis Sofias Avenue and 11 528 Athens
+  branch_code: XXX
+  city: Athens
+  country: Greece
+- name: Bnp Paribas Grece
+  swift: BNPAGRAAXXX
+  swift8: BNPAGRAA
+  branch_name: Athens Branch
+  branch_address: 94 Vasilisis Sofias Avenue and 11 528 Athens
+  branch_code: XXX
+  city: Athens
+  country: Greece
+- name: Bnpparibas Private Bank-greek Branch
+  swift: BPPBGRA1XXX
+  swift8: BPPBGRA1
+  branch_name: Head Office
+  branch_address: 94 Vassilissis Sofia Avenue 10024 Athens
+  branch_code: XXX
+  city: Athens
+  country: Greece
+- name: Capital Securities S.a.
+  swift: CSEUGRA1XXX
+  swift8: CSEUGRA1
+  branch_name: Head Office
+  branch_address: 58, Mitropoleos Str. 10563 Athens
+  branch_code: XXX
+  city: Athens
+  country: Greece
+- name: Cetelem Sa Cetelem Bank
+  swift: CETEGRA1XXX
+  swift8: CETEGRA1
+  branch_name: Head Office
+  branch_address: 8 Achilleos and Labrou Katsoni Strs 18538 Kallithea
+  branch_code: XXX
+  city: Kallithea
+  country: Greece
+- name: Cfs Securities And Investment Services S.a.
+  swift: CSIEGRA1XXX
+  swift8: CSIEGRA1
+  branch_name: Head Office
+  branch_address: 3, Stadiou Str. 10562 Athens
+  branch_code: XXX
+  city: Athens
+  country: Greece
+- name: Co-operative Bank Of Drama, L.l.c.
+  swift: STDRGR21XXX
+  swift8: STDRGR21
+  branch_name: Head Office
+  branch_address: 40 L. Lambrianidi Str 66100 Drama
+  branch_code: XXX
+  city: Drama
+  country: Greece
+- name: Co-operative Bank Of Evia, L.l.c.
+  swift: STEBGRA1XXX
+  swift8: STEBGRA1
+  branch_name: Head Office
+  branch_address: 12 El Venizelos Str 34100 Chalkida
+  branch_code: XXX
+  city: Chalkida
+  country: Greece
+- name: Co-operative Bank Of Evros, L.l.c.
+  swift: STEOGR21XXX
+  swift8: STEOGR21
+  branch_name: Head Office
+  branch_address: Polis 68100 Alexandroupoli
+  branch_code: XXX
+  city: Alexandroupoli
+  country: Greece
+- name: Co-operative Bank Of Karditsa, L.l.c.
+  swift: STKAGRA1XXX
+  swift8: STKAGRA1
+  branch_name: Head Office
+  branch_address: 1 Koumoundourou Street 43100 Karditsa
+  branch_code: XXX
+  city: Karditsa
+  country: Greece
+- name: Co-operative Bank Of Lamia, L.l.c.
+  swift: STLMGRA1XXX
+  swift8: STLMGRA1
+  branch_name: Head Office
+  branch_address: 1 Athan Diakou Str 35100 Lamia
+  branch_code: XXX
+  city: Lamia
+  country: Greece
+- name: Co-operative Bank Of Pieria, L.l.c.
+  swift: STPIGR21XXX
+  swift8: STPIGR21
+  branch_name: Head Office
+  branch_address: 5 Ethnikis Antistastis Str 60100 Katerini
+  branch_code: XXX
+  city: Katerini
+  country: Greece
+- name: Co-operative Bank Of Western Macedonia
+  swift: STKZGR21XXX
+  swift8: STKZGR21
+  branch_name: Head Office
+  branch_address: 3-5 Tsontza Str 50100 Kozani
+  branch_code: XXX
+  city: Kozani
+  country: Greece
+- name: Compagnie Financiere Europeenne S.a.
+  swift: ECFIGRA1XXX
+  swift8: ECFIGRA1
+  branch_name: Head Office
+  branch_address: Athens
+  branch_code: XXX
+  city: Athens
+  country: Greece
+- name: Consignment Deposits And Loans Fund
+  swift: CDLFGRA1XXX
+  swift8: CDLFGRA1
+  branch_name: Head Office
+  branch_address: 40, Akadimias 10174 Athens
+  branch_code: XXX
+  city: Athens
+  country: Greece
+- name: Cooperative Bank Of Achaia
+  swift: STAXGRA1XXX
+  swift8: STAXGRA1
+  branch_name: Head Office
+  branch_address: 58 Michalaxopoulou Street 26221 Patra
+  branch_code: XXX
+  city: Patra
+  country: Greece
+- name: Cooperative Bank Of Chania Coop. L.l.
+  swift: STXAGRA1XXX
+  swift8: STXAGRA1
+  branch_name: Head Office
+  branch_address: 34 El. Venizelou Str. 73132 Chania
+  branch_code: XXX
+  city: Chania
+  country: Greece
+- name: Cooperative Bank Of Corinthia Coop. L.l.
+  swift: STKPGRA1XXX
+  swift8: STKPGRA1
+  branch_name: Head Office
+  branch_address: 3 Ermou Str. 20100 Korinthos
+  branch_code: XXX
+  city: Corinth
+  country: Greece
+- name: Cooperative Bank Of Dodecanese
+  swift: STDOGRA1XXX
+  swift8: STDOGRA1
+  branch_name: Head Office
+  branch_address: 51 Ethnikhs Antistaseos Str. 85100 Rhodos
+  branch_code: XXX
+  city: Kalithies Rodos
+  country: Greece
+- name: Cooperative Bank Of Epirus L.t.d.
+  swift: STIOGR21XXX
+  swift8: STIOGR21
+  branch_name: Head Office
+  branch_address: Aberof 12 45221 Ioannina
+  branch_code: XXX
+  city: Ioannina
+  country: Greece
+- name: Cooperative Bank Of Lesvos-limnos
+  swift: STMIGR21XXX
+  swift8: STMIGR21
+  branch_name: Head Office
+  branch_address: P. Kountourioti 75 81100 Mytilini
+  branch_code: XXX
+  city: Mytilini
+  country: Greece
+- name: Cooperative Bank Of Serres
+  swift: COESGR21XXX
+  swift8: COESGR21
+  branch_name: Head Office
+  branch_address: 29th June, 10 62123 Serres
+  branch_code: XXX
+  city: Serres
+  country: Greece
+- name: Cooperative Bank Of Thessalia
+  swift: STTKGR21XXX
+  swift8: STTKGR21
+  branch_name: Head Office
+  branch_address: Miaouli 3 42100 Trikala
+  branch_code: XXX
+  city: Pyli Trikalon
+  country: Greece
+- name: Cyclos Securities S.a.
+  swift: CYSEGRA1XXX
+  swift8: CYSEGRA1
+  branch_name: Head Office
+  branch_address: 39, Panepistimiou Str. 10564 Athens
+  branch_code: XXX
+  city: Athens
+  country: Greece
+- name: D.a. Tsekouras Securities S.a.
+  swift: TSSCGRA1XXX
+  swift8: TSSCGRA1
+  branch_name: Head Office
+  branch_address: 33, Stadiou Str. 10559 Athens
+  branch_code: XXX
+  city: Athens
+  country: Greece
+- name: Daimlerchrysler Bank Polska Sa
+  swift: DAPLGRA1XXX
+  swift8: DAPLGRA1
+  branch_name: Head Office
+  branch_address: 20 Thivaidos Street 14564 Athens
+  branch_code: XXX
+  city: Athens
+  country: Greece
+- name: Diethnis Chrimatistiriaki-intersec
+  swift: DICHGRA1XXX
+  swift8: DICHGRA1
+  branch_name: Head Office
+  branch_address: 80-88, Syngrou Avenue 11741 Athens
+  branch_code: XXX
+  city: Athens
+  country: Greece
+- name: Diolkos Asset Management S.a.
+  swift: DIAAGRA1XXX
+  swift8: DIAAGRA1
+  branch_name: Head Office
+  branch_address: 7, Ermou Str. 10563 Athens
+  branch_code: XXX
+  city: Athens
+  country: Greece
+- name: Drax Investment Services S.a
+  swift: DSISGRA1XXX
+  swift8: DSISGRA1
+  branch_name: Head Office
+  branch_address: 7 Kratinou Street 10551 Athens
+  branch_code: XXX
+  city: Athens
+  country: Greece
+- name: Dynamic Securities S A
+  swift: DYCUGRA1XXX
+  swift8: DYCUGRA1
+  branch_name: Head Office
+  branch_address: 6-10 Charilaou Trikoupi Street 10679 Athens
+  branch_code: XXX
+  city: Athens
+  country: Greece
+- name: Effect S.a.
+  swift: EFFTGRA1XXX
+  swift8: EFFTGRA1
+  branch_name: Head Office
+  branch_address: Patission 48 10682 Athens
+  branch_code: XXX
+  city: Athens
+  country: Greece
+- name: Efg Eurobank Asset Management Anonymi Etaireia Parochis Ependytikon Ypiresion
+  swift: EEAMGRA1XXX
+  swift8: EEAMGRA1
+  branch_name: Head Office
+  branch_address: 3 Valaoritou and 22 Voukourestiou S 10671 Athens
+  branch_code: XXX
+  city: Athens
+  country: Greece
+- name: Efg Telesis Finance S A
+  swift: EFTFGRA1XXX
+  swift8: EFTFGRA1
+  branch_name: Head Office
+  branch_address: 10 Filellinon Str 10557 Athens
+  branch_code: XXX
+  city: Athens
+  country: Greece
+- name: Egnatia Securities S.a.
+  swift: EGNTGRA1XXX
+  swift8: EGNTGRA1
+  branch_name: Head Office
+  branch_address: 8, Dragatsaniou Street 10559 Athens
+  branch_code: XXX
+  city: Athens
+  country: Greece
+- name: Elias A. Petropoulakis Securities And Investment Services S.a.
+  swift: EPSIGRA1XXX
+  swift8: EPSIGRA1
+  branch_name: Head Office
+  branch_address: 9, Aristeidou Str. 10559 Athens
+  branch_code: XXX
+  city: Athens
+  country: Greece
+- name: Emporiki Asset Management Mfmc
+  swift: EAMMGRA1XXX
+  swift8: EAMMGRA1
+  branch_name: Head Office
+  branch_address: 45 Mitropoleos Street 10556 Athens
+  branch_code: XXX
+  city: Athens
+  country: Greece
+- name: Emporiki Credicom Bank S.a.
+  swift: EMCRGRA1XXX
+  swift8: EMCRGRA1
+  branch_name: Head Office
+  branch_address: 187 Syngrou Avenue 105 59 Athens
+  branch_code: XXX
+  city: Athens
+  country: Greece
+- name: Energon Capital Finance Investment Services S.a.
+  swift: ECFNGR21XXX
+  swift8: ECFNGR21
+  branch_name: Head Office
+  branch_address: 72, 26 Oktovriou Str. 54627 Thessaloniki
+  branch_code: XXX
+  city: Thessaloniki
+  country: Greece
+- name: Epic Anonymi Etaireia Parochis Ependytikon Ypiresion
+  swift: EPISGRA1XXX
+  swift8: EPISGRA1
+  branch_name: Head Office
+  branch_address: Michalakopoulou 91 11528 Athens
+  branch_code: XXX
+  city: Athens
+  country: Greece
+- name: Erb Eurobank Securities S.a.
+  swift: EFESGRA1XXX
+  swift8: EFESGRA1
+  branch_name: Head Office
+  branch_address: 10, Filellinon Str. and 10557 Athens
+  branch_code: XXX
+  city: Athens
+  country: Greece
+- name: Ergo Securities
+  swift: ERGRGRA1XXX
+  swift8: ERGRGRA1
+  branch_name: Head Office
+  branch_address: 40-44, Praxitelous Street 10561 Athens
+  branch_code: XXX
+  city: Athens
+  country: Greece
+- name: Etaireia Diacheirisis Eidikou Kefalaiou T.a.p.-o.t.e. Anonymi Etaireia Parochis
+    Ependytikon Ypiresion
+  swift: EDETGRA1XXX
+  swift8: EDETGRA1
+  branch_name: Head Office
+  branch_address: 15 Stadiou Str 10561 Athens
+  branch_code: XXX
+  city: Athens
+  country: Greece
+- name: Eurobank Ergasias S.a.
+  swift: ERBKGRAASEC
+  swift8: ERBKGRAA
+  branch_name: Custody Foreign Institutional Investors Dept.
+  branch_address: No branch address
+  branch_code: SEC
+  city: Athens
+  country: Greece
+- name: Eurobank Ergasias S.a.
+  swift: ERBKGRAAXXX
+  swift8: ERBKGRAA
+  branch_name: No branch name
+  branch_address: No branch address
+  branch_code: XXX
+  city: Athens
+  country: Greece
+- name: Eurocorp S.a.
+  swift: EUORGRA1XXX
+  swift8: EUORGRA1
+  branch_name: Head Office
+  branch_address: 14, Filikis Eterias Square 10673 Athens
+  branch_code: XXX
+  city: Athens
+  country: Greece
+- name: Eurocorp Securities Sa
+  swift: EUEEGRA1XXX
+  swift8: EUEEGRA1
+  branch_name: Head Office
+  branch_address: 14, Filikis Eterias Square 10673 Athens
+  branch_code: XXX
+  city: Athens
+  country: Greece
+- name: European Reliance Finance S.a.
+  swift: EURNGR21XXX
+  swift8: EURNGR21
+  branch_name: Head Office
+  branch_address: 35 Filellinon 15232 Khalandri
+  branch_code: XXX
+  city: Khalandri
+  country: Greece
+- name: Eurotrust Securities S.a.
+  swift: EUECGRA1XXX
+  swift8: EUECGRA1
+  branch_name: Head Office
+  branch_address: 13-15, Sofokleous Str. 10551 Athens
+  branch_code: XXX
+  city: Athens
+  country: Greece
+- name: Euroxx Securities Sa
+  swift: EUSSGRA1XXX
+  swift8: EUSSGRA1
+  branch_name: Head Office
+  branch_address: 7 Paleologou Street 15232 Athens
+  branch_code: XXX
+  city: Athens
+  country: Greece
+- name: Falcon Finance S.a.
+  swift: FAFNGRA1XXX
+  swift8: FAFNGRA1
+  branch_name: Head Office
+  branch_address: 1a, Lykavitou Str. 10672 Athens
+  branch_code: XXX
+  city: Athens
+  country: Greece
+- name: Fidis Bank Gmbh
+  swift: FIATGRA1XXX
+  swift8: FIATGRA1
+  branch_name: Head Office
+  branch_address: 580a Vouliagmenis Avenue 16452 Athens
+  branch_code: XXX
+  city: Athens
+  country: Greece
+- name: Fortius Finance Securities
+  swift: FFISGRA1XXX
+  swift8: FFISGRA1
+  branch_name: Head Office
+  branch_address: 6 Dragatsaniou Street 10559 Athens
+  branch_code: XXX
+  city: Athens
+  country: Greece
+- name: G.a. Pervanas Securities And Investment Services Company S.a.
+  swift: PSIEGRA1XXX
+  swift8: PSIEGRA1
+  branch_name: Head Office
+  branch_address: 7-9, Sophokleous Str. 10559 Athens
+  branch_code: XXX
+  city: Athens
+  country: Greece
+- name: Gklompal Chrimatodotiseis Ependyseon Anonymi Etaireia Sa
+  swift: GLOFGRA1XXX
+  swift8: GLOFGRA1
+  branch_name: Head Office
+  branch_address: Filikis Etaireias 14 106 71 Athens
+  branch_code: XXX
+  city: Athens
+  country: Greece
+- name: Global Diacheirisi Kefalaion Anonymi Etaireia Parochis Ependytikon Ypiresion
+    Sa
+  swift: GFMAGRA1XXX
+  swift8: GFMAGRA1
+  branch_name: Head Office
+  branch_address: Plateia Filikis Etaireias 14 10673 Athens
+  branch_code: XXX
+  city: Athens
+  country: Greece
+- name: Greek Greenhouse Gas Emissions Registry
+  swift: GGGEGR21XXX
+  swift8: GGGEGR21
+  branch_name: Head Office
+  branch_address: 241 Kifisias Avenue 14561 Kifisia
+  branch_code: XXX
+  city: Kifisia
+  country: Greece
+- name: Guardian Trust Chrimatistiriaki Anonymi Etaireia Parochis Ependytikon Ypiresion
+    Sa
+  swift: GUTUGRA1XXX
+  swift8: GUTUGRA1
+  branch_name: Head Office
+  branch_address: Filellinon Str 15 10557 Athens
+  branch_code: XXX
+  city: Athens
+  country: Greece
+- name: Hellenic Post Office S A Elta
+  swift: HEPOGR21XXX
+  swift8: HEPOGR21
+  branch_name: Head Office
+  branch_address: 1 Apellou Street 16070 Athens
+  branch_code: XXX
+  city: Athens
+  country: Greece
+- name: Hellenic Securities S.a.
+  swift: HLSEGRA1XXX
+  swift8: HLSEGRA1
+  branch_name: Head Office
+  branch_address: 6, Ameriki Street 10671 Athens
+  branch_code: XXX
+  city: Athens
+  country: Greece
+- name: Hellenicamerican Securities S.a.
+  swift: HESUGRA1XXX
+  swift8: HESUGRA1
+  branch_name: Head Office
+  branch_address: 6, Evripidou Str. 10559 Athens
+  branch_code: XXX
+  city: Athens
+  country: Greece
+- name: Hermes Securities S.a..
+  swift: HERMGRA1XXX
+  swift8: HERMGRA1
+  branch_name: Head Office
+  branch_address: 9 Aristidou Street 10559 Athens
+  branch_code: XXX
+  city: Athens
+  country: Greece
+- name: Hsbc Pantelakis Securities S.a.
+  swift: MDPSGRA1XXX
+  swift8: MDPSGRA1
+  branch_name: Head Office
+  branch_address: 109-111 Messoghion Avenue 115 26 Athens
+  branch_code: XXX
+  city: Athens
+  country: Greece
+- name: Icap Group
+  swift: ICGOGRA1XXX
+  swift8: ICGOGRA1
+  branch_name: Head Office
+  branch_address: 2 El. Venizelou 17676 Athens
+  branch_code: XXX
+  city: Athens
+  country: Greece
+- name: Index Securities S.a.
+  swift: IDXEGRA1XXX
+  swift8: IDXEGRA1
+  branch_name: Head Office
+  branch_address: 6, Dragatsaniou Street 10559 Athens
+  branch_code: XXX
+  city: Athens
+  country: Greece
+- name: Interac Securities S.a.
+  swift: ITSEGRA1XXX
+  swift8: ITSEGRA1
+  branch_name: Head Office
+  branch_address: 15, Voukourestiou Street 10671 Athens
+  branch_code: XXX
+  city: Athens
+  country: Greece
+- name: Interbanking Systems S.a
+  swift: DIASGRA1XXX
+  swift8: DIASGRA1
+  branch_name: Head Office
+  branch_address: 2 Alamanas Street and Premetis 15125 Athens
+  branch_code: XXX
+  city: Athens
+  country: Greece
+- name: International Securities S.a.
+  swift: INUEGRA1XXX
+  swift8: INUEGRA1
+  branch_name: Head Office
+  branch_address: 7-9 Sophocleous Street 10559 Athens
+  branch_code: XXX
+  city: Athens
+  country: Greece
+- name: Intersec S.a.
+  swift: ITSCGRA1XXX
+  swift8: ITSCGRA1
+  branch_name: Head Office
+  branch_address: 7-9, Sophocleous Street 10559 Athens
+  branch_code: XXX
+  city: Athens
+  country: Greece
+- name: Investment Analysis Financial Services S.a.
+  swift: INLSGR21XXX
+  swift8: INLSGR21
+  branch_name: Head Office
+  branch_address: 90, 26 Oktovriou Str. Thessaloniki
+  branch_code: XXX
+  city: Thessaloniki
+  country: Greece
+- name: John Chr. Mavrikis Securities Company S.a.
+  swift: JCMSGRA1XXX
+  swift8: JCMSGRA1
+  branch_name: Head Office
+  branch_address: 5, Sophokleous Str. 10559 Athens
+  branch_code: XXX
+  city: Athens
+  country: Greece
+- name: Kappa Brokerage S.a.
+  swift: KPABGRA1XXX
+  swift8: KPABGRA1
+  branch_name: Head Office
+  branch_address: 15, Valaoritou Street 10671 Athens
+  branch_code: XXX
+  city: Athens
+  country: Greece
+- name: Karamanof Securities And Investment Services S.a.
+  swift: KASNGRA1XXX
+  swift8: KASNGRA1
+  branch_name: Head Office
+  branch_address: 2 Ag Theodoron Square 10561 Athens
+  branch_code: XXX
+  city: Athens
+  country: Greece
+- name: Kyprou Securities S.a.
+  swift: KYSEGRA1XXX
+  swift8: KYSEGRA1
+  branch_name: Head Office
+  branch_address: 170, Alexandras Avenue 11521 Athens
+  branch_code: XXX
+  city: Athens
+  country: Greece
+- name: Laiki Attalos Securities S.a.
+  swift: LAAEGRA1XXX
+  swift8: LAAEGRA1
+  branch_name: Head Office
+  branch_address: 5, Kanari Str. 10671 Athens
+  branch_code: XXX
+  city: Athens
+  country: Greece
+- name: Lambrakis Press Sa
+  swift: DOLDGRA1XXX
+  swift8: DOLDGRA1
+  branch_name: Head Office
+  branch_address: 80 Michalakopoulou Street 15238 Athens
+  branch_code: XXX
+  city: Athens
+  country: Greece
+- name: Lavrentakis Stavros Emm. Securities S.a.
+  swift: SELCGRA1XXX
+  swift8: SELCGRA1
+  branch_name: Head Office
+  branch_address: 7-9 Sophocleous Str. 10559 Athens
+  branch_code: XXX
+  city: Athens
+  country: Greece
+- name: Leon Depolas Securities S.a.
+  swift: LEDEGRA1XXX
+  swift8: LEDEGRA1
+  branch_name: Head Office
+  branch_address: 1, Christou Lada Str. 10561 Athens
+  branch_code: XXX
+  city: Athens
+  country: Greece
+- name: Magna Trust Securities S.a.
+  swift: MATCGRA1XXX
+  swift8: MATCGRA1
+  branch_name: Head Office
+  branch_address: 9 Feidiou Street 10678 Athens
+  branch_code: XXX
+  city: Athens
+  country: Greece
+- name: Market Securities S.a.
+  swift: MAUIGRA1XXX
+  swift8: MAUIGRA1
+  branch_name: Head Office
+  branch_address: 38, P. Ioakeim Str. 10675 Athens
+  branch_code: XXX
+  city: Athens
+  country: Greece
+- name: Megatrust Olympiaki Chrimatistiriaki Anonymi Etairia Parochis Ependytikon
+    Ypiresion
+  swift: MEBVGRA1XXX
+  swift8: MEBVGRA1
+  branch_name: Head Office
+  branch_address: 5 Stadiou Steet 10562 Athens
+  branch_code: XXX
+  city: Athens
+  country: Greece
+- name: Merit Anonymi Chrimatistiriaki Etaireia Parochis Ependytikon Ypiresion
+  swift: MEUEGRA1XXX
+  swift8: MEUEGRA1
+  branch_name: Head Office
+  branch_address: Vas. Konstantinou 38 10672 Athens
+  branch_code: XXX
+  city: Athens
+  country: Greece
+- name: Metochiki Securities S.a.
+  swift: MEETGRA1XXX
+  swift8: MEETGRA1
+  branch_name: Head Office
+  branch_address: 3, G. Gennadiou Str. 10678 Athens
+  branch_code: XXX
+  city: Athens
+  country: Greece
+- name: Midas Financial Securities S.a.
+  swift: MIFUGRA1XXX
+  swift8: MIFUGRA1
+  branch_name: Head Office
+  branch_address: 5, Sophokleous Str. 10559 Athens
+  branch_code: XXX
+  city: Athens
+  country: Greece
+- name: N.chryssochoidis S.b.s.a
+  swift: CHSKGRA1XXX
+  swift8: CHSKGRA1
+  branch_name: Head Office
+  branch_address: 7-9 Sophocleous Str. 10559 Athens
+  branch_code: XXX
+  city: Athens
+  country: Greece
+- name: National Investment Bank For Industrial Development S.a.
+  swift: INIDGR21XXX
+  swift8: INIDGR21
+  branch_name: Head Office
+  branch_address: 1 Komninon and Nikis Street 546 24 Thessaloniki
+  branch_code: XXX
+  city: Thessaloniki
+  country: Greece
+- name: National Securities Co S.a.
+  swift: NASOGRA1XXX
+  swift8: NASOGRA1
+  branch_name: Head Office
+  branch_address: 68 Academias Street 10551 Athens
+  branch_code: XXX
+  city: Athens
+  country: Greece
+- name: New Mellon Asset And Wealth Management Sa
+  swift: NMAWGR21XXX
+  swift8: NMAWGR21
+  branch_name: Head Office
+  branch_address: 5 Metropoleos Str 19002 Athens
+  branch_code: XXX
+  city: Athens
+  country: Greece
+- name: Nikos Komninos Securities S.a.
+  swift: NIKCGRA1XXX
+  swift8: NIKCGRA1
+  branch_name: Head Office
+  branch_address: 33, Stadiou Str. 10559 Athens
+  branch_code: XXX
+  city: Athens
+  country: Greece
+- name: Northern Greece Securities S.a.
+  swift: NOGSGRA1XXX
+  swift8: NOGSGRA1
+  branch_name: Head Office
+  branch_address: 148, Momferatou Str. 11475 Athens
+  branch_code: XXX
+  city: Athens
+  country: Greece
+- name: Northern Hellenic Investment Services S.a.
+  swift: NHISGR21XXX
+  swift8: NHISGR21
+  branch_name: Head Office
+  branch_address: 4, Ionos Dragoumi Str. 54624 Thessaloniki
+  branch_code: XXX
+  city: Thessaloniki
+  country: Greece
+- name: Nuntius Hellenic Securities S A
+  swift: NUNTGRA1XXX
+  swift8: NUNTGRA1
+  branch_name: Head Office
+  branch_address: 6 Dragatsaniou Street 10559 Athens
+  branch_code: XXX
+  city: Athens
+  country: Greece
+- name: Olympia Securities S.a.
+  swift: OLSCGRA1XXX
+  swift8: OLSCGRA1
+  branch_name: Head Office
+  branch_address: 1, Emm. Benaki Str. and Stadiou Str 10564 Athens
+  branch_code: XXX
+  city: Athens
+  country: Greece
+- name: P K Securities Ae
+  swift: PKSEGRA1XXX
+  swift8: PKSEGRA1
+  branch_name: Head Office
+  branch_address: Koubari Street 5 10674 Athens
+  branch_code: XXX
+  city: Athens
+  country: Greece
+- name: Pan. Vl. Tzemos Securities Company S.a.
+  swift: PTECGRA1XXX
+  swift8: PTECGRA1
+  branch_name: Head Office
+  branch_address: 5, Sophokleous Str. Str. 10559 Athens
+  branch_code: XXX
+  city: Athens
+  country: Greece
+- name: Pancretan Cooperative Bank Ltd
+  swift: STPGGRA1XXX
+  swift8: STPGGRA1
+  branch_name: Head Office
+  branch_address: Ikarou Ave. and Efesou 71110 Heraklion
+  branch_code: XXX
+  city: Heraklion
+  country: Greece
+- name: Pandk S.a.
+  swift: PADDGRA1XXX
+  swift8: PADDGRA1
+  branch_name: Head Office
+  branch_address: 91, Michalakopoulou Str. 11528 Athens
+  branch_code: XXX
+  city: Athens
+  country: Greece
+- name: Pandk Securities S.a.
+  swift: PAECGRA1XXX
+  swift8: PAECGRA1
+  branch_name: Head Office
+  branch_address: 91, Michalakopoulou Str. 11528 Athens
+  branch_code: XXX
+  city: Athens
+  country: Greece
+- name: Pegasus Securities S.a.
+  swift: PESUGRA1XXX
+  swift8: PESUGRA1
+  branch_name: Head Office
+  branch_address: 17, Valaoritou Str. and Amerikis 10671 Athens
+  branch_code: XXX
+  city: Athens
+  country: Greece
+- name: Pentedekas Securities Sa
+  swift: PESRGRA1XXX
+  swift8: PESRGRA1
+  branch_name: Head Office
+  branch_address: Klisovis 8 10677 Athens
+  branch_code: XXX
+  city: Athens
+  country: Greece
+- name: Pinnacle Financial
+  swift: PFEAGRA1XXX
+  swift8: PFEAGRA1
+  branch_name: Head Office
+  branch_address: 23 Ithakis Street 15233 Athens
+  branch_code: XXX
+  city: Athens
+  country: Greece
+- name: Piraeus Securities S.a.
+  swift: SIGSGRA1XXX
+  swift8: SIGSGRA1
+  branch_name: Head Office
+  branch_address: 10 Stadiou Street 10564 Athens
+  branch_code: XXX
+  city: Athens
+  country: Greece
+- name: Praxis International Securities And Investment Services S.a.
+  swift: PISNGRA1XXX
+  swift8: PISNGRA1
+  branch_name: Head Office
+  branch_address: 4, Karageorgi Servias Str. 10562 Athens
+  branch_code: XXX
+  city: Athens
+  country: Greece
+- name: Prelium Securities And Investment Services S.a.
+  swift: PSISGRA1XXX
+  swift8: PSISGRA1
+  branch_name: Head Office
+  branch_address: 1 Davaki Str and Kifisias Ave 10680 Athens
+  branch_code: XXX
+  city: Athens
+  country: Greece
+- name: Samsung Electronics Greece S
+  swift: SECTGR214N2
+  swift8: SECTGR21
+  branch_name: Chalandri
+  branch_address: Kifissias Ave 280 Chalandri
+  branch_code: 4N2
+  city: Chalandri
+  country: Greece
+- name: Samsung Electronics Greece S
+  swift: SECTGR21XXX
+  swift8: SECTGR21
+  branch_name: Head Office
+  branch_address: Kifissias Ave 280 15232 Chalandri Athens
+  branch_code: XXX
+  city: Chalandri Athens
+  country: Greece
+- name: Sarros Securities Sa
+  swift: SARRGRA1XXX
+  swift8: SARRGRA1
+  branch_name: Head Office
+  branch_address: 2, Sofokleous Street 10559 Athens
+  branch_code: XXX
+  city: Athens
+  country: Greece
+- name: Social Insurance Institute Unified Insurance Fund For Employees
+  swift: SIIUGRA1XXX
+  swift8: SIIUGRA1
+  branch_name: Head Office
+  branch_address: 8 Agiou Konstantinou Street 10241 Athens
+  branch_code: XXX
+  city: Athens
+  country: Greece
+- name: Societe Generale Bank And Trust (hellas
+  swift: SGBTGRA1XXX
+  swift8: SGBTGRA1
+  branch_name: Head Office
+  branch_address: 280 Kifissias Ave Halandri 15232 Athens
+  branch_code: XXX
+  city: Athens
+  country: Greece
+- name: Societe Generale Greece
+  swift: SGGRGRA1XXX
+  swift8: SGGRGRA1
+  branch_name: Head Office
+  branch_address: 280 Kifissias Avenue 15232 Athens
+  branch_code: XXX
+  city: Athens
+  country: Greece
+- name: Solidus Securities Anonymos Chrimatistiriaki Etaireia Parochis Ependytikon
+    Ypiresion
+  swift: SOSXGRA1XXX
+  swift8: SOSXGRA1
+  branch_name: Head Office
+  branch_address: Apollon Tower 11523 Athens
+  branch_code: XXX
+  city: Athens
+  country: Greece
+- name: Telesis Securities Sa
+  swift: TESCGRA1XXX
+  swift8: TESCGRA1
+  branch_name: Head Office
+  branch_address: 11 Voukourestion Street 10671 Athens
+  branch_code: XXX
+  city: Athens
+  country: Greece
+- name: Themist. Sot. Sotiriadis Chrimatistiriaki Anonymos Etaireia
+  swift: THSTGRA1XXX
+  swift8: THSTGRA1
+  branch_name: Head Office
+  branch_address: Valaoritou 7 10671 Athens
+  branch_code: XXX
+  city: Athens
+  country: Greece
+- name: Union De Creditos Inmobiliarios S.a. Establecimiento Financiero De Credito
+  swift: UCISGRA1XXX
+  swift8: UCISGRA1
+  branch_name: Head Office
+  branch_address: 5 Aggelou Piri and Evinou Street 11527 Athens
+  branch_code: XXX
+  city: Athens
+  country: Greece
+- name: Zacharias G. Portalakis S.a. Brokerage Firm
+  swift: ZPBFGRA1XXX
+  swift8: ZPBFGRA1
+  branch_name: Head Office
+  branch_address: 8, Pesmazoglou Str. 10559 Athens
+  branch_code: XXX
+  city: Athens
+  country: Greece
+- name: Zeus Securities S.a.
+  swift: ZESEGRA1XXX
+  swift8: ZESEGRA1
+  branch_name: Head Office
+  branch_address: 5, Tzortz Str. 10682 Athens
+  branch_code: XXX
+  city: Athens
+  country: Greece

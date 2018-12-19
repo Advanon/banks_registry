@@ -1,0 +1,570 @@
+---
+DZ:
+- name: Al Salam Bank Algeria
+  swift: SALGDZALXXX
+  swift8: SALGDZAL
+  branch_name: Head Office
+  branch_address: Algerian Business Center 16000 Algiers
+  branch_code: XXX
+  city: Algiers
+  country: Algeria
+- name: Algeria Gulf Bank
+  swift: AGUBDZALXXX
+  swift8: AGUBDZAL
+  branch_name: Head Office
+  branch_address: Haouch Kaouch 112233 Algiers
+  branch_code: XXX
+  city: Algiers
+  country: Algeria
+- name: Arab Bank Plc Algeria
+  swift: ARABDZALXXX
+  swift8: ARABDZAL
+  branch_name: Head Office
+  branch_address: 23, Place El Qods Algiers
+  branch_code: XXX
+  city: Algiers
+  country: Algeria
+- name: Arab Banking Corporation-algeria
+  swift: ABCODZALXXX
+  swift8: ABCODZAL
+  branch_name: Head Office
+  branch_address: 54 Avenue Des Trois Freres Bouadou 16030 Algiers
+  branch_code: XXX
+  city: Algiers
+  country: Algeria
+- name: Bank Of Algeria
+  swift: BALGDZA1028
+  swift8: BALGDZA1
+  branch_name: Oran
+  branch_address: Oran
+  branch_code: '028'
+  city: Oran
+  country: Algeria
+- name: Bank Of Algeria
+  swift: BALGDZA102J
+  swift8: BALGDZA1
+  branch_name: Ouargla
+  branch_address: Ouargla
+  branch_code: 02J
+  city: Ouargla
+  country: Algeria
+- name: Bank Of Algeria
+  swift: BALGDZALSBE
+  swift8: BALGDZAL
+  branch_name: Services Bancaires Etrangers
+  branch_address: 7 Boulevard Ernesto Che Guevara 16000 Algiers
+  branch_code: SBE
+  city: Algiers
+  country: Algeria
+- name: Bank Of Algeria
+  swift: BALGDZALXXX
+  swift8: BALGDZAL
+  branch_name: Head Office
+  branch_address: 7 Boulevard Ernesto Che Guevara 16000 Algiers
+  branch_code: XXX
+  city: Algiers
+  country: Algeria
+- name: Bank Of Algeria
+  swift: BALGDZAPXXX
+  swift8: BALGDZAP
+  branch_name: Head Office
+  branch_address: 8 Boulevard Zighoud Youcef 16000 Algiers
+  branch_code: XXX
+  city: Algiers
+  country: Algeria
+- name: Banque Al-baraka D'algerie
+  swift: BRKADZALXXX
+  swift8: BRKADZAL
+  branch_name: Head Office
+  branch_address: Rocade Sud-Benaknoun 16035 Algiers
+  branch_code: XXX
+  city: Algiers
+  country: Algeria
+- name: Banque Algerienne De Developpement
+  swift: FNIZDZALXXX
+  swift8: FNIZDZAL
+  branch_name: Head Office
+  branch_address: Lotissement Mond Froid 16000 Algiers
+  branch_code: XXX
+  city: Algiers
+  country: Algeria
+- name: Banque Algerienne De Developpement
+  swift: BADZDZALXXX
+  swift8: BADZDZAL
+  branch_name: Head Office
+  branch_address: Lotissement Mond Froid 16000 Algiers
+  branch_code: XXX
+  city: Algiers
+  country: Algeria
+- name: Banque De Developpement Local
+  swift: BDLODZALXXX
+  swift8: BDLODZAL
+  branch_name: Head Office
+  branch_address: 38 Rue Des Trois Freres Bouadou 16300 Algiers
+  branch_code: XXX
+  city: Algiers
+  country: Algeria
+- name: Banque De L'agriculture Et De Developpement Rural
+  swift: BADRDZALXXX
+  swift8: BADRDZAL
+  branch_name: Head Office
+  branch_address: 1 Rue Mustapha Bouhired Algiers
+  branch_code: XXX
+  city: Algiers
+  country: Algeria
+- name: Banque Du Maghreb Arabe Pour L'investissement Et Le Commerce
+  swift: BMICDZALXXX
+  swift8: BMICDZAL
+  branch_name: Head Office
+  branch_address: Park Dhydra 16035 Algiers
+  branch_code: XXX
+  city: Algiers
+  country: Algeria
+- name: Banque Exterieure D'algerie
+  swift: BEXADZAL001
+  swift8: BEXADZAL
+  branch_name: Agence Caroubier Naftal
+  branch_address: 23 Route De Laln Caroubier Algiers
+  branch_code: '001'
+  city: Algiers
+  country: Algeria
+- name: Banque Exterieure D'algerie
+  swift: BEXADZAL002
+  swift8: BEXADZAL
+  branch_name: Agence Riad El Feth
+  branch_address: Centre Des Arts Nr108 El Madania Algiers
+  branch_code: '002'
+  city: Algiers
+  country: Algeria
+- name: Banque Exterieure D'algerie
+  swift: BEXADZAL004
+  swift8: BEXADZAL
+  branch_name: Agence Cheraga Ville
+  branch_address: Lot Ben-Haddadi Cheraga 16000 Algiers
+  branch_code: '004'
+  city: Algiers
+  country: Algeria
+- name: Banque Exterieure D'algerie
+  swift: BEXADZAL005
+  swift8: BEXADZAL
+  branch_name: Agence Hydra Site Sonatrach
+  branch_address: Djenane El Malik Hydra Algiers
+  branch_code: '005'
+  city: Algiers
+  country: Algeria
+- name: Banque Exterieure D'algerie
+  swift: BEXADZAL006
+  swift8: BEXADZAL
+  branch_name: Agence Rouiba
+  branch_address: 2 Bis Rue Hassiba Ben Bouali Boumerdes
+  branch_code: '006'
+  city: Boumerdes
+  country: Algeria
+- name: Banque Exterieure D'algerie
+  swift: BEXADZAL008
+  swift8: BEXADZAL
+  branch_name: Agence Cheraga Naftal
+  branch_address: Route Des Dunes Cheraga Algiers
+  branch_code: '008'
+  city: Algiers
+  country: Algeria
+- name: Banque Exterieure D'algerie
+  swift: BEXADZAL010
+  swift8: BEXADZAL
+  branch_name: Agence Guevara
+  branch_address: 6 Boulevard Che Guevara Algiers
+  branch_code: '010'
+  city: Algiers
+  country: Algeria
+- name: Banque Exterieure D'algerie
+  swift: BEXADZAL012
+  swift8: BEXADZAL
+  branch_name: Agence Amirouche
+  branch_address: 11 Bld Colonel Amirouche Algiers
+  branch_code: '012'
+  city: Algiers
+  country: Algeria
+- name: Banque Exterieure D'algerie
+  swift: BEXADZAL013
+  swift8: BEXADZAL
+  branch_name: Agence Khemis Miliana
+  branch_address: Rue Djilti Mustapha Algiers
+  branch_code: '013'
+  city: Algiers
+  country: Algeria
+- name: Banque Exterieure D'algerie
+  swift: BEXADZAL015
+  swift8: BEXADZAL
+  branch_name: Agence Ben Mhidi
+  branch_address: 49 Rue Larbi Ben Mhidi Algiers
+  branch_code: '015'
+  city: Algiers
+  country: Algeria
+- name: Banque Exterieure D'algerie
+  swift: BEXADZAL016
+  swift8: BEXADZAL
+  branch_name: Agence Palis Des Expositions
+  branch_address: Les Pins Maritimes Algiers
+  branch_code: '016'
+  city: Algiers
+  country: Algeria
+- name: Banque Exterieure D'algerie
+  swift: BEXADZAL017
+  swift8: BEXADZAL
+  branch_name: Agence Des Accredites
+  branch_address: 2 Boulevard Mohamed V Alger Algiers
+  branch_code: '017'
+  city: Algiers
+  country: Algeria
+- name: Banque Exterieure D'algerie
+  swift: BEXADZAL018
+  swift8: BEXADZAL
+  branch_name: Agence Hamani
+  branch_address: 1 Rue Hamani Algiers
+  branch_code: '018'
+  city: Algiers
+  country: Algeria
+- name: Banque Exterieure D'algerie
+  swift: BEXADZAL020
+  swift8: BEXADZAL
+  branch_name: Agence Belcourt
+  branch_address: 122 Rue Belouizdad Algiers
+  branch_code: '020'
+  city: Algiers
+  country: Algeria
+- name: Banque Exterieure D'algerie
+  swift: BEXADZAL022
+  swift8: BEXADZAL
+  branch_name: Agence Hussein Dey
+  branch_address: 33 Avenue De Tripoli Hussein Dey Algiers
+  branch_code: '022'
+  city: Algiers
+  country: Algeria
+- name: Banque Exterieure D'algerie
+  swift: BEXADZAL024
+  swift8: BEXADZAL
+  branch_name: Agence Blida
+  branch_address: 10 Bld Layachi Abdellah Blida
+  branch_code: '024'
+  city: Blida
+  country: Algeria
+- name: Banque Exterieure D'algerie
+  swift: BEXADZAL025
+  swift8: BEXADZAL
+  branch_name: Agence Beni Mered
+  branch_address: Base Centrale Logistique Blida
+  branch_code: '025'
+  city: Blida
+  country: Algeria
+- name: Banque Exterieure D'algerie
+  swift: BEXADZAL026
+  swift8: BEXADZAL
+  branch_name: Agence Medea
+  branch_address: Avenue Ahmed Farah Medea
+  branch_code: '026'
+  city: Medea
+  country: Algeria
+- name: Banque Exterieure D'algerie
+  swift: BEXADZAL027
+  swift8: BEXADZAL
+  branch_name: Agence Mouzaia
+  branch_address: Avenue Du 1 Novembre 54 Blida
+  branch_code: '027'
+  city: Blida
+  country: Algeria
+- name: Banque Exterieure D'algerie
+  swift: BEXADZAL028
+  swift8: BEXADZAL
+  branch_name: Agence Ghardaia
+  branch_address: Avenue Du 1 Novembre 54 Ghardaia
+  branch_code: '028'
+  city: Ghardaia
+  country: Algeria
+- name: Banque Nationale D'algerie
+  swift: BNALDZAL260
+  swift8: BNALDZAL
+  branch_name: Chlef
+  branch_address: Rue Ibn Badis Chlef
+  branch_code: '260'
+  city: Chlef
+  country: Algeria
+- name: Banque Nationale D'algerie
+  swift: BNALDZAL291
+  swift8: BNALDZAL
+  branch_name: Ghardaia
+  branch_address: 1 Place Med Khemisti Ghardaia
+  branch_code: '291'
+  city: Ghardaia
+  country: Algeria
+- name: Banque Nationale D'algerie
+  swift: BNALDZAL301
+  swift8: BNALDZAL
+  branch_name: 03000 Laghouat
+  branch_address: Rue Bensahnoun El Maamoura 03000 Laghouat
+  branch_code: '301'
+  city: Laghouat
+  country: Algeria
+- name: Banque Nationale D'algerie
+  swift: BNALDZAL356
+  swift8: BNALDZAL
+  branch_name: Bejaia
+  branch_address: Cite Tobal Bejaia
+  branch_code: '356'
+  city: Bejaia
+  country: Algeria
+- name: Banque Nationale D'algerie
+  swift: BNALDZAL386
+  swift8: BNALDZAL
+  branch_name: Biskra
+  branch_address: 27 Rue De La Republique Biskra
+  branch_code: '386'
+  city: Biskra
+  country: Algeria
+- name: Banque Nationale D'algerie
+  swift: BNALDZAL412
+  swift8: BNALDZAL
+  branch_name: Bechar
+  branch_address: Avenue Colonel Lotfi Bechar
+  branch_code: '412'
+  city: Bechar
+  country: Algeria
+- name: Banque Nationale D'algerie
+  swift: BNALDZAL430
+  swift8: BNALDZAL
+  branch_name: Boufarik
+  branch_address: 13 Avenue Souidani Boudjemaa Boufarik
+  branch_code: '430'
+  city: Boufarik
+  country: Algeria
+- name: Banque Nationale D'algerie
+  swift: BNALDZAL440
+  swift8: BNALDZAL
+  branch_name: Staoueli
+  branch_address: Rue Mellel, Staoueli Algiers
+  branch_code: '440'
+  city: Algiers
+  country: Algeria
+- name: Banque Nationale D'algerie
+  swift: BNALDZAL441
+  swift8: BNALDZAL
+  branch_name: Kolea
+  branch_address: 16 Rue Souidani Boudjemaa Kolea
+  branch_code: '441'
+  city: Kolea
+  country: Algeria
+- name: Banque Nationale D'algerie
+  swift: BNALDZAL442
+  swift8: BNALDZAL
+  branch_name: Blida
+  branch_address: Bld Takarli Abderrezak Blida
+  branch_code: '442'
+  city: Blida
+  country: Algeria
+- name: Banque Nationale D'algerie
+  swift: BNALDZAL460
+  swift8: BNALDZAL
+  branch_name: Bouira
+  branch_address: Rue Guettaf Seddik Bouira
+  branch_code: '460'
+  city: Bouira
+  country: Algeria
+- name: Banque Nationale D'algerie
+  swift: BNALDZAL473
+  swift8: BNALDZAL
+  branch_name: Tamanrasset
+  branch_address: Centre Commercial Tamanrasset
+  branch_code: '473'
+  city: Tamanrasset
+  country: Algeria
+- name: Banque Nationale D'algerie
+  swift: BNALDZAL491
+  swift8: BNALDZAL
+  branch_name: Tebessa
+  branch_address: Bld Mahmoud Cherif Tebessa
+  branch_code: '491'
+  city: Tebessa
+  country: Algeria
+- name: Banque Nationale D'algerie
+  swift: BNALDZAL512
+  swift8: BNALDZAL
+  branch_name: Tlemcen
+  branch_address: 30 Place Khemisti Tlemcen
+  branch_code: '512'
+  city: Tlemcen
+  country: Algeria
+- name: Banque Nationale D'algerie
+  swift: BNALDZAL526
+  swift8: BNALDZAL
+  branch_name: Abou Tachfine
+  branch_address: Z.I. Sur Site Tlemcen
+  branch_code: '526'
+  city: Tlemcen
+  country: Algeria
+- name: Banque Nationale D'algerie
+  swift: BNALDZAL527
+  swift8: BNALDZAL
+  branch_name: Tlemcen Branch
+  branch_address: 29 Place Khemisti 13000 Tlemcen
+  branch_code: '527'
+  city: Tlemcen
+  country: Algeria
+- name: Banque Nationale D'algerie
+  swift: BNALDZAL540
+  swift8: BNALDZAL
+  branch_name: Tiaret
+  branch_address: 17 Bld De La Victoire Tiaret
+  branch_code: '540'
+  city: Tiaret
+  country: Algeria
+- name: Banque Nationale D'algerie
+  swift: BNALDZAL581
+  swift8: BNALDZAL
+  branch_name: Tizi-Ouzou 581
+  branch_address: Avenue Abane Ramdane Tizi-Ouzou
+  branch_code: '581'
+  city: Tizi-Ouzou
+  country: Algeria
+- name: Banque Nationale D'algerie
+  swift: BNALDZAL583
+  swift8: BNALDZAL
+  branch_name: Tizi-Ouzou 583
+  branch_address: Cite 2000 Logements Tizi-Ouzou
+  branch_code: '583'
+  city: Tizi-Ouzou
+  country: Algeria
+- name: Banque Nationale D'algerie
+  swift: BNALDZAL599
+  swift8: BNALDZAL
+  branch_name: Guevara
+  branch_address: 8 Bld Ernesto Che Guevara Algiers
+  branch_code: '599'
+  city: Algiers
+  country: Algeria
+- name: Bnp Paribas El Djazair
+  swift: BNPADZALXXX
+  swift8: BNPADZAL
+  branch_name: Head Office
+  branch_address: 8 Rue De Cirta 16035 Algiers
+  branch_code: XXX
+  city: Algiers
+  country: Algeria
+- name: Caisse Algerienne D'assurance Et De Reassurance
+  swift: AASRDZA1XXX
+  swift8: AASRDZA1
+  branch_name: Head Office
+  branch_address: 48 Rue Dicouche Mourrad Algiers
+  branch_code: XXX
+  city: Algiers
+  country: Algeria
+- name: Caisse Nationale D'epargne Et De Prevoyance-banque
+  swift: EPPRDZALXXX
+  swift8: EPPRDZAL
+  branch_name: Head Office
+  branch_address: 42 Rue Khelifa Boukhalfa 16000 Algiers
+  branch_code: XXX
+  city: Algiers
+  country: Algeria
+- name: Citibank N.a. Algeria
+  swift: CITIDZALTRD
+  swift8: CITIDZAL
+  branch_name: Trade Services Dept
+  branch_address: Hotel El-Aurassi Algiers
+  branch_code: TRD
+  city: Algiers
+  country: Algeria
+- name: Citibank N.a. Algeria
+  swift: CITIDZALXXX
+  swift8: CITIDZAL
+  branch_name: Head Office
+  branch_address: Hotel El-Aurassi Algiers
+  branch_code: XXX
+  city: Algiers
+  country: Algeria
+- name: Credit Agricole Corporate And Investment Bank Algerie, Spa
+  swift: BSUIDZALXXX
+  swift8: BSUIDZAL
+  branch_name: Head Office
+  branch_address: Immeuble Abc 16000 Algiers
+  branch_code: XXX
+  city: Algiers
+  country: Algeria
+- name: Credit Populaire D'algerie
+  swift: CPALDZALXXX
+  swift8: CPALDZAL
+  branch_name: Head Office
+  branch_address: 5 Rue Maitre Ali Boumendjel 16000 Algiers
+  branch_code: XXX
+  city: Algiers
+  country: Algeria
+- name: Epic Algerie Poste
+  swift: EPALDZALXXX
+  swift8: EPALDZAL
+  branch_name: Head Office
+  branch_address: Algerie Poste Algiers
+  branch_code: XXX
+  city: Algiers
+  country: Algeria
+- name: Fransabank El Djazair Spa
+  swift: FSBKDZALXXX
+  swift8: FSBKDZAL
+  branch_name: Head Office
+  branch_address: Fransabank El Djazair Spa Bldg 16000 Algiers
+  branch_code: XXX
+  city: Algiers
+  country: Algeria
+- name: Housing Bank For Trade And Finance Algeria
+  swift: HBHODZALXXX
+  swift8: HBHODZAL
+  branch_name: Head Office
+  branch_address: Housing Bank for Trade and Finance 16320 Algiers
+  branch_code: XXX
+  city: Algiers
+  country: Algeria
+- name: Hsbc Algeria
+  swift: HSBCDZALXXX
+  swift8: HSBCDZAL
+  branch_name: Head Office
+  branch_address: Algeria Business Centre 16212 Algiers
+  branch_code: XXX
+  city: Algiers
+  country: Algeria
+- name: Natixis Algerie
+  swift: NATXDZALXXX
+  swift8: NATXDZAL
+  branch_name: Head Office
+  branch_address: 62, Chemin Ahmed Drareni Hydra Algiers
+  branch_code: XXX
+  city: Algiers
+  country: Algeria
+- name: Natixis Algerie
+  swift: BFCEDZALXXX
+  swift8: BFCEDZAL
+  branch_name: Head Office
+  branch_address: 62, Chemin Ahmed Drareni Hydra Algiers
+  branch_code: XXX
+  city: Algiers
+  country: Algeria
+- name: Societe Generale Algerie
+  swift: SOGEDZALXXX
+  swift8: SOGEDZAL
+  branch_name: Head Office
+  branch_address: 75 Chemin Ibrahimi El Biar Algiers
+  branch_code: XXX
+  city: Algiers
+  country: Algeria
+- name: Trust Bank Algeria
+  swift: TBALDZALXXX
+  swift8: TBALDZAL
+  branch_name: Head Office
+  branch_address: Trust Bank Algeria 16035 Algiers
+  branch_code: XXX
+  city: Algiers
+  country: Algeria
+- name: Union Bank
+  swift: UBDZDZA1XXX
+  swift8: UBDZDZA1
+  branch_name: Head Office
+  branch_address: Hydra Algiers
+  branch_code: XXX
+  city: Algiers
+  country: Algeria

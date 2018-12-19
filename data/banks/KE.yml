@@ -1,0 +1,1106 @@
+---
+KE:
+- name: Bank Of India
+  swift: BKIDKEM10NA
+  swift8: BKIDKEM1
+  branch_name: Nairobi
+  branch_address: Kenyatta Avenue Nairobi
+  branch_code: 0NA
+  city: Nairobi
+  country: Kenya
+- name: Bank Of India
+  swift: BKIDKEM1XXX
+  swift8: BKIDKEM1
+  branch_name: Head Office
+  branch_address: Nkrumah Road Mombasa
+  branch_code: XXX
+  city: Mombasa
+  country: Kenya
+- name: Bank Of India
+  swift: BKIDKENAIAB
+  swift8: BKIDKENA
+  branch_name: Industrial Area Br
+  branch_address: Ideal Corner 18415-4 Nairobi
+  branch_code: IAB
+  city: Nairobi
+  country: Kenya
+- name: Bank Of India
+  swift: BKIDKENAMSA
+  swift8: BKIDKENA
+  branch_name: Mombasa Br
+  branch_address: Bank of India Building 90684 Mombasa
+  branch_code: MSA
+  city: Mombasa
+  country: Kenya
+- name: Bank Of India
+  swift: BKIDKENAWST
+  swift8: BKIDKENA
+  branch_name: Westlands Br
+  branch_address: Progressive Park Towers Nairobi
+  branch_code: WST
+  city: Nairobi
+  country: Kenya
+- name: Bank Of India
+  swift: BKIDKENAXXX
+  swift8: BKIDKENA
+  branch_name: Head Office
+  branch_address: Nairobi
+  branch_code: XXX
+  city: Nairobi
+  country: Kenya
+- name: Habib Bank Ag Zurich
+  swift: HBZUKEN1MSA
+  swift8: HBZUKEN1
+  branch_name: 82202 Mombasa
+  branch_address: Unity House 82202 Mombasa
+  branch_code: MSA
+  city: Mombasa
+  country: Kenya
+- name: Habib Bank Ag Zurich
+  swift: HBZUKENAXXX
+  swift8: HBZUKENA
+  branch_name: Head Office
+  branch_address: Nagina House Nairobi
+  branch_code: XXX
+  city: Nairobi
+  country: Kenya
+- name: Habib Bank Limited
+  swift: HABBKENXXXX
+  swift8: HABBKENX
+  branch_name: Head Office
+  branch_address: Exchange Bldg Nairobi
+  branch_code: XXX
+  city: Nairobi
+  country: Kenya
+- name: African Development Bank
+  swift: AFDBKEN1XXX
+  swift8: AFDBKEN1
+  branch_name: Head Office
+  branch_address: Harambee Avenue Nairobi
+  branch_code: XXX
+  city: Nairobi
+  country: Kenya
+- name: African Banking Corporation Ltd
+  swift: ABCLKENAXXX
+  swift8: ABCLKENA
+  branch_name: Head Office
+  branch_address: Koinange Street Nairobi
+  branch_code: XXX
+  city: Nairobi
+  country: Kenya
+- name: Afrika Investment Bank Ltd
+  swift: ASHSKEN1XXX
+  swift8: ASHSKEN1
+  branch_name: Head Office
+  branch_address: Finance House Nairobi
+  branch_code: XXX
+  city: Nairobi
+  country: Kenya
+- name: Bank Of Africa Kenya Ltd
+  swift: AFRIKENX002
+  swift8: AFRIKENX
+  branch_name: Mombasa Branch
+  branch_address: Mombasa
+  branch_code: '002'
+  city: Mombasa
+  country: Kenya
+- name: Bank Of Africa Kenya Ltd
+  swift: AFRIKENXXXX
+  swift8: AFRIKENX
+  branch_name: Head Office
+  branch_address: Reinsurance Plaza 00400 Nairobi
+  branch_code: XXX
+  city: Nairobi
+  country: Kenya
+- name: Bank Of Baroda (kenya) Ltd
+  swift: BARBKENAIND
+  swift8: BARBKENA
+  branch_name: Industrial Area Br
+  branch_address: Industrial Area, Enterprise Road, Nairobi
+  branch_code: IND
+  city: Nairobi
+  country: Kenya
+- name: Bank Of Baroda (kenya) Ltd
+  swift: BARBKENAKAK
+  swift8: BARBKENA
+  branch_name: Kakamega Branch
+  branch_address: Kenyatta Avenue Kakamega
+  branch_code: KAK
+  city: Kakamega
+  country: Kenya
+- name: Bank Of Baroda (kenya) Ltd
+  swift: BARBKENAKIS
+  swift8: BARBKENA
+  branch_name: Kisumu Branch
+  branch_address: Central Square, P O Box 996 Kisumu
+  branch_code: KIS
+  city: Kisumu
+  country: Kenya
+- name: Bank Of Baroda (kenya) Ltd
+  swift: BARBKENAMOM
+  swift8: BARBKENA
+  branch_name: Digo Road, Mombasa
+  branch_address: P.O.Box 90260-80100 Mombasa
+  branch_code: MOM
+  city: Mombasa
+  country: Kenya
+- name: Bank Of Baroda (kenya) Ltd
+  swift: BARBKENANMO
+  swift8: BARBKENA
+  branch_name: Nairobi Main
+  branch_address: 29, Koinange Street Nairobi
+  branch_code: NMO
+  city: Nairobi
+  country: Kenya
+- name: Bank Of Baroda (kenya) Ltd
+  swift: BARBKENANYA
+  swift8: BARBKENA
+  branch_name: Nyali Branch, Mombasa, Kenya
+  branch_address: P.O.Box No 95450-80106 Texas Towers Mombasa
+  branch_code: NYA
+  city: Mombasa
+  country: Kenya
+- name: Bank Of Baroda (kenya) Ltd
+  swift: BARBKENASAR
+  swift8: BARBKENA
+  branch_name: Sarit Centre
+  branch_address: Sarit Centre, Lower Ground Flr Nairobi
+  branch_code: SAR
+  city: Nairobi
+  country: Kenya
+- name: Bank Of Baroda (kenya) Ltd
+  swift: BARBKENAXXX
+  swift8: BARBKENA
+  branch_name: Head Office
+  branch_address: Tom Mboya Street Nairobi
+  branch_code: XXX
+  city: Nairobi
+  country: Kenya
+- name: Barclays Bank Of Kenya, Ltd.
+  swift: BARCKENXDLR
+  swift8: BARCKENX
+  branch_name: Dealers Department Ho
+  branch_address: Barclays Plaza Building Nairobi
+  branch_code: DLR
+  city: Nairobi
+  country: Kenya
+- name: Barclays Bank Of Kenya, Ltd.
+  swift: BARCKENXELD
+  swift8: BARCKENX
+  branch_name: Eldoret Branch
+  branch_address: Eldoret
+  branch_code: ELD
+  city: Eldoret
+  country: Kenya
+- name: Barclays Bank Of Kenya, Ltd.
+  swift: BARCKENXMDR
+  swift8: BARCKENX
+  branch_name: Digo Road Mombasa
+  branch_address: Mombasa
+  branch_code: MDR
+  city: Mombasa
+  country: Kenya
+- name: Barclays Bank Of Kenya, Ltd.
+  swift: BARCKENXMNR
+  swift8: BARCKENX
+  branch_name: Nkrumah Road Branch
+  branch_address: Nkrumah Road 80100 Mombasa
+  branch_code: MNR
+  city: Mombasa
+  country: Kenya
+- name: Barclays Bank Of Kenya, Ltd.
+  swift: BARCKENXNCC
+  swift8: BARCKENX
+  branch_name: Card Centre Nairobi
+  branch_address: Nairobi
+  branch_code: NCC
+  city: Nairobi
+  country: Kenya
+- name: Barclays Bank Of Kenya, Ltd.
+  swift: BARCKENXNDC
+  swift8: BARCKENX
+  branch_name: Nairobi Distribution Centre
+  branch_address: Mombasa Road Nairobi
+  branch_code: NDC
+  city: Nairobi
+  country: Kenya
+- name: Barclays Bank Of Kenya, Ltd.
+  swift: BARCKENXNPB
+  swift8: BARCKENX
+  branch_name: Plaza Business Centre
+  branch_address: Nairobi
+  branch_code: NPB
+  city: Nairobi
+  country: Kenya
+- name: Barclays Bank Of Kenya, Ltd.
+  swift: BARCKENXOCB
+  swift8: BARCKENX
+  branch_name: Back Office Processing Centre, Bank House
+  branch_address: Nairobi
+  branch_code: OCB
+  city: Nairobi
+  country: Kenya
+- name: Barclays Bank Of Kenya, Ltd.
+  swift: BARCKENXPIS
+  swift8: BARCKENX
+  branch_name: Payments and International Services
+  branch_address: Nairobi
+  branch_code: PIS
+  city: Nairobi
+  country: Kenya
+- name: Barclays Bank Of Kenya, Ltd.
+  swift: BARCKENXTPC
+  swift8: BARCKENX
+  branch_name: Trade Processing Centre
+  branch_address: Standard Building Nairobi
+  branch_code: TPC
+  city: Nairobi
+  country: Kenya
+- name: Barclays Bank Of Kenya, Ltd.
+  swift: BARCKENXVPC
+  swift8: BARCKENX
+  branch_name: Voucher Processing Centre
+  branch_address: Avon Center Nairobi
+  branch_code: VPC
+  city: Nairobi
+  country: Kenya
+- name: Barclays Bank Of Kenya, Ltd.
+  swift: BARCKENXXXX
+  swift8: BARCKENX
+  branch_name: Head Office
+  branch_address: Bank House Nairobi
+  branch_code: XXX
+  city: Nairobi
+  country: Kenya
+- name: Barclaytrust Investment Services Limited
+  swift: BAIVKEN1XXX
+  swift8: BAIVKEN1
+  branch_name: Head Office
+  branch_address: Barclay Plaza Nairobi
+  branch_code: XXX
+  city: Nairobi
+  country: Kenya
+- name: Biashara Bank Of Kenya Ltd.
+  swift: BIBKKEN10MB
+  swift8: BIBKKEN1
+  branch_name: Mombasa
+  branch_address: Mombasa
+  branch_code: 0MB
+  city: Mombasa
+  country: Kenya
+- name: Biashara Bank Of Kenya Ltd.
+  swift: BIBKKEN1XXX
+  swift8: BIBKKEN1
+  branch_name: Head Office
+  branch_address: Kenprop House Nairobi
+  branch_code: XXX
+  city: Nairobi
+  country: Kenya
+- name: Central Bank Of Kenya
+  swift: CBKEKEN1ELD
+  swift8: CBKEKEN1
+  branch_name: Eldoret Branch
+  branch_address: Old Uganda Road Eldoret
+  branch_code: ELD
+  city: Eldoret
+  country: Kenya
+- name: Central Bank Of Kenya
+  swift: CBKEKEN1KSM
+  swift8: CBKEKEN1
+  branch_name: Kisumu Branch
+  branch_address: Jomo Kenyatta Highway Kisumu
+  branch_code: KSM
+  city: Kisumu
+  country: Kenya
+- name: Central Bank Of Kenya
+  swift: CBKEKEN1MSA
+  swift8: CBKEKEN1
+  branch_name: Mombasa Branch
+  branch_address: Nkurumah Road Mombasa
+  branch_code: MSA
+  city: Mombasa
+  country: Kenya
+- name: Central Bank Of Kenya
+  swift: CBKEKENXBKG
+  swift8: CBKEKENX
+  branch_name: Banking Division
+  branch_address: Haile Selassie Avenue Nairobi
+  branch_code: BKG
+  city: Nairobi
+  country: Kenya
+- name: Central Bank Of Kenya
+  swift: CBKEKENXCNY
+  swift8: CBKEKENX
+  branch_name: Currency Division
+  branch_address: Haile Selassie Avenue Nairobi
+  branch_code: CNY
+  city: Nairobi
+  country: Kenya
+- name: Central Bank Of Kenya
+  swift: CBKEKENXNDO
+  swift8: CBKEKENX
+  branch_name: National Debt Division
+  branch_address: Haile Selassie Avenue Nairobi
+  branch_code: NDO
+  city: Nairobi
+  country: Kenya
+- name: Central Bank Of Kenya
+  swift: CBKEKENXXXX
+  swift8: CBKEKENX
+  branch_name: Head Office
+  branch_address: Haile Selassie Avenue Nairobi
+  branch_code: XXX
+  city: Nairobi
+  country: Kenya
+- name: Cfc Financial Services Limited
+  swift: CFFSKEN1XXX
+  swift8: CFFSKEN1
+  branch_name: Head Office
+  branch_address: Cfc Centre Nairobi 00100 Nairobi
+  branch_code: XXX
+  city: Nairobi
+  country: Kenya
+- name: Cfc Stanbic Bank Limited
+  swift: SBICKEN10MB
+  swift8: SBICKEN1
+  branch_name: Mombasa
+  branch_address: Mombasa
+  branch_code: 0MB
+  city: Mombasa
+  country: Kenya
+- name: Cfc Stanbic Bank Limited
+  swift: SBICKENXSSP
+  swift8: SBICKENX
+  branch_name: Structured Payments
+  branch_address: Stanbic Building 30500 Nairobi
+  branch_code: SSP
+  city: Nairobi
+  country: Kenya
+- name: Cfc Stanbic Bank Limited
+  swift: SBICKENXXXX
+  swift8: SBICKENX
+  branch_name: Head Office
+  branch_address: Kenyatta Avenue Nairobi
+  branch_code: XXX
+  city: Nairobi
+  country: Kenya
+- name: Chase Bank (kenya) Limited
+  swift: CKENKENAXXX
+  swift8: CKENKENA
+  branch_name: Head Office
+  branch_address: Prudential Assurance Building 00200 Nairobi
+  branch_code: XXX
+  city: Nairobi
+  country: Kenya
+- name: Citibank N.a. Nairobi
+  swift: CITIKENATRD
+  swift8: CITIKENA
+  branch_name: Trade Services Department
+  branch_address: Nairobi
+  branch_code: TRD
+  city: Nairobi
+  country: Kenya
+- name: Citibank N.a. Nairobi
+  swift: CITIKENAXXX
+  swift8: CITIKENA
+  branch_name: Head Office
+  branch_address: Citibank House 00100 Nairobi
+  branch_code: XXX
+  city: Nairobi
+  country: Kenya
+- name: Commercial Bank Of Africa Ltd.
+  swift: CBAFKENXXXX
+  swift8: CBAFKENX
+  branch_name: Head Office
+  branch_address: Cba Building Nairobi
+  branch_code: XXX
+  city: Nairobi
+  country: Kenya
+- name: Consolidated Bank Of Kenya Ltd
+  swift: CONKKENAXXX
+  swift8: CONKKENA
+  branch_name: Head Office
+  branch_address: Consolidated Bank House Nairobi
+  branch_code: XXX
+  city: Nairobi
+  country: Kenya
+- name: Cooperative Bank Of Kenya Ltd., The
+  swift: KCOOKENAXXX
+  swift8: KCOOKENA
+  branch_name: Head Office
+  branch_address: Co-Operative House Nairobi
+  branch_code: XXX
+  city: Nairobi
+  country: Kenya
+- name: Credit Bank Limited
+  swift: CRBTKENAXXX
+  swift8: CRBTKENA
+  branch_name: Head Office
+  branch_address: Mercantile House 200 Nairobi
+  branch_code: XXX
+  city: Nairobi
+  country: Kenya
+- name: Crossfield Securities Ltd
+  swift: CRORKEN1XXX
+  swift8: CRORKEN1
+  branch_name: Head Office
+  branch_address: Vedic House Nairobi
+  branch_code: XXX
+  city: Nairobi
+  country: Kenya
+- name: Development Bank Of Kenya Limited
+  swift: DEVKKENAXXX
+  swift8: DEVKKENA
+  branch_name: Head Office
+  branch_address: Finance House Nairobi
+  branch_code: XXX
+  city: Nairobi
+  country: Kenya
+- name: Diamond Trust Bank Kenya Limited
+  swift: DTKEKENAXXX
+  swift8: DTKEKENA
+  branch_name: Head Office
+  branch_address: Nation Centre 00200 Nairobi
+  branch_code: XXX
+  city: Nairobi
+  country: Kenya
+- name: Discount Securities Limited
+  swift: DISRKEN1XXX
+  swift8: DISRKEN1
+  branch_name: Head Office
+  branch_address: International House Nairobi
+  branch_code: XXX
+  city: Nairobi
+  country: Kenya
+- name: Drummond Investment Bank Limited
+  swift: FRDRKEN1XXX
+  swift8: FRDRKEN1
+  branch_name: Head Office
+  branch_address: Hughes Building Nairobi
+  branch_code: XXX
+  city: Nairobi
+  country: Kenya
+- name: Dubai Bank Kenya Ltd
+  swift: DUKNKENAXXX
+  swift8: DUKNKENA
+  branch_name: Head Office
+  branch_address: Icea Building Nairobi
+  branch_code: XXX
+  city: Nairobi
+  country: Kenya
+- name: Dyer And Blair Limited
+  swift: DYBRKEN1XXX
+  swift8: DYBRKEN1
+  branch_name: Head Office
+  branch_address: Reinsurance Plaza 00100 Nairobi
+  branch_code: XXX
+  city: Nairobi
+  country: Kenya
+- name: East African Development Bank
+  swift: EADBKEN1XXX
+  swift8: EADBKEN1
+  branch_name: Head Office
+  branch_address: Rahimtulla Tower Nairobi
+  branch_code: XXX
+  city: Nairobi
+  country: Kenya
+- name: Eastern And Southern African Trade And Developmentbank
+  swift: ESATKENAXXX
+  swift8: ESATKENA
+  branch_name: Head Office
+  branch_address: Nssf Building Nairobi
+  branch_code: XXX
+  city: Nairobi
+  country: Kenya
+- name: Ecobank Kenya Ltd
+  swift: ECOCKENAXXX
+  swift8: ECOCKENA
+  branch_name: Head Office
+  branch_address: Fedha Towers 49584 0100 Nairobi
+  branch_code: XXX
+  city: Nairobi
+  country: Kenya
+- name: Equatorial Commercial Bank Ltd
+  swift: EQUAKENAXXX
+  swift8: EQUAKENA
+  branch_name: Head Office
+  branch_address: Sasini House Nairobi
+  branch_code: XXX
+  city: Nairobi
+  country: Kenya
+- name: Equity Bank Limited
+  swift: EQBLKENAXXX
+  swift8: EQBLKENA
+  branch_name: Head Office
+  branch_address: Nhif Building 00200 Nairobi
+  branch_code: XXX
+  city: Nairobi
+  country: Kenya
+- name: Equity Stockbrokers Limited
+  swift: EQSTKEN1XXX
+  swift8: EQSTKEN1
+  branch_name: Head Office
+  branch_address: Queensway House 00100 Nairobi
+  branch_code: XXX
+  city: Nairobi
+  country: Kenya
+- name: Euro Bank
+  swift: EUOOKEN1XXX
+  swift8: EUOOKEN1
+  branch_name: Head Office
+  branch_address: Hamilton House Nairobi
+  branch_code: XXX
+  city: Nairobi
+  country: Kenya
+- name: Faida Investment Bank Ltd
+  swift: FASRKEN1XXX
+  swift8: FASRKEN1
+  branch_name: Head Office
+  branch_address: Windsor House Nairobi
+  branch_code: XXX
+  city: Nairobi
+  country: Kenya
+- name: Family Bank Limited
+  swift: FABLKENAXXX
+  swift8: FABLKENA
+  branch_name: Head Office
+  branch_address: Fourway Towers Nairobi
+  branch_code: XXX
+  city: Nairobi
+  country: Kenya
+- name: Fidelity Commercial Bank Ltd
+  swift: FCBLKENAXXX
+  swift8: FCBLKENA
+  branch_name: Head Office
+  branch_address: Ips Building 00100 Nairobi
+  branch_code: XXX
+  city: Nairobi
+  country: Kenya
+- name: First Community Bank Limited
+  swift: IFCBKENAXXX
+  swift8: IFCBKENA
+  branch_name: Head Office
+  branch_address: Prudential Assurance Building Nairobi
+  branch_code: XXX
+  city: Nairobi
+  country: Kenya
+- name: Giro Commercial Bank Ltd
+  swift: GIROKENXXXX
+  swift8: GIROKENX
+  branch_name: Head Office
+  branch_address: Giro House 00100 Nairobi
+  branch_code: XXX
+  city: Nairobi
+  country: Kenya
+- name: Guardian Bank Limited
+  swift: GUARKENAXXX
+  swift8: GUARKENA
+  branch_name: Head Office
+  branch_address: Guildaers Centre Nairobi
+  branch_code: XXX
+  city: Nairobi
+  country: Kenya
+- name: Gulf African Bank Ltd
+  swift: GAFRKENAXXX
+  swift8: GAFRKENA
+  branch_name: Head Office
+  branch_address: Geminia Insurance Plaza 00100 Nairobi
+  branch_code: XXX
+  city: Nairobi
+  country: Kenya
+- name: Hak Securities Ltd
+  swift: HAKSKEN1XXX
+  swift8: HAKSKEN1
+  branch_name: Head Office
+  branch_address: Rehani House Nairobi
+  branch_code: XXX
+  city: Nairobi
+  country: Kenya
+- name: Housing Finance Company Of Kenya
+  swift: HFCOKENAXXX
+  swift8: HFCOKENA
+  branch_name: Head Office
+  branch_address: Rehani House Nairobi
+  branch_code: XXX
+  city: Nairobi
+  country: Kenya
+- name: Housing Finance Company Of Kenya
+  swift: HFCOKEN1XXX
+  swift8: HFCOKEN1
+  branch_name: Head Office
+  branch_address: Rehani House Nairobi
+  branch_code: XXX
+  city: Nairobi
+  country: Kenya
+- name: I And M Bank Ltd
+  swift: IMBLKENAFTR
+  swift8: IMBLKENA
+  branch_name: Funds Transfer Department
+  branch_address: I and M Towers Nairobi
+  branch_code: FTR
+  city: Nairobi
+  country: Kenya
+- name: I And M Bank Ltd
+  swift: IMBLKENASTL
+  swift8: IMBLKENA
+  branch_name: Settlement Department
+  branch_address: I and M Bank House Nairobi
+  branch_code: STL
+  city: Nairobi
+  country: Kenya
+- name: I And M Bank Ltd
+  swift: IMBLKENATRD
+  swift8: IMBLKENA
+  branch_name: Trade Finance Department
+  branch_address: Jethalal Towers Nairobi
+  branch_code: TRD
+  city: Nairobi
+  country: Kenya
+- name: I And M Bank Ltd
+  swift: IMBLKENAXXX
+  swift8: IMBLKENA
+  branch_name: Head Office
+  branch_address: I and M Bank House 00100 Nairobi
+  branch_code: XXX
+  city: Nairobi
+  country: Kenya
+- name: Imperial Bank Limited
+  swift: IMPLKENAXXX
+  swift8: IMPLKENA
+  branch_name: Head Office
+  branch_address: Bunyala Road, Upper Hill Nairobi
+  branch_code: XXX
+  city: Nairobi
+  country: Kenya
+- name: Jamii Bora Bank Ltd
+  swift: CIFIKENAXXX
+  swift8: CIFIKENA
+  branch_name: Head Office
+  branch_address: Unity House Nairobi
+  branch_code: XXX
+  city: Nairobi
+  country: Kenya
+- name: K-rep Bank Limited
+  swift: KREPKENAXXX
+  swift8: KREPKENA
+  branch_name: Head Office
+  branch_address: K-Rep Bank House Nairobi
+  branch_code: XXX
+  city: Nairobi
+  country: Kenya
+- name: Kenya Commercial Bank Limited
+  swift: KCBLKENX002
+  swift8: KCBLKENX
+  branch_name: Industrial Area
+  branch_address: Nairobi
+  branch_code: '002'
+  city: Nairobi
+  country: Kenya
+- name: Kenya Commercial Bank Limited
+  swift: KCBLKENX005
+  swift8: KCBLKENX
+  branch_name: Kipande House
+  branch_address: Nairobi
+  branch_code: '005'
+  city: Nairobi
+  country: Kenya
+- name: Kenya Commercial Bank Limited
+  swift: KCBLKENX012
+  swift8: KCBLKENX
+  branch_name: Gigiri-Unep Branch
+  branch_address: Nairobi
+  branch_code: '012'
+  city: Nairobi
+  country: Kenya
+- name: Kenya Commercial Bank Limited
+  swift: KCBLKENX017
+  swift8: KCBLKENX
+  branch_name: Moi Avenue
+  branch_address: Moi Avenue Nairobi
+  branch_code: '017'
+  city: Nairobi
+  country: Kenya
+- name: Kenya Commercial Bank Limited
+  swift: KCBLKENX077
+  swift8: KCBLKENX
+  branch_name: Kisumu Main
+  branch_address: Nairobi
+  branch_code: '077'
+  city: Nairobi
+  country: Kenya
+- name: Kenya Commercial Bank Limited
+  swift: KCBLKENX080
+  swift8: KCBLKENX
+  branch_name: Treasury Square
+  branch_address: Mombasa
+  branch_code: '080'
+  city: Mombasa
+  country: Kenya
+- name: Kenya Commercial Bank Limited
+  swift: KCBLKENXDMM
+  swift8: KCBLKENX
+  branch_name: Domestic Money Market Unit
+  branch_address: Nairobi
+  branch_code: DMM
+  city: Nairobi
+  country: Kenya
+- name: Kenya Commercial Bank Limited
+  swift: KCBLKENXTMK
+  swift8: KCBLKENX
+  branch_name: Treasury
+  branch_address: Nairobi
+  branch_code: TMK
+  city: Nairobi
+  country: Kenya
+- name: Kenya Commercial Bank Limited
+  swift: KCBLKENXXXX
+  swift8: KCBLKENX
+  branch_name: Head Office
+  branch_address: Kencom House 00100 Nairobi Nbo
+  branch_code: XXX
+  city: Nairobi
+  country: Kenya
+- name: Kenya Post Office Savings Bank
+  swift: KPOBKEN1XXX
+  swift8: KPOBKEN1
+  branch_name: Head Office
+  branch_address: Banda Street Nairobi
+  branch_code: XXX
+  city: Nairobi
+  country: Kenya
+- name: Kenya Wide Securities Limited
+  swift: KEWSKEN1XXX
+  swift8: KEWSKEN1
+  branch_name: Head Office
+  branch_address: Kimathi House Nairobi
+  branch_code: XXX
+  city: Nairobi
+  country: Kenya
+- name: Kestrel Capital East Africa Ltd.
+  swift: KCEAKEN1XXX
+  swift8: KCEAKEN1
+  branch_name: Head Office
+  branch_address: Hughes Building Nairobi
+  branch_code: XXX
+  city: Nairobi
+  country: Kenya
+- name: Middle East Bank Kenya Ltd
+  swift: MIEKKENAXXX
+  swift8: MIEKKENA
+  branch_name: Head Office
+  branch_address: Mebank Tower Nairobi
+  branch_code: XXX
+  city: Nairobi
+  country: Kenya
+- name: Nairobi Stock Exchange
+  swift: XNAIKEN1XXX
+  swift8: XNAIKEN1
+  branch_name: Head Office
+  branch_address: Nairobi
+  branch_code: XXX
+  city: Nairobi
+  country: Kenya
+- name: National Bank Of Kenya Ltd.
+  swift: NBKEKENX302
+  swift8: NBKEKENX
+  branch_name: Awendo Branch
+  branch_address: Nairobi
+  branch_code: '302'
+  city: Nairobi
+  country: Kenya
+- name: National Bank Of Kenya Ltd.
+  swift: NBKEKENX310
+  swift8: NBKEKENX
+  branch_name: Corporate Division
+  branch_address: Nairobi
+  branch_code: '310'
+  city: Nairobi
+  country: Kenya
+- name: National Bank Of Kenya Ltd.
+  swift: NBKEKENX329
+  swift8: NBKEKENX
+  branch_name: Hospital Branch
+  branch_address: Nairobi
+  branch_code: '329'
+  city: Nairobi
+  country: Kenya
+- name: National Bank Of Kenya Ltd.
+  swift: NBKEKENX337
+  swift8: NBKEKENX
+  branch_name: Ruiru Branch
+  branch_address: Ruiru
+  branch_code: '337'
+  city: Ruiru
+  country: Kenya
+- name: National Bank Of Kenya Ltd.
+  swift: NBKEKENX711
+  swift8: NBKEKENX
+  branch_name: Harambee Avenue Branch
+  branch_address: Nairobi
+  branch_code: '711'
+  city: Nairobi
+  country: Kenya
+- name: National Bank Of Kenya Ltd.
+  swift: NBKEKENX725
+  swift8: NBKEKENX
+  branch_name: Kenyatta Avenue Branch
+  branch_address: Nairobi
+  branch_code: '725'
+  city: Nairobi
+  country: Kenya
+- name: National Bank Of Kenya Ltd.
+  swift: NBKEKENX739
+  swift8: NBKEKENX
+  branch_name: Mombasa Nkurumah Branch
+  branch_address: Nairobi
+  branch_code: '739'
+  city: Nairobi
+  country: Kenya
+- name: National Bank Of Kenya Ltd.
+  swift: NBKEKENX743
+  swift8: NBKEKENX
+  branch_name: Moi Avenue Branch
+  branch_address: Nairobi
+  branch_code: '743'
+  city: Nairobi
+  country: Kenya
+- name: National Bank Of Kenya Ltd.
+  swift: NBKEKENX757
+  swift8: NBKEKENX
+  branch_name: Nakuru Branch
+  branch_address: Nairobi
+  branch_code: '757'
+  city: Nairobi
+  country: Kenya
+- name: National Bank Of Kenya Ltd.
+  swift: NBKEKENX761
+  swift8: NBKEKENX
+  branch_name: Kisumu Branch
+  branch_address: Nairobi
+  branch_code: '761'
+  city: Nairobi
+  country: Kenya
+- name: National Bank Of Kenya Ltd.
+  swift: NBKEKENX789
+  swift8: NBKEKENX
+  branch_name: Eldoret Branch
+  branch_address: Nairobi
+  branch_code: '789'
+  city: Nairobi
+  country: Kenya
+- name: National Bank Of Kenya Ltd.
+  swift: NBKEKENX808
+  swift8: NBKEKENX
+  branch_name: Hill Plaza Branch
+  branch_address: Nairobi
+  branch_code: '808'
+  city: Nairobi
+  country: Kenya
+- name: National Bank Of Kenya Ltd.
+  swift: NBKEKENX815
+  swift8: NBKEKENX
+  branch_name: Kisii Branch
+  branch_address: Nairobi
+  branch_code: '815'
+  city: Nairobi
+  country: Kenya
+- name: National Bank Of Kenya Ltd.
+  swift: NBKEKENX828
+  swift8: NBKEKENX
+  branch_name: Busia Branch
+  branch_address: Nairobi
+  branch_code: '828'
+  city: Nairobi
+  country: Kenya
+- name: National Bank Of Kenya Ltd.
+  swift: NBKEKENX833
+  swift8: NBKEKENX
+  branch_name: Meru Branch
+  branch_address: Nairobi
+  branch_code: '833'
+  city: Nairobi
+  country: Kenya
+- name: National Bank Of Kenya Ltd.
+  swift: NBKEKENX841
+  swift8: NBKEKENX
+  branch_name: Karatina Branch
+  branch_address: Nairobi
+  branch_code: '841'
+  city: Nairobi
+  country: Kenya
+- name: National Bank Of Kenya Ltd.
+  swift: NBKEKENX868
+  swift8: NBKEKENX
+  branch_name: Narok Branch
+  branch_address: Nairobi
+  branch_code: '868'
+  city: Nairobi
+  country: Kenya
+- name: National Bank Of Kenya Ltd.
+  swift: NBKEKENX876
+  swift8: NBKEKENX
+  branch_name: Nyeri Branch
+  branch_address: Nairobi
+  branch_code: '876'
+  city: Nairobi
+  country: Kenya
+- name: National Bank Of Kenya Ltd.
+  swift: NBKEKENX884
+  swift8: NBKEKENX
+  branch_name: Kitale Branch
+  branch_address: Nairobi
+  branch_code: '884'
+  city: Nairobi
+  country: Kenya
+- name: National Bank Of Kenya Ltd.
+  swift: NBKEKENX922
+  swift8: NBKEKENX
+  branch_name: Limuru Branch
+  branch_address: Nairobi
+  branch_code: '922'
+  city: Nairobi
+  country: Kenya
+- name: Ngenye Kariuki And Co. Ltd.
+  swift: NGKAKEN1XXX
+  swift8: NGKAKEN1
+  branch_name: Head Office
+  branch_address: Travel (Utc) House Nairobi
+  branch_code: XXX
+  city: Nairobi
+  country: Kenya
+- name: Nic Bank Limited
+  swift: NINCKENAXXX
+  swift8: NINCKENA
+  branch_name: Head Office
+  branch_address: Nic House 44599 Nairobi
+  branch_code: XXX
+  city: Nairobi
+  country: Kenya
+- name: Oriental Commercial Bank Ltd
+  swift: DELFKENAXXX
+  swift8: DELFKENA
+  branch_name: Head Office
+  branch_address: Finance House 00100 Nairobi
+  branch_code: XXX
+  city: Nairobi
+  country: Kenya
+- name: Panafrican Bank Limited
+  swift: PABLKEN1XXX
+  swift8: PABLKEN1
+  branch_name: Head Office
+  branch_address: Kenyatta Avenue Nairobi
+  branch_code: XXX
+  city: Nairobi
+  country: Kenya
+- name: Paramount Universal Bank Limited
+  swift: PAUTKENAXXX
+  swift8: PAUTKENA
+  branch_name: Head Office
+  branch_address: Sound Plaza Nairobi
+  branch_code: XXX
+  city: Nairobi
+  country: Kenya
+- name: Prime Bank Ltd.
+  swift: PRIEKENXXXX
+  swift8: PRIEKENX
+  branch_name: Head Office
+  branch_address: Kenindia House Nairobi
+  branch_code: XXX
+  city: Nairobi
+  country: Kenya
+- name: Reliable Securities Limited
+  swift: RELSKEN1XXX
+  swift8: RELSKEN1
+  branch_name: Head Office
+  branch_address: Eagle House Nairobi
+  branch_code: XXX
+  city: Nairobi
+  country: Kenya
+- name: Renaissance Capital (kenya) Limited
+  swift: RECYKEN1XXX
+  swift8: RECYKEN1
+  branch_name: Head Office
+  branch_address: Block Iii Nairobi
+  branch_code: XXX
+  city: Nairobi
+  country: Kenya
+- name: Shah Munge And Partners Ltd
+  swift: SHMPKEN1XXX
+  swift8: SHMPKEN1
+  branch_name: Head Office
+  branch_address: Re-Insurance Plaza Nairobi
+  branch_code: XXX
+  city: Nairobi
+  country: Kenya
+- name: Solid Investment Securities Ltd
+  swift: SOISKEN1XXX
+  swift8: SOISKEN1
+  branch_name: Head Office
+  branch_address: 20th. Century Plaza Nairobi
+  branch_code: XXX
+  city: Nairobi
+  country: Kenya
+- name: Standard Chartered Bank Kenya Limited
+  swift: SCBLKENXSSU
+  swift8: SCBLKENX
+  branch_name: Securities Services Unit
+  branch_address: Nairobi
+  branch_code: SSU
+  city: Nairobi
+  country: Kenya
+- name: Standard Chartered Bank Kenya Limited
+  swift: SCBLKENXTRD
+  swift8: SCBLKENX
+  branch_name: Trade
+  branch_address: Nairobi
+  branch_code: TRD
+  city: Nairobi
+  country: Kenya
+- name: Standard Chartered Bank Kenya Limited
+  swift: SCBLKENXXXX
+  swift8: SCBLKENX
+  branch_name: Head Office
+  branch_address: Stanbank House Nairobi
+  branch_code: XXX
+  city: Nairobi
+  country: Kenya
+- name: Standard Investment Bank Ltd
+  swift: STSKKEN1XXX
+  swift8: STSKKEN1
+  branch_name: Head Office
+  branch_address: Icea Building Nairobi
+  branch_code: XXX
+  city: Nairobi
+  country: Kenya
+- name: Suntra Investment Bank Ltd
+  swift: SUSTKEN1XXX
+  swift8: SUSTKEN1
+  branch_name: Head Office
+  branch_address: Commonwealth House Nairobi
+  branch_code: XXX
+  city: Nairobi
+  country: Kenya
+- name: Trans-national Bank Limited
+  swift: TNBLKENAXXX
+  swift8: TNBLKENA
+  branch_name: Head Office
+  branch_address: Trans-National Plaza Nairobi
+  branch_code: XXX
+  city: Nairobi
+  country: Kenya
+- name: Uba Kenya Bank Limited
+  swift: UNAFKENAXXX
+  swift8: UNAFKENA
+  branch_name: Head Office
+  branch_address: Appollo Plaza 34156-0100 Nairobi
+  branch_code: XXX
+  city: Nairobi
+  country: Kenya
+- name: Victoria Commercial Bank Limited
+  swift: VICMKENAXXX
+  swift8: VICMKENA
+  branch_name: Head Office
+  branch_address: Victoria Towers 00100 Nairobi
+  branch_code: XXX
+  city: Nairobi
+  country: Kenya

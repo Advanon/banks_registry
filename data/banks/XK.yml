@@ -1,0 +1,226 @@
+---
+XK:
+- name: Banka Kombetare Tregtare Sh.a
+  swift: NCBAXKPRXXX
+  swift8: NCBAXKPR
+  branch_name: No branch name
+  branch_address: No branch address
+  branch_code: XXX
+  city: Pristina
+  country: Kosovo
+- name: Banka Per Biznes Sh.a.
+  swift: BPBXXKPRXXX
+  swift8: BPBXXKPR
+  branch_name: No branch name
+  branch_address: No branch address
+  branch_code: XXX
+  city: Pristina
+  country: Kosovo
+- name: Central Bank Of The Republic Of Kosovo
+  swift: CBRKXKPRXXX
+  swift8: CBRKXKPR
+  branch_name: No branch name
+  branch_address: No branch address
+  branch_code: XXX
+  city: Pristina
+  country: Kosovo
+- name: Jugobanka, Jugobanka A.d. Kosovska Mitrovica
+  swift: JJKMXK21XXX
+  swift8: JJKMXK21
+  branch_name: No branch name
+  branch_address: No branch address
+  branch_code: XXX
+  city: Kosovska Mitrovica
+  country: Kosovo
+- name: Nlb Prishtina Sh.a.
+  swift: NLPRXKPRXXX
+  swift8: NLPRXKPR
+  branch_name: No branch name
+  branch_address: No branch address
+  branch_code: XXX
+  city: Pristina
+  country: Kosovo
+- name: Procredit Bank Kosovo (formerly Micro Enterprise Bank, Pristina, Kosovo
+  swift: MBKOXKPRXXX
+  swift8: MBKOXKPR
+  branch_name: No branch name
+  branch_address: No branch address
+  branch_code: XXX
+  city: Pristina
+  country: Kosovo
+- name: Raiffeisen Bank Kosovo
+  swift: RBKOXKPRXXX
+  swift8: RBKOXKPR
+  branch_name: No branch name
+  branch_address: No branch address
+  branch_code: XXX
+  city: Pristina
+  country: Kosovo
+- name: Teb Sha
+  swift: TEBKXKPR011
+  swift8: TEBKXKPR
+  branch_name: Main
+  branch_address: No branch address
+  branch_code: '011'
+  city: Pristina
+  country: Kosovo
+- name: Teb Sha
+  swift: TEBKXKPR012
+  swift8: TEBKXKPR
+  branch_name: Shadervan
+  branch_address: No branch address
+  branch_code: '012'
+  city: Pristina
+  country: Kosovo
+- name: Teb Sha
+  swift: TEBKXKPR013
+  swift8: TEBKXKPR
+  branch_name: Ferizaj
+  branch_address: No branch address
+  branch_code: '013'
+  city: Pristina
+  country: Kosovo
+- name: Teb Sha
+  swift: TEBKXKPR014
+  swift8: TEBKXKPR
+  branch_name: Fushe Kosova
+  branch_address: No branch address
+  branch_code: '014'
+  city: Pristina
+  country: Kosovo
+- name: Teb Sha
+  swift: TEBKXKPR015
+  swift8: TEBKXKPR
+  branch_name: Peja
+  branch_address: No branch address
+  branch_code: '015'
+  city: Pristina
+  country: Kosovo
+- name: Teb Sha
+  swift: TEBKXKPR016
+  swift8: TEBKXKPR
+  branch_name: Vushtrri
+  branch_address: No branch address
+  branch_code: '016'
+  city: Pristina
+  country: Kosovo
+- name: Teb Sha
+  swift: TEBKXKPR017
+  swift8: TEBKXKPR
+  branch_name: Gjilan
+  branch_address: No branch address
+  branch_code: '017'
+  city: Pristina
+  country: Kosovo
+- name: Teb Sha
+  swift: TEBKXKPR018
+  swift8: TEBKXKPR
+  branch_name: Gjakova
+  branch_address: No branch address
+  branch_code: '018'
+  city: Pristina
+  country: Kosovo
+- name: Teb Sha
+  swift: TEBKXKPR019
+  swift8: TEBKXKPR
+  branch_name: Rahovec
+  branch_address: No branch address
+  branch_code: '019'
+  city: Pristina
+  country: Kosovo
+- name: Teb Sha
+  swift: TEBKXKPR020
+  swift8: TEBKXKPR
+  branch_name: Dardania
+  branch_address: No branch address
+  branch_code: '020'
+  city: Pristina
+  country: Kosovo
+- name: Teb Sha
+  swift: TEBKXKPR021
+  swift8: TEBKXKPR
+  branch_name: Ulpiana
+  branch_address: No branch address
+  branch_code: '021'
+  city: Pristina
+  country: Kosovo
+- name: Teb Sha
+  swift: TEBKXKPR022
+  swift8: TEBKXKPR
+  branch_name: Skenderaj
+  branch_address: No branch address
+  branch_code: '022'
+  city: Pristina
+  country: Kosovo
+- name: Teb Sha
+  swift: TEBKXKPR023
+  swift8: TEBKXKPR
+  branch_name: Malisheva
+  branch_address: No branch address
+  branch_code: '023'
+  city: Pristina
+  country: Kosovo
+- name: Teb Sha
+  swift: TEBKXKPR024
+  swift8: TEBKXKPR
+  branch_name: Drenas
+  branch_address: No branch address
+  branch_code: '024'
+  city: Pristina
+  country: Kosovo
+- name: Teb Sha
+  swift: TEBKXKPR025
+  swift8: TEBKXKPR
+  branch_name: Theranda
+  branch_address: No branch address
+  branch_code: '025'
+  city: Pristina
+  country: Kosovo
+- name: Teb Sha
+  swift: TEBKXKPR026
+  swift8: TEBKXKPR
+  branch_name: Lypjan
+  branch_address: No branch address
+  branch_code: '026'
+  city: Pristina
+  country: Kosovo
+- name: Teb Sha
+  swift: TEBKXKPR027
+  swift8: TEBKXKPR
+  branch_name: Mitrovica
+  branch_address: No branch address
+  branch_code: '027'
+  city: Pristina
+  country: Kosovo
+- name: Teb Sha
+  swift: TEBKXKPR028
+  swift8: TEBKXKPR
+  branch_name: Prizren Main
+  branch_address: No branch address
+  branch_code: '028'
+  city: Pristina
+  country: Kosovo
+- name: Teb Sha
+  swift: TEBKXKPR029
+  swift8: TEBKXKPR
+  branch_name: Hani Elezit
+  branch_address: No branch address
+  branch_code: '029'
+  city: Pristina
+  country: Kosovo
+- name: Teb Sha
+  swift: TEBKXKPR030
+  swift8: TEBKXKPR
+  branch_name: Klina
+  branch_address: No branch address
+  branch_code: '030'
+  city: Klina
+  country: Kosovo
+- name: Turkiye Is Bankasi A.s.pristina Branch
+  swift: ISBKXKPRXXX
+  swift8: ISBKXKPR
+  branch_name: No branch name
+  branch_address: No branch address
+  branch_code: XXX
+  city: Pristina
+  country: Kosovo

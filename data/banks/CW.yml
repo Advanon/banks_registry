@@ -1,0 +1,378 @@
+---
+CW:
+- name: Banco Industrial De Venezuela
+  swift: INDSCWCUXXX
+  swift8: INDSCWCU
+  branch_name: Head Office
+  branch_address: Handeiskade N-12, Punda Willemstad
+  branch_code: XXX
+  city: Willemstad
+  country: Curaçao
+- name: Rbc Royal Bank N.v. (formerly Rbtt Bank N.v.
+  swift: RBTTCWCUXXX
+  swift8: RBTTCWCU
+  branch_name: Head Office
+  branch_address: Kaya Flamboyan 1 Willemstad
+  branch_code: XXX
+  city: Willemstad
+  country: Curaçao
+- name: Abb Investment N.v.
+  swift: ABBNCWC1XXX
+  swift8: ABBNCWC1
+  branch_name: Head Office
+  branch_address: Pieterwaaiplein 19 Willemstad
+  branch_code: XXX
+  city: Willemstad
+  country: Curaçao
+- name: Abn-amro Trust Company
+  swift: ABNACWC1XXX
+  swift8: ABNACWC1
+  branch_name: Head Office
+  branch_address: Willemstad
+  branch_code: XXX
+  city: Willemstad
+  country: Curaçao
+- name: Bancaribe Curacao Bank N.v.
+  swift: CARACWCUXXX
+  swift8: CARACWCU
+  branch_name: Head Office
+  branch_address: World Trade Center Willemstad 6087
+  branch_code: XXX
+  city: Willemstad
+  country: Curaçao
+- name: Banco Aliado Internacional Nv
+  swift: BALICWC1XXX
+  swift8: BALICWC1
+  branch_name: Head Office
+  branch_address: Citco De Ruyterkade 62 Willemstad
+  branch_code: XXX
+  city: Willemstad
+  country: Curaçao
+- name: Banco Continental Overseas N.v.
+  swift: COOVCWC1XXX
+  swift8: COOVCWC1
+  branch_name: Head Office
+  branch_address: Pietermaai 15 Willemstad
+  branch_code: XXX
+  city: Willemstad
+  country: Curaçao
+- name: Banco Del Orinoco
+  swift: ORIBCWCUXXX
+  swift8: ORIBCWCU
+  branch_name: Head Office
+  branch_address: Handelskad Willemstad
+  branch_code: XXX
+  city: Willemstad
+  country: Curaçao
+- name: Banco Del Orinoco
+  swift: ORIBCWC1XXX
+  swift8: ORIBCWC1
+  branch_name: Head Office
+  branch_address: Handelskad Willemstad
+  branch_code: XXX
+  city: Willemstad
+  country: Curaçao
+- name: Banco Di Caribe N.v.
+  swift: BDCCCWCUXXX
+  swift8: BDCCCWCU
+  branch_name: Head Office
+  branch_address: Schottegatweg Oost 205 Willemstad
+  branch_code: XXX
+  city: Willemstad
+  country: Curaçao
+- name: Banco Mercantil
+  swift: BAMRCWC1XXX
+  swift8: BAMRCWC1
+  branch_name: Head Office
+  branch_address: Willemstad
+  branch_code: XXX
+  city: Willemstad
+  country: Curaçao
+- name: Banco Nacional De Credito, C.a. B U, Srcsal Curacao
+  swift: NCRTCWCAXXX
+  swift8: NCRTCWCA
+  branch_name: Head Office
+  branch_address: Juliana Plein 26 Willemstad
+  branch_code: XXX
+  city: Willemstad
+  country: Curaçao
+- name: Banco Provincial
+  swift: BPROCWC1XXX
+  swift8: BPROCWC1
+  branch_name: Head Office
+  branch_address: Santa Rosaweg 5355 Willemstad
+  branch_code: XXX
+  city: Willemstad
+  country: Curaçao
+- name: Banco Provincial Overseas N.v.
+  swift: BPOCCWCUXXX
+  swift8: BPOCCWCU
+  branch_name: Head Office
+  branch_address: Santa Rosaweg 55 Willemstad
+  branch_code: XXX
+  city: Willemstad
+  country: Curaçao
+- name: Blue Bank International N.v.
+  swift: BBICCWCWXXX
+  swift8: BBICCWCW
+  branch_name: Head Office
+  branch_address: Abraham De Veerstraat 9 Willemstad
+  branch_code: XXX
+  city: Willemstad
+  country: Curaçao
+- name: Centrale Bank Van Curacao En Sint Maarten
+  swift: CBCSCWCUXXX
+  swift8: CBCSCWCU
+  branch_name: Head Office
+  branch_address: Simon Bolivar Plein 1 Willemstad
+  branch_code: XXX
+  city: Willemstad
+  country: Curaçao
+- name: Citco Banking Corporation N.v.
+  swift: CITCCWCUDSK
+  swift8: CITCCWCU
+  branch_name: Dealing Room
+  branch_address: Kaya Flamboyan 9 Willemstad
+  branch_code: DSK
+  city: Willemstad
+  country: Curaçao
+- name: Citco Banking Corporation N.v.
+  swift: CITCCWCUXXX
+  swift8: CITCCWCU
+  branch_name: Head Office
+  branch_address: De Ruyterkade 62 Willemstad
+  branch_code: XXX
+  city: Willemstad
+  country: Curaçao
+- name: Deutsche Bank Finance N.v.
+  swift: DEFBCWC1XXX
+  swift8: DEFBCWC1
+  branch_name: Head Office
+  branch_address: Pietermaai 17 Willemstad
+  branch_code: XXX
+  city: Willemstad
+  country: Curaçao
+- name: Ebna Bank N.v.
+  swift: EBNVCWCUXXX
+  swift8: EBNVCWCU
+  branch_name: Head Office
+  branch_address: Ant Building Willemstad
+  branch_code: XXX
+  city: Willemstad
+  country: Curaçao
+- name: Exprinter International Bank N.v.
+  swift: EINBCWCUXXX
+  swift8: EINBCWCU
+  branch_name: Head Office
+  branch_address: Scharlooweg 61 Willemstad
+  branch_code: XXX
+  city: Willemstad
+  country: Curaçao
+- name: First Curacao International Bank N.v.
+  swift: FCURCWCUXXX
+  swift8: FCURCWCU
+  branch_name: Head Office
+  branch_address: Kaya W.F.G. (Jombi) Mensing 18 Willemstad
+  branch_code: XXX
+  city: Willemstad
+  country: Curaçao
+- name: Firstcaribbean International Bank (cayman Ltd) Curacao Branch
+  swift: FCIBCWCUXXX
+  swift8: FCIBCWCU
+  branch_name: Head Office
+  branch_address: De Ruyterkade 61 Willemstad
+  branch_code: XXX
+  city: Willemstad
+  country: Curaçao
+- name: Firstcarribbean International Bank (curacao) N.v.
+  swift: FCIBCWC2XXX
+  swift8: FCIBCWC2
+  branch_name: Head Office
+  branch_address: De Ruijterkade 61 Willemstad
+  branch_code: XXX
+  city: Willemstad
+  country: Curaçao
+- name: Giro Curacao N.v.
+  swift: GIRCCWCUXXX
+  swift8: GIRCCWCU
+  branch_name: Head Office
+  branch_address: Scharlooweg 35 Willemstad
+  branch_code: XXX
+  city: Willemstad
+  country: Curaçao
+- name: Girobank International N.v.
+  swift: GIRCCWCCXXX
+  swift8: GIRCCWCC
+  branch_name: Head Office
+  branch_address: Scharlooweg 35 Willemstad
+  branch_code: XXX
+  city: Willemstad
+  country: Curaçao
+- name: Hollandsche Bank-unie (internationa L) N.v.
+  swift: HOLUCWC1XXX
+  swift8: HOLUCWC1
+  branch_name: Head Office
+  branch_address: Pietermaai 17 Willemstad
+  branch_code: XXX
+  city: Willemstad
+  country: Curaçao
+- name: Interpro Bank And Trust Company
+  swift: ITCOCWC1XXX
+  swift8: ITCOCWC1
+  branch_name: Head Office
+  branch_address: Willemstad
+  branch_code: XXX
+  city: Willemstad
+  country: Curaçao
+- name: Interunion Bank (antilles
+  swift: INANCWC1XXX
+  swift8: INANCWC1
+  branch_name: Head Office
+  branch_address: Rooi Catootje Willemstad
+  branch_code: XXX
+  city: Willemstad
+  country: Curaçao
+- name: Irvita Plant Protection N.v.
+  swift: IRPPCWCWXXX
+  swift8: IRPPCWCW
+  branch_name: Head Office
+  branch_address: Pos Cabai Office Park Willemstad
+  branch_code: XXX
+  city: Willemstad
+  country: Curaçao
+- name: Maduro And Curiel's Bank N.v.
+  swift: MCBKCWCUXXX
+  swift8: MCBKCWCU
+  branch_name: Head Office
+  branch_address: Plaza Jojo Correa 2-4 Willemstad
+  branch_code: XXX
+  city: Willemstad
+  country: Curaçao
+- name: Middenbank Curacao N.v.
+  swift: MIDCCWC1XXX
+  swift8: MIDCCWC1
+  branch_name: Head Office
+  branch_address: Kaya W.F.G. (Jombi) Mensing 14 Willemstad
+  branch_code: XXX
+  city: Willemstad
+  country: Curaçao
+- name: Midpacific Bank N.v.
+  swift: BMIDCWC1XXX
+  swift8: BMIDCWC1
+  branch_name: Head Office
+  branch_address: Schottgatweg Oost 130 Willemstad
+  branch_code: XXX
+  city: Willemstad
+  country: Curaçao
+- name: Moore Global Fixed Income Fund Ltd.
+  swift: MOCNCWC1XXX
+  swift8: MOCNCWC1
+  branch_name: Head Office
+  branch_address: 62 Ruyjerkade Willemstad
+  branch_code: XXX
+  city: Willemstad
+  country: Curaçao
+- name: Netherlands Caribbean Bank, N.v.
+  swift: NCBCCWC1XXX
+  swift8: NCBCCWC1
+  branch_name: Head Office
+  branch_address: Zeelandia Office Park Willemstad
+  branch_code: XXX
+  city: Willemstad
+  country: Curaçao
+- name: Noro Bank N.v.
+  swift: NRROCWC1XXX
+  swift8: NRROCWC1
+  branch_name: Head Office
+  branch_address: Plaza Roi Katochi Willemstad
+  branch_code: XXX
+  city: Willemstad
+  country: Curaçao
+- name: Orco Bank N.v.
+  swift: ORBACWCUXXX
+  swift8: ORBACWCU
+  branch_name: Head Office
+  branch_address: Landhuis Cerrito Willemstad
+  branch_code: XXX
+  city: Willemstad
+  country: Curaçao
+- name: Rabobank Curacao N.v.
+  swift: RABOCWCUXXX
+  swift8: RABOCWCU
+  branch_name: Head Office
+  branch_address: Zeelandia Offica Park Willemstad
+  branch_code: XXX
+  city: Willemstad
+  country: Curaçao
+- name: Republic International Bank, N.v.
+  swift: RIBKCWCUXXX
+  swift8: RIBKCWCU
+  branch_name: Head Office
+  branch_address: Cascoraweg, 1 Willemstad
+  branch_code: XXX
+  city: Willemstad
+  country: Curaçao
+- name: Rorento N.v.
+  swift: RGRRCWC1XXX
+  swift8: RGRRCWC1
+  branch_name: Head Office
+  branch_address: Ara Hill Top Unit 5a Willemstad
+  branch_code: XXX
+  city: Willemstad
+  country: Curaçao
+- name: S.f.t. Bank N.v. (formerly Citco Bank Antilles Nv
+  swift: CITCCWCCXXX
+  swift8: CITCCWCC
+  branch_name: Head Office
+  branch_address: Schottegatweg Oost 44 Willemstad
+  branch_code: XXX
+  city: Willemstad
+  country: Curaçao
+- name: Sky Bank Nv
+  swift: SKYBCWCUXXX
+  swift8: SKYBCWCU
+  branch_name: Head Office
+  branch_address: World Trade Center Center, Willemstad
+  branch_code: XXX
+  city: Willemstad
+  country: Curaçao
+- name: Societe Financiere Des Antilles N.v
+  swift: SFANCWCUXXX
+  swift8: SFANCWCU
+  branch_name: Head Office
+  branch_address: Kaya W.F.G (Jombi) Mensing 36b Willemstad
+  branch_code: XXX
+  city: Willemstad
+  country: Curaçao
+- name: South American International Bank Of Curacao
+  swift: SAINCWCUXXX
+  swift8: SAINCWCU
+  branch_name: Head Office
+  branch_address: Plasa Smeets 6 Willemstad
+  branch_code: XXX
+  city: Willemstad
+  country: Curaçao
+- name: South American International Bank Of Curacao
+  swift: SAINCWC1XXX
+  swift8: SAINCWC1
+  branch_name: Head Office
+  branch_address: Plasa Smeets 6 Willemstad
+  branch_code: XXX
+  city: Willemstad
+  country: Curaçao
+- name: Totalbank Curacao N.v.
+  swift: TOTLCWCUXXX
+  swift8: TOTLCWCU
+  branch_name: Head Office
+  branch_address: Kaya W.F.G. Jombi Mensing Zeelandia Scharloo
+  branch_code: XXX
+  city: Scharloo
+  country: Curaçao
+- name: United International Bank N.v.
+  swift: UDIBCWCUXXX
+  swift8: UDIBCWCU
+  branch_name: Head Office
+  branch_address: Landhuis Joonchi Willemstad
+  branch_code: XXX
+  city: Willemstad
+  country: Curaçao

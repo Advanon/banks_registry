@@ -1,0 +1,6155 @@
+---
+IE:
+- name: Acc Bank Plc
+  swift: ACCBIE2DXXX
+  swift8: ACCBIE2D
+  branch_name: Head Office
+  branch_address: Charlemont Place Dublin 2
+  branch_code: XXX
+  city: Dublin
+  country: Ireland
+- name: Accenture
+  swift: ACNTIE2DXXX
+  swift8: ACNTIE2D
+  branch_name: Head Office
+  branch_address: Ifsc Dublin 1
+  branch_code: XXX
+  city: Dublin
+  country: Ireland
+- name: Aib Bank
+  swift: AIBKIE2DXXX
+  swift8: AIBKIE2D
+  branch_name: Head Office
+  branch_address: Aib International Centre Dublin 1
+  branch_code: XXX
+  city: Dublin
+  country: Ireland
+- name: Aib International Financial Services Limited
+  swift: SPVWIE2DXXX
+  swift8: SPVWIE2D
+  branch_name: Head Office
+  branch_address: Aib International Centre Dublin 1
+  branch_code: XXX
+  city: Dublin
+  country: Ireland
+- name: Aib Investment Managers
+  swift: AIBKIE2EXXX
+  swift8: AIBKIE2E
+  branch_name: Head Office
+  branch_address: Aib Investment House Dublin 4
+  branch_code: XXX
+  city: Dublin
+  country: Ireland
+- name: Bank Of America N.A
+  swift: BOFAIE3XEQU
+  swift8: BOFAIE3X
+  branch_name: Dublin
+  branch_address: Dublin
+  branch_code: EQU
+  city: Dublin
+  country: Ireland
+- name: Bank Of America N.A
+  swift: BOFAIE3XGDS
+  swift8: BOFAIE3X
+  branch_name: Global Derrivative Settlements
+  branch_address: Dublin
+  branch_code: GDS
+  city: Dublin
+  country: Ireland
+- name: Bank Of America N.A
+  swift: BOFAIE3XIFS
+  swift8: BOFAIE3X
+  branch_name: International Financial Service Centre
+  branch_address: Russell Court Dublin 2
+  branch_code: IFS
+  city: Dublin
+  country: Ireland
+- name: Bank Of America N.A
+  swift: BOFAIE3XSBL
+  swift8: BOFAIE3X
+  branch_name: Dublin
+  branch_address: Dublin
+  branch_code: SBL
+  city: Dublin
+  country: Ireland
+- name: Bank Of America N.A
+  swift: BOFAIE3XXXX
+  swift8: BOFAIE3X
+  branch_name: Head Office
+  branch_address: 2 Park Place, Hatch Street Dublin 2
+  branch_code: XXX
+  city: Dublin
+  country: Ireland
+- name: Bank Of America, N.A.
+  swift: BOFAIE3XVAM
+  swift8: BOFAIE3X
+  branch_name: Managed Transaction Banking Services
+  branch_address: Dublin
+  branch_code: VAM
+  city: Dublin
+  country: Ireland
+- name: Bank Of Ireland International Banking
+  swift: BOFIIE2DXXX
+  swift8: BOFIIE2D
+  branch_name: Head Office
+  branch_address: Colvill House Dublin 1
+  branch_code: XXX
+  city: Dublin
+  country: Ireland
+- name: Bank Of Ireland Treasury
+  swift: BIGTIE2DXXX
+  swift8: BIGTIE2D
+  branch_name: Head Office
+  branch_address: Colvill House Dublin 1
+  branch_code: XXX
+  city: Dublin
+  country: Ireland
+- name: Bank Of Montreal Ireland Plc
+  swift: BOFMIE2DXXX
+  swift8: BOFMIE2D
+  branch_name: Head Office
+  branch_address: Harbourmaster Dublin 1
+  branch_code: XXX
+  city: Dublin
+  country: Ireland
+- name: Bank Of New York Mellon (Ireland) Ltd
+  swift: BNYMIE2DXXX
+  swift8: BNYMIE2D
+  branch_name: Head Office
+  branch_address: Hannover Building Dublin 2
+  branch_code: XXX
+  city: Dublin
+  country: Ireland
+- name: Bank Of Scotland Plc (Formerly Bank Of Scotland, Ireland)
+  swift: BOSIIE2DXXX
+  swift8: BOSIIE2D
+  branch_name: Head Office
+  branch_address: Dublin
+  branch_code: XXX
+  city: Dublin
+  country: Ireland
+- name: Barclays Bank Ireland Plc
+  swift: BARCIE2DXXX
+  swift8: BARCIE2D
+  branch_name: Head Office
+  branch_address: Two Park Place Dublin 2
+  branch_code: XXX
+  city: Dublin
+  country: Ireland
+- name: Bnp Paribas Ireland - Dublin Branch
+  swift: BNPAIE2DXXX
+  swift8: BNPAIE2D
+  branch_name: Head Office
+  branch_address: 5 Georges Dock Dublin 1
+  branch_code: XXX
+  city: Dublin
+  country: Ireland
+- name: Bnp Paribas Securities Services
+  swift: HNADIE2DBNP
+  swift8: HNADIE2D
+  branch_name: Securities Services Dublin
+  branch_address: Dublin
+  branch_code: BNP
+  city: Dublin
+  country: Ireland
+- name: Bnp Paribas Securities Services
+  swift: HNADIE2DXXX
+  swift8: HNADIE2D
+  branch_name: Head Office
+  branch_address: Ifsc Dublin 1
+  branch_code: XXX
+  city: Dublin
+  country: Ireland
+- name: Bnp Paribas Securities Services
+  swift: HNADIE2DDFS
+  swift8: HNADIE2D
+  branch_name: Dublin Depositary and Fiduciary Services
+  branch_address: No branch address
+  branch_code: DFS
+  city: Dublin
+  country: Ireland
+- name: Canali Ireland Ltd
+  swift: CNLIIE2DXXX
+  swift8: CNLIIE2D
+  branch_name: Head Office
+  branch_address: The Plaza, Park West Dublin 12
+  branch_code: XXX
+  city: Dublin
+  country: Ireland
+- name: Central Bank Of Ireland
+  swift: IRCEIE2DAPS
+  swift8: IRCEIE2D
+  branch_name: Accounts Department
+  branch_address: Dublin
+  branch_code: APS
+  city: Dublin
+  country: Ireland
+- name: Central Bank Of Ireland
+  swift: IRCEIE2DCCB
+  swift8: IRCEIE2D
+  branch_name: Cmas
+  branch_address: Cbfsai Dublin 2
+  branch_code: CCB
+  city: Dublin
+  country: Ireland
+- name: Central Bank Of Ireland
+  swift: IRCEIE2DCON
+  swift8: IRCEIE2D
+  branch_name: Contingency Department
+  branch_address: Dublin
+  branch_code: CON
+  city: Dublin
+  country: Ireland
+- name: Central Bank Of Ireland
+  swift: IRCEIE2DCRS
+  swift8: IRCEIE2D
+  branch_name: Dublin 2
+  branch_address: Cbfsai Dublin 2
+  branch_code: CRS
+  city: Dublin
+  country: Ireland
+- name: Central Bank Of Ireland
+  swift: IRCEIE2DCUR
+  swift8: IRCEIE2D
+  branch_name: Dublin
+  branch_address: Dublin
+  branch_code: CUR
+  city: Dublin
+  country: Ireland
+- name: Central Bank Of Ireland
+  swift: IRCEIE2DFOR
+  swift8: IRCEIE2D
+  branch_name: Futures
+  branch_address: Dublin
+  branch_code: FOR
+  city: Dublin
+  country: Ireland
+- name: Central Bank Of Ireland
+  swift: IRCEIE2DIPC
+  swift8: IRCEIE2D
+  branch_name: Irish Paper Clearing
+  branch_address: Cbfsai Dublin 2
+  branch_code: IPC
+  city: Dublin
+  country: Ireland
+- name: Central Bank Of Ireland
+  swift: IRCEIE2DIRC
+  swift8: IRCEIE2D
+  branch_name: Irish Electronic Clearing
+  branch_address: Cbfsai Dublin 2
+  branch_code: IRC
+  city: Dublin
+  country: Ireland
+- name: Central Bank Of Ireland
+  swift: IRCEIE2DXXX
+  swift8: IRCEIE2D
+  branch_name: Head Office
+  branch_address: Dame Street Dublin 2
+  branch_code: XXX
+  city: Dublin
+  country: Ireland
+- name: Central Bank Of Ireland
+  swift: IRCEIE21HAM
+  swift8: IRCEIE21
+  branch_name: Dublin
+  branch_address: Dublin
+  branch_code: HAM
+  city: Dublin
+  country: Ireland
+- name: Central Bank Of Ireland
+  swift: IRCEIE21PMM
+  swift8: IRCEIE21
+  branch_name: Dublin
+  branch_address: Dublin
+  branch_code: PMM
+  city: Dublin
+  country: Ireland
+- name: Central Bank Of Ireland
+  swift: IRCEIE2DEPA
+  swift8: IRCEIE2D
+  branch_name: Dublin
+  branch_address: Dublin
+  branch_code: EPA
+  city: Dublin
+  country: Ireland
+- name: Central Bank Of Ireland
+  swift: IRCEIE2DTOM
+  swift8: IRCEIE2D
+  branch_name: Treasury Operations Management
+  branch_address: No branch address
+  branch_code: TOM
+  city: Dublin
+  country: Ireland
+- name: Chase Manhattan Bank (Ireland) Plc (Formerly Chasebank (Ireland) Plc)
+  swift: CHASIE2XENQ
+  swift8: CHASIE2X
+  branch_name: Telex and S W I F T Message Enquiries
+  branch_address: Dublin
+  branch_code: ENQ
+  city: Dublin
+  country: Ireland
+- name: Citco Bank Nederland N.V., Dublin Branch
+  swift: CITCIE2DXXX
+  swift8: CITCIE2D
+  branch_name: Head Office
+  branch_address: Custom House Plaza Dublin 1
+  branch_code: XXX
+  city: Dublin
+  country: Ireland
+- name: Citco Fund Services Ireland Limited
+  swift: CFSHIE2DXXX
+  swift8: CFSHIE2D
+  branch_name: Head Office
+  branch_address: Block 6 Ifsc Dublin 1
+  branch_code: XXX
+  city: Dublin
+  country: Ireland
+- name: Citco Fund Services Ireland Limited
+  swift: CFSHIE2DFEC
+  swift8: CFSHIE2D
+  branch_name: Dublin
+  branch_address: Dublin
+  branch_code: FEC
+  city: Dublin
+  country: Ireland
+- name: Citco Fund Services Ireland Limited
+  swift: CFSHIE2DMUR
+  swift8: CFSHIE2D
+  branch_name: No branch name
+  branch_address: No branch address
+  branch_code: MUR
+  city: Dublin
+  country: Ireland
+- name: Citco Fund Services Ireland Limited
+  swift: CFSHIE2DSCU
+  swift8: CFSHIE2D
+  branch_name: Cur Accounts
+  branch_address: No branch address
+  branch_code: SCU
+  city: Dublin
+  country: Ireland
+- name: Citco Fund Services Ireland Limited
+  swift: CFSHIE2DSDU
+  swift8: CFSHIE2D
+  branch_name: Dublin
+  branch_address: Dublin
+  branch_code: SDU
+  city: Dublin
+  country: Ireland
+- name: Citibank Europe Plc
+  swift: CITIIE2XXXX
+  swift8: CITIIE2X
+  branch_name: Head Office
+  branch_address: 1 North Wall Quay Dublin 1
+  branch_code: XXX
+  city: Dublin
+  country: Ireland
+- name: Citibank International Plc, Dublin
+  swift: CITIIE3DXXX
+  swift8: CITIIE3D
+  branch_name: Head Office
+  branch_address: 1 North Wall Quay Dublin
+  branch_code: XXX
+  city: Dublin
+  country: Ireland
+- name: Citibank Ireland Financial Services Plc
+  swift: CITIIE4XITA
+  swift8: CITIIE4X
+  branch_name: Transfer Agency Services
+  branch_address: Dublin
+  branch_code: ITA
+  city: Dublin
+  country: Ireland
+- name: Credit Suisse International Dublin Branch
+  swift: CRESIE2DXXX
+  swift8: CRESIE2D
+  branch_name: Head Office
+  branch_address: Fortis House Dublin 1
+  branch_code: XXX
+  city: Dublin
+  country: Ireland
+- name: Danske Bank A/S
+  swift: DABAIE2D600
+  swift8: DABAIE2D
+  branch_name: Dun Laoghaire
+  branch_address: Dun Laoghaire
+  branch_code: '600'
+  city: Dun Laoghaire
+  country: Ireland
+- name: Danske Bank A/S
+  swift: DABAIE2D735
+  swift8: DABAIE2D
+  branch_name: No branch name
+  branch_address: No branch address
+  branch_code: '735'
+  city: Dublin
+  country: Ireland
+- name: Danske Bank A/S
+  swift: DABAIE2D736
+  swift8: DABAIE2D
+  branch_name: No branch name
+  branch_address: No branch address
+  branch_code: '736'
+  city: Dublin
+  country: Ireland
+- name: Danske Bank A/S
+  swift: DABAIE2D737
+  swift8: DABAIE2D
+  branch_name: No branch name
+  branch_address: No branch address
+  branch_code: '737'
+  city: Dublin
+  country: Ireland
+- name: Danske Bank A/S
+  swift: DABAIE2D738
+  swift8: DABAIE2D
+  branch_name: No branch name
+  branch_address: No branch address
+  branch_code: '738'
+  city: Dublin
+  country: Ireland
+- name: Danske Bank A/S
+  swift: DABAIE2D739
+  swift8: DABAIE2D
+  branch_name: No branch name
+  branch_address: No branch address
+  branch_code: '739'
+  city: Dublin
+  country: Ireland
+- name: Danske Bank A/S
+  swift: DABAIE2D740
+  swift8: DABAIE2D
+  branch_name: No branch name
+  branch_address: No branch address
+  branch_code: '740'
+  city: Dublin
+  country: Ireland
+- name: Danske Bank A/S
+  swift: DABAIE2D742
+  swift8: DABAIE2D
+  branch_name: No branch name
+  branch_address: No branch address
+  branch_code: '742'
+  city: Dublin
+  country: Ireland
+- name: Danske Bank A/S
+  swift: DABAIE2D743
+  swift8: DABAIE2D
+  branch_name: No branch name
+  branch_address: No branch address
+  branch_code: '743'
+  city: Dublin
+  country: Ireland
+- name: Danske Bank A/S
+  swift: DABAIE2D745
+  swift8: DABAIE2D
+  branch_name: No branch name
+  branch_address: No branch address
+  branch_code: '745'
+  city: Dublin
+  country: Ireland
+- name: Danske Bank A/S
+  swift: DABAIE2D746
+  swift8: DABAIE2D
+  branch_name: No branch name
+  branch_address: No branch address
+  branch_code: '746'
+  city: Dublin
+  country: Ireland
+- name: Danske Bank A/S
+  swift: DABAIE2D748
+  swift8: DABAIE2D
+  branch_name: Dublin 24
+  branch_address: National House Dublin 24
+  branch_code: '748'
+  city: Dublin
+  country: Ireland
+- name: Danske Bank A/S
+  swift: DABAIE2D749
+  swift8: DABAIE2D
+  branch_name: Dublin 24
+  branch_address: National House Dublin 24
+  branch_code: '749'
+  city: Dublin
+  country: Ireland
+- name: Danske Bank A/S
+  swift: DABAIE2D760
+  swift8: DABAIE2D
+  branch_name: Dublin 23
+  branch_address: National House Dublin 23
+  branch_code: '760'
+  city: Dublin
+  country: Ireland
+- name: Danske Bank A/S
+  swift: DABAIE2D761
+  swift8: DABAIE2D
+  branch_name: Dublin 24
+  branch_address: National House Dublin 24
+  branch_code: '761'
+  city: Dublin
+  country: Ireland
+- name: Danske Bank A/S
+  swift: DABAIE2D762
+  swift8: DABAIE2D
+  branch_name: Dublin 24
+  branch_address: National House Dublin 24
+  branch_code: '762'
+  city: Dublin
+  country: Ireland
+- name: Danske Bank A/S
+  swift: DABAIE2D763
+  swift8: DABAIE2D
+  branch_name: Dublin 24
+  branch_address: National House Dublin 24
+  branch_code: '763'
+  city: Dublin
+  country: Ireland
+- name: Danske Bank A/S
+  swift: DABAIE2D764
+  swift8: DABAIE2D
+  branch_name: Dublin 24
+  branch_address: National House Dublin 24
+  branch_code: '764'
+  city: Dublin
+  country: Ireland
+- name: Danske Bank A/S
+  swift: DABAIE2D765
+  swift8: DABAIE2D
+  branch_name: Dublin 24
+  branch_address: National House Dublin 24
+  branch_code: '765'
+  city: Dublin
+  country: Ireland
+- name: Danske Bank A/S
+  swift: DABAIE2D766
+  swift8: DABAIE2D
+  branch_name: Dublin 24
+  branch_address: National House Dublin 24
+  branch_code: '766'
+  city: Dublin
+  country: Ireland
+- name: Depfa Acs Bank
+  swift: DPFAIE3XXXX
+  swift8: DPFAIE3X
+  branch_name: Head Office
+  branch_address: Ifsc Dublin 14
+  branch_code: XXX
+  city: Dublin
+  country: Ireland
+- name: Depfa Bank Plc
+  swift: DPFAIE2DXXX
+  swift8: DPFAIE2D
+  branch_name: Head Office
+  branch_address: 1 Commons Street Dublin 1
+  branch_code: XXX
+  city: Dublin
+  country: Ireland
+- name: Dexia Bank Belgium, Dublin Branch
+  swift: DXIAIE2DXXX
+  swift8: DXIAIE2D
+  branch_name: Head Office
+  branch_address: Ifsc Dublin 1
+  branch_code: XXX
+  city: Dublin
+  country: Ireland
+- name: Dexia Credit Local Dublin
+  swift: CLFRIE2DXXX
+  swift8: CLFRIE2D
+  branch_name: Head Office
+  branch_address: 6 Georgesd Dock Ifsc Dublin 1
+  branch_code: XXX
+  city: Dublin
+  country: Ireland
+- name: Eaa Covered Bond Bank Plc
+  swift: WELAIE2XXXX
+  swift8: WELAIE2X
+  branch_name: Head Office
+  branch_address: I.F.S.C. House Dublin
+  branch_code: XXX
+  city: Dublin
+  country: Ireland
+- name: Ebs Limited
+  swift: EBSIIE2DEMF
+  swift8: EBSIIE2D
+  branch_name: Ebs Mortgage Finance
+  branch_address: Ebs Building Dublin 4
+  branch_code: EMF
+  city: Dublin
+  country: Ireland
+- name: Ebs Limited
+  swift: EBSIIE2DSDD
+  swift8: EBSIIE2D
+  branch_name: Dublin
+  branch_address: Dublin
+  branch_code: SDD
+  city: Dublin
+  country: Ireland
+- name: Ebs Limited
+  swift: EBSIIE2DXXX
+  swift8: EBSIIE2D
+  branch_name: Head Office
+  branch_address: Ebs Building Dublin 4
+  branch_code: XXX
+  city: Dublin
+  country: Ireland
+- name: Elavon Financial Services Limited
+  swift: USBKIE2DCTS
+  swift8: USBKIE2D
+  branch_name: Corporate Trust Services
+  branch_address: Block E Dublin 18
+  branch_code: CTS
+  city: Dublin
+  country: Ireland
+- name: Elavon Financial Services Limited
+  swift: USBKIE2DXXX
+  swift8: USBKIE2D
+  branch_name: Head Office
+  branch_address: Block E Dublin 18
+  branch_code: XXX
+  city: Dublin
+  country: Ireland
+- name: Emersub Treasury Ireland
+  swift: EMRTIE2DXXX
+  swift8: EMRTIE2D
+  branch_name: Head Office
+  branch_address: Riverside One Dublin 2
+  branch_code: XXX
+  city: Dublin
+  country: Ireland
+- name: Fce Bank Plc
+  swift: FCEFIE21XXX
+  swift8: FCEFIE21
+  branch_name: Head Office
+  branch_address: Hume House Dublin
+  branch_code: XXX
+  city: Dublin
+  country: Ireland
+- name: Fti Finance Ltd
+  swift: FTIFIE2DXXX
+  swift8: FTIFIE2D
+  branch_name: Head Office
+  branch_address: 4 Custom House Plaza Dublin
+  branch_code: XXX
+  city: Dublin
+  country: Ireland
+- name: Gam Fund Management Limited
+  swift: GLAMIE2DXXX
+  swift8: GLAMIE2D
+  branch_name: Head Office
+  branch_address: Georges Court Dublin 2
+  branch_code: XXX
+  city: Dublin
+  country: Ireland
+- name: Goldman Sachs Bank (Europe) Plc
+  swift: GOSRIE2EXXX
+  swift8: GOSRIE2E
+  branch_name: Head Office
+  branch_address: Hardwicke House Dublin
+  branch_code: XXX
+  city: Dublin
+  country: Ireland
+- name: Goldman Sachs Bank (Europe) Plc
+  swift: GOSRIE21XXX
+  swift8: GOSRIE21
+  branch_name: Head Office
+  branch_address: Hardwicke House Dublin 2
+  branch_code: XXX
+  city: Dublin
+  country: Ireland
+- name: Hfc Bank Limited
+  swift: HTSLIE21XXX
+  swift8: HTSLIE21
+  branch_name: Head Office
+  branch_address: Newmount House Dublin 24
+  branch_code: XXX
+  city: Dublin
+  country: Ireland
+- name: Hsbc Bank Plc
+  swift: HSBCIE2DSDD
+  swift8: HSBCIE2D
+  branch_name: Sepa Direct Debits
+  branch_address: Dublin
+  branch_code: SDD
+  city: Dublin
+  country: Ireland
+- name: Hsbc Bank Plc
+  swift: HSBCIE2DXXX
+  swift8: HSBCIE2D
+  branch_name: Head Office
+  branch_address: 1 Grand Canal Square Dublin 2
+  branch_code: XXX
+  city: Dublin
+  country: Ireland
+- name: Hsbc Institutional Trust Services (Ireland) Limited
+  swift: BTDLIE2DXXX
+  swift8: BTDLIE2D
+  branch_name: Head Office
+  branch_address: 1 Grand Canal Square, Grand Canal Dublin 2
+  branch_code: XXX
+  city: Dublin
+  country: Ireland
+- name: Ing Bank Nv - Dublin Branch
+  swift: INGBIE2DICM
+  swift8: INGBIE2D
+  branch_name: Dublin Branch International Cash Management Icm Eu
+  branch_address: Dublin
+  branch_code: ICM
+  city: Dublin
+  country: Ireland
+- name: Ing Bank Nv - Dublin Branch
+  swift: INGBIE2DXXX
+  swift8: INGBIE2D
+  branch_name: Head Office
+  branch_address: 49 St. Stephens Green Dublin 2
+  branch_code: XXX
+  city: Dublin
+  country: Ireland
+- name: Ing European Financial Services Plc (Formerly Oyak European Finance Plc)
+  swift: INGBIE3DXXX
+  swift8: INGBIE3D
+  branch_name: Head Office
+  branch_address: 49 St. Stephens Green Dublin 2
+  branch_code: XXX
+  city: Dublin
+  country: Ireland
+- name: Ingersoll-Rand International Finance Limited
+  swift: IRIFIE2DXXX
+  swift8: IRIFIE2D
+  branch_name: Head Office
+  branch_address: Lakeview Drive Swords
+  branch_code: XXX
+  city: Swords
+  country: Ireland
+- name: Interpay Ltd
+  swift: EPAYIE2KXXX
+  swift8: EPAYIE2K
+  branch_name: Head Office
+  branch_address: Ida Business and Technology Park Kilkenny
+  branch_code: XXX
+  city: Kilkenny
+  country: Ireland
+- name: Intesa Sanpaolo Bank Ireland Plc
+  swift: BCITIE2DXXX
+  swift8: BCITIE2D
+  branch_name: Head Office
+  branch_address: Kbc House Dublin 1
+  branch_code: XXX
+  city: Dublin
+  country: Ireland
+- name: Investec Bank Plc (Irish Branch)
+  swift: TRIBIE2DXXX
+  swift8: TRIBIE2D
+  branch_name: Head Office
+  branch_address: The Harocurt Building Dublin 2
+  branch_code: XXX
+  city: Dublin
+  country: Ireland
+- name: Investment Technology Group Ltd.
+  swift: ITGLIE2DXXX
+  swift8: ITGLIE2D
+  branch_name: Head Office
+  branch_address: Georges Court, 54-62 Dublin 2
+  branch_code: XXX
+  city: Dublin
+  country: Ireland
+- name: Investment Technology Group Ltd.
+  swift: ITGLIE21XXX
+  swift8: ITGLIE21
+  branch_name: Head Office
+  branch_address: Georges Court, 54-62 Dublin 2
+  branch_code: XXX
+  city: Dublin
+  country: Ireland
+- name: Investment Technology Group Ltd.
+  swift: ITGLIE2DAUS
+  swift8: ITGLIE2D
+  branch_name: Dublin
+  branch_address: Dublin
+  branch_code: AUS
+  city: Dublin
+  country: Ireland
+- name: Investment Technology Group Ltd.
+  swift: ITGLIE2DCAN
+  swift8: ITGLIE2D
+  branch_name: Dublin
+  branch_address: Dublin
+  branch_code: CAN
+  city: Dublin
+  country: Ireland
+- name: Investment Technology Group Ltd.
+  swift: ITGLIE2DHKD
+  swift8: ITGLIE2D
+  branch_name: Dublin
+  branch_address: Dublin
+  branch_code: HKD
+  city: Dublin
+  country: Ireland
+- name: Investment Technology Group Ltd.
+  swift: ITGLIE2DNYC
+  swift8: ITGLIE2D
+  branch_name: Dublin
+  branch_address: Dublin
+  branch_code: NYC
+  city: Dublin
+  country: Ireland
+- name: Irish Life And Permanent Plc (Formerly Irish Permanent Building Society)
+  swift: IPBSIE2DXXX
+  swift8: IPBSIE2D
+  branch_name: Head Office
+  branch_address: Edmund Farrell House Dublin 2
+  branch_code: XXX
+  city: Dublin
+  country: Ireland
+- name: Irish Progressive Services International Ltd
+  swift: IPSIIE2DXXX
+  swift8: IPSIIE2D
+  branch_name: Head Office
+  branch_address: 100 Lower Mount Street Dublin D2
+  branch_code: XXX
+  city: Dublin
+  country: Ireland
+- name: Irish Progressive Services International Ltd
+  swift: IPSIIE31XXX
+  swift8: IPSIIE31
+  branch_name: Head Office
+  branch_address: Ipsi Dublin 2
+  branch_code: XXX
+  city: Dublin
+  country: Ireland
+- name: J.P. Morgan Bank (Ireland) Plc
+  swift: CHASIE2DBGI
+  swift8: CHASIE2D
+  branch_name: Dublin Transfer Agency Bgi
+  branch_address: Dublin
+  branch_code: BGI
+  city: Dublin
+  country: Ireland
+- name: J.P. Morgan Bank (Ireland) Plc
+  swift: CHASIE2DVAN
+  swift8: CHASIE2D
+  branch_name: Chase Dublin Vanguard
+  branch_address: Dublin
+  branch_code: VAN
+  city: Dublin
+  country: Ireland
+- name: J.P. Morgan Bank (Ireland) Plc
+  swift: CHASIE2DXXX
+  swift8: CHASIE2D
+  branch_name: Head Office
+  branch_address: International Financial Services Dublin 1
+  branch_code: XXX
+  city: Dublin
+  country: Ireland
+- name: J.P. Morgan Bank (Ireland) Plc
+  swift: CHASIE2XBGI
+  swift8: CHASIE2X
+  branch_name: Dublin Transfer Agency
+  branch_address: Dublin
+  branch_code: BGI
+  city: Dublin
+  country: Ireland
+- name: J.P. Morgan Bank (Ireland) Plc
+  swift: CHASIE2XKEY
+  swift8: CHASIE2X
+  branch_name: Test Key and Bke Administration
+  branch_address: Dublin
+  branch_code: KEY
+  city: Dublin
+  country: Ireland
+- name: J.P. Morgan Bank (Ireland) Plc
+  swift: CHASIE2XXXX
+  swift8: CHASIE2X
+  branch_name: Head Office
+  branch_address: Jpmorgan House Dublin 1
+  branch_code: XXX
+  city: Dublin
+  country: Ireland
+- name: J.P. Morgan Bank Dublin Plc
+  swift: JPMBIE2DXXX
+  swift8: JPMBIE2D
+  branch_name: Head Office
+  branch_address: Harcourt Centre Dublin
+  branch_code: XXX
+  city: Dublin
+  country: Ireland
+- name: Kbc Bank Ireland Plc
+  swift: ICONIE2DXXX
+  swift8: ICONIE2D
+  branch_name: Head Office
+  branch_address: Sandwith House Dublin 2
+  branch_code: XXX
+  city: Dublin
+  country: Ireland
+- name: Kbc Bank Nv Dublin Branch
+  swift: KBDUIE2DXXX
+  swift8: KBDUIE2D
+  branch_name: Head Office
+  branch_address: I.F.S.C. House Dublin 1
+  branch_code: XXX
+  city: Dublin
+  country: Ireland
+- name: Kleinwort Benson Investors Dublin Limited
+  swift: KBENIE2DXXX
+  swift8: KBENIE2D
+  branch_name: Head Office
+  branch_address: Joshua Dawson House Dublin 2
+  branch_code: XXX
+  city: Dublin
+  country: Ireland
+- name: Leaseplan Finance N.V. (Dublin Branch)
+  swift: LPLNIE2DXXX
+  swift8: LPLNIE2D
+  branch_name: Head Office
+  branch_address: 6 Suffolk Street Dublin 2
+  branch_code: XXX
+  city: Dublin
+  country: Ireland
+- name: Lee Overlay Partners Ltd
+  swift: LEEOIE2DXXX
+  swift8: LEEOIE2D
+  branch_name: Head Office
+  branch_address: Dublin
+  branch_code: XXX
+  city: Dublin
+  country: Ireland
+- name: Lgt Bank (Ireland) Limited
+  swift: BLFLIE2DXXX
+  swift8: BLFLIE2D
+  branch_name: Head Office
+  branch_address: Segrave House Dublin 2
+  branch_code: XXX
+  city: Dublin
+  country: Ireland
+- name: Merrill Lynch International Bank Limited
+  swift: MLMBIE2DMCS
+  swift8: MLMBIE2D
+  branch_name: Ml Commodities Inc
+  branch_address: Dublin
+  branch_code: MCS
+  city: Dublin
+  country: Ireland
+- name: Merrill Lynch International Bank Limited
+  swift: MLMBIE2DXXX
+  swift8: MLMBIE2D
+  branch_name: Head Office
+  branch_address: Central Park Dublin 18
+  branch_code: XXX
+  city: Dublin
+  country: Ireland
+- name: Merrill Lynch International Bank Limited
+  swift: MLMBIE2XFUT
+  swift8: MLMBIE2X
+  branch_name: Futures
+  branch_address: Treasury Building Dublin 2
+  branch_code: FUT
+  city: Dublin
+  country: Ireland
+- name: Merrill Lynch International Bank Limited
+  swift: MLMBIE2XIST
+  swift8: MLMBIE2X
+  branch_name: Mlmd
+  branch_address: Dublin
+  branch_code: IST
+  city: Dublin
+  country: Ireland
+- name: Merrill Lynch International Bank Limited
+  swift: MLMBIE2XITL
+  swift8: MLMBIE2X
+  branch_name: Dublin
+  branch_address: Dublin
+  branch_code: ITL
+  city: Dublin
+  country: Ireland
+- name: Merrill Lynch International Bank Limited
+  swift: MLMBIE2XLON
+  swift8: MLMBIE2X
+  branch_name: Loans
+  branch_address: Dublin
+  branch_code: LON
+  city: Dublin
+  country: Ireland
+- name: Merrill Lynch International Bank Limited
+  swift: MLMBIE2XMET
+  swift8: MLMBIE2X
+  branch_name: Precious Metals Branch
+  branch_address: Dublin
+  branch_code: MET
+  city: Dublin
+  country: Ireland
+- name: Merrill Lynch International Bank Limited
+  swift: MLMBIE2XMSO
+  swift8: MLMBIE2X
+  branch_name: Ml Securities Ooo
+  branch_address: Dublin
+  branch_code: MSO
+  city: Dublin
+  country: Ireland
+- name: Merrill Lynch International Bank Limited
+  swift: MLMBIE2XMTB
+  swift8: MLMBIE2X
+  branch_name: Mlt Brokerage Proprietary Trading Services Department
+  branch_address: Dublin
+  branch_code: MTB
+  city: Dublin
+  country: Ireland
+- name: Merrill Lynch International Bank Limited
+  swift: MLMBIE2XXXX
+  swift8: MLMBIE2X
+  branch_name: Head Office
+  branch_address: Central Park Dublin 18
+  branch_code: XXX
+  city: Dublin
+  country: Ireland
+- name: Merrill Lynch International Bank Limited
+  swift: MLMBIE2XFFO
+  swift8: MLMBIE2X
+  branch_name: Mli Cleared Derivatives
+  branch_address: Dublin
+  branch_code: FFO
+  city: Dublin
+  country: Ireland
+- name: National Irish Bank (Part Of Danske Bank Group)
+  swift: DABAIE2D606
+  swift8: DABAIE2D
+  branch_name: Balbriggan
+  branch_address: Balbriggan
+  branch_code: '606'
+  city: Balbriggan
+  country: Ireland
+- name: National Irish Bank (Part Of Danske Bank Group)
+  swift: DABAIE2D601
+  swift8: DABAIE2D
+  branch_name: Bailieborough
+  branch_address: Bailieborough
+  branch_code: '601'
+  city: Bailieborough
+  country: Ireland
+- name: National Irish Bank (Part Of Danske Bank Group)
+  swift: DABAIE2D633
+  swift8: DABAIE2D
+  branch_name: Athlone
+  branch_address: Athlone
+  branch_code: '633'
+  city: Athlone
+  country: Ireland
+- name: National Irish Bank (Part Of Danske Bank Group)
+  swift: DABAIE2D615
+  swift8: DABAIE2D
+  branch_name: Ballinasloe
+  branch_address: Ballinasloe
+  branch_code: '615'
+  city: Ballinasloe
+  country: Ireland
+- name: National Irish Bank (Part Of Danske Bank Group)
+  swift: DABAIE2D757
+  swift8: DABAIE2D
+  branch_name: Ballincollig
+  branch_address: High Street Ballincollig Ballincollig
+  branch_code: '757'
+  city: Ballincollig
+  country: Ireland
+- name: National Irish Bank (Part Of Danske Bank Group)
+  swift: DABAIE2D621
+  swift8: DABAIE2D
+  branch_name: Ballybofey
+  branch_address: Ballybofey
+  branch_code: '621'
+  city: Ballybofey
+  country: Ireland
+- name: National Irish Bank (Part Of Danske Bank Group)
+  swift: DABAIE2D611
+  swift8: DABAIE2D
+  branch_name: Ballinamore
+  branch_address: Ballinamore
+  branch_code: '611'
+  city: Ballinamore
+  country: Ireland
+- name: National Irish Bank (Part Of Danske Bank Group)
+  swift: DABAIE2D502
+  swift8: DABAIE2D
+  branch_name: Blanchardstown
+  branch_address: Main St Blanchardstown 15
+  branch_code: '502'
+  city: Blanchardstown
+  country: Ireland
+- name: National Irish Bank (Part Of Danske Bank Group)
+  swift: DABAIE2D631
+  swift8: DABAIE2D
+  branch_name: Bray
+  branch_address: Bray
+  branch_code: '631'
+  city: Bray
+  country: Ireland
+- name: National Irish Bank (Part Of Danske Bank Group)
+  swift: DABAIE2D626
+  swift8: DABAIE2D
+  branch_name: Boyle
+  branch_address: Boyle
+  branch_code: '626'
+  city: Boyle
+  country: Ireland
+- name: National Irish Bank (Part Of Danske Bank Group)
+  swift: DABAIE2D648
+  swift8: DABAIE2D
+  branch_name: Castlebar
+  branch_address: Castlebar
+  branch_code: '648'
+  city: Castlebar
+  country: Ireland
+- name: National Irish Bank (Part Of Danske Bank Group)
+  swift: DABAIE2D646
+  swift8: DABAIE2D
+  branch_name: Carrick-On-Shannon
+  branch_address: Carrick-On-Shannon
+  branch_code: '646'
+  city: Carrick-On-Shannon
+  country: Ireland
+- name: National Irish Bank (Part Of Danske Bank Group)
+  swift: DABAIE2D661
+  swift8: DABAIE2D
+  branch_name: Drumshanbo
+  branch_address: St George Terrace Drumshanbo Carrick-On-Shannon
+  branch_code: '661'
+  city: Carrick-On-Shannon
+  country: Ireland
+- name: National Irish Bank (Part Of Danske Bank Group)
+  swift: DABAIE2D696
+  swift8: DABAIE2D
+  branch_name: Mohill
+  branch_address: St George Terrace Carrick-On-Shannon
+  branch_code: '696'
+  city: Carrick-On-Shannon
+  country: Ireland
+- name: National Irish Bank (Part Of Danske Bank Group)
+  swift: DABAIE2D751
+  swift8: DABAIE2D
+  branch_name: Cavan
+  branch_address: 1 Main Street Cavan
+  branch_code: '751'
+  city: Cavan
+  country: Ireland
+- name: National Irish Bank (Part Of Danske Bank Group)
+  swift: DABAIE2D668
+  swift8: DABAIE2D
+  branch_name: Clonmel
+  branch_address: Clonmel
+  branch_code: '668'
+  city: Clonmel
+  country: Ireland
+- name: National Irish Bank (Part Of Danske Bank Group)
+  swift: DABAIE2D636
+  swift8: DABAIE2D
+  branch_name: Cardonagh
+  branch_address: Carndonagh
+  branch_code: '636'
+  city: Carndonagh
+  country: Ireland
+- name: National Irish Bank (Part Of Danske Bank Group)
+  swift: DABAIE2D753
+  swift8: DABAIE2D
+  branch_name: Drogheda
+  branch_address: Boyne Tower Drogheda
+  branch_code: '753'
+  city: Drogheda
+  country: Ireland
+- name: National Irish Bank (Part Of Danske Bank Group)
+  swift: DABAIE2D653
+  swift8: DABAIE2D
+  branch_name: Cork
+  branch_address: Cork
+  branch_code: '653'
+  city: Cork
+  country: Ireland
+- name: National Irish Bank (Part Of Danske Bank Group)
+  swift: DABAIE2D655
+  swift8: DABAIE2D
+  branch_name: Wilton
+  branch_address: 71 South Mall Wilton Cork
+  branch_code: '655'
+  city: Cork
+  country: Ireland
+- name: National Treasury Management Agency
+  swift: NTMAIE2DXXX
+  swift8: NTMAIE2D
+  branch_name: Head Office
+  branch_address: Treasury House Dublin 2
+  branch_code: XXX
+  city: Dublin
+  country: Ireland
+- name: Northern Rock Plc
+  swift: NROKIE21XXX
+  swift8: NROKIE21
+  branch_name: Head Office
+  branch_address: Ormond House Dublin
+  branch_code: XXX
+  city: Dublin
+  country: Ireland
+- name: Northern Trust Fiduciary Services (Ireland) Limited
+  swift: CNORIE2DETA
+  swift8: CNORIE2D
+  branch_name: European Transfer Agency
+  branch_address: Dublin
+  branch_code: ETA
+  city: Dublin
+  country: Ireland
+- name: Northern Trust Fiduciary Services (Ireland) Limited
+  swift: CNORIE2DXXX
+  swift8: CNORIE2D
+  branch_name: Head Office
+  branch_address: Georges Quay House Dublin 2
+  branch_code: XXX
+  city: Dublin
+  country: Ireland
+- name: Pacnet Services Ltd
+  swift: PNSEIE2DXXX
+  swift8: PNSEIE2D
+  branch_name: Head Office
+  branch_address: Shannon Airport House Shannon Co. Clare
+  branch_code: XXX
+  city: Shannon
+  country: Ireland
+- name: Pershing Securities International Ltd
+  swift: PERLIE2DXXX
+  swift8: PERLIE2D
+  branch_name: Head Office
+  branch_address: Embassy House Dublin 4
+  branch_code: XXX
+  city: Dublin
+  country: Ireland
+- name: Pfizer Service Company Ireland
+  swift: PFIZIE2DGFS
+  swift8: PFIZIE2D
+  branch_name: Ssc Dublin
+  branch_address: Dublin
+  branch_code: GFS
+  city: Dublin
+  country: Ireland
+- name: Pfizer Service Company Ireland
+  swift: PFIZIE2DHDO
+  swift8: PFIZIE2D
+  branch_name: Dublin
+  branch_address: Dublin
+  branch_code: HDO
+  city: Dublin
+  country: Ireland
+- name: Pfizer Service Company Ireland
+  swift: PFIZIE2DXXX
+  swift8: PFIZIE2D
+  branch_name: Head Office
+  branch_address: Watermarque Building Dublin 4
+  branch_code: XXX
+  city: Dublin
+  country: Ireland
+- name: Rabobank Ireland Plc
+  swift: RABOIE2DXXX
+  swift8: RABOIE2D
+  branch_name: Head Office
+  branch_address: Charlemont Place Dublin 2
+  branch_code: XXX
+  city: Dublin
+  country: Ireland
+- name: Rbc Dexia Investor Services Ireland
+  swift: BILLIE2DXXX
+  swift8: BILLIE2D
+  branch_name: Head Office
+  branch_address: Georges Quay House Dublin 2
+  branch_code: XXX
+  city: Dublin
+  country: Ireland
+- name: Scotiabank (Ireland) Limited
+  swift: NOSCIE2XXXX
+  swift8: NOSCIE2X
+  branch_name: Head Office
+  branch_address: I.F.S.C. House Dublin 1
+  branch_code: XXX
+  city: Dublin
+  country: Ireland
+- name: Sentenial Ltd
+  swift: SLTDIE2MXXX
+  swift8: SLTDIE2M
+  branch_name: Head Office
+  branch_address: Maynooth Business Campus Maynooth
+  branch_code: XXX
+  city: Maynooth
+  country: Ireland
+- name: Smurfit Kappa Treasury
+  swift: SMKTIE22XXX
+  swift8: SMKTIE22
+  branch_name: Head Office
+  branch_address: Beach Hill, Clonskeagh Dublin 4
+  branch_code: XXX
+  city: Dublin
+  country: Ireland
+- name: Societe Generale S.A.
+  swift: SOGEIE21XXX
+  swift8: SOGEIE21
+  branch_name: Head Office
+  branch_address: Exchange Place, Custom House Docks Dublin
+  branch_code: XXX
+  city: Dublin
+  country: Ireland
+- name: State Street Fund Services (Ireland) Limited
+  swift: SBOSIE2DTAD
+  swift8: SBOSIE2D
+  branch_name: Transfer Agency Department
+  branch_address: Dublin
+  branch_code: TAD
+  city: Dublin
+  country: Ireland
+- name: State Street Fund Services (Ireland) Limited
+  swift: SBOSIE2DXXX
+  swift8: SBOSIE2D
+  branch_name: Head Office
+  branch_address: 78 Sir John Rogersons Quay Dublin 2
+  branch_code: XXX
+  city: Dublin
+  country: Ireland
+- name: Sumitomo Mitsui Finance (Dublin) Ltd
+  swift: SMFDIE2DXXX
+  swift8: SMFDIE2D
+  branch_name: Head Office
+  branch_address: La Touche House Dublin 1
+  branch_code: XXX
+  city: Dublin
+  country: Ireland
+- name: The Royal Bank Of Scotland N.V.
+  swift: ABNAIE2DXXX
+  swift8: ABNAIE2D
+  branch_name: Head Office
+  branch_address: Ulster Bank Group Centre Dublin 2
+  branch_code: XXX
+  city: Dublin
+  country: Ireland
+- name: Ubs (Luxembourg) Sa Dublin Branch
+  swift: UBSWIE3DXXX
+  swift8: UBSWIE3D
+  branch_name: Head Office
+  branch_address: 1 Georges Quay Plaza Dublin 2
+  branch_code: XXX
+  city: Dublin
+  country: Ireland
+- name: Ubs Fund Services (Ireland) Limited
+  swift: UBSWIE2DXXX
+  swift8: UBSWIE2D
+  branch_name: Head Office
+  branch_address: 1 Georges Quay Plaza Dublin 2
+  branch_code: XXX
+  city: Dublin
+  country: Ireland
+- name: Ulster Bank Ireland Ltd Dublin
+  swift: ULSBIE2DECO
+  swift8: ULSBIE2D
+  branch_name: Eco Dublin
+  branch_address: Ulster Bank Grp Centre Dublin
+  branch_code: ECO
+  city: Dublin
+  country: Ireland
+- name: Ulster Bank Ireland Ltd Dublin
+  swift: ULSBIE2DMDK
+  swift8: ULSBIE2D
+  branch_name: Money Desk
+  branch_address: South Block - Ifsc Dublin 1
+  branch_code: MDK
+  city: Dublin
+  country: Ireland
+- name: Ulster Bank Ireland Ltd Dublin
+  swift: ULSBIE2DUCM
+  swift8: ULSBIE2D
+  branch_name: Capital Markets
+  branch_address: Dublin
+  branch_code: UCM
+  city: Dublin
+  country: Ireland
+- name: Ulster Bank Ireland Ltd Dublin
+  swift: ULSBIE2DXXX
+  swift8: ULSBIE2D
+  branch_name: Head Office
+  branch_address: South Block - Ifsc Dublin 1
+  branch_code: XXX
+  city: Dublin
+  country: Ireland
+- name: Unicredit Bank Ireland Plc
+  swift: UNCRIE2DXXX
+  swift8: UNCRIE2D
+  branch_name: Head Office
+  branch_address: La Touche House Dublin 1
+  branch_code: XXX
+  city: Dublin
+  country: Ireland
+- name: Wells Fargo Bank International
+  swift: PNBPIE2DXXX
+  swift8: PNBPIE2D
+  branch_name: Head Office
+  branch_address: International Fin. Services Centre Dublin 1
+  branch_code: XXX
+  city: Dublin
+  country: Ireland
+- name: Wgz Bank Ireland Plc
+  swift: WGZIIE22XXX
+  swift8: WGZIIE22
+  branch_name: Head Office
+  branch_address: International House Dublin 1
+  branch_code: XXX
+  city: Dublin
+  country: Ireland
+- name: Wgz Bank Ireland Plc
+  swift: WGZIIE21XXX
+  swift8: WGZIIE21
+  branch_name: Head Office
+  branch_address: International House Dublin 1
+  branch_code: XXX
+  city: Dublin
+  country: Ireland
+- name: Zurich Bank
+  swift: ZHBKIE2DXXX
+  swift8: ZHBKIE2D
+  branch_name: Head Office
+  branch_address: I.F.S.C. Dublin 1
+  branch_code: XXX
+  city: Dublin
+  country: Ireland
+- name: Zurich Insurance Plc
+  swift: ZURIIE2DCBE
+  swift8: ZURIIE2D
+  branch_name: Dublin
+  branch_address: Dublin
+  branch_code: CBE
+  city: Dublin
+  country: Ireland
+- name: Zurich Insurance Plc
+  swift: ZURIIE2DCDK
+  swift8: ZURIIE2D
+  branch_name: Dublin
+  branch_address: Dublin
+  branch_code: CDK
+  city: Dublin
+  country: Ireland
+- name: Zurich Insurance Plc
+  swift: ZURIIE2DCFI
+  swift8: ZURIIE2D
+  branch_name: Dublin
+  branch_address: Dublin
+  branch_code: CFI
+  city: Dublin
+  country: Ireland
+- name: Zurich Insurance Plc
+  swift: ZURIIE2DCFR
+  swift8: ZURIIE2D
+  branch_name: Dublin
+  branch_address: Dublin
+  branch_code: CFR
+  city: Dublin
+  country: Ireland
+- name: Zurich Insurance Plc
+  swift: ZURIIE2DCGB
+  swift8: ZURIIE2D
+  branch_name: Dublin
+  branch_address: Dublin
+  branch_code: CGB
+  city: Dublin
+  country: Ireland
+- name: Zurich Insurance Plc
+  swift: ZURIIE2DCIT
+  swift8: ZURIIE2D
+  branch_name: Dublin
+  branch_address: Dublin
+  branch_code: CIT
+  city: Dublin
+  country: Ireland
+- name: Zurich Insurance Plc
+  swift: ZURIIE2DCNL
+  swift8: ZURIIE2D
+  branch_name: Dublin
+  branch_address: Dublin
+  branch_code: CNL
+  city: Dublin
+  country: Ireland
+- name: Zurich Insurance Plc
+  swift: ZURIIE2DCNO
+  swift8: ZURIIE2D
+  branch_name: Dublin
+  branch_address: Dublin
+  branch_code: CNO
+  city: Dublin
+  country: Ireland
+- name: Zurich Insurance Plc
+  swift: ZURIIE2DCSE
+  swift8: ZURIIE2D
+  branch_name: Dublin
+  branch_address: Dublin
+  branch_code: CSE
+  city: Dublin
+  country: Ireland
+- name: Zurich Insurance Plc
+  swift: ZURIIE2DPBS
+  swift8: ZURIIE2D
+  branch_name: Pb Solution
+  branch_address: Dublin
+  branch_code: PBS
+  city: Dublin
+  country: Ireland
+- name: Zurich Insurance Plc
+  swift: ZURIIE2DXXX
+  swift8: ZURIIE2D
+  branch_name: Head Office
+  branch_address: Eagle Star House Dublin 4
+  branch_code: XXX
+  city: Dublin
+  country: Ireland
+- name: Zurich Insurance Plc
+  swift: ZURIIE2DZLA
+  swift8: ZURIIE2D
+  branch_name: Zlap
+  branch_address: Dublin
+  branch_code: ZLA
+  city: Dublin
+  country: Ireland
+- name: A.c.c. Staff Credit Union Limited
+  swift: ASRUIE21XXX
+  swift8: ASRUIE21
+  branch_name: Head Office
+  branch_address: Charlemont Place Dublin 2
+  branch_code: XXX
+  city: Dublin
+  country: Ireland
+- name: A.n.s.a.c.credit Union Limited
+  swift: ANUNIE21XXX
+  swift8: ANUNIE21
+  branch_name: Head Office
+  branch_address: 75/76 Amiens Street Dublin 1
+  branch_code: XXX
+  city: Dublin
+  country: Ireland
+- name: A.s.t.i. Credit Union Limited
+  swift: ASRNIE21XXX
+  swift8: ASRNIE21
+  branch_name: Head Office
+  branch_address: Wellington House Dublin 2
+  branch_code: XXX
+  city: Dublin
+  country: Ireland
+- name: Aareal Bank Ag, Dublin Branch
+  swift: AARBIE21XXX
+  swift8: AARBIE21
+  branch_name: Dublin Branch
+  branch_address: 4 Custom House Plaza Dublin
+  branch_code: XXX
+  city: Dublin
+  country: Ireland
+- name: Abbey Capital Ltd
+  swift: ABAPIE21XXX
+  swift8: ABAPIE21
+  branch_name: Head Office
+  branch_address: 1-2 Cavendish Row Dublin 1
+  branch_code: XXX
+  city: Dublin
+  country: Ireland
+- name: Abbeyfeale Credit Union Limited
+  swift: ABRUIE21XXX
+  swift8: ABRUIE21
+  branch_name: Head Office
+  branch_address: Bridge Street Abbeyfeale
+  branch_code: XXX
+  city: Abbeyfeale
+  country: Ireland
+- name: Abbeyleix Credit Union Limited
+  swift: ABRNIE21XXX
+  swift8: ABRNIE21
+  branch_name: Head Office
+  branch_address: Main Street Abbeyleix
+  branch_code: XXX
+  city: Abbeyleix
+  country: Ireland
+- name: Ac Capital Partners Ltd
+  swift: CPATIE21XXX
+  swift8: CPATIE21
+  branch_name: Head Office
+  branch_address: 19/20 City Quay Dublin
+  branch_code: XXX
+  city: Dublin
+  country: Ireland
+- name: Achill Credit Union Limited
+  swift: ACCUIE21XXX
+  swift8: ACCUIE21
+  branch_name: Head Office
+  branch_address: Achill Sound, Co Mayo Achill
+  branch_code: XXX
+  city: Achill
+  country: Ireland
+- name: Aib Capital Markets Plc
+  swift: AICMIE21XXX
+  swift8: AICMIE21
+  branch_name: Head Office
+  branch_address: Aib International Centre Dublin
+  branch_code: XXX
+  city: Dublin
+  country: Ireland
+- name: Aib Capital Markets Public Limited Company
+  swift: ACMOIE21XXX
+  swift8: ACMOIE21
+  branch_name: Head Office
+  branch_address: Bankcentre Dublin 4
+  branch_code: XXX
+  city: Dublin
+  country: Ireland
+- name: Aib Finance Limited
+  swift: AIFIIE21XXX
+  swift8: AIFIIE21
+  branch_name: Head Office
+  branch_address: Sandyford Business Centre Dublin
+  branch_code: XXX
+  city: Dublin
+  country: Ireland
+- name: Aib Mortgage Bank
+  swift: AIMBIE21XXX
+  swift8: AIMBIE21
+  branch_name: Head Office
+  branch_address: Bankcentre Dublin 4
+  branch_code: XXX
+  city: Dublin
+  country: Ireland
+- name: Aig Investments Ireland Limited
+  swift: AIGCIE21XXX
+  swift8: AIGCIE21
+  branch_name: Head Office
+  branch_address: Aig Centre Dublin 4
+  branch_code: XXX
+  city: Dublin
+  country: Ireland
+- name: Alnista Growth Fund Inc
+  swift: ALGFIE21XXX
+  swift8: ALGFIE21
+  branch_name: Head Office
+  branch_address: Block 1 Harcourt Centre Dublin 2
+  branch_code: XXX
+  city: Dublin
+  country: Ireland
+- name: An Post Employees' Credit Union Limited
+  swift: EMCNIE21XXX
+  swift8: EMCNIE21
+  branch_name: Head Office
+  branch_address: Charlotte Quay, Ringsend Road Dublin
+  branch_code: XXX
+  city: Dublin
+  country: Ireland
+- name: An Post Or, In The English Language, The Post Offce
+  swift: PSTSIE21XXX
+  swift8: PSTSIE21
+  branch_name: Head Office
+  branch_address: General Post Office Dublin 2
+  branch_code: XXX
+  city: Dublin
+  country: Ireland
+- name: Annaduff Credit Union Limited
+  swift: ANCUIE21XXX
+  swift8: ANCUIE21
+  branch_name: Head Office
+  branch_address: Credit Union House Dromod
+  branch_code: XXX
+  city: Dromod
+  country: Ireland
+- name: Anp International Finance Ltd
+  swift: AFRNIE21XXX
+  swift8: AFRNIE21
+  branch_name: Head Office
+  branch_address: International House Dublin 1
+  branch_code: XXX
+  city: Dublin
+  country: Ireland
+- name: Aonach Credit Union Limited
+  swift: AOCUIE21XXX
+  swift8: AOCUIE21
+  branch_name: Head Office
+  branch_address: Waterways House Dublin 2
+  branch_code: XXX
+  city: Dublin
+  country: Ireland
+- name: Arainn Credit Union Limited
+  swift: ARRIIE21XXX
+  swift8: ARRIIE21
+  branch_name: Head Office
+  branch_address: Inishmore Kilronan
+  branch_code: XXX
+  city: Kilronan
+  country: Ireland
+- name: Arch Reinsurance Europe
+  swift: ARRPIE21XXX
+  swift8: ARRPIE21
+  branch_name: Head Office
+  branch_address: Embassy House Dublin
+  branch_code: XXX
+  city: Dublin
+  country: Ireland
+- name: Ardee Credit Union Limited
+  swift: ARCUIE21XXX
+  swift8: ARCUIE21
+  branch_name: Head Office
+  branch_address: Market Street Ardee
+  branch_code: XXX
+  city: Ardee
+  country: Ireland
+- name: Ardfinnan Credit Union Limited
+  swift: ARRNIE21XXX
+  swift8: ARRNIE21
+  branch_name: Head Office
+  branch_address: Barrack Street Clonmel
+  branch_code: XXX
+  city: Clonmel
+  country: Ireland
+- name: Arklow Credit Union Limited
+  swift: ARRUIE21XXX
+  swift8: ARRUIE21
+  branch_name: Head Office
+  branch_address: Castlepark Arklow
+  branch_code: XXX
+  city: Arklow
+  country: Ireland
+- name: Athboy Credit Union Limited
+  swift: ATCUIE21XXX
+  swift8: ATCUIE21
+  branch_name: Head Office
+  branch_address: Main Street Athboy
+  branch_code: XXX
+  city: Athboy
+  country: Ireland
+- name: Athea And District Credit Union Limited
+  swift: ADCUIE21XXX
+  swift8: ADCUIE21
+  branch_name: Head Office
+  branch_address: Con Colbert Street Athea
+  branch_code: XXX
+  city: Athea
+  country: Ireland
+- name: Athenry Credit Union Limited
+  swift: ATRUIE21XXX
+  swift8: ATRUIE21
+  branch_name: Head Office
+  branch_address: Old Church Street Athenry
+  branch_code: XXX
+  city: Athenry
+  country: Ireland
+- name: Athlone Credit Union Limited
+  swift: ATROIE21XXX
+  swift8: ATROIE21
+  branch_name: Head Office
+  branch_address: Credit Union House Athlone
+  branch_code: XXX
+  city: Athlone
+  country: Ireland
+- name: Athy Credit Union Limited
+  swift: ATEUIE21XXX
+  swift8: ATEUIE21
+  branch_name: Head Office
+  branch_address: 3 Emily Row Athy
+  branch_code: XXX
+  city: Athy
+  country: Ireland
+- name: Aughrim Street Parish And District Credit Union Limited
+  swift: ASPDIE21XXX
+  swift8: ASPDIE21
+  branch_name: Head Office
+  branch_address: 44-44a Manor Street Dublin 7
+  branch_code: XXX
+  city: Dublin
+  country: Ireland
+- name: Ava Capital Markets Ltd
+  swift: AVACIE21XXX
+  swift8: AVACIE21
+  branch_name: Head Office
+  branch_address: Dublin Exchange Facility Dublin 1
+  branch_code: XXX
+  city: Dublin
+  country: Ireland
+- name: Avonmore Credit Union Limited
+  swift: AVCUIE21XXX
+  swift8: AVCUIE21
+  branch_name: Head Office
+  branch_address: 10 Gilberts Row Rathdrum
+  branch_code: XXX
+  city: Rathdrum
+  country: Ireland
+- name: Ayrfield Credit Union Limited
+  swift: AYCUIE21XXX
+  swift8: AYCUIE21
+  branch_name: Head Office
+  branch_address: Blunden Drive Dublin 13
+  branch_code: XXX
+  city: Dublin
+  country: Ireland
+- name: B And S Credit Union Limited
+  swift: CRUNIE21XXX
+  swift8: CRUNIE21
+  branch_name: Head Office
+  branch_address: Main Street Ballybofey
+  branch_code: XXX
+  city: Ballybofey
+  country: Ireland
+- name: B.c.p. Stockbrokers Limited
+  swift: BCPKIE21XXX
+  swift8: BCPKIE21
+  branch_name: Head Office
+  branch_address: 71 Upper Leeson Street Dublin 4
+  branch_code: XXX
+  city: Dublin
+  country: Ireland
+- name: B.h.k. Credit Union Limited
+  swift: BHCUIE21XXX
+  swift8: BHCUIE21
+  branch_name: Head Office
+  branch_address: Sandy Lane Dundalk
+  branch_code: XXX
+  city: Dundalk
+  country: Ireland
+- name: Bagenalstown Credit Union Limited
+  swift: BGCUIE21XXX
+  swift8: BGCUIE21
+  branch_name: Head Office
+  branch_address: Main Street Bagenalstown
+  branch_code: XXX
+  city: Bagenalstown
+  country: Ireland
+- name: Bailieborough Credit Union Limited
+  swift: BIRUIE21XXX
+  swift8: BIRUIE21
+  branch_name: Head Office
+  branch_address: Main Street Bailieborough
+  branch_code: XXX
+  city: Bailieborough
+  country: Ireland
+- name: Balbriggan Credit Union Limited
+  swift: BLCUIE21XXX
+  swift8: BLCUIE21
+  branch_name: Head Office
+  branch_address: 43-45 Dublin Street Balbriggan
+  branch_code: XXX
+  city: Dublin / Balbriggan
+  country: Ireland
+- name: Baldoyle And Portmarnock Credit Union Limited
+  swift: BPEUIE21XXX
+  swift8: BPEUIE21
+  branch_name: Head Office
+  branch_address: Grange Road, Baldoyle Dublin 13
+  branch_code: XXX
+  city: Dublin
+  country: Ireland
+- name: Ballaghaderreen And District Credit Union Limited
+  swift: BDCUIE21XXX
+  swift8: BDCUIE21
+  branch_name: Head Office
+  branch_address: Main Street Ballaghaderreen
+  branch_code: XXX
+  city: Ballaghaderreen
+  country: Ireland
+- name: Ballina Credit Union Limited
+  swift: BLCIIE21XXX
+  swift8: BLCIIE21
+  branch_name: Head Office
+  branch_address: Orahilly Street Ballina
+  branch_code: XXX
+  city: Ballina
+  country: Ireland
+- name: Ballinamore Credit Union Limited
+  swift: BLRUIE21XXX
+  swift8: BLRUIE21
+  branch_name: Head Office
+  branch_address: Main Street Ballinamore
+  branch_code: XXX
+  city: Ballinamore
+  country: Ireland
+- name: Ballinasloe Credit Union (our Lady Of Lourdes) Limited
+  swift: BCUOIE21XXX
+  swift8: BCUOIE21
+  branch_name: Head Office
+  branch_address: Main Street Ballinasloe
+  branch_code: XXX
+  city: Ballinasloe
+  country: Ireland
+- name: Ballincollig Credit Union Limited
+  swift: BLRNIE21XXX
+  swift8: BLRNIE21
+  branch_name: Head Office
+  branch_address: Credit Union House Ballincollig
+  branch_code: XXX
+  city: Ballincollig
+  country: Ireland
+- name: Ballinlough Credit Union Limited
+  swift: BCRUIE21XXX
+  swift8: BCRUIE21
+  branch_name: Head Office
+  branch_address: Ballinlough Road Cork
+  branch_code: XXX
+  city: Cork
+  country: Ireland
+- name: Ballinrobe Credit Union Limited
+  swift: BLRIIE21XXX
+  swift8: BLRIIE21
+  branch_name: Head Office
+  branch_address: Main Street Ballinrobe
+  branch_code: XXX
+  city: Ballinrobe
+  country: Ireland
+- name: Ballivor-kildalkey Credit Union Limited
+  swift: BLROIE21XXX
+  swift8: BLROIE21
+  branch_name: Head Office
+  branch_address: Main Street Ballivor
+  branch_code: XXX
+  city: Ballivor
+  country: Ireland
+- name: Ballon And Rathoe Credit Union Limited
+  swift: BRCUIE21XXX
+  swift8: BRCUIE21
+  branch_name: Head Office
+  branch_address: New Road Ballon
+  branch_code: XXX
+  city: Ballon
+  country: Ireland
+- name: Ballybay Credit Union Limited
+  swift: BLENIE21XXX
+  swift8: BLENIE21
+  branch_name: Head Office
+  branch_address: Credit Union House Ballybay
+  branch_code: XXX
+  city: Ballybay
+  country: Ireland
+- name: Ballybunion Credit Union Limited
+  swift: BLEIIE21XXX
+  swift8: BLEIIE21
+  branch_name: Head Office
+  branch_address: Main Street Ballybunion
+  branch_code: XXX
+  city: Ballybunion
+  country: Ireland
+- name: Ballyconnell Credit Union Limited
+  swift: BLTOIE21XXX
+  swift8: BLTOIE21
+  branch_name: Head Office
+  branch_address: Credit Union House Ballyconnell
+  branch_code: XXX
+  city: Ballyconnell
+  country: Ireland
+- name: Ballyfermot Credit Union Limited
+  swift: BLTUIE21XXX
+  swift8: BLTUIE21
+  branch_name: Head Office
+  branch_address: 280 Ballyfermot Road Dublin 10
+  branch_code: XXX
+  city: Dublin
+  country: Ireland
+- name: Ballygall Credit Union Limited
+  swift: BLTNIE21XXX
+  swift8: BLTNIE21
+  branch_name: Head Office
+  branch_address: Glasanaon Road Dublin 11
+  branch_code: XXX
+  city: Dublin
+  country: Ireland
+- name: Ballyhaunis And District Credit Union Limited
+  swift: BDCIIE21XXX
+  swift8: BDCIIE21
+  branch_name: Head Office
+  branch_address: Clare Street Ballyhaunis
+  branch_code: XXX
+  city: Ballyhaunis
+  country: Ireland
+- name: Ballyjamesduff Credit Union Limited
+  swift: BLDUIE21XXX
+  swift8: BLDUIE21
+  branch_name: Head Office
+  branch_address: Main Street Ballyjamesduff
+  branch_code: XXX
+  city: Ballyjamesduff
+  country: Ireland
+- name: Ballymahon And District Credit Union Limited
+  swift: BDCOIE21XXX
+  swift8: BDCOIE21
+  branch_name: Head Office
+  branch_address: Main Street Ballymahon
+  branch_code: XXX
+  city: Ballymahon
+  country: Ireland
+- name: Ballymote And District Credit Union Limited
+  swift: BDCLIE21XXX
+  swift8: BDCLIE21
+  branch_name: Head Office
+  branch_address: The Rock Ballymote
+  branch_code: XXX
+  city: Ballymote
+  country: Ireland
+- name: Ballymun Credit Union Limited
+  swift: BLDNIE21XXX
+  swift8: BLDNIE21
+  branch_name: Head Office
+  branch_address: Ballymun Town Centre Ballymun
+  branch_code: XXX
+  city: Ballymun
+  country: Ireland
+- name: Ballymurn Credit Union Limited
+  swift: BLTIIE21XXX
+  swift8: BLTIIE21
+  branch_name: Head Office
+  branch_address: Credit Union House Enniscorthy
+  branch_code: XXX
+  city: Enniscorthy
+  country: Ireland
+- name: Ballyphehane Credit Union Limited
+  swift: BCDUIE21XXX
+  swift8: BCDUIE21
+  branch_name: Head Office
+  branch_address: Lower Friars Walk Cork
+  branch_code: XXX
+  city: Cork
+  country: Ireland
+- name: Ballyragget And District Credit Union Limited
+  swift: BDRUIE21XXX
+  swift8: BDRUIE21
+  branch_name: Head Office
+  branch_address: Castle Street Ballyragget
+  branch_code: XXX
+  city: Ballyragget
+  country: Ireland
+- name: Ballyshannon Credit Union Limited
+  swift: BLDIIE21XXX
+  swift8: BLDIIE21
+  branch_name: Head Office
+  branch_address: Bridge End Ballyshannon
+  branch_code: XXX
+  city: Ballyshannon
+  country: Ireland
+- name: Baltinglass Credit Union Limited
+  swift: BLDOIE21XXX
+  swift8: BLDOIE21
+  branch_name: Head Office
+  branch_address: Weaver Square Baltinglass
+  branch_code: XXX
+  city: Baltinglass
+  country: Ireland
+- name: Banagher Credit Union Limited
+  swift: BNCUIE21XXX
+  swift8: BNCUIE21
+  branch_name: Head Office
+  branch_address: Main Street Banagher
+  branch_code: XXX
+  city: Banagher
+  country: Ireland
+- name: Bandon Credit Union Limited
+  swift: BNCNIE21XXX
+  swift8: BNCNIE21
+  branch_name: Head Office
+  branch_address: 26-27 South Main Street Bandon
+  branch_code: XXX
+  city: Bandon
+  country: Ireland
+- name: Bankers Trust International Plc (bti
+  swift: BKTIIE21XXX
+  swift8: BKTIIE21
+  branch_name: Head Office
+  branch_address: 6 Georges Dock, Ifsc Dublin 1
+  branch_code: XXX
+  city: Dublin
+  country: Ireland
+- name: Bankia Sa Irish Branch
+  swift: CAHMIE21XXX
+  swift8: CAHMIE21
+  branch_name: Head Office
+  branch_address: Aib Intl Center Dublin
+  branch_code: XXX
+  city: Dublin
+  country: Ireland
+- name: Bantry Credit Union Limited
+  swift: BNRUIE21XXX
+  swift8: BNRUIE21
+  branch_name: Head Office
+  branch_address: Wolfe Tone Square Bantry
+  branch_code: XXX
+  city: Bantry
+  country: Ireland
+- name: Bear Stearns Bank Plc
+  swift: BESNIE21XXX
+  swift8: BESNIE21
+  branch_name: Head Office
+  branch_address: Harcourt Centre Dublin 2
+  branch_code: XXX
+  city: Dublin
+  country: Ireland
+- name: Belfield Credit Union Limited
+  swift: BEEUIE21XXX
+  swift8: BEEUIE21
+  branch_name: Head Office
+  branch_address: Woodview (University College Dublin 4
+  branch_code: XXX
+  city: Dublin
+  country: Ireland
+- name: Bennettsbridge Credit Union Limited
+  swift: BEENIE21XXX
+  swift8: BEENIE21
+  branch_name: Head Office
+  branch_address: Credit Union House Bennettsbridge
+  branch_code: XXX
+  city: Bennettsbridge
+  country: Ireland
+- name: Berehaven Credit Union Limited
+  swift: BERIIE21XXX
+  swift8: BERIIE21
+  branch_name: Head Office
+  branch_address: Credit Union House Castletownbere
+  branch_code: XXX
+  city: Castletownbere
+  country: Ireland
+- name: Birr Credit Union Limited
+  swift: BIRNIE21XXX
+  swift8: BIRNIE21
+  branch_name: Head Office
+  branch_address: Oconnell Street Birr
+  branch_code: XXX
+  city: Birr
+  country: Ireland
+- name: Bishopstown Credit Union Limited
+  swift: BIRIIE21XXX
+  swift8: BIRIIE21
+  branch_name: Head Office
+  branch_address: Wilton Road, Bishopstown Cork
+  branch_code: XXX
+  city: Cork
+  country: Ireland
+- name: Black Raven Credit Union Limited
+  swift: BREOIE21XXX
+  swift8: BREOIE21
+  branch_name: Head Office
+  branch_address: County Hall Tallaght
+  branch_code: XXX
+  city: Tallaght
+  country: Ireland
+- name: Blackpool Credit Union Limited
+  swift: BLIOIE21XXX
+  swift8: BLIOIE21
+  branch_name: Head Office
+  branch_address: 5 Great William Obrien Street Cork
+  branch_code: XXX
+  city: Cork
+  country: Ireland
+- name: Blackrock Credit Union Limited
+  swift: BLIUIE21XXX
+  swift8: BLIUIE21
+  branch_name: Head Office
+  branch_address: 1 Carysfort Avenue Blackrock
+  branch_code: XXX
+  city: Dublin / Blackrock
+  country: Ireland
+- name: Blanchardstown And District Credit Union Limited
+  swift: BDRNIE21XXX
+  swift8: BDRNIE21
+  branch_name: Head Office
+  branch_address: 9 Blanchardstown Business Centre Blanchardstown
+  branch_code: XXX
+  city: Blanchardstown
+  country: Ireland
+- name: Blarney Credit Union Limited
+  swift: BLIIIE21XXX
+  swift8: BLIIIE21
+  branch_name: Head Office
+  branch_address: Saint Annes Road Blarney
+  branch_code: XXX
+  city: Blarney
+  country: Ireland
+- name: Blessington And District Credit Union Limited
+  swift: BDRIIE21XXX
+  swift8: BDRIIE21
+  branch_name: Head Office
+  branch_address: Credit Union House Blessington
+  branch_code: XXX
+  city: Blessington
+  country: Ireland
+- name: Bloxham Stockbrokers
+  swift: BLOXIE21BKO
+  swift8: BLOXIE21
+  branch_name: Back Office
+  branch_address: Dublin
+  branch_code: BKO
+  city: Dublin
+  country: Ireland
+- name: Bloxham Stockbrokers
+  swift: BLOXIE21OBC
+  swift8: BLOXIE21
+  branch_name: Model B Business
+  branch_address: Dublin
+  branch_code: OBC
+  city: Dublin
+  country: Ireland
+- name: Bloxham Stockbrokers
+  swift: BLOXIE21XXX
+  swift8: BLOXIE21
+  branch_name: Head Office
+  branch_address: 2-3 Exchange Place, Ifsc Dublin
+  branch_code: XXX
+  city: Dublin
+  country: Ireland
+- name: Bny Mellon Fund Services (ireland) Limited
+  swift: BMFEIE21XXX
+  swift8: BMFEIE21
+  branch_name: Head Office
+  branch_address: Harcourt Building Dublin 2
+  branch_code: XXX
+  city: Dublin
+  country: Ireland
+- name: Bny Mellon Global Funds, Public Limited Company
+  swift: MEGFIE21XXX
+  swift8: MEGFIE21
+  branch_name: Head Office
+  branch_address: Grand Canal House Dublin 4
+  branch_code: XXX
+  city: Dublin
+  country: Ireland
+- name: Bord Gais Employees' Credit Union Limited
+  swift: BGECIE21XXX
+  swift8: BGECIE21
+  branch_name: Head Office
+  branch_address: Foley Street Dublin 1
+  branch_code: XXX
+  city: Dublin
+  country: Ireland
+- name: Borrisokane Credit Union Limited
+  swift: BORUIE21XXX
+  swift8: BORUIE21
+  branch_name: Head Office
+  branch_address: Main Street, Co Tipperary Borrisokane
+  branch_code: XXX
+  city: Borrisokane
+  country: Ireland
+- name: Bos (ireland) Funding Public Limited Company
+  swift: ICIVIE21XXX
+  swift8: ICIVIE21
+  branch_name: Head Office
+  branch_address: Bank of Scotland House Dublin 2
+  branch_code: XXX
+  city: Dublin
+  country: Ireland
+- name: Boyle Credit Union Limited
+  swift: BORNIE21XXX
+  swift8: BORNIE21
+  branch_name: Head Office
+  branch_address: Green Street Boyle
+  branch_code: XXX
+  city: Boyle
+  country: Ireland
+- name: Bpb International Finance Plc (banca Populare Di Bergamo-cv Banking Group
+  swift: BEPOIE21XXX
+  swift8: BEPOIE21
+  branch_name: Head Office
+  branch_address: International Financial Services Dublin 1
+  branch_code: XXX
+  city: Dublin
+  country: Ireland
+- name: Bpm Ireland Plc
+  swift: BPMIIE21XXX
+  swift8: BPMIIE21
+  branch_name: Head Office
+  branch_address: Europa House Dublin
+  branch_code: XXX
+  city: Dublin
+  country: Ireland
+- name: Bpm Ireland Plc
+  swift: BPMIIE2DXXX
+  swift8: BPMIIE2D
+  branch_name: Head Office
+  branch_address: Europa House Dublin
+  branch_code: XXX
+  city: Dublin
+  country: Ireland
+- name: Bpv Finance (international) Public Limited Compan Y
+  swift: BPVIIE21XXX
+  swift8: BPVIIE21
+  branch_name: Head Office
+  branch_address: Kreditbank House Ifsc Dublin 1
+  branch_code: XXX
+  city: Dublin
+  country: Ireland
+- name: Brandes Investment Partners (europe
+  swift: BIPEIE21XXX
+  swift8: BIPEIE21
+  branch_name: Head Office
+  branch_address: 36 Baggot Street Lower Dublin 2
+  branch_code: XXX
+  city: Dublin
+  country: Ireland
+- name: Bray Credit Union Limited
+  swift: BRRUIE21XXX
+  swift8: BRRUIE21
+  branch_name: Head Office
+  branch_address: Credit Union House Bray
+  branch_code: XXX
+  city: Bray
+  country: Ireland
+- name: Broadstone C.i.e. Employees' Credit Union Limited
+  swift: BREEIE21XXX
+  swift8: BREEIE21
+  branch_name: Head Office
+  branch_address: Bus Eireann Garage Dublin 7
+  branch_code: XXX
+  city: Dublin
+  country: Ireland
+- name: Brooks Thomas Credit Union Limited
+  swift: BTCUIE21XXX
+  swift8: BTCUIE21
+  branch_name: Head Office
+  branch_address: Naas Road, Bluebell Dublin 12
+  branch_code: XXX
+  city: Dublin
+  country: Ireland
+- name: Brown Brothers Harriman Fund Administration Services (ireland), Ltd
+  swift: BBHFIE21XXX
+  swift8: BBHFIE21
+  branch_name: Head Office
+  branch_address: 80 Harcourt Street Dublin 2
+  branch_code: XXX
+  city: Dublin
+  country: Ireland
+- name: Brown Brothers Harriman Trustee Services (ireland), Ltd.
+  swift: BBHTIE21XXX
+  swift8: BBHTIE21
+  branch_name: Head Office
+  branch_address: 80 Harcourt Street Dublin 2
+  branch_code: XXX
+  city: Dublin
+  country: Ireland
+- name: Bruff Credit Union Limited
+  swift: BRROIE21XXX
+  swift8: BRROIE21
+  branch_name: Head Office
+  branch_address: Main Street Bruff
+  branch_code: XXX
+  city: Bruff
+  country: Ireland
+- name: Bunclody Credit Union Limited
+  swift: BURNIE21XXX
+  swift8: BURNIE21
+  branch_name: Head Office
+  branch_address: Ryland Street, Bunclody Enniscorthy
+  branch_code: XXX
+  city: Enniscorthy
+  country: Ireland
+- name: Buncrana Credit Union Limited
+  swift: BURUIE21XXX
+  swift8: BURUIE21
+  branch_name: Head Office
+  branch_address: Cockhill Road Buncrana
+  branch_code: XXX
+  city: Buncrana
+  country: Ireland
+- name: Buttevant And Doneraile Credit Union Limited
+  swift: DOCIIE21XXX
+  swift8: DOCIIE21
+  branch_name: Head Office
+  branch_address: Main Street Buttevant
+  branch_code: XXX
+  city: Buttevant
+  country: Ireland
+- name: C.i.e. (galway) Credit Union Limited
+  swift: GACNIE21XXX
+  swift8: GACNIE21
+  branch_name: Head Office
+  branch_address: C/O Cie Galway
+  branch_code: XXX
+  city: Galway
+  country: Ireland
+- name: C.i.e. Employees Dundalk Credit Union Limited
+  swift: EDCUIE21XXX
+  swift8: EDCUIE21
+  branch_name: Head Office
+  branch_address: Clarke Station Dundalk
+  branch_code: XXX
+  city: Dundalk
+  country: Ireland
+- name: C.i.e. Staff (cork) Credit Union Limited
+  swift: SCRNIE21XXX
+  swift8: SCRNIE21
+  branch_name: Head Office
+  branch_address: 7 Father Matthew Quay Cork
+  branch_code: XXX
+  city: Cork
+  country: Ireland
+- name: Cabra Credit Union Limited
+  swift: CBRNIE21XXX
+  swift8: CBRNIE21
+  branch_name: Head Office
+  branch_address: 93 Annamoe Terrace Dublin 7
+  branch_code: XXX
+  city: Dublin
+  country: Ireland
+- name: Caherciveen Credit Union Limited
+  swift: CADNIE21XXX
+  swift8: CADNIE21
+  branch_name: Head Office
+  branch_address: 1, 2, 3 Oconnell Street Caherciveen
+  branch_code: XXX
+  city: Caherciveen
+  country: Ireland
+- name: Caherdavin And District Credit Union Limited
+  swift: CDEIIE21XXX
+  swift8: CDEIIE21
+  branch_name: Head Office
+  branch_address: Credit Union House Redgate
+  branch_code: XXX
+  city: Redgate
+  country: Ireland
+- name: Cahir Credit Union Limited
+  swift: CHCUIE21XXX
+  swift8: CHCUIE21
+  branch_name: Head Office
+  branch_address: Credit Union House Cahir
+  branch_code: XXX
+  city: Cahir
+  country: Ireland
+- name: Callan Credit Union Limited
+  swift: CLRUIE21XXX
+  swift8: CLRUIE21
+  branch_name: Head Office
+  branch_address: Mill Street Callan
+  branch_code: XXX
+  city: Callan
+  country: Ireland
+- name: Campbell O'connor And Co
+  swift: CAMRIE21XXX
+  swift8: CAMRIE21
+  branch_name: Head Office
+  branch_address: 22 Fownes Street Dublin 2
+  branch_code: XXX
+  city: Dublin
+  country: Ireland
+- name: Cana Credit Union Limited
+  swift: CNRNIE21XXX
+  swift8: CNRNIE21
+  branch_name: Head Office
+  branch_address: Cana House Dublin 2
+  branch_code: XXX
+  city: Dublin
+  country: Ireland
+- name: Capella Securities Limited
+  swift: CPSEIE21XXX
+  swift8: CPSEIE21
+  branch_name: Head Office
+  branch_address: The Dublin Exchange Facility Dublin 1
+  branch_code: XXX
+  city: Dublin
+  country: Ireland
+- name: Capita International Financial Services Limited
+  swift: SPVWIE2DBPV
+  swift8: SPVWIE2D
+  branch_name: Dublin
+  branch_address: Dublin
+  branch_code: BPV
+  city: Dublin
+  country: Ireland
+- name: Capitaifs Ireland Ltd
+  swift: CPIRIE21XXX
+  swift8: CPIRIE21
+  branch_name: Head Office
+  branch_address: 2 Grand Canal Square Dublin 2
+  branch_code: XXX
+  city: Dublin
+  country: Ireland
+- name: Capmark Services Ireland Limited
+  swift: CMBEIE31XXX
+  swift8: CMBEIE31
+  branch_name: Head Office
+  branch_address: Mullingar Business Park Mullingar
+  branch_code: XXX
+  city: Mullingar
+  country: Ireland
+- name: Carlow District Credit Union Limited
+  swift: CDEUIE21XXX
+  swift8: CDEUIE21
+  branch_name: Head Office
+  branch_address: Credit Union House Askea
+  branch_code: XXX
+  city: Askea
+  country: Ireland
+- name: Carnew Credit Union Limited
+  swift: CNCNIE21XXX
+  swift8: CNCNIE21
+  branch_name: Head Office
+  branch_address: Main Street Carnew
+  branch_code: XXX
+  city: Carnew
+  country: Ireland
+- name: Carrick-on-shannon And District Credit Union Limited
+  swift: CDCIIE21XXX
+  swift8: CDCIIE21
+  branch_name: Head Office
+  branch_address: Summerhill Carrick-On-Shannon
+  branch_code: XXX
+  city: Carrick-On-Shannon
+  country: Ireland
+- name: Carrick-on-suir Credit Union Limited
+  swift: CIEOIE21XXX
+  swift8: CIEOIE21
+  branch_name: Head Office
+  branch_address: Greystone Street Carrick-On-Suir
+  branch_code: XXX
+  city: Carrick-On-Suir
+  country: Ireland
+- name: Carrickbrennan Credit Union Limited
+  swift: CIDUIE21XXX
+  swift8: CIDUIE21
+  branch_name: Head Office
+  branch_address: Credit Union House Dun Laoghaire
+  branch_code: XXX
+  city: Dun Laoghaire
+  country: Ireland
+- name: Carrickmacross Credit Union Limited
+  swift: CIENIE21XXX
+  swift8: CIENIE21
+  branch_name: Head Office
+  branch_address: 15-17 Oneill Street Carrickmacross
+  branch_code: XXX
+  city: Carrickmacross
+  country: Ireland
+- name: Cashel Credit Union Limited
+  swift: CSRUIE21XXX
+  swift8: CSRUIE21
+  branch_name: Head Office
+  branch_address: Main Street Cashel
+  branch_code: XXX
+  city: Cashel
+  country: Ireland
+- name: Cashel-connemara Credit Union Limited
+  swift: CSDUIE21XXX
+  swift8: CSDUIE21
+  branch_name: Head Office
+  branch_address: Cashel Connemara
+  branch_code: XXX
+  city: Connemara
+  country: Ireland
+- name: Castle Credit Union Limited
+  swift: CSDIIE21XXX
+  swift8: CSDIIE21
+  branch_name: Head Office
+  branch_address: 20 Riverwalk Dublin
+  branch_code: XXX
+  city: Dublin
+  country: Ireland
+- name: Castlebar Credit Union Limited
+  swift: CSRNIE21XXX
+  swift8: CSRNIE21
+  branch_name: Head Office
+  branch_address: Market Square Castlebar
+  branch_code: XXX
+  city: Castlebar
+  country: Ireland
+- name: Castleblayney Credit Union Limited
+  swift: CSRIIE21XXX
+  swift8: CSRIIE21
+  branch_name: Head Office
+  branch_address: Main Street Castleblayney
+  branch_code: XXX
+  city: Castleblayney
+  country: Ireland
+- name: Castlecomer Credit Union Limited
+  swift: CSENIE21XXX
+  swift8: CSENIE21
+  branch_name: Head Office
+  branch_address: 86 Kilkenny Street Castlecomer
+  branch_code: XXX
+  city: Castlecomer
+  country: Ireland
+- name: Castleconnell/ahane Credit Union Limited
+  swift: CSIIIE21XXX
+  swift8: CSIIIE21
+  branch_name: Head Office
+  branch_address: Credit Union House Castleconnell
+  branch_code: XXX
+  city: Castleconnell
+  country: Ireland
+- name: Castledermot Credit Union Limited
+  swift: CSEIIE21XXX
+  swift8: CSEIIE21
+  branch_name: Head Office
+  branch_address: Athy Street Castledermot
+  branch_code: XXX
+  city: Castledermot
+  country: Ireland
+- name: Castlelost Credit Union Limited
+  swift: CSTNIE21XXX
+  swift8: CSTNIE21
+  branch_name: Head Office
+  branch_address: Credit Union House Rochfortbridge
+  branch_code: XXX
+  city: Rochfortbridge
+  country: Ireland
+- name: Castlepollard Credit Union Limited
+  swift: CSEOIE21XXX
+  swift8: CSEOIE21
+  branch_name: Head Office
+  branch_address: The Square Castlepollard
+  branch_code: XXX
+  city: Castlepollard
+  country: Ireland
+- name: Castlerea And District Credit Union Limited
+  swift: CDCEIE21XXX
+  swift8: CDCEIE21
+  branch_name: Head Office
+  branch_address: Barrack Street Castlerea
+  branch_code: XXX
+  city: Castlerea
+  country: Ireland
+- name: Cathedral Credit Union Limited
+  swift: CTCIIE21XXX
+  swift8: CTCIIE21
+  branch_name: Head Office
+  branch_address: 44/46 Shandon Street Cork
+  branch_code: XXX
+  city: Cork
+  country: Ireland
+- name: Cavan Credit Union Limited
+  swift: CVCUIE21XXX
+  swift8: CVCUIE21
+  branch_name: Head Office
+  branch_address: 83 Main Street Cavan
+  branch_code: XXX
+  city: Cavan
+  country: Ireland
+- name: Celbridge District Credit Union Limited
+  swift: CDRNIE21XXX
+  swift8: CDRNIE21
+  branch_name: Head Office
+  branch_address: Main Street Celbridge
+  branch_code: XXX
+  city: Celbridge
+  country: Ireland
+- name: Central Credit Union Limited
+  swift: CERNIE21XXX
+  swift8: CERNIE21
+  branch_name: Head Office
+  branch_address: 137 Thomas Street Dublin 8
+  branch_code: XXX
+  city: Dublin
+  country: Ireland
+- name: Charleville Credit Union Limited
+  swift: CHRUIE21XXX
+  swift8: CHRUIE21
+  branch_name: Head Office
+  branch_address: Main Street, Charleville
+  branch_code: XXX
+  city: Charleville
+  country: Ireland
+- name: Christows Limited
+  swift: CHRWIE21XXX
+  swift8: CHRWIE21
+  branch_name: Head Office
+  branch_address: 50-52 Pembroke Road Dublin
+  branch_code: XXX
+  city: Dublin
+  country: Ireland
+- name: Christows Ltd (branch Office
+  swift: CHRFIE21XXX
+  swift8: CHRFIE21
+  branch_name: Head Office
+  branch_address: Nelson House Dublin
+  branch_code: XXX
+  city: Dublin
+  country: Ireland
+- name: Citi Fund Services (ireland), Limited
+  swift: BSYSIE21XXX
+  swift8: BSYSIE21
+  branch_name: Head Office
+  branch_address: 1 North Wall Quay Dublin
+  branch_code: XXX
+  city: Dublin
+  country: Ireland
+- name: Citybus Employees' Credit Union Limited
+  swift: CEEUIE21XXX
+  swift8: CEEUIE21
+  branch_name: Head Office
+  branch_address: Cie Club Dublin 1
+  branch_code: XXX
+  city: Dublin
+  country: Ireland
+- name: Civil Service Credit Union Limited
+  swift: CSDOIE21XXX
+  swift8: CSDOIE21
+  branch_name: Head Office
+  branch_address: Saint Stephens Green House Dublin
+  branch_code: XXX
+  city: Dublin
+  country: Ireland
+- name: Clanmaurice Credit Union Limited
+  swift: CLIOIE21XXX
+  swift8: CLIOIE21
+  branch_name: Head Office
+  branch_address: Lacca Tralee
+  branch_code: XXX
+  city: Tralee
+  country: Ireland
+- name: Cleariestown Credit Union Limited
+  swift: CLCUIE21XXX
+  swift8: CLCUIE21
+  branch_name: Head Office
+  branch_address: Ralphtown Bridgetown
+  branch_code: XXX
+  city: Bridgetown
+  country: Ireland
+- name: Clearstream Hedge Funds Services Dublin
+  swift: CFSDIE21XXX
+  swift8: CFSDIE21
+  branch_name: Head Office
+  branch_address: Upper Pembroke Street 28-32 Dublin
+  branch_code: XXX
+  city: Dublin
+  country: Ireland
+- name: Clogherhead Credit Union Limited
+  swift: CLIUIE21XXX
+  swift8: CLIUIE21
+  branch_name: Head Office
+  branch_address: Main Street Clogherhead
+  branch_code: XXX
+  city: Clogherhead
+  country: Ireland
+- name: Clondalkin Credit Union Limited
+  swift: CLRIIE21XXX
+  swift8: CLRIIE21
+  branch_name: Head Office
+  branch_address: Adrian Hyland House Clondalkin
+  branch_code: XXX
+  city: Clondalkin
+  country: Ireland
+- name: Clones Credit Union Limited
+  swift: CLROIE21XXX
+  swift8: CLROIE21
+  branch_name: Head Office
+  branch_address: The Diamond Clones
+  branch_code: XXX
+  city: Clones
+  country: Ireland
+- name: Clonmel Credit Union Limited
+  swift: CLEUIE21XXX
+  swift8: CLEUIE21
+  branch_name: Head Office
+  branch_address: Credit Union House Clonmel
+  branch_code: XXX
+  city: Clonmel
+  country: Ireland
+- name: Clonsilla Credit Union Limited.
+  swift: CLDUIE21XXX
+  swift8: CLDUIE21
+  branch_name: Head Office
+  branch_address: The Blanchardstown Centre Dublin 15
+  branch_code: XXX
+  city: Dublin
+  country: Ireland
+- name: Clontarf Credit Union Limited
+  swift: CLDNIE21XXX
+  swift8: CLDNIE21
+  branch_name: Head Office
+  branch_address: 3 Churchgate Avenue Dublin 3
+  branch_code: XXX
+  city: Dublin
+  country: Ireland
+- name: Clovis Oliveira Santos
+  swift: CLOAIE21XXX
+  swift8: CLOAIE21
+  branch_name: Head Office
+  branch_address: 196 Aylmer Park Naas
+  branch_code: XXX
+  city: Naas
+  country: Ireland
+- name: Cnh Capital Plc
+  swift: CNCPIE21XXX
+  swift8: CNCPIE21
+  branch_name: Head Office
+  branch_address: Navan Business Park Meath
+  branch_code: XXX
+  city: Meath
+  country: Ireland
+- name: Co-co Credit Union Limited
+  swift: CCEUIE21XXX
+  swift8: CCEUIE21
+  branch_name: Head Office
+  branch_address: Malahide Road Dublin
+  branch_code: XXX
+  city: Dublin
+  country: Ireland
+- name: Cobh Credit Union Limited
+  swift: CBRUIE21XXX
+  swift8: CBRUIE21
+  branch_name: Head Office
+  branch_address: Waterfront Apartments Cobh
+  branch_code: XXX
+  city: Cobh
+  country: Ireland
+- name: Coill Dubh And District Credit Union Limited
+  swift: CDDCIE21XXX
+  swift8: CDDCIE21
+  branch_name: Head Office
+  branch_address: Coill Dubh Naas
+  branch_code: XXX
+  city: Naas
+  country: Ireland
+- name: Cois Sionna Credit Union Limited
+  swift: CSCIIE21XXX
+  swift8: CSCIIE21
+  branch_name: Head Office
+  branch_address: Church Street Askeaton
+  branch_code: XXX
+  city: Askeaton
+  country: Ireland
+- name: Collon Credit Union Limited
+  swift: CLEOIE21XXX
+  swift8: CLEOIE21
+  branch_name: Head Office
+  branch_address: The Square Collon
+  branch_code: XXX
+  city: Collon
+  country: Ireland
+- name: Collooney And District Credit Union Limited
+  swift: CDRIIE21XXX
+  swift8: CDRIIE21
+  branch_name: Head Office
+  branch_address: Main Street Collooney
+  branch_code: XXX
+  city: Collooney
+  country: Ireland
+- name: Comhar Chreidmheasa Chorca Dhuibhne Teoranta
+  swift: CCHDIE21XXX
+  swift8: CCHDIE21
+  branch_name: Head Office
+  branch_address: Main Street Dingle
+  branch_code: XXX
+  city: Dingle
+  country: Ireland
+- name: Comhar Creidmheasa Cholm Cille Teoranta
+  swift: CCHCIE21XXX
+  swift8: CCHCIE21
+  branch_name: Head Office
+  branch_address: An Cnoc Indreabhan
+  branch_code: XXX
+  city: Indreabhan
+  country: Ireland
+- name: Comhar Creidmheasa Chriost Ri Teoranta
+  swift: CCHTIE21XXX
+  swift8: CCHTIE21
+  branch_name: Head Office
+  branch_address: Credit Union Office Cork
+  branch_code: XXX
+  city: Cork
+  country: Ireland
+- name: Comhar Creidmheasa Ghaoth Dobheir Teoranta
+  swift: CCGDIE21XXX
+  swift8: CCGDIE21
+  branch_name: Head Office
+  branch_address: Na Doiri Beaga Leitirceanann
+  branch_code: XXX
+  city: Leitirceanann
+  country: Ireland
+- name: Comhar Linn Into Credit Union Limited
+  swift: CLIRIE21XXX
+  swift8: CLIRIE21
+  branch_name: Head Office
+  branch_address: 33 Parnell Square Dublin 1
+  branch_code: XXX
+  city: Dublin
+  country: Ireland
+- name: Connolly Cie Credit Union Limited
+  swift: CNRUIE21XXX
+  swift8: CNRUIE21
+  branch_name: Head Office
+  branch_address: Connolly Station, Irish Rail Dublin
+  branch_code: XXX
+  city: Dublin
+  country: Ireland
+- name: Cooley Credit Union Limited
+  swift: CLRNIE21XXX
+  swift8: CLRNIE21
+  branch_name: Head Office
+  branch_address: Monksland Carlingford
+  branch_code: XXX
+  city: Carlingford
+  country: Ireland
+- name: Coolock-artane Credit Union Limited
+  swift: CLDIIE21XXX
+  swift8: CLDIIE21
+  branch_name: Head Office
+  branch_address: Artane Roundabout Dublin 5
+  branch_code: XXX
+  city: Dublin
+  country: Ireland
+- name: Cootehill Credit Union Limited
+  swift: CTCNIE21XXX
+  swift8: CTCNIE21
+  branch_name: Head Office
+  branch_address: Bridge Street Cootehill
+  branch_code: XXX
+  city: Cootehill
+  country: Ireland
+- name: Coronation Capital Limited
+  swift: CNAIIE21XXX
+  swift8: CNAIIE21
+  branch_name: Head Office
+  branch_address: 31/33 the Triangle , Ranelagh Dublin Dublin 6
+  branch_code: XXX
+  city: Dublin Dublin
+  country: Ireland
+- name: Corontion
+  swift: CNROIE21XXX
+  swift8: CNROIE21
+  branch_name: Head Office
+  branch_address: 31/33 the Triangle Dublin 6
+  branch_code: XXX
+  city: Dublin
+  country: Ireland
+- name: Credit Suisse Administration Services (ireland) Limited
+  swift: CSARIE21XXX
+  swift8: CSARIE21
+  branch_name: Head Office
+  branch_address: Kilmore House Dublin Dublin 1
+  branch_code: XXX
+  city: Dublin Dublin
+  country: Ireland
+- name: Crosshaven-carrigaline Credit Union Limited
+  swift: CSDNIE21XXX
+  swift8: CSDNIE21
+  branch_name: Head Office
+  branch_address: Point Road Crosshaven
+  branch_code: XXX
+  city: Crosshaven
+  country: Ireland
+- name: Cuchullain Credit Union Limited
+  swift: CUCUIE21XXX
+  swift8: CUCUIE21
+  branch_name: Head Office
+  branch_address: The Ramparts Dundalk
+  branch_code: XXX
+  city: Dundalk
+  country: Ireland
+- name: Dalkey Credit Union Limited
+  swift: DACIIE21XXX
+  swift8: DACIIE21
+  branch_name: Head Office
+  branch_address: 13a Castle Street Dalkey
+  branch_code: XXX
+  city: Dalkey
+  country: Ireland
+- name: Davy Stockbrokers
+  swift: DAVYIE21BKO
+  swift8: DAVYIE21
+  branch_name: Davy Private Clients
+  branch_address: Dublin
+  branch_code: BKO
+  city: Dublin
+  country: Ireland
+- name: Davy Stockbrokers
+  swift: DAVYIE21XXX
+  swift8: DAVYIE21
+  branch_name: Head Office
+  branch_address: Davy House Dublin 2
+  branch_code: XXX
+  city: Dublin
+  country: Ireland
+- name: Dcc Corporate Finance
+  swift: DCCFIE21XXX
+  swift8: DCCFIE21
+  branch_name: Head Office
+  branch_address: Brewery Road, Stillorgan Dublin
+  branch_code: XXX
+  city: Dublin
+  country: Ireland
+- name: Delta Index Limited
+  swift: DEIEIE21XXX
+  swift8: DEIEIE21
+  branch_name: Head Office
+  branch_address: The Sweepstakes Centre Dublin
+  branch_code: XXX
+  city: Dublin
+  country: Ireland
+- name: Derg Credit Union Limited
+  swift: DEEUIE21XXX
+  swift8: DEEUIE21
+  branch_name: Head Office
+  branch_address: Market Square Scariff
+  branch_code: XXX
+  city: Scariff
+  country: Ireland
+- name: Desmond Credit Union Limited
+  swift: DERNIE21XXX
+  swift8: DERNIE21
+  branch_name: Head Office
+  branch_address: North Quay, Newcastle West Newcastle
+  branch_code: XXX
+  city: Newcastle
+  country: Ireland
+- name: Deutsche Bank Securities Corp. Asset Management Ltd.
+  swift: DSCMIE21XXX
+  swift8: DSCMIE21
+  branch_name: Head Office
+  branch_address: 26 Windor Place Lower Pembroke Dublin
+  branch_code: XXX
+  city: Dublin
+  country: Ireland
+- name: Deutsche International Corporate Services (ireland) Limited
+  swift: DEUTIE21AFS
+  swift8: DEUTIE21
+  branch_name: Alternative Fund Services
+  branch_address: Dublin
+  branch_code: AFS
+  city: Dublin
+  country: Ireland
+- name: Deutsche International Corporate Services (ireland) Limited
+  swift: DEUTIE21XXX
+  swift8: DEUTIE21
+  branch_name: Head Office
+  branch_address: 5 Harbourmaster Place Dublin 1
+  branch_code: XXX
+  city: Dublin
+  country: Ireland
+- name: Dolmen Butler Briscoe
+  swift: BUTBIE21SET
+  swift8: BUTBIE21
+  branch_name: Stockbroking
+  branch_address: 3 College Green Dublin 2
+  branch_code: SET
+  city: Dublin
+  country: Ireland
+- name: Dolmen Butler Briscoe
+  swift: BUTBIE21XXX
+  swift8: BUTBIE21
+  branch_name: Head Office
+  branch_address: 3 College Green Dublin
+  branch_code: XXX
+  city: Dublin
+  country: Ireland
+- name: Dolmen Butler Briscoe (blmberg
+  swift: DBBBIE21XXX
+  swift8: DBBBIE21
+  branch_name: Head Office
+  branch_address: 4 Earlsfort Terrace Dublin
+  branch_code: XXX
+  city: Dublin
+  country: Ireland
+- name: Dolmen Butler Briscoe (gbltopic
+  swift: DBBGIE21XXX
+  swift8: DBBGIE21
+  branch_name: Head Office
+  branch_address: 4 Earlsfort Terrace Dublin
+  branch_code: XXX
+  city: Dublin
+  country: Ireland
+- name: Dolmen Stockbrokers
+  swift: DOLMIE21PRI
+  swift8: DOLMIE21
+  branch_name: Dublin
+  branch_address: Dublin
+  branch_code: PRI
+  city: Dublin
+  country: Ireland
+- name: Dolmen Stockbrokers
+  swift: DOLMIE21XXX
+  swift8: DOLMIE21
+  branch_name: Head Office
+  branch_address: Dolmen House Dublin 2
+  branch_code: XXX
+  city: Dublin
+  country: Ireland
+- name: Donabate And District Credit Union Limited
+  swift: DDCUIE21XXX
+  swift8: DDCUIE21
+  branch_name: Head Office
+  branch_address: Ballisk House Donabate
+  branch_code: XXX
+  city: Donabate
+  country: Ireland
+- name: Donegal (town) Credit Union Limited
+  swift: DTCUIE21XXX
+  swift8: DTCUIE21
+  branch_name: Head Office
+  branch_address: Tirconaill Street Donegal Town
+  branch_code: XXX
+  city: Donegal Town
+  country: Ireland
+- name: Donore Credit Union Limited
+  swift: DORUIE21XXX
+  swift8: DORUIE21
+  branch_name: Head Office
+  branch_address: 22 Rutledge Terrace Dublin 8
+  branch_code: XXX
+  city: Dublin
+  country: Ireland
+- name: Douglas Credit Union Limited
+  swift: DCRUIE21XXX
+  swift8: DCRUIE21
+  branch_name: Head Office
+  branch_address: Douglas West, Douglas Cork
+  branch_code: XXX
+  city: Cork
+  country: Ireland
+- name: Dresdner Kleinwort Benson
+  swift: DRKBIE21XXX
+  swift8: DRKBIE21
+  branch_name: Head Office
+  branch_address: La Touche House International Dublin
+  branch_code: XXX
+  city: Dublin
+  country: Ireland
+- name: Drimnagh Credit Union Limited
+  swift: DRCOIE21XXX
+  swift8: DRCOIE21
+  branch_name: Head Office
+  branch_address: 123 Galtymore Road Dublin 12
+  branch_code: XXX
+  city: Dublin
+  country: Ireland
+- name: Drogheda Credit Union Limited
+  swift: DRCUIE21XXX
+  swift8: DRCUIE21
+  branch_name: Head Office
+  branch_address: Clarke House Drogheda
+  branch_code: XXX
+  city: Drogheda
+  country: Ireland
+- name: Dromcollogher Credit Union Limited
+  swift: DRRUIE21XXX
+  swift8: DRRUIE21
+  branch_name: Head Office
+  branch_address: North Road Dromcollogher
+  branch_code: XXX
+  city: Dromcollogher
+  country: Ireland
+- name: Drumcondra And District Credit Union Limited
+  swift: DDCNIE21XXX
+  swift8: DDCNIE21
+  branch_name: Head Office
+  branch_address: 1 Millbourne Avenue Dublin 9
+  branch_code: XXX
+  city: Dublin
+  country: Ireland
+- name: Drumshanbo Credit Union Limited
+  swift: DRCIIE21XXX
+  swift8: DRCIIE21
+  branch_name: Head Office
+  branch_address: Church Street Drumshanbo
+  branch_code: XXX
+  city: Drumshanbo
+  country: Ireland
+- name: Dubco Credit Union Limited
+  swift: DUCUIE21XXX
+  swift8: DUCUIE21
+  branch_name: Head Office
+  branch_address: Little Green Street Dublin 7
+  branch_code: XXX
+  city: Dublin
+  country: Ireland
+- name: Duleek Credit Union Limited
+  swift: DUCNIE21XXX
+  swift8: DUCNIE21
+  branch_name: Head Office
+  branch_address: Main Street Duleek
+  branch_code: XXX
+  city: Duleek
+  country: Ireland
+- name: Dunboyne And District Credit Union Limited
+  swift: DDCIIE21XXX
+  swift8: DDCIIE21
+  branch_name: Head Office
+  branch_address: 6 Main Street Dunboyne
+  branch_code: XXX
+  city: Dunboyne
+  country: Ireland
+- name: Dundalk Credit Union Limited
+  swift: DUCIIE21XXX
+  swift8: DUCIIE21
+  branch_name: Head Office
+  branch_address: Market Street Dundalk
+  branch_code: XXX
+  city: Dundalk
+  country: Ireland
+- name: Dundrum Credit Union Limited
+  swift: DURUIE21XXX
+  swift8: DURUIE21
+  branch_name: Head Office
+  branch_address: Pembroke Lodge Dundrum
+  branch_code: XXX
+  city: Dundrum
+  country: Ireland
+- name: Dungarvan Credit Union Limited
+  swift: DURNIE21XXX
+  swift8: DURNIE21
+  branch_name: Head Office
+  branch_address: 3-6 Parnell Street Dungarvan
+  branch_code: XXX
+  city: Dungarvan
+  country: Ireland
+- name: Dunlavin Credit Union Limited
+  swift: DCRNIE21XXX
+  swift8: DCRNIE21
+  branch_name: Head Office
+  branch_address: Stephen Street Dunlavin
+  branch_code: XXX
+  city: Dunlavin
+  country: Ireland
+- name: Dunleer Parish Credit Union Limited
+  swift: DPRUIE21XXX
+  swift8: DPRUIE21
+  branch_name: Head Office
+  branch_address: Ardee Road Dunleer
+  branch_code: XXX
+  city: Dunleer
+  country: Ireland
+- name: Dunmanway Credit Union Limited
+  swift: DCEUIE21XXX
+  swift8: DCEUIE21
+  branch_name: Head Office
+  branch_address: Main Street Dunmanway
+  branch_code: XXX
+  city: Dunmanway
+  country: Ireland
+- name: Dunnamaggin Credit Union Limited
+  swift: DURIIE21XXX
+  swift8: DURIIE21
+  branch_name: Head Office
+  branch_address: The Credit Union Office Dunnamaggin
+  branch_code: XXX
+  city: Dunnamaggin
+  country: Ireland
+- name: Dunshaughlin Credit Union Limited
+  swift: DCROIE21XXX
+  swift8: DCROIE21
+  branch_name: Head Office
+  branch_address: Main Street Dunshaughlin
+  branch_code: XXX
+  city: Dunshaughlin
+  country: Ireland
+- name: Durrow Credit Union Limited
+  swift: DUROIE21XXX
+  swift8: DUROIE21
+  branch_name: Head Office
+  branch_address: Mary Street Durrow
+  branch_code: XXX
+  city: Durrow
+  country: Ireland
+- name: E-services And Communications Credit Union Limited
+  swift: ECCUIE21XXX
+  swift8: ECCUIE21
+  branch_name: Head Office
+  branch_address: 55 Dawson Street Dublin 2
+  branch_code: XXX
+  city: Dublin
+  country: Ireland
+- name: East Meath Credit Union Limited
+  swift: EMCUIE21XXX
+  swift8: EMCUIE21
+  branch_name: Head Office
+  branch_address: Town Centre Bettystown
+  branch_code: XXX
+  city: Bettystown
+  country: Ireland
+- name: East Wall Credit Union Limited
+  swift: EWCUIE21XXX
+  swift8: EWCUIE21
+  branch_name: Head Office
+  branch_address: Blythe Avenue Dublin 3
+  branch_code: XXX
+  city: Dublin
+  country: Ireland
+- name: Edenderry Credit Union Limited
+  swift: EDCNIE21XXX
+  swift8: EDCNIE21
+  branch_name: Head Office
+  branch_address: Oconnell Square Edenderry
+  branch_code: XXX
+  city: Edenderry
+  country: Ireland
+- name: Elphin Credit Union Limited
+  swift: ELCUIE21XXX
+  swift8: ELCUIE21
+  branch_name: Head Office
+  branch_address: Main Street Elphin
+  branch_code: XXX
+  city: Elphin
+  country: Ireland
+- name: Employees' Inter-related Enterprises Credit Union Limited
+  swift: EIECIE21XXX
+  swift8: EIECIE21
+  branch_name: Head Office
+  branch_address: 3 Belvedere Road Dublin 1
+  branch_code: XXX
+  city: Dublin
+  country: Ireland
+- name: Emyvale District Credit Union Limited
+  swift: EDCIIE21XXX
+  swift8: EDCIIE21
+  branch_name: Head Office
+  branch_address: Main Street Emyvale
+  branch_code: XXX
+  city: Emyvale
+  country: Ireland
+- name: Enfield Credit Union Limited
+  swift: ENCUIE21XXX
+  swift8: ENCUIE21
+  branch_name: Head Office
+  branch_address: Main Street Enfield
+  branch_code: XXX
+  city: Enfield
+  country: Ireland
+- name: Enniscorthy Credit Union Limited
+  swift: ENCNIE21XXX
+  swift8: ENCNIE21
+  branch_name: Head Office
+  branch_address: Abbey Square Enniscorthy
+  branch_code: XXX
+  city: Enniscorthy
+  country: Ireland
+- name: Ennistymon And District Credit Union Limited
+  swift: EDRUIE21XXX
+  swift8: EDRUIE21
+  branch_name: Head Office
+  branch_address: Credit Union House Ennistymon
+  branch_code: XXX
+  city: Ennistymon
+  country: Ireland
+- name: Eperon
+  swift: KBCAIE31XXX
+  swift8: KBCAIE31
+  branch_name: Head Office
+  branch_address: Joshua Dawson House Dublin 2
+  branch_code: XXX
+  city: Dublin
+  country: Ireland
+- name: Erris Credit Union Limited
+  swift: ERCUIE21XXX
+  swift8: ERCUIE21
+  branch_name: Head Office
+  branch_address: Upper Barrack Street Belmullet
+  branch_code: XXX
+  city: Belmullet
+  country: Ireland
+- name: Estuary Credit Union Limited
+  swift: ESCUIE21XXX
+  swift8: ESCUIE21
+  branch_name: Head Office
+  branch_address: Upper Main Street Glin
+  branch_code: XXX
+  city: Glin
+  country: Ireland
+- name: Ewt Dealing Limited
+  swift: EWDEIE21XXX
+  swift8: EWDEIE21
+  branch_name: Head Office
+  branch_address: 70 Sir John Rogersons Quay Dublin 2
+  branch_code: XXX
+  city: Dublin
+  country: Ireland
+- name: Fairview Credit Union Limited
+  swift: FARIIE21XXX
+  swift8: FARIIE21
+  branch_name: Head Office
+  branch_address: 36 - 38 Fairview Strand Dublin 3
+  branch_code: XXX
+  city: Dublin
+  country: Ireland
+- name: Farranree Credit Union Limited
+  swift: FAEUIE21XXX
+  swift8: FAEUIE21
+  branch_name: Head Office
+  branch_address: 114-115 Knockpogue Avenue Farranree
+  branch_code: XXX
+  city: Farranree
+  country: Ireland
+- name: Fas Credit Union Limited
+  swift: FACUIE21XXX
+  swift8: FACUIE21
+  branch_name: Head Office
+  branch_address: 27/33 Upper Baggot Street Ballsbridge
+  branch_code: XXX
+  city: Ballsbridge
+  country: Ireland
+- name: Faughart Credit Union Limited
+  swift: FARUIE21XXX
+  swift8: FARUIE21
+  branch_name: Head Office
+  branch_address: Bellewsbridge Road Dundalk
+  branch_code: XXX
+  city: Dundalk
+  country: Ireland
+- name: Ferbane And District Credit Union Limited
+  swift: FDCUIE21XXX
+  swift8: FDCUIE21
+  branch_name: Head Office
+  branch_address: Church Street Ferbane
+  branch_code: XXX
+  city: Ferbane
+  country: Ireland
+- name: Fergus Credit Union Limited
+  swift: FECUIE21XXX
+  swift8: FECUIE21
+  branch_name: Head Office
+  branch_address: Decomade, Lissycasey Ennis
+  branch_code: XXX
+  city: Ennis
+  country: Ireland
+- name: Fermoy Credit Union Limited
+  swift: FECNIE21XXX
+  swift8: FECNIE21
+  branch_name: Head Office
+  branch_address: 27-29 Patrick Street Fermoy
+  branch_code: XXX
+  city: Fermoy
+  country: Ireland
+- name: Fethard And District Credit Union Limited
+  swift: FDRUIE21XXX
+  swift8: FDRUIE21
+  branch_name: Head Office
+  branch_address: Main Street Fethard
+  branch_code: XXX
+  city: Fethard
+  country: Ireland
+- name: Fexco
+  swift: FEXCIE21XXX
+  swift8: FEXCIE21
+  branch_name: Head Office
+  branch_address: Fexco Centre Killorglin
+  branch_code: XXX
+  city: Killorglin
+  country: Ireland
+- name: Fexco Corporate Payments
+  swift: FECPIE21XXX
+  swift8: FECPIE21
+  branch_name: Head Office
+  branch_address: Iveragh Road Killorglin
+  branch_code: XXX
+  city: Killorglin
+  country: Ireland
+- name: Fexco Merchant Services
+  swift: FEXMIE2DXXX
+  swift8: FEXMIE2D
+  branch_name: Head Office
+  branch_address: Fexco Centre Killorglin
+  branch_code: XXX
+  city: Killorglin
+  country: Ireland
+- name: Fideuram Asset Management (ireland) Ltd
+  swift: FAMDIE21XXX
+  swift8: FAMDIE21
+  branch_name: Head Office
+  branch_address: Georges Court Dublin 2
+  branch_code: XXX
+  city: Dublin
+  country: Ireland
+- name: Finex
+  swift: XFNXIE21XXX
+  swift8: XFNXIE21
+  branch_name: Head Office
+  branch_address: Dublin Exchange Facility Dublin
+  branch_code: XXX
+  city: Dublin
+  country: Ireland
+- name: Finglas Credit Union Limited
+  swift: FIRUIE21XXX
+  swift8: FIRUIE21
+  branch_name: Head Office
+  branch_address: Ballygall Road West, Finglas Dublin 11
+  branch_code: XXX
+  city: Dublin
+  country: Ireland
+- name: Firhouse Credit Union Limited
+  swift: FITUIE21XXX
+  swift8: FITUIE21
+  branch_name: Head Office
+  branch_address: Firhouse Dublin 24
+  branch_code: XXX
+  city: Dublin
+  country: Ireland
+- name: Forfas Staff Credit Union Limited
+  swift: FSCNIE21XXX
+  swift8: FSCNIE21
+  branch_name: Head Office
+  branch_address: Wilton Park House Dublin 2
+  branch_code: XXX
+  city: Dublin
+  country: Ireland
+- name: Foxrock And District Credit Union Limited
+  swift: FDCNIE21XXX
+  swift8: FDCNIE21
+  branch_name: Head Office
+  branch_address: Magic Retail Centre Dublin
+  branch_code: XXX
+  city: Dublin
+  country: Ireland
+- name: Foyle Credit Union Limited
+  swift: FOCNIE21XXX
+  swift8: FOCNIE21
+  branch_name: Head Office
+  branch_address: Foyle Street Moville
+  branch_code: XXX
+  city: Moville
+  country: Ireland
+- name: Francis Street Parish And District Credit Union Limited
+  swift: FSPDIE21XXX
+  swift8: FSPDIE21
+  branch_name: Head Office
+  branch_address: 2 and 3 Saint Lukes Gate Dublin 8
+  branch_code: XXX
+  city: Dublin
+  country: Ireland
+- name: Gaia Fx Limited
+  swift: GAIAIE21XXX
+  swift8: GAIAIE21
+  branch_name: Head Office
+  branch_address: 9/11 Lower Mount Street Dublin 2
+  branch_code: XXX
+  city: Dublin
+  country: Ireland
+- name: Glanbia Plc
+  swift: GLABIE21XXX
+  swift8: GLABIE21
+  branch_name: Head Office
+  branch_address: Glanbia House Kilkenny
+  branch_code: XXX
+  city: Kilkenny
+  country: Ireland
+- name: Glanmire And District Credit Union Limited
+  swift: GDCNIE21XXX
+  swift8: GDCNIE21
+  branch_name: Head Office
+  branch_address: Crestfield Centre Glanmire
+  branch_code: XXX
+  city: Glanmire
+  country: Ireland
+- name: Glas Securities Limited
+  swift: GSERIE21XXX
+  swift8: GSERIE21
+  branch_name: Head Office
+  branch_address: 33 Sir John Rogersons Quay Dublin 2
+  branch_code: XXX
+  city: Dublin
+  country: Ireland
+- name: Glasthule-dun Laoghaire District Credit Union Limited
+  swift: GLDRIE21XXX
+  swift8: GLDRIE21
+  branch_name: Head Office
+  branch_address: 4 Sussex Street Dun Laoghaire
+  branch_code: XXX
+  city: Dublin / Dun Laoghaire
+  country: Ireland
+- name: Glenamaddy Credit Union Limited
+  swift: GLCUIE21XXX
+  swift8: GLCUIE21
+  branch_name: Head Office
+  branch_address: Church Street Glenamaddy
+  branch_code: XXX
+  city: Glenamaddy
+  country: Ireland
+- name: Global Asset Management
+  swift: GLAAIE21XXX
+  swift8: GLAAIE21
+  branch_name: Head Office
+  branch_address: 65-66 Lower Mount Street Dublin
+  branch_code: XXX
+  city: Dublin
+  country: Ireland
+- name: Global Reach Securities Limited
+  swift: GLRSIE21XXX
+  swift8: GLRSIE21
+  branch_name: Head Office
+  branch_address: Fitzwilliam Business Centre Dublin 2
+  branch_code: XXX
+  city: Dublin
+  country: Ireland
+- name: Globeop Financial Services (ireland) Limited
+  swift: GLOPIE21XXX
+  swift8: GLOPIE21
+  branch_name: Head Office
+  branch_address: La Touche House Dublin Dublin 1
+  branch_code: XXX
+  city: Dublin Dublin
+  country: Ireland
+- name: Goldman Sachs Private Bank Limited
+  swift: GOSVIE21XXX
+  swift8: GOSVIE21
+  branch_name: Head Office
+  branch_address: Hardwicke House Dublin 2
+  branch_code: XXX
+  city: Dublin
+  country: Ireland
+- name: Goodbody Stockbrokers
+  swift: GDBSIE21003
+  swift8: GDBSIE21
+  branch_name: Dublin 4
+  branch_address: Ballsbridge Park Dublin 4
+  branch_code: '003'
+  city: Dublin
+  country: Ireland
+- name: Goodbody Stockbrokers
+  swift: GDBSIE21004
+  swift8: GDBSIE21
+  branch_name: Dublin 4
+  branch_address: Ballsbridge Park Dublin 4
+  branch_code: '004'
+  city: Dublin
+  country: Ireland
+- name: Goodbody Stockbrokers
+  swift: GDBSIE21XXX
+  swift8: GDBSIE21
+  branch_name: Head Office
+  branch_address: 122 Pembroke Road, Ballbridge Dublin 4
+  branch_code: XXX
+  city: Dublin
+  country: Ireland
+- name: Google Ireland Holdings
+  swift: GOOGIE21XXX
+  swift8: GOOGIE21
+  branch_name: Head Office
+  branch_address: Gordon House Dublin 4
+  branch_code: XXX
+  city: Dublin
+  country: Ireland
+- name: Google Ireland Limited
+  swift: GOOGIE31XXX
+  swift8: GOOGIE31
+  branch_name: Head Office
+  branch_address: Gordon House Barrow Street Dublin 4
+  branch_code: XXX
+  city: Dublin
+  country: Ireland
+- name: Goresbridge Credit Union Limited
+  swift: GOCNIE21XXX
+  swift8: GOCNIE21
+  branch_name: Head Office
+  branch_address: High Street Goresbridge
+  branch_code: XXX
+  city: Goresbridge
+  country: Ireland
+- name: Gorey Credit Union Limited
+  swift: GOCIIE21XXX
+  swift8: GOCIIE21
+  branch_name: Head Office
+  branch_address: Mcdermott Street Gorey
+  branch_code: XXX
+  city: Gorey
+  country: Ireland
+- name: Gort Credit Union Limited
+  swift: GORUIE21XXX
+  swift8: GORUIE21
+  branch_name: Head Office
+  branch_address: Credit Union House Gort
+  branch_code: XXX
+  city: Gort
+  country: Ireland
+- name: Gosmore Investments
+  swift: GOIVIE21XXX
+  swift8: GOIVIE21
+  branch_name: Head Office
+  branch_address: Georges Dock House Dublin 1
+  branch_code: XXX
+  city: Dublin
+  country: Ireland
+- name: Graiguenamanagh Credit Union Limited
+  swift: GRCUIE21XXX
+  swift8: GRCUIE21
+  branch_name: Head Office
+  branch_address: High Street Graiguenamanagh
+  branch_code: XXX
+  city: Graiguenamanagh
+  country: Ireland
+- name: Granard Credit Union Limited
+  swift: GRRUIE21XXX
+  swift8: GRRUIE21
+  branch_name: Head Office
+  branch_address: Barrack Street Granard
+  branch_code: XXX
+  city: Granard
+  country: Ireland
+- name: Greenhills And District Credit Union Limited
+  swift: GDCUIE21XXX
+  swift8: GDCUIE21
+  branch_name: Head Office
+  branch_address: Saint Peters Road Dublin 12
+  branch_code: XXX
+  city: Dublin
+  country: Ireland
+- name: Greystones And District Credit Union Limited
+  swift: GDCIIE21XXX
+  swift8: GDCIIE21
+  branch_name: Head Office
+  branch_address: Credit Union House Greystones
+  branch_code: XXX
+  city: Greystones
+  country: Ireland
+- name: Guinness And Mahon (ireland) Ltd
+  swift: GUMIIE21XXX
+  swift8: GUMIIE21
+  branch_name: Head Office
+  branch_address: 56-59 St. Stephens Green Dublin 2
+  branch_code: XXX
+  city: Dublin
+  country: Ireland
+- name: Gurranabraher Credit Union Limited
+  swift: GUCUIE21XXX
+  swift8: GUCUIE21
+  branch_name: Head Office
+  branch_address: Bakers Road Cork
+  branch_code: XXX
+  city: Cork
+  country: Ireland
+- name: Hacketstown And Tinahely Credit Union Limited
+  swift: HTCUIE21XXX
+  swift8: HTCUIE21
+  branch_name: Head Office
+  branch_address: The Old Court House Hacketstown
+  branch_code: XXX
+  city: Hacketstown
+  country: Ireland
+- name: Halston Street Credit Union Limited
+  swift: HSCNIE21XXX
+  swift8: HSCNIE21
+  branch_name: Head Office
+  branch_address: 145 Capel Street Dublin 1
+  branch_code: XXX
+  city: Dublin
+  country: Ireland
+- name: Harold's Cross And District Credit Union Limited
+  swift: HCDCIE21XXX
+  swift8: HCDCIE21
+  branch_name: Head Office
+  branch_address: 244 Harolds Cross Road Dublin 6w
+  branch_code: XXX
+  city: Dublin
+  country: Ireland
+- name: Health Services Staffs Credit Union Limited
+  swift: HSSRIE21XXX
+  swift8: HSSRIE21
+  branch_name: Head Office
+  branch_address: 5 High Street Dublin 8
+  branch_code: XXX
+  city: Dublin
+  country: Ireland
+- name: Helaba Asset Services(formerly Landesbank Hessen Thueringen International
+  swift: HELAIE21XXX
+  swift8: HELAIE21
+  branch_name: Head Office
+  branch_address: 5 Georges Dock Ifsc Dublin 1
+  branch_code: XXX
+  city: Dublin
+  country: Ireland
+- name: Helaba International Finance Plc
+  swift: HELAIE31XXX
+  swift8: HELAIE31
+  branch_name: Head Office
+  branch_address: Georges Dock 3 Dublin 1
+  branch_code: XXX
+  city: Dublin
+  country: Ireland
+- name: Hewlett Packard International Bank Plc
+  swift: HEPIIE21XXX
+  swift8: HEPIIE21
+  branch_name: Head Office
+  branch_address: Barnhall Road Dublin
+  branch_code: XXX
+  city: Dublin
+  country: Ireland
+- name: Hewlett-packard International Bank Plc
+  swift: HEINIE21XXX
+  swift8: HEINIE21
+  branch_name: Head Office
+  branch_address: Liffey Park, Techology Campus Leixlip
+  branch_code: XXX
+  city: Leixlip
+  country: Ireland
+- name: Hibernian Investment Managers Limited
+  swift: HINAIE21XXX
+  swift8: HINAIE21
+  branch_name: Head Office
+  branch_address: La Touche/Ifsc House Dublin
+  branch_code: XXX
+  city: Dublin
+  country: Ireland
+- name: Holy Family Credit Union Limited
+  swift: HFCUIE21XXX
+  swift8: HFCUIE21
+  branch_name: Head Office
+  branch_address: 75 Slieve Foy Park Dundalk
+  branch_code: XXX
+  city: Dundalk
+  country: Ireland
+- name: Howth Credit Union Limited
+  swift: HOCUIE21XXX
+  swift8: HOCUIE21
+  branch_name: Head Office
+  branch_address: 21 Church Street Howth
+  branch_code: XXX
+  city: Howth
+  country: Ireland
+- name: Hsbc Ireland (holdings) Public Limited Company
+  swift: BBDAIE31XXX
+  swift8: BBDAIE31
+  branch_name: Head Office
+  branch_address: Hsbc House Dublin 2
+  branch_code: XXX
+  city: Dublin
+  country: Ireland
+- name: Hsbc Securities Services (ireland)ltd
+  swift: HSSDIE21XXX
+  swift8: HSSDIE21
+  branch_name: Head Office
+  branch_address: 1 Grand Canal Square Dublin 2
+  branch_code: XXX
+  city: Dublin
+  country: Ireland
+- name: I1u Asset Strategies Limited
+  swift: ASTGIE21XXX
+  swift8: ASTGIE21
+  branch_name: Head Office
+  branch_address: Ifsc House Dublin 1
+  branch_code: XXX
+  city: Dublin
+  country: Ireland
+- name: Inchicore And District Credit Union Limited
+  swift: IDCUIE21XXX
+  swift8: IDCUIE21
+  branch_name: Head Office
+  branch_address: 12 - 12a Grattan Crescent Dublin 8
+  branch_code: XXX
+  city: Dublin
+  country: Ireland
+- name: Indogroup Credit Union Limited
+  swift: IDCIIE21XXX
+  swift8: IDCIIE21
+  branch_name: Head Office
+  branch_address: Spencer House Dublin 1
+  branch_code: XXX
+  city: Dublin
+  country: Ireland
+- name: Inishowen Credit Union Limited
+  swift: IICNIE21XXX
+  swift8: IICNIE21
+  branch_name: Head Office
+  branch_address: 26 Chapel Street Carndonagh
+  branch_code: XXX
+  city: Carndonagh
+  country: Ireland
+- name: Inniskeen Credit Union Limited
+  swift: ICRUIE21XXX
+  swift8: ICRUIE21
+  branch_name: Head Office
+  branch_address: Inniskeen Dundalk
+  branch_code: XXX
+  city: Dundalk
+  country: Ireland
+- name: Inora Life
+  swift: IOLIIE21XXX
+  swift8: IOLIIE21
+  branch_name: Head Office
+  branch_address: International Financial Services Dublin
+  branch_code: XXX
+  city: Dublin
+  country: Ireland
+- name: Intercontinental Finance
+  swift: ICFDIE21XXX
+  swift8: ICFDIE21
+  branch_name: Head Office
+  branch_address: 91/93 Merrion Square Dublin 2
+  branch_code: XXX
+  city: Dublin
+  country: Ireland
+- name: International Investment And Underwriting
+  swift: INIRIE21XXX
+  swift8: INIRIE21
+  branch_name: Head Office
+  branch_address: Ifsc House Dublin 1
+  branch_code: XXX
+  city: Dublin
+  country: Ireland
+- name: Irg Public Limited Company
+  swift: IRGPIE21XXX
+  swift8: IRGPIE21
+  branch_name: Head Office
+  branch_address: 12-13 Pembroke Row Dublin 2
+  branch_code: XXX
+  city: Dublin
+  country: Ireland
+- name: Irish Dental Credit Union Limited
+  swift: IDCNIE21XXX
+  swift8: IDCNIE21
+  branch_name: Head Office
+  branch_address: Leapordstown Office Park Dublin 18
+  branch_code: XXX
+  city: Dublin
+  country: Ireland
+- name: Irish Taxi Owners' Co-op Credit Union Limited
+  swift: ITOCIE21XXX
+  swift8: ITOCIE21
+  branch_name: Head Office
+  branch_address: 10 Hanover Street East Dublin 2
+  branch_code: XXX
+  city: Dublin
+  country: Ireland
+- name: J And E Davy
+  swift: DAVEIE21BOS
+  swift8: DAVEIE21
+  branch_name: Dublin
+  branch_address: Dublin
+  branch_code: BOS
+  city: Dublin
+  country: Ireland
+- name: J And E Davy
+  swift: DAVEIE21XXX
+  swift8: DAVEIE21
+  branch_name: Head Office
+  branch_address: Davy House Dublin 2
+  branch_code: XXX
+  city: Dublin
+  country: Ireland
+- name: James's St. Credit Union Limited
+  swift: JACUIE21XXX
+  swift8: JACUIE21
+  branch_name: Head Office
+  branch_address: 144-150 James Street Dublin 8
+  branch_code: XXX
+  city: Dublin
+  country: Ireland
+- name: Jim Larkin Credit Union Limited
+  swift: JLCUIE21XXX
+  swift8: JLCUIE21
+  branch_name: Head Office
+  branch_address: Liberty Hall Dublin 1
+  branch_code: XXX
+  city: Dublin
+  country: Ireland
+- name: Kanturk Credit Union Limited
+  swift: KCRUIE21XXX
+  swift8: KCRUIE21
+  branch_name: Head Office
+  branch_address: Clock House Kanturk
+  branch_code: XXX
+  city: Kanturk
+  country: Ireland
+- name: Kbc Finance Ireland
+  swift: KRSIIE21XXX
+  swift8: KRSIIE21
+  branch_name: Head Office
+  branch_address: Kbc House Dublin 2
+  branch_code: XXX
+  city: Dublin
+  country: Ireland
+- name: Kbc Mortgage Bank
+  swift: KBMOIE21XXX
+  swift8: KBMOIE21
+  branch_name: Head Office
+  branch_address: Sandwith Street Dublin
+  branch_code: XXX
+  city: Dublin
+  country: Ireland
+- name: Kbl Bank Ireland
+  swift: KBLFIE21XXX
+  swift8: KBLFIE21
+  branch_name: Head Office
+  branch_address: Kredietbank House Dublin 1
+  branch_code: XXX
+  city: Dublin
+  country: Ireland
+- name: Kenmare Credit Union Limited
+  swift: KECUIE21XXX
+  swift8: KECUIE21
+  branch_name: Head Office
+  branch_address: Killarney Road Kenmare
+  branch_code: XXX
+  city: Kenmare
+  country: Ireland
+- name: Kilcloon Parish And District Credit Union Limited
+  swift: KPDCIE21XXX
+  swift8: KPDCIE21
+  branch_name: Head Office
+  branch_address: The Square Kilcock
+  branch_code: XXX
+  city: Kilcock
+  country: Ireland
+- name: Kilcormac Credit Union Limited
+  swift: KIRUIE21XXX
+  swift8: KIRUIE21
+  branch_name: Head Office
+  branch_address: Main Street Kilcormac
+  branch_code: XXX
+  city: Kilcormac
+  country: Ireland
+- name: Kilcullen Credit Union Limited
+  swift: KIRNIE21XXX
+  swift8: KIRNIE21
+  branch_name: Head Office
+  branch_address: Credit Union House Kilcullen
+  branch_code: XXX
+  city: Kilcullen
+  country: Ireland
+- name: Kildare Credit Union Limited
+  swift: KIRIIE21XXX
+  swift8: KIRIIE21
+  branch_name: Head Office
+  branch_address: Rea House Kildare
+  branch_code: XXX
+  city: Kildare
+  country: Ireland
+- name: Kilkerrin And Clonberne Credit Union Limited
+  swift: KCCUIE21XXX
+  swift8: KCCUIE21
+  branch_name: Head Office
+  branch_address: Kilkerrin Ballinasloe
+  branch_code: XXX
+  city: Ballinasloe
+  country: Ireland
+- name: Killarney Credit Union Limited
+  swift: KIROIE21XXX
+  swift8: KIROIE21
+  branch_name: Head Office
+  branch_address: Beech Road Killarney
+  branch_code: XXX
+  city: Killarney
+  country: Ireland
+- name: Killorglin Credit Union Limited
+  swift: KCUNIE21XXX
+  swift8: KCUNIE21
+  branch_name: Head Office
+  branch_address: Mill Road Killorglin
+  branch_code: XXX
+  city: Killorglin
+  country: Ireland
+- name: Killybegs Credit Union Limited
+  swift: KCRIIE21XXX
+  swift8: KCRIIE21
+  branch_name: Head Office
+  branch_address: Main Street Killybegs
+  branch_code: XXX
+  city: Killybegs
+  country: Ireland
+- name: Kilmallock Credit Union Limited
+  swift: KIEUIE21XXX
+  swift8: KIEUIE21
+  branch_name: Head Office
+  branch_address: Sarsfield Street Kilmallock
+  branch_code: XXX
+  city: Kilmallock
+  country: Ireland
+- name: Kilnamanagh Credit Union Limited
+  swift: KICIIE21XXX
+  swift8: KICIIE21
+  branch_name: Head Office
+  branch_address: Treepark Road Dublin 24
+  branch_code: XXX
+  city: Dublin
+  country: Ireland
+- name: Kilronan-drumboylan Credit Union Limited
+  swift: KICUIE21XXX
+  swift8: KICUIE21
+  branch_name: Head Office
+  branch_address: Main Street Boyle
+  branch_code: XXX
+  city: Boyle
+  country: Ireland
+- name: Kilrush Credit Union Limited
+  swift: KIENIE21XXX
+  swift8: KIENIE21
+  branch_name: Head Office
+  branch_address: Credit Union House Kilrush
+  branch_code: XXX
+  city: Kilrush
+  country: Ireland
+- name: Kilsaran Credit Union Limited
+  swift: KICNIE21XXX
+  swift8: KICNIE21
+  branch_name: Head Office
+  branch_address: Kilsaran Castlebellingham
+  branch_code: XXX
+  city: Castlebellingham
+  country: Ireland
+- name: Kiltimagh District Credit Union Limited
+  swift: KDCUIE21XXX
+  swift8: KDCUIE21
+  branch_name: Head Office
+  branch_address: Main Street Kiltimagh
+  branch_code: XXX
+  city: Kiltimagh
+  country: Ireland
+- name: Kingscourt Credit Union Limited
+  swift: KIEIIE21XXX
+  swift8: KIEIIE21
+  branch_name: Head Office
+  branch_address: Main Street Kingscourt
+  branch_code: XXX
+  city: Kingscourt
+  country: Ireland
+- name: Kinnegad And District Credit Union Limited
+  swift: KDCNIE21XXX
+  swift8: KDCNIE21
+  branch_name: Head Office
+  branch_address: Main Street Kinnegad
+  branch_code: XXX
+  city: Kinnegad
+  country: Ireland
+- name: Kinsale And District Credit Union Limited
+  swift: KDCIIE21XXX
+  swift8: KDCIIE21
+  branch_name: Head Office
+  branch_address: Exchange Buildings Kinsale
+  branch_code: XXX
+  city: Kinsale
+  country: Ireland
+- name: Kinvara And District Credit Union Limited
+  swift: KDCOIE21XXX
+  swift8: KDCOIE21
+  branch_name: Head Office
+  branch_address: Main Street Kinvara
+  branch_code: XXX
+  city: Kinvara
+  country: Ireland
+- name: Knocklyon Credit Union Limited
+  swift: KNCUIE21XXX
+  swift8: KNCUIE21
+  branch_name: Head Office
+  branch_address: Superquinn Shopping Centre Knocklyon
+  branch_code: XXX
+  city: Knocklyon
+  country: Ireland
+- name: Koratrade Mtmc Ltd
+  swift: KORAIE21XXX
+  swift8: KORAIE21
+  branch_name: Head Office
+  branch_address: Georges Dock House Dublin 1
+  branch_code: XXX
+  city: Dublin
+  country: Ireland
+- name: Lambay Capital Limited
+  swift: LACLIE21XXX
+  swift8: LACLIE21
+  branch_name: Head Office
+  branch_address: 15 Molesworth Street Dublin 2
+  branch_code: XXX
+  city: Dublin
+  country: Ireland
+- name: Landesbank Hessen Thueringen Girozentrale Irish Branch
+  swift: HELAIE41XXX
+  swift8: HELAIE41
+  branch_name: Head Office
+  branch_address: 5 Georges Dock Ifsc Dublin 1
+  branch_code: XXX
+  city: Dublin
+  country: Ireland
+- name: Lanesboro' Ballyleague Credit Union Limited
+  swift: LBCUIE21XXX
+  swift8: LBCUIE21
+  branch_name: Head Office
+  branch_address: Ballyleague Lanesboro
+  branch_code: XXX
+  city: Lanesboro
+  country: Ireland
+- name: Larkhill And District Credit Union Limited
+  swift: LDCUIE21XXX
+  swift8: LDCUIE21
+  branch_name: Head Office
+  branch_address: 234 Swords Road Dublin 9
+  branch_code: XXX
+  city: Dublin
+  country: Ireland
+- name: Law Library Credit Union Limited
+  swift: LLCUIE21XXX
+  swift8: LLCUIE21
+  branch_name: Head Office
+  branch_address: The Law Library Dublin 7
+  branch_code: XXX
+  city: Dublin
+  country: Ireland
+- name: Lbl Finance (ireland) Plc
+  swift: BELAIE21XXX
+  swift8: BELAIE21
+  branch_name: Head Office
+  branch_address: Commerzbank House Dublin
+  branch_code: XXX
+  city: Dublin
+  country: Ireland
+- name: Leighlin Credit Union Limited
+  swift: LECIIE21XXX
+  swift8: LECIIE21
+  branch_name: Head Office
+  branch_address: Main Street Leighlinbridge
+  branch_code: XXX
+  city: Leighlinbridge
+  country: Ireland
+- name: Leixlip And District Credit Union Limited
+  swift: LDCNIE21XXX
+  swift8: LDCNIE21
+  branch_name: Head Office
+  branch_address: 44 Main Street Leixlip
+  branch_code: XXX
+  city: Leixlip
+  country: Ireland
+- name: Letterkenny Credit Union Limited
+  swift: LECOIE21XXX
+  swift8: LECOIE21
+  branch_name: Head Office
+  branch_address: High Road Letterkenny
+  branch_code: XXX
+  city: Letterkenny
+  country: Ireland
+- name: Lifford Credit Union Limited
+  swift: LICUIE21XXX
+  swift8: LICUIE21
+  branch_name: Head Office
+  branch_address: Bridge Street Lifford
+  branch_code: XXX
+  city: Lifford
+  country: Ireland
+- name: Lime Brokerage International (ireland) Limited
+  swift: LIMRIE21XXX
+  swift8: LIMRIE21
+  branch_name: Head Office
+  branch_address: Regus House Dublin Dublin 2
+  branch_code: XXX
+  city: Dublin
+  country: Ireland
+- name: Limerick C.i.e. Employees' Credit Union Limited
+  swift: LERUIE21XXX
+  swift8: LERUIE21
+  branch_name: Head Office
+  branch_address: 9 Sexton Street Limerick
+  branch_code: XXX
+  city: Limerick
+  country: Ireland
+- name: Lisduggan District Credit Union Limited
+  swift: LDCOIE21XXX
+  swift8: LDCOIE21
+  branch_name: Head Office
+  branch_address: Church Road Lisduggan
+  branch_code: XXX
+  city: Lisduggan
+  country: Ireland
+- name: Lismore And Cappoquin Credit Union Limited
+  swift: LCCUIE21XXX
+  swift8: LCCUIE21
+  branch_name: Head Office
+  branch_address: Main Street Lismore
+  branch_code: XXX
+  city: Lismore
+  country: Ireland
+- name: Listowel Credit Union Limited
+  swift: LICIIE21XXX
+  swift8: LICIIE21
+  branch_name: Head Office
+  branch_address: Church Street Listowel
+  branch_code: XXX
+  city: Listowel
+  country: Ireland
+- name: Lombard Ireland Limited
+  swift: LUBIIE21XXX
+  swift8: LUBIIE21
+  branch_name: Head Office
+  branch_address: Ulster Bank Group Centre Dublin 2
+  branch_code: XXX
+  city: Dublin
+  country: Ireland
+- name: Longford Credit Union Limited
+  swift: LORNIE21XXX
+  swift8: LORNIE21
+  branch_name: Head Office
+  branch_address: 50 Main Street Longford
+  branch_code: XXX
+  city: Longford
+  country: Ireland
+- name: Lordship Credit Union Limited
+  swift: LCRUIE21XXX
+  swift8: LCRUIE21
+  branch_name: Head Office
+  branch_address: Bellurgan, Jenkinstown Dundalk
+  branch_code: XXX
+  city: Dundalk
+  country: Ireland
+- name: Louisburgh Credit Union Limited
+  swift: LORIIE21XXX
+  swift8: LORIIE21
+  branch_name: Head Office
+  branch_address: Main Street Louisburgh
+  branch_code: XXX
+  city: Louisburgh
+  country: Ireland
+- name: Louth Credit Union Limited
+  swift: LORUIE21XXX
+  swift8: LORUIE21
+  branch_name: Head Office
+  branch_address: Credit Union House Dundalk
+  branch_code: XXX
+  city: Dundalk
+  country: Ireland
+- name: Lucan District Credit Union Limited
+  swift: LDCIIE21XXX
+  swift8: LDCIIE21
+  branch_name: Head Office
+  branch_address: 3 the Mall, Main Street Lucan
+  branch_code: XXX
+  city: Lucan
+  country: Ireland
+- name: M.p.c.c. Credit Union Limited
+  swift: MPCIIE21XXX
+  swift8: MPCIIE21
+  branch_name: Head Office
+  branch_address: Mungret Village Mungret
+  branch_code: XXX
+  city: Mungret
+  country: Ireland
+- name: Macroom Credit Union Limited
+  swift: MADOIE21XXX
+  swift8: MADOIE21
+  branch_name: Head Office
+  branch_address: Railway View Macroom
+  branch_code: XXX
+  city: Macroom
+  country: Ireland
+- name: Madison Tyler Europe Limited
+  swift: MATUIE21XXX
+  swift8: MATUIE21
+  branch_name: Head Office
+  branch_address: 70 Sir John Rogersons Quay Dublin 2
+  branch_code: XXX
+  city: Dublin
+  country: Ireland
+- name: Magennis And Co.
+  swift: MAGEIE21XXX
+  swift8: MAGEIE21
+  branch_name: Head Office
+  branch_address: 43 Lower Mill Street, Co-Down Newry
+  branch_code: XXX
+  city: Newry
+  country: Ireland
+- name: Malahide And District Credit Union Limited
+  swift: MDCIIE21XXX
+  swift8: MDCIIE21
+  branch_name: Head Office
+  branch_address: 1 Railway Avenue Malahide
+  branch_code: XXX
+  city: Dublin / Malahide
+  country: Ireland
+- name: Mallow Credit Union Limited
+  swift: MATNIE21XXX
+  swift8: MATNIE21
+  branch_name: Head Office
+  branch_address: 135 Bank Place Mallow
+  branch_code: XXX
+  city: Mallow
+  country: Ireland
+- name: Management International Dublin Ltd
+  swift: MAIUIE21XXX
+  swift8: MAIUIE21
+  branch_name: Head Office
+  branch_address: Europa House Dublin
+  branch_code: XXX
+  city: Dublin
+  country: Ireland
+- name: Manorhamilton And District Credit Union Limited
+  swift: MDCOIE21XXX
+  swift8: MDCOIE21
+  branch_name: Head Office
+  branch_address: Main Street Manor Hamilton
+  branch_code: XXX
+  city: Manor Hamilton
+  country: Ireland
+- name: Marino Credit Union Limited
+  swift: MADNIE21XXX
+  swift8: MADNIE21
+  branch_name: Head Office
+  branch_address: 1d Griffith Avenue Dublin 9
+  branch_code: XXX
+  city: Dublin
+  country: Ireland
+- name: Marks And Spencer Financial Services Plc
+  swift: MSFSIE21XXX
+  swift8: MSFSIE21
+  branch_name: Head Office
+  branch_address: 24-29 Mary Street Dublin 1
+  branch_code: XXX
+  city: Dublin
+  country: Ireland
+- name: Matt Talbot Credit Union Limited
+  swift: MTCUIE21XXX
+  swift8: MTCUIE21
+  branch_name: Head Office
+  branch_address: 36a Fitzgibbon Street Dublin 1
+  branch_code: XXX
+  city: Dublin
+  country: Ireland
+- name: Maxol Employees' Credit Union Limited
+  swift: MMCUIE21XXX
+  swift8: MMCUIE21
+  branch_name: Head Office
+  branch_address: Ifsc Dublin 1
+  branch_code: XXX
+  city: Dublin
+  country: Ireland
+- name: Maynooth Credit Union Limited
+  swift: MYCUIE21XXX
+  swift8: MYCUIE21
+  branch_name: Head Office
+  branch_address: Credit Union House Maynooth
+  branch_code: XXX
+  city: Maynooth
+  country: Ireland
+- name: Mayo-doonane Credit Union Limited
+  swift: MYCNIE21XXX
+  swift8: MYCNIE21
+  branch_name: Head Office
+  branch_address: Doonane, (via Carlow) Crettyard
+  branch_code: XXX
+  city: Crettyard
+  country: Ireland
+- name: Mayorstone District Credit Union Limited
+  swift: MDCNIE21XXX
+  swift8: MDCNIE21
+  branch_name: Head Office
+  branch_address: 2 Glenview Villas Limerick
+  branch_code: XXX
+  city: Limerick
+  country: Ireland
+- name: Mbna International Bank Ltd
+  swift: MBITIE21XXX
+  swift8: MBITIE21
+  branch_name: Head Office
+  branch_address: 46 St Stephens Green Dublin 2
+  branch_code: XXX
+  city: Dublin
+  country: Ireland
+- name: Meath Street Credit Union Limited
+  swift: MSCUIE21XXX
+  swift8: MSCUIE21
+  branch_name: Head Office
+  branch_address: 137 Thomas Street Dublin 8
+  branch_code: XXX
+  city: Dublin
+  country: Ireland
+- name: Mediolanum Asset Management Limited
+  swift: MEATIE21XXX
+  swift8: MEATIE21
+  branch_name: Head Office
+  branch_address: Iona Building Dublin D6
+  branch_code: XXX
+  city: Dublin
+  country: Ireland
+- name: Mediolanum Asset Management Limited
+  swift: MEATIE2RXXX
+  swift8: MEATIE2R
+  branch_name: Head Office
+  branch_address: Iona Building Ballsbridge
+  branch_code: XXX
+  city: Ballsbridge
+  country: Ireland
+- name: Mellifont Credit Union Limited
+  swift: METUIE21XXX
+  swift8: METUIE21
+  branch_name: Head Office
+  branch_address: Tullyallen Drogheda
+  branch_code: XXX
+  city: Drogheda
+  country: Ireland
+- name: Menlough/skehana Credit Union Limited
+  swift: MEENIE21XXX
+  swift8: MEENIE21
+  branch_name: Head Office
+  branch_address: Community Centre Ballinasloe
+  branch_code: XXX
+  city: Ballinasloe
+  country: Ireland
+- name: Merrion Stockbrokers
+  swift: METTIE21XXX
+  swift8: METTIE21
+  branch_name: Head Office
+  branch_address: Alexadra House Dublin
+  branch_code: XXX
+  city: Dublin
+  country: Ireland
+- name: Merrion Stockbrokers Limited
+  swift: MESBIE21CTM
+  swift8: MESBIE21
+  branch_name: Central Transaction Matching
+  branch_address: Dublin
+  branch_code: CTM
+  city: Dublin
+  country: Ireland
+- name: Merrion Stockbrokers Limited
+  swift: MESBIE21PCS
+  swift8: MESBIE21
+  branch_name: Pershing Fixed Income Clearing
+  branch_address: Dublin
+  branch_code: PCS
+  city: Dublin
+  country: Ireland
+- name: Merrion Stockbrokers Limited
+  swift: MESBIE21XXX
+  swift8: MESBIE21
+  branch_name: Head Office
+  branch_address: The Sweepstakes Dublin 4
+  branch_code: XXX
+  city: Dublin
+  country: Ireland
+- name: Midleton Credit Union Limited
+  swift: MIRNIE21XXX
+  swift8: MIRNIE21
+  branch_name: Head Office
+  branch_address: 23/24 Main Street Midleton
+  branch_code: XXX
+  city: Midleton
+  country: Ireland
+- name: Millstreet Parish Credit Union Limited
+  swift: MPCNIE21XXX
+  swift8: MPCNIE21
+  branch_name: Head Office
+  branch_address: The Corner House Millstreet
+  branch_code: XXX
+  city: Millstreet
+  country: Ireland
+- name: Milltown (kerry) Credit Union Limited
+  swift: MKCUIE21XXX
+  swift8: MKCUIE21
+  branch_name: Head Office
+  branch_address: Credit Union House Milltown
+  branch_code: XXX
+  city: Milltown
+  country: Ireland
+- name: Milltown/clonskea Credit Union Limited
+  swift: MIRUIE21XXX
+  swift8: MIRUIE21
+  branch_name: Head Office
+  branch_address: Dundrum Road Dublin 14
+  branch_code: XXX
+  city: Dublin
+  country: Ireland
+- name: Mitchelstown Credit Union Limited
+  swift: MIEUIE21XXX
+  swift8: MIEUIE21
+  branch_name: Head Office
+  branch_address: Credit Union House Mitchelstown
+  branch_code: XXX
+  city: Mitchelstown
+  country: Ireland
+- name: Mitsubishi Trust Finance (ireland) Plc
+  swift: MFIIIE21XXX
+  swift8: MFIIIE21
+  branch_name: Head Office
+  branch_address: Iveagh Court Dublin 2
+  branch_code: XXX
+  city: Dublin
+  country: Ireland
+- name: Mmi Stockbrokers Ltd.
+  swift: MMIBIE21XXX
+  swift8: MMIBIE21
+  branch_name: Head Office
+  branch_address: 26 Lower Baggot Street Dublin
+  branch_code: XXX
+  city: Dublin
+  country: Ireland
+- name: Mohill Credit Union Limited
+  swift: MOEUIE21XXX
+  swift8: MOEUIE21
+  branch_name: Head Office
+  branch_address: Convent Lane Mohil
+  branch_code: XXX
+  city: Mohil
+  country: Ireland
+- name: Monaghan Credit Union Limited
+  swift: MODIIE21XXX
+  swift8: MODIIE21
+  branch_name: Head Office
+  branch_address: Castle Meadow Court Tirkeenan
+  branch_code: XXX
+  city: Tirkeenan
+  country: Ireland
+- name: Monaleen Parish Credit Union Limited
+  swift: MPRUIE21XXX
+  swift8: MPRUIE21
+  branch_name: Head Office
+  branch_address: Monaleen Road Castletroy
+  branch_code: XXX
+  city: Castletroy
+  country: Ireland
+- name: Monasterboice Credit Union Limited
+  swift: MORNIE21XXX
+  swift8: MORNIE21
+  branch_name: Head Office
+  branch_address: Monasterboice Drogheda
+  branch_code: XXX
+  city: Drogheda
+  country: Ireland
+- name: Monasterevan Credit Union Limited
+  swift: MOEIIE21XXX
+  swift8: MOEIIE21
+  branch_name: Head Office
+  branch_address: Whelan Street Monasterevan
+  branch_code: XXX
+  city: Monasterevan
+  country: Ireland
+- name: Monte Paschi Ireland Ltd
+  swift: MPILIE21XXX
+  swift8: MPILIE21
+  branch_name: Head Office
+  branch_address: Aib International Centre I.F.S.C. Dublin 1
+  branch_code: XXX
+  city: Dublin
+  country: Ireland
+- name: Morgan Grenfell Fund Administration Services (ireland) Ltd
+  swift: MGFAIE21XXX
+  swift8: MGFAIE21
+  branch_name: Head Office
+  branch_address: Georges Dock House Dublin 1
+  branch_code: XXX
+  city: Dublin
+  country: Ireland
+- name: Mountmellick Credit Union Limited
+  swift: MOEOIE21XXX
+  swift8: MOEOIE21
+  branch_name: Head Office
+  branch_address: Sarsfield Street Mountmellick
+  branch_code: XXX
+  city: Mountmellick
+  country: Ireland
+- name: Mountrath And District Credit Union Limited
+  swift: MDRUIE21XXX
+  swift8: MDRUIE21
+  branch_name: Head Office
+  branch_address: Shannon Street Mountrath
+  branch_code: XXX
+  city: Mountrath
+  country: Ireland
+- name: Moylough/mountbellew Credit Union Limited
+  swift: MOCUIE21XXX
+  swift8: MOCUIE21
+  branch_name: Head Office
+  branch_address: Community Centre Ballinasloe
+  branch_code: XXX
+  city: Ballinasloe
+  country: Ireland
+- name: Mufg Fund Services (ireland) Limited
+  swift: MUFGIE2DXXX
+  swift8: MUFGIE2D
+  branch_name: No branch name
+  branch_address: No branch address
+  branch_code: XXX
+  city: Dublin
+  country: Ireland
+- name: Muintir Clanna Caoilte Credit Union Limited
+  swift: MCCRIE21XXX
+  swift8: MCCRIE21
+  branch_name: Head Office
+  branch_address: Credit Union Centre Clonakilty
+  branch_code: XXX
+  city: Clonakilty
+  country: Ireland
+- name: Muintir Skibbereen Credit Union Limited
+  swift: MSCNIE21XXX
+  swift8: MSCNIE21
+  branch_name: Head Office
+  branch_address: North Street Skibbereen
+  branch_code: XXX
+  city: Skibbereen
+  country: Ireland
+- name: Mulcair Credit Union Limited
+  swift: MURNIE21XXX
+  swift8: MURNIE21
+  branch_name: Head Office
+  branch_address: Cork Road Newport
+  branch_code: XXX
+  city: Newport
+  country: Ireland
+- name: Mullinahone Credit Union Limited
+  swift: MURIIE21XXX
+  swift8: MURIIE21
+  branch_name: Head Office
+  branch_address: Killaghy Street Thurles
+  branch_code: XXX
+  city: Thurles
+  country: Ireland
+- name: Mullingar Credit Union Limited
+  swift: MURUIE21XXX
+  swift8: MURUIE21
+  branch_name: Head Office
+  branch_address: Saint Colmans House Mullingar
+  branch_code: XXX
+  city: Mullingar
+  country: Ireland
+- name: Musicians' Credit Union Limited
+  swift: MUCUIE21XXX
+  swift8: MUCUIE21
+  branch_name: Head Office
+  branch_address: Gardiner House Dublin 1
+  branch_code: XXX
+  city: Dublin
+  country: Ireland
+- name: Naas Credit Union Limited
+  swift: NACUIE21XXX
+  swift8: NACUIE21
+  branch_name: Head Office
+  branch_address: 20 North Main Street Naas
+  branch_code: XXX
+  city: Naas
+  country: Ireland
+- name: Naomh Breandain Credit Union Limited
+  swift: NBCUIE21XXX
+  swift8: NBCUIE21
+  branch_name: Head Office
+  branch_address: Credit Union Building Loughrea
+  branch_code: XXX
+  city: Loughrea
+  country: Ireland
+- name: Naomh Padraig Credit Union Limited
+  swift: NPCNIE21XXX
+  swift8: NPCNIE21
+  branch_name: Head Office
+  branch_address: 81-84 Forster Street Galway
+  branch_code: XXX
+  city: Galway
+  country: Ireland
+- name: Narraghmore Parish Credit Union Limited
+  swift: NPCUIE21XXX
+  swift8: NPCUIE21
+  branch_name: Head Office
+  branch_address: Narraghmore, Ballytore Athy
+  branch_code: XXX
+  city: Athy
+  country: Ireland
+- name: Naspa Dublin
+  swift: GANUIE21XXX
+  swift8: GANUIE21
+  branch_name: Head Office
+  branch_address: La Touche House Dublin 1
+  branch_code: XXX
+  city: Dublin
+  country: Ireland
+- name: National Emission Trading Registry
+  swift: NETGIE21XXX
+  swift8: NETGIE21
+  branch_name: Head Office
+  branch_address: Environmental Protection Agency Wexford
+  branch_code: XXX
+  city: Wexford
+  country: Ireland
+- name: National Irish Investment Bank Ltd.
+  swift: NIIBIE21XXX
+  swift8: NIIBIE21
+  branch_name: Head Office
+  branch_address: 7-8 Wilton Terrace Dublin 2
+  branch_code: XXX
+  city: Dublin
+  country: Ireland
+- name: Nationwide Uk (ireland
+  swift: NUKIIE21XXX
+  swift8: NUKIIE21
+  branch_name: Head Office
+  branch_address: 3 Spencer Dock North Wall Quay Dublin 1
+  branch_code: XXX
+  city: Dublin
+  country: Ireland
+- name: Nedgroup Investments Multifunds Plc
+  swift: NINMIE21XXX
+  swift8: NINMIE21
+  branch_name: Head Office
+  branch_address: Iveagh Court Dublin 2
+  branch_code: XXX
+  city: Dublin
+  country: Ireland
+- name: Neillstown Credit Union Limited
+  swift: NERUIE21XXX
+  swift8: NERUIE21
+  branch_name: Head Office
+  branch_address: Neillstown Road Dublin 22
+  branch_code: XXX
+  city: Dublin
+  country: Ireland
+- name: Nemesis Asset Management Llp
+  swift: NAALIE21XXX
+  swift8: NAALIE21
+  branch_name: Head Office
+  branch_address: 70 Sir John Rogersons Quay Dublin
+  branch_code: XXX
+  city: Dublin
+  country: Ireland
+- name: Nenagh Credit Union Limited
+  swift: NERIIE21XXX
+  swift8: NERIIE21
+  branch_name: Head Office
+  branch_address: Credit Union House Nenagh
+  branch_code: XXX
+  city: Nenagh
+  country: Ireland
+- name: New Ross Credit Union Limited
+  swift: NRCUIE21XXX
+  swift8: NRCUIE21
+  branch_name: Head Office
+  branch_address: 26 South Street New Ross
+  branch_code: XXX
+  city: New Ross
+  country: Ireland
+- name: Newbridge Credit Union Limited
+  swift: NEROIE21XXX
+  swift8: NEROIE21
+  branch_name: Head Office
+  branch_address: Moorefield Road Newbridge
+  branch_code: XXX
+  city: Newbridge
+  country: Ireland
+- name: Newmarket Credit Union Limited
+  swift: NEEUIE21XXX
+  swift8: NEEUIE21
+  branch_name: Head Office
+  branch_address: Church Street Newmarket
+  branch_code: XXX
+  city: Newmarket
+  country: Ireland
+- name: Nexgen Capital Limited
+  swift: NECLIE21XXX
+  swift8: NECLIE21
+  branch_name: Head Office
+  branch_address: 12 Lower Leeson Street Dublin
+  branch_code: XXX
+  city: Dublin
+  country: Ireland
+- name: North Longford And Arva Credit Union Limited
+  swift: NLACIE21XXX
+  swift8: NLACIE21
+  branch_name: Head Office
+  branch_address: 98 Memorial Hall Ballinamuck
+  branch_code: XXX
+  city: Ballinamuck
+  country: Ireland
+- name: North Sligo Credit Union Limited
+  swift: NSCUIE21XXX
+  swift8: NSCUIE21
+  branch_name: Head Office
+  branch_address: Grange Sligo
+  branch_code: XXX
+  city: Sligo
+  country: Ireland
+- name: North William Street Parish Credit Union Limited
+  swift: NWSPIE21XXX
+  swift8: NWSPIE21
+  branch_name: Head Office
+  branch_address: 38 North Strand Road Dublin 3
+  branch_code: XXX
+  city: Dublin
+  country: Ireland
+- name: Northern Trust Custodial Services (ireland) Limited
+  swift: UBCSIE21XXX
+  swift8: UBCSIE21
+  branch_name: Head Office
+  branch_address: Georges Court Dublin 2
+  branch_code: XXX
+  city: Dublin
+  country: Ireland
+- name: Northern Trust International Fund Administration Services (ireland) Limited
+  swift: IFMIIE21XXX
+  swift8: IFMIIE21
+  branch_name: Head Office
+  branch_address: Ifsc House Dublin 1
+  branch_code: XXX
+  city: Dublin
+  country: Ireland
+- name: Oasis Global Management Company (ireland) Limited
+  swift: OASMIE21XXX
+  swift8: OASMIE21
+  branch_name: Head Office
+  branch_address: 72 Merrion Square Dublin 2
+  branch_code: XXX
+  city: Dublin
+  country: Ireland
+- name: Oldcastle Credit Union Limited
+  swift: OLCUIE21XXX
+  swift8: OLCUIE21
+  branch_name: Head Office
+  branch_address: Millbrook Road Oldcastle
+  branch_code: XXX
+  city: Oldcastle
+  country: Ireland
+- name: Oughterard Credit Union Limited
+  swift: OUCUIE21XXX
+  swift8: OUCUIE21
+  branch_name: Head Office
+  branch_address: Bridge Street Oughterard
+  branch_code: XXX
+  city: Oughterard
+  country: Ireland
+- name: Our Lady Crowned Credit Union Limited
+  swift: OLCCIE21XXX
+  swift8: OLCCIE21
+  branch_name: Head Office
+  branch_address: 11c Silversprings Road, Mayfield Cork
+  branch_code: XXX
+  city: Cork
+  country: Ireland
+- name: Palmerstown Credit Union Limited
+  swift: PAEUIE21XXX
+  swift8: PAEUIE21
+  branch_name: Head Office
+  branch_address: 48 Manor Road Dublin 20
+  branch_code: XXX
+  city: Dublin
+  country: Ireland
+- name: Parish Of Darver Credit Union Limited
+  swift: PDRUIE21XXX
+  swift8: PDRUIE21
+  branch_name: Head Office
+  branch_address: Dromiskin Dundalk
+  branch_code: XXX
+  city: Dundalk
+  country: Ireland
+- name: Passage West/monkstown Credit Union Limited
+  swift: PWCUIE21XXX
+  swift8: PWCUIE21
+  branch_name: Head Office
+  branch_address: Chapel Square Passage West
+  branch_code: XXX
+  city: Passage West
+  country: Ireland
+- name: Pearse Credit Union Limited
+  swift: PECUIE21XXX
+  swift8: PECUIE21
+  branch_name: Head Office
+  branch_address: 22 Upper Erne Street Dublin 2
+  branch_code: XXX
+  city: Dublin
+  country: Ireland
+- name: Pennygold Trading Supplies
+  swift: PETUIE21XXX
+  swift8: PETUIE21
+  branch_name: Head Office
+  branch_address: 15 Herbert Street Dublin 2
+  branch_code: XXX
+  city: Dublin
+  country: Ireland
+- name: Pettigo Credit Union Limited
+  swift: PERUIE21XXX
+  swift8: PERUIE21
+  branch_name: Head Office
+  branch_address: Main Street Pettigoe
+  branch_code: XXX
+  city: Pettigoe
+  country: Ireland
+- name: Pfizer International Bank Europe
+  swift: PFIEIE21XXX
+  swift8: PFIEIE21
+  branch_name: Head Office
+  branch_address: La Touche House Dublin 1
+  branch_code: XXX
+  city: Dublin
+  country: Ireland
+- name: Phibsboro And District Credit Union Limited
+  swift: PDCUIE21XXX
+  swift8: PDCUIE21
+  branch_name: Head Office
+  branch_address: 392 North Circular Road Dublin 7
+  branch_code: XXX
+  city: Dublin
+  country: Ireland
+- name: Piercestown And District Credit Union Limited
+  swift: PDCIIE21XXX
+  swift8: PDCIIE21
+  branch_name: Head Office
+  branch_address: Credit Union House Murrintown
+  branch_code: XXX
+  city: Murrintown
+  country: Ireland
+- name: Piltown Credit Union Limited
+  swift: PICUIE21XXX
+  swift8: PICUIE21
+  branch_name: Head Office
+  branch_address: Main Street Piltown
+  branch_code: XXX
+  city: Piltown
+  country: Ireland
+- name: Pioneer Im
+  swift: PIOEIE21XXX
+  swift8: PIOEIE21
+  branch_name: Head Office
+  branch_address: 1 Georges Quay Plaza Dublin 2
+  branch_code: XXX
+  city: Dublin
+  country: Ireland
+- name: Plassey Credit Union Limited
+  swift: PLCNIE21XXX
+  swift8: PLCNIE21
+  branch_name: Head Office
+  branch_address: Plassey Park Road Castletroy
+  branch_code: XXX
+  city: Castletroy
+  country: Ireland
+- name: Pnc International Bank Limited
+  swift: PNINIE21XXX
+  swift8: PNINIE21
+  branch_name: Head Office
+  branch_address: Riverside Two Dublin 2
+  branch_code: XXX
+  city: Dublin
+  country: Ireland
+- name: Portarlington Credit Union Limited
+  swift: POCUIE21XXX
+  swift8: POCUIE21
+  branch_name: Head Office
+  branch_address: Upper Main Street Portarlington
+  branch_code: XXX
+  city: Portarlington
+  country: Ireland
+- name: Portlaoise Credit Union Limited
+  swift: POCOIE21XXX
+  swift8: POCOIE21
+  branch_name: Head Office
+  branch_address: James Finton Lawlor Avenue Portlaoise
+  branch_code: XXX
+  city: Portlaoise
+  country: Ireland
+- name: Portlaw/ballyduff Credit Union Limited
+  swift: PORUIE21XXX
+  swift8: PORUIE21
+  branch_name: Head Office
+  branch_address: Upper Brown Street Portlaw
+  branch_code: XXX
+  city: Portlaw
+  country: Ireland
+- name: Portumna And District Credit Union Limited
+  swift: PDCNIE21XXX
+  swift8: PDCNIE21
+  branch_name: Head Office
+  branch_address: Credit Union House Portumna
+  branch_code: XXX
+  city: Portumna
+  country: Ireland
+- name: Positive Equity Limited
+  swift: POEQIE21XXX
+  swift8: POEQIE21
+  branch_name: Head Office
+  branch_address: Hainault House Dublin 2
+  branch_code: XXX
+  city: Dublin
+  country: Ireland
+- name: Postbank Ireland Limited
+  swift: PTBKIE21XXX
+  swift8: PTBKIE21
+  branch_name: Head Office
+  branch_address: Westpier Business Campus Dublin
+  branch_code: XXX
+  city: Dublin
+  country: Ireland
+- name: Premier Credit Union Limited
+  swift: PRCUIE21XXX
+  swift8: PRCUIE21
+  branch_name: Head Office
+  branch_address: Villa Park Gardens Dublin 7
+  branch_code: XXX
+  city: Dublin
+  country: Ireland
+- name: Prison Service Credit Union Limited
+  swift: PSCUIE21XXX
+  swift8: PSCUIE21
+  branch_name: Head Office
+  branch_address: 397e North Circular Road Dublin 7
+  branch_code: XXX
+  city: Dublin
+  country: Ireland
+- name: Prolific International Management (ireland) Limited
+  swift: PIMIIE21XXX
+  swift8: PIMIIE21
+  branch_name: Head Office
+  branch_address: 53 Fitzwilliam Square Dublin 2
+  branch_code: XXX
+  city: Dublin
+  country: Ireland
+- name: Quintillion Limited
+  swift: QUINIE21XXX
+  swift8: QUINIE21
+  branch_name: Head Office
+  branch_address: 24-26 City Quay Dublin D2
+  branch_code: XXX
+  city: Dublin
+  country: Ireland
+- name: Rabodirect (a Registered Name In Ireland Of Cooperratieve Raiffeisen-boerenleenbank
+    Ba
+  swift: RABIIE2DXXX
+  swift8: RABIIE2D
+  branch_name: Head Office
+  branch_address: Charlemont Place Dublin
+  branch_code: XXX
+  city: Dublin
+  country: Ireland
+- name: Raheny And District Credit Union Limited
+  swift: RDCOIE21XXX
+  swift8: RDCOIE21
+  branch_name: Head Office
+  branch_address: Odoherty House Raheny
+  branch_code: XXX
+  city: Raheny
+  country: Ireland
+- name: Ranelagh And District Credit Union Limited
+  swift: RDCIIE21XXX
+  swift8: RDCIIE21
+  branch_name: Head Office
+  branch_address: 5/6 the Triangle Dublin 6
+  branch_code: XXX
+  city: Dublin
+  country: Ireland
+- name: Rathangan And District Credit Union Limited
+  swift: RDRUIE21XXX
+  swift8: RDRUIE21
+  branch_name: Head Office
+  branch_address: New Street Rathangan
+  branch_code: XXX
+  city: Rathangan
+  country: Ireland
+- name: Rathdowney Credit Union Limited
+  swift: RACUIE21XXX
+  swift8: RACUIE21
+  branch_name: Head Office
+  branch_address: Main Street Rathdowney
+  branch_code: XXX
+  city: Rathdowney
+  country: Ireland
+- name: Rathfarnham And District Credit Union Limited
+  swift: RDCUIE21XXX
+  swift8: RDCUIE21
+  branch_name: Head Office
+  branch_address: Main Street Dublin 14
+  branch_code: XXX
+  city: Dublin
+  country: Ireland
+- name: Rathkeale And District Credit Union Limited
+  swift: RDCLIE21XXX
+  swift8: RDCLIE21
+  branch_name: Head Office
+  branch_address: Main Street Rathkeale
+  branch_code: XXX
+  city: Rathkeale
+  country: Ireland
+- name: Rathmore And District Credit Union Limited
+  swift: RDRNIE21XXX
+  swift8: RDRNIE21
+  branch_name: Head Office
+  branch_address: Donal Casey Place Rathmore
+  branch_code: XXX
+  city: Rathmore
+  country: Ireland
+- name: Rathvilly Parish Credit Union Limited
+  swift: RPCUIE21XXX
+  swift8: RPCUIE21
+  branch_name: Head Office
+  branch_address: The Square Rathvilly
+  branch_code: XXX
+  city: Rathvilly
+  country: Ireland
+- name: Realex Financial Services Limited
+  swift: CPAYIE2DXXX
+  swift8: CPAYIE2D
+  branch_name: Head Office
+  branch_address: Castlecourt Dun Laoghaire
+  branch_code: XXX
+  city: Dublin
+  country: Ireland
+- name: Red Liquid Finance
+  swift: RELFIE21XXX
+  swift8: RELFIE21
+  branch_name: Head Office
+  branch_address: Georges Dock House Dublin 2
+  branch_code: XXX
+  city: Dublin
+  country: Ireland
+- name: Rialto Credit Union Limited
+  swift: RICUIE21XXX
+  swift8: RICUIE21
+  branch_name: Head Office
+  branch_address: 566 South Circular Road Dublin 8
+  branch_code: XXX
+  city: Dublin
+  country: Ireland
+- name: Ringsend And District Credit Union Limited
+  swift: RDCNIE21XXX
+  swift8: RDCNIE21
+  branch_name: Head Office
+  branch_address: 5 Irishtown Road Dublin 4
+  branch_code: XXX
+  city: Dublin
+  country: Ireland
+- name: Rivervalley And Rathingle Credit Union Limited
+  swift: RRCUIE21XXX
+  swift8: RRCUIE21
+  branch_name: Head Office
+  branch_address: Rivervalley Shopping Centre Swords
+  branch_code: XXX
+  city: Swords
+  country: Ireland
+- name: Roscommon Credit Union Limited
+  swift: RORUIE21XXX
+  swift8: RORUIE21
+  branch_name: Head Office
+  branch_address: Abbey Street Roscommon
+  branch_code: XXX
+  city: Roscommon
+  country: Ireland
+- name: Roscommon Institutional Investments Limited
+  swift: ROIIIE21XXX
+  swift8: ROIIIE21
+  branch_name: Head Office
+  branch_address: 26 Windsor Place Dublin 2
+  branch_code: XXX
+  city: Dublin
+  country: Ireland
+- name: Roscrea Credit Union Limited
+  swift: RORNIE21XXX
+  swift8: RORNIE21
+  branch_name: Head Office
+  branch_address: Main Street Roscrea
+  branch_code: XXX
+  city: Roscrea
+  country: Ireland
+- name: Rowlagh Credit Union Limited
+  swift: ROCIIE21XXX
+  swift8: ROCIIE21
+  branch_name: Head Office
+  branch_address: Collinstown Road Dublin 22
+  branch_code: XXX
+  city: Dublin
+  country: Ireland
+- name: Rte Credit Union Limited
+  swift: RTCUIE21XXX
+  swift8: RTCUIE21
+  branch_name: Head Office
+  branch_address: Montrose Dublin 4
+  branch_code: XXX
+  city: Dublin
+  country: Ireland
+- name: Rush Credit Union Limited
+  swift: RUCUIE21XXX
+  swift8: RUCUIE21
+  branch_name: Head Office
+  branch_address: Ivy House Rush
+  branch_code: XXX
+  city: Rush
+  country: Ireland
+- name: Saint Raphael's Garda Credit Union Limited
+  swift: SRGCIE21XXX
+  swift8: SRGCIE21
+  branch_name: Head Office
+  branch_address: Saint Raphaels House Dublin
+  branch_code: XXX
+  city: Dublin
+  country: Ireland
+- name: Saint Valentine's Credit Union Limi
+  swift: SVCUIE21XXX
+  swift8: SVCUIE21
+  branch_name: Head Office
+  branch_address: Belgard Road Tallaght
+  branch_code: XXX
+  city: Tallaght
+  country: Ireland
+- name: Sallynoggin/glenageary Credit Union Limited
+  swift: SARUIE21XXX
+  swift8: SARUIE21
+  branch_name: Head Office
+  branch_address: 8 Church Place Dun Laoghaire
+  branch_code: XXX
+  city: Dun Laoghaire
+  country: Ireland
+- name: Sandymount Credit Union Limited
+  swift: SADUIE21XXX
+  swift8: SADUIE21
+  branch_name: Head Office
+  branch_address: 13 Bath Avenue, Sandymount Dublin 4
+  branch_code: XXX
+  city: Dublin
+  country: Ireland
+- name: Sarsfield Credit Union Limited
+  swift: SADNIE21XXX
+  swift8: SADNIE21
+  branch_name: Head Office
+  branch_address: 69 Oconnell Street Limerick
+  branch_code: XXX
+  city: Limerick
+  country: Ireland
+- name: Setanta Asset Management Limited
+  swift: SESTIE21XXX
+  swift8: SESTIE21
+  branch_name: Head Office
+  branch_address: College Park House Dublin 2
+  branch_code: XXX
+  city: Dublin
+  country: Ireland
+- name: Sfadco Staff Credit Union Limited
+  swift: SSCOIE21XXX
+  swift8: SSCOIE21
+  branch_name: Head Office
+  branch_address: Shannon Development Shannon
+  branch_code: XXX
+  city: Shannon
+  country: Ireland
+- name: Shankill, Ballybrack And District Credit Union Limited
+  swift: SBDCIE21XXX
+  swift8: SBDCIE21
+  branch_name: Head Office
+  branch_address: Main Street Shankill
+  branch_code: XXX
+  city: Dublin / Shankill
+  country: Ireland
+- name: Shannon Credit Union Limited
+  swift: SHRNIE21XXX
+  swift8: SHRNIE21
+  branch_name: Head Office
+  branch_address: Shannon Town Centre Shannon
+  branch_code: XXX
+  city: Shannon
+  country: Ireland
+- name: Sheephaven Credit Union Limited
+  swift: SHCUIE21XXX
+  swift8: SHCUIE21
+  branch_name: Head Office
+  branch_address: Main Street Letterkenny
+  branch_code: XXX
+  city: Letterkenny
+  country: Ireland
+- name: Shelbourne Markets
+  swift: WOIRIE21XXX
+  swift8: WOIRIE21
+  branch_name: Head Office
+  branch_address: Fitzwilliam Business Centre Dublin 2
+  branch_code: XXX
+  city: Dublin
+  country: Ireland
+- name: Shercock Credit Union Limited
+  swift: SHRIIE21XXX
+  swift8: SHRIIE21
+  branch_name: Head Office
+  branch_address: Main Street Shercock
+  branch_code: XXX
+  city: Shercock
+  country: Ireland
+- name: Sixmilebridge Credit Union Limited
+  swift: SICUIE21XXX
+  swift8: SICUIE21
+  branch_name: Head Office
+  branch_address: Credit Union House Sixmilebridge
+  branch_code: XXX
+  city: Sixmilebridge
+  country: Ireland
+- name: Skandia Life Ireland Limited
+  swift: ROKLIE2DXXX
+  swift8: ROKLIE2D
+  branch_name: Head Office
+  branch_address: Iveagh Court Dublin 2
+  branch_code: XXX
+  city: Dublin
+  country: Ireland
+- name: Skerries Credit Union Limited
+  swift: SKCUIE21XXX
+  swift8: SKCUIE21
+  branch_name: Head Office
+  branch_address: 26/27 Thomas Hand Street Skerries
+  branch_code: XXX
+  city: Dublin / Skerries
+  country: Ireland
+- name: Slane Credit Union Limited
+  swift: SLCNIE21XXX
+  swift8: SLCNIE21
+  branch_name: Head Office
+  branch_address: Main Street Slane
+  branch_code: XXX
+  city: Slane
+  country: Ireland
+- name: Sligo Credit Union Limited
+  swift: SLRUIE21XXX
+  swift8: SLRUIE21
+  branch_name: Head Office
+  branch_address: Hyde House Sligo
+  branch_code: XXX
+  city: Sligo
+  country: Ireland
+- name: South Hill Credit Union Limited
+  swift: SHRUIE21XXX
+  swift8: SHRUIE21
+  branch_name: Head Office
+  branch_address: Credit Union House Limerick
+  branch_code: XXX
+  city: Limerick
+  country: Ireland
+- name: Squared Financial Services Ltd.
+  swift: SQFSIE21XXX
+  swift8: SQFSIE21
+  branch_name: Head Office
+  branch_address: 3 Harcourt Terrace Dublin 2
+  branch_code: XXX
+  city: Dublin
+  country: Ireland
+- name: Ss. Peter And Paul Credit Union Limited
+  swift: PPCUIE21XXX
+  swift8: PPCUIE21
+  branch_name: Head Office
+  branch_address: Credit Union House Clarecastle
+  branch_code: XXX
+  city: Clarecastle
+  country: Ireland
+- name: St James's Place International
+  swift: JPLIIE21XXX
+  swift8: JPLIIE21
+  branch_name: Head Office
+  branch_address: Montague House Dublin
+  branch_code: XXX
+  city: Dublin
+  country: Ireland
+- name: St. Agnes Credit Union Limited
+  swift: AGCUIE21XXX
+  swift8: AGCUIE21
+  branch_name: Head Office
+  branch_address: Saint Agnes Road, Crumlin Dublin 12
+  branch_code: XXX
+  city: Dublin
+  country: Ireland
+- name: St. Ailbes Credit Union Limited
+  swift: AICUIE21XXX
+  swift8: AICUIE21
+  branch_name: Head Office
+  branch_address: High Street Caherconlish
+  branch_code: XXX
+  city: Caherconlish
+  country: Ireland
+- name: St. Anthony's And Claddagh Credit Union Limited
+  swift: ACRUIE21XXX
+  swift8: ACRUIE21
+  branch_name: Head Office
+  branch_address: 8-9 Mainguard Street Galway
+  branch_code: XXX
+  city: Galway
+  country: Ireland
+- name: St. Bernadette's Credit Union (limerick) Limited
+  swift: BCUIIE21XXX
+  swift8: BCUIIE21
+  branch_name: Head Office
+  branch_address: Greenfields Rosbrien
+  branch_code: XXX
+  city: Rosbrien
+  country: Ireland
+- name: St. Bernard's Credit Union Limited
+  swift: BERUIE21XXX
+  swift8: BERUIE21
+  branch_name: Head Office
+  branch_address: Main Street Bansha
+  branch_code: XXX
+  city: Bansha
+  country: Ireland
+- name: St. Brendan's (ballygar) Credit Union Limited
+  swift: BBCUIE21XXX
+  swift8: BBCUIE21
+  branch_name: Head Office
+  branch_address: The Square Ballygar
+  branch_code: XXX
+  city: Ballygar
+  country: Ireland
+- name: St. Brigid's Credit Union Limited
+  swift: BREIIE21XXX
+  swift8: BREIIE21
+  branch_name: Head Office
+  branch_address: Church Street Clara
+  branch_code: XXX
+  city: Clara
+  country: Ireland
+- name: St. Canice's Kilkenny Credit Union Limited
+  swift: CKCNIE21XXX
+  swift8: CKCNIE21
+  branch_name: Head Office
+  branch_address: 78 High Street Kilkenny
+  branch_code: XXX
+  city: Kilkenny
+  country: Ireland
+- name: St. Colman's (claremorris) Credit Union Limited
+  swift: CCRNIE21XXX
+  swift8: CCRNIE21
+  branch_name: Head Office
+  branch_address: The Square Claremorris
+  branch_code: XXX
+  city: Claremorris
+  country: Ireland
+- name: St. Colmcille's (kells) Credit Union Limited
+  swift: CKCUIE21XXX
+  swift8: CKCUIE21
+  branch_name: Head Office
+  branch_address: Headfort Place Kells
+  branch_code: XXX
+  city: Kells
+  country: Ireland
+- name: St. Columba's Credit Union Limited
+  swift: CLDOIE21XXX
+  swift8: CLDOIE21
+  branch_name: Head Office
+  branch_address: Walter Macken Road, Mervue Galway
+  branch_code: XXX
+  city: Galway
+  country: Ireland
+- name: St. Declan's Ashbourne Credit Union Limited
+  swift: DACNIE21XXX
+  swift8: DACNIE21
+  branch_name: Head Office
+  branch_address: Killegland Ashbourne
+  branch_code: XXX
+  city: Ashbourne
+  country: Ireland
+- name: St. Dominic Credit Union Limited
+  swift: DOROIE21XXX
+  swift8: DOROIE21
+  branch_name: Head Office
+  branch_address: Credit Union House Summerhill
+  branch_code: XXX
+  city: Summerhill
+  country: Ireland
+- name: St. Finbarr's South Credit Union Limited
+  swift: FSCUIE21XXX
+  swift8: FSCUIE21
+  branch_name: Head Office
+  branch_address: 66 Douglas Street Cork
+  branch_code: XXX
+  city: Cork
+  country: Ireland
+- name: St. Francis' Credit Union Limited
+  swift: FRCUIE21XXX
+  swift8: FRCUIE21
+  branch_name: Head Office
+  branch_address: Friars Walk, Clonroadbeg Ennis
+  branch_code: XXX
+  city: Ennis
+  country: Ireland
+- name: St. Gabriel's Credit Union Limited
+  swift: GACUIE21XXX
+  swift8: GACUIE21
+  branch_name: Head Office
+  branch_address: 34-36 Saint Patricks Quay Cork
+  branch_code: XXX
+  city: Cork
+  country: Ireland
+- name: St. Jarlath's Credit Union Limited
+  swift: JACIIE21XXX
+  swift8: JACIIE21
+  branch_name: Head Office
+  branch_address: Credit Union House Tuam
+  branch_code: XXX
+  city: Tuam
+  country: Ireland
+- name: St. John's Credit Union Limited
+  swift: JOCUIE21XXX
+  swift8: JOCUIE21
+  branch_name: Head Office
+  branch_address: 12/13 Upper William Street Limerick
+  branch_code: XXX
+  city: Limerick
+  country: Ireland
+- name: St. Joseph's Aviation Credit Union Limited
+  swift: JACNIE21XXX
+  swift8: JACNIE21
+  branch_name: Head Office
+  branch_address: Cloghran House Dublin
+  branch_code: XXX
+  city: Dublin
+  country: Ireland
+- name: St. Joseph's Mayfield Credit Union Limited
+  swift: JMCUIE21XXX
+  swift8: JMCUIE21
+  branch_name: Head Office
+  branch_address: Streamhill House Dillons Cross
+  branch_code: XXX
+  city: Dillons Cross
+  country: Ireland
+- name: St. Kevin's Parish Credit Union Limited
+  swift: KPCUIE21XXX
+  swift8: KPCUIE21
+  branch_name: Head Office
+  branch_address: 19a Curzon Street Dublin 8
+  branch_code: XXX
+  city: Dublin
+  country: Ireland
+- name: St. Laurence O'toole's Credit Union Limited
+  swift: LOCOIE21XXX
+  swift8: LOCOIE21
+  branch_name: Head Office
+  branch_address: Seville Place, 1 Upper Oriel Street Dublin 1
+  branch_code: XXX
+  city: Dublin
+  country: Ireland
+- name: St. Lelia's Credit Union Limited
+  swift: LECUIE21XXX
+  swift8: LECUIE21
+  branch_name: Head Office
+  branch_address: Credit Union House Ballynanty Beg
+  branch_code: XXX
+  city: Ballynanty Beg
+  country: Ireland
+- name: St. Loman's Trim Credit Union Ltd
+  swift: LTCUIE21XXX
+  swift8: LTCUIE21
+  branch_name: Head Office
+  branch_address: Market Street Trim
+  branch_code: XXX
+  city: Trim
+  country: Ireland
+- name: St. Mary's Donnybrook Credit Union Limited
+  swift: MDCUIE21XXX
+  swift8: MDCUIE21
+  branch_name: Head Office
+  branch_address: 59 Morehampton Road Dublin 4
+  branch_code: XXX
+  city: Dublin
+  country: Ireland
+- name: St. Mary's Moynalty Credit Union Limited
+  swift: MMCNIE21XXX
+  swift8: MMCNIE21
+  branch_name: Head Office
+  branch_address: Moynalty Kells
+  branch_code: XXX
+  city: Kells
+  country: Ireland
+- name: St. Mary's Navan Credit Union Limited
+  swift: MNCUIE21XXX
+  swift8: MNCUIE21
+  branch_name: Head Office
+  branch_address: Credit Union Building Navan
+  branch_code: XXX
+  city: Navan
+  country: Ireland
+- name: St. Mary's Parish Credit Union Limited
+  swift: MPCUIE21XXX
+  swift8: MPCUIE21
+  branch_name: Head Office
+  branch_address: 47 Athlunkard Street Limerick
+  branch_code: XXX
+  city: Limerick
+  country: Ireland
+- name: St. Michael's Credit Union Limited
+  swift: MICIIE21XXX
+  swift8: MICIIE21
+  branch_name: Head Office
+  branch_address: Skehard Road, Blackrock Cork
+  branch_code: XXX
+  city: Cork
+  country: Ireland
+- name: St. Patrick's (cork) Credit Union Limited
+  swift: PCCUIE21XXX
+  swift8: PCCUIE21
+  branch_name: Head Office
+  branch_address: Lower Glanmire Road Cork
+  branch_code: XXX
+  city: Cork
+  country: Ireland
+- name: St. Patrick's Credit Union (e.s.b. Staff) Limited
+  swift: PCUEIE21XXX
+  swift8: PCUEIE21
+  branch_name: Head Office
+  branch_address: 27/28 Herbert Place Dublin 2
+  branch_code: XXX
+  city: Dublin
+  country: Ireland
+- name: St. Patrick's Parish (limerick) Credit Union Limited
+  swift: PPLCIE21XXX
+  swift8: PPLCIE21
+  branch_name: Head Office
+  branch_address: Saint Patricks Road Limerick
+  branch_code: XXX
+  city: Limerick
+  country: Ireland
+- name: St. Paul's Garda Credit Union Limited
+  swift: PGCUIE21XXX
+  swift8: PGCUIE21
+  branch_name: Head Office
+  branch_address: Floraville, Boreenmanna Road Cork
+  branch_code: XXX
+  city: Cork
+  country: Ireland
+- name: St. Scire Credit Union Limited
+  swift: SCRIIE21XXX
+  swift8: SCRIIE21
+  branch_name: Head Office
+  branch_address: Main Street Navan
+  branch_code: XXX
+  city: Navan
+  country: Ireland
+- name: Staff Of Superquinn Credit Union Limited
+  swift: SSCNIE21XXX
+  swift8: SSCNIE21
+  branch_name: Head Office
+  branch_address: 360 North Circular Road Dublin 7
+  branch_code: XXX
+  city: Dublin
+  country: Ireland
+- name: Stillorgan Credit Union Limited
+  swift: STEIIE21XXX
+  swift8: STEIIE21
+  branch_name: Head Office
+  branch_address: 63-65 Lower Kilmacud Road Stillorgan
+  branch_code: XXX
+  city: Dublin / Stillorgan
+  country: Ireland
+- name: Sundrive Credit Union Limited
+  swift: SUCUIE21XXX
+  swift8: SUCUIE21
+  branch_name: Head Office
+  branch_address: 116 Sundrive Road Dublin 12
+  branch_code: XXX
+  city: Dublin
+  country: Ireland
+- name: Susquehanna International Group Limited
+  swift: SUIGIE21XXX
+  swift8: SUIGIE21
+  branch_name: Head Office
+  branch_address: Georges Dock House Dublin 1
+  branch_code: XXX
+  city: Dublin
+  country: Ireland
+- name: Susquehanna International Group Ltd
+  swift: SITGIE21XXX
+  swift8: SITGIE21
+  branch_name: Head Office
+  branch_address: Georges Dock House Dublin 1
+  branch_code: XXX
+  city: Dublin
+  country: Ireland
+- name: Susquehanna International Securities
+  swift: SUISIE21XXX
+  swift8: SUISIE21
+  branch_name: Head Office
+  branch_address: Georges Dock House Dublin 1
+  branch_code: XXX
+  city: Dublin
+  country: Ireland
+- name: Susquehanna International Securities Ltd.
+  swift: SISSIE21XXX
+  swift8: SISSIE21
+  branch_name: Head Office
+  branch_address: Georges Dock House Dublin 1
+  branch_code: XXX
+  city: Dublin
+  country: Ireland
+- name: Susquehanna Ireland Ltd
+  swift: SUSQIE21XXX
+  swift8: SUSQIE21
+  branch_name: Head Office
+  branch_address: The Enterprise Building Dublin 1
+  branch_code: XXX
+  city: Dublin
+  country: Ireland
+- name: Susquehanna Ireland Ltd (dublin
+  swift: SUSHIE21XXX
+  swift8: SUSHIE21
+  branch_name: Head Office
+  branch_address: The Enterprise Building Dublin 1
+  branch_code: XXX
+  city: Dublin
+  country: Ireland
+- name: Swilly-mulroy Credit Union Limited
+  swift: SWCUIE21XXX
+  swift8: SWCUIE21
+  branch_name: Head Office
+  branch_address: Bridgetown Letterkenny
+  branch_code: XXX
+  city: Letterkenny
+  country: Ireland
+- name: Swinford And District Credit Union Limited
+  swift: SDCUIE21XXX
+  swift8: SDCUIE21
+  branch_name: Head Office
+  branch_address: Main Street Swinford
+  branch_code: XXX
+  city: Swinford
+  country: Ireland
+- name: Swords And District Credit Union Limited
+  swift: SDCNIE21XXX
+  swift8: SDCNIE21
+  branch_name: Head Office
+  branch_address: Castle Villa Swords
+  branch_code: XXX
+  city: Swords
+  country: Ireland
+- name: Tallaght And District Credit Union Limited
+  swift: TDCOIE21XXX
+  swift8: TDCOIE21
+  branch_name: Head Office
+  branch_address: Credit Union House Tallaght
+  branch_code: XXX
+  city: Tallaght
+  country: Ireland
+- name: Tallaght West Credit Union Limited
+  swift: TWCUIE21XXX
+  swift8: TWCUIE21
+  branch_name: Head Office
+  branch_address: Fortunestown Shopping Centre Dublin 24
+  branch_code: XXX
+  city: Dublin
+  country: Ireland
+- name: Tallow Area Credit Union Limited
+  swift: TACUIE21XXX
+  swift8: TACUIE21
+  branch_name: Head Office
+  branch_address: Credit Union House Tallow
+  branch_code: XXX
+  city: Tallow
+  country: Ireland
+- name: Tao Investment Managers Ltd
+  swift: TAIMIE21XXX
+  swift8: TAIMIE21
+  branch_name: Head Office
+  branch_address: 5 Adelaide Court, Adelaide Road Dublin
+  branch_code: XXX
+  city: Dublin
+  country: Ireland
+- name: Tara And District Credit Union Limited
+  swift: TDCIIE21XXX
+  swift8: TDCIIE21
+  branch_name: Head Office
+  branch_address: Kiltale Dunsany
+  branch_code: XXX
+  city: Dunsany
+  country: Ireland
+- name: Td Global Finance
+  swift: GLFIIE21XXX
+  swift8: GLFIIE21
+  branch_name: Head Office
+  branch_address: Custom House Plaza, Ifsc Dublin 1
+  branch_code: XXX
+  city: Dublin
+  country: Ireland
+- name: Teachers' Union Of Ireland Credit Union Limited
+  swift: TUIRIE21XXX
+  swift8: TUIRIE21
+  branch_name: Head Office
+  branch_address: 73 Orwell Road Dublin 6
+  branch_code: XXX
+  city: Dublin
+  country: Ireland
+- name: Templemore Credit Union Limited
+  swift: TERIIE21XXX
+  swift8: TERIIE21
+  branch_name: Head Office
+  branch_address: Bank Street Templemore
+  branch_code: XXX
+  city: Templemore
+  country: Ireland
+- name: Templeogue And District Credit Union Limited
+  swift: TDCUIE21XXX
+  swift8: TDCUIE21
+  branch_name: Head Office
+  branch_address: 46 Fortfield Park Dublin 6w
+  branch_code: XXX
+  city: Dublin
+  country: Ireland
+- name: Termonfeckin Credit Union Limited
+  swift: TECOIE21XXX
+  swift8: TECOIE21
+  branch_name: Head Office
+  branch_address: Big Street, Termonfeckin Drogheda
+  branch_code: XXX
+  city: Drogheda
+  country: Ireland
+- name: Texaco Employees' Credit Union Limi Limited
+  swift: TERUIE21XXX
+  swift8: TERUIE21
+  branch_name: Head Office
+  branch_address: Ulster Bank Chambers Dublin 1
+  branch_code: XXX
+  city: Dublin
+  country: Ireland
+- name: The Four Corners Credit Union Limited
+  swift: FCCUIE21XXX
+  swift8: FCCUIE21
+  branch_name: Head Office
+  branch_address: Main Street Rathcoole
+  branch_code: XXX
+  city: Dublin / Rathcoole
+  country: Ireland
+- name: The Investment Bank Of Ireland Limited
+  swift: IBIDIE21XXX
+  swift8: IBIDIE21
+  branch_name: Head Office
+  branch_address: Lower Baggot Street Dublin 2
+  branch_code: XXX
+  city: Dublin
+  country: Ireland
+- name: The Irish Stock Exchange Limited
+  swift: XDUBIE21XXX
+  swift8: XDUBIE21
+  branch_name: Head Office
+  branch_address: 28 Anglesea Street Dublin 2
+  branch_code: XXX
+  city: Dublin
+  country: Ireland
+- name: The Irish Times Credit Union Limited
+  swift: ITCNIE21XXX
+  swift8: ITCNIE21
+  branch_name: Head Office
+  branch_address: The Irish Times Building Dublin 2
+  branch_code: XXX
+  city: Dublin
+  country: Ireland
+- name: The Lawrence Life Assurance Company Limited
+  swift: LAIRIE21XXX
+  swift8: LAIRIE21
+  branch_name: Head Office
+  branch_address: The Watermarque Dublin
+  branch_code: XXX
+  city: Dublin
+  country: Ireland
+- name: The Lough Credit Union Limited
+  swift: LOCIIE21XXX
+  swift8: LOCIIE21
+  branch_name: Head Office
+  branch_address: 100-103 Bandon Road Cork
+  branch_code: XXX
+  city: Cork
+  country: Ireland
+- name: The Mortgage Store
+  swift: ICSBIE21XXX
+  swift8: ICSBIE21
+  branch_name: Head Office
+  branch_address: New Century House Dublin 2
+  branch_code: XXX
+  city: Dublin
+  country: Ireland
+- name: The Rosses Credit Union Limited
+  swift: ROCUIE21XXX
+  swift8: ROCUIE21
+  branch_name: Head Office
+  branch_address: 27 Main Street, Dungloe Donegal Town
+  branch_code: XXX
+  city: Donegal Town
+  country: Ireland
+- name: The Victory Credit Union Limited
+  swift: VICUIE21XXX
+  swift8: VICUIE21
+  branch_name: Head Office
+  branch_address: 171 Ballymun Road Dublin 9
+  branch_code: XXX
+  city: Dublin
+  country: Ireland
+- name: Thomastown Credit Union Limited
+  swift: THCNIE21XXX
+  swift8: THCNIE21
+  branch_name: Head Office
+  branch_address: Market Street Thomastown
+  branch_code: XXX
+  city: Thomastown
+  country: Ireland
+- name: Thurles Credit Union Limited
+  swift: THCUIE21XXX
+  swift8: THCUIE21
+  branch_name: Head Office
+  branch_address: Credit Union House Thurles
+  branch_code: XXX
+  city: Thurles
+  country: Ireland
+- name: Tilman Asset Management Ltd
+  swift: TIAAIE21XXX
+  swift8: TIAAIE21
+  branch_name: Head Office
+  branch_address: Tilman House Dublin 14
+  branch_code: XXX
+  city: Dublin
+  country: Ireland
+- name: Tipperary Credit Union Limited
+  swift: TICUIE21XXX
+  swift8: TICUIE21
+  branch_name: Head Office
+  branch_address: Credit Union House Tipperary
+  branch_code: XXX
+  city: Tipperary
+  country: Ireland
+- name: Togher Credit Union Limited
+  swift: TCRUIE21XXX
+  swift8: TCRUIE21
+  branch_name: Head Office
+  branch_address: Annagassan Dunleer
+  branch_code: XXX
+  city: Dunleer
+  country: Ireland
+- name: Tralee C.i.e. Credit Union Limited
+  swift: TRROIE21XXX
+  swift8: TRROIE21
+  branch_name: Head Office
+  branch_address: Station House Tralee
+  branch_code: XXX
+  city: Tralee
+  country: Ireland
+- name: Tralee Credit Union Limited
+  swift: TRRIIE21XXX
+  swift8: TRRIIE21
+  branch_name: Head Office
+  branch_address: 45-47 Ashe Street Tralee
+  branch_code: XXX
+  city: Tralee
+  country: Ireland
+- name: Tramore Credit Union Limited
+  swift: TRRNIE21XXX
+  swift8: TRRNIE21
+  branch_name: Head Office
+  branch_address: Summerhill Tramore
+  branch_code: XXX
+  city: Tramore
+  country: Ireland
+- name: Trinity Credit Union Limited
+  swift: TRRUIE21XXX
+  swift8: TRRUIE21
+  branch_name: Head Office
+  branch_address: Newbrook Road Dublin 13
+  branch_code: XXX
+  city: Dublin
+  country: Ireland
+- name: Tubbercurry And District Credit Union Limited
+  swift: TDCNIE21XXX
+  swift8: TDCNIE21
+  branch_name: Head Office
+  branch_address: The Square Tubbercurry
+  branch_code: XXX
+  city: Tubbercurry
+  country: Ireland
+- name: Tullaghought Company
+  swift: TUCOIE21XXX
+  swift8: TUCOIE21
+  branch_name: Head Office
+  branch_address: Georges Dock House Dublin 1
+  branch_code: XXX
+  city: Dublin
+  country: Ireland
+- name: Tullamore Credit Union Limited
+  swift: TURUIE21XXX
+  swift8: TURUIE21
+  branch_name: Head Office
+  branch_address: Credit Union House Tullamore
+  branch_code: XXX
+  city: Tullamore
+  country: Ireland
+- name: Tullow Credit Union Limited
+  swift: TUCNIE21XXX
+  swift8: TUCNIE21
+  branch_name: Head Office
+  branch_address: Bridge Street Tullow
+  branch_code: XXX
+  city: Tullow
+  country: Ireland
+- name: Tullycross Credit Union Limited
+  swift: TUCUIE21XXX
+  swift8: TUCUIE21
+  branch_name: Head Office
+  branch_address: Tullycross Renvyle
+  branch_code: XXX
+  city: Renvyle
+  country: Ireland
+- name: Ulster Bank Ireland Limited
+  swift: UIBLIE21XXX
+  swift8: UIBLIE21
+  branch_name: Head Office
+  branch_address: Ulster Bank Group Centre Dublin 2
+  branch_code: XXX
+  city: Dublin
+  country: Ireland
+- name: Vfi Credit Union Limited
+  swift: VFCUIE21XXX
+  swift8: VFCUIE21
+  branch_name: Head Office
+  branch_address: V.F.I. House Rathfarnham
+  branch_code: XXX
+  city: Rathfarnham
+  country: Ireland
+- name: Virginia Credit Union Limited
+  swift: VICNIE21XXX
+  swift8: VICNIE21
+  branch_name: Head Office
+  branch_address: Cavan Road Virginia
+  branch_code: XXX
+  city: Virginia
+  country: Ireland
+- name: Virtu Financial Ireland Limited
+  swift: VIFIIE21XXX
+  swift8: VIFIIE21
+  branch_name: Head Office
+  branch_address: Europa House Dublin 2
+  branch_code: XXX
+  city: Dublin
+  country: Ireland
+- name: Volkswagen Bank Gmbh Branch Ireland
+  swift: VOWAIE21XXX
+  swift8: VOWAIE21
+  branch_name: Head Office
+  branch_address: Central Park Leopardstown Dublin 18
+  branch_code: XXX
+  city: Dublin
+  country: Ireland
+- name: W And R Morrogh
+  swift: MORRIE21XXX
+  swift8: MORRIE21
+  branch_name: Head Office
+  branch_address: 74 South Mall Cork
+  branch_code: XXX
+  city: Cork
+  country: Ireland
+- name: W And W Advisory Dublin Limited
+  swift: ADDUIE21XXX
+  swift8: ADDUIE21
+  branch_name: Head Office
+  branch_address: 34 Molesworth Street Dublin 2
+  branch_code: XXX
+  city: Dublin
+  country: Ireland
+- name: Walkinstown Credit Union Limited
+  swift: WACUIE21XXX
+  swift8: WACUIE21
+  branch_name: Head Office
+  branch_address: 10 Walkinstown Green Dublin 12
+  branch_code: XXX
+  city: Dublin
+  country: Ireland
+- name: Waterford Credit Union Limited
+  swift: WACIIE21XXX
+  swift8: WACIIE21
+  branch_name: Head Office
+  branch_address: 1 Parnell Street Waterford
+  branch_code: XXX
+  city: Waterford
+  country: Ireland
+- name: West Cabra Credit Union Limited
+  swift: WCCUIE21XXX
+  swift8: WCCUIE21
+  branch_name: Head Office
+  branch_address: Nora Herlihy House Dublin 1
+  branch_code: XXX
+  city: Dublin
+  country: Ireland
+- name: West Euro Finance Limited
+  swift: WEFLIE21XXX
+  swift8: WEFLIE21
+  branch_name: Head Office
+  branch_address: Aeib International Centre Dublin 1
+  branch_code: XXX
+  city: Dublin
+  country: Ireland
+- name: Westport Credit Union Limited
+  swift: WECIIE21XXX
+  swift8: WECIIE21
+  branch_name: Head Office
+  branch_address: Lower Bridge Street Westport
+  branch_code: XXX
+  city: Westport
+  country: Ireland
+- name: Wexford Credit Union Limited
+  swift: WECUIE21XXX
+  swift8: WECUIE21
+  branch_name: Head Office
+  branch_address: Anne Street Wexford
+  branch_code: XXX
+  city: Wexford
+  country: Ireland
+- name: Wicklow And District Credit Union L
+  swift: WDCUIE21XXX
+  swift8: WDCUIE21
+  branch_name: Head Office
+  branch_address: 3 Main Street Wicklow
+  branch_code: XXX
+  city: Wicklow
+  country: Ireland
+- name: Youghal Credit Union Limited
+  swift: YOCUIE21XXX
+  swift8: YOCUIE21
+  branch_name: Head Office
+  branch_address: Grattan Street Youghal
+  branch_code: XXX
+  city: Youghal
+  country: Ireland
+- name: Zais Group Investment Advisors Limited
+  swift: ZGIAIE21XXX
+  swift8: ZGIAIE21
+  branch_name: Head Office
+  branch_address: 12 Merrion Square Dublin 2
+  branch_code: XXX
+  city: Dublin
+  country: Ireland

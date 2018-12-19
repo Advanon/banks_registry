@@ -1,0 +1,5203 @@
+---
+AU:
+- name: Amp Bank Limited
+  swift: AMPBAU2SRET
+  swift8: AMPBAU2S
+  branch_name: Ret Branch
+  branch_address: 50 Bridge Street Sydney 2000
+  branch_code: RET
+  city: Sydney
+  country: Australia
+- name: Amp Bank Limited
+  swift: AMPBAU2STRY
+  swift8: AMPBAU2S
+  branch_name: Try Branch
+  branch_address: 20 Hunter Street Sydney 2000
+  branch_code: TRY
+  city: Sydney
+  country: Australia
+- name: Amp Bank Limited
+  swift: AMPBAU2SXXX
+  swift8: AMPBAU2S
+  branch_name: Head Office
+  branch_address: 33 Alfred Street Sydney 2000
+  branch_code: XXX
+  city: Sydney
+  country: Australia
+- name: Arab Bank Australia Limited
+  swift: ARABAU2SXXX
+  swift8: ARABAU2S
+  branch_name: Head Office
+  branch_address: 200 George Street Sydney 2000
+  branch_code: XXX
+  city: Sydney
+  country: Australia
+- name: Asx Operations Pty Limited
+  swift: XASXAU2SXXX
+  swift8: XASXAU2S
+  branch_name: Head Office
+  branch_address: 20 Bond Street Sydney 2000
+  branch_code: XXX
+  city: Sydney
+  country: Australia
+- name: Asx Operations Pty Limited
+  swift: XASXAU2SRTG
+  swift8: XASXAU2S
+  branch_name: Rtgs Settlement
+  branch_address: Sydney
+  branch_code: RTG
+  city: Sydney
+  country: Australia
+- name: Austraclear Limited
+  swift: ACLRAU2S202
+  swift8: ACLRAU2S
+  branch_name: Bko 202
+  branch_address: Sydney
+  branch_code: '202'
+  city: Sydney
+  country: Australia
+- name: Austraclear Limited
+  swift: ACLRAU2S203
+  swift8: ACLRAU2S
+  branch_name: Bko 203
+  branch_address: Sydney
+  branch_code: '203'
+  city: Sydney
+  country: Australia
+- name: Austraclear Limited
+  swift: ACLRAU2S204
+  swift8: ACLRAU2S
+  branch_name: Bko 204
+  branch_address: Sydney
+  branch_code: '204'
+  city: Sydney
+  country: Australia
+- name: Austraclear Limited
+  swift: ACLRAU2S205
+  swift8: ACLRAU2S
+  branch_name: Bko 205
+  branch_address: Sydney
+  branch_code: '205'
+  city: Sydney
+  country: Australia
+- name: Austraclear Limited
+  swift: ACLRAU2S206
+  swift8: ACLRAU2S
+  branch_name: Bko 260
+  branch_address: Sydney
+  branch_code: '206'
+  city: Sydney
+  country: Australia
+- name: Austraclear Limited
+  swift: ACLRAU2S207
+  swift8: ACLRAU2S
+  branch_name: Bko 207
+  branch_address: Sydney
+  branch_code: '207'
+  city: Sydney
+  country: Australia
+- name: Austraclear Limited
+  swift: ACLRAU2S208
+  swift8: ACLRAU2S
+  branch_name: Bko 208
+  branch_address: Sydney
+  branch_code: '208'
+  city: Sydney
+  country: Australia
+- name: Austraclear Limited
+  swift: ACLRAU2S209
+  swift8: ACLRAU2S
+  branch_name: Bko 209
+  branch_address: Sydney
+  branch_code: '209'
+  city: Sydney
+  country: Australia
+- name: Austraclear Limited
+  swift: ACLRAU2S210
+  swift8: ACLRAU2S
+  branch_name: Bko 210
+  branch_address: Sydney
+  branch_code: '210'
+  city: Sydney
+  country: Australia
+- name: Austraclear Limited
+  swift: ACLRAU2S211
+  swift8: ACLRAU2S
+  branch_name: Bko 211
+  branch_address: Sydney
+  branch_code: '211'
+  city: Sydney
+  country: Australia
+- name: Austraclear Limited
+  swift: ACLRAU2S212
+  swift8: ACLRAU2S
+  branch_name: Bko 212
+  branch_address: Sydney
+  branch_code: '212'
+  city: Sydney
+  country: Australia
+- name: Austraclear Limited
+  swift: ACLRAU2S213
+  swift8: ACLRAU2S
+  branch_name: Bko 213
+  branch_address: Sydney
+  branch_code: '213'
+  city: Sydney
+  country: Australia
+- name: Austraclear Limited
+  swift: ACLRAU2S214
+  swift8: ACLRAU2S
+  branch_name: Bko 214
+  branch_address: Sydney
+  branch_code: '214'
+  city: Sydney
+  country: Australia
+- name: Austraclear Limited
+  swift: ACLRAU2S215
+  swift8: ACLRAU2S
+  branch_name: Bko 215
+  branch_address: Sydney
+  branch_code: '215'
+  city: Sydney
+  country: Australia
+- name: Austraclear Limited
+  swift: ACLRAU2S216
+  swift8: ACLRAU2S
+  branch_name: Bko 216
+  branch_address: Sydney
+  branch_code: '216'
+  city: Sydney
+  country: Australia
+- name: Austraclear Limited
+  swift: ACLRAU2S217
+  swift8: ACLRAU2S
+  branch_name: Bko 217
+  branch_address: Sydney
+  branch_code: '217'
+  city: Sydney
+  country: Australia
+- name: Austraclear Limited
+  swift: ACLRAU2S218
+  swift8: ACLRAU2S
+  branch_name: Bko 218
+  branch_address: Sydney
+  branch_code: '218'
+  city: Sydney
+  country: Australia
+- name: Austraclear Limited
+  swift: ACLRAU2S219
+  swift8: ACLRAU2S
+  branch_name: Bko 219
+  branch_address: Sydney
+  branch_code: '219'
+  city: Sydney
+  country: Australia
+- name: Austraclear Limited
+  swift: ACLRAU2S220
+  swift8: ACLRAU2S
+  branch_name: Bko 220
+  branch_address: Sydney
+  branch_code: '220'
+  city: Sydney
+  country: Australia
+- name: Austraclear Limited
+  swift: ACLRAU2S221
+  swift8: ACLRAU2S
+  branch_name: Bko 221
+  branch_address: Sydney
+  branch_code: '221'
+  city: Sydney
+  country: Australia
+- name: Australia And New Zealand Banking Group Limited
+  swift: ANZBAU3M516
+  swift8: ANZBAU3M
+  branch_name: Ballarat
+  branch_address: Ballarat
+  branch_code: '516'
+  city: Ballarat
+  country: Australia
+- name: Australia And New Zealand Banking Group Limited
+  swift: ANZBAU3M535
+  swift8: ANZBAU3M
+  branch_name: Bendigo
+  branch_address: Bendigo
+  branch_code: '535'
+  city: Bendigo
+  country: Australia
+- name: Australia And New Zealand Banking Group Limited
+  swift: ANZBAU3M645
+  swift8: ANZBAU3M
+  branch_name: Geelong
+  branch_address: Geelong
+  branch_code: '645'
+  city: Geelong
+  country: Australia
+- name: Australia And New Zealand Banking Group Limited
+  swift: ANZBAU3MAFM
+  swift8: ANZBAU3M
+  branch_name: Funds Management
+  branch_address: 530 Collins Street Melbourne 3000
+  branch_code: AFM
+  city: Melbourne
+  country: Australia
+- name: Australia And New Zealand Banking Group Limited
+  swift: ANZBAU3MCLS
+  swift8: ANZBAU3M
+  branch_name: Melbourne 3000
+  branch_address: 530 Collins Street Melbourne 3000
+  branch_code: CLS
+  city: Melbourne
+  country: Australia
+- name: Australia And New Zealand Banking Group Limited
+  swift: ANZBAU3MGTO
+  swift8: ANZBAU3M
+  branch_name: Group Treasury Operations
+  branch_address: 530 Collins Street Melbourne 3000
+  branch_code: GTO
+  city: Melbourne
+  country: Australia
+- name: Australia And New Zealand Banking Group Limited
+  swift: ANZBAU3MNOM
+  swift8: ANZBAU3M
+  branch_name: Custodian Services
+  branch_address: 35 Elizabeth Street Melbourne 3000
+  branch_code: NOM
+  city: Melbourne
+  country: Australia
+- name: Australia And New Zealand Banking Group Limited
+  swift: ANZBAU3MXXX
+  swift8: ANZBAU3M
+  branch_name: Head Office
+  branch_address: 570 Church Street Melbourne 301
+  branch_code: XXX
+  city: Melbourne
+  country: Australia
+- name: Australia And New Zealand Banking Group Limited
+  swift: ANZBAU3MCFX
+  swift8: ANZBAU3M
+  branch_name: Melbourne
+  branch_address: Melbourne
+  branch_code: CFX
+  city: Melbourne
+  country: Australia
+- name: Australian Settlements Limited
+  swift: ASLLAU2CGIO
+  swift8: ASLLAU2C
+  branch_name: Canberra
+  branch_address: Canberra
+  branch_code: GIO
+  city: Canberra
+  country: Australia
+- name: Australian Settlements Limited
+  swift: ASLLAU2CHBS
+  swift8: ASLLAU2C
+  branch_name: Canberra
+  branch_address: Canberra
+  branch_code: HBS
+  city: Canberra
+  country: Australia
+- name: Australian Settlements Limited
+  swift: ASLLAU2CXXX
+  swift8: ASLLAU2C
+  branch_name: Head Office
+  branch_address: Real Estate House Canberra Deakin Act 2600
+  branch_code: XXX
+  city: Canberra
+  country: Australia
+- name: Australian Settlements Limited
+  swift: ASLLAU2CASL
+  swift8: ASLLAU2C
+  branch_name: Canberra
+  branch_address: Canberra
+  branch_code: ASL
+  city: Canberra
+  country: Australia
+- name: Australian Settlements Limited
+  swift: ASLLAU2CGTW
+  swift8: ASLLAU2C
+  branch_name: Gateway Credit Union
+  branch_address: Sydney
+  branch_code: GTW
+  city: Sydney
+  country: Australia
+- name: Australian Settlements Limited
+  swift: ASLLAU2CNEC
+  swift8: ASLLAU2C
+  branch_name: Armidale 2350
+  branch_address: Suite 4 N-Engl Tech Park Armidale 2350
+  branch_code: NEC
+  city: Armidale
+  country: Australia
+- name: Australian Settlements Limited
+  swift: ASLLAU2CSCU
+  swift8: ASLLAU2C
+  branch_name: Lismore
+  branch_address: Lismore
+  branch_code: SCU
+  city: Lismore
+  country: Australia
+- name: Australian Settlements Limited
+  swift: ASLLAU2CSGE
+  swift8: ASLLAU2C
+  branch_name: Sydney
+  branch_address: Sydney
+  branch_code: SGE
+  city: Sydney
+  country: Australia
+- name: Ayers Alliance Holdings Pty Limited
+  swift: AYAHAU24XXX
+  swift8: AYAHAU24
+  branch_name: Head Office
+  branch_address: Exchange House Sydney 2000
+  branch_code: XXX
+  city: Sydney
+  country: Australia
+- name: Banco Santander, S.A.
+  swift: BSCHAU2SXXX
+  swift8: BSCHAU2S
+  branch_name: Head Office
+  branch_address: George Street 420 Sydney 2000
+  branch_code: XXX
+  city: ''
+  country: Australia
+- name: Bank Of America, N.A. Sydney
+  swift: BOFAAUSXOBU
+  swift8: BOFAAUSX
+  branch_name: Sydney Nsw 2000
+  branch_address: Mlc Center Sydney Nsw 2000
+  branch_code: OBU
+  city: Sydney
+  country: Australia
+- name: Bank Of America, N.A. Sydney
+  swift: BOFAAUSXSAL
+  swift8: BOFAAUSX
+  branch_name: Ba Securities Australia Ltd
+  branch_address: Governor Phillip Tower Sydney Nsw 2000
+  branch_code: SAL
+  city: Sydney
+  country: Australia
+- name: Bank Of America, N.A. Sydney
+  swift: BOFAAUSXXXX
+  swift8: BOFAAUSX
+  branch_name: Head Office
+  branch_address: Mlc Centre Sydney 2000
+  branch_code: XXX
+  city: Sydney
+  country: Australia
+- name: Bank Of Baroda
+  swift: BARBAU2SXXX
+  swift8: BARBAU2S
+  branch_name: Head Office
+  branch_address: 265 Castlereagh Street Sydney 2000
+  branch_code: XXX
+  city: ''
+  country: Australia
+- name: Bank Of China
+  swift: BKCHAU2SMEL
+  swift8: BKCHAU2S
+  branch_name: Melbourne Branch
+  branch_address: 270 Queen Street Melbourne 3000
+  branch_code: MEL
+  city: Melbourne
+  country: Australia
+- name: Bank Of China
+  swift: BKCHAU2SHMB
+  swift8: BKCHAU2S
+  branch_name: Haymarket Branch
+  branch_address: George Street 681 Sydney 2000
+  branch_code: HMB
+  city: Sydney
+  country: Australia
+- name: Bank Of China (Australia) Limited
+  swift: BKCHAU2ABXH
+  swift8: BKCHAU2A
+  branch_name: Box Hill Branch
+  branch_address: 916-918 Whitehorse Road Box Hill 3128
+  branch_code: BXH
+  city: Box Hill
+  country: Australia
+- name: Bank Of China (Australia) Limited
+  swift: BKCHAU2ACWD
+  swift8: BKCHAU2A
+  branch_name: Chatswood
+  branch_address: Chatswood
+  branch_code: CWD
+  city: Chatswood
+  country: Australia
+- name: Bank Of China (Australia) Limited
+  swift: BKCHAU2AHSV
+  swift8: BKCHAU2A
+  branch_name: Hurstville Branch
+  branch_address: Hurstville
+  branch_code: HSV
+  city: Hurstville
+  country: Australia
+- name: Bank Of China (Australia) Limited
+  swift: BKCHAU2AMEL
+  swift8: BKCHAU2A
+  branch_name: Melbourne Branch
+  branch_address: Melbourne
+  branch_code: MEL
+  city: Melbourne
+  country: Australia
+- name: Bank Of China (Australia) Limited
+  swift: BKCHAU2APTH
+  swift8: BKCHAU2A
+  branch_name: Perth
+  branch_address: Perth
+  branch_code: PTH
+  city: Perth
+  country: Australia
+- name: Bank Of China (Australia) Limited
+  swift: BKCHAU2ABKG
+  swift8: BKCHAU2A
+  branch_name: Banking Dept
+  branch_address: Sydney
+  branch_code: BKG
+  city: Sydney
+  country: Australia
+- name: Bank Of China (Australia) Limited
+  swift: BKCHAU2AHMB
+  swift8: BKCHAU2A
+  branch_name: Haymarket
+  branch_address: Sydney
+  branch_code: HMB
+  city: Sydney
+  country: Australia
+- name: Bank Of China (Australia) Limited
+  swift: BKCHAU2APAR
+  swift8: BKCHAU2A
+  branch_name: Parramatta
+  branch_address: Sydney
+  branch_code: PAR
+  city: Sydney
+  country: Australia
+- name: Bank Of China (Australia) Limited
+  swift: BKCHAU2AXXX
+  swift8: BKCHAU2A
+  branch_name: Head Office
+  branch_address: Bank of China Building Sydney 2000
+  branch_code: XXX
+  city: Sydney
+  country: Australia
+- name: Bank Of China Limited, Sydney Branch
+  swift: BKCHAU2SBXH
+  swift8: BKCHAU2S
+  branch_name: Box Hill Branch
+  branch_address: 916-918 Whitehorse Road, Box Hill, Box Hill 3128
+  branch_code: BXH
+  city: Box Hill
+  country: Australia
+- name: Bank Of China Limited, Sydney Branch
+  swift: BKCHAU2SBRI
+  swift8: BKCHAU2S
+  branch_name: Brisbane Branch
+  branch_address: Brisbane
+  branch_code: BRI
+  city: Brisbane
+  country: Australia
+- name: Bank Of China Limited, Sydney Branch
+  swift: BKCHAU2SCWD
+  swift8: BKCHAU2S
+  branch_name: Chatswood
+  branch_address: Chatswood
+  branch_code: CWD
+  city: Chatswood
+  country: Australia
+- name: Bank Of China Limited, Sydney Branch
+  swift: BKCHAU2SHSV
+  swift8: BKCHAU2S
+  branch_name: Hurstville Branch
+  branch_address: Hurstville
+  branch_code: HSV
+  city: Hurstville
+  country: Australia
+- name: Bank Of China Limited, Sydney Branch
+  swift: BKCHAU2SPTH
+  swift8: BKCHAU2S
+  branch_name: Perth Branch
+  branch_address: Perth
+  branch_code: PTH
+  city: Perth
+  country: Australia
+- name: Bank Of China Limited, Sydney Branch
+  swift: BKCHAU2SACC
+  swift8: BKCHAU2S
+  branch_name: Accounting Dept
+  branch_address: Sydney
+  branch_code: ACC
+  city: Sydney
+  country: Australia
+- name: Bank Of China Limited, Sydney Branch
+  swift: BKCHAU2SBKG
+  swift8: BKCHAU2S
+  branch_name: Banking Dept
+  branch_address: Sydney
+  branch_code: BKG
+  city: Sydney
+  country: Australia
+- name: Bank Of China Limited, Sydney Branch
+  swift: BKCHAU2SBLS
+  swift8: BKCHAU2S
+  branch_name: Bills Department
+  branch_address: 39-41 York Street Sydney 2000
+  branch_code: BLS
+  city: Sydney
+  country: Australia
+- name: Bank Of China Limited, Sydney Branch
+  swift: BKCHAU2SFEX
+  swift8: BKCHAU2S
+  branch_name: Foreign Exchange Dept
+  branch_address: 39-41 York Street Sydney 2000
+  branch_code: FEX
+  city: Sydney
+  country: Australia
+- name: Bank Of China Limited, Sydney Branch
+  swift: BKCHAU2SOBU
+  swift8: BKCHAU2S
+  branch_name: Obu
+  branch_address: Sydney
+  branch_code: OBU
+  city: Sydney
+  country: Australia
+- name: Bank Of China Limited, Sydney Branch
+  swift: BKCHAU2SPAR
+  swift8: BKCHAU2S
+  branch_name: Parramatta Dept
+  branch_address: Sydney
+  branch_code: PAR
+  city: Sydney
+  country: Australia
+- name: Bank Of China Limited, Sydney Branch
+  swift: BKCHAU2SRMD
+  swift8: BKCHAU2S
+  branch_name: Risk Management Dept
+  branch_address: Sydney
+  branch_code: RMD
+  city: Sydney
+  country: Australia
+- name: Bank Of China Limited, Sydney Branch
+  swift: BKCHAU2SXXX
+  swift8: BKCHAU2S
+  branch_name: Head Office
+  branch_address: 39-41 York Street (Corner Sydney) 2000
+  branch_code: XXX
+  city: Sydney
+  country: Australia
+- name: Bank Of Communications Co.,Ltd Sydney Branch
+  swift: COMMAU2SXXX
+  swift8: COMMAU2S
+  branch_name: Head Office
+  branch_address: George Street Sydney 2000
+  branch_code: XXX
+  city: Sydney
+  country: Australia
+- name: Bank Of Montreal
+  swift: BOFMAU21XXX
+  swift8: BOFMAU21
+  branch_name: Head Office
+  branch_address: 9 Castlereagh Street Sydney 2000
+  branch_code: XXX
+  city: Sydney
+  country: Australia
+- name: Bank Of Queensland Ltd.
+  swift: QBANAU4BXXX
+  swift8: QBANAU4B
+  branch_name: Head Office
+  branch_address: 259 Queen Street Brisbane 4001
+  branch_code: XXX
+  city: Brisbane
+  country: Australia
+- name: Bank Of Tokyo-Mitsubishi Ufj Ltd., The
+  swift: BOTKAU2XXXX
+  swift8: BOTKAU2X
+  branch_name: Sydney Branch
+  branch_address: Gateway Sydney 2000
+  branch_code: XXX
+  city: Sydney
+  country: Australia
+- name: Bank Of Western Australia Ltd.
+  swift: BKWAAU6PXXX
+  swift8: BKWAAU6P
+  branch_name: Head Office
+  branch_address: 108 Saint Georges Terrace Perth 6000
+  branch_code: XXX
+  city: Perth
+  country: Australia
+- name: Barclays Bank Plc
+  swift: BARCAU2SXXX
+  swift8: BARCAU2S
+  branch_name: Head Office
+  branch_address: 400 George Street Sydney 2000
+  branch_code: XXX
+  city: Sydney
+  country: Australia
+- name: Beirut Hellenic Bank Ltd
+  swift: LIKIAU2SXXX
+  swift8: LIKIAU2S
+  branch_name: Head Office
+  branch_address: 219-223 Castlereagh Street Sydney 2000
+  branch_code: XXX
+  city: Sydney
+  country: Australia
+- name: Bendigo Bank Limited
+  swift: BENDAU3BXXX
+  swift8: BENDAU3B
+  branch_name: Head Office
+  branch_address: Fountain Court Bendigo 3550
+  branch_code: XXX
+  city: Bendigo
+  country: Australia
+- name: Bnp Paribas Australia
+  swift: BNPAAU2S200
+  swift8: BNPAAU2S
+  branch_name: Fixed Income and Treasury
+  branch_address: Sydney
+  branch_code: '200'
+  city: Sydney
+  country: Australia
+- name: Bnp Paribas Australia
+  swift: BNPAAU2SOBU
+  swift8: BNPAAU2S
+  branch_name: Sydney Offshore Banking Unit Obu
+  branch_address: Sydney
+  branch_code: OBU
+  city: Sydney
+  country: Australia
+- name: Bnp Paribas Australia
+  swift: BNPAAU2SXXX
+  swift8: BNPAAU2S
+  branch_name: Head Office
+  branch_address: Bnp Centre Sydney 2000
+  branch_code: XXX
+  city: Sydney
+  country: Australia
+- name: Bnp Paribas Australia
+  swift: BNPAAU2S400
+  swift8: BNPAAU2S
+  branch_name: Brisbane Branch
+  branch_address: 123 Eagle Street Brisbane 4000
+  branch_code: '400'
+  city: Brisbane
+  country: Australia
+- name: Bnp Paribas Australia
+  swift: BNPAAU2S300
+  swift8: BNPAAU2S
+  branch_name: Melbourne Branch
+  branch_address: Rialto South Tower Melbourne 3000
+  branch_code: '300'
+  city: Melbourne
+  country: Australia
+- name: Bnp Paribas Australia
+  swift: BNPAAU2S600
+  swift8: BNPAAU2S
+  branch_name: Perth Branch
+  branch_address: Exchange Plaza Perth 6000
+  branch_code: '600'
+  city: Perth
+  country: Australia
+- name: Bnp Paribas Securities Services, (Australia Branch)
+  swift: PARBAU2SXXX
+  swift8: PARBAU2S
+  branch_name: Head Office
+  branch_address: Castlereagh Street 60 Sydney 2000
+  branch_code: XXX
+  city: Sydney
+  country: Australia
+- name: China Construction Bank Corporation Sydney Branch
+  swift: PCBCAU2SXXX
+  swift8: PCBCAU2S
+  branch_name: Head Office
+  branch_address: Suite 33.01 Sydney 2000
+  branch_code: XXX
+  city: Sydney
+  country: Australia
+- name: China Construction Bank Corporation Sydney Branch
+  swift: PCBCAU2SOBU
+  swift8: PCBCAU2S
+  branch_name: Offshore Banking Unit
+  branch_address: No branch address
+  branch_code: OBU
+  city: Sydney
+  country: Australia
+- name: Citibank Limited, Sydney
+  swift: CITIAU2XGCB
+  swift8: CITIAU2X
+  branch_name: Global Consumer Banking
+  branch_address: 1 Margaret Street Sydney 2000
+  branch_code: GCB
+  city: Sydney
+  country: Australia
+- name: Citibank Limited, Sydney
+  swift: CITIAU2XRTG
+  swift8: CITIAU2X
+  branch_name: Real Time Gross Settlement
+  branch_address: 1 Margaret Street Sydney 2000
+  branch_code: RTG
+  city: Sydney
+  country: Australia
+- name: Citibank Limited, Sydney
+  swift: CITIAU2XXXX
+  swift8: CITIAU2X
+  branch_name: Head Office
+  branch_address: Citigroup Centre Sydney 2000
+  branch_code: XXX
+  city: Sydney
+  country: Australia
+- name: Citibank N.A
+  swift: CITIAUSXXXX
+  swift8: CITIAUSX
+  branch_name: Head Office
+  branch_address: Citigroup Centre Sydney 2000
+  branch_code: XXX
+  city: Sydney
+  country: Australia
+- name: Citigroup Global Markets Australia Pty Limited
+  swift: SSBSAU2SXXX
+  swift8: SSBSAU2S
+  branch_name: Head Office
+  branch_address: Citigroup Centre Sydney 2000
+  branch_code: XXX
+  city: Sydney
+  country: Australia
+- name: Citigroup Global Markets Australia Pty Limited
+  swift: CNSLAU21XXX
+  swift8: CNSLAU21
+  branch_name: Head Office
+  branch_address: Citigroup Centre Sydney 2000
+  branch_code: XXX
+  city: Sydney
+  country: Australia
+- name: Citigroup Pty Limited
+  swift: CITIAU3XXXX
+  swift8: CITIAU3X
+  branch_name: Head Office
+  branch_address: 120 Collins Street Melbourne 3000
+  branch_code: XXX
+  city: Melbourne
+  country: Australia
+- name: Colonial First State Investment Ltd
+  swift: CFSMAU2SXXX
+  swift8: CFSMAU2S
+  branch_name: Head Office
+  branch_address: Colonial Centre Sydney 2000
+  branch_code: XXX
+  city: Sydney
+  country: Australia
+- name: Colonial First State Investment Ltd
+  swift: CFSMAU3METD
+  swift8: CFSMAU3M
+  branch_name: Exchange Traded Derivatives
+  branch_address: Sydney
+  branch_code: ETD
+  city: Sydney
+  country: Australia
+- name: Colonial First State Investment Ltd
+  swift: CFSMAU3MXXX
+  swift8: CFSMAU3M
+  branch_name: Head Office
+  branch_address: 381 Bourke Street Melbourne 3000
+  branch_code: XXX
+  city: Melbourne
+  country: Australia
+- name: Commonwealth Bank Of Australia Sydney
+  swift: CTBAAU2S400
+  swift8: CTBAAU2S
+  branch_name: Brisbane
+  branch_address: Brisbane
+  branch_code: '400'
+  city: Brisbane
+  country: Australia
+- name: Commonwealth Bank Of Australia Sydney
+  swift: CTBAAU2S500
+  swift8: CTBAAU2S
+  branch_name: Adelaide
+  branch_address: Adelaide
+  branch_code: '500'
+  city: Adelaide
+  country: Australia
+- name: Commonwealth Bank Of Australia Sydney
+  swift: CTBAAU2S800
+  swift8: CTBAAU2S
+  branch_name: Darwin
+  branch_address: Darwin
+  branch_code: '800'
+  city: Darwin
+  country: Australia
+- name: Commonwealth Bank Of Australia Sydney
+  swift: CTBAAU2S700
+  swift8: CTBAAU2S
+  branch_name: Hobart
+  branch_address: Hobart
+  branch_code: '700'
+  city: Hobart
+  country: Australia
+- name: Commonwealth Bank Of Australia Sydney
+  swift: CTBAAU2S3FX
+  swift8: CTBAAU2S
+  branch_name: Melbourne Group Treasury Centre
+  branch_address: Melbourne
+  branch_code: 3FX
+  city: Melbourne
+  country: Australia
+- name: Commonwealth Bank Of Australia Sydney
+  swift: CTBAAU2S3OT
+  swift8: CTBAAU2S
+  branch_name: Exportimport Collections and Documentary Credits
+  branch_address: Melbourne
+  branch_code: 3OT
+  city: Melbourne
+  country: Australia
+- name: Commonwealth Bank Of Australia Sydney
+  swift: CTBAAU2S600
+  swift8: CTBAAU2S
+  branch_name: Perth
+  branch_address: Perth
+  branch_code: '600'
+  city: Perth
+  country: Australia
+- name: Commonwealth Bank Of Australia Sydney
+  swift: CTBAAU2SCLS
+  swift8: CTBAAU2S
+  branch_name: Cls Control Function
+  branch_address: Darling Park Cba Tower Sydney Nsw 2000
+  branch_code: CLS
+  city: Sydney
+  country: Australia
+- name: Commonwealth Bank Of Australia Sydney
+  swift: CTBAAU2SFXD
+  swift8: CTBAAU2S
+  branch_name: Group Treasury Foreign Exchange Accounting and Settlements
+  branch_address: Darling Park Cba Tower Sydney Nsw 2000
+  branch_code: FXD
+  city: Sydney
+  country: Australia
+- name: Commonwealth Bank Of Australia Sydney
+  swift: CTBAAU2SITS
+  swift8: CTBAAU2S
+  branch_name: International Trade Processing Centre
+  branch_address: Darling Park Cba Tower Sydney Nsw 2000
+  branch_code: ITS
+  city: Sydney
+  country: Australia
+- name: Commonwealth Bank Of Australia Sydney
+  swift: CTBAAU2SOBU
+  swift8: CTBAAU2S
+  branch_name: Offshore Banking Unit
+  branch_address: Darling Park Cba Tower Sydney Nsw 2000
+  branch_code: OBU
+  city: Sydney
+  country: Australia
+- name: Commonwealth Bank Of Australia Sydney
+  swift: CTBAAU2SXXX
+  swift8: CTBAAU2S
+  branch_name: For Head Office and All Australian Branches
+  branch_address: 201 Sussex Street Sydney Nsw 2000
+  branch_code: XXX
+  city: Sydney
+  country: Australia
+- name: Credit Agricole Cib Australia Limited
+  swift: BSUIAU2SOBU
+  swift8: BSUIAU2S
+  branch_name: Off Shore Banking Unit
+  branch_address: Sydney
+  branch_code: OBU
+  city: Sydney
+  country: Australia
+- name: Credit Agricole Cib Australia Limited
+  swift: BSUIAU2SXXX
+  swift8: BSUIAU2S
+  branch_name: Head Office
+  branch_address: 225 George Street Sydney 2000
+  branch_code: XXX
+  city: Sydney
+  country: Australia
+- name: Credit Suisse Ag, Sydney Branch
+  swift: CRESAU2SPBS
+  swift8: CRESAU2S
+  branch_name: Private Banking
+  branch_address: Sydney
+  branch_code: PBS
+  city: Sydney
+  country: Australia
+- name: Credit Suisse Ag, Sydney Branch
+  swift: CRESAU2SXXX
+  swift8: CRESAU2S
+  branch_name: Head Office
+  branch_address: Gateway Building Sydney 2000
+  branch_code: XXX
+  city: Sydney
+  country: Australia
+- name: Credit Suisse Equities (Australia) Limited
+  swift: FPSLAU3MXXX
+  swift8: FPSLAU3M
+  branch_name: Head Office
+  branch_address: 101 Collins Street Melbourne 3000
+  branch_code: XXX
+  city: Melbourne
+  country: Australia
+- name: Credit Suisse Investment Services (Australia) Ltd
+  swift: CRESAU2DXXX
+  swift8: CRESAU2D
+  branch_name: Head Office
+  branch_address: Macquarie Place 1 Sydney 2000
+  branch_code: XXX
+  city: Sydney
+  country: Australia
+- name: Deutsche Bank Ag
+  swift: DEUTAU2SDSO
+  swift8: DEUTAU2S
+  branch_name: Debt Securities Ops
+  branch_address: Sydney
+  branch_code: DSO
+  city: Sydney
+  country: Australia
+- name: Deutsche Bank Ag
+  swift: DEUTAU2SOBU
+  swift8: DEUTAU2S
+  branch_name: Offshore Banking Unit
+  branch_address: Sydney
+  branch_code: OBU
+  city: Sydney
+  country: Australia
+- name: Deutsche Bank Ag
+  swift: DEUTAU2SXXX
+  swift8: DEUTAU2S
+  branch_name: Head Office
+  branch_address: Grosvenor Place Sydney 2000
+  branch_code: XXX
+  city: Sydney
+  country: Australia
+- name: First Commercial Bank
+  swift: FCBKAU4BXXX
+  swift8: FCBKAU4B
+  branch_name: Head Office
+  branch_address: 199 George Street Brisbane 4000
+  branch_code: XXX
+  city: Brisbane
+  country: Australia
+- name: Goldman Sachs Jbwere Financial Markets Pty Ltd.
+  swift: GOLDAU2SXXX
+  swift8: GOLDAU2S
+  branch_name: Head Office
+  branch_address: 101 Collins Street Melbourne 3000
+  branch_code: XXX
+  city: Melbourne
+  country: Australia
+- name: Heritage Building Society Limited
+  swift: HBSLAU4TXXX
+  swift8: HBSLAU4T
+  branch_name: Head Office
+  branch_address: 400 Ruthven Street Toowoomba 4350
+  branch_code: XXX
+  city: Toowoomba
+  country: Australia
+- name: Hsbc Bank Australia Limited
+  swift: HKBAAU2SADL
+  swift8: HKBAAU2S
+  branch_name: Adelaide Branch
+  branch_address: Adelaide
+  branch_code: ADL
+  city: Adelaide
+  country: Australia
+- name: Hsbc Bank Australia Limited
+  swift: HKBAAU2SBNE
+  swift8: HKBAAU2S
+  branch_name: Brisbane Branch
+  branch_address: Hongkongbank Building Brisbane 4000
+  branch_code: BNE
+  city: Brisbane
+  country: Australia
+- name: Hsbc Bank Australia Limited
+  swift: HKBAAU2SMEL
+  swift8: HKBAAU2S
+  branch_name: Melbourne
+  branch_address: Melbourne
+  branch_code: MEL
+  city: Melbourne
+  country: Australia
+- name: Hsbc Bank Australia Limited
+  swift: HKBAAU2SPTH
+  swift8: HKBAAU2S
+  branch_name: Perth Branch
+  branch_address: R and I Tower Perth 6000
+  branch_code: PTH
+  city: Perth
+  country: Australia
+- name: Hsbc Bank Australia Limited
+  swift: HKBAAU2SCLS
+  swift8: HKBAAU2S
+  branch_name: Cls Division
+  branch_address: Sydney
+  branch_code: CLS
+  city: Sydney
+  country: Australia
+- name: Hsbc Bank Australia Limited
+  swift: HKBAAU2SSYC
+  swift8: HKBAAU2S
+  branch_name: Sydney Haymarket Branch
+  branch_address: 724-728 George Street Sydney 2000
+  branch_code: SYC
+  city: Sydney
+  country: Australia
+- name: Hsbc Bank Australia Limited
+  swift: HKBAAU2SSYD
+  swift8: HKBAAU2S
+  branch_name: Sydney
+  branch_address: Sydney
+  branch_code: SYD
+  city: Sydney
+  country: Australia
+- name: Hsbc Bank Australia Limited
+  swift: HKBAAU2SXXX
+  swift8: HKBAAU2S
+  branch_name: Head Office
+  branch_address: Hsbc Centre Sydney
+  branch_code: XXX
+  city: Sydney
+  country: Australia
+- name: Hsbc Bank Australia Limited
+  swift: HKBAAU2SBAU
+  swift8: HKBAAU2S
+  branch_name: Hsbc Bank Australia Ltd
+  branch_address: Hsbc Bank Australia Ltd Sydney 2001
+  branch_code: BAU
+  city: Sydney
+  country: Australia
+- name: Hua Nan Commercial Bank Sydney Branch
+  swift: HNBKAU2SXXX
+  swift8: HNBKAU2S
+  branch_name: Head Office
+  branch_address: Carrington Street 60 Sydney 2000
+  branch_code: XXX
+  city: ''
+  country: Australia
+- name: Hua Nan Commercial Bank Sydney Branch
+  swift: HNBKAU21XXX
+  swift8: HNBKAU21
+  branch_name: Head Office
+  branch_address: Carrington Street 60 Sydney 2000
+  branch_code: XXX
+  city: Sydney
+  country: Australia
+- name: Industrial And Commercial Bank Of China Sydney Branch
+  swift: ICBKAU2SXXX
+  swift8: ICBKAU2S
+  branch_name: Head Office
+  branch_address: Bridge Street Sydney 2000
+  branch_code: XXX
+  city: Sydney
+  country: Australia
+- name: Ing Bank (Australia) Limited
+  swift: INGBAU2SXXX
+  swift8: INGBAU2S
+  branch_name: Head Office
+  branch_address: Ing Direct Sydney 2000
+  branch_code: XXX
+  city: Sydney
+  country: Australia
+- name: Ing Bank Nv, Sydney Branch
+  swift: INGAAU2SXXX
+  swift8: INGAAU2S
+  branch_name: Head Office
+  branch_address: 140 Sussex Street Sydney 2000
+  branch_code: XXX
+  city: Sydney
+  country: Australia
+- name: J.P. Morgan Australia Limited
+  swift: JPMAAU2XSMM
+  swift8: JPMAAU2X
+  branch_name: Sydney Money Markets
+  branch_address: Sydney
+  branch_code: SMM
+  city: Sydney
+  country: Australia
+- name: J.P. Morgan Australia Limited
+  swift: JPMAAU2XXXX
+  swift8: JPMAAU2X
+  branch_name: Head Office
+  branch_address: Grosvenor Place Sydney 2000
+  branch_code: XXX
+  city: Sydney
+  country: Australia
+- name: Jp Morgan Chase Bank, N.A
+  swift: CHASAU2XCCS
+  swift8: CHASAU2X
+  branch_name: Wss Local Custodian Services
+  branch_address: Sydney
+  branch_code: CCS
+  city: Sydney
+  country: Australia
+- name: Jp Morgan Chase Bank, N.A
+  swift: CHASAU2XGSS
+  swift8: CHASAU2X
+  branch_name: Global Security Services
+  branch_address: Sydney
+  branch_code: GSS
+  city: Sydney
+  country: Australia
+- name: Jp Morgan Chase Bank, N.A
+  swift: CHASAU2XKEY
+  swift8: CHASAU2X
+  branch_name: Test Key and Bke Administration
+  branch_address: Sydney
+  branch_code: KEY
+  city: Sydney
+  country: Australia
+- name: Jp Morgan Chase Bank, N.A
+  swift: CHASAU2XLCO
+  swift8: CHASAU2X
+  branch_name: Local Custody Operations
+  branch_address: Sydney
+  branch_code: LCO
+  city: Sydney
+  country: Australia
+- name: Jp Morgan Chase Bank, N.A
+  swift: CHASAU2XSMM
+  swift8: CHASAU2X
+  branch_name: Sydney Money Market
+  branch_address: Sydney
+  branch_code: SMM
+  city: Sydney
+  country: Australia
+- name: Jp Morgan Chase Bank, N.A
+  swift: CHASAU2XSPO
+  swift8: CHASAU2X
+  branch_name: Sydney Payment Operations
+  branch_address: Sydney
+  branch_code: SPO
+  city: Sydney
+  country: Australia
+- name: Jp Morgan Chase Bank, N.A
+  swift: CHASAU2XSTO
+  swift8: CHASAU2X
+  branch_name: Sydney Treasury Operations
+  branch_address: Sydney
+  branch_code: STO
+  city: Sydney
+  country: Australia
+- name: Jp Morgan Chase Bank, N.A
+  swift: CHASAU2XTSD
+  swift8: CHASAU2X
+  branch_name: Trade Services Desk
+  branch_address: Aap Centre Sydney 2000
+  branch_code: TSD
+  city: Sydney
+  country: Australia
+- name: Jp Morgan Chase Bank, N.A
+  swift: CHASAU2XXXX
+  swift8: CHASAU2X
+  branch_name: Head Office
+  branch_address: Aap Centre Sydney 2000
+  branch_code: XXX
+  city: Sydney
+  country: Australia
+- name: Jpmorgan Chase Bank, N.A.
+  swift: CHASAU2XDCC
+  swift8: CHASAU2X
+  branch_name: Direct Custody and Clearing
+  branch_address: Sydney
+  branch_code: DCC
+  city: Sydney
+  country: Australia
+- name: Lazard Asset Management
+  swift: LAMNAU21XXX
+  swift8: LAMNAU21
+  branch_name: Head Office
+  branch_address: Gateway Sydney 2000
+  branch_code: XXX
+  city: Sydney
+  country: Australia
+- name: Macquarie Bank Limited
+  swift: MACQAU2SOBU
+  swift8: MACQAU2S
+  branch_name: Sydney
+  branch_address: Sydney
+  branch_code: OBU
+  city: Sydney
+  country: Australia
+- name: Macquarie Bank Limited
+  swift: MACQAU2STC1
+  swift8: MACQAU2S
+  branch_name: Futures Clearing
+  branch_address: Sydney
+  branch_code: TC1
+  city: Sydney
+  country: Australia
+- name: Macquarie Bank Limited
+  swift: MACQAU2STC2
+  swift8: MACQAU2S
+  branch_name: Futures Brokerage
+  branch_address: No branch address
+  branch_code: TC2
+  city: Sydney
+  country: Australia
+- name: Macquarie Bank Limited
+  swift: MACQAU2SVOS
+  swift8: MACQAU2S
+  branch_name: Vostro Account Processing
+  branch_address: Sydney
+  branch_code: VOS
+  city: Sydney
+  country: Australia
+- name: Macquarie Bank Limited
+  swift: MACQAU2SXXX
+  swift8: MACQAU2S
+  branch_name: Head Office
+  branch_address: 1 Martin Place Sydney 2000
+  branch_code: XXX
+  city: Sydney
+  country: Australia
+- name: Macquarie Bank Limited
+  swift: MACQAU2SSMK
+  swift8: MACQAU2S
+  branch_name: Securities
+  branch_address: No branch address
+  branch_code: SMK
+  city: Sydney
+  country: Australia
+- name: Maple-Brown Abbott Ltd
+  swift: MBBAAU2SXXX
+  swift8: MBBAAU2S
+  branch_name: Head Office
+  branch_address: 259 George Street Sydney 2000
+  branch_code: XXX
+  city: Sydney
+  country: Australia
+- name: Marvin And Palmer Associates Inc
+  swift: MAPSAU21XXX
+  swift8: MAPSAU21
+  branch_name: Head Office
+  branch_address: 3 Spring Street Sydney 2000
+  branch_code: XXX
+  city: Sydney
+  country: Australia
+- name: Mega International Commercial Bank Co., Ltd, Sydney Branch
+  swift: ICBCAU2SBRI
+  swift8: ICBCAU2S
+  branch_name: Brisbane Branch
+  branch_address: Sunnybank Brisbane Qld 4109
+  branch_code: BRI
+  city: Brisbane
+  country: Australia
+- name: Mega International Commercial Bank Co., Ltd, Sydney Branch
+  swift: ICBCAU2SMEL
+  swift8: ICBCAU2S
+  branch_name: Melbourne Branch
+  branch_address: 459 Collins Street Melbourne Vic 3000
+  branch_code: MEL
+  city: Melbourne
+  country: Australia
+- name: Mega International Commercial Bank Co., Ltd, Sydney Branch
+  swift: ICBCAU2SXXX
+  swift8: ICBCAU2S
+  branch_name: Head Office
+  branch_address: 275-281 George Street Sydney 2000
+  branch_code: XXX
+  city: Sydney
+  country: Australia
+- name: Members Equity Bank Limited
+  swift: MEQBAU3MXXX
+  swift8: MEQBAU3M
+  branch_name: Head Office
+  branch_address: 360 Elizabeth Street Melbourne 3000
+  branch_code: XXX
+  city: ''
+  country: Australia
+- name: Mercedes-Benz Australia/Pacific Pty Ltd
+  swift: DCAGAU33XXX
+  swift8: DCAGAU33
+  branch_name: Head Office
+  branch_address: 44 Lexia Place Mulgrave 3170
+  branch_code: XXX
+  city: Mulgrave
+  country: Australia
+- name: Mercedes-Benz Financial Services Australia Pty. Ltd.
+  swift: DCFSAU33XXX
+  swift8: DCFSAU33
+  branch_name: Head Office
+  branch_address: 41 Lexia Place Mulgrave 3170
+  branch_code: XXX
+  city: Mulgrave
+  country: Australia
+- name: Merrill Lynch Equities (Australia) Ltd
+  swift: MLEQAU2SMLN
+  swift8: MLEQAU2S
+  branch_name: Ml Australia Nominees Operations
+  branch_address: 120 Collins Street Melbourne 3000
+  branch_code: MLN
+  city: Melbourne
+  country: Australia
+- name: Merrill Lynch Equities (Australia) Ltd
+  swift: MLEQAU2SMLS
+  swift8: MLEQAU2S
+  branch_name: Ml Equities Settlement Operations
+  branch_address: 120 Collins Street Melbourne 3000
+  branch_code: MLS
+  city: Melbourne
+  country: Australia
+- name: Merrill Lynch Equities (Australia) Ltd
+  swift: MLEQAU2SMLM
+  swift8: MLEQAU2S
+  branch_name: Ml Markets
+  branch_address: Sydney
+  branch_code: MLM
+  city: Sydney
+  country: Australia
+- name: Merrill Lynch Equities (Australia) Ltd
+  swift: MLEQAU2SMLT
+  swift8: MLEQAU2S
+  branch_name: Sydney
+  branch_address: Harbourfront Centre Sydney 099253
+  branch_code: MLT
+  city: Sydney
+  country: Australia
+- name: Merrill Lynch Equities (Australia) Ltd
+  swift: MLEQAU2SXXX
+  swift8: MLEQAU2S
+  branch_name: Head Office
+  branch_address: Governor Phillip Tower Sydney 2000
+  branch_code: XXX
+  city: Sydney
+  country: Australia
+- name: Mizuho Corporate Bank, Ltd. Sydney Branch
+  swift: MHCBAU2SXXX
+  swift8: MHCBAU2S
+  branch_name: Head Office
+  branch_address: 60 Margaret Street Sydney 2000
+  branch_code: XXX
+  city: Sydney
+  country: Australia
+- name: National Australia Bank Limited
+  swift: NATAAU3305A
+  swift8: NATAAU33
+  branch_name: Trade and International Payments
+  branch_address: 22-28 King William Street Adelaide 5000
+  branch_code: 05A
+  city: Adelaide
+  country: Australia
+- name: National Australia Bank Limited
+  swift: NATAAU3304B
+  swift8: NATAAU33
+  branch_name: Trade and International Payments
+  branch_address: 255 Adelaide Street Brisbane 4000
+  branch_code: 04B
+  city: Brisbane
+  country: Australia
+- name: National Australia Bank Limited
+  swift: NATAAU3308D
+  swift8: NATAAU33
+  branch_name: Darwin 0800
+  branch_address: 82 Mitchell Street Darwin 0800
+  branch_code: '08D'
+  city: Darwin
+  country: Australia
+- name: National Australia Bank Limited
+  swift: NATAAU3307H
+  swift8: NATAAU33
+  branch_name: Tasmania International Service Centre
+  branch_address: 76 Liverpool Street Hobart 7000
+  branch_code: 07H
+  city: Hobart
+  country: Australia
+- name: National Australia Bank Limited
+  swift: NATAAU33032
+  swift8: NATAAU33
+  branch_name: Vostro Client Services
+  branch_address: 500 Bourke Street Melbourne 3000
+  branch_code: '032'
+  city: Melbourne
+  country: Australia
+- name: National Australia Bank Limited
+  swift: NATAAU33033
+  swift8: NATAAU33
+  branch_name: Head Office
+  branch_address: 500 Bourke Street Melbourne 3000
+  branch_code: '033'
+  city: Melbourne
+  country: Australia
+- name: National Australia Bank Limited
+  swift: NATAAU3303M
+  swift8: NATAAU33
+  branch_name: Trade and International Payments
+  branch_address: 383 King Street Melbourne 3000
+  branch_code: 03M
+  city: Melbourne
+  country: Australia
+- name: National Australia Bank Limited
+  swift: NATAAU3303T
+  swift8: NATAAU33
+  branch_name: Treasury Operations
+  branch_address: 500 Bourke Street Melbourne 3000
+  branch_code: 03T
+  city: Melbourne
+  country: Australia
+- name: National Australia Bank Limited
+  swift: NATAAU3303X
+  swift8: NATAAU33
+  branch_name: Asset Servicing
+  branch_address: 500 Bourke Street Melbourne 3000
+  branch_code: 03X
+  city: Melbourne
+  country: Australia
+- name: National Australia Bank Limited
+  swift: NATAAU33CLS
+  swift8: NATAAU33
+  branch_name: Cls Control Branch
+  branch_address: 500 Bourke Street Melbourne 3000
+  branch_code: CLS
+  city: Melbourne
+  country: Australia
+- name: National Australia Bank Limited
+  swift: NATAAU33OBU
+  swift8: NATAAU33
+  branch_name: Offshore Banking Unit
+  branch_address: No branch address
+  branch_code: OBU
+  city: Melbourne
+  country: Australia
+- name: National Australia Bank Limited
+  swift: NATAAU33XXX
+  swift8: NATAAU33
+  branch_name: Head Office
+  branch_address: 500 Bourke Street Melbourne 3000
+  branch_code: XXX
+  city: Melbourne
+  country: Australia
+- name: National Australia Bank Limited
+  swift: NATAAU3306P
+  swift8: NATAAU33
+  branch_name: Trade and International Payments
+  branch_address: 50 St. Georges Terrace Perth 6000
+  branch_code: 06P
+  city: Perth
+  country: Australia
+- name: National Australia Bank Limited
+  swift: NATAAU3306Z
+  swift8: NATAAU33
+  branch_name: Perth, Bnza Division
+  branch_address: 30, the Esplanade Perth 6000
+  branch_code: 06Z
+  city: Perth
+  country: Australia
+- name: National Australia Bank Limited
+  swift: NATAAU3302S
+  swift8: NATAAU33
+  branch_name: Trade and International Payments
+  branch_address: Building B, Rhodes Corporate Park Sydney 2138
+  branch_code: 02S
+  city: Sydney
+  country: Australia
+- name: National Australia Bank Limited
+  swift: NATAAU3302X
+  swift8: NATAAU33
+  branch_name: Custodian Services
+  branch_address: 23 Hunter Street Sydney 2000
+  branch_code: 02X
+  city: Sydney
+  country: Australia
+- name: National Australia Bank Limited
+  swift: NATAAU3302Z
+  swift8: NATAAU33
+  branch_name: Sydney, Bnza Division
+  branch_address: 333-339 George Street Sydney 2000
+  branch_code: 02Z
+  city: Sydney
+  country: Australia
+- name: National Australia Bank Limited
+  swift: NATAAU3302J
+  swift8: NATAAU33
+  branch_name: Bilateral Authentication Key Management Office
+  branch_address: 122 Lewis Road Wantirna South 2000
+  branch_code: 02J
+  city: Wantirna South
+  country: Australia
+- name: Oversea-Chinese Banking Corporation Limited
+  swift: OCBCAU2SXXX
+  swift8: OCBCAU2S
+  branch_name: Head Office
+  branch_address: Ocbc Building Sydney 2000
+  branch_code: XXX
+  city: Sydney
+  country: Australia
+- name: Rabobank Australia Branch
+  swift: RABOAUSSXXX
+  swift8: RABOAUSS
+  branch_name: Head Office
+  branch_address: Darling Park Tower 3 Sydney 2000
+  branch_code: XXX
+  city: Sydney
+  country: Australia
+- name: Rabobank Australia Limited (Formerly Piba)
+  swift: RABOAU2BXXX
+  swift8: RABOAU2B
+  branch_name: Head Office
+  branch_address: 115 Pitt Street Sydney 2000
+  branch_code: XXX
+  city: Sydney
+  country: Australia
+- name: Rbc Dexia Investor Services Trust
+  swift: ROYCAUSGCSL
+  swift8: ROYCAUSG
+  branch_name: Rbc Dexia Platform Client
+  branch_address: 2 Park Street, Sydney Sydney 2000
+  branch_code: CSL
+  city: Sydney
+  country: Australia
+- name: Rbc Dexia Investor Services Trust
+  swift: ROYCAUSGNTH
+  swift8: ROYCAUSG
+  branch_name: Rbc Dexia Platform Client
+  branch_address: 2 Park Street Sydney Sydney 2000
+  branch_code: NTH
+  city: Sydney
+  country: Australia
+- name: Rbc Dexia Investor Services Trust
+  swift: ROYCAUSGPWF
+  swift8: ROYCAUSG
+  branch_name: Rbc Dexia Platform Client
+  branch_address: 2 Park Street Sydney Sydney 2000
+  branch_code: PWF
+  city: Sydney
+  country: Australia
+- name: Rbc Dexia Investor Services Trust
+  swift: ROYCAUSGSUM
+  swift8: ROYCAUSG
+  branch_name: Rbc Dexia Platform Client
+  branch_address: 2 Park Street Sydney Sydney 2000
+  branch_code: SUM
+  city: Sydney
+  country: Australia
+- name: Rbc Dexia Investor Services Trust
+  swift: ROYCAUSGTLK
+  swift8: ROYCAUSG
+  branch_name: Rbc Dexia Platform Client
+  branch_address: 2 Park Street, Sydney Sydney 2000
+  branch_code: TLK
+  city: Sydney
+  country: Australia
+- name: Rbc Dexia Investor Services Trust
+  swift: ROYCAUSGXXX
+  swift8: ROYCAUSG
+  branch_name: Head Office
+  branch_address: 2 Park Street Sydney 2000
+  branch_code: XXX
+  city: Sydney
+  country: Australia
+- name: Rbc Dexia Investor Services Trust
+  swift: ROYCAUSSXXX
+  swift8: ROYCAUSS
+  branch_name: Head Office
+  branch_address: 2 Park Street Sydney 2000
+  branch_code: XXX
+  city: Sydney
+  country: Australia
+- name: Rbc Dexia Investor Services Trust
+  swift: ROYCAU31XXX
+  swift8: ROYCAU31
+  branch_name: Head Office
+  branch_address: 2 Park Street Sydney 2000
+  branch_code: XXX
+  city: Sydney
+  country: Australia
+- name: Rbs Group (Australia) Pty Limited
+  swift: ABNAAU2SOBU
+  swift8: ABNAAU2S
+  branch_name: Offshore Banking Unit
+  branch_address: Abn Amro Tower Sydney 2000
+  branch_code: OBU
+  city: Sydney
+  country: Australia
+- name: Reserve Bank Of Australia
+  swift: RSBKAU2SXXX
+  swift8: RSBKAU2S
+  branch_name: Head Office
+  branch_address: Sydney
+  branch_code: XXX
+  city: Sydney
+  country: Australia
+- name: Royal Bank Of Canada
+  swift: ROYCAU2SXXX
+  swift8: ROYCAU2S
+  branch_name: Head Office
+  branch_address: Citigroup Centre Sydney 2000
+  branch_code: XXX
+  city: Sydney
+  country: Australia
+- name: Royal Bank Of Canada
+  swift: RBDOAUB1XXX
+  swift8: RBDOAUB1
+  branch_name: Head Office
+  branch_address: 2 Park Street Sydney
+  branch_code: XXX
+  city: Sydney
+  country: Australia
+- name: Royal Bank Of Scotland Plc
+  swift: RBOSAU2SXXX
+  swift8: RBOSAU2S
+  branch_name: Head Office
+  branch_address: Australia Square Tower Sydney 2000
+  branch_code: XXX
+  city: Sydney
+  country: Australia
+- name: Royal Bank Of Scotland Plc
+  swift: RBOSAU2XXXX
+  swift8: RBOSAU2X
+  branch_name: Head Office
+  branch_address: Rbs Tower Sydney 2000
+  branch_code: XXX
+  city: Sydney
+  country: Australia
+- name: St.George Bank, A Division Of Westpac Banking Corporation
+  swift: SGBLAU2SXXX
+  swift8: SGBLAU2S
+  branch_name: Head Office
+  branch_address: 55 Market Street Sydney 2000
+  branch_code: XXX
+  city: Sydney
+  country: Australia
+- name: Standard Chartered Bank, Australia
+  swift: SCBLAU2SXXX
+  swift8: SCBLAU2S
+  branch_name: Head Office
+  branch_address: Landmark Building Sydney 2000
+  branch_code: XXX
+  city: Sydney
+  country: Australia
+- name: State Bank Of India
+  swift: SBINAU2SXXX
+  swift8: SBINAU2S
+  branch_name: Head Office
+  branch_address: Suite 2 and 3 Sydney 2000
+  branch_code: XXX
+  city: Sydney
+  country: Australia
+- name: State Street Bank And Trust Company, Sydney Branch
+  swift: SBOSAU2XOBU
+  swift8: SBOSAU2X
+  branch_name: Offshore Banking Unit
+  branch_address: Aurora Place Sydney 2000
+  branch_code: OBU
+  city: Sydney
+  country: Australia
+- name: State Street Bank And Trust Company, Sydney Branch
+  swift: SBOSAU2XXXX
+  swift8: SBOSAU2X
+  branch_name: Head Office
+  branch_address: Aurora Place Sydney 2000
+  branch_code: XXX
+  city: Sydney
+  country: Australia
+- name: Sumitomo Mitsui Banking Corporation Sydney Branch
+  swift: SMBCAU2SXXX
+  swift8: SMBCAU2S
+  branch_name: Head Office
+  branch_address: The Chifley Tower 2 Sydney 2000
+  branch_code: XXX
+  city: Sydney
+  country: Australia
+- name: Suncorp-Metway Limited
+  swift: METWAU4BFCS
+  swift8: METWAU4B
+  branch_name: Retail Foreign Currency Services
+  branch_address: Brisbane
+  branch_code: FCS
+  city: Brisbane
+  country: Australia
+- name: Suncorp-Metway Limited
+  swift: METWAU4BITF
+  swift8: METWAU4B
+  branch_name: International Trade Finance
+  branch_address: Brisbane
+  branch_code: ITF
+  city: Brisbane
+  country: Australia
+- name: Suncorp-Metway Limited
+  swift: METWAU4BTSY
+  swift8: METWAU4B
+  branch_name: Treasury Operations
+  branch_address: Brisbane
+  branch_code: TSY
+  city: Brisbane
+  country: Australia
+- name: Suncorp-Metway Limited
+  swift: METWAU4BXXX
+  swift8: METWAU4B
+  branch_name: Head Office
+  branch_address: Suncorp Metway Center Brisbane 4000
+  branch_code: XXX
+  city: Brisbane
+  country: Australia
+- name: Swiss Reinsurance Company
+  swift: SWREAU2SXXX
+  swift8: SWREAU2S
+  branch_name: Head Office
+  branch_address: 363 George Street Sydney 2000
+  branch_code: XXX
+  city: Sydney
+  country: Australia
+- name: Taiwan Business Bank, Sydney Branch
+  swift: MBBTAU2SXXX
+  swift8: MBBTAU2S
+  branch_name: Head Office
+  branch_address: 363 George Street Sydney 2000
+  branch_code: XXX
+  city: Sydney
+  country: Australia
+- name: Taiwan Cooperative Bank Sydney Branch
+  swift: TACBAU2SXXX
+  swift8: TACBAU2S
+  branch_name: Head Office
+  branch_address: Carrington Street 50 Sydney 2000
+  branch_code: XXX
+  city: Sydney
+  country: Australia
+- name: The Bank Of New York Mellon, Sydney
+  swift: BNYMAU2SCTA
+  swift8: BNYMAU2S
+  branch_name: Sydney
+  branch_address: Sydney
+  branch_code: CTA
+  city: Sydney
+  country: Australia
+- name: The Bank Of New York Mellon, Sydney
+  swift: BNYMAU2SXXX
+  swift8: BNYMAU2S
+  branch_name: Head Office
+  branch_address: 35 Clarence Street Sydney 2000
+  branch_code: XXX
+  city: Sydney
+  country: Australia
+- name: The Hongkong And Shanghai Banking Corporation Limited, Australian Branch
+  swift: HSBCAU2SCLS
+  swift8: HSBCAU2S
+  branch_name: Cls Division
+  branch_address: Sydney
+  branch_code: CLS
+  city: Sydney
+  country: Australia
+- name: The Hongkong And Shanghai Banking Corporation Limited, Australian Branch
+  swift: HSBCAU2SXXX
+  swift8: HSBCAU2S
+  branch_name: Head Office
+  branch_address: Hsbc Centre Sydney 2000
+  branch_code: XXX
+  city: Sydney
+  country: Australia
+- name: The Hongkong And Shanghai Banking Corporation Limited, Australian Branch
+  swift: HSBCAU2SBAP
+  swift8: HSBCAU2S
+  branch_name: Australian Branch
+  branch_address: Sydney
+  branch_code: BAP
+  city: Sydney
+  country: Australia
+- name: The Royal Bank Of Scotland N.V. (Australia)
+  swift: ABNAAU2BXXX
+  swift8: ABNAAU2B
+  branch_name: Head Office
+  branch_address: Rbs Tower Sydney 2000
+  branch_code: XXX
+  city: Sydney
+  country: Australia
+- name: Travelex Gbp Australia Pty Ltd
+  swift: COOKAU2SXXX
+  swift8: COOKAU2S
+  branch_name: Head Office
+  branch_address: 1 Margaret Street Sydney Nsw 2000
+  branch_code: XXX
+  city: Sydney
+  country: Australia
+- name: Travelex Ltd
+  swift: TRAVAU21XXX
+  swift8: TRAVAU21
+  branch_name: Head Office
+  branch_address: 1 Margaret Street Sydney 2000
+  branch_code: XXX
+  city: Sydney
+  country: Australia
+- name: Ubs Ag Australia Branch
+  swift: UBSWAU2SFOA
+  swift8: UBSWAU2S
+  branch_name: Branch Foa
+  branch_address: Sydney
+  branch_code: FOA
+  city: Sydney
+  country: Australia
+- name: Ubs Ag Australia Branch
+  swift: UBSWAU2SOBU
+  swift8: UBSWAU2S
+  branch_name: Off Bank Unit
+  branch_address: Royal Exchange Sydney 2000
+  branch_code: OBU
+  city: Sydney
+  country: Australia
+- name: Ubs Ag Australia Branch
+  swift: UBSWAU2SXXX
+  swift8: UBSWAU2S
+  branch_name: Head Office
+  branch_address: Governor Phillip Tower Sydney 2000
+  branch_code: XXX
+  city: Sydney
+  country: Australia
+- name: United Overseas Bank Ltd
+  swift: UOVBAU2SXXX
+  swift8: UOVBAU2S
+  branch_name: Head Office
+  branch_address: 32 Martin Place Sydney 2000
+  branch_code: XXX
+  city: Sydney
+  country: Australia
+- name: Westlb, Sydney Branch
+  swift: WELAAU2SXXX
+  swift8: WELAAU2S
+  branch_name: Head Office
+  branch_address: 7 Macquarie Place Sydney 2000
+  branch_code: XXX
+  city: Sydney
+  country: Australia
+- name: Westpac Banking Corporation
+  swift: WPACAU2FOBU
+  swift8: WPACAU2F
+  branch_name: Offshore Banking Unit
+  branch_address: 55 Market Street Sydney 2000
+  branch_code: OBU
+  city: Sydney
+  country: Australia
+- name: Westpac Banking Corporation
+  swift: WPACAU2FXXX
+  swift8: WPACAU2F
+  branch_name: Head Office
+  branch_address: National Communications Centre Sydney 2150
+  branch_code: XXX
+  city: Sydney
+  country: Australia
+- name: Westpac Banking Corporation
+  swift: WPACAU2SXXX
+  swift8: WPACAU2S
+  branch_name: For All New South Wales Branches
+  branch_address: 55 Market Street Sydney 2000
+  branch_code: XXX
+  city: Sydney
+  country: Australia
+- name: Woori Bank
+  swift: HVBKAU2SXXX
+  swift8: HVBKAU2S
+  branch_name: Head Office
+  branch_address: 363 George Street Sydney 2000
+  branch_code: XXX
+  city: ''
+  country: Australia
+- name: 1770 Capital Partners
+  swift: CPANAU21XXX
+  swift8: CPANAU21
+  branch_name: Head Office
+  branch_address: 801/185 Macquarie Street Sydney Nsw 2000
+  branch_code: XXX
+  city: Sydney
+  country: Australia
+- name: 90 West Asset Management Ltd
+  swift: WEAEAU31XXX
+  swift8: WEAEAU31
+  branch_name: Head Office
+  branch_address: 454 Collins St Melbourne 3000
+  branch_code: XXX
+  city: Melbourne
+  country: Australia
+- name: A.b.s. White And Co. Ltd.
+  swift: ABWHAU21XXX
+  swift8: ABWHAU21
+  branch_name: Head Office
+  branch_address: 12 Castlereagh Street Sydney 2000
+  branch_code: XXX
+  city: Sydney
+  country: Australia
+- name: Aaa Shares Pty Ltd
+  swift: MOFCAU51XXX
+  swift8: MOFCAU51
+  branch_name: Head Office
+  branch_address: Tattersalls Chambers Adelaide 5000
+  branch_code: XXX
+  city: Adelaide
+  country: Australia
+- name: Aberdeen Asset Management Ltd
+  swift: ABEMAU21XXX
+  swift8: ABEMAU21
+  branch_name: Head Office
+  branch_address: Maritime Trade Towers Sydney 2000
+  branch_code: XXX
+  city: Sydney
+  country: Australia
+- name: Abn Amro Clearing Sydney Pty Ltd. (formely Known As Fortis Clearing Sydney
+    Pty Ltd
+  swift: FCSPAU21XXX
+  swift8: FCSPAU21
+  branch_name: Head Office
+  branch_address: 5 Elizabeth Street Sydney 2000
+  branch_code: XXX
+  city: Sydney
+  country: Australia
+- name: Acorn Capital
+  swift: ACCAAU31XXX
+  swift8: ACCAAU31
+  branch_name: Head Office
+  branch_address: 90 Collins Street Melbourne 3000
+  branch_code: XXX
+  city: Melbourne
+  country: Australia
+- name: Acs Broker Services Limited
+  swift: ACBRAU31XXX
+  swift8: ACBRAU31
+  branch_name: Head Office
+  branch_address: Rialto North Tower Melbourne 3000
+  branch_code: XXX
+  city: Melbourne
+  country: Australia
+- name: Advance Asset Management Limited
+  swift: AAMNAU21XXX
+  swift8: AAMNAU21
+  branch_name: Head Office
+  branch_address: 182 George Street Sydney 2000
+  branch_code: XXX
+  city: Sydney
+  country: Australia
+- name: Agora Asset Management Pty Ltd
+  swift: AGAMAU31XXX
+  swift8: AGAMAU31
+  branch_name: Head Office
+  branch_address: 350 Collins Street Melbourne 3000
+  branch_code: XXX
+  city: Melbourne
+  country: Australia
+- name: Airlie Funds Management Pty Ltd
+  swift: AFMTAUS1XXX
+  swift8: AFMTAUS1
+  branch_name: Head Office
+  branch_address: Challis House Sydney Nsw 2000
+  branch_code: XXX
+  city: Sydney
+  country: Australia
+- name: Alpha Investment Management Pty Ltd
+  swift: AIMPAU31XXX
+  swift8: AIMPAU31
+  branch_name: Head Office
+  branch_address: 350 Collins Street Melbourne 3000
+  branch_code: XXX
+  city: Melbourne
+  country: Australia
+- name: Amp Capital Investors Limted
+  swift: AMCIAU21BSW
+  swift8: AMCIAU21
+  branch_name: Basket Swaps Trans
+  branch_address: Sydney
+  branch_code: BSW
+  city: Sydney
+  country: Australia
+- name: Amp Capital Investors Limted
+  swift: AMCIAU21UDP
+  swift8: AMCIAU21
+  branch_name: Ut Pay Direction
+  branch_address: Sydney
+  branch_code: UDP
+  city: Sydney
+  country: Australia
+- name: Amp Capital Investors Limted
+  swift: AMCIAU21UNC
+  swift8: AMCIAU21
+  branch_name: Ut No Cash
+  branch_address: Sydney
+  branch_code: UNC
+  city: Sydney
+  country: Australia
+- name: Amp Capital Investors Limted
+  swift: AMCIAU21UST
+  swift8: AMCIAU21
+  branch_name: Ut Standard
+  branch_address: Sydney
+  branch_code: UST
+  city: Sydney
+  country: Australia
+- name: Amp Capital Investors Limted
+  swift: AMCIAU2XXXX
+  swift8: AMCIAU2X
+  branch_name: Head Office
+  branch_address: 50 Bridge Street Sydney 2000
+  branch_code: XXX
+  city: Sydney
+  country: Australia
+- name: Amp Life Limited
+  swift: AMLIAU21CMT
+  swift8: AMLIAU21
+  branch_name: Sydney
+  branch_address: Sydney
+  branch_code: CMT
+  city: Sydney
+  country: Australia
+- name: Amp Life Limited
+  swift: AMLIAU21XXX
+  swift8: AMLIAU21
+  branch_name: Head Office
+  branch_address: 33 Alfred Street Sydney 2000
+  branch_code: XXX
+  city: Sydney
+  country: Australia
+- name: Andrew West And Co Limited
+  swift: ANWEAU21XXX
+  swift8: ANWEAU21
+  branch_name: Head Office
+  branch_address: Angel Place Sydney 2000
+  branch_code: XXX
+  city: Sydney
+  country: Australia
+- name: Anz Securities Limited
+  swift: ANZSAU31XXX
+  swift8: ANZSAU31
+  branch_name: Head Office
+  branch_address: 530 Collins Street Melbourne 3000
+  branch_code: XXX
+  city: Melbourne
+  country: Australia
+- name: Aot Australia Pty Ltd
+  swift: AOAPAU21XXX
+  swift8: AOAPAU21
+  branch_name: Head Office
+  branch_address: 5 Elizabeth Street Sydney 2000
+  branch_code: XXX
+  city: Sydney
+  country: Australia
+- name: Apn Funds Management Limited
+  swift: APFNAU31XXX
+  swift8: APFNAU31
+  branch_name: Head Office
+  branch_address: 101 Collins Street Melbourne 3000
+  branch_code: XXX
+  city: Melbourne
+  country: Australia
+- name: Argonaut Securities Pty Limited
+  swift: AREEAU61XXX
+  swift8: AREEAU61
+  branch_name: Head Office
+  branch_address: Allendale Square Perth 6000
+  branch_code: XXX
+  city: Perth
+  country: Australia
+- name: Arnhem Investment Management
+  swift: AIMGAU21XXX
+  swift8: AIMGAU21
+  branch_name: Head Office
+  branch_address: Pitt Street 56 Sydney 2000
+  branch_code: XXX
+  city: Sydney
+  country: Australia
+- name: Arrium Finance Pty Limited
+  swift: ARUMAU2SXXX
+  swift8: ARUMAU2S
+  branch_name: Head Office
+  branch_address: George Street 259 Sydney 2000
+  branch_code: XXX
+  city: Sydney
+  country: Australia
+- name: Asteron
+  swift: ASTEAU21XXX
+  swift8: ASTEAU21
+  branch_name: Head Office
+  branch_address: Asteron Sydney 2000
+  branch_code: XXX
+  city: Sydney
+  country: Australia
+- name: Asx Settlement And Transfer Corporation Pty Limited
+  swift: CAETAU21XXX
+  swift8: CAETAU21
+  branch_name: Head Office
+  branch_address: 20 Bridge Street Sydney 2000
+  branch_code: XXX
+  city: Sydney
+  country: Australia
+- name: Atom Funds Management Ltd
+  swift: ATFAAU21XXX
+  swift8: ATFAAU21
+  branch_name: Head Office
+  branch_address: Bligh Chambers Sydney 2000
+  branch_code: XXX
+  city: Sydney
+  country: Australia
+- name: Attunga Capital Pty Ltd
+  swift: ATCYAU21XXX
+  swift8: ATCYAU21
+  branch_name: Head Office
+  branch_address: Chifley Tower Sydney 2000
+  branch_code: XXX
+  city: Sydney
+  country: Australia
+- name: Ausbil Dexia Limited
+  swift: AUSDAU21XXX
+  swift8: AUSDAU21
+  branch_name: Head Office
+  branch_address: Veritas House Sydney 2000
+  branch_code: XXX
+  city: Sydney
+  country: Australia
+- name: Auspac Securities Ltd.
+  swift: AUSEAU21XXX
+  swift8: AUSEAU21
+  branch_name: Head Office
+  branch_address: 2 Oconnell Street Sydney 2000
+  branch_code: XXX
+  city: Sydney
+  country: Australia
+- name: Austock Securities Limited
+  swift: AUBPAU31XXX
+  swift8: AUBPAU31
+  branch_name: Head Office
+  branch_address: 350 Collins Street Melbourne 3000
+  branch_code: XXX
+  city: Melbourne
+  country: Australia
+- name: Australian Bullion Exchange Limited Trading As Abx Global
+  swift: ABXAAU41XXX
+  swift8: ABXAAU41
+  branch_name: Head Office
+  branch_address: Market Street 10 Brisbane 4000
+  branch_code: XXX
+  city: Brisbane
+  country: Australia
+- name: Australian Clearing Exchange Pty Ltd
+  swift: RDSPAU21XXX
+  swift8: RDSPAU21
+  branch_name: Head Office
+  branch_address: 2 Park Street Sydney 2000
+  branch_code: XXX
+  city: Sydney
+  country: Australia
+- name: Australian Ethical Investment Ltd
+  swift: AUEIAU21XXX
+  swift8: AUEIAU21
+  branch_name: Head Office
+  branch_address: Canberra Business Ctr Canberra 2602
+  branch_code: XXX
+  city: Canberra
+  country: Australia
+- name: Australian Executor Trustees Limite
+  swift: AETLAUSXXXX
+  swift8: AETLAUSX
+  branch_name: Head Office
+  branch_address: Kent Street 207 Sydney 2000
+  branch_code: XXX
+  city: Sydney
+  country: Australia
+- name: Australian Industry Development Corporation
+  swift: AUIDAU21XXX
+  swift8: AUIDAU21
+  branch_name: Head Office
+  branch_address: Aidc Tower Sydney 2000
+  branch_code: XXX
+  city: Sydney
+  country: Australia
+- name: Australian Investment Exchange
+  swift: AUIEAU61XXX
+  swift8: AUIEAU61
+  branch_name: Head Office
+  branch_address: 141 St Georges Terrace Perth 6000
+  branch_code: XXX
+  city: Perth
+  country: Australia
+- name: Australian Market Automated Quotation (ausmaq) System Limited
+  swift: AUSQAU21XXX
+  swift8: AUSQAU21
+  branch_name: Head Office
+  branch_address: Powertel Sydney 2000
+  branch_code: XXX
+  city: Sydney
+  country: Australia
+- name: Australian Unity Funds Management
+  swift: AUUNAU3MXXX
+  swift8: AUUNAU3M
+  branch_name: Aim-Poms Service
+  branch_address: 114 Albert Road Melbourne 3205
+  branch_code: XXX
+  city: Melbourne
+  country: Australia
+- name: Aviva Investors Australia Limited
+  swift: AVIUAU31XXX
+  swift8: AVIUAU31
+  branch_name: Head Office
+  branch_address: Freshwater Place Southbank 3006
+  branch_code: XXX
+  city: Southbank
+  country: Australia
+- name: Baker Young Stockbrokers Limited
+  swift: BAYSAU51XXX
+  swift8: BAYSAU51
+  branch_name: Head Office
+  branch_address: 81 Flinders Street Adelaide 50000
+  branch_code: XXX
+  city: Adelaide
+  country: Australia
+- name: Balanced Equity Management Pty Limited
+  swift: BEMTAU31XXX
+  swift8: BEMTAU31
+  branch_name: Head Office
+  branch_address: 101 Collins Street Melbourne 3000
+  branch_code: XXX
+  city: Melbourne
+  country: Australia
+- name: Bankinvest
+  swift: BSYDAU21XXX
+  swift8: BSYDAU21
+  branch_name: Head Office
+  branch_address: Alfred Street 1 Sydney 2000
+  branch_code: XXX
+  city: Sydney
+  country: Australia
+- name: Bell First Pacific Limited
+  swift: HENDAU41XXX
+  swift8: HENDAU41
+  branch_name: Head Office
+  branch_address: Amp Place Brisbane 4000
+  branch_code: XXX
+  city: Brisbane
+  country: Australia
+- name: Bell Potter Securities
+  swift: BPFXAU31XXX
+  swift8: BPFXAU31
+  branch_name: Head Office
+  branch_address: 101 Collins Street Melbourne 3000
+  branch_code: XXX
+  city: Melbourne
+  country: Australia
+- name: Bell Potter Securities
+  swift: BPFXAU3MXXX
+  swift8: BPFXAU3M
+  branch_name: Head Office
+  branch_address: 101 Collins Street Melbourne 3000
+  branch_code: XXX
+  city: Melbourne
+  country: Australia
+- name: Bell Potter Securities Limited
+  swift: JOTPAU31XXX
+  swift8: JOTPAU31
+  branch_name: Head Office
+  branch_address: State One House Melbourne 3000
+  branch_code: XXX
+  city: Melbourne
+  country: Australia
+- name: Bellwether Partners Ltd
+  swift: BEPTAU31XXX
+  swift8: BEPTAU31
+  branch_name: Head Office
+  branch_address: 63 Exhibition Street Melbourne 3000
+  branch_code: XXX
+  city: Melbourne
+  country: Australia
+- name: Bennelong Funds Management Ltd
+  swift: BEFMAU31XXX
+  swift8: BEFMAU31
+  branch_name: Head Office
+  branch_address: Bennelong House Melbourne 3000
+  branch_code: XXX
+  city: Melbourne
+  country: Australia
+- name: Betashares Capital Ltd
+  swift: BEAIAUS1XXX
+  swift8: BEAIAUS1
+  branch_name: Head Office
+  branch_address: Margaret Street Sydney 2000
+  branch_code: XXX
+  city: Sydney
+  country: Australia
+- name: Beulah Capital
+  swift: BEUAAU31XXX
+  swift8: BEUAAU31
+  branch_name: Head Office
+  branch_address: 30 Collins Street Melbourne 3000
+  branch_code: XXX
+  city: Melbourne
+  country: Australia
+- name: Bgc Partners (australia) Pty Ltd
+  swift: BPUPAU21XXX
+  swift8: BPUPAU21
+  branch_name: Head Office
+  branch_address: Mlc Centre Sydney 2000
+  branch_code: XXX
+  city: Sydney
+  country: Australia
+- name: Biam Australia Pty Ltd
+  swift: BAUPAU31XXX
+  swift8: BAUPAU31
+  branch_name: Head Office
+  branch_address: 492 St Kilda Road Melbourne 3004
+  branch_code: XXX
+  city: Melbourne
+  country: Australia
+- name: Blackrock Asset Management Australia Limited
+  swift: BGIAAU2SXXX
+  swift8: BGIAAU2S
+  branch_name: Head Office
+  branch_address: Grosvenor Place Sydney 2000
+  branch_code: XXX
+  city: Sydney
+  country: Australia
+- name: Bnp Paribas Securities Services, (australia Branch
+  swift: PARBAU2SISI
+  swift8: PARBAU2S
+  branch_name: Securities Services Sydney Global Custody
+  branch_address: Sydney
+  branch_code: ISI
+  city: Sydney
+  country: Australia
+- name: Bnp Paribas Securities Services, (australia Branch
+  swift: PARBAU2SLCC
+  swift8: PARBAU2S
+  branch_name: Securities Services Sydney Local Custody
+  branch_address: Sydney
+  branch_code: LCC
+  city: Sydney
+  country: Australia
+- name: Bnp Paribas Securities Services, (australia Branch
+  swift: PARBAU2SMCY
+  swift8: PARBAU2S
+  branch_name: Securities Services Sydney Master Custody
+  branch_address: Sydney
+  branch_code: MCY
+  city: Sydney
+  country: Australia
+- name: Bnp Paribas Securities Services, (australia Branch
+  swift: PARBAU2SNZL
+  swift8: PARBAU2S
+  branch_name: Bp2s Australia-New Zealand Activity
+  branch_address: No branch address
+  branch_code: NZL
+  city: Sydney
+  country: Australia
+- name: Bny Australia Ltd.
+  swift: BONYAU21XXX
+  swift8: BONYAU21
+  branch_name: Head Office
+  branch_address: Sydney
+  branch_code: XXX
+  city: Sydney
+  country: Australia
+- name: Bny Mellon Asset Management Australia Limited
+  swift: MGIVAU21XXX
+  swift8: MGIVAU21
+  branch_name: Head Office
+  branch_address: 7 Macquarie Place Sydney 2000
+  branch_code: XXX
+  city: Sydney
+  country: Australia
+- name: Bridges Financial Services Pty Ltd
+  swift: BFSPAU21XXX
+  swift8: BFSPAU21
+  branch_name: Head Office
+  branch_address: 207 Kent Street Sydney 2000
+  branch_code: XXX
+  city: Sydney
+  country: Australia
+- name: British American Tobacco Australia Ltd
+  swift: BATSAUA1XXX
+  swift8: BATSAUA1
+  branch_name: Head Office
+  branch_address: Virginia Park Eastgardens 2036
+  branch_code: XXX
+  city: Eastgardens
+  country: Australia
+- name: British American Tobacco Manufacturing Australia Pty Ltd
+  swift: BATSAUB1XXX
+  swift8: BATSAUB1
+  branch_name: Head Office
+  branch_address: Virginia Park Eastgardens 2036
+  branch_code: XXX
+  city: Eastgardens
+  country: Australia
+- name: Bt Australia Pty Ltd
+  swift: BUTAAU21XXX
+  swift8: BUTAAU21
+  branch_name: Head Office
+  branch_address: Chifley Tower Sydney Nsw 2000
+  branch_code: XXX
+  city: Sydney
+  country: Australia
+- name: Bt Funds Management Limited
+  swift: FUMAAU21XXX
+  swift8: FUMAAU21
+  branch_name: Head Office
+  branch_address: Chifley Tower Sydney 2000
+  branch_code: XXX
+  city: Sydney
+  country: Australia
+- name: Bt Investment Management (re) Limited
+  swift: IVMMAUS1XXX
+  swift8: IVMMAUS1
+  branch_name: Head Office
+  branch_address: The Chifley Tower Sydney 2000
+  branch_code: XXX
+  city: Sydney
+  country: Australia
+- name: Btig Australia Limited
+  swift: BTAUAU21XXX
+  swift8: BTAUAU21
+  branch_name: Head Office
+  branch_address: 15 Lime Street, King Street Wharf Sydney 2000
+  branch_code: XXX
+  city: Sydney
+  country: Australia
+- name: Bungeeltap Investments Pty Ltd
+  swift: FASTAU31XXX
+  swift8: FASTAU31
+  branch_name: Head Office
+  branch_address: 440 Collins Street Melbourne 3000
+  branch_code: XXX
+  city: Melbourne
+  country: Australia
+- name: Burdett Buckeridge Young Limited
+  swift: BUBYAU21XXX
+  swift8: BUBYAU21
+  branch_name: Head Office
+  branch_address: Westpac Plaza Sydney 2000
+  branch_code: XXX
+  city: Sydney
+  country: Australia
+- name: Caledonia Investments Pty Ltd
+  swift: CALIAU21XXX
+  swift8: CALIAU21
+  branch_name: Head Office
+  branch_address: 1 Alfred St Sydney 2000
+  branch_code: XXX
+  city: Sydney
+  country: Australia
+- name: Cameron Securities Pty. Limited
+  swift: CMSCAU21XXX
+  swift8: CMSCAU21
+  branch_name: Head Office
+  branch_address: Abn Amro House Sydney Nsw 2000
+  branch_code: XXX
+  city: Sydney
+  country: Australia
+- name: Canaccord Genuity (australia) Limited
+  swift: CAYAAU31XXX
+  swift8: CAYAAU31
+  branch_name: Head Office
+  branch_address: Rba Melbourne 3000
+  branch_code: XXX
+  city: Melbourne
+  country: Australia
+- name: Cass Comm Limited
+  swift: ICLFAU3105A
+  swift8: ICLFAU31
+  branch_name: Adelaide
+  branch_address: Adelaide
+  branch_code: 05A
+  city: Adelaide
+  country: Australia
+- name: Cass Comm Limited
+  swift: ICLFAU31XXX
+  swift8: ICLFAU31
+  branch_name: Head Office
+  branch_address: 73 York Street Sydney
+  branch_code: XXX
+  city: Sydney
+  country: Australia
+- name: Cb-clpf Limited
+  swift: IMORAU21XXX
+  swift8: IMORAU21
+  branch_name: Head Office
+  branch_address: 50 Bridge Street Sydney 2000
+  branch_code: XXX
+  city: Sydney
+  country: Australia
+- name: Cba Equities Limited
+  swift: CBEQAU21XXX
+  swift8: CBEQAU21
+  branch_name: Head Office
+  branch_address: 201 Sussex Street Sydney 2000
+  branch_code: XXX
+  city: Sydney
+  country: Australia
+- name: Ccz Statton Equities Pty Ltd
+  swift: CSEPAU21XXX
+  swift8: CSEPAU21
+  branch_name: Head Office
+  branch_address: 9 Hunter Street Sydney 2000
+  branch_code: XXX
+  city: Sydney
+  country: Australia
+- name: Ceres Capital Pty Ltd
+  swift: CECYAU31XXX
+  swift8: CECYAU31
+  branch_name: Head Office
+  branch_address: 55 Collins Street Melbourne 3000
+  branch_code: XXX
+  city: Melbourne
+  country: Australia
+- name: Challenger Financial Services Group Limited
+  swift: CFSGAU21XXX
+  swift8: CFSGAU21
+  branch_name: Head Office
+  branch_address: Aurora Place Sydney 2000
+  branch_code: XXX
+  city: Sydney
+  country: Australia
+- name: Challenger Group Services Pty Ltd
+  swift: CHLGAU2SXXX
+  swift8: CHLGAU2S
+  branch_name: Head Office
+  branch_address: Aurora Place Sydney 2000
+  branch_code: XXX
+  city: Sydney
+  country: Australia
+- name: Chifley Financial Services Ltd
+  swift: CFSEAU21XXX
+  swift8: CFSEAU21
+  branch_name: Head Office
+  branch_address: 28 Margaret Street Sydney 2000
+  branch_code: XXX
+  city: Sydney
+  country: Australia
+- name: Chimaera Capital Limited
+  swift: CHPTAU31XXX
+  swift8: CHPTAU31
+  branch_name: Head Office
+  branch_address: Collins Street Melbourne
+  branch_code: XXX
+  city: Melbourne
+  country: Australia
+- name: Citi Smith Barney Pty Limited
+  swift: SBCUAU21XXX
+  swift8: SBCUAU21
+  branch_name: Head Office
+  branch_address: Citigroup Centre Sydney 2000
+  branch_code: XXX
+  city: Sydney
+  country: Australia
+- name: Citic Pacific Mining Management Pty Limited
+  swift: CPMMAU6PXXX
+  swift8: CPMMAU6P
+  branch_name: Head Office
+  branch_address: St Georges Terrace 99 Perth 6000
+  branch_code: XXX
+  city: Perth
+  country: Australia
+- name: Clsa Australia Pty Ltd
+  swift: CLSAAU21XXX
+  swift8: CLSAAU21
+  branch_name: Head Office
+  branch_address: 20 Hunter Street Sydney 2000
+  branch_code: XXX
+  city: Sydney
+  country: Australia
+- name: Cmc Markets Stockbroking Limited
+  swift: CMMTAU21XXX
+  swift8: CMMTAU21
+  branch_name: Head Office
+  branch_address: Govenor Phillip Tower Sydney 2000
+  branch_code: XXX
+  city: Sydney
+  country: Australia
+- name: Commonwealth Funds Management Limited
+  swift: COFGAU21XXX
+  swift8: COFGAU21
+  branch_name: Head Office
+  branch_address: Anz Centre Canberra 2601
+  branch_code: XXX
+  city: Canberra
+  country: Australia
+- name: Commonwealth Securities Ltd
+  swift: COEEAU21XXX
+  swift8: COEEAU21
+  branch_name: Head Office
+  branch_address: 363 George Street Sydney 2000
+  branch_code: XXX
+  city: Sydney
+  country: Australia
+- name: Computershare Fund Services
+  swift: CPUFAU31XXX
+  swift8: CPUFAU31
+  branch_name: Head Office
+  branch_address: Yarra Falls Abbotsford 3067
+  branch_code: XXX
+  city: Abbotsford
+  country: Australia
+- name: Computershare Fund Services
+  swift: CPUFAU3MXXX
+  swift8: CPUFAU3M
+  branch_name: Head Office
+  branch_address: Yarra Falls Abbotsford 3067
+  branch_code: XXX
+  city: Abbotsford
+  country: Australia
+- name: Comsec Trading Limited
+  swift: FISSAU21XXX
+  swift8: FISSAU21
+  branch_name: Head Office
+  branch_address: Grosvenor Place Sydney 2000
+  branch_code: XXX
+  city: Sydney
+  country: Australia
+- name: Concord Capital Limited
+  swift: CCPAAU21XXX
+  swift8: CCPAAU21
+  branch_name: Head Office
+  branch_address: Norwich House Sydney 2000
+  branch_code: XXX
+  city: Sydney
+  country: Australia
+- name: Conquest Securities Pty Ltd
+  swift: COCYAU71XXX
+  swift8: COCYAU71
+  branch_name: Head Office
+  branch_address: Murray Street Hobart 7000
+  branch_code: XXX
+  city: Hobart
+  country: Australia
+- name: Constellation Capital Management Limited
+  swift: COOAAU21XXX
+  swift8: COOAAU21
+  branch_name: Head Office
+  branch_address: 60 Castlereagh Street Sydney 2000
+  branch_code: XXX
+  city: Sydney
+  country: Australia
+- name: Contango Asset Management Limited
+  swift: CNANAU31XXX
+  swift8: CNANAU31
+  branch_name: Head Office
+  branch_address: 360 Collins Street Melbourne 3000
+  branch_code: XXX
+  city: Melbourne
+  country: Australia
+- name: Continuum Capital Management Limited
+  swift: CNCMAU21XXX
+  swift8: CNCMAU21
+  branch_name: Head Office
+  branch_address: 15 Castlereagh Street Sydney 2000
+  branch_code: XXX
+  city: Sydney
+  country: Australia
+- name: Cuscal Limited
+  swift: CUSCAU2SXXX
+  swift8: CUSCAU2S
+  branch_name: Head Office
+  branch_address: 1 Margaret Street Sydney 2000
+  branch_code: XXX
+  city: Sydney
+  country: Australia
+- name: Custody Execution And Clearing Services (australia) Pty Limited
+  swift: HSAPAU21XXX
+  swift8: HSAPAU21
+  branch_name: Head Office
+  branch_address: 580 George Street Sydney 2000
+  branch_code: XXX
+  city: Sydney
+  country: Australia
+- name: Custom Credit Copr. Ltd.
+  swift: CUCCAU21XXX
+  swift8: CUCCAU21
+  branch_name: Head Office
+  branch_address: 136 Exhibition Street Melbourne 2000
+  branch_code: XXX
+  city: Melbourne
+  country: Australia
+- name: Custom House Currency Exchange (australia) Pty Ltd
+  swift: CHFXAU2SXXX
+  swift8: CHFXAU2S
+  branch_name: Head Office
+  branch_address: 34 Hunter Street Sydney 2000
+  branch_code: XXX
+  city: Sydney
+  country: Australia
+- name: D J Carmichael Pty Limited
+  swift: CARHAU61XXX
+  swift8: CARHAU61
+  branch_name: Head Office
+  branch_address: Allendale Square Perth 6000
+  branch_code: XXX
+  city: Perth
+  country: Australia
+- name: D2mx Pty Ltd
+  swift: DTMXAU21XXX
+  swift8: DTMXAU21
+  branch_name: Head Office
+  branch_address: 2 Bligh St Sydney 2000
+  branch_code: XXX
+  city: Sydney
+  country: Australia
+- name: Daiwa Capital Markets Australia Limited
+  swift: DWHKAU31XXX
+  swift8: DWHKAU31
+  branch_name: Head Office
+  branch_address: Rialto North Tower Melbourne 3000
+  branch_code: XXX
+  city: Melbourne
+  country: Australia
+- name: Daiwa Capital Markets Stockbroking Limited
+  swift: DWSBAU31XXX
+  swift8: DWSBAU31
+  branch_name: Head Office
+  branch_address: Rialto North Melbourne 3000
+  branch_code: XXX
+  city: Melbourne
+  country: Australia
+- name: Dalton Nicol Reid
+  swift: DANDAU41XXX
+  swift8: DANDAU41
+  branch_name: Head Office
+  branch_address: 388 Queen Street Brisbane
+  branch_code: XXX
+  city: Brisbane
+  country: Australia
+- name: Darlington Investment Services
+  swift: DISEAU21XXX
+  swift8: DISEAU21
+  branch_name: Head Office
+  branch_address: 100 Clarence Street Sydney 2000
+  branch_code: XXX
+  city: Sydney
+  country: Australia
+- name: Deutsche Asset Management (australia) Limited
+  swift: MGALAU21XXX
+  swift8: MGALAU21
+  branch_name: Head Office
+  branch_address: Corner Hunter and Phillip Streets Sydney 2000
+  branch_code: XXX
+  city: Sydney
+  country: Australia
+- name: Deutsche Capital Markets Australia Ltd.
+  swift: DCMAAU2SXXX
+  swift8: DCMAAU2S
+  branch_name: Head Office
+  branch_address: Cnr of Hunter and Phillip Strets Sydney 2000
+  branch_code: XXX
+  city: Sydney
+  country: Australia
+- name: Deutsche Holdings Australia Limited
+  swift: BACLAU21XXX
+  swift8: BACLAU21
+  branch_name: Head Office
+  branch_address: Grosvenor Place Sydney 2000
+  branch_code: XXX
+  city: Sydney
+  country: Australia
+- name: Deutsche Securities
+  swift: DEECAU21XXX
+  swift8: DEECAU21
+  branch_name: Head Office
+  branch_address: Deutsche Bank Place Sydney 2000
+  branch_code: XXX
+  city: Sydney
+  country: Australia
+- name: Deutsche Securities Australia Limited
+  swift: DEUTAUT1XXX
+  swift8: DEUTAUT1
+  branch_name: Head Office
+  branch_address: Deutsche Bank Place Sydney
+  branch_code: XXX
+  city: Sydney
+  country: Australia
+- name: Deutsche Securities Australia Limited
+  swift: DMGSAU2SXXX
+  swift8: DMGSAU2S
+  branch_name: Head Office
+  branch_address: Grosvenor Place Sydney 2000
+  branch_code: XXX
+  city: Sydney
+  country: Australia
+- name: Dicksons Limited
+  swift: DICSAU21XXX
+  swift8: DICSAU21
+  branch_name: Head Office
+  branch_address: National Australia Bank House Sydney 2000
+  branch_code: XXX
+  city: Sydney
+  country: Australia
+- name: Direct Portfolio Services Ltd
+  swift: DIPSAU21XXX
+  swift8: DIPSAU21
+  branch_name: Head Office
+  branch_address: 2 Bulletin Place Sydney 2060
+  branch_code: XXX
+  city: Sydney
+  country: Australia
+- name: Eaustbond Proprietary Ltd
+  swift: EAUSAU21XXX
+  swift8: EAUSAU21
+  branch_name: Head Office
+  branch_address: C/O Freehills - Mlc Centre Sydney Nsw 2000
+  branch_code: XXX
+  city: Sydney
+  country: Australia
+- name: Ec Pohl And Co
+  swift: POHLAU41XXX
+  swift8: POHLAU41
+  branch_name: Head Office
+  branch_address: Corporate Centre One Gold Coast Queensland 4217
+  branch_code: XXX
+  city: Coast Queensland
+  country: Australia
+- name: Eight Investment Partners Pty Limited
+  swift: EIPPAU21XXX
+  swift8: EIPPAU21
+  branch_name: Head Office
+  branch_address: 131 Macquarie Street Sydney 2000
+  branch_code: XXX
+  city: Sydney
+  country: Australia
+- name: El And C. Baillieu Stockbroking Ltd.
+  swift: BAILAU31XXX
+  swift8: BAILAU31
+  branch_name: Head Office
+  branch_address: 360 Collins Street Melbourne 3000
+  branch_code: XXX
+  city: Melbourne
+  country: Australia
+- name: Ellerston Capital Limited
+  swift: ELCIAU21XXX
+  swift8: ELCIAU21
+  branch_name: Head Office
+  branch_address: 54-58 Park Street Sydney 2000
+  branch_code: XXX
+  city: Sydney
+  country: Australia
+- name: Elstree Investment Management Limited
+  swift: EIMPAU21XXX
+  swift8: EIMPAU21
+  branch_name: Head Office
+  branch_address: 35 Collins Street Melbourne 2000
+  branch_code: XXX
+  city: Melbourne
+  country: Australia
+- name: Endeavor Asset Management
+  swift: ENAMAU31XXX
+  swift8: ENAMAU31
+  branch_name: Head Office
+  branch_address: 1-3 Faussett Street Albert Park 3206
+  branch_code: XXX
+  city: Park
+  country: Australia
+- name: Enfinium Pty Ltd
+  swift: ENPTAUS1XXX
+  swift8: ENPTAUS1
+  branch_name: Head Office
+  branch_address: 68 York Street Sydney 2000
+  branch_code: XXX
+  city: Sydney
+  country: Australia
+- name: Equiclear Pty Ltd
+  swift: EQPTAU31XXX
+  swift8: EQPTAU31
+  branch_name: Head Office
+  branch_address: 120 Collins Street Melbourne
+  branch_code: XXX
+  city: Melbourne
+  country: Australia
+- name: Equity Trustees Ltd
+  swift: EQTRAU31XXX
+  swift8: EQTRAU31
+  branch_name: Head Office
+  branch_address: 575 Bourke Street Melbourne 3000
+  branch_code: XXX
+  city: Melbourne
+  country: Australia
+- name: Euroz Securities Limited
+  swift: EUSUAU61XXX
+  swift8: EUSUAU61
+  branch_name: Head Office
+  branch_address: The Quadrant Perth 6000
+  branch_code: XXX
+  city: Perth
+  country: Australia
+- name: Evans And Partners Pty Ltd
+  swift: EVPPAU31XXX
+  swift8: EVPPAU31
+  branch_name: Head Office
+  branch_address: 32 Jolimont Terrace Melbourne 3002
+  branch_code: XXX
+  city: Melbourne
+  country: Australia
+- name: Evergreen Capital
+  swift: EVCPAU31XXX
+  swift8: EVCPAU31
+  branch_name: Head Office
+  branch_address: Anz Tower Melbourne 3000
+  branch_code: XXX
+  city: Melbourne
+  country: Australia
+- name: Fairview Equity Partners Pty Ltd
+  swift: FEPTAU31XXX
+  swift8: FEPTAU31
+  branch_name: Head Office
+  branch_address: 90 Collins Street Melbourne 3000
+  branch_code: XXX
+  city: Melbourne
+  country: Australia
+- name: Fidelity Investments Australia Ltd
+  swift: FIILAU21XXX
+  swift8: FIILAU21
+  branch_name: Head Office
+  branch_address: 167 Macquarie Street Sydney 2000
+  branch_code: XXX
+  city: Sydney
+  country: Australia
+- name: Fiducian Portfolio Services Ltd
+  swift: FPOSAU21XXX
+  swift8: FPOSAU21
+  branch_name: Head Office
+  branch_address: 1 York Street Sydney 2000
+  branch_code: XXX
+  city: Sydney
+  country: Australia
+- name: Fiig Securities Limited
+  swift: FIURAU41XXX
+  swift8: FIURAU41
+  branch_name: Head Office
+  branch_address: 167 Eagle Street Brisbane 4000
+  branch_code: XXX
+  city: Brisbane
+  country: Australia
+- name: Findlay And Co Stockbrokers Ltd
+  swift: FITOAU21XXX
+  swift8: FITOAU21
+  branch_name: Head Office
+  branch_address: 10 Spring Street Sydney 2000
+  branch_code: XXX
+  city: Sydney
+  country: Australia
+- name: Fitch Australia Pty Ltd.
+  swift: FRIPAUS1XXX
+  swift8: FRIPAUS1
+  branch_name: Head Office
+  branch_address: 77 King Street Sydney Nsw 2000
+  branch_code: XXX
+  city: Sydney
+  country: Australia
+- name: Focus Asset Management Pty Ltd
+  swift: FAMYAU21XXX
+  swift8: FAMYAU21
+  branch_name: Head Office
+  branch_address: 225 George Street Sydney 2000
+  branch_code: XXX
+  city: Sydney
+  country: Australia
+- name: Fortescue Metals Group Ltd
+  swift: FMGLAU6PXXX
+  swift8: FMGLAU6P
+  branch_name: Head Office
+  branch_address: Adelaide Terrace 87 Perth 6004
+  branch_code: XXX
+  city: Perth
+  country: Australia
+- name: Fortitude Capital Pty Limited
+  swift: FOCPAU21XXX
+  swift8: FOCPAU21
+  branch_name: Head Office
+  branch_address: Macquarie Place Sydney 2000
+  branch_code: XXX
+  city: Sydney
+  country: Australia
+- name: Foster Stockbroking Pty Limited
+  swift: FSTPAU21XXX
+  swift8: FSTPAU21
+  branch_name: Head Office
+  branch_address: 25 Bligh Street Sydney 2000
+  branch_code: XXX
+  city: Sydney
+  country: Australia
+- name: Franklin Templeton Investments Australia Limited
+  swift: FTIAAU31XXX
+  swift8: FTIAAU31
+  branch_name: Head Office
+  branch_address: Abn Amro Tower Sydney 3000
+  branch_code: XXX
+  city: Sydney
+  country: Australia
+- name: Freeman Fox Ltd
+  swift: LANCAU41XXX
+  swift8: LANCAU41
+  branch_name: Head Office
+  branch_address: Riverside Centre Brisbane 4000
+  branch_code: XXX
+  city: Brisbane
+  country: Australia
+- name: Fsp Equities Management Limited
+  swift: FSEMAU21XXX
+  swift8: FSEMAU21
+  branch_name: Head Office
+  branch_address: Australia Square Sydney 2000
+  branch_code: XXX
+  city: Sydney
+  country: Australia
+- name: Fundbpo
+  swift: FBPOAU21XXX
+  swift8: FBPOAU21
+  branch_name: Head Office
+  branch_address: 51-57 Pitt Street Sydney 2000
+  branch_code: XXX
+  city: Sydney
+  country: Australia
+- name: Fw Holst And Co Pty Ltd
+  swift: HOLPAU31XXX
+  swift8: HOLPAU31
+  branch_name: Head Office
+  branch_address: Atrium Tower Melbourne 3000
+  branch_code: XXX
+  city: Melbourne
+  country: Australia
+- name: Genesis Investment Management Australia Ltd
+  swift: GIMUAU21XXX
+  swift8: GIMUAU21
+  branch_name: Head Office
+  branch_address: 8 Tuscarora Green Craigieburn 2000
+  branch_code: XXX
+  city: Craigieburn
+  country: Australia
+- name: Giorgio Armani Australia Pty Ltd
+  swift: GAFIAU21XXX
+  swift8: GAFIAU21
+  branch_name: No branch name
+  branch_address: No branch address
+  branch_code: XXX
+  city: Sydney
+  country: Australia
+- name: Glebe Asset Management Ltd
+  swift: GLAGAU21XXX
+  swift8: GLAGAU21
+  branch_name: Head Office
+  branch_address: St. Andrews House Sydney 2000
+  branch_code: XXX
+  city: Sydney
+  country: Australia
+- name: Global Value Investors Limited
+  swift: GLVIAU21XXX
+  swift8: GLVIAU21
+  branch_name: Head Office
+  branch_address: 261 George Street Sydney 2000
+  branch_code: XXX
+  city: Sydney
+  country: Australia
+- name: Gmo Australia Ltd
+  swift: GMOAAU21XXX
+  swift8: GMOAAU21
+  branch_name: Head Office
+  branch_address: Jones Bay Wharf,26-32 Pirrama Road Sydney 2000
+  branch_code: XXX
+  city: Sydney
+  country: Australia
+- name: Gmp Securities Australia Pty Ltd
+  swift: GSAPAU61XXX
+  swift8: GSAPAU61
+  branch_name: Head Office
+  branch_address: Level 9, 109 St Georges Tce Perth 6000
+  branch_code: XXX
+  city: Perth
+  country: Australia
+- name: Gold Corporation
+  swift: GCOPAU61XXX
+  swift8: GCOPAU61
+  branch_name: Head Office
+  branch_address: The Perth Mint Perth 6004
+  branch_code: XXX
+  city: Perth
+  country: Australia
+- name: Gold Corporation
+  swift: GCOPAU6PXXX
+  swift8: GCOPAU6P
+  branch_name: Head Office
+  branch_address: The Perth Mint Perth 6004
+  branch_code: XXX
+  city: Perth
+  country: Australia
+- name: Goldman Sachs And Partners Australia Futures Pty Ltd
+  swift: GSPAAU31XXX
+  swift8: GSPAAU31
+  branch_name: Head Office
+  branch_address: 101 Collins Street Melbourne 3000
+  branch_code: XXX
+  city: Melbourne
+  country: Australia
+- name: Goldman Sachs Australia Llc
+  swift: GOLDAU21XXX
+  swift8: GOLDAU21
+  branch_name: Head Office
+  branch_address: Governor Phillip Tower Sydney 2000
+  branch_code: XXX
+  city: Sydney
+  country: Australia
+- name: Goldman Sachs Australia Pty Ltd
+  swift: JBWLAU31XXX
+  swift8: JBWLAU31
+  branch_name: Head Office
+  branch_address: 101 Collins Street Melbourne 3000
+  branch_code: XXX
+  city: Melbourne
+  country: Australia
+- name: Goldman Sachs Jbwere Capital Markets Limited
+  swift: JBWEAU31XXX
+  swift8: JBWEAU31
+  branch_name: Head Office
+  branch_address: 101 Collins Street Melbourne 3000
+  branch_code: XXX
+  city: Melbourne
+  country: Australia
+- name: Green Line Investor Services Ltd
+  swift: POSEAU21XXX
+  swift8: POSEAU21
+  branch_name: Head Office
+  branch_address: 9 Hunter Street Sydney 2000
+  branch_code: XXX
+  city: Sydney
+  country: Australia
+- name: Gresham Securities Pty Limited
+  swift: GSELAU21XXX
+  swift8: GSELAU21
+  branch_name: Head Office
+  branch_address: 1 Alfred Street Sydney 2000
+  branch_code: XXX
+  city: Sydney
+  country: Australia
+- name: Guild Capital Asset Management Limited
+  swift: GCAMAU31XXX
+  swift8: GCAMAU31
+  branch_name: Head Office
+  branch_address: Guild House Hawthorn 3122
+  branch_code: XXX
+  city: Hawthorn
+  country: Australia
+- name: Hambros Equities Ltd.
+  swift: HAEQAU21XXX
+  swift8: HAEQAU21
+  branch_name: Head Office
+  branch_address: 167 Macquarie Street Sydney 2000
+  branch_code: XXX
+  city: Sydney
+  country: Australia
+- name: Hartleys Limited
+  swift: HARPAU61XXX
+  swift8: HARPAU61
+  branch_name: Head Office
+  branch_address: 141 St Georges Terrace Perth 6000
+  branch_code: XXX
+  city: Perth
+  country: Australia
+- name: Harvey Bayley And Co.
+  swift: HAEYAU71XXX
+  swift8: HAEYAU71
+  branch_name: Head Office
+  branch_address: Trust Bank Building Hobart 7000
+  branch_code: XXX
+  city: Hobart
+  country: Australia
+- name: Hastings Funds Management Limited
+  swift: HAFNAU21XXX
+  swift8: HAFNAU21
+  branch_name: Head Office
+  branch_address: Westpac Place Sydney 2000
+  branch_code: XXX
+  city: Sydney
+  country: Australia
+- name: Headland Capital Pty Ltd
+  swift: HECTAU21XXX
+  swift8: HECTAU21
+  branch_name: Head Office
+  branch_address: Building 30 Sydney 2088
+  branch_code: XXX
+  city: Sydney
+  country: Australia
+- name: Herschel Asset Management Limited
+  swift: HEAMAU31XXX
+  swift8: HEAMAU31
+  branch_name: Head Office
+  branch_address: Mercer Building Melbourne 3000
+  branch_code: XXX
+  city: Melbourne
+  country: Australia
+- name: Hewlett-packard Australia Pty. Limited
+  swift: HEAPAU31XXX
+  swift8: HEAPAU31
+  branch_name: Head Office
+  branch_address: 31-41 Joseph Street Blackburn 3130
+  branch_code: XXX
+  city: Blackburn
+  country: Australia
+- name: Hfa Asset Management
+  swift: HFAMAU41XXX
+  swift8: HFAMAU41
+  branch_name: Head Office
+  branch_address: 180 Queen Street Brisbane 4000
+  branch_code: XXX
+  city: Brisbane
+  country: Australia
+- name: Hg Asia Ltd
+  swift: ASAAAU21XXX
+  swift8: ASAAAU21
+  branch_name: Head Office
+  branch_address: Grosvenor Place Sydney 2000
+  branch_code: XXX
+  city: Sydney
+  country: Australia
+- name: Hogan And Partners
+  swift: HOGPAU61XXX
+  swift8: HOGPAU61
+  branch_name: Head Office
+  branch_address: Griffin Centre Perth 6000
+  branch_code: XXX
+  city: Perth
+  country: Australia
+- name: Hsbc Securities
+  swift: JACAAU21XXX
+  swift8: JACAAU21
+  branch_name: Head Office
+  branch_address: 1 Oconnell Street Sydney 2000
+  branch_code: XXX
+  city: Sydney
+  country: Australia
+- name: Hub24 Custodial Services Pty Ltd
+  swift: HSEPAU21XXX
+  swift8: HSEPAU21
+  branch_name: Head Office
+  branch_address: Governor Phillip Tower Sydney Nsw 2000
+  branch_code: XXX
+  city: Sydney
+  country: Australia
+- name: Hudson Conway Investments Pty Ltd
+  swift: HCIPAU31XXX
+  swift8: HCIPAU31
+  branch_name: Head Office
+  branch_address: 250 Sturt Street Southbank 3006
+  branch_code: XXX
+  city: Southbank
+  country: Australia
+- name: Hunter Hall Investment Management Limited
+  swift: HHIMAU21XXX
+  swift8: HHIMAU21
+  branch_name: Head Office
+  branch_address: 60 Castlereagh Street Sydney 2000
+  branch_code: XXX
+  city: Sydney
+  country: Australia
+- name: Icap Futures (australia) Pty Ltd
+  swift: IFAYAU21XXX
+  swift8: IFAYAU21
+  branch_name: Head Office
+  branch_address: 9 Castlereagh Street Sydney 2000
+  branch_code: XXX
+  city: Sydney
+  country: Australia
+- name: Ifm Australian Super Buyback Portfolio
+  swift: IASBAU31XXX
+  swift8: IASBAU31
+  branch_name: Head Office
+  branch_address: Casselden Place Melbourne 3000
+  branch_code: XXX
+  city: Melbourne
+  country: Australia
+- name: Ifm Australian Super Passive Australian Equities
+  swift: IASPAU31XXX
+  swift8: IASPAU31
+  branch_name: Head Office
+  branch_address: Casselden Place Melbourne 3000
+  branch_code: XXX
+  city: Melbourne
+  country: Australia
+- name: Ifm Cbus Buyback Portfolio
+  swift: ICBFAU31XXX
+  swift8: ICBFAU31
+  branch_name: Head Office
+  branch_address: Casselden Place Melbourne 3000
+  branch_code: XXX
+  city: Melbourne
+  country: Australia
+- name: Ifm Cbus Passive Australian Equities
+  swift: ICPAAU31XXX
+  swift8: ICPAAU31
+  branch_name: Head Office
+  branch_address: Casselden Place Melbourne 3000
+  branch_code: XXX
+  city: Melbourne
+  country: Australia
+- name: Ifm Hesta Buyback Portfolio
+  swift: IHBOAU31XXX
+  swift8: IHBOAU31
+  branch_name: Head Office
+  branch_address: Casselden Place Melbourne 3000
+  branch_code: XXX
+  city: Melbourne
+  country: Australia
+- name: Ifm Hesta Passive Australian Equities
+  swift: IHPAAU31XXX
+  swift8: IHPAAU31
+  branch_name: Head Office
+  branch_address: Casselden Place Melbourne 3000
+  branch_code: XXX
+  city: Melbourne
+  country: Australia
+- name: Ifm Hostplus Buyback Portfolio
+  swift: IHBPAU31XXX
+  swift8: IHBPAU31
+  branch_name: Head Office
+  branch_address: Casselden Place Melbourne 3000
+  branch_code: XXX
+  city: Melbourne
+  country: Australia
+- name: Ifm Hostplus Passive Australian Equities
+  swift: IHPUAU31XXX
+  swift8: IHPUAU31
+  branch_name: Head Office
+  branch_address: Casselden Place Melbourne 3000
+  branch_code: XXX
+  city: Melbourne
+  country: Australia
+- name: Ifm Lef Pst Tax Exempt Option
+  swift: ILPAAU31XXX
+  swift8: ILPAAU31
+  branch_name: Head Office
+  branch_address: Casselden Place Melbourne 3000
+  branch_code: XXX
+  city: Melbourne
+  country: Australia
+- name: Ifm Lef Pst Taxed Option
+  swift: ILPTAU31XXX
+  swift8: ILPTAU31
+  branch_name: Head Office
+  branch_address: Casselden Place Melbourne 3000
+  branch_code: XXX
+  city: Melbourne
+  country: Australia
+- name: Ifm Vision Super Buyback Portfolio
+  swift: IVSUAU31XXX
+  swift8: IVSUAU31
+  branch_name: Head Office
+  branch_address: Casselden Place Melbourne 3000
+  branch_code: XXX
+  city: Melbourne
+  country: Australia
+- name: Imperia Investment Group Pty Ltd
+  swift: IIGPAU31XXX
+  swift8: IIGPAU31
+  branch_name: Head Office
+  branch_address: Como Centre Melbourne 3141
+  branch_code: XXX
+  city: Melbourne
+  country: Australia
+- name: Incitec Pivot Limited
+  swift: IPLXAU3MXXX
+  swift8: IPLXAU3M
+  branch_name: Head Office
+  branch_address: Freshwater Place 28 Southbank 3006
+  branch_code: XXX
+  city: Southbank
+  country: Australia
+- name: Incitec Pivot Limited
+  swift: IPLXAU31XXX
+  swift8: IPLXAU31
+  branch_name: Head Office
+  branch_address: Freshwater Place 28 Southbank 3006
+  branch_code: XXX
+  city: Southbank
+  country: Australia
+- name: Industry Funds Management Pty Limited
+  swift: IFMPAU31XXX
+  swift8: IFMPAU31
+  branch_name: Head Office
+  branch_address: Casselden Place Melbourne 3000
+  branch_code: XXX
+  city: Melbourne
+  country: Australia
+- name: Instinet Australia Pty Limited
+  swift: ISNTAU21XXX
+  swift8: ISNTAU21
+  branch_name: Head Office
+  branch_address: Tower Building Sydney 2000
+  branch_code: XXX
+  city: Sydney
+  country: Australia
+- name: Instinet Australia Pty Ltd
+  swift: IACSAU21XXX
+  swift8: IACSAU21
+  branch_name: Head Office
+  branch_address: Aurora Place Sydney 2000
+  branch_code: XXX
+  city: Sydney
+  country: Australia
+- name: Intelligent Investor Funds
+  swift: ITIFAU21XXX
+  swift8: ITIFAU21
+  branch_name: Head Office
+  branch_address: Boundary Street Rushcutters Bay 2011
+  branch_code: XXX
+  city: Rushcutters Bay
+  country: Australia
+- name: Intersuisse Ltd.
+  swift: INSUAU21XXX
+  swift8: INSUAU21
+  branch_name: Head Office
+  branch_address: 530 Collins Street Melbourne 2000
+  branch_code: XXX
+  city: Melbourne
+  country: Australia
+- name: Intrinsic Investment Management Pty Ltd
+  swift: IIMYAU31XXX
+  swift8: IIMYAU31
+  branch_name: Head Office
+  branch_address: 99 Queen Street Melbourne 3000
+  branch_code: XXX
+  city: Melbourne
+  country: Australia
+- name: Investec Securities
+  swift: IVECAU21XXX
+  swift8: IVECAU21
+  branch_name: Head Office
+  branch_address: Chifley Tower Sydney 2000
+  branch_code: XXX
+  city: Sydney
+  country: Australia
+- name: Investment Administration Services Pty Limited
+  swift: MOPTAU21XXX
+  swift8: MOPTAU21
+  branch_name: Head Office
+  branch_address: 1 Rialto Lane Manly 2095
+  branch_code: XXX
+  city: Manly
+  country: Australia
+- name: Investors Mutual Ltd
+  swift: INMUAU21XXX
+  swift8: INMUAU21
+  branch_name: Head Office
+  branch_address: 10 Spring Street Sydney 2000
+  branch_code: XXX
+  city: Sydney
+  country: Australia
+- name: Invia Custodian Pty Limited
+  swift: INUPAU31XXX
+  swift8: INUPAU31
+  branch_name: Head Office
+  branch_address: 101 Collins Street Melbourne 3193
+  branch_code: XXX
+  city: Melbourne
+  country: Australia
+- name: Ioof Funds Management
+  swift: IOFMAU31XXX
+  swift8: IOFMAU31
+  branch_name: Head Office
+  branch_address: 303 Collins Street Melbourne 3000
+  branch_code: XXX
+  city: Melbourne
+  country: Australia
+- name: Iress Market Technology Limited
+  swift: IRESAU2SXXX
+  swift8: IRESAU2S
+  branch_name: Head Office
+  branch_address: 385 Bourke Street Melbourne 3000
+  branch_code: XXX
+  city: Melbourne
+  country: Australia
+- name: Itg Australia Limited
+  swift: BUROAU21XXX
+  swift8: BUROAU21
+  branch_name: Head Office
+  branch_address: Gateway Sydney 2000
+  branch_code: XXX
+  city: Sydney
+  country: Australia
+- name: Itg Australia Limited
+  swift: ITGAAU31XXX
+  swift8: ITGAAU31
+  branch_name: Head Office
+  branch_address: Rialto North Tower Melbourne 3000
+  branch_code: XXX
+  city: Melbourne Vic
+  country: Australia
+- name: Jardine Fleming Australia Securities Ltd.
+  swift: JFASAU21XXX
+  swift8: JFASAU21
+  branch_name: Head Office
+  branch_address: 19 Pitt Street Sydney 2000
+  branch_code: XXX
+  city: Sydney
+  country: Australia
+- name: Jdv Limited
+  swift: JDVDAU61XXX
+  swift8: JDVDAU61
+  branch_name: Head Office
+  branch_address: 141 St Georges Terrace Perth 6000
+  branch_code: XXX
+  city: Perth
+  country: Australia
+- name: Jf Capital Partners Ltd
+  swift: CPPNAU31XXX
+  swift8: CPPNAU31
+  branch_name: Head Office
+  branch_address: 600 Bourke St Melbourne Victoria 3000
+  branch_code: XXX
+  city: Melbourne Victoria
+  country: Australia
+- name: Jfom Pty Limited
+  swift: JARDAU21XXX
+  swift8: JARDAU21
+  branch_name: Head Office
+  branch_address: Grosvenor Place Sydney 2000
+  branch_code: XXX
+  city: Sydney
+  country: Australia
+- name: Jm Asset Management
+  swift: ASMEAU31XXX
+  swift8: ASMEAU31
+  branch_name: Head Office
+  branch_address: 31 Queen Street Melbourne 3000
+  branch_code: XXX
+  city: Melbourne
+  country: Australia
+- name: Joseph Palmer And Sons
+  swift: JPALAU21XXX
+  swift8: JPALAU21
+  branch_name: Head Office
+  branch_address: Anz Bank Building Sydney 2000
+  branch_code: XXX
+  city: Sydney
+  country: Australia
+- name: Jp Morgan Investment Management Ltd
+  swift: MOIMAU31XXX
+  swift8: MOIMAU31
+  branch_name: Head Office
+  branch_address: 333 Collins Street Melbourne
+  branch_code: XXX
+  city: Melbourne
+  country: Australia
+- name: Jp Morgan Securities Australia Limited
+  swift: JPMSAU2103M
+  swift8: JPMSAU21
+  branch_name: Melbourne 3000
+  branch_address: Collins Street 367 Melbourne 3000
+  branch_code: 03M
+  city: Melbourne
+  country: Australia
+- name: Jp Morgan Securities Australia Limited
+  swift: JPMSAU21XXX
+  swift8: JPMSAU21
+  branch_name: Head Office
+  branch_address: Grosvenor Place Sydney 2000
+  branch_code: XXX
+  city: Sydney
+  country: Australia
+- name: K.j. Polkinghorne And Co. Pty. Limited
+  swift: POLKAU21XXX
+  swift8: POLKAU21
+  branch_name: Head Office
+  branch_address: Gold Fields House Sydney 2000
+  branch_code: XXX
+  city: Sydney
+  country: Australia
+- name: K2 Asset Management
+  swift: ASNTAU31XXX
+  swift8: ASNTAU31
+  branch_name: Head Office
+  branch_address: Collins Street 101 Melbourne 3000
+  branch_code: XXX
+  city: Melbourne
+  country: Australia
+- name: Karara Capital Ltd.
+  swift: KARAAU31XXX
+  swift8: KARAAU31
+  branch_name: Head Office
+  branch_address: 367 Collins Street Melbourne 3000
+  branch_code: XXX
+  city: Melbourne
+  country: Australia
+- name: Katana Capital Limited
+  swift: KATAAU61XXX
+  swift8: KATAAU61
+  branch_name: Head Office
+  branch_address: Exchange Plaza Perth 6000
+  branch_code: XXX
+  city: Perth
+  country: Australia
+- name: Keb Australia Limited
+  swift: KOEXAU2SXXX
+  swift8: KOEXAU2S
+  branch_name: Head Office
+  branch_address: Chifley Tower Sydney 2000
+  branch_code: XXX
+  city: Sydney
+  country: Australia
+- name: Kelbourne Securities Ltd.
+  swift: KESEAU21XXX
+  swift8: KESEAU21
+  branch_name: Head Office
+  branch_address: 225 George Street Sydney 2000
+  branch_code: XXX
+  city: Sydney
+  country: Australia
+- name: Kima Capital Management Pty Ltd
+  swift: KICAAU31XXX
+  swift8: KICAAU31
+  branch_name: Head Office
+  branch_address: L39/55 Collins Street Melbourne 3000
+  branch_code: XXX
+  city: Melbourne
+  country: Australia
+- name: Kirke Securities Limited
+  swift: KIRKAU61XXX
+  swift8: KIRKAU61
+  branch_name: Head Office
+  branch_address: 6 Ord Street Perth 6005
+  branch_code: XXX
+  city: Perth
+  country: Australia
+- name: Kis Capital Partners Pty Ltd
+  swift: KCPPAU21XXX
+  swift8: KCPPAU21
+  branch_name: Head Office
+  branch_address: 109 Pitt St Sydney 2000
+  branch_code: XXX
+  city: Sydney
+  country: Australia
+- name: L1 Capital
+  swift: CTPAAU31XXX
+  swift8: CTPAAU31
+  branch_name: Head Office
+  branch_address: 101 Collins St Melbourne
+  branch_code: XXX
+  city: Melbourne
+  country: Australia
+- name: Laminar Group Pty Ltd
+  swift: LAGPAU31XXX
+  swift8: LAGPAU31
+  branch_name: Head Office
+  branch_address: Tm06 Mezzanine, 181 William Street Melbourne 3000
+  branch_code: XXX
+  city: Melbourne
+  country: Australia
+- name: Lands Kirwan Tong Stockbrokers Pty Ltd
+  swift: LKTSAU31XXX
+  swift8: LKTSAU31
+  branch_name: Head Office
+  branch_address: 99 William Street Melbourne 3000
+  branch_code: XXX
+  city: Melbourne
+  country: Australia
+- name: Lb Management Pty Ltd As Trustee Laguna Bay Capital Mt
+  swift: MPTLAU41XXX
+  swift8: MPTLAU41
+  branch_name: Head Office
+  branch_address: James Street Brisbane Qld 4006
+  branch_code: XXX
+  city: Brisbane
+  country: Australia
+- name: Legg Mason Asset Management Australia Limited
+  swift: CAGUAU31XXX
+  swift8: CAGUAU31
+  branch_name: Head Office
+  branch_address: 120 Collins Street Melbourne 3000
+  branch_code: XXX
+  city: Melbourne
+  country: Australia
+- name: Lehman Brothers Australia Limited
+  swift: GRSUAU21XXX
+  swift8: GRSUAU21
+  branch_name: Head Office
+  branch_address: 264 George Street Sydney 2000
+  branch_code: XXX
+  city: Sydney
+  country: Australia
+- name: Lehman Brothers Australia Securities Pty Limited
+  swift: LBATAU21XXX
+  swift8: LBATAU21
+  branch_name: Head Office
+  branch_address: 20 Bridge Street Sydney 2000
+  branch_code: XXX
+  city: Sydney
+  country: Australia
+- name: Lfg Holdings Pty Limited
+  swift: LFGHAU21XXX
+  swift8: LFGHAU21
+  branch_name: Head Office
+  branch_address: Westfield Towers Sydney 2011
+  branch_code: XXX
+  city: Sydney
+  country: Australia
+- name: Lhc Capital
+  swift: LHCCAU21XXX
+  swift8: LHCCAU21
+  branch_name: Head Office
+  branch_address: 2 Bulletin Place Sydney Nsw 2000
+  branch_code: XXX
+  city: Sydney
+  country: Australia
+- name: Lincoln Indicators Pty Ltd
+  swift: LIIDAU31XXX
+  swift8: LIIDAU31
+  branch_name: Head Office
+  branch_address: 379 Collins Street Melbourne 3000
+  branch_code: XXX
+  city: Melbourne
+  country: Australia
+- name: Linwar Securities Pty Limited
+  swift: LIEPAU21XXX
+  swift8: LIEPAU21
+  branch_name: Head Office
+  branch_address: 68 Pitt Street Sydney 2000
+  branch_code: XXX
+  city: Sydney
+  country: Australia
+- name: Liquid Capital Australia Pty Ltd
+  swift: LCATAU21XXX
+  swift8: LCATAU21
+  branch_name: Head Office
+  branch_address: 363 George Street Sydney 2000
+  branch_code: XXX
+  city: Sydney
+  country: Australia
+- name: Liquidnet Australia Pty Ltd
+  swift: LIAPAU21XXX
+  swift8: LIAPAU21
+  branch_name: Head Office
+  branch_address: Macquarie House Sydney 2000
+  branch_code: XXX
+  city: Sydney
+  country: Australia
+- name: Lodestar Capital Partners Pty Limited
+  swift: LCPPAU21XXX
+  swift8: LCPPAU21
+  branch_name: Head Office
+  branch_address: Amp Centre Sydney 2000
+  branch_code: XXX
+  city: Sydney
+  country: Australia
+- name: Lodge Partners Pty Ltd
+  swift: LODGAU31XXX
+  swift8: LODGAU31
+  branch_name: Head Office
+  branch_address: 60 Collins Street Melbourne
+  branch_code: XXX
+  city: Melbourne
+  country: Australia
+- name: Lonsec Limited
+  swift: LONSAU31XXX
+  swift8: LONSAU31
+  branch_name: Head Office
+  branch_address: 500 Collins Street Melbourne 3000
+  branch_code: XXX
+  city: Melbourne
+  country: Australia
+- name: Macarthurcook Funds Management Real Estate Investment Managers
+  swift: MFUGAU31XXX
+  swift8: MFUGAU31
+  branch_name: Head Office
+  branch_address: 30 Collins Street Melbourne 3000
+  branch_code: XXX
+  city: Melbourne
+  country: Australia
+- name: Macquarie Capital Securities (australia) Limited
+  swift: MSAUAU21XXX
+  swift8: MSAUAU21
+  branch_name: Head Office
+  branch_address: 20 Bond Street Sydney 2000
+  branch_code: XXX
+  city: Sydney
+  country: Australia
+- name: Macquarie Investment Management Ltd.
+  swift: MACQAU2IXXX
+  swift8: MACQAU2I
+  branch_name: Head Office
+  branch_address: 20 Bond Street Sydney 2000
+  branch_code: XXX
+  city: Sydney
+  country: Australia
+- name: Macquarie-private Broking
+  swift: MAPBAU21XXX
+  swift8: MAPBAU21
+  branch_name: Head Office
+  branch_address: 1 Martin Place Sydney 2000
+  branch_code: XXX
+  city: Sydney
+  country: Australia
+- name: Magellan Asset Management
+  swift: MGAGAU21XXX
+  swift8: MGAGAU21
+  branch_name: Head Office
+  branch_address: Castlereagh Street Sydney 2000
+  branch_code: XXX
+  city: Sydney
+  country: Australia
+- name: Marathon Asset Management Australia Ltd
+  swift: MAMUAU21XXX
+  swift8: MAMUAU21
+  branch_name: Head Office
+  branch_address: Ernst and Young Sydney 2000
+  branch_code: XXX
+  city: Sydney
+  country: Australia
+- name: Mason Stevens Pty Limited
+  swift: MATYAU21XXX
+  swift8: MATYAU21
+  branch_name: Head Office
+  branch_address: 2 Barrack Street Sydney 2000
+  branch_code: XXX
+  city: Sydney
+  country: Australia
+- name: Maxim Asset Management Limited
+  swift: SIMPAU21XXX
+  swift8: SIMPAU21
+  branch_name: Head Office
+  branch_address: 84 Pitt Street Sydney 2000
+  branch_code: XXX
+  city: Sydney
+  country: Australia
+- name: Mba Investments Pty Ltd
+  swift: MBIPAU21XXX
+  swift8: MBIPAU21
+  branch_name: Head Office
+  branch_address: 1 Alfred Street Sydney 2000
+  branch_code: XXX
+  city: Sydney
+  country: Australia
+- name: Mckinley Wilson Ltd.
+  swift: MCWIAU31XXX
+  swift8: MCWIAU31
+  branch_name: Head Office
+  branch_address: 459 Collins Street Melbourne 3000
+  branch_code: XXX
+  city: Melbourne
+  country: Australia
+- name: Mercantile Credits Pty Ltd
+  swift: MECSAU21XXX
+  swift8: MECSAU21
+  branch_name: Head Office
+  branch_address: 68 Pitt Street Sydney 2000
+  branch_code: XXX
+  city: Sydney
+  country: Australia
+- name: Mercer Investment Consulting
+  swift: MICTAU31XXX
+  swift8: MICTAU31
+  branch_name: Head Office
+  branch_address: 33 Exhibition Street Melbourne 3000
+  branch_code: XXX
+  city: Melbourne
+  country: Australia
+- name: Merrill Lynch (australia) Pty Ltd
+  swift: MELMAU31XXX
+  swift8: MELMAU31
+  branch_name: Head Office
+  branch_address: 120 Collins Street Melbourne 3000
+  branch_code: XXX
+  city: Melbourne
+  country: Australia
+- name: Merrill Lynch Equities Austrailia Ltd. Melbourne
+  swift: MLEAAU31XXX
+  swift8: MLEAAU31
+  branch_name: Head Office
+  branch_address: Governor Phillip Tower Sydney 3000
+  branch_code: XXX
+  city: Sydney
+  country: Australia
+- name: Merrill Lynch Private (australia) Limited
+  swift: ROACAU31XXX
+  swift8: ROACAU31
+  branch_name: Head Office
+  branch_address: 120 Collins Street Melbourne 3000
+  branch_code: XXX
+  city: Melbourne
+  country: Australia
+- name: Mf Global Australia Limited
+  swift: MFAUAU41XXX
+  swift8: MFAUAU41
+  branch_name: Head Office
+  branch_address: Grosvenor Place Brisbane 4000
+  branch_code: XXX
+  city: Brisbane
+  country: Australia
+- name: Midland Securities Ltd.
+  swift: MSLAAU21XXX
+  swift8: MSLAAU21
+  branch_name: Head Office
+  branch_address: 8 Spring Street Sydney 2000
+  branch_code: XXX
+  city: Sydney
+  country: Australia
+- name: Millennium Wealth
+  swift: MILWAU21XXX
+  swift8: MILWAU21
+  branch_name: Head Office
+  branch_address: 234 George Street Sydney 2000
+  branch_code: XXX
+  city: Sydney
+  country: Australia
+- name: Mir Investment Management Pty Ltd
+  swift: MIMAAU21XXX
+  swift8: MIMAAU21
+  branch_name: Head Office
+  branch_address: Amp Centre Sydney 2000
+  branch_code: XXX
+  city: Sydney
+  country: Australia
+- name: Mm And E Capital
+  swift: MMECAU31XXX
+  swift8: MMECAU31
+  branch_name: Head Office
+  branch_address: 350 Collins St Melbourne 3000
+  branch_code: XXX
+  city: Melbourne
+  country: Australia
+- name: Mmc Asset Management Limited
+  swift: MMAMAU21XXX
+  swift8: MMAMAU21
+  branch_name: Head Office
+  branch_address: 34 Hunter Street Sydney 2000
+  branch_code: XXX
+  city: Sydney
+  country: Australia
+- name: Moelis Australia Securities Pty Ltd
+  swift: MASYAU21XXX
+  swift8: MASYAU21
+  branch_name: Head Office
+  branch_address: Governor Phillip Tower Sydney 2000
+  branch_code: XXX
+  city: Sydney
+  country: Australia
+- name: Montagu Stockbrokers Pty Ltd
+  swift: MONPAU61XXX
+  swift8: MONPAU61
+  branch_name: Head Office
+  branch_address: Citibank House Perth 6000
+  branch_code: XXX
+  city: Perth
+  country: Australia
+- name: Monterrey Investment Management Limited
+  swift: MIMGAU31XXX
+  swift8: MIMGAU31
+  branch_name: Head Office
+  branch_address: 330 Collins Street Melbourne 3000
+  branch_code: XXX
+  city: Melbourne
+  country: Australia
+- name: Montgomery Investment Management
+  swift: MOIGAU21XXX
+  swift8: MOIGAU21
+  branch_name: Head Office
+  branch_address: Flour Mill Studios Sydney 2042
+  branch_code: XXX
+  city: Sydney
+  country: Australia
+- name: Moody's Investors Service Pty. Ltd.
+  swift: MIEPAU21XXX
+  swift8: MIEPAU21
+  branch_name: Head Office
+  branch_address: Oconnell St. Sydney 2000
+  branch_code: XXX
+  city: Sydney
+  country: Australia
+- name: Morgan Stanley Australia Securities Ltd
+  swift: MSDIAU21XXX
+  swift8: MSDIAU21
+  branch_name: Head Office
+  branch_address: 230 Hickson Road, Millers Point Sydney
+  branch_code: XXX
+  city: Sydney
+  country: Australia
+- name: Morgan Stanley International Incorporated
+  swift: MSIIAU21XXX
+  swift8: MSIIAU21
+  branch_name: Head Office
+  branch_address: Martin Place Sydney 2000
+  branch_code: XXX
+  city: Sydney
+  country: Australia
+- name: Morgan Stanley Investment Management
+  swift: MSIMAU31XXX
+  swift8: MSIMAU31
+  branch_name: Head Office
+  branch_address: 101 Collins Street Melbourne 3000
+  branch_code: XXX
+  city: Melbourne
+  country: Australia
+- name: Morgan Stanley Wealth Management Australia Pty Ltd
+  swift: MSSYAU31XXX
+  swift8: MSSYAU31
+  branch_name: Head Office
+  branch_address: Collins Street Melbourne Vic 3000
+  branch_code: XXX
+  city: Melbourne Vic
+  country: Australia
+- name: Morphic Asset Management Pty Limited
+  swift: MAAYAU21XXX
+  swift8: MAAYAU21
+  branch_name: Head Office
+  branch_address: Wyoming Sydney 2000
+  branch_code: XXX
+  city: Sydney
+  country: Australia
+- name: Morrison Securities Pty Limited
+  swift: MOEPAU21XXX
+  swift8: MOEPAU21
+  branch_name: Head Office
+  branch_address: 280 George Street Sydney 2000
+  branch_code: XXX
+  city: Sydney
+  country: Australia
+- name: Mst Capital Pty Ltd
+  swift: MSCTAUS1XXX
+  swift8: MSCTAUS1
+  branch_name: Head Office
+  branch_address: Gundimaine Avenue Sydney Nsw 2089
+  branch_code: XXX
+  city: Sydney
+  country: Australia
+- name: Mwh Capital Pty Ltd
+  swift: MWCPAU31XXX
+  swift8: MWCPAU31
+  branch_name: No branch name
+  branch_address: No branch address
+  branch_code: XXX
+  city: Melbourne
+  country: Australia
+- name: Nabinvest Capital Partners Pty Ltd
+  swift: NBNVAU2SXXX
+  swift8: NBNVAU2S
+  branch_name: Head Office
+  branch_address: Pitt Street 37 Sydney 2000
+  branch_code: XXX
+  city: Sydney
+  country: Australia
+- name: Naos Asset Management Limited
+  swift: NAOSAU21XXX
+  swift8: NAOSAU21
+  branch_name: Head Office
+  branch_address: 32 Aurora Place Sydney 2000
+  branch_code: XXX
+  city: Sydney
+  country: Australia
+- name: National Australia Securities Limited
+  swift: NAAEAU31XXX
+  swift8: NAAEAU31
+  branch_name: Head Office
+  branch_address: 800 Bourke Street Docklands 3008
+  branch_code: XXX
+  city: Docklands
+  country: Australia
+- name: National Online Trading Limited
+  swift: NAOTAU61XXX
+  swift8: NAOTAU61
+  branch_name: Head Office
+  branch_address: Cloisters Square Perth 6000
+  branch_code: XXX
+  city: Perth
+  country: Australia
+- name: National Westminster Finance Australia Ltd.
+  swift: NWFAAU21XXX
+  swift8: NWFAAU21
+  branch_name: Head Office
+  branch_address: C/O Moore Stephens Hf Pty Ltd Melbourne 2000
+  branch_code: XXX
+  city: Melbourne
+  country: Australia
+- name: New South Wales Treasury Corporation
+  swift: NSWTAU21XXX
+  swift8: NSWTAU21
+  branch_name: Head Office
+  branch_address: Governor Phillip Tower Sydney Nsw 2000
+  branch_code: XXX
+  city: Sydney
+  country: Australia
+- name: Nicholas-applegate Capital Management-a Californialimited Partnership
+  swift: NACAAU31XXX
+  swift8: NACAAU31
+  branch_name: Head Office
+  branch_address: 101 Collins Street Melbourne 3000
+  branch_code: XXX
+  city: Melbourne
+  country: Australia
+- name: Nike Australia Pty. Ltd.
+  swift: NIKEAU31XXX
+  swift8: NIKEAU31
+  branch_name: Head Office
+  branch_address: 28 Victoria Crescent Abbotsford 3067
+  branch_code: XXX
+  city: Abbotsford
+  country: Australia
+- name: Nikko Securities (australia) Ltd.
+  swift: NSEAAU21XXX
+  swift8: NSEAAU21
+  branch_name: Head Office
+  branch_address: 52 Martin Place Sydney 2000
+  branch_code: XXX
+  city: Sydney
+  country: Australia
+- name: Nomura Australia Limited
+  swift: NOAUAU2SXXX
+  swift8: NOAUAU2S
+  branch_name: Head Office
+  branch_address: Governor Phillip Tower Sydney 2000
+  branch_code: XXX
+  city: Sydney
+  country: Australia
+- name: Northcape Capital Pty Ltd
+  swift: HICTAU21XXX
+  swift8: HICTAU21
+  branch_name: Head Office
+  branch_address: 15-19 Bent Street Sydney 2000
+  branch_code: XXX
+  city: Sydney
+  country: Australia
+- name: Oasis Asset Management Limited
+  swift: OAAMAU21XXX
+  swift8: OAAMAU21
+  branch_name: Head Office
+  branch_address: 60 Miller Street Wollongong 2500
+  branch_code: XXX
+  city: Wollongong
+  country: Australia
+- name: Oc Funds Management
+  swift: OPCAAU31XXX
+  swift8: OPCAAU31
+  branch_name: Head Office
+  branch_address: 360 Collins Street Melbourne 3000
+  branch_code: XXX
+  city: Melbourne
+  country: Australia
+- name: Opes Prime Stockbroking Limited
+  swift: OPPSAU31XXX
+  swift8: OPPSAU31
+  branch_name: Head Office
+  branch_address: 303 Collins Street Melbourne 3000
+  branch_code: XXX
+  city: Melbourne
+  country: Australia
+- name: Ophir Asset Management
+  swift: OPANAU21XXX
+  swift8: OPANAU21
+  branch_name: No branch name
+  branch_address: No branch address
+  branch_code: XXX
+  city: Sydney
+  country: Australia
+- name: Options Clearing House Pty Limited
+  swift: XAOMAU21XXX
+  swift8: XAOMAU21
+  branch_name: Head Office
+  branch_address: Exchange Centre Sydney
+  branch_code: XXX
+  city: Sydney
+  country: Australia
+- name: Optiver Australia Pty Limited
+  swift: OPAPAU21XXX
+  swift8: OPAPAU21
+  branch_name: Head Office
+  branch_address: 33-39 Hunter Street Sydney 2000
+  branch_code: XXX
+  city: Sydney
+  country: Australia
+- name: Orchard Funds Management Limited
+  swift: ORFMAU31XXX
+  swift8: ORFMAU31
+  branch_name: Head Office
+  branch_address: Ernst and Young Building Melbourne 3000
+  branch_code: XXX
+  city: Melbourne
+  country: Australia
+- name: Ord Minnett Limited
+  swift: ORDSAU21XXX
+  swift8: ORDSAU21
+  branch_name: Head Office
+  branch_address: Nab House Sydney 2000
+  branch_code: XXX
+  city: Sydney
+  country: Australia
+- name: Orion Asset Management Limited
+  swift: ORAMAU21XXX
+  swift8: ORAMAU21
+  branch_name: Head Office
+  branch_address: 1 Alfred Street Sydney 2000
+  branch_code: XXX
+  city: Sydney
+  country: Australia
+- name: Ozforex Pty Ltd
+  swift: OZFXAU2SXXX
+  swift8: OZFXAU2S
+  branch_name: Head Office
+  branch_address: Bridge Street 10 Sydney 2000
+  branch_code: XXX
+  city: Sydney
+  country: Australia
+- name: P.m. Capital Limited
+  swift: CPPAAU21XXX
+  swift8: CPPAAU21
+  branch_name: Head Office
+  branch_address: 60 Carrington Street Sydney 2000
+  branch_code: XXX
+  city: Sydney
+  country: Australia
+- name: Paradice Investment Management Pty Ltd
+  swift: PIMTAU21XXX
+  swift8: PIMTAU21
+  branch_name: Head Office
+  branch_address: 139 Macquarie Street Sydney 2000
+  branch_code: XXX
+  city: Sydney
+  country: Australia
+- name: Paterson Ord Minnett Ltd
+  swift: OMGLAU61XXX
+  swift8: OMGLAU61
+  branch_name: Head Office
+  branch_address: Exchange Plaza Perth 6000
+  branch_code: XXX
+  city: Perth
+  country: Australia
+- name: Patersons Asset Management
+  swift: PAEMAU61XXX
+  swift8: PAEMAU61
+  branch_name: Head Office
+  branch_address: Level 2, 34 Colin Street Perth 6005
+  branch_code: XXX
+  city: Perth
+  country: Australia
+- name: Patersons Securities Limited
+  swift: PSECAU61XXX
+  swift8: PSECAU61
+  branch_name: Head Office
+  branch_address: Exchange Plaza Perth 6000
+  branch_code: XXX
+  city: Perth
+  country: Australia
+- name: Pegasus Asset Management Limited
+  swift: PEGAAU31XXX
+  swift8: PEGAAU31
+  branch_name: Head Office
+  branch_address: 367 Collins Street Melbourne 3000
+  branch_code: XXX
+  city: Melbourne
+  country: Australia
+- name: Peregrine Capital Australia Pty Limited
+  swift: PEGRAU41XXX
+  swift8: PEGRAU41
+  branch_name: Head Office
+  branch_address: Riverside Centre Brisbane 4000
+  branch_code: XXX
+  city: Brisbane
+  country: Australia
+- name: Perennial Investment Partners
+  swift: PEIPAU31MEL
+  swift8: PEIPAU31
+  branch_name: Perennial Investment Partners-Domestic
+  branch_address: Melbourne
+  branch_code: MEL
+  city: Melbourne
+  country: Australia
+- name: Perennial Investment Partners
+  swift: PEIPAU31XXX
+  swift8: PEIPAU31
+  branch_name: Head Office
+  branch_address: 303 Collins Street Melbourne 3000
+  branch_code: XXX
+  city: Melbourne
+  country: Australia
+- name: Perennial Investment Partners Limited
+  swift: PEIAAU31XXX
+  swift8: PEIAAU31
+  branch_name: Head Office
+  branch_address: Level 24, 303 Collins Street Melbourne Victoria 3000
+  branch_code: XXX
+  city: Melbourne Victoria
+  country: Australia
+- name: Perpetual Investments
+  swift: PERNAU21XXX
+  swift8: PERNAU21
+  branch_name: Head Office
+  branch_address: 39 Hunter Street Sydney 2000
+  branch_code: XXX
+  city: Sydney
+  country: Australia
+- name: Pershing Securities Australia Pty Ltd
+  swift: PFSAAU21XXX
+  swift8: PFSAAU21
+  branch_name: Head Office
+  branch_address: 1 Chifley Square Sydney 2000
+  branch_code: XXX
+  city: Sydney
+  country: Australia
+- name: Petra Capital Pty Ltd
+  swift: PEAPAU21XXX
+  swift8: PEAPAU21
+  branch_name: Head Office
+  branch_address: George Street 343 Sydney 2000
+  branch_code: XXX
+  city: Sydney
+  country: Australia
+- name: Phoenix Soft Corp Ltd
+  swift: PSCLAU21XXX
+  swift8: PSCLAU21
+  branch_name: Head Office
+  branch_address: Dymocks Building Sydney 2000
+  branch_code: XXX
+  city: Sydney
+  country: Australia
+- name: Pimco Australia Pty Limited
+  swift: PIMAAU21XXX
+  swift8: PIMAAU21
+  branch_name: Head Office
+  branch_address: 363 George Street Sydney 2000
+  branch_code: XXX
+  city: Sydney
+  country: Australia
+- name: Plan B
+  swift: PLNNAU61XXX
+  swift8: PLNNAU61
+  branch_name: Head Office
+  branch_address: Central Park Perth 6000
+  branch_code: XXX
+  city: Perth
+  country: Australia
+- name: Plan B Trustees Limited
+  swift: PLANAU61XXX
+  swift8: PLANAU61
+  branch_name: Head Office
+  branch_address: 152 - 158 St Georges Terrace Perth 6000
+  branch_code: XXX
+  city: Perth
+  country: Australia
+- name: Platinium Asset Management
+  swift: PLAGAU21XXX
+  swift8: PLAGAU21
+  branch_name: Head Office
+  branch_address: 55 Harrington Street Sydney 2000
+  branch_code: XXX
+  city: Sydney
+  country: Australia
+- name: Plato Investment Management Limited
+  swift: PLIMAU21XXX
+  swift8: PLIMAU21
+  branch_name: Head Office
+  branch_address: Riparian Plaza Sydney 2000
+  branch_code: XXX
+  city: Sydney
+  country: Australia
+- name: Platypus Asset Management Pty Ltd
+  swift: PLSMAU21XXX
+  swift8: PLSMAU21
+  branch_name: Head Office
+  branch_address: 517/15 Lime Street Sydney 2000
+  branch_code: XXX
+  city: Sydney
+  country: Australia
+- name: Portfolio Partners Limited
+  swift: PORPAU31XXX
+  swift8: PORPAU31
+  branch_name: Head Office
+  branch_address: Freshwater Place Melbourne 3000
+  branch_code: XXX
+  city: Melbourne
+  country: Australia
+- name: Prime Partners
+  swift: PRRAAU21XXX
+  swift8: PRRAAU21
+  branch_name: Head Office
+  branch_address: 230 Victoria Road Gladesville
+  branch_code: XXX
+  city: Gladesville
+  country: Australia
+- name: Prime Value Asset Management Limited
+  swift: PVAAAU31XXX
+  swift8: PVAAAU31
+  branch_name: Head Office
+  branch_address: Prime Value House Melbourne 3000
+  branch_code: XXX
+  city: Melbourne
+  country: Australia
+- name: Prodigal Pty Ltd
+  swift: PPTYAU21XXX
+  swift8: PPTYAU21
+  branch_name: Head Office
+  branch_address: Abn Amro Tower Sydney 2000
+  branch_code: XXX
+  city: Sydney
+  country: Australia
+- name: Qbe Insurance
+  swift: QBEGAU2SXXX
+  swift8: QBEGAU2S
+  branch_name: Head Office
+  branch_address: 82 Pitt Street Sydney 2000
+  branch_code: XXX
+  city: Sydney
+  country: Australia
+- name: Qbe Management Services Pty Ltd
+  swift: QMSPAU21XXX
+  swift8: QMSPAU21
+  branch_name: Head Office
+  branch_address: 82 Pitt Street Sydney 2000
+  branch_code: XXX
+  city: Sydney
+  country: Australia
+- name: Qed Capital Pty Ltd
+  swift: QECPAU21XXX
+  swift8: QECPAU21
+  branch_name: Head Office
+  branch_address: Chifley Tower Sydney 2000
+  branch_code: XXX
+  city: Sydney
+  country: Australia
+- name: Qic Limited
+  swift: QICBAU41XXX
+  swift8: QICBAU41
+  branch_name: Head Office
+  branch_address: Central Plaza 2 Brisbane 4000
+  branch_code: XXX
+  city: Brisbane
+  country: Australia
+- name: Qsuper Limited
+  swift: QSUPAU41XXX
+  swift8: QSUPAU41
+  branch_name: Head Office
+  branch_address: Central Plaza 3 Brisbane 4001
+  branch_code: XXX
+  city: Brisbane
+  country: Australia
+- name: Queensland Treasury Corporation
+  swift: QLDTAU4BXXX
+  swift8: QLDTAU4B
+  branch_name: No branch name
+  branch_address: No branch address
+  branch_code: XXX
+  city: Brisbane Queensland
+  country: Australia
+- name: R And D Heslop Holdings Pty Ltd
+  swift: AXAAAU31XXX
+  swift8: AXAAAU31
+  branch_name: Head Office
+  branch_address: 447 Collins Street Melbourne 3000
+  branch_code: XXX
+  city: Melbourne
+  country: Australia
+- name: Rare Infrastructure Limited
+  swift: RAIRAU21XXX
+  swift8: RAIRAU21
+  branch_name: Head Office
+  branch_address: 1 York Street Sydney 2000
+  branch_code: XXX
+  city: Sydney
+  country: Australia
+- name: Rbc Capital Markets
+  swift: RBCMAU21XXX
+  swift8: RBCMAU21
+  branch_name: Head Office
+  branch_address: 2 Park Street Sydney 2000
+  branch_code: XXX
+  city: Sydney
+  country: Australia
+- name: Rbc Investor Services Trust, Australian Branch
+  swift: ROYCAUSGMPT
+  swift8: ROYCAUSG
+  branch_name: Rbc Dexia Platform Client
+  branch_address: Level 17 Sydney 2000
+  branch_code: MPT
+  city: Sydney
+  country: Australia
+- name: Rbs Morgans Limited
+  swift: ABAOAU41XXX
+  swift8: ABAOAU41
+  branch_name: Head Office
+  branch_address: Riverside Centre Brisbane 4000
+  branch_code: XXX
+  city: Brisbane
+  country: Australia
+- name: Rcm Capital Management Limited
+  swift: ADSAAU21XXX
+  swift8: ADSAAU21
+  branch_name: Head Office
+  branch_address: 19-29 Martin Place Sydney 2000
+  branch_code: XXX
+  city: Sydney
+  country: Australia
+- name: Redpoint Investment Management Pty Ltd
+  swift: REDTAU21XXX
+  swift8: REDTAU21
+  branch_name: Head Office
+  branch_address: 37 Pitt St Sydney 2000
+  branch_code: XXX
+  city: Sydney
+  country: Australia
+- name: Resolution Capital Limited
+  swift: RECPAU21XXX
+  swift8: RECPAU21
+  branch_name: Head Office
+  branch_address: Oconnel House Sydney 2000
+  branch_code: XXX
+  city: Sydney
+  country: Australia
+- name: Reynolds And Co. Pty Ltd.
+  swift: REYNAU21XXX
+  swift8: REYNAU21
+  branch_name: Head Office
+  branch_address: 60 Pitt Street Sydney 2000
+  branch_code: XXX
+  city: Sydney
+  country: Australia
+- name: Rsle Holdings Corporation Pty Limited
+  swift: RHCPAU61XXX
+  swift8: RHCPAU61
+  branch_name: Head Office
+  branch_address: Thomas Hamilton Avenue Mirrabooka 6061
+  branch_code: XXX
+  city: Mirrabooka
+  country: Australia
+- name: Russell Investment Group Pty Ltd
+  swift: RUIGAU21XXX
+  swift8: RUIGAU21
+  branch_name: Head Office
+  branch_address: Mlc Centre Sydney 2000
+  branch_code: XXX
+  city: Sydney
+  country: Australia
+- name: Samsung Electronics Australia Pty. Ltd.
+  swift: SECTAU21560
+  swift8: SECTAU21
+  branch_name: Seau
+  branch_address: Homebush Bay
+  branch_code: '560'
+  city: Homebush Bay
+  country: Australia
+- name: Samsung Electronics Australia Pty. Ltd.
+  swift: SECTAU21XXX
+  swift8: SECTAU21
+  branch_name: Head Office
+  branch_address: 8 Parkview Drive Homebush Bay 2127
+  branch_code: XXX
+  city: Homebush Bay
+  country: Australia
+- name: Sandhurst Trustees Limited
+  swift: SATRAU31XXX
+  swift8: SATRAU31
+  branch_name: Head Office
+  branch_address: 18 View Street Bendigo 3550
+  branch_code: XXX
+  city: Bendigo
+  country: Australia
+- name: Schroder Investment Management Australia Limited
+  swift: SIMAAU21XXX
+  swift8: SIMAAU21
+  branch_name: Head Office
+  branch_address: Angel Place Sydney 2000
+  branch_code: XXX
+  city: Sydney
+  country: Australia
+- name: Schroders Investment Management Australia Ltd.
+  swift: SIASAU21XXX
+  swift8: SIASAU21
+  branch_name: Head Office
+  branch_address: Angel Pi, 123 Pitt St Sydney 2000
+  branch_code: XXX
+  city: Sydney
+  country: Australia
+- name: Scott Foster And Partners
+  swift: SCOTAU21XXX
+  swift8: SCOTAU21
+  branch_name: Head Office
+  branch_address: 25 Bligh Street Sydney 2000
+  branch_code: XXX
+  city: Sydney
+  country: Australia
+- name: Select Asset Management Limited
+  swift: SESMAU21XXX
+  swift8: SESMAU21
+  branch_name: Head Office
+  branch_address: 2 Bulletin Place Sydney 2000
+  branch_code: XXX
+  city: Sydney
+  country: Australia
+- name: Seneca Trading Pty Ltd
+  swift: STPYAU21XXX
+  swift8: STPYAU21
+  branch_name: Head Office
+  branch_address: 5 Elizabeth Street Sydney 2000
+  branch_code: XXX
+  city: Sydney
+  country: Australia
+- name: Sentinel Financial Group Pty Ltd
+  swift: SFGPAU61XXX
+  swift8: SFGPAU61
+  branch_name: Head Office
+  branch_address: St Martins Tower Perth 6000
+  branch_code: XXX
+  city: Perth
+  country: Australia
+- name: Sg Hiscock And Company Limited
+  swift: HICNAU31XXX
+  swift8: HICNAU31
+  branch_name: Head Office
+  branch_address: Optus Centre Melbourne 3000
+  branch_code: XXX
+  city: Melbourne
+  country: Australia
+- name: Shadforths Ltd.
+  swift: SHADAU71XXX
+  swift8: SHADAU71
+  branch_name: Head Office
+  branch_address: Reserve Bank Building Hobart 7000
+  branch_code: XXX
+  city: Hobart
+  country: Australia
+- name: Shaw Stockbroking Limited
+  swift: SHSGAU21XXX
+  swift8: SHSGAU21
+  branch_name: Head Office
+  branch_address: Bnp Building Sydney 2000
+  branch_code: XXX
+  city: Sydney
+  country: Australia
+- name: Smallco Investment Manager Limited
+  swift: SMIAAU21XXX
+  swift8: SMIAAU21
+  branch_name: Head Office
+  branch_address: Select House Sydney 2000
+  branch_code: XXX
+  city: Sydney
+  country: Australia
+- name: Smf Funds Management Ltd
+  swift: SMFMAU31XXX
+  swift8: SMFMAU31
+  branch_name: Head Office
+  branch_address: 30 Collins Street Melbourne 3001
+  branch_code: XXX
+  city: Melbourne
+  country: Australia
+- name: Smf Superoptions Proprietary Limited
+  swift: HAMRAU31XXX
+  swift8: HAMRAU31
+  branch_name: Head Office
+  branch_address: 140 William Street Melbourne 3000
+  branch_code: XXX
+  city: Melbourne
+  country: Australia
+- name: Smith New Court Australia Ltd.
+  swift: SNCAAU21XXX
+  swift8: SNCAAU21
+  branch_name: Head Office
+  branch_address: 16 Spring Street Sydney 2000
+  branch_code: XXX
+  city: Sydney
+  country: Australia
+- name: Societe Generale, Australia Branch
+  swift: SOGEAU21XXX
+  swift8: SOGEAU21
+  branch_name: Head Office
+  branch_address: George Street 400 Sydney 2000
+  branch_code: XXX
+  city: Sydney
+  country: Australia
+- name: Solaris Investment Management Limited
+  swift: SOITAU41XXX
+  swift8: SOITAU41
+  branch_name: Head Office
+  branch_address: Riparian Plaza Brisbane 4000
+  branch_code: XXX
+  city: Brisbane
+  country: Australia
+- name: Souls Funds Management Limited
+  swift: SOFGAU21XXX
+  swift8: SOFGAU21
+  branch_name: Head Office
+  branch_address: 15 Castlereagh Street Sydney 2000
+  branch_code: XXX
+  city: Sydney
+  country: Australia
+- name: South West Slopes Credit Union Ltd
+  swift: SWSRAU21XXX
+  swift8: SWSRAU21
+  branch_name: Head Office
+  branch_address: 89 Boorowa Street Young 2594
+  branch_code: XXX
+  city: Young
+  country: Australia
+- name: Southern Cross Equities Limited
+  swift: INARAU21XXX
+  swift8: INARAU21
+  branch_name: Head Office
+  branch_address: Aurora Place,88 Phillip Street Sydney 2000
+  branch_code: XXX
+  city: Sydney
+  country: Australia
+- name: Southern Cross Equities Limited
+  swift: SOCQAU21XXX
+  swift8: SOCQAU21
+  branch_name: Head Office
+  branch_address: Aurora Place Sydney 2000
+  branch_code: XXX
+  city: Sydney
+  country: Australia
+- name: Spectrum Asset Management Limited
+  swift: SPAGAU21XXX
+  swift8: SPAGAU21
+  branch_name: Head Office
+  branch_address: 30 Clarence Street Sydney 2000
+  branch_code: XXX
+  city: Sydney
+  country: Australia
+- name: St Helens Capital Pty Limited
+  swift: STHEAU21XXX
+  swift8: STHEAU21
+  branch_name: Head Office
+  branch_address: 155 George Street Sydney 2000
+  branch_code: XXX
+  city: Sydney
+  country: Australia
+- name: State One Stockbroking Limited
+  swift: STOTAU61XXX
+  swift8: STOTAU61
+  branch_name: Head Office
+  branch_address: 172 St Georges Terrace Perth 6000
+  branch_code: XXX
+  city: Perth
+  country: Australia
+- name: State Street Australia Limited
+  swift: SSALAU2XXXX
+  swift8: SSALAU2X
+  branch_name: Head Office
+  branch_address: State Street Center Sydney 2000
+  branch_code: XXX
+  city: Sydney
+  country: Australia
+- name: State Street Global Advisors Australia Ltd
+  swift: SSGDAU21XXX
+  swift8: SSGDAU21
+  branch_name: Head Office
+  branch_address: 88 Phillip Street Sydney 2000
+  branch_code: XXX
+  city: Sydney
+  country: Australia
+- name: Statton Securities
+  swift: STATAU21XXX
+  swift8: STATAU21
+  branch_name: Head Office
+  branch_address: 13-15 Bridge Street Sydney 2000
+  branch_code: XXX
+  city: Sydney
+  country: Australia
+- name: Sumitomo Mitsui Finance Australia Limited
+  swift: SIFAAU21XXX
+  swift8: SIFAAU21
+  branch_name: Head Office
+  branch_address: Chifley Tower Sydney 2000
+  branch_code: XXX
+  city: Sydney
+  country: Australia
+- name: Sumitomo Trust Finance (australia) Limited
+  swift: SUMAAU21XXX
+  swift8: SUMAAU21
+  branch_name: Head Office
+  branch_address: Mlc Centre Sydney 2000
+  branch_code: XXX
+  city: Sydney
+  country: Australia
+- name: Suncorp Custodian Services
+  swift: SUCVAU21XXX
+  swift8: SUCVAU21
+  branch_name: Head Office
+  branch_address: 321 Kent Street Sydney 2000
+  branch_code: XXX
+  city: Sydney
+  country: Australia
+- name: Suncorp Life And Super
+  swift: SULUAU21XXX
+  swift8: SULUAU21
+  branch_name: Head Office
+  branch_address: 321 Kent Street Sydney 2026
+  branch_code: XXX
+  city: Sydney
+  country: Australia
+- name: Super Investment Management Pty Ltd
+  swift: SIAYAU31XXX
+  swift8: SIAYAU31
+  branch_name: No branch name
+  branch_address: No branch address
+  branch_code: XXX
+  city: Melbourne
+  country: Australia
+- name: Tasman Foreign Exchange Pty Ltd
+  swift: TFEPAUS1XXX
+  swift8: TFEPAUS1
+  branch_name: Head Office
+  branch_address: 95 Pitt Street Sydney Nsw 2000
+  branch_code: XXX
+  city: Sydney
+  country: Australia
+- name: Taurus Funds Management
+  swift: TAFGAU21XXX
+  swift8: TAFGAU21
+  branch_name: Head Office
+  branch_address: Rbs Building Sydney 2000
+  branch_code: XXX
+  city: Sydney
+  country: Australia
+- name: Taylor Collison Ltd.
+  swift: TAYLAU51XXX
+  swift8: TAYLAU51
+  branch_name: Head Office
+  branch_address: 12 Pirie Street Adelaide 5000
+  branch_code: XXX
+  city: Adelaide
+  country: Australia
+- name: Telstra Super Pty Ltd
+  swift: TSUPAU31XXX
+  swift8: TSUPAU31
+  branch_name: Head Office
+  branch_address: 215 Spring St Melbourne 3000
+  branch_code: XXX
+  city: Melbourne
+  country: Australia
+- name: Tfp Group (wa) Pty Ltd
+  swift: TFGPAU21XXX
+  swift8: TFGPAU21
+  branch_name: Head Office
+  branch_address: No 44 Sydney 2000
+  branch_code: XXX
+  city: Sydney
+  country: Australia
+- name: The Australian National Registry Of Emissions Units
+  swift: ANRMAU21XXX
+  swift8: ANRMAU21
+  branch_name: Head Office
+  branch_address: The Department of Climate Change Canberra 2600
+  branch_code: XXX
+  city: Canberra
+  country: Australia
+- name: The Trust Company Limited
+  swift: TRCUAU21XXX
+  swift8: TRCUAU21
+  branch_name: Head Office
+  branch_address: 20 Bond Street Sydney 2000
+  branch_code: XXX
+  city: Sydney
+  country: Australia
+- name: The Vault Australia Pty Ltd
+  swift: VAAPAU21XXX
+  swift8: VAAPAU21
+  branch_name: No branch name
+  branch_address: No branch address
+  branch_code: XXX
+  city: Sydney
+  country: Australia
+- name: Third Party Platform Pty Ltd
+  swift: TPPPAUS1XXX
+  swift8: TPPPAUS1
+  branch_name: Head Office
+  branch_address: 210 George Street Sydney 2000
+  branch_code: XXX
+  city: Sydney
+  country: Australia
+- name: Thonemann Robertson Thompson Pty Ltd.
+  swift: THONAU31XXX
+  swift8: THONAU31
+  branch_name: Head Office
+  branch_address: 395 Collins Street Melbourne 3000
+  branch_code: XXX
+  city: Melbourne
+  country: Australia
+- name: Three Fish Asset Management Pty Ltd
+  swift: TFAAAU31XXX
+  swift8: TFAAAU31
+  branch_name: Head Office
+  branch_address: 121 Flinders Lane Melbourne 3000
+  branch_code: XXX
+  city: Melbourne
+  country: Australia
+- name: Timber Hill Australia Pty Ltd
+  swift: THAPAU21XXX
+  swift8: THAPAU21
+  branch_name: Head Office
+  branch_address: 56 Pitt Street Sydney 2000
+  branch_code: XXX
+  city: Sydney
+  country: Australia
+- name: Tir Securities (australia) Pty. Ltd.
+  swift: STIRAU31XXX
+  swift8: STIRAU31
+  branch_name: Head Office
+  branch_address: 99 William Street Melbourne 2000
+  branch_code: XXX
+  city: Melbourne
+  country: Australia
+- name: Tolhurst Ltd
+  swift: TOLNAU31XXX
+  swift8: TOLNAU31
+  branch_name: Head Office
+  branch_address: 35 Collins Street Melbourne 3000
+  branch_code: XXX
+  city: Melbourne
+  country: Australia
+- name: Totus Alpha Management Pty Ltd
+  swift: TAMTAU21XXX
+  swift8: TAMTAU21
+  branch_name: Head Office
+  branch_address: Building 30 Sydney 2088
+  branch_code: XXX
+  city: Sydney
+  country: Australia
+- name: Tower Australia Limited
+  swift: TOAUAU21XXX
+  swift8: TOAUAU21
+  branch_name: Head Office
+  branch_address: 80 Alfred Street Sydney 2061
+  branch_code: XXX
+  city: Sydney
+  country: Australia
+- name: Transmarket Trading Pty Limited
+  swift: TRTPAU21XXX
+  swift8: TRTPAU21
+  branch_name: Head Office
+  branch_address: 189 Kent Street Sydney 2000
+  branch_code: XXX
+  city: Sydney
+  country: Australia
+- name: Treasury Group
+  swift: TRGPAU21XXX
+  swift8: TRGPAU21
+  branch_name: Head Office
+  branch_address: 275 George Street Sydney 2000
+  branch_code: XXX
+  city: Sydney
+  country: Australia
+- name: Tribeca Investment Partners Pty Ltd
+  swift: JIMPAU21XXX
+  swift8: JIMPAU21
+  branch_name: Head Office
+  branch_address: 25 Bigh Street Sydney 2000
+  branch_code: XXX
+  city: Sydney
+  country: Australia
+- name: Tricom Equities Limited
+  swift: TREQAU21XXX
+  swift8: TREQAU21
+  branch_name: Head Office
+  branch_address: Governor Phillip Tower Sydney 2000
+  branch_code: XXX
+  city: Sydney
+  country: Australia
+- name: Tyndall Investment Management
+  swift: TYINAU21XXX
+  swift8: TYINAU21
+  branch_name: Head Office
+  branch_address: 2 Market Street Sydney 2000
+  branch_code: XXX
+  city: Sydney
+  country: Australia
+- name: Ubs Global Asset Management (australia) Ltd
+  swift: UGAMAU21XXX
+  swift8: UGAMAU21
+  branch_name: Head Office
+  branch_address: Chifley Tower Sydney 2000
+  branch_code: XXX
+  city: Sydney
+  country: Australia
+- name: Ubs Securities Australia Ltd
+  swift: UWAEAU21SSE
+  swift8: UWAEAU21
+  branch_name: New Ubs Aust Bic Post Settlement System Migration
+  branch_address: No branch address
+  branch_code: SSE
+  city: Sydney
+  country: Australia
+- name: Ubs Securities Australia Ltd
+  swift: UWAEAU21XXX
+  swift8: UWAEAU21
+  branch_name: Head Office
+  branch_address: Chifley Tower Sydney 2000
+  branch_code: XXX
+  city: Sydney
+  country: Australia
+- name: Ubs Wealth Management Australia Ltd
+  swift: UPCAAU31XXX
+  swift8: UPCAAU31
+  branch_name: Head Office
+  branch_address: 8 Exhibition Street Melbourne
+  branch_code: XXX
+  city: Melbourne
+  country: Australia
+- name: Ugl Engineering Pty Ltd
+  swift: UGLLAU21XXX
+  swift8: UGLLAU21
+  branch_name: No branch name
+  branch_address: No branch address
+  branch_code: XXX
+  city: North Sydney
+  country: Australia
+- name: Ugl Services Pty Ltd
+  swift: DTZLAU21XXX
+  swift8: DTZLAU21
+  branch_name: No branch name
+  branch_address: No branch address
+  branch_code: XXX
+  city: North Sydney
+  country: Australia
+- name: Unaval Holdings Pty Ltd
+  swift: HECSAU21XXX
+  swift8: HECSAU21
+  branch_name: Head Office
+  branch_address: 280 George Street Sydney 2000
+  branch_code: XXX
+  city: Sydney
+  country: Australia
+- name: Unisuper Limited
+  swift: UNMAAU31XXX
+  swift8: UNMAAU31
+  branch_name: Head Office
+  branch_address: 385 Bourke Street Melbourne 3000
+  branch_code: XXX
+  city: Melbourne
+  country: Australia
+- name: Unisuper Limited
+  swift: UNMAAU3MXXX
+  swift8: UNMAAU3M
+  branch_name: Aim/Poms Service
+  branch_address: No branch address
+  branch_code: XXX
+  city: Melbourne
+  country: Australia
+- name: Unisuper Limited
+  swift: UNMAAUM1XXX
+  swift8: UNMAAUM1
+  branch_name: Aim-Poms Service
+  branch_address: Bourke Street, 385 Melbourne 3000
+  branch_code: XXX
+  city: Melbourne
+  country: Australia
+- name: Vanguard Investments Australia Ltd
+  swift: VGRDAU3MXXX
+  swift8: VGRDAU3M
+  branch_name: Head Office
+  branch_address: Freshwater Place Southbank 3006
+  branch_code: XXX
+  city: Southbank
+  country: Australia
+- name: Veritas Securities Limited
+  swift: VERCAU21XXX
+  swift8: VERCAU21
+  branch_name: Head Office
+  branch_address: Level 4-175 Macquarie Street Sydney 2000
+  branch_code: XXX
+  city: Sydney
+  country: Australia
+- name: Vertex Capital Management Ltd
+  swift: VECMAU21XXX
+  swift8: VECMAU21
+  branch_name: Head Office
+  branch_address: Exchange Centre Sydney 2000
+  branch_code: XXX
+  city: Sydney
+  country: Australia
+- name: Vichingo Global Investors Fund
+  swift: VGIFAU21XXX
+  swift8: VGIFAU21
+  branch_name: Head Office
+  branch_address: 39 Phillip Street Sydney 2000
+  branch_code: XXX
+  city: Sydney
+  country: Australia
+- name: Victorian Funds Management Corporation
+  swift: VFMCAU31XXX
+  swift8: VFMCAU31
+  branch_name: Head Office
+  branch_address: 101 Collins Street Melbourne 3000
+  branch_code: XXX
+  city: Melbourne
+  country: Australia
+- name: Vinton Smith, Dougall Ltd.
+  swift: VINTAU31XXX
+  swift8: VINTAU31
+  branch_name: Head Office
+  branch_address: 90 William Street Melbourne 3000
+  branch_code: XXX
+  city: Melbourne
+  country: Australia
+- name: Wallara Asset Management Pty. Ltd.
+  swift: WALAAU31XXX
+  swift8: WALAAU31
+  branch_name: Head Office
+  branch_address: 100 Collins Street Melbourne 3000
+  branch_code: XXX
+  city: Melbourne
+  country: Australia
+- name: Warakirri Asset Management Pty Ltd
+  swift: WAMAAU31XXX
+  swift8: WAMAAU31
+  branch_name: Head Office
+  branch_address: 53 Queen Street Melbourne 3000
+  branch_code: XXX
+  city: Melbourne
+  country: Australia
+- name: Wesfarmers Limited
+  swift: WEFFAU6PXXX
+  swift8: WEFFAU6P
+  branch_name: Head Office
+  branch_address: Wesfarmers House Perth 6000
+  branch_code: XXX
+  city: Perth
+  country: Australia
+- name: Westpac Securities Limited
+  swift: WSECAU21XXX
+  swift8: WSECAU21
+  branch_name: Head Office
+  branch_address: Chifley Tower Sydney 2000
+  branch_code: XXX
+  city: Sydney
+  country: Australia
+- name: White Outsourcing Pty Limited
+  swift: WHTEAU2SXXX
+  swift8: WHTEAU2S
+  branch_name: Head Office
+  branch_address: 20 Hunter Street Sydney 2000
+  branch_code: XXX
+  city: Sydney
+  country: Australia
+- name: White Outsourcing Pty Limited
+  swift: WHTEAU21XXX
+  swift8: WHTEAU21
+  branch_name: Head Office
+  branch_address: 20 Hunter Street Sydney 2000
+  branch_code: XXX
+  city: Sydney
+  country: Australia
+- name: White Outsourcing Pty Ltd
+  swift: WFMPAU21XXX
+  swift8: WFMPAU21
+  branch_name: Head Office
+  branch_address: Cml Building Sydney 2570
+  branch_code: XXX
+  city: Sydney
+  country: Australia
+- name: William Noall Ltd.
+  swift: NOALAU31XXX
+  swift8: NOALAU31
+  branch_name: Head Office
+  branch_address: 360 Collins Street Melbourne 3000
+  branch_code: XXX
+  city: Melbourne
+  country: Australia
+- name: Wilson Asset Management (international) Pty Ltd
+  swift: WAMIAUS1XXX
+  swift8: WAMIAUS1
+  branch_name: Head Office
+  branch_address: Macquarie Street Sydney 0000
+  branch_code: XXX
+  city: Sydney
+  country: Australia
+- name: Wilson Htm Ltd.
+  swift: WIHTAU41XXX
+  swift8: WIHTAU41
+  branch_name: Head Office
+  branch_address: Riparian Plaza Brisbane 4000
+  branch_code: XXX
+  city: Brisbane
+  country: Australia
+- name: Wkj Pty Ltd
+  swift: PEJOAU41XXX
+  swift8: PEJOAU41
+  branch_name: Head Office
+  branch_address: Fai Building Brisbane 4000
+  branch_code: XXX
+  city: Brisbane
+  country: Australia
+- name: Zurich Financial Services Australia Ltd
+  swift: ZFSSAU21XXX
+  swift8: ZFSSAU21
+  branch_name: Head Office
+  branch_address: 5 Blue Street Sydney 2000
+  branch_code: XXX
+  city: Sydney
+  country: Australia

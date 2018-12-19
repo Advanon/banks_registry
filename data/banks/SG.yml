@@ -1,0 +1,4107 @@
+---
+SG:
+- name: Afc Merchant Bank
+  swift: AFCMSGSGXXX
+  swift8: AFCMSGSG
+  branch_name: Head Office
+  branch_address: Bangkok Bank Building Singapore 069546
+  branch_code: XXX
+  city: Singapore
+  country: Singapore
+- name: Agricultural Bank Of China Limited Singapore Branch
+  swift: ABOCSGSGXXX
+  swift8: ABOCSGSG
+  branch_name: Head Office
+  branch_address: Uob Plaza 2 Singapore 048624
+  branch_code: XXX
+  city: Singapore
+  country: Singapore
+- name: Antwerp Diamond Bank Asia Pacific Ltd
+  swift: ADIASGSGXXX
+  swift8: ADIASGSG
+  branch_name: Head Office
+  branch_address: Prudential Tower Singapore 049712
+  branch_code: XXX
+  city: Singapore
+  country: Singapore
+- name: Arab Bank Plc
+  swift: ARABSGSGXXX
+  swift8: ARABSGSG
+  branch_name: Head Office
+  branch_address: Uob Plaza Singapore 048624
+  branch_code: XXX
+  city: Singapore
+  country: Singapore
+- name: Australia And New Zealand Banking Group Limited
+  swift: ANZBSGSXXXX
+  swift8: ANZBSGSX
+  branch_name: Head Office
+  branch_address: Ocean Financial Centre Singapore 049315
+  branch_code: XXX
+  city: Singapore
+  country: Singapore
+- name: Australia And New Zealand Banking Group Limited
+  swift: ANZBSGSXAFX
+  swift8: ANZBSGSX
+  branch_name: Singapore
+  branch_address: Singapore
+  branch_code: AFX
+  city: Singapore
+  country: Singapore
+- name: Axis Bank Limited
+  swift: AXISSGSGIPB
+  swift8: AXISSGSG
+  branch_name: International Private Banking
+  branch_address: Singapore 048619
+  branch_code: IPB
+  city: Singapore
+  country: Singapore
+- name: Axis Bank Limited
+  swift: AXISSGSGXXX
+  swift8: AXISSGSG
+  branch_name: Head Office
+  branch_address: Republic Plaza Singapore 048619
+  branch_code: XXX
+  city: Singapore
+  country: Singapore
+- name: Banco Bilbao Vizcaya Argentaria Singapore Branch
+  swift: BBVASGSGXXX
+  swift8: BBVASGSG
+  branch_name: Head Office
+  branch_address: Uob Plaza Singapore 048624
+  branch_code: XXX
+  city: Singapore
+  country: Singapore
+- name: Bank Julius Baer And Co. Ltd.
+  swift: BAERSGSGXXX
+  swift8: BAERSGSG
+  branch_name: Head Office
+  branch_address: 1 George Street 21-04 Singapore 049145
+  branch_code: XXX
+  city: Singapore
+  country: Singapore
+- name: Bank Mandiri (Persero)Tbk. Pt
+  swift: BMRISGSGXXX
+  swift8: BMRISGSG
+  branch_name: Head Office
+  branch_address: Springleaf Tower Singapore 079909
+  branch_code: XXX
+  city: Singapore
+  country: Singapore
+- name: Bank Negara Indonesia (Persero) P.T.
+  swift: BNINSGSGXXX
+  swift8: BNINSGSG
+  branch_name: Head Office
+  branch_address: Dapenso Building Singapore 069545
+  branch_code: XXX
+  city: Singapore
+  country: Singapore
+- name: Bank Of America (Singapore) Ltd.
+  swift: BOFASG3XEMG
+  swift8: BOFASG3X
+  branch_name: Emerging Markets Group
+  branch_address: Singapore
+  branch_code: EMG
+  city: Singapore
+  country: Singapore
+- name: Bank Of America (Singapore) Ltd.
+  swift: BOFASG3XXXX
+  swift8: BOFASG3X
+  branch_name: Head Office
+  branch_address: 78 Shenton Way Singapore 079120
+  branch_code: XXX
+  city: Singapore
+  country: Singapore
+- name: Bank Of America (Singapore) Ltd.
+  swift: BOFASG3XJVC
+  swift8: BOFASG3X
+  branch_name: Singapore
+  branch_address: Singapore
+  branch_code: JVC
+  city: Singapore
+  country: Singapore
+- name: Bank Of America N.A. Singapore
+  swift: BOFASG2XACU
+  swift8: BOFASG2X
+  branch_name: Asia Currency Unit
+  branch_address: 78 Shenton Way Singapore 079120
+  branch_code: ACU
+  city: Singapore
+  country: Singapore
+- name: Bank Of America N.A. Singapore
+  swift: BOFASG2XXXX
+  swift8: BOFASG2X
+  branch_name: Head Office
+  branch_address: Republic Plaza Tower 1 Singapore 048619
+  branch_code: XXX
+  city: Singapore
+  country: Singapore
+- name: Bank Of China Limited
+  swift: BKCHSGSGXXX
+  swift8: BKCHSGSG
+  branch_name: Head Office
+  branch_address: Bank of China Building Singapore 049908
+  branch_code: XXX
+  city: Singapore
+  country: Singapore
+- name: Bank Of Communications Singapore Branch
+  swift: COMMSGSGXXX
+  swift8: COMMSGSG
+  branch_name: Head Office
+  branch_address: Singapore Land Tower Singapore 048623
+  branch_code: XXX
+  city: Singapore
+  country: Singapore
+- name: Bank Of India
+  swift: BKIDSGSGXXX
+  swift8: BKIDSGSG
+  branch_name: Head Office
+  branch_address: The Corporate Office Singapore 068906
+  branch_code: XXX
+  city: Singapore
+  country: Singapore
+- name: Bank Of New Zealand
+  swift: BKNZSGSGXXX
+  swift8: BKNZSGSG
+  branch_name: Head Office
+  branch_address: Suntec City Tower Singapore 038985
+  branch_code: XXX
+  city: Singapore
+  country: Singapore
+- name: Bank Of Taiwan
+  swift: BKTWSGSGXXX
+  swift8: BKTWSGSG
+  branch_name: Head Office
+  branch_address: Uob Plaza 2 Singapore 048624
+  branch_code: XXX
+  city: Singapore
+  country: Singapore
+- name: Bank Of Tokyo Mitsubishi Ufj Ltd. The
+  swift: BOTKSGSXXXX
+  swift8: BOTKSGSX
+  branch_name: Singapore Branch
+  branch_address: Republic Plaza Singapore 048619
+  branch_code: XXX
+  city: Singapore
+  country: Singapore
+- name: Bank Of Western Australia Ltd.
+  swift: BKWASGS1XXX
+  swift8: BKWASGS1
+  branch_name: Head Office
+  branch_address: Oub Centre Singapore 048616
+  branch_code: XXX
+  city: Singapore
+  country: Singapore
+- name: Bank Pictet And Cie (Asia) Ltd
+  swift: PICTSGSGXXX
+  swift8: PICTSGSG
+  branch_name: Head Office
+  branch_address: Marina Bay Financial Centre Tower Singapore 018983
+  branch_code: XXX
+  city: Singapore
+  country: Singapore
+- name: Barclays Bank Plc
+  swift: BARCSGSGXXX
+  swift8: BARCSGSG
+  branch_name: Head Office
+  branch_address: Capital Square Singapore 049481
+  branch_code: XXX
+  city: Singapore
+  country: Singapore
+- name: Barclays Bank Plc
+  swift: BARCSGSWXXX
+  swift8: BARCSGSW
+  branch_name: Head Office
+  branch_address: Wealth Management Singapore 048583
+  branch_code: XXX
+  city: Singapore
+  country: Singapore
+- name: Bnp Paribas Securities Services Sa
+  swift: PARBSGSGISI
+  swift8: PARBSGSG
+  branch_name: Global Custody
+  branch_address: Singapore
+  branch_code: ISI
+  city: Singapore
+  country: Singapore
+- name: Bnp Paribas Securities Services Sa
+  swift: PARBSGSGXXX
+  swift8: PARBSGSG
+  branch_name: Head Office
+  branch_address: Tung Centre Singapore 049319
+  branch_code: XXX
+  city: Singapore
+  country: Singapore
+- name: Bnp Paribas Singapore Branch
+  swift: BNPASGSGXXX
+  swift8: BNPASGSG
+  branch_name: Head Office
+  branch_address: Tung Centre Singapore 049319
+  branch_code: XXX
+  city: Singapore
+  country: Singapore
+- name: Bnp Paribas Trust Services Singapore Limited
+  swift: BPTSSGSGXXX
+  swift8: BPTSSGSG
+  branch_name: Head Office
+  branch_address: Tung Centre Singapore 049319
+  branch_code: XXX
+  city: Singapore
+  country: Singapore
+- name: Bnp Paribas Wealth Management (Formerly Known As Bnp Paribas Private Bank)
+  swift: BPPBSGSGXXX
+  swift8: BPPBSGSG
+  branch_name: Head Office
+  branch_address: Tung Centre Singapore 049319
+  branch_code: XXX
+  city: Singapore
+  country: Singapore
+- name: Bsi Bank Limited Singapore
+  swift: BSILSGSGXXX
+  swift8: BSILSGSG
+  branch_name: Head Office
+  branch_address: Suntec City Tower One Singapore 038987
+  branch_code: XXX
+  city: Singapore
+  country: Singapore
+- name: Canadian Imperial Bank Of Commerce
+  swift: CIBCSGSGXXX
+  swift8: CIBCSGSG
+  branch_name: Head Office
+  branch_address: Hitachi Tower Singapore 049138
+  branch_code: XXX
+  city: Singapore
+  country: Singapore
+- name: Cargill Tsf Asia Pte. Ltd.
+  swift: CTSFSGSGXXX
+  swift8: CTSFSGSG
+  branch_name: Head Office
+  branch_address: The Concourse Singapore 199555
+  branch_code: XXX
+  city: Singapore
+  country: Singapore
+- name: Chang Hwa Commercial Bank Ltd.
+  swift: CCBCSGSGXXX
+  swift8: CCBCSGSG
+  branch_name: Head Office
+  branch_address: 1 Finlayson Green, 08-00 Singapore 049246
+  branch_code: XXX
+  city: Singapore
+  country: Singapore
+- name: China Construction Bank Corporation, Singapore Branch
+  swift: PCBCSGSGXXX
+  swift8: PCBCSGSG
+  branch_name: Head Office
+  branch_address: Republic Plaza Singapore 048619
+  branch_code: XXX
+  city: Singapore
+  country: Singapore
+- name: Chinatrust Commercial Bank Singapore Branch
+  swift: CTCBSGSGXXX
+  swift8: CTCBSGSG
+  branch_name: Head Office
+  branch_address: Oub Centre Singapore
+  branch_code: XXX
+  city: Singapore
+  country: Singapore
+- name: Cimb Bank Berhad
+  swift: CIBBSGSGXXX
+  swift8: CIBBSGSG
+  branch_name: Head Office
+  branch_address: Singapore Land Tower Singapore 048623
+  branch_code: XXX
+  city: Singapore
+  country: Singapore
+- name: Citibank N.A
+  swift: CITISGSGCC1
+  swift8: CITISGSG
+  branch_name: Cc1
+  branch_address: Singapore
+  branch_code: CC1
+  city: Singapore
+  country: Singapore
+- name: Citibank N.A
+  swift: CITISGSGCDP
+  swift8: CITISGSG
+  branch_name: Cdp-for Pre-Authorised Cdp Limited Use Only
+  branch_address: Singapore
+  branch_code: CDP
+  city: Singapore
+  country: Singapore
+- name: Citibank N.A
+  swift: CITISGSGDFA
+  swift8: CITISGSG
+  branch_name: Recon Trade
+  branch_address: Singapore
+  branch_code: DFA
+  city: Singapore
+  country: Singapore
+- name: Citibank N.A
+  swift: CITISGSGEFX
+  swift8: CITISGSG
+  branch_name: Emfx Confirmations
+  branch_address: Singapore
+  branch_code: EFX
+  city: Singapore
+  country: Singapore
+- name: Citibank N.A
+  swift: CITISGSGGCB
+  swift8: CITISGSG
+  branch_name: Global Consumer Banking Unit
+  branch_address: Plaza by the Park Singapore 189554
+  branch_code: GCB
+  city: Singapore
+  country: Singapore
+- name: Citibank N.A
+  swift: CITISGSGHUB
+  swift8: CITISGSG
+  branch_name: Singapore Hub
+  branch_address: Singapore
+  branch_code: HUB
+  city: Singapore
+  country: Singapore
+- name: Citibank N.A
+  swift: CITISGSGNRI
+  swift8: CITISGSG
+  branch_name: Nri Tsu
+  branch_address: Singapore
+  branch_code: NRI
+  city: Singapore
+  country: Singapore
+- name: Citibank N.A
+  swift: CITISGSGPBG
+  swift8: CITISGSG
+  branch_name: Private Banking Group
+  branch_address: Uic Building Singapore 068808
+  branch_code: PBG
+  city: Singapore
+  country: Singapore
+- name: Citibank N.A
+  swift: CITISGSGXXX
+  swift8: CITISGSG
+  branch_name: Head Office
+  branch_address: 300 Tampines Avenue 5 Singapore 529653
+  branch_code: XXX
+  city: Singapore
+  country: Singapore
+- name: Citic Bank International Limited Singapore Branch
+  swift: KWHKSGSGXXX
+  swift8: KWHKSGSG
+  branch_name: Head Office
+  branch_address: Prudential Tower Singapore 049712
+  branch_code: XXX
+  city: Singapore
+  country: Singapore
+- name: Clsa Singapore Pte Ltd.
+  swift: CLSSSGSGCHV
+  swift8: CLSSSGSG
+  branch_name: Singapore
+  branch_address: Singapore
+  branch_code: CHV
+  city: Singapore
+  country: Singapore
+- name: Clsa Singapore Pte Ltd.
+  swift: CLSSSGSGXXX
+  swift8: CLSSSGSG
+  branch_name: Head Office
+  branch_address: Republic Plaza Ii Singapore 048619
+  branch_code: XXX
+  city: Singapore
+  country: Singapore
+- name: Commerzbank Ag, Singapore Branch
+  swift: COBASGSXXXX
+  swift8: COBASGSX
+  branch_name: Head Office
+  branch_address: Temasek Tower Singapore 068811
+  branch_code: XXX
+  city: Singapore
+  country: Singapore
+- name: Commonwealth Bank Of Australia
+  swift: CTBASGSGXXX
+  swift8: CTBASGSG
+  branch_name: Head Office
+  branch_address: Millenia Tower Singapore 039192
+  branch_code: XXX
+  city: Singapore
+  country: Singapore
+- name: Coutts And Co Ltd
+  swift: COUTSGSGXXX
+  swift8: COUTSGSG
+  branch_name: Head Office
+  branch_address: South Tower Singapore 048583
+  branch_code: XXX
+  city: Singapore
+  country: Singapore
+- name: Credit Agricole (Suisse)Sa - Singapore Branch
+  swift: AGRISG2XXXX
+  swift8: AGRISG2X
+  branch_name: Head Office
+  branch_address: Capital Tower Singapore 068912
+  branch_code: XXX
+  city: Singapore
+  country: Singapore
+- name: Credit Agricole Cib
+  swift: CRLYSGSG940
+  swift8: CRLYSGSG
+  branch_name: Optim Net-Mt940
+  branch_address: Capital Tower Singapore 068912
+  branch_code: '940'
+  city: Singapore
+  country: Singapore
+- name: Credit Industriel Et Commercial - Singapore Branch
+  swift: CMCISGSGXXX
+  swift8: CMCISGSG
+  branch_name: Head Office
+  branch_address: Republic Plaza Singapore 048619
+  branch_code: XXX
+  city: Singapore
+  country: Singapore
+- name: Credit Suisse (Singapore) Limited
+  swift: CSFBSGSXXXX
+  swift8: CSFBSGSX
+  branch_name: Head Office
+  branch_address: 03/04-01 South Lobby Singapore 039393
+  branch_code: XXX
+  city: Singapore
+  country: Singapore
+- name: Credit Suisse (Singapore) Limited
+  swift: CSFBSGSXIND
+  swift8: CSFBSGSX
+  branch_name: Singapore Division
+  branch_address: Singapore
+  branch_code: IND
+  city: Singapore
+  country: Singapore
+- name: Credit Suisse Ag, Singapore Branch
+  swift: CRESSGSGXXX
+  swift8: CRESSGSG
+  branch_name: Singapore Branch
+  branch_address: 03/04-01 South Lobby Singapore 039393
+  branch_code: XXX
+  city: Singapore
+  country: Singapore
+- name: Credit Suisse Ag, Singapore Private Banking
+  swift: CSPBSGSGXXX
+  swift8: CSPBSGSG
+  branch_name: Head Office
+  branch_address: 1 Raffles Link Singapore 39393
+  branch_code: XXX
+  city: Singapore
+  country: Singapore
+- name: Credit Suisse Securities (Singapore) Pte Ltd
+  swift: CSFBSGSEXXX
+  swift8: CSFBSGSE
+  branch_name: Head Office
+  branch_address: North Lobby Singapore 039393
+  branch_code: XXX
+  city: Singapore
+  country: Singapore
+- name: Custom House Currency Exchange (Singapore) Pte Ltd
+  swift: CHFXSGSGXXX
+  swift8: CHFXSGSG
+  branch_name: Head Office
+  branch_address: 21-03 Tung Centre Singapore 049319
+  branch_code: XXX
+  city: Singapore
+  country: Singapore
+- name: Daimler South East Asia Pte.Ltd.
+  swift: DCAGSGSGIBA
+  swift8: DCAGSGSG
+  branch_name: Industrial Accounts
+  branch_address: Singapore
+  branch_code: IBA
+  city: Singapore
+  country: Singapore
+- name: Daimler South East Asia Pte.Ltd.
+  swift: DCAGSGSGXXX
+  swift8: DCAGSGSG
+  branch_name: Head Office
+  branch_address: Centennial Tower Singapore 39190
+  branch_code: XXX
+  city: Singapore
+  country: Singapore
+- name: Daiwa Capital Markets Singapore Limited
+  swift: DASMSGSGXXX
+  swift8: DASMSGSG
+  branch_name: Head Office
+  branch_address: Dbs Building Singapore 068809
+  branch_code: XXX
+  city: Singapore
+  country: Singapore
+- name: Dbs Bank Ltd
+  swift: DBSSSGSGIBD
+  swift8: DBSSSGSG
+  branch_name: Investment Banking Department
+  branch_address: Singapore
+  branch_code: IBD
+  city: Singapore
+  country: Singapore
+- name: Dbs Bank Ltd
+  swift: DBSSSGSGPCG
+  swift8: DBSSSGSG
+  branch_name: Pcg-Private Banking Department
+  branch_address: Pwc Building Singapore 048424
+  branch_code: PCG
+  city: Singapore
+  country: Singapore
+- name: Dbs Bank Ltd
+  swift: DBSSSGSGXXX
+  swift8: DBSSSGSG
+  branch_name: Head Office
+  branch_address: Dbs Building Singapore 068809
+  branch_code: XXX
+  city: Singapore
+  country: Singapore
+- name: Dbs Vickers Securities (Singapore) Pte Ltd
+  swift: DBSESGSGXXX
+  swift8: DBSESGSG
+  branch_name: Head Office
+  branch_address: Pwc Building Singapore 048424
+  branch_code: XXX
+  city: Singapore
+  country: Singapore
+- name: Deutsche Bank Ag
+  swift: DEUTSGSGDIA
+  swift8: DEUTSGSG
+  branch_name: Singapore
+  branch_address: Singapore
+  branch_code: DIA
+  city: Singapore
+  country: Singapore
+- name: Deutsche Bank Ag
+  swift: DEUTSGSGGMO
+  swift8: DEUTSGSG
+  branch_name: Singapore Branch
+  branch_address: Suntec Tower Five Singapore 038985
+  branch_code: GMO
+  city: Singapore
+  country: Singapore
+- name: Deutsche Bank Ag
+  swift: DEUTSGSGXXX
+  swift8: DEUTSGSG
+  branch_name: Head Office
+  branch_address: South Tower Singapore 048583
+  branch_code: XXX
+  city: Singapore
+  country: Singapore
+- name: Deutsche Bank Ag
+  swift: DEUTSGSREBP
+  swift8: DEUTSGSR
+  branch_name: Cash Admin
+  branch_address: Singapore
+  branch_code: EBP
+  city: Singapore
+  country: Singapore
+- name: Deutsche Bank Ag
+  swift: DEUTSGSRXXX
+  swift8: DEUTSGSR
+  branch_name: Regional Head Office
+  branch_address: Treasury Building Singapore 068811
+  branch_code: XXX
+  city: Singapore
+  country: Singapore
+- name: Deutsche Bank Ag (Private Banking)
+  swift: DEUTSGSPXXX
+  swift8: DEUTSGSP
+  branch_name: Head Office
+  branch_address: Dbs Tower Two Singapore 068809
+  branch_code: XXX
+  city: Singapore
+  country: Singapore
+- name: Dksh Management Pte Ltd
+  swift: DKSHSGSGXXX
+  swift8: DKSHSGSG
+  branch_name: Head Office
+  branch_address: 17-05 United Square Singapore 307591
+  branch_code: XXX
+  city: Singapore
+  country: Singapore
+- name: Dnb Asia Ltd.
+  swift: DNBASGSGMER
+  swift8: DNBASGSG
+  branch_name: Singapore 0106
+  branch_address: Treasury Building Singapore 0106
+  branch_code: MER
+  city: Singapore
+  country: Singapore
+- name: Dnb Bank Asa, Singapore Branch
+  swift: DNBASGSGXXX
+  swift8: DNBASGSG
+  branch_name: Head Office
+  branch_address: Treasury Building Singapore 068811
+  branch_code: XXX
+  city: Singapore
+  country: Singapore
+- name: Dvb Group Merchant Bank (Asia) Ltd
+  swift: DVKBSGSGXXX
+  swift8: DVKBSGSG
+  branch_name: Head Office
+  branch_address: 77 Robinson Road Singapore 068896
+  branch_code: XXX
+  city: Singapore
+  country: Singapore
+- name: Dz Bank Ag, Singapore Branch
+  swift: GENOSGSGXXX
+  swift8: GENOSGSG
+  branch_name: Head Office
+  branch_address: Singapore Land Tower Singapore 048623
+  branch_code: XXX
+  city: Singapore
+  country: Singapore
+- name: Efg Bank Singapore Branch
+  swift: EFGBSGSGXXX
+  swift8: EFGBSGSG
+  branch_name: Head Office
+  branch_address: Oub Centre Singapore 048616
+  branch_code: XXX
+  city: Singapore
+  country: Singapore
+- name: Emirates Nbd Bank Pjsc (Enbd)
+  swift: EBILSGSGXXX
+  swift8: EBILSGSG
+  branch_name: Head Office
+  branch_address: Singapore Lane Tower Singapore 048623
+  branch_code: XXX
+  city: Singapore
+  country: Singapore
+- name: First Commercial Bank
+  swift: FCBKSGSGXXX
+  swift8: FCBKSGSG
+  branch_name: Head Office
+  branch_address: Ic Building Singapore 079119
+  branch_code: XXX
+  city: Singapore
+  country: Singapore
+- name: First Gulf Bank, Singapore Branch
+  swift: FGBMSGSGXXX
+  swift8: FGBMSGSG
+  branch_name: Head Office
+  branch_address: Uob Plaza 1 Singapore 048624
+  branch_code: XXX
+  city: Singapore
+  country: Singapore
+- name: Fullerton (Private) Limited
+  swift: THPLSGSGXXX
+  swift8: THPLSGSG
+  branch_name: Head Office
+  branch_address: The Atrium at Orchard Singapore 238891
+  branch_code: XXX
+  city: Singapore
+  country: Singapore
+- name: Fullerton Fund Management Company Ltd
+  swift: FFMCSGSGXXX
+  swift8: FFMCSGSG
+  branch_name: Head Office
+  branch_address: The Atrium at Orchard Singapore 238891
+  branch_code: XXX
+  city: Singapore
+  country: Singapore
+- name: Goldman Sachs (Singapore) Pte
+  swift: GSSGSGSGXXX
+  swift8: GSSGSGSG
+  branch_name: Head Office
+  branch_address: South Lobby Singapore 039393
+  branch_code: XXX
+  city: Singapore
+  country: Singapore
+- name: Government Of Singapore Investment Corporation Pte Ltd
+  swift: GSICSGSGBAC
+  swift8: GSICSGSG
+  branch_name: Tbc
+  branch_address: Singapore
+  branch_code: BAC
+  city: Singapore
+  country: Singapore
+- name: Government Of Singapore Investment Corporation Pte Ltd
+  swift: GSICSGSGCAC
+  swift8: GSICSGSG
+  branch_name: Tbc
+  branch_address: Singapore
+  branch_code: CAC
+  city: Singapore
+  country: Singapore
+- name: Government Of Singapore Investment Corporation Pte Ltd
+  swift: GSICSGSGHAC
+  swift8: GSICSGSG
+  branch_name: Tbc
+  branch_address: Singapore
+  branch_code: HAC
+  city: Singapore
+  country: Singapore
+- name: Government Of Singapore Investment Corporation Pte Ltd
+  swift: GSICSGSGXXX
+  swift8: GSICSGSG
+  branch_name: Head Office
+  branch_address: Capital Tower Singapore 068912
+  branch_code: XXX
+  city: Singapore
+  country: Singapore
+- name: Habib Bank Limited
+  swift: HABBSGSGXXX
+  swift8: HABBSGSG
+  branch_name: Head Office
+  branch_address: Commerce Point Singapore 048693
+  branch_code: XXX
+  city: Singapore
+  country: Singapore
+- name: Hana Bank (Singapore Branch)
+  swift: HNBNSGSGXXX
+  swift8: HNBNSGSG
+  branch_name: Singapore Branch
+  branch_address: Pwc Building Singapore 048424
+  branch_code: XXX
+  city: Singapore
+  country: Singapore
+- name: Hang Seng Bank Limited, Singapore Branch
+  swift: HASESGSGXXX
+  swift8: HASESGSG
+  branch_name: Head Office
+  branch_address: Hsbc Building Singapore 049320
+  branch_code: XXX
+  city: Singapore
+  country: Singapore
+- name: Hl Bank, Singapore
+  swift: HLBBSGSGXXX
+  swift8: HLBBSGSG
+  branch_name: Head Office
+  branch_address: Tung Centre Singapore 049319
+  branch_code: XXX
+  city: Singapore
+  country: Singapore
+- name: Hsbc Institutional Trust Services (Singapore) Limited
+  swift: BBDASGSXGCA
+  swift8: BBDASGSX
+  branch_name: Global Custody Asia
+  branch_address: Singapore
+  branch_code: GCA
+  city: Singapore
+  country: Singapore
+- name: Hsbc Institutional Trust Services (Singapore) Limited
+  swift: BBDASGSXXXX
+  swift8: BBDASGSX
+  branch_name: Head Office
+  branch_address: Hsbc Building Singapore 049320
+  branch_code: XXX
+  city: Singapore
+  country: Singapore
+- name: Hsbc Securities (Singapore) Pte Ltd
+  swift: HJCSSGSGXXX
+  swift8: HJCSSGSG
+  branch_name: Head Office
+  branch_address: Hsbc Building Singapore 049320
+  branch_code: XXX
+  city: Singapore
+  country: Singapore
+- name: Hsh Nordbank Ag (Formerly Hamburgische Landesbank Girozentrale Singapore Branch)
+  swift: HSHNSGSGXXX
+  swift8: HSHNSGSG
+  branch_name: Head Office
+  branch_address: Centennial Tower Singapore 039190
+  branch_code: XXX
+  city: Singapore
+  country: Singapore
+- name: Hua Nan Commercial Bank, Singapore Branch
+  swift: HNBKSGSGXXX
+  swift8: HNBKSGSG
+  branch_name: Head Office
+  branch_address: 80 Robinson Road Singapore 068898
+  branch_code: XXX
+  city: Singapore
+  country: Singapore
+- name: Icici Bank Limited
+  swift: ICICSGSGCOP
+  swift8: ICICSGSG
+  branch_name: Singapore
+  branch_address: Singapore
+  branch_code: COP
+  city: Singapore
+  country: Singapore
+- name: Icici Bank Limited
+  swift: ICICSGSGCTS
+  swift8: ICICSGSG
+  branch_name: Singapore Branch
+  branch_address: Singapore
+  branch_code: CTS
+  city: Singapore
+  country: Singapore
+- name: Icici Bank Limited
+  swift: ICICSGSGIPB
+  swift8: ICICSGSG
+  branch_name: Singapore Branch
+  branch_address: Singapore
+  branch_code: IPB
+  city: Singapore
+  country: Singapore
+- name: Icici Bank Limited
+  swift: ICICSGSGMOG
+  swift8: ICICSGSG
+  branch_name: Singapore Branch
+  branch_address: Singapore
+  branch_code: MOG
+  city: Singapore
+  country: Singapore
+- name: Icici Bank Limited
+  swift: ICICSGSGSMS
+  swift8: ICICSGSG
+  branch_name: Smxcc
+  branch_address: 9 Raffles Place Singapore 048619
+  branch_code: SMS
+  city: Singapore
+  country: Singapore
+- name: Icici Bank Limited
+  swift: ICICSGSGXXX
+  swift8: ICICSGSG
+  branch_name: Head Office
+  branch_address: Republic Plaza Singapore 048619
+  branch_code: XXX
+  city: Singapore
+  country: Singapore
+- name: Icici Bank Limited
+  swift: ICICSGSGRET
+  swift8: ICICSGSG
+  branch_name: Singapore
+  branch_address: John Hancock Tower Singapore 048580
+  branch_code: RET
+  city: Singapore
+  country: Singapore
+- name: Indian Bank
+  swift: IDIBSGSGXXX
+  swift8: IDIBSGSG
+  branch_name: Head Office
+  branch_address: Bharat Building Singapore 048 617
+  branch_code: XXX
+  city: Singapore
+  country: Singapore
+- name: Indian Overseas Bank
+  swift: IOBASGSGXXX
+  swift8: IOBASGSG
+  branch_name: Head Office
+  branch_address: Iob Building Singapore 049711
+  branch_code: XXX
+  city: Singapore
+  country: Singapore
+- name: Industrial And Commercial Bank Of China
+  swift: ICBKSGSGXXX
+  swift8: ICBKSGSG
+  branch_name: Head Office
+  branch_address: John Hancock Tower Singapore 048580
+  branch_code: XXX
+  city: Singapore
+  country: Singapore
+- name: Industrial And Commercial Bank Of China
+  swift: ICBKSGSGCLR
+  swift8: ICBKSGSG
+  branch_name: Rmb Clearing Bank
+  branch_address: Singapore
+  branch_code: CLR
+  city: Singapore
+  country: Singapore
+- name: Ing Bank N.V.
+  swift: INGBSGSGXXX
+  swift8: INGBSGSG
+  branch_name: Head Office
+  branch_address: Republic Plaza Singapore 048623
+  branch_code: XXX
+  city: Singapore
+  country: Singapore
+- name: Intesa Sanpaolo S.P.A. (Former Sanpaolo Imi), Singapore Branch, Singapore
+  swift: BCITSGSGXXX
+  swift8: BCITSGSG
+  branch_name: Head Office
+  branch_address: Suntec Tower Four Singapore 038986
+  branch_code: XXX
+  city: Singapore
+  country: Singapore
+- name: Investment Company Of The Peoples Republic Of China (Singapore) Pte Ltd.,
+    Singapore
+  swift: PBOCSGSGXXX
+  swift8: PBOCSGSG
+  branch_name: Head Office
+  branch_address: Uob Plaza 1 Singapore 048624
+  branch_code: XXX
+  city: Singapore
+  country: Singapore
+- name: J.P. Morgan (S.E.A.) Limited
+  swift: CMSESGSGKEY
+  swift8: CMSESGSG
+  branch_name: Test Key and Bke Administration
+  branch_address: Singapore
+  branch_code: KEY
+  city: Singapore
+  country: Singapore
+- name: J.P. Morgan (S.E.A.) Limited
+  swift: CMSESGSGXXX
+  swift8: CMSESGSG
+  branch_name: Head Office
+  branch_address: Capital Tower Singapore 068912
+  branch_code: XXX
+  city: Singapore
+  country: Singapore
+- name: Jp Morgan Chase Bank, N.A
+  swift: CHASSGSGKEY
+  swift8: CHASSGSG
+  branch_name: Test Key and Bke Administration
+  branch_address: Singapore
+  branch_code: KEY
+  city: Singapore
+  country: Singapore
+- name: Jp Morgan Chase Bank, N.A
+  swift: CHASSGSGPBI
+  swift8: CHASSGSG
+  branch_name: Private Banking Department
+  branch_address: Singapore
+  branch_code: PBI
+  city: Singapore
+  country: Singapore
+- name: Jp Morgan Chase Bank, N.A
+  swift: CHASSGSGTRO
+  swift8: CHASSGSG
+  branch_name: Fx Trader Support, Singapore
+  branch_address: Singapore
+  branch_code: TRO
+  city: Singapore
+  country: Singapore
+- name: Jp Morgan Chase Bank, N.A
+  swift: CHASSGSGXXX
+  swift8: CHASSGSG
+  branch_name: Head Office
+  branch_address: Capital Tower Singapore 068912
+  branch_code: XXX
+  city: Singapore
+  country: Singapore
+- name: Jp Morgan Chase Bank, N.A
+  swift: CHASSGSPXXX
+  swift8: CHASSGSP
+  branch_name: Head Office
+  branch_address: Capital Tower Singapore
+  branch_code: XXX
+  city: Singapore
+  country: Singapore
+- name: Kbc Bank Singapore Branch
+  swift: KREDSGSXXXX
+  swift8: KREDSGSX
+  branch_name: Head Office
+  branch_address: Prudential Tower Singapore 049712
+  branch_code: XXX
+  city: Singapore
+  country: Singapore
+- name: Keppel Corporation Limited
+  swift: KEPCSGSGXXX
+  swift8: KEPCSGSG
+  branch_name: Head Office
+  branch_address: Keppel Bay Tower Singapore 096832
+  branch_code: XXX
+  city: Singapore
+  country: Singapore
+- name: Korea Development Bank, The
+  swift: KODBSGSGXXX
+  swift8: KODBSGSG
+  branch_name: Singapore Branch
+  branch_address: Temasek Tower Singapore 068811
+  branch_code: XXX
+  city: Singapore
+  country: Singapore
+- name: Korea Exchange Bank, Singapore Branch
+  swift: KOEXSGSGXXX
+  swift8: KOEXSGSG
+  branch_name: Head Office
+  branch_address: Prudential Tower Singapore 049712
+  branch_code: XXX
+  city: Singapore
+  country: Singapore
+- name: Krung Thai Bank Plc, Singapore Bran Ch
+  swift: KRTHSGSGXXX
+  swift8: KRTHSGSG
+  branch_name: Head Office
+  branch_address: Ocbc Centre Singapore 049513
+  branch_code: XXX
+  city: Singapore
+  country: Singapore
+- name: Land Bank Of Taiwan, Singapore Branch
+  swift: LBOTSGSGXXX
+  swift8: LBOTSGSG
+  branch_name: Head Office
+  branch_address: Uob Plaza 1 Singapore 048624
+  branch_code: XXX
+  city: Singapore
+  country: Singapore
+- name: Landesbank Baden-Wuerttemberg
+  swift: SOLASGSGXXX
+  swift8: SOLASGSG
+  branch_name: Head Office
+  branch_address: German Center Singapore 609916
+  branch_code: XXX
+  city: Singapore
+  country: Singapore
+- name: Lgt Bank (Singapore) Ltd.
+  swift: BLFLSGSGXXX
+  swift8: BLFLSGSG
+  branch_name: Head Office
+  branch_address: Centennial Tower Singapore 039190
+  branch_code: XXX
+  city: Singapore
+  country: Singapore
+- name: Lion Capital Management Limited
+  swift: OAMLSGSGXXX
+  swift8: OAMLSGSG
+  branch_name: Head Office
+  branch_address: One George Street 08-01 Singapore 049145
+  branch_code: XXX
+  city: Singapore
+  country: Singapore
+- name: Lloyds Tsb Bank Plc, Singapore
+  swift: LOYDSGSGXXX
+  swift8: LOYDSGSG
+  branch_name: Head Office
+  branch_address: Millenia Tower Singapore 039192
+  branch_code: XXX
+  city: Singapore
+  country: Singapore
+- name: Lombard Odier Darier Hentsch And Cie (Singapore) Ltd
+  swift: LOCYSGSGNDP
+  swift8: LOCYSGSG
+  branch_name: Ndp Dept
+  branch_address: Singapore
+  branch_code: NDP
+  city: Singapore
+  country: Singapore
+- name: Lombard Odier Darier Hentsch And Cie (Singapore) Ltd
+  swift: LOCYSGSGXXX
+  swift8: LOCYSGSG
+  branch_name: Head Office
+  branch_address: Republic Plaza Singapore 0486189
+  branch_code: XXX
+  city: Singapore
+  country: Singapore
+- name: Macquarie Bank Limited, Singapore Branch
+  swift: MACQSGSGXXX
+  swift8: MACQSGSG
+  branch_name: Head Office
+  branch_address: Church Street 23 Singapore 049481
+  branch_code: XXX
+  city: Singapore
+  country: Singapore
+- name: Malayan Banking Berhad
+  swift: MBBESGSGXXX
+  swift8: MBBESGSG
+  branch_name: Head Office
+  branch_address: Maybank Tower Singapore 049907
+  branch_code: XXX
+  city: Singapore
+  country: Singapore
+- name: Malayan Banking Berhad
+  swift: MBBESGSGRWM
+  swift8: MBBESGSG
+  branch_name: Regional Wealth Management
+  branch_address: Singapore
+  branch_code: RWM
+  city: Singapore
+  country: Singapore
+- name: Mega International Commercial Bank Co., Ltd., Singapore Branch
+  swift: ICBCSGSGXXX
+  swift8: ICBCSGSG
+  branch_name: Head Office
+  branch_address: 6 Battery Road Singapore 049909
+  branch_code: XXX
+  city: Singapore
+  country: Singapore
+- name: Mercedes-Benz Financial Services Singapore Pte Ltd
+  swift: DFISSGSGXXX
+  swift8: DFISSGSG
+  branch_name: Head Office
+  branch_address: Centennial Tower Singapore 039190
+  branch_code: XXX
+  city: Singapore
+  country: Singapore
+- name: Merrill Lynch (Singapore) Pte. Ltd.
+  swift: MLSSSGSGXXX
+  swift8: MLSSSGSG
+  branch_name: Head Office
+  branch_address: Harbourfront Centre Singapore 099253
+  branch_code: XXX
+  city: Singapore
+  country: Singapore
+- name: Merrill Lynch (Singapore) Pte. Ltd.
+  swift: MLSSSGSGIND
+  swift8: MLSSSGSG
+  branch_name: Singapore
+  branch_address: Singapore
+  branch_code: IND
+  city: Singapore
+  country: Singapore
+- name: Mitsubishi Ufj Trust And Banking Corporation
+  swift: MTBCSGSGXXX
+  swift8: MTBCSGSG
+  branch_name: Head Office
+  branch_address: Singapore Land Tower Singapore 048623
+  branch_code: XXX
+  city: Singapore
+  country: Singapore
+- name: Mizuho Corporate Bank Ltd. Singapore Branch
+  swift: MHCBSGSGXXX
+  swift8: MHCBSGSG
+  branch_name: Head Office
+  branch_address: Capital Tower Singapore 068912
+  branch_code: XXX
+  city: Singapore
+  country: Singapore
+- name: Monetary Authority Of Singapore, The
+  swift: MASGSGSMXXX
+  swift8: MASGSGSM
+  branch_name: Head Office
+  branch_address: Mas Building Singapore 079117
+  branch_code: XXX
+  city: Singapore
+  country: Singapore
+- name: Monetary Authority Of Singapore, The
+  swift: MASGSGSGXXX
+  swift8: MASGSGSG
+  branch_name: Head Office
+  branch_address: Mas Building Singapore 079117
+  branch_code: XXX
+  city: Singapore
+  country: Singapore
+- name: Morgan Stanley Investment Management Company
+  swift: MSAMSGSXXXX
+  swift8: MSAMSGSX
+  branch_name: Head Office
+  branch_address: Capital Square Singapore 049481
+  branch_code: XXX
+  city: Singapore
+  country: Singapore
+- name: National Australia Bank
+  swift: NATASGSGXXX
+  swift8: NATASGSG
+  branch_name: Head Office
+  branch_address: Suntec City Tower Singapore 038985
+  branch_code: XXX
+  city: Singapore
+  country: Singapore
+- name: National Bank Of Kuwait S.A.K.
+  swift: NBOKSGSGXXX
+  swift8: NBOKSGSG
+  branch_name: Head Office
+  branch_address: Republic Plaza Singapore 048619
+  branch_code: XXX
+  city: Singapore
+  country: Singapore
+- name: Natixis
+  swift: NATXSGSGXXX
+  swift8: NATXSGSG
+  branch_name: Head Office
+  branch_address: Singap0re Land Tower Singapore 048623
+  branch_code: XXX
+  city: Singapore
+  country: Singapore
+- name: Natixis
+  swift: BFCESGSGXXX
+  swift8: BFCESGSG
+  branch_name: Head Office
+  branch_address: Singap0re Land Tower Singapore 048623
+  branch_code: XXX
+  city: Singapore
+  country: Singapore
+- name: Nomura Asset Management Singapore Ltd
+  swift: NOCMSGSGXXX
+  swift8: NOCMSGSG
+  branch_name: Head Office
+  branch_address: 6 Battery Road Singapore 049909
+  branch_code: XXX
+  city: Singapore
+  country: Singapore
+- name: Nomura Investments (Singapore) Pte
+  swift: NOISSGSGXXX
+  swift8: NOISSGSG
+  branch_name: Head Office
+  branch_address: Battery Road 6 Singapore 34010499
+  branch_code: XXX
+  city: Singapore
+  country: Singapore
+- name: Nomura Singapore Limited
+  swift: SNOMSGSGXXX
+  swift8: SNOMSGSG
+  branch_name: Head Office
+  branch_address: Marina Bay Financial Centre Tower 2 Singapore 018983
+  branch_code: XXX
+  city: Singapore
+  country: Singapore
+- name: Nomura Singapore Limited
+  swift: SNOMSGL1XXX
+  swift8: SNOMSGL1
+  branch_name: Head Office
+  branch_address: 6 Battery Road, 34-01 Singapore 049909
+  branch_code: XXX
+  city: Singapore
+  country: Singapore
+- name: Norddeutsche Landesbank Girozentrale
+  swift: NOLASGSGXXX
+  swift8: NOLASGSG
+  branch_name: Head Office
+  branch_address: Dbs Building, Tower 2 Singapore 068809
+  branch_code: XXX
+  city: Singapore
+  country: Singapore
+- name: Nordea Bank Finland Plc, Singapore
+  swift: NDEASGSGXXX
+  swift8: NDEASGSG
+  branch_name: Head Office
+  branch_address: Springleaf Tower Singapore 79909
+  branch_code: XXX
+  city: Singapore
+  country: Singapore
+- name: Northern Trust Company
+  swift: CNORSGSGXXX
+  swift8: CNORSGSG
+  branch_name: Head Office
+  branch_address: One George Street Singapore 049145
+  branch_code: XXX
+  city: Singapore
+  country: Singapore
+- name: Ocbc Securities Private Limited
+  swift: OCSPSGSGXXX
+  swift8: OCSPSGSG
+  branch_name: Head Office
+  branch_address: Ocbc Centre South Singapore 049479
+  branch_code: XXX
+  city: Singapore
+  country: Singapore
+- name: Ocbc Securities Private Limited
+  swift: OCSESGS1XXX
+  swift8: OCSESGS1
+  branch_name: Head Office
+  branch_address: Ocbc Centre South Singapore 049479
+  branch_code: XXX
+  city: Singapore
+  country: Singapore
+- name: Oversea-Chinese Banking Corporation Limited
+  swift: OCBCSGSGBRN
+  swift8: OCBCSGSG
+  branch_name: Singapore
+  branch_address: Singapore
+  branch_code: BRN
+  city: Singapore
+  country: Singapore
+- name: Oversea-Chinese Banking Corporation Limited
+  swift: OCBCSGSGXXX
+  swift8: OCBCSGSG
+  branch_name: Head Office
+  branch_address: Ocbc Centre Singapore 049513
+  branch_code: XXX
+  city: Singapore
+  country: Singapore
+- name: Philippine National Bank-Singapore
+  swift: PNBMSGSGXXX
+  swift8: PNBMSGSG
+  branch_name: Head Office
+  branch_address: Lucky Plaza Shopping Centre Singapore 238863
+  branch_code: XXX
+  city: Singapore
+  country: Singapore
+- name: Prudential Asset Management Singapore Ltd
+  swift: ESINSGSGXXX
+  swift8: ESINSGSG
+  branch_name: Head Office
+  branch_address: Prudential Tower Singapore 049712
+  branch_code: XXX
+  city: Singapore
+  country: Singapore
+- name: Prudential Asset Management Singapore Ltd
+  swift: PAMGSGS1XXX
+  swift8: PAMGSGS1
+  branch_name: Head Office
+  branch_address: Marina Bay Financial Centre Tower 2 Singapore 018983
+  branch_code: XXX
+  city: Singapore
+  country: Singapore
+- name: Qatar National Bank (Qnb)
+  swift: QNBASGSGXXX
+  swift8: QNBASGSG
+  branch_name: Head Office
+  branch_address: Millenia Tower Singapore 039192
+  branch_code: XXX
+  city: Singapore
+  country: Singapore
+- name: Rabobank, Singapore Branch
+  swift: RABOSGSGXXX
+  swift8: RABOSGSG
+  branch_name: Head Office
+  branch_address: 77 Robinson Road Singapore 068896
+  branch_code: XXX
+  city: Singapore
+  country: Singapore
+- name: Raiffeisen Bank International Ag Singapore Branch
+  swift: RZBASGSGXXX
+  swift8: RZBASGSG
+  branch_name: Head Office
+  branch_address: North Tower Singapore 048583
+  branch_code: XXX
+  city: Singapore
+  country: Singapore
+- name: Rbc Dexia Trust Services Singapore
+  swift: DTSSSGSGXXX
+  swift8: DTSSSGSG
+  branch_name: Head Office
+  branch_address: Republic Plaza Singapore 048619
+  branch_code: XXX
+  city: Singapore
+  country: Singapore
+- name: Rhb Bank Berhad
+  swift: RHBBSGSGXXX
+  swift8: RHBBSGSG
+  branch_name: Main Branch
+  branch_address: 90 Cecil Street Singapore 069531
+  branch_code: XXX
+  city: Singapore
+  country: Singapore
+- name: Royal Bank Of Canada
+  swift: ROYCSGSGXXX
+  swift8: ROYCSGSG
+  branch_name: Head Office
+  branch_address: Samsung Hub Singapore 049483
+  branch_code: XXX
+  city: Singapore
+  country: Singapore
+- name: Royal Bank Of Canada
+  swift: ROYCSGSGGSS
+  swift8: ROYCSGSG
+  branch_name: Wealth Management
+  branch_address: Singapore
+  branch_code: GSS
+  city: Singapore
+  country: Singapore
+- name: Royal Bank Of Scotland Plc
+  swift: RBOSSGSGNWB
+  swift8: RBOSSGSG
+  branch_name: Singapore
+  branch_address: Singapore
+  branch_code: NWB
+  city: Singapore
+  country: Singapore
+- name: Royal Bank Of Scotland Plc
+  swift: RBOSSGSGRSI
+  swift8: RBOSSGSG
+  branch_name: Singapore
+  branch_address: Singapore
+  branch_code: RSI
+  city: Singapore
+  country: Singapore
+- name: Royal Bank Of Scotland Plc
+  swift: RBOSSGSGXXX
+  swift8: RBOSSGSG
+  branch_name: Head Office
+  branch_address: Singapore Land Tower Singapore 048623
+  branch_code: XXX
+  city: Singapore
+  country: Singapore
+- name: Royal Bank Of Scotland Plc
+  swift: RBOSSGSGEQT
+  swift8: RBOSSGSG
+  branch_name: Singapore Asia Merchant Dept
+  branch_address: Singapore
+  branch_code: EQT
+  city: Singapore
+  country: Singapore
+- name: S.W.I.F.T
+  swift: SWHQSGSGXXX
+  swift8: SWHQSGSG
+  branch_name: Head Office
+  branch_address: 80 Robinson Road Singapore 068898
+  branch_code: XXX
+  city: Singapore
+  country: Singapore
+- name: Schroder And Co (Asia) Ltd
+  swift: SALISGSGXXX
+  swift8: SALISGSG
+  branch_name: Head Office
+  branch_address: 11 Beach Road Singapore 189675
+  branch_code: XXX
+  city: Singapore
+  country: Singapore
+- name: Schroder Investment Management (Singapore) Ltd
+  swift: SIMNSGSGXXX
+  swift8: SIMNSGSG
+  branch_name: Head Office
+  branch_address: Ocbc Centre Singapore 049513
+  branch_code: XXX
+  city: Singapore
+  country: Singapore
+- name: Shinhan Bank, Singapore Branch
+  swift: SHBKSGSGXXX
+  swift8: SHBKSGSG
+  branch_name: Head Office
+  branch_address: 1 George Street 15-03 Singapore 049145
+  branch_code: XXX
+  city: Singapore
+  country: Singapore
+- name: Siam Commercial Bank Pcl, The
+  swift: SICOSGSGXXX
+  swift8: SICOSGSG
+  branch_name: Head Office
+  branch_address: Robinson Centre Singapore 068893
+  branch_code: XXX
+  city: Singapore
+  country: Singapore
+- name: Singapore Exchange Derivatives Clearing Limited
+  swift: XSIMSGSGXXX
+  swift8: XSIMSGSG
+  branch_name: Head Office
+  branch_address: 2 Shenton Way Singapore 068804
+  branch_code: XXX
+  city: Singapore
+  country: Singapore
+- name: Skandinaviska Enskilda Banken Ab (Publ)
+  swift: ESSESGSGCLS
+  swift8: ESSESGSG
+  branch_name: Singapore
+  branch_address: Singapore
+  branch_code: CLS
+  city: Singapore
+  country: Singapore
+- name: Skandinaviska Enskilda Banken Ab (Publ)
+  swift: ESSESGSGXXX
+  swift8: ESSESGSG
+  branch_name: Singapore Branch
+  branch_address: Oue Bayfront Singapore 049321
+  branch_code: XXX
+  city: Singapore
+  country: Singapore
+- name: Skandinaviska Enskilda Banken S.A.
+  swift: ESSESGSPXXX
+  swift8: ESSESGSP
+  branch_name: Head Office
+  branch_address: Collyer Quay 50 Singapore 049321
+  branch_code: XXX
+  city: Singapore
+  country: Singapore
+- name: Societe Generale
+  swift: SOGESGSGXXX
+  swift8: SOGESGSG
+  branch_name: Head Office
+  branch_address: 80 Robinson Road Singapore 068898
+  branch_code: XXX
+  city: Singapore
+  country: Singapore
+- name: Standard Bank Plc, Singapore Branch
+  swift: SBSASGSGXXX
+  swift8: SBSASGSG
+  branch_name: Head Office
+  branch_address: Uob Plaza 1 Singapore 048624
+  branch_code: XXX
+  city: Singapore
+  country: Singapore
+- name: Standard Chartered Bank
+  swift: SCBLSGSGFIN
+  swift8: SCBLSGSG
+  branch_name: Singapore
+  branch_address: Singapore
+  branch_code: FIN
+  city: Singapore
+  country: Singapore
+- name: Standard Chartered Bank
+  swift: SCBLSGSGXXX
+  swift8: SCBLSGSG
+  branch_name: Head Office
+  branch_address: Maxwell Road Singapore 9038
+  branch_code: XXX
+  city: Singapore
+  country: Singapore
+- name: Standard Chartered Bank
+  swift: SCBLSGSGZPB
+  swift8: SCBLSGSG
+  branch_name: Singapore Private Bank
+  branch_address: Singapore
+  branch_code: ZPB
+  city: Singapore
+  country: Singapore
+- name: Standard Chartered Bank
+  swift: SCBLSGS1ZLA
+  swift8: SCBLSGS1
+  branch_name: Loans Department
+  branch_address: Singapore
+  branch_code: ZLA
+  city: Singapore
+  country: Singapore
+- name: Standard Chartered Bank
+  swift: SCBLSGSGCDP
+  swift8: SCBLSGSG
+  branch_name: Common Depository
+  branch_address: No branch address
+  branch_code: CDP
+  city: Singapore
+  country: Singapore
+- name: Standard Chartered Bank
+  swift: SCBLSGSGFTL
+  swift8: SCBLSGSG
+  branch_name: Lrm
+  branch_address: Marina Bay Financial Centre Tower1 Singapore
+  branch_code: FTL
+  city: Singapore
+  country: Singapore
+- name: Standard Chartered Bank
+  swift: SCBLSGSGGPE
+  swift8: SCBLSGSG
+  branch_name: Securities Services-Global Processing Entity
+  branch_address: 7 Changi Business Park Crescent Singapore 486028
+  branch_code: GPE
+  city: Singapore
+  country: Singapore
+- name: Standard Chartered Bank
+  swift: SCBLSGSGZOP
+  swift8: SCBLSGSG
+  branch_name: Fm Asset Servicing
+  branch_address: Singapore
+  branch_code: ZOP
+  city: Singapore
+  country: Singapore
+- name: State Bank Of India
+  swift: SBINSGSGXXX
+  swift8: SBINSGSG
+  branch_name: Head Office
+  branch_address: Dbs Building, Tower Ii Singapore 068809
+  branch_code: XXX
+  city: Singapore
+  country: Singapore
+- name: State Street Bank And Trust Company, Singapore Branch
+  swift: SBOSSGSXAGC
+  swift8: SBOSSGSX
+  branch_name: Investment Services Division
+  branch_address: Singapore
+  branch_code: AGC
+  city: Singapore
+  country: Singapore
+- name: State Street Bank And Trust Company, Singapore Branch
+  swift: SBOSSGSXAGD
+  swift8: SBOSSGSX
+  branch_name: Investment Services Division
+  branch_address: Singapore
+  branch_code: AGD
+  city: Singapore
+  country: Singapore
+- name: State Street Bank And Trust Company, Singapore Branch
+  swift: SBOSSGSXAGE
+  swift8: SBOSSGSX
+  branch_name: Investment Operations Division
+  branch_address: Singapore
+  branch_code: AGE
+  city: Singapore
+  country: Singapore
+- name: State Street Bank And Trust Company, Singapore Branch
+  swift: SBOSSGSXXXX
+  swift8: SBOSSGSX
+  branch_name: Head Office
+  branch_address: Temasek Tower Singapore 068811
+  branch_code: XXX
+  city: Singapore
+  country: Singapore
+- name: Sumitomo Mitsui Banking Corporation
+  swift: SMBCSGSGXXX
+  swift8: SMBCSGSG
+  branch_name: Head Office
+  branch_address: Centennial Tower Singapore 039190
+  branch_code: XXX
+  city: Singapore
+  country: Singapore
+- name: Sumitomo Trust And Banking Company Limited, The
+  swift: STBCSGSGXXX
+  swift8: STBCSGSG
+  branch_name: Head Office
+  branch_address: Temasek Tower Singapore 068811
+  branch_code: XXX
+  city: Singapore
+  country: Singapore
+- name: Svenska Handelsbanken, Singapore Branch
+  swift: HANDSGSGXXX
+  swift8: HANDSGSG
+  branch_name: Head Office
+  branch_address: Ocbc Centre Singapore 049513
+  branch_code: XXX
+  city: Singapore
+  country: Singapore
+- name: The Bank Of East Asia Limited
+  swift: BEASSGSGXXX
+  swift8: BEASSGSG
+  branch_name: Head Office
+  branch_address: Bea Building Singapore 068892
+  branch_code: XXX
+  city: Singapore
+  country: Singapore
+- name: The Bank Of New York Mellon, Singapore Branch
+  swift: IRVTSGSXXXX
+  swift8: IRVTSGSX
+  branch_name: Head Office
+  branch_address: Millenia Tower Singapore 039192
+  branch_code: XXX
+  city: Singapore
+  country: Singapore
+- name: The Bank Of Nova Scotia, Singapore Branch
+  swift: NOSCSGSGXXX
+  swift8: NOSCSGSG
+  branch_name: Head Office
+  branch_address: One Raffle Quay Singapore 048583
+  branch_code: XXX
+  city: Singapore
+  country: Singapore
+- name: The Central Depository (Pte) Limited
+  swift: CDPLSGSGXXX
+  swift8: CDPLSGSG
+  branch_name: Head Office
+  branch_address: Sgx Centre 2 Singapore 068807
+  branch_code: XXX
+  city: Singapore
+  country: Singapore
+- name: The Central Depository (Pte) Ltd
+  swift: CDPLSGSHXXX
+  swift8: CDPLSGSH
+  branch_name: Head Office
+  branch_address: Sgx Centre 1 Singapore 066804
+  branch_code: XXX
+  city: Singapore
+  country: Singapore
+- name: The Hongkong And Shanghai Banking Corporation Limited, Singapore
+  swift: HSBCSGSGCLS
+  swift8: HSBCSGSG
+  branch_name: Cls Division
+  branch_address: Singapore
+  branch_code: CLS
+  city: Singapore
+  country: Singapore
+- name: The Hongkong And Shanghai Banking Corporation Limited, Singapore
+  swift: HSBCSGSGCNC
+  swift8: HSBCSGSG
+  branch_name: Custody and Clearing
+  branch_address: Singapore
+  branch_code: CNC
+  city: Singapore
+  country: Singapore
+- name: The Hongkong And Shanghai Banking Corporation Limited, Singapore
+  swift: HSBCSGSGFEX
+  swift8: HSBCSGSG
+  branch_name: Treasury Settlement Operations
+  branch_address: Singapore
+  branch_code: FEX
+  city: Singapore
+  country: Singapore
+- name: The Hongkong And Shanghai Banking Corporation Limited, Singapore
+  swift: HSBCSGSGGWS
+  swift8: HSBCSGSG
+  branch_name: Global Wealth Solution
+  branch_address: Singapore
+  branch_code: GWS
+  city: Singapore
+  country: Singapore
+- name: The Hongkong And Shanghai Banking Corporation Limited, Singapore
+  swift: HSBCSGSGXXX
+  swift8: HSBCSGSG
+  branch_name: Head Office
+  branch_address: Hsbc Building Singapore 049320
+  branch_code: XXX
+  city: Singapore
+  country: Singapore
+- name: The Hongkong And Shanghai Banking Corporation Limited, Singapore
+  swift: HSBCSGSGPBD
+  swift8: HSBCSGSG
+  branch_name: Private Banking Division
+  branch_address: No branch address
+  branch_code: PBD
+  city: Singapore
+  country: Singapore
+- name: The Islamic Bank Of Asia Limited
+  swift: TIBASGSGXXX
+  swift8: TIBASGSG
+  branch_name: Head Office
+  branch_address: Dbs Building Tower 1 Singapore 068809
+  branch_code: XXX
+  city: Singapore
+  country: Singapore
+- name: The Royal Bank Of Scotland N.V. (Singapore)
+  swift: ABNASGSGAOA
+  swift8: ABNASGSG
+  branch_name: Access Online Asia
+  branch_address: South Tower Singapore 048583
+  branch_code: AOA
+  city: Singapore
+  country: Singapore
+- name: The Royal Bank Of Scotland N.V. (Singapore)
+  swift: ABNASGSGXXX
+  swift8: ABNASGSG
+  branch_name: Head Office
+  branch_address: South Tower Singapore 048583
+  branch_code: XXX
+  city: Singapore
+  country: Singapore
+- name: Toronto Dominion (South East Asia) Ltd.
+  swift: TDOMSG2SXXX
+  swift8: TDOMSG2S
+  branch_name: Head Office
+  branch_address: Millenia Tower Singapore 039192
+  branch_code: XXX
+  city: Singapore
+  country: Singapore
+- name: Toronto Dominion Bank
+  swift: TDOMSGSGXXX
+  swift8: TDOMSGSG
+  branch_name: Head Office
+  branch_address: Millenia Tower Singapore 039192
+  branch_code: XXX
+  city: Singapore
+  country: Singapore
+- name: U.B.A.F. - Union De Banques Arabes Et Francaises
+  swift: UBAFSGSXXXX
+  swift8: UBAFSGSX
+  branch_name: Head Office
+  branch_address: Suntec Tower 4 Singapore 038986
+  branch_code: XXX
+  city: Singapore
+  country: Singapore
+- name: Ubs Ag Singapore Branch
+  swift: UBSWSGSGCLS
+  swift8: UBSWSGSG
+  branch_name: Cls Businness Only
+  branch_address: Singapore
+  branch_code: CLS
+  city: Singapore
+  country: Singapore
+- name: Ubs Ag Singapore Branch
+  swift: UBSWSGSGXXX
+  swift8: UBSWSGSG
+  branch_name: Singapore Branch
+  branch_address: Suntec City Tower Singapore 038985
+  branch_code: XXX
+  city: Singapore
+  country: Singapore
+- name: Ubs Ag Singapore Branch
+  swift: UBSWSGSGCIC
+  swift8: UBSWSGSG
+  branch_name: Swift for Corporate
+  branch_address: Singapore
+  branch_code: CIC
+  city: Singapore
+  country: Singapore
+- name: Ubs Global Asset Management (Singapore) Ltd
+  swift: UBSASGSGXXX
+  swift8: UBSASGSG
+  branch_name: Head Office
+  branch_address: Suntec Tower Five Singapore 038985
+  branch_code: XXX
+  city: Singapore
+  country: Singapore
+- name: Uco Bank
+  swift: UCBASGSGXXX
+  swift8: UCBASGSG
+  branch_name: Head Office
+  branch_address: Bharat Building Singapore 048617
+  branch_code: XXX
+  city: Singapore
+  country: Singapore
+- name: Unicredit Bank Ag Singapore Branch (Hypovereinsbank Ag Singapore Branch)
+  swift: BVBESGSGXXX
+  swift8: BVBESGSG
+  branch_name: Head Office
+  branch_address: Prudential Tower Singapore 049712
+  branch_code: XXX
+  city: Singapore
+  country: Singapore
+- name: United Overseas Bank Limited
+  swift: UOVBSGSGBNS
+  swift8: UOVBSGSG
+  branch_name: Banknotes Department
+  branch_address: Uob Plaza 1 Singapore 048624
+  branch_code: BNS
+  city: Singapore
+  country: Singapore
+- name: United Overseas Bank Limited
+  swift: UOVBSGSGCMS
+  swift8: UOVBSGSG
+  branch_name: Transaction Banking
+  branch_address: Singapore
+  branch_code: CMS
+  city: Singapore
+  country: Singapore
+- name: United Overseas Bank Limited
+  swift: UOVBSGSGCPM
+  swift8: UOVBSGSG
+  branch_name: Client Portfolio Management
+  branch_address: Singapore
+  branch_code: CPM
+  city: Singapore
+  country: Singapore
+- name: United Overseas Bank Limited
+  swift: UOVBSGSGCSD
+  swift8: UOVBSGSG
+  branch_name: Custody Services Division
+  branch_address: Singapore
+  branch_code: CSD
+  city: Singapore
+  country: Singapore
+- name: United Overseas Bank Limited
+  swift: UOVBSGSGXXX
+  swift8: UOVBSGSG
+  branch_name: Head Office
+  branch_address: Uob Plaza Singapore 048624
+  branch_code: XXX
+  city: Singapore
+  country: Singapore
+- name: Uob Kay Hian Pte Limited
+  swift: KHPLSGSGXXX
+  swift8: KHPLSGSG
+  branch_name: Head Office
+  branch_address: Uob Plaza 1 Singapore 048624
+  branch_code: XXX
+  city: Singapore
+  country: Singapore
+- name: Vtb Capital Plc, Singapore Branch
+  swift: MNBLSGSGXXX
+  swift8: MNBLSGSG
+  branch_name: Head Office
+  branch_address: Straits Trading Building Singapore 049910
+  branch_code: XXX
+  city: Singapore
+  country: Singapore
+- name: Westlb Ag, Singapore
+  swift: WELASGSXXXX
+  swift8: WELASGSX
+  branch_name: Head Office
+  branch_address: Centennial Tower Singapore 039190
+  branch_code: XXX
+  city: Singapore
+  country: Singapore
+- name: Westpac Banking Corporation
+  swift: WPACSGSGTRD
+  swift8: WPACSGSG
+  branch_name: Singapore
+  branch_address: Singapore
+  branch_code: TRD
+  city: Singapore
+  country: Singapore
+- name: Westpac Banking Corporation
+  swift: WPACSGSGXXX
+  swift8: WPACSGSG
+  branch_name: Head Office
+  branch_address: Ocbc Centre Singapore 068896
+  branch_code: XXX
+  city: Singapore
+  country: Singapore
+- name: Westpac Singapore Limited
+  swift: WPACSGSLXXX
+  swift8: WPACSGSL
+  branch_name: Head Office
+  branch_address: Sia Building Singapore 068896
+  branch_code: XXX
+  city: Singapore
+  country: Singapore
+- name: Woori Bank, Singapore
+  swift: HVBKSGSGXXX
+  swift8: HVBKSGSG
+  branch_name: Head Office
+  branch_address: Uic Building Singapore 068808
+  branch_code: XXX
+  city: Singapore
+  country: Singapore
+- name: West Merchant Bank Limited
+  swift: WMBLSGS1XXX
+  swift8: WMBLSGS1
+  branch_name: Head Office
+  branch_address: Hongkong Bank Building Singapore 049320
+  branch_code: XXX
+  city: Singapore
+  country: Singapore
+- name: Bnp Prime Peregrine
+  swift: BNPGSGS1XXX
+  swift8: BNPGSGS1
+  branch_name: Head Office
+  branch_address: Tung Centre Singapore 049319
+  branch_code: XXX
+  city: Singapore
+  country: Singapore
+- name: Fpb Asia Limited
+  swift: FPASSGS1XXX
+  swift8: FPASSGS1
+  branch_name: Head Office
+  branch_address: Singapore
+  branch_code: XXX
+  city: Singapore
+  country: Singapore
+- name: J.p. Morgan Securities Asia Private Limited
+  swift: JPMSSGS1XXX
+  swift8: JPMSSGS1
+  branch_name: Head Office
+  branch_address: Capital Tower Singapore 068912
+  branch_code: XXX
+  city: Singapore
+  country: Singapore
+- name: New Japan Securities
+  swift: NJSCSGS1XXX
+  swift8: NJSCSGS1
+  branch_name: Head Office
+  branch_address: Oub Centre Singapore 048616
+  branch_code: XXX
+  city: Singapore
+  country: Singapore
+- name: Bpi International Finance Limited
+  swift: BPIISGS1XXX
+  swift8: BPIISGS1
+  branch_name: Head Office
+  branch_address: Singapore
+  branch_code: XXX
+  city: Singapore
+  country: Singapore
+- name: Aberdeen Asset Management Asia Limited
+  swift: ABFMSGS1XXX
+  swift8: ABFMSGS1
+  branch_name: Head Office
+  branch_address: 21 Church Street Singapore 049868
+  branch_code: XXX
+  city: Singapore
+  country: Singapore
+- name: Abn Amro Bank N.v. Singapore Branch
+  swift: ABNASG2ACMB
+  swift8: ABNASG2A
+  branch_name: Commercial and Merchant Banking
+  branch_address: Singapore
+  branch_code: CMB
+  city: Singapore
+  country: Singapore
+- name: Abn Amro Bank N.v. Singapore Branch
+  swift: ABNASG2AIPC
+  swift8: ABNASG2A
+  branch_name: International Private Clients Department
+  branch_address: Singapore
+  branch_code: IPC
+  city: Singapore
+  country: Singapore
+- name: Abn Amro Bank N.v. Singapore Branch
+  swift: ABNASG2AXXX
+  swift8: ABNASG2A
+  branch_name: Head Office
+  branch_address: South Tower Singapore 48583
+  branch_code: XXX
+  city: Singapore
+  country: Singapore
+- name: Abn Amro Clearing Bank N.v., Singapore Branch
+  swift: FGCISGS1XXX
+  swift8: FGCISGS1
+  branch_name: Head Office
+  branch_address: 63 Market Street 18-01 Singapore 048942
+  branch_code: XXX
+  city: Singapore
+  country: Singapore
+- name: Aia-walden Management Pte Ltd
+  swift: AWMPSGS1XXX
+  swift8: AWMPSGS1
+  branch_name: Head Office
+  branch_address: Bp Tower Singapore 119954
+  branch_code: XXX
+  city: Singapore
+  country: Singapore
+- name: Al Wealth Partners Pte Ltd
+  swift: WEPPSGS1XXX
+  swift8: WEPPSGS1
+  branch_name: Head Office
+  branch_address: Millenia Tower Singapore 039192
+  branch_code: XXX
+  city: Singapore
+  country: Singapore
+- name: Alliance Securities (pte
+  swift: ALLSSGS1XXX
+  swift8: ALLSSGS1
+  branch_name: Head Office
+  branch_address: Feb Building Singapore 069544
+  branch_code: XXX
+  city: Singapore
+  country: Singapore
+- name: Amfraser Securities Pte. Ltd.
+  swift: FRSESGS1XXX
+  swift8: FRSESGS1
+  branch_name: Head Office
+  branch_address: Sgx Centre 2 Singapore 068807
+  branch_code: XXX
+  city: Singapore
+  country: Singapore
+- name: Aps Asset Management Pte Ltd
+  swift: APSMSGS1XXX
+  swift8: APSMSGS1
+  branch_name: Head Office
+  branch_address: Springleaf Tower Singapore 079909
+  branch_code: XXX
+  city: Singapore
+  country: Singapore
+- name: Artradis Fund Management Pte Ltd
+  swift: AFMPSGS1XXX
+  swift8: AFMPSGS1
+  branch_name: Head Office
+  branch_address: Maybank Tower Singapore 049907
+  branch_code: XXX
+  city: Singapore
+  country: Singapore
+- name: Asc Equity Pte Ltd
+  swift: ASEPSGS1XXX
+  swift8: ASEPSGS1
+  branch_name: Head Office
+  branch_address: Clifford Centre Singapore 048621
+  branch_code: XXX
+  city: Singapore
+  country: Singapore
+- name: Asian-american Merchant Bank Ltd.
+  swift: AAMBSGS1XXX
+  swift8: AAMBSGS1
+  branch_name: Head Office
+  branch_address: 78 Shenton Way Singapore 079120
+  branch_code: XXX
+  city: Singapore
+  country: Singapore
+- name: Axa Rosenberg Investment Management Asia Pacific Ltd.
+  swift: RAAISGS1XXX
+  swift8: RAAISGS1
+  branch_name: No branch name
+  branch_address: No branch address
+  branch_code: XXX
+  city: Singapore
+  country: Singapore
+- name: Axis Bank Limited(formerly Uti Bank
+  swift: UTIBSGS1XXX
+  swift8: UTIBSGS1
+  branch_name: Head Office
+  branch_address: Republic Plaza Singapore 048619
+  branch_code: XXX
+  city: Singapore
+  country: Singapore
+- name: Banco Santander, S.a. Singapore Branch
+  swift: BSCHSGSGXXX
+  swift8: BSCHSGSG
+  branch_name: Head Office
+  branch_address: Oue Bayfront Singapore
+  branch_code: XXX
+  city: Singapore
+  country: Singapore
+- name: Bank J. Safra Sarasin Ltd, Singapore Branch
+  swift: SARASGSGXXX
+  swift8: SARASGSG
+  branch_name: Head Office
+  branch_address: 25-01 Asia Square Tower 1 Singapore 018960
+  branch_code: XXX
+  city: Singapore
+  country: Singapore
+- name: Bank Morgan Stanley Ag, Singapore Branch
+  swift: MSSASGSGXXX
+  swift8: MSSASGSG
+  branch_name: Head Office
+  branch_address: 16-01, Capital Square Singapore 049481
+  branch_code: XXX
+  city: Singapore
+  country: Singapore
+- name: Bank Of Montreal, Singapore Branch
+  swift: BOFMSGSGXXX
+  swift8: BOFMSGSG
+  branch_name: Head Office
+  branch_address: Collyer Quay 16 Singapore 049318
+  branch_code: XXX
+  city: Singapore
+  country: Singapore
+- name: Bank Of Singapore Limited (formerly Ing Asia Private Bank Limited
+  swift: INGPSGSGXXX
+  swift8: INGPSGSG
+  branch_name: Head Office
+  branch_address: Republic Plaza Singapore 048619
+  branch_code: XXX
+  city: Singapore
+  country: Singapore
+- name: Banking Computer Services Private Limited
+  swift: SACHSGS1XXX
+  swift8: SACHSGS1
+  branch_name: Head Office
+  branch_address: Ocbc Tampines Centre Two Singapore 529680
+  branch_code: XXX
+  city: Singapore
+  country: Singapore
+- name: Barclays Capital Futures (singapore) Private Limited
+  swift: BZWSSGS1XXX
+  swift8: BZWSSGS1
+  branch_name: Head Office
+  branch_address: South Tower Singapore 048623
+  branch_code: XXX
+  city: Singapore
+  country: Singapore
+- name: Baring Securities Pte Ltd.
+  swift: SEBRSGS1XXX
+  swift8: SEBRSGS1
+  branch_name: Head Office
+  branch_address: Ocean Towers Singapore 048620
+  branch_code: XXX
+  city: Singapore
+  country: Singapore
+- name: Blocsec Pte Ltd
+  swift: BLPTSGS1XXX
+  swift8: BLPTSGS1
+  branch_name: Head Office
+  branch_address: Republic Plaza Ii Singapore 048619
+  branch_code: XXX
+  city: Singapore
+  country: Singapore
+- name: Bnp Paribas Capital (singapore) Ltd.
+  swift: BNPSSGS1XXX
+  swift8: BNPSSGS1
+  branch_name: Head Office
+  branch_address: Tung Centre Singapore 049319
+  branch_code: XXX
+  city: Singapore
+  country: Singapore
+- name: Bnp Paribas Securities (singapore) Pte. Ltd.
+  swift: BPESSGS1XXX
+  swift8: BPESSGS1
+  branch_name: Head Office
+  branch_address: Tung Centre Singapore 049319
+  branch_code: XXX
+  city: Singapore
+  country: Singapore
+- name: Bnp Paribas-singapore Branch
+  swift: BNPASGSGGCG
+  swift8: BNPASGSG
+  branch_name: Commodity Finance Operation Centre
+  branch_address: Tung Centre Singapore 049319
+  branch_code: GCG
+  city: Singapore
+  country: Singapore
+- name: Bordier And Cie (singapore) Ltd
+  swift: BORDSGSXXXX
+  swift8: BORDSGSX
+  branch_name: No branch name
+  branch_address: No branch address
+  branch_code: XXX
+  city: Singapore
+  country: Singapore
+- name: Bordier And Cie (singapore) Ltd
+  swift: BORDSGS1XXX
+  swift8: BORDSGS1
+  branch_name: Head Office
+  branch_address: Gb Building 01-01 Singapore
+  branch_code: XXX
+  city: Singapore
+  country: Singapore
+- name: Bp Singapore Pte Limited
+  swift: BPSISGSGXXX
+  swift8: BPSISGSG
+  branch_name: Head Office
+  branch_address: Keppel Bay Tower Singapore 098632
+  branch_code: XXX
+  city: Singapore
+  country: Singapore
+- name: Bridge Capital
+  swift: BRPTSGS1XXX
+  swift8: BRPTSGS1
+  branch_name: Head Office
+  branch_address: Keppel Towers Singapore 89315
+  branch_code: XXX
+  city: Singapore
+  country: Singapore
+- name: Bronte Investment Management (singapore) Pte Ltd
+  swift: BIMNSGS1XXX
+  swift8: BIMNSGS1
+  branch_name: Head Office
+  branch_address: 3 Church Street Singapore 49483
+  branch_code: XXX
+  city: Singapore
+  country: Singapore
+- name: Bt Brokerage And Associates Pte Ltd.
+  swift: BTBASGS1XXX
+  swift8: BTBASGS1
+  branch_name: Head Office
+  branch_address: Tung Centre Singapore 049319
+  branch_code: XXX
+  city: Singapore
+  country: Singapore
+- name: Bt Futures (singapore) Ltd.
+  swift: BTFSSGS1XXX
+  swift8: BTFSSGS1
+  branch_name: Head Office
+  branch_address: Suntec City Tower Singapore 038985
+  branch_code: XXX
+  city: Singapore
+  country: Singapore
+- name: Btig Singapore Pte. Limited
+  swift: BTSPSGS1XXX
+  swift8: BTSPSGS1
+  branch_name: Head Office
+  branch_address: 6, Eu Tong Sen St 12-06 Singapore 059817
+  branch_code: XXX
+  city: Singapore
+  country: Singapore
+- name: Btm Futures Pte Ltd.
+  swift: BOTFSGS1XXX
+  swift8: BOTFSGS1
+  branch_name: Head Office
+  branch_address: Hong Leong Building Singapore 048581
+  branch_code: XXX
+  city: Singapore
+  country: Singapore
+- name: Bunge Agribusiness Singapore Pte Ltd
+  swift: BLTDSGS1XXX
+  swift8: BLTDSGS1
+  branch_name: Head Office
+  branch_address: Robinson 77 Singapore 068896
+  branch_code: XXX
+  city: Singapore
+  country: Singapore
+- name: Cantor Fitzgerald (singapore) Capital Markets Limited
+  swift: CFSPSGS1XXX
+  swift8: CFSPSGS1
+  branch_name: Head Office
+  branch_address: Church Street 3 Singapore 049483
+  branch_code: XXX
+  city: Singapore
+  country: Singapore
+- name: Cantor Fitzgerald (singapore) Capital Markets Limited
+  swift: CFSPSGSXXXX
+  swift8: CFSPSGSX
+  branch_name: Head Office
+  branch_address: Church Street 3 Singapore 049483
+  branch_code: XXX
+  city: Singapore
+  country: Singapore
+- name: Capital House Investment Management (singapore) Pte
+  swift: CHNGSGS1XXX
+  swift8: CHNGSGS1
+  branch_name: Head Office
+  branch_address: 6 Battery Road Singapore 049909
+  branch_code: XXX
+  city: Singapore
+  country: Singapore
+- name: Cargill Financial Services Asia Pte Ltd
+  swift: CFSASGS1XXX
+  swift8: CFSASGS1
+  branch_name: Head Office
+  branch_address: The Concourse Singapore 199555
+  branch_code: XXX
+  city: Singapore
+  country: Singapore
+- name: Cazenove And Co. (singapore) Pte. Limited
+  swift: CAZESGS1XXX
+  swift8: CAZESGS1
+  branch_name: Head Office
+  branch_address: Shing Kwan House Singapore 068807
+  branch_code: XXX
+  city: Singapore
+  country: Singapore
+- name: Cef (singapore) Limited
+  swift: CESLSGS1XXX
+  swift8: CESLSGS1
+  branch_name: Head Office
+  branch_address: Ocean Building Singapore 049315
+  branch_code: XXX
+  city: Singapore
+  country: Singapore
+- name: Central Pacific Finance Ltd.
+  swift: CEPFSGS1XXX
+  swift8: CEPFSGS1
+  branch_name: Head Office
+  branch_address: Clifford Centre Singapore 048621
+  branch_code: XXX
+  city: Singapore
+  country: Singapore
+- name: Chartered Asset Management Pte Ltd
+  swift: CATPSGS1XXX
+  swift8: CATPSGS1
+  branch_name: Head Office
+  branch_address: 51 Emerald Hill Road Singapore 0229327
+  branch_code: XXX
+  city: Singapore
+  country: Singapore
+- name: Chase Investment Bank (singapore) Limited
+  swift: CIBSSGS1XXX
+  swift8: CIBSSGS1
+  branch_name: Head Office
+  branch_address: Shell Tower Singapore 048623
+  branch_code: XXX
+  city: Singapore
+  country: Singapore
+- name: China Merchants Bank Singapore Branch
+  swift: CMBCSGSGXXX
+  swift8: CMBCSGSG
+  branch_name: No branch name
+  branch_address: No branch address
+  branch_code: XXX
+  city: Singapore
+  country: Singapore
+- name: Cimb Securities (singapore) Pte Ltd.
+  swift: GKGTSGS1XXX
+  swift8: GKGTSGS1
+  branch_name: Head Office
+  branch_address: Singapore Land Tower Singapore 048623
+  branch_code: XXX
+  city: Singapore
+  country: Singapore
+- name: Cimb-gk Research Pte. Ltd.
+  swift: JGRPSGS1XXX
+  swift8: JGRPSGS1
+  branch_name: Head Office
+  branch_address: Singapore Land Tower Singapore 048623
+  branch_code: XXX
+  city: Singapore
+  country: Singapore
+- name: Citibank Singapore Limited
+  swift: CITISG21XXX
+  swift8: CITISG21
+  branch_name: Head Office
+  branch_address: Millenia Tower Singapore 039192
+  branch_code: XXX
+  city: Singapore
+  country: Singapore
+- name: Citicorp International Singapore Ltd.
+  swift: CISISGS1XXX
+  swift8: CISISGS1
+  branch_name: Head Office
+  branch_address: Uic Building Singapore
+  branch_code: XXX
+  city: Singapore
+  country: Singapore
+- name: Citigroup Global Markets Singapore Pte. Ltd.
+  swift: SBSPSGS1XXX
+  swift8: SBSPSGS1
+  branch_name: Head Office
+  branch_address: Millenia Tower Singapore 0307591
+  branch_code: XXX
+  city: Singapore
+  country: Singapore
+- name: Citigroup Global Markets Singapore Securities Pte.ltd.
+  swift: SSBGSGS1XXX
+  swift8: SSBGSGS1
+  branch_name: Head Office
+  branch_address: Millenia Tower Singapore 039192
+  branch_code: XXX
+  city: Singapore
+  country: Singapore
+- name: Clariden Asset Management (singapore) Pte Ltd
+  swift: CAMSSGS1XXX
+  swift8: CAMSSGS1
+  branch_name: Head Office
+  branch_address: Uob Plaza I Singapore 048624
+  branch_code: XXX
+  city: Singapore
+  country: Singapore
+- name: Clariden Leu Ltd
+  swift: CLARSGS1XXX
+  swift8: CLARSGS1
+  branch_name: Head Office
+  branch_address: Uob Plaza 1 Singapore 048624
+  branch_code: XXX
+  city: Singapore
+  country: Singapore
+- name: Clsa Asia Products Pte. Ltd
+  swift: CSPPSGS1XXX
+  swift8: CSPPSGS1
+  branch_name: Head Office
+  branch_address: Uob Plaza Singapore 048624
+  branch_code: XXX
+  city: Singapore
+  country: Singapore
+- name: Commercial Union Asset Management (singapore) Ltd
+  swift: CUAASGS1XXX
+  swift8: CUAASGS1
+  branch_name: Head Office
+  branch_address: Commercial Union Buiding Singapore 048543
+  branch_code: XXX
+  city: Singapore
+  country: Singapore
+- name: Credit Agricole Cib Merchant Bank Asia Ltd
+  swift: IASISGS1XXX
+  swift8: IASISGS1
+  branch_name: Head Office
+  branch_address: Capital Tower Singapore 068805
+  branch_code: XXX
+  city: Singapore
+  country: Singapore
+- name: Credit Lyonnais International Asset Management (s) Ltd
+  swift: CLIASGS1XXX
+  swift8: CLIASGS1
+  branch_name: Head Office
+  branch_address: Ocbc Centre Singapore 049513
+  branch_code: XXX
+  city: Singapore
+  country: Singapore
+- name: Credit Lyonnais Rouse (pte) Ltd.
+  swift: ROUSSGS1XXX
+  swift8: ROUSSGS1
+  branch_name: Head Office
+  branch_address: Shell Tower Singapore 048623
+  branch_code: XXX
+  city: Singapore
+  country: Singapore
+- name: Credit Suisse First Boston (singapore) Futures Pte Ltd.
+  swift: FBSFSGS1XXX
+  swift8: FBSFSGS1
+  branch_name: Head Office
+  branch_address: Singapore
+  branch_code: XXX
+  city: Singapore
+  country: Singapore
+- name: Credit Suisse First Boston Pacific Limited
+  swift: CSFBSGP1XXX
+  swift8: CSFBSGP1
+  branch_name: Head Office
+  branch_address: South Lobby Singapore 039393
+  branch_code: XXX
+  city: Singapore
+  country: Singapore
+- name: Credit Suisse Securities (singapore) Pte. Limited
+  swift: BZWPSGS1XXX
+  swift8: BZWPSGS1
+  branch_name: Head Office
+  branch_address: Shell Tower Singapore 048623
+  branch_code: XXX
+  city: Singapore
+  country: Singapore
+- name: Cys Express Exchange Pte Ltd
+  swift: CYSSSGS1XXX
+  swift8: CYSSSGS1
+  branch_name: Head Office
+  branch_address: Shenton House Singapore 068805
+  branch_code: XXX
+  city: Singapore
+  country: Singapore
+- name: Daiwa Asset Management (singapore) Ltd.
+  swift: DAMLSGS1XXX
+  swift8: DAMLSGS1
+  branch_name: Head Office
+  branch_address: Royal Group Building Singapore 048693
+  branch_code: XXX
+  city: Singapore
+  country: Singapore
+- name: Daiwa Capital Markets Futures Pte Ltd
+  swift: DAWASGS1XXX
+  swift8: DAWASGS1
+  branch_name: Head Office
+  branch_address: Dbs Building Singapore 068809
+  branch_code: XXX
+  city: Singapore
+  country: Singapore
+- name: Daiwa Institute Of Research (singapore) Pte Ltd
+  swift: DIRSSGS1XXX
+  swift8: DIRSSGS1
+  branch_name: Head Office
+  branch_address: Dbs Building Tower Two Singapore 068809
+  branch_code: XXX
+  city: Singapore
+  country: Singapore
+- name: Daiwa Sb Investments (singapore) Ltd.
+  swift: DICMSGS1XXX
+  swift8: DICMSGS1
+  branch_name: Head Office
+  branch_address: Uic Building Singapore 068808
+  branch_code: XXX
+  city: Singapore
+  country: Singapore
+- name: Dbs Bank Ltd.
+  swift: DBSSSGSGDOD
+  swift8: DBSSSGSG
+  branch_name: Derivatives Operation Department
+  branch_address: No branch address
+  branch_code: DOD
+  city: Singapore
+  country: Singapore
+- name: Dbs Capital Investments Ltd
+  swift: DBCISGS1XXX
+  swift8: DBCISGS1
+  branch_name: Head Office
+  branch_address: Dbs Building Tower One Singapore 068809
+  branch_code: XXX
+  city: Singapore
+  country: Singapore
+- name: Dbs Trading (pte) Ltd.
+  swift: DBSTSGS1XXX
+  swift8: DBSTSGS1
+  branch_name: Head Office
+  branch_address: Dbs Building Tower 1 Singapore 068809
+  branch_code: XXX
+  city: Singapore
+  country: Singapore
+- name: Dbsn Services Pte Ltd.
+  swift: DBSNSGS1XXX
+  swift8: DBSNSGS1
+  branch_name: Head Office
+  branch_address: Dbs Building Singapore 068809
+  branch_code: XXX
+  city: Singapore
+  country: Singapore
+- name: Deutsche Asia And Partners Securities Pte Ltd.
+  swift: MGAPSGS1XXX
+  swift8: MGAPSGS1
+  branch_name: Head Office
+  branch_address: Ocean Towers Singapore 048620
+  branch_code: XXX
+  city: Singapore
+  country: Singapore
+- name: Dmg And Partners Securities Pte Ltd
+  swift: DASPSGS1XXX
+  swift8: DASPSGS1
+  branch_name: Head Office
+  branch_address: Ocean Towers Singapore 048620
+  branch_code: XXX
+  city: Singapore
+  country: Singapore
+- name: Dow Financial Services Inc. Singapore
+  swift: DFSISGS1XXX
+  swift8: DFSISGS1
+  branch_name: Head Office
+  branch_address: The Heeren Singapore 238855
+  branch_code: XXX
+  city: Singapore
+  country: Singapore
+- name: Duet
+  swift: DUETSGS1XXX
+  swift8: DUETSGS1
+  branch_name: Head Office
+  branch_address: International Building Singapore 238869
+  branch_code: XXX
+  city: Singapore
+  country: Singapore
+- name: E.sun Commercial Bank, Ltd.
+  swift: ESUNSGSGXXX
+  swift8: ESUNSGSG
+  branch_name: Head Office
+  branch_address: Asia Square Tower 1 Singapore 018960
+  branch_code: XXX
+  city: Singapore
+  country: Singapore
+- name: Ecics Investments Pte Ltd
+  swift: ECIPSGS1XXX
+  swift8: ECIPSGS1
+  branch_name: Head Office
+  branch_address: International Factors Building Singapore 048944
+  branch_code: XXX
+  city: Singapore
+  country: Singapore
+- name: Elliott And Carmen Group Llp
+  swift: ECGLSGS1XXX
+  swift8: ECGLSGS1
+  branch_name: Head Office
+  branch_address: 6 Upper Wilkie Road Singapore 228116
+  branch_code: XXX
+  city: Singapore
+  country: Singapore
+- name: Elliott And Carmen International Llp
+  swift: ECQLSGS1XXX
+  swift8: ECQLSGS1
+  branch_name: Head Office
+  branch_address: Raffles Hotel Arcade Singapore 188719
+  branch_code: XXX
+  city: Singapore
+  country: Singapore
+- name: Falcon Private Bank Ltd Singapore Branch
+  swift: UEBESGSGXXX
+  swift8: UEBESGSG
+  branch_name: Head Office
+  branch_address: Centennial Tower Singapore 039190
+  branch_code: XXX
+  city: Singapore
+  country: Singapore
+- name: Fil Investment Management (singapore) Limited
+  swift: FIISSGS1XXX
+  swift8: FIISSGS1
+  branch_name: Head Office
+  branch_address: Hongkongbank Building Singapore 049320
+  branch_code: XXX
+  city: Singapore
+  country: Singapore
+- name: Fitch Ratings Singapore Pte Ltd.
+  swift: FRIPSGS1XXX
+  swift8: FRIPSGS1
+  branch_name: Head Office
+  branch_address: Suntec Tower Singapore 038986
+  branch_code: XXX
+  city: Singapore
+  country: Singapore
+- name: Galena Asset Management (asia) Pte. Ltd
+  swift: GANSSGS1XXX
+  swift8: GANSSGS1
+  branch_name: Head Office
+  branch_address: No.10-01 Wheelock Place Singapore 238880
+  branch_code: XXX
+  city: Singapore
+  country: Singapore
+- name: Goldman Sachs Asset Management Intl Singapore
+  swift: GSAMSGS1XXX
+  swift8: GSAMSGS1
+  branch_name: Head Office
+  branch_address: Singapore Land Tower Singapore 048623
+  branch_code: XXX
+  city: Singapore
+  country: Singapore
+- name: Goldman Sachs Futures Pte Ltd
+  swift: GSFSSGS1XXX
+  swift8: GSFSSGS1
+  branch_name: Head Office
+  branch_address: Shell Tower Singapore 048623
+  branch_code: XXX
+  city: Singapore
+  country: Singapore
+- name: Google Asia Pacific Pte Ltd
+  swift: GOOGSGS1XXX
+  swift8: GOOGSGS1
+  branch_name: Head Office
+  branch_address: 8 Shenton Way, Singapore 068811
+  branch_code: XXX
+  city: Singapore
+  country: Singapore
+- name: Gordian Capital Singapore Private Limited
+  swift: GCSPSGS1XXX
+  swift8: GCSPSGS1
+  branch_name: No branch name
+  branch_address: No branch address
+  branch_code: XXX
+  city: Singapore
+  country: Singapore
+- name: Grains And Industrial Products Pte Ltd
+  swift: BLTDSG21XXX
+  swift8: BLTDSG21
+  branch_name: Head Office
+  branch_address: Robinson 77 Singapore 068896
+  branch_code: XXX
+  city: Singapore
+  country: Singapore
+- name: Grand Orient Securities Pte Ltd
+  swift: GOSESGS1XXX
+  swift8: GOSESGS1
+  branch_name: Head Office
+  branch_address: Ocean Financial Centre Singapore 068882
+  branch_code: XXX
+  city: Singapore
+  country: Singapore
+- name: Guocoland Retail Management Pte. Ltd.
+  swift: FCFMSGS1XXX
+  swift8: FCFMSGS1
+  branch_name: Head Office
+  branch_address: Tung Centre Singapore 049319
+  branch_code: XXX
+  city: Singapore
+  country: Singapore
+- name: Harlow, Ueda, Sassoon (singapore) Private Limited
+  swift: HUSISGS1XXX
+  swift8: HUSISGS1
+  branch_name: Head Office
+  branch_address: Oub Centre Singapore 048616
+  branch_code: XXX
+  city: Singapore
+  country: Singapore
+- name: Havenport Asset Management Pte Ltd
+  swift: HVPASGS1XXX
+  swift8: HVPASGS1
+  branch_name: Head Office
+  branch_address: 8 Eu Tong Sen Street 21 Singapore 049145
+  branch_code: XXX
+  city: Singapore
+  country: Singapore
+- name: Havenport Asset Management Pte Ltd
+  swift: LMAMSGS1XXX
+  swift8: LMAMSGS1
+  branch_name: Head Office
+  branch_address: The Central Singapore 059818
+  branch_code: XXX
+  city: Singapore
+  country: Singapore
+- name: Hbz International Exchange Co (singapore) Pte Ltd
+  swift: HIEESGS1XXX
+  swift8: HIEESGS1
+  branch_name: Head Office
+  branch_address: Peninsula Plaza Singapore 0179098
+  branch_code: XXX
+  city: Singapore
+  country: Singapore
+- name: Hewlett-packard Singapore (private) Limited
+  swift: HESISGS1XXX
+  swift8: HESISGS1
+  branch_name: Head Office
+  branch_address: 450 Alexandra Road Singapore 0119960
+  branch_code: XXX
+  city: Singapore
+  country: Singapore
+- name: Hewlett-packard Singapore (sales) Pte Ltd
+  swift: HSSPSGS1XXX
+  swift8: HSSPSGS1
+  branch_name: Head Office
+  branch_address: 450 Alexandra Road Singapore 0119960
+  branch_code: XXX
+  city: Singapore
+  country: Singapore
+- name: Hsbc Futures (singapore) Pte Limited
+  swift: HSBCSGS1XXX
+  swift8: HSBCSGS1
+  branch_name: Head Office
+  branch_address: Hsbc Building Singapore 049320
+  branch_code: XXX
+  city: Singapore
+  country: Singapore
+- name: Hsbc Global Asset Management (singapore) Limited
+  swift: HSMSSGS1XXX
+  swift8: HSMSSGS1
+  branch_name: Head Office
+  branch_address: Hsbc Building Singapore 049320
+  branch_code: XXX
+  city: Singapore
+  country: Singapore
+- name: Icap Ap (singapore) Pte Ltd
+  swift: APPLSGS1XXX
+  swift8: APPLSGS1
+  branch_name: Head Office
+  branch_address: 6 Battery Road Singapore 049909
+  branch_code: XXX
+  city: Singapore
+  country: Singapore
+- name: Iifl Securities Pte Ltd
+  swift: IIFLSGS1XXX
+  swift8: IIFLSGS1
+  branch_name: Head Office
+  branch_address: Tung Centre Singapore 049319
+  branch_code: XXX
+  city: Singapore
+  country: Singapore
+- name: Ing Asset Management (singapore) Ltd
+  swift: INAASGS1XXX
+  swift8: INAASGS1
+  branch_name: Head Office
+  branch_address: Shell Tower Singapore 048623
+  branch_code: XXX
+  city: Singapore
+  country: Singapore
+- name: Ing Barings Singapore
+  swift: INBNSGS1XXX
+  swift8: INBNSGS1
+  branch_name: Head Office
+  branch_address: Republic Plaza Singapore 048619
+  branch_code: XXX
+  city: Singapore
+  country: Singapore
+- name: Ing Futures And Options (singapore) Pte Ltd.
+  swift: INGFSGS1XXX
+  swift8: INGFSGS1
+  branch_name: Head Office
+  branch_address: Ocean Tower Singapore 048620
+  branch_code: XXX
+  city: Singapore
+  country: Singapore
+- name: Instinet Singapore Services Pte Ltd
+  swift: ISSPSGS1XXX
+  swift8: ISSPSGS1
+  branch_name: Head Office
+  branch_address: Samsung Hub Singapore 049483
+  branch_code: XXX
+  city: Singapore
+  country: Singapore
+- name: International Sos Pte Ltd
+  swift: ISOSSGSGXXX
+  swift8: ISOSSGSG
+  branch_name: Head Office
+  branch_address: Odeon Towers Singapore 188720
+  branch_code: XXX
+  city: Singapore
+  country: Singapore
+- name: Invesco Asset Management Singapore Ltd
+  swift: GTMGSGS1XXX
+  swift8: GTMGSGS1
+  branch_name: Head Office
+  branch_address: Ocean Towers Singapore 048620
+  branch_code: XXX
+  city: Singapore
+  country: Singapore
+- name: Ipp Financial Advisers Pte. Ltd.
+  swift: IPPPSGS1XXX
+  swift8: IPPPSGS1
+  branch_name: Head Office
+  branch_address: Cathay Building Singapore 0922
+  branch_code: XXX
+  city: Singapore
+  country: Singapore
+- name: Itochu Capital And Investment (asia) Limited
+  swift: ICISSGS1XXX
+  swift8: ICISSGS1
+  branch_name: Head Office
+  branch_address: Republic Plaza Singapore 048619
+  branch_code: XXX
+  city: Singapore
+  country: Singapore
+- name: Ivaldi Capital Pte. Ltd
+  swift: IVCPSGS1XXX
+  swift8: IVCPSGS1
+  branch_name: Head Office
+  branch_address: 1 Raffles Place Singapore 048616
+  branch_code: XXX
+  city: Singapore
+  country: Singapore
+- name: Ivenio Holdings Pte Ltd
+  swift: IVHPSGS1XXX
+  swift8: IVHPSGS1
+  branch_name: Head Office
+  branch_address: 9 Tamasek Boulevard Singapore 038989
+  branch_code: XXX
+  city: Singapore
+  country: Singapore
+- name: J.p. Morgan Securites Singapore Private Limited
+  swift: JPSESGS1XXX
+  swift8: JPSESGS1
+  branch_name: Head Office
+  branch_address: Capital Tower Singapore 068912
+  branch_code: XXX
+  city: Singapore
+  country: Singapore
+- name: Jardine Fleming Singapore Securities Pte Ltd.
+  swift: JFSSSGS1XXX
+  swift8: JFSSSGS1
+  branch_name: Head Office
+  branch_address: Republic Plaza Singapore 048619
+  branch_code: XXX
+  city: Singapore
+  country: Singapore
+- name: Jl Capital Pte Ltd
+  swift: CPPESGS1XXX
+  swift8: CPPESGS1
+  branch_name: Head Office
+  branch_address: Park View Square Singapore 188778
+  branch_code: XXX
+  city: Singapore
+  country: Singapore
+- name: Jp Morgan Futures Inc.
+  swift: MFCSSGS1XXX
+  swift8: MFCSSGS1
+  branch_name: Head Office
+  branch_address: Dbs Building Tower Two Singapore 068809
+  branch_code: XXX
+  city: Singapore
+  country: Singapore
+- name: Kankaku (singapore) Limited
+  swift: NKMSSGS1XXX
+  swift8: NKMSSGS1
+  branch_name: Head Office
+  branch_address: Standard Charterd Bank Building Singapore 049909
+  branch_code: XXX
+  city: Singapore
+  country: Singapore
+- name: Keppel Bullion And Futures Pte Ltd.
+  swift: KEPPSGS1XXX
+  swift8: KEPPSGS1
+  branch_name: Head Office
+  branch_address: Ocean Tower Singapore 048620
+  branch_code: XXX
+  city: Singapore
+  country: Singapore
+- name: Keppel Securities Pte Ltd.
+  swift: KEPSSGS1XXX
+  swift8: KEPSSGS1
+  branch_name: Head Office
+  branch_address: Keppel Towers Singapore 089315
+  branch_code: XXX
+  city: Singapore
+  country: Singapore
+- name: Khattar Capital International Pte. Ltd.
+  swift: SAPTSGS1XXX
+  swift8: SAPTSGS1
+  branch_name: Head Office
+  branch_address: Oub Centre Singapore 048616
+  branch_code: XXX
+  city: Singapore
+  country: Singapore
+- name: Kim Eng Futures Pte Ltd.
+  swift: KMEFSGS1XXX
+  swift8: KMEFSGS1
+  branch_name: Head Office
+  branch_address: Uic Building Singapore 068808
+  branch_code: XXX
+  city: Singapore
+  country: Singapore
+- name: Kim Eng Securities Pte. Ltd.
+  swift: KMESSGS1XXX
+  swift8: KMESSGS1
+  branch_name: Head Office
+  branch_address: Suntec Tower Two Singapore 038989
+  branch_code: XXX
+  city: Singapore
+  country: Singapore
+- name: Kimco Japan Long Short
+  swift: KJLSSGS1XXX
+  swift8: KJLSSGS1
+  branch_name: Head Office
+  branch_address: Orchard Parade Hotel Singapore 247905
+  branch_code: XXX
+  city: Singapore
+  country: Singapore
+- name: Kimco Mac
+  swift: KIMCSGS1XXX
+  swift8: KIMCSGS1
+  branch_name: Head Office
+  branch_address: Orchard Parade Hotel Singapore 247905
+  branch_code: XXX
+  city: Singapore
+  country: Singapore
+- name: Kleinwort Benson Research (asia) Pte Ltd
+  swift: KBRASGS1XXX
+  swift8: KBRASGS1
+  branch_name: Head Office
+  branch_address: Peninsula Plaza Singapore 179098
+  branch_code: XXX
+  city: Singapore
+  country: Singapore
+- name: Lee And Co (stock And Share Brokers) Pte Ltd.
+  swift: LEECSGS1XXX
+  swift8: LEECSGS1
+  branch_name: Head Office
+  branch_address: Ocean Building Singapore 049315
+  branch_code: XXX
+  city: Singapore
+  country: Singapore
+- name: Lehman Brothers Capital Asia Pte. Ltd
+  swift: LBCASGS1XXX
+  swift8: LBCASGS1
+  branch_name: Head Office
+  branch_address: Suntec Tower Five Singapore 038985
+  branch_code: XXX
+  city: Singapore
+  country: Singapore
+- name: Lehman Brothers Pte Ltd
+  swift: LEBPSGS1XXX
+  swift8: LEBPSGS1
+  branch_name: Head Office
+  branch_address: 16 Collyer Quay Singapore 049138
+  branch_code: XXX
+  city: Singapore
+  country: Singapore
+- name: Lehman Brothers Pte Ltd.
+  swift: LSINSGS1XXX
+  swift8: LSINSGS1
+  branch_name: Head Office
+  branch_address: Suntec City Tower Singapore 038985
+  branch_code: XXX
+  city: Singapore
+  country: Singapore
+- name: Lehman Brothers Singapore Pte Ltd
+  swift: LBPSSGS1XXX
+  swift8: LBPSSGS1
+  branch_name: Head Office
+  branch_address: Suntec Tower Five Singapore 038985
+  branch_code: XXX
+  city: Singapore
+  country: Singapore
+- name: Lg Display Singapore Pte. Ltd.
+  swift: LGDTSGS1XXX
+  swift8: LGDTSGS1
+  branch_name: Head Office
+  branch_address: Suntec Tower 3 Singapore
+  branch_code: XXX
+  city: Singapore
+  country: Singapore
+- name: Lianhe Investments Pte. Ltd
+  swift: LHIVSGL1XXX
+  swift8: LHIVSGL1
+  branch_name: Head Office
+  branch_address: 1000 Tao Payoh North News Centre Singapore 0349567
+  branch_code: XXX
+  city: Singapore
+  country: Singapore
+- name: Lim And Tan Securities Pte Ltd
+  swift: LIMTSGS1XXX
+  swift8: LIMTSGS1
+  branch_name: Head Office
+  branch_address: Ocean Building Singapore 049315
+  branch_code: XXX
+  city: Singapore
+  country: Singapore
+- name: Lloyds Tsb Merchant Bank Limited
+  swift: HSAMSGS1XXX
+  swift8: HSAMSGS1
+  branch_name: Head Office
+  branch_address: Millenia Tower Singapore 068809
+  branch_code: XXX
+  city: Singapore
+  country: Singapore
+- name: Lsi Technologies Singapore Pte. Ltd.
+  swift: LTSPSGS1XXX
+  swift8: LTSPSGS1
+  branch_name: Head Office
+  branch_address: 3 Kallang Sector Singapore 349278
+  branch_code: XXX
+  city: Singapore
+  country: Singapore
+- name: Ltcb Merchant Bank (singapore) Limited
+  swift: LMBSSGS1XXX
+  swift8: LMBSSGS1
+  branch_name: Head Office
+  branch_address: Uob Plaza Singapore 048624
+  branch_code: XXX
+  city: Singapore
+  country: Singapore
+- name: Lum Chang Securities Pte Ltd.
+  swift: LUMCSGS1XXX
+  swift8: LUMCSGS1
+  branch_name: Head Office
+  branch_address: Hong Leong Building Singapore 048581
+  branch_code: XXX
+  city: Singapore
+  country: Singapore
+- name: Macquarie Capital Securities (singapore) Pte Ltd
+  swift: BSSLSGS1XXX
+  swift8: BSSLSGS1
+  branch_name: Head Office
+  branch_address: 17-10 Marina Bay Singapore 018983
+  branch_code: XXX
+  city: Singapore
+  country: Singapore
+- name: Martin-bierbaum (singapore) Private Limited
+  swift: BIEMSGS1XXX
+  swift8: BIEMSGS1
+  branch_name: Head Office
+  branch_address: Shell Tower Singapore 048623
+  branch_code: XXX
+  city: Singapore
+  country: Singapore
+- name: Maywood Asset Management Pte. Ltd.
+  swift: MSMPSGS1XXX
+  swift8: MSMPSGS1
+  branch_name: Head Office
+  branch_address: Six Battery Road Singapore 049909
+  branch_code: XXX
+  city: Singapore
+  country: Singapore
+- name: Maywood Asset Management Pte. Ltd.
+  swift: MSMPSGSGXXX
+  swift8: MSMPSGSG
+  branch_name: Head Office
+  branch_address: Chevron House Singapore 048622
+  branch_code: XXX
+  city: Singapore
+  country: Singapore
+- name: Mbl Merchant Bank (singapore) Limited
+  swift: MMBSSGS1XXX
+  swift8: MMBSSGS1
+  branch_name: Head Office
+  branch_address: Tung Centre Singapore 049319
+  branch_code: XXX
+  city: Singapore
+  country: Singapore
+- name: Merrill Lynch Singapore Commodities Pte. Ltd.
+  swift: MLFSSGS1XXX
+  swift8: MLFSSGS1
+  branch_name: Head Office
+  branch_address: Millenia Tower Singapore 049138
+  branch_code: XXX
+  city: Singapore
+  country: Singapore
+- name: Mf Global Singapore Pte. Limited
+  swift: MFGLSGS1XXX
+  swift8: MFGLSGS1
+  branch_name: Head Office
+  branch_address: One George Street 17-03 Singapore 049145
+  branch_code: XXX
+  city: Singapore
+  country: Singapore
+- name: Mf Global Singapore Pte. Limited
+  swift: SCFTSGS1XXX
+  swift8: SCFTSGS1
+  branch_name: Head Office
+  branch_address: One George Street Singapore 049909
+  branch_code: XXX
+  city: Singapore
+  country: Singapore
+- name: Mgec Group Pte Ltd
+  swift: MGGPSGS1XXX
+  swift8: MGGPSGS1
+  branch_name: Head Office
+  branch_address: High Street Centre Singapore 179094
+  branch_code: XXX
+  city: Singapore
+  country: Singapore
+- name: Millennium Securities Pte Ltd
+  swift: MISTSGS1XXX
+  swift8: MISTSGS1
+  branch_name: Head Office
+  branch_address: 80 Robinson Road Singapore 068898
+  branch_code: XXX
+  city: Singapore
+  country: Singapore
+- name: Minex Corporation Singapore Pte Ltd
+  swift: MINXSGS1XXX
+  swift8: MINXSGS1
+  branch_name: Head Office
+  branch_address: 6 Battery Road Singapore 049909
+  branch_code: XXX
+  city: Singapore
+  country: Singapore
+- name: Mitsubishi Ufj Securities (singapore), Limited
+  swift: BOISSGS1XXX
+  swift8: BOISSGS1
+  branch_name: Head Office
+  branch_address: Hong Leong Building Singapore 048581
+  branch_code: XXX
+  city: Singapore
+  country: Singapore
+- name: Mizuho Futures (singapore) Pte Ltd
+  swift: FUJISGS1XXX
+  swift8: FUJISGS1
+  branch_name: Head Office
+  branch_address: Uic Building Singapore 048616
+  branch_code: XXX
+  city: Singapore
+  country: Singapore
+- name: Moody's Singapore Pte Ltd
+  swift: MOITSGS1XXX
+  swift8: MOITSGS1
+  branch_name: Head Office
+  branch_address: Singapore Land Tower Singapore 048623
+  branch_code: XXX
+  city: Singapore
+  country: Singapore
+- name: N.m. Rothschild And Sons (singapore) Limited
+  swift: ROTHSGS1XXX
+  swift8: ROTHSGS1
+  branch_name: Head Office
+  branch_address: North Tower Singapore 049705
+  branch_code: XXX
+  city: Singapore
+  country: Singapore
+- name: Natwest Futures (asia) Pte Ltd.
+  swift: NATWSGS1XXX
+  swift8: NATWSGS1
+  branch_name: Head Office
+  branch_address: Shell Tower Singapore 048623
+  branch_code: XXX
+  city: Singapore
+  country: Singapore
+- name: New Japan Mechant Bank (singapore) Limited
+  swift: NJMBSGS1XXX
+  swift8: NJMBSGS1
+  branch_name: Head Office
+  branch_address: Oub Centre Singapore 048616
+  branch_code: XXX
+  city: Singapore
+  country: Singapore
+- name: Nibc Bank Ltd.
+  swift: DNIBSGS1XXX
+  swift8: DNIBSGS1
+  branch_name: Head Office
+  branch_address: 1 Finlayson Green 15-01 Singapore
+  branch_code: XXX
+  city: Singapore
+  country: Singapore
+- name: Nike Global Trading Pte Ltd
+  swift: NGTPSGS1XXX
+  swift8: NGTPSGS1
+  branch_name: Head Office
+  branch_address: Milleniatower Singapore 039192
+  branch_code: XXX
+  city: Singapore
+  country: Singapore
+- name: Nike Singapore Pte Ltd
+  swift: NIKESGS1XXX
+  swift8: NIKESGS1
+  branch_name: Head Office
+  branch_address: 15a Changi Business Park Central 1 Singapore 0529653
+  branch_code: XXX
+  city: Singapore
+  country: Singapore
+- name: Nikko Asset Management Singapore Limited
+  swift: NCMSSGS1XXX
+  swift8: NCMSSGS1
+  branch_name: Head Office
+  branch_address: Sia Building Singapore 049909
+  branch_code: XXX
+  city: Singapore
+  country: Singapore
+- name: Nikko Futures (singapore) Pte Ltd., The
+  swift: NIKOSGS1XXX
+  swift8: NIKOSGS1
+  branch_name: Head Office
+  branch_address: 6 Battery Road 28-01 Singapore 049909
+  branch_code: XXX
+  city: Singapore
+  country: Singapore
+- name: Nikko Securities (singapore) Pte Ltd.,the
+  swift: NIKKSGS1XXX
+  swift8: NIKKSGS1
+  branch_name: Head Office
+  branch_address: 6 Battery Road Singapore 049909
+  branch_code: XXX
+  city: Singapore
+  country: Singapore
+- name: Nippon Credit Bank Ltd., The
+  swift: NCBTSGS1XXX
+  swift8: NCBTSGS1
+  branch_name: Head Office
+  branch_address: Standard Chartered Bank Building Singapore 049909
+  branch_code: XXX
+  city: Singapore
+  country: Singapore
+- name: Nittan Marshalls (singapore) Pte Ltd.
+  swift: MSPLSGS1XXX
+  swift8: MSPLSGS1
+  branch_name: Head Office
+  branch_address: 6 Battery Road Singapore 049909
+  branch_code: XXX
+  city: Singapore
+  country: Singapore
+- name: Noble Resources Pte. Ltd
+  swift: NOEPSGS1XXX
+  swift8: NOEPSGS1
+  branch_name: Head Office
+  branch_address: 60 Anson Road Singapore 079914
+  branch_code: XXX
+  city: Singapore
+  country: Singapore
+- name: Nomura Futures (singapore) Pte Ltd
+  swift: NOMRSGS1XXX
+  swift8: NOMRSGS1
+  branch_name: Head Office
+  branch_address: 6 Battery Road Singapore 049909
+  branch_code: XXX
+  city: Singapore
+  country: Singapore
+- name: Nomura Research Institute (singapore) Private Limited
+  swift: NRISSGS1XXX
+  swift8: NRISSGS1
+  branch_name: Head Office
+  branch_address: 6, Battery Road Singapore 049909
+  branch_code: XXX
+  city: Singapore
+  country: Singapore
+- name: Nomura Securities Singapore Pte Ltd
+  swift: NOMSSGS1XXX
+  swift8: NOMSSGS1
+  branch_name: Head Office
+  branch_address: 6 Battery Road Singapore 049909
+  branch_code: XXX
+  city: Singapore
+  country: Singapore
+- name: Nordea Bank Sa Singapore Branch
+  swift: NDPBSGSGXXX
+  swift8: NDPBSGSG
+  branch_name: Head Office
+  branch_address: 20-01 Springleaf Tower Singapore 079909
+  branch_code: XXX
+  city: Singapore
+  country: Singapore
+- name: Ntuc Income Insurance Co-operative Limited
+  swift: NIICSGS1XXX
+  swift8: NIICSGS1
+  branch_name: Head Office
+  branch_address: Ntuc Income Centre Singapore 189557
+  branch_code: XXX
+  city: Singapore
+  country: Singapore
+- name: Ocbc Bullion And Futures Ltd.
+  swift: OCBCSGS1XXX
+  swift8: OCBCSGS1
+  branch_name: Head Office
+  branch_address: Ocbc Centre Singapore 049513
+  branch_code: XXX
+  city: Singapore
+  country: Singapore
+- name: Ocbc Investment Research Private Limited
+  swift: OIRPSGS1XXX
+  swift8: OIRPSGS1
+  branch_name: Head Office
+  branch_address: Ocbc Centre Singapore 049513
+  branch_code: XXX
+  city: Singapore
+  country: Singapore
+- name: Ocbc Nominee Pte Limited
+  swift: OCNPSGS1XXX
+  swift8: OCNPSGS1
+  branch_name: Head Office
+  branch_address: Ocbc Centre Singapore 049513
+  branch_code: XXX
+  city: Singapore
+  country: Singapore
+- name: Ong And Company Private Limited
+  swift: ONGCSGS1XXX
+  swift8: ONGCSGS1
+  branch_name: Head Office
+  branch_address: Ong Building Singapore 079119
+  branch_code: XXX
+  city: Singapore
+  country: Singapore
+- name: Ong And Company Pte Ltd.
+  swift: ONCOSGS1XXX
+  swift8: ONCOSGS1
+  branch_name: Head Office
+  branch_address: Ong Building Singapore 079119
+  branch_code: XXX
+  city: Singapore
+  country: Singapore
+- name: Ong First Tradition Pte. Ltd
+  swift: OFCFSGS1XXX
+  swift8: OFCFSGS1
+  branch_name: Head Office
+  branch_address: Ong Building Singapore 079119
+  branch_code: XXX
+  city: Singapore
+  country: Singapore
+- name: Ong Research Pte Ltd
+  swift: ONRPSGS1XXX
+  swift8: ONRPSGS1
+  branch_name: Head Office
+  branch_address: Ong Building Singapore 079119
+  branch_code: XXX
+  city: Singapore
+  country: Singapore
+- name: Oub Bullion And Futures Ltd.
+  swift: OUBFSGS1XXX
+  swift8: OUBFSGS1
+  branch_name: Head Office
+  branch_address: Oub Centre Singapore 048616
+  branch_code: XXX
+  city: Singapore
+  country: Singapore
+- name: Oub Securities Pte Ltd.
+  swift: OUSPSGS1XXX
+  swift8: OUSPSGS1
+  branch_name: Head Office
+  branch_address: Overseas Union House Singapore 049321
+  branch_code: XXX
+  city: Singapore
+  country: Singapore
+- name: Oww Capital Partners Pte. Ltd
+  swift: OWWMSGS1XXX
+  swift8: OWWMSGS1
+  branch_name: Head Office
+  branch_address: Ocbc Centre Singapore 049513
+  branch_code: XXX
+  city: Singapore
+  country: Singapore
+- name: Pama (singapore) Private Limited
+  swift: PSPLSGS1XXX
+  swift8: PSPLSGS1
+  branch_name: Head Office
+  branch_address: Tung Centre Singapore 049319
+  branch_code: XXX
+  city: Singapore
+  country: Singapore
+- name: Panasonic Asia Pacific Pte. Ltd.
+  swift: PANASGS1XXX
+  swift8: PANASGS1
+  branch_name: Head Office
+  branch_address: The Concourse Singapore 199555
+  branch_code: XXX
+  city: Singapore
+  country: Singapore
+- name: Paribas Private Banking Asia Limited
+  swift: PPBASGS1XXX
+  swift8: PPBASGS1
+  branch_name: Head Office
+  branch_address: Uob Plaza I Singapore 048624
+  branch_code: XXX
+  city: Singapore
+  country: Singapore
+- name: Parkway Munda Capital Corporation
+  swift: PMCCSGS1XXX
+  swift8: PMCCSGS1
+  branch_name: Head Office
+  branch_address: Foowah Industial Building Singapore 577197
+  branch_code: XXX
+  city: Singapore
+  country: Singapore
+- name: Pegasus Asia Fund
+  swift: PEAFSGS1XXX
+  swift8: PEAFSGS1
+  branch_name: Head Office
+  branch_address: Prudential Tower Singapore 49712
+  branch_code: XXX
+  city: Singapore
+  country: Singapore
+- name: Pegasus Taiwan
+  swift: PETASGS1XXX
+  swift8: PETASGS1
+  branch_name: Head Office
+  branch_address: Prudential Tower Singapore 49712
+  branch_code: XXX
+  city: Singapore
+  country: Singapore
+- name: Peregrine Securities Singapore Pte Ltd
+  swift: PSSPSGS1XXX
+  swift8: PSSPSGS1
+  branch_name: Head Office
+  branch_address: Ocean Building Singapore 049315
+  branch_code: XXX
+  city: Singapore
+  country: Singapore
+- name: Pheim Asset Management (asia) Pte Ltd
+  swift: PAMASGS1XXX
+  swift8: PAMASGS1
+  branch_name: Head Office
+  branch_address: 43 Duxton Road Singapore 089507
+  branch_code: XXX
+  city: Singapore
+  country: Singapore
+- name: Phillip Futures Pte. Ltd.
+  swift: PHFUSGS1XXX
+  swift8: PHFUSGS1
+  branch_name: Head Office
+  branch_address: Raffles Singapore 058717
+  branch_code: XXX
+  city: Singapore
+  country: Singapore
+- name: Phillip Securities Pte Ltd
+  swift: PHSESGS1XXX
+  swift8: PHSESGS1
+  branch_name: Head Office
+  branch_address: Raffles Singapore 058717
+  branch_code: XXX
+  city: Singapore
+  country: Singapore
+- name: Phillip Securities Research Pte Ltd
+  swift: PSRPSGS1XXX
+  swift8: PSRPSGS1
+  branch_name: Head Office
+  branch_address: Raffles City Tower Singapore 058717
+  branch_code: XXX
+  city: Singapore
+  country: Singapore
+- name: Proa Partners Pte Ltd
+  swift: PPPLSGSGXXX
+  swift8: PPPLSGSG
+  branch_name: Aim-Poms Service
+  branch_address: Shaw Centre Singapore 228208
+  branch_code: XXX
+  city: Singapore
+  country: Singapore
+- name: Prudential Portfolio Managers Singapore Limited
+  swift: PPMLSGS1XXX
+  swift8: PPMLSGS1
+  branch_name: Head Office
+  branch_address: Prudential Tower Singapore 049712
+  branch_code: XXX
+  city: Singapore
+  country: Singapore
+- name: Prudential-bache Futures Asia Pacific Ltd.
+  swift: PBFASGS1XXX
+  swift8: PBFASGS1
+  branch_name: Head Office
+  branch_address: Shell Tower Singapore 048623
+  branch_code: XXX
+  city: Singapore
+  country: Singapore
+- name: Pure Commerce (s) Pte Ltd
+  swift: PURESGS1XXX
+  swift8: PURESGS1
+  branch_name: Head Office
+  branch_address: Gateway East Singapore 189721
+  branch_code: XXX
+  city: Singapore
+  country: Singapore
+- name: Pure Commerce (s) Pte Ltd
+  swift: PURESGSGXXX
+  swift8: PURESGSG
+  branch_name: Head Office
+  branch_address: Gateway East Singapore 189721
+  branch_code: XXX
+  city: Singapore
+  country: Singapore
+- name: Raffles Nominees (pte.) Limited
+  swift: SCBLSG21XXX
+  swift8: SCBLSG21
+  branch_name: Head Office
+  branch_address: 6 Battery Road Singapore 049909
+  branch_code: XXX
+  city: Singapore
+  country: Singapore
+- name: Refco (singapore) Pte Ltd.
+  swift: REFCSGS1XXX
+  swift8: REFCSGS1
+  branch_name: Head Office
+  branch_address: Treasury Building Singapore 068811
+  branch_code: XXX
+  city: Singapore
+  country: Singapore
+- name: Reliance Asset Management (sg) Pte Ltd
+  swift: RAAPSGS1XXX
+  swift8: RAAPSGS1
+  branch_name: Head Office
+  branch_address: Ocbc Centre Singapore 49513
+  branch_code: XXX
+  city: Singapore
+  country: Singapore
+- name: Republic National Bank Of New York (singapore)limited
+  swift: BLICSGS1XXX
+  swift8: BLICSGS1
+  branch_name: Head Office
+  branch_address: Hsbc Building Singapore 049320
+  branch_code: XXX
+  city: Singapore
+  country: Singapore
+- name: Reuters Transaction Services Limited
+  swift: RTSLSGS1XXX
+  swift8: RTSLSGS1
+  branch_name: Head Office
+  branch_address: 18 Science Park Drive Singapore 0118229
+  branch_code: XXX
+  city: Singapore
+  country: Singapore
+- name: Rhb-cathay Securities Pte Ltd.
+  swift: RHBCSGS1XXX
+  swift8: RHBCSGS1
+  branch_name: Head Office
+  branch_address: Bharat Building Singapore 048617
+  branch_code: XXX
+  city: Singapore
+  country: Singapore
+- name: Richard Chandler Singapore Pte Ltd
+  swift: OGSLSGS1XXX
+  swift8: OGSLSGS1
+  branch_name: Head Office
+  branch_address: Uob Plaza 1 Singapore 048624
+  branch_code: XXX
+  city: Singapore
+  country: Singapore
+- name: Rothschild Asset Management (s) Ltd
+  swift: ROAMSGS1XXX
+  swift8: ROAMSGS1
+  branch_name: Head Office
+  branch_address: Straits Trading Building Singapore 049910
+  branch_code: XXX
+  city: Singapore
+  country: Singapore
+- name: Rothschild Bullion And Financial Futures Pte Ltd.
+  swift: RBFFSGS1XXX
+  swift8: RBFFSGS1
+  branch_name: Head Office
+  branch_address: The Exchange Singapore 049705
+  branch_code: XXX
+  city: Singapore
+  country: Singapore
+- name: Rothschild Ventures Asia Pte Ltd
+  swift: RVAPSGS1XXX
+  swift8: RVAPSGS1
+  branch_name: Head Office
+  branch_address: Straits Trading Building Singapore 049910
+  branch_code: XXX
+  city: Singapore
+  country: Singapore
+- name: Sal Industrial Leasing Limited
+  swift: INLLSGS1XXX
+  swift8: INLLSGS1
+  branch_name: Head Office
+  branch_address: Cpf Building Singapore 068897
+  branch_code: XXX
+  city: Singapore
+  country: Singapore
+- name: Samsung Asia Pte Ltd.
+  swift: SECTSGS1540
+  swift8: SECTSGS1
+  branch_name: Sapl
+  branch_address: Singapore
+  branch_code: '540'
+  city: Singapore
+  country: Singapore
+- name: Samsung Asia Pte Ltd.
+  swift: SECTSGS1XXX
+  swift8: SECTSGS1
+  branch_name: Head Office
+  branch_address: Samsung Hub Singapore 049483
+  branch_code: XXX
+  city: Singapore
+  country: Singapore
+- name: Samsung Asset Management(singapore) Pte. Ltd.
+  swift: SASGSGS1XXX
+  swift8: SASGSGS1
+  branch_name: Head Office
+  branch_address: Samsung Hub Singapore
+  branch_code: XXX
+  city: Singapore
+  country: Singapore
+- name: Samsung Securities (singapore) Pte Limited
+  swift: SSIPSGS1XXX
+  swift8: SSIPSGS1
+  branch_name: Head Office
+  branch_address: Straits Trading Building Singapore 049910
+  branch_code: XXX
+  city: Singapore
+  country: Singapore
+- name: Santander Investment Services
+  swift: SAIVSGS1XXX
+  swift8: SAIVSGS1
+  branch_name: Head Office
+  branch_address: 2700 Ocean Towers Singapore 04860
+  branch_code: XXX
+  city: Singapore
+  country: Singapore
+- name: Sanwa Futures (singapore) Pte Ltd
+  swift: SFSTSGS1XXX
+  swift8: SFSTSGS1
+  branch_name: Head Office
+  branch_address: John Hancock Tower Singapore 048580
+  branch_code: XXX
+  city: Singapore
+  country: Singapore
+- name: Sanyo Merchant Bank Ltd
+  swift: SAMKSGS1XXX
+  swift8: SAMKSGS1
+  branch_name: Head Office
+  branch_address: Hong Leong Building Singapore 048581
+  branch_code: XXX
+  city: Singapore
+  country: Singapore
+- name: Sassoon Financial Futures Pte Ltd.
+  swift: SASSSGS1XXX
+  swift8: SASSSGS1
+  branch_name: Head Office
+  branch_address: Oub Centre Singapore 048616
+  branch_code: XXX
+  city: Singapore
+  country: Singapore
+- name: Sbci And Associates Pte Ltd.
+  swift: ASSSSGS1XXX
+  swift8: ASSSSGS1
+  branch_name: Head Office
+  branch_address: The Arcade Singapore 049317
+  branch_code: XXX
+  city: Singapore
+  country: Singapore
+- name: Schroder Securities (singapore) Pte Ltd
+  swift: SSSPSGS1XXX
+  swift8: SSSPSGS1
+  branch_name: Head Office
+  branch_address: Ocbc Centre Singapore 049513
+  branch_code: XXX
+  city: Singapore
+  country: Singapore
+- name: Seed Ventures Management Pte Ltd
+  swift: SVMPSGS1XXX
+  swift8: SVMPSGS1
+  branch_name: Head Office
+  branch_address: Bp Tower Singapore 119954
+  branch_code: XXX
+  city: Singapore
+  country: Singapore
+- name: Sembawang Capital Pte Ltd
+  swift: SECESGS1XXX
+  swift8: SECESGS1
+  branch_name: Head Office
+  branch_address: Gb Building Singapore 069542
+  branch_code: XXX
+  city: Singapore
+  country: Singapore
+- name: Sepl-pulau Bukom
+  swift: SEBUSGS1XXX
+  swift8: SEBUSGS1
+  branch_name: Head Office
+  branch_address: Blk 295 Singapore 469296
+  branch_code: XXX
+  city: Singapore
+  country: Singapore
+- name: Sg Asset Management (singapore) Ltd
+  swift: SGAMSGS1XXX
+  swift8: SGAMSGS1
+  branch_name: Head Office
+  branch_address: 80 Robinson Road Singapore 068898
+  branch_code: XXX
+  city: Singapore
+  country: Singapore
+- name: Sg Securities (singapore) Custodial Services Pte Ltd
+  swift: SGSCSGS1XXX
+  swift8: SGSCSGS1
+  branch_name: Head Office
+  branch_address: 80 Robinson Road Singapore 068898
+  branch_code: XXX
+  city: Singapore
+  country: Singapore
+- name: Shell Eastern Petroleum Pte Ltd
+  swift: SEPPSGS1XXX
+  swift8: SEPPSGS1
+  branch_name: Head Office
+  branch_address: Pulau Bukom Singapore
+  branch_code: XXX
+  city: Singapore
+  country: Singapore
+- name: Silver Metis
+  swift: SIEESGS1XXX
+  swift8: SIEESGS1
+  branch_name: Head Office
+  branch_address: Capital Sqare Three Singapore 49482
+  branch_code: XXX
+  city: Singapore
+  country: Singapore
+- name: Singapore Commodity Exchange Ltd
+  swift: XSCESGS1XXX
+  swift8: XSCESGS1
+  branch_name: Head Office
+  branch_address: Peninsula Plaza Singapore 0179098
+  branch_code: XXX
+  city: Singapore
+  country: Singapore
+- name: Singapore Exchange Limited
+  swift: XSESSGS1XXX
+  swift8: XSESSGS1
+  branch_name: Head Office
+  branch_address: Oub Centre Singapore 048616
+  branch_code: XXX
+  city: Singapore
+  country: Singapore
+- name: Smbc Nikko Securities (singapore) Pte. Ltd.
+  swift: NKSCSGSGXXX
+  swift8: NKSCSGSG
+  branch_name: Head Office
+  branch_address: 22-01, Centennial Tower Singapore 039190
+  branch_code: XXX
+  city: Singapore
+  country: Singapore
+- name: Smith New Court (singapore) Pte Ltd.
+  swift: SNCOSGS1XXX
+  swift8: SNCOSGS1
+  branch_name: Head Office
+  branch_address: Ocean Building Singapore 049315
+  branch_code: XXX
+  city: Singapore
+  country: Singapore
+- name: Smith New Court Securities Pte Ltd.
+  swift: SNCPSGS1XXX
+  swift8: SNCPSGS1
+  branch_name: Head Office
+  branch_address: Inno Pacific Building Singapore 048944
+  branch_code: XXX
+  city: Singapore
+  country: Singapore
+- name: St Capital Limited
+  swift: CAPASGS1XXX
+  swift8: CAPASGS1
+  branch_name: Head Office
+  branch_address: Cpf Building Singapore 068897
+  branch_code: XXX
+  city: Singapore
+  country: Singapore
+- name: Standard Chartered (2000) Limited
+  swift: SCMASGS1XXX
+  swift8: SCMASGS1
+  branch_name: Head Office
+  branch_address: 6 Battery Rd Singapore 049909
+  branch_code: XXX
+  city: Singapore
+  country: Singapore
+- name: Standard Chartered Bank (singapore) Limited
+  swift: SCBLSG22XXX
+  swift8: SCBLSG22
+  branch_name: Head Office
+  branch_address: 6 Battery Road Singapore 49909
+  branch_code: XXX
+  city: Singapore
+  country: Singapore
+- name: Suez Apac Management (s) Pte Ltd
+  swift: SAMPSGS1XXX
+  swift8: SAMPSGS1
+  branch_name: Head Office
+  branch_address: 6 Raffles Quay Singapore 048580
+  branch_code: XXX
+  city: Singapore
+  country: Singapore
+- name: Summit Securities Pte Ltd.
+  swift: SUSESGS1XXX
+  swift8: SUSESGS1
+  branch_name: Head Office
+  branch_address: Ocean Towers Singapore 048620
+  branch_code: XXX
+  city: Singapore
+  country: Singapore
+- name: Sun Hung Kai Bullion And Futures Pte Ltd
+  swift: SUHKSGS1XXX
+  swift8: SUHKSGS1
+  branch_name: Head Office
+  branch_address: Clifford Centre Singapore 048621
+  branch_code: XXX
+  city: Singapore
+  country: Singapore
+- name: Sun Hung Kai Securities Pte Ltd
+  swift: SHKESGS1XXX
+  swift8: SHKESGS1
+  branch_name: Head Office
+  branch_address: Clifford Centre Singapore 048621
+  branch_code: XXX
+  city: Singapore
+  country: Singapore
+- name: Swiss Reinsurance Company, Singapore Branch
+  swift: SWRESGS1XXX
+  swift8: SWRESGS1
+  branch_name: Head Office
+  branch_address: Oub Centre Singapore 048616
+  branch_code: XXX
+  city: Singapore
+  country: Singapore
+- name: Symphony
+  swift: SYMHSGS1XXX
+  swift8: SYMHSGS1
+  branch_name: Head Office
+  branch_address: Tung Centre Singapore 49319
+  branch_code: XXX
+  city: Singapore
+  country: Singapore
+- name: Tat Lee Securities Pte Ltd.
+  swift: TATESGS1XXX
+  swift8: TATESGS1
+  branch_name: Head Office
+  branch_address: Tat Lee Bank Building Singapore 048942
+  branch_code: XXX
+  city: Singapore
+  country: Singapore
+- name: Temasek Holdings (private) Limited
+  swift: TEHOSGS1XXX
+  swift8: TEHOSGS1
+  branch_name: Head Office
+  branch_address: Temasek Tower Singapore 068811
+  branch_code: XXX
+  city: Singapore
+  country: Singapore
+- name: Templeton Asset Management Ltd
+  swift: TIMISGSGBEM
+  swift8: TIMISGSG
+  branch_name: Singapore
+  branch_address: Singapore
+  branch_code: BEM
+  city: Singapore
+  country: Singapore
+- name: Templeton Asset Management Ltd
+  swift: TIMISGSGXXX
+  swift8: TIMISGSG
+  branch_name: Head Office
+  branch_address: Suntec Tower One Singapore 038987
+  branch_code: XXX
+  city: Singapore
+  country: Singapore
+- name: Templeton Asset Management Ltd
+  swift: TIMISGS1XXX
+  swift8: TIMISGS1
+  branch_name: Head Office
+  branch_address: Suntec Tower One Singapore 049315
+  branch_code: XXX
+  city: Singapore
+  country: Singapore
+- name: The Royal Bank Of Scotland Asia Securities (singapore) Pte Limited
+  swift: AASLSG21XXX
+  swift8: AASLSG21
+  branch_name: Head Office
+  branch_address: South Tower Singapore
+  branch_code: XXX
+  city: Singapore
+  country: Singapore
+- name: Tlb Bullion And Futures Pte Ltd.
+  swift: TLBFSGS1XXX
+  swift8: TLBFSGS1
+  branch_name: Head Office
+  branch_address: Tat Lee Bank Building Singapore 048942
+  branch_code: XXX
+  city: Singapore
+  country: Singapore
+- name: Tokio Marine Asset Management International Pte. Ltd
+  swift: TMAJSGS1XXX
+  swift8: TMAJSGS1
+  branch_name: Head Office
+  branch_address: Hitachi Tower Singapore 049318
+  branch_code: XXX
+  city: Singapore
+  country: Singapore
+- name: Tradition Singapore (pte) Ltd
+  swift: OTSPSGS1XXX
+  swift8: OTSPSGS1
+  branch_name: Head Office
+  branch_address: Clifford Centre Singapore 048621
+  branch_code: XXX
+  city: Singapore
+  country: Singapore
+- name: Transpac Capital Pte Ltd
+  swift: TRCPSGS1XXX
+  swift8: TRCPSGS1
+  branch_name: Head Office
+  branch_address: Cpf Building Singapore 068809
+  branch_code: XXX
+  city: Singapore
+  country: Singapore
+- name: Transtech Venture Management Private Limited
+  swift: TVMPSGS1XXX
+  swift8: TVMPSGS1
+  branch_name: Head Office
+  branch_address: Dbs Building Singapore 068809
+  branch_code: XXX
+  city: Singapore
+  country: Singapore
+- name: Tsang And Ong Stockbrokers (pte) Ltd.
+  swift: TSANSGS1XXX
+  swift8: TSANSGS1
+  branch_name: Head Office
+  branch_address: The Arcade Singapore 049317
+  branch_code: XXX
+  city: Singapore
+  country: Singapore
+- name: Tsang And Ong Stockbrokers Pte Ltd.
+  swift: TORPSGS1XXX
+  swift8: TORPSGS1
+  branch_name: Head Office
+  branch_address: 80 Robinson Road Singapore 068898
+  branch_code: XXX
+  city: Singapore
+  country: Singapore
+- name: Tullett Liberty Pte. Ltd.
+  swift: TTDPSGS1XXX
+  swift8: TTDPSGS1
+  branch_name: Head Office
+  branch_address: Singapore Land Tower Singapore 079903
+  branch_code: XXX
+  city: Singapore
+  country: Singapore
+- name: Tullett Prebon (singapore) Limited
+  swift: PRYLSGS1XXX
+  swift8: PRYLSGS1
+  branch_name: Head Office
+  branch_address: Singapore Land Tower Singapore 068882
+  branch_code: XXX
+  city: Singapore
+  country: Singapore
+- name: Ubs Futures Singapore Ltd.
+  swift: ABNASGF1XXX
+  swift8: ABNASGF1
+  branch_name: Head Office
+  branch_address: 63 Chulia Street Singapore 049514
+  branch_code: XXX
+  city: Singapore
+  country: Singapore
+- name: Ubs Securities Pte. Ltd.
+  swift: WSSPSGS1XXX
+  swift8: WSSPSGS1
+  branch_name: Head Office
+  branch_address: Hitachi Tower Singapore 049138
+  branch_code: XXX
+  city: Singapore
+  country: Singapore
+- name: Ubs Warburg And Associates (singapore) Nominees Pte Ltd
+  swift: SASPSGS1XXX
+  swift8: SASPSGS1
+  branch_name: Head Office
+  branch_address: The Arcade Singapore 049317
+  branch_code: XXX
+  city: Singapore
+  country: Singapore
+- name: Union Bancaire Privee Ubp Sa Singapore Branch
+  swift: UBPGSGSXXXX
+  swift8: UBPGSGSX
+  branch_name: No branch name
+  branch_address: No branch address
+  branch_code: XXX
+  city: Singapore
+  country: Singapore
+- name: Union Bancaire Privee Ubp Sa Singapore Branch
+  swift: UBPGSGS1XXX
+  swift8: UBPGSGS1
+  branch_name: Head Office
+  branch_address: 50 Collyer Quay 08-03 Singapore 049321
+  branch_code: XXX
+  city: Singapore
+  country: Singapore
+- name: Uob Asia Limited
+  swift: UMBISGS1XXX
+  swift8: UMBISGS1
+  branch_name: Head Office
+  branch_address: Uob Plaza I Singapore 048624
+  branch_code: XXX
+  city: Singapore
+  country: Singapore
+- name: Uob Bullion And Futures Limited
+  swift: UOBFSGS1XXX
+  swift8: UOBFSGS1
+  branch_name: Head Office
+  branch_address: Uob Plaza 2 Singapore 048624
+  branch_code: XXX
+  city: Singapore
+  country: Singapore
+- name: Uob Securities Pte Ltd.
+  swift: UOBSSGS1XXX
+  swift8: UOBSSGS1
+  branch_name: Head Office
+  branch_address: Uob Plaza Singapore 048624
+  branch_code: XXX
+  city: Singapore
+  country: Singapore
+- name: Uob Venture Management Private Limited
+  swift: UVMPSGS1XXX
+  swift8: UVMPSGS1
+  branch_name: Head Office
+  branch_address: Uob Plaza I Singapore 048624
+  branch_code: XXX
+  city: Singapore
+  country: Singapore
+- name: Verizon Asia Pacific Holdings Pte.
+  swift: VZAPSGSGXXX
+  swift8: VZAPSGSG
+  branch_name: Head Office
+  branch_address: Collyer Quay, 10 Singapore 49315
+  branch_code: XXX
+  city: Singapore
+  country: Singapore
+- name: Vertex Management Pte Ltd
+  swift: VEMPSGS1XXX
+  swift8: VEMPSGS1
+  branch_name: Head Office
+  branch_address: The Cure Singapore Science Park Singapore 0118258
+  branch_code: XXX
+  city: Singapore
+  country: Singapore
+- name: Vickers Ballas Investments Research Pte Ltd
+  swift: VIBRSGS1XXX
+  swift8: VIBRSGS1
+  branch_name: Head Office
+  branch_address: Straits Trading Building Singapore 049910
+  branch_code: XXX
+  city: Singapore
+  country: Singapore
+- name: Volvo Treasury Asia Ltd
+  swift: VTALSGS1XXX
+  swift8: VTALSGS1
+  branch_name: Head Office
+  branch_address: 33 Joo Koon Circle Singapore
+  branch_code: XXX
+  city: Singapore
+  country: Singapore
+- name: Vp Bank (singapore) Ltd.
+  swift: VPBVSGS1XXX
+  swift8: VPBVSGS1
+  branch_name: Head Office
+  branch_address: Republic Plaza Singapore 048619
+  branch_code: XXX
+  city: Singapore
+  country: Singapore
+- name: Wako Merchant Bank (singapore) Limited
+  swift: WMBSSGS1XXX
+  swift8: WMBSSGS1
+  branch_name: Head Office
+  branch_address: 6 Battery Road Singapore 049909
+  branch_code: XXX
+  city: Singapore
+  country: Singapore
+- name: Wardley Broking Services Pte Ltd.
+  swift: WBSSSGS1XXX
+  swift8: WBSSSGS1
+  branch_name: Head Office
+  branch_address: Hongkongbank Building Singapore 049320
+  branch_code: XXX
+  city: Singapore
+  country: Singapore
+- name: Wells Fargo Bank Minnesota Na
+  swift: NWNBSGS1XXX
+  swift8: NWNBSGS1
+  branch_name: Head Office
+  branch_address: 100 Cecil Street Singapore 069532
+  branch_code: XXX
+  city: Singapore
+  country: Singapore
+- name: Wilmar International Limited
+  swift: WILMSGSGXXX
+  swift8: WILMSGSG
+  branch_name: Head Office
+  branch_address: Kreta Ayer Road, 9 Singapore 088985
+  branch_code: XXX
+  city: Singapore
+  country: Singapore
+- name: Yamaichi Futures Pte Ltd.
+  swift: YAMASGS1XXX
+  swift8: YAMASGS1
+  branch_name: Head Office
+  branch_address: Hong Leong Centre Singapore 068906
+  branch_code: XXX
+  city: Singapore
+  country: Singapore
+- name: Yamaichi Securities (singapore) Pteltd.
+  swift: YASESGS1XXX
+  swift8: YASESGS1
+  branch_name: Head Office
+  branch_address: Hong Leong Centre Singapore 068906
+  branch_code: XXX
+  city: Singapore
+  country: Singapore

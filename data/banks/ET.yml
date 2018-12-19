@@ -1,0 +1,242 @@
+---
+ET:
+- name: Abay Bank S.c.
+  swift: ABAYETAAXXX
+  swift8: ABAYETAA
+  branch_name: Head Office
+  branch_address: Ziqual Complex 5887 Addis Abeba
+  branch_code: XXX
+  city: Addis Abeba
+  country: Ethiopia
+- name: Addis International Bank S.c.
+  swift: ABSCETAAXXX
+  swift8: ABSCETAA
+  branch_name: Head Office
+  branch_address: Lex Plaza Addis Abeba
+  branch_code: XXX
+  city: Addis Abeba
+  country: Ethiopia
+- name: Agricultural And Industrial Development Bank
+  swift: AGINETA1XXX
+  swift8: AGINETA1
+  branch_name: Head Office
+  branch_address: Josep Broz Tito Addis Abeba
+  branch_code: XXX
+  city: Addis Abeba
+  country: Ethiopia
+- name: Awash International Bank S.c.
+  swift: AWINETAAXXX
+  swift8: AWINETAA
+  branch_name: Head Office
+  branch_address: Bole Road 12638 Addis Abeba
+  branch_code: XXX
+  city: Addis Abeba
+  country: Ethiopia
+- name: Bank Of Abyssinia
+  swift: ABYSETAAXXX
+  swift8: ABYSETAA
+  branch_name: Head Office
+  branch_address: Sunshine Building Addis Abeba
+  branch_code: XXX
+  city: Addis Abeba
+  country: Ethiopia
+- name: Berhan International Bank
+  swift: BERHETAAXXX
+  swift8: BERHETAA
+  branch_name: Head Office
+  branch_address: Wmsadco 1110 Addis Abeba
+  branch_code: XXX
+  city: Addis Abeba
+  country: Ethiopia
+- name: Bunna International Bank S.c
+  swift: BUNAETAAXXX
+  swift8: BUNAETAA
+  branch_name: Head Office
+  branch_address: Daber Building 1743 Addis Abeba
+  branch_code: XXX
+  city: Addis Abeba
+  country: Ethiopia
+- name: Commercial Bank Of Ethiopia
+  swift: CBETETAAARA
+  swift8: CBETETAA
+  branch_name: Arada Giorgis Branch
+  branch_address: Addis Abeba
+  branch_code: ARA
+  city: Addis Abeba
+  country: Ethiopia
+- name: Commercial Bank Of Ethiopia
+  swift: CBETETAADIR
+  swift8: CBETETAA
+  branch_name: Dire Dawa Main Branch
+  branch_address: Addis Abeba
+  branch_code: DIR
+  city: Addis Abeba
+  country: Ethiopia
+- name: Commercial Bank Of Ethiopia
+  swift: CBETETAADOC
+  swift8: CBETETAA
+  branch_name: Trade Service Center
+  branch_address: Addis Abeba
+  branch_code: DOC
+  city: Addis Abeba
+  country: Ethiopia
+- name: Commercial Bank Of Ethiopia
+  swift: CBETETAAFIN
+  swift8: CBETETAA
+  branch_name: Finfine Branch
+  branch_address: Addis Abeba
+  branch_code: FIN
+  city: Addis Abeba
+  country: Ethiopia
+- name: Commercial Bank Of Ethiopia
+  swift: CBETETAAIBD
+  swift8: CBETETAA
+  branch_name: International Banking Department
+  branch_address: Addis Abeba
+  branch_code: IBD
+  city: Addis Abeba
+  country: Ethiopia
+- name: Commercial Bank Of Ethiopia
+  swift: CBETETAAMEH
+  swift8: CBETETAA
+  branch_name: Mehal Gebeya Branch
+  branch_address: Addis Abeba
+  branch_code: MEH
+  city: Addis Abeba
+  country: Ethiopia
+- name: Commercial Bank Of Ethiopia
+  swift: CBETETAATEM
+  swift8: CBETETAA
+  branch_name: Temenja Yaj Branch
+  branch_address: Addis Abeba
+  branch_code: TEM
+  city: Addis Abeba
+  country: Ethiopia
+- name: Commercial Bank Of Ethiopia
+  swift: CBETETAATRY
+  swift8: CBETETAA
+  branch_name: Treasury Department
+  branch_address: Addis Abeba
+  branch_code: TRY
+  city: Addis Abeba
+  country: Ethiopia
+- name: Commercial Bank Of Ethiopia
+  swift: CBETETAAXXX
+  swift8: CBETETAA
+  branch_name: Head Office
+  branch_address: White Building 255 Addis Abeba
+  branch_code: XXX
+  city: Addis Abeba
+  country: Ethiopia
+- name: Construction And Business Bank
+  swift: COUUETAADOC
+  swift8: COUUETAA
+  branch_name: Addis Abeba
+  branch_address: Addis Abeba
+  branch_code: DOC
+  city: Addis Abeba
+  country: Ethiopia
+- name: Construction And Business Bank
+  swift: COUUETAAXXX
+  swift8: COUUETAA
+  branch_name: Head Office
+  branch_address: Woreda 21 K.04 Addis Abeba
+  branch_code: XXX
+  city: Addis Abeba
+  country: Ethiopia
+- name: Cooperative Bank Of Oromia S.c.
+  swift: CBORETAAXXX
+  swift8: CBORETAA
+  branch_name: Head Office
+  branch_address: Mekwor Plazza Building 16936 Finfine
+  branch_code: XXX
+  city: Finfine
+  country: Ethiopia
+- name: Dashen Bank S.c.
+  swift: DASHETAAXXX
+  swift8: DASHETAA
+  branch_name: Head Office
+  branch_address: Garad Addis Abeba
+  branch_code: XXX
+  city: Addis Abeba
+  country: Ethiopia
+- name: Debub Global Bank S.c
+  swift: DEGAETAAXXX
+  swift8: DEGAETAA
+  branch_name: Head Office
+  branch_address: Mujib Tower Addis Abeba
+  branch_code: XXX
+  city: Addis Abeba
+  country: Ethiopia
+- name: Development Bank Of Ethiopia
+  swift: DEETETAAXXX
+  swift8: DEETETAA
+  branch_name: Head Office
+  branch_address: Addis Abeba
+  branch_code: XXX
+  city: Addis Abeba
+  country: Ethiopia
+- name: Enat Bank S.c
+  swift: ENATETAAXXX
+  swift8: ENATETAA
+  branch_name: Head Office
+  branch_address: Enat Tower 18401 Addis Abeba
+  branch_code: XXX
+  city: Addis Abeba
+  country: Ethiopia
+- name: Lion International Bank S.c.
+  swift: LIBSETAAXXX
+  swift8: LIBSETAA
+  branch_name: Head Office
+  branch_address: Lex Plaza 27026/1000 Addis Abeba
+  branch_code: XXX
+  city: Addis Abeba
+  country: Ethiopia
+- name: National Bank Of Ethiopia
+  swift: NBETETAAXXX
+  swift8: NBETETAA
+  branch_name: Head Office
+  branch_address: Churchill Road, Unity Square 5550 Addis Abeba
+  branch_code: XXX
+  city: Addis Abeba
+  country: Ethiopia
+- name: Nib International Bank S.c.
+  swift: NIBIETAAXXX
+  swift8: NIBIETAA
+  branch_name: Head Office
+  branch_address: Dembel Building Addis Abeba
+  branch_code: XXX
+  city: Addis Abeba
+  country: Ethiopia
+- name: Oromia International Bank S.c.
+  swift: ORIRETAAXXX
+  swift8: ORIRETAA
+  branch_name: Head Office
+  branch_address: Samuel Deressa Building 2753-1000 Addis Abeba
+  branch_code: XXX
+  city: Addis Abeba
+  country: Ethiopia
+- name: United Bank Share Company
+  swift: UNTDETAAXXX
+  swift8: UNTDETAA
+  branch_name: Head Office
+  branch_address: Mekwor Plazza 9326 Addis Abeba
+  branch_code: XXX
+  city: Addis Abeba
+  country: Ethiopia
+- name: Wegagen Bank S.c.
+  swift: WEGAETAAXXX
+  swift8: WEGAETAA
+  branch_name: Head Office
+  branch_address: Dembel City Center Addis Abeba
+  branch_code: XXX
+  city: Addis Abeba
+  country: Ethiopia
+- name: Zemen Bank S.c.
+  swift: ZEMEETAAXXX
+  swift8: ZEMEETAA
+  branch_name: Head Office
+  branch_address: Abebech Building 1212 Addis Abeba
+  branch_code: XXX
+  city: Addis Abeba
+  country: Ethiopia

@@ -1,0 +1,66 @@
+---
+GY:
+- name: Bank Of Nova Scotia,the
+  swift: NOSCGYGEXXX
+  swift8: NOSCGYGE
+  branch_name: Head Office
+  branch_address: 104 Carmichael Street Georgetown
+  branch_code: XXX
+  city: Georgetown
+  country: Guyana
+- name: Bank Of Baroda (guyana) Inc.
+  swift: BARBGYGEXXX
+  swift8: BARBGYGE
+  branch_name: Head Office
+  branch_address: 10, Avenue of Republic Georgetown
+  branch_code: XXX
+  city: Georgetown
+  country: Guyana
+- name: Bank Of Guyana
+  swift: GUBAGYGGXXX
+  swift8: GUBAGYGG
+  branch_name: Head Office
+  branch_address: 1 Ave of the Republic and Church Georgetown
+  branch_code: XXX
+  city: Georgetown
+  country: Guyana
+- name: Citizens Bank Guyana Inc
+  swift: CBGIGYGGXXX
+  swift8: CBGIGYGG
+  branch_name: Head Office
+  branch_address: 201 Camp and Charlotte Streets Georgetown
+  branch_code: XXX
+  city: Georgetown
+  country: Guyana
+- name: Demerara Bank Limited
+  swift: DMBKGYGTXXX
+  swift8: DMBKGYGT
+  branch_name: Head Office
+  branch_address: 230 Camp and South Streets Georgetown
+  branch_code: XXX
+  city: Georgetown
+  country: Guyana
+- name: Excel Capital Inc.
+  swift: EXCAGYGTXXX
+  swift8: EXCAGYGT
+  branch_name: Head Office
+  branch_address: 138 Light and Sixth Street Georgetown
+  branch_code: XXX
+  city: Georgetown
+  country: Guyana
+- name: Guyana Bank For Trade And Industry Ltd.
+  swift: GUTIGYGEXXX
+  swift8: GUTIGYGE
+  branch_name: Main Branch
+  branch_address: Gbti Georgetown
+  branch_code: XXX
+  city: Georgetown
+  country: Guyana
+- name: Republic Bank (guyana) Limited
+  swift: RBGLGYGGXXX
+  swift8: RBGLGYGG
+  branch_name: Head Office
+  branch_address: 38-40 Water Street Georgetown
+  branch_code: XXX
+  city: Georgetown
+  country: Guyana

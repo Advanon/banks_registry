@@ -1,0 +1,66 @@
+---
+MV:
+- name: Bank Of Ceylon
+  swift: BCEYMVMVXXX
+  swift8: BCEYMVMV
+  branch_name: Head Office
+  branch_address: Meedhufaaru Male
+  branch_code: XXX
+  city: Male
+  country: Maldives
+- name: Habib Bank Limited
+  swift: HABBMVMVXXX
+  swift8: HABBMVMV
+  branch_name: Head Office
+  branch_address: Ship Plaza Male
+  branch_code: XXX
+  city: Male
+  country: Maldives
+- name: Hongkong And Shanghai Banking Corporation Limited, The
+  swift: HSBCMVMVXXX
+  swift8: HSBCMVMV
+  branch_name: Head Office
+  branch_address: Mtcc Tower Male
+  branch_code: XXX
+  city: Male
+  country: Maldives
+- name: State Bank Of India
+  swift: SBINMVMVXXX
+  swift8: SBINMVMV
+  branch_name: Head Office
+  branch_address: H. Zoneriya Building Male
+  branch_code: XXX
+  city: Male
+  country: Maldives
+- name: Bank Of Maldives Plc.
+  swift: MALBMVMVXXX
+  swift8: MALBMVMV
+  branch_name: Head Office
+  branch_address: Bml Building 20094 Male
+  branch_code: XXX
+  city: Male
+  country: Maldives
+- name: Maldives Islamic Bank Pvt. Ltd
+  swift: MADVMVMVXXX
+  swift8: MADVMVMV
+  branch_name: Head Office
+  branch_address: Ministry of Finance and Treasury 20379 Male
+  branch_code: XXX
+  city: Male
+  country: Maldives
+- name: Maldives Monetary Authority
+  swift: MMAUMVMVXXX
+  swift8: MMAUMVMV
+  branch_name: Head Office
+  branch_address: Maldives Monetary Authority 20182 Male
+  branch_code: XXX
+  city: Male
+  country: Maldives
+- name: The Mauritius Commercial Bank Limited
+  swift: MCBLMVMVXXX
+  swift8: MCBLMVMV
+  branch_name: Head Office
+  branch_address: M. Kandoogasdhoshiuge Building Male
+  branch_code: XXX
+  city: Male
+  country: Maldives

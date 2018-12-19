@@ -1,0 +1,34 @@
+---
+GW:
+- name: Banque Centrale Des Etats De L'afrique De L'ouest
+  swift: BCAOGWG1XXX
+  swift8: BCAOGWG1
+  branch_name: Head Office
+  branch_address: Avenue Amilcar Cabral, 124 Bissau
+  branch_code: XXX
+  city: Bissau
+  country: Guinea-Bissau
+- name: Banco Da Africa Ocidental Sa
+  swift: BAOBGWGWXXX
+  swift8: BAOBGWGW
+  branch_name: Head Office
+  branch_address: Rua Guerra Mendes No 18 A/C 1360 Bissau
+  branch_code: XXX
+  city: Bissau
+  country: Guinea-Bissau
+- name: Banco Da Uniao
+  swift: BDUGGWGWXXX
+  swift8: BDUGGWGW
+  branch_name: Head Office
+  branch_address: Bdu 839 Bissau
+  branch_code: XXX
+  city: Bissau
+  country: Guinea-Bissau
+- name: Ecobank Guinee Bissau
+  swift: ECOCGWGWXXX
+  swift8: ECOCGWGW
+  branch_name: Head Office
+  branch_address: Avenue Amilcar Cabral 126 Bissau
+  branch_code: XXX
+  city: Bissau
+  country: Guinea-Bissau

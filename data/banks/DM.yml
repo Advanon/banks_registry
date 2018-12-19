@@ -1,0 +1,66 @@
+---
+DM:
+- name: Royal Bank Of Canada
+  swift: ROYCDMDMXXX
+  swift8: ROYCDMDM
+  branch_name: Head Office
+  branch_address: Bayfront Roseau
+  branch_code: XXX
+  city: Roseau
+  country: Dominica
+- name: Firstcaribbean International Bank
+  swift: FCIBDMDMXXX
+  swift8: FCIBDMDM
+  branch_name: Head Office
+  branch_address: Old Street Roseau
+  branch_code: XXX
+  city: Roseau
+  country: Dominica
+- name: Bank Of Nova Scotia,the
+  swift: NOSCDMDMXXX
+  swift8: NOSCDMDM
+  branch_name: Head Office
+  branch_address: 28 Hillsborough Street Roseau
+  branch_code: XXX
+  city: Roseau
+  country: Dominica
+- name: Barnett Capital Bank
+  swift: BCBKDMDMXXX
+  swift8: BCBKDMDM
+  branch_name: Head Office
+  branch_address: Corner of Malborough St. and Great Roseau
+  branch_code: XXX
+  city: Roseau
+  country: Dominica
+- name: Brilla Bank Corporation
+  swift: BRLLDMDMXXX
+  swift8: BRLLDMDM
+  branch_name: Head Office
+  branch_address: Kennedy Avenue 42 Roseau
+  branch_code: XXX
+  city: Roseau
+  country: Dominica
+- name: Commonwealth Bank
+  swift: CMWBDMDMXXX
+  swift8: CMWBDMDM
+  branch_name: Head Office
+  branch_address: Financial Centre 798 Roseau
+  branch_code: XXX
+  city: Roseau
+  country: Dominica
+- name: Government Of Dominica
+  swift: GVDMDMDMXXX
+  swift8: GVDMDMDM
+  branch_name: Head Office
+  branch_address: Government Headquarters Roseau
+  branch_code: XXX
+  city: Roseau
+  country: Dominica
+- name: National Bank Of Dominica
+  swift: NCDMDMDMXXX
+  swift8: NCDMDMDM
+  branch_name: Head Office
+  branch_address: 64 Hillsborough Street Roseau
+  branch_code: XXX
+  city: Roseau
+  country: Dominica

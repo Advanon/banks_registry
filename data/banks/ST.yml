@@ -1,0 +1,74 @@
+---
+ST:
+- name: Afriland First Bank Stp
+  swift: AFFSSTSTXXX
+  swift8: AFFSSTST
+  branch_name: Head Office
+  branch_address: Avenida 12 De Julho 202 Sao Tome
+  branch_code: XXX
+  city: Sao Tome
+  country: Sao Tome and Principe
+- name: Banco Central De Sao Tome E Principe
+  swift: CSTPSTSTXXX
+  swift8: CSTPSTST
+  branch_name: Head Office
+  branch_address: Praca Da Independencia 13 Sao Tome
+  branch_code: XXX
+  city: Sao Tome
+  country: Sao Tome and Principe
+- name: Banco Equador, Sarl
+  swift: EQSRSTSTXXX
+  swift8: EQSRSTST
+  branch_name: Head Office
+  branch_address: Rua De Mocambique, 3b Sao Tome
+  branch_code: XXX
+  city: Sao Tome
+  country: Sao Tome and Principe
+- name: Banco Internacional S Tome E Principe
+  swift: INOISTSTXXX
+  swift8: INOISTST
+  branch_name: Head Office
+  branch_address: Praca Independencia 536 Sao Tome
+  branch_code: XXX
+  city: Sao Tome
+  country: Sao Tome and Principe
+- name: Banco Nacional De Sao Tome E Principe
+  swift: BNSTSTS1XXX
+  swift8: BNSTSTS1
+  branch_name: Head Office
+  branch_address: Praca Da Independencia Sao Tome
+  branch_code: XXX
+  city: Sao Tome
+  country: Sao Tome and Principe
+- name: Bgfibank Sao Tome Et Principe
+  swift: BGFISTSTXXX
+  swift8: BGFISTST
+  branch_name: Head Office
+  branch_address: Avenue Marginal 12 De Julho 0 Sao Tome
+  branch_code: XXX
+  city: Sao Tome
+  country: Sao Tome and Principe
+- name: Commercial Bank-sao Tome E Principe
+  swift: CBSTSTSTXXX
+  swift8: CBSTSTST
+  branch_name: Head Office
+  branch_address: Cobstp 1109 Sao Tome
+  branch_code: XXX
+  city: Sao Tome
+  country: Sao Tome and Principe
+- name: Ecobank Sao Tome
+  swift: ECOCSTSTXXX
+  swift8: ECOCSTST
+  branch_name: Head Office
+  branch_address: Ecobank Sao Tome 316 Sao Tome
+  branch_code: XXX
+  city: Sao Tome
+  country: Sao Tome and Principe
+- name: Energybank Sao Tome E Pricipe S.a
+  swift: ESTPSTSTXXX
+  swift8: ESTPSTST
+  branch_name: Head Office
+  branch_address: Rua Dr. Palma Carlos, Agua Grande 1175 Sao Tome
+  branch_code: XXX
+  city: Sao Tome
+  country: Sao Tome and Principe

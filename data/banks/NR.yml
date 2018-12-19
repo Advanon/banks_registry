@@ -1,0 +1,18 @@
+---
+NR:
+- name: Bank Of Nauru
+  swift: BNAUNRN1XXX
+  swift8: BNAUNRN1
+  branch_name: Head Office
+  branch_address: Civic Centre Nauru
+  branch_code: XXX
+  city: Nauru
+  country: Nauru
+- name: Eagle Bank Inc.
+  swift: EGBNNRN1XXX
+  swift8: EGBNNRN1
+  branch_name: Head Office
+  branch_address: Nauru
+  branch_code: XXX
+  city: Nauru
+  country: Nauru

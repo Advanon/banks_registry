@@ -1,0 +1,194 @@
+---
+AM:
+- name: Central Depository Of Armenia Ojsc
+  swift: CDAMAM22XXX
+  swift8: CDAMAM22
+  branch_name: Head Office
+  branch_address: 5b Mher Mkrtchyan Str. 0010 Yerevan
+  branch_code: XXX
+  city: Yerevan
+  country: Armenia
+- name: Acba-credit Agricole Bank Cjsc
+  swift: AGCAAM22XXX
+  swift8: AGCAAM22
+  branch_name: Head Office
+  branch_address: Acba-Credit Agricole Bank Cjsc 0009 Yerevan
+  branch_code: XXX
+  city: Yerevan
+  country: Armenia
+- name: Ameriabank (formerly Armimpexbank
+  swift: ARMIAM22XXX
+  swift8: ARMIAM22
+  branch_name: Head Office
+  branch_address: Vazgen Sargsyan 2 0010 Yerevan
+  branch_code: XXX
+  city: Yerevan
+  country: Armenia
+- name: Anelik Bank Cjsc
+  swift: ANIKAM22XXX
+  swift8: ANIKAM22
+  branch_name: Head Office
+  branch_address: 13, Vardanants Str. 375010 Yerevan
+  branch_code: XXX
+  city: Yerevan
+  country: Armenia
+- name: Araratbank Ojsc
+  swift: ARMCAM22XXX
+  swift8: ARMCAM22
+  branch_name: Head Office
+  branch_address: 19 Pushkin Str. 0002 Yerevan
+  branch_code: XXX
+  city: Yerevan
+  country: Armenia
+- name: Ardshininvest Bank Cjsc
+  swift: ASHBAM22XXX
+  swift8: ASHBAM22
+  branch_name: Head Office
+  branch_address: Grigor Lusavorich 13 0015 Yerevan
+  branch_code: XXX
+  city: Yerevan
+  country: Armenia
+- name: Areximbank-gazprombank Group Closed Joint-stock Company
+  swift: RKASAM22XXX
+  swift8: RKASAM22
+  branch_name: Head Office
+  branch_address: M. Mkrtchyan 12 375010 Yerevan
+  branch_code: XXX
+  city: Yerevan
+  country: Armenia
+- name: Armbusinessbank
+  swift: ARMNAM22XXX
+  swift8: ARMNAM22
+  branch_name: Head Office
+  branch_address: Nalbandyan St. 48 00010 Yerevan
+  branch_code: XXX
+  city: Yerevan
+  country: Armenia
+- name: Armeconombank
+  swift: ARECAM22XXX
+  swift8: ARECAM22
+  branch_name: Head Office
+  branch_address: Amiryan Street 23/1 375002 Yerevan
+  branch_code: XXX
+  city: Yerevan
+  country: Armenia
+- name: Armenian Development Bank
+  swift: ARDEAM22XXX
+  swift8: ARDEAM22
+  branch_name: Head Office
+  branch_address: 21/1 Paronyan Street 375015 Yerevan
+  branch_code: XXX
+  city: Yerevan
+  country: Armenia
+- name: Armswissbank Cjsc
+  swift: ARSJAM22XXX
+  swift8: ARSJAM22
+  branch_name: Head Office
+  branch_address: 10 Vazgen Sargsyan 0010 Yerevan
+  branch_code: XXX
+  city: Yerevan
+  country: Armenia
+- name: Artsakhbank Cjsc
+  swift: ARTSAM22XXX
+  swift8: ARTSAM22
+  branch_name: Head Office
+  branch_address: Kievyan 3 Street 375028 Yerevan
+  branch_code: XXX
+  city: Yerevan
+  country: Armenia
+- name: Bta Bank Cjsc
+  swift: BTAIAM22XXX
+  swift8: BTAIAM22
+  branch_name: Head Office
+  branch_address: 48/1, Nalbandyan 0010 Yerevan
+  branch_code: XXX
+  city: Yerevan
+  country: Armenia
+- name: Byblos Bank Armenia Cjsc
+  swift: BYBAAM22XXX
+  swift8: BYBAAM22
+  branch_name: Head Office
+  branch_address: 18/3 Amiryan Street 0002 Yerevan
+  branch_code: XXX
+  city: Yerevan
+  country: Armenia
+- name: Central Bank Of Armenia
+  swift: CBRAAM22XXX
+  swift8: CBRAAM22
+  branch_name: Head Office
+  branch_address: Central Bank of Armenia 375010 Yerevan
+  branch_code: XXX
+  city: Yerevan
+  country: Armenia
+- name: Converse Bank Cjsc
+  swift: COVBAM22XXX
+  swift8: COVBAM22
+  branch_name: Head Office
+  branch_address: 26 Vazgen Sargsyan Street 0010 Yerevan
+  branch_code: XXX
+  city: Yerevan
+  country: Armenia
+- name: Credit-service Bank
+  swift: CRDTAM21XXX
+  swift8: CRDTAM21
+  branch_name: Head Office
+  branch_address: 15 Tigran Mets Street 375010 Yerevan
+  branch_code: XXX
+  city: Yerevan
+  country: Armenia
+- name: Haypost Cjsc
+  swift: HACJAM21XXX
+  swift8: HACJAM21
+  branch_name: Head Office
+  branch_address: Saryan 0002 Yerevan
+  branch_code: XXX
+  city: Yerevan
+  country: Armenia
+- name: Hsbc Bank Armenia (formerly Midland Armenia Bank
+  swift: MIDLAM22XXX
+  swift8: MIDLAM22
+  branch_name: Head Office
+  branch_address: 9 Vazgen Sargsyan Street 375010 Yerevan
+  branch_code: XXX
+  city: Yerevan
+  country: Armenia
+- name: Ineco Joint Stock Bank
+  swift: INJSAM22XXX
+  swift8: INJSAM22
+  branch_name: Head Office
+  branch_address: 17 Tumanyan Street 375010 Yerevan
+  branch_code: XXX
+  city: Yerevan
+  country: Armenia
+- name: Procredit Bank
+  swift: PRCBAM22XXX
+  swift8: PRCBAM22
+  branch_name: Head Office
+  branch_address: 31 Moskovyan Street 0002 Yerevan
+  branch_code: XXX
+  city: Yerevan
+  country: Armenia
+- name: Promethey Bank Llc
+  swift: PRMLAM22XXX
+  swift8: PRMLAM22
+  branch_name: Head Office
+  branch_address: 44/2 Hanrapetutyan 375010 Yerevan
+  branch_code: XXX
+  city: Yerevan
+  country: Armenia
+- name: Unibank C.j.s.c
+  swift: UNIJAM22XXX
+  swift8: UNIJAM22
+  branch_name: Head Office
+  branch_address: Hanrapetutyan 39 Street 0010 Yerevan
+  branch_code: XXX
+  city: Yerevan
+  country: Armenia
+- name: Vtb Bank (armenia) Cjsc
+  swift: ARMJAM22XXX
+  swift8: ARMJAM22
+  branch_name: Head Office
+  branch_address: Nalbandyan 46 375010 Yerevan
+  branch_code: XXX
+  city: Yerevan
+  country: Armenia

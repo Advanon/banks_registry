@@ -1,0 +1,3802 @@
+---
+ID:
+- name: Anz Panin Bank, P.T.
+  swift: ANZBIDJXXXX
+  swift8: ANZBIDJX
+  branch_name: Head Office
+  branch_address: Bni Building 10220 Jakarta
+  branch_code: XXX
+  city: Jakarta
+  country: Indonesia
+- name: Asian Development Bank
+  swift: ASDBIDJ1XXX
+  swift8: ASDBIDJ1
+  branch_name: Head Office
+  branch_address: Gedung Danareska Jakarta
+  branch_code: XXX
+  city: Jakarta
+  country: Indonesia
+- name: Bangkok Bank Public Company Limited
+  swift: BKKBIDJAXXX
+  swift8: BKKBIDJA
+  branch_name: Head Office
+  branch_address: Bangkok Bank Building 10110 Jakarta
+  branch_code: XXX
+  city: Jakarta
+  country: Indonesia
+- name: Bank Antardaerah
+  swift: ANTDIDJDXXX
+  swift8: ANTDIDJD
+  branch_name: Head Office
+  branch_address: Ji. Bongkaran No 28-30 60161 Surabaya
+  branch_code: XXX
+  city: Surabaya
+  country: Indonesia
+- name: Bank Artha Graha Internasional Tbk, Pt
+  swift: ARTGIDJAXXX
+  swift8: ARTGIDJA
+  branch_name: Head Office
+  branch_address: Artha Graha Building 12190 Jakarta
+  branch_code: XXX
+  city: Jakarta
+  country: Indonesia
+- name: Bank Bnp Paribas Indonesia, Pt
+  swift: BNPAIDJAXXX
+  swift8: BNPAIDJA
+  branch_name: Head Office
+  branch_address: Menara Batavia 10220 Jakarta
+  branch_code: XXX
+  city: Jakarta
+  country: Indonesia
+- name: Bank Bukopin
+  swift: BBUKIDJAXXX
+  swift8: BBUKIDJA
+  branch_name: Head Office
+  branch_address: Gedung Bank Bukopin 12770 Jakarta
+  branch_code: XXX
+  city: Jakarta
+  country: Indonesia
+- name: Bank Central Asia
+  swift: CENAIDJAXXX
+  swift8: CENAIDJA
+  branch_name: Head Office
+  branch_address: Menara Bca 10310 Jakarta
+  branch_code: XXX
+  city: Jakarta
+  country: Indonesia
+- name: Bank Chinatrust Indonesia, Pt
+  swift: CTCBIDJABDG
+  swift8: CTCBIDJA
+  branch_name: Bandung Branch
+  branch_address: Wisma Lippo Bandung 40262 Bandung
+  branch_code: BDG
+  city: Bandung
+  country: Indonesia
+- name: Bank Chinatrust Indonesia, Pt
+  swift: CTCBIDJAXXX
+  swift8: CTCBIDJA
+  branch_name: Head Office
+  branch_address: Wisma Tamara 12920 Jakarta
+  branch_code: XXX
+  city: Jakarta
+  country: Indonesia
+- name: Bank Chinatrust Indonesia, Pt
+  swift: CTCBIDJASBY
+  swift8: CTCBIDJA
+  branch_name: Surabaya Branch
+  branch_address: Wisma Dharmala 60271 Surabaya
+  branch_code: SBY
+  city: Surabaya
+  country: Indonesia
+- name: Bank Commonwealth
+  swift: BICNIDJAXXX
+  swift8: BICNIDJA
+  branch_name: Head Office
+  branch_address: Wisma Metropolitan Ii 12920 Jakarta
+  branch_code: XXX
+  city: Jakarta
+  country: Indonesia
+- name: Bank Dbs Indonesia, Pt
+  swift: DBSBIDJAIBD
+  swift8: DBSBIDJA
+  branch_name: Jakarta Branch
+  branch_address: Jakarta
+  branch_code: IBD
+  city: Jakarta
+  country: Indonesia
+- name: Bank Dbs Indonesia, Pt
+  swift: DBSBIDJAXXX
+  swift8: DBSBIDJA
+  branch_name: Head Office
+  branch_address: Plaza Permata 10350 Jakarta
+  branch_code: XXX
+  city: Jakarta
+  country: Indonesia
+- name: Bank Dbs Indonesia, Pt
+  swift: DBSBIDJASBY
+  swift8: DBSBIDJA
+  branch_name: Syrabaya Branch
+  branch_address: Wisma Tiara 60271 Surabaya
+  branch_code: SBY
+  city: Surabaya
+  country: Indonesia
+- name: Bank Dki, Pt.
+  swift: BDKIIDJAXXX
+  swift8: BDKIIDJA
+  branch_name: Head Office
+  branch_address: Gedung Bank Dki 10120 Jakarta
+  branch_code: XXX
+  city: Jakarta
+  country: Indonesia
+- name: Bank Ekonomi Raharja Pt.
+  swift: EKONIDJAXXX
+  swift8: EKONIDJA
+  branch_name: Head Office
+  branch_address: Graha Ekonomi 12920 Jakarta
+  branch_code: XXX
+  city: Jakarta
+  country: Indonesia
+- name: Bank Ganesha
+  swift: GNESIDJAXXX
+  swift8: GNESIDJA
+  branch_name: Head Office
+  branch_address: Graha Ganesha 10120 Jakarta
+  branch_code: XXX
+  city: Jakarta
+  country: Indonesia
+- name: Bank Indonesia
+  swift: INDOIDJAXXX
+  swift8: INDOIDJA
+  branch_name: Head Office
+  branch_address: Menara Sjafruddin Prawiranegara 10010 Jakarta
+  branch_code: XXX
+  city: Jakarta
+  country: Indonesia
+- name: Bank Internasional Indonesia
+  swift: IBBKIDJA001
+  swift8: IBBKIDJA
+  branch_name: Kalibesar Branch
+  branch_address: Jl. Kalibesar Barat 18-19 Jakarta
+  branch_code: '001'
+  city: Jakarta
+  country: Indonesia
+- name: Bank Internasional Indonesia
+  swift: IBBKIDJA003
+  swift8: IBBKIDJA
+  branch_name: Thamrin Branch
+  branch_address: Jakarta
+  branch_code: '003'
+  city: Jakarta
+  country: Indonesia
+- name: Bank Internasional Indonesia
+  swift: IBBKIDJA008
+  swift8: IBBKIDJA
+  branch_name: Panglima Polim Branch
+  branch_address: Jl. Panglima Polim Raya 79 Jakarta
+  branch_code: '008'
+  city: Jakarta
+  country: Indonesia
+- name: Bank Internasional Indonesia
+  swift: IBBKIDJA138
+  swift8: IBBKIDJA
+  branch_name: Juanda Branch
+  branch_address: Jl. Ir.H. Juanda Jakarta
+  branch_code: '138'
+  city: Jakarta
+  country: Indonesia
+- name: Bank Internasional Indonesia
+  swift: IBBKIDJADEX
+  swift8: IBBKIDJA
+  branch_name: Expend Control Dept
+  branch_address: Jakarta
+  branch_code: DEX
+  city: Jakarta
+  country: Indonesia
+- name: Bank Internasional Indonesia
+  swift: IBBKIDJATRS
+  swift8: IBBKIDJA
+  branch_name: Settlement Dept
+  branch_address: Jakarta
+  branch_code: TRS
+  city: Jakarta
+  country: Indonesia
+- name: Bank Internasional Indonesia
+  swift: IBBKIDJAXXX
+  swift8: IBBKIDJA
+  branch_name: Head Office
+  branch_address: 51 Jalan M.H. Thamrin Kav. 22 10350 Jakarta
+  branch_code: XXX
+  city: Jakarta
+  country: Indonesia
+- name: Bank Jateng
+  swift: PDJGIDJAXXX
+  swift8: PDJGIDJA
+  branch_name: Head Office
+  branch_address: Grinata Building 50132 Semarang
+  branch_code: XXX
+  city: Semarang
+  country: Indonesia
+- name: Bank Kesawan Pt.
+  swift: AWANIDJAXXX
+  swift8: AWANIDJA
+  branch_name: Head Office
+  branch_address: Jl.Hayam Wuruk No.33 10120 Jakarta
+  branch_code: XXX
+  city: Jakarta
+  country: Indonesia
+- name: Bank Mandiri (Persero), Pt
+  swift: BMRIIDJA852
+  swift8: BMRIIDJA
+  branch_name: Bills Processing Center Bandung
+  branch_address: Bank Mandiri Asia Afrika Utara 40112 Bandung
+  branch_code: '852'
+  city: Bandung
+  country: Indonesia
+- name: Bank Mandiri (Persero), Pt
+  swift: BMRIIDJA107
+  swift8: BMRIIDJA
+  branch_name: Bills Processing Center Jakarta
+  branch_address: Sentra Mandiri 10330 Jakarta
+  branch_code: '107'
+  city: Jakarta
+  country: Indonesia
+- name: Bank Mandiri (Persero), Pt
+  swift: BMRIIDJACUS
+  swift8: BMRIIDJA
+  branch_name: Head Office-Custodial Services
+  branch_address: Plaza Mandiri 12190 Jakarta
+  branch_code: CUS
+  city: Jakarta
+  country: Indonesia
+- name: Bank Mandiri (Persero), Pt
+  swift: BMRIIDJAEXM
+  swift8: BMRIIDJA
+  branch_name: Head Office-Export-Import Dept
+  branch_address: Sentra Mandiri 12190 Jakarta
+  branch_code: EXM
+  city: Jakarta
+  country: Indonesia
+- name: Bank Mandiri (Persero), Pt
+  swift: BMRIIDJASTL
+  swift8: BMRIIDJA
+  branch_name: Head Office-Settlement Dept
+  branch_address: Bank Mandiri Building 12190 Jakarta
+  branch_code: STL
+  city: Jakarta
+  country: Indonesia
+- name: Bank Mandiri (Persero), Pt
+  swift: BMRIIDJAXXX
+  swift8: BMRIIDJA
+  branch_name: Head Office
+  branch_address: Jl. Gatot Subroto Kav 36-38 12190 Jakarta
+  branch_code: XXX
+  city: Jakarta
+  country: Indonesia
+- name: Bank Mandiri (Persero), Pt
+  swift: BMRIIDJA853
+  swift8: BMRIIDJA
+  branch_name: Bills Processing Center Medan
+  branch_address: Bank Mandiri Building 20112 Medan
+  branch_code: '853'
+  city: Medan
+  country: Indonesia
+- name: Bank Mandiri (Persero), Pt
+  swift: BMRIIDJA854
+  swift8: BMRIIDJA
+  branch_name: Bills Processing Center Semarang
+  branch_address: Bank Mandiri Building 50137 Semarang
+  branch_code: '854'
+  city: Semarang
+  country: Indonesia
+- name: Bank Mandiri (Persero), Pt
+  swift: BMRIIDJA851
+  swift8: BMRIIDJA
+  branch_name: Bills Processing Center Surabaya
+  branch_address: Jl. Pahlawan N. 120 60174 Surabaya
+  branch_code: '851'
+  city: Surabaya
+  country: Indonesia
+- name: Bank Mega Pt
+  swift: MEGAIDJAXXX
+  swift8: MEGAIDJA
+  branch_name: Head Office
+  branch_address: Menara Bank Mega Lt. 9 12970 Jakarta
+  branch_code: XXX
+  city: Jakarta
+  country: Indonesia
+- name: Bank Mestika Dharma
+  swift: BMDMIDJAXXX
+  swift8: BMDMIDJA
+  branch_name: Head Office
+  branch_address: Gedung Bank Mestika 20112 Medan
+  branch_code: XXX
+  city: Medan
+  country: Indonesia
+- name: Bank Metro Express
+  swift: MEEKIDJAXXX
+  swift8: MEEKIDJA
+  branch_name: Head Office
+  branch_address: Jl.Hayam Wuruk No 19 - 20 10120 Jakarta
+  branch_code: XXX
+  city: Jakarta
+  country: Indonesia
+- name: Bank Mizuho Indonesia, Pt.
+  swift: MHCCIDJAXXX
+  swift8: MHCCIDJA
+  branch_name: Head Office
+  branch_address: Plaza Bii Menara 2, 10350 Jakarta
+  branch_code: XXX
+  city: Jakarta
+  country: Indonesia
+- name: Bank Negara Indonesia - Pt (Persero)
+  swift: BNINIDJABDL
+  swift8: BNINIDJA
+  branch_name: Bandar Lampung Branch
+  branch_address: Bandar Lampung
+  branch_code: BDL
+  city: Bandar Lampung
+  country: Indonesia
+- name: Bank Negara Indonesia - Pt (Persero)
+  swift: BNINIDJABLG
+  swift8: BNINIDJA
+  branch_name: Balige Branch
+  branch_address: Balige
+  branch_code: BLG
+  city: Balige
+  country: Indonesia
+- name: Bank Negara Indonesia - Pt (Persero)
+  swift: BNINIDJABDA
+  swift8: BNINIDJA
+  branch_name: Banda Aceh Branch
+  branch_address: Banda Aceh
+  branch_code: BDA
+  city: Banda Aceh
+  country: Indonesia
+- name: Bank Negara Indonesia - Pt (Persero)
+  swift: BNINIDJAABN
+  swift8: BNINIDJA
+  branch_name: Ambon Branch
+  branch_address: Ambon
+  branch_code: ABN
+  city: Ambon
+  country: Indonesia
+- name: Bank Negara Indonesia - Pt (Persero)
+  swift: BNINIDJABPN
+  swift8: BNINIDJA
+  branch_name: Balikpapan Branch
+  branch_address: Balikpapan
+  branch_code: BPN
+  city: Balikpapan
+  country: Indonesia
+- name: Bank Negara Indonesia - Pt (Persero)
+  swift: BNINIDJAPSB
+  swift8: BNINIDJA
+  branch_name: Pandansari Branch
+  branch_address: Balikpapan
+  branch_code: PSB
+  city: Balikpapan
+  country: Indonesia
+- name: Bank Negara Indonesia - Pt (Persero)
+  swift: BNINIDJABKO
+  swift8: BNINIDJA
+  branch_name: Bangko Branch
+  branch_address: Bangko
+  branch_code: BKO
+  city: Bangko
+  country: Indonesia
+- name: Bank Negara Indonesia - Pt (Persero)
+  swift: BNINIDJAAYI
+  swift8: BNINIDJA
+  branch_name: Ahmad Yani Branch
+  branch_address: Bandung
+  branch_code: AYI
+  city: Bandung
+  country: Indonesia
+- name: Bank Negara Indonesia - Pt (Persero)
+  swift: BNINIDJABDG
+  swift8: BNINIDJA
+  branch_name: Bandung Branch
+  branch_address: Bandung
+  branch_code: BDG
+  city: Bandung
+  country: Indonesia
+- name: Bank Negara Indonesia - Pt (Persero)
+  swift: BNINIDJAIKB
+  swift8: BNINIDJA
+  branch_name: Ikip Bandung Branch
+  branch_address: Bandung
+  branch_code: IKB
+  city: Bandung
+  country: Indonesia
+- name: Bank Negara Indonesia - Pt (Persero)
+  swift: BNINIDJAITB
+  swift8: BNINIDJA
+  branch_name: Itb Branch
+  branch_address: Bandung
+  branch_code: ITB
+  city: Bandung
+  country: Indonesia
+- name: Bank Negara Indonesia - Pt (Persero)
+  swift: BNINIDJAJJS
+  swift8: BNINIDJA
+  branch_name: Jalan Jendral Sudirman Branch
+  branch_address: Bandung
+  branch_code: JJS
+  city: Bandung
+  country: Indonesia
+- name: Bank Negara Indonesia - Pt (Persero)
+  swift: BNINIDJAJPK
+  swift8: BNINIDJA
+  branch_name: Jalan Perintis Kemerdekaan Bandung Branch
+  branch_address: Bandung
+  branch_code: JPK
+  city: Bandung
+  country: Indonesia
+- name: Bank Negara Indonesia - Pt (Persero)
+  swift: BNINIDJAUPB
+  swift8: BNINIDJA
+  branch_name: Unpad Br Bdg
+  branch_address: Bandung
+  branch_code: UPB
+  city: Bandung
+  country: Indonesia
+- name: Bank Negara Indonesia - Pt (Persero)
+  swift: BNINIDJABMS
+  swift8: BNINIDJA
+  branch_name: Banjarmasin Branch
+  branch_address: Banjarmasin
+  branch_code: BMS
+  city: Banjarmasin
+  country: Indonesia
+- name: Bank Negara Indonesia - Pt (Persero)
+  swift: BNINIDJAPAB
+  swift8: BNINIDJA
+  branch_name: Pangeran Antasari Branch
+  branch_address: Banjarmasin
+  branch_code: PAB
+  city: Banjarmasin
+  country: Indonesia
+- name: Bank Negara Indonesia - Pt (Persero)
+  swift: BNINIDJABBR
+  swift8: BNINIDJA
+  branch_name: Banjarbaru Branch
+  branch_address: Banjarbaru
+  branch_code: BBR
+  city: Banjarbaru
+  country: Indonesia
+- name: Bank Negara Indonesia - Pt (Persero)
+  swift: BNINIDJABAU
+  swift8: BNINIDJA
+  branch_name: Bau-Bau Branch
+  branch_address: Bau-Bau
+  branch_code: BAU
+  city: Bau-Bau
+  country: Indonesia
+- name: Bank Negara Indonesia - Pt (Persero)
+  swift: BNINIDJABJR
+  swift8: BNINIDJA
+  branch_name: Banjar Branch
+  branch_address: Banjar
+  branch_code: BJR
+  city: Banjar
+  country: Indonesia
+- name: Bank Negara Indonesia - Pt (Persero)
+  swift: BNINIDJABBI
+  swift8: BNINIDJA
+  branch_name: Barabai Branch
+  branch_address: Barabai
+  branch_code: BBI
+  city: Barabai
+  country: Indonesia
+- name: Bank Nusantara Parahyangan
+  swift: NUPAIDJ6XXX
+  swift8: NUPAIDJ6
+  branch_name: Head Office
+  branch_address: Ji.Ir.H.Juanda No.95 40132 Bandung
+  branch_code: XXX
+  city: Bandung
+  country: Indonesia
+- name: Bank Of America, N.A. Jakarta Branch
+  swift: BOFAID2XXXX
+  swift8: BOFAID2X
+  branch_name: Head Office
+  branch_address: Indonesia Stock Exchange Building 12190 Jakarta
+  branch_code: XXX
+  city: Jakarta
+  country: Indonesia
+- name: Bank Of China, Jakarta Branch
+  swift: BKCHIDJAXXX
+  swift8: BKCHIDJA
+  branch_name: Head Office
+  branch_address: Lippo Sudirman Condominium 12930 Jakarta
+  branch_code: XXX
+  city: Jakarta
+  country: Indonesia
+- name: Bank Of Tokyo-Mitsubishi Ufj Ltd., The
+  swift: BOTKIDJXXXX
+  swift8: BOTKIDJX
+  branch_name: Jakarta Branch
+  branch_address: Midplaza Building 10220 Jakarta
+  branch_code: XXX
+  city: Jakarta
+  country: Indonesia
+- name: Bank Pembangunan Daerah Kalimantan Timur
+  swift: PDKTIDJAXXX
+  swift8: PDKTIDJA
+  branch_name: Head Office
+  branch_address: Gedung Bdp Kaltim 75122 Samarinda
+  branch_code: XXX
+  city: Samarinda
+  country: Indonesia
+- name: Bank Rabobank International Indonesia, Pt
+  swift: RABOIDJAXXX
+  swift8: RABOIDJA
+  branch_name: Head Office
+  branch_address: Plaza 89 12940 Jakarta
+  branch_code: XXX
+  city: Jakarta
+  country: Indonesia
+- name: Bank Rakyat Indonesia
+  swift: BRINIDJA037
+  swift8: BRINIDJA
+  branch_name: Banda Aceh Branch
+  branch_address: Banda Aceh
+  branch_code: '037'
+  city: Banda Aceh
+  country: Indonesia
+- name: Bank Rakyat Indonesia
+  swift: BRINIDJA001
+  swift8: BRINIDJA
+  branch_name: Ambon Branch
+  branch_address: Ambon
+  branch_code: '001'
+  city: Ambon
+  country: Indonesia
+- name: Bank Rakyat Indonesia
+  swift: BRINIDJA002
+  swift8: BRINIDJA
+  branch_name: Bagan Siapi-Api Branch
+  branch_address: Bagan Siapi-Api
+  branch_code: '002'
+  city: Bagan Siapi-Api
+  country: Indonesia
+- name: Bank Rakyat Indonesia
+  swift: BRINIDJA005
+  swift8: BRINIDJA
+  branch_name: Asia Afrika Branch
+  branch_address: Bandung
+  branch_code: '005'
+  city: Bandung
+  country: Indonesia
+- name: Bank Rakyat Indonesia
+  swift: BRINIDJA286
+  swift8: BRINIDJA
+  branch_name: Dewi Sartika Branch
+  branch_address: Bandung
+  branch_code: '286'
+  city: Bandung
+  country: Indonesia
+- name: Bank Rakyat Indonesia
+  swift: BRINIDJA003
+  swift8: BRINIDJA
+  branch_name: Banjarmasin Branch
+  branch_address: Banjarmasin
+  branch_code: '003'
+  city: Banjarmasin
+  country: Indonesia
+- name: Bank Rakyat Indonesia
+  swift: BRINIDJA331
+  swift8: BRINIDJA
+  branch_name: Batam Branch
+  branch_address: Batam
+  branch_code: '331'
+  city: Batam
+  country: Indonesia
+- name: Bank Rakyat Indonesia
+  swift: BRINIDJA189
+  swift8: BRINIDJA
+  branch_name: Bengkalis Branch
+  branch_address: Bengkalis
+  branch_code: '189'
+  city: Bengkalis
+  country: Indonesia
+- name: Bank Rakyat Indonesia
+  swift: BRINIDJA317
+  swift8: BRINIDJA
+  branch_name: Dili Branch
+  branch_address: Dili
+  branch_code: '317'
+  city: Dili
+  country: Indonesia
+- name: Bank Rakyat Indonesia
+  swift: BRINIDJA159
+  swift8: BRINIDJA
+  branch_name: Dumai Branch
+  branch_address: Dumai
+  branch_code: '159'
+  city: Dumai
+  country: Indonesia
+- name: Bank Rakyat Indonesia
+  swift: BRINIDJA107
+  swift8: BRINIDJA
+  branch_name: Cirebon Branch
+  branch_address: Cirebon
+  branch_code: '107'
+  city: Cirebon
+  country: Indonesia
+- name: Bank Rakyat Indonesia
+  swift: BRINIDJA026
+  swift8: BRINIDJA
+  branch_name: Gresik Branch
+  branch_address: Gresik
+  branch_code: '026'
+  city: Gresik
+  country: Indonesia
+- name: Bank Rakyat Indonesia
+  swift: BRINIDJA018
+  swift8: BRINIDJA
+  branch_name: Tanah Abang Branch
+  branch_address: Jakarta
+  branch_code: '018'
+  city: Jakarta
+  country: Indonesia
+- name: Bank Rakyat Indonesia
+  swift: BRINIDJA019
+  swift8: BRINIDJA
+  branch_name: Jakarta Kota Branch
+  branch_address: Jakarta
+  branch_code: '019'
+  city: Jakarta
+  country: Indonesia
+- name: Bank Rakyat Indonesia
+  swift: BRINIDJA122
+  swift8: BRINIDJA
+  branch_name: Jatinegara Branch
+  branch_address: Jakarta
+  branch_code: '122'
+  city: Jakarta
+  country: Indonesia
+- name: Bank Rakyat Indonesia
+  swift: BRINIDJA186
+  swift8: BRINIDJA
+  branch_name: Tanjung Priok Branch
+  branch_address: Jakarta
+  branch_code: '186'
+  city: Jakarta
+  country: Indonesia
+- name: Bank Rakyat Indonesia
+  swift: BRINIDJA193
+  swift8: BRINIDJA
+  branch_name: Kebayoran Baru Branch
+  branch_address: Jakarta
+  branch_code: '193'
+  city: Jakarta
+  country: Indonesia
+- name: Bank Rakyat Indonesia
+  swift: BRINIDJA206
+  swift8: BRINIDJA
+  branch_name: Kck-Special Branch
+  branch_address: Jakarta
+  branch_code: '206'
+  city: Jakarta
+  country: Indonesia
+- name: Bank Rakyat Indonesia
+  swift: BRINIDJA230
+  swift8: BRINIDJA
+  branch_name: Cut Mutiah Branch
+  branch_address: Jakarta
+  branch_code: '230'
+  city: Jakarta
+  country: Indonesia
+- name: Bank Rakyat Indonesia
+  swift: BRINIDJA261
+  swift8: BRINIDJA
+  branch_name: Krekot Branch
+  branch_address: Jakarta
+  branch_code: '261'
+  city: Jakarta
+  country: Indonesia
+- name: Bank Resona Perdania Pt.
+  swift: BPIAIDJAXXX
+  swift8: BPIAIDJA
+  branch_name: Head Office
+  branch_address: 40-41 Jalan Jenderal Sudirman Kav. 12043 Jakarta
+  branch_code: XXX
+  city: Jakarta
+  country: Indonesia
+- name: Bank Sinarmas
+  swift: SBJKIDJAXXX
+  swift8: SBJKIDJA
+  branch_name: Head Office
+  branch_address: Plaza Bii Tower I 10350 Jakarta
+  branch_code: XXX
+  city: Jakarta
+  country: Indonesia
+- name: Bank Sumitomo Mitsui Indonesia, Pt
+  swift: SUNIIDJAXXX
+  swift8: SUNIIDJA
+  branch_name: Head Office
+  branch_address: Summitmas Ii 12190 Jakarta
+  branch_code: XXX
+  city: Jakarta
+  country: Indonesia
+- name: Bank Syariah Mandiri
+  swift: BSMDIDJAXXX
+  swift8: BSMDIDJA
+  branch_name: Head Office
+  branch_address: Gedung Bank Syariah Mandiri 10340 Jakarta
+  branch_code: XXX
+  city: Jakarta
+  country: Indonesia
+- name: Bank Tabungan Negara (Persero), Pt.
+  swift: BTANIDJAXXX
+  swift8: BTANIDJA
+  branch_name: Head Office
+  branch_address: Menara Btn 10130 Jakarta
+  branch_code: XXX
+  city: Jakarta
+  country: Indonesia
+- name: Bank Tabungan Negara (Persero), Pt.
+  swift: BTANIDJ10JD
+  swift8: BTANIDJ1
+  branch_name: 60271 Surabaya
+  branch_address: 50 Jalan Pemuda 60271 Surabaya
+  branch_code: 0JD
+  city: Surabaya
+  country: Indonesia
+- name: Bank Tabungan Negara (Persero), Pt.
+  swift: BTANIDJ10SS
+  swift8: BTANIDJ1
+  branch_name: 20151 Medan
+  branch_address: 10 a Jalan Pemuda 20151 Medan
+  branch_code: 0SS
+  city: Medan
+  country: Indonesia
+- name: Citibank N.A
+  swift: CITIIDJXBDG
+  swift8: CITIIDJX
+  branch_name: Bandung
+  branch_address: Bandung
+  branch_code: BDG
+  city: Bandung
+  country: Indonesia
+- name: Citibank N.A
+  swift: CITIIDJXXXX
+  swift8: CITIIDJX
+  branch_name: Head Office
+  branch_address: Citibank Tower - Landmark Tower 12910 Jakarta
+  branch_code: XXX
+  city: Jakarta
+  country: Indonesia
+- name: Citibank N.A
+  swift: CITIIDJXMDN
+  swift8: CITIIDJX
+  branch_name: Medan
+  branch_address: Medan
+  branch_code: MDN
+  city: Medan
+  country: Indonesia
+- name: Citibank N.A
+  swift: CITIIDJXSBY
+  swift8: CITIIDJX
+  branch_name: Surabaya
+  branch_address: Surabaya
+  branch_code: SBY
+  city: Surabaya
+  country: Indonesia
+- name: Deutsche Bank Ag
+  swift: DEUTIDJADSI
+  swift8: DEUTIDJA
+  branch_name: Deutsche Securities Indonesia
+  branch_address: Jakarta
+  branch_code: DSI
+  city: Jakarta
+  country: Indonesia
+- name: Deutsche Bank Ag
+  swift: DEUTIDJAIBO
+  swift8: DEUTIDJA
+  branch_name: Dbjk Investment Banking Ops
+  branch_address: Jakarta
+  branch_code: IBO
+  city: Jakarta
+  country: Indonesia
+- name: Deutsche Bank Ag
+  swift: DEUTIDJAXXX
+  swift8: DEUTIDJA
+  branch_name: Head Office
+  branch_address: Deutsche Bank Building 10310 Jakarta
+  branch_code: XXX
+  city: Jakarta
+  country: Indonesia
+- name: Deutsche Bank Ag
+  swift: DEUTIDJA001
+  swift8: DEUTIDJA
+  branch_name: Surabaya Branch
+  branch_address: Jalan Basuki Rakhmat 141 60271 Surabaya
+  branch_code: '001'
+  city: Surabaya
+  country: Indonesia
+- name: Hongkong And Shanghai Banking Corporation Limited, The
+  swift: HSBCIDJABAN
+  swift8: HSBCIDJA
+  branch_name: Bandung
+  branch_address: Bandung
+  branch_code: BAN
+  city: Bandung
+  country: Indonesia
+- name: Hongkong And Shanghai Banking Corporation Limited, The
+  swift: HSBCIDJABAT
+  swift8: HSBCIDJA
+  branch_name: Batam
+  branch_address: Batam
+  branch_code: BAT
+  city: Batam
+  country: Indonesia
+- name: Hongkong And Shanghai Banking Corporation Limited, The
+  swift: HSBCIDJAXXX
+  swift8: HSBCIDJA
+  branch_name: Head Office
+  branch_address: World Trade Centre 12920 Jakarta
+  branch_code: XXX
+  city: Jakarta
+  country: Indonesia
+- name: Hongkong And Shanghai Banking Corporation Limited, The
+  swift: HSBCIDJASEM
+  swift8: HSBCIDJA
+  branch_name: Semarang
+  branch_address: Semarang
+  branch_code: SEM
+  city: Semarang
+  country: Indonesia
+- name: Hongkong And Shanghai Banking Corporation Limited, The
+  swift: HSBCIDJASBA
+  swift8: HSBCIDJA
+  branch_name: Surabaya
+  branch_address: Surabaya
+  branch_code: SBA
+  city: Surabaya
+  country: Indonesia
+- name: Hongkong And Shanghai Banking Corporation Limited, The
+  swift: HSBCIDJAMDN
+  swift8: HSBCIDJA
+  branch_name: Medan
+  branch_address: Medan
+  branch_code: MDN
+  city: Medan
+  country: Indonesia
+- name: Indonesia Eximbank
+  swift: BEXIIDJAXXX
+  swift8: BEXIIDJA
+  branch_name: Head Office
+  branch_address: Jakarta Stock Exchange, Tower Ii 12190 Jakarta
+  branch_code: XXX
+  city: Jakarta
+  country: Indonesia
+- name: Jp Morgan Chase Bank, N.A
+  swift: CHASIDJXENQ
+  swift8: CHASIDJX
+  branch_name: Telex and S W I F T Message Enquiries
+  branch_address: Jakarta
+  branch_code: ENQ
+  city: Jakarta
+  country: Indonesia
+- name: Jp Morgan Chase Bank, N.A
+  swift: CHASIDJXKEY
+  swift8: CHASIDJX
+  branch_name: Test Key and Bke Administration
+  branch_address: Jakarta
+  branch_code: KEY
+  city: Jakarta
+  country: Indonesia
+- name: Jp Morgan Chase Bank, N.A
+  swift: CHASIDJXXXX
+  swift8: CHASIDJX
+  branch_name: Head Office
+  branch_address: 21 Jalan Jenderal Sudirman Kav. 12920 Jakarta
+  branch_code: XXX
+  city: Jakarta
+  country: Indonesia
+- name: Kustodian Sentral Efek Indonesia Pt
+  swift: KSEIIDJAXXX
+  swift8: KSEIIDJA
+  branch_name: Head Office
+  branch_address: Indonesia Stock Exchange Building 12190 Jakarta
+  branch_code: XXX
+  city: Jakarta
+  country: Indonesia
+- name: P.T. Mercedes-Benz Distribution Indonesia
+  swift: DADIIDJAXXX
+  swift8: DADIIDJA
+  branch_name: Head Office
+  branch_address: Deutsche Bank Building 10310 Jakarta
+  branch_code: XXX
+  city: Jakarta
+  country: Indonesia
+- name: P.T. Mercedes-Benz Indonesia
+  swift: DABEIDJAXXX
+  swift8: DABEIDJA
+  branch_name: Head Office
+  branch_address: Desa Wanaheran 10002 Jakarta
+  branch_code: XXX
+  city: Jakarta
+  country: Indonesia
+- name: Pan Indonesia Bank Pt.
+  swift: PINBIDJAXXX
+  swift8: PINBIDJA
+  branch_name: Head Office
+  branch_address: Panin Bank Centre 11044 Jakarta
+  branch_code: XXX
+  city: Jakarta
+  country: Indonesia
+- name: Pt Bank Bumi Arta Tbk
+  swift: BBAIIDJAXXX
+  swift8: BBAIIDJA
+  branch_name: Head Office
+  branch_address: 234 Jalan Wahid Hasyim 10250 Jakarta
+  branch_code: XXX
+  city: Jakarta
+  country: Indonesia
+- name: Pt Bank Capital Indonesia, Tbk
+  swift: BCIAIDJAXXX
+  swift8: BCIAIDJA
+  branch_name: Head Office
+  branch_address: Sona Topas Tower 12920 Jakarta
+  branch_code: XXX
+  city: Jakarta
+  country: Indonesia
+- name: Pt Bank Icb Bumiputera Tbk.
+  swift: BUMIIDJAXXX
+  swift8: BUMIIDJA
+  branch_name: Head Office
+  branch_address: Menara Icb Bumiputera 10350 Jakarta
+  branch_code: XXX
+  city: Jakarta
+  country: Indonesia
+- name: Pt Bank Icbc Indonesia
+  swift: ICBKIDJAXXX
+  swift8: ICBKIDJA
+  branch_name: Head Office
+  branch_address: Tct Icbc Tower 10310 Jakarta
+  branch_code: XXX
+  city: Jakarta
+  country: Indonesia
+- name: Pt Bank Index Selindo
+  swift: BIDXIDJAXXX
+  swift8: BIDXIDJA
+  branch_name: Head Office
+  branch_address: Permata Plaza 10350 Jakarta
+  branch_code: XXX
+  city: Jakarta
+  country: Indonesia
+- name: Pt Bank Maybank Syariah Indonesia
+  swift: MBBEIDJAXXX
+  swift8: MBBEIDJA
+  branch_name: Head Office
+  branch_address: Sonatopas Tower 12920 Jakarta
+  branch_code: XXX
+  city: Jakarta
+  country: Indonesia
+- name: Pt Bank Ocbc Nisp Tbk
+  swift: NISPIDJAXXX
+  swift8: NISPIDJA
+  branch_name: Head Office
+  branch_address: Jl Prof Dr Satrio Kav 25 12940 Jakarta
+  branch_code: XXX
+  city: Jakarta
+  country: Indonesia
+- name: Pt Bank Ocbc Nisp Tbk
+  swift: NISPIDJ1BDG
+  swift8: NISPIDJ1
+  branch_name: Asia Afrika Branch
+  branch_address: 100 Jalan Asia Afrika 40261 Bandung
+  branch_code: BDG
+  city: Bandung
+  country: Indonesia
+- name: Pt Bank Ocbc Nisp Tbk
+  swift: NISPIDJ1BTM
+  swift8: NISPIDJ1
+  branch_name: 29432 Batam
+  branch_address: Kompleks Batama, Block B 4-5-6 29432 Batam
+  branch_code: BTM
+  city: Batam
+  country: Indonesia
+- name: Pt Bank Ocbc Nisp Tbk
+  swift: NISPIDJ1SBY
+  swift8: NISPIDJ1
+  branch_name: 60271 Surabaya
+  branch_address: 104-106 Jalan Pemuda 60271 Surabaya
+  branch_code: SBY
+  city: Surabaya
+  country: Indonesia
+- name: Pt Bank Ocbc Nisp Tbk
+  swift: NISPIDJ1SMG
+  swift8: NISPIDJ1
+  branch_name: 50242 Semarang
+  branch_address: 5-5a Jalan Brig. Jenderal Katamso 50242 Semarang
+  branch_code: SMG
+  city: Semarang
+  country: Indonesia
+- name: Pt Bank Permata, Tbk
+  swift: BBBAIDJAXXX
+  swift8: BBBAIDJA
+  branch_name: Head Office
+  branch_address: Permatabank Tower Iii 15224 Jakarta
+  branch_code: XXX
+  city: Jakarta
+  country: Indonesia
+- name: Pt Bank Permata, Tbk
+  swift: BBBAIDJ10J6
+  swift8: BBBAIDJ1
+  branch_name: 40117 Bandung
+  branch_address: Region Iii 40117 Bandung
+  branch_code: 0J6
+  city: Bandung
+  country: Indonesia
+- name: Pt Bank Permata, Tbk
+  swift: BBBAIDJ10J8
+  swift8: BBBAIDJ1
+  branch_name: 50121 Semarang
+  branch_address: Reg. V/Komplek Pertokoan Jurnata 50121 Semarang
+  branch_code: 0J8
+  city: Semarang
+  country: Indonesia
+- name: Pt Bank Permata, Tbk
+  swift: BBBAIDJ10JD
+  swift8: BBBAIDJ1
+  branch_name: 60275 Surabaya
+  branch_address: Region Ii 60275 Surabaya
+  branch_code: 0JD
+  city: Surabaya
+  country: Indonesia
+- name: Pt Bank Permata, Tbk
+  swift: BBBAIDJ10SS
+  swift8: BBBAIDJ1
+  branch_name: 20152 Medan
+  branch_address: Region Iv 20152 Medan
+  branch_code: 0SS
+  city: Medan
+  country: Indonesia
+- name: Pt Bank Riau
+  swift: PDRIIDJAXXX
+  swift8: PDRIIDJA
+  branch_name: Head Office
+  branch_address: Jl. Jend. Sudirman No. 337 28116 Pekanbaru
+  branch_code: XXX
+  city: Pekanbaru
+  country: Indonesia
+- name: Pt Bank Uob Indonesia
+  swift: BBIJIDJA004
+  swift8: BBIJIDJA
+  branch_name: Bandung
+  branch_address: Bandung
+  branch_code: '004'
+  city: Bandung
+  country: Indonesia
+- name: Pt Bank Uob Indonesia
+  swift: BBIJIDJAXXX
+  swift8: BBIJIDJA
+  branch_name: Head Office
+  branch_address: Uob Plaza 10230 Jakarta
+  branch_code: XXX
+  city: Jakarta
+  country: Indonesia
+- name: Pt Bank Uob Indonesia
+  swift: BBIJIDJA002
+  swift8: BBIJIDJA
+  branch_name: Medan
+  branch_address: Medan
+  branch_code: '002'
+  city: Medan
+  country: Indonesia
+- name: Pt Bank Uob Indonesia
+  swift: BBIJIDJA003
+  swift8: BBIJIDJA
+  branch_name: Surabaya
+  branch_address: Surabaya
+  branch_code: '003'
+  city: Surabaya
+  country: Indonesia
+- name: Pt Bank Uob Indonesia
+  swift: BBIJIDJ1024
+  swift8: BBIJIDJ1
+  branch_name: Denpasar
+  branch_address: Denpasar
+  branch_code: '024'
+  city: Denpasar
+  country: Indonesia
+- name: Pt Bank Uob Indonesia
+  swift: BBIJIDJ10BD
+  swift8: BBIJIDJ1
+  branch_name: Denpasar Branch
+  branch_address: Jalan Dr. Wahidin 39 Denpasar
+  branch_code: 0BD
+  city: Denpasar
+  country: Indonesia
+- name: Pt. Bank Agroniaga Tbk
+  swift: AGTBIDJAXXX
+  swift8: AGTBIDJA
+  branch_name: Head Office
+  branch_address: Plaza Gri 12950 Jakarta
+  branch_code: XXX
+  city: Jakarta
+  country: Indonesia
+- name: Pt. Bank Cimb Niaga, Tbk.
+  swift: BNIAIDJAGMA
+  swift8: BNIAIDJA
+  branch_name: Gajah Mada Regional Office
+  branch_address: Jakarta
+  branch_code: GMA
+  city: Jakarta
+  country: Indonesia
+- name: Pt. Bank Cimb Niaga, Tbk.
+  swift: BNIAIDJAXXX
+  swift8: BNIAIDJA
+  branch_name: Head Office Operation
+  branch_address: Niaga Tower 12190 Jakarta
+  branch_code: XXX
+  city: Jakarta
+  country: Indonesia
+- name: Pt. Bank Cimb Niaga, Tbk.
+  swift: BNIAIDJASMG
+  swift8: BNIAIDJA
+  branch_name: Semarang Branch
+  branch_address: Semarang
+  branch_code: SMG
+  city: Semarang
+  country: Indonesia
+- name: Pt. Bank Cimb Niaga, Tbk.
+  swift: BNIAIDJATUN
+  swift8: BNIAIDJA
+  branch_name: Tunungan Branch
+  branch_address: Surabaya
+  branch_code: TUN
+  city: Surabaya
+  country: Indonesia
+- name: Pt. Bank Cimb Niaga, Tbk.
+  swift: BNIAIDJ10D2
+  swift8: BNIAIDJ1
+  branch_name: Ujung Pandang Branch
+  branch_address: 33 Jalan Ahmad Yani Ujung Pandang
+  branch_code: 0D2
+  city: Ujung Pandang
+  country: Indonesia
+- name: Pt. Bank Cimb Niaga, Tbk.
+  swift: BNIAIDJ10J6
+  swift8: BNIAIDJ1
+  branch_name: Lembong Branch
+  branch_address: 7 Jalan Lembong Bandung
+  branch_code: 0J6
+  city: Bandung
+  country: Indonesia
+- name: Pt. Bank Cimb Niaga, Tbk.
+  swift: BNIAIDJ10S2
+  swift8: BNIAIDJ1
+  branch_name: Lampung Branch
+  branch_address: 34-40 Jalan Laksamana Malahayati Lampung
+  branch_code: 0S2
+  city: Lampung
+  country: Indonesia
+- name: Pt. Bank Cimb Niaga, Tbk.
+  swift: BNIAIDJ10SS
+  swift8: BNIAIDJ1
+  branch_name: Medan Branch
+  branch_address: 5 Jalan Bukit Barisan Medan
+  branch_code: 0SS
+  city: Medan
+  country: Indonesia
+- name: Pt. Bank Danamon Indonesia, Tbk
+  swift: BDINIDJAOTI
+  swift8: BDINIDJA
+  branch_name: Bandung Otista Branch
+  branch_address: Jalan Otto Iskandardinata 22 40171 Bandung
+  branch_code: OTI
+  city: Bandung
+  country: Indonesia
+- name: Pt. Bank Danamon Indonesia, Tbk
+  swift: BDINIDJABPN
+  swift8: BDINIDJA
+  branch_name: Lc Department
+  branch_address: Bank Danamon Indonesia Balikpapan
+  branch_code: BPN
+  city: Balikpapan
+  country: Indonesia
+- name: Pt. Bank Danamon Indonesia, Tbk
+  swift: BDINIDJACLC
+  swift8: BDINIDJA
+  branch_name: Corporate Lc Processing Centre
+  branch_address: Wismak Bank Panamon 12930 Jakarta
+  branch_code: CLC
+  city: Jakarta
+  country: Indonesia
+- name: Pt. Bank Danamon Indonesia, Tbk
+  swift: BDINIDJACUS
+  swift8: BDINIDJA
+  branch_name: Custodial Services
+  branch_address: Jl. Prof De Satrio Kav. E4/6 12950 Jakarta
+  branch_code: CUS
+  city: Jakarta
+  country: Indonesia
+- name: Pt. Bank Danamon Indonesia, Tbk
+  swift: BDINIDJAIFI
+  swift8: BDINIDJA
+  branch_name: Financial Institutions Correspondent Banking
+  branch_address: Jalan Kebon Sirih 15 10110 Jakarta
+  branch_code: IFI
+  city: Jakarta
+  country: Indonesia
+- name: Pt. Bank Danamon Indonesia, Tbk
+  swift: BDINIDJALCC
+  swift8: BDINIDJA
+  branch_name: Lc Centre
+  branch_address: Bank Danamon-Prapatan 10110 Jakarta
+  branch_code: LCC
+  city: Jakarta
+  country: Indonesia
+- name: Pt. Bank Danamon Indonesia, Tbk
+  swift: BDINIDJAMKS
+  swift8: BDINIDJA
+  branch_name: Lc Processing Center-Makassar
+  branch_address: Jl. Abdul Muis 60 10160 Jakarta
+  branch_code: MKS
+  city: Jakarta
+  country: Indonesia
+- name: Pt. Bank Danamon Indonesia, Tbk
+  swift: BDINIDJARMT
+  swift8: BDINIDJA
+  branch_name: International Remittance
+  branch_address: Wisma Bank Danamon 12930 Jakarta
+  branch_code: RMT
+  city: Jakarta
+  country: Indonesia
+- name: Pt. Bank Danamon Indonesia, Tbk
+  swift: BDINIDJATPC
+  swift8: BDINIDJA
+  branch_name: Transactions Processing Centre
+  branch_address: Jl. M.I. Ridnan Rais 50 10110 Jakarta
+  branch_code: TPC
+  city: Jakarta
+  country: Indonesia
+- name: Pt. Bank Danamon Indonesia, Tbk
+  swift: BDINIDJATRS
+  swift8: BDINIDJA
+  branch_name: Treasury Operations
+  branch_address: Jl.Prof. Dr. Satrio 12950 Jakarta
+  branch_code: TRS
+  city: Jakarta
+  country: Indonesia
+- name: Pt. Bank Danamon Indonesia, Tbk
+  swift: BDINIDJAXXX
+  swift8: BDINIDJA
+  branch_name: Head Office
+  branch_address: Bdi (Bank Danamon Indonesia) 10160 Jakarta
+  branch_code: XXX
+  city: Jakarta
+  country: Indonesia
+- name: Pt. Bank Danamon Indonesia, Tbk
+  swift: BDINIDJAMIM
+  swift8: BDINIDJA
+  branch_name: Medan-Iskandarmuda Branch
+  branch_address: Jalan Iskandermuda 226-230 20151 Medan
+  branch_code: MIM
+  city: Medan
+  country: Indonesia
+- name: Pt. Bank Danamon Indonesia, Tbk
+  swift: BDINIDJAMRK
+  swift8: BDINIDJA
+  branch_name: Lc Department-Mearuke
+  branch_address: Bank Danamon 99616 Merauke
+  branch_code: MRK
+  city: Merauke
+  country: Indonesia
+- name: Pt. Bank Danamon Indonesia, Tbk
+  swift: BDINIDJASPM
+  swift8: BDINIDJA
+  branch_name: Semarang Pemuda Branch
+  branch_address: Jalan Pemuda 175 50132 Semarang
+  branch_code: SPM
+  city: Semarang
+  country: Indonesia
+- name: Pt. Bank Danamon Indonesia, Tbk
+  swift: BDINIDJASSR
+  swift8: BDINIDJA
+  branch_name: Solo Sraten Branch
+  branch_address: Jalan Gatot Subroto 91f 57152 Solo
+  branch_code: SSR
+  city: Solo
+  country: Indonesia
+- name: Pt. Bank Danamon Indonesia, Tbk
+  swift: BDINIDJASBY
+  swift8: BDINIDJA
+  branch_name: Lc Processing Centre Surabaya
+  branch_address: Bank Danamon Bldg 60271 Surabaya
+  branch_code: SBY
+  city: Surabaya
+  country: Indonesia
+- name: Pt. Bank Danamon Indonesia, Tbk
+  swift: BDINIDJATJP
+  swift8: BDINIDJA
+  branch_name: Lc Department
+  branch_address: Tanjung Pinang
+  branch_code: TJP
+  city: Tanjung Pinang
+  country: Indonesia
+- name: Pt. Bank Danamon Indonesia, Tbk
+  swift: BDINIDJAYGY
+  swift8: BDINIDJA
+  branch_name: Lc Department-Yogyakarta
+  branch_address: Bank Danamon 55321 Yogyakarta
+  branch_code: YGY
+  city: Yogyakarta
+  country: Indonesia
+- name: Pt. Bank Danamon Indonesia, Tbk
+  swift: BDINIDJ10J3
+  swift8: BDINIDJ1
+  branch_name: P Jayakarta Branch
+  branch_address: Jakarta
+  branch_code: 0J3
+  city: Jakarta
+  country: Indonesia
+- name: Pt. Bank Hana
+  swift: HNBNIDJAXXX
+  swift8: HNBNIDJA
+  branch_name: Head Office
+  branch_address: Mitra Building 12930 Jakarta
+  branch_code: XXX
+  city: Jakarta
+  country: Indonesia
+- name: Pt. Bank Jatim
+  swift: BJTMIDJAXXX
+  swift8: BJTMIDJA
+  branch_name: Head Office
+  branch_address: Jl. Basuki Rakhmat 98-104 Surabaya
+  branch_code: XXX
+  city: Surabaya
+  country: Indonesia
+- name: Pt. Bank Mayapada International Tbk
+  swift: MAYAIDJAXXX
+  swift8: MAYAIDJA
+  branch_name: Head Office
+  branch_address: Mayapada Tower 12920 Jakarta
+  branch_code: XXX
+  city: Jakarta
+  country: Indonesia
+- name: Pt. Bank Mutiara Tbk
+  swift: CICTIDJAXXX
+  swift8: CICTIDJA
+  branch_name: Head Office
+  branch_address: Sentral Senayan Ii 10270 Jakarta
+  branch_code: XXX
+  city: Jakarta
+  country: Indonesia
+- name: Pt. Bank Pembangunan Daerah Bali
+  swift: ABALIDBSXXX
+  swift8: ABALIDBS
+  branch_name: Head Office
+  branch_address: Bank Bpd Bali 80235 Denpasar
+  branch_code: XXX
+  city: Denpasar
+  country: Indonesia
+- name: Pt. Bank Pembangunan Daerah Jawa Barat Dan Banten, Tbk
+  swift: PDJBIDJAXXX
+  swift8: PDJBIDJA
+  branch_name: Head Office
+  branch_address: Bank Bjb Tower 40111 Bandung
+  branch_code: XXX
+  city: Bandung
+  country: Indonesia
+- name: Pt. Bank Pembangunan Daerah Sumatera Selatan
+  swift: BSSPIDSPXXX
+  swift8: BSSPIDSP
+  branch_name: Head Office
+  branch_address: Jl. Kapten A.Rivai No.21 30129 Palembang
+  branch_code: XXX
+  city: Palembang
+  country: Indonesia
+- name: Pt. Bank Sbi Indonesia
+  swift: SBIDIDJAXXX
+  swift8: SBIDIDJA
+  branch_name: Head Office
+  branch_address: Graha Mandiri 10310 Jakarta
+  branch_code: XXX
+  city: Jakarta
+  country: Indonesia
+- name: Pt. Bank Syariah Mega Indonesia
+  swift: BMSIIDJAXXX
+  swift8: BMSIIDJA
+  branch_name: Head Office
+  branch_address: Menara Bank Mega 12790 Jakarta
+  branch_code: XXX
+  city: Jakarta
+  country: Indonesia
+- name: Pt. Bank Syariah Muamalat Indonesia , Tbk
+  swift: MUABIDJAXXX
+  swift8: MUABIDJA
+  branch_name: Head Office
+  branch_address: Athaloka 10220 Jakarta
+  branch_code: XXX
+  city: Jakarta
+  country: Indonesia
+- name: Pt. Bank Victoria Internasional, Tbk
+  swift: BVICIDJAXXX
+  swift8: BVICIDJA
+  branch_name: Head Office
+  branch_address: Gedung Bank Panin Senayan 10270 Jakarta
+  branch_code: XXX
+  city: Jakarta
+  country: Indonesia
+- name: Pt. Bpd Sumatera Barat (Bank Nagari)
+  swift: PDSBIDSPXXX
+  swift8: PDSBIDSP
+  branch_name: Head Office
+  branch_address: Ji. Pemuda N. 21 25117 Padang
+  branch_code: XXX
+  city: Padang
+  country: Indonesia
+- name: Standard Chartered Bank
+  swift: SCBLIDJXBDG
+  swift8: SCBLIDJX
+  branch_name: Bandung Branch
+  branch_address: Bandung
+  branch_code: BDG
+  city: Bandung
+  country: Indonesia
+- name: Standard Chartered Bank
+  swift: SCBLIDJXXXX
+  swift8: SCBLIDJX
+  branch_name: Head Office
+  branch_address: Standard Chartered Bank Building 10220 Jakarta
+  branch_code: XXX
+  city: Jakarta
+  country: Indonesia
+- name: Standard Chartered Bank
+  swift: SCBLIDJXMDN
+  swift8: SCBLIDJX
+  branch_name: Medan Branch
+  branch_address: Medan
+  branch_code: MDN
+  city: Medan
+  country: Indonesia
+- name: Standard Chartered Bank
+  swift: SCBLIDJXSBY
+  swift8: SCBLIDJX
+  branch_name: Surabaya Branch
+  branch_address: Surabaya
+  branch_code: SBY
+  city: Surabaya
+  country: Indonesia
+- name: Standard Chartered Bank
+  swift: SCBLIDJXSMG
+  swift8: SCBLIDJX
+  branch_name: Semarang Branch
+  branch_address: Semarang
+  branch_code: SMG
+  city: Semarang
+  country: Indonesia
+- name: Standard Chartered Bank
+  swift: SCBLIDJXIDX
+  swift8: SCBLIDJX
+  branch_name: Pt Scsi
+  branch_address: No branch address
+  branch_code: IDX
+  city: Jakarta
+  country: Indonesia
+- name: The Royal Bank Of Scotland N.V. Jakarta Branch
+  swift: ABNAIDJAXXX
+  swift8: ABNAIDJA
+  branch_name: Head Office
+  branch_address: Indonesia Stock Exchange Bldg Tower 12190 Jakarta
+  branch_code: XXX
+  city: Jakarta
+  country: Indonesia
+- name: The Royal Bank Of Scotland N.V. Jakarta Branch
+  swift: ABNAIDJASBA
+  swift8: ABNAIDJA
+  branch_name: Surabaya Branch
+  branch_address: Surabaya
+  branch_code: SBA
+  city: Surabaya
+  country: Indonesia
+- name: Woori Bank, Indonesia P.T. Jakarta
+  swift: HVBKIDJAXXX
+  swift8: HVBKIDJA
+  branch_name: Head Office
+  branch_address: Jakarta Stock Exchange Building 12190 Jakarta
+  branch_code: XXX
+  city: Jakarta
+  country: Indonesia
+- name: Export-import Bank Of Korea, The
+  swift: EXIKIDJ1XXX
+  swift8: EXIKIDJ1
+  branch_name: Head Office
+  branch_address: Jakarta
+  branch_code: XXX
+  city: Jakarta
+  country: Indonesia
+- name: Fpb Asia Limited
+  swift: FPASIDJ1XXX
+  swift8: FPASIDJ1
+  branch_name: Head Office
+  branch_address: Jakarta
+  branch_code: XXX
+  city: Jakarta
+  country: Indonesia
+- name: Abadi Prisma Ekamandiri, Pt
+  swift: ABPEIDJ1XXX
+  swift8: ABPEIDJ1
+  branch_name: Head Office
+  branch_address: Lippo Life Building 12910 Jakarta
+  branch_code: XXX
+  city: Jakarta
+  country: Indonesia
+- name: Abadi Sekuritas Adimasa, Pt
+  swift: ABSDIDJ1XXX
+  swift8: ABSDIDJ1
+  branch_name: Head Office
+  branch_address: 70 Jalan Tanah Abang Ii Pusat Jakarta
+  branch_code: XXX
+  city: Jakarta
+  country: Indonesia
+- name: Adithya Securinvest, Pt
+  swift: ADISIDJ1XXX
+  swift8: ADISIDJ1
+  branch_name: Head Office
+  branch_address: Lippo Life Building 12910 Jakarta
+  branch_code: XXX
+  city: Jakarta
+  country: Indonesia
+- name: Agridhanasatya Permata, Pt
+  swift: AGRPIDJ1XXX
+  swift8: AGRPIDJ1
+  branch_name: Head Office
+  branch_address: 50gg Jalan Kalibesar Barat 11230 Jakarta
+  branch_code: XXX
+  city: Jakarta
+  country: Indonesia
+- name: Agung Cahaya Cendana, Pt
+  swift: AGCCIDJ1XXX
+  swift8: AGCCIDJ1
+  branch_name: Head Office
+  branch_address: 2 Jalan P. Jayakarta 11110 Jakarta
+  branch_code: XXX
+  city: Jakarta
+  country: Indonesia
+- name: Agung Securities Indonesia, Pt
+  swift: AGSIIDJ1XXX
+  swift8: AGSIIDJ1
+  branch_name: Head Office
+  branch_address: Bank Niaga Building 10350 Jakarta
+  branch_code: XXX
+  city: Jakarta
+  country: Indonesia
+- name: Aksara Kencana, Pt
+  swift: AKSKIDJ10JD
+  swift8: AKSKIDJ1
+  branch_name: Surabaya
+  branch_address: Jalan Dharmanusada 173 Surabaya
+  branch_code: 0JD
+  city: Surabaya
+  country: Indonesia
+- name: Aksara Kencana, Pt
+  swift: AKSKIDJ1XXX
+  swift8: AKSKIDJ1
+  branch_name: Head Office
+  branch_address: 20 Jalan Raya Prapatan Pusat Jakarta
+  branch_code: XXX
+  city: Jakarta
+  country: Indonesia
+- name: Aldiracita Corpotama, Pt
+  swift: ALDCIDJ1XXX
+  swift8: ALDCIDJ1
+  branch_name: Head Office
+  branch_address: 12b Jalan Gunung Sahari Ancol 14420 Jakarta
+  branch_code: XXX
+  city: Jakarta
+  country: Indonesia
+- name: Amcapital Indonesia, Pt
+  swift: AMIDIDJ1XXX
+  swift8: AMIDIDJ1
+  branch_name: Head Office
+  branch_address: Gkbi 10210 Jakarta
+  branch_code: XXX
+  city: Jakarta
+  country: Indonesia
+- name: Amcol Sekurindo, Pt
+  swift: AMCEIDJ1XXX
+  swift8: AMCEIDJ1
+  branch_name: Head Office
+  branch_address: Mulia Centre 12940 Jakarta
+  branch_code: XXX
+  city: Jakarta
+  country: Indonesia
+- name: Amsindo Nusantara, Pt
+  swift: AMSNIDJ1XXX
+  swift8: AMSNIDJ1
+  branch_name: Head Office
+  branch_address: 177 Jalan Gatot Subroto 12870 Jakarta
+  branch_code: XXX
+  city: Jakarta
+  country: Indonesia
+- name: Aneka Keloladana, Pt
+  swift: ANEKIDJ1XXX
+  swift8: ANEKIDJ1
+  branch_name: Head Office
+  branch_address: Mid Plaza Building 10220 Jakarta
+  branch_code: XXX
+  city: Jakarta
+  country: Indonesia
+- name: Anekareksa Securities Corp, Pt
+  swift: ANESIDJ1XXX
+  swift8: ANESIDJ1
+  branch_name: Head Office
+  branch_address: Exchange House 12950 Jakarta
+  branch_code: XXX
+  city: Jakarta
+  country: Indonesia
+- name: Antar Dhana Masa, Pt
+  swift: ANDMIDJ1XXX
+  swift8: ANDMIDJ1
+  branch_name: Head Office
+  branch_address: 37 Jl. Raya Pasar Minggu Komp. Jakarta
+  branch_code: XXX
+  city: Jakarta
+  country: Indonesia
+- name: Anugerah Securindo Indah, Pt
+  swift: ANSIIDJ1XXX
+  swift8: ANSIIDJ1
+  branch_name: Head Office
+  branch_address: Wisma Antara Building 10110 Jakarta
+  branch_code: XXX
+  city: Jakarta
+  country: Indonesia
+- name: Aperdi, Pt
+  swift: APERIDJ1XXX
+  swift8: APERIDJ1
+  branch_name: Head Office
+  branch_address: Gedung Bursa Building 10110 Jakarta
+  branch_code: XXX
+  city: Jakarta
+  country: Indonesia
+- name: Arbuthnot Latham Bank Ltd.
+  swift: ALABIDJ1XXX
+  swift8: ALABIDJ1
+  branch_name: Head Office
+  branch_address: Jalan Jenderal Sudirman Kav 30-31 Jakarta
+  branch_code: XXX
+  city: Jakarta
+  country: Indonesia
+- name: Arga Artha Securitas, Pt
+  swift: ARAEIDJ1XXX
+  swift8: ARAEIDJ1
+  branch_name: Head Office
+  branch_address: Bukit Duri Plaza B Jakarta
+  branch_code: XXX
+  city: Jakarta
+  country: Indonesia
+- name: Arta Gitasejahtera Sekuritas, Pt
+  swift: ARGSIDJ1XXX
+  swift8: ARGSIDJ1
+  branch_name: Head Office
+  branch_address: Wisma Dharmala Sakti 10220 Jakarta
+  branch_code: XXX
+  city: Jakarta
+  country: Indonesia
+- name: Artha Adyanugraha, Pt
+  swift: ARTDIDJ1XXX
+  swift8: ARTDIDJ1
+  branch_name: Head Office
+  branch_address: 7 Jalan Veteran Iii Kav. A-11 14430 Jakarta
+  branch_code: XXX
+  city: Jakarta
+  country: Indonesia
+- name: Artha Dwipa Persada Pt
+  swift: ARDPIDJ1XXX
+  swift8: ARDPIDJ1
+  branch_name: Head Office
+  branch_address: Jl Jend Sudirman Kav 52-53 10244 Jakarta
+  branch_code: XXX
+  city: Jakarta
+  country: Indonesia
+- name: Artha Securities Prima, Pt
+  swift: ARSRIDJ1XXX
+  swift8: ARSRIDJ1
+  branch_name: Head Office
+  branch_address: Hayam Wuruk Plaza Jakarta
+  branch_code: XXX
+  city: Jakarta
+  country: Indonesia
+- name: Arya Prada Sekuritas, Pt
+  swift: ARPSIDJ1XXX
+  swift8: ARPSIDJ1
+  branch_name: Head Office
+  branch_address: 33 Jalan Gondangdia Lama 10350 Jakarta
+  branch_code: XXX
+  city: Jakarta
+  country: Indonesia
+- name: Arya Shinta Finance
+  swift: ARSFIDJ1XXX
+  swift8: ARSFIDJ1
+  branch_name: Head Office
+  branch_address: Wijaya Grand Centre Jakarta
+  branch_code: XXX
+  city: Jakarta
+  country: Indonesia
+- name: Aseam Indonesia, Pt
+  swift: ASEIIDJ1XXX
+  swift8: ASEIIDJ1
+  branch_name: Head Office
+  branch_address: Gedung Mulia Tower 12930 Jakarta
+  branch_code: XXX
+  city: Jakarta
+  country: Indonesia
+- name: Asia Kapitalindo, Pt
+  swift: ASITIDJ1XXX
+  swift8: ASITIDJ1
+  branch_name: Head Office
+  branch_address: Komp. Prkantoran Grogol Permal 11460 Jakarta
+  branch_code: XXX
+  city: Jakarta
+  country: Indonesia
+- name: Asiana Securities, Pt
+  swift: ASIUIDJ1XXX
+  swift8: ASIUIDJ1
+  branch_name: Head Office
+  branch_address: Komp. Majapahit Permal 10160 Jakarta
+  branch_code: XXX
+  city: Jakarta
+  country: Indonesia
+- name: Asjaya Indosurya Securities, Pt
+  swift: ASNSIDJ1XXX
+  swift8: ASNSIDJ1
+  branch_name: Head Office
+  branch_address: 22 Jalan Tanah Abang Iii 10160 Jakarta
+  branch_code: XXX
+  city: Jakarta
+  country: Indonesia
+- name: Aspac Uppindo,pt
+  swift: ASPUIDJ1XXX
+  swift8: ASPUIDJ1
+  branch_name: Head Office
+  branch_address: Uppindo Building 12940 Jakarta
+  branch_code: XXX
+  city: Jakarta
+  country: Indonesia
+- name: Asprina Prima Sentosa,pt
+  swift: ASPNIDJ1XXX
+  swift8: ASPNIDJ1
+  branch_name: Head Office
+  branch_address: Jalan Jembatan Dua Raya 16 Jakarta
+  branch_code: XXX
+  city: Jakarta
+  country: Indonesia
+- name: Astra Securities,pt
+  swift: ASTSIDJ1XXX
+  swift8: ASTSIDJ1
+  branch_name: Head Office
+  branch_address: Setlabudl Atrium 12920 Jakarta
+  branch_code: XXX
+  city: Jakarta
+  country: Indonesia
+- name: Bahamindo Guna
+  swift: BAHGIDJ1XXX
+  swift8: BAHGIDJ1
+  branch_name: Head Office
+  branch_address: Galva Building Jakarta
+  branch_code: XXX
+  city: Jakarta
+  country: Indonesia
+- name: Bahana Securities, Pt
+  swift: BAEUIDJ1XXX
+  swift8: BAEUIDJ1
+  branch_name: Head Office
+  branch_address: Graha Niaga Tower 12190 Jakarta
+  branch_code: XXX
+  city: Jakarta
+  country: Indonesia
+- name: Bakrie Securities
+  swift: BAKSIDJ1XXX
+  swift8: BAKSIDJ1
+  branch_name: Head Office
+  branch_address: Landmark Centre 12920 Jakarta
+  branch_code: XXX
+  city: Jakarta
+  country: Indonesia
+- name: Bank Agung Asia
+  swift: AGASIDJ1XXX
+  swift8: AGASIDJ1
+  branch_name: Head Office
+  branch_address: Wisma Dharmala Sakti Jakarta
+  branch_code: XXX
+  city: Jakarta
+  country: Indonesia
+- name: Bank Arta Niaga Kencana
+  swift: ARNKIDJ1XXX
+  swift8: ARNKIDJ1
+  branch_name: Head Office
+  branch_address: 33 Jalan Coklat Surabaya
+  branch_code: XXX
+  city: Surabaya
+  country: Indonesia
+- name: Bank Jasa Arta Pt
+  swift: DJARIDJ1XXX
+  swift8: DJARIDJ1
+  branch_name: Head Office
+  branch_address: Jl Wahid Hasyim No. 228 Jakarta
+  branch_code: XXX
+  city: Jakarta
+  country: Indonesia
+- name: Bank Kesawan Pt Tbk
+  swift: KESBIDS1XXX
+  swift8: KESBIDS1
+  branch_name: Head Office
+  branch_address: Hayam Wuruk 33 Jakarta
+  branch_code: XXX
+  city: Jakarta
+  country: Indonesia
+- name: Bank Mayindo Pertama
+  swift: MAPEIDJ1XXX
+  swift8: MAPEIDJ1
+  branch_name: Head Office
+  branch_address: 4 Jalan Roa Malaka Sel. Jakarta
+  branch_code: XXX
+  city: Jakarta
+  country: Indonesia
+- name: Bank Mega Pt. Tbk.
+  swift: KBNKIDJ1XXX
+  swift8: KBNKIDJ1
+  branch_name: Head Office
+  branch_address: Menara Bank Mega Lt. 10 Jakarta
+  branch_code: XXX
+  city: Jakarta
+  country: Indonesia
+- name: Bank Mitraniaga Pt
+  swift: MGABIDJ1XXX
+  swift8: MGABIDJ1
+  branch_name: Head Office
+  branch_address: Wisma 77 Jl.Letjen S Parman Kav 77 Jakarta
+  branch_code: XXX
+  city: Jakarta
+  country: Indonesia
+- name: Bank Nasional
+  swift: NBNKIDJ1XXX
+  swift8: NBNKIDJ1
+  branch_name: Head Office
+  branch_address: 79 Jalan A. Yani Bukittinggi
+  branch_code: XXX
+  city: Bukittinggi
+  country: Indonesia
+- name: Bank Of India Indonesia
+  swift: BKIDIDJAXXX
+  swift8: BKIDIDJA
+  branch_name: Head Office
+  branch_address: Jl. H. Samanhudi 37 10710 Jakarta
+  branch_code: XXX
+  city: Jakarta
+  country: Indonesia
+- name: Bank Perk. Surya Kencana
+  swift: PESKIDJ1XXX
+  swift8: PESKIDJ1
+  branch_name: Head Office
+  branch_address: 1 Jalan Coklat Surabaya
+  branch_code: XXX
+  city: Surabaya
+  country: Indonesia
+- name: Bank Sri Partha Pt
+  swift: SIPAIDB10B2
+  swift8: SIPAIDB1
+  branch_name: Kabupaten Badung
+  branch_address: Jalan Danau Tamblingan Denpasar
+  branch_code: 0B2
+  city: Denpasar
+  country: Indonesia
+- name: Bank Sri Partha Pt
+  swift: SIPAIDB10B3
+  swift8: SIPAIDB1
+  branch_name: Kabupaten Gianyar
+  branch_address: Jalan Cok. Gde Rai Peliatan
+  branch_code: 0B3
+  city: Peliatan
+  country: Indonesia
+- name: Bank Sri Partha Pt
+  swift: SIPAIDB10B4
+  swift8: SIPAIDB1
+  branch_name: Kabupaten Bangli
+  branch_address: 39 Jalan Nusantara Bangli
+  branch_code: 0B4
+  city: Bangli
+  country: Indonesia
+- name: Bank Sri Partha Pt
+  swift: SIPAIDB10B5
+  swift8: SIPAIDB1
+  branch_name: Kabupaten Klungkung
+  branch_address: 14a Jalan Flamboyan Klungkung
+  branch_code: 0B5
+  city: Klungkung
+  country: Indonesia
+- name: Bank Sri Partha Pt
+  swift: SIPAIDB10B6
+  swift8: SIPAIDB1
+  branch_name: Kabupaten Karangasem
+  branch_address: 27x Jalan Jenderal Sudirman Amlapura
+  branch_code: 0B6
+  city: Amlapura
+  country: Indonesia
+- name: Bank Sri Partha Pt
+  swift: SIPAIDB10B7
+  swift8: SIPAIDB1
+  branch_name: Kabupaten Buleleng
+  branch_address: 46b Jalan Ngurah Rai Singaraja
+  branch_code: 0B7
+  city: Singaraja
+  country: Indonesia
+- name: Bank Sri Partha Pt
+  swift: SIPAIDB10B8
+  swift8: SIPAIDB1
+  branch_name: Kabupaten Jemberana
+  branch_address: Jalan Pahlawan Negara
+  branch_code: 0B8
+  city: Negara
+  country: Indonesia
+- name: Bank Sri Partha Pt
+  swift: SIPAIDB10BT
+  swift8: SIPAIDB1
+  branch_name: Kabupaten Tabanan
+  branch_address: Jalan Pahlawan Tabanan
+  branch_code: 0BT
+  city: Tabanan
+  country: Indonesia
+- name: Bank Sri Partha Pt
+  swift: SIPAIDB1XXX
+  swift8: SIPAIDB1
+  branch_name: Head Office
+  branch_address: Lt. 3 Jl. Wr Supratman 27x Denpasar
+  branch_code: XXX
+  city: Denpasar
+  country: Indonesia
+- name: Bank Swaguna Pt
+  swift: SWABIDJ1XXX
+  swift8: SWABIDJ1
+  branch_name: Head Office
+  branch_address: Jl. Rs.Fatmawati 85a Jakarta
+  branch_code: XXX
+  city: Jakarta
+  country: Indonesia
+- name: Bapindo Bumi Sekuritas,pt
+  swift: BABSIDJ1XXX
+  swift8: BABSIDJ1
+  branch_name: Head Office
+  branch_address: Atd Plaza, Banking Block 10340 Jakarta
+  branch_code: XXX
+  city: Jakarta
+  country: Indonesia
+- name: Bdni Sekuritas
+  swift: BDNSIDJ1XXX
+  swift8: BDNSIDJ1
+  branch_name: Head Office
+  branch_address: Wisma Hayam Wuruk 10120 Jakarta
+  branch_code: XXX
+  city: Jakarta
+  country: Indonesia
+- name: Bina Tatalaksana Pasifik Pt
+  swift: BITPIDJ1XXX
+  swift8: BITPIDJ1
+  branch_name: Head Office
+  branch_address: Landmark Centre 12910 Jakarta
+  branch_code: XXX
+  city: Jakarta
+  country: Indonesia
+- name: Binaartha Parama,pt
+  swift: BINRIDJ10JD
+  swift8: BINRIDJ1
+  branch_name: Surabaya
+  branch_address: Jalan Coklat 17 Surabaya
+  branch_code: 0JD
+  city: Surabaya
+  country: Indonesia
+- name: Binaartha Parama,pt
+  swift: BINRIDJ1XXX
+  swift8: BINRIDJ1
+  branch_name: Head Office
+  branch_address: Kanindo Plaza 12950 Jakarta
+  branch_code: XXX
+  city: Jakarta
+  country: Indonesia
+- name: Bintangmakmur Securindo,pt
+  swift: BINSIDJ1XXX
+  swift8: BINSIDJ1
+  branch_name: Head Office
+  branch_address: Harta Centre 12085 Jakarta
+  branch_code: XXX
+  city: Jakarta
+  country: Indonesia
+- name: Bomar Securities Pt
+  swift: BOMSIDJ1XXX
+  swift8: BOMSIDJ1
+  branch_name: Head Office
+  branch_address: Gedung Bursa 10110 Jakarta
+  branch_code: XXX
+  city: Jakarta
+  country: Indonesia
+- name: Boresia,pt
+  swift: BOREIDJ1XXX
+  swift8: BOREIDJ1
+  branch_name: Head Office
+  branch_address: 12b Jalan Tanah Abang I 10160 Jakarta
+  branch_code: XXX
+  city: Jakarta
+  country: Indonesia
+- name: Bt Prima Securities Indonesia Pt
+  swift: PRSIIDJ1XXX
+  swift8: PRSIIDJ1
+  branch_name: Head Office
+  branch_address: The Landmark Centre 12910 Jakarta
+  branch_code: XXX
+  city: Jakarta
+  country: Indonesia
+- name: Buana Securities,pt
+  swift: BUAEIDJ1XXX
+  swift8: BUAEIDJ1
+  branch_name: Head Office
+  branch_address: 34 Jalan Asemka Jakarta
+  branch_code: XXX
+  city: Jakarta
+  country: Indonesia
+- name: Buanamas Investindo,pt
+  swift: BUAIIDJ1XXX
+  swift8: BUAIIDJ1
+  branch_name: Head Office
+  branch_address: Wisma Antara Building 10110 Jakarta
+  branch_code: XXX
+  city: Jakarta
+  country: Indonesia
+- name: Bumi Arta Securindo,pt
+  swift: BUACIDJ1XXX
+  swift8: BUACIDJ1
+  branch_name: Head Office
+  branch_address: Gedung Bank Bumi, Arta Ind. 11230 Jakarta
+  branch_code: XXX
+  city: Jakarta
+  country: Indonesia
+- name: Bursa Berjangka Jakarta (jakarta Futures Exchange
+  swift: XBBJIDJ1XXX
+  swift8: XBBJIDJ1
+  branch_name: Head Office
+  branch_address: Annex Bdn Building 10340 Jakarta
+  branch_code: XXX
+  city: Jakarta
+  country: Indonesia
+- name: Bzw Niaga Securities, Pt
+  swift: BZNSIDJ1XXX
+  swift8: BZNSIDJ1
+  branch_name: Head Office
+  branch_address: Niaga Tower 12190 Jakarta
+  branch_code: XXX
+  city: Jakarta
+  country: Indonesia
+- name: Cef Andromeda Securities, Pt
+  swift: CEASIDJ1XXX
+  swift8: CEASIDJ1
+  branch_name: Head Office
+  branch_address: Gedung Andromeda Bank Building 10330 Jakarta
+  branch_code: XXX
+  city: Jakarta
+  country: Indonesia
+- name: Citramas Securindo,pt
+  swift: CITUIDJ1XXX
+  swift8: CITUIDJ1
+  branch_name: Head Office
+  branch_address: Wisma Metropolitan 1 12920 Jakarta
+  branch_code: XXX
+  city: Jakarta
+  country: Indonesia
+- name: Clsa Indonesia, Pt
+  swift: CLSAIDJ1XXX
+  swift8: CLSAIDJ1
+  branch_name: Head Office
+  branch_address: Wisma Gkbi 10210 Jakarta
+  branch_code: XXX
+  city: Jakarta
+  country: Indonesia
+- name: Crosby Indonesia, Pt
+  swift: CROIIDJ1XXX
+  swift8: CROIIDJ1
+  branch_name: Head Office
+  branch_address: Bcd Tower 12920 Jakarta
+  branch_code: XXX
+  city: Jakarta
+  country: Indonesia
+- name: Daiwa Indonesia Securities, Pt
+  swift: DAIUIDJ1XXX
+  swift8: DAIUIDJ1
+  branch_name: Head Office
+  branch_address: New Summitmas Building 12069 Jakarta
+  branch_code: XXX
+  city: Jakarta
+  country: Indonesia
+- name: Dana Gajah Sakti,pt
+  swift: DAGSIDJ1XXX
+  swift8: DAGSIDJ1
+  branch_name: Head Office
+  branch_address: 57 Jalan H. Agus Salim 10340 Jakarta
+  branch_code: XXX
+  city: Jakarta
+  country: Indonesia
+- name: Danametro Sekuritas,pt
+  swift: DANSIDJ1XXX
+  swift8: DANSIDJ1
+  branch_name: Head Office
+  branch_address: Wijiya Grand Centre Jakarta
+  branch_code: XXX
+  city: Jakarta
+  country: Indonesia
+- name: Danamon Securitas,pt
+  swift: DANEIDJ1XXX
+  swift8: DANEIDJ1
+  branch_name: Head Office
+  branch_address: Bank Danamon Building 12920 Jakarta
+  branch_code: XXX
+  city: Jakarta
+  country: Indonesia
+- name: Danasakti Securities
+  swift: DANRIDJ1XXX
+  swift8: DANRIDJ1
+  branch_name: Head Office
+  branch_address: Bri Ii 10210 Jakarta
+  branch_code: XXX
+  city: Jakarta
+  country: Indonesia
+- name: Deemte Artadharma
+  swift: DEEMIDJ1XXX
+  swift8: DEEMIDJ1
+  branch_name: Head Office
+  branch_address: Surabaya Delta Plaza Offices Surabaya
+  branch_code: XXX
+  city: Surabaya
+  country: Indonesia
+- name: Deutsche Morgan Grenfell Indonesia,pt
+  swift: MGIAIDJ1XXX
+  swift8: MGIAIDJ1
+  branch_name: Head Office
+  branch_address: Deutsche Bank Building 10310 Jakarta
+  branch_code: XXX
+  city: Jakarta
+  country: Indonesia
+- name: Dhana Pasifik Securitas,pt
+  swift: DHPSIDJ1XXX
+  swift8: DHPSIDJ1
+  branch_name: Head Office
+  branch_address: Permata Plaza 10350 Jakarta
+  branch_code: XXX
+  city: Jakarta
+  country: Indonesia
+- name: Dhana Tunggal Binasatya,pt
+  swift: DHATIDJ1XXX
+  swift8: DHATIDJ1
+  branch_name: Head Office
+  branch_address: 18e Jalan R.S. Fatmawati 12420 Jakarta
+  branch_code: XXX
+  city: Jakarta
+  country: Indonesia
+- name: Dhanadaya Anugerah, Pt
+  swift: DHANIDJ1XXX
+  swift8: DHANIDJ1
+  branch_name: Head Office
+  branch_address: 13 Jalan Melati Ciganjur Jagakarsa 12630 Jakarta
+  branch_code: XXX
+  city: Jakarta
+  country: Indonesia
+- name: Dhanamas Buana Wirasta, Pt
+  swift: DHBWIDJ1XXX
+  swift8: DHBWIDJ1
+  branch_name: Head Office
+  branch_address: Gedung Bursa Building 10110 Jakarta
+  branch_code: XXX
+  city: Jakarta
+  country: Indonesia
+- name: Dhanawibawa Artha Cemerlang
+  swift: DWACIDJ1XXX
+  swift8: DWACIDJ1
+  branch_name: Head Office
+  branch_address: Block C4 11620 Jakarta
+  branch_code: XXX
+  city: Jakarta
+  country: Indonesia
+- name: Dharma Finance Corp
+  swift: DHAFIDJ1XXX
+  swift8: DHAFIDJ1
+  branch_name: Head Office
+  branch_address: Hotel Sahid Jaya 10220 Jakarta
+  branch_code: XXX
+  city: Jakarta
+  country: Indonesia
+- name: Dharmala Securities, Pt
+  swift: DHSPIDJ1XXX
+  swift8: DHSPIDJ1
+  branch_name: Head Office
+  branch_address: Wisma Dharmala Sakti 10220 Jakarta
+  branch_code: XXX
+  city: Jakarta
+  country: Indonesia
+- name: Dinamika Usahajaya, Pt
+  swift: DINUIDJ1XXX
+  swift8: DINUIDJ1
+  branch_name: Head Office
+  branch_address: Iii/22 Jalan Tanah Abang 10160 Jakarta
+  branch_code: XXX
+  city: Jakarta
+  country: Indonesia
+- name: Dwidana Permai Securities, Pt
+  swift: DWPSIDJ1XXX
+  swift8: DWPSIDJ1
+  branch_name: Head Office
+  branch_address: Hayam Wuruk Plaza Tower 11160 Jakarta
+  branch_code: XXX
+  city: Jakarta
+  country: Indonesia
+- name: Dwidana Sakti Sekurindo, Pt
+  swift: DWSSIDJ1XXX
+  swift8: DWSSIDJ1
+  branch_name: Head Office
+  branch_address: Wisma Argo Manunggal 12930 Jakarta
+  branch_code: XXX
+  city: Jakarta
+  country: Indonesia
+- name: Dwipanca Rijeki, Pt
+  swift: DWIIIDJ1XXX
+  swift8: DWIIIDJ1
+  branch_name: Head Office
+  branch_address: Pertokoan Pulo Mas Block Iii 13210 Jakarta
+  branch_code: XXX
+  city: Jakarta
+  country: Indonesia
+- name: E-capital Securities, Pt
+  swift: SURAIDJ1XXX
+  swift8: SURAIDJ1
+  branch_name: Head Office
+  branch_address: Menara Batavia Lt. 23 12820 Jakarta
+  branch_code: XXX
+  city: Jakarta
+  country: Indonesia
+- name: Eficorp Sekuritas Pt
+  swift: SATSIDJ1XXX
+  swift8: SATSIDJ1
+  branch_name: Head Office
+  branch_address: Menara Rajawali Building 10130 Jakarta
+  branch_code: XXX
+  city: Jakarta
+  country: Indonesia
+- name: Erdhika Mualatama Securities, Pt
+  swift: ERMSIDJ1XXX
+  swift8: ERMSIDJ1
+  branch_name: Head Office
+  branch_address: Gedung Sucaco Jakarta
+  branch_code: XXX
+  city: Jakarta
+  country: Indonesia
+- name: Exim Securities, Pt
+  swift: EXISIDJ1XXX
+  swift8: EXISIDJ1
+  branch_name: Head Office
+  branch_address: Wisma Antara Building 10110 Jakarta
+  branch_code: XXX
+  city: Jakarta
+  country: Indonesia
+- name: Finan Corpindo Nusa, Pt
+  swift: FICNIDJ1XXX
+  swift8: FICNIDJ1
+  branch_name: Head Office
+  branch_address: Bapindo Tower I Jakarta
+  branch_code: XXX
+  city: Jakarta
+  country: Indonesia
+- name: Floreta Purwa Artha, Pt
+  swift: FLPAIDJ1XXX
+  swift8: FLPAIDJ1
+  branch_name: Head Office
+  branch_address: Wijaya Grand Centre 12160 Jakarta
+  branch_code: XXX
+  city: Jakarta
+  country: Indonesia
+- name: Ganda Surya Sekuritas, Pt
+  swift: GASSIDJ10JD
+  swift8: GASSIDJ1
+  branch_name: Surabaya
+  branch_address: Jalan Manyar Kertoarjo V-41 Surabaya
+  branch_code: 0JD
+  city: Surabaya
+  country: Indonesia
+- name: Ganda Surya Sekuritas, Pt
+  swift: GASSIDJ1XXX
+  swift8: GASSIDJ1
+  branch_name: Head Office
+  branch_address: Bank Surya Building Jakarta
+  branch_code: XXX
+  city: Jakarta
+  country: Indonesia
+- name: Garudapara Invesindo, Pt
+  swift: GARIIDJ1XXX
+  swift8: GARIIDJ1
+  branch_name: Head Office
+  branch_address: Wisma Antara Building 10110 Jakarta
+  branch_code: XXX
+  city: Jakarta
+  country: Indonesia
+- name: Gawang Rejeki, Pt
+  swift: GAWRIDJ1XXX
+  swift8: GAWRIDJ1
+  branch_name: Head Office
+  branch_address: 11 Jalan Cimahi 10310 Jakarta
+  branch_code: XXX
+  city: Jakarta
+  country: Indonesia
+- name: Gentapastado Abadi, Pt
+  swift: GENDIDJ1XXX
+  swift8: GENDIDJ1
+  branch_name: Head Office
+  branch_address: 56 Jalan Pernigaan Timur 11230 Jakarta
+  branch_code: XXX
+  city: Jakarta
+  country: Indonesia
+- name: Halim Indonesia Bank,pt.
+  swift: HAINIDJ1XXX
+  swift8: HAINIDJ1
+  branch_name: Head Office
+  branch_address: 23-25 Jalan Coklat 60161 Surabaya
+  branch_code: XXX
+  city: Surabaya
+  country: Indonesia
+- name: Harpakencana Sekuritas, Pt
+  swift: HARKIDJ1XXX
+  swift8: HARKIDJ1
+  branch_name: Head Office
+  branch_address: Gajah Mada Tower Jakarta
+  branch_code: XXX
+  city: Jakarta
+  country: Indonesia
+- name: Harumdana Sekuritas Pt
+  swift: SEKHIDJ1XXX
+  swift8: SEKHIDJ1
+  branch_name: Head Office
+  branch_address: Wtc 12920 Jakarta
+  branch_code: XXX
+  city: Jakarta
+  country: Indonesia
+- name: Henan Putihrai, Pt
+  swift: HENPIDJ1XXX
+  swift8: HENPIDJ1
+  branch_name: Head Office
+  branch_address: 58 Jalan Cideng Timur Pusat Jakarta
+  branch_code: XXX
+  city: Jakarta
+  country: Indonesia
+- name: Hsbc Securities Indonesia Pt.
+  swift: HSSEIDJ1XXX
+  swift8: HSSEIDJ1
+  branch_name: Head Office
+  branch_address: Gedung World Trade Centre 12930 Jakarta
+  branch_code: XXX
+  city: Jakarta
+  country: Indonesia
+- name: Ichiyoshi Alfa Securities, Pt
+  swift: ICASIDJ1XXX
+  swift8: ICASIDJ1
+  branch_name: Head Office
+  branch_address: Central Plaza 12930 Jakarta
+  branch_code: XXX
+  city: Jakarta
+  country: Indonesia
+- name: Ifibank
+  swift: IFIBIDJ1XXX
+  swift8: IFIBIDJ1
+  branch_name: Head Office
+  branch_address: Ifi Park Plaza Abda 12190 Jakarta
+  branch_code: XXX
+  city: Jakarta
+  country: Indonesia
+- name: Indo Premier Securities
+  swift: INPUIDJ1XXX
+  swift8: INPUIDJ1
+  branch_name: Head Office
+  branch_address: Wisma Gkbi 10210 Jakarta
+  branch_code: XXX
+  city: Jakarta
+  country: Indonesia
+- name: Indocitra Securities, Pt
+  swift: INDRIDJ1XXX
+  swift8: INDRIDJ1
+  branch_name: Head Office
+  branch_address: Plaza 89 Kav. X7-8 12910 Jakarta
+  branch_code: XXX
+  city: Jakarta
+  country: Indonesia
+- name: Indofinancia Pratama, Pt
+  swift: INDPIDJ1XXX
+  swift8: INDPIDJ1
+  branch_name: Head Office
+  branch_address: Gateway Building 11420 Jakarta
+  branch_code: XXX
+  city: Jakarta
+  country: Indonesia
+- name: Indonesia Stock Exchange
+  swift: XJKTIDJ1XXX
+  swift8: XJKTIDJ1
+  branch_name: Head Office
+  branch_address: The Indonesia Stock Exchange Buildi 12190 Jakarta
+  branch_code: XXX
+  city: Jakarta
+  country: Indonesia
+- name: Indover Sekuritas Co., Pt
+  swift: INDKIDJ1XXX
+  swift8: INDKIDJ1
+  branch_name: Head Office
+  branch_address: Gedung Menara Duta 12950 Jakarta
+  branch_code: XXX
+  city: Jakarta
+  country: Indonesia
+- name: Indovest Securities, Pt
+  swift: INOSIDJ1XXX
+  swift8: INOSIDJ1
+  branch_name: Head Office
+  branch_address: Menara Bdn 10340 Jakarta
+  branch_code: XXX
+  city: Jakarta
+  country: Indonesia
+- name: Infinity Investama,pt
+  swift: NUSCIDJ1XXX
+  swift8: NUSCIDJ1
+  branch_name: Head Office
+  branch_address: 1 Jalan Suwiryo 10350 Jakarta
+  branch_code: XXX
+  city: Jakarta
+  country: Indonesia
+- name: Intan Artha, Pt
+  swift: INTHIDJ1XXX
+  swift8: INTHIDJ1
+  branch_name: Head Office
+  branch_address: Jakarta Stock Exchange Building 12190 Jakarta
+  branch_code: XXX
+  city: Jakarta
+  country: Indonesia
+- name: Inter-pacific Securities, Pt
+  swift: INSSIDJ1XXX
+  swift8: INSSIDJ1
+  branch_name: Head Office
+  branch_address: Wisma Metropolitan Ii 12920 Jakarta
+  branch_code: XXX
+  city: Jakarta
+  country: Indonesia
+- name: Interasia Sekuritindo, Pt
+  swift: INTDIDJ1XXX
+  swift8: INTDIDJ1
+  branch_name: Head Office
+  branch_address: Wisma Antara 10110 Jakarta
+  branch_code: XXX
+  city: Jakarta
+  country: Indonesia
+- name: Interindo Danapraya, Pt
+  swift: INTYIDJ1XXX
+  swift8: INTYIDJ1
+  branch_name: Head Office
+  branch_address: Gedung Bursa 10110 Jakarta
+  branch_code: XXX
+  city: Jakarta
+  country: Indonesia
+- name: Inti Fikasa Sekurindo, Pt
+  swift: INFEIDJ1XXX
+  swift8: INFEIDJ1
+  branch_name: Head Office
+  branch_address: 146 Jalan Raya Mangga Besar Pusat 10750 Jakarta
+  branch_code: XXX
+  city: Jakarta
+  country: Indonesia
+- name: Inti Teladan Arthaswadata,pt
+  swift: INTLIDJ1XXX
+  swift8: INTLIDJ1
+  branch_name: Head Office
+  branch_address: Jalan Jemur Andayani Xv-9 Surabaya
+  branch_code: XXX
+  city: Surabaya
+  country: Indonesia
+- name: Intisekuriti Investama, Pt
+  swift: INTMIDJ1XXX
+  swift8: INTMIDJ1
+  branch_name: Head Office
+  branch_address: Komp. Mangga Dua Plaza Blok G 10730 Jakarta
+  branch_code: XXX
+  city: Jakarta
+  country: Indonesia
+- name: J.p Morgan Securities Indonesia Jakarta, Pt
+  swift: CHASIDS1XXX
+  swift8: CHASIDS1
+  branch_name: Head Office
+  branch_address: World Trade Center 12920 Jakarta
+  branch_code: XXX
+  city: Jakarta
+  country: Indonesia
+- name: Jakarta Negotiated Board
+  swift: XJNBIDJ1XXX
+  swift8: XJNBIDJ1
+  branch_name: Head Office
+  branch_address: Gedung Bursa 10110 Jakarta
+  branch_code: XXX
+  city: Jakarta
+  country: Indonesia
+- name: Jalur Artha Wahana, Pt
+  swift: JAAWIDJ1XXX
+  swift8: JAAWIDJ1
+  branch_name: Head Office
+  branch_address: 101a Jalan Hayam Wuruk 10150 Jakarta
+  branch_code: XXX
+  city: Jakarta
+  country: Indonesia
+- name: Jardine Fleming
+  swift: JFLEIDJ1XXX
+  swift8: JFLEIDJ1
+  branch_name: Head Office
+  branch_address: Wimsa Sakti 10220 Jakarta
+  branch_code: XXX
+  city: Jakarta
+  country: Indonesia
+- name: Jasa Jakarta Securities, Pt
+  swift: JAJSIDJ1XXX
+  swift8: JAJSIDJ1
+  branch_name: Head Office
+  branch_address: Banka Jasa Jakarta Building 11230 Jakarta
+  branch_code: XXX
+  city: Jakarta
+  country: Indonesia
+- name: Jasabanda Garta, Pt
+  swift: JASGIDJ1XXX
+  swift8: JASGIDJ1
+  branch_name: Head Office
+  branch_address: 40 Jalan Kebon Sirih Pusat 10110 Jakarta
+  branch_code: XXX
+  city: Jakarta
+  country: Indonesia
+- name: Jasereh Utama Pt
+  swift: JAUTIDJ1XXX
+  swift8: JAUTIDJ1
+  branch_name: Head Office
+  branch_address: Bank Surya Building 10350 Jakarta
+  branch_code: XXX
+  city: Jakarta
+  country: Indonesia
+- name: Kapita Sekurindo, Pt
+  swift: KAPSIDJ1XXX
+  swift8: KAPSIDJ1
+  branch_name: Head Office
+  branch_address: Menara Bdn 10340 Jakarta
+  branch_code: XXX
+  city: Jakarta
+  country: Indonesia
+- name: Kapitalindo Utama, Pt
+  swift: KAPUIDJ1XXX
+  swift8: KAPUIDJ1
+  branch_name: Head Office
+  branch_address: 67a Jalan Pecenongan Raya Jakarta
+  branch_code: XXX
+  city: Jakarta
+  country: Indonesia
+- name: Kartika Investindo Pt
+  swift: KARIIDJ1XXX
+  swift8: KARIIDJ1
+  branch_name: Head Office
+  branch_address: Jl. Tirtayasa Ix 12 Jakarta
+  branch_code: XXX
+  city: Jakarta
+  country: Indonesia
+- name: Kes Sinarmas Securities, Pt
+  swift: KESUIDJ1XXX
+  swift8: KESUIDJ1
+  branch_name: Head Office
+  branch_address: Wisma Koegoro 10350 Jakarta
+  branch_code: XXX
+  city: Jakarta
+  country: Indonesia
+- name: Kestrel Sekuritas Indonesia,pt
+  swift: KESIIDJ1XXX
+  swift8: KESIIDJ1
+  branch_name: Head Office
+  branch_address: Lippo Plaza 12920 Jakarta
+  branch_code: XXX
+  city: Jakarta
+  country: Indonesia
+- name: Kharisma Mulatama, Pt
+  swift: KHAMIDJ1XXX
+  swift8: KHAMIDJ1
+  branch_name: Head Office
+  branch_address: 46 Jalan P. Jayakarta 10730 Jakarta
+  branch_code: XXX
+  city: Jakarta
+  country: Indonesia
+- name: Kim Eng Securities, P.t.
+  swift: KMESIDJ1XXX
+  swift8: KMESIDJ1
+  branch_name: Head Office
+  branch_address: Deutsche Bank Building 10310 Jakarta
+  branch_code: XXX
+  city: Jakarta
+  country: Indonesia
+- name: Kwik Chandra Martoatmodjo, Pt
+  swift: KWCMIDJ1XXX
+  swift8: KWCMIDJ1
+  branch_name: Head Office
+  branch_address: Wisma Antara 10110 Jakarta
+  branch_code: XXX
+  city: Jakarta
+  country: Indonesia
+- name: Lamganda Citra Securities, Pt
+  swift: LACSIDJ1XXX
+  swift8: LACSIDJ1
+  branch_name: Head Office
+  branch_address: Lisaco Building 10160 Jakarta
+  branch_code: XXX
+  city: Jakarta
+  country: Indonesia
+- name: Lautandhana Securindo, Pt
+  swift: LAUSIDJ1XXX
+  swift8: LAUSIDJ1
+  branch_name: Head Office
+  branch_address: 60-62 Jalan Pacenongan Pusat Jakarta
+  branch_code: XXX
+  city: Jakarta
+  country: Indonesia
+- name: Layang Mega, Pt
+  swift: LAYMIDJ10JD
+  swift8: LAYMIDJ1
+  branch_name: Surabaya
+  branch_address: Jalan Raya Darmo 23 Surabaya
+  branch_code: 0JD
+  city: Surabaya
+  country: Indonesia
+- name: Layang Mega, Pt
+  swift: LAYMIDJ1XXX
+  swift8: LAYMIDJ1
+  branch_name: Head Office
+  branch_address: Komp. Harmoni Plaza Block A35 10110 Jakarta
+  branch_code: XXX
+  city: Jakarta
+  country: Indonesia
+- name: Lumbung Persada Khatulistiwa, Pt
+  swift: LUPKIDJ1XXX
+  swift8: LUPKIDJ1
+  branch_name: Head Office
+  branch_address: Gedung Bursa 10110 Jakarta
+  branch_code: XXX
+  city: Jakarta
+  country: Indonesia
+- name: Madah Pacific, Pt
+  swift: MADPIDJ1XXX
+  swift8: MADPIDJ1
+  branch_name: Head Office
+  branch_address: 22 Jalan Musi Cideng 10150 Jakarta
+  branch_code: XXX
+  city: Jakarta
+  country: Indonesia
+- name: Makefin, Pt
+  swift: MAKEIDJ1XXX
+  swift8: MAKEIDJ1
+  branch_name: Head Office
+  branch_address: Gedung Putra Jakarta
+  branch_code: XXX
+  city: Jakarta
+  country: Indonesia
+- name: Makindo Securities, Pt
+  swift: SEMAIDJ1XXX
+  swift8: SEMAIDJ1
+  branch_name: Head Office
+  branch_address: Wisma Gkbi 10210 Jakarta
+  branch_code: XXX
+  city: Jakarta
+  country: Indonesia
+- name: Maksurindo,pt
+  swift: MAKUIDJ1XXX
+  swift8: MAKUIDJ1
+  branch_name: Head Office
+  branch_address: Gedung Bumi Bapindo Surabaya
+  branch_code: XXX
+  city: Surabaya
+  country: Indonesia
+- name: Malysa Anugrah, Pt
+  swift: MALNIDJ1XXX
+  swift8: MALNIDJ1
+  branch_name: Head Office
+  branch_address: 16 Jalan Taman Jati Baru Barat Jakarta
+  branch_code: XXX
+  city: Jakarta
+  country: Indonesia
+- name: Maryloone Mentari, Pt
+  swift: MARNIDJ1XXX
+  swift8: MARNIDJ1
+  branch_name: Head Office
+  branch_address: Block E5 No 1 Jakarta
+  branch_code: XXX
+  city: Jakarta
+  country: Indonesia
+- name: Mashill Securities, Pt
+  swift: MAHUIDJ1XXX
+  swift8: MAHUIDJ1
+  branch_name: Head Office
+  branch_address: 45 Jalan Hayam Wuruk 11160 Jakarta
+  branch_code: XXX
+  city: Jakarta
+  country: Indonesia
+- name: Mega Investa, Pt
+  swift: MEGNIDJ1XXX
+  swift8: MEGNIDJ1
+  branch_name: Head Office
+  branch_address: Lippo Life Building 12910 Jakarta
+  branch_code: XXX
+  city: Jakarta
+  country: Indonesia
+- name: Mentari Securindo, Pt
+  swift: MENEIDJ1XXX
+  swift8: MENEIDJ1
+  branch_name: Head Office
+  branch_address: 12b Jalan Fakhrudin Pusat Jakarta
+  branch_code: XXX
+  city: Jakarta
+  country: Indonesia
+- name: Merincorp Securindo, Pt
+  swift: MEREIDJ1XXX
+  swift8: MEREIDJ1
+  branch_name: Head Office
+  branch_address: Summitmas Tower 12190 Jakarta
+  branch_code: XXX
+  city: Jakarta
+  country: Indonesia
+- name: Merrill Lynch Indonesia, Pt
+  swift: MLIOIDJ1XXX
+  swift8: MLIOIDJ1
+  branch_name: Head Office
+  branch_address: Jakarta Stock Exchange Building 12190 Jakarta
+  branch_code: XXX
+  city: Jakarta
+  country: Indonesia
+- name: Metro Sukma Securities, Pt
+  swift: MESEIDJ1XXX
+  swift8: MESEIDJ1
+  branch_name: Head Office
+  branch_address: 228 Jalan Kh. Wahid Hasyim Pusat Jakarta
+  branch_code: XXX
+  city: Jakarta
+  country: Indonesia
+- name: Metropolitan Securinvest, Pt
+  swift: METSIDJ1XXX
+  swift8: METSIDJ1
+  branch_name: Head Office
+  branch_address: Lippo Life Building 12910 Jakarta
+  branch_code: XXX
+  city: Jakarta
+  country: Indonesia
+- name: Mifcor Sekuritas, Pt
+  swift: MIFSIDJ1XXX
+  swift8: MIFSIDJ1
+  branch_name: Head Office
+  branch_address: Nusantara Building Jakarta
+  branch_code: XXX
+  city: Jakarta
+  country: Indonesia
+- name: Mitra Duta Securitas, Pt
+  swift: MIDUIDJ1XXX
+  swift8: MIDUIDJ1
+  branch_name: Head Office
+  branch_address: Block J-K 10160 Jakarta
+  branch_code: XXX
+  city: Jakarta
+  country: Indonesia
+- name: Mitra Tatadhana, Pt
+  swift: MITAIDJ1XXX
+  swift8: MITAIDJ1
+  branch_name: Head Office
+  branch_address: Gedung Bursa 10110 Jakarta
+  branch_code: XXX
+  city: Jakarta
+  country: Indonesia
+- name: Mitraconvest, Pt
+  swift: MITRIDJ1XXX
+  swift8: MITRIDJ1
+  branch_name: Head Office
+  branch_address: 31 Jalan Teuku Cik Ditiro 10310 Jakarta
+  branch_code: XXX
+  city: Jakarta
+  country: Indonesia
+- name: Muamalat
+  swift: MUAMIDJ1XXX
+  swift8: MUAMIDJ1
+  branch_name: Head Office
+  branch_address: Masjid Baiturrahman Semarang
+  branch_code: XXX
+  city: Semarang
+  country: Indonesia
+- name: Muara Securities
+  swift: MULMIDJ1XXX
+  swift8: MULMIDJ1
+  branch_name: No branch name
+  branch_address: No branch address
+  branch_code: XXX
+  city: Jakarta
+  country: Indonesia
+- name: Multi Pengelola Danaprima, Pt
+  swift: MUPDIDJ1XXX
+  swift8: MUPDIDJ1
+  branch_name: Head Office
+  branch_address: Gedung Bursa 10110 Jakarta
+  branch_code: XXX
+  city: Jakarta
+  country: Indonesia
+- name: Multicor Securities, Pt
+  swift: MULSIDJ1XXX
+  swift8: MULSIDJ1
+  branch_name: Head Office
+  branch_address: World Trade Centre 12920 Jakarta
+  branch_code: XXX
+  city: Jakarta
+  country: Indonesia
+- name: Multiprakarsa Investama, Pt
+  swift: MULIIDJ1XXX
+  swift8: MULIIDJ1
+  branch_name: Head Office
+  branch_address: 2e Jalan Gunung Sahari Raya 10720 Jakarta
+  branch_code: XXX
+  city: Jakarta
+  country: Indonesia
+- name: Murni Segara Lestari, Pt
+  swift: MUSLIDJ1XXX
+  swift8: MUSLIDJ1
+  branch_name: Head Office
+  branch_address: Jakarta Stock Exchange Building 12190 Jakarta
+  branch_code: XXX
+  city: Jakarta
+  country: Indonesia
+- name: Namalatu Ronesina, Pt
+  swift: NAMRIDJ1XXX
+  swift8: NAMRIDJ1
+  branch_name: Head Office
+  branch_address: 30 Jalan Gajah Mada 11140 Jakarta
+  branch_code: XXX
+  city: Jakarta
+  country: Indonesia
+- name: Natin Bank
+  swift: NNBKIDJ1XXX
+  swift8: NNBKIDJ1
+  branch_name: Head Office
+  branch_address: 88 Jalan Pintu Besar Sel. Jakarta
+  branch_code: XXX
+  city: Jakarta
+  country: Indonesia
+- name: Natura Pacific, Pt
+  swift: NATPIDJ1XXX
+  swift8: NATPIDJ1
+  branch_name: Head Office
+  branch_address: Wisma Bank Dharmala 12910 Jakarta
+  branch_code: XXX
+  city: Jakarta
+  country: Indonesia
+- name: Niaga Securities, Pt
+  swift: NIASIDJ1XXX
+  swift8: NIASIDJ1
+  branch_name: Head Office
+  branch_address: Niaga Tower 12190 Jakarta
+  branch_code: XXX
+  city: Jakarta
+  country: Indonesia
+- name: Niki Asia Securindo, Pt
+  swift: NIAEIDJ1XXX
+  swift8: NIAEIDJ1
+  branch_name: Head Office
+  branch_address: Jalan Hayam Wuruk Iii Jakarta
+  branch_code: XXX
+  city: Jakarta
+  country: Indonesia
+- name: Nikko Securities Indonesia Pt
+  swift: NIKKIDJ1XXX
+  swift8: NIKKIDJ1
+  branch_name: Head Office
+  branch_address: Landmark Centre Block D/18 12910 Jakarta
+  branch_code: XXX
+  city: Jakarta
+  country: Indonesia
+- name: Ocbc Sikap Securities, Pt
+  swift: OCSSIDJ1XXX
+  swift8: OCSSIDJ1
+  branch_name: Head Office
+  branch_address: Bank Bali Tower 12920 Jakarta
+  branch_code: XXX
+  city: Jakarta
+  country: Indonesia
+- name: P. T. Nomura Indonesia
+  swift: NOMIIDJ1XXX
+  swift8: NOMIIDJ1
+  branch_name: Head Office
+  branch_address: Sentral Senayan Ii Building 10270 Jakarta
+  branch_code: XXX
+  city: Jakarta
+  country: Indonesia
+- name: P.t. Samsung Electronics Indonesia
+  swift: SECTIDJ1570
+  swift8: SECTIDJ1
+  branch_name: Sein
+  branch_address: Bekasi
+  branch_code: '570'
+  city: Bekasi
+  country: Indonesia
+- name: P.t. Samsung Electronics Indonesia
+  swift: SECTIDJ1571
+  swift8: SECTIDJ1
+  branch_name: Stin
+  branch_address: Jakarta
+  branch_code: '571'
+  city: Jakarta
+  country: Indonesia
+- name: P.t. Samsung Electronics Indonesia
+  swift: SECTIDJ1XXX
+  swift8: SECTIDJ1
+  branch_name: Head Office
+  branch_address: J1.Jababeka Raya Blok Bekasi
+  branch_code: XXX
+  city: Bekasi
+  country: Indonesia
+- name: Pancasumber Dhanamandiri,pt
+  swift: PANMIDJ1XXX
+  swift8: PANMIDJ1
+  branch_name: Head Office
+  branch_address: Jalan Panjang Jiwo 58 Surabaya
+  branch_code: XXX
+  city: Surabaya
+  country: Indonesia
+- name: Pandurama Sekuritas, Pt
+  swift: PANEIDJ1XXX
+  swift8: PANEIDJ1
+  branch_name: Head Office
+  branch_address: 60b Jalan Lautze Pusat 10710 Jakarta
+  branch_code: XXX
+  city: Jakarta
+  country: Indonesia
+- name: Panin Capital, Pt
+  swift: PANCIDJ10JD
+  swift8: PANCIDJ1
+  branch_name: Surabaya
+  branch_address: Jalan Coklat 16 Surabaya
+  branch_code: 0JD
+  city: Surabaya
+  country: Indonesia
+- name: Panin Capital, Pt
+  swift: PANCIDJ1XXX
+  swift8: PANCIDJ1
+  branch_name: Head Office
+  branch_address: Panin Bank Centre 10340 Jakarta
+  branch_code: XXX
+  city: Jakarta
+  country: Indonesia
+- name: Paramitra Alfa Sekuritas
+  swift: PEKUIDL1XXX
+  swift8: PEKUIDL1
+  branch_name: Head Office
+  branch_address: Menara Dea 12950 Jakarta
+  branch_code: XXX
+  city: Jakarta
+  country: Indonesia
+- name: Paramitra Yamasekuritas, Pt
+  swift: PARYIDJ1XXX
+  swift8: PARYIDJ1
+  branch_name: Head Office
+  branch_address: Jalan H. Samanhudi Jakarta
+  branch_code: XXX
+  city: Jakarta
+  country: Indonesia
+- name: Paribas Asia Equity, P.t.
+  swift: AEHLIDJ1XXX
+  swift8: AEHLIDJ1
+  branch_name: Head Office
+  branch_address: Wisma Gkbi 10120 Jakarta
+  branch_code: XXX
+  city: Jakarta
+  country: Indonesia
+- name: Patriatama Danamandiri, Pt
+  swift: PATDIDJ1XXX
+  swift8: PATDIDJ1
+  branch_name: Head Office
+  branch_address: 36n Jalan Abdul Muis Pusat Jakarta
+  branch_code: XXX
+  city: Jakarta
+  country: Indonesia
+- name: Pdfci Securities, Pt
+  swift: PDFSIDJ1XXX
+  swift8: PDFSIDJ1
+  branch_name: Head Office
+  branch_address: 60 Jalan Abdul Muis Pusat Jakarta
+  branch_code: XXX
+  city: Jakarta
+  country: Indonesia
+- name: Pendawa Dana Mandiri, Pt
+  swift: PEDMIDJ1XXX
+  swift8: PEDMIDJ1
+  branch_name: Head Office
+  branch_address: Lippo Plaza Jakarta
+  branch_code: XXX
+  city: Jakarta
+  country: Indonesia
+- name: Pentasena Arthasentosa, Pt
+  swift: PENRIDJ1XXX
+  swift8: PENRIDJ1
+  branch_name: Head Office
+  branch_address: World Trade Centre 12920 Jakarta
+  branch_code: XXX
+  city: Jakarta
+  country: Indonesia
+- name: Peregrine Securities Pt
+  swift: PESSIDJ1XXX
+  swift8: PESSIDJ1
+  branch_name: Head Office
+  branch_address: Chase Plaza Tower 12920 Jakarta
+  branch_code: XXX
+  city: Jakarta
+  country: Indonesia
+- name: Piranti Ciptadhana Amerta Securities, Pt
+  swift: PCASIDJ1XXX
+  swift8: PCASIDJ1
+  branch_name: Head Office
+  branch_address: Gedung Bangun Tjipta 10260 Jakarta
+  branch_code: XXX
+  city: Jakarta
+  country: Indonesia
+- name: Pos Indonesia
+  swift: POIDIDJ1XXX
+  swift8: POIDIDJ1
+  branch_name: No branch name
+  branch_address: No branch address
+  branch_code: XXX
+  city: Bandung
+  country: Indonesia
+- name: Pranata Invesindo, Pt
+  swift: PRAIIDJ1XXX
+  swift8: PRAIIDJ1
+  branch_name: Head Office
+  branch_address: Block M Plaza 12130 Jakarta
+  branch_code: XXX
+  city: Jakarta
+  country: Indonesia
+- name: Pranata Securities, Pt
+  swift: PRASIDJ10JD
+  swift8: PRASIDJ1
+  branch_name: Surabaya
+  branch_address: Jalan Slamet 36-37 Surabaya
+  branch_code: 0JD
+  city: Surabaya
+  country: Indonesia
+- name: Pranata Securities, Pt
+  swift: PRASIDJ1XXX
+  swift8: PRASIDJ1
+  branch_name: Head Office
+  branch_address: Komp. Ketapang Indah B1.05 11140 Jakarta
+  branch_code: XXX
+  city: Jakarta
+  country: Indonesia
+- name: Prasasta Paperasia, Pt
+  swift: PRAPIDJ1XXX
+  swift8: PRAPIDJ1
+  branch_name: Head Office
+  branch_address: Wisma Metropolitan Ii 129502 Jakarta
+  branch_code: XXX
+  city: Jakarta
+  country: Indonesia
+- name: Pratama Penaganartha, Pt
+  swift: PRAEIDJ1XXX
+  swift8: PRAEIDJ1
+  branch_name: Head Office
+  branch_address: 98 Jalan Kemang Raya 12560 Jakarta
+  branch_code: XXX
+  city: Jakarta
+  country: Indonesia
+- name: Primasia Securities Pt
+  swift: MANRIDJ1XXX
+  swift8: MANRIDJ1
+  branch_name: Head Office
+  branch_address: Wisma Argo Manunggal 12930 Jakarta
+  branch_code: XXX
+  city: Jakarta
+  country: Indonesia
+- name: Pt Abacus Capital Indonesia
+  swift: PTACIDJ1XXX
+  swift8: PTACIDJ1
+  branch_name: Head Office
+  branch_address: Jln Jen Sudirman 12190 Jakarta
+  branch_code: XXX
+  city: Jakarta
+  country: Indonesia
+- name: Pt Antaboga Delta Sekuritas Indonesia
+  swift: ADSIIDJ1XXX
+  swift8: ADSIIDJ1
+  branch_name: Head Office
+  branch_address: Grand Wijaya Centre 12150 Jakarta
+  branch_code: XXX
+  city: Jakarta
+  country: Indonesia
+- name: Pt Bank Indovest Tbk
+  swift: INDIIDJ1XXX
+  swift8: INDIIDJ1
+  branch_name: Head Office
+  branch_address: Asuransi Wahana Tata Building 10340 Jakarta
+  branch_code: XXX
+  city: Jakarta
+  country: Indonesia
+- name: Pt Bank Maspion Indonesia
+  swift: MASDIDJ1XXX
+  swift8: MASDIDJ1
+  branch_name: Head Office
+  branch_address: 50-54 Jl. Basuki Rahmat 60262 Surabaya
+  branch_code: XXX
+  city: Surabaya
+  country: Indonesia
+- name: Pt Bhakti Investama, Tbk
+  swift: BHANIDJ1XXX
+  swift8: BHANIDJ1
+  branch_name: Head Office
+  branch_address: Komp Niaga Roxi Mas 10150 Jakarta
+  branch_code: XXX
+  city: Jakarta
+  country: Indonesia
+- name: Pt Bnp Paribas Investment Partners
+  swift: BPIEIDJ1XXX
+  swift8: BPIEIDJ1
+  branch_name: Head Office
+  branch_address: World Trade Center Building 12920 Jakarta
+  branch_code: XXX
+  city: Jakarta
+  country: Indonesia
+- name: Pt Buana Capital
+  swift: BUNCIDJ1XXX
+  swift8: BUNCIDJ1
+  branch_name: Head Office
+  branch_address: Idx Building 12190 Jakarta
+  branch_code: XXX
+  city: Jakarta
+  country: Indonesia
+- name: Pt Cimb Securities Indonesia
+  swift: GOHOIDJ1XXX
+  swift8: GOHOIDJ1
+  branch_name: Head Office
+  branch_address: Indonesia Stock Exchange Building 12190 Jakarta
+  branch_code: XXX
+  city: Jakarta
+  country: Indonesia
+- name: Pt Credit Suisse Securities Indonesia
+  swift: CRESIDJ1XXX
+  swift8: CRESIDJ1
+  branch_name: Head Office
+  branch_address: Jalan Jenderal Sudirman Kav. 45 12930 Jakarta
+  branch_code: XXX
+  city: Jakarta
+  country: Indonesia
+- name: Pt Danatama Makmur Securities
+  swift: DANMIDJ1XXX
+  swift8: DANMIDJ1
+  branch_name: Head Office
+  branch_address: Menara Global Lantai 15 10250 Jakarta
+  branch_code: XXX
+  city: Jakarta
+  country: Indonesia
+- name: Pt Fitch Ratings Indonesia
+  swift: FRIPIDJ1XXX
+  swift8: FRIPIDJ1
+  branch_name: Head Office
+  branch_address: Sequis Plaza (Plaza Dm), 12920 Jakarta
+  branch_code: XXX
+  city: Jakarta
+  country: Indonesia
+- name: Pt Kresna Graha Sekuritas Tbk
+  swift: KGSTIDJ1XXX
+  swift8: KGSTIDJ1
+  branch_name: No branch name
+  branch_address: No branch address
+  branch_code: XXX
+  city: Jakarta
+  country: Indonesia
+- name: Pt Lippo Securities Tbk
+  swift: LIPSIDJ1XXX
+  swift8: LIPSIDJ1
+  branch_name: Head Office
+  branch_address: Lippo Centre 12950 Tangerang
+  branch_code: XXX
+  city: Tangerang
+  country: Indonesia
+- name: Pt Macquarie Capital Securities Indonesia
+  swift: IBSEIDJ1XXX
+  swift8: IBSEIDJ1
+  branch_name: Head Office
+  branch_address: Jakarta Stock Exchange Building 12190 Jakarta
+  branch_code: XXX
+  city: Jakarta
+  country: Indonesia
+- name: Pt Pacific 2000 Investindo
+  swift: STOIIDJ1XXX
+  swift8: STOIIDJ1
+  branch_name: Head Office
+  branch_address: Komp. Pertokoan Tanah Abang Bukit 10250 Jakarta
+  branch_code: XXX
+  city: Jakarta
+  country: Indonesia
+- name: Pt Rbs Asia Securities Indonesia
+  swift: HGASIDJ1XXX
+  swift8: HGASIDJ1
+  branch_name: Head Office
+  branch_address: Gedung Burse Efek Jakarta Tower Ii 12190 Jakarta
+  branch_code: XXX
+  city: Jakarta
+  country: Indonesia
+- name: Pt Rhb Osk Securities Indonesia
+  swift: ONSNIDJ1XXX
+  swift8: ONSNIDJ1
+  branch_name: Head Office
+  branch_address: Cimb Niaga Plaza 12920 Jakarta
+  branch_code: XXX
+  city: Jakarta
+  country: Indonesia
+- name: Pt Sarijaya Permana Sekuritas
+  swift: TEDAIDJ1XXX
+  swift8: TEDAIDJ1
+  branch_name: Head Office
+  branch_address: Permata Bank Tower I Jakarta
+  branch_code: XXX
+  city: Jakarta
+  country: Indonesia
+- name: Pt Supra Securinvest
+  swift: SUPEIDJ1XXX
+  swift8: SUPEIDJ1
+  branch_name: Head Office
+  branch_address: Supra Building 11160 Jakarta
+  branch_code: XXX
+  city: Jakarta
+  country: Indonesia
+- name: Pt Trimegah Securities Tbk
+  swift: TRSSIDJ1XXX
+  swift8: TRSSIDJ1
+  branch_name: Head Office
+  branch_address: Artha Graha Building 12190 Jakarta
+  branch_code: XXX
+  city: Jakarta
+  country: Indonesia
+- name: Pt Ubs Securities Indonesia
+  swift: SBWIIDJ1XXX
+  swift8: SBWIIDJ1
+  branch_name: Head Office
+  branch_address: Jakarta
+  branch_code: XXX
+  city: Jakarta
+  country: Indonesia
+- name: Pt Ubs Securities Indonesia
+  swift: SBWNIDJ1XXX
+  swift8: SBWNIDJ1
+  branch_name: Head Office
+  branch_address: Wisma Gkbi 10210 Jakarta
+  branch_code: XXX
+  city: Jakarta
+  country: Indonesia
+- name: Pt. Bank Hagakita
+  swift: BHAGIDS1XXX
+  swift8: BHAGIDS1
+  branch_name: Head Office
+  branch_address: Jl Tanah Abang Ii 89 10150 Jakarta
+  branch_code: XXX
+  city: Jakarta
+  country: Indonesia
+- name: Pt. Bank Maspion Indonesia
+  swift: MASDIDJSXXX
+  swift8: MASDIDJS
+  branch_name: Head Office
+  branch_address: 50-54 Jl. Basuki Rahmat 60262 Surabaya
+  branch_code: XXX
+  city: Surabaya
+  country: Indonesia
+- name: Pt. Bank Mayora
+  swift: MAYOIDJAXXX
+  swift8: MAYOIDJA
+  branch_name: Head Office
+  branch_address: Gedung Mayora 11440 Jakarta
+  branch_code: XXX
+  city: Jakarta
+  country: Indonesia
+- name: Pt. Bank Nisp Tbk
+  swift: NISPID610J3
+  swift8: NISPID61
+  branch_name: Bogor Branch
+  branch_address: Jalan Ir H. Juanda 12 16121 Bogor
+  branch_code: 0J3
+  city: Bogor
+  country: Indonesia
+- name: Pt. Bank Nisp Tbk
+  swift: NISPID610J4
+  swift8: NISPID61
+  branch_name: Bandung Branch
+  branch_address: Kompleks Rajawali Plaza 40182 Andir
+  branch_code: 0J4
+  city: Andir
+  country: Indonesia
+- name: Pt. Bank Nisp Tbk
+  swift: NISPID610J5
+  swift8: NISPID61
+  branch_name: Cimahi Branch
+  branch_address: Jalan Gatot Subroto 8 40523 Cimahi
+  branch_code: 0J5
+  city: Cimahi
+  country: Indonesia
+- name: Pt. Bank Nisp Tbk
+  swift: NISPID61XXX
+  swift8: NISPID61
+  branch_name: Head Office
+  branch_address: Bank Nisp Tower 40114 Jakarta
+  branch_code: XXX
+  city: Jakarta
+  country: Indonesia
+- name: Pt. Bank Sumut
+  swift: PDSUIDSAXXX
+  swift8: PDSUIDSA
+  branch_name: Head Office
+  branch_address: Gedung Pt. Bank Sumut 20152 Medan
+  branch_code: XXX
+  city: Medan
+  country: Indonesia
+- name: Pt. Bank Windu Kentjana International, Tbk
+  swift: BWKIIDJAXXX
+  swift8: BWKIIDJA
+  branch_name: Head Office
+  branch_address: Equity Tower Building 12190 Jakarta
+  branch_code: XXX
+  city: Jakarta
+  country: Indonesia
+- name: Pt. Bnp Paribas Securities Indonesia
+  swift: PBPEIDJ1XXX
+  swift8: PBPEIDJ1
+  branch_name: Head Office
+  branch_address: Menara Batavia 10220 Jakarta
+  branch_code: XXX
+  city: Jakarta
+  country: Indonesia
+- name: Pt. Bumiputera Capital Indonesia
+  swift: FISNIDJ1XXX
+  swift8: FISNIDJ1
+  branch_name: Head Office
+  branch_address: Ficorinvest Building 12940 Jakarta
+  branch_code: XXX
+  city: Jakarta
+  country: Indonesia
+- name: Pt. Citigroup Securities Indonesia
+  swift: CITIIDX1XXX
+  swift8: CITIIDX1
+  branch_name: Head Office
+  branch_address: Citibank Tower 12190 Jakarta
+  branch_code: XXX
+  city: Jakarta
+  country: Indonesia
+- name: Pt. Danareksa Sekuritas
+  swift: DANCIDJ10JD
+  swift8: DANCIDJ1
+  branch_name: Surabaya
+  branch_address: Gedung Medan Pemuda Surabaya
+  branch_code: 0JD
+  city: Surabaya
+  country: Indonesia
+- name: Pt. Danareksa Sekuritas
+  swift: DANCIDJ1XXX
+  swift8: DANCIDJ1
+  branch_name: Head Office
+  branch_address: Setiabudi Atrium 12920 Jakarta
+  branch_code: XXX
+  city: Jakarta
+  country: Indonesia
+- name: Pt. Mahakarya Artha Securities
+  swift: MAASIDJ1XXX
+  swift8: MAASIDJ1
+  branch_name: Head Office
+  branch_address: Gedung Bursa 10110 Jakarta
+  branch_code: XXX
+  city: Jakarta
+  country: Indonesia
+- name: Pt. Mandiri Sekuritas
+  swift: MASKIDJ1XXX
+  swift8: MASKIDJ1
+  branch_name: Head Office
+  branch_address: Plaza Mandiri 12190 Jakarta
+  branch_code: XXX
+  city: Jakarta
+  country: Indonesia
+- name: Pt. Optima Kharya Capital Securities
+  swift: SHKSIDJ1XXX
+  swift8: SHKSIDJ1
+  branch_name: Head Office
+  branch_address: Gedung Building 10210 Jakarta
+  branch_code: XXX
+  city: Jakarta
+  country: Indonesia
+- name: Pt. Panin Sekuritas Tbk.
+  swift: PANUIDJ1XXX
+  swift8: PANUIDJ1
+  branch_name: Head Office
+  branch_address: Indonesia Stock Exchange Building T 12190 Jakarta
+  branch_code: XXX
+  city: Jakarta
+  country: Indonesia
+- name: Pt. Waterfront Securities Indonesia
+  swift: PARIIDJ1XXX
+  swift8: PARIIDJ1
+  branch_name: Head Office
+  branch_address: Gedung Sona Topas Lt. 6 Jakarta
+  branch_code: XXX
+  city: Jakarta
+  country: Indonesia
+- name: Pt.phillip Securities Indonesia
+  swift: PHSPIDJ1XXX
+  swift8: PHSPIDJ1
+  branch_name: Head Office
+  branch_address: Anz Tower 10220 Jakarta
+  branch_code: XXX
+  city: Jakarta
+  country: Indonesia
+- name: Putera Master Sekuritas, Pt
+  swift: PUMSIDJ1XXX
+  swift8: PUMSIDJ1
+  branch_name: Head Office
+  branch_address: 29 Jalan Musi 10150 Jakarta
+  branch_code: XXX
+  city: Jakarta
+  country: Indonesia
+- name: Putra Juang Sekupindo, Pt
+  swift: PUJSIDJ1XXX
+  swift8: PUJSIDJ1
+  branch_name: Head Office
+  branch_address: Wisma Ydp Pt. Astek (Parsero) 12930 Jakarta
+  branch_code: XXX
+  city: Jakarta
+  country: Indonesia
+- name: Putra Saridaya Persada, Pt
+  swift: PUSPIDJ1XXX
+  swift8: PUSPIDJ1
+  branch_name: Head Office
+  branch_address: Wisma Bank Dharmala 12910 Jakarta
+  branch_code: XXX
+  city: Jakarta
+  country: Indonesia
+- name: Ramayana Artha Perkasa, Pt
+  swift: RAASIDJ1XXX
+  swift8: RAASIDJ1
+  branch_name: Head Office
+  branch_address: Komp. Ketapang Indah B1 B3/19 Jakarta
+  branch_code: XXX
+  city: Jakarta
+  country: Indonesia
+- name: Rashid Hussain Securities Pt
+  swift: RHUSIDJ1XXX
+  swift8: RHUSIDJ1
+  branch_name: Head Office
+  branch_address: Gedung Bursa Effek 12190 Jakarta
+  branch_code: XXX
+  city: Jakarta
+  country: Indonesia
+- name: Ravindo Securitama, Pt
+  swift: RAVSIDJ1XXX
+  swift8: RAVSIDJ1
+  branch_name: Head Office
+  branch_address: 35 Jalan Batu Tulis Raya Pusat 11160 Jakarta
+  branch_code: XXX
+  city: Jakarta
+  country: Indonesia
+- name: Redialindo Mandiri, Pt
+  swift: REDMIDJ1XXX
+  swift8: REDMIDJ1
+  branch_name: Head Office
+  branch_address: Gedung Bursa 10110 Jakarta
+  branch_code: XXX
+  city: Jakarta
+  country: Indonesia
+- name: Rekaprima Sekuritas, Pt
+  swift: REKSIDJ1XXX
+  swift8: REKSIDJ1
+  branch_name: Head Office
+  branch_address: Niaga Tower 12190 Jakarta
+  branch_code: XXX
+  city: Jakarta
+  country: Indonesia
+- name: Rita Wijaya Kencana, Pt
+  swift: RIWKIDJ1XXX
+  swift8: RIWKIDJ1
+  branch_name: Head Office
+  branch_address: Wisma Metropolitan Ii 12920 Jakarta
+  branch_code: XXX
+  city: Jakarta
+  country: Indonesia
+- name: Safindo Mediadana, Pt
+  swift: SAFMIDJ1XXX
+  swift8: SAFMIDJ1
+  branch_name: Head Office
+  branch_address: Jayakarta Tower 11180 Jakarta
+  branch_code: XXX
+  city: Jakarta
+  country: Indonesia
+- name: Saka Carry Securities, Pt
+  swift: SACCIDJ1XXX
+  swift8: SACCIDJ1
+  branch_name: Head Office
+  branch_address: Ratu Plaza Office Tower 10270 Jakarta
+  branch_code: XXX
+  city: Jakarta
+  country: Indonesia
+- name: Sanyo Primarindo Securities, Pt
+  swift: SAPSIDJ1XXX
+  swift8: SAPSIDJ1
+  branch_name: Head Office
+  branch_address: Bank Pacific Building 10220 Jakarta
+  branch_code: XXX
+  city: Jakarta
+  country: Indonesia
+- name: Sarana Efekindo, Pt
+  swift: SAREIDJ1XXX
+  swift8: SAREIDJ1
+  branch_name: Head Office
+  branch_address: 2e Jalan Gunung Sahari Raya 10720 Jakarta
+  branch_code: XXX
+  city: Jakarta
+  country: Indonesia
+- name: Sassoon Securities Limited, Pt
+  swift: SASRIDJ1XXX
+  swift8: SASRIDJ1
+  branch_name: Head Office
+  branch_address: Bank Building 10220 Jakarta
+  branch_code: XXX
+  city: Jakarta
+  country: Indonesia
+- name: Sekurindo Pratama, Pt
+  swift: SEKPIDJ1XXX
+  swift8: SEKPIDJ1
+  branch_name: Head Office
+  branch_address: Komp. Partokoan Duta Menin 10130 Jakarta
+  branch_code: XXX
+  city: Jakarta
+  country: Indonesia
+- name: Sekuritas Indo Pasifik Investasi,pt
+  swift: SEIPIDJ1XXX
+  swift8: SEIPIDJ1
+  branch_name: Head Office
+  branch_address: Jalan Kembang Jepun 172 Surabaya
+  branch_code: XXX
+  city: Surabaya
+  country: Indonesia
+- name: Sekuritas Indopasific Inv., Pt
+  swift: SEIIIDJ1XXX
+  swift8: SEIIIDJ1
+  branch_name: Head Office
+  branch_address: 2b/8 Jalan Kaji Petojo Utara Gambir Jakarta
+  branch_code: XXX
+  city: Jakarta
+  country: Indonesia
+- name: Semesta Indovest, Pt
+  swift: SEMIIDJ1XXX
+  swift8: SEMIIDJ1
+  branch_name: Head Office
+  branch_address: Setia Budi Building 1 12920 Jakarta
+  branch_code: XXX
+  city: Jakarta
+  country: Indonesia
+- name: Sertivia Securitas, Pt
+  swift: SERCIDJ1XXX
+  swift8: SERCIDJ1
+  branch_name: Head Office
+  branch_address: 40-50 Jalan Kopl Jakarta
+  branch_code: XXX
+  city: Jakarta
+  country: Indonesia
+- name: Seruni Tunggal, Pt
+  swift: SERNIDJ10JD
+  swift8: SERNIDJ1
+  branch_name: Surabaya
+  branch_address: Jalan Demak Timur 34a Surabaya
+  branch_code: 0JD
+  city: Surabaya
+  country: Indonesia
+- name: Seruni Tunggal, Pt
+  swift: SERNIDJ1XXX
+  swift8: SERNIDJ1
+  branch_name: Head Office
+  branch_address: Block 26-27 Jakarta
+  branch_code: XXX
+  city: Jakarta
+  country: Indonesia
+- name: Sigma Batara Pt
+  swift: SIGBIDJ1XXX
+  swift8: SIGBIDJ1
+  branch_name: Head Office
+  branch_address: Lippor Plaza 122920 Jakarta
+  branch_code: XXX
+  city: Jakarta
+  country: Indonesia
+- name: Sinarmas Sekuritas, Pt
+  swift: SINKIDJ1XXX
+  swift8: SINKIDJ1
+  branch_name: Head Office
+  branch_address: Wisma Eka Life 12780 Jakarta
+  branch_code: XXX
+  city: Jakarta
+  country: Indonesia
+- name: Srikandi Securities Invesindo, Pt
+  swift: SRSIIDJ1XXX
+  swift8: SRSIIDJ1
+  branch_name: Head Office
+  branch_address: Block Lc Vi Jakarta
+  branch_code: XXX
+  city: Jakarta
+  country: Indonesia
+- name: Standard Chartered Ind., Pt
+  swift: STCIIDJ1XXX
+  swift8: STCIIDJ1
+  branch_name: Head Office
+  branch_address: Wisma Bank Dharmala Building 12910 Jakarta
+  branch_code: XXX
+  city: Jakarta
+  country: Indonesia
+- name: Sucorinvest Central Gani Pt
+  swift: SUCGIDJ10JD
+  swift8: SUCGIDJ1
+  branch_name: Surabaya
+  branch_address: Jalan Cempaka 26 Surabaya
+  branch_code: 0JD
+  city: Surabaya
+  country: Indonesia
+- name: Sucorinvest Central Gani Pt
+  swift: SUCGIDJ1XXX
+  swift8: SUCGIDJ1
+  branch_name: Head Office
+  branch_address: Komp. Duta Merlin a 17-18 Jakarta
+  branch_code: XXX
+  city: Jakarta
+  country: Indonesia
+- name: Sumber Artha Invesindo,pt
+  swift: SUAIIDJ1XXX
+  swift8: SUAIIDJ1
+  branch_name: Head Office
+  branch_address: 28 Jalan Slompretan Surabaya
+  branch_code: XXX
+  city: Surabaya
+  country: Indonesia
+- name: Surabaya Artha Invesindo,pt
+  swift: SUANIDJ1XXX
+  swift8: SUANIDJ1
+  branch_name: Head Office
+  branch_address: 21 Jalan Joyoboyo Surabaya
+  branch_code: XXX
+  city: Surabaya
+  country: Indonesia
+- name: Surabaya Stock Exchange
+  swift: XSURIDJ1XXX
+  swift8: XSURIDJ1
+  branch_name: Head Office
+  branch_address: Plaza Bapindo Menara 1 12190 Jakarta
+  branch_code: XXX
+  city: Jakarta
+  country: Indonesia
+- name: Swadana Cipta Efekindo
+  swift: SWADIDJ1XXX
+  swift8: SWADIDJ1
+  branch_name: Head Office
+  branch_address: Jalan Taman Tanah Abang 111-25 10160 Jakarta
+  branch_code: XXX
+  city: Jakarta
+  country: Indonesia
+- name: Tataguna Sarana Efek
+  swift: TASFIDJ1XXX
+  swift8: TASFIDJ1
+  branch_name: Head Office
+  branch_address: Jalan Johor 1, Menteng 10350 Jakarta
+  branch_code: XXX
+  city: Jakarta
+  country: Indonesia
+- name: Tegardinamika Abadi
+  swift: TEGAIDJ1XXX
+  swift8: TEGAIDJ1
+  branch_name: Head Office
+  branch_address: Jalan Hayam Wuruk 84-85 11160 Jakarta
+  branch_code: XXX
+  city: Jakarta
+  country: Indonesia
+- name: Tifa Securities
+  swift: TIFAIDJ1XXX
+  swift8: TIFAIDJ1
+  branch_name: Head Office
+  branch_address: Tifa Building 12710 Jakarta
+  branch_code: XXX
+  city: Jakarta
+  country: Indonesia
+- name: Tobeli Pasifik,pt
+  swift: TOBEIDJ1XXX
+  swift8: TOBEIDJ1
+  branch_name: Head Office
+  branch_address: Jakarta Stock Exchange Building 10210 Jakarta
+  branch_code: XXX
+  city: Jakarta
+  country: Indonesia
+- name: Transpacific Securindo Pt
+  swift: TRAEIDJ1XXX
+  swift8: TRAEIDJ1
+  branch_name: Head Office
+  branch_address: Menara Imperium 10340 Jakarta
+  branch_code: XXX
+  city: Jakarta
+  country: Indonesia
+- name: Tunas Perdana Securindo
+  swift: TUNPIDJ1XXX
+  swift8: TUNPIDJ1
+  branch_name: Head Office
+  branch_address: Via Pap Gedund Multi Bintang 12870 Jakarta
+  branch_code: XXX
+  city: Jakarta
+  country: Indonesia
+- name: Tunasmulia
+  swift: TUNAIDJ1XXX
+  swift8: TUNAIDJ1
+  branch_name: Head Office
+  branch_address: 118-120 Jalan Pegirikan Surabaya
+  branch_code: XXX
+  city: Surabaya
+  country: Indonesia
+- name: Tunasmulia Invesindokarsa
+  swift: TUNMIDJ1XXX
+  swift8: TUNMIDJ1
+  branch_name: Head Office
+  branch_address: Jalan Kebon Sirih 40 Jakarta
+  branch_code: XXX
+  city: Jakarta
+  country: Indonesia
+- name: Unisecurindo
+  swift: UNIRIDJ1XXX
+  swift8: UNIRIDJ1
+  branch_name: Head Office
+  branch_address: Jalan Hayam Wuruk 121 11180 Jakarta
+  branch_code: XXX
+  city: Jakarta
+  country: Indonesia
+- name: Uob Kay Hian Securities, Pt
+  swift: UKHEIDJ1XXX
+  swift8: UKHEIDJ1
+  branch_name: Head Office
+  branch_address: Menara Bcd Lantai 2 12920 Jakarta
+  branch_code: XXX
+  city: Jakarta
+  country: Indonesia
+- name: Vickers Ballas Tamara Pt.
+  swift: TRSEIDJ1XXX
+  swift8: TRSEIDJ1
+  branch_name: Head Office
+  branch_address: Wisma Tamara 12920 Jakarta
+  branch_code: XXX
+  city: Jakarta
+  country: Indonesia
+- name: Victoria Sekuritas Pt.
+  swift: TASMIDJ1XXX
+  swift8: TASMIDJ1
+  branch_name: Head Office
+  branch_address: Bank Panin Senayan Building 10160 Jakarta
+  branch_code: XXX
+  city: Jakarta
+  country: Indonesia
+- name: W.i. Carr Indonesia,pt
+  swift: WICAIDJ1XXX
+  swift8: WICAIDJ1
+  branch_name: Head Office
+  branch_address: Niaga Tower 12190 Jakarta
+  branch_code: XXX
+  city: Jakarta
+  country: Indonesia
+- name: Wardley James Capel Ind. Pt
+  swift: WJCAIDJ1XXX
+  swift8: WJCAIDJ1
+  branch_name: Head Office
+  branch_address: World Trade Center 12920 Jakarta
+  branch_code: XXX
+  city: Jakarta
+  country: Indonesia
+- name: Yama Bank
+  swift: BYAMIDJ1XXX
+  swift8: BYAMIDJ1
+  branch_name: Head Office
+  branch_address: Mulia Tower 12930 Jakarta
+  branch_code: XXX
+  city: Jakarta
+  country: Indonesia

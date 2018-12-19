@@ -1,0 +1,474 @@
+---
+UZ:
+- name: "'qishloq Qurilish Bank' Open Joint-stock Commercial Bank"
+  swift: GJSOUZ22XXX
+  swift8: GJSOUZ22
+  branch_name: Head Office
+  branch_address: Uzdonmahsulot 700060 Tashkent
+  branch_code: XXX
+  city: Tashkent
+  country: Uzbekistan
+- name: "'uzbek Industrial And Construction Bank' Open Joint-stock Commercial Bank"
+  swift: UJSIUZ22XXX
+  swift8: UJSIUZ22
+  branch_name: Head Office
+  branch_address: 3 Shakhrisabz Str 100000 Tashkent
+  branch_code: XXX
+  city: Tashkent
+  country: Uzbekistan
+- name: Alokabank Joint Stock Commercial Bank
+  swift: JSCLUZ22XXX
+  swift8: JSCLUZ22
+  branch_name: Head Office
+  branch_address: Alokabank Building 700000 Tashkent
+  branch_code: XXX
+  city: Tashkent
+  country: Uzbekistan
+- name: Asia Alliance Bank
+  swift: ASACUZ22XXX
+  swift8: ASACUZ22
+  branch_name: Head Office
+  branch_address: Taraqqiyot Str. 2a 100047 Tashkent
+  branch_code: XXX
+  city: Tashkent
+  country: Uzbekistan
+- name: Bank Ipak Yuli, Open Joint-stock Innovation Commercial
+  swift: INIPUZ21CHL
+  swift8: INIPUZ21
+  branch_name: Chilanzar
+  branch_address: 12a, Farkhad Str. 100135 Tashkent
+  branch_code: CHL
+  city: Tashkent
+  country: Uzbekistan
+- name: Bank Ipak Yuli, Open Joint-stock Innovation Commercial
+  swift: INIPUZ21MRB
+  swift8: INIPUZ21
+  branch_name: Mirabad Branch
+  branch_address: 25, Mirabad Street 100015 Tashkent
+  branch_code: MRB
+  city: Tashkent
+  country: Uzbekistan
+- name: Bank Ipak Yuli, Open Joint-stock Innovation Commercial
+  swift: INIPUZ21MUB
+  swift8: INIPUZ21
+  branch_name: Mirzo Ulugbek Branch
+  branch_address: 5 Hamid Alimjan Street 700000 Tashkent
+  branch_code: MUB
+  city: Tashkent
+  country: Uzbekistan
+- name: Bank Ipak Yuli, Open Joint-stock Innovation Commercial
+  swift: INIPUZ21NAM
+  swift8: INIPUZ21
+  branch_name: Namangan
+  branch_address: 2, Galaba Street 160130 Namangan
+  branch_code: NAM
+  city: Namangan
+  country: Uzbekistan
+- name: Bank Ipak Yuli, Open Joint-stock Innovation Commercial
+  swift: INIPUZ21NAV
+  swift8: INIPUZ21
+  branch_name: Navoi Branch
+  branch_address: 6a Galaba Street 706800 Navoi
+  branch_code: NAV
+  city: Navoi
+  country: Uzbekistan
+- name: Bank Ipak Yuli, Open Joint-stock Innovation Commercial
+  swift: INIPUZ21SGB
+  swift8: INIPUZ21
+  branch_name: Sagbon
+  branch_address: 1, Sagbon Street 100002 Tashkent
+  branch_code: SGB
+  city: Tashkent
+  country: Uzbekistan
+- name: Bank Ipak Yuli, Open Joint-stock Innovation Commercial
+  swift: INIPUZ21SHZ
+  swift8: INIPUZ21
+  branch_name: Shakhrisabz
+  branch_address: 21, Pillakashlik 181306 Shakhrisabz
+  branch_code: SHZ
+  city: Shakhrisabz
+  country: Uzbekistan
+- name: Bank Ipak Yuli, Open Joint-stock Innovation Commercial
+  swift: INIPUZ21UMA
+  swift8: INIPUZ21
+  branch_name: Regional Branch Umar
+  branch_address: 14 Dagbit Street 703020 Samarkand
+  branch_code: UMA
+  city: Samarkand
+  country: Uzbekistan
+- name: Bank Ipak Yuli, Open Joint-stock Innovation Commercial
+  swift: INIPUZ21URB
+  swift8: INIPUZ21
+  branch_name: Urikzor Branch
+  branch_address: Urikzor District 700156 Tashkent
+  branch_code: URB
+  city: Tashkent
+  country: Uzbekistan
+- name: Bank Ipak Yuli, Open Joint-stock Innovation Commercial
+  swift: INIPUZ21YKB
+  swift8: INIPUZ21
+  branch_name: Yakkasaray Branch
+  branch_address: Usman Nosir Street,65 700100 Tashkent
+  branch_code: YKB
+  city: Tashkent
+  country: Uzbekistan
+- name: Bank Ipak Yuli, Open Joint-stock Innovation Commercial
+  swift: INIPUZ21YNG
+  swift8: INIPUZ21
+  branch_name: Yangiyul
+  branch_address: Samarkandskaya Str.,146 100815 Yangiyul
+  branch_code: YNG
+  city: Yangiyul
+  country: Uzbekistan
+- name: Bank Ipak Yuli, Open Joint-stock Innovation Commercial
+  swift: INIPUZ22XXX
+  swift8: INIPUZ22
+  branch_name: Head Office
+  branch_address: A. Qodiriy Street, 2 100017 Tashkent
+  branch_code: XXX
+  city: Tashkent
+  country: Uzbekistan
+- name: Central Bank Of The Republic Uzbekistan
+  swift: CBUZUZ22XXX
+  swift8: CBUZUZ22
+  branch_name: Head Office
+  branch_address: Uzbekistanski Avenue 6 700001 Tashkent
+  branch_code: XXX
+  city: Tashkent
+  country: Uzbekistan
+- name: Credit-standard Bank
+  swift: CRIDUZ21XXX
+  swift8: CRIDUZ21
+  branch_name: Head Office
+  branch_address: Kunaeva, Dom 25 700015 Tashkent
+  branch_code: XXX
+  city: Tashkent
+  country: Uzbekistan
+- name: Infinbank
+  swift: INFBUZ2XXXX
+  swift8: INFBUZ2X
+  branch_name: Head Office
+  branch_address: Navoi Street, 18b 100011 Tashkent
+  branch_code: XXX
+  city: Tashkent
+  country: Uzbekistan
+- name: Ipoteka-bank
+  swift: UZHOUZ22XXX
+  swift8: UZHOUZ22
+  branch_name: Head Office
+  branch_address: Mustaqillik 17 100000 Tashkent
+  branch_code: XXX
+  city: Tashkent
+  country: Uzbekistan
+- name: Joint Stock Commercial Bank 'agrobank'
+  swift: PAKHUZ22XXX
+  swift8: PAKHUZ22
+  branch_name: Head Office
+  branch_address: Mukimi 43 100096 Tashkent
+  branch_code: XXX
+  city: Tashkent
+  country: Uzbekistan
+- name: Joint Stock Commercial Bank Savdogar
+  swift: JSCSUZ22XXX
+  swift8: JSCSUZ22
+  branch_name: Head Office
+  branch_address: Said Baraka 700060 Tashkent
+  branch_code: XXX
+  city: Tashkent
+  country: Uzbekistan
+- name: Kapitalbank, Oakb
+  swift: KACHUZ22XXX
+  swift8: KACHUZ22
+  branch_name: Head Office
+  branch_address: Kapitalbank 700000 Tashkent
+  branch_code: XXX
+  city: Tashkent
+  country: Uzbekistan
+- name: Kdb Bank Uzbekistan Cjsc
+  swift: KODBUZ22XXX
+  swift8: KODBUZ22
+  branch_name: Head Office
+  branch_address: Oybek Street, 32 100015 Tashkent
+  branch_code: XXX
+  city: Tashkent
+  country: Uzbekistan
+- name: Khamkorbank Akb
+  swift: KHKKUZ22XXX
+  swift8: KHKKUZ22
+  branch_name: Head Office
+  branch_address: 85 Prospekt Bobura 710011 Andizhan
+  branch_code: XXX
+  city: Andizhan
+  country: Uzbekistan
+- name: Khorezm Interregion Commodity Exchange
+  swift: XKCEUZ31XXX
+  swift8: XKCEUZ31
+  branch_name: Head Office
+  branch_address: Al-Khorezmi Street Tashkent
+  branch_code: XXX
+  city: Tashkent
+  country: Uzbekistan
+- name: Microcreditbank
+  swift: MICDUZ22XXX
+  swift8: MICDUZ22
+  branch_name: Head Office
+  branch_address: 14, Lutfiy Street 100096 Tashkent
+  branch_code: XXX
+  city: Tashkent
+  country: Uzbekistan
+- name: National Bank For Foreign Economic Activity Of The Republic Of Uzbekistan
+  swift: NBFAUZ2XXXX
+  swift8: NBFAUZ2X
+  branch_name: Head Office
+  branch_address: Interbank Settlement Centre 100047 Tashkent
+  branch_code: XXX
+  city: Tashkent
+  country: Uzbekistan
+- name: Ojsc Microcreditbank
+  swift: OJMIUZ21XXX
+  swift8: OJMIUZ21
+  branch_name: Head Office
+  branch_address: 14 Lutfiy 100096 Tashkent
+  branch_code: XXX
+  city: Tashkent
+  country: Uzbekistan
+- name: Orient Finans Bank
+  swift: ORFBUZ22XXX
+  swift8: ORFBUZ22
+  branch_name: Head Office
+  branch_address: 7a Yakkachinor Str. 100029 Tashkent
+  branch_code: XXX
+  city: Tashkent
+  country: Uzbekistan
+- name: Private Bank 'davr Bank'
+  swift: DVRBUZ22XXX
+  swift8: DVRBUZ22
+  branch_name: Head Office
+  branch_address: Navoi-Zarqaynar Block a Tashkent
+  branch_code: XXX
+  city: Tashkent
+  country: Uzbekistan
+- name: Ravnaq Bank
+  swift: RVBKUZ22XXX
+  swift8: RVBKUZ22
+  branch_name: Head Office
+  branch_address: 2 Furkat 700021 Tashkent
+  branch_code: XXX
+  city: Tashkent
+  country: Uzbekistan
+- name: State Commercial People-bank Of The Republic Of Uzbekistan
+  swift: SCPEUZ22XXX
+  swift8: SCPEUZ22
+  branch_name: Head Office
+  branch_address: Qatortol St., 46 700096 Tashkent
+  branch_code: XXX
+  city: Tashkent
+  country: Uzbekistan
+- name: State Joint-stock Commercial Bank Asaka
+  swift: ASBKUZ22XXX
+  swift8: ASBKUZ22
+  branch_name: Head Office
+  branch_address: 67 Nukus Street 700015 Tashkent
+  branch_code: XXX
+  city: Tashkent
+  country: Uzbekistan
+- name: Trustbank, Private Open Joint Stock-exchange Bank
+  swift: TRSAUZ22XXX
+  swift8: TRSAUZ22
+  branch_name: Head Office
+  branch_address: 7, Navoi Ul. 100038 Tashkent
+  branch_code: XXX
+  city: Tashkent
+  country: Uzbekistan
+- name: Turon Joint-stock Commercial Bank
+  swift: TUROUZ21AND
+  swift8: TUROUZ21
+  branch_name: Andijan Branch
+  branch_address: Andijan
+  branch_code: AND
+  city: Andijan
+  country: Uzbekistan
+- name: Turon Joint-stock Commercial Bank
+  swift: TUROUZ21BUH
+  swift8: TUROUZ21
+  branch_name: Bukhara Branch
+  branch_address: Bukhara
+  branch_code: BUH
+  city: Bukhara
+  country: Uzbekistan
+- name: Turon Joint-stock Commercial Bank
+  swift: TUROUZ21CHL
+  swift8: TUROUZ21
+  branch_name: Chilanzar Branch
+  branch_address: 6, Farkhod Str. 100011 Tashkent
+  branch_code: CHL
+  city: Tashkent
+  country: Uzbekistan
+- name: Turon Joint-stock Commercial Bank
+  swift: TUROUZ21FER
+  swift8: TUROUZ21
+  branch_name: Fergana Branch
+  branch_address: Ferghana
+  branch_code: FER
+  city: Ferghana
+  country: Uzbekistan
+- name: Turon Joint-stock Commercial Bank
+  swift: TUROUZ21JIZ
+  swift8: TUROUZ21
+  branch_name: Jizzah Branch
+  branch_address: Jizzah
+  branch_code: JIZ
+  city: Jizzah
+  country: Uzbekistan
+- name: Turon Joint-stock Commercial Bank
+  swift: TUROUZ21KAR
+  swift8: TUROUZ21
+  branch_name: Karshi Branch
+  branch_address: Karshi
+  branch_code: KAR
+  city: Karshi
+  country: Uzbekistan
+- name: Turon Joint-stock Commercial Bank
+  swift: TUROUZ21KHR
+  swift8: TUROUZ21
+  branch_name: Khorezm Branch
+  branch_address: Urgench
+  branch_code: KHR
+  city: Urgench
+  country: Uzbekistan
+- name: Turon Joint-stock Commercial Bank
+  swift: TUROUZ21KHZ
+  swift8: TUROUZ21
+  branch_name: Khamza Branch
+  branch_address: 4, Karasu Str. 100011 Tashkent
+  branch_code: KHZ
+  city: Tashkent
+  country: Uzbekistan
+- name: Turon Joint-stock Commercial Bank
+  swift: TUROUZ21MIR
+  swift8: TUROUZ21
+  branch_name: Mirobod Branch
+  branch_address: Tashkent
+  branch_code: MIR
+  city: Tashkent
+  country: Uzbekistan
+- name: Turon Joint-stock Commercial Bank
+  swift: TUROUZ21NAM
+  swift8: TUROUZ21
+  branch_name: Namangan Branch
+  branch_address: Namangan
+  branch_code: NAM
+  city: Namangan
+  country: Uzbekistan
+- name: Turon Joint-stock Commercial Bank
+  swift: TUROUZ21NAV
+  swift8: TUROUZ21
+  branch_name: Navoi Branch
+  branch_address: Navoi
+  branch_code: NAV
+  city: Navoi
+  country: Uzbekistan
+- name: Turon Joint-stock Commercial Bank
+  swift: TUROUZ21NUK
+  swift8: TUROUZ21
+  branch_name: Nukus Branch
+  branch_address: Nukus
+  branch_code: NUK
+  city: Nukus
+  country: Uzbekistan
+- name: Turon Joint-stock Commercial Bank
+  swift: TUROUZ21SAM
+  swift8: TUROUZ21
+  branch_name: Samarkand Branch
+  branch_address: Samarkand
+  branch_code: SAM
+  city: Samarkand
+  country: Uzbekistan
+- name: Turon Joint-stock Commercial Bank
+  swift: TUROUZ21SHK
+  swift8: TUROUZ21
+  branch_name: Shakhrisabz Branch
+  branch_address: Shakhrisabz
+  branch_code: SHK
+  city: Shakhrisabz
+  country: Uzbekistan
+- name: Turon Joint-stock Commercial Bank
+  swift: TUROUZ21SUR
+  swift8: TUROUZ21
+  branch_name: Surkhandarya Branch
+  branch_address: Termez
+  branch_code: SUR
+  city: Termez
+  country: Uzbekistan
+- name: Turon Joint-stock Commercial Bank
+  swift: TUROUZ21SYR
+  swift8: TUROUZ21
+  branch_name: Syrdarya Branch
+  branch_address: Gulistan
+  branch_code: SYR
+  city: Gulistan
+  country: Uzbekistan
+- name: Turon Joint-stock Commercial Bank
+  swift: TUROUZ21ZAN
+  swift8: TUROUZ21
+  branch_name: Zangiota Branch
+  branch_address: Zangiota
+  branch_code: ZAN
+  city: Zangiota
+  country: Uzbekistan
+- name: Turon Joint-stock Commercial Bank
+  swift: TUROUZ22XXX
+  swift8: TUROUZ22
+  branch_name: Head Office
+  branch_address: 0.166666666666667 700011 Tashkent
+  branch_code: XXX
+  city: Tashkent
+  country: Uzbekistan
+- name: Universal Bank Private Joint-stock Commercial Bank
+  swift: POUNUZ21XXX
+  swift8: POUNUZ21
+  branch_name: Head Office
+  branch_address: 18 Istiklol Street 713000 Kokany
+  branch_code: XXX
+  city: City / Kokany
+  country: Uzbekistan
+- name: Universal Broker's Exchange 'tashkent'
+  swift: XUNIUZ21XXX
+  swift8: XUNIUZ21
+  branch_name: Head Office
+  branch_address: Pr-T Uzbekistansky 45 Tashkent
+  branch_code: XXX
+  city: Tashkent
+  country: Uzbekistan
+- name: Universal Commodity Exchange 'tashkent'
+  swift: XCETUZ21XXX
+  swift8: XCETUZ21
+  branch_name: Head Office
+  branch_address: Pr-T Druzhba Narodov 100 Tashkent
+  branch_code: XXX
+  city: Tashkent
+  country: Uzbekistan
+- name: Ut-bank
+  swift: UZTUUZ22XXX
+  swift8: UZTUUZ22
+  branch_name: Head Office
+  branch_address: Ut-Bank 700043 Tashkent
+  branch_code: XXX
+  city: Tashkent
+  country: Uzbekistan
+- name: Uzbekistan Republican Currency Exchange, The
+  swift: XCUEUZ21XXX
+  swift8: XCUEUZ21
+  branch_name: Head Office
+  branch_address: Pr-T Uzbekistansky 6 Tashkent
+  branch_code: XXX
+  city: Tashkent
+  country: Uzbekistan
+- name: Uzbekistan Stock Exchange
+  swift: XSTEUZ21XXX
+  swift8: XSTEUZ21
+  branch_name: Head Office
+  branch_address: 10, Bukhoro St. 700047 Tashkent
+  branch_code: XXX
+  city: Tashkent
+  country: Uzbekistan

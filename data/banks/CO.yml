@@ -1,0 +1,1337 @@
+---
+CO:
+- name: Banco Agrario De Colombia S.A. (Formerly Caja De Credito Agrario Industrial
+    Y Minero)
+  swift: CCAICOBBXXX
+  swift8: CCAICOBB
+  branch_name: Head Office
+  branch_address: Caja Agraria Building Bogota
+  branch_code: XXX
+  city: Bogota
+  country: Colombia
+- name: Banco Av Villas S.A.
+  swift: BAVICOBBXXX
+  swift8: BAVICOBB
+  branch_name: Head Office
+  branch_address: Kr 13 N 27 47 Bogota
+  branch_code: XXX
+  city: Bogota
+  country: Colombia
+- name: Banco Bilbao Vizcaya Argentaria Colombia S.A.
+  swift: GEROCOBBBO1
+  swift8: GEROCOBB
+  branch_name: Headquarters
+  branch_address: Bogota
+  branch_code: BO1
+  city: Bogota
+  country: Colombia
+- name: Banco Bilbao Vizcaya Argentaria Colombia S.A.
+  swift: GEROCOBBXXX
+  swift8: GEROCOBB
+  branch_name: Head Office
+  branch_address: Carrera 9 72-21 Bogota
+  branch_code: XXX
+  city: Bogota
+  country: Colombia
+- name: Banco Caja Social
+  swift: CASOCOBBXXX
+  swift8: CASOCOBB
+  branch_name: Head Office
+  branch_address: Carrera 7, 77-65 Bogota
+  branch_code: XXX
+  city: Bogota
+  country: Colombia
+- name: Banco Colpatria
+  swift: COLPCOBBXXX
+  swift8: COLPCOBB
+  branch_name: Head Office
+  branch_address: Torre Colpatria Bogota
+  branch_code: XXX
+  city: Bogota
+  country: Colombia
+- name: Banco Davivienda S.A.(Formerly Granbanco Bancafe S.A.)
+  swift: CAFECOBBBAQ
+  swift8: CAFECOBB
+  branch_name: Barranquilla
+  branch_address: Gerencia Regional Barranquilla
+  branch_code: BAQ
+  city: Barranquilla
+  country: Colombia
+- name: Banco Davivienda S.A.(Formerly Granbanco Bancafe S.A.)
+  swift: CAFECOBBXXX
+  swift8: CAFECOBB
+  branch_name: Head Office
+  branch_address: Bancafe Building Bogota
+  branch_code: XXX
+  city: Bogota
+  country: Colombia
+- name: Banco Davivienda S.A.(Formerly Granbanco Bancafe S.A.)
+  swift: CAFECOBBCL1
+  swift8: CAFECOBB
+  branch_name: Cali
+  branch_address: Gerencia Regional Cali
+  branch_code: CL1
+  city: Cali
+  country: Colombia
+- name: Banco Davivienda S.A.(Formerly Granbanco Bancafe S.A.)
+  swift: CAFECOBBMD1
+  swift8: CAFECOBB
+  branch_name: Medellin
+  branch_address: Gerencia Regional Medellin
+  branch_code: MD1
+  city: Medellin
+  country: Colombia
+- name: Banco De Bogota
+  swift: BBOGCOBBBAQ
+  swift8: BBOGCOBB
+  branch_name: Barranquilla
+  branch_address: Barranquilla
+  branch_code: BAQ
+  city: Barranquilla
+  country: Colombia
+- name: Banco De Bogota
+  swift: BBOGCOBBBGA
+  swift8: BBOGCOBB
+  branch_name: Bucaramanga
+  branch_address: Bucaramanga
+  branch_code: BGA
+  city: Bucaramanga
+  country: Colombia
+- name: Banco De Bogota
+  swift: BBOGCOBBCL1
+  swift8: BBOGCOBB
+  branch_name: Cali
+  branch_address: Cali
+  branch_code: CL1
+  city: Cali
+  country: Colombia
+- name: Banco De Bogota
+  swift: BBOGCOBBCTG
+  swift8: BBOGCOBB
+  branch_name: Cartagena
+  branch_address: Cartagena
+  branch_code: CTG
+  city: Cartagena
+  country: Colombia
+- name: Banco De Bogota
+  swift: BBOGCOBBCUC
+  swift8: BBOGCOBB
+  branch_name: Cucuta
+  branch_address: Cucuta
+  branch_code: CUC
+  city: Cucuta
+  country: Colombia
+- name: Banco De Bogota
+  swift: BBOGCOBBMZ1
+  swift8: BBOGCOBB
+  branch_name: Manizales
+  branch_address: Manizales
+  branch_code: MZ1
+  city: Manizales
+  country: Colombia
+- name: Banco De Bogota
+  swift: BBOGCOBBBO1
+  swift8: BBOGCOBB
+  branch_name: Headquarters Offices
+  branch_address: Bogota
+  branch_code: BO1
+  city: Bogota
+  country: Colombia
+- name: Banco De Bogota
+  swift: BBOGCOBBXXX
+  swift8: BBOGCOBB
+  branch_name: Head Office
+  branch_address: Gustavo Eduardo Fontecha 131 Bogota
+  branch_code: XXX
+  city: Bogota
+  country: Colombia
+- name: Banco De Bogota
+  swift: BBOGCOBBMD1
+  swift8: BBOGCOBB
+  branch_name: Medellin
+  branch_address: Medellin
+  branch_code: MD1
+  city: Medellin
+  country: Colombia
+- name: Banco De Bogota
+  swift: BBOGCOBBPEI
+  swift8: BBOGCOBB
+  branch_name: Pereira
+  branch_address: Pereira
+  branch_code: PEI
+  city: Pereira
+  country: Colombia
+- name: Banco De Bogota
+  swift: BBOGCOBBADZ
+  swift8: BBOGCOBB
+  branch_name: San Andres
+  branch_address: San Andres
+  branch_code: ADZ
+  city: San Andres
+  country: Colombia
+- name: Banco De Comercio Exterior S.A.
+  swift: BCEXCOBBXXX
+  swift8: BCEXCOBB
+  branch_name: Head Office
+  branch_address: Calle 28 13 a 15 Bogota
+  branch_code: XXX
+  city: Bogota
+  country: Colombia
+- name: Banco De La Republica
+  swift: BREPCOBBXXX
+  swift8: BREPCOBB
+  branch_name: Head Office
+  branch_address: Carrera 7 14-78 Bogota
+  branch_code: XXX
+  city: Bogota
+  country: Colombia
+- name: Banco De Occidente
+  swift: OCCICOBCBAQ
+  swift8: OCCICOBC
+  branch_name: Barranquilla
+  branch_address: Barranquilla
+  branch_code: BAQ
+  city: Barranquilla
+  country: Colombia
+- name: Banco De Occidente
+  swift: OCCICOBCBO2
+  swift8: OCCICOBC
+  branch_name: Bogota
+  branch_address: Bogota
+  branch_code: BO2
+  city: Bogota
+  country: Colombia
+- name: Banco De Occidente
+  swift: OCCICOBCBGA
+  swift8: OCCICOBC
+  branch_name: Bucaramanga
+  branch_address: Bucaramanga
+  branch_code: BGA
+  city: Bucaramanga
+  country: Colombia
+- name: Banco De Occidente
+  swift: OCCICOBCCL1
+  swift8: OCCICOBC
+  branch_name: Branch
+  branch_address: Cali
+  branch_code: CL1
+  city: Cali
+  country: Colombia
+- name: Banco De Occidente
+  swift: OCCICOBCXXX
+  swift8: OCCICOBC
+  branch_name: Headquarters
+  branch_address: Banco De Occidente Cali
+  branch_code: XXX
+  city: Cali
+  country: Colombia
+- name: Banco De Occidente
+  swift: OCCICOBCCTG
+  swift8: OCCICOBC
+  branch_name: Cartagena
+  branch_address: Cartagena
+  branch_code: CTG
+  city: Cartagena
+  country: Colombia
+- name: Banco De Occidente
+  swift: OCCICOBCMD4
+  swift8: OCCICOBC
+  branch_name: Medellin
+  branch_address: Medellin
+  branch_code: MD4
+  city: Medellin
+  country: Colombia
+- name: Banco De Occidente
+  swift: OCCICOBCADZ
+  swift8: OCCICOBC
+  branch_name: San Andres
+  branch_address: San Andres
+  branch_code: ADZ
+  city: San Andres
+  country: Colombia
+- name: Banco Gnb Sudameris
+  swift: BSUDCOBBBAQ
+  swift8: BSUDCOBB
+  branch_name: Barranquilla
+  branch_address: Barranquilla
+  branch_code: BAQ
+  city: Barranquilla
+  country: Colombia
+- name: Banco Gnb Sudameris
+  swift: BSUDCOBBXXX
+  swift8: BSUDCOBB
+  branch_name: Head Office
+  branch_address: Carrera 8, 15-42 Bogota
+  branch_code: XXX
+  city: Bogota
+  country: Colombia
+- name: Banco Gnb Sudameris
+  swift: BSUDCOBBCL1
+  swift8: BSUDCOBB
+  branch_name: Cali
+  branch_address: Cali
+  branch_code: CL1
+  city: Cali
+  country: Colombia
+- name: Banco Gnb Sudameris
+  swift: BSUDCOBBCTG
+  swift8: BSUDCOBB
+  branch_name: Cartagena
+  branch_address: Cartagena
+  branch_code: CTG
+  city: Cartagena
+  country: Colombia
+- name: Banco Gnb Sudameris
+  swift: BSUDCOBBBGA
+  swift8: BSUDCOBB
+  branch_name: Bucaramanga
+  branch_address: Bucaramanga
+  branch_code: BGA
+  city: Bucaramanga
+  country: Colombia
+- name: Banco Gnb Sudameris
+  swift: BSUDCOBBMZ1
+  swift8: BSUDCOBB
+  branch_name: Manizales
+  branch_address: Manizales
+  branch_code: MZ1
+  city: Manizales
+  country: Colombia
+- name: Banco Gnb Sudameris
+  swift: BSUDCOBBMD1
+  swift8: BSUDCOBB
+  branch_name: Medellin
+  branch_address: Medellin
+  branch_code: MD1
+  city: Medellin
+  country: Colombia
+- name: Banco Popular-Colombia
+  swift: BPOPCOBBAXM
+  swift8: BPOPCOBB
+  branch_name: Armenia
+  branch_address: Armenia
+  branch_code: AXM
+  city: Armenia
+  country: Colombia
+- name: Banco Popular-Colombia
+  swift: BPOPCOBBBAQ
+  swift8: BPOPCOBB
+  branch_name: Zona Norte
+  branch_address: Barranquilla
+  branch_code: BAQ
+  city: Barranquilla
+  country: Colombia
+- name: Banco Popular-Colombia
+  swift: BPOPCOBBBO1
+  swift8: BPOPCOBB
+  branch_name: Zona 1
+  branch_address: Bogota
+  branch_code: BO1
+  city: Bogota
+  country: Colombia
+- name: Banco Popular-Colombia
+  swift: BPOPCOBBBO2
+  swift8: BPOPCOBB
+  branch_name: Zona 2
+  branch_address: Bogota
+  branch_code: BO2
+  city: Bogota
+  country: Colombia
+- name: Banco Popular-Colombia
+  swift: BPOPCOBBBO3
+  swift8: BPOPCOBB
+  branch_name: Zona 3
+  branch_address: Bogota
+  branch_code: BO3
+  city: Bogota
+  country: Colombia
+- name: Banco Popular-Colombia
+  swift: BPOPCOBBXXX
+  swift8: BPOPCOBB
+  branch_name: Headquarters
+  branch_address: Calle 17 7-43 Bogota
+  branch_code: XXX
+  city: Bogota
+  country: Colombia
+- name: Banco Popular-Colombia
+  swift: BPOPCOBBBGA
+  swift8: BPOPCOBB
+  branch_name: Zona Oriental
+  branch_address: Bucaramanga
+  branch_code: BGA
+  city: Bucaramanga
+  country: Colombia
+- name: Banco Popular-Colombia
+  swift: BPOPCOBBCTG
+  swift8: BPOPCOBB
+  branch_name: Cartagena
+  branch_address: Cartagena
+  branch_code: CTG
+  city: Cartagena
+  country: Colombia
+- name: Banco Popular-Colombia
+  swift: BPOPCOBBIBE
+  swift8: BPOPCOBB
+  branch_name: Zona Central
+  branch_address: Ibague
+  branch_code: IBE
+  city: Ibague
+  country: Colombia
+- name: Banco Popular-Colombia
+  swift: BPOPCOBBMZ1
+  swift8: BPOPCOBB
+  branch_name: Manizales
+  branch_address: Manizales
+  branch_code: MZ1
+  city: Manizales
+  country: Colombia
+- name: Banco Popular-Colombia
+  swift: BPOPCOBBMD1
+  swift8: BPOPCOBB
+  branch_name: Zona Noroccidental
+  branch_address: Medellin
+  branch_code: MD1
+  city: Medellin
+  country: Colombia
+- name: Banco Popular-Colombia
+  swift: BPOPCOBBPEI
+  swift8: BPOPCOBB
+  branch_name: Pereira
+  branch_address: Pereira
+  branch_code: PEI
+  city: Pereira
+  country: Colombia
+- name: Banco Popular-Colombia
+  swift: BPOPCOBBADZ
+  swift8: BPOPCOBB
+  branch_name: San Andres
+  branch_address: San Andres
+  branch_code: ADZ
+  city: San Andres
+  country: Colombia
+- name: Banco Popular-Colombia
+  swift: BPOPCOBBCL1
+  swift8: BPOPCOBB
+  branch_name: Zona Sur
+  branch_address: Cali
+  branch_code: CL1
+  city: Cali
+  country: Colombia
+- name: Banco Procredit Colombia Sa
+  swift: PRCBCOBBXXX
+  swift8: PRCBCOBB
+  branch_name: Head Office
+  branch_address: Procredit Building Bogota
+  branch_code: XXX
+  city: Bogota
+  country: Colombia
+- name: Banco Santander Colombia S.A.
+  swift: BSCHCOBBBAQ
+  swift8: BSCHCOBB
+  branch_name: Barranquilla
+  branch_address: Calle 79 55-13 Barranquilla
+  branch_code: BAQ
+  city: Barranquilla
+  country: Colombia
+- name: Banco Santander Colombia S.A.
+  swift: BSCHCOBBBO1
+  swift8: BSCHCOBB
+  branch_name: Bogota
+  branch_address: Edificio Bavaria Torre a Bogota
+  branch_code: BO1
+  city: Bogota
+  country: Colombia
+- name: Banco Santander Colombia S.A.
+  swift: BSCHCOBBSSC
+  swift8: BSCHCOBB
+  branch_name: Security Services Colombia
+  branch_address: Bogota
+  branch_code: SSC
+  city: Bogota
+  country: Colombia
+- name: Banco Santander Colombia S.A.
+  swift: BSCHCOBBXXX
+  swift8: BSCHCOBB
+  branch_name: Head Office
+  branch_address: Carrera 7 N 99-21 Bogota
+  branch_code: XXX
+  city: Bogota
+  country: Colombia
+- name: Banco Santander Colombia S.A.
+  swift: BSCHCOBBCL1
+  swift8: BSCHCOBB
+  branch_name: Cali
+  branch_address: Calle 12 5-75 Cali
+  branch_code: CL1
+  city: Cali
+  country: Colombia
+- name: Bancolombia S.A.
+  swift: COLOCOBMBAQ
+  swift8: COLOCOBM
+  branch_name: Barranquilla
+  branch_address: Edificio Fincar Barranquilla
+  branch_code: BAQ
+  city: Barranquilla
+  country: Colombia
+- name: Bancolombia S.A.
+  swift: COLOCOBMBGA
+  swift8: COLOCOBM
+  branch_name: Bucaramanga
+  branch_address: Carrera 18 35-02 Bucaramanga
+  branch_code: BGA
+  city: Bucaramanga
+  country: Colombia
+- name: Bancolombia S.A.
+  swift: COLOCOBMCL1
+  swift8: COLOCOBM
+  branch_name: Cali
+  branch_address: Edificio Torre De Cali Cali
+  branch_code: CL1
+  city: Cali
+  country: Colombia
+- name: Bancolombia S.A.
+  swift: COLOCOBMCTG
+  swift8: COLOCOBM
+  branch_name: Cartagena
+  branch_address: La Matuna Edificio Cartagena
+  branch_code: CTG
+  city: Cartagena
+  country: Colombia
+- name: Bancolombia S.A.
+  swift: COLOCOBMMD1
+  swift8: COLOCOBM
+  branch_name: Medellin
+  branch_address: Calle 50 51-01 Medellin
+  branch_code: MD1
+  city: Medellin
+  country: Colombia
+- name: Bancolombia S.A.
+  swift: COLOCOBMXXX
+  swift8: COLOCOBM
+  branch_name: Head Office
+  branch_address: Carrera 52 Nr 50-20 Medellin
+  branch_code: XXX
+  city: Medellin
+  country: Colombia
+- name: Bancolombia S.A.
+  swift: COLOCOBMPEI
+  swift8: COLOCOBM
+  branch_name: Pereira
+  branch_address: Carrera 8 17-50 Pereira
+  branch_code: PEI
+  city: Pereira
+  country: Colombia
+- name: Bnp Paribas Colombia Corporacion Financiera S.A.
+  swift: BNPACOBBXXX
+  swift8: BNPACOBB
+  branch_name: Head Office
+  branch_address: Word Trade Center Bogota
+  branch_code: XXX
+  city: Bogota
+  country: Colombia
+- name: Bnp Paribas Colombia Corporacion Financiera S.A.
+  swift: BNPACOBBB2S
+  swift8: BNPACOBB
+  branch_name: Securities Services
+  branch_address: Bogota
+  branch_code: B2S
+  city: Bogota
+  country: Colombia
+- name: Camara De Compensacion De Divisas De Colombia S.A.
+  swift: CCDCCOBBXXX
+  swift8: CCDCCOBB
+  branch_name: Head Office
+  branch_address: Centro De Negocios El Nogal Bogota
+  branch_code: XXX
+  city: Bogota
+  country: Colombia
+- name: Citibank Colombia
+  swift: CITICOBBXXX
+  swift8: CITICOBB
+  branch_name: Head Office
+  branch_address: Edificio Calle 100, Cra 9a 99-02 Bogota
+  branch_code: XXX
+  city: Bogota
+  country: Colombia
+- name: Coltefinanciera S.A. Compania De Financiamiento Comercial
+  swift: CLTECOBMXXX
+  swift8: CLTECOBM
+  branch_name: Head Office
+  branch_address: Ed. Coltejeer Medellin
+  branch_code: XXX
+  city: Medellin
+  country: Colombia
+- name: Compania De Profesionales De Bolsa S.A.
+  swift: PDBCCOBBXXX
+  swift8: PDBCCOBB
+  branch_name: Head Office
+  branch_address: Calle 93b No12-18 Bogota
+  branch_code: XXX
+  city: Bogota
+  country: Colombia
+- name: Corporacion Financiera Colombiana (Formerly Corporacion Financiera Del Valle
+    S.A.)
+  swift: CFVACOBCBAQ
+  swift8: CFVACOBC
+  branch_name: Barranquilla Agency
+  branch_address: Barranquilla
+  branch_code: BAQ
+  city: Barranquilla
+  country: Colombia
+- name: Corporacion Financiera Colombiana (Formerly Corporacion Financiera Del Valle
+    S.A.)
+  swift: CFVACOBCBO1
+  swift8: CFVACOBC
+  branch_name: Bogota Agency
+  branch_address: Bogota
+  branch_code: BO1
+  city: Bogota
+  country: Colombia
+- name: Corporacion Financiera Colombiana (Formerly Corporacion Financiera Del Valle
+    S.A.)
+  swift: CFVACOBCCL1
+  swift8: CFVACOBC
+  branch_name: International Branch
+  branch_address: Cali
+  branch_code: CL1
+  city: Cali
+  country: Colombia
+- name: Corporacion Financiera Colombiana (Formerly Corporacion Financiera Del Valle
+    S.A.)
+  swift: CFVACOBCFXO
+  swift8: CFVACOBC
+  branch_name: Cali
+  branch_address: Cali
+  branch_code: FXO
+  city: Cali
+  country: Colombia
+- name: Corporacion Financiera Colombiana (Formerly Corporacion Financiera Del Valle
+    S.A.)
+  swift: CFVACOBCXXX
+  swift8: CFVACOBC
+  branch_name: Headquarters
+  branch_address: Calle 10 4-47 Cali
+  branch_code: XXX
+  city: Cali
+  country: Colombia
+- name: Corporacion Financiera Colombiana (Formerly Corporacion Financiera Del Valle
+    S.A.)
+  swift: CFVACOBCMD1
+  swift8: CFVACOBC
+  branch_name: Medellin Agency
+  branch_address: Medellin
+  branch_code: MD1
+  city: Medellin
+  country: Colombia
+- name: Correval S.A.
+  swift: CRVLCOBBXXX
+  swift8: CRVLCOBB
+  branch_name: Head Office
+  branch_address: Calle 34 No.6-65 Bogota
+  branch_code: XXX
+  city: Bogota
+  country: Colombia
+- name: Ecopetrol S.A.
+  swift: ECOPCOBBXXX
+  swift8: ECOPCOBB
+  branch_name: Head Office
+  branch_address: Guadelupe Bogota
+  branch_code: XXX
+  city: Bogota
+  country: Colombia
+- name: Fiduciaria Bogota
+  swift: FBOGCOBBXXX
+  swift8: FBOGCOBB
+  branch_name: Head Office
+  branch_address: Building Caracol Bogota
+  branch_code: XXX
+  city: Bogota
+  country: Colombia
+- name: Financiera Energetica Nacional S.A.
+  swift: FENSCOBBXXX
+  swift8: FENSCOBB
+  branch_name: Head Office
+  branch_address: Torre B Bogota
+  branch_code: XXX
+  city: Bogota
+  country: Colombia
+- name: Fondo De Garantias De Instituciones Financieras
+  swift: FOGICOBBXXX
+  swift8: FOGICOBB
+  branch_name: Head Office
+  branch_address: Carrera 7 No. 35-40 Bogota
+  branch_code: XXX
+  city: Bogota
+  country: Colombia
+- name: Fondo Latinoamericano De Reservas
+  swift: FLARCOBBXXX
+  swift8: FLARCOBB
+  branch_name: Head Office
+  branch_address: Edificio Interbolsa 241523 Bogota
+  branch_code: XXX
+  city: Bogota
+  country: Colombia
+- name: Giros Y Finanzas C.F.C. S.A.
+  swift: GYDVCOBCXXX
+  swift8: GYDVCOBC
+  branch_name: Head Office
+  branch_address: Cl 4 27 52 San Fernando Cali
+  branch_code: XXX
+  city: Cali
+  country: Colombia
+- name: Helm Bank
+  swift: BCTOCOBBBAQ
+  swift8: BCTOCOBB
+  branch_name: Barranquilla
+  branch_address: Carra 54, 72-73 Barranquilla
+  branch_code: BAQ
+  city: Barranquilla
+  country: Colombia
+- name: Helm Bank
+  swift: BCTOCOBBCL1
+  swift8: BCTOCOBB
+  branch_name: Cali
+  branch_address: Calle 13, 4-13 Cali
+  branch_code: CL1
+  city: Cali
+  country: Colombia
+- name: Helm Bank
+  swift: BCTOCOBBXXX
+  swift8: BCTOCOBB
+  branch_name: Head Office
+  branch_address: Carrera 69 No. 98 a 11 6800 Bogota
+  branch_code: XXX
+  city: Bogota
+  country: Colombia
+- name: Helm Bank
+  swift: BCTOCOBBMD1
+  swift8: BCTOCOBB
+  branch_name: Medellin
+  branch_address: Carrera 46 53-44 Medellin
+  branch_code: MD1
+  city: Medellin
+  country: Colombia
+- name: Jpmorgan Corporacion Financiera S.A.
+  swift: CHASCOBBXXX
+  swift8: CHASCOBB
+  branch_name: Head Office
+  branch_address: Ing Building Bogota
+  branch_code: XXX
+  city: Bogota
+  country: Colombia
+- name: Macrofinanciera, S.A.
+  swift: MCTBCOBBXXX
+  swift8: MCTBCOBB
+  branch_name: Head Office
+  branch_address: Carrera 7 No. 73-47 Bogota
+  branch_code: XXX
+  city: Bogota
+  country: Colombia
+- name: Polipropileno Del Caribe S.A.
+  swift: PPCOCOBBXXX
+  swift8: PPCOCOBB
+  branch_name: Head Office
+  branch_address: Edificio Bavaria Bogota
+  branch_code: XXX
+  city: Bogota
+  country: Colombia
+- name: Banco Interamericano De Desarrollo
+  swift: BOIDCOB1XXX
+  swift8: BOIDCOB1
+  branch_name: Head Office
+  branch_address: Avenida 40a 13-09 Bogota
+  branch_code: XXX
+  city: Bogota
+  country: Colombia
+- name: Acciones Y Valores S.a.
+  swift: ACVRCOB1XXX
+  swift8: ACVRCOB1
+  branch_name: Head Office
+  branch_address: Acciones Y Valores Bogota
+  branch_code: XXX
+  city: Bogota
+  country: Colombia
+- name: Alliance Enterprise S.a.s.
+  swift: HUBCCOBBLWE
+  swift8: HUBCCOBB
+  branch_name: Lowe Ssp-3 Sa
+  branch_address: Cra. 9 N. 79-A-19 Piso 6 Bogota
+  branch_code: LWE
+  city: Bogota
+  country: Colombia
+- name: Alliance Enterprise S.a.s.
+  swift: HUBCCOBBXXX
+  swift8: HUBCCOBB
+  branch_name: Head Office
+  branch_address: Kra. 7 N. 114-33 Bogota
+  branch_code: XXX
+  city: Bogota
+  country: Colombia
+- name: Ascredibanco
+  swift: ASCRCOB1XXX
+  swift8: ASCRCOB1
+  branch_name: Head Office
+  branch_address: Calle 726-12 Bogota
+  branch_code: XXX
+  city: Bogota
+  country: Colombia
+- name: Banco Falabella S.a.
+  swift: FALACOBBXXX
+  swift8: FALACOBB
+  branch_name: Head Office
+  branch_address: Edificio Banco Falabella 11001000 Bogota
+  branch_code: XXX
+  city: Bogota
+  country: Colombia
+- name: Banco Mundial
+  swift: BMUNCOB1XXX
+  swift8: BMUNCOB1
+  branch_name: Head Office
+  branch_address: Carrera 10 24-55 Bogota
+  branch_code: XXX
+  city: Bogota
+  country: Colombia
+- name: Banco Pichincha S.a.
+  swift: PICHCOBBXXX
+  swift8: PICHCOBB
+  branch_name: Head Office
+  branch_address: 92-09 Carrera 11 11001 Bogota
+  branch_code: XXX
+  city: Bogota
+  country: Colombia
+- name: Banco Santander De Negocios Colombia S.a.
+  swift: SANTCOBBXXX
+  swift8: SANTCOBB
+  branch_name: No branch name
+  branch_address: No branch address
+  branch_code: XXX
+  city: Bogota
+  country: Colombia
+- name: Baring Securities (andean Pact) Ltd
+  swift: BSECCOB1XXX
+  swift8: BSECCOB1
+  branch_name: Head Office
+  branch_address: Carrera 7 71-52 Bogota
+  branch_code: XXX
+  city: Bogota
+  country: Colombia
+- name: Bavaria S.a.
+  swift: BAVRCOB1XXX
+  swift8: BAVRCOB1
+  branch_name: Head Office
+  branch_address: Calle 94 No. 7 a 47 Bogota
+  branch_code: XXX
+  city: Bogota
+  country: Colombia
+- name: Bolsa De Valores De Colombia S.a
+  swift: XBOGCOB1XXX
+  swift8: XBOGCOB1
+  branch_name: Head Office
+  branch_address: Carrera 7 No 71-21 Bogota
+  branch_code: XXX
+  city: Bogota
+  country: Colombia
+- name: Bolsa Y Renta Comisionista De Bolsa
+  swift: BRMBCOB1XXX
+  swift8: BRMBCOB1
+  branch_name: Head Office
+  branch_address: Cra 43a 1-50 Medellin
+  branch_code: XXX
+  city: Medellin
+  country: Colombia
+- name: Caja Popular Cooperativa Ltda
+  swift: CAPCCOB1XXX
+  swift8: CAPCCOB1
+  branch_name: Head Office
+  branch_address: Calle 19 10-40 Bogota
+  branch_code: XXX
+  city: Bogota
+  country: Colombia
+- name: Cenit Transporte Y Logistica De Hidrocarburos S.a.s.
+  swift: CTLHCOBBXXX
+  swift8: CTLHCOBB
+  branch_name: No branch name
+  branch_address: No branch address
+  branch_code: XXX
+  city: Bogota
+  country: Colombia
+- name: Cerveceria Del Valle S.a.
+  swift: CEVACOB1XXX
+  swift8: CEVACOB1
+  branch_name: Head Office
+  branch_address: Calle 94 No. 7 a 47 Bogota
+  branch_code: XXX
+  city: Bogota
+  country: Colombia
+- name: Cerveceria Union S.a.
+  swift: CEUNCOB1XXX
+  swift8: CEUNCOB1
+  branch_name: Head Office
+  branch_address: Calle 94 No. 7 a 47 Bogota
+  branch_code: XXX
+  city: Bogota
+  country: Colombia
+- name: Citibank
+  swift: CITICO21XXX
+  swift8: CITICO21
+  branch_name: Head Office
+  branch_address: Centenario Bogota
+  branch_code: XXX
+  city: Bogota
+  country: Colombia
+- name: Cititrust Bogota
+  swift: CTRUCOB1XXX
+  swift8: CTRUCOB1
+  branch_name: Head Office
+  branch_address: Carrera Novena 99.02 Bogota
+  branch_code: XXX
+  city: Bogota
+  country: Colombia
+- name: Colombia Movil Sa Esp
+  swift: TIGOCOBBXXX
+  swift8: TIGOCOBB
+  branch_name: Head Office
+  branch_address: Edificio Citibank Bogota
+  branch_code: XXX
+  city: Bogota
+  country: Colombia
+- name: Coltejer S.a
+  swift: COLJCOB1XXX
+  swift8: COLJCOB1
+  branch_name: Head Office
+  branch_address: Calle 62, 44-77 Itagui
+  branch_code: XXX
+  city: Itagui
+  country: Colombia
+- name: Compania De Ahorro E Vivienda Colmena
+  swift: CAVCCOB1XXX
+  swift8: CAVCCOB1
+  branch_name: Head Office
+  branch_address: Cl. 31 a 6-90 P3 Bogota
+  branch_code: XXX
+  city: Bogota
+  country: Colombia
+- name: Compania Financiera Internacional Sa
+  swift: FINCCOB1XXX
+  swift8: FINCCOB1
+  branch_name: Head Office
+  branch_address: Carrea 10 27-51 Bogota
+  branch_code: XXX
+  city: Bogota
+  country: Colombia
+- name: Compania General De Inversiones Ltda
+  swift: COGICOB1XXX
+  swift8: COGICOB1
+  branch_name: Head Office
+  branch_address: Carrera 7 26-20 Bogota
+  branch_code: XXX
+  city: Bogota
+  country: Colombia
+- name: Compania Global De Pinturas S.a.
+  swift: COOLCOB1XXX
+  swift8: COOLCOB1
+  branch_name: Head Office
+  branch_address: Calle 19a 43b-41 Medellin
+  branch_code: XXX
+  city: Medellin
+  country: Colombia
+- name: Consorcio Fiducolombia Fiducomercio Municipio Sant
+  swift: CFFMCOB1XXX
+  swift8: CFFMCOB1
+  branch_name: Head Office
+  branch_address: Cll 10-5, 45 Cali
+  branch_code: XXX
+  city: Cali
+  country: Colombia
+- name: Cooperativa Financiera De Antioquia, Cfa
+  swift: FIACCOB1XXX
+  swift8: FIACCOB1
+  branch_name: Head Office
+  branch_address: Carrera 13 38-35 Bogota
+  branch_code: XXX
+  city: Bogota
+  country: Colombia
+- name: Corporacion De Ahorro E Vivienda Del Valle
+  swift: CAVVCOB1XXX
+  swift8: CAVVCOB1
+  branch_name: Head Office
+  branch_address: Avenida Chile 8-24 Bogota
+  branch_code: XXX
+  city: Bogota
+  country: Colombia
+- name: Corporacion De Ahorro Y Vivienda Las Villas
+  swift: CAHVCOB1XXX
+  swift8: CAHVCOB1
+  branch_name: Head Office
+  branch_address: Carrera 13 Bogota
+  branch_code: XXX
+  city: Bogota
+  country: Colombia
+- name: Corporacion Financiera Aliadas
+  swift: CFALCOB1XXX
+  swift8: CFALCOB1
+  branch_name: Head Office
+  branch_address: Carrera 13 27-84 Bogota
+  branch_code: XXX
+  city: Bogota
+  country: Colombia
+- name: Corporacion Financiera De Caldas S.a.
+  swift: CFCACOB10B2
+  swift8: CFCACOB1
+  branch_name: Branch Office
+  branch_address: Carrera 22 18-21 Manizales
+  branch_code: 0B2
+  city: Manizales
+  country: Colombia
+- name: Corporacion Financiera De Caldas S.a.
+  swift: CFCACOB10BB
+  swift8: CFCACOB1
+  branch_name: Bogota
+  branch_address: Carrera 10 28-49 Bogota
+  branch_code: 0BB
+  city: Bogota
+  country: Colombia
+- name: Corporacion Financiera De Caldas S.a.
+  swift: CFCACOB10BC
+  swift8: CFCACOB1
+  branch_name: Cali
+  branch_address: Avenida 5 a 22n-69 Cali
+  branch_code: 0BC
+  city: Cali
+  country: Colombia
+- name: Corporacion Financiera De Caldas S.a.
+  swift: CFCACOB10BM
+  swift8: CFCACOB1
+  branch_name: Medellin
+  branch_address: Calle 56 46-04 Torre Argos Medellin
+  branch_code: 0BM
+  city: Medellin
+  country: Colombia
+- name: Corporacion Financiera De Caldas S.a.
+  swift: CFCACOB1XXX
+  swift8: CFCACOB1
+  branch_name: Head Office
+  branch_address: Carrera 22 18-21 Manizales
+  branch_code: XXX
+  city: Manizales
+  country: Colombia
+- name: Corporacion Financiera De Occidente S.a.
+  swift: CFOPCOB1XXX
+  swift8: CFOPCOB1
+  branch_name: Head Office
+  branch_address: Calle 19 8-34 Pereira Bogota
+  branch_code: XXX
+  city: Bogota
+  country: Colombia
+- name: Corporacion Financiera De Santander
+  swift: CORFCOB1XXX
+  swift8: CORFCOB1
+  branch_name: Head Office
+  branch_address: Edificio Bancoquia Bucaramanga
+  branch_code: XXX
+  city: Bucaramanga
+  country: Colombia
+- name: Corporacion Financiera Del Tolima Sa
+  swift: CFTOCOB1XXX
+  swift8: CFTOCOB1
+  branch_name: Head Office
+  branch_address: Carrera 7 26-20 Bogota
+  branch_code: XXX
+  city: Bogota
+  country: Colombia
+- name: Corporacion Financiera Del Transporte S.a.
+  swift: TRFCCOB10BM
+  swift8: TRFCCOB1
+  branch_name: Medellin
+  branch_address: Avenida 33 74b-202 Medellin
+  branch_code: 0BM
+  city: Medellin
+  country: Colombia
+- name: Corporacion Financiera Del Transporte S.a.
+  swift: TRFCCOB1XXX
+  swift8: TRFCCOB1
+  branch_name: Head Office
+  branch_address: Carrera 18 80-92 Bogota
+  branch_code: XXX
+  city: Bogota
+  country: Colombia
+- name: Corporacion Financiera Inter S.a.
+  swift: CFIICOB1XXX
+  swift8: CFIICOB1
+  branch_name: Head Office
+  branch_address: Bogota
+  branch_code: XXX
+  city: Bogota
+  country: Colombia
+- name: Corporacion Financiera Popular Sa
+  swift: CFPOCOB1XXX
+  swift8: CFPOCOB1
+  branch_name: Head Office
+  branch_address: Bogota
+  branch_code: XXX
+  city: Bogota
+  country: Colombia
+- name: Corporacion Financiera Union Sa
+  swift: COFUCOB1XXX
+  swift8: COFUCOB1
+  branch_name: Head Office
+  branch_address: Carrera 9 70a-35 Bogota
+  branch_code: XXX
+  city: Bogota
+  country: Colombia
+- name: Corporacion Grancolombiana De Ahorro E Vivienda Granahorrar
+  swift: CGAGCOB1XXX
+  swift8: CGAGCOB1
+  branch_name: Head Office
+  branch_address: Calle 31 6-41 Bogota
+  branch_code: XXX
+  city: Bogota
+  country: Colombia
+- name: Corporacion Nacional De Ahorro E Vivienda Conavi
+  swift: CNAACOB1XXX
+  swift8: CNAACOB1
+  branch_name: Head Office
+  branch_address: Carrera 43a 1a Sur 143 Medellin
+  branch_code: XXX
+  city: Medellin
+  country: Colombia
+- name: Corporacion Popular De Ahorro E Vivienda Corpavi
+  swift: CPOACOB1XXX
+  swift8: CPOACOB1
+  branch_name: Head Office
+  branch_address: Carrera 5 15-80 Bogota
+  branch_code: XXX
+  city: Bogota
+  country: Colombia
+- name: Deposito Central De Valores (dcv
+  swift: DCVCCOB1XXX
+  swift8: DCVCCOB1
+  branch_name: Head Office
+  branch_address: Carrera 7, 14-78 Bogota
+  branch_code: XXX
+  city: Bogota
+  country: Colombia
+- name: Deposito Centralizado De Valores De Colombia S.a
+  swift: DCVDCOB1XXX
+  swift8: DCVDCOB1
+  branch_name: Head Office
+  branch_address: Centro Comercial Avda Chile Bogota
+  branch_code: XXX
+  city: Bogota
+  country: Colombia
+- name: Empresa De Telecomunicaciones De Bogota S.a E.sp.
+  swift: ETBCCOBBXXX
+  swift8: ETBCCOBB
+  branch_name: Head Office
+  branch_address: Cra 8 No. 20 56 Bogota
+  branch_code: XXX
+  city: Bogota
+  country: Colombia
+- name: Financiera Colpatria S.a.
+  swift: FCOLCOB1XXX
+  swift8: FCOLCOB1
+  branch_name: Head Office
+  branch_address: Carrera 7 24-89 Bogota
+  branch_code: XXX
+  city: Bogota
+  country: Colombia
+- name: Financiera De Inversiones Ltda
+  swift: FIESCOB1XXX
+  swift8: FIESCOB1
+  branch_name: Head Office
+  branch_address: Calle 93 14-20 Bogota
+  branch_code: XXX
+  city: Bogota
+  country: Colombia
+- name: Financiera Monserrate Sa
+  swift: FIMOCOB1XXX
+  swift8: FIMOCOB1
+  branch_name: Head Office
+  branch_address: Avenida 82 8-81 Bogota
+  branch_code: XXX
+  city: Bogota
+  country: Colombia
+- name: Fitch Ratings Colombia
+  swift: FRIPCOB1XXX
+  swift8: FRIPCOB1
+  branch_name: Head Office
+  branch_address: Calle 69a, 9-85 Bogota
+  branch_code: XXX
+  city: Bogota
+  country: Colombia
+- name: Fondo Andino De Reservas
+  swift: FOARCOB1XXX
+  swift8: FOARCOB1
+  branch_name: Head Office
+  branch_address: Bogota
+  branch_code: XXX
+  city: Bogota
+  country: Colombia
+- name: Global Securities S.a. Comisionista De Bolsa
+  swift: GSCBCOB1XXX
+  swift8: GSCBCOB1
+  branch_name: No branch name
+  branch_address: No branch address
+  branch_code: XXX
+  city: Medellin
+  country: Colombia
+- name: Golden Gate Investments Sa
+  swift: BCAMCOB1XXX
+  swift8: BCAMCOB1
+  branch_name: Head Office
+  branch_address: Carrera 7a 16-36 Bogota
+  branch_code: XXX
+  city: Bogota
+  country: Colombia
+- name: Hocol S.a.
+  swift: HCOLCOBBXXX
+  swift8: HCOLCOBB
+  branch_name: Head Office
+  branch_address: Torre Samsung Bogota
+  branch_code: XXX
+  city: Bogota
+  country: Colombia
+- name: Impresora Del Sur S.a.
+  swift: IMSUCOB1XXX
+  swift8: IMSUCOB1
+  branch_name: Head Office
+  branch_address: Calle 94 No. 7 a 47 Bogota
+  branch_code: XXX
+  city: Bogota
+  country: Colombia
+- name: Instituto De Credito Territorial
+  swift: ICRTCOB1XXX
+  swift8: ICRTCOB1
+  branch_name: Head Office
+  branch_address: Carrera 13 18-51 Bogota
+  branch_code: XXX
+  city: Bogota
+  country: Colombia
+- name: Intercanje Limitada
+  swift: IBOLCOB1XXX
+  swift8: IBOLCOB1
+  branch_name: Head Office
+  branch_address: Carrera 7 24-89 Bogota
+  branch_code: XXX
+  city: Bogota
+  country: Colombia
+- name: Itau Bba Colombia Sa Corporacion Financeira
+  swift: CBBACOB1XXX
+  swift8: CBBACOB1
+  branch_name: Head Office
+  branch_address: Carrera 11 Nr 84-09 11001000 Bogota
+  branch_code: XXX
+  city: Bogota
+  country: Colombia
+- name: Itau Bba Colombia Sa Corporacion Financeira
+  swift: CBBACOBBXXX
+  swift8: CBBACOBB
+  branch_name: No branch name
+  branch_address: No branch address
+  branch_code: XXX
+  city: Bogota
+  country: Colombia
+- name: Itau Bba Colombia Sa Corporacion Financeira
+  swift: CBBACO21XXX
+  swift8: CBBACO21
+  branch_name: Head Office
+  branch_address: Carrera 11 Number 84-09 11001000 Bogota
+  branch_code: XXX
+  city: Bogota
+  country: Colombia
+- name: Malteria Tropical S.a.
+  swift: MATOCOB1XXX
+  swift8: MATOCOB1
+  branch_name: Head Office
+  branch_address: Calle 94 No. 7 a 47 Bogota
+  branch_code: XXX
+  city: Bogota
+  country: Colombia
+- name: Mercantil De Invesiones Sa
+  swift: INMECOB1XXX
+  swift8: INMECOB1
+  branch_name: Head Office
+  branch_address: Calle 23 7-36 Bogota
+  branch_code: XXX
+  city: Bogota
+  country: Colombia
+- name: Municipio De Medellin
+  swift: MUMDCOBMXXX
+  swift8: MUMDCOBM
+  branch_name: No branch name
+  branch_address: No branch address
+  branch_code: XXX
+  city: Medellin
+  country: Colombia
+- name: Municipio Santiago De Cali
+  swift: MSCLCOB1XXX
+  swift8: MSCLCOB1
+  branch_name: Head Office
+  branch_address: Cam Cali
+  branch_code: XXX
+  city: Cali
+  country: Colombia
+- name: Postobon S.a.
+  swift: PTBOCOB1XXX
+  swift8: PTBOCOB1
+  branch_name: Head Office
+  branch_address: Edificio Coltejer Medellin
+  branch_code: XXX
+  city: Medellin
+  country: Colombia
+- name: Progreso Corporacion Financiera S.a.
+  swift: CFPRCOB10BC
+  swift8: CFPRCOB1
+  branch_name: Cali
+  branch_address: Cali
+  branch_code: 0BC
+  city: Cali
+  country: Colombia
+- name: Progreso Corporacion Financiera S.a.
+  swift: CFPRCOB1XXX
+  swift8: CFPRCOB1
+  branch_name: Head Office
+  branch_address: Carrera 13 26-45 Bogota
+  branch_code: XXX
+  city: Bogota
+  country: Colombia
+- name: Refineria De Cartagena S.a.
+  swift: RCARCOB2PTA
+  swift8: RCARCOB2
+  branch_name: Patrimonio Autonomo
+  branch_address: Edificio Torres 85 Bogota
+  branch_code: PTA
+  city: Bogota
+  country: Colombia
+- name: Refineria De Cartagena S.a.
+  swift: RCARCOB2XXX
+  swift8: RCARCOB2
+  branch_name: Head Office
+  branch_address: Edificio Torres 85, Oficina 606 Bogota
+  branch_code: XXX
+  city: Bogota
+  country: Colombia
+- name: Samsung Electronica De Columbia
+  swift: SECTCOB1813
+  swift8: SECTCOB1
+  branch_name: Samcol
+  branch_address: Torre Samsung 442-370 Bogota
+  branch_code: '813'
+  city: Bogota
+  country: Colombia
+- name: Samsung Electronica De Columbia
+  swift: SECTCOB1XXX
+  swift8: SECTCOB1
+  branch_name: Head Office
+  branch_address: Torre Samsung Bogota
+  branch_code: XXX
+  city: Bogota
+  country: Colombia
+- name: Suvalor
+  swift: SUVACOB1XXX
+  swift8: SUVACOB1
+  branch_name: Head Office
+  branch_address: Calle 72 Nr 8-24 Bogota
+  branch_code: XXX
+  city: Bogota
+  country: Colombia

@@ -1,0 +1,466 @@
+---
+MC:
+- name: Caixa Geral De Depositos
+  swift: CGDIMCM1XXX
+  swift8: CGDIMCM1
+  branch_name: Head Office
+  branch_address: 5, Avenue Princesse Alice 98000 Monaco
+  branch_code: XXX
+  city: Monaco
+  country: Monaco
+- name: Credit Du Nord
+  swift: NORDMCM1XXX
+  swift8: NORDMCM1
+  branch_name: Head Office
+  branch_address: 27 Avenue De La Costa 98001 Monaco
+  branch_code: XXX
+  city: Monaco
+  country: Monaco
+- name: Credit Foncier De Monaco
+  swift: CFMOMCMXXXX
+  swift8: CFMOMCMX
+  branch_name: Head Office
+  branch_address: 11 Boulevard Albert Ier 98012 Monaco
+  branch_code: XXX
+  city: Monaco
+  country: Monaco
+- name: Societe Marseillaise De Credit
+  swift: SMCTMCM1P02
+  swift8: SMCTMCM1
+  branch_name: Ag Monte Carlo
+  branch_address: Bd Des Moulins,41 98000 Monaco
+  branch_code: P02
+  city: Monaco
+  country: Monaco
+- name: Societe Marseillaise De Credit
+  swift: SMCTMCM1P04
+  swift8: SMCTMCM1
+  branch_name: Ag Fontvieille
+  branch_address: Av De Fontvieille,24 98000 Monaco
+  branch_code: P04
+  city: Monaco
+  country: Monaco
+- name: Societe Marseillaise De Credit
+  swift: SMCTMCM1XXX
+  swift8: SMCTMCM1
+  branch_name: Head Office
+  branch_address: Rue Grimaldi,45 98000 Monaco
+  branch_code: XXX
+  city: Monaco
+  country: Monaco
+- name: Bnp-paribas Sa (formerly Banque Nationale De Paris S.a.
+  swift: BNPAMCM1XXX
+  swift8: BNPAMCM1
+  branch_name: Head Office
+  branch_address: Monaco
+  branch_code: XXX
+  city: Monaco
+  country: Monaco
+- name: Andbanc Monaco Sam
+  swift: BACAMCMCXXX
+  swift8: BACAMCMC
+  branch_name: Head Office
+  branch_address: 1 Avenue Des Citronniers 98000 Monaco
+  branch_code: XXX
+  city: Monaco
+  country: Monaco
+- name: Banca Martin Maurel Sella
+  swift: MMSEMCM1XXX
+  swift8: MMSEMCM1
+  branch_name: Head Office
+  branch_address: Villa Du Pont 98000 Monaco
+  branch_code: XXX
+  city: Monaco
+  country: Monaco
+- name: Banca Popolare Di Sondrio (suisse) Sa
+  swift: POSOMCM1XXX
+  swift8: POSOMCM1
+  branch_name: Head Office
+  branch_address: 3, Rue Princesse Florestine 98011 Monaco
+  branch_code: XXX
+  city: Monaco
+  country: Monaco
+- name: Bank Von Ernst (monaco
+  swift: ERMOMCM1XXX
+  swift8: ERMOMCM1
+  branch_name: Head Office
+  branch_address: Villa Des Fleurs 98000 Monaco
+  branch_code: XXX
+  city: Monaco
+  country: Monaco
+- name: Banque De Gestion Edmond De Rothschild-monaco
+  swift: BERLMCMCXXX
+  swift8: BERLMCMC
+  branch_name: Head Office
+  branch_address: Les Terrasses, 2 Avenue De Monte 98000 Monaco
+  branch_code: XXX
+  city: Monaco
+  country: Monaco
+- name: Banque Havilland (monaco) S.a.m.
+  swift: HAVLMCMXBDF
+  swift8: HAVLMCMX
+  branch_name: Monaco
+  branch_address: Monaco
+  branch_code: BDF
+  city: Monaco
+  country: Monaco
+- name: Banque Havilland (monaco) S.a.m.
+  swift: HAVLMCMXXXX
+  swift8: HAVLMCMX
+  branch_name: Head Office
+  branch_address: Boulevard Des Moulins 7-9 Monaco
+  branch_code: XXX
+  city: Monaco
+  country: Monaco
+- name: Banque Internationale De Credit Et De Gestion Monaco
+  swift: BCGMMCM1XXX
+  swift8: BCGMMCM1
+  branch_name: Head Office
+  branch_address: 27 Boulevard Princesse Charlotte 98000 Monaco
+  branch_code: XXX
+  city: Monaco
+  country: Monaco
+- name: Banque J. Safra Sarasin (monaco) Sa
+  swift: BJSBMCMXLCO
+  swift8: BJSBMCMX
+  branch_name: Only Banque De France
+  branch_address: Monaco
+  branch_code: LCO
+  city: Monaco
+  country: Monaco
+- name: Banque J. Safra Sarasin (monaco) Sa
+  swift: BJSBMCMXXXX
+  swift8: BJSBMCMX
+  branch_name: Head Office
+  branch_address: Le Belle Epoque 98000 Monaco
+  branch_code: XXX
+  city: Monaco
+  country: Monaco
+- name: Banque Martin Maurel
+  swift: MAEAMCM1XXX
+  swift8: MAEAMCM1
+  branch_name: Head Office
+  branch_address: 3 Boulevard Princesse Charlotte 98003 Monaco
+  branch_code: XXX
+  city: Monaco
+  country: Monaco
+- name: Barclays Bank Plc Monaco
+  swift: BARCMCMXXXX
+  swift8: BARCMCMX
+  branch_name: Head Office
+  branch_address: 31 Avenue De La Costa Monaco
+  branch_code: XXX
+  city: Monaco
+  country: Monaco
+- name: Barclays Bank S.a
+  swift: BARCMCC1XXX
+  swift8: BARCMCC1
+  branch_name: Head Office
+  branch_address: 31 Avenue De La Costa, Monaco
+  branch_code: XXX
+  city: Monaco
+  country: Monaco
+- name: Berkeley Capital Limited
+  swift: BECIMCM1XXX
+  swift8: BECIMCM1
+  branch_name: Head Office
+  branch_address: 8 Boulevard Princesse Charlotte 98000 Monaco
+  branch_code: XXX
+  city: Monaco
+  country: Monaco
+- name: Bnp Paribas Wealth Management Monaco
+  swift: BPPBMCMCXXX
+  swift8: BPPBMCMC
+  branch_name: Head Office
+  branch_address: 15-17 Avenue Dostende 98000 Monaco
+  branch_code: XXX
+  city: Monaco
+  country: Monaco
+- name: Bpca Monaco
+  swift: CCBPMCM1XXX
+  swift8: CCBPMCM1
+  branch_name: Head Office
+  branch_address: Sporting Dhiver 98000 Monaco
+  branch_code: XXX
+  city: Monaco
+  country: Monaco
+- name: Bsi Monaco Sam
+  swift: BSILMCMCXXX
+  swift8: BSILMCMC
+  branch_name: Head Office
+  branch_address: 1 Avenue St. Michel 98000 Monaco
+  branch_code: XXX
+  city: Monaco
+  country: Monaco
+- name: Capitalia Luxembourg S.a.
+  swift: CLSMMCM1XXX
+  swift8: CLSMMCM1
+  branch_name: Head Office
+  branch_address: Les Villas Del Sole 98007 Monaco
+  branch_code: XXX
+  city: Monaco
+  country: Monaco
+- name: Cgm Compagnie De Gestion Privee Mon Egasque S.a.m.
+  swift: AZFMMCMCXXX
+  swift8: AZFMMCMC
+  branch_name: Aim-Poms Service
+  branch_address: 8 Boulevard Des Moulins 98000 Monaco
+  branch_code: XXX
+  city: Monaco
+  country: Monaco
+- name: Cm-cic Monaco
+  swift: CMCIMCM1BEC
+  swift8: CMCIMCM1
+  branch_name: Cm-Cic Banque Europenne Du Credit Mutuel Monaco
+  branch_address: Rue Grimaldi 8 98000 Monaco
+  branch_code: BEC
+  city: Monaco
+  country: Monaco
+- name: Cm-cic Monaco
+  swift: CMCIMCM1LYB
+  swift8: CMCIMCM1
+  branch_name: Cm-Cic Lyonnaise De Banque
+  branch_address: 26 Bd Princesse Charlotte 98000 Monaco
+  branch_code: LYB
+  city: Monaco
+  country: Monaco
+- name: Cm-cic Monaco
+  swift: CMCIMCM1SEM
+  swift8: CMCIMCM1
+  branch_name: Cm-Cic Cf Sud Europe Mediterranee
+  branch_address: 8 Rue Grimaldi 98000 Monaco
+  branch_code: SEM
+  city: Monaco
+  country: Monaco
+- name: Cm-cic Monaco
+  swift: CMCIMCM1XXX
+  swift8: CMCIMCM1
+  branch_name: Head Office
+  branch_address: Rue Grimaldi Monaco
+  branch_code: XXX
+  city: Monaco
+  country: Monaco
+- name: Compagnie De Gestion Privee Monegasque
+  swift: CGPMMCM1XXX
+  swift8: CGPMMCM1
+  branch_name: Head Office
+  branch_address: 8 Bld Des Moulins 98000 Monaco
+  branch_code: XXX
+  city: Monaco
+  country: Monaco
+- name: Compagnie Monegasque De Banque S.a.m.
+  swift: CMBMMCMXXXX
+  swift8: CMBMMCMX
+  branch_name: Head Office
+  branch_address: 23 Avenue De La Costa 98003 Monaco Cedex
+  branch_code: XXX
+  city: Monaco
+  country: Monaco
+- name: Credit Agricole Monaco (crca Provence Cote D'azur Monaco
+  swift: AGRIMCM1XXX
+  swift8: AGRIMCM1
+  branch_name: Head Office
+  branch_address: 23 Boulevard Princesse Charlotte 98000 Monaco
+  branch_code: XXX
+  city: Monaco
+  country: Monaco
+- name: Credit Mobilier De Monaco Cmm
+  swift: CMMDMCM1XXX
+  swift8: CMMDMCM1
+  branch_name: Head Office
+  branch_address: 15 Avenue De Grande Bretagne 98000 Monaco
+  branch_code: XXX
+  city: Monaco
+  country: Monaco
+- name: Credit Suisse (monaco
+  swift: CRESMCMXXXX
+  swift8: CRESMCMX
+  branch_name: Head Office
+  branch_address: Le Park Palace 98003 Monaco
+  branch_code: XXX
+  city: Monaco
+  country: Monaco
+- name: Credit Suisse Asset Management
+  swift: CRSGMCM1XXX
+  swift8: CRSGMCM1
+  branch_name: Head Office
+  branch_address: Monaco
+  branch_code: XXX
+  city: Monaco
+  country: Monaco
+- name: Efg Bank (monaco
+  swift: EFGBMCMCXXX
+  swift8: EFGBMCMC
+  branch_name: Head Office
+  branch_address: Villa Des Aigles 98000 Monaco
+  branch_code: XXX
+  city: Monaco
+  country: Monaco
+- name: G Et G Private Finance Sam
+  swift: GNPFMCMCXXX
+  swift8: GNPFMCMC
+  branch_name: Head Office
+  branch_address: Le George V 98000 Monaco
+  branch_code: XXX
+  city: Monaco
+  country: Monaco
+- name: Hsbc Private Bank (monaco) S.a. (formerly Hsbc Republic Bank (monaco) S.a.
+  swift: BLICMCMCXXX
+  swift8: BLICMCMC
+  branch_name: Head Office
+  branch_address: Belle Epoque 98000 Monaco
+  branch_code: XXX
+  city: Monaco
+  country: Monaco
+- name: Julius Baer (monaco) S.a.m.
+  swift: BAERMCMCXXX
+  swift8: BAERMCMC
+  branch_name: Head Office
+  branch_address: Avenue Des Citronniers 1 98000 Monaco
+  branch_code: XXX
+  city: Monaco
+  country: Monaco
+- name: Kbl Monaco Private Bankers
+  swift: KBLXMCMCXXX
+  swift8: KBLXMCMC
+  branch_name: Head Office
+  branch_address: 8 Avenue De Grande-Bretagne 98005 Monaco Cedex
+  branch_code: XXX
+  city: Monaco
+  country: Monaco
+- name: Lcl (le Credit Lyonnais) Monaco
+  swift: CRLYMCM1BAS
+  swift8: CRLYMCM1
+  branch_name: Lcl Le Credit Lyonnais Monaco Beaux Arts
+  branch_address: 21 Avenue Des Beaux Arts 98000 Monaco
+  branch_code: BAS
+  city: Monaco
+  country: Monaco
+- name: Lcl (le Credit Lyonnais) Monaco
+  swift: CRLYMCM1CAE
+  swift8: CRLYMCM1
+  branch_name: Lcl Le Credit Lyonnais Centre Daffaires Entreprises
+  branch_address: 1 Avenue Des Citronniers 98000 Monaco
+  branch_code: CAE
+  city: Monaco
+  country: Monaco
+- name: Lcl (le Credit Lyonnais) Monaco
+  swift: CRLYMCM1FVI
+  swift8: CRLYMCM1
+  branch_name: Lcl Le Credit Lyonnais Monaco Fontvieille
+  branch_address: 13 Avenue Du Prince Hereditaire 98000 Monaco
+  branch_code: FVI
+  city: Monaco
+  country: Monaco
+- name: Lcl (le Credit Lyonnais) Monaco
+  swift: CRLYMCM1LCM
+  swift8: CRLYMCM1
+  branch_name: Lcl Le Credit Lyonnais Monaco La Condamine
+  branch_address: 7 Avenue Prince Pierre 98000 Monaco
+  branch_code: LCM
+  city: Monaco
+  country: Monaco
+- name: Lcl (le Credit Lyonnais) Monaco
+  swift: CRLYMCM1LMO
+  swift8: CRLYMCM1
+  branch_name: Lcl Le Credit Lyonnais Monaco Les Moulins
+  branch_address: Place Des Moulins 98000 Monaco
+  branch_code: LMO
+  city: Monaco
+  country: Monaco
+- name: Lcl (le Credit Lyonnais) Monaco
+  swift: CRLYMCM1MCA
+  swift8: CRLYMCM1
+  branch_name: Lcl Le Credit Lyonnais Monte Carlo
+  branch_address: 2 Avenue Princesse Alice 98000 Monaco
+  branch_code: MCA
+  city: Monaco
+  country: Monaco
+- name: Lcl (le Credit Lyonnais) Monaco
+  swift: CRLYMCM1XXX
+  swift8: CRLYMCM1
+  branch_name: Head Office
+  branch_address: 1 Avenue Des Citronniers 98000 Monaco
+  branch_code: XXX
+  city: Monaco
+  country: Monaco
+- name: Monacredit
+  swift: MONCMCM1XXX
+  swift8: MONCMCM1
+  branch_name: Head Office
+  branch_address: C/O Credit Lyonnais 98006 Monaco
+  branch_code: XXX
+  city: Monaco
+  country: Monaco
+- name: Securitas
+  swift: SEUAMCM1XXX
+  swift8: SEUAMCM1
+  branch_name: Head Office
+  branch_address: Athos Palace 98000 Monaco
+  branch_code: XXX
+  city: Monaco
+  country: Monaco
+- name: Societe Generale Bank And Trust Monaco
+  swift: SGBTMCMCXXX
+  swift8: SGBTMCMC
+  branch_name: Head Office
+  branch_address: Immeuble Le Regina 98000 Monaco Cedex
+  branch_code: XXX
+  city: Monaco
+  country: Monaco
+- name: Societe Generale Bank And Trust Sa
+  swift: SGTMMCM1XXX
+  swift8: SGTMMCM1
+  branch_name: Head Office
+  branch_address: 13-15 Boulevard Des Moulins 98000 Monaco
+  branch_code: XXX
+  city: Monaco
+  country: Monaco
+- name: Societe Generale Monte Carlo
+  swift: SOGEMCM1XXX
+  swift8: SOGEMCM1
+  branch_name: Head Office
+  branch_address: Palais De La Scala 98007 Monaco Cedex
+  branch_code: XXX
+  city: Monaco
+  country: Monaco
+- name: Societe Monegasque De Credit
+  swift: SOMCMCM1XXX
+  swift8: SOMCMCM1
+  branch_name: Head Office
+  branch_address: 10 Rue Princesse Florestine 98000 Monaco
+  branch_code: XXX
+  city: Monaco
+  country: Monaco
+- name: Ste Fire Monegasque De Credit-cogenec
+  swift: SFMCMCM1XXX
+  swift8: SFMCMCM1
+  branch_name: Head Office
+  branch_address: Le Shangri La 98007 Monaco Cedex
+  branch_code: XXX
+  city: Monaco
+  country: Monaco
+- name: Ubs (monaco) S.a.
+  swift: UBSWMCMXXXX
+  swift8: UBSWMCMX
+  branch_name: Head Office
+  branch_address: 2 Avenue De Grande-Bretagne 98007 Monaco Cedex
+  branch_code: XXX
+  city: Monaco
+  country: Monaco
+- name: United European Bank
+  swift: UNEUMCM1XXX
+  swift8: UNEUMCM1
+  branch_name: Head Office
+  branch_address: 26 Rue Ditalie Monaco
+  branch_code: XXX
+  city: Monaco
+  country: Monaco
+- name: Venus Management Company S.a.m.
+  swift: VENUMCMCXXX
+  swift8: VENUMCMC
+  branch_name: Head Office
+  branch_address: Villa Bijou 98000 Monaco
+  branch_code: XXX
+  city: Monaco
+  country: Monaco

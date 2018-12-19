@@ -1,0 +1,210 @@
+---
+BB:
+- name: Bank Of Nova Scotia,the
+  swift: NOSCBBBBBOB
+  swift8: NOSCBBBB
+  branch_name: Offshore Banking Unit
+  branch_address: Broad Street Bridgetown
+  branch_code: BOB
+  city: Bridgetown
+  country: Barbados
+- name: Bank Of Nova Scotia,the
+  swift: NOSCBBBBXXX
+  swift8: NOSCBBBB
+  branch_name: Head Office
+  branch_address: Broad Street Bridgetown
+  branch_code: XXX
+  city: Bridgetown
+  country: Barbados
+- name: Amicorp Bank And Trust Ltd
+  swift: AMIBBBBBXXX
+  swift8: AMIBBBBB
+  branch_name: Head Office
+  branch_address: Coniston Buh Hill Bridgetown
+  branch_code: XXX
+  city: Bridgetown
+  country: Barbados
+- name: Barbados Central Securities Depository Inc.
+  swift: BCSDBBB1XXX
+  swift8: BCSDBBB1
+  branch_name: Head Office
+  branch_address: Carlisle House Bridgetown
+  branch_code: XXX
+  city: Bridgetown
+  country: Barbados
+- name: Caribbean Development Bank
+  swift: CDEVBBBBXXX
+  swift8: CDEVBBBB
+  branch_name: Head Office
+  branch_address: Building B St. Michael
+  branch_code: XXX
+  city: St. Michael
+  country: Barbados
+- name: Central Bank Of Barbados
+  swift: CBABBBB1ACC
+  swift8: CBABBBB1
+  branch_name: Bridgetown
+  branch_address: Bridgetown
+  branch_code: ACC
+  city: Bridgetown
+  country: Barbados
+- name: Central Bank Of Barbados
+  swift: CBABBBB1BSE
+  swift8: CBABBBB1
+  branch_name: Bridgetown
+  branch_address: Bridgetown
+  branch_code: BSE
+  city: Bridgetown
+  country: Barbados
+- name: Central Bank Of Barbados
+  swift: CBABBBBBXXX
+  swift8: CBABBBBB
+  branch_name: Head Office
+  branch_address: Tom Adams Financial Centre Bridgetown
+  branch_code: XXX
+  city: Bridgetown
+  country: Barbados
+- name: Central Bank Of Barbados
+  swift: CBABBBBGXXX
+  swift8: CBABBBBG
+  branch_name: Head Office
+  branch_address: Bridgetown
+  branch_code: XXX
+  city: Bridgetown
+  country: Barbados
+- name: Cibc Offshore Banking Services Corporation
+  swift: COBVBBBBXXX
+  swift8: COBVBBBB
+  branch_name: Head Office
+  branch_address: Cibc Centre St. Michael
+  branch_code: XXX
+  city: St. Michael
+  country: Barbados
+- name: Cibc Trust And Merchant Bank (barbados) Limited
+  swift: CTMBBBB1XXX
+  swift8: CTMBBBB1
+  branch_name: Head Office
+  branch_address: Bank Warrens Street Bridgetown
+  branch_code: XXX
+  city: Bridgetown
+  country: Barbados
+- name: Cidel Bank And Trust Inc.
+  swift: CTBLBBBBXXX
+  swift8: CTBLBBBB
+  branch_name: Head Office
+  branch_address: 1 Financial Place St. Michael
+  branch_code: XXX
+  city: St. Michael
+  country: Barbados
+- name: Citicorp Merchant Bank Limited
+  swift: CITIBBBBXXX
+  swift8: CITIBBBB
+  branch_name: Head Office
+  branch_address: Itc Building St. Michael
+  branch_code: XXX
+  city: St. Michael
+  country: Barbados
+- name: Dgm Bank And Trust Inc.
+  swift: DGRRBBB1XXX
+  swift8: DGRRBBB1
+  branch_name: Head Office
+  branch_address: Chamberlain Place Bridgetown
+  branch_code: XXX
+  city: Bridgetown
+  country: Barbados
+- name: First Citizens Bank (barbados) Ltd. The Mutual Building
+  swift: FCTTBBBBXXX
+  swift8: FCTTBBBB
+  branch_name: Head Office
+  branch_address: Beckwith Place Bridgetown
+  branch_code: XXX
+  city: Bridgetown
+  country: Barbados
+- name: Firstcaribbean International Bank (offshore) Limited
+  swift: FCIBBBB2XXX
+  swift8: FCIBBBB2
+  branch_name: Head Office
+  branch_address: Rendezvous Christchurch
+  branch_code: XXX
+  city: Christchurch
+  country: Barbados
+- name: Firstcaribbean International Bank Limited
+  swift: FCIBBBBBXXX
+  swift8: FCIBBBBB
+  branch_name: Head Office
+  branch_address: Warrens St. Michael
+  branch_code: XXX
+  city: St. Michael
+  country: Barbados
+- name: Glenhuron Bank Ltd
+  swift: GLEBBBB1XXX
+  swift8: GLEBBBB1
+  branch_name: Head Office
+  branch_address: Building 5 Bridgetown
+  branch_code: XXX
+  city: Bridgetown
+  country: Barbados
+- name: J And T Bank And Trust
+  swift: JTBTBBBBXXX
+  swift8: JTBTBBBB
+  branch_name: Head Office
+  branch_address: Lauriston House Bb11000 Bridgetown
+  branch_code: XXX
+  city: Bridgetown
+  country: Barbados
+- name: Mercom Bank Limited
+  swift: MERMBBB1XXX
+  swift8: MERMBBB1
+  branch_name: Head Office
+  branch_address: Cartleton Court Bridgetown
+  branch_code: XXX
+  city: Bridgetown
+  country: Barbados
+- name: Rbc Barbados Trading Bank Corporation
+  swift: RBTOBBBBXXX
+  swift8: RBTOBBBB
+  branch_name: Head Office
+  branch_address: Building 2 Bb11000 St. Michael
+  branch_code: XXX
+  city: St. Michael
+  country: Barbados
+- name: Rbc Royal Bank (barbados) Limited
+  swift: ROYCBBBBXXX
+  swift8: ROYCBBBB
+  branch_name: Head Office
+  branch_address: Broad Street Bridgetown
+  branch_code: XXX
+  city: Bridgetown
+  country: Barbados
+- name: Rbc Royal Bank (barbados) Limited
+  swift: RBTTBBBBXXX
+  swift8: RBTTBBBB
+  branch_name: Head Office
+  branch_address: Lower Broad Street Bridgetown
+  branch_code: XXX
+  city: Bridgetown
+  country: Barbados
+- name: Republic Bank (barbados) Limited
+  swift: BNBABBBBXXX
+  swift8: BNBABBBB
+  branch_name: Head Office
+  branch_address: 3 Broad Street 11000 Bridgetown
+  branch_code: XXX
+  city: Bridgetown
+  country: Barbados
+- name: Royal Bank Of Canada (caribbean) Corporation
+  swift: RCCABBB1XXX
+  swift8: RCCABBB1
+  branch_name: Head Office
+  branch_address: Collymore Rock St. Michael
+  branch_code: XXX
+  city: St. Michael
+  country: Barbados
+- name: Transcom Bank (barbados) Ltd.
+  swift: TRBOBBB1XXX
+  swift8: TRBOBBB1
+  branch_name: Head Office
+  branch_address: Carleton Court High Street 11128 Bridgetown
+  branch_code: XXX
+  city: Bridgetown
+  country: Barbados

@@ -1,0 +1,626 @@
+---
+LK:
+- name: Acuity Securities Limited
+  swift: HNBSLKLXXXX
+  swift8: HNBSLKLX
+  branch_name: Head Office
+  branch_address: Dharmapala Mawatha 53 Colombo 3
+  branch_code: XXX
+  city: Colombo
+  country: Sri Lanka
+- name: Amana Bank Limited
+  swift: AMNALKLXXXX
+  swift8: AMNALKLX
+  branch_name: Head Office
+  branch_address: Galle Road 480 00100 Colombo
+  branch_code: XXX
+  city: Colombo
+  country: Sri Lanka
+- name: Axis Bank Ltd.
+  swift: AXISLKLXXXX
+  swift8: AXISLKLX
+  branch_name: Head Office
+  branch_address: Lot 3 03 Colombo
+  branch_code: XXX
+  city: Colombo
+  country: Sri Lanka
+- name: Bank Of Ceylon
+  swift: BCEYLKLX125
+  swift8: BCEYLKLX
+  branch_name: Non Resident Foreign Currency Unit
+  branch_address: York Street Colombo
+  branch_code: '125'
+  city: Colombo
+  country: Sri Lanka
+- name: Bank Of Ceylon
+  swift: BCEYLKLX131
+  swift8: BCEYLKLX
+  branch_name: Foreign Currency Banking Unit
+  branch_address: N.H.O.B. Colombo
+  branch_code: '131'
+  city: Colombo
+  country: Sri Lanka
+- name: Bank Of Ceylon
+  swift: BCEYLKLX573
+  swift8: BCEYLKLX
+  branch_name: Central Bus Stand Branch
+  branch_address: Central Bus Stand 11 Colombo
+  branch_code: '573'
+  city: Colombo
+  country: Sri Lanka
+- name: Bank Of Ceylon
+  swift: BCEYLKLX618
+  swift8: BCEYLKLX
+  branch_name: Metropolitan Branch
+  branch_address: York Street 1 Colombo
+  branch_code: '618'
+  city: Colombo
+  country: Sri Lanka
+- name: Bank Of Ceylon
+  swift: BCEYLKLXPRI
+  swift8: BCEYLKLX
+  branch_name: Primary Dealer Unit
+  branch_address: Colombo
+  branch_code: PRI
+  city: Colombo
+  country: Sri Lanka
+- name: Bank Of Ceylon
+  swift: BCEYLKLXXXX
+  swift8: BCEYLKLX
+  branch_name: Head Office
+  branch_address: 4 Bank of Ceylon Mawatha 1 Colombo
+  branch_code: XXX
+  city: Colombo
+  country: Sri Lanka
+- name: Bank Of Ceylon
+  swift: BCEYLKLX004
+  swift8: BCEYLKLX
+  branch_name: Pettah
+  branch_address: Pettah
+  branch_code: '004'
+  city: Pettah
+  country: Sri Lanka
+- name: Bank Of Ceylon
+  swift: BCEYLKLX002
+  swift8: BCEYLKLX
+  branch_name: Super Grade Branch
+  branch_address: 22 Dalada Vidiya Kandy
+  branch_code: '002'
+  city: Kandy
+  country: Sri Lanka
+- name: Capital Alliance Limited
+  swift: CALDLKLXXXX
+  swift8: CALDLKLX
+  branch_name: Head Office
+  branch_address: Millenium House 2 Colombo
+  branch_code: XXX
+  city: Colombo
+  country: Sri Lanka
+- name: Central Bank Of Sri Lanka
+  swift: CBCELKLSXXX
+  swift8: CBCELKLS
+  branch_name: Head Office
+  branch_address: 30 Janadhipathi Mawatha 00100 Colombo
+  branch_code: XXX
+  city: Colombo
+  country: Sri Lanka
+- name: Central Bank Of Sri Lanka
+  swift: CBCELKLXEPF
+  swift8: CBCELKLX
+  branch_name: Employees Provident Fund-Cbsl
+  branch_address: 34-36 Janadhipathi Mawetha 01 Colombo
+  branch_code: EPF
+  city: Colombo
+  country: Sri Lanka
+- name: Central Bank Of Sri Lanka
+  swift: CBCELKLXXXX
+  swift8: CBCELKLX
+  branch_name: Head Office
+  branch_address: 34-36 Janadhipathi Mawatha 1 Colombo
+  branch_code: XXX
+  city: Colombo
+  country: Sri Lanka
+- name: Central Depository Systems (Pvt) Ltd
+  swift: CDSPLKLCXXX
+  swift8: CDSPLKLC
+  branch_name: Head Office
+  branch_address: World Trade Center, West Block 1 Colombo
+  branch_code: XXX
+  city: Colombo
+  country: Sri Lanka
+- name: Ceylinco Shriram Securities Ltd.
+  swift: CSSLLKLXXXX
+  swift8: CSSLLKLX
+  branch_name: Head Office
+  branch_address: 281, R.A. De Mel Mawatha 00300 Colombo
+  branch_code: XXX
+  city: Colombo
+  country: Sri Lanka
+- name: Citibank N.A. Sri Lanka
+  swift: CITILKLXXXX
+  swift8: CITILKLX
+  branch_name: Head Office
+  branch_address: 67 Dharmapala Mwatha 7 Colombo
+  branch_code: XXX
+  city: Colombo
+  country: Sri Lanka
+- name: Commercial Bank Of Ceylon Plc
+  swift: CCEYLKLXXXX
+  swift8: CCEYLKLX
+  branch_name: Head Office
+  branch_address: Commercial House 1 Colombo
+  branch_code: XXX
+  city: Colombo
+  country: Sri Lanka
+- name: Deutsche Bank Ag, Colombo Branch
+  swift: DEUTLKLX001
+  swift8: DEUTLKLX
+  branch_name: Colombo Branch
+  branch_address: Gr Colombo
+  branch_code: '001'
+  city: Colombo
+  country: Sri Lanka
+- name: Deutsche Bank Ag, Colombo Branch
+  swift: DEUTLKLXGMO
+  swift8: DEUTLKLX
+  branch_name: 03 Colombo
+  branch_address: Sifani Building 03 Colombo
+  branch_code: GMO
+  city: Colombo
+  country: Sri Lanka
+- name: Deutsche Bank Ag, Colombo Branch
+  swift: DEUTLKLXXXX
+  swift8: DEUTLKLX
+  branch_name: Head Office
+  branch_address: 86 Galle Road 3 Colombo
+  branch_code: XXX
+  city: Colombo
+  country: Sri Lanka
+- name: Dfcc Vardhana Bank Plc
+  swift: DFCCLKLXXXX
+  swift8: DFCCLKLX
+  branch_name: Head Office
+  branch_address: 73, W.A.D. Ramanayake Mawatha 00200 Colombo 2
+  branch_code: XXX
+  city: Colombo
+  country: Sri Lanka
+- name: First Capital Treasuries Limited
+  swift: FCTLLKLXXXX
+  swift8: FCTLLKLX
+  branch_name: Head Office
+  branch_address: 34,Sir Mohamed Macan Marker Mawatha 00300 Colombo
+  branch_code: XXX
+  city: Colombo
+  country: Sri Lanka
+- name: Habib Bank Ltd.
+  swift: HABBLKLCXXX
+  swift8: HABBLKLC
+  branch_name: Head Office
+  branch_address: 140-142, 2nd Cross Street 11 Colombo
+  branch_code: XXX
+  city: Colombo
+  country: Sri Lanka
+- name: Hatton National Bank Plc
+  swift: HBLILKLX001
+  swift8: HBLILKLX
+  branch_name: Foreign Currency Banking Unit
+  branch_address: 16 Janadhipathi Mawatha 1 Colombo
+  branch_code: '001'
+  city: Colombo
+  country: Sri Lanka
+- name: Hatton National Bank Plc
+  swift: HBLILKLXXXX
+  swift8: HBLILKLX
+  branch_name: Head Office
+  branch_address: Hnb Towers 1000 Colombo
+  branch_code: XXX
+  city: Colombo
+  country: Sri Lanka
+- name: Hongkong And Shanghai Banking Corporation Limited, The
+  swift: HSBCLKLXXXX
+  swift8: HSBCLKLX
+  branch_name: Head Office
+  branch_address: 24 Sir Baron Jayatilaka Mawatha 1 Colombo
+  branch_code: XXX
+  city: Colombo
+  country: Sri Lanka
+- name: Icici Bank Ltd
+  swift: ICICLKLXXXX
+  swift8: ICICLKLX
+  branch_name: Head Office
+  branch_address: No. 58, Dharmapala Mawatha Road 7 Colombo
+  branch_code: XXX
+  city: Colombo
+  country: Sri Lanka
+- name: Indian Bank
+  swift: IDIBLKLCXXX
+  swift8: IDIBLKLC
+  branch_name: Head Office
+  branch_address: 57, Sir Baron Jayathilaka Mawatha 1 Colombo
+  branch_code: XXX
+  city: Colombo
+  country: Sri Lanka
+- name: Indian Overseas Bank
+  swift: IOBALKLCXXX
+  swift8: IOBALKLC
+  branch_name: Head Office
+  branch_address: Iob Building 11 Colombo
+  branch_code: XXX
+  city: Colombo
+  country: Sri Lanka
+- name: Lanka Orix Finance Company Ltd
+  swift: LOFCLKLCXXX
+  swift8: LOFCLKLC
+  branch_name: Head Office
+  branch_address: 100/1 Sri Jayawardanapura Mawata Colombo
+  branch_code: XXX
+  city: Colombo
+  country: Sri Lanka
+- name: Mcb Bank Ltd.
+  swift: MUCBLKLCXXX
+  swift8: MUCBLKLC
+  branch_name: Head Office
+  branch_address: 8 Leyden Bastian Road Colombo
+  branch_code: XXX
+  city: Colombo
+  country: Sri Lanka
+- name: Nat Wealth Securities Limited
+  swift: NWSLLKLXXXX
+  swift8: NWSLLKLX
+  branch_name: Head Office
+  branch_address: Millennium House 0002 Colombo
+  branch_code: XXX
+  city: Colombo
+  country: Sri Lanka
+- name: National Development Bank Plc.
+  swift: NDBSLKLXXXX
+  swift8: NDBSLKLX
+  branch_name: Head Office
+  branch_address: No 40, Nawam Mawatha 2 Colombo
+  branch_code: XXX
+  city: Colombo
+  country: Sri Lanka
+- name: National Savings Bank
+  swift: NSBALKLXXXX
+  swift8: NSBALKLX
+  branch_name: Head Office
+  branch_address: Savings House 3 Colombo
+  branch_code: XXX
+  city: Colombo
+  country: Sri Lanka
+- name: Nations Trust Bank Plc
+  swift: NTBCLKLXXXX
+  swift8: NTBCLKLX
+  branch_name: Head Office
+  branch_address: 242, Union Place 00200 Colombo
+  branch_code: XXX
+  city: Colombo
+  country: Sri Lanka
+- name: Nsb Fund Management Company Limited
+  swift: NSBFLKLXXXX
+  swift8: NSBFLKLX
+  branch_name: Head Office
+  branch_address: Savings House 00300 Colombo
+  branch_code: XXX
+  city: Colombo
+  country: Sri Lanka
+- name: Pan Asia Banking Corporation Plc
+  swift: PABSLKLXXXX
+  swift8: PABSLKLX
+  branch_name: Head Office
+  branch_address: Pan Asia Bank Building 03 Colombo
+  branch_code: XXX
+  city: Colombo
+  country: Sri Lanka
+- name: Peoples Bank
+  swift: PSBKLKLX022
+  swift8: PSBKLKLX
+  branch_name: International Department
+  branch_address: Colombo
+  branch_code: '022'
+  city: Colombo
+  country: Sri Lanka
+- name: Peoples Bank
+  swift: PSBKLKLX023
+  swift8: PSBKLKLX
+  branch_name: Overseas Department
+  branch_address: Colombo
+  branch_code: '023'
+  city: Colombo
+  country: Sri Lanka
+- name: Peoples Bank
+  swift: PSBKLKLXXXX
+  swift8: PSBKLKLX
+  branch_name: Head Office
+  branch_address: Ancl (Lakehouse) Building 10 Colombo
+  branch_code: XXX
+  city: Colombo
+  country: Sri Lanka
+- name: Public Bank Berhad
+  swift: PBBELKLXXXX
+  swift8: PBBELKLX
+  branch_name: Head Office
+  branch_address: 340, R.A. De Mel, Mawatha 00300 Colombo
+  branch_code: XXX
+  city: Colombo
+  country: Sri Lanka
+- name: Sampath Bank Plc-Company No. Pq 144
+  swift: BSAMLKLXXXX
+  swift8: BSAMLKLX
+  branch_name: Head Office
+  branch_address: Sampath Centre 2 Colombo
+  branch_code: XXX
+  city: Colombo
+  country: Sri Lanka
+- name: Seylan Bank Plc
+  swift: SEYBLKLXTRY
+  swift8: SEYBLKLX
+  branch_name: Treasury Division
+  branch_address: Colombo
+  branch_code: TRY
+  city: Colombo
+  country: Sri Lanka
+- name: Seylan Bank Plc
+  swift: SEYBLKLXXXX
+  swift8: SEYBLKLX
+  branch_name: Head Office
+  branch_address: Ceylinco Seylan Towers 03 Colombo
+  branch_code: XXX
+  city: Colombo
+  country: Sri Lanka
+- name: Standard Chartered Bank
+  swift: SCBLLKLXEQI
+  swift8: SCBLLKLX
+  branch_name: Colombo
+  branch_address: Colombo
+  branch_code: EQI
+  city: Colombo
+  country: Sri Lanka
+- name: Standard Chartered Bank
+  swift: SCBLLKLXXXX
+  swift8: SCBLLKLX
+  branch_name: Head Office
+  branch_address: 17 Janadhipathi Mawatha 1 Colombo
+  branch_code: XXX
+  city: Colombo
+  country: Sri Lanka
+- name: State Bank Of India
+  swift: SBINLKLXFCB
+  swift8: SBINLKLX
+  branch_name: Foreign Currency Banking Unit
+  branch_address: 16 Sir Baron Jayatilaka Mawatha Colombo
+  branch_code: FCB
+  city: Colombo
+  country: Sri Lanka
+- name: State Bank Of India
+  swift: SBINLKLXXXX
+  swift8: SBINLKLX
+  branch_name: Head Office
+  branch_address: 16 Sir Baron Jayatilaka Mawatha 1 Colombo
+  branch_code: XXX
+  city: Colombo
+  country: Sri Lanka
+- name: State Bank Of India
+  swift: SBINLKLXKDY
+  swift8: SBINLKLX
+  branch_name: Kandy Branch
+  branch_address: 111 1/1 Kotugodella Veediya Kandy
+  branch_code: KDY
+  city: Kandy
+  country: Sri Lanka
+- name: State Bank Of India
+  swift: SBINLKLXJFN
+  swift8: SBINLKLX
+  branch_name: Jaffna Branch
+  branch_address: No branch address
+  branch_code: JFN
+  city: Jaffna
+  country: Sri Lanka
+- name: Union Bank Of Colombo Limited
+  swift: UBCLLKLCXXX
+  swift8: UBCLLKLC
+  branch_name: Head Office
+  branch_address: 15a, Alfred Place 03 Colombo
+  branch_code: XXX
+  city: Colombo
+  country: Sri Lanka
+- name: Wealthtrust Securities Ltd
+  swift: WTEYLKLXXXX
+  swift8: WTEYLKLX
+  branch_name: Head Office
+  branch_address: Castle Street 32 Colombo
+  branch_code: XXX
+  city: Colombo
+  country: Sri Lanka
+- name: Asha Phillip Securities Limited
+  swift: ALSBLKL1XXX
+  swift8: ALSBLKL1
+  branch_name: Head Office
+  branch_address: Millennium House 0 Colombo
+  branch_code: XXX
+  city: Colombo
+  country: Sri Lanka
+- name: Asia Stockbroking And Investment Managment (pvt) Ltd
+  swift: ASIMLKL1XXX
+  swift8: ASIMLKL1
+  branch_name: Head Office
+  branch_address: 36 Kynsey Road 8 Colombo
+  branch_code: XXX
+  city: Colombo
+  country: Sri Lanka
+- name: Asian Securities (pvt) Ltd
+  swift: ASSPLKL1XXX
+  swift8: ASSPLKL1
+  branch_name: Head Office
+  branch_address: World Trade Center 1 Colombo
+  branch_code: XXX
+  city: Colombo
+  country: Sri Lanka
+- name: Bartleet Mallory Stockbrokers (pvt) Ltd.
+  swift: BMSVLKL1XXX
+  swift8: BMSVLKL1
+  branch_name: Head Office
+  branch_address: Bartleet House 2 Colombo
+  branch_code: XXX
+  city: Colombo
+  country: Sri Lanka
+- name: C T Smith Stockbrokers (pvt) Ltd
+  swift: SMSPLKL1XXX
+  swift8: SMSPLKL1
+  branch_name: Head Office
+  branch_address: 4-14, Majestic City 1 Colombo
+  branch_code: XXX
+  city: Colombo
+  country: Sri Lanka
+- name: Cdic Sassoon Cumberbatch Stockbrokers (pvt) Ltd
+  swift: CSCSLKL1XXX
+  swift8: CSCSLKL1
+  branch_name: Head Office
+  branch_address: 65c Charmapala Mawatha 7 Colombo
+  branch_code: XXX
+  city: Colombo
+  country: Sri Lanka
+- name: Ceylon Tobacco Company Plc
+  swift: BATSLKA1XXX
+  swift8: BATSLKA1
+  branch_name: Head Office
+  branch_address: 178 Srimath Ramanathan Mawatha 15 Colombo
+  branch_code: XXX
+  city: Colombo
+  country: Sri Lanka
+- name: Colombo Stock Exchange
+  swift: XCOLLKL1XXX
+  swift8: XCOLLKL1
+  branch_name: Head Office
+  branch_address: 4-01 West Tower 1 Colombo
+  branch_code: XXX
+  city: Colombo
+  country: Sri Lanka
+- name: Commercial Bank Primary Dealer Ltd.
+  swift: CBPDLKL1XXX
+  swift8: CBPDLKL1
+  branch_name: Head Office
+  branch_address: Commercial House 1 Colombo
+  branch_code: XXX
+  city: Colombo
+  country: Sri Lanka
+- name: Commercial Stockbrokers (pvt) Ltd
+  swift: COSPLKL1XXX
+  swift8: COSPLKL1
+  branch_name: Head Office
+  branch_address: 21 Bristol Street 1 Colombo
+  branch_code: XXX
+  city: Colombo
+  country: Sri Lanka
+- name: De Silva And Abeywardena Stockbrokers (pvt) Ltd
+  swift: SASVLKL1XXX
+  swift8: SASVLKL1
+  branch_name: Head Office
+  branch_address: State Bank of India Building 1 Colombo
+  branch_code: XXX
+  city: Colombo
+  country: Sri Lanka
+- name: Fitch Ratings Lanka Ltd.
+  swift: FRIPLKL1XXX
+  swift8: FRIPLKL1
+  branch_name: Head Office
+  branch_address: World Trade Center 1 Colombo
+  branch_code: XXX
+  city: Colombo
+  country: Sri Lanka
+- name: Forbes And Walker Stockbrokers (pvt) Ltd
+  swift: FWSPLKL1XXX
+  swift8: FWSPLKL1
+  branch_name: Head Office
+  branch_address: 46-38 Navam Mawatha 2 Colombo
+  branch_code: XXX
+  city: Colombo
+  country: Sri Lanka
+- name: Hdf Securities (pvt) Ltd.
+  swift: HDSPLKL1XXX
+  swift8: HDSPLKL1
+  branch_name: Head Office
+  branch_address: York Arcade Building Colombo
+  branch_code: XXX
+  city: Colombo
+  country: Sri Lanka
+- name: Iifl Securities Ceylon (pvt) Ltd
+  swift: IFLLLKL1XXX
+  swift8: IFLLLKL1
+  branch_name: Head Office
+  branch_address: East Tower, World Trade Centre 01 Colombo
+  branch_code: XXX
+  city: Colombo
+  country: Sri Lanka
+- name: John Keells Stockbrokers (pvt) Ltd.
+  swift: JKSPLKL1XXX
+  swift8: JKSPLKL1
+  branch_name: Head Office
+  branch_address: 130 Glennie Street 2 Colombo
+  branch_code: XXX
+  city: Colombo
+  country: Sri Lanka
+- name: Lanka Securities (pvt) Limited
+  swift: LASPLKL1XXX
+  swift8: LASPLKL1
+  branch_name: Head Office
+  branch_address: Bank of Ceylon Merchant Tower 3 Colombo
+  branch_code: XXX
+  city: Colombo
+  country: Sri Lanka
+- name: Nation Lanka Equities (pvt) Ltd.
+  swift: CESPLKL1XXX
+  swift8: CESPLKL1
+  branch_name: Head Office
+  branch_address: Ceylinco House 3 Colombo
+  branch_code: XXX
+  city: Colombo
+  country: Sri Lanka
+- name: Ndbs Stockbrokers (pvt) Ltd
+  swift: NDSPLKL1XXX
+  swift8: NDSPLKL1
+  branch_name: Head Office
+  branch_address: Ndb Building 2 Colombo
+  branch_code: XXX
+  city: Colombo
+  country: Sri Lanka
+- name: People's Merchant Bank Limited
+  swift: MEBPLKL1XXX
+  swift8: MEBPLKL1
+  branch_name: Head Office
+  branch_address: Hemas House 0 Colombo
+  branch_code: XXX
+  city: Colombo
+  country: Sri Lanka
+- name: Softlogic Stockbrokers (pvt) Ltd
+  swift: ARAVLKL1XXX
+  swift8: ARAVLKL1
+  branch_name: Head Office
+  branch_address: 23, East Tower, World Trade Centre 01 Colombo
+  branch_code: XXX
+  city: Colombo
+  country: Sri Lanka
+- name: Somerville Stockbrokers (pvt) Ltd
+  swift: SOSPLKL1XXX
+  swift8: SOSPLKL1
+  branch_name: Head Office
+  branch_address: 137 Vauxhall Street 2 Colombo
+  branch_code: XXX
+  city: Colombo
+  country: Sri Lanka
+- name: Ta Securities Lanka (put) Ltd.
+  swift: SETELKL1XXX
+  swift8: SETELKL1
+  branch_name: Head Office
+  branch_address: 81, Ward Place 7 Colombo
+  branch_code: XXX
+  city: Colombo
+  country: Sri Lanka
+- name: Tks Securities Pvt Ltd.
+  swift: TKSPLKL1XXX
+  swift8: TKSPLKL1
+  branch_name: Head Office
+  branch_address: 14 Reid Avenue 7 Colombo
+  branch_code: XXX
+  city: Colombo
+  country: Sri Lanka

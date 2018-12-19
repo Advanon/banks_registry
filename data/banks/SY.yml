@@ -1,0 +1,282 @@
+---
+SY:
+- name: Qnb
+  swift: QNBASYDAXXX
+  swift8: QNBASYDA
+  branch_name: Head Office
+  branch_address: Baghdad Street, Al Sabea Bahraat Damascus
+  branch_code: XXX
+  city: Damascus
+  country: Syrian Arab Republic
+- name: Al Baraka Bank Syria
+  swift: BBSYSYDAXXX
+  swift8: BBSYSYDA
+  branch_name: Head Office
+  branch_address: Al Samman Building Damascus
+  branch_code: XXX
+  city: Damascus
+  country: Syrian Arab Republic
+- name: Arab Bank-syria
+  swift: ARBXSYDAXXX
+  swift8: ARBXSYDA
+  branch_name: Head Office
+  branch_address: Al Mahdi Bin Barakh Street Damascus
+  branch_code: XXX
+  city: Damascus
+  country: Syrian Arab Republic
+- name: Bank Al-sharq S.a.
+  swift: SHRQSYDAXXX
+  swift8: SHRQSYDA
+  branch_name: Head Office
+  branch_address: El Shaalan Damascus
+  branch_code: XXX
+  city: Damascus
+  country: Syrian Arab Republic
+- name: Bank Audi Syria S.a.
+  swift: BASYSYDAXXX
+  swift8: BASYSYDA
+  branch_name: Head Office
+  branch_address: 75 Malas Building Damascus
+  branch_code: XXX
+  city: Damascus
+  country: Syrian Arab Republic
+- name: Bank Of Jordan-syria-
+  swift: BJORSYDAXXX
+  swift8: BJORSYDA
+  branch_name: Head Office
+  branch_address: Microtech Building Damascus
+  branch_code: XXX
+  city: Damascus
+  country: Syrian Arab Republic
+- name: Bank Of Syria And Overseas
+  swift: BSOMSYDAXXX
+  swift8: BSOMSYDA
+  branch_name: Head Office
+  branch_address: Lawyers Syndicate Damascus
+  branch_code: XXX
+  city: Damascus
+  country: Syrian Arab Republic
+- name: Banque Bemo Saudi Fransi S.a.
+  swift: BBSFSYDAXXX
+  swift8: BBSFSYDA
+  branch_name: Head Office
+  branch_address: Bbsf Damascus
+  branch_code: XXX
+  city: Damascus
+  country: Syrian Arab Republic
+- name: Byblos Bank Syria Sa
+  swift: BYBASYDAXXX
+  swift8: BYBASYDA
+  branch_name: Head Office
+  branch_address: Abou Roumaneh Str. Near Al Damascus
+  branch_code: XXX
+  city: Damascus
+  country: Syrian Arab Republic
+- name: Central Bank Of Syria
+  swift: CBSYSYDAXXX
+  swift8: CBSYSYDA
+  branch_name: Head Office
+  branch_address: Central Bank of Syria Damascus
+  branch_code: XXX
+  city: Damascus
+  country: Syrian Arab Republic
+- name: Cham Bank
+  swift: CHMMSYDAXXX
+  swift8: CHMMSYDA
+  branch_name: Head Office
+  branch_address: Arab Co for Livestock Developm. Damascus
+  branch_code: XXX
+  city: Damascus
+  country: Syrian Arab Republic
+- name: Commercial Bank Of Syria
+  swift: CMSYSYDAAFZ
+  swift8: CMSYSYDA
+  branch_name: Aleppo Free Zone Branch
+  branch_address: Muslimiya Free Zone Aleppo
+  branch_code: AFZ
+  city: Aleppo
+  country: Syrian Arab Republic
+- name: Commercial Bank Of Syria
+  swift: CMSYSYDAAL1
+  swift8: CMSYSYDA
+  branch_name: Aleppo 1 Branch
+  branch_address: Kastal Hajjarin Street Aleppo
+  branch_code: AL1
+  city: Aleppo
+  country: Syrian Arab Republic
+- name: Commercial Bank Of Syria
+  swift: CMSYSYDAAL2
+  swift8: CMSYSYDA
+  branch_name: Aleppo 2 Branch
+  branch_address: El-Azmeh Street Aleppo
+  branch_code: AL2
+  city: Aleppo
+  country: Syrian Arab Republic
+- name: Commercial Bank Of Syria
+  swift: CMSYSYDAAL3
+  swift8: CMSYSYDA
+  branch_name: Aleppo 3 Branch
+  branch_address: Wara El-Jammeh Street Aleppo
+  branch_code: AL3
+  city: Aleppo
+  country: Syrian Arab Republic
+- name: Commercial Bank Of Syria
+  swift: CMSYSYDAAL4
+  swift8: CMSYSYDA
+  branch_name: Aleppo Branch Nr 4
+  branch_address: Kastal Hajjarin Street Aleppo
+  branch_code: AL4
+  city: Aleppo
+  country: Syrian Arab Republic
+- name: Commercial Bank Of Syria
+  swift: CMSYSYDAAL5
+  swift8: CMSYSYDA
+  branch_name: Aleppo Branch Nr 5
+  branch_address: Kastal Hajjarin Street Aleppo
+  branch_code: AL5
+  city: Aleppo
+  country: Syrian Arab Republic
+- name: Commercial Bank Of Syria
+  swift: CMSYSYDAAL6
+  swift8: CMSYSYDA
+  branch_name: Aleppo 6 Branch
+  branch_address: Ugarit Street Aleppo
+  branch_code: AL6
+  city: Aleppo
+  country: Syrian Arab Republic
+- name: Commercial Bank Of Syria
+  swift: CMSYSYDAAL7
+  swift8: CMSYSYDA
+  branch_name: Aleppo Branch Nr 7
+  branch_address: Zahrua Street Aleppo
+  branch_code: AL7
+  city: Aleppo
+  country: Syrian Arab Republic
+- name: Commercial Bank Of Syria
+  swift: CMSYSYDAAL8
+  swift8: CMSYSYDA
+  branch_name: Aleppo 8 Branch
+  branch_address: Kastal Hajjarin Aleppo
+  branch_code: AL8
+  city: Aleppo
+  country: Syrian Arab Republic
+- name: Commercial Bank Of Syria
+  swift: CMSYSYDABA1
+  swift8: CMSYSYDA
+  branch_name: Masakin Barzeh Br
+  branch_address: Commercial Building Damascus
+  branch_code: BA1
+  city: Damascus
+  country: Syrian Arab Republic
+- name: Commercial Bank Of Syria
+  swift: CMSYSYDABK1
+  swift8: CMSYSYDA
+  branch_name: Bou Kamal
+  branch_address: Deir Alzzor
+  branch_code: BK1
+  city: Deir Alzzor
+  country: Syrian Arab Republic
+- name: Commercial Bank Of Syria
+  swift: CMSYSYDABM1
+  swift8: CMSYSYDA
+  branch_name: Tartous
+  branch_address: Municipality Build Tartous
+  branch_code: BM1
+  city: Tartous
+  country: Syrian Arab Republic
+- name: Commercial Bank Of Syria
+  swift: CMSYSYDABS1
+  swift8: CMSYSYDA
+  branch_name: 0101 Tartous
+  branch_address: Banias Com Bank 0101 Tartous
+  branch_code: BS1
+  city: Tartous
+  country: Syrian Arab Republic
+- name: Commercial Bank Of Syria
+  swift: CMSYSYDAD10
+  swift8: CMSYSYDA
+  branch_name: Branch Nr 10 Damascus
+  branch_address: Borj El-Rouss Damascus
+  branch_code: D10
+  city: Damascus
+  country: Syrian Arab Republic
+- name: Commercial Bank Of Syria
+  swift: CMSYSYDAD11
+  swift8: CMSYSYDA
+  branch_name: Branch Nr 11 Damascus
+  branch_address: Osman Bin Affan Street Damascus
+  branch_code: D11
+  city: Damascus
+  country: Syrian Arab Republic
+- name: Commercial Bank Of Syria
+  swift: CMSYSYDAD12
+  swift8: CMSYSYDA
+  branch_name: Branch Nr 12 Damascus
+  branch_address: Jiser Al Abiaed Damascus
+  branch_code: D12
+  city: Damascus
+  country: Syrian Arab Republic
+- name: Commercial Bank Of Syria
+  swift: CMSYSYDAD13
+  swift8: CMSYSYDA
+  branch_name: Branch Nr 13 Damascus
+  branch_address: Mazzah Jabal Damascus
+  branch_code: D13
+  city: Damascus
+  country: Syrian Arab Republic
+- name: Commercial Bank Of Syria
+  swift: CMSYSYDAD14
+  swift8: CMSYSYDA
+  branch_name: Damascus
+  branch_address: Damascus
+  branch_code: D14
+  city: Damascus
+  country: Syrian Arab Republic
+- name: Commercial Bank Of Syria
+  swift: CMSYSYDAD15
+  swift8: CMSYSYDA
+  branch_name: Branch Nr 15 Damascus
+  branch_address: Yarmouk Street Damascus
+  branch_code: D15
+  city: Damascus
+  country: Syrian Arab Republic
+- name: Commercial Bank Of Syria
+  swift: CMSYSYDAD16
+  swift8: CMSYSYDA
+  branch_name: Damascus 16 Branch
+  branch_address: Meysat Street Damascus
+  branch_code: D16
+  city: Damascus
+  country: Syrian Arab Republic
+- name: Fransabank Syria Sa
+  swift: FSBSSYDAXXX
+  swift8: FSBSSYDA
+  branch_name: Head Office
+  branch_address: Bitar 8465 Damascus
+  branch_code: XXX
+  city: Damascus
+  country: Syrian Arab Republic
+- name: Real Estate Bank
+  swift: REBSSYDAXXX
+  swift8: REBSSYDA
+  branch_name: Head Office
+  branch_address: Insurance Bldg. Damascus
+  branch_code: XXX
+  city: Damascus
+  country: Syrian Arab Republic
+- name: Syria Gulf Bank, S.a.
+  swift: SGBSSYDAXXX
+  swift8: SGBSSYDA
+  branch_name: Head Office
+  branch_address: 29 Ayyar Damascus
+  branch_code: XXX
+  city: Damascus
+  country: Syrian Arab Republic
+- name: Syria International Islamic Bank
+  swift: SIIBSYDAXXX
+  swift8: SIIBSYDA
+  branch_name: Head Office
+  branch_address: Meridien Hotel 35494 Damascus
+  branch_code: XXX
+  city: Damascus
+  country: Syrian Arab Republic

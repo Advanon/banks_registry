@@ -1,0 +1,1274 @@
+---
+AR:
+- name: Banco De La Nacion Argentina
+  swift: NACNARBABAH
+  swift8: NACNARBA
+  branch_name: Bahia Blanca Branch
+  branch_address: Bahia Blanca
+  branch_code: BAH
+  city: Bahia Blanca
+  country: Argentina
+- name: Banco De La Nacion Argentina
+  swift: NACNARBACCL
+  swift8: NACNARBA
+  branch_name: Casa Central
+  branch_address: Buenos Aires
+  branch_code: CCL
+  city: Buenos Aires
+  country: Argentina
+- name: Banco De La Nacion Argentina
+  swift: NACNARBACON
+  swift8: NACNARBA
+  branch_name: Concordia Branch
+  branch_address: Concordia
+  branch_code: CON
+  city: Concordia
+  country: Argentina
+- name: Banco De La Nacion Argentina
+  swift: NACNARBACOR
+  swift8: NACNARBA
+  branch_name: Cordoba Branch
+  branch_address: Cordoba
+  branch_code: COR
+  city: Cordoba
+  country: Argentina
+- name: Banco De La Nacion Argentina
+  swift: NACNARBACTS
+  swift8: NACNARBA
+  branch_name: Corrientes Branch
+  branch_address: Corrientes
+  branch_code: CTS
+  city: Corrientes
+  country: Argentina
+- name: Banco De La Nacion Argentina
+  swift: NACNARBAMEN
+  swift8: NACNARBA
+  branch_name: Mendoza Branch
+  branch_address: Mendoza
+  branch_code: MEN
+  city: Mendoza
+  country: Argentina
+- name: Banco De La Nacion Argentina
+  swift: NACNARBAMPL
+  swift8: NACNARBA
+  branch_name: Mar Del Plata Branch
+  branch_address: Mar Del Plata
+  branch_code: MPL
+  city: Mar Del Plata
+  country: Argentina
+- name: Banco De La Nacion Argentina
+  swift: NACNARBANEU
+  swift8: NACNARBA
+  branch_name: Neuquen Branch
+  branch_address: Neuquen
+  branch_code: NEU
+  city: Neuquen
+  country: Argentina
+- name: Banco De La Nacion Argentina
+  swift: NACNARBAPER
+  swift8: NACNARBA
+  branch_name: Pergamino Branch
+  branch_address: Pergamino
+  branch_code: PER
+  city: Pergamino
+  country: Argentina
+- name: Banco De La Nacion Argentina
+  swift: NACNARBAPOS
+  swift8: NACNARBA
+  branch_name: Posadas Branch
+  branch_address: Posadas
+  branch_code: POS
+  city: Posadas
+  country: Argentina
+- name: Banco De La Nacion Argentina
+  swift: NACNARBARAF
+  swift8: NACNARBA
+  branch_name: Rafaela Branch
+  branch_address: Rafaela
+  branch_code: RAF
+  city: Rafaela
+  country: Argentina
+- name: Banco De La Nacion Argentina
+  swift: NACNARBARCU
+  swift8: NACNARBA
+  branch_name: Rio Cuarto Branch
+  branch_address: Rio Cuarto
+  branch_code: RCU
+  city: Rio Cuarto
+  country: Argentina
+- name: Banco De La Nacion Argentina
+  swift: NACNARBAREC
+  swift8: NACNARBA
+  branch_name: Reconquista Branch
+  branch_address: Reconquista
+  branch_code: REC
+  city: Reconquista
+  country: Argentina
+- name: Banco De La Nacion Argentina
+  swift: NACNARBAROS
+  swift8: NACNARBA
+  branch_name: Rosario Branch
+  branch_address: Rosario
+  branch_code: ROS
+  city: Rosario
+  country: Argentina
+- name: Banco De La Nacion Argentina
+  swift: NACNARBASAL
+  swift8: NACNARBA
+  branch_name: Salta Branch
+  branch_address: Salta
+  branch_code: SAL
+  city: Salta
+  country: Argentina
+- name: Banco De La Nacion Argentina
+  swift: NACNARBASFE
+  swift8: NACNARBA
+  branch_name: Santa Fe Branch
+  branch_address: Santa Fe
+  branch_code: SFE
+  city: Santa Fe
+  country: Argentina
+- name: Banco De La Nacion Argentina
+  swift: NACNARBASJU
+  swift8: NACNARBA
+  branch_name: San Juan Branch
+  branch_address: San Juan
+  branch_code: SJU
+  city: San Juan
+  country: Argentina
+- name: Banco De La Nacion Argentina
+  swift: NACNARBASMT
+  swift8: NACNARBA
+  branch_name: San Miguel De Tucuman Branch
+  branch_address: San Miguel De Tucuman
+  branch_code: SMT
+  city: San Miguel De Tucuman
+  country: Argentina
+- name: Banco De La Nacion Argentina
+  swift: NACNARBASRA
+  swift8: NACNARBA
+  branch_name: San Rafael Branch
+  branch_address: San Rafael
+  branch_code: SRA
+  city: San Rafael
+  country: Argentina
+- name: Banco De La Nacion Argentina
+  swift: NACNARBAVMA
+  swift8: NACNARBA
+  branch_name: Villa Maria Branch
+  branch_address: Villa Maria
+  branch_code: VMA
+  city: Villa Maria
+  country: Argentina
+- name: Banco De La Provincia De Buenos Aires
+  swift: PRBAARBABAH
+  swift8: PRBAARBA
+  branch_name: Bahia Blanca Branch
+  branch_address: Bahia Blanca
+  branch_code: BAH
+  city: Bahia Blanca
+  country: Argentina
+- name: Banco De La Provincia De Buenos Aires
+  swift: PRBAARBADIV
+  swift8: PRBAARBA
+  branch_name: Departamento De Contabilidad International Branch
+  branch_address: San Martin 108 1597 Buenos Aires
+  branch_code: DIV
+  city: Buenos Aires
+  country: Argentina
+- name: Banco De La Provincia De Buenos Aires
+  swift: PRBAARBALPT
+  swift8: PRBAARBA
+  branch_name: La Plata House
+  branch_address: La Plata
+  branch_code: LPT
+  city: La Plata
+  country: Argentina
+- name: Banco De La Provincia De Buenos Aires
+  swift: PRBAARBAMP1
+  swift8: PRBAARBA
+  branch_name: 7600 Mar Del Plata
+  branch_address: San Martin 2563 7600 Mar Del Plata
+  branch_code: MP1
+  city: Mar Del Plata
+  country: Argentina
+- name: Banco De La Provincia De Buenos Aires
+  swift: PRBAARBAXXX
+  swift8: PRBAARBA
+  branch_name: Head Office
+  branch_address: San Martin 137 1004 Buenos Aires
+  branch_code: XXX
+  city: Buenos Aires
+  country: Argentina
+- name: Banco De La Republica Oriental Del Uruguay
+  swift: BROUARBAXXX
+  swift8: BROUARBA
+  branch_name: Head Office
+  branch_address: Esmeralda 111 1035 Buenos Aires
+  branch_code: XXX
+  city: Buenos Aires
+  country: Argentina
+- name: Citibank N.A.
+  swift: CITIARBAXXX
+  swift8: CITIARBA
+  branch_name: Head Office
+  branch_address: Casa Central 1036 Buenos Aires
+  branch_code: XXX
+  city: Buenos Aires
+  country: Argentina
+- name: Jpmorgan Chase Bank, N.A.
+  swift: CHASARBAKEY
+  swift8: CHASARBA
+  branch_name: Test Key and Bke Administration
+  branch_address: Buenos Aires
+  branch_code: KEY
+  city: Buenos Aires
+  country: Argentina
+- name: Jpmorgan Chase Bank, N.A.
+  swift: CHASARBAXXX
+  swift8: CHASARBA
+  branch_name: Head Office
+  branch_address: Arenales 707 1061 Buenos Aires
+  branch_code: XXX
+  city: Buenos Aires
+  country: Argentina
+- name: Abaco Cia. Financiera S.a.
+  swift: ACIAARB1XXX
+  swift8: ACIAARB1
+  branch_name: Head Office
+  branch_address: Sarmiento 1172 Buenos Aires
+  branch_code: XXX
+  city: Buenos Aires
+  country: Argentina
+- name: American Express Bank Ltd.
+  swift: AEIBARB1XXX
+  swift8: AEIBARB1
+  branch_name: Head Office
+  branch_address: Av. Del Libertador 602 Buenos Aires
+  branch_code: XXX
+  city: Buenos Aires
+  country: Argentina
+- name: Banco Bradesco Argentina S/a
+  swift: BBDEARBAXXX
+  swift8: BBDEARBA
+  branch_name: Head Office
+  branch_address: Calle 25 De Mayo, 555 1002 Buenos Aires
+  branch_code: XXX
+  city: Buenos Aires
+  country: Argentina
+- name: Banco Central De La Republica Argentina
+  swift: BCRAARBAXXX
+  swift8: BCRAARBA
+  branch_name: Head Office
+  branch_address: Reconquista 266-74 1003 Buenos Aires
+  branch_code: XXX
+  city: Buenos Aires
+  country: Argentina
+- name: Banco Cmf S.a.
+  swift: CMFBARBAXXX
+  swift8: CMFBARBA
+  branch_name: Head Office
+  branch_address: Macacha Guemes 150 - C1106bkd Buenos Aires
+  branch_code: XXX
+  city: Buenos Aires
+  country: Argentina
+- name: Banco Columbia S.a.
+  swift: CLLUARB1XXX
+  swift8: CLLUARB1
+  branch_name: Head Office
+  branch_address: J.D. Peron 350 C1038aah Buenos Aires
+  branch_code: XXX
+  city: Buenos Aires
+  country: Argentina
+- name: Banco Comafi S.a.
+  swift: QUILARBAXXX
+  swift8: QUILARBA
+  branch_name: Head Office
+  branch_address: Av. Roque Saenz Pena 660 1035 Buenos Aires
+  branch_code: XXX
+  city: Buenos Aires
+  country: Argentina
+- name: Banco Cooperativo Del Este Argentino Ltdo.
+  swift: CESTARB1XXX
+  swift8: CESTARB1
+  branch_name: Head Office
+  branch_address: H. Yrigoyen 684 1086 Buenos Aires
+  branch_code: XXX
+  city: Buenos Aires
+  country: Argentina
+- name: Banco Credicoop Cooperativo Limitado
+  swift: BCOOARBAXXX
+  swift8: BCOOARBA
+  branch_name: Head Office
+  branch_address: Reconquista 484 1003 Buenos Aires
+  branch_code: XXX
+  city: Buenos Aires
+  country: Argentina
+- name: Banco De Corrientes S.a.
+  swift: BCORARBCXXX
+  swift8: BCORARBC
+  branch_name: No branch name
+  branch_address: No branch address
+  branch_code: XXX
+  city: Corrientes
+  country: Argentina
+- name: Banco De Formosa S.a.
+  swift: BFSAARBFXXX
+  swift8: BFSAARBF
+  branch_name: Head Office
+  branch_address: Av. 25 De Mayo 102 3600 Formosa
+  branch_code: XXX
+  city: Formosa
+  country: Argentina
+- name: Banco De Galicia Y Buenos Aires
+  swift: GABAARBAXXX
+  swift8: GABAARBA
+  branch_name: Head Office
+  branch_address: Tte. Gral. Juan Domingo Peron 407 1038 Buenos Aires
+  branch_code: XXX
+  city: Buenos Aires
+  country: Argentina
+- name: Banco De Inversion Y Comercio Exterior S.a.
+  swift: BICXARBAXXX
+  swift8: BICXARBA
+  branch_name: Head Office
+  branch_address: 25 De Mayo 526/32 C1002 Abl Buenos Aires
+  branch_code: XXX
+  city: Buenos Aires
+  country: Argentina
+- name: Banco De La Ciudad De Buenos Aires
+  swift: BACIARBAXXX
+  swift8: BACIARBA
+  branch_name: Head Office
+  branch_address: Florida 302 1313 Buenos Aires
+  branch_code: XXX
+  city: Buenos Aires
+  country: Argentina
+- name: Banco De La Pampa S.e.m.
+  swift: PAMPARBA001
+  swift8: PAMPARBA
+  branch_name: 6300 Santa Rosa
+  branch_address: Pelegrini 255 6300 Santa Rosa
+  branch_code: '001'
+  city: Santa Rosa
+  country: Argentina
+- name: Banco De La Pampa S.e.m.
+  swift: PAMPARBA200
+  swift8: PAMPARBA
+  branch_name: 6360 General Pico
+  branch_address: Calle 22 704 6360 General Pico
+  branch_code: '200'
+  city: General Pico
+  country: Argentina
+- name: Banco De La Pampa S.e.m.
+  swift: PAMPARBAXXX
+  swift8: PAMPARBA
+  branch_name: Head Office
+  branch_address: Reconquista 319 C1003abg Buenos Aires
+  branch_code: XXX
+  city: Buenos Aires
+  country: Argentina
+- name: Banco De La Provincia De Cordoba
+  swift: CORDARBACOR
+  swift8: CORDARBA
+  branch_name: Gerencia De Comercio Exterior
+  branch_address: San Geronimo 166 5000 Cordoba
+  branch_code: COR
+  city: Cordoba
+  country: Argentina
+- name: Banco De La Provincia De Cordoba
+  swift: CORDARBAXXX
+  swift8: CORDARBA
+  branch_name: Head Office
+  branch_address: Banco De La Provincia De Cordoba 1036 Buenos Aires
+  branch_code: XXX
+  city: Buenos Aires
+  country: Argentina
+- name: Banco De La Provincia Del Neuquen S.a.
+  swift: BPNEARBAXXX
+  swift8: BPNEARBA
+  branch_name: Head Office
+  branch_address: Maipu 50 C1084abb Buenos Aires
+  branch_code: XXX
+  city: Buenos Aires
+  country: Argentina
+- name: Banco De San Juan Sa
+  swift: BSJUARBJXXX
+  swift8: BSJUARBJ
+  branch_name: Head Office
+  branch_address: Casa Matriz 5400 San Juan
+  branch_code: XXX
+  city: San Juan
+  country: Argentina
+- name: Banco De Santa Cruz S A
+  swift: BPSCARBAXXX
+  swift8: BPSCARBA
+  branch_name: Head Office
+  branch_address: Casa Central 9400 Rio Gallegos
+  branch_code: XXX
+  city: Rio Gallegos
+  country: Argentina
+- name: Banco De Servicios Y Transacciones Sa
+  swift: BSTIARBAXXX
+  swift8: BSTIARBA
+  branch_name: Head Office
+  branch_address: Corrientes 1174 C1043aay Buenos Aires
+  branch_code: XXX
+  city: Buenos Aires
+  country: Argentina
+- name: Banco De Valores
+  swift: BAVAARBAXXX
+  swift8: BAVAARBA
+  branch_name: Head Office
+  branch_address: Sarmiento 310 1041 Buenos Aires
+  branch_code: XXX
+  city: Buenos Aires
+  country: Argentina
+- name: Banco Del Chubut S.a.
+  swift: BPCHARBAXXX
+  swift8: BPCHARBA
+  branch_name: Head Office
+  branch_address: 25 De Mayo 273 1002 Buenos Aires
+  branch_code: XXX
+  city: Buenos Aires
+  country: Argentina
+- name: Banco Del Tucuman S.a.
+  swift: BDTUARBMXXX
+  swift8: BDTUARBM
+  branch_name: Head Office
+  branch_address: San Martin 721 4000 San Miguel De Tucuman
+  branch_code: XXX
+  city: San Miguel De Tucuman
+  country: Argentina
+- name: Banco Finansur S.a.
+  swift: BFSUARBAXXX
+  swift8: BFSUARBA
+  branch_name: Head Office
+  branch_address: Sarmiento 700 C1041aan Buenos Aires
+  branch_code: XXX
+  city: Buenos Aires
+  country: Argentina
+- name: Banco Hipotecario S.a.
+  swift: BHIPARBAXXX
+  swift8: BHIPARBA
+  branch_name: Head Office
+  branch_address: Reconquista 151 C1003abc Buenos Aires
+  branch_code: XXX
+  city: Buenos Aires
+  country: Argentina
+- name: Banco Industrial S.a.
+  swift: NBIAARBAXXX
+  swift8: NBIAARBA
+  branch_name: Head Office
+  branch_address: Samiento 530 C1041aal Buenos Aires
+  branch_code: XXX
+  city: Buenos Aires
+  country: Argentina
+- name: Banco Interamericano De Desarrollo
+  swift: IDESARB1XXX
+  swift8: IDESARB1
+  branch_name: Head Office
+  branch_address: Calle Esmeralda 130 1035 Buenos Aires
+  branch_code: XXX
+  city: Buenos Aires
+  country: Argentina
+- name: Banco Interfinanzas S.a.
+  swift: BIINARBAXXX
+  swift8: BIINARBA
+  branch_name: Head Office
+  branch_address: Torre Bouchard 1106 Buenos Aires
+  branch_code: XXX
+  city: Buenos Aires
+  country: Argentina
+- name: Banco Itau Argentina S.a.
+  swift: ITAUARBAXXX
+  swift8: ITAUARBA
+  branch_name: Head Office
+  branch_address: Victoria Ocampo 360 1107 Buenos Aires
+  branch_code: XXX
+  city: Buenos Aires
+  country: Argentina
+- name: Banco Macro S.a.
+  swift: BOSUARBAXXX
+  swift8: BOSUARBA
+  branch_name: Head Office
+  branch_address: Sarmiento 355 C1041aag Buenos Aires
+  branch_code: XXX
+  city: Buenos Aires
+  country: Argentina
+- name: Banco Mariva S.a.
+  swift: MARIARBAXXX
+  swift8: MARIARBA
+  branch_name: Head Office
+  branch_address: Mariva C1041aaj Buenos Aires
+  branch_code: XXX
+  city: Buenos Aires
+  country: Argentina
+- name: Banco Mercurio S.a.
+  swift: CMERARB1XXX
+  swift8: CMERARB1
+  branch_name: Head Office
+  branch_address: San Martin 233 Buenos Aires
+  branch_code: XXX
+  city: Buenos Aires
+  country: Argentina
+- name: Banco Meridian S.a.
+  swift: BMRDARBAXXX
+  swift8: BMRDARBA
+  branch_name: Head Office
+  branch_address: Florida 200 C 1005 Aad Buenos Aires
+  branch_code: XXX
+  city: Buenos Aires
+  country: Argentina
+- name: Banco Municipal De Rosario
+  swift: MUNRARBRXXX
+  swift8: MUNRARBR
+  branch_name: Head Office
+  branch_address: San Martin 730 2000 Rosario
+  branch_code: XXX
+  city: Rosario
+  country: Argentina
+- name: Banco Patagonia S.a.
+  swift: BSUDARBAXXX
+  swift8: BSUDARBA
+  branch_name: Head Office
+  branch_address: Edificio Patagonia C1084aac Buenos Aires
+  branch_code: XXX
+  city: Buenos Aires
+  country: Argentina
+- name: Banco Piano S.a.
+  swift: BAPIARBAXXX
+  swift8: BAPIARBA
+  branch_name: Head Office
+  branch_address: San Martin 345-347 1004 Buenos Aires
+  branch_code: XXX
+  city: Buenos Aires
+  country: Argentina
+- name: Banco Provincia De Tierra Del Fuego
+  swift: TTFAARBAXXX
+  swift8: TTFAARBA
+  branch_name: Head Office
+  branch_address: Sarmiento 741 1041 Buenos Aires
+  branch_code: XXX
+  city: Buenos Aires
+  country: Argentina
+- name: Banco Roela S.a.
+  swift: ROEBARB10B2
+  swift8: ROEBARB1
+  branch_name: Sucursal Alem
+  branch_address: Leandro N. Alem 1499 5012 Cordoba
+  branch_code: 0B2
+  city: Cordoba
+  country: Argentina
+- name: Banco Roela S.a.
+  swift: ROEBARB10B3
+  swift8: ROEBARB1
+  branch_name: Sucursal Justo
+  branch_address: Juan B. Justo 3455 5001 Cordoba
+  branch_code: 0B3
+  city: Cordoba
+  country: Argentina
+- name: Banco Roela S.a.
+  swift: ROEBARB10B4
+  swift8: ROEBARB1
+  branch_name: Sucursal San Martin
+  branch_address: San Martin 56 5000 Cordoba
+  branch_code: 0B4
+  city: Cordoba
+  country: Argentina
+- name: Banco Roela S.a.
+  swift: ROEBARB10BA
+  swift8: ROEBARB1
+  branch_name: 1048 Buenos Aires
+  branch_address: Tucuman 788 1048 Buenos Aires
+  branch_code: 0BA
+  city: Buenos Aires
+  country: Argentina
+- name: Banco Saenz S.a.
+  swift: BSAEARBAXXX
+  swift8: BSAEARBA
+  branch_name: Head Office
+  branch_address: Bartolome Mitre 800 1036 Buenos Aires
+  branch_code: XXX
+  city: Buenos Aires
+  country: Argentina
+- name: Banco Santander Rio S.a.
+  swift: BSCHARBASSS
+  swift8: BSCHARBA
+  branch_name: Securities Services System
+  branch_address: Buenos Aires
+  branch_code: SSS
+  city: Buenos Aires
+  country: Argentina
+- name: Banco Santander Rio S.a.
+  swift: BSCHARBAXXX
+  swift8: BSCHARBA
+  branch_name: Head Office
+  branch_address: Bartolome Mitre 480 1036 Buenos Aires
+  branch_code: XXX
+  city: Buenos Aires
+  country: Argentina
+- name: Banco Supervielle
+  swift: BSUPARBADOC
+  swift8: BSUPARBA
+  branch_name: Operaciones Centralizadas
+  branch_address: Buenos Aires
+  branch_code: DOC
+  city: Buenos Aires
+  country: Argentina
+- name: Banco Supervielle
+  swift: BSUPARBAEXT
+  swift8: BSUPARBA
+  branch_name: Dto Comercio Exterior
+  branch_address: Buenos Aires
+  branch_code: EXT
+  city: Buenos Aires
+  country: Argentina
+- name: Banco Supervielle
+  swift: BSUPARBAFIN
+  swift8: BSUPARBA
+  branch_name: Dto Operaciones De Mercado
+  branch_address: Buenos Aires
+  branch_code: FIN
+  city: Buenos Aires
+  country: Argentina
+- name: Banco Supervielle
+  swift: BSUPARBATIT
+  swift8: BSUPARBA
+  branch_name: Dto Operaciones De Titulos
+  branch_address: Buenos Aires
+  branch_code: TIT
+  city: Buenos Aires
+  country: Argentina
+- name: Banco Supervielle
+  swift: BSUPARBAXXX
+  swift8: BSUPARBA
+  branch_name: Head Office
+  branch_address: Bartolome Mitre 434 C1036aah Buenos Aires
+  branch_code: XXX
+  city: Buenos Aires
+  country: Argentina
+- name: Bank Of Tokyo-mitsubishi Ufj, Ltd., The
+  swift: BOTKARBAXXX
+  swift8: BOTKARBA
+  branch_name: Buenos Aires Branch
+  branch_address: Av. Corrientes 420 1043 Buenos Aires
+  branch_code: XXX
+  city: Buenos Aires
+  country: Argentina
+- name: Bankers Trust Argentina S.a., Sociedad De Bolsa
+  swift: BTABARB1XXX
+  swift8: BTABARB1
+  branch_name: Head Office
+  branch_address: Tucuman 1 14 Piso 1004 Buenos Aires
+  branch_code: XXX
+  city: Buenos Aires
+  country: Argentina
+- name: Bankers Trust Rio De La Plata Sacf
+  swift: BKTRARB1XXX
+  swift8: BKTRARB1
+  branch_name: Head Office
+  branch_address: San Martin 140 1004 Buenos Aires
+  branch_code: XXX
+  city: Buenos Aires
+  country: Argentina
+- name: Bbva-banco Frances S.a.
+  swift: BFRPARB10B6
+  swift8: BFRPARB1
+  branch_name: 7600 Mar Del Plata
+  branch_address: Avenida Independencia 2650 7600 Mar Del Plata
+  branch_code: 0B6
+  city: Mar Del Plata
+  country: Argentina
+- name: Bbva-banco Frances S.a.
+  swift: BFRPARB10B7
+  swift8: BFRPARB1
+  branch_name: 3230 Paso De Los Libres
+  branch_address: Colon Y Yatay 3230 Paso De Los Libres
+  branch_code: 0B7
+  city: Paso De Los Libres
+  country: Argentina
+- name: Bbva-banco Frances S.a.
+  swift: BFRPARB10BC
+  swift8: BFRPARB1
+  branch_name: 5000 Cordoba
+  branch_address: 25 De Mayo 266 5000 Cordoba
+  branch_code: 0BC
+  city: Cordoba
+  country: Argentina
+- name: Bbva-banco Frances S.a.
+  swift: BFRPARB10BR
+  swift8: BFRPARB1
+  branch_name: 2000 Rosario
+  branch_address: San Lorenzo 1098 2000 Rosario
+  branch_code: 0BR
+  city: Rosario
+  country: Argentina
+- name: Bbva-banco Frances S.a.
+  swift: BFRPARBAXXX
+  swift8: BFRPARBA
+  branch_name: Head Office
+  branch_address: Reconquista 199 C1003abc Buenos Aires
+  branch_code: XXX
+  city: Buenos Aires
+  country: Argentina
+- name: Bnp Paribas-succursale De Buenos Aires
+  swift: BNPAARBAXXX
+  swift8: BNPAARBA
+  branch_name: Head Office
+  branch_address: 25 De Mayo 471 1002 Buenos Aires
+  branch_code: XXX
+  city: Buenos Aires
+  country: Argentina
+- name: Bolsa De Comercio Rosario
+  swift: XROSARB1XXX
+  swift8: XROSARB1
+  branch_name: Head Office
+  branch_address: Cordoba 1402 2000 Rosario
+  branch_code: XXX
+  city: Rosario
+  country: Argentina
+- name: Boston Inversora De Valores S.a.
+  swift: BOIVARB1XXX
+  swift8: BOIVARB1
+  branch_name: Head Office
+  branch_address: Sarmiento 539 Buenos Aires
+  branch_code: XXX
+  city: Buenos Aires
+  country: Argentina
+- name: Caja De Valores S.a.
+  swift: CAVLARBAXXX
+  swift8: CAVLARBA
+  branch_name: Head Office
+  branch_address: Sarmiento 299 1353 Buenos Aires
+  branch_code: XXX
+  city: Buenos Aires
+  country: Argentina
+- name: Cambio Excursiones Turismo Columbus S.a.
+  swift: COLUARBAXXX
+  swift8: COLUARBA
+  branch_name: Head Office
+  branch_address: 529 San Martin 1004 Buenos Aires
+  branch_code: XXX
+  city: Buenos Aires
+  country: Argentina
+- name: Cambio Garcia Navarro, Ramaglio Y Cia. S.a.
+  swift: CGNRARBAXXX
+  swift8: CGNRARBA
+  branch_name: No branch name
+  branch_address: No branch address
+  branch_code: XXX
+  city: Mar Del Plata
+  country: Argentina
+- name: Cambio Santiago Sa
+  swift: CSNTARB1XXX
+  swift8: CSNTARB1
+  branch_name: No branch name
+  branch_address: No branch address
+  branch_code: XXX
+  city: Mendoza
+  country: Argentina
+- name: Capital Markets
+  swift: CAKRARB1XXX
+  swift8: CAKRARB1
+  branch_name: Head Office
+  branch_address: Esmeralda 130 Buenos Aires
+  branch_code: XXX
+  city: Buenos Aires
+  country: Argentina
+- name: Casa Lerchundi Sacif
+  swift: CALSARB1XXX
+  swift8: CALSARB1
+  branch_name: Head Office
+  branch_address: Parana 26 5000 Cordoba
+  branch_code: XXX
+  city: Cordoba
+  country: Argentina
+- name: Corporacion De Servicios Financieros S.a.
+  swift: FSERARB1XXX
+  swift8: FSERARB1
+  branch_name: Head Office
+  branch_address: Florida 656 Buenos Aires
+  branch_code: XXX
+  city: Buenos Aires
+  country: Argentina
+- name: Deutsche Bank Sa
+  swift: DEUTARBAXXX
+  swift8: DEUTARBA
+  branch_name: Head Office
+  branch_address: Tucuman 1 1049 Buenos Aires
+  branch_code: XXX
+  city: Buenos Aires
+  country: Argentina
+- name: Financiera Buenos Aires S.a.l. Y C.
+  swift: BUEAARB1XXX
+  swift8: BUEAARB1
+  branch_name: Head Office
+  branch_address: Florida 890 Buenos Aires
+  branch_code: XXX
+  city: Buenos Aires
+  country: Argentina
+- name: Fitch Argentina Calificadora De Riesgo S.a.
+  swift: FRIPARB1XXX
+  swift8: FRIPARB1
+  branch_name: Head Office
+  branch_address: Sarmiento 663, (C1041aam) Buenos Aires
+  branch_code: XXX
+  city: Buenos Aires
+  country: Argentina
+- name: Garcia Navarroy Cia. S.a.
+  swift: GANCARB1XXX
+  swift8: GANCARB1
+  branch_name: Head Office
+  branch_address: San Martin 171 8000 Bahia Blanca
+  branch_code: XXX
+  city: Bahia Blanca
+  country: Argentina
+- name: Hsbc Bank Argentina Sa
+  swift: BACOARB1022
+  swift8: BACOARB1
+  branch_name: 3000 Santa Fe
+  branch_address: Tucuman 2540/4 3000 Santa Fe
+  branch_code: '022'
+  city: Santa Fe
+  country: Argentina
+- name: Hsbc Bank Argentina Sa
+  swift: BACOARB1023
+  swift8: BACOARB1
+  branch_name: 1832 Lomas De Zamora
+  branch_address: Avenida Meeks 41 1832 Lomas De Zamora
+  branch_code: '023'
+  city: Lomas De Zamora
+  country: Argentina
+- name: Hsbc Bank Argentina Sa
+  swift: BACOARB1024
+  swift8: BACOARB1
+  branch_name: Resistencia Branch
+  branch_address: Juan B. Justo 151 3500 Resistencia
+  branch_code: '024'
+  city: Resistencia
+  country: Argentina
+- name: Hsbc Bank Argentina Sa
+  swift: BACOARB10B2
+  swift8: BACOARB1
+  branch_name: 5500 Mendoza
+  branch_address: Espejo 29 5500 Mendoza
+  branch_code: 0B2
+  city: Mendoza
+  country: Argentina
+- name: Hsbc Bank Argentina Sa
+  swift: BACOARB10B3
+  swift8: BACOARB1
+  branch_name: Rosario
+  branch_address: Santa Fe 1167 Rosario
+  branch_code: 0B3
+  city: Rosario
+  country: Argentina
+- name: Hsbc Bank Argentina Sa
+  swift: BACOARB10B4
+  swift8: BACOARB1
+  branch_name: Salta
+  branch_address: Mitre 143 Salta
+  branch_code: 0B4
+  city: Salta
+  country: Argentina
+- name: Hsbc Bank Argentina Sa
+  swift: BACOARB10B5
+  swift8: BACOARB1
+  branch_name: San Miguel De Tucuman
+  branch_address: San Martin 754 San Miguel De Tucuman
+  branch_code: 0B5
+  city: San Miguel De Tucuman
+  country: Argentina
+- name: Hsbc Bank Argentina Sa
+  swift: BACOARB10B6
+  swift8: BACOARB1
+  branch_name: Concepcion Branch
+  branch_address: San Martin Y Nasif Estefano 4146 Concepcion Del Uruguay
+  branch_code: 0B6
+  city: Concepcion Del Uruguay
+  country: Argentina
+- name: Hsbc Bank Argentina Sa
+  swift: BACOARB10B7
+  swift8: BACOARB1
+  branch_name: Avellaneda Branch
+  branch_address: Avenida Mitre 646 1870 Avellaneda
+  branch_code: 0B7
+  city: Avellaneda
+  country: Argentina
+- name: Hsbc Bank Argentina Sa
+  swift: BACOARB10B8
+  swift8: BACOARB1
+  branch_name: Alto Palermo Branch
+  branch_address: Avenida Santa Fe 3201 1025 Buenos Aires
+  branch_code: 0B8
+  city: Buenos Aires
+  country: Argentina
+- name: Hsbc Bank Argentina Sa
+  swift: BACOARB10BB
+  swift8: BACOARB1
+  branch_name: Avenida De Mayo Branch
+  branch_address: Chacabuco 15 1069 Buenos Aires
+  branch_code: 0BB
+  city: Buenos Aires
+  country: Argentina
+- name: Hsbc Bank Argentina Sa
+  swift: BACOARB10BC
+  swift8: BACOARB1
+  branch_name: 5000 Cordoba
+  branch_address: Alvear 83 5000 Cordoba
+  branch_code: 0BC
+  city: Cordoba
+  country: Argentina
+- name: Hsbc Bank Argentina Sa
+  swift: BACOARB10BD
+  swift8: BACOARB1
+  branch_name: Belgrano Branch
+  branch_address: Avenida Cabildo 2453 1428 Buenos Aires
+  branch_code: 0BD
+  city: Buenos Aires
+  country: Argentina
+- name: Hsbc Bank Argentina Sa
+  swift: BACOARB10BE
+  swift8: BACOARB1
+  branch_name: Cabildo Branch
+  branch_address: Avenida Cabildo 867 1426 Buenos Aires
+  branch_code: 0BE
+  city: Buenos Aires
+  country: Argentina
+- name: Hsbc Bank Argentina Sa
+  swift: BACOARB10BF
+  swift8: BACOARB1
+  branch_name: Centro Branch
+  branch_address: Tucuman 661 1049 Buenos Aires
+  branch_code: 0BF
+  city: Buenos Aires
+  country: Argentina
+- name: Hsbc Bank Argentina Sa
+  swift: BACOARB10BG
+  swift8: BACOARB1
+  branch_name: Constitucion Branch
+  branch_address: Brasil 1199 1154 Buenos Aires
+  branch_code: 0BG
+  city: Buenos Aires
+  country: Argentina
+- name: Hsbc Bank Argentina Sa
+  swift: BACOARB10BH
+  swift8: BACOARB1
+  branch_name: Florida Branch
+  branch_address: San Martin 3307 1602 Florida
+  branch_code: 0BH
+  city: Florida
+  country: Argentina
+- name: Hsbc Bank Argentina Sa
+  swift: BACOARB10BI
+  swift8: BACOARB1
+  branch_name: La Plata Branch
+  branch_address: Calle 47 - 647 1900 La Plata
+  branch_code: 0BI
+  city: La Plata
+  country: Argentina
+- name: Hsbc Bank Argentina Sa
+  swift: BACOARB10BJ
+  swift8: BACOARB1
+  branch_name: Las Heras Branch
+  branch_address: Avenida Las Heras 3000 1425 Buenos Aires
+  branch_code: 0BJ
+  city: Buenos Aires
+  country: Argentina
+- name: Hsbc Bank Argentina Sa
+  swift: BACOARB10BK
+  swift8: BACOARB1
+  branch_name: Liniers Branch
+  branch_address: Avenida Rivadavia 11148/52 1408 Buenos Aires
+  branch_code: 0BK
+  city: Buenos Aires
+  country: Argentina
+- name: Industrial And Commercial Bank Of China (argentina)s.a.
+  swift: ICBKARBAGCD
+  swift8: ICBKARBA
+  branch_name: Global Custody Department
+  branch_address: No branch address
+  branch_code: GCD
+  city: Buenos Aires
+  country: Argentina
+- name: Industrial And Commercial Bank Of China (argentina)s.a.
+  swift: ICBKARBAXXX
+  swift8: ICBKARBA
+  branch_name: No branch name
+  branch_address: No branch address
+  branch_code: XXX
+  city: Buenos Aires
+  country: Argentina
+- name: Inversionaria Argentina S.a.
+  swift: IANAARB1XXX
+  swift8: IANAARB1
+  branch_name: Head Office
+  branch_address: J.D. Peron 729 Buenos Aires
+  branch_code: XXX
+  city: Buenos Aires
+  country: Argentina
+- name: Inversiones Unidas S.a.
+  swift: INUNARB1XXX
+  swift8: INUNARB1
+  branch_name: Head Office
+  branch_address: San Martin 140 Buenos Aires
+  branch_code: XXX
+  city: Buenos Aires
+  country: Argentina
+- name: Inversora S.a. Compania Financiera
+  swift: CFINARB1XXX
+  swift8: CFINARB1
+  branch_name: Head Office
+  branch_address: Calle 47 637 1900 La Plata
+  branch_code: XXX
+  city: La Plata
+  country: Argentina
+- name: Inversur S.r.l.
+  swift: INVEARB1XXX
+  swift8: INVEARB1
+  branch_name: Head Office
+  branch_address: J Diaz De Solis 2104 7600 Santo Tome
+  branch_code: XXX
+  city: Santo Tome
+  country: Argentina
+- name: Mba Banco De Inversiones Sa
+  swift: MBINARB1XXX
+  swift8: MBINARB1
+  branch_name: Head Office
+  branch_address: Alicia Moreau De Justo 140 1043 Buenos Aires
+  branch_code: XXX
+  city: Buenos Aires
+  country: Argentina
+- name: Mercado De Valores De Buenos Aires S.a.-merval
+  swift: XMEVARB1XXX
+  swift8: XMEVARB1
+  branch_name: Head Office
+  branch_address: 25 De Mayo 359 C1002abc Buenos Aires
+  branch_code: XXX
+  city: Buenos Aires
+  country: Argentina
+- name: Mercado De Valores De Buenos Aires Sa
+  swift: XBUEARB1XXX
+  swift8: XBUEARB1
+  branch_name: Head Office
+  branch_address: 25 De Mayo 359 1002 Buenos Aires
+  branch_code: XXX
+  city: Buenos Aires
+  country: Argentina
+- name: Merchant Bank Argentina
+  swift: MEARARB1XXX
+  swift8: MEARARB1
+  branch_name: Head Office
+  branch_address: Corrientes 311 1043 Buenos Aires
+  branch_code: XXX
+  city: Buenos Aires
+  country: Argentina
+- name: Metropolis Compania Financiera S.a.
+  swift: MCFAARBAXXX
+  swift8: MCFAARBA
+  branch_name: Head Office
+  branch_address: Sarmiento 356 C1041aah Buenos Aires
+  branch_code: XXX
+  city: Buenos Aires
+  country: Argentina
+- name: Montemar Compania Financiera S.a.
+  swift: MCFIARB10B3
+  swift8: MCFIARB1
+  branch_name: San Juan
+  branch_address: Mendoza 133 Sur San Juan
+  branch_code: 0B3
+  city: San Juan
+  country: Argentina
+- name: Montemar Compania Financiera S.a.
+  swift: MCFIARB10BS
+  swift8: MCFIARB1
+  branch_name: San Rafael
+  branch_address: H. Yrigoyen 13 San Rafael
+  branch_code: 0BS
+  city: San Rafael
+  country: Argentina
+- name: Montemar Compania Financiera S.a.
+  swift: MCFIARB1XXX
+  swift8: MCFIARB1
+  branch_name: Head Office
+  branch_address: Avenida San Martin 1152 5500 Mendoza
+  branch_code: XXX
+  city: Mendoza
+  country: Argentina
+- name: Montemar Compania Financiera S.a.
+  swift: MCFIARBMXXX
+  swift8: MCFIARBM
+  branch_name: No branch name
+  branch_address: No branch address
+  branch_code: XXX
+  city: Mendoza
+  country: Argentina
+- name: Moody's Latin America, Calificadora De Riesgo S.a.
+  swift: MLACARB1XXX
+  swift8: MLACARB1
+  branch_name: Head Office
+  branch_address: Cerrito 1186 C1010aax Buenos Aires
+  branch_code: XXX
+  city: Buenos Aires
+  country: Argentina
+- name: Multifinanzas Compania Financiera S.a.
+  swift: MFCFARBAXXX
+  swift8: MFCFARBA
+  branch_name: Head Office
+  branch_address: Sarmiento 448 C1041aaj Buenos Aires
+  branch_code: XXX
+  city: Buenos Aires
+  country: Argentina
+- name: Nuevo Banco De Entre Rios S.a.
+  swift: BERAARBAXXX
+  swift8: BERAARBA
+  branch_name: Head Office
+  branch_address: Monte Caseros 128 3100 Parana (Entre Rios)
+  branch_code: XXX
+  city: Parana (Entre Rios)
+  country: Argentina
+- name: Nuevo Banco De Santa Fe S.a.
+  swift: BPSFARBA000
+  swift8: BPSFARBA
+  branch_name: Rosario
+  branch_address: Rosario
+  branch_code: '000'
+  city: Rosario
+  country: Argentina
+- name: Nuevo Banco De Santa Fe S.a.
+  swift: BPSFARBA500
+  swift8: BPSFARBA
+  branch_name: Santa Fe
+  branch_address: Santa Fe
+  branch_code: '500'
+  city: Santa Fe
+  country: Argentina
+- name: Nuevo Banco De Santa Fe S.a.
+  swift: BPSFARBAA45
+  swift8: BPSFARBA
+  branch_name: San Juan
+  branch_address: San Juan
+  branch_code: A45
+  city: San Juan
+  country: Argentina
+- name: Nuevo Banco De Santa Fe S.a.
+  swift: BPSFARBAA86
+  swift8: BPSFARBA
+  branch_name: Rio Gallegos
+  branch_address: Rio Gallegos
+  branch_code: A86
+  city: Rio Gallegos
+  country: Argentina
+- name: Nuevo Banco De Santa Fe S.a.
+  swift: BPSFARBAXXX
+  swift8: BPSFARBA
+  branch_name: Head Office
+  branch_address: Pte. J.D. Peron 338 Buenos Aires
+  branch_code: XXX
+  city: Buenos Aires
+  country: Argentina
+- name: Nuevo Banco Del Chaco S.a.
+  swift: BACHARBAXXX
+  swift8: BACHARBA
+  branch_name: Head Office
+  branch_address: Sarmiento 781 1041 Buenos Aires
+  branch_code: XXX
+  city: Buenos Aires
+  country: Argentina
+- name: Puente Hnos. S.a.
+  swift: CALPARBAXXX
+  swift8: CALPARBA
+  branch_name: No branch name
+  branch_address: No branch address
+  branch_code: XXX
+  city: Buenos Aires
+  country: Argentina
+- name: Rabello Y Cia S.a. Sociedad De Bolsa
+  swift: RABCARB1XXX
+  swift8: RABCARB1
+  branch_name: Head Office
+  branch_address: Av. Corrientes 345 1043 Buenos Aires
+  branch_code: XXX
+  city: Buenos Aires
+  country: Argentina
+- name: Raymond James Argentina Sociedad De Bolsa Sociedadanonima
+  swift: RAJRARB1XXX
+  swift8: RAJRARB1
+  branch_name: Head Office
+  branch_address: San Martin 344 1002 Buenos Aires
+  branch_code: XXX
+  city: Buenos Aires
+  country: Argentina
+- name: Samsung Electronics Argentina S.a.
+  swift: SECTARB1830
+  swift8: SECTARB1
+  branch_name: Seasa
+  branch_address: Bouchard 547 C1106abl Buenos Aires
+  branch_code: '830'
+  city: Buenos Aires
+  country: Argentina
+- name: Samsung Electronics Argentina S.a.
+  swift: SECTARB1XXX
+  swift8: SECTARB1
+  branch_name: Head Office
+  branch_address: Bouchard 547 C1106abl Buenos Aires
+  branch_code: XXX
+  city: Buenos Aires
+  country: Argentina
+- name: Sbs Sociedad De Bolsa S.a.
+  swift: SBSOARB1XXX
+  swift8: SBSOARB1
+  branch_name: Head Office
+  branch_address: Edificio Torre Catalinas Plaza 1001 Buenos Aires
+  branch_code: XXX
+  city: Buenos Aires
+  country: Argentina
+- name: T.p.c.g. Capital S.a.
+  swift: TPCGARB1XXX
+  swift8: TPCGARB1
+  branch_name: Head Office
+  branch_address: Dardo Rocha 2786 1038 Buenos Aires
+  branch_code: XXX
+  city: Buenos Aires
+  country: Argentina
+- name: Tavelli Y Cia.s.a.sociedad De Bolsa
+  swift: TAVEARB1XXX
+  swift8: TAVEARB1
+  branch_name: Head Office
+  branch_address: 25 De Mayo 267 Buenos Aires
+  branch_code: XXX
+  city: Buenos Aires
+  country: Argentina
+- name: Transcambio S.a.
+  swift: GFTCARBAXXX
+  swift8: GFTCARBA
+  branch_name: Head Office
+  branch_address: San Martin 140 1004 Buenos Aires
+  branch_code: XXX
+  city: Buenos Aires
+  country: Argentina
+- name: Tutelar Compania Financiera S.a.
+  swift: TUCFARB1XXX
+  swift8: TUCFARB1
+  branch_name: Head Office
+  branch_address: Sarmiento 356 1041 Buenos Aires
+  branch_code: XXX
+  city: Buenos Aires
+  country: Argentina
+- name: Vanexva Bursatil Sa
+  swift: VNXBARB1XXX
+  swift8: VNXBARB1
+  branch_name: Head Office
+  branch_address: Reconquista 458 1358 Buenos Aires
+  branch_code: XXX
+  city: Buenos Aires
+  country: Argentina
+- name: Vw Argentina S.a.
+  swift: ARGNARB1XXX
+  swift8: ARGNARB1
+  branch_name: No branch name
+  branch_address: No branch address
+  branch_code: XXX
+  city: General
+  country: Argentina

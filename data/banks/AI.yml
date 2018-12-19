@@ -1,0 +1,42 @@
+---
+AI:
+- name: Caribbean Commercial Bank (ang) Ltd.
+  swift: CABNAIAIXXX
+  swift8: CABNAIAI
+  branch_name: Head Office
+  branch_address: The Valley
+  branch_code: XXX
+  city: The Valley
+  country: Anguilla
+- name: Firstcaribbean International Bank
+  swift: FCIBAIAIXXX
+  swift8: FCIBAIAI
+  branch_name: Head Office
+  branch_address: The Valley
+  branch_code: XXX
+  city: The Valley
+  country: Anguilla
+- name: Government Of Anguilla
+  swift: GVANAIAIXXX
+  swift8: GVANAIAI
+  branch_name: Head Office
+  branch_address: The Ministry of Finance the Valley
+  branch_code: XXX
+  city: The Valley
+  country: Anguilla
+- name: National Bank Of Anguilla Ltd.
+  swift: ANGUAIAIXXX
+  swift8: ANGUAIAI
+  branch_name: Head Office
+  branch_address: The Valley
+  branch_code: XXX
+  city: The Valley
+  country: Anguilla
+- name: Scotiabank Anguilla Ltd.
+  swift: NOSCAIAIXXX
+  swift8: NOSCAIAI
+  branch_name: Head Office
+  branch_address: Fairplay Commercial Complex the Valley
+  branch_code: XXX
+  city: The Valley
+  country: Anguilla

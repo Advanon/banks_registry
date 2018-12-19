@@ -1,0 +1,34 @@
+---
+TO:
+- name: Anz Banking Group Limited
+  swift: ANZBTONNXXX
+  swift8: ANZBTONN
+  branch_name: Head Office
+  branch_address: Cor. Salote and Railway Roads Nukualofa
+  branch_code: XXX
+  city: Nuku'Alofa
+  country: Tonga
+- name: Bat Tonga
+  swift: BATSTOA1XXX
+  swift8: BATSTOA1
+  branch_name: Head Office
+  branch_address: Vuna Road, Sopu, Nukualofa Tonga
+  branch_code: XXX
+  city: Nuku'Alofa
+  country: Tonga
+- name: Mbf Bank Limited
+  swift: MBFMTONUXXX
+  swift8: MBFMTONU
+  branch_name: Head Office
+  branch_address: Taufaahau Road Nukualofa
+  branch_code: XXX
+  city: Nuku'Alofa
+  country: Tonga
+- name: National Reserve Bank Of Tonga
+  swift: NRBTTONUXXX
+  swift8: NRBTTONU
+  branch_name: Head Office
+  branch_address: Nrbt Building Nukualofa
+  branch_code: XXX
+  city: Nuku ' Alofa
+  country: Tonga

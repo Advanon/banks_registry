@@ -1,0 +1,866 @@
+---
+LY:
+- name: Al Wafa Bank
+  swift: ALWFLYLTXXX
+  swift8: ALWFLYLT
+  branch_name: Head Office
+  branch_address: Al Fallah Road Tripoli
+  branch_code: XXX
+  city: Tripoli
+  country: Libya
+- name: Alejma'a Alarabi Bank
+  swift: EJABLYLXXXX
+  swift8: EJABLYLX
+  branch_name: Head Office
+  branch_address: Alejmaa Alarabi Bank Building Benghazi
+  branch_code: XXX
+  city: Benghazi
+  country: Libya
+- name: Aman Bank For Commerce And Investment
+  swift: ABCNLYLT015
+  swift8: ABCNLYLT
+  branch_name: Benghazi Branch
+  branch_address: Al Imad Tower Benghazi
+  branch_code: '015'
+  city: Benghazi
+  country: Libya
+- name: Aman Bank For Commerce And Investment
+  swift: ABCNLYLT017
+  swift8: ABCNLYLT
+  branch_name: Tripoli
+  branch_address: Tripoli
+  branch_code: '017'
+  city: Tripoli
+  country: Libya
+- name: Aman Bank For Commerce And Investment
+  swift: ABCNLYLTXXX
+  swift8: ABCNLYLT
+  branch_name: Head Office
+  branch_address: That Al Emad Tower 3 Tripoli
+  branch_code: XXX
+  city: Tripoli
+  country: Libya
+- name: Arab Commercial Bank
+  swift: ACOMLYLTXXX
+  swift8: ACOMLYLT
+  branch_name: Head Office
+  branch_address: Hay Anlandulas Tripoli
+  branch_code: XXX
+  city: Tripoli
+  country: Libya
+- name: Assaray Trade And Investment Bank
+  swift: ATIBLYLTXXX
+  swift8: ATIBLYLT
+  branch_name: Head Office
+  branch_address: Maizran Tripoli
+  branch_code: XXX
+  city: Tripoli
+  country: Libya
+- name: Bank Of Commerce And Development (l.j.s.c.
+  swift: CDBLLYLT011
+  swift8: CDBLLYLT
+  branch_name: Benghazi Main Branch
+  branch_address: Al Muktar Tower Benghazi
+  branch_code: '011'
+  city: Benghazi
+  country: Libya
+- name: Bank Of Commerce And Development (l.j.s.c.
+  swift: CDBLLYLT012
+  swift8: CDBLLYLT
+  branch_name: El Forosia Agency
+  branch_address: Alfurasia Investment Club Complex Benghazi
+  branch_code: '012'
+  city: Benghazi
+  country: Libya
+- name: Bank Of Commerce And Development (l.j.s.c.
+  swift: CDBLLYLT013
+  swift8: CDBLLYLT
+  branch_name: Benina Airport Agency
+  branch_address: Benina Airport Benghazi
+  branch_code: '013'
+  city: Benghazi
+  country: Libya
+- name: Bank Of Commerce And Development (l.j.s.c.
+  swift: CDBLLYLT014
+  swift8: CDBLLYLT
+  branch_name: Islamic Call Agency
+  branch_address: Islamic Call Building Benghazi
+  branch_code: '014'
+  city: Benghazi
+  country: Libya
+- name: Bank Of Commerce And Development (l.j.s.c.
+  swift: CDBLLYLT015
+  swift8: CDBLLYLT
+  branch_name: El Berka Agency
+  branch_address: El Berka Building Benghazi
+  branch_code: '015'
+  city: Benghazi
+  country: Libya
+- name: Bank Of Commerce And Development (l.j.s.c.
+  swift: CDBLLYLT017
+  swift8: CDBLLYLT
+  branch_name: Garden City Agency
+  branch_address: Al Hadaik Benghazi
+  branch_code: '017'
+  city: Benghazi
+  country: Libya
+- name: Bank Of Commerce And Development (l.j.s.c.
+  swift: CDBLLYLT018
+  swift8: CDBLLYLT
+  branch_name: Children Agency
+  branch_address: Al Hadaik Benghazi
+  branch_code: '018'
+  city: Benghazi
+  country: Libya
+- name: Bank Of Commerce And Development (l.j.s.c.
+  swift: CDBLLYLT019
+  swift8: CDBLLYLT
+  branch_name: Ejdabia Branch
+  branch_address: Al Helal Alahmer Ejdabia
+  branch_code: '019'
+  city: Ejdabia
+  country: Libya
+- name: Bank Of Commerce And Development (l.j.s.c.
+  swift: CDBLLYLT021
+  swift8: CDBLLYLT
+  branch_name: Tripoli Main Branch
+  branch_address: Tripoli Main Branch Building Tripoli
+  branch_code: '021'
+  city: Tripoli
+  country: Libya
+- name: Bank Of Commerce And Development (l.j.s.c.
+  swift: CDBLLYLT022
+  swift8: CDBLLYLT
+  branch_name: Gout Al Shaal Agency
+  branch_address: Zarqa Al Emama Center No.2 Tripoli
+  branch_code: '022'
+  city: Tripoli
+  country: Libya
+- name: Bank Of Commerce And Development (l.j.s.c.
+  swift: CDBLLYLT023
+  swift8: CDBLLYLT
+  branch_name: El Fateh Tower Agency
+  branch_address: Al Fateh Tower Tripoli
+  branch_code: '023'
+  city: Tripoli
+  country: Libya
+- name: Bank Of Commerce And Development (l.j.s.c.
+  swift: CDBLLYLT025
+  swift8: CDBLLYLT
+  branch_name: Gergarish Agency
+  branch_address: Zarqa Al Emama Center No.1 Tripoli
+  branch_code: '025'
+  city: Tripoli
+  country: Libya
+- name: Bank Of Commerce And Development (l.j.s.c.
+  swift: CDBLLYLT026
+  swift8: CDBLLYLT
+  branch_name: Dat El Imad Agency
+  branch_address: Dat El Imad Building Tower No.1 Tripoli
+  branch_code: '026'
+  city: Tripoli
+  country: Libya
+- name: Bank Of Commerce And Development (l.j.s.c.
+  swift: CDBLLYLT027
+  swift8: CDBLLYLT
+  branch_name: Grand Hotel Agency
+  branch_address: Grand Hotel Tripoli
+  branch_code: '027'
+  city: Tripoli
+  country: Libya
+- name: Bank Of Commerce And Development (l.j.s.c.
+  swift: CDBLLYLT029
+  swift8: CDBLLYLT
+  branch_name: El Madar Agency
+  branch_address: El Madar Company Tripoli
+  branch_code: '029'
+  city: Tripoli
+  country: Libya
+- name: Bank Of Commerce And Development (l.j.s.c.
+  swift: CDBLLYLT031
+  swift8: CDBLLYLT
+  branch_name: Misurata Main Branch
+  branch_address: Permanent Industrial Fair Building Misurata
+  branch_code: '031'
+  city: Misurata
+  country: Libya
+- name: Bank Of Commerce And Development (l.j.s.c.
+  swift: CDBLLYLT032
+  swift8: CDBLLYLT
+  branch_name: Africa Agency
+  branch_address: Africa Trade Center Misurata
+  branch_code: '032'
+  city: Misurata
+  country: Libya
+- name: Bank Of Commerce And Development (l.j.s.c.
+  swift: CDBLLYLT041
+  swift8: CDBLLYLT
+  branch_name: Tobruk Main Branch
+  branch_address: Tobruck Main Branch Building Tobruk
+  branch_code: '041'
+  city: Tobruk
+  country: Libya
+- name: Bank Of Commerce And Development (l.j.s.c.
+  swift: CDBLLYLT042
+  swift8: CDBLLYLT
+  branch_name: Emssaed Agency
+  branch_address: Emssaed
+  branch_code: '042'
+  city: Emssaed
+  country: Libya
+- name: Bank Of Commerce And Development (l.j.s.c.
+  swift: CDBLLYLT051
+  swift8: CDBLLYLT
+  branch_name: El Zawia Main Branch
+  branch_address: Al Amlaq Building El Zawia
+  branch_code: '051'
+  city: El Zawia
+  country: Libya
+- name: Banque Sahelo-saharienne Pour L'investissement Et Le Commerce (tripoli
+  swift: BSAHLYLXXXX
+  swift8: BSAHLYLX
+  branch_name: Head Office
+  branch_address: Al Fatah Tower Tripoli
+  branch_code: XXX
+  city: Tripoli
+  country: Libya
+- name: Bsic Head Office
+  swift: WAHALYLXXXX
+  swift8: WAHALYLX
+  branch_name: Head Office
+  branch_address: Gourgi Road Tripoli
+  branch_code: XXX
+  city: Tripoli
+  country: Libya
+- name: Central Bank Of Libya
+  swift: CBLJLYLX001
+  swift8: CBLJLYLX
+  branch_name: Benghazi Branch
+  branch_address: Jamal Abdlnaser Street Benghazi
+  branch_code: '001'
+  city: Benghazi
+  country: Libya
+- name: Central Bank Of Libya
+  swift: CBLJLYLX002
+  swift8: CBLJLYLX
+  branch_name: Sebha Branch
+  branch_address: Jamal Abdlnaser Sebha
+  branch_code: '002'
+  city: Sebha
+  country: Libya
+- name: Central Bank Of Libya
+  swift: CBLJLYLX004
+  swift8: CBLJLYLX
+  branch_name: Operation Department
+  branch_address: Dahra Tripoli 21 Tripoli
+  branch_code: '004'
+  city: Tripoli
+  country: Libya
+- name: Central Bank Of Libya
+  swift: CBLJLYLXXXX
+  swift8: CBLJLYLX
+  branch_name: Head Office
+  branch_address: Central Bank Tripoli
+  branch_code: XXX
+  city: Tripoli
+  country: Libya
+- name: Central Bank Of Libya
+  swift: CBLJLYLYXXX
+  swift8: CBLJLYLY
+  branch_name: Head Office
+  branch_address: Sharia Al-Malik Seoud Tripoli
+  branch_code: XXX
+  city: Tripoli
+  country: Libya
+- name: Development Bank
+  swift: DEVOLYLTXXX
+  swift8: DEVOLYLT
+  branch_name: Head Office
+  branch_address: Sowani Road Tripoli Libya Tripoli
+  branch_code: XXX
+  city: Tripoli
+  country: Libya
+- name: First Gulf Libyan Bank
+  swift: FGBLLYLTXXX
+  swift8: FGBLLYLT
+  branch_name: Head Office
+  branch_address: Sabaa Min November Street Tripoli
+  branch_code: XXX
+  city: Tripoli
+  country: Libya
+- name: General National Maritime Transport Company
+  swift: GNMTLYL1XXX
+  swift8: GNMTLYL1
+  branch_name: Head Office
+  branch_address: 123456 Gargarish Road, Abounwas Tripoli
+  branch_code: XXX
+  city: Tripoli
+  country: Libya
+- name: Jumhouria Bank
+  swift: JAMBLYLT001
+  swift8: JAMBLYLT
+  branch_name: Al Maydan Branch
+  branch_address: Tripoli
+  branch_code: '001'
+  city: Tripoli
+  country: Libya
+- name: Jumhouria Bank
+  swift: JAMBLYLT002
+  swift8: JAMBLYLT
+  branch_name: Al Mgarief Branch
+  branch_address: Tripoli
+  branch_code: '002'
+  city: Tripoli
+  country: Libya
+- name: Jumhouria Bank
+  swift: JAMBLYLT003
+  swift8: JAMBLYLT
+  branch_name: Al Madina Branch
+  branch_address: Benghazi
+  branch_code: '003'
+  city: Benghazi
+  country: Libya
+- name: Jumhouria Bank
+  swift: JAMBLYLT004
+  swift8: JAMBLYLT
+  branch_name: Dernia Branch
+  branch_address: Derna
+  branch_code: '004'
+  city: Derna
+  country: Libya
+- name: Jumhouria Bank
+  swift: JAMBLYLT005
+  swift8: JAMBLYLT
+  branch_name: Bab Al Jadeed Branch
+  branch_address: Tripoli
+  branch_code: '005'
+  city: Tripoli
+  country: Libya
+- name: Jumhouria Bank
+  swift: JAMBLYLT006
+  swift8: JAMBLYLT
+  branch_name: Ahmed Sharif Branch
+  branch_address: Misurata
+  branch_code: '006'
+  city: Misurata
+  country: Libya
+- name: Jumhouria Bank
+  swift: JAMBLYLT009
+  swift8: JAMBLYLT
+  branch_name: Al Zawya Branch
+  branch_address: Zawia
+  branch_code: '009'
+  city: Zawia
+  country: Libya
+- name: Jumhouria Bank
+  swift: JAMBLYLT010
+  swift8: JAMBLYLT
+  branch_name: Assreem Branch
+  branch_address: Tripoli
+  branch_code: '010'
+  city: Tripoli
+  country: Libya
+- name: Jumhouria Bank
+  swift: JAMBLYLT011
+  swift8: JAMBLYLT
+  branch_name: Tobruk Almadina
+  branch_address: Tobruk
+  branch_code: '011'
+  city: Tobruk
+  country: Libya
+- name: Jumhouria Bank
+  swift: JAMBLYLT012
+  swift8: JAMBLYLT
+  branch_name: Souk Al Jummaa Branch
+  branch_address: Tripoli
+  branch_code: '012'
+  city: Tripoli
+  country: Libya
+- name: Jumhouria Bank
+  swift: JAMBLYLT014
+  swift8: JAMBLYLT
+  branch_name: Zliten
+  branch_address: Zliten
+  branch_code: '014'
+  city: Zliten
+  country: Libya
+- name: Jumhouria Bank
+  swift: JAMBLYLT015
+  swift8: JAMBLYLT
+  branch_name: Athara Branch
+  branch_address: Tripoli
+  branch_code: '015'
+  city: Tripoli
+  country: Libya
+- name: Jumhouria Bank
+  swift: JAMBLYLT016
+  swift8: JAMBLYLT
+  branch_name: Al Marj Branch
+  branch_address: Al Marj
+  branch_code: '016'
+  city: Al Marj
+  country: Libya
+- name: Jumhouria Bank
+  swift: JAMBLYLT017
+  swift8: JAMBLYLT
+  branch_name: Zaliten Branch
+  branch_address: Zliten
+  branch_code: '017'
+  city: Zliten
+  country: Libya
+- name: Jumhouria Bank
+  swift: JAMBLYLT018
+  swift8: JAMBLYLT
+  branch_name: Sout of Tripoli Branch
+  branch_address: Tripoli
+  branch_code: '018'
+  city: Tripoli
+  country: Libya
+- name: Jumhouria Bank
+  swift: JAMBLYLT019
+  swift8: JAMBLYLT
+  branch_name: Mgharba Branch
+  branch_address: Elfateh Tripoli
+  branch_code: '019'
+  city: Tripoli
+  country: Libya
+- name: Jumhouria Bank
+  swift: JAMBLYLT020
+  swift8: JAMBLYLT
+  branch_name: Gharian
+  branch_address: Gharian
+  branch_code: '020'
+  city: Gharian
+  country: Libya
+- name: Jumhouria Bank
+  swift: JAMBLYLT022
+  swift8: JAMBLYLT
+  branch_name: Souk Altolata
+  branch_address: Tripoli
+  branch_code: '022'
+  city: Tripoli
+  country: Libya
+- name: Jumhouria Bank
+  swift: JAMBLYLT023
+  swift8: JAMBLYLT
+  branch_name: Souk Al Nour Branch
+  branch_address: Benghazi
+  branch_code: '023'
+  city: Benghazi
+  country: Libya
+- name: Jumhouria Bank
+  swift: JAMBLYLT025
+  swift8: JAMBLYLT
+  branch_name: Tarhouna Branch
+  branch_address: Tarhouna
+  branch_code: '025'
+  city: Tarhouna
+  country: Libya
+- name: Jumhouria Bank (albieda Branch
+  swift: JAMBLYLT013
+  swift8: JAMBLYLT
+  branch_name: El Bieda
+  branch_address: El Bieda
+  branch_code: '013'
+  city: El
+  country: Libya
+- name: Libyan Foreign Bank
+  swift: LAFBLYLTXXX
+  swift8: LAFBLYLT
+  branch_name: Head Office
+  branch_address: Dat El Imad Administrative Complex Tripoli
+  branch_code: XXX
+  city: Tripoli
+  country: Libya
+- name: Libyan Investment Authority
+  swift: LIATLYLTXXX
+  swift8: LIATLYLT
+  branch_name: Head Office
+  branch_address: Burj Al-Fatah 93099 Tripoli
+  branch_code: XXX
+  city: Tripoli
+  country: Libya
+- name: Mabruk Oil Operation
+  swift: MOOCLYLTXXX
+  swift8: MOOCLYLT
+  branch_name: Head Office
+  branch_address: Tower 2 Tripoli
+  branch_code: XXX
+  city: Tripoli
+  country: Libya
+- name: Mediterranean Bank
+  swift: METILYLTXXX
+  swift8: METILYLT
+  branch_name: Head Office
+  branch_address: Mediterranean Bank Benghazi
+  branch_code: XXX
+  city: Benghazi
+  country: Libya
+- name: National Commercial Bank
+  swift: LNCBLYLT050
+  swift8: LNCBLYLT
+  branch_name: Tripoli
+  branch_address: Tripoli
+  branch_code: '050'
+  city: Tripoli
+  country: Libya
+- name: National Commercial Bank
+  swift: LNCBLYLT051
+  swift8: LNCBLYLT
+  branch_name: Main Branch
+  branch_address: Tripoli
+  branch_code: '051'
+  city: Tripoli
+  country: Libya
+- name: National Commercial Bank
+  swift: LNCBLYLT052
+  swift8: LNCBLYLT
+  branch_name: Benghazi-Main Branch
+  branch_address: Benghazi
+  branch_code: '052'
+  city: Benghazi
+  country: Libya
+- name: National Commercial Bank
+  swift: LNCBLYLT053
+  swift8: LNCBLYLT
+  branch_name: Sabha
+  branch_address: Sabha
+  branch_code: '053'
+  city: Sabha
+  country: Libya
+- name: National Commercial Bank
+  swift: LNCBLYLT054
+  swift8: LNCBLYLT
+  branch_name: Beida-Main Branch
+  branch_address: Beida
+  branch_code: '054'
+  city: Beida
+  country: Libya
+- name: National Commercial Bank
+  swift: LNCBLYLT055
+  swift8: LNCBLYLT
+  branch_name: Derna
+  branch_address: Derna
+  branch_code: '055'
+  city: Derna
+  country: Libya
+- name: National Commercial Bank
+  swift: LNCBLYLT056
+  swift8: LNCBLYLT
+  branch_name: Misurata Branch
+  branch_address: Misurata
+  branch_code: '056'
+  city: Misurata
+  country: Libya
+- name: National Commercial Bank
+  swift: LNCBLYLT057
+  swift8: LNCBLYLT
+  branch_name: Gharian
+  branch_address: Gharian
+  branch_code: '057'
+  city: Gharian
+  country: Libya
+- name: National Commercial Bank
+  swift: LNCBLYLT058
+  swift8: LNCBLYLT
+  branch_name: Tobruk
+  branch_address: Tobruk
+  branch_code: '058'
+  city: Tobruk
+  country: Libya
+- name: National Commercial Bank
+  swift: LNCBLYLT059
+  swift8: LNCBLYLT
+  branch_name: Khumis Branch
+  branch_address: Al Khums
+  branch_code: '059'
+  city: Al Khums
+  country: Libya
+- name: National Commercial Bank
+  swift: LNCBLYLT060
+  swift8: LNCBLYLT
+  branch_name: Zawia
+  branch_address: Zawia
+  branch_code: '060'
+  city: Zawia
+  country: Libya
+- name: National Commercial Bank
+  swift: LNCBLYLT061
+  swift8: LNCBLYLT
+  branch_name: City
+  branch_address: Tripoli
+  branch_code: '061'
+  city: Tripoli
+  country: Libya
+- name: National Commercial Bank
+  swift: LNCBLYLT062
+  swift8: LNCBLYLT
+  branch_name: Istiklal Branch
+  branch_address: Tripoli
+  branch_code: '062'
+  city: Tripoli
+  country: Libya
+- name: National Commercial Bank
+  swift: LNCBLYLT064
+  swift8: LNCBLYLT
+  branch_name: Municipality Square
+  branch_address: Tripoli
+  branch_code: '064'
+  city: Tripoli
+  country: Libya
+- name: National Commercial Bank
+  swift: LNCBLYLT065
+  swift8: LNCBLYLT
+  branch_name: Seuqeltholatha Branch
+  branch_address: Tripoli
+  branch_code: '065'
+  city: Tripoli
+  country: Libya
+- name: National Commercial Bank
+  swift: LNCBLYLT066
+  swift8: LNCBLYLT
+  branch_name: Emsaad Br
+  branch_address: Tobruk
+  branch_code: '066'
+  city: Tobruk
+  country: Libya
+- name: National Commercial Bank
+  swift: LNCBLYLT067
+  swift8: LNCBLYLT
+  branch_name: Ghadames Branch
+  branch_address: Ghadamis
+  branch_code: '067'
+  city: Ghadamis
+  country: Libya
+- name: National Commercial Bank
+  swift: LNCBLYLT068
+  swift8: LNCBLYLT
+  branch_name: Algubba Br
+  branch_address: Derna
+  branch_code: '068'
+  city: Derna
+  country: Libya
+- name: National Commercial Bank
+  swift: LNCBLYLT069
+  swift8: LNCBLYLT
+  branch_name: Ebrak Br
+  branch_address: Sebha
+  branch_code: '069'
+  city: Sebha
+  country: Libya
+- name: National Commercial Bank
+  swift: LNCBLYLT070
+  swift8: LNCBLYLT
+  branch_name: Almena Branch
+  branch_address: Tripoli
+  branch_code: '070'
+  city: Tripoli
+  country: Libya
+- name: North Africa Bank
+  swift: NABLLYLXIBC
+  swift8: NABLLYLX
+  branch_name: Islamic Banking Corporation
+  branch_address: No branch address
+  branch_code: IBC
+  city: Tripoli
+  country: Libya
+- name: North Africa Bank
+  swift: NABLLYLXTIP
+  swift8: NABLLYLX
+  branch_name: Branch
+  branch_address: North Africa Bank 00218 Tripoli
+  branch_code: TIP
+  city: Tripoli
+  country: Libya
+- name: North Africa Bank
+  swift: NABLLYLXXXX
+  swift8: NABLLYLX
+  branch_name: Head Office
+  branch_address: North Africa Bank 80930 Tripoli
+  branch_code: XXX
+  city: Tripoli
+  country: Libya
+- name: Sahara Bank
+  swift: SABKLYLXBEN
+  swift8: SABKLYLX
+  branch_name: Head Office Benghazi
+  branch_address: Elfwehat 270 Benghazi
+  branch_code: BEN
+  city: Benghazi
+  country: Libya
+- name: Sahara Bank
+  swift: SABKLYLXXXX
+  swift8: SABKLYLX
+  branch_name: Head Office
+  branch_address: 10 First September Street Tripoli
+  branch_code: XXX
+  city: Tripoli
+  country: Libya
+- name: United Bank For Commerce And Investment
+  swift: UNCNLYLTXXX
+  swift8: UNCNLYLT
+  branch_name: Head Office
+  branch_address: Gumhouria Street 00218 Tripoli
+  branch_code: XXX
+  city: Tripoli
+  country: Libya
+- name: Wahda Bank
+  swift: WAHBLYLX011
+  swift8: WAHBLYLX
+  branch_name: Main Branch
+  branch_address: Tripoli
+  branch_code: '011'
+  city: Tripoli
+  country: Libya
+- name: Wahda Bank
+  swift: WAHBLYLX012
+  swift8: WAHBLYLX
+  branch_name: 1st September Branch
+  branch_address: Tripoli
+  branch_code: '012'
+  city: Tripoli
+  country: Libya
+- name: Wahda Bank
+  swift: WAHBLYLX014
+  swift8: WAHBLYLX
+  branch_name: Baladiya Branch
+  branch_address: Tripoli
+  branch_code: '014'
+  city: Tripoli
+  country: Libya
+- name: Wahda Bank
+  swift: WAHBLYLX015
+  swift8: WAHBLYLX
+  branch_name: Magarba
+  branch_address: Magarba
+  branch_code: '015'
+  city: Magarba
+  country: Libya
+- name: Wahda Bank
+  swift: WAHBLYLX016
+  swift8: WAHBLYLX
+  branch_name: Eltholathaa
+  branch_address: Tripoli
+  branch_code: '016'
+  city: Tripoli
+  country: Libya
+- name: Wahda Bank
+  swift: WAHBLYLX018
+  swift8: WAHBLYLX
+  branch_name: Andulus
+  branch_address: Andulus
+  branch_code: '018'
+  city: Andulus
+  country: Libya
+- name: Wahda Bank
+  swift: WAHBLYLX019
+  swift8: WAHBLYLX
+  branch_name: Jadah Branch
+  branch_address: Tripoli
+  branch_code: '019'
+  city: Tripoli
+  country: Libya
+- name: Wahda Bank
+  swift: WAHBLYLX020
+  swift8: WAHBLYLX
+  branch_name: Rashid
+  branch_address: Rashid
+  branch_code: '020'
+  city: Rashid
+  country: Libya
+- name: Wahda Bank
+  swift: WAHBLYLX030
+  swift8: WAHBLYLX
+  branch_name: Main Branch
+  branch_address: Benghazi
+  branch_code: '030'
+  city: Benghazi
+  country: Libya
+- name: Wahda Bank
+  swift: WAHBLYLX031
+  swift8: WAHBLYLX
+  branch_name: Mukhtar Branch
+  branch_address: Benghazi
+  branch_code: '031'
+  city: Benghazi
+  country: Libya
+- name: Wahda Bank
+  swift: WAHBLYLX032
+  swift8: WAHBLYLX
+  branch_name: Maidan Branch
+  branch_address: Benghazi
+  branch_code: '032'
+  city: Benghazi
+  country: Libya
+- name: Wahda Bank
+  swift: WAHBLYLX034
+  swift8: WAHBLYLX
+  branch_name: Souk
+  branch_address: Souk
+  branch_code: '034'
+  city: Souk
+  country: Libya
+- name: Wahda Bank
+  swift: WAHBLYLX035
+  swift8: WAHBLYLX
+  branch_name: Sabri
+  branch_address: Sabri
+  branch_code: '035'
+  city: Sabri
+  country: Libya
+- name: Wahda Bank
+  swift: WAHBLYLX036
+  swift8: WAHBLYLX
+  branch_name: Rwisat
+  branch_address: Rwisat
+  branch_code: '036'
+  city: Rwisat
+  country: Libya
+- name: Wahda Bank
+  swift: WAHBLYLX040
+  swift8: WAHBLYLX
+  branch_name: Derna Branch
+  branch_address: Derna
+  branch_code: '040'
+  city: Derna
+  country: Libya
+- name: Wahda Bank
+  swift: WAHBLYLX041
+  swift8: WAHBLYLX
+  branch_name: Ajdabia
+  branch_address: Ajdabia
+  branch_code: '041'
+  city: Ajdabia
+  country: Libya
+- name: Wahda Bank
+  swift: WAHBLYLX043
+  swift8: WAHBLYLX
+  branch_name: Sirte
+  branch_address: Sirte
+  branch_code: '043'
+  city: Sirte
+  country: Libya
+- name: Wahda Bank
+  swift: WAHBLYLX044
+  swift8: WAHBLYLX
+  branch_name: Yefren Branch
+  branch_address: Yefren
+  branch_code: '044'
+  city: Yefren
+  country: Libya
+- name: Wahda Bank
+  swift: WAHBLYLX046
+  swift8: WAHBLYLX
+  branch_name: Ben Jwad
+  branch_address: Ben Jwad
+  branch_code: '046'
+  city: Ben
+  country: Libya
+- name: Wahda Bank
+  swift: WAHBLYLX048
+  swift8: WAHBLYLX
+  branch_name: Jalo
+  branch_address: Jalo
+  branch_code: '048'
+  city: Jalo
+  country: Libya

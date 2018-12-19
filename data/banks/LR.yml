@@ -1,0 +1,138 @@
+---
+LR:
+- name: Citibank N.A.
+  swift: CITILRL1XXX
+  swift8: CITILRL1
+  branch_name: Head Office
+  branch_address: Monrovia
+  branch_code: XXX
+  city: Monrovia
+  country: Liberia
+- name: Accessbank Liberia
+  swift: ACLILRLMXXX
+  swift8: ACLILRLM
+  branch_name: Head Office
+  branch_address: Intersection Johnson, Ashmun and Monrovia
+  branch_code: XXX
+  city: Monrovia
+  country: Liberia
+- name: Afriland First Bank Liberia Limited
+  swift: CCEILRLMXXX
+  swift8: CCEILRLM
+  branch_name: Head Office
+  branch_address: Old Dc 101 Crown Hill 1935 Monrovia
+  branch_code: XXX
+  city: Monrovia
+  country: Liberia
+- name: Agricultural And Cooperative Develoment Bank
+  swift: AGRCLRL1XXX
+  swift8: AGRCLRL1
+  branch_name: Head Office
+  branch_address: Carey and Warren Street Monrovia
+  branch_code: XXX
+  city: Monrovia
+  country: Liberia
+- name: Central Bank Of Liberia
+  swift: CBLRLRLAXXX
+  swift8: CBLRLRLA
+  branch_name: No branch name
+  branch_address: No branch address
+  branch_code: XXX
+  city: Monrovia
+  country: Liberia
+- name: Central Bank Of Liberia
+  swift: CBLRLRLMXXX
+  swift8: CBLRLRLM
+  branch_name: Head Office
+  branch_address: Central Bank of Liberia Building Monrovia
+  branch_code: XXX
+  city: Monrovia
+  country: Liberia
+- name: Ecobank Liberia Limited
+  swift: ECOCLRLMXXX
+  swift8: ECOCLRLM
+  branch_name: Head Office
+  branch_address: Protestant Episcopal 4825 Monrovia
+  branch_code: XXX
+  city: Monrovia
+  country: Liberia
+- name: First International Bank Liberia Limited
+  swift: FIERLRLMXXX
+  swift8: FIERLRLM
+  branch_name: Head Office
+  branch_address: Luke Building 00231 Monrovia
+  branch_code: XXX
+  city: Monrovia
+  country: Liberia
+- name: Global Bank Liberia Limited (member Bankphb Group
+  swift: PHBXLRLMXXX
+  swift8: PHBXLRLM
+  branch_name: Head Office
+  branch_address: Ashmun and Mechlin Streets 10 Monrovia
+  branch_code: XXX
+  city: Monrovia
+  country: Liberia
+- name: Guaranty Trust Bank (liberia) Limited
+  swift: GTBILRLMXXX
+  swift8: GTBILRLM
+  branch_name: Head Office
+  branch_address: United Nations Drive Monrovia
+  branch_code: XXX
+  city: Monrovia
+  country: Liberia
+- name: International Bank (liberia) Limited
+  swift: IBLRLRLMXXX
+  swift8: IBLRLRLM
+  branch_name: Head Office
+  branch_address: King Building Monrovia
+  branch_code: XXX
+  city: Monrovia
+  country: Liberia
+- name: Liberian Bank For Development And Investment, The
+  swift: LBDELRLMXXX
+  swift8: LBDELRLM
+  branch_name: Head Office
+  branch_address: Ashmun and Randall Streets Monrovia
+  branch_code: XXX
+  city: Monrovia
+  country: Liberia
+- name: Liberian Trading And Development Bank, The
+  swift: TLTRLRL1XXX
+  swift8: TLTRLRL1
+  branch_name: Head Office
+  branch_address: 57 Ashmun Street Monrovia
+  branch_code: XXX
+  city: Monrovia
+  country: Liberia
+- name: Meridien Biao Bank Liberia Ltd
+  swift: LIMELRL1XXX
+  swift8: LIMELRL1
+  branch_name: Head Office
+  branch_address: Meridien House Monrovia
+  branch_code: XXX
+  city: Monrovia
+  country: Liberia
+- name: National Bank Of Liberia
+  swift: NBLILRL1XXX
+  swift8: NBLILRL1
+  branch_name: Head Office
+  branch_address: Eg King Plaza Monrovia
+  branch_code: XXX
+  city: Monrovia
+  country: Liberia
+- name: United Bank For Africa (liberia) Limited
+  swift: UNAFLRLMXXX
+  swift8: UNAFLRLM
+  branch_name: Head Office
+  branch_address: Broad and Nelson Street Monrovia
+  branch_code: XXX
+  city: Monrovia
+  country: Liberia
+- name: West Bank4u
+  swift: WETTLRL1XXX
+  swift8: WETTLRL1
+  branch_name: Head Office
+  branch_address: Sinkor Building 1000 Monrovia
+  branch_code: XXX
+  city: Monrovia
+  country: Liberia

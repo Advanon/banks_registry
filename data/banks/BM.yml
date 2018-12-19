@@ -1,0 +1,394 @@
+---
+BM:
+- name: Swiss Reinsurance Company
+  swift: SWREBMH1XXX
+  swift8: SWREBMH1
+  branch_name: Head Office
+  branch_address: Mintflower Place Hm 08 Hamilton
+  branch_code: XXX
+  city: Hamilton
+  country: Bermuda
+- name: Altree Financial Ltd.
+  swift: ALCUBMHHXXX
+  swift8: ALCUBMHH
+  branch_name: Head Office
+  branch_address: Dallas Building Hm 11 Hamilton
+  branch_code: XXX
+  city: Hamilton
+  country: Bermuda
+- name: Atlantic Investment And Development
+  swift: ATIDBMH1XXX
+  swift8: ATIDBMH1
+  branch_name: Head Office
+  branch_address: Front Street Hamilton
+  branch_code: XXX
+  city: Hamilton
+  country: Bermuda
+- name: Bank Of N.t. Butterfield And Son Limited, The
+  swift: BNTBBMHMXXX
+  swift8: BNTBBMHM
+  branch_name: Head Office
+  branch_address: 65 Front Street 5-25 Hamilton
+  branch_code: XXX
+  city: Hamilton
+  country: Bermuda
+- name: Bermuda Commercial Bank Limited
+  swift: BPBKBMHMXXX
+  swift8: BPBKBMHM
+  branch_name: Head Office
+  branch_address: Bermuda Commercial Bank Building Hm 11 Hamilton
+  branch_code: XXX
+  city: Hamilton
+  country: Bermuda
+- name: Bermuda Monetary Authority
+  swift: BEMABMHMXXX
+  swift8: BEMABMHM
+  branch_name: Head Office
+  branch_address: Burnaby House Hm11 Hamilton
+  branch_code: XXX
+  city: Hamilton
+  country: Bermuda
+- name: Bermuda Stock Exchange Ltd, The
+  swift: XBDABMH1XXX
+  swift8: XBDABMH1
+  branch_name: Head Office
+  branch_address: Washington Mall, Phase 1 Hm 11 Hamilton
+  branch_code: XXX
+  city: Hamilton
+  country: Bermuda
+- name: Bermuda Trust Company Limited
+  swift: BERTBMH1XXX
+  swift8: BERTBMH1
+  branch_name: Head Office
+  branch_address: Compass Point Hamilton
+  branch_code: XXX
+  city: Hamilton
+  country: Bermuda
+- name: Bloomberg Tradebook (bermuda) Ltd.
+  swift: TBASBMHMXXX
+  swift8: TBASBMHM
+  branch_name: Head Office
+  branch_address: Mercury House Hm 11 Hamilton
+  branch_code: XXX
+  city: Hamilton
+  country: Bermuda
+- name: Bolton Capital Partners International Limited
+  swift: BCPNBMH1XXX
+  swift8: BCPNBMH1
+  branch_name: No branch name
+  branch_address: No branch address
+  branch_code: XXX
+  city: Hamilton
+  country: Bermuda
+- name: Boston Re Ltd
+  swift: BOSRBMHMXXX
+  swift8: BOSRBMHM
+  branch_name: Head Office
+  branch_address: Cedar House Hm 12 Hamilton
+  branch_code: XXX
+  city: Hamilton
+  country: Bermuda
+- name: Butterfield Trust (bermuda) Limited
+  swift: BNTBBMHSXXX
+  swift8: BNTBBMHS
+  branch_name: Head Office
+  branch_address: Rosebank Centre Hm Gx Hamilton
+  branch_code: XXX
+  city: Hamilton
+  country: Bermuda
+- name: Cambuslang Investments Limited
+  swift: CMILBMH1XXX
+  swift8: CMILBMH1
+  branch_name: Head Office
+  branch_address: Victoria Hall Hmax Hamilton
+  branch_code: XXX
+  city: Hamilton
+  country: Bermuda
+- name: Capital G Bank Limited
+  swift: CAGPBMHMXXX
+  swift8: CAGPBMHM
+  branch_name: Head Office
+  branch_address: 19 Reid Street Hamilton
+  branch_code: XXX
+  city: Hamilton
+  country: Bermuda
+- name: Castle Harbour Insurance Limited
+  swift: CAHIBMH1XXX
+  swift8: CAHIBMH1
+  branch_name: Head Office
+  branch_address: Victoria Hall Hmax Hamilton
+  branch_code: XXX
+  city: Hamilton
+  country: Bermuda
+- name: Churchill Capital Ltd.
+  swift: CHCABMH1XXX
+  swift8: CHCABMH1
+  branch_name: Head Office
+  branch_address: Reid House Hm19 Hamilton
+  branch_code: XXX
+  city: Hamilton
+  country: Bermuda
+- name: Cs Life Bermuda
+  swift: CSLEBMH1XXX
+  swift8: CSLEBMH1
+  branch_name: Head Office
+  branch_address: 41a Cedar Avenue Hamilton
+  branch_code: XXX
+  city: Hamilton
+  country: Bermuda
+- name: Dkr Ibex
+  swift: DKIBBMH1XXX
+  swift8: DKIBBMH1
+  branch_name: Head Office
+  branch_address: Clarendon House Hm 11 Hamilton
+  branch_code: XXX
+  city: Hamilton
+  country: Bermuda
+- name: Dkr Oasis Fischer Group
+  swift: DOFGBMH1XXX
+  swift8: DOFGBMH1
+  branch_name: Head Office
+  branch_address: 29 Richmond Road Hm 08 Hamilton
+  branch_code: XXX
+  city: Hamilton
+  country: Bermuda
+- name: Everest Capital Global Ltd
+  swift: EVCIBMH1XXX
+  swift8: EVCIBMH1
+  branch_name: Head Office
+  branch_address: Washington Mall West Hm12 Hamilton
+  branch_code: XXX
+  city: Hamilton
+  country: Bermuda
+- name: Glencore Finance (bermuda) Ltd
+  swift: GFBEBMH1XXX
+  swift8: GFBEBMH1
+  branch_name: Head Office
+  branch_address: Cedar Avenue 41a Hm 12 Hamilton
+  branch_code: XXX
+  city: Hamilton
+  country: Bermuda
+- name: Harrington Sound Insurance Limited
+  swift: HSILBMH1XXX
+  swift8: HSILBMH1
+  branch_name: Head Office
+  branch_address: Victoria Hall Hmax Hamilton
+  branch_code: XXX
+  city: Hamilton
+  country: Bermuda
+- name: Hsbc Bank Bermuda
+  swift: BBDABMHMCTS
+  swift8: BBDABMHM
+  branch_name: Corporate Trust Services
+  branch_address: Hamilton
+  branch_code: CTS
+  city: Hamilton
+  country: Bermuda
+- name: Hsbc Bank Bermuda
+  swift: BBDABMHMINV
+  swift8: BBDABMHM
+  branch_name: Investment Dept
+  branch_address: Hamilton
+  branch_code: INV
+  city: Hamilton
+  country: Bermuda
+- name: Hsbc Bank Bermuda
+  swift: BBDABMHMXXX
+  swift8: BBDABMHM
+  branch_name: Head Office
+  branch_address: 6 Front Street Hm11 Hamilton
+  branch_code: XXX
+  city: Hamilton
+  country: Bermuda
+- name: Hsbc Bank Bermuda
+  swift: BBDABMHPXXX
+  swift8: BBDABMHP
+  branch_name: Head Office
+  branch_address: 6, Front Street Hm11 Hamilton
+  branch_code: XXX
+  city: Hamilton
+  country: Bermuda
+- name: Invesco Ltd
+  swift: IVZLBMHHXXX
+  swift8: IVZLBMHH
+  branch_name: Head Office
+  branch_address: Appleby (Bermuda) Limited Hm 12 Hamilton
+  branch_code: XXX
+  city: Hamilton
+  country: Bermuda
+- name: Kintore Investments Limited
+  swift: KINTBMH1XXX
+  swift8: KINTBMH1
+  branch_name: Head Office
+  branch_address: Victoria Hall Hmax Hamilton
+  branch_code: XXX
+  city: Hamilton
+  country: Bermuda
+- name: Marcuard Spectrum Limited
+  swift: MAUMBMH1XXX
+  swift8: MAUMBMH1
+  branch_name: Head Office
+  branch_address: Chancery Hall 52 Bmu Hm12 Hamilton
+  branch_code: XXX
+  city: Hamilton
+  country: Bermuda
+- name: Merrill Lynch Reinsurance Solutions
+  swift: MLRIBMHMXXX
+  swift8: MLRIBMHM
+  branch_name: Head Office
+  branch_address: Clarendon House Hamilton
+  branch_code: XXX
+  city: Hamilton
+  country: Bermuda
+- name: Mf Global Ltd
+  swift: MFGLBMH1XXX
+  swift8: MFGLBMH1
+  branch_name: Head Office
+  branch_address: Clarendon House Hm11 Hamilton
+  branch_code: XXX
+  city: Hamilton
+  country: Bermuda
+- name: Microsoft Global Finance
+  swift: MSFTBMH1GLB
+  swift8: MSFTBMH1
+  branch_name: Microsoft Global Bond
+  branch_address: Hamilton
+  branch_code: GLB
+  city: Hamilton
+  country: Bermuda
+- name: Microsoft Global Finance
+  swift: MSFTBMH1SPF
+  swift8: MSFTBMH1
+  branch_name: Microsoft Global Finance Fx
+  branch_address: Hamilton
+  branch_code: SPF
+  city: Hamilton
+  country: Bermuda
+- name: Microsoft Global Finance
+  swift: MSFTBMH1XXX
+  swift8: MSFTBMH1
+  branch_name: Head Office
+  branch_address: Clarendon House Hamilton
+  branch_code: XXX
+  city: Hamilton
+  country: Bermuda
+- name: Nephila Capital Ltd.
+  swift: NEPHBMHMXXX
+  swift8: NEPHBMHM
+  branch_name: Head Office
+  branch_address: 3 Burnaby Street Hm 12 Hamilton
+  branch_code: XXX
+  city: Hamilton
+  country: Bermuda
+- name: Nomura Securities (bermuda) Limited
+  swift: NOSRBMH1XXX
+  swift8: NOSRBMH1
+  branch_name: Head Office
+  branch_address: Clarendon House 8 Hamilton
+  branch_code: XXX
+  city: Hamilton
+  country: Bermuda
+- name: Novartis Securities Investment Ltd
+  swift: NOVRBMHM012
+  swift8: NOVRBMHM
+  branch_name: Hamilton
+  branch_address: Hamilton
+  branch_code: '012'
+  city: Hamilton
+  country: Bermuda
+- name: Novartis Securities Investment Ltd
+  swift: NOVRBMHM028
+  swift8: NOVRBMHM
+  branch_name: Hamilton
+  branch_address: Hamilton
+  branch_code: '028'
+  city: Hamilton
+  country: Bermuda
+- name: Novartis Securities Investment Ltd
+  swift: NOVRBMHMXXX
+  swift8: NOVRBMHM
+  branch_name: Head Office
+  branch_address: Hurst Holme Hm 11 Hamilton
+  branch_code: XXX
+  city: Hamilton
+  country: Bermuda
+- name: Oracle Management Limited
+  swift: ORMABMH1XXX
+  swift8: ORMABMH1
+  branch_name: Head Office
+  branch_address: Covenant House Hamilton
+  branch_code: XXX
+  city: Hamilton
+  country: Bermuda
+- name: Orbis Investment Management Limited
+  swift: ORIMBMH1XXX
+  swift8: ORIMBMH1
+  branch_name: Head Office
+  branch_address: Lpg Building Hm 11 Hamilton
+  branch_code: XXX
+  city: Hamilton
+  country: Bermuda
+- name: P.r.p Performa Limited
+  swift: PRPFBMH1XXX
+  swift8: PRPFBMH1
+  branch_name: Head Office
+  branch_address: Continental Building Hm12 Hamilton
+  branch_code: XXX
+  city: Hamilton
+  country: Bermuda
+- name: Parsec Trading Corp
+  swift: PTRNBMH1XXX
+  swift8: PTRNBMH1
+  branch_name: Head Office
+  branch_address: Rosebank Centre Hm 08 Hamilton
+  branch_code: XXX
+  city: Hamilton
+  country: Bermuda
+- name: Renaissancere Holdings Ltd.
+  swift: RRHLBMH1XXX
+  swift8: RRHLBMH1
+  branch_name: Head Office
+  branch_address: Renaissance House 19 Hamilton
+  branch_code: XXX
+  city: Hamilton
+  country: Bermuda
+- name: Roche Intertrade Limited
+  swift: ROCHBMHAXXX
+  swift8: ROCHBMHA
+  branch_name: Head Office
+  branch_address: C/O Conyers, Dill and Pearman Hm 11 Hamilton
+  branch_code: XXX
+  city: Hamilton
+  country: Bermuda
+- name: Schroders (bermuda) Limited
+  swift: SBDABMH1XXX
+  swift8: SBDABMH1
+  branch_name: Head Office
+  branch_address: Washington Mall Penthouse Hm11 Hamilton
+  branch_code: XXX
+  city: Hamilton
+  country: Bermuda
+- name: Tcc Markets Limited
+  swift: TCCMBMHMXXX
+  swift8: TCCMBMHM
+  branch_name: Head Office
+  branch_address: Front Street 73 Hm 12 Hamilton
+  branch_code: XXX
+  city: Hamilton
+  country: Bermuda
+- name: Ufg Advisors Limited
+  swift: UFADBMH1XXX
+  swift8: UFADBMH1
+  branch_name: Head Office
+  branch_address: Chancery Hall Hm 12 Hamilton
+  branch_code: XXX
+  city: Hamilton
+  country: Bermuda
+- name: Worldwide Transactions
+  swift: WOTABMH1XXX
+  swift8: WOTABMH1
+  branch_name: Head Office
+  branch_address: 48 Par-La-Ville Road Hm 11 Hamilton
+  branch_code: XXX
+  city: Hamilton
+  country: Bermuda

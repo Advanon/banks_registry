@@ -1,0 +1,3138 @@
+---
+SE:
+- name: Alandsbanken Sverige Ab
+  swift: AABASESSXXX
+  swift8: AABASESS
+  branch_name: Head Office
+  branch_address: Stureplan 19 107 81 Stockholm
+  branch_code: XXX
+  city: Stockholm
+  country: Sweden
+- name: Bankgirocentralen Bgc Ab
+  swift: BGABSESGXXX
+  swift8: BGABSESG
+  branch_name: Head Office
+  branch_address: Palmfeltsvaegen 5a 10519 Stockholm
+  branch_code: XXX
+  city: Stockholm
+  country: Sweden
+- name: Bankgirocentralen Bgc Ab
+  swift: BGABSESSMUL
+  swift8: BGABSESS
+  branch_name: Multilateral Settlement
+  branch_address: Stockholm
+  branch_code: MUL
+  city: Stockholm
+  country: Sweden
+- name: Bankgirocentralen Bgc Ab
+  swift: BGABSESSXXX
+  swift8: BGABSESS
+  branch_name: Head Office
+  branch_address: Palmfeltsvagen 5a 105 19 Stockholm
+  branch_code: XXX
+  city: Stockholm
+  country: Sweden
+- name: Citibank International Plc
+  swift: CITISESXXXX
+  swift8: CITISESX
+  branch_name: Head Office
+  branch_address: Norrlandsgatan 15 111 47 Stockholm
+  branch_code: XXX
+  city: Stockholm
+  country: Sweden
+- name: Credit Agricole Cib Sweden Branch
+  swift: BSUISESSXXX
+  swift8: BSUISESS
+  branch_name: Head Office
+  branch_address: Regeringsgatan 38 103 95 Stockholm
+  branch_code: XXX
+  city: Stockholm
+  country: Sweden
+- name: Danske Bank
+  swift: DABASESXGBG
+  swift8: DABASESX
+  branch_name: Trade Finance, Gothenburg
+  branch_address: Goteborg
+  branch_code: GBG
+  city: Goteborg
+  country: Sweden
+- name: Danske Bank As, Sverige Filial
+  swift: DABASESXCLS
+  swift8: DABASESX
+  branch_name: Cls Services
+  branch_address: Stureplan 13 111 45 Stockholm
+  branch_code: CLS
+  city: Stockholm
+  country: Sweden
+- name: Danske Bank As, Sverige Filial
+  swift: DABASESXCON
+  swift8: DABASESX
+  branch_name: Danske Concensus
+  branch_address: Stockholm
+  branch_code: CON
+  city: Stockholm
+  country: Sweden
+- name: Danske Bank As, Sverige Filial
+  swift: DABASESXXXX
+  swift8: DABASESX
+  branch_name: Head Office
+  branch_address: Norrmalmstorg 1 103 92 Stockholm
+  branch_code: XXX
+  city: Stockholm
+  country: Sweden
+- name: Dnb Bank Asa, Filial Sverige
+  swift: DNBASESXCLS
+  swift8: DNBASESX
+  branch_name: Cls Nostro Agent Control Branch
+  branch_address: Stockholm
+  branch_code: CLS
+  city: Stockholm
+  country: Sweden
+- name: Dnb Bank Asa, Filial Sverige
+  swift: DNBASESXXXX
+  swift8: DNBASESX
+  branch_name: Head Office
+  branch_address: Kungsgatan 18, Box 3041 105 88 Stockholm
+  branch_code: XXX
+  city: Stockholm
+  country: Sweden
+- name: E. Oehman J.Or Fk Ab
+  swift: OHMJSESSXXX
+  swift8: OHMJSESS
+  branch_name: Head Office
+  branch_address: Berzeli Park 9 103 91 Stockholm
+  branch_code: XXX
+  city: Stockholm
+  country: Sweden
+- name: Euroclear Sweden Ab
+  swift: VPCSSESSVKI
+  swift8: VPCSSESS
+  branch_name: Vpc Abs Account Operator
+  branch_address: Stockholm
+  branch_code: VKI
+  city: Stockholm
+  country: Sweden
+- name: Euroclear Sweden Ab
+  swift: VPCSSESSXXX
+  swift8: VPCSSESS
+  branch_name: Head Office
+  branch_address: Klarabergsviadukten 63 101 23 Stockholm
+  branch_code: XXX
+  city: Stockholm
+  country: Sweden
+- name: Euroclear Sweden Ab
+  swift: VPCSSESSCLP
+  swift8: VPCSSESS
+  branch_name: Stockholm
+  branch_address: Stockholm
+  branch_code: CLP
+  city: Stockholm
+  country: Sweden
+- name: Forex Bank Aktiebolag
+  swift: FORXSESAXXX
+  swift8: FORXSESA
+  branch_name: Head Office
+  branch_address: Kornhamnstorg 4 11127 Stockholm
+  branch_code: XXX
+  city: Stockholm
+  country: Sweden
+- name: Forex Bank Aktiebolag
+  swift: FORXSES1XXX
+  swift8: FORXSES1
+  branch_name: Head Office
+  branch_address: Kornhamnstorg 4 Stockholm
+  branch_code: XXX
+  city: Stockholm
+  country: Sweden
+- name: Forsakringsbolaget Alecta, Omsesidigt
+  swift: ALTASESSXXX
+  swift8: ALTASESS
+  branch_name: Head Office
+  branch_address: Regeringsgatan 107 103 73 Stockholm
+  branch_code: XXX
+  city: Stockholm
+  country: Sweden
+- name: Fortis Bank Sa/Nv, Branch Sweden
+  swift: FTSBSESSXXX
+  swift8: FTSBSESS
+  branch_name: Head Office
+  branch_address: Smalandgatan 4 114 34 Stockholm
+  branch_code: XXX
+  city: Stockholm
+  country: Sweden
+- name: Hq Bank Ab
+  swift: HQFKSESSXXX
+  swift8: HQFKSESS
+  branch_name: Head Office
+  branch_address: Regeringsgatan 56 103 38 Stockholm
+  branch_code: XXX
+  city: Stockholm
+  country: Sweden
+- name: Jpmorgan Europe Limited, Stockholm Filial
+  swift: CHASSESSXXX
+  swift8: CHASSESS
+  branch_name: Head Office
+  branch_address: Smalandsgatan 17 105 71 Stockholm
+  branch_code: XXX
+  city: Stockholm
+  country: Sweden
+- name: Kepler Capital Markets
+  swift: KELASES1XXX
+  swift8: KELASES1
+  branch_name: Head Office
+  branch_address: Vd Laurent Quirin 103 92 Stockholm
+  branch_code: XXX
+  city: Stockholm
+  country: Sweden
+- name: Kommuninvest I Sverige Ab
+  swift: KIABSE22XXX
+  swift8: KIABSE22
+  branch_name: Head Office
+  branch_address: Fenix House 701 42 Orebro
+  branch_code: XXX
+  city: Orebro
+  country: Sweden
+- name: Landshypotek Ab
+  swift: LAHYSESSXXX
+  swift8: LAHYSESS
+  branch_name: Head Office
+  branch_address: Strandvagen 1 114 41 Stockholm
+  branch_code: XXX
+  city: Stockholm
+  country: Sweden
+- name: Lansforsakringar Bank Ab
+  swift: ELLFSESSXXX
+  swift8: ELLFSESS
+  branch_name: Head Office
+  branch_address: Tegeluddsvagen 11 - 13 106 50 Stockholm
+  branch_code: XXX
+  city: Stockholm
+  country: Sweden
+- name: Mfex Mutual Funds Exchange Ab
+  swift: MFEXSESSXXX
+  swift8: MFEXSESS
+  branch_name: Head Office
+  branch_address: Linnegatan 9-11 114 47 Stockholm
+  branch_code: XXX
+  city: Stockholm
+  country: Sweden
+- name: Neonet Securities Ab
+  swift: NEFOSESSXXX
+  swift8: NEFOSESS
+  branch_name: Head Office
+  branch_address: Kungsgatan 33 10393 Stockholm
+  branch_code: XXX
+  city: Stockholm
+  country: Sweden
+- name: Nordea Bank Ab (Publ)
+  swift: NDEASESSNBM
+  swift8: NDEASESS
+  branch_name: Nordea Bank Markets
+  branch_address: Stockholm
+  branch_code: NBM
+  city: Stockholm
+  country: Sweden
+- name: Nordea Bank Ab (Publ)
+  swift: NDEASESSNCL
+  swift8: NDEASESS
+  branch_name: Stockholm
+  branch_address: Stockholm
+  branch_code: NCL
+  city: Stockholm
+  country: Sweden
+- name: Nordea Bank Ab (Publ)
+  swift: NDEASESSPGI
+  swift8: NDEASESS
+  branch_name: Plusgirot
+  branch_address: Hamngatan 10 10571 Stockholm
+  branch_code: PGI
+  city: Stockholm
+  country: Sweden
+- name: Nordea Bank Ab (Publ)
+  swift: NDEASESSXXX
+  swift8: NDEASESS
+  branch_name: Head Office
+  branch_address: Hamngatan 10 105 71 Stockholm
+  branch_code: XXX
+  city: Stockholm
+  country: Sweden
+- name: Nordea Bank Ab (Publ)
+  swift: NDEASEGGXXX
+  swift8: NDEASEGG
+  branch_name: Head Office
+  branch_address: Oestra Hamngatan 16 405 09 Goteborg
+  branch_code: XXX
+  city: Goteborg
+  country: Sweden
+- name: Nordnet Bank Ab
+  swift: NNSESE22XXX
+  swift8: NNSESE22
+  branch_name: Head Office
+  branch_address: 141 Gustavslundsvagen 16714 Bromma
+  branch_code: XXX
+  city: Bromma
+  country: Sweden
+- name: Nordnet Bank Ab
+  swift: NNSESES1XXX
+  swift8: NNSESES1
+  branch_name: Head Office
+  branch_address: Gustavslundsvagen 141 167 14 Stockholm
+  branch_code: XXX
+  city: Stockholm
+  country: Sweden
+- name: Om Broker Services Ab
+  swift: OMBSSESSABR
+  swift8: OMBSSESS
+  branch_name: Stockholm
+  branch_address: Stockholm
+  branch_code: ABR
+  city: Stockholm
+  country: Sweden
+- name: Om Broker Services Ab
+  swift: OMBSSESSAOI
+  swift8: OMBSSESS
+  branch_name: Stockholm
+  branch_address: Stockholm
+  branch_code: AOI
+  city: Stockholm
+  country: Sweden
+- name: Om Broker Services Ab
+  swift: OMBSSESSAZA
+  swift8: OMBSSESS
+  branch_name: Stockholm
+  branch_address: Stockholm
+  branch_code: AZA
+  city: Stockholm
+  country: Sweden
+- name: Om Broker Services Ab
+  swift: OMBSSESSBPF
+  swift8: OMBSSESS
+  branch_name: Bpf
+  branch_address: Stockholm
+  branch_code: BPF
+  city: Stockholm
+  country: Sweden
+- name: Om Broker Services Ab
+  swift: OMBSSESSCDV
+  swift8: OMBSSESS
+  branch_name: Stockholm
+  branch_address: Stockholm
+  branch_code: CDV
+  city: Stockholm
+  country: Sweden
+- name: Om Broker Services Ab
+  swift: OMBSSESSCSS
+  swift8: OMBSSESS
+  branch_name: Stockholm
+  branch_address: Stockholm
+  branch_code: CSS
+  city: Stockholm
+  country: Sweden
+- name: Om Broker Services Ab
+  swift: OMBSSESSDEU
+  swift8: OMBSSESS
+  branch_name: 10578 Stockholm
+  branch_address: Tegeluddsvagen 100 10578 Stockholm
+  branch_code: DEU
+  city: Stockholm
+  country: Sweden
+- name: Om Broker Services Ab
+  swift: OMBSSESSEKF
+  swift8: OMBSSESS
+  branch_name: Stockholm
+  branch_address: Stockholm
+  branch_code: EKF
+  city: Stockholm
+  country: Sweden
+- name: Om Broker Services Ab
+  swift: OMBSSESSEVI
+  swift8: OMBSSESS
+  branch_name: Stockholm
+  branch_address: Stockholm
+  branch_code: EVI
+  city: Stockholm
+  country: Sweden
+- name: Om Broker Services Ab
+  swift: OMBSSESSGTM
+  swift8: OMBSSESS
+  branch_name: Gtm
+  branch_address: Stockholm
+  branch_code: GTM
+  city: Stockholm
+  country: Sweden
+- name: Om Broker Services Ab
+  swift: OMBSSESSHQB
+  swift8: OMBSSESS
+  branch_name: Stockholm
+  branch_address: Stockholm
+  branch_code: HQB
+  city: Stockholm
+  country: Sweden
+- name: Om Broker Services Ab
+  swift: OMBSSESSHUM
+  swift8: OMBSSESS
+  branch_name: Hum
+  branch_address: Stockholm
+  branch_code: HUM
+  city: Stockholm
+  country: Sweden
+- name: Om Broker Services Ab
+  swift: OMBSSESSJBN
+  swift8: OMBSSESS
+  branch_name: Stockholm
+  branch_address: Stockholm
+  branch_code: JBN
+  city: Stockholm
+  country: Sweden
+- name: Om Broker Services Ab
+  swift: OMBSSESSKAS
+  swift8: OMBSSESS
+  branch_name: Stockholm
+  branch_address: Stockholm
+  branch_code: KAS
+  city: Stockholm
+  country: Sweden
+- name: Om Broker Services Ab
+  swift: OMBSSESSKBC
+  swift8: OMBSSESS
+  branch_name: Stockholm
+  branch_address: Stockholm
+  branch_code: KBC
+  city: Stockholm
+  country: Sweden
+- name: Om Broker Services Ab
+  swift: OMBSSESSLFB
+  swift8: OMBSSESS
+  branch_name: Lfb
+  branch_address: Stockholm
+  branch_code: LFB
+  city: Stockholm
+  country: Sweden
+- name: Om Broker Services Ab
+  swift: OMBSSESSMCO
+  swift8: OMBSSESS
+  branch_name: Stockholm
+  branch_address: Stockholm
+  branch_code: MCO
+  city: Stockholm
+  country: Sweden
+- name: Om Broker Services Ab
+  swift: OMBSSESSNET
+  swift8: OMBSSESS
+  branch_name: Stockholm
+  branch_address: Stockholm
+  branch_code: NET
+  city: Stockholm
+  country: Sweden
+- name: Om Broker Services Ab
+  swift: OMBSSESSNFM
+  swift8: OMBSSESS
+  branch_name: Stockholm
+  branch_address: Stockholm
+  branch_code: NFM
+  city: Stockholm
+  country: Sweden
+- name: Om Broker Services Ab
+  swift: OMBSSESSNNS
+  swift8: OMBSSESS
+  branch_name: Stockholm
+  branch_address: Stockholm
+  branch_code: NNS
+  city: Stockholm
+  country: Sweden
+- name: Sbab Statens Bostadsfinansieringsaktiebolag
+  swift: SBAVSESSXXX
+  swift8: SBAVSESS
+  branch_name: Head Office
+  branch_address: Lojtnantsgatan 21 10254 Stockholm
+  branch_code: XXX
+  city: Stockholm
+  country: Sweden
+- name: Skandiabanken
+  swift: SKIASESSXXX
+  swift8: SKIASESS
+  branch_name: Head Office
+  branch_address: Lindhagensgatan 86 106 55 Stockholm
+  branch_code: XXX
+  city: Stockholm
+  country: Sweden
+- name: Skandinaviska Enskilda Banken
+  swift: ESSESESMXXX
+  swift8: ESSESESM
+  branch_name: Head Office
+  branch_address: Oestergatan 39 205 20 Malmo
+  branch_code: XXX
+  city: Malmo
+  country: Sweden
+- name: Skandinaviska Enskilda Banken
+  swift: ESSESESSCLS
+  swift8: ESSESESS
+  branch_name: 10640 Stockholm
+  branch_address: 10640 Stockholm
+  branch_code: CLS
+  city: Stockholm
+  country: Sweden
+- name: Skandinaviska Enskilda Banken
+  swift: ESSESESSENS
+  swift8: ESSESESS
+  branch_name: Enskilda Securities
+  branch_address: Stockholm
+  branch_code: ENS
+  city: Stockholm
+  country: Sweden
+- name: Skandinaviska Enskilda Banken
+  swift: ESSESESSXXX
+  swift8: ESSESESS
+  branch_name: Head Office
+  branch_address: Rissneleden 110 106 40 Stockholm
+  branch_code: XXX
+  city: Stockholm
+  country: Sweden
+- name: Skandinaviska Enskilda Banken
+  swift: ESSESESGXXX
+  swift8: ESSESESG
+  branch_name: Head Office
+  branch_address: Oestra Hamngatan 24 405 04 Goteborg
+  branch_code: XXX
+  city: Goteborg
+  country: Sweden
+- name: Sparbanken Oresund Ab
+  swift: FINNSES1XXX
+  swift8: FINNSES1
+  branch_name: Head Office
+  branch_address: Isbergs Gata 3 20124 Malmo
+  branch_code: XXX
+  city: Malmo
+  country: Sweden
+- name: Stockholmsborsen Ab
+  swift: OMECSESSXXX
+  swift8: OMECSESS
+  branch_name: Head Office
+  branch_address: Tullvaktsvagen 15 105 78 Stockholm
+  branch_code: XXX
+  city: Stockholm
+  country: Sweden
+- name: Svenska Handelsbanken
+  swift: HANDSESSMLM
+  swift8: HANDSESS
+  branch_name: Trade and Export Finance
+  branch_address: Sodergatan 12 202 11 Malmo
+  branch_code: MLM
+  city: Malmo
+  country: Sweden
+- name: Svenska Handelsbanken
+  swift: HANDSESSCLS
+  swift8: HANDSESS
+  branch_name: Stockholm
+  branch_address: Stockholm
+  branch_code: CLS
+  city: Stockholm
+  country: Sweden
+- name: Svenska Handelsbanken
+  swift: HANDSESSSHD
+  swift8: HANDSESS
+  branch_name: Dma Trading
+  branch_address: Stockholm
+  branch_code: SHD
+  city: Stockholm
+  country: Sweden
+- name: Svenska Handelsbanken
+  swift: HANDSESSSHY
+  swift8: HANDSESS
+  branch_name: Aktiespar
+  branch_address: Stockholm
+  branch_code: SHY
+  city: Stockholm
+  country: Sweden
+- name: Svenska Handelsbanken
+  swift: HANDSESSXXX
+  swift8: HANDSESS
+  branch_name: Head Office
+  branch_address: Blasieholmstorg 11 106 70 Stockholm
+  branch_code: XXX
+  city: Stockholm
+  country: Sweden
+- name: Svenska Handelsbanken
+  swift: HANDSESSGBG
+  swift8: HANDSESS
+  branch_name: Trade and Export Finance
+  branch_address: Ostra Hamngatan 23 404 26 Goteborg
+  branch_code: GBG
+  city: Goteborg
+  country: Sweden
+- name: Svenska Handelsbanken
+  swift: HANDSESSSH1
+  swift8: HANDSESS
+  branch_name: Stockholm
+  branch_address: Stockholm
+  branch_code: SH1
+  city: Stockholm
+  country: Sweden
+- name: Svenska Handelsbanken
+  swift: HANDSESSSHP
+  swift8: HANDSESS
+  branch_name: Stockholm
+  branch_address: Stockholm
+  branch_code: SHP
+  city: Stockholm
+  country: Sweden
+- name: Sveriges Riksbank
+  swift: RIKSSESSXXX
+  swift8: RIKSSESS
+  branch_name: Head Office
+  branch_address: Brunkebergstorg 11 103 37 Stockholm
+  branch_code: XXX
+  city: Stockholm
+  country: Sweden
+- name: Swedbank Ab
+  swift: SWEDSESSCUS
+  swift8: SWEDSESS
+  branch_name: Securities Services
+  branch_address: Stockholm
+  branch_code: CUS
+  city: Stockholm
+  country: Sweden
+- name: Swedbank Ab
+  swift: SWEDSESSXXX
+  swift8: SWEDSESS
+  branch_name: Head Office
+  branch_address: Brunkebergstorg 8 10534 Stockholm
+  branch_code: XXX
+  city: Stockholm
+  country: Sweden
+- name: Swedbank Ab
+  swift: SWEDSESSCLS
+  swift8: SWEDSESS
+  branch_name: Stockholm
+  branch_address: Stockholm
+  branch_code: CLS
+  city: Stockholm
+  country: Sweden
+- name: Swedish Export Credit Corp.
+  swift: SEKXSESSXXX
+  swift8: SEKXSESS
+  branch_name: Head Office
+  branch_address: Vastra Tradgardsgatan 11b 103 27 Stockholm
+  branch_code: XXX
+  city: Stockholm
+  country: Sweden
+- name: Teliasonera Ab (Publ)
+  swift: TLSNSESSXXX
+  swift8: TLSNSESS
+  branch_name: Head Office
+  branch_address: Stureplan 8 106 63 Stockholm
+  branch_code: XXX
+  city: Stockholm
+  country: Sweden
+- name: The Royal Bank Of Scotland N.V. (Nordic)
+  swift: ABNASESSXXX
+  swift8: ABNASESS
+  branch_name: Head Office
+  branch_address: Birger Jarlsgatan 7 101 37 Stockholm
+  branch_code: XXX
+  city: Stockholm
+  country: Sweden
+- name: The Swedish National Debt Office
+  swift: SNDOSESSXXX
+  swift8: SNDOSESS
+  branch_name: Head Office
+  branch_address: Norrlandsgatan 15 103 74 Stockholm
+  branch_code: XXX
+  city: Stockholm
+  country: Sweden
+- name: Hsbc Securities
+  swift: HSBSSE21XXX
+  swift8: HSBSSE21
+  branch_name: Head Office
+  branch_address: Vastra Tradgardsgatan 17 103 94 Stockholm
+  branch_code: XXX
+  city: Stockholm
+  country: Sweden
+- name: Ing Asset Management B.v.
+  swift: INGVSES1XXX
+  swift8: INGVSES1
+  branch_name: Head Office
+  branch_address: Wtc, Klarabergsviadukten 70 107 24 Stockholm
+  branch_code: XXX
+  city: Stockholm
+  country: Sweden
+- name: A-brokers Ab.
+  swift: ABROSES1XXX
+  swift8: ABROSES1
+  branch_name: Head Office
+  branch_address: Arsenalsgatan 4 111 47 Stockholm
+  branch_code: XXX
+  city: Stockholm
+  country: Sweden
+- name: A-sec Outsourcing Ab
+  swift: ASOUSES1XXX
+  swift8: ASOUSES1
+  branch_name: Head Office
+  branch_address: Riddargatan 19 114 57 Stockholm
+  branch_code: XXX
+  city: Stockholm
+  country: Sweden
+- name: Aarhuskarlshamn Finance Ab
+  swift: AAKFSEM1XXX
+  swift8: AAKFSEM1
+  branch_name: No branch name
+  branch_address: No branch address
+  branch_code: XXX
+  city: Malmo
+  country: Sweden
+- name: Ab Investor Group Finance
+  swift: INUFSES1XXX
+  swift8: INUFSES1
+  branch_name: Head Office
+  branch_address: Arsenalsgatan 8c 103 32 Stockholm
+  branch_code: XXX
+  city: Stockholm
+  country: Sweden
+- name: Ab Stena Finans
+  swift: SEFSSEG1XXX
+  swift8: SEFSSEG1
+  branch_name: Head Office
+  branch_address: Masthuggsterminalen 405 19 Goteborg
+  branch_code: XXX
+  city: Goteborg
+  country: Sweden
+- name: Ab Volvo
+  swift: ABVOSEGGXXX
+  swift8: ABVOSEGG
+  branch_name: No branch name
+  branch_address: No branch address
+  branch_code: XXX
+  city: Gothenburg
+  country: Sweden
+- name: Abb Aros Fondkommission Ab
+  swift: ABBFSES1XXX
+  swift8: ABBFSES1
+  branch_name: Head Office
+  branch_address: Nybrokajen 15 Stockholm
+  branch_code: XXX
+  city: Stockholm
+  country: Sweden
+- name: Aberdeen Property Fund Management Ab
+  swift: APFASES1XXX
+  swift8: APFASES1
+  branch_name: Head Office
+  branch_address: Luntmakargatan 34 103 63 Stockholm
+  branch_code: XXX
+  city: Stockholm
+  country: Sweden
+- name: Aberdeen Property Investors Indirect
+  swift: APIISES1XXX
+  swift8: APIISES1
+  branch_name: Head Office
+  branch_address: Luntmakargatan 34 103 63 Stockholm
+  branch_code: XXX
+  city: Stockholm
+  country: Sweden
+- name: Abg Securities As (norge), Filial Stockholm
+  swift: ASNFSES1XXX
+  swift8: ASNFSES1
+  branch_name: Head Office
+  branch_address: Stockholm
+  branch_code: XXX
+  city: Stockholm
+  country: Sweden
+- name: Abg Sundal Collier Ab
+  swift: ABUCSES1XXX
+  swift8: ABUCSES1
+  branch_name: Head Office
+  branch_address: Biblioteksgatan 3 103 89 Stockholm
+  branch_code: XXX
+  city: Stockholm
+  country: Sweden
+- name: Ability Asset Management Scandinavia
+  swift: AAMISEG1XXX
+  swift8: AAMISEG1
+  branch_name: Head Office
+  branch_address: Lilla Bommen 1 411 04 Goteborg
+  branch_code: XXX
+  city: Goteborg
+  country: Sweden
+- name: Accumulate Ab
+  swift: ACCMSES1XXX
+  swift8: ACCMSES1
+  branch_name: Head Office
+  branch_address: Norrlandsgatan 23 011143 Stockholm
+  branch_code: XXX
+  city: Stockholm
+  country: Sweden
+- name: Acta Kapitalforvaltning, Filial Till
+  swift: AKFTSES1XXX
+  swift8: AKFTSES1
+  branch_name: Head Office
+  branch_address: Kungsgatan 8 111 43 Stockholm
+  branch_code: XXX
+  city: Stockholm
+  country: Sweden
+- name: Adapto Advisors Ab
+  swift: ADADSES1XXX
+  swift8: ADADSES1
+  branch_name: Head Office
+  branch_address: Oxtorgsgatan 4 111 57 Stockholm
+  branch_code: XXX
+  city: Stockholm
+  country: Sweden
+- name: Advice Kapitalforvaltning Aktiebolag
+  swift: ADKASES1XXX
+  swift8: ADKASES1
+  branch_name: Head Office
+  branch_address: Hornsgatan 103, 13 Tr 117 28 Stockholm
+  branch_code: XXX
+  city: Stockholm
+  country: Sweden
+- name: Advisor Kapitalforvaltning I Stockholm
+  swift: ADKTSES1XXX
+  swift8: ADKTSES1
+  branch_name: Head Office
+  branch_address: Stureplan 15 111 45 Stockholm
+  branch_code: XXX
+  city: Stockholm
+  country: Sweden
+- name: Afa Insurance
+  swift: AFAISES1XXX
+  swift8: AFAISES1
+  branch_name: Head Office
+  branch_address: Klara Soedra Kyrkogata 18 106 27 Stockholm
+  branch_code: XXX
+  city: Stockholm
+  country: Sweden
+- name: Agenta
+  swift: AGETSE21XXX
+  swift8: AGETSE21
+  branch_name: No branch name
+  branch_address: No branch address
+  branch_code: XXX
+  city: Uddevalla
+  country: Sweden
+- name: Aig Global Investment (europe) Ltd Uk
+  swift: AGIESES1XXX
+  swift8: AGIESES1
+  branch_name: Head Office
+  branch_address: Drottninggatan 82 111 36 Stockholm
+  branch_code: XXX
+  city: Stockholm
+  country: Sweden
+- name: Aktiebolaget Electrolux
+  swift: ELETSES1XXX
+  swift8: ELETSES1
+  branch_name: Head Office
+  branch_address: St Goeransgatan 143 10545 Stockholm
+  branch_code: XXX
+  city: Stockholm
+  country: Sweden
+- name: Aktiebolaget Navigare
+  swift: AKNVSES1XXX
+  swift8: AKNVSES1
+  branch_name: Head Office
+  branch_address: Arsenalgatan 8c 103 32 Stockholm
+  branch_code: XXX
+  city: Stockholm
+  country: Sweden
+- name: Aktiebolaget Sek Securities
+  swift: AKSSSES1XXX
+  swift8: AKSSSES1
+  branch_name: Head Office
+  branch_address: Kungstradgardsgatan 11 B 103 27 Stockholm
+  branch_code: XXX
+  city: Stockholm
+  country: Sweden
+- name: Aktieinvest Fk Ab
+  swift: AIVESES1XXX
+  swift8: AIVESES1
+  branch_name: Head Office
+  branch_address: Radmansgatan 70 a 113 89 Stockholm
+  branch_code: XXX
+  city: Stockholm
+  country: Sweden
+- name: Aktietorget
+  swift: XSATSES1CNV
+  swift8: XSATSES1
+  branch_name: Sb Mm Aktietorget-Cotr
+  branch_address: Stockholm
+  branch_code: CNV
+  city: Stockholm
+  country: Sweden
+- name: Aktietorget
+  swift: XSATSES1EMA
+  swift8: XSATSES1
+  branch_name: Sb Mm Aktietorget
+  branch_address: Stockholm
+  branch_code: EMA
+  city: Stockholm
+  country: Sweden
+- name: Aktietorget
+  swift: XSATSES1XXX
+  swift8: XSATSES1
+  branch_name: Head Office
+  branch_address: Kallargrand 2 111 82 Stockholm
+  branch_code: XXX
+  city: Stockholm
+  country: Sweden
+- name: Alfa Kraft Aktiebolag
+  swift: ALKKSES1XXX
+  swift8: ALKKSES1
+  branch_name: Head Office
+  branch_address: Sturegatan 29 114 36 Stockholm
+  branch_code: XXX
+  city: Stockholm
+  country: Sweden
+- name: Alfred Berg Fonder Ab
+  swift: ALEDSES1XXX
+  swift8: ALEDSES1
+  branch_name: Head Office
+  branch_address: 107 25 Stockholm
+  branch_code: XXX
+  city: Stockholm
+  country: Sweden
+- name: Alm And Partners Ab
+  swift: ALPNSES1XXX
+  swift8: ALPNSES1
+  branch_name: Head Office
+  branch_address: Vasterlanggatan 47 111 29 Stockholm
+  branch_code: XXX
+  city: Stockholm
+  country: Sweden
+- name: Alpen Ressourcen Sparkassa
+  swift: ALRPSES1XXX
+  swift8: ALRPSES1
+  branch_name: Head Office
+  branch_address: Stureplan, 4c 11435 Stockholm
+  branch_code: XXX
+  city: Stockholm
+  country: Sweden
+- name: Alternativa Aktiemarknaden I Sverige Ab
+  swift: ALKSSES1XXX
+  swift8: ALKSSES1
+  branch_name: Head Office
+  branch_address: Grevgatan 39 114 53 Stockholm
+  branch_code: XXX
+  city: Stockholm
+  country: Sweden
+- name: Amf Pensionsforsakrings Ab
+  swift: AMPNSES1AIM
+  swift8: AMPNSES1
+  branch_name: No branch name
+  branch_address: No branch address
+  branch_code: AIM
+  city: Stockholm
+  country: Sweden
+- name: Amf Pensionsforsakrings Ab
+  swift: AMPNSES1XXX
+  swift8: AMPNSES1
+  branch_name: Head Office
+  branch_address: Sodra Klara Kyrkogata 18 113 88 Stockholm
+  branch_code: XXX
+  city: Stockholm
+  country: Sweden
+- name: Amplion Strukturkapital Ab
+  swift: AMSRSES1XXX
+  swift8: AMSRSES1
+  branch_name: Head Office
+  branch_address: Regeringsgatan 67 111 56 Stockholm
+  branch_code: XXX
+  city: Stockholm
+  country: Sweden
+- name: Andra Ap-fonden
+  swift: ANAFSEG1XXX
+  swift8: ANAFSEG1
+  branch_name: Head Office
+  branch_address: Ostra Hamngatan 24 404 24 Goteborg
+  branch_code: XXX
+  city: Goteborg
+  country: Sweden
+- name: Aps Capital Ab
+  swift: APSCSES1XXX
+  swift8: APSCSES1
+  branch_name: Head Office
+  branch_address: Biblioteksgatan 3 114 11 Stockholm
+  branch_code: XXX
+  city: Stockholm
+  country: Sweden
+- name: Aqurat Fondkommision Ab
+  swift: AQFOSE21XXX
+  swift8: AQFOSE21
+  branch_name: Head Office
+  branch_address: Klubbvagen 5, 12 Tr 182 57 Danderyd
+  branch_code: XXX
+  city: Danderyd
+  country: Sweden
+- name: Aragon Securities Ab
+  swift: ARSBSES1XXX
+  swift8: ARSBSES1
+  branch_name: Head Office
+  branch_address: Regeringsgatan 38 10389 Stockholm
+  branch_code: XXX
+  city: Stockholm
+  country: Sweden
+- name: Aros Securities Ab
+  swift: ARSCSES1XXX
+  swift8: ARSCSES1
+  branch_name: Head Office
+  branch_address: Birger Jarlsgatan 57b 11 396 Stockholm
+  branch_code: XXX
+  city: Stockholm
+  country: Sweden
+- name: As Parex Banka, Lettland Filial
+  swift: PALISES1XXX
+  swift8: PALISES1
+  branch_name: Head Office
+  branch_address: Norrlandsgatan 15 111 43 Stockholm
+  branch_code: XXX
+  city: Stockholm
+  country: Sweden
+- name: Asia Growth Investors Ab
+  swift: ASGISES1XXX
+  swift8: ASGISES1
+  branch_name: Head Office
+  branch_address: Strandvagen 5 a 114 51 Stockholm
+  branch_code: XXX
+  city: Stockholm
+  country: Sweden
+- name: Avanza Bank Ab
+  swift: AVANSES1XXX
+  swift8: AVANSES1
+  branch_name: Head Office
+  branch_address: Klarabergsgatan 60 111 21 Stockholm
+  branch_code: XXX
+  city: Stockholm
+  country: Sweden
+- name: Avanza Bank Holding Ab
+  swift: AVZASES1XXX
+  swift8: AVZASES1
+  branch_name: Head Office
+  branch_address: Klarabergsgatan 60 111 93 Stockholm
+  branch_code: XXX
+  city: Stockholm
+  country: Sweden
+- name: B And P Fund Services Aktiebolag
+  swift: FUSASES1XXX
+  swift8: FUSASES1
+  branch_name: Head Office
+  branch_address: Norrmalmstorg 14 103 86 Stockholm
+  branch_code: XXX
+  city: Stockholm
+  country: Sweden
+- name: Bab Bankernas Automatbolag Ab
+  swift: BAUBSES1XXX
+  swift8: BAUBSES1
+  branch_name: Head Office
+  branch_address: Dalagatan 7 111 23 Stockholm
+  branch_code: XXX
+  city: Stockholm
+  country: Sweden
+- name: Baltic Trust Kb
+  swift: BLTSSES1XXX
+  swift8: BLTSSES1
+  branch_name: Head Office
+  branch_address: Frejgatan 13-1471 114 79 Stockholm
+  branch_code: XXX
+  city: Stockholm
+  country: Sweden
+- name: Banclear Trust Kb
+  swift: BTRSSES1XXX
+  swift8: BTRSSES1
+  branch_name: Head Office
+  branch_address: World Trade Center 111 64 Stockholm
+  branch_code: XXX
+  city: Stockholm
+  country: Sweden
+- name: Bank Of China (luxembourg) S.a. Stockholm Branch
+  swift: BKCHSESSXXX
+  swift8: BKCHSESS
+  branch_name: Head Office
+  branch_address: Birger Jarlsgatan 28 11434 Stockholm
+  branch_code: XXX
+  city: Stockholm
+  country: Sweden
+- name: Bank2 Bankaktiebolag
+  swift: ANKASES1XXX
+  swift8: ANKASES1
+  branch_name: Head Office
+  branch_address: Sveavagen 17 103 97 Stockholm
+  branch_code: XXX
+  city: Stockholm
+  country: Sweden
+- name: Bankaktiebolaget Avanza
+  swift: AVASSES1XXX
+  swift8: AVASSES1
+  branch_name: Head Office
+  branch_address: Box 139 11193 Stockholm
+  branch_code: XXX
+  city: Stockholm
+  country: Sweden
+- name: Banque Invik Luxembourg Filial
+  swift: INLASES1XXX
+  swift8: INLASES1
+  branch_name: Head Office
+  branch_address: Skeppsbron 18 103 11 Stockholm
+  branch_code: XXX
+  city: Stockholm
+  country: Sweden
+- name: Blackrock Investment Management (uk
+  swift: BLIGSES1XXX
+  swift8: BLIGSES1
+  branch_name: Head Office
+  branch_address: Master Samuelsgatan 1 114 11 Stockholm
+  branch_code: XXX
+  city: Stockholm
+  country: Sweden
+- name: Brevik Kapitalforvaltning Ab
+  swift: BRKISES1XXX
+  swift8: BRKISES1
+  branch_name: Head Office
+  branch_address: Birger Jarlsgatan 2 114 34 Stockholm
+  branch_code: XXX
+  city: Stockholm
+  country: Sweden
+- name: Brummer And Partners
+  swift: BRPSSES1XXX
+  swift8: BRPSSES1
+  branch_name: Head Office
+  branch_address: Norrmalmstorg 14 10386 Stockholm
+  branch_code: XXX
+  city: Stockholm
+  country: Sweden
+- name: Burgundy Ab
+  swift: BURDSES1XXX
+  swift8: BURDSES1
+  branch_name: Head Office
+  branch_address: Kungsgatan 12-14 11135 Stockholm
+  branch_code: XXX
+  city: Stockholm
+  country: Sweden
+- name: Candm Funds Ab
+  swift: CAUUSES1XXX
+  swift8: CAUUSES1
+  branch_name: Head Office
+  branch_address: Stora Nygatan 31 111 27 Stockholm
+  branch_code: XXX
+  city: Stockholm
+  country: Sweden
+- name: Capital C Ab
+  swift: CPTLSES1XXX
+  swift8: CPTLSES1
+  branch_name: Head Office
+  branch_address: Gustav Adolfs Torg 18 111 52 Stockholm
+  branch_code: XXX
+  city: Stockholm
+  country: Sweden
+- name: Capital Trust Company Scandinavia Kb
+  swift: CTCSSES1XXX
+  swift8: CTCSSES1
+  branch_name: Head Office
+  branch_address: Artellerigatan 6 114 51 Stockholm
+  branch_code: XXX
+  city: Stockholm
+  country: Sweden
+- name: Carlson Noren Macro Fund
+  swift: CNMUSE21XXX
+  swift8: CNMUSE21
+  branch_name: Head Office
+  branch_address: Golfbanevagen 25 436 50 Hovas
+  branch_code: XXX
+  city: Hovas
+  country: Sweden
+- name: Carnegie Asset Management Fondsmaeglerselskab A/s Danmark Filial Sverige
+  swift: CAGKSES1XXX
+  swift8: CAGKSES1
+  branch_name: Head Office
+  branch_address: Regeringsgatan 56 103 94 Stockholm
+  branch_code: XXX
+  city: Stockholm
+  country: Sweden
+- name: Carnegie Investment Bank Ab
+  swift: CARNSES1XXX
+  swift8: CARNSES1
+  branch_name: Head Office
+  branch_address: Regeringsgatan 56 103 38 Stockholm
+  branch_code: XXX
+  city: Stockholm
+  country: Sweden
+- name: Case Asset Management Ab
+  swift: CSAESES1XXX
+  swift8: CSAESES1
+  branch_name: Head Office
+  branch_address: Linnegatan 18, Plan 9 102 49 Stockholm
+  branch_code: XXX
+  city: Stockholm
+  country: Sweden
+- name: Catella Corporate Finance Aktiebolag
+  swift: CCFASES1XXX
+  swift8: CCFASES1
+  branch_name: Head Office
+  branch_address: Birger Jarlsgatan 6 103 90 Stockholm
+  branch_code: XXX
+  city: Stockholm
+  country: Sweden
+- name: Catella Fondfoervaltning Ab
+  swift: CAFDSES1XXX
+  swift8: CAFDSES1
+  branch_name: Head Office
+  branch_address: Birger Jarlsgatan 6 103 90 Stockholm
+  branch_code: XXX
+  city: Stockholm
+  country: Sweden
+- name: Catella Kapitalforvaltning Ab
+  swift: CAKASES1XXX
+  swift8: CAKASES1
+  branch_name: Head Office
+  branch_address: Birger Jarlsgatan 6 103 90 Stockholm
+  branch_code: XXX
+  city: Stockholm
+  country: Sweden
+- name: Cb Asset Management Aktiebolag
+  swift: ASMKSES1XXX
+  swift8: ASMKSES1
+  branch_name: Head Office
+  branch_address: Nybrokajen 7 111 48 Stockholm
+  branch_code: XXX
+  city: Stockholm
+  country: Sweden
+- name: Celebi Kapitalforvaltning Ab
+  swift: CEKASES1XXX
+  swift8: CEKASES1
+  branch_name: Head Office
+  branch_address: Styrmansgatan 2, 2tr 114 54 Stockholm
+  branch_code: XXX
+  city: Stockholm
+  country: Sweden
+- name: Centum Kapitalfa-rvaltning Ab
+  swift: CEKPSES1XXX
+  swift8: CEKPSES1
+  branch_name: Head Office
+  branch_address: Jungfrugatan 35 114 44 Stockholm
+  branch_code: XXX
+  city: Stockholm
+  country: Sweden
+- name: Cerdo Bankpartner Ab
+  swift: CERDSE21XXX
+  swift8: CERDSE21
+  branch_name: Head Office
+  branch_address: Ronnowsgatan 6 25 106 Helsingborg
+  branch_code: XXX
+  city: Helsingborg
+  country: Sweden
+- name: Cmc Markets Uk Plc, Svensk Filial
+  swift: CMSFSES1XXX
+  swift8: CMSFSES1
+  branch_name: Head Office
+  branch_address: Jakobsbergsgatan 22, 4tr 111 44 Stockholm
+  branch_code: XXX
+  city: Stockholm
+  country: Sweden
+- name: Coeli Fonder Ab
+  swift: COONSES1XXX
+  swift8: COONSES1
+  branch_name: Head Office
+  branch_address: Tegnergatan 2c 113 58 Stockholm
+  branch_code: XXX
+  city: Stockholm
+  country: Sweden
+- name: Compare Kapitalforvaltning Ab
+  swift: COKPSE21XXX
+  swift8: COKPSE21
+  branch_name: Head Office
+  branch_address: Stora Torget 2b 891 33 Ornskoldsvik
+  branch_code: XXX
+  city: Ornskoldsvik
+  country: Sweden
+- name: Concensus Fondkommission Ab
+  swift: COFOSES1XXX
+  swift8: COFOSES1
+  branch_name: Head Office
+  branch_address: Regeringsgatan 42 10396 Stockholm
+  branch_code: XXX
+  city: Stockholm
+  country: Sweden
+- name: Consortum Capital Investments Ab
+  swift: COTVSES1XXX
+  swift8: COTVSES1
+  branch_name: Head Office
+  branch_address: Sveavagen 166 113 46 Stockholm
+  branch_code: XXX
+  city: Stockholm
+  country: Sweden
+- name: Contender Kapital And Forvaltning Ab
+  swift: COKFSES1XXX
+  swift8: COKFSES1
+  branch_name: Head Office
+  branch_address: Engelbrektsgatan 7 114 26 Stockholm
+  branch_code: XXX
+  city: Stockholm
+  country: Sweden
+- name: Continetal Savings And Loan Ef.
+  swift: CSLASES1XXX
+  swift8: CSLASES1
+  branch_name: Head Office
+  branch_address: Box 882 114 79 Stockholm
+  branch_code: XXX
+  city: Stockholm
+  country: Sweden
+- name: Credit Agricole Cheuvreux Nordic Aktiebolag
+  swift: CINSSES1XXX
+  swift8: CINSSES1
+  branch_name: Head Office
+  branch_address: Regeringsgatan 38 10393 Stockholm
+  branch_code: XXX
+  city: Stockholm
+  country: Sweden
+- name: D Carnegie Ab
+  swift: DSETSES1XXX
+  swift8: DSETSES1
+  branch_name: Head Office
+  branch_address: Gustav Adolfstorg 18 103 38 Stockholm
+  branch_code: XXX
+  city: Stockholm
+  country: Sweden
+- name: Dlp Capital Ab
+  swift: DLCASES1XXX
+  swift8: DLCASES1
+  branch_name: Head Office
+  branch_address: Slussplan 9 111-30 Stockholm
+  branch_code: XXX
+  city: Stockholm
+  country: Sweden
+- name: Dnb Asset Management Ab
+  swift: DNBASE21XXX
+  swift8: DNBASE21
+  branch_name: Head Office
+  branch_address: Sveavagen 38 103 50 Stockholm
+  branch_code: XXX
+  city: Stockholm
+  country: Sweden
+- name: Dnb Asset Management Ab
+  swift: DNBASESSXXX
+  swift8: DNBASESS
+  branch_name: Head Office
+  branch_address: Sveavagen 38 103 50 Stockholm
+  branch_code: XXX
+  city: Stockholm
+  country: Sweden
+- name: Dnb Nor Asset Management Ab
+  swift: DNAASES1XXX
+  swift8: DNAASES1
+  branch_name: Head Office
+  branch_address: Sveavagen 38 103 69 Stockholm
+  branch_code: XXX
+  city: Stockholm
+  country: Sweden
+- name: Dunova Kapitalforvaltning Ab
+  swift: DUKASES1XXX
+  swift8: DUKASES1
+  branch_name: Head Office
+  branch_address: Karlavagen 100 a 104 51 Stockholm
+  branch_code: XXX
+  city: Stockholm
+  country: Sweden
+- name: E Trade Bank A/s,danmark,sverige Filial
+  swift: TRDSSES1XXX
+  swift8: TRDSSES1
+  branch_name: Head Office
+  branch_address: Sturegatan 102 41 Stockholm
+  branch_code: XXX
+  city: Stockholm
+  country: Sweden
+- name: E Trade Sverige Ab
+  swift: EXTASES1XXX
+  swift8: EXTASES1
+  branch_name: Head Office
+  branch_address: Sturegatan 8 114 35 Stockholm
+  branch_code: XXX
+  city: Stockholm
+  country: Sweden
+- name: E. Oehman J:or Fondkommission Aktiebolag
+  swift: EOJFSES1XXX
+  swift8: EOJFSES1
+  branch_name: Head Office
+  branch_address: Berzelii Park 9 10391 Stockholm
+  branch_code: XXX
+  city: Stockholm
+  country: Sweden
+- name: E. Ohman J Or Capital Ab
+  swift: OHCASES1SMK
+  swift8: OHCASES1
+  branch_name: Exchange Traded Investment Products
+  branch_address: Stockholm
+  branch_code: SMK
+  city: Stockholm
+  country: Sweden
+- name: E. Ohman J Or Capital Ab
+  swift: OHCASES1XXX
+  swift8: OHCASES1
+  branch_name: Head Office
+  branch_address: Berzelii Park 9 11147 Stockholm
+  branch_code: XXX
+  city: Stockholm
+  country: Sweden
+- name: E. Ohman J Or Kapitalforvaltning
+  swift: OHJKSES1XXX
+  swift8: OHJKSES1
+  branch_name: Head Office
+  branch_address: Berzelii Park 9 103 89 Stockholm
+  branch_code: XXX
+  city: Stockholm
+  country: Sweden
+- name: E.on Trading Nordic Ab
+  swift: EOTNSEM1XXX
+  swift8: EOTNSEM1
+  branch_name: Head Office
+  branch_address: Carl Gustafs Vag 1 205 09 Malmo
+  branch_code: XXX
+  city: Malmo
+  country: Sweden
+- name: East Capital Aktiebolag
+  swift: EACASES1XXX
+  swift8: EACASES1
+  branch_name: Head Office
+  branch_address: Kungsgatan 33, 1tr 111 93 Stockholm
+  branch_code: XXX
+  city: Stockholm
+  country: Sweden
+- name: Egl Sverige Ab
+  swift: EGSVSEM1XXX
+  swift8: EGSVSEM1
+  branch_name: Head Office
+  branch_address: Stortorget 29 211 34 Malmo
+  branch_code: XXX
+  city: Malmo
+  country: Sweden
+- name: Ekf Enskild Kapitalfoervaltning Ab
+  swift: EKFSSES1XXX
+  swift8: EKFSSES1
+  branch_name: Head Office
+  branch_address: Kungsgatan 4 A, 111 43 Stockholm
+  branch_code: XXX
+  city: Stockholm
+  country: Sweden
+- name: Eminova Fk Ab
+  swift: EMIOSES1XXX
+  swift8: EMIOSES1
+  branch_name: Head Office
+  branch_address: Nybrogatan 59 11440 Stockholm
+  branch_code: XXX
+  city: Stockholm
+  country: Sweden
+- name: Enter Kapitalforvaltning Ab
+  swift: ENKASES1XXX
+  swift8: ENKASES1
+  branch_name: Head Office
+  branch_address: Brunnsgatan 6 103 86 Stockholm
+  branch_code: XXX
+  city: Stockholm
+  country: Sweden
+- name: Ericsson Money Services Ab
+  swift: ERICSES1XXX
+  swift8: ERICSES1
+  branch_name: Head Office
+  branch_address: Torshamnsgatan 23 126 25 Stockholm
+  branch_code: XXX
+  city: Stockholm
+  country: Sweden
+- name: Erik Penser Bankaktiebolag
+  swift: ERPFSES1XXX
+  swift8: ERPFSES1
+  branch_name: Head Office
+  branch_address: Biblioteksgatan 9 103 91 Stockholm
+  branch_code: XXX
+  city: Stockholm
+  country: Sweden
+- name: Eturn Capital Management Ab
+  swift: ETCASE21XXX
+  swift8: ETCASE21
+  branch_name: Head Office
+  branch_address: Siktgatan 1 162 50 Vallingby
+  branch_code: XXX
+  city: Vallingby
+  country: Sweden
+- name: European Trustees And Fiduciaries Association (etfa
+  swift: ETFASES1XXX
+  swift8: ETFASES1
+  branch_name: Head Office
+  branch_address: World Trade Center 111 64 Stockholm
+  branch_code: XXX
+  city: Stockholm
+  country: Sweden
+- name: Evli Bank Abp, Stockholmsfilial
+  swift: EVATSES1XXX
+  swift8: EVATSES1
+  branch_name: Head Office
+  branch_address: Regeringsgat.30-32,4 103 26 Stockholm
+  branch_code: XXX
+  city: Stockholm
+  country: Sweden
+- name: Exchange Finans Europe Ab
+  swift: EXFESES1XXX
+  swift8: EXFESES1
+  branch_name: Head Office
+  branch_address: Arenavagen 39 121 77 Stockholm
+  branch_code: XXX
+  city: Stockholm
+  country: Sweden
+- name: Eyer Fondkommission Ab
+  swift: EYFOSEG1XXX
+  swift8: EYFOSEG1
+  branch_name: Head Office
+  branch_address: Lilla Nygatan 2 411 09 Goteborg
+  branch_code: XXX
+  city: Goteborg
+  country: Sweden
+- name: Fair Investments Sweden Ab
+  swift: FIEWSE21XXX
+  swift8: FIEWSE21
+  branch_name: Head Office
+  branch_address: Vendevaegen 15 18260 Djursholm
+  branch_code: XXX
+  city: Djursholm
+  country: Sweden
+- name: Festival International Ab
+  swift: FEIRSES1XXX
+  swift8: FEIRSES1
+  branch_name: Head Office
+  branch_address: Kungsgatan 10 111 43 Stockholm
+  branch_code: XXX
+  city: Stockholm
+  country: Sweden
+- name: Fim Kapitalforvaltning Ab Finland
+  swift: FIKFSES1XXX
+  swift8: FIKFSES1
+  branch_name: Head Office
+  branch_address: Birger Jarlsgatan 6 114 87 Stockholm
+  branch_code: XXX
+  city: Stockholm
+  country: Sweden
+- name: Financial Ppc Group Sweden Ab
+  swift: FPGSSES1XXX
+  swift8: FPGSSES1
+  branch_name: Head Office
+  branch_address: Strandvagen 57 115 23 Stockholm
+  branch_code: XXX
+  city: Stockholm
+  country: Sweden
+- name: Fisher And Partners
+  swift: FIPRSES1XXX
+  swift8: FIPRSES1
+  branch_name: Head Office
+  branch_address: Hovslagaregatan 5, 4tr 103 21 Stockholm
+  branch_code: XXX
+  city: Stockholm
+  country: Sweden
+- name: Fitch Nordic Region (frl Branch
+  swift: FRIPSES1XXX
+  swift8: FRIPSES1
+  branch_name: Head Office
+  branch_address: Engelbrektsgatan 9-11 114 32 Stockholm
+  branch_code: XXX
+  city: Stockholm
+  country: Sweden
+- name: Fm Fondmarknaden Ab Uat Fondab Ab
+  swift: FOUFSES1XXX
+  swift8: FOUFSES1
+  branch_name: Head Office
+  branch_address: Linnegatan 9-11 114 47 Stockholm
+  branch_code: XXX
+  city: Stockholm
+  country: Sweden
+- name: Foersaekrings Ab Agria
+  swift: FOIRSES1XXX
+  swift8: FOIRSES1
+  branch_name: Head Office
+  branch_address: Tegeluddsvaegen 11-13 106 50 Stockholm
+  branch_code: XXX
+  city: Stockholm
+  country: Sweden
+- name: Folksam Spar Aktiebolag
+  swift: FOLKSES1XXX
+  swift8: FOLKSES1
+  branch_name: Head Office
+  branch_address: Bohusgatan 14 106 60 Stockholm
+  branch_code: XXX
+  city: Stockholm
+  country: Sweden
+- name: Fondkompassen Ab
+  swift: FONNSES1XXX
+  swift8: FONNSES1
+  branch_name: Head Office
+  branch_address: Kungsgatan 58 111 22 Stockholm
+  branch_code: XXX
+  city: Stockholm
+  country: Sweden
+- name: Forsakringsaktiebolaget Skandia Publ
+  swift: SDIASES1XXX
+  swift8: SDIASES1
+  branch_name: Head Office
+  branch_address: Lindhagensgatan 86 106 55 Stockholm
+  branch_code: XXX
+  city: Stockholm
+  country: Sweden
+- name: Forsta Ap-fonden
+  swift: FOAPSES1XXX
+  swift8: FOAPSES1
+  branch_name: Head Office
+  branch_address: Skeppsbron 2 103 25 Stockholm
+  branch_code: XXX
+  city: Stockholm
+  country: Sweden
+- name: Fortum Portfolio Services Ab
+  swift: FOPSSES1XXX
+  swift8: FOPSSES1
+  branch_name: Head Office
+  branch_address: Tegeluddsvagen 1 115 77 Stockholm
+  branch_code: XXX
+  city: Stockholm
+  country: Sweden
+- name: Fortum Portfolio Services Oy Finland Filial
+  swift: FPSFSES1XXX
+  swift8: FPSFSES1
+  branch_name: Head Office
+  branch_address: Hangovagen 19 115 77 Stockholm
+  branch_code: XXX
+  city: Stockholm
+  country: Sweden
+- name: Fourth Swedish National Pension Fund
+  swift: FAPFSES1XXX
+  swift8: FAPFSES1
+  branch_name: Aim-Poms Service
+  branch_address: Regeringsgatan 30-32 103 61 Stockholm
+  branch_code: XXX
+  city: Stockholm
+  country: Sweden
+- name: Franklin Templeton Management Limited
+  swift: FRTMSES1XXX
+  swift8: FRTMSES1
+  branch_name: Head Office
+  branch_address: Stureplan 4c, 4tr 114 35 Stockholm
+  branch_code: XXX
+  city: Stockholm
+  country: Sweden
+- name: Fund Management Group Asa Norge Filial
+  swift: FMGASES1XXX
+  swift8: FMGASES1
+  branch_name: Head Office
+  branch_address: Strandvagen 7 114 56 Stockholm
+  branch_code: XXX
+  city: Stockholm
+  country: Sweden
+- name: Gadd And Co Ab
+  swift: GADDSES1XXX
+  swift8: GADDSES1
+  branch_name: Head Office
+  branch_address: Erik Dahlbergsallen 15, 4 Tr 115 20 Stockholm
+  branch_code: XXX
+  city: Stockholm
+  country: Sweden
+- name: Garantum Fondkommission Aktiebolag
+  swift: GAFKSES1XXX
+  swift8: GAFKSES1
+  branch_name: Head Office
+  branch_address: Banergatan 37 104 50 Stockholm
+  branch_code: XXX
+  city: Stockholm
+  country: Sweden
+- name: Ge Money Bank Ab
+  swift: MONYSES1XXX
+  swift8: MONYSES1
+  branch_name: Head Office
+  branch_address: Solna Strandvag 98, 17175 Stockholm
+  branch_code: XXX
+  city: Stockholm
+  country: Sweden
+- name: Global Invest Finansformedling Sverige
+  swift: GIFVSE21XXX
+  swift8: GIFVSE21
+  branch_name: Head Office
+  branch_address: Stora Torget 3 582 23 Linkoping
+  branch_code: XXX
+  city: Linkoping
+  country: Sweden
+- name: Glue Finance Ab
+  swift: GLUESES1XXX
+  swift8: GLUESES1
+  branch_name: Head Office
+  branch_address: Birger Jarlsgatan 14 114 34 Stockholm
+  branch_code: XXX
+  city: Stockholm
+  country: Sweden
+- name: Gunther And Wikberg Kapitalforvaltning Ab
+  swift: GUWKSES1XXX
+  swift8: GUWKSES1
+  branch_name: Head Office
+  branch_address: Kungsgatan 3, 1tr 111 43 Stockholm
+  branch_code: XXX
+  city: Stockholm
+  country: Sweden
+- name: H. Lunden Kapitalforvaltning Aktiebolag
+  swift: LFKBSES1XXX
+  swift8: LFKBSES1
+  branch_name: Head Office
+  branch_address: Nybrogatan 6 114 47 Stockholm
+  branch_code: XXX
+  city: Stockholm
+  country: Sweden
+- name: Hewlett-packard, Sverige, Aktiebolag
+  swift: HESRSES1XXX
+  swift8: HESRSES1
+  branch_name: Head Office
+  branch_address: Gustav Iii:S Boulevard 36 16985 Stockholm
+  branch_code: XXX
+  city: Stockholm
+  country: Sweden
+- name: Hinc Asset Management Ab
+  swift: HIAASES1XXX
+  swift8: HIAASES1
+  branch_name: Head Office
+  branch_address: Master Samuelsgatan 1 103 89 Stockholm
+  branch_code: XXX
+  city: Stockholm
+  country: Sweden
+- name: Hsb Bank Ab (publ
+  swift: HSBBSES1XXX
+  swift8: HSBBSES1
+  branch_name: Head Office
+  branch_address: Fleminggatan 39 - 41 10420 Stockholm
+  branch_code: XXX
+  city: Stockholm
+  country: Sweden
+- name: Humle Kapitalforvaltning Ab
+  swift: HUKASES1XXX
+  swift8: HUKASES1
+  branch_name: Head Office
+  branch_address: Biblioteksgatan 29 114 87 Stockholm
+  branch_code: XXX
+  city: Stockholm
+  country: Sweden
+- name: Iam Strategic S.a., Luxembourg, Filial
+  swift: ISLFSES1XXX
+  swift8: ISLFSES1
+  branch_name: Head Office
+  branch_address: Afolf Fredriks Kyrkogata 13 111 37 Stockholm
+  branch_code: XXX
+  city: Stockholm
+  country: Sweden
+- name: Ica Banken Ab
+  swift: IBCASES1XXX
+  swift8: IBCASES1
+  branch_name: Head Office
+  branch_address: Svetsarvagen 16 170 85 Solna
+  branch_code: XXX
+  city: Solna
+  country: Sweden
+- name: If Skadefoersakring Ab (publ
+  swift: IFPCSES1XXX
+  swift8: IFPCSES1
+  branch_name: Head Office
+  branch_address: Barks Vag 15 10680 Bergshamra
+  branch_code: XXX
+  city: Bergshamra
+  country: Sweden
+- name: Ikano Banken Ab (publ
+  swift: IKANSE21XXX
+  swift8: IKANSE21
+  branch_name: Head Office
+  branch_address: Ikeagatan 343 81 Almhult
+  branch_code: XXX
+  city: Almhult
+  country: Sweden
+- name: Indecap Ab
+  swift: INPPSES1XXX
+  swift8: INPPSES1
+  branch_name: Head Office
+  branch_address: Blasieholmsgatan 4 B 103 29 Stockholm
+  branch_code: XXX
+  city: Stockholm
+  country: Sweden
+- name: Independent Investment Group Sweden
+  swift: IIGSSE21XXX
+  swift8: IIGSSE21
+  branch_name: Head Office
+  branch_address: Nygatan 21 903 29 Umea
+  branch_code: XXX
+  city: Umea
+  country: Sweden
+- name: Ini Private Ekonomisk Foerening
+  swift: IPEFSES1XXX
+  swift8: IPEFSES1
+  branch_name: Head Office
+  branch_address: Brevia 882 114 78 Stockholm
+  branch_code: XXX
+  city: Stockholm
+  country: Sweden
+- name: Inobiz Ab
+  swift: INOZSES1XXX
+  swift8: INOZSES1
+  branch_name: Head Office
+  branch_address: Kornhamnstorg 61 103 12 Stockholm
+  branch_code: XXX
+  city: Stockholm
+  country: Sweden
+- name: Inverness Bostadsfond Ab
+  swift: INODSES1XXX
+  swift8: INODSES1
+  branch_name: Head Office
+  branch_address: Hollandargatan 23 111 60 Stockholm
+  branch_code: XXX
+  city: Stockholm
+  country: Sweden
+- name: Investerum Ab
+  swift: IVVRSES1XXX
+  swift8: IVVRSES1
+  branch_name: Head Office
+  branch_address: Humlegardsgatan 20 114 46 Stockholm
+  branch_code: XXX
+  city: Stockholm
+  country: Sweden
+- name: Ipm Informed Portfolio Management
+  swift: IIPMSES1XXX
+  swift8: IIPMSES1
+  branch_name: Head Office
+  branch_address: Gustav Adolfs Torg 18 111 52 Stockholm
+  branch_code: XXX
+  city: Stockholm
+  country: Sweden
+- name: Jr Soederberg Asset Management Ab
+  swift: SOAGSES1XXX
+  swift8: SOAGSES1
+  branch_name: Head Office
+  branch_address: Stureplan 2 103 90 Stockholm
+  branch_code: XXX
+  city: Stockholm
+  country: Sweden
+- name: Julius Baer Nordic
+  swift: JBNOSES1XXX
+  swift8: JBNOSES1
+  branch_name: Head Office
+  branch_address: Norrmalmstorg 16 10392 Stockholm
+  branch_code: XXX
+  city: Stockholm
+  country: Sweden
+- name: Kinaden Sparkassa Ek For
+  swift: KISPSES1XXX
+  swift8: KISPSES1
+  branch_name: Head Office
+  branch_address: Nybrogation 11 11439 Stockholm
+  branch_code: XXX
+  city: Stockholm
+  country: Sweden
+- name: Laensfoersaekringar Fondfoervaltning Ab
+  swift: LAFOSES1010
+  swift8: LAFOSES1
+  branch_name: Pension 2010
+  branch_address: Stockholm
+  branch_code: '010'
+  city: Stockholm
+  country: Sweden
+- name: Laensfoersaekringar Fondfoervaltning Ab
+  swift: LAFOSES1015
+  swift8: LAFOSES1
+  branch_name: Pension 2015
+  branch_address: Stockholm
+  branch_code: '015'
+  city: Stockholm
+  country: Sweden
+- name: Laensfoersaekringar Fondfoervaltning Ab
+  swift: LAFOSES1020
+  swift8: LAFOSES1
+  branch_name: Pension 2020
+  branch_address: Stockholm
+  branch_code: '020'
+  city: Stockholm
+  country: Sweden
+- name: Laensfoersaekringar Fondfoervaltning Ab
+  swift: LAFOSES1025
+  swift8: LAFOSES1
+  branch_name: Pension 2025
+  branch_address: Stockholm
+  branch_code: '025'
+  city: Stockholm
+  country: Sweden
+- name: Laensfoersaekringar Fondfoervaltning Ab
+  swift: LAFOSES1030
+  swift8: LAFOSES1
+  branch_name: Pension 2030
+  branch_address: Stockholm
+  branch_code: '030'
+  city: Stockholm
+  country: Sweden
+- name: Laensfoersaekringar Fondfoervaltning Ab
+  swift: LAFOSES1035
+  swift8: LAFOSES1
+  branch_name: Pension 2035
+  branch_address: Stockholm
+  branch_code: '035'
+  city: Stockholm
+  country: Sweden
+- name: Laensfoersaekringar Fondfoervaltning Ab
+  swift: LAFOSES1040
+  swift8: LAFOSES1
+  branch_name: Pension 2040
+  branch_address: Stockholm
+  branch_code: '040'
+  city: Stockholm
+  country: Sweden
+- name: Laensfoersaekringar Fondfoervaltning Ab
+  swift: LAFOSES1045
+  swift8: LAFOSES1
+  branch_name: Pension 2045
+  branch_address: Stockholm
+  branch_code: '045'
+  city: Stockholm
+  country: Sweden
+- name: Laensfoersaekringar Fondfoervaltning Ab
+  swift: LAFOSES1XXX
+  swift8: LAFOSES1
+  branch_name: Head Office
+  branch_address: Tegeluddsvaegen 11-13 10650 Stockholm
+  branch_code: XXX
+  city: Stockholm
+  country: Sweden
+- name: Laensfoersaekringar Sak Foersaekrings Ab
+  swift: LASFSES1XXX
+  swift8: LASFSES1
+  branch_name: Head Office
+  branch_address: Tegeluddsvaegen 11-13 106 50 Stockholm
+  branch_code: XXX
+  city: Stockholm
+  country: Sweden
+- name: Laensfoersaeringar Liv Foersaekring Ab
+  swift: LALFSES1XXX
+  swift8: LALFSES1
+  branch_name: Head Office
+  branch_address: Kungstraedgaerdsgatan 8 106 40 Stockholm
+  branch_code: XXX
+  city: Stockholm
+  country: Sweden
+- name: Lage Jonason Ab
+  swift: LAJOSES1XXX
+  swift8: LAJOSES1
+  branch_name: Head Office
+  branch_address: Hamngatan 27 111 47 Stockholm
+  branch_code: XXX
+  city: Stockholm
+  country: Sweden
+- name: Lancelot Asset Management Aktiebolag
+  swift: LAMKSES1XXX
+  swift8: LAMKSES1
+  branch_name: Head Office
+  branch_address: Nybrokajen 7 103 23 Stockholm
+  branch_code: XXX
+  city: Stockholm
+  country: Sweden
+- name: Lansfoersakringar Bank Aktiebolag
+  swift: LANFSES1XXX
+  swift8: LANFSES1
+  branch_name: Head Office
+  branch_address: Tegeluddsvagen 11-13 106 50 Stockholm
+  branch_code: XXX
+  city: Stockholm
+  country: Sweden
+- name: Larsson And Nordqvist Asset Management Ab
+  swift: LNAMSEM1XXX
+  swift8: LNAMSEM1
+  branch_name: Head Office
+  branch_address: Norra Vallgatan 70 211 22 Malmo
+  branch_code: XXX
+  city: Malmo
+  country: Sweden
+- name: Lcl Asset Management Ab
+  swift: LCAMSES1XXX
+  swift8: LCAMSES1
+  branch_name: Head Office
+  branch_address: Strandvagen 7a 114 56 Stockholm
+  branch_code: XXX
+  city: Stockholm
+  country: Sweden
+- name: Lcm Sweden Ab
+  swift: LCSWSES1XXX
+  swift8: LCSWSES1
+  branch_name: Head Office
+  branch_address: 5 Blasieholmsgatan 111 48 Stockholm
+  branch_code: XXX
+  city: Stockholm
+  country: Sweden
+- name: Lehman Brothers International (europe
+  swift: LBIESES1XXX
+  swift8: LBIESES1
+  branch_name: Head Office
+  branch_address: Stureplan 4 C, 4 Tr. 114 35 Stockholm
+  branch_code: XXX
+  city: Stockholm
+  country: Sweden
+- name: Lendtech Ab
+  swift: LENTSES1XXX
+  swift8: LENTSES1
+  branch_name: Head Office
+  branch_address: Trangsund 5 10578 Stockholm
+  branch_code: XXX
+  city: Stockholm
+  country: Sweden
+- name: Liv Nya Vaerlden
+  swift: LINESES1XXX
+  swift8: LINESES1
+  branch_name: Head Office
+  branch_address: Tegeluddsvaegen 11-13 106 50 Stockholm
+  branch_code: XXX
+  city: Stockholm
+  country: Sweden
+- name: Lkab
+  swift: LKABSE21XXX
+  swift8: LKABSE21
+  branch_name: No branch name
+  branch_address: No branch address
+  branch_code: XXX
+  city: Lulea
+  country: Sweden
+- name: Lynx Asset Management Ab
+  swift: LYAASES1XXX
+  swift8: LYAASES1
+  branch_name: Head Office
+  branch_address: Norrmalmstorg 14 103 86 Stockholm
+  branch_code: XXX
+  city: Stockholm
+  country: Sweden
+- name: Malarenergi Forsaljning Ab
+  swift: MAFJSE21XXX
+  swift8: MAFJSE21
+  branch_name: Head Office
+  branch_address: Munkgatan 9 721 03 Vasteras
+  branch_code: XXX
+  city: Vasteras
+  country: Sweden
+- name: Mangold Fondkommission Ab
+  swift: MAFDSES1XXX
+  swift8: MAFDSES1
+  branch_name: Head Office
+  branch_address: Engelbrektsplan 2 114 29 Stockholm
+  branch_code: XXX
+  city: Stockholm
+  country: Sweden
+- name: Marginalen Bank Bankaktiebolag
+  swift: MARGSES1XXX
+  swift8: MARGSES1
+  branch_name: Head Office
+  branch_address: Valhallavagen 66 Stockholm
+  branch_code: XXX
+  city: Stockholm
+  country: Sweden
+- name: Markedskraft Sverige, Filial Till Markedskraft Asa Norge
+  swift: MSFISES1XXX
+  swift8: MSFISES1
+  branch_name: Head Office
+  branch_address: Vasagatan 15-17 11120 Stockholm
+  branch_code: XXX
+  city: Stockholm
+  country: Sweden
+- name: Matteus Fondkommission
+  swift: MAFOSES1XXX
+  swift8: MAFOSES1
+  branch_name: Head Office
+  branch_address: Kungsgatan 26 Ii 11193 Stockholm
+  branch_code: XXX
+  city: Stockholm
+  country: Sweden
+- name: Max Matthiessen Vardepapper Ab
+  swift: MAMVSES1XXX
+  swift8: MAMVSES1
+  branch_name: Head Office
+  branch_address: Birger Jarlsg. 31,53 114 89 Stockholm
+  branch_code: XXX
+  city: Stockholm
+  country: Sweden
+- name: Meetoo Ab
+  swift: MEEOSES1XXX
+  swift8: MEEOSES1
+  branch_name: Head Office
+  branch_address: Riddargatan 45 114 57 Stockholm
+  branch_code: XXX
+  city: Stockholm
+  country: Sweden
+- name: Michael Ostlund And Compay Fondkommission Ab
+  swift: MOFKSES1XXX
+  swift8: MOFKSES1
+  branch_name: Head Office
+  branch_address: Stockholm
+  branch_code: XXX
+  city: Stockholm
+  country: Sweden
+- name: Mind Bank Ab
+  swift: MNNDSEG1XXX
+  swift8: MNNDSEG1
+  branch_name: Head Office
+  branch_address: Jarntorget 8 413 04 Goteborg
+  branch_code: XXX
+  city: Goteborg
+  country: Sweden
+- name: Mobilis Kapitalforvaltning Ab
+  swift: MOKASE21XXX
+  swift8: MOKASE21
+  branch_name: Head Office
+  branch_address: Sodra Storgatan 37 252 23 Helsingborg
+  branch_code: XXX
+  city: Helsingborg
+  country: Sweden
+- name: Monetar Pensionsforvaltning Ab
+  swift: MOPNSES1XXX
+  swift8: MOPNSES1
+  branch_name: Head Office
+  branch_address: Strandvagen 5 B 114 51 Stockholm
+  branch_code: XXX
+  city: Stockholm
+  country: Sweden
+- name: Mp Investment Bank
+  swift: IVVMSES1XXX
+  swift8: IVVMSES1
+  branch_name: Head Office
+  branch_address: Regeringsgatan 13 10534 Stockholm
+  branch_code: XXX
+  city: Stockholm
+  country: Sweden
+- name: Myrberg And Wiklund Fondkommission Ab
+  swift: MYWOSES1XXX
+  swift8: MYWOSES1
+  branch_name: Head Office
+  branch_address: Biblioteksgatan 29 Stockholm
+  branch_code: XXX
+  city: Stockholm
+  country: Sweden
+- name: Nasdaq Omx Stockholm Ab
+  swift: OMECSESSDVP
+  swift8: OMECSESS
+  branch_name: Derivatives
+  branch_address: Stockholm
+  branch_code: DVP
+  city: Stockholm
+  country: Sweden
+- name: Nasdaq Omx Stockholm Ab
+  swift: OMECSESSEXT
+  swift8: OMECSESS
+  branch_name: External
+  branch_address: Stockholm
+  branch_code: EXT
+  city: Stockholm
+  country: Sweden
+- name: Nasdaq Omx Stockholm Ab
+  swift: OMECSESSNOC
+  swift8: OMECSESS
+  branch_name: Clearing
+  branch_address: Stockholm
+  branch_code: NOC
+  city: Stockholm
+  country: Sweden
+- name: Nasdaq Omx Stockholm Ab
+  swift: OMECSESSTRE
+  swift8: OMECSESS
+  branch_name: Treasury
+  branch_address: Stockholm
+  branch_code: TRE
+  city: Stockholm
+  country: Sweden
+- name: Naventi Kapitalforvaltning Ab
+  swift: NAKASE21XXX
+  swift8: NAKASE21
+  branch_name: Head Office
+  branch_address: Kungsangsvagen 25 753 23 Uppsala
+  branch_code: XXX
+  city: Uppsala
+  country: Sweden
+- name: Nektar Asset Management Ab For The Fund Nektar
+  swift: NAMFSES1XXX
+  swift8: NAMFSES1
+  branch_name: Head Office
+  branch_address: Norrmalmstorg 14 103 86 Stockholm
+  branch_code: XXX
+  city: Stockholm
+  country: Sweden
+- name: Newsec Corporate Finance Ab
+  swift: NECFSES1XXX
+  swift8: NECFSES1
+  branch_name: Head Office
+  branch_address: Regeringsgatan 65 103 96 Stockholm
+  branch_code: XXX
+  city: Stockholm
+  country: Sweden
+- name: Nordea Bank Ab (publ
+  swift: NDEASESSFDS
+  swift8: NDEASESS
+  branch_name: Stockholm
+  branch_address: Stockholm
+  branch_code: FDS
+  city: Stockholm
+  country: Sweden
+- name: Nordea Generationsfond 1945-49
+  swift: NOGASES1XXX
+  swift8: NOGASES1
+  branch_name: Head Office
+  branch_address: Regeringsgatan 59 105 71 Stockholm
+  branch_code: XXX
+  city: Stockholm
+  country: Sweden
+- name: Nordea Generationsfond 1950-54
+  swift: NOGNSES1XXX
+  swift8: NOGNSES1
+  branch_name: Head Office
+  branch_address: Regeringsgatan 59 105 71 Stockholm
+  branch_code: XXX
+  city: Stockholm
+  country: Sweden
+- name: Nordea Generationsfond 1960-64
+  swift: NOGDSES1XXX
+  swift8: NOGDSES1
+  branch_name: Head Office
+  branch_address: Regeringsgatan 59 105 71 Stockholm
+  branch_code: XXX
+  city: Stockholm
+  country: Sweden
+- name: Nordea Generationsfond 1970-74
+  swift: NOGOSES1XXX
+  swift8: NOGOSES1
+  branch_name: Head Office
+  branch_address: Regeringsgatan 59 105 71 Stockholm
+  branch_code: XXX
+  city: Stockholm
+  country: Sweden
+- name: Nordea Generationsfond 1980-84
+  swift: NONRSES1XXX
+  swift8: NONRSES1
+  branch_name: Head Office
+  branch_address: Regeringsgatan 59 105 71 Stockholm
+  branch_code: XXX
+  city: Stockholm
+  country: Sweden
+- name: Nordea Investment Management Ab
+  swift: NOIESES1XXX
+  swift8: NOIESES1
+  branch_name: Head Office
+  branch_address: Regeringsgatan 59 111 56 Stockholm
+  branch_code: XXX
+  city: Stockholm
+  country: Sweden
+- name: Nordea Stabil Sverige
+  swift: NOSVSES1XXX
+  swift8: NOSVSES1
+  branch_name: Head Office
+  branch_address: Regeringsgatan 59 105 71 Stockholm
+  branch_code: XXX
+  city: Stockholm
+  country: Sweden
+- name: Nordea Stratega 100
+  swift: NOTESES1XXX
+  swift8: NOTESES1
+  branch_name: Head Office
+  branch_address: Regeringsgatan 59 105 71 Stockholm
+  branch_code: XXX
+  city: Stockholm
+  country: Sweden
+- name: Nordea Stratega 30
+  swift: NOTGSES1XXX
+  swift8: NOTGSES1
+  branch_name: Head Office
+  branch_address: Regeringsgatan 59 105 71 Stockholm
+  branch_code: XXX
+  city: Stockholm
+  country: Sweden
+- name: Nordea Stratega 50
+  swift: NOGTSES1XXX
+  swift8: NOGTSES1
+  branch_name: Head Office
+  branch_address: State Street 2807 105 71 Stockholm
+  branch_code: XXX
+  city: Stockholm
+  country: Sweden
+- name: Nordea Stratega 70
+  swift: NOERSES1XXX
+  swift8: NOERSES1
+  branch_name: Head Office
+  branch_address: Regeringsgatan 59 105 71 Stockholm
+  branch_code: XXX
+  city: Stockholm
+  country: Sweden
+- name: Nordic Equites Fondkommission Ab
+  swift: NOEOSES1XXX
+  swift8: NOEOSES1
+  branch_name: Head Office
+  branch_address: Grev Turegatan 7 103 89 Stockholm
+  branch_code: XXX
+  city: Stockholm
+  country: Sweden
+- name: Nordic Equities Fondkommission Ab
+  swift: NOEDSES1XXX
+  swift8: NOEDSES1
+  branch_name: Head Office
+  branch_address: Grev Turegatan 7 103 89 Stockholm
+  branch_code: XXX
+  city: Stockholm
+  country: Sweden
+- name: Nordic Financial Trust Kb
+  swift: NOFTSES1XXX
+  swift8: NOFTSES1
+  branch_name: Head Office
+  branch_address: Frejgatan 13 114 79 Stockholm
+  branch_code: XXX
+  city: Stockholm
+  country: Sweden
+- name: Nordic Fixed Income
+  swift: NFIXSES1XXX
+  swift8: NFIXSES1
+  branch_name: Head Office
+  branch_address: Birger Jarlsgatan 6 102 40 Stockholm
+  branch_code: XXX
+  city: Stockholm
+  country: Sweden
+- name: Nordic Growth Market Ngm Aktiebolag
+  swift: NGMNSES1XXX
+  swift8: NGMNSES1
+  branch_name: Head Office
+  branch_address: Sveavagen 21 Stockholm
+  branch_code: XXX
+  city: Stockholm
+  country: Sweden
+- name: Nordic Heritage Trust Kb
+  swift: NOHRSES1XXX
+  swift8: NOHRSES1
+  branch_name: Head Office
+  branch_address: Renstiernasgatan 28-228 Stockholm
+  branch_code: XXX
+  city: Stockholm
+  country: Sweden
+- name: Nordic Savings And Trust Credit Union Ekonomisk Forening
+  swift: NSTRSES1XXX
+  swift8: NSTRSES1
+  branch_name: Head Office
+  branch_address: Frejgatan 13 114 79 Stockholm
+  branch_code: XXX
+  city: Stockholm
+  country: Sweden
+- name: Nordisk Fondservice Ab
+  swift: NOFDSE21XXX
+  swift8: NOFDSE21
+  branch_name: Head Office
+  branch_address: Storgatan 7 a 901 10 Umea
+  branch_code: XXX
+  city: Umea
+  country: Sweden
+- name: Nordiska Fondkommission Ab
+  swift: NOFNSES1XXX
+  swift8: NOFNSES1
+  branch_name: Head Office
+  branch_address: Stockholm
+  branch_code: XXX
+  city: Stockholm
+  country: Sweden
+- name: Northern Spirit Capital Ab
+  swift: NOPCSES1XXX
+  swift8: NOPCSES1
+  branch_name: Head Office
+  branch_address: Berzelii Park 9 103 91 Stockholm
+  branch_code: XXX
+  city: Stockholm
+  country: Sweden
+- name: Nya Marknaden
+  swift: XSNMSES1CNV
+  swift8: XSNMSES1
+  branch_name: Sb Mm New Market Convertibles
+  branch_address: Stockholm
+  branch_code: CNV
+  city: Stockholm
+  country: Sweden
+- name: Nya Marknaden
+  swift: XSNMSES1XXX
+  swift8: XSNMSES1
+  branch_name: Head Office
+  branch_address: Kallargrand 2 111 82 Stockholm
+  branch_code: XXX
+  city: Stockholm
+  country: Sweden
+- name: Oak Capital Group Ab
+  swift: OACGSES1XXX
+  swift8: OACGSES1
+  branch_name: Head Office
+  branch_address: Kungsgatan 50 103 69 Stockholm
+  branch_code: XXX
+  city: Stockholm
+  country: Sweden
+- name: Oof Ab
+  swift: OOFFSES1XXX
+  swift8: OOFFSES1
+  branch_name: Head Office
+  branch_address: Jakobsbergsgatan 16 114 48 Stockholm
+  branch_code: XXX
+  city: Stockholm
+  country: Sweden
+- name: Oresundskraft Energy Trading Ab
+  swift: ORETSE21XXX
+  swift8: ORETSE21
+  branch_name: Head Office
+  branch_address: Vastra Sandgatan 4 251 06 Helsingborg
+  branch_code: XXX
+  city: Helsingborg
+  country: Sweden
+- name: Orkla Securities Ab
+  swift: ORKESES1XXX
+  swift8: ORKESES1
+  branch_name: Head Office
+  branch_address: Stockholm
+  branch_code: XXX
+  city: Stockholm
+  country: Sweden
+- name: Ostgota Brandstodsbolag
+  swift: OSBRSE21XXX
+  swift8: OSBRSE21
+  branch_name: Head Office
+  branch_address: Platensgatan 11 581 04 Linkoping
+  branch_code: XXX
+  city: Linkoping
+  country: Sweden
+- name: Ostkraft Energihandel Ab
+  swift: OSENSE21XXX
+  swift8: OSENSE21
+  branch_name: Head Office
+  branch_address: Vallgatan 8 352 34 Vaxjo
+  branch_code: XXX
+  city: Vaxjo
+  country: Sweden
+- name: Overseas Credit Union Scandinavia Ekonomiska Foerening
+  swift: OCUSSES1XXX
+  swift8: OCUSSES1
+  branch_name: Head Office
+  branch_address: Frejgatan 13 882 114 79 Stockholm
+  branch_code: XXX
+  city: Stockholm
+  country: Sweden
+- name: Overseas Trust Scandinavia Kb
+  swift: OVTCSES1XXX
+  swift8: OVTCSES1
+  branch_name: Head Office
+  branch_address: World Trade Center 111 64 Stockholm
+  branch_code: XXX
+  city: Stockholm
+  country: Sweden
+- name: Pan Capital Aktiebolag
+  swift: PAATSES1XXX
+  swift8: PAATSES1
+  branch_name: Head Office
+  branch_address: Olof Palmes Gata 15 10532 Stockholm
+  branch_code: XXX
+  city: Stockholm
+  country: Sweden
+- name: Peak Partners Kapitalfoervaltning Ab
+  swift: PEPPSES1XXX
+  swift8: PEPPSES1
+  branch_name: Head Office
+  branch_address: Hamngatan 15 111 47 Stockholm
+  branch_code: XXX
+  city: Stockholm
+  country: Sweden
+- name: Plain Capital Asset Management Ab
+  swift: PCAASE21XXX
+  swift8: PCAASE21
+  branch_name: Head Office
+  branch_address: Kaggensgatan 30 039232 Kalmar
+  branch_code: XXX
+  city: Kalmar
+  country: Sweden
+- name: Posten Fondkommission Ab
+  swift: PFKOSES1XXX
+  swift8: PFKOSES1
+  branch_name: Head Office
+  branch_address: Vasagatan 11 105 00 Stockholm
+  branch_code: XXX
+  city: Stockholm
+  country: Sweden
+- name: Pri Stiftelsetjnst Ab
+  swift: PRSFSEG1XXX
+  swift8: PRSFSEG1
+  branch_name: Head Office
+  branch_address: Ostra Hamngatan 000000 Goteborg
+  branch_code: XXX
+  city: Goteborg
+  country: Sweden
+- name: Prior And Nilsson Fond-och
+  swift: PNFOSES1XXX
+  swift8: PNFOSES1
+  branch_name: Head Office
+  branch_address: Norrlandsgatan 15 D 103 87 Stockholm
+  branch_code: XXX
+  city: Stockholm
+  country: Sweden
+- name: Providence Custodians Kb
+  swift: PCUSSES1XXX
+  swift8: PCUSSES1
+  branch_name: Head Office
+  branch_address: Frejgatan 13-1471 114 79 Stockholm
+  branch_code: XXX
+  city: Stockholm
+  country: Sweden
+- name: Quesada Kapitalforvaltning Ab
+  swift: QUKASES1XXX
+  swift8: QUKASES1
+  branch_name: Head Office
+  branch_address: Kungsgatan 24, 4 Tr 111 35 Stockholm
+  branch_code: XXX
+  city: Stockholm
+  country: Sweden
+- name: Redeye Ab
+  swift: REEESES1XXX
+  swift8: REEESES1
+  branch_name: Head Office
+  branch_address: Styckjunkargatan 1 114 35 Stockholm
+  branch_code: XXX
+  city: Stockholm
+  country: Sweden
+- name: Remium Ab
+  swift: REMISES1XXX
+  swift8: REMISES1
+  branch_name: Head Office
+  branch_address: Kungsgatan 12-14 4tr 111 35 Stockholm
+  branch_code: XXX
+  city: Stockholm
+  country: Sweden
+- name: Resurs Bank Aktiebolag
+  swift: RESUSE21XXX
+  swift8: RESUSE21
+  branch_name: Head Office
+  branch_address: Ekslingan 9 25024 Helsingborg
+  branch_code: XXX
+  city: Helsingborg
+  country: Sweden
+- name: Returnplus Ab
+  swift: RETUSES1XXX
+  swift8: RETUSES1
+  branch_name: Head Office
+  branch_address: Regeringsgatan 59 111 56 Stockholm
+  branch_code: XXX
+  city: Stockholm
+  country: Sweden
+- name: Royal Savings And Loan Ekonomisk Forening
+  swift: RSLESES1XXX
+  swift8: RSLESES1
+  branch_name: Head Office
+  branch_address: Stureplan 11435 Stockholm
+  branch_code: XXX
+  city: Stockholm
+  country: Sweden
+- name: Rp Martin Stockholm Ab
+  swift: UBFASES1XXX
+  swift8: UBFASES1
+  branch_name: Head Office
+  branch_address: Riddargatan 30, 1 Tr 114 57 Stockholm
+  branch_code: XXX
+  city: Stockholm
+  country: Sweden
+- name: Rpm Risk And Portfolio Management Ab
+  swift: RRPMSES1XXX
+  swift8: RRPMSES1
+  branch_name: Head Office
+  branch_address: Norrmalmstorg 16 111 46 Stockholm
+  branch_code: XXX
+  city: Stockholm
+  country: Sweden
+- name: Rudius Capital And Trust Kb
+  swift: RUCTSES1XXX
+  swift8: RUCTSES1
+  branch_name: Head Office
+  branch_address: Frejgatan 13-1471 11479 Stockholm
+  branch_code: XXX
+  city: Stockholm
+  country: Sweden
+- name: Salusansvar Bank Ab
+  swift: SALUSES1XXX
+  swift8: SALUSES1
+  branch_name: Head Office
+  branch_address: Tullvaktsvagen 11, 3tr 106 77 Stockholm
+  branch_code: XXX
+  city: Stockholm
+  country: Sweden
+- name: Samsung Electronics Nordic Ab
+  swift: SECTSES1453
+  swift8: SECTSES1
+  branch_name: Sssa
+  branch_address: Kanalvagen 10a 19461 Upplands Vaesby
+  branch_code: '453'
+  city: Upplands Vaesby
+  country: Sweden
+- name: Samsung Electronics Nordic Ab
+  swift: SECTSES14F0
+  swift8: SECTSES1
+  branch_name: Sena
+  branch_address: Kanalvagen 10a 194 27 Stockholm
+  branch_code: 4F0
+  city: Stockholm
+  country: Sweden
+- name: Samsung Electronics Nordic Ab
+  swift: SECTSES1XXX
+  swift8: SECTSES1
+  branch_name: Head Office
+  branch_address: Kanalvagen 10a 194 27 Stockholm
+  branch_code: XXX
+  city: Stockholm
+  country: Sweden
+- name: Santander Consumer Bank As Norge
+  swift: SAONSE21XXX
+  swift8: SAONSE21
+  branch_name: Head Office
+  branch_address: Solna Torg 3 171 26 Solna
+  branch_code: XXX
+  city: Solna
+  country: Sweden
+- name: Sapa Ab
+  swift: SAPASESSXXX
+  swift8: SAPASESS
+  branch_name: Head Office
+  branch_address: Humlegardsgatan 17 114 85 Stockholm
+  branch_code: XXX
+  city: Stockholm
+  country: Sweden
+- name: Scandem Ab
+  swift: SCADSE21XXX
+  swift8: SCADSE21
+  branch_name: Head Office
+  branch_address: Fridhemsgatan 2-6 702 32 Orebro
+  branch_code: XXX
+  city: Orebro
+  country: Sweden
+- name: Scandinavian Brokers Ab
+  swift: SCRKSES1XXX
+  swift8: SCRKSES1
+  branch_name: Head Office
+  branch_address: Birger Jarlsgatan 58, 6 Tr. 114 29 Stockholm
+  branch_code: XXX
+  city: Stockholm
+  country: Sweden
+- name: Schott And Tour Capital Ab
+  swift: SCTPSES1XXX
+  swift8: SCTPSES1
+  branch_name: Head Office
+  branch_address: Humlegardsgatan 19 103 62 Stockholm
+  branch_code: XXX
+  city: Stockholm
+  country: Sweden
+- name: Schroderinvestment Management
+  swift: SCNASES1XXX
+  swift8: SCNASES1
+  branch_name: Head Office
+  branch_address: Birger Jarlsgatan 12 114 34 Stockholm
+  branch_code: XXX
+  city: Stockholm
+  country: Sweden
+- name: Seb Trygg Liv Pensionstjanst Ab
+  swift: STLPSEG1XXX
+  swift8: STLPSEG1
+  branch_name: Head Office
+  branch_address: Kungsportsavenyn 3 405 04 Goteborg
+  branch_code: XXX
+  city: Goteborg
+  country: Sweden
+- name: Seb Wealth Management
+  swift: SEWMSES1XXX
+  swift8: SEWMSES1
+  branch_name: Head Office
+  branch_address: Sergels Torg 2 000000 Stockholm
+  branch_code: XXX
+  city: Stockholm
+  country: Sweden
+- name: Sedermera Fondkommission Ab
+  swift: SEFDSE21XXX
+  swift8: SEFDSE21
+  branch_name: Head Office
+  branch_address: Importgatan 4 262 73 Angelholm
+  branch_code: XXX
+  city: Angelholm
+  country: Sweden
+- name: Sempra Metals Limited, U.k., Filial
+  swift: SEMFSES1XXX
+  swift8: SEMFSES1
+  branch_name: Head Office
+  branch_address: Sibyllegatan 49 114 42 Stockholm
+  branch_code: XXX
+  city: Stockholm
+  country: Sweden
+- name: Servisen Fondkommission Ab
+  swift: SERVSES1XXX
+  swift8: SERVSES1
+  branch_name: Head Office
+  branch_address: Stockholm
+  branch_code: XXX
+  city: Stockholm
+  country: Sweden
+- name: Sfk Svensk Forvaltningskonsult Ab
+  swift: SFSFSE21XXX
+  swift8: SFSFSE21
+  branch_name: Head Office
+  branch_address: Vastra Storgatan 8 551 13 Jonkoping
+  branch_code: XXX
+  city: Jonkoping
+  country: Sweden
+- name: Sgp-svenska Garantiprodukter Ab
+  swift: SGSGSEG1XXX
+  swift8: SGSGSEG1
+  branch_name: Head Office
+  branch_address: Lilla Bommen 1 411 04 Goteborg
+  branch_code: XXX
+  city: Goteborg
+  country: Sweden
+- name: Shepherd Energy Ab
+  swift: SHEGSE21XXX
+  swift8: SHEGSE21
+  branch_name: Head Office
+  branch_address: Cylindervagen 12 131 28 Nacka
+  branch_code: XXX
+  city: Nacka
+  country: Sweden
+- name: Siemens Financial Services Ab, Sivuliike Suomessa
+  swift: SFSUSE21XXX
+  swift8: SFSUSE21
+  branch_name: Head Office
+  branch_address: Vastra Radhusgatan 7 901 09 Umea
+  branch_code: XXX
+  city: Umea
+  country: Sweden
+- name: Sip Nordic Ab
+  swift: SINRSES1XXX
+  swift8: SINRSES1
+  branch_name: Head Office
+  branch_address: Sveavagen 9 101 52 Stockholm
+  branch_code: XXX
+  city: Stockholm
+  country: Sweden
+- name: Sjunde Ap-fonden
+  swift: SJAPSES1XXX
+  swift8: SJAPSES1
+  branch_name: Head Office
+  branch_address: Vasagatan 11 101 21 Stockholm
+  branch_code: XXX
+  city: Stockholm
+  country: Sweden
+- name: Skandia Capital Ab
+  swift: SKCPSES1XXX
+  swift8: SKCPSES1
+  branch_name: Head Office
+  branch_address: Sveavagen 44 103 50 Stockholm
+  branch_code: XXX
+  city: Stockholm
+  country: Sweden
+- name: Skandia Insurance Company Ltd
+  swift: SKICSES1XXX
+  swift8: SKICSES1
+  branch_name: Head Office
+  branch_address: Sveavagen 44 103 50 Stockholm
+  branch_code: XXX
+  city: Stockholm
+  country: Sweden
+- name: Skandiabanken Aktiebolag (publ).
+  swift: SKIASET1XXX
+  swift8: SKIASET1
+  branch_name: Head Office
+  branch_address: Lindhagensgatan 86 10655 Stockholm
+  branch_code: XXX
+  city: Stockholm
+  country: Sweden
+- name: Skandiabanken Fondkommission Ab
+  swift: SKBFSES1XXX
+  swift8: SKBFSES1
+  branch_name: Head Office
+  branch_address: Hamngatan 15 106 55 Stockholm
+  branch_code: XXX
+  city: Stockholm
+  country: Sweden
+- name: Skanska Financial Services Ab
+  swift: SKFSSES1XXX
+  swift8: SKFSSES1
+  branch_name: Head Office
+  branch_address: Rasundavagen 2 169 83 Solna
+  branch_code: XXX
+  city: Solna
+  country: Sweden
+- name: Skelleftea Kraft Energihandel Ab
+  swift: SKKESE21XXX
+  swift8: SKKESE21
+  branch_name: Head Office
+  branch_address: Kanalgatan 71 931 80 Skelleftea
+  branch_code: XXX
+  city: Skelleftea
+  country: Sweden
+- name: Skf International Ab
+  swift: SKFISEG1XXX
+  swift8: SKFISEG1
+  branch_name: Head Office
+  branch_address: Hornsgatan 1 41550 Goteborg
+  branch_code: XXX
+  city: Goteborg
+  country: Sweden
+- name: Skf International Ab
+  swift: SKFISEGAXXX
+  swift8: SKFISEGA
+  branch_name: Head Office
+  branch_address: Hornsgatan 1 415 50 Goteborg
+  branch_code: XXX
+  city: Goteborg
+  country: Sweden
+- name: Soderberg And Partners Placeringsradgivning Ab
+  swift: SOPDSES1XXX
+  swift8: SOPDSES1
+  branch_name: Head Office
+  branch_address: Regeringsgatan 45 103 96 Stockholm
+  branch_code: XXX
+  city: Stockholm
+  country: Sweden
+- name: Solidar Fondservice I Sverige Ab
+  swift: SOFVSE21XXX
+  swift8: SOFVSE21
+  branch_name: Head Office
+  branch_address: Riddaregatan 8 903 04 Umea
+  branch_code: XXX
+  city: Umea
+  country: Sweden
+- name: Sparbanken Oresund Ab(publ
+  swift: GRIPSES1XXX
+  swift8: GRIPSES1
+  branch_name: Head Office
+  branch_address: Isbergsgata 3 20124 Malmo
+  branch_code: XXX
+  city: Malmo
+  country: Sweden
+- name: Sparbanken Syd
+  swift: SPSDSE21XXX
+  swift8: SPSDSE21
+  branch_name: Head Office
+  branch_address: Hamngatan 2 271 25 Ystad
+  branch_code: XXX
+  city: Ystad
+  country: Sweden
+- name: Sponsor Stiftelseforvaltning Ab
+  swift: SPSESES1XXX
+  swift8: SPSESES1
+  branch_name: Head Office
+  branch_address: Birger Jarlsgatan 6 103 98 Stockholm
+  branch_code: XXX
+  city: Stockholm
+  country: Sweden
+- name: Spp Spar Ab
+  swift: PPSPSES1XXX
+  swift8: PPSPSES1
+  branch_name: Head Office
+  branch_address: Vasagatan 10 105 39 Stockholm
+  branch_code: XXX
+  city: Stockholm
+  country: Sweden
+- name: Stadshypotek Ab
+  swift: STAYSES1XXX
+  swift8: STAYSES1
+  branch_name: Head Office
+  branch_address: C/O Handelsbanken 10670 Stockholm
+  branch_code: XXX
+  city: Stockholm
+  country: Sweden
+- name: Stadshypotek Bank
+  swift: SHYBSES1XXX
+  swift8: SHYBSES1
+  branch_name: Head Office
+  branch_address: Stockholm
+  branch_code: XXX
+  city: Stockholm
+  country: Sweden
+- name: Statkraft Financial Energy Ab
+  swift: STFGSES1XXX
+  swift8: STFGSES1
+  branch_name: Head Office
+  branch_address: Hitechbuilding 92 101 52 Stockholm
+  branch_code: XXX
+  city: Stockholm
+  country: Sweden
+- name: Statoil Energi Forvaltning Ab
+  swift: STEFSES1XXX
+  swift8: STEFSES1
+  branch_name: Head Office
+  branch_address: Torkel Knutssonsgata 24 118 88 Stockholm
+  branch_code: XXX
+  city: Stockholm
+  country: Sweden
+- name: Stella Asset Management Ab
+  swift: STTGSEM1XXX
+  swift8: STTGSEM1
+  branch_name: Head Office
+  branch_address: Gustav Adolfs Torg 51 211 39 Malmo
+  branch_code: XXX
+  city: Malmo
+  country: Sweden
+- name: Stockholm Corporate Finance Ab
+  swift: STTFSES1XXX
+  swift8: STTFSES1
+  branch_name: Head Office
+  branch_address: Nybrogatan 11 114 39 Stockholm
+  branch_code: XXX
+  city: Stockholm
+  country: Sweden
+- name: Strand Kapitalforvaltning Ab
+  swift: STKISES1XXX
+  swift8: STKISES1
+  branch_name: Head Office
+  branch_address: Strandvagen 23 114 56 Stockholm
+  branch_code: XXX
+  city: Stockholm
+  country: Sweden
+- name: Strategiq Fondkommissin Ab
+  swift: STFMSEG1XXX
+  swift8: STFMSEG1
+  branch_name: Head Office
+  branch_address: Tredje Langgatan 7 413 03 Goteborg
+  branch_code: XXX
+  city: Goteborg
+  country: Sweden
+- name: Strukturinvest Fondkommission (fk) Ab
+  swift: STFDSEG1XXX
+  swift8: STFDSEG1
+  branch_name: Head Office
+  branch_address: Stora Badhusgatan 18-20 41121 Goteborg
+  branch_code: XXX
+  city: Goteborg
+  country: Sweden
+- name: Superfund Asset Management Gmbh
+  swift: SAMHSES1XXX
+  swift8: SAMHSES1
+  branch_name: Head Office
+  branch_address: Klarabergsviadukten 70 107 24 Stockholm
+  branch_code: XXX
+  city: Stockholm
+  country: Sweden
+- name: Svensk Kraftmakling Ab
+  swift: SVKRSES1XXX
+  swift8: SVKRSES1
+  branch_name: Head Office
+  branch_address: Drottninggatan 92-94 107 25 Stockholm
+  branch_code: XXX
+  city: Stockholm
+  country: Sweden
+- name: Svenska Finansmaklarna Ab
+  swift: SVFNSE21XXX
+  swift8: SVFNSE21
+  branch_name: No branch name
+  branch_address: No branch address
+  branch_code: XXX
+  city: Uppsala
+  country: Sweden
+- name: Swedbank Hypotek Ab
+  swift: SPIBSES1XXX
+  swift8: SPIBSES1
+  branch_name: Head Office
+  branch_address: Regeringsgatan 13 105 34 Stockholm
+  branch_code: XXX
+  city: Stockholm
+  country: Sweden
+- name: Swedbank Robur Ab
+  swift: ROBRSES1XXX
+  swift8: ROBRSES1
+  branch_name: Head Office
+  branch_address: Malmskillnadsgatan 32 105 34 Stockholm
+  branch_code: XXX
+  city: Stockholm
+  country: Sweden
+- name: Swedbank Robur Kapitalforvaltning Ab
+  swift: SWRKSES1XXX
+  swift8: SWRKSES1
+  branch_name: Head Office
+  branch_address: Malmskillnadsgatan 32 105 34 Stockholm
+  branch_code: XXX
+  city: Stockholm
+  country: Sweden
+- name: Swedish Bankers' Association
+  swift: SWAISES1XXX
+  swift8: SWAISES1
+  branch_name: Head Office
+  branch_address: Regeringsgatan 38 103 94 Stockholm
+  branch_code: XXX
+  city: Stockholm
+  country: Sweden
+- name: Swedish Capital Trust And Credit Union Ef
+  swift: SCTRSES1XXX
+  swift8: SCTRSES1
+  branch_name: Head Office
+  branch_address: Frejgatan 13-885 1479 Stockholm
+  branch_code: XXX
+  city: Stockholm
+  country: Sweden
+- name: Swedish Capital Trust Kb
+  swift: SWCTSES1XXX
+  swift8: SWCTSES1
+  branch_name: Head Office
+  branch_address: Frejgatan 13-882 114 79 Stockholm
+  branch_code: XXX
+  city: Stockholm
+  country: Sweden
+- name: Swedish Emissions Trading Registry
+  swift: SETGSE21XXX
+  swift8: SETGSE21
+  branch_name: Head Office
+  branch_address: Swedish Energy Agency 631 04 Eskilstuna
+  branch_code: XXX
+  city: Eskilstuna
+  country: Sweden
+- name: Systematic Capital Nordic Ab
+  swift: SYCNSES1XXX
+  swift8: SYCNSES1
+  branch_name: Head Office
+  branch_address: Riddargatan 13 114 51 Stockholm
+  branch_code: XXX
+  city: Stockholm
+  country: Sweden
+- name: T.rowe Price Global Investment
+  swift: TPGISES1XXX
+  swift8: TPGISES1
+  branch_name: Head Office
+  branch_address: Stureplan 4 C, 4 Tr 114 35 Stockholm
+  branch_code: XXX
+  city: Stockholm
+  country: Sweden
+- name: Tamm And Partners Fondkommission Ab
+  swift: TAPFSES1XXX
+  swift8: TAPFSES1
+  branch_name: Head Office
+  branch_address: Birger Jarlsgatan 26 114 34 Stockholm
+  branch_code: XXX
+  city: Stockholm
+  country: Sweden
+- name: Td Tech Data Ab
+  swift: TEDTSES1XXX
+  swift8: TEDTSES1
+  branch_name: Head Office
+  branch_address: Fagerstagatan 18 B 016353 Stockholm
+  branch_code: XXX
+  city: Stockholm
+  country: Sweden
+- name: Telge Krafthandel Ab
+  swift: TEKASE21XXX
+  swift8: TEKASE21
+  branch_name: Head Office
+  branch_address: Holmfastvagen 31 151 27 Sodertalje
+  branch_code: XXX
+  city: Sodertalje
+  country: Sweden
+- name: Thenberg And Kinde Fondkommission Ab
+  swift: THKFSEG1XXX
+  swift8: THKFSEG1
+  branch_name: Head Office
+  branch_address: Vastra Hamngatan 19 403 12 Goteborg
+  branch_code: XXX
+  city: Goteborg
+  country: Sweden
+- name: Trader Fondkommission Tfk Ab
+  swift: TRFTSES1XXX
+  swift8: TRFTSES1
+  branch_name: Head Office
+  branch_address: Engelbrektsplan 2 114 34 Stockholm
+  branch_code: XXX
+  city: Stockholm
+  country: Sweden
+- name: Trevise Private Banking Ab
+  swift: TPBSSES1XXX
+  swift8: TPBSSES1
+  branch_name: Head Office
+  branch_address: Birger Jarlsgatan 32 B 114 29 Stockholm
+  branch_code: XXX
+  city: Stockholm
+  country: Sweden
+- name: Triental Ab
+  swift: TRNLSES1XXX
+  swift8: TRNLSES1
+  branch_name: No branch name
+  branch_address: No branch address
+  branch_code: XXX
+  city: Stockholm
+  country: Sweden
+- name: Trioptima Ab
+  swift: TRIISES1XXX
+  swift8: TRIISES1
+  branch_name: Head Office
+  branch_address: Kungsgatan 44 111 35 Stockholm
+  branch_code: XXX
+  city: Stockholm
+  country: Sweden
+- name: Trustly Group Ab
+  swift: TRLYSESSXXX
+  swift8: TRLYSESS
+  branch_name: Head Office
+  branch_address: Sankt Goransgatan 63 112 38 Stockholm
+  branch_code: XXX
+  city: Stockholm
+  country: Sweden
+- name: Ubs Ag Switzerland Stockholm Bankfilial
+  swift: UBSWSES1XXX
+  swift8: UBSWSES1
+  branch_name: Bankfilial
+  branch_address: Regeringsgatan 38 Stockholm
+  branch_code: XXX
+  city: Stockholm
+  country: Sweden
+- name: Unitfond Ab
+  swift: UNTTSE21XXX
+  swift8: UNTTSE21
+  branch_name: Head Office
+  branch_address: Drottninggatan 13 251 12 Helsingborg
+  branch_code: XXX
+  city: Helsingborg
+  country: Sweden
+- name: Valbay Intl
+  swift: VAILSES1XXX
+  swift8: VAILSES1
+  branch_name: Head Office
+  branch_address: Adolf Fredriks Kyrkog Stockholm
+  branch_code: XXX
+  city: Stockholm
+  country: Sweden
+- name: Vastra Gotalands Lan
+  swift: VAGLSE21XXX
+  swift8: VAGLSE21
+  branch_name: Head Office
+  branch_address: Vaggabacken 6 Kungshamn
+  branch_code: XXX
+  city: Kungshamn
+  country: Sweden
+- name: Vattenfall Power Management Aktiebolag
+  swift: VPMASES1XXX
+  swift8: VPMASES1
+  branch_name: Head Office
+  branch_address: Jamtlandsgatan 99 162 87 Stockholm
+  branch_code: XXX
+  city: Stockholm
+  country: Sweden
+- name: Volvo Car Corporation
+  swift: VCARSEGGXXX
+  swift8: VCARSEGG
+  branch_name: No branch name
+  branch_address: No branch address
+  branch_code: XXX
+  city: Goteborg
+  country: Sweden
+- name: Volvo Car Corporation
+  swift: VCARSEG1XXX
+  swift8: VCARSEG1
+  branch_name: Head Office
+  branch_address: Assar Gabrielssons Vag 418 78 Goteborg
+  branch_code: XXX
+  city: Goteborg
+  country: Sweden
+- name: Volvo Treasury Aktiebolag
+  swift: VOTRSEG1XXX
+  swift8: VOTRSEG1
+  branch_name: Head Office
+  branch_address: Lilla Bommen 1 40421 Goteborg
+  branch_code: XXX
+  city: Goteborg
+  country: Sweden
+- name: Wassum Vardepappersaktiebolag
+  swift: WAVASES1XXX
+  swift8: WAVASES1
+  branch_name: Head Office
+  branch_address: Stureplan 4c 114 87 Stockholm
+  branch_code: XXX
+  city: Stockholm
+  country: Sweden
+- name: Weavering Capital Ab
+  swift: WECPSES1XXX
+  swift8: WECPSES1
+  branch_name: Head Office
+  branch_address: Stureplan 15, 4 Tr 103 90 Stockholm
+  branch_code: XXX
+  city: Stockholm
+  country: Sweden

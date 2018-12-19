@@ -1,0 +1,42 @@
+---
+CF:
+- name: Banque Des Etats De L'afrique Centrale D.n. Centrafrique
+  swift: BEACCFCFXXX
+  swift8: BEACCFCF
+  branch_name: Head Office
+  branch_address: Bangui
+  branch_code: XXX
+  city: Bangui
+  country: Central African Republic
+- name: Banque Populaire Maroco-centrafricaine B.p.m.c.
+  swift: BPMCCFCFXXX
+  swift8: BPMCCFCF
+  branch_name: Head Office
+  branch_address: Rue Guerillot 844 Bangui
+  branch_code: XXX
+  city: Bangui
+  country: Central African Republic
+- name: Banque Sahelo-saharienne Centre Afrique
+  swift: BSAHCFCFXXX
+  swift8: BSAHCFCF
+  branch_name: Head Office
+  branch_address: Avenue Du Tchad X Avenue Mobutu Bangui
+  branch_code: XXX
+  city: Bangui
+  country: Central African Republic
+- name: Commercial Bank Centrafrique
+  swift: CBCACFCFXXX
+  swift8: CBCACFCF
+  branch_name: Head Office
+  branch_address: C.B. Ca Bangui
+  branch_code: XXX
+  city: Bangui
+  country: Central African Republic
+- name: Ecobank Centrafrique
+  swift: ECOCCFCFXXX
+  swift8: ECOCCFCF
+  branch_name: Head Office
+  branch_address: Place De La Republique Bangui
+  branch_code: XXX
+  city: Bangui
+  country: Central African Republic

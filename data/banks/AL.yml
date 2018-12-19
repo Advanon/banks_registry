@@ -1,0 +1,346 @@
+---
+AL:
+- name: International Commercial Bank
+  swift: ICOAALTRXXX
+  swift8: ICOAALTR
+  branch_name: Head Office
+  branch_address: Rruga Ded Gjo Luli 3 Tirana
+  branch_code: XXX
+  city: Tirana
+  country: Albania
+- name: Alpha Bank Albania
+  swift: CRBAALTRXXX
+  swift8: CRBAALTR
+  branch_name: Head Office
+  branch_address: Deshmoret E Kombit Blvd 47 Tirana
+  branch_code: XXX
+  city: Tirana
+  country: Albania
+- name: Bank Of Albania
+  swift: STANALT1ELX
+  swift8: STANALT1
+  branch_name: Dega Elbasan
+  branch_address: No branch address
+  branch_code: ELX
+  city: Elbasan
+  country: Albania
+- name: Bank Of Albania
+  swift: STANALT1GJX
+  swift8: STANALT1
+  branch_name: Dega Gjirokastra
+  branch_address: No branch address
+  branch_code: GJX
+  city: Gjirokastra
+  country: Albania
+- name: Bank Of Albania
+  swift: STANALT1KOX
+  swift8: STANALT1
+  branch_name: Dega Korca
+  branch_address: No branch address
+  branch_code: KOX
+  city: Korce
+  country: Albania
+- name: Bank Of Albania
+  swift: STANALT1LUX
+  swift8: STANALT1
+  branch_name: Dega Lushnja
+  branch_address: No branch address
+  branch_code: LUX
+  city: Lushnje
+  country: Albania
+- name: Bank Of Albania
+  swift: STANALT1SHX
+  swift8: STANALT1
+  branch_name: Dega Shkodra
+  branch_address: No branch address
+  branch_code: SHX
+  city: Shkoder
+  country: Albania
+- name: Bank Of Albania
+  swift: STANALT1SPX
+  swift8: STANALT1
+  branch_name: Sporteli I Bonove Te Thesarit Bsh
+  branch_address: No branch address
+  branch_code: SPX
+  city: Tirana
+  country: Albania
+- name: Bank Of Albania
+  swift: STANALTRXXX
+  swift8: STANALTR
+  branch_name: Head Office
+  branch_address: Sheshi Skonderbej 1 Tirana
+  branch_code: XXX
+  city: Tirana
+  country: Albania
+- name: Banka Kombetare Tregtare Sh.a.
+  swift: NCBAALTXXXX
+  swift8: NCBAALTX
+  branch_name: Head Office
+  branch_address: Bulevardi Zhan Dark Tirana
+  branch_code: XXX
+  city: Tirana
+  country: Albania
+- name: Banka Nbg Albania Sh.a.
+  swift: ETHNALTXXXX
+  swift8: ETHNALTX
+  branch_name: Head Office
+  branch_address: Bulevardi Deshmoret E Kombit 72 Tirana
+  branch_code: XXX
+  city: Durres
+  country: Albania
+- name: Banka Societe Generale Albania
+  swift: PUPPALTRXXX
+  swift8: PUPPALTR
+  branch_name: Head Office
+  branch_address: Twin Towers Tirana
+  branch_code: XXX
+  city: Durres
+  country: Albania
+- name: British American Tobacco-albania Sh.p.k.
+  swift: BATSALT1XXX
+  swift8: BATSALT1
+  branch_name: No branch name
+  branch_address: No branch address
+  branch_code: XXX
+  city: Tirana
+  country: Albania
+- name: Credins Bank Sh.a
+  swift: CDISALTRXXX
+  swift8: CDISALTR
+  branch_name: Head Office
+  branch_address: Rruga Ismail Qemali 21 Tirana
+  branch_code: XXX
+  city: Kamez
+  country: Albania
+- name: Credit Agricole Albania Bank S.a.
+  swift: EMPOALTRXXX
+  swift8: EMPOALTR
+  branch_name: Head Office
+  branch_address: Tirana Tower Tirana
+  branch_code: XXX
+  city: Tirana
+  country: Albania
+- name: Credit Bank Of Albania
+  swift: CBOAALTRXXX
+  swift8: CBOAALTR
+  branch_name: Head Office
+  branch_address: Al Kharafi Administration Building Tirana
+  branch_code: XXX
+  city: Tirana
+  country: Albania
+- name: First Investment Bank-albania Sh.a
+  swift: FINVALTRXXX
+  swift8: FINVALTR
+  branch_name: Head Office
+  branch_address: Twin Towers No.2 00355 Tirana
+  branch_code: XXX
+  city: Tirana
+  country: Albania
+- name: Intesa Sanpaolo Bank Albania Sh.a.
+  swift: USALALTR010
+  swift8: USALALTR
+  branch_name: Rr Barrikadave Branch
+  branch_address: Tirana
+  branch_code: '010'
+  city: Tirana
+  country: Albania
+- name: Intesa Sanpaolo Bank Albania Sh.a.
+  swift: USALALTR020
+  swift8: USALALTR
+  branch_name: Lapraka Branch
+  branch_address: Tirana
+  branch_code: '020'
+  city: Tirana
+  country: Albania
+- name: Intesa Sanpaolo Bank Albania Sh.a.
+  swift: USALALTRDR2
+  swift8: USALALTR
+  branch_name: Durres Train Station Branch
+  branch_address: Durres
+  branch_code: DR2
+  city: Durres
+  country: Albania
+- name: Intesa Sanpaolo Bank Albania Sh.a.
+  swift: USALALTRDUR
+  swift8: USALALTR
+  branch_name: Durres Main Branch
+  branch_address: Durres
+  branch_code: DUR
+  city: Durres
+  country: Albania
+- name: Intesa Sanpaolo Bank Albania Sh.a.
+  swift: USALALTRELB
+  swift8: USALALTR
+  branch_name: Elbasan Branch
+  branch_address: Elbasan
+  branch_code: ELB
+  city: Elbasan
+  country: Albania
+- name: Intesa Sanpaolo Bank Albania Sh.a.
+  swift: USALALTRFIE
+  swift8: USALALTR
+  branch_name: Fier Branch
+  branch_address: Fier
+  branch_code: FIE
+  city: Fier
+  country: Albania
+- name: Intesa Sanpaolo Bank Albania Sh.a.
+  swift: USALALTRGJR
+  swift8: USALALTR
+  branch_name: Gjirokastra Branch
+  branch_address: Gjirokastra
+  branch_code: GJR
+  city: Gjirokastra
+  country: Albania
+- name: Intesa Sanpaolo Bank Albania Sh.a.
+  swift: USALALTRKJ1
+  swift8: USALALTR
+  branch_name: Kavaja Branch
+  branch_address: Lagjia Nr.6 2501 Kavaje
+  branch_code: KJ1
+  city: Kavaje
+  country: Albania
+- name: Intesa Sanpaolo Bank Albania Sh.a.
+  swift: USALALTRKOR
+  swift8: USALALTR
+  branch_name: Korce Branch
+  branch_address: Korce
+  branch_code: KOR
+  city: Korce
+  country: Albania
+- name: Intesa Sanpaolo Bank Albania Sh.a.
+  swift: USALALTRLUS
+  swift8: USALALTR
+  branch_name: Lushnja Branch
+  branch_address: Lushnje
+  branch_code: LUS
+  city: Lushnje
+  country: Albania
+- name: Intesa Sanpaolo Bank Albania Sh.a.
+  swift: USALALTRLZH
+  swift8: USALALTR
+  branch_name: Lezha Branch
+  branch_address: Lezhe
+  branch_code: LZH
+  city: Lezhe
+  country: Albania
+- name: Intesa Sanpaolo Bank Albania Sh.a.
+  swift: USALALTRSH1
+  swift8: USALALTR
+  branch_name: Shkodra Branch
+  branch_address: Shkoder
+  branch_code: SH1
+  city: Shkoder
+  country: Albania
+- name: Intesa Sanpaolo Bank Albania Sh.a.
+  swift: USALALTRVL2
+  swift8: USALALTR
+  branch_name: Vlora Rr Sadik Zotaj Branch
+  branch_address: Vlore
+  branch_code: VL2
+  city: Vlore
+  country: Albania
+- name: Intesa Sanpaolo Bank Albania Sh.a.
+  swift: USALALTRVLR
+  swift8: USALALTR
+  branch_name: Vlora Main Branch
+  branch_address: Vlore
+  branch_code: VLR
+  city: Vlore
+  country: Albania
+- name: Intesa Sanpaolo Bank Albania Sh.a.
+  swift: USALALTRXXX
+  swift8: USALALTR
+  branch_name: Head Office
+  branch_address: Rruga Ismail Qemali 27 Tirana
+  branch_code: XXX
+  city: Tirana
+  country: Albania
+- name: Ministry Of Finance Of Albania
+  swift: MIFBALTRXXX
+  swift8: MIFBALTR
+  branch_name: Head Office
+  branch_address: Blvd Deshmoret E Kombit 3 Tirana
+  branch_code: XXX
+  city: Tirana
+  country: Albania
+- name: Posta Shqiptare Sh.a.
+  swift: SHQHALT1XXX
+  swift8: SHQHALT1
+  branch_name: Head Office
+  branch_address: Drejtoria E Pergjithshme E 1005 Tirana
+  branch_code: XXX
+  city: Tirana
+  country: Albania
+- name: Procredit Bank Sh. A. Albania (formerly Fefad Bank
+  swift: FEFAALTRDUR
+  swift8: FEFAALTR
+  branch_name: Durres Branch
+  branch_address: Rr. Aleksander Goga, No 6 Durres
+  branch_code: DUR
+  city: Durres
+  country: Albania
+- name: Procredit Bank Sh. A. Albania (formerly Fefad Bank
+  swift: FEFAALTRFIE
+  swift8: FEFAALTR
+  branch_name: Fier Branch
+  branch_address: Rr. Ramiz Arianitasi, P. 23 Fier
+  branch_code: FIE
+  city: Fier
+  country: Albania
+- name: Procredit Bank Sh. A. Albania (formerly Fefad Bank
+  swift: FEFAALTRTIR
+  swift8: FEFAALTR
+  branch_name: Tirana Branch
+  branch_address: Rr. Sami Frasheri Tirana
+  branch_code: TIR
+  city: Tirana
+  country: Albania
+- name: Procredit Bank Sh. A. Albania (formerly Fefad Bank
+  swift: FEFAALTRXXX
+  swift8: FEFAALTR
+  branch_name: Head Office
+  branch_address: Rr. Sami Frasheri Tirana
+  branch_code: XXX
+  city: Durres
+  country: Albania
+- name: Raiffeisen Bank Sh.a.
+  swift: SGSBALTXXXX
+  swift8: SGSBALTX
+  branch_name: Head Office
+  branch_address: Rr Deshmoret E 4 Shkurtit Nr. 6 Tirana
+  branch_code: XXX
+  city: Lac
+  country: Albania
+- name: Tirana Bank
+  swift: TIRBALTRXXX
+  swift8: TIRBALTR
+  branch_name: Head Office
+  branch_address: 4 Shkurti (Prane Gardes) Tirana
+  branch_code: XXX
+  city: Durres
+  country: Albania
+- name: Union Bank Sh.a.
+  swift: UNALALTRXXX
+  swift8: UNALALTR
+  branch_name: Head Office
+  branch_address: Katesh Perballe Stacionit Te Trenit Tirana
+  branch_code: XXX
+  city: Tirana
+  country: Albania
+- name: United Bank Of Albania Sh.a
+  swift: AAISALTRXXX
+  swift8: AAISALTR
+  branch_name: Head Office
+  branch_address: Blvd. Deshmoret E Kombit 8 128 Tirana
+  branch_code: XXX
+  city: Tirana
+  country: Albania
+- name: Veneto Banka Sh.a
+  swift: ITSVALTRXXX
+  swift8: ITSVALTR
+  branch_name: Head Office
+  branch_address: Kullat Binjake 8292 Tirana
+  branch_code: XXX
+  city: Tirana
+  country: Albania

@@ -1,0 +1,10 @@
+---
+GL:
+- name: Gronlandsbanken A/s
+  swift: GRENGLGXXXX
+  swift8: GRENGLGX
+  branch_name: Head Office
+  branch_address: Imaneq 33 3900 Nuuk (Godthaab)
+  branch_code: XXX
+  city: Nuuk (Godthaab)
+  country: Greenland

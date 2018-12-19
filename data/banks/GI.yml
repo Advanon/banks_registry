@@ -1,0 +1,226 @@
+---
+GI:
+- name: Banque J.Safra (Gibraltar) Limited
+  swift: BJSBGIGXXXX
+  swift8: BJSBGIGX
+  branch_name: Head Office
+  branch_address: 9.8.Intern. Commercial Center Gibraltar
+  branch_code: XXX
+  city: Gibraltar
+  country: Gibraltar
+- name: Barclays Bank Plc
+  swift: BARCGIGIXXX
+  swift8: BARCGIGI
+  branch_name: Head Office
+  branch_address: Regal House Gibraltar
+  branch_code: XXX
+  city: Gibraltar
+  country: Gibraltar
+- name: Barclays Bank Plc
+  swift: BARCGIG10GI
+  swift8: BARCGIG1
+  branch_name: Gibraltar
+  branch_address: 84/90 Main Street Gibraltar
+  branch_code: 0GI
+  city: Gibraltar
+  country: Gibraltar
+- name: Barclays Bank Plc
+  swift: BARCGIG1PCI
+  swift8: BARCGIG1
+  branch_name: Gibraltar
+  branch_address: 84-90 Main Street Gibraltar
+  branch_code: PCI
+  city: Gibraltar
+  country: Gibraltar
+- name: Credit Suisse (Gibraltar) Ltd
+  swift: CRESGIGIXXX
+  swift8: CRESGIGI
+  branch_name: Head Office
+  branch_address: Neptune House Gibraltar
+  branch_code: XXX
+  city: Gibraltar
+  country: Gibraltar
+- name: Jyske Bank (Gibraltar) Ltd.
+  swift: JYBAGIGIXXX
+  swift8: JYBAGIGI
+  branch_name: Head Office
+  branch_address: 76 Main Street Gibraltar
+  branch_code: XXX
+  city: Gibraltar
+  country: Gibraltar
+- name: Lloyds Tsb Bank (Gibraltar) Limited
+  swift: LOYDGIGIXXX
+  swift8: LOYDGIGI
+  branch_name: Head Office
+  branch_address: 323 Main Street Gibraltar
+  branch_code: XXX
+  city: Gibraltar
+  country: Gibraltar
+- name: Lombard Odier Darier Hentsch Private Bank Limited
+  swift: LOCYGIGINDP
+  swift8: LOCYGIGI
+  branch_name: Ndp Dept
+  branch_address: Gibraltar
+  branch_code: NDP
+  city: Gibraltar
+  country: Gibraltar
+- name: Lombard Odier Darier Hentsch Private Bank Limited
+  swift: LOCYGIGIXXX
+  swift8: LOCYGIGI
+  branch_name: Head Office
+  branch_address: Europort Gibraltar
+  branch_code: XXX
+  city: Gibraltar
+  country: Gibraltar
+- name: Natwest-Gibraltar
+  swift: RBOSGIGIXXX
+  swift8: RBOSGIGI
+  branch_name: Head Office
+  branch_address: National Westminster House Gibraltar
+  branch_code: XXX
+  city: Gibraltar
+  country: Gibraltar
+- name: Novista Insurance Ltd
+  swift: NOVRGIGIXXX
+  swift8: NOVRGIGI
+  branch_name: Head Office
+  branch_address: 57/63 Line Wall Road Gibraltar
+  branch_code: XXX
+  city: Gibraltar
+  country: Gibraltar
+- name: Sg Hambros Bank (Gibraltar) Limited
+  swift: HAMBGIGIXXX
+  swift8: HAMBGIGI
+  branch_name: Head Office
+  branch_address: Hambro House Gibraltar
+  branch_code: XXX
+  city: Gibraltar
+  country: Gibraltar
+- name: Turicum Private Bank Limited
+  swift: TURCGIGIXXX
+  swift8: TURCGIGI
+  branch_name: Head Office
+  branch_address: Gibraltar
+  branch_code: XXX
+  city: Gibraltar
+  country: Gibraltar
+- name: 3gt Active Trading Funds Pcc Ltd
+  swift: ATFCGI21XXX
+  swift8: ATFCGI21
+  branch_name: Head Office
+  branch_address: 6a Queensway Gx1 1aa Gibraltar
+  branch_code: XXX
+  city: Gibraltar
+  country: Gibraltar
+- name: Baltica Bank (gibraltar) Ltd
+  swift: BBALGIG1XXX
+  swift8: BBALGIG1
+  branch_name: Head Office
+  branch_address: 215a Neptune House Gibraltar
+  branch_code: XXX
+  city: Gibraltar
+  country: Gibraltar
+- name: Barclaytrust International Nominees (gibraltar) Limited
+  swift: BIGIGIG1XXX
+  swift8: BIGIGIG1
+  branch_name: Head Office
+  branch_address: Regal House Gibraltar
+  branch_code: XXX
+  city: Gibraltar
+  country: Gibraltar
+- name: Close Brothers Marrache Bank Limited
+  swift: CLOSGIG1XXX
+  swift8: CLOSGIG1
+  branch_name: Head Office
+  branch_address: 206 Main Street Gibraltar
+  branch_code: XXX
+  city: Gibraltar
+  country: Gibraltar
+- name: Factum Capital Ltd
+  swift: FACCGIG1XXX
+  swift8: FACCGIG1
+  branch_name: Head Office
+  branch_address: International Commercial Center Gibraltar
+  branch_code: XXX
+  city: Gibraltar
+  country: Gibraltar
+- name: Gibraltar And Iberian Bank Ltd
+  swift: GIBIGIG1XXX
+  swift8: GIBIGIG1
+  branch_name: Head Office
+  branch_address: The Arvz Gibraltar
+  branch_code: XXX
+  city: Gibraltar
+  country: Gibraltar
+- name: Gibraltar Asset Management Limited
+  swift: GIAMGIG1XXX
+  swift8: GIAMGIG1
+  branch_name: Head Office
+  branch_address: 28 Irish Town Gibraltar
+  branch_code: XXX
+  city: Gibraltar
+  country: Gibraltar
+- name: Gsb Limited
+  swift: IETGGIG1XXX
+  swift8: IETGGIG1
+  branch_name: Head Office
+  branch_address: 944 Europort Gibraltar
+  branch_code: XXX
+  city: Gibraltar
+  country: Gibraltar
+- name: Guevora Fund Limited
+  swift: GUFUGIG1XXX
+  swift8: GUFUGIG1
+  branch_name: Head Office
+  branch_address: Neptune House Gibraltar
+  branch_code: XXX
+  city: Gibraltar
+  country: Gibraltar
+- name: Guevoura Fund Limited
+  swift: GUFNGIG1XXX
+  swift8: GUFNGIG1
+  branch_name: Head Office
+  branch_address: Suite 210 Neptune House Marina Bay
+  branch_code: XXX
+  city: Marina Bay
+  country: Gibraltar
+- name: Indigo Futures Ltd.
+  swift: IDFUGIG1XXX
+  swift8: IDFUGIG1
+  branch_name: Head Office
+  branch_address: Watergardens 3, Waterport Gibraltar
+  branch_code: XXX
+  city: Gibraltar
+  country: Gibraltar
+- name: Lloyds Bank (gibraltar) Limited
+  swift: LOYDGIB1XXX
+  swift8: LOYDGIB1
+  branch_name: Head Office
+  branch_address: 323 Main Street Gibraltar
+  branch_code: XXX
+  city: Gibraltar
+  country: Gibraltar
+- name: Massey Fund Limited
+  swift: MSFUGIG1XXX
+  swift8: MSFUGIG1
+  branch_name: Head Office
+  branch_address: 6a Queensway Gibraltar
+  branch_code: XXX
+  city: Gibraltar
+  country: Gibraltar
+- name: Natwest Offshore-gibraltar
+  swift: RBOSGI21XXX
+  swift8: RBOSGI21
+  branch_name: Head Office
+  branch_address: National Westminster House Gibraltar
+  branch_code: XXX
+  city: Gibraltar
+  country: Gibraltar
+- name: Springfield Bank And Trust Ltd
+  swift: SPRNGIG1XXX
+  swift8: SPRNGIG1
+  branch_name: Head Office
+  branch_address: Europort Gibraltar
+  branch_code: XXX
+  city: Gibraltar
+  country: Gibraltar

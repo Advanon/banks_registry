@@ -1,0 +1,58 @@
+---
+SZ:
+- name: Central Bank Of Swaziland
+  swift: SWAZSZMBXXX
+  swift8: SWAZSZMB
+  branch_name: Head Office
+  branch_address: Warner Street Mbabane
+  branch_code: XXX
+  city: Mbabane
+  country: Swaziland
+- name: First National Bank Of Swaziland Limited
+  swift: FIRNSZMXXXX
+  swift8: FIRNSZMX
+  branch_name: Head Office
+  branch_address: Corner West and Warner Street Mbabane
+  branch_code: XXX
+  city: Mbabane
+  country: Swaziland
+- name: Nedbank (swaziland) Limited
+  swift: NESWSZMXXXX
+  swift8: NESWSZMX
+  branch_name: Head Office
+  branch_address: Allister Miller Street 21 Mbabane
+  branch_code: XXX
+  city: Mbabane
+  country: Swaziland
+- name: Standard Bank Swaziland Ltd
+  swift: SBICSZMXXXX
+  swift8: SBICSZMX
+  branch_name: Head Office
+  branch_address: Stanbic House Mbabane
+  branch_code: XXX
+  city: Mbabane
+  country: Swaziland
+- name: Swaziland Beverages Limited
+  swift: SABMSZM1XXX
+  swift8: SABMSZM1
+  branch_name: Head Office
+  branch_address: Swaziland Beverages Limited Matsapha
+  branch_code: XXX
+  city: Matsapha
+  country: Swaziland
+- name: Swaziland Development And Savings Bank
+  swift: SDSBSZMBXXX
+  swift8: SDSBSZMB
+  branch_name: Head Office
+  branch_address: Ngungwini Building Mbabane
+  branch_code: XXX
+  city: Mbabane
+  country: Swaziland
+- name: Swaziland Stockbrokers Ltd
+  swift: SWAOSZM1XXX
+  swift8: SWAOSZM1
+  branch_name: Head Office
+  branch_address: 208 Dhlanubeka House Mbabane
+  branch_code: XXX
+  city: Mbabane
+  country: Swaziland

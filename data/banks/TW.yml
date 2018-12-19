@@ -1,0 +1,5746 @@
+---
+TW:
+- name: Banco Bilbao Vizcaya Argentaria S.A
+  swift: BBVATWTPXXX
+  swift8: BBVATWTP
+  branch_name: Head Office
+  branch_address: Xinyi Rd.No 7 Sec 5 110 Taipei
+  branch_code: XXX
+  city: Taipei
+  country: Taiwan
+- name: Bangkok Bank Public Company Limited
+  swift: BKKBTWT10TK
+  swift8: BKKBTWT1
+  branch_name: Kaohsiung
+  branch_address: Kaoshiung Chung-Cheng Building Ii Kaohsiung
+  branch_code: 0TK
+  city: Kaohsiung
+  country: Taiwan
+- name: Bank Of Nova Scotia, The
+  swift: NOSCTWTPXXX
+  swift8: NOSCTWTP
+  branch_name: Head Office
+  branch_address: Union Enterprise Plaza 10446 Taipei
+  branch_code: XXX
+  city: Taipei
+  country: Taiwan
+- name: Bank Of Taiwan
+  swift: BKTWTWTP003
+  swift8: BKTWTWTP
+  branch_name: Department of Business
+  branch_address: 120, Sec. 1, Chongcing South Road Taipei
+  branch_code: '003'
+  city: Taipei
+  country: Taiwan
+- name: Bank Of Taiwan
+  swift: BKTWTWTP007
+  swift8: BKTWTWTP
+  branch_name: Guancian Branch
+  branch_address: 49 Guancian Road Taipei
+  branch_code: '007'
+  city: Taipei
+  country: Taiwan
+- name: Bank Of Taiwan
+  swift: BKTWTWTP008
+  swift8: BKTWTWTP
+  branch_name: Department of Trusts
+  branch_address: 49, Wu-Chang Street Section 1 Taipei
+  branch_code: '008'
+  city: Taipei
+  country: Taiwan
+- name: Bank Of Taiwan
+  swift: BKTWTWTP009
+  swift8: BKTWTWTP
+  branch_name: Tainan Branch
+  branch_address: 155 Fu Chien Road, Section 1 700 Tainan
+  branch_code: '009'
+  city: Tainan
+  country: Taiwan
+- name: Bank Of Taiwan
+  swift: BKTWTWTP010
+  swift8: BKTWTWTP
+  branch_name: Taichung Branch
+  branch_address: 140 Tzu Yu Road 403 Taichung
+  branch_code: '010'
+  city: Taichung
+  country: Taiwan
+- name: Bank Of Taiwan
+  swift: BKTWTWTP011
+  swift8: BKTWTWTP
+  branch_name: Kaohsiung Branch
+  branch_address: 264 Chung Cheng 4th Road 800 Kaohsiung
+  branch_code: '011'
+  city: Kaohsiung
+  country: Taiwan
+- name: Bank Of Taiwan
+  swift: BKTWTWTP012
+  swift8: BKTWTWTP
+  branch_name: Keelung Branch
+  branch_address: 16 Yee-I Road 200 Keelung
+  branch_code: '012'
+  city: Keelung
+  country: Taiwan
+- name: Bank Of Taiwan
+  swift: BKTWTWTP013
+  swift8: BKTWTWTP
+  branch_name: Chung-Hsin New Village Branch
+  branch_address: 11 Kung Hua Road 543 Nantou
+  branch_code: '013'
+  city: Nantou
+  country: Taiwan
+- name: Bank Of Taiwan
+  swift: BKTWTWTP014
+  swift8: BKTWTWTP
+  branch_name: Chiayi Branch
+  branch_address: 306 Chung Shan Road 600 Chiayi
+  branch_code: '014'
+  city: Chia Yi
+  country: Taiwan
+- name: Bank Of Taiwan
+  swift: BKTWTWTP015
+  swift8: BKTWTWTP
+  branch_name: Hsinchu Branch
+  branch_address: 29 Lin Sen Road 300 Hsinchu
+  branch_code: '015'
+  city: Hsinchu
+  country: Taiwan
+- name: Bank Of Taiwan
+  swift: BKTWTWTP016
+  swift8: BKTWTWTP
+  branch_name: Changhua Branch
+  branch_address: 130 Cheng-Kung Road 500 Changhua
+  branch_code: '016'
+  city: Changhua
+  country: Taiwan
+- name: Bank Of Taiwan
+  swift: BKTWTWTP017
+  swift8: BKTWTWTP
+  branch_name: Pingtung Branch
+  branch_address: 9 Chung Hwa Road 900 Pingtung
+  branch_code: '017'
+  city: Pingtung
+  country: Taiwan
+- name: Bank Of Taiwan
+  swift: BKTWTWTP018
+  swift8: BKTWTWTP
+  branch_name: Hualien Branch
+  branch_address: 3 Park Road 970 Hualien
+  branch_code: '018'
+  city: Hualien
+  country: Taiwan
+- name: Bank Of Taiwan
+  swift: BKTWTWTP019
+  swift8: BKTWTWTP
+  branch_name: Yenping Branch
+  branch_address: 406 Nanking West Road 103 Taipei
+  branch_code: '019'
+  city: Taipei
+  country: Taiwan
+- name: Bank Of Taiwan
+  swift: BKTWTWTP020
+  swift8: BKTWTWTP
+  branch_name: Chungshan Branch
+  branch_address: 150 Chung Shan North Road 104 Taipei
+  branch_code: '020'
+  city: Taipei
+  country: Taiwan
+- name: Bank Of Taiwan
+  swift: BKTWTWTP021
+  swift8: BKTWTWTP
+  branch_name: Kaohsiung Export Processing Zone
+  branch_address: 1 Chung 1 Road 806 Kaohsiung
+  branch_code: '021'
+  city: Kaohsiung
+  country: Taiwan
+- name: Bank Of Taiwan
+  swift: BKTWTWTP022
+  swift8: BKTWTWTP
+  branch_name: Yilan Branch
+  branch_address: 1 Chung San Road 260 Yilan
+  branch_code: '022'
+  city: I-Lan
+  country: Taiwan
+- name: Bank Of Taiwan
+  swift: BKTWTWTP023
+  swift8: BKTWTWTP
+  branch_name: Taitung Branch
+  branch_address: 313 Chung Shan Road 950 Taitung
+  branch_code: '023'
+  city: Taitung
+  country: Taiwan
+- name: Bank Of Taiwan
+  swift: BKTWTWTP024
+  swift8: BKTWTWTP
+  branch_name: Penghu Branch
+  branch_address: 24 Jen Ai Road 880 Penghu
+  branch_code: '024'
+  city: Penghu
+  country: Taiwan
+- name: Bank Of Taiwan
+  swift: BKTWTWTP025
+  swift8: BKTWTWTP
+  branch_name: Fengshan Branch
+  branch_address: 20 Tsao Kung Road 830 Fengshan
+  branch_code: '025'
+  city: Fengshan
+  country: Taiwan
+- name: Bank Sinopac
+  swift: SINOTWTP001
+  swift8: SINOTWTP
+  branch_name: Banking Division
+  branch_address: 4 Chung Hsiao West Road Section 1 100 Taipei
+  branch_code: '001'
+  city: Taipei
+  country: Taiwan
+- name: Bank Sinopac
+  swift: SINOTWTP002
+  swift8: SINOTWTP
+  branch_name: Savings Division
+  branch_address: 209, Tun Hua N. Road 105 Taipei
+  branch_code: '002'
+  city: Taipei
+  country: Taiwan
+- name: Bank Sinopac
+  swift: SINOTWTP003
+  swift8: SINOTWTP
+  branch_name: Taichung Branch
+  branch_address: 101 Tksu Yu Road Section 1 403 Taichung
+  branch_code: '003'
+  city: Taichung
+  country: Taiwan
+- name: Bank Sinopac
+  swift: SINOTWTP004
+  swift8: SINOTWTP
+  branch_name: Kaohsiung Branch
+  branch_address: 143 Chung Cheng 2nd Road 802 Kaohsiung
+  branch_code: '004'
+  city: Kaohsiung
+  country: Taiwan
+- name: Bank Sinopac
+  swift: SINOTWTP005
+  swift8: SINOTWTP
+  branch_name: Chung Hsiao Branch
+  branch_address: 1, Cn 236, Tun-Hwa S. Road Taipei
+  branch_code: '005'
+  city: Taipei
+  country: Taiwan
+- name: Bank Sinopac
+  swift: SINOTWTP006
+  swift8: SINOTWTP
+  branch_name: Shung Shan Branch
+  branch_address: 92 Nanking Eadt Road Section 5 105 Taipei
+  branch_code: '006'
+  city: Taipei
+  country: Taiwan
+- name: Bank Sinopac
+  swift: SINOTWTP009
+  swift8: SINOTWTP
+  branch_name: Hsinyi Branch
+  branch_address: 187 an Ho Road, Sec. 2 106 Taipei
+  branch_code: '009'
+  city: Taipei
+  country: Taiwan
+- name: Bank Sinopac
+  swift: SINOTWTP011
+  swift8: SINOTWTP
+  branch_name: Tao-Yuan Branch
+  branch_address: 51, Fu-Shing Road 33000 Tao-Yuan
+  branch_code: '011'
+  city: Tao-Yuan
+  country: Taiwan
+- name: Bank Sinopac
+  swift: SINOTWTP013
+  swift8: SINOTWTP
+  branch_name: Tainan Branch
+  branch_address: 114 Chien Kang Road, Sec. 2 702 Tainan
+  branch_code: '013'
+  city: Tainan
+  country: Taiwan
+- name: Bank Sinopac
+  swift: SINOTWTP018
+  swift8: SINOTWTP
+  branch_name: Hsinchu Branch
+  branch_address: 293 Kuang-Fu Road Hsinchu
+  branch_code: '018'
+  city: Hsinchu
+  country: Taiwan
+- name: Bank Sinopac
+  swift: SINOTWTP020
+  swift8: SINOTWTP
+  branch_name: Offshore Banking Branch
+  branch_address: 9-1, Chien Kuo N. Road, Sec. 2 105 Taipei
+  branch_code: '020'
+  city: Taipei
+  country: Taiwan
+- name: Bank Sinopac
+  swift: SINOTWTP021
+  swift8: SINOTWTP
+  branch_name: Taipei Branch
+  branch_address: 9-1 Chien Kuo N. Road, Sec. 2 104 Taipei
+  branch_code: '021'
+  city: Taipei
+  country: Taiwan
+- name: Bank Sinopac
+  swift: SINOTWTP024
+  swift8: SINOTWTP
+  branch_name: Chungli Branch
+  branch_address: 160 Tze-Hui Third Street 320 Chungli
+  branch_code: '024'
+  city: Chung Li
+  country: Taiwan
+- name: Bank Sinopac
+  swift: SINOTWTP771
+  swift8: SINOTWTP
+  branch_name: Credit Division
+  branch_address: 66 Shung Shan Road, Lane 9 105 Taipei
+  branch_code: '771'
+  city: Taipei
+  country: Taiwan
+- name: Bank Sinopac
+  swift: SINOTWTPXXX
+  swift8: SINOTWTP
+  branch_name: Head Office
+  branch_address: No. 36, Sec. 3, Nanking E. Road 104 Taipei
+  branch_code: XXX
+  city: Taipei
+  country: Taiwan
+- name: Chang Hwa Commercial Bank Ltd.
+  swift: CCBCTWTP212
+  swift8: CCBCTWTP
+  branch_name: Offshore Banking Branch
+  branch_address: 57 Chung Shan North Road, 104 Taipei
+  branch_code: '212'
+  city: Taipei
+  country: Taiwan
+- name: Chang Hwa Commercial Bank Ltd.
+  swift: CCBCTWTP220
+  swift8: CCBCTWTP
+  branch_name: Taichung-Head Office
+  branch_address: 38 Tsu Yu Road, Section 2 400 Taichung
+  branch_code: '220'
+  city: Taichung
+  country: Taiwan
+- name: Chang Hwa Commercial Bank Ltd.
+  swift: CCBCTWTP300
+  swift8: CCBCTWTP
+  branch_name: Chilin Branch
+  branch_address: 98 Nanking East Road, Section 2 104 Taipei
+  branch_code: '300'
+  city: Taipei
+  country: Taiwan
+- name: Chang Hwa Commercial Bank Ltd.
+  swift: CCBCTWTP301
+  swift8: CCBCTWTP
+  branch_name: Chengnei Branch
+  branch_address: 68, Heng Yang Rd. 10045 Taipei
+  branch_code: '301'
+  city: Taipei
+  country: Taiwan
+- name: Chang Hwa Commercial Bank Ltd.
+  swift: CCBCTWTP400
+  swift8: CCBCTWTP
+  branch_name: Pei-Taichung Branch
+  branch_address: 6, Sec. 1, Taichung Kang Rd. 40354 Taichung
+  branch_code: '400'
+  city: Taichung
+  country: Taiwan
+- name: Chang Hwa Commercial Bank Ltd.
+  swift: CCBCTWTP401
+  swift8: CCBCTWTP
+  branch_name: Nan-Taichung Branch
+  branch_address: Taichung
+  branch_code: '401'
+  city: Taichung
+  country: Taiwan
+- name: Chang Hwa Commercial Bank Ltd.
+  swift: CCBCTWTP402
+  swift8: CCBCTWTP
+  branch_name: Peitun Branch
+  branch_address: 10, Peitun Rd. 40459 Taichung
+  branch_code: '402'
+  city: Taichung
+  country: Taiwan
+- name: Chang Hwa Commercial Bank Ltd.
+  swift: CCBCTWTP403
+  swift8: CCBCTWTP
+  branch_name: Shuinan Branch
+  branch_address: 447, Sec. 3, Wen Hsin Rd. 40667 Taichung
+  branch_code: '403'
+  city: Taichung
+  country: Taiwan
+- name: Chang Hwa Commercial Bank Ltd.
+  swift: CCBCTWTP404
+  swift8: CCBCTWTP
+  branch_name: Nantun Branch
+  branch_address: 306, Sec. 1, Wen Hsin Rd., Taichung 408 Taichung
+  branch_code: '404'
+  city: Taichung
+  country: Taiwan
+- name: Chang Hwa Commercial Bank Ltd.
+  swift: CCBCTWTP405
+  swift8: CCBCTWTP
+  branch_name: Taichung Branch
+  branch_address: 78, Fu Hsing Rd. 40245 Taichung
+  branch_code: '405'
+  city: Taichung
+  country: Taiwan
+- name: Chang Hwa Commercial Bank Ltd.
+  swift: CCBCTWTP410
+  swift8: CCBCTWTP
+  branch_name: Keelung Branch
+  branch_address: 60 Ai 4th Road 200 Keelung
+  branch_code: '410'
+  city: Keelung
+  country: Taiwan
+- name: Chang Hwa Commercial Bank Ltd.
+  swift: CCBCTWTP411
+  swift8: CCBCTWTP
+  branch_name: Jenai Branch
+  branch_address: 100, Hsiao 2nd Rd. 20042 Keelung
+  branch_code: '411'
+  city: Keelung
+  country: Taiwan
+- name: Chang Hwa Commercial Bank Ltd.
+  swift: CCBCTWTP412
+  swift8: CCBCTWTP
+  branch_name: Tung-Keelung Branch
+  branch_address: 57, Hsin 1st Rd. 20145 Keelung
+  branch_code: '412'
+  city: Keelung
+  country: Taiwan
+- name: Chang Hwa Commercial Bank Ltd.
+  swift: CCBCTWTP420
+  swift8: CCBCTWTP
+  branch_name: Ilan Branch
+  branch_address: 18, Kuang Fu Rd. 26043 I-Lan
+  branch_code: '420'
+  city: I-Lan
+  country: Taiwan
+- name: Chang Hwa Commercial Bank Ltd.
+  swift: CCBCTWTP421
+  swift8: CCBCTWTP
+  branch_name: Lotung Branch
+  branch_address: 194, Chung Cheng Rd., Ilan Hsien 26547 Lotung
+  branch_code: '421'
+  city: Lotung
+  country: Taiwan
+- name: Chang Hwa Commercial Bank Ltd.
+  swift: CCBCTWTP500
+  swift8: CCBCTWTP
+  branch_name: Pei Men Branch
+  branch_address: 18 Yen Ping North Road, Section 1 101 Taipei
+  branch_code: '500'
+  city: Taipei
+  country: Taiwan
+- name: Chang Hwa Commercial Bank Ltd.
+  swift: CCBCTWTP501
+  swift8: CCBCTWTP
+  branch_name: Taipei Branch
+  branch_address: 27 Chung King South Road, Section 1 100 Taipei
+  branch_code: '501'
+  city: Taipei
+  country: Taiwan
+- name: Chang Hwa Commercial Bank Ltd.
+  swift: CCBCTWTP502
+  swift8: CCBCTWTP
+  branch_name: Wanhua Branch
+  branch_address: 304, Kang Ting Rd. 10852 Taipei
+  branch_code: '502'
+  city: Taipei
+  country: Taiwan
+- name: Chang Hwa Commercial Bank Ltd.
+  swift: CCBCTWTP503
+  swift8: CCBCTWTP
+  branch_name: Hsimen Branch
+  branch_address: 169-2, Hsi Ning S. Rd. 10844 Taipei
+  branch_code: '503'
+  city: Taipei
+  country: Taiwan
+- name: Chang Hwa Commercial Bank Ltd.
+  swift: CCBCTWTP504
+  swift8: CCBCTWTP
+  branch_name: Yunglo Branch
+  branch_address: 120, Sec. 1, di Hwa St. 10344 Taipei
+  branch_code: '504'
+  city: Taipei
+  country: Taiwan
+- name: Citibank N.A
+  swift: CITITW2PXXX
+  swift8: CITITW2P
+  branch_name: Head Office
+  branch_address: Citigroup Tower (Walsin Hsinyi) 110 Taipei
+  branch_code: XXX
+  city: Taipei
+  country: Taiwan
+- name: Credit Agricole Cib
+  swift: CRLYTWTPXXX
+  swift8: CRLYTWTP
+  branch_name: Taipei Branch
+  branch_address: Hung Kuo Building 105 Taipei
+  branch_code: XXX
+  city: Taipei
+  country: Taiwan
+- name: First Commercial Bank
+  swift: FCBKTWTP301
+  swift8: FCBKTWTP
+  branch_name: 30006 Hsinchu
+  branch_address: 3 Ing Ming Street 30006 Hsinchu
+  branch_code: '301'
+  city: Hsinchu
+  country: Taiwan
+- name: First Commercial Bank
+  swift: FCBKTWTP401
+  swift8: FCBKTWTP
+  branch_name: Taichung
+  branch_address: 69 Chung Shan Road Taichung
+  branch_code: '401'
+  city: Taichung
+  country: Taiwan
+- name: First Commercial Bank
+  swift: FCBKTWTP601
+  swift8: FCBKTWTP
+  branch_name: Tainan
+  branch_address: 82 Chung Yi Road, Section 2 Tainan
+  branch_code: '601'
+  city: Tainan
+  country: Taiwan
+- name: First Commercial Bank
+  swift: FCBKTWTP701
+  swift8: FCBKTWTP
+  branch_name: Kaohsiung
+  branch_address: 115 Ta-Jen Road Kaohsiung
+  branch_code: '701'
+  city: Kaohsiung
+  country: Taiwan
+- name: First Commercial Bank
+  swift: FCBKTWTPOBU
+  swift8: FCBKTWTP
+  branch_name: Offshore Banking Branch
+  branch_address: First Commercial Bank Building 10036 Taipei
+  branch_code: OBU
+  city: Taipei
+  country: Taiwan
+- name: First Commercial Bank
+  swift: FCBKTWTPXXX
+  swift8: FCBKTWTP
+  branch_name: Head Office
+  branch_address: First Commercial Bank Building 10036 Taipei
+  branch_code: XXX
+  city: Taipei
+  country: Taiwan
+- name: Industrial Bank Of Taiwan
+  swift: IBOTTWTPXXX
+  swift8: IBOTTWTP
+  branch_name: Head Office
+  branch_address: No.99, Sec. 2, Tiding Blvd. 114 Taipei
+  branch_code: XXX
+  city: Taipei
+  country: Taiwan
+- name: Ing Bank N.V.
+  swift: INGBTWTPXXX
+  swift8: INGBTWTP
+  branch_name: Head Office
+  branch_address: Taipei 101 Tower 11049 Taipei
+  branch_code: XXX
+  city: Taipei
+  country: Taiwan
+- name: Jpmorgan Chase Bank, N.A.
+  swift: CHASTWTXENQ
+  swift8: CHASTWTX
+  branch_name: Telex and S W I F T Message Enquiries
+  branch_address: Taipei
+  branch_code: ENQ
+  city: Taipei
+  country: Taiwan
+- name: Jpmorgan Chase Bank, N.A.
+  swift: CHASTWTXKEY
+  swift8: CHASTWTX
+  branch_name: Test Key and Bke Administration
+  branch_address: Taipei
+  branch_code: KEY
+  city: Taipei
+  country: Taiwan
+- name: Jpmorgan Chase Bank, N.A.
+  swift: CHASTWTXTSD
+  swift8: CHASTWTX
+  branch_name: Trade Service Department
+  branch_address: No branch address
+  branch_code: TSD
+  city: Taipei
+  country: Taiwan
+- name: Jpmorgan Chase Bank, N.A.
+  swift: CHASTWTXXXX
+  swift8: CHASTWTX
+  branch_name: Head Office
+  branch_address: Xin-Yi Trading Center 110 Taipei
+  branch_code: XXX
+  city: Taipei
+  country: Taiwan
+- name: Metropolitan Bank And Trust Company
+  swift: MBTCTWTPKAO
+  swift8: MBTCTWTP
+  branch_name: Kaohsiung Branch
+  branch_address: 146 Su Wei 2nd Road Kaohsiung
+  branch_code: KAO
+  city: Kaohsiung
+  country: Taiwan
+- name: Metropolitan Bank And Trust Company
+  swift: MBTCTWTPXXX
+  swift8: MBTCTWTP
+  branch_name: Taipei Branch
+  branch_address: Metrobank Plaza Taipei
+  branch_code: XXX
+  city: Taipei
+  country: Taiwan
+- name: Nomura International (Hong Kong) Limited
+  swift: NMRSTWT1XXX
+  swift8: NMRSTWT1
+  branch_name: Head Office
+  branch_address: 109 Min-Sheng East Road 105 Taipei
+  branch_code: XXX
+  city: Taipei
+  country: Taiwan
+- name: State Street Bank And Trust Company
+  swift: SBOSTWTPXXX
+  swift8: SBOSTWTP
+  branch_name: Head Office
+  branch_address: 207 Tun Hwa South Road 10675 Taipei
+  branch_code: XXX
+  city: Taipei
+  country: Taiwan
+- name: Taiwan Business Bank
+  swift: MBBTTWTP001
+  swift8: MBBTTWTP
+  branch_name: Chi-Lin Branch
+  branch_address: 46 Min-Chuan East Roda Section 2 Taipei
+  branch_code: '001'
+  city: Taipei
+  country: Taiwan
+- name: Taiwan Business Bank
+  swift: MBBTTWTP002
+  swift8: MBBTTWTP
+  branch_name: Chung Ho
+  branch_address: 634-10 Gin Pin Rd.,Chung Ho Dist. New Taipei
+  branch_code: '002'
+  city: New Taipei
+  country: Taiwan
+- name: Taiwan Business Bank
+  swift: MBBTTWTP004
+  swift8: MBBTTWTP
+  branch_name: North Taoyuan Branch
+  branch_address: 985 Chung Zi Rd. Taoyuan City, 330 Tao-Yuan
+  branch_code: '004'
+  city: Tao-Yuan
+  country: Taiwan
+- name: Taiwan Business Bank
+  swift: MBBTTWTP005
+  swift8: MBBTTWTP
+  branch_name: Nan Can Branch
+  branch_address: 381 Chung Cheng Road, Luo Chu Shiang Tao-Yuan
+  branch_code: '005'
+  city: Tao-Yuan
+  country: Taiwan
+- name: Taiwan Business Bank
+  swift: MBBTTWTP006
+  swift8: MBBTTWTP
+  branch_name: Si Tuen Branch
+  branch_address: No. 107 Sec.3, Taichung Kang Rd. Taichung
+  branch_code: '006'
+  city: Taichung
+  country: Taiwan
+- name: Taiwan Business Bank
+  swift: MBBTTWTP007
+  swift8: MBBTTWTP
+  branch_name: Chung Min
+  branch_address: 301 Chung Min S. Rd. Taichung
+  branch_code: '007'
+  city: Taichung
+  country: Taiwan
+- name: Taiwan Business Bank
+  swift: MBBTTWTP011
+  swift8: MBBTTWTP
+  branch_name: Ta Ya Branch
+  branch_address: 161 Ta Ya Road, Ta-Ya Shiang Taichung
+  branch_code: '011'
+  city: Taichung
+  country: Taiwan
+- name: Taiwan Business Bank
+  swift: MBBTTWTP012
+  swift8: MBBTTWTP
+  branch_name: Jen Ta
+  branch_address: No branch address
+  branch_code: '012'
+  city: Kaohsiung
+  country: Taiwan
+- name: Taiwan Business Bank
+  swift: MBBTTWTP020
+  swift8: MBBTTWTP
+  branch_name: Jen-Ai Branch
+  branch_address: 357 Section 4 Jen Ai Road Taipei
+  branch_code: '020'
+  city: Taipei
+  country: Taiwan
+- name: Taiwan Business Bank
+  swift: MBBTTWTP021
+  swift8: MBBTTWTP
+  branch_name: Sung-Shan Branch
+  branch_address: Taipei
+  branch_code: '021'
+  city: Taipei
+  country: Taiwan
+- name: Taiwan Business Bank
+  swift: MBBTTWTP022
+  swift8: MBBTTWTP
+  branch_name: Chien-Cheng Branch
+  branch_address: Taipei
+  branch_code: '022'
+  city: Taipei
+  country: Taiwan
+- name: Taiwan Business Bank
+  swift: MBBTTWTP023
+  swift8: MBBTTWTP
+  branch_name: Shih Lin
+  branch_address: 601 Chung Cheng Rd.,Shih Lin Chiu Taipei
+  branch_code: '023'
+  city: Taipei
+  country: Taiwan
+- name: Taiwan Business Bank
+  swift: MBBTTWTP025
+  swift8: MBBTTWTP
+  branch_name: Hsin Tien Branch
+  branch_address: 114, Chung-Cheng Road Taipei
+  branch_code: '025'
+  city: Taipei
+  country: Taiwan
+- name: Taiwan Business Bank
+  swift: MBBTTWTP026
+  swift8: MBBTTWTP
+  branch_name: Hsin Chuang Branch
+  branch_address: 22 An-Ning Steet Hsinchuang
+  branch_code: '026'
+  city: Hsinchuang
+  country: Taiwan
+- name: Taiwan Business Bank
+  swift: MBBTTWTP027
+  swift8: MBBTTWTP
+  branch_name: Hwa Cheng
+  branch_address: 25,Tou Chian Rd., Hsinchuang Hsin Chuan
+  branch_code: '027'
+  city: Hsinchuang Hsin
+  country: Taiwan
+- name: Taiwan Business Bank
+  swift: MBBTTWTP040
+  swift8: MBBTTWTP
+  branch_name: Sung Chiang Branch
+  branch_address: 158 Sung Chiang Road Taipei
+  branch_code: '040'
+  city: Taipei
+  country: Taiwan
+- name: Taiwan Business Bank
+  swift: MBBTTWTP050
+  swift8: MBBTTWTP
+  branch_name: Taipei Branch
+  branch_address: 72, Chung King S.Road, Sec.1 Taipei
+  branch_code: '050'
+  city: Taipei
+  country: Taiwan
+- name: Taiwan Business Bank
+  swift: MBBTTWTP060
+  swift8: MBBTTWTP
+  branch_name: Wan Hua
+  branch_address: 146 Kwang Chow St. Taipei
+  branch_code: '060'
+  city: Taipei
+  country: Taiwan
+- name: Taiwan Business Bank
+  swift: MBBTTWTP061
+  swift8: MBBTTWTP
+  branch_name: South Taipei
+  branch_address: 93, Sec.2,Roosevelt Rd. Taipei
+  branch_code: '061'
+  city: Taipei
+  country: Taiwan
+- name: Taiwan Business Bank
+  swift: MBBTTWTP070
+  swift8: MBBTTWTP
+  branch_name: Fu-Hsing Branch
+  branch_address: Taipei
+  branch_code: '070'
+  city: Taipei
+  country: Taiwan
+- name: United Overseas Bank Limited
+  swift: UOVBTWTPXXX
+  swift8: UOVBTWTP
+  branch_name: Head Office
+  branch_address: Union Enterprise Plaza Taipei
+  branch_code: XXX
+  city: Taipei
+  country: Taiwan
+- name: Bank Of Tokyo-mitsubishi Ufj, Ltd., The
+  swift: BOTKTWTXXXX
+  swift8: BOTKTWTX
+  branch_name: Taipei Branch
+  branch_address: 109 Section 3 Min Sheng East Road 10446 Taipei
+  branch_code: XXX
+  city: Taipei
+  country: Taiwan
+- name: Hsbc Securities
+  swift: HSSCTWT1XXX
+  swift8: HSSCTWT1
+  branch_name: Head Office
+  branch_address: No.123 Chung Hsiao East Road Taipei
+  branch_code: XXX
+  city: Taipei
+  country: Taiwan
+- name: Mega International Commercial Bank Co., Ltd.
+  swift: ICBCTWTP002
+  swift8: ICBCTWTP
+  branch_name: Kaohsiung Metropolitan Branch
+  branch_address: 253 Chung Cheng 4th Road 801 Kaohsiung
+  branch_code: '002'
+  city: Kaohsiung
+  country: Taiwan
+- name: Mega International Commercial Bank Co., Ltd.
+  swift: ICBCTWTP003
+  swift8: ICBCTWTP
+  branch_name: Nantze Branch
+  branch_address: Nantze Export Procesing Zone 811 Kaohsiung
+  branch_code: '003'
+  city: Kaohsiung
+  country: Taiwan
+- name: Mega International Commercial Bank Co., Ltd.
+  swift: ICBCTWTP004
+  swift8: ICBCTWTP
+  branch_name: Taichung Branch
+  branch_address: 216 Ming Chuan Road 400 Taichung
+  branch_code: '004'
+  city: Taichung
+  country: Taiwan
+- name: Mega International Commercial Bank Co., Ltd.
+  swift: ICBCTWTP005
+  swift8: ICBCTWTP
+  branch_name: Chung-Hsiao Branch
+  branch_address: 233 Chung Hsiao East Road, 105 Taipei
+  branch_code: '005'
+  city: Taipei
+  country: Taiwan
+- name: Mega International Commercial Bank Co., Ltd.
+  swift: ICBCTWTP006
+  swift8: ICBCTWTP
+  branch_name: Tainan Fucheng Branch
+  branch_address: 90 Chung Shan Road 700 Tainan
+  branch_code: '006'
+  city: Tainan
+  country: Taiwan
+- name: Mega International Commercial Bank Co., Ltd.
+  swift: ICBCTWTP007
+  swift8: ICBCTWTP
+  branch_name: H O F D
+  branch_address: 100 Chi Lin Road 104 24 Taipei
+  branch_code: '007'
+  city: Taipei
+  country: Taiwan
+- name: Mega International Commercial Bank Co., Ltd.
+  swift: ICBCTWTP008
+  swift8: ICBCTWTP
+  branch_name: Taipei Fusing Branch
+  branch_address: 198 Nanking E. Road, Sec. 3 104 Taipei
+  branch_code: '008'
+  city: Taipei
+  country: Taiwan
+- name: Mega International Commercial Bank Co., Ltd.
+  swift: ICBCTWTP010
+  swift8: ICBCTWTP
+  branch_name: Lan-Ya Branch
+  branch_address: 126 Chung Shan North Road, 111 Taipei
+  branch_code: '010'
+  city: Taipei
+  country: Taiwan
+- name: Mega International Commercial Bank Co., Ltd.
+  swift: ICBCTWTP011
+  swift8: ICBCTWTP
+  branch_name: Treasury Dept
+  branch_address: 100 Chi Lin Road 104 24 Taipei
+  branch_code: '011'
+  city: Taipei
+  country: Taiwan
+- name: Mega International Commercial Bank Co., Ltd.
+  swift: ICBCTWTP012
+  swift8: ICBCTWTP
+  branch_name: San-Chung Branch
+  branch_address: 99 Chung Yang Road, Section 3 241 Taipei
+  branch_code: '012'
+  city: Taipei
+  country: Taiwan
+- name: Mega International Commercial Bank Co., Ltd.
+  swift: ICBCTWTP013
+  swift8: ICBCTWTP
+  branch_name: Hsin-Hsing Branch
+  branch_address: 308 Chung Shan 1st Road 800 Kaohsiung
+  branch_code: '013'
+  city: Kaohsiung
+  country: Taiwan
+- name: Mega International Commercial Bank Co., Ltd.
+  swift: ICBCTWTP014
+  swift8: ICBCTWTP
+  branch_name: Tao-Yuan Branch
+  branch_address: 2 Cheng Kung Road, Section 2 330 Tao-Yuan
+  branch_code: '014'
+  city: Tao-Yuan
+  country: Taiwan
+- name: Mega International Commercial Bank Co., Ltd.
+  swift: ICBCTWTP015
+  swift8: ICBCTWTP
+  branch_name: Chung-Shan Branch
+  branch_address: 15 Chung Shan North Road, 104 Taipei
+  branch_code: '015'
+  city: Taipei
+  country: Taiwan
+- name: Mega International Commercial Bank Co., Ltd.
+  swift: ICBCTWTP016
+  swift8: ICBCTWTP
+  branch_name: Kepz Branch
+  branch_address: 2 Chung 4th Road, Kepz 806 Kaohsiung
+  branch_code: '016'
+  city: Kaohsiung
+  country: Taiwan
+- name: Mega International Commercial Bank Co., Ltd.
+  swift: ICBCTWTP017
+  swift8: ICBCTWTP
+  branch_name: Cheng-Chung Branch
+  branch_address: 42 Hsu Chang Street 100 Taipei
+  branch_code: '017'
+  city: Taipei
+  country: Taiwan
+- name: Mega International Commercial Bank Co., Ltd.
+  swift: ICBCTWTP018
+  swift8: ICBCTWTP
+  branch_name: North Changhua Branch
+  branch_address: 39 Kuang Fuh Road 500 Changhua
+  branch_code: '018'
+  city: Changhua
+  country: Taiwan
+- name: Mega International Commercial Bank Co., Ltd.
+  swift: ICBCTWTP019
+  swift8: ICBCTWTP
+  branch_name: An Ho Branch
+  branch_address: 62 an Ho Road, Section 2 106 Taipei
+  branch_code: '019'
+  city: Taipei
+  country: Taiwan
+- name: Mega International Commercial Bank Co., Ltd.
+  swift: ICBCTWTP020
+  swift8: ICBCTWTP
+  branch_name: Hsinchu Science Park Hsin-an Branch
+  branch_address: 1 Hsin an Road, Science-Based 300 Hsinchu
+  branch_code: '020'
+  city: Hsinchu
+  country: Taiwan
+- name: Mega International Commercial Bank Co., Ltd.
+  swift: ICBCTWTP021
+  swift8: ICBCTWTP
+  branch_name: Tien-Mou Branch
+  branch_address: 193 Chung Shan North Road, 111 Taipei
+  branch_code: '021'
+  city: Taipei
+  country: Taiwan
+- name: Mega International Commercial Bank Co., Ltd.
+  swift: ICBCTWTP022
+  swift8: ICBCTWTP
+  branch_name: Chiayi Branch
+  branch_address: 259 Wen Hua Road 600 Chiayi
+  branch_code: '022'
+  city: Chia Yi
+  country: Taiwan
+- name: Deutsche Securities Asia Limited
+  swift: DSALTWT1XXX
+  swift8: DSALTWT1
+  branch_name: Head Office
+  branch_address: Cathay Life Insurance Building 106 Taipei
+  branch_code: XXX
+  city: Taipei
+  country: Taiwan
+- name: Fpb Asia Limited
+  swift: FPASTWT1XXX
+  swift8: FPASTWT1
+  branch_name: Head Office
+  branch_address: Taipei
+  branch_code: XXX
+  city: Taipei
+  country: Taiwan
+- name: Bpi International Finance Limited
+  swift: BPIITWT1XXX
+  swift8: BPIITWT1
+  branch_name: Head Office
+  branch_address: Taipei
+  branch_code: XXX
+  city: Taipei
+  country: Taiwan
+- name: First Securities Co Ltd
+  swift: FIRSTWT1XXX
+  swift8: FIRSTWT1
+  branch_name: Head Office
+  branch_address: 49 Kuanchien Road Taipei
+  branch_code: XXX
+  city: Taipei
+  country: Taiwan
+- name: Wealth Securities Inc
+  swift: WEASTWT1XXX
+  swift8: WEASTWT1
+  branch_name: Head Office
+  branch_address: 150 Nanking East Road Section 2 Taipei
+  branch_code: XXX
+  city: Taipei
+  country: Taiwan
+- name: Acumen Securities Co Ltd
+  swift: ACUSTWT1XXX
+  swift8: ACUSTWT1
+  branch_name: Head Office
+  branch_address: 2 Section 1 Tai-Chung Kang Road Taichung
+  branch_code: XXX
+  city: Taichung
+  country: Taiwan
+- name: Antay Securities Co., Ltd.
+  swift: ANTETWT1XXX
+  swift8: ANTETWT1
+  branch_name: Head Office
+  branch_address: 1-2 F, 36 Wu Fu 2nd Rd Kaohsiung
+  branch_code: XXX
+  city: Kaohsiung
+  country: Taiwan
+- name: Anz Bank (taiwan) Limited
+  swift: ANZBTWTPXXX
+  swift8: ANZBTWTP
+  branch_name: Head Office
+  branch_address: 18f 11073 Taipei
+  branch_code: XXX
+  city: Taipei
+  country: Taiwan
+- name: Audi Taiwan
+  swift: AUTWTWT1XXX
+  swift8: AUTWTWT1
+  branch_name: No branch name
+  branch_address: No branch address
+  branch_code: XXX
+  city: Taipei
+  country: Taiwan
+- name: Baan Shinn Securities Co Ltd
+  swift: BASRTWT1XXX
+  swift8: BASRTWT1
+  branch_name: Head Office
+  branch_address: 30-2 Tungmen Street Pantchiao Taipei
+  branch_code: XXX
+  city: Taipei
+  country: Taiwan
+- name: Bae-nian Securities Co Ltd
+  swift: BANUTWT1XXX
+  swift8: BANUTWT1
+  branch_name: Head Office
+  branch_address: 1167 Chunghwa Road Tou-Fen Chen Miao Li
+  branch_code: XXX
+  city: Miao Li
+  country: Taiwan
+- name: Bangkok Bank Public Company Limited Taipei Branch
+  swift: BKKBTWT10TH
+  swift8: BKKBTWT1
+  branch_name: Taichung
+  branch_address: Lin Ding Summit Building 9 Taichung
+  branch_code: 0TH
+  city: Taichung
+  country: Taiwan
+- name: Bangkok Bank Public Company Limited Taipei Branch
+  swift: BKKBTWTPOBU
+  swift8: BKKBTWTP
+  branch_name: Offshore Banking Branch
+  branch_address: Taipei
+  branch_code: OBU
+  city: Taipei
+  country: Taiwan
+- name: Bangkok Bank Public Company Limited Taipei Branch
+  swift: BKKBTWTPXXX
+  swift8: BKKBTWTP
+  branch_name: Head Office
+  branch_address: Bangkok Bank Building Taipei
+  branch_code: XXX
+  city: Taipei
+  country: Taiwan
+- name: Bank Of America, N.a. Taipei
+  swift: BOFATW2XGRA
+  swift8: BOFATW2X
+  branch_name: Offshore Banking Branch
+  branch_address: Taipei
+  branch_code: GRA
+  city: Taipei
+  country: Taiwan
+- name: Bank Of America, N.a. Taipei
+  swift: BOFATW2XTOB
+  swift8: BOFATW2X
+  branch_name: Taipei Offshore Banking Branch
+  branch_address: Taipei 101 Tower Ng 11049 Taipei
+  branch_code: TOB
+  city: Taipei
+  country: Taiwan
+- name: Bank Of America, N.a. Taipei
+  swift: BOFATW2XXXX
+  swift8: BOFATW2X
+  branch_name: Taipei Branch
+  branch_address: Taipei 101 Tower 11049 Taipei
+  branch_code: XXX
+  city: Taipei
+  country: Taiwan
+- name: Bank Of China Limited Taipei Branch
+  swift: BKCHTWTP888
+  swift8: BKCHTWTP
+  branch_name: Rmb Clearing Center
+  branch_address: Taipei
+  branch_code: '888'
+  city: Taipei
+  country: Taiwan
+- name: Bank Of China Limited Taipei Branch
+  swift: BKCHTWTPXXX
+  swift8: BKCHTWTP
+  branch_name: Head Office
+  branch_address: Xinyi 105 Building 11073 Taipei
+  branch_code: XXX
+  city: Taipei
+  country: Taiwan
+- name: Bank Of China Limited Taipei Branch
+  swift: BKCHTWT1XXX
+  swift8: BKCHTWT1
+  branch_name: Head Office
+  branch_address: Xinyi 105 Building 11073 Taipei
+  branch_code: XXX
+  city: Taipei
+  country: Taiwan
+- name: Bank Of Communications, Taipei Branch
+  swift: COMMTWTPXXX
+  swift8: COMMTWTP
+  branch_name: Head Office
+  branch_address: 29a, Hsin Yi Road Sec 5 Taipei
+  branch_code: XXX
+  city: Taipei
+  country: Taiwan
+- name: Bank Of Kaohsiung
+  swift: BKAOTWT1103
+  swift8: BKAOTWT1
+  branch_name: Savings Department
+  branch_address: Kaohsiung
+  branch_code: '103'
+  city: Kaohsiung
+  country: Taiwan
+- name: Bank Of Kaohsiung
+  swift: BKAOTWT1202
+  swift8: BKAOTWT1
+  branch_name: Chien-Chin Branch
+  branch_address: 145 Liowher 2nd Road Kaohsiung
+  branch_code: '202'
+  city: Kaohsiung
+  country: Taiwan
+- name: Bank Of Kaohsiung
+  swift: BKAOTWT1203
+  swift8: BKAOTWT1
+  branch_name: San-Min Branch
+  branch_address: Kaohsiung
+  branch_code: '203'
+  city: Kaohsiung
+  country: Taiwan
+- name: Bank Of Kaohsiung
+  swift: BKAOTWT1212
+  swift8: BKAOTWT1
+  branch_name: Chienchen Branch
+  branch_address: Kaohsiung
+  branch_code: '212'
+  city: Kaohsiung
+  country: Taiwan
+- name: Bank Of Kaohsiung
+  swift: BKAOTWT1240
+  swift8: BKAOTWT1
+  branch_name: Wu-Fu Branch
+  branch_address: Kaohsiung
+  branch_code: '240'
+  city: Kaohsiung
+  country: Taiwan
+- name: Bank Of Kaohsiung
+  swift: BKAOTWTK101
+  swift8: BKAOTWTK
+  branch_name: Business Department
+  branch_address: Kaohsiung
+  branch_code: '101'
+  city: Kaohsiung
+  country: Taiwan
+- name: Bank Of Kaohsiung
+  swift: BKAOTWTK210
+  swift8: BKAOTWTK
+  branch_name: Hsiao-Kang Branch
+  branch_address: Kaohsiung
+  branch_code: '210'
+  city: Kaohsiung
+  country: Taiwan
+- name: Bank Of Kaohsiung
+  swift: BKAOTWTK218
+  swift8: BKAOTWTK
+  branch_name: Nantze Branch
+  branch_address: Kaohsiung
+  branch_code: '218'
+  city: Kaohsiung
+  country: Taiwan
+- name: Bank Of Kaohsiung
+  swift: BKAOTWTK228
+  swift8: BKAOTWTK
+  branch_name: Bkaotwtk228
+  branch_address: No branch address
+  branch_code: '228'
+  city: Taipei
+  country: Taiwan
+- name: Bank Of Kaohsiung
+  swift: BKAOTWTK229
+  swift8: BKAOTWTK
+  branch_name: Tai Chung Branch
+  branch_address: Huei Chung Road Taichung
+  branch_code: '229'
+  city: Taichung
+  country: Taiwan
+- name: Bank Of Kaohsiung
+  swift: BKAOTWTK238
+  swift8: BKAOTWTK
+  branch_name: Taipei Branch
+  branch_address: Taipei
+  branch_code: '238'
+  city: Taipei
+  country: Taiwan
+- name: Bank Of Kaohsiung
+  swift: BKAOTWTK245
+  swift8: BKAOTWTK
+  branch_name: Bkaotwtk245
+  branch_address: No branch address
+  branch_code: '245'
+  city: Taipei
+  country: Taiwan
+- name: Bank Of Kaohsiung
+  swift: BKAOTWTKOBU
+  swift8: BKAOTWTK
+  branch_name: Offshore Banking Branch
+  branch_address: Kaohsiung
+  branch_code: OBU
+  city: Kaohsiung
+  country: Taiwan
+- name: Bank Of Kaohsiung
+  swift: BKAOTWTKXXX
+  swift8: BKAOTWTK
+  branch_name: Head Office
+  branch_address: No.51,Chung Hua 4th Road 802 Kaohsiung
+  branch_code: XXX
+  city: Kaohsiung
+  country: Taiwan
+- name: Bank Of Panhsin
+  swift: BBBKTWTP035
+  swift8: BBBKTWTP
+  branch_name: Minsheng Branch
+  branch_address: Sec. 3, Minsheng E. Rd. 10596 Taipei
+  branch_code: '035'
+  city: Taipei
+  country: Taiwan
+- name: Bank Of Panhsin
+  swift: BBBKTWTPXXX
+  swift8: BBBKTWTP
+  branch_name: Head Office
+  branch_address: No.68,Sec.2,Xianmin Blvd., Banqiao 220 Taipei
+  branch_code: XXX
+  city: Taipei
+  country: Taiwan
+- name: Bank Of Taipei
+  swift: BOTPTWTP002
+  swift8: BOTPTWTP
+  branch_name: Treasury Department
+  branch_address: No.133, Yanping N. Rd. 103 Taipei
+  branch_code: '002'
+  city: Taipei
+  country: Taiwan
+- name: Bank Of Taipei
+  swift: BOTPTWTPXXX
+  swift8: BOTPTWTP
+  branch_name: Head Office
+  branch_address: No. 21, Sec. 3, Nanjing E. Rd., 104 Taipei
+  branch_code: XXX
+  city: Taipei
+  country: Taiwan
+- name: Bao Chen Securities Co Ltd
+  swift: BACTTWT1CHN
+  swift8: BACTTWT1
+  branch_name: Ching-Nien Branch
+  branch_address: Floor 2 Kaohsiung
+  branch_code: CHN
+  city: Kaohsiung
+  country: Taiwan
+- name: Bao Chen Securities Co Ltd
+  swift: BACTTWT1MCH
+  swift8: BACTTWT1
+  branch_name: Min-Chuan Branch
+  branch_address: Floor 1 Kaohsiung
+  branch_code: MCH
+  city: Kaohsiung
+  country: Taiwan
+- name: Bao Chen Securities Co Ltd
+  swift: BACTTWT1TAP
+  swift8: BACTTWT1
+  branch_name: Taipei Branch
+  branch_address: No.6 Chung-Hsiao W. Rd.,Sec.1 Taipei
+  branch_code: TAP
+  city: Taipei
+  country: Taiwan
+- name: Bao Chen Securities Co Ltd
+  swift: BACTTWT1XXX
+  swift8: BACTTWT1
+  branch_name: Head Office
+  branch_address: 247 Chi-Hsien 3 Road Kaohsiung
+  branch_code: XXX
+  city: Kaohsiung
+  country: Taiwan
+- name: Bao-hung Securities Co. Ltd.
+  swift: BHSETWT1XXX
+  swift8: BHSETWT1
+  branch_name: Head Office
+  branch_address: No. 130 Nanking East Road, Sec.4 Taipei
+  branch_code: XXX
+  city: Taipei
+  country: Taiwan
+- name: Barclays Bank Plc, Taipei Branch
+  swift: BARCTWTPXXX
+  swift8: BARCTWTP
+  branch_name: Head Office
+  branch_address: Cathay Hsin Yi Trading Building Taipei
+  branch_code: XXX
+  city: Taipei
+  country: Taiwan
+- name: Barclays Capital Securities Taiwan Limited
+  swift: BCSCTWT1XXX
+  swift8: BCSCTWT1
+  branch_name: Head Office
+  branch_address: Cathay Xin-Yi Trading Building 110 Taipei
+  branch_code: XXX
+  city: Taipei
+  country: Taiwan
+- name: Barclays De Zoete Wedd Asia International Ltd
+  swift: BZWLTWT1XXX
+  swift8: BZWLTWT1
+  branch_name: Head Office
+  branch_address: 109 Section 3 Min Sheng East Road Taipei
+  branch_code: XXX
+  city: Taipei
+  country: Taiwan
+- name: Bat Services Ltd
+  swift: BATSTW21XXX
+  swift8: BATSTW21
+  branch_name: No branch name
+  branch_address: No branch address
+  branch_code: XXX
+  city: Taipei
+  country: Taiwan
+- name: Bat Taiwan Logistics Ltd
+  swift: BATSTWT1XXX
+  swift8: BATSTWT1
+  branch_name: No branch name
+  branch_address: No branch address
+  branch_code: XXX
+  city: Taipei
+  country: Taiwan
+- name: Bnp Paribas Securities (taiwan) Co., Ltd.
+  swift: BPSTTWT1XXX
+  swift8: BPSTTWT1
+  branch_name: Head Office
+  branch_address: No. 52, Section 4, Min Sheng East 105 Taipei
+  branch_code: XXX
+  city: Taipei
+  country: Taiwan
+- name: Bnp Paribas, Taipei Branch
+  swift: BNPATWTPKAO
+  swift8: BNPATWTP
+  branch_name: Kaohsiung Branch
+  branch_address: Kaohsiung Chung-Cheng Buiding Kaohsiung
+  branch_code: KAO
+  city: Kaohsiung
+  country: Taiwan
+- name: Bnp Paribas, Taipei Branch
+  swift: BNPATWTPXXX
+  swift8: BNPATWTP
+  branch_name: Taipei Branch
+  branch_address: Taipei 101 Financial Center 110 Taipei
+  branch_code: XXX
+  city: Taipei
+  country: Taiwan
+- name: Bridge Stone Securities Co., Ltd.
+  swift: BRSETWT1XXX
+  swift8: BRSETWT1
+  branch_name: Head Office
+  branch_address: 1f, 184 Huan-Nan Rd. Ping-Chen
+  branch_code: XXX
+  city: Chen / Ping
+  country: Taiwan
+- name: C.f. Securities Co Ltd
+  swift: SEUITWT1XXX
+  swift8: SEUITWT1
+  branch_name: Head Office
+  branch_address: 317 Hsin-Chuang Road Hsin-Chuang Taipei
+  branch_code: XXX
+  city: Taipei
+  country: Taiwan
+- name: Calastone
+  swift: CLLTTWT1XXX
+  swift8: CLLTTWT1
+  branch_name: Head Office
+  branch_address: Waisin Xinyl Building 11047 Taipei
+  branch_code: XXX
+  city: Taipei
+  country: Taiwan
+- name: Capital Securities Corporation
+  swift: SECCTWT1001
+  swift8: SECCTWT1
+  branch_name: Da-an Branch
+  branch_address: No.87, Sec. 4,Jhongsiao E Road 10690 Taipei
+  branch_code: '001'
+  city: Taipei
+  country: Taiwan
+- name: Capital Securities Corporation
+  swift: SECCTWT1002
+  swift8: SECCTWT1
+  branch_name: Dunhua Branch
+  branch_address: B1f. 10601 Taipei
+  branch_code: '002'
+  city: Taipei
+  country: Taiwan
+- name: Capital Securities Corporation
+  swift: SECCTWT1XXX
+  swift8: SECCTWT1
+  branch_name: Head Office
+  branch_address: Capital Center Taipei
+  branch_code: XXX
+  city: Taipei
+  country: Taiwan
+- name: Castle Securities Broker Inc.
+  swift: CASKTWT1XXX
+  swift8: CASKTWT1
+  branch_name: Head Office
+  branch_address: 153 Section 2 Mintsu Road Tainan
+  branch_code: XXX
+  city: Tainan
+  country: Taiwan
+- name: Cathay Life Insurance Co., Ltd
+  swift: CTHYTWTPXXX
+  swift8: CTHYTWTP
+  branch_name: Head Office
+  branch_address: Cathay Life Insurance Building 10639 Taipei
+  branch_code: XXX
+  city: Taipei
+  country: Taiwan
+- name: Cathay Securities Corporation
+  swift: CTSCTWT1XXX
+  swift8: CTSCTWT1
+  branch_name: Head Office
+  branch_address: 296 Jen-Ai Road, Sec 4 Taipei
+  branch_code: XXX
+  city: Taipei
+  country: Taiwan
+- name: Cathay United Bank
+  swift: TFITTWT10TH
+  swift8: TFITTWT1
+  branch_name: Taichung
+  branch_address: Taichung
+  branch_code: 0TH
+  city: Taichung
+  country: Taiwan
+- name: Cathay United Bank
+  swift: TFITTWT10TK
+  swift8: TFITTWT1
+  branch_name: Kaohsiung
+  branch_address: Kaohsiung
+  branch_code: 0TK
+  city: Kaohsiung
+  country: Taiwan
+- name: Cathay United Bank
+  swift: TFITTWT1XXX
+  swift8: TFITTWT1
+  branch_name: Head Office
+  branch_address: Tfit Tower 10649 Taipei
+  branch_code: XXX
+  city: Taipei
+  country: Taiwan
+- name: Cathay United Bank
+  swift: UWCBTWTP003
+  swift8: UWCBTWTP
+  branch_name: Nanking E Road Branch
+  branch_address: 132 Sec., Nanking East Road 104 Taipei
+  branch_code: '003'
+  city: Taipei
+  country: Taiwan
+- name: Cathay United Bank
+  swift: UWCBTWTP004
+  swift8: UWCBTWTP
+  branch_name: Trust Department
+  branch_address: Taipei
+  branch_code: '004'
+  city: Taipei
+  country: Taiwan
+- name: Cathay United Bank
+  swift: UWCBTWTP005
+  swift8: UWCBTWTP
+  branch_name: Kaohsiung Branch
+  branch_address: Kaohsiung
+  branch_code: '005'
+  city: Kaohsiung
+  country: Taiwan
+- name: Cathay United Bank
+  swift: UWCBTWTP006
+  swift8: UWCBTWTP
+  branch_name: Taichung
+  branch_address: Taichung
+  branch_code: '006'
+  city: Taichung
+  country: Taiwan
+- name: Cathay United Bank
+  swift: UWCBTWTP007
+  swift8: UWCBTWTP
+  branch_name: Taipei Branch
+  branch_address: Taipei
+  branch_code: '007'
+  city: Taipei
+  country: Taiwan
+- name: Cathay United Bank
+  swift: UWCBTWTP009
+  swift8: UWCBTWTP
+  branch_name: Yungho Branch
+  branch_address: Yungho
+  branch_code: '009'
+  city: Yung Ho
+  country: Taiwan
+- name: Cathay United Bank
+  swift: UWCBTWTP010
+  swift8: UWCBTWTP
+  branch_name: Tainan
+  branch_address: Tainan
+  branch_code: '010'
+  city: Tainan
+  country: Taiwan
+- name: Cathay United Bank
+  swift: UWCBTWTP011
+  swift8: UWCBTWTP
+  branch_name: Chungshiao Branch
+  branch_address: Taipei
+  branch_code: '011'
+  city: Taipei
+  country: Taiwan
+- name: Cathay United Bank
+  swift: UWCBTWTP012
+  swift8: UWCBTWTP
+  branch_name: Tienmou Branch
+  branch_address: Taipei
+  branch_code: '012'
+  city: Taipei
+  country: Taiwan
+- name: Cathay United Bank
+  swift: UWCBTWTP013
+  swift8: UWCBTWTP
+  branch_name: West Taichung Branch
+  branch_address: Taichung
+  branch_code: '013'
+  city: Taichung
+  country: Taiwan
+- name: Cathay United Bank
+  swift: UWCBTWTP014
+  swift8: UWCBTWTP
+  branch_name: East Kaohsiung Branch
+  branch_address: Kaohsiung
+  branch_code: '014'
+  city: Kaohsiung
+  country: Taiwan
+- name: Cathay United Bank
+  swift: UWCBTWTP015
+  swift8: UWCBTWTP
+  branch_name: Hsinyi Branch
+  branch_address: Taipei
+  branch_code: '015'
+  city: Taipei
+  country: Taiwan
+- name: Cathay United Bank
+  swift: UWCBTWTP016
+  swift8: UWCBTWTP
+  branch_name: Kuangfu Branch
+  branch_address: Taipei
+  branch_code: '016'
+  city: Taipei
+  country: Taiwan
+- name: Cathay United Bank
+  swift: UWCBTWTP017
+  swift8: UWCBTWTP
+  branch_name: Panchiao
+  branch_address: Panchiao
+  branch_code: '017'
+  city: Panchiao
+  country: Taiwan
+- name: Cathay United Bank
+  swift: UWCBTWTP018
+  swift8: UWCBTWTP
+  branch_name: Fuhsin Branch
+  branch_address: Taipei
+  branch_code: '018'
+  city: Taipei
+  country: Taiwan
+- name: Cathay United Bank
+  swift: UWCBTWTP019
+  swift8: UWCBTWTP
+  branch_name: Minchuang Branch
+  branch_address: Taipei
+  branch_code: '019'
+  city: Taipei
+  country: Taiwan
+- name: Cathay United Bank
+  swift: UWCBTWTP020
+  swift8: UWCBTWTP
+  branch_name: Daan Branch
+  branch_address: Taipei
+  branch_code: '020'
+  city: Taipei
+  country: Taiwan
+- name: Central Bank Of China Taipei
+  swift: CBCTTWTPXXX
+  swift8: CBCTTWTP
+  branch_name: Head Office
+  branch_address: 2 Section 1 Roosevelt Road 100 Taipei
+  branch_code: XXX
+  city: Taipei
+  country: Taiwan
+- name: Chan Yuan Stock Broker Corp
+  swift: CYSBTWT1XXX
+  swift8: CYSBTWT1
+  branch_name: Head Office
+  branch_address: 2 Lan 217 Jen-I Road Keelung
+  branch_code: XXX
+  city: Keelung
+  country: Taiwan
+- name: Cheng Yu Securities Co Ltd
+  swift: CHECTWT1XXX
+  swift8: CHECTWT1
+  branch_name: Head Office
+  branch_address: 235 Chung-Cheng 4 Road Kaohsiung
+  branch_code: XXX
+  city: Kaohsiung
+  country: Taiwan
+- name: Chia Yi Securities Co Ltd
+  swift: CHISTWT1XXX
+  swift8: CHISTWT1
+  branch_name: Head Office
+  branch_address: 56 Tun Hwa North Road Taipei
+  branch_code: XXX
+  city: Taipei
+  country: Taiwan
+- name: Chian Yeou Securities
+  swift: CHYSTWT1XXX
+  swift8: CHYSTWT1
+  branch_name: Head Office
+  branch_address: 913 Chung-Cheng Road Tsao-Tun Chen Nantou
+  branch_code: XXX
+  city: Nantou
+  country: Taiwan
+- name: Chin Kang Securities Co., Ltd.
+  swift: CHKSTWT1XXX
+  swift8: CHKSTWT1
+  branch_name: Head Office
+  branch_address: 2-3 F, 93 San-Tau 2 Rd. Kaohsiung
+  branch_code: XXX
+  city: Kaohsiung
+  country: Taiwan
+- name: China Bills Finance Co., Ltd
+  swift: CBFCTWTPXXX
+  swift8: CBFCTWTP
+  branch_name: Head Office
+  branch_address: No.99, Sec. 2, Tiding Blvd. 11493 Taipei
+  branch_code: XXX
+  city: Taipei
+  country: Taiwan
+- name: China Construction Bank Corporation Ltd. Taipei Branch
+  swift: PCBCTWTPXXX
+  swift8: PCBCTWTP
+  branch_name: Head Office
+  branch_address: Sec. 5, Xinyi Rd, 108 Taipei
+  branch_code: XXX
+  city: Taipei
+  country: Taiwan
+- name: China Development Industrial Bank
+  swift: CDIBTWTPXXX
+  swift8: CDIBTWTP
+  branch_name: Head Office
+  branch_address: 125, Section 5, Nanking East Road 105 Taipei
+  branch_code: XXX
+  city: Taipei
+  country: Taiwan
+- name: China Development Industrial Bank
+  swift: CHIDTWT1XXX
+  swift8: CHIDTWT1
+  branch_name: Head Office
+  branch_address: Cdc Tower Taipei
+  branch_code: XXX
+  city: Taipei
+  country: Taiwan
+- name: Ching Shing Securities Co.,ltd.
+  swift: CHSRTWT1XXX
+  swift8: CHSRTWT1
+  branch_name: Head Office
+  branch_address: 51,Yi-Min St. Miao Li
+  branch_code: XXX
+  city: Miao Li
+  country: Taiwan
+- name: Chu Pei Securities Co Ltd
+  swift: CHPSTWT1XXX
+  swift8: CHPSTWT1
+  branch_name: Head Office
+  branch_address: 193 Jen-I Road Chu-Pei Hsinchu
+  branch_code: XXX
+  city: Hsinchu
+  country: Taiwan
+- name: Chu Tung Securities Co Ltd
+  swift: CHTETWT1XXX
+  swift8: CHTETWT1
+  branch_name: Head Office
+  branch_address: 316 Changchun Road Chu-Tung Chen Hsinchu
+  branch_code: XXX
+  city: Hsinchu
+  country: Taiwan
+- name: Chuan Tai Securities Co., Ltd.
+  swift: CHTCTWT1XXX
+  swift8: CHTCTWT1
+  branch_name: Head Office
+  branch_address: 4f Tao-Yuan
+  branch_code: XXX
+  city: Tao-Yuan
+  country: Taiwan
+- name: Chung Hsing Securities Co Ltd
+  swift: CHHCTWT1XXX
+  swift8: CHHCTWT1
+  branch_name: Head Office
+  branch_address: 14 Shih-Fu Road Taichung
+  branch_code: XXX
+  city: Taichung
+  country: Taiwan
+- name: Chung Kang Securities Co Ltd
+  swift: CHKETWT1XXX
+  swift8: CHKETWT1
+  branch_name: Head Office
+  branch_address: 1 Sze-Wei East Road Wu-Chi Chen Taichung
+  branch_code: XXX
+  city: Taichung
+  country: Taiwan
+- name: Chung Nourn Securities Co., Ltd.
+  swift: CHNSTWT1XXX
+  swift8: CHNSTWT1
+  branch_name: Head Office
+  branch_address: 2f, 1 Lane 157, Sweijung Rd. Taichung
+  branch_code: XXX
+  city: Taichung
+  country: Taiwan
+- name: Chung-hsin Securities Co Ltd
+  swift: CHHUTWT1XXX
+  swift8: CHHUTWT1
+  branch_name: Head Office
+  branch_address: 24 Yu-Ming St. Chungli Tao-Yuan
+  branch_code: XXX
+  city: Tao-Yuan
+  country: Taiwan
+- name: Chyuan Horng Securities Co Ltd
+  swift: CHHRTWT1XXX
+  swift8: CHHRTWT1
+  branch_name: Head Office
+  branch_address: 23 Chui-Cheng North Road I-Lan
+  branch_code: XXX
+  city: I-Lan
+  country: Taiwan
+- name: Chyuan Hsing Securities Co Ltd
+  swift: CHHITWT1XXX
+  swift8: CHHITWT1
+  branch_name: Head Office
+  branch_address: 316 Chua-Yang Road Chiayi
+  branch_code: XXX
+  city: Chiayi
+  country: Taiwan
+- name: Citibank Taiwan Limited
+  swift: CITITW2XXXX
+  swift8: CITITW2X
+  branch_name: Head Office
+  branch_address: Citigroup Tower (Walsin Hsinyi) 110 Taipei
+  branch_code: XXX
+  city: Taipei
+  country: Taiwan
+- name: Citibank Taiwan Limited
+  swift: CITITWTXXXX
+  swift8: CITITWTX
+  branch_name: Head Office
+  branch_address: Citigroup Tower (Walsin Hsinyi) 110 Taipei
+  branch_code: XXX
+  city: Taipei
+  country: Taiwan
+- name: Citicorp International Securities Ltd
+  swift: CTISTWT1XXX
+  swift8: CTISTWT1
+  branch_name: Head Office
+  branch_address: No 54-3, Min-Sheng East Road, Sec 4 Taipei
+  branch_code: XXX
+  city: Taipei
+  country: Taiwan
+- name: Citigroup Global Markets Taiwan Securities Company Limited
+  swift: SSMBTWT1XXX
+  swift8: SSMBTWT1
+  branch_name: Head Office
+  branch_address: 3-4f, 8, Hsin Yi Road 110 Taipei
+  branch_code: XXX
+  city: Taipei
+  country: Taiwan
+- name: Concord International Securities Co Ltd.
+  swift: COICTWT1XXX
+  swift8: COICTWT1
+  branch_name: Head Office
+  branch_address: 10 Section 3 Hsi-Men Road Tainan
+  branch_code: XXX
+  city: Tainan
+  country: Taiwan
+- name: Concord Securities Corp
+  swift: CONETWT1XXX
+  swift8: CONETWT1
+  branch_name: Head Office
+  branch_address: B1, B2, 176, Sec. 1, Keelung Rd Taipei
+  branch_code: XXX
+  city: Taipei
+  country: Taiwan
+- name: Concord Security Corp.
+  swift: CSSETWT1XXX
+  swift8: CSSETWT1
+  branch_name: Head Office
+  branch_address: No.295 Chung Hsiao East Rd, Sec 4 Taipei
+  branch_code: XXX
+  city: Taipei
+  country: Taiwan
+- name: Cosmos Securities Co Ltd
+  swift: COSUTWT1XXX
+  swift8: COSUTWT1
+  branch_name: Head Office
+  branch_address: 77 Chungking South Road Section 1 Taipei
+  branch_code: XXX
+  city: Taipei
+  country: Taiwan
+- name: Cota Commercial Bank
+  swift: COBKTWTPXXX
+  swift8: COBKTWTP
+  branch_name: Head Office
+  branch_address: No.246, Yangguang St. 114 Taipei
+  branch_code: XXX
+  city: Taipei
+  country: Taiwan
+- name: Credit Agricole Securities (taiwan) Company Limited
+  swift: CYSITWT1XXX
+  swift8: CYSITWT1
+  branch_name: Head Office
+  branch_address: No. 117 Min-Sheng East Road, Sec 3 Taipei
+  branch_code: XXX
+  city: Taipei
+  country: Taiwan
+- name: Credit Lyonnais Finance Taiwan
+  swift: LYHOTWT1XXX
+  swift8: LYHOTWT1
+  branch_name: Head Office
+  branch_address: 115 Section 3 Ming Sheng East Road Taipei
+  branch_code: XXX
+  city: Taipei
+  country: Taiwan
+- name: Credit Suisse Ag, Taipei Securities Branch
+  swift: CSFBTWTEXXX
+  swift8: CSFBTWTE
+  branch_name: Head Office
+  branch_address: Union Enterprise Plaza 105 Taipei
+  branch_code: XXX
+  city: Taipei
+  country: Taiwan
+- name: Credit Suisse First Boston
+  swift: CSISTWT1XXX
+  swift8: CSISTWT1
+  branch_name: Head Office
+  branch_address: Union Enterprise Plaza Taipei
+  branch_code: XXX
+  city: Taipei
+  country: Taiwan
+- name: Cs Futures Co. Ltd
+  swift: CSFUTWT1XXX
+  swift8: CSFUTWT1
+  branch_name: Head Office
+  branch_address: 96 Chung Shan North Road, Sec 2 Taipei
+  branch_code: XXX
+  city: Taipei
+  country: Taiwan
+- name: Ctbc Bank Co., Ltd
+  swift: CTCBTWTP003
+  swift8: CTCBTWTP
+  branch_name: Corporate Trust Operation and Service Center
+  branch_address: No.3 Sung Shou Road 110 Taipei
+  branch_code: '003'
+  city: Taipei
+  country: Taiwan
+- name: Ctbc Bank Co., Ltd
+  swift: CTCBTWTP004
+  swift8: CTCBTWTP
+  branch_name: Treasury Department
+  branch_address: 3 Sung Shou Road Taipei
+  branch_code: '004'
+  city: Taipei
+  country: Taiwan
+- name: Ctbc Bank Co., Ltd
+  swift: CTCBTWTP012
+  swift8: CTCBTWTP
+  branch_name: Bade Branch
+  branch_address: 1f., No.965, Sec 1 Jieshou Rd., Bad 334 Tao-Yuan
+  branch_code: '012'
+  city: Bade City
+  country: Taiwan
+- name: Ctbc Bank Co., Ltd
+  swift: CTCBTWTP015
+  swift8: CTCBTWTP
+  branch_name: Tunpei Branch
+  branch_address: 122, Tunhua North Road Taipei
+  branch_code: '015'
+  city: Taipei
+  country: Taiwan
+- name: Ctbc Bank Co., Ltd
+  swift: CTCBTWTP023
+  swift8: CTCBTWTP
+  branch_name: Linkou Branch
+  branch_address: No.233, Fuxing 1st Rd. 333 Tao-Yuan
+  branch_code: '023'
+  city: Tao-Yuan
+  country: Taiwan
+- name: Ctbc Bank Co., Ltd
+  swift: CTCBTWTP026
+  swift8: CTCBTWTP
+  branch_name: Taichung Branch
+  branch_address: 50 Mintsu Road Taichung
+  branch_code: '026'
+  city: Taichung
+  country: Taiwan
+- name: Ctbc Bank Co., Ltd
+  swift: CTCBTWTP034
+  swift8: CTCBTWTP
+  branch_name: Jhupei Branch
+  branch_address: No.49 Guangming 6th Rd 302 Hsinchu
+  branch_code: '034'
+  city: Hsinchu
+  country: Taiwan
+- name: Ctbc Bank Co., Ltd
+  swift: CTCBTWTP037
+  swift8: CTCBTWTP
+  branch_name: Kaohsiung Branch
+  branch_address: No. 168, Jhongjheng 4th Road, 801 Kaohsiung
+  branch_code: '037'
+  city: Kaohsiung
+  country: Taiwan
+- name: Ctbc Bank Co., Ltd
+  swift: CTCBTWTP045
+  swift8: CTCBTWTP
+  branch_name: Nantun Branch
+  branch_address: No.236 Sec 2,Wucyuan W Rd., 408 Taichung
+  branch_code: '045'
+  city: Taichung
+  country: Taiwan
+- name: Ctbc Bank Co., Ltd
+  swift: CTCBTWTP056
+  swift8: CTCBTWTP
+  branch_name: Dali Branch
+  branch_address: No.20,Dongrong Rd 412 Taichung
+  branch_code: '056'
+  city: Taichung
+  country: Taiwan
+- name: Ctbc Bank Co., Ltd
+  swift: CTCBTWTP059
+  swift8: CTCBTWTP
+  branch_name: Tainan Branch
+  branch_address: 31 Chungcheng Road Tainan
+  branch_code: '059'
+  city: Tainan
+  country: Taiwan
+- name: Ctbc Bank Co., Ltd
+  swift: CTCBTWTP060
+  swift8: CTCBTWTP
+  branch_name: Sanchung Branch
+  branch_address: 208, Cheng Yi North Rd. Sanchung
+  branch_code: '060'
+  city: Sanchung
+  country: Taiwan
+- name: Ctbc Bank Co., Ltd
+  swift: CTCBTWTP067
+  swift8: CTCBTWTP
+  branch_name: North Taichung Mini Branch
+  branch_address: No branch address
+  branch_code: '067'
+  city: Taichung
+  country: Taiwan
+- name: Ctbc Bank Co., Ltd
+  swift: CTCBTWTP071
+  swift8: CTCBTWTP
+  branch_name: Chengtung Branch
+  branch_address: 88 Section 2 Nanking East Road Taipei
+  branch_code: '071'
+  city: Taipei
+  country: Taiwan
+- name: Ctbc Bank Co., Ltd
+  swift: CTCBTWTP078
+  swift8: CTCBTWTP
+  branch_name: Nantou Branch
+  branch_address: No 220, Jhongshan Street 540 Nantou
+  branch_code: '078'
+  city: Nantou
+  country: Taiwan
+- name: Ctbc Bank Co., Ltd
+  swift: CTCBTWTP082
+  swift8: CTCBTWTP
+  branch_name: Chiayi Branch
+  branch_address: 241 Ming Sheng North Road Chiayi
+  branch_code: '082'
+  city: Chia Yi
+  country: Taiwan
+- name: Ctbc Bank Co., Ltd
+  swift: CTCBTWTP090
+  swift8: CTCBTWTP
+  branch_name: Rende Mini Branch
+  branch_address: No branch address
+  branch_code: '090'
+  city: Tainan
+  country: Taiwan
+- name: Ctbc Bank Co., Ltd
+  swift: CTCBTWTP093
+  swift8: CTCBTWTP
+  branch_name: Chunglun Branch
+  branch_address: 85 Section 4 Pateh Road Taipei
+  branch_code: '093'
+  city: Taipei
+  country: Taiwan
+- name: Ctbc Bank Co., Ltd
+  swift: CTCBTWTP101
+  swift8: CTCBTWTP
+  branch_name: Danshuei Mini Branch
+  branch_address: No branch address
+  branch_code: '101'
+  city: New Taipei
+  country: Taiwan
+- name: Ctbc Bank Co., Ltd
+  swift: CTCBTWTP104
+  swift8: CTCBTWTP
+  branch_name: Central Tainan Branch
+  branch_address: No. 167, Sec. 1, Minsheng Road 700 Tainan
+  branch_code: '104'
+  city: Tainan
+  country: Taiwan
+- name: Da Chung Securities Co Ltd
+  swift: CHUETWT1XXX
+  swift8: CHUETWT1
+  branch_name: Head Office
+  branch_address: 2-1 Chung-Hsing Road Section 2 Taichung
+  branch_code: XXX
+  city: Taichung
+  country: Taiwan
+- name: Dah Chang Securities Co.,ltd.
+  swift: DACSTWT1XXX
+  swift8: DACSTWT1
+  branch_name: Head Office
+  branch_address: 9f, 30-2 Tung-Men Street Panchiao
+  branch_code: XXX
+  city: Panchiao
+  country: Taiwan
+- name: Daiaky Securities Co Ltd
+  swift: DAIRTWT1XXX
+  swift8: DAIRTWT1
+  branch_name: Head Office
+  branch_address: 20 Lane 223 Simen Road Section 1 Tainan
+  branch_code: XXX
+  city: Tainan
+  country: Taiwan
+- name: Daiwa Securities Smbc-cathay Co., Ltd
+  swift: DAWATWT1XXX
+  swift8: DAWATWT1
+  branch_name: Head Office
+  branch_address: 200 Keelung Road Section 1 110 Taipei
+  branch_code: XXX
+  city: Taipei
+  country: Taiwan
+- name: Danli Securities Co Ltd
+  swift: DANTTWT1XXX
+  swift8: DANTTWT1
+  branch_name: Head Office
+  branch_address: 88 Mintsu Road Kang-Shan Chen Kaohsiung
+  branch_code: XXX
+  city: Kaohsiung
+  country: Taiwan
+- name: Dar-jan Securities Co Ltd
+  swift: DAJSTWT1XXX
+  swift8: DAJSTWT1
+  branch_name: Head Office
+  branch_address: 83 Wufu 4 Road Kaohsiung
+  branch_code: XXX
+  city: Kaohsiung
+  country: Taiwan
+- name: Dashin Securities Co. Ltd.
+  swift: DASRTWT1INT
+  swift8: DASRTWT1
+  branch_name: International Department
+  branch_address: Fl.2,No.23 Chang-an E. Rd.,Sec 1 Taipei
+  branch_code: INT
+  city: Taipei
+  country: Taiwan
+- name: Dashin Securities Co. Ltd.
+  swift: DASRTWT1XXX
+  swift8: DASRTWT1
+  branch_name: Head Office
+  branch_address: Fl. 2,No.8 Kuanchien Road Taipei
+  branch_code: XXX
+  city: Taipei
+  country: Taiwan
+- name: Dbs Bank (taiwan) Ltd
+  swift: DBSSTWTPIBD
+  swift8: DBSSTWTP
+  branch_name: Taipei Branch
+  branch_address: Taipei
+  branch_code: IBD
+  city: Taipei
+  country: Taiwan
+- name: Dbs Bank (taiwan) Ltd
+  swift: DBSSTWTPXXX
+  swift8: DBSSTWTP
+  branch_name: Head Office
+  branch_address: 15-17f., No.32, 36, Songren Rd. 110 Taipei
+  branch_code: XXX
+  city: Taipei
+  country: Taiwan
+- name: Dbs Bank Ltd, Taipei Branch
+  swift: DBSSTWTXIBD
+  swift8: DBSSTWTX
+  branch_name: Taipei Branch
+  branch_address: Taipei
+  branch_code: IBD
+  city: Taipei
+  country: Taiwan
+- name: Dbs Bank Ltd, Taipei Branch
+  swift: DBSSTWTXXXX
+  swift8: DBSSTWTX
+  branch_name: Head Office
+  branch_address: Songren Rd., 32 110 Taipei
+  branch_code: XXX
+  city: Taipei
+  country: Taiwan
+- name: Deutsche Bank Ag, Taipei Branch
+  swift: DEUTTWTPGMO
+  swift8: DEUTTWTP
+  branch_name: Taipei
+  branch_address: Taipei
+  branch_code: GMO
+  city: Taipei
+  country: Taiwan
+- name: Deutsche Bank Ag, Taipei Branch
+  swift: DEUTTWTPLMP
+  swift8: DEUTTWTP
+  branch_name: Deutsche Bank Ag, Taipei Branch-Lmp
+  branch_address: Cathay Life Insurance Building Taipei
+  branch_code: LMP
+  city: Taipei
+  country: Taiwan
+- name: Deutsche Bank Ag, Taipei Branch
+  swift: DEUTTWTPXXX
+  swift8: DEUTTWTP
+  branch_name: Head Office
+  branch_address: Cathay Life Insurance Building Taipei
+  branch_code: XXX
+  city: Taipei
+  country: Taiwan
+- name: E. Sun Commercial Bank Ltd.
+  swift: ESUNTWTPOBU
+  swift8: ESUNTWTP
+  branch_name: Obu Branch
+  branch_address: Minsheng E. Rd 105 Taipei
+  branch_code: OBU
+  city: Taipei
+  country: Taiwan
+- name: E. Sun Commercial Bank Ltd.
+  swift: ESUNTWTPXXX
+  swift8: ESUNTWTP
+  branch_name: Head Office
+  branch_address: No 115, Sec. 3, Minsheng E. Rd. 105 Taipei
+  branch_code: XXX
+  city: Taipei
+  country: Taiwan
+- name: Entie Commercial Bank
+  swift: ENTITWTPXXX
+  swift8: ENTITWTP
+  branch_name: Head Office
+  branch_address: No.128, Section 3, Minsheng E. Road 10596 Taipei
+  branch_code: XXX
+  city: Taipei
+  country: Taiwan
+- name: Erahsian Securities Co Ltd
+  swift: ERASTWT1XXX
+  swift8: ERASTWT1
+  branch_name: Head Office
+  branch_address: 87 Ai-San Road Keelung
+  branch_code: XXX
+  city: Keelung
+  country: Taiwan
+- name: Ever Advance Securities Co Ltd
+  swift: EVASTWT1XXX
+  swift8: EVASTWT1
+  branch_name: Head Office
+  branch_address: 87 Chunghsiao East Road Section 4 Taipei
+  branch_code: XXX
+  city: Taipei
+  country: Taiwan
+- name: Ever Rich Securities Co Ltd
+  swift: EVRSTWT1XXX
+  swift8: EVRSTWT1
+  branch_name: Head Office
+  branch_address: 30 Chungking North Road Section 1 Taipei
+  branch_code: XXX
+  city: Taipei
+  country: Taiwan
+- name: Ever Trust Securities Co Ltd
+  swift: EVTSTWT1XXX
+  swift8: EVTSTWT1
+  branch_name: Head Office
+  branch_address: 35 Chung-Ho Road Chungho
+  branch_code: XXX
+  city: Chungho
+  country: Taiwan
+- name: Everglory Securities Co Ltd
+  swift: EVECTWT1XXX
+  swift8: EVECTWT1
+  branch_name: Head Office
+  branch_address: 165 Minchuan Road Lo-Tung Cheng I-Lan
+  branch_code: XXX
+  city: I-Lan
+  country: Taiwan
+- name: Evergreen Securities
+  swift: EVESTWT1XXX
+  swift8: EVESTWT1
+  branch_name: Head Office
+  branch_address: 230 Nanking East Road Section 5 Taipei
+  branch_code: XXX
+  city: Taipei
+  country: Taiwan
+- name: Everising Securities Co Ltd
+  swift: EVEUTWT1XXX
+  swift8: EVEUTWT1
+  branch_name: Head Office
+  branch_address: 97 Pei-Men Road Section 1 Tainan
+  branch_code: XXX
+  city: Tainan
+  country: Taiwan
+- name: Export-import Bank Of The Republic Of China, The
+  swift: EROCTWTPXXX
+  swift8: EROCTWTP
+  branch_name: Head Office
+  branch_address: 3 Nan-Hai Road 100 Taipei
+  branch_code: XXX
+  city: Taipei
+  country: Taiwan
+- name: F.k. Securities Co Ltd
+  swift: SERITWT1XXX
+  swift8: SERITWT1
+  branch_name: Head Office
+  branch_address: 1-16 Ming-Hsin Street Hualien
+  branch_code: XXX
+  city: Hualien
+  country: Taiwan
+- name: Far Eastern International Bank
+  swift: FEINTWTP001
+  swift8: FEINTWTP
+  branch_name: Business Department
+  branch_address: Taipei
+  branch_code: '001'
+  city: Taipei
+  country: Taiwan
+- name: Far Eastern International Bank
+  swift: FEINTWTP002
+  swift8: FEINTWTP
+  branch_name: Taipei Shiang Yang Branch
+  branch_address: 1, Hsiang Yang Road 100 Taipei
+  branch_code: '002'
+  city: Taipei
+  country: Taiwan
+- name: Far Eastern International Bank
+  swift: FEINTWTP003
+  swift8: FEINTWTP
+  branch_name: Yihsien Branch
+  branch_address: 200-3, Sec. 1, Keelung Road Taipei
+  branch_code: '003'
+  city: Taipei
+  country: Taiwan
+- name: Far Eastern International Bank
+  swift: FEINTWTP004
+  swift8: FEINTWTP
+  branch_name: Taoyuan Branch
+  branch_address: Taipei
+  branch_code: '004'
+  city: Taipei
+  country: Taiwan
+- name: Far Eastern International Bank
+  swift: FEINTWTP005
+  swift8: FEINTWTP
+  branch_name: Taichung Kungyi Branch
+  branch_address: 367 Kung Yi Road Taichung
+  branch_code: '005'
+  city: Taichung
+  country: Taiwan
+- name: Far Eastern International Bank
+  swift: FEINTWTP006
+  swift8: FEINTWTP
+  branch_name: Tainan Branch
+  branch_address: Taipei
+  branch_code: '006'
+  city: Taipei
+  country: Taiwan
+- name: Far Eastern International Bank
+  swift: FEINTWTP007
+  swift8: FEINTWTP
+  branch_name: Kaohsiung Wu Fu Branch
+  branch_address: 83 Wu Fu 4th Road Kaohsiung
+  branch_code: '007'
+  city: Kaohsiung
+  country: Taiwan
+- name: Far Eastern International Bank
+  swift: FEINTWTP010
+  swift8: FEINTWTP
+  branch_name: Hsinchu Linshen Branch
+  branch_address: 216 Lin Shen Road Hsinchu
+  branch_code: '010'
+  city: Hsinchu
+  country: Taiwan
+- name: Far Eastern International Bank
+  swift: FEINTWTP011
+  swift8: FEINTWTP
+  branch_name: Kaohsiung Chungcheng Branch
+  branch_address: 49 Chung Cheng 4th Road Kaohsiung
+  branch_code: '011'
+  city: Kaohsiung
+  country: Taiwan
+- name: Far Eastern International Bank
+  swift: FEINTWTP012
+  swift8: FEINTWTP
+  branch_name: Trust Banking Department
+  branch_address: 109 Chung Ching South Road Section Taipei
+  branch_code: '012'
+  city: Taipei
+  country: Taiwan
+- name: Far Eastern International Bank
+  swift: FEINTWTP019
+  swift8: FEINTWTP
+  branch_name: Yungho Branch
+  branch_address: 222, Fu Ho Road Taipei
+  branch_code: '019'
+  city: Taipei
+  country: Taiwan
+- name: Far Eastern International Bank
+  swift: FEINTWTP023
+  swift8: FEINTWTP
+  branch_name: Hsinchu Sience Based Industrial Park Branch
+  branch_address: 11, Park Avenue 2 Hsinchu
+  branch_code: '023'
+  city: Hsinchu
+  country: Taiwan
+- name: Far Eastern International Bank
+  swift: FEINTWTP027
+  swift8: FEINTWTP
+  branch_name: Sung Shan Branch
+  branch_address: 171, Nanking East Road, Sec.5 Taipei
+  branch_code: '027'
+  city: Taipei
+  country: Taiwan
+- name: Far Eastern International Bank
+  swift: FEINTWTPOBU
+  swift8: FEINTWTP
+  branch_name: Obu Branch
+  branch_address: 30, Chung King North Road, Sec.1 Taipei
+  branch_code: OBU
+  city: Taipei
+  country: Taiwan
+- name: Far Eastern International Bank
+  swift: FEINTWTPXXX
+  swift8: FEINTWTP
+  branch_name: Head Office
+  branch_address: 30, Chung Ching N. Road, Sec.1 103 Taipei
+  branch_code: XXX
+  city: Taipei
+  country: Taiwan
+- name: Far Fame Securities Co Ltd
+  swift: FAFSTWT1XXX
+  swift8: FAFSTWT1
+  branch_name: Head Office
+  branch_address: 17 Chengteh Road Taipei
+  branch_code: XXX
+  city: Taipei
+  country: Taiwan
+- name: Feng Long Securities Co Ltd
+  swift: FELSTWT1XXX
+  swift8: FELSTWT1
+  branch_name: Head Office
+  branch_address: 669 Shui-Yuan Road Fung-Yuan Taichung
+  branch_code: XXX
+  city: Taichung
+  country: Taiwan
+- name: Feng Shan Securities Co Ltd
+  swift: FESSTWT1XXX
+  swift8: FESSTWT1
+  branch_name: Head Office
+  branch_address: 171 Nan-Hwa Road Feng-Shan Kaohsiung
+  branch_code: XXX
+  city: Kaohsiung
+  country: Taiwan
+- name: Fidelity Investments Securities (taiwan) Ltd.
+  swift: FIDITWT1XXX
+  swift8: FIDITWT1
+  branch_name: Head Office
+  branch_address: Taipei Metro 106 Taipei
+  branch_code: XXX
+  city: Taipei
+  country: Taiwan
+- name: Financial Information Service Co., Ltd
+  swift: TWIPTWTBXXX
+  swift8: TWIPTWTB
+  branch_name: Head Office
+  branch_address: No.81 Kang-Ning Rd. Taipei
+  branch_code: XXX
+  city: Taipei
+  country: Taiwan
+- name: Financial Information Service Co., Ltd
+  swift: TWIPTWTPXXX
+  swift8: TWIPTWTP
+  branch_name: Head Office
+  branch_address: Nei-Hu District, Kang-Ning Rd., Sec Taipei
+  branch_code: XXX
+  city: Taipei
+  country: Taiwan
+- name: First Securities Inc.
+  swift: FIUITWT1XXX
+  swift8: FIUITWT1
+  branch_name: No branch name
+  branch_address: No branch address
+  branch_code: XXX
+  city: Taipei
+  country: Taiwan
+- name: First Taiwan Securities Inc.
+  swift: FTTSTWT1XXX
+  swift8: FTTSTWT1
+  branch_name: Head Office
+  branch_address: No.563 Chung Hsiao East Road, Sec.4 Taipei
+  branch_code: XXX
+  city: Taipei
+  country: Taiwan
+- name: Fitch Ratings Limited (taiwan Branch
+  swift: FRIPTWT1XXX
+  swift8: FRIPTWT1
+  branch_name: Head Office
+  branch_address: No. 205, Tun Hwa North Road 105 Taipei
+  branch_code: XXX
+  city: Taipei
+  country: Taiwan
+- name: Fong Shing Securities Co, Ltd
+  swift: FOSETWT1XXX
+  swift8: FOSETWT1
+  branch_name: Head Office
+  branch_address: 3f 220, Chung Cheng Rd 42056 Fongyuan
+  branch_code: XXX
+  city: Fongyuan
+  country: Taiwan
+- name: Fong-yin Securities Co Ltd
+  swift: FOYSTWT1XXX
+  swift8: FOYSTWT1
+  branch_name: Head Office
+  branch_address: 83 Wufu 4 Road Kaohsiung
+  branch_code: XXX
+  city: Kaohsiung
+  country: Taiwan
+- name: Fore Most Securities Co Ltd
+  swift: FOMSTWT1XXX
+  swift8: FOMSTWT1
+  branch_name: Head Office
+  branch_address: 237 Section 1 Chienkuo South Road Taipei
+  branch_code: XXX
+  city: Taipei
+  country: Taiwan
+- name: Formosa Securities Co Ltd
+  swift: FORITWT1XXX
+  swift8: FORITWT1
+  branch_name: Head Office
+  branch_address: 20 Pateh Road Section 3 Taipei
+  branch_code: XXX
+  city: Taipei
+  country: Taiwan
+- name: Fortune Securities Co, Ltd
+  swift: FOTETWT1XXX
+  swift8: FOTETWT1
+  branch_name: Head Office
+  branch_address: 4f, 426, Chung Cheng Rd 360 Miao Li
+  branch_code: XXX
+  city: Miao Li
+  country: Taiwan
+- name: Fortune Target Securities Inc
+  swift: FOTCTWT1XXX
+  swift8: FOTCTWT1
+  branch_name: Head Office
+  branch_address: 459 Chua-Yang Road Chiayi
+  branch_code: XXX
+  city: Chiayi
+  country: Taiwan
+- name: Fortunes Securities Co Ltd
+  swift: FOTUTWT1XXX
+  swift8: FOTUTWT1
+  branch_name: Head Office
+  branch_address: Floor 2 Taipei
+  branch_code: XXX
+  city: Taipei
+  country: Taiwan
+- name: Fu Hung Securities Co Ltd
+  swift: HUNETWT1XXX
+  swift8: HUNETWT1
+  branch_name: Head Office
+  branch_address: 118 Minchuan Road Section 2 Tainan
+  branch_code: XXX
+  city: Tainan
+  country: Taiwan
+- name: Fu Shing Securities Co Ltd
+  swift: SHIUTWT1XXX
+  swift8: SHIUTWT1
+  branch_name: Head Office
+  branch_address: 15 Chung-Cheng Road Hu-Wei Chen Yunlin
+  branch_code: XXX
+  city: Yunlin
+  country: Taiwan
+- name: Fubon Securities Co. Ltd, Head Office
+  swift: FUSRTW21XXX
+  swift8: FUSRTW21
+  branch_name: Head Office
+  branch_address: Fubon Life Insurance Building 105 Taipei
+  branch_code: XXX
+  city: Taipei
+  country: Taiwan
+- name: Fubon Securities Co. Ltd.
+  swift: FUSRTWT1XXX
+  swift8: FUSRTWT1
+  branch_name: Head Office
+  branch_address: Fubon Life Insurance Building 105 Taipei
+  branch_code: XXX
+  city: Taipei
+  country: Taiwan
+- name: Fubon Securities Company Ltd
+  swift: FUSOTWT1XXX
+  swift8: FUSOTWT1
+  branch_name: Head Office
+  branch_address: Fubon Banking Centre 10686 Taipei
+  branch_code: XXX
+  city: Taipei
+  country: Taiwan
+- name: Fuh-hwa Securities Co Ltd
+  swift: FHSCTWT1XXX
+  swift8: FHSCTWT1
+  branch_name: Head Office
+  branch_address: 4 Chung Haiao W. Road, Section 1 Taipei
+  branch_code: XXX
+  city: Taipei
+  country: Taiwan
+- name: Full Chuen Securities Co Ltd
+  swift: FUCSTWT1XXX
+  swift8: FUCSTWT1
+  branch_name: Head Office
+  branch_address: 2-123 Wu-Chuan Road W. District Taichung
+  branch_code: XXX
+  city: Taichung
+  country: Taiwan
+- name: Full Long Securities Co Ltd
+  swift: FULSTWT1XXX
+  swift8: FULSTWT1
+  branch_name: Head Office
+  branch_address: 287 Section 3 Nanking East Road Taipei
+  branch_code: XXX
+  city: Taipei
+  country: Taiwan
+- name: Full Sun Securities Co., Ltd.
+  swift: FUSETWT1XXX
+  swift8: FUSETWT1
+  branch_name: Head Office
+  branch_address: 3 F, 73 Tzu-Chiang Rd. Sec.1 Taipei
+  branch_code: XXX
+  city: Taipei
+  country: Taiwan
+- name: Fushan Securities Co Ltd
+  swift: FUSCTWT1XXX
+  swift8: FUSCTWT1
+  branch_name: Head Office
+  branch_address: 63 Chung-Cheng Road Tan-Shui Chen Taipei
+  branch_code: XXX
+  city: Taipei
+  country: Taiwan
+- name: Golden Circle Securities Co Ltd
+  swift: GOCUTWT1XXX
+  swift8: GOCUTWT1
+  branch_name: Head Office
+  branch_address: 73 Chungking North Road Section 1 Taipei
+  branch_code: XXX
+  city: Taipei
+  country: Taiwan
+- name: Golden Gate Securities Co., Ltd
+  swift: GOGSTWT1XXX
+  swift8: GOGSTWT1
+  branch_name: Head Office
+  branch_address: 96 Chung-Ho Rd Chungli
+  branch_code: XXX
+  city: Chung Li
+  country: Taiwan
+- name: Golden Securities International Corp
+  swift: GOSITWT1XXX
+  swift8: GOSITWT1
+  branch_name: Head Office
+  branch_address: 376 Section 4 Jen-Ai Road Taipei
+  branch_code: XXX
+  city: Taipei
+  country: Taiwan
+- name: Goldman Sachs (asia) Llc
+  swift: GSATTWT1XXX
+  swift8: GSATTWT1
+  branch_name: Head Office
+  branch_address: Taipei Metro Tower 106 Taipei
+  branch_code: XXX
+  city: Taipei
+  country: Taiwan
+- name: Grand Cathay Securities Corporation
+  swift: GRCATWT1MCH
+  swift8: GRCATWT1
+  branch_name: Min Chuan Branch
+  branch_address: No.420 Fu Hsing N. Road Taipei
+  branch_code: MCH
+  city: Taipei
+  country: Taiwan
+- name: Grand Cathay Securities Corporation
+  swift: GRCATWT1XXX
+  swift8: GRCATWT1
+  branch_name: Head Office
+  branch_address: 14/F 100 Taipei
+  branch_code: XXX
+  city: Taipei
+  country: Taiwan
+- name: Grand China Wealth Management Co., Ltd.
+  swift: GCWMTWT1XXX
+  swift8: GCWMTWT1
+  branch_name: Head Office
+  branch_address: No. 23, Lane 8, Bade Road, 105 Taipei
+  branch_code: XXX
+  city: Taipei
+  country: Taiwan
+- name: Grand Securities Co., Ltd.
+  swift: GRASTWT1XXX
+  swift8: GRASTWT1
+  branch_name: Head Office
+  branch_address: 5-6 F, 29 Lin Sen Rd. Hsinchu
+  branch_code: XXX
+  city: Hsinchu
+  country: Taiwan
+- name: Great Fortune Securities Co Ltd
+  swift: GRFSTWT1XXX
+  swift8: GRFSTWT1
+  branch_name: Head Office
+  branch_address: 23 Lungchiang Road Taipei
+  branch_code: XXX
+  city: Taipei
+  country: Taiwan
+- name: Great Wall Securities Co, Ltd
+  swift: GRWSTWT1XXX
+  swift8: GRWSTWT1
+  branch_name: Head Office
+  branch_address: 85, Jen Ai Rd, Sec 4 10688 Taipei
+  branch_code: XXX
+  city: Taipei
+  country: Taiwan
+- name: Hai Pa Wang Securities Corp
+  swift: HAWSTWT1XXX
+  swift8: HAWSTWT1
+  branch_name: Head Office
+  branch_address: 169 Nanking West Road Taipei
+  branch_code: XXX
+  city: Taipei
+  country: Taiwan
+- name: High Top Securities Co Ltd
+  swift: HITSTWT1XXX
+  swift8: HITSTWT1
+  branch_name: Head Office
+  branch_address: 1,13 Kuanchien East Road Panchiao
+  branch_code: XXX
+  city: Panchiao
+  country: Taiwan
+- name: Ho Shin Securities Co Ltd
+  swift: SHICTWT1XXX
+  swift8: SHICTWT1
+  branch_name: Head Office
+  branch_address: 455 Chung-Cheng Road Yung-Ho Taipei
+  branch_code: XXX
+  city: Taipei
+  country: Taiwan
+- name: Hon Tai Securities Co Ltd.
+  swift: HTTSTWT1XXX
+  swift8: HTTSTWT1
+  branch_name: Head Office
+  branch_address: No.563 Chung Hsiao East Road, Sec 4 Taipei
+  branch_code: XXX
+  city: Taipei
+  country: Taiwan
+- name: Hong Fu Securities Co Ltd
+  swift: HONETWT1XXX
+  swift8: HONETWT1
+  branch_name: Head Office
+  branch_address: 10 Chunghwa Road Tao-Yuan
+  branch_code: XXX
+  city: Tao-Yuan
+  country: Taiwan
+- name: Hong Hwa Securities Co Ltd
+  swift: HOHSTWT1XXX
+  swift8: HOHSTWT1
+  branch_name: Head Office
+  branch_address: 24 Szu-Wei 4 Road Kaohsiung
+  branch_code: XXX
+  city: Kaohsiung
+  country: Taiwan
+- name: Horizon Securities Co.,ltd.
+  swift: HOSETWT1XXX
+  swift8: HOSETWT1
+  branch_name: Head Office
+  branch_address: 3-9 Fl., 236, Sec.4, Hsin-Yi Rd Taipei
+  branch_code: XXX
+  city: Taipei
+  country: Taiwan
+- name: Hsbc Bank (taiwan) Limited
+  swift: HSBCTWTPCBS
+  swift8: HSBCTWTP
+  branch_name: Correspondent Banking Services
+  branch_address: Taipei
+  branch_code: CBS
+  city: Taipei
+  country: Taiwan
+- name: Hsbc Bank (taiwan) Limited
+  swift: HSBCTWTPOBU
+  swift8: HSBCTWTP
+  branch_name: Obu Branch
+  branch_address: Taipei
+  branch_code: OBU
+  city: Taipei
+  country: Taiwan
+- name: Hsbc Bank (taiwan) Limited
+  swift: HSBCTWTPXXX
+  swift8: HSBCTWTP
+  branch_name: Head Office
+  branch_address: International Trade Building 110 Taipei
+  branch_code: XXX
+  city: Taipei
+  country: Taiwan
+- name: Hsin Chu Science Park Securities Co Ltd
+  swift: HCSPTWT1XXX
+  swift8: HCSPTWT1
+  branch_name: Head Office
+  branch_address: 129 Chung-Cheng Road Hsinchu
+  branch_code: XXX
+  city: Hsinchu
+  country: Taiwan
+- name: Hsin Tao Securities Inc.
+  swift: HSTETWT1XXX
+  swift8: HSTETWT1
+  branch_name: Head Office
+  branch_address: 60 Chung-Cheng Road Tao-Yuan
+  branch_code: XXX
+  city: Tao-Yuan
+  country: Taiwan
+- name: Hua Hsin Securities Co Ltd
+  swift: HUHSTWT1XXX
+  swift8: HUHSTWT1
+  branch_name: Head Office
+  branch_address: Chungshan Road Hsinchu
+  branch_code: XXX
+  city: Hsinchu
+  country: Taiwan
+- name: Hua Nan Commercial Bank, Ltd.
+  swift: HNBKTWTP069
+  swift8: HNBKTWTP
+  branch_name: Trust Department
+  branch_address: Taipei
+  branch_code: '069'
+  city: Taipei
+  country: Taiwan
+- name: Hua Nan Commercial Bank, Ltd.
+  swift: HNBKTWTP070
+  swift8: HNBKTWTP
+  branch_name: Offshore Banking Branch
+  branch_address: Taipei
+  branch_code: '070'
+  city: Taipei
+  country: Taiwan
+- name: Hua Nan Commercial Bank, Ltd.
+  swift: HNBKTWTP101
+  swift8: HNBKTWTP
+  branch_name: Chuxu Branch
+  branch_address: No.160, Sec.2, Nanjing E. Rd., 10489 Taipei
+  branch_code: '101'
+  city: Taipei
+  country: Taiwan
+- name: Hua Nan Commercial Bank, Ltd.
+  swift: HNBKTWTP103
+  swift8: HNBKTWTP
+  branch_name: Chen Nei Branch
+  branch_address: No.93, Boai Rd. 10045 Taipei
+  branch_code: '103'
+  city: Taipei
+  country: Taiwan
+- name: Hua Nan Commercial Bank, Ltd.
+  swift: HNBKTWTP104
+  swift8: HNBKTWTP
+  branch_name: Tataochen Branch
+  branch_address: 96, Yen-Ping N. Road, Sec2 103 Taipei
+  branch_code: '104'
+  city: Taipei
+  country: Taiwan
+- name: Hua Nan Commercial Bank, Ltd.
+  swift: HNBKTWTP105
+  swift8: HNBKTWTP
+  branch_name: Chienchen Branch
+  branch_address: Taipei
+  branch_code: '105'
+  city: Taipei
+  country: Taiwan
+- name: Hua Nan Commercial Bank, Ltd.
+  swift: HNBKTWTP106
+  swift8: HNBKTWTP
+  branch_name: Chungshan Branch
+  branch_address: Taipei
+  branch_code: '106'
+  city: Taipei
+  country: Taiwan
+- name: Hua Nan Commercial Bank, Ltd.
+  swift: HNBKTWTP107
+  swift8: HNBKTWTP
+  branch_name: Yuanshan Branch
+  branch_address: Taipei
+  branch_code: '107'
+  city: Taipei
+  country: Taiwan
+- name: Hua Nan Commercial Bank, Ltd.
+  swift: HNBKTWTP108
+  swift8: HNBKTWTP
+  branch_name: Cheng Tung Branch
+  branch_address: Taipei
+  branch_code: '108'
+  city: Taipei
+  country: Taiwan
+- name: Hua Nan Commercial Bank, Ltd.
+  swift: HNBKTWTP109
+  swift8: HNBKTWTP
+  branch_name: Hsimen Branch
+  branch_address: No. 173, Hsi Ning South Road 10846 Taipei
+  branch_code: '109'
+  city: Taipei
+  country: Taiwan
+- name: Hua Nan Commercial Bank, Ltd.
+  swift: HNBKTWTP110
+  swift8: HNBKTWTP
+  branch_name: Nan Sungshan Branch
+  branch_address: Taipei
+  branch_code: '110'
+  city: Taipei
+  country: Taiwan
+- name: Hua Nan Commercial Bank, Ltd.
+  swift: HNBKTWTP111
+  swift8: HNBKTWTP
+  branch_name: Jen Ai Road Branch
+  branch_address: Taipei
+  branch_code: '111'
+  city: Taipei
+  country: Taiwan
+- name: Hua Nan Commercial Bank, Ltd.
+  swift: HNBKTWTP112
+  swift8: HNBKTWTP
+  branch_name: Nanking East Road Branch
+  branch_address: Taipei
+  branch_code: '112'
+  city: Taipei
+  country: Taiwan
+- name: Hua Nan Commercial Bank, Ltd.
+  swift: HNBKTWTP113
+  swift8: HNBKTWTP
+  branch_name: Hsinsheng Branch
+  branch_address: Taipei
+  branch_code: '113'
+  city: Taipei
+  country: Taiwan
+- name: Hua Nan Commercial Bank, Ltd.
+  swift: HNBKTWTP114
+  swift8: HNBKTWTP
+  branch_name: Tatung Branch
+  branch_address: Taipei
+  branch_code: '114'
+  city: Taipei
+  country: Taiwan
+- name: Hua Nan Commercial Bank, Ltd.
+  swift: HNBKTWTP115
+  swift8: HNBKTWTP
+  branch_name: Sungshan Branch
+  branch_address: Taipei
+  branch_code: '115'
+  city: Taipei
+  country: Taiwan
+- name: Hua Nan Commercial Bank, Ltd.
+  swift: HNBKTWTP116
+  swift8: HNBKTWTP
+  branch_name: Chung Lun Branch
+  branch_address: Taipei
+  branch_code: '116'
+  city: Taipei
+  country: Taiwan
+- name: Hua Nan Commercial Bank, Ltd.
+  swift: HNBKTWTP117
+  swift8: HNBKTWTP
+  branch_name: Nanmen Branch
+  branch_address: Taipei
+  branch_code: '117'
+  city: Taipei
+  country: Taiwan
+- name: Hua Nan Commercial Bank, Ltd.
+  swift: HNBKTWTP118
+  swift8: HNBKTWTP
+  branch_name: Gongguan Branch
+  branch_address: No.216, Roosevelt Rd., Da-an Dist 10660 Taipei
+  branch_code: '118'
+  city: Taipei
+  country: Taiwan
+- name: Hua Nan Commercial Bank, Ltd.
+  swift: HNBKTWTP119
+  swift8: HNBKTWTP
+  branch_name: Sin Yi Branch
+  branch_address: No.183, Sec. 2, Xinyi Rd. 10064 Taipei
+  branch_code: '119'
+  city: Taipei
+  country: Taiwan
+- name: Hua Nan Securities Co., Ltd.
+  swift: ESSTTWT1XXX
+  swift8: ESSTTWT1
+  branch_name: Head Office
+  branch_address: 5f, 54 Minsheng East Road Taipei
+  branch_code: XXX
+  city: Taipei
+  country: Taiwan
+- name: Hualian Securities Co Ltd
+  swift: HUASTWT1XXX
+  swift8: HUASTWT1
+  branch_name: Head Office
+  branch_address: 207 Chungshan Road Hualian
+  branch_code: XXX
+  city: Hualian
+  country: Taiwan
+- name: Hwa-tai Securities Co Ltd
+  swift: HWTSTWT1XXX
+  swift8: HWTSTWT1
+  branch_name: Head Office
+  branch_address: 353 Fu-Ho Road, Yung-Ho Taipei
+  branch_code: XXX
+  city: Taipei
+  country: Taiwan
+- name: Hwatai Bank
+  swift: HTBKTWTPXXX
+  swift8: HTBKTWTP
+  branch_name: Head Office
+  branch_address: 246, Sec. 2 Chang an E. Road 104 Taipei
+  branch_code: XXX
+  city: Taipei
+  country: Taiwan
+- name: I-feng Securities Co Ltd
+  swift: FENETWT1XXX
+  swift8: FENETWT1
+  branch_name: Head Office
+  branch_address: 56 Tung-Men Street Hsinchu
+  branch_code: XXX
+  city: Hsinchu
+  country: Taiwan
+- name: Ibm
+  swift: IBMTTWT1XXX
+  swift8: IBMTTWT1
+  branch_name: Head Office
+  branch_address: Song Ren Road Taipei
+  branch_code: XXX
+  city: Taipei
+  country: Taiwan
+- name: Ibt Securities Co. Ltd
+  swift: IBSCTWT1XXX
+  swift8: IBSCTWT1
+  branch_name: Head Office
+  branch_address: Tiding Boulevard, No.99 114 Taipei
+  branch_code: XXX
+  city: Taipei
+  country: Taiwan
+- name: Ibt Securities Co., Ltd Xinyi Branch
+  swift: ISXBTWT1XXX
+  swift8: ISXBTWT1
+  branch_name: Head Office
+  branch_address: No.65,Songde Road 110 Taipei
+  branch_code: XXX
+  city: Taipei
+  country: Taiwan
+- name: Imperial Securities Co Ltd
+  swift: IMPSTWT1XXX
+  swift8: IMPSTWT1
+  branch_name: Head Office
+  branch_address: 369 Hsing-Yeh W. Road Chiayi
+  branch_code: XXX
+  city: Chiayi
+  country: Taiwan
+- name: J.p. Morgan
+  swift: JMSATWT1XXX
+  swift8: JMSATWT1
+  branch_name: Head Office
+  branch_address: Bank Tower Taipei
+  branch_code: XXX
+  city: Taipei
+  country: Taiwan
+- name: J.p. Morgan Securities (taiwan) Limited
+  swift: JPMSTWT1XXX
+  swift8: JPMSTWT1
+  branch_name: Head Office
+  branch_address: Xinyi Trading Building 105 Taipei
+  branch_code: XXX
+  city: Taipei
+  country: Taiwan
+- name: James Capel Asia Limited
+  swift: JCALTWT1XXX
+  swift8: JCALTWT1
+  branch_name: Head Office
+  branch_address: Taipei
+  branch_code: XXX
+  city: Taipei
+  country: Taiwan
+- name: Jee Mach Securities Co., Ltd.
+  swift: JEMSTWT1XXX
+  swift8: JEMSTWT1
+  branch_name: Head Office
+  branch_address: 2f, 1020 Tsao-His Rd. Nantou
+  branch_code: XXX
+  city: Chen / Nantou
+  country: Taiwan
+- name: Jeng Jyi Securities Co Ltd
+  swift: JEJSTWT1XXX
+  swift8: JEJSTWT1
+  branch_name: Head Office
+  branch_address: 457 Chenkung Road Tainan
+  branch_code: XXX
+  city: Tainan
+  country: Taiwan
+- name: Jeou Diing Securities Co Ltd
+  swift: JEDSTWT1XXX
+  swift8: JEDSTWT1
+  branch_name: Head Office
+  branch_address: 245 Pei-Tun Road Pei-Tun Dis Taichung
+  branch_code: XXX
+  city: Taichung
+  country: Taiwan
+- name: Jey Fong Securities Co Ltd
+  swift: JEFSTWT1XXX
+  swift8: JEFSTWT1
+  branch_name: Head Office
+  branch_address: 174 San-Tou 1 Road Lin-Ya District Kaohsiung
+  branch_code: XXX
+  city: Kaohsiung
+  country: Taiwan
+- name: Jih Feng Securities Co Ltd
+  swift: JIFSTWT1XXX
+  swift8: JIFSTWT1
+  branch_name: Head Office
+  branch_address: 532 Mintsu Road Changhua
+  branch_code: XXX
+  city: Changhua
+  country: Taiwan
+- name: Jih Fu Securities Co Ltd
+  swift: JIHSTWT1XXX
+  swift8: JIHSTWT1
+  branch_name: Head Office
+  branch_address: 8 Nanking East Road Section 2 Taipei
+  branch_code: XXX
+  city: Taipei
+  country: Taiwan
+- name: Jih Sun International Bank (formerly Baodao Commercial Bank
+  swift: JSIBTWTPXXX
+  swift8: JSIBTWTP
+  branch_name: Head Office
+  branch_address: Tai-Chi Building Taipei
+  branch_code: XXX
+  city: Taipei
+  country: Taiwan
+- name: Jih Sun Securities Co., Ltd.
+  swift: JISSTWT1XXX
+  swift8: JISSTWT1
+  branch_name: Head Office
+  branch_address: 3fl, 111 Nanking E. Road Taipei
+  branch_code: XXX
+  city: Taipei
+  country: Taiwan
+- name: Ju Ding Securities Inc
+  swift: DINETWT1XXX
+  swift8: DINETWT1
+  branch_name: Head Office
+  branch_address: 110 San-Dau 2 Road Kaohsiung
+  branch_code: XXX
+  city: Kaohsiung
+  country: Taiwan
+- name: Kao Sheng Securities Co Ltd
+  swift: KASSTWT1XXX
+  swift8: KASSTWT1
+  branch_name: Head Office
+  branch_address: 524 Chung Shan 2 Road Kaohsiung
+  branch_code: XXX
+  city: Kaohsiung
+  country: Taiwan
+- name: Keelung International Securities Co Ltd
+  swift: KEISTWT1XXX
+  swift8: KEISTWT1
+  branch_name: Head Office
+  branch_address: 86-3 Hsiao-Erh Road Keelung
+  branch_code: XXX
+  city: Keelung
+  country: Taiwan
+- name: Kgi Securities Co. Ltd.
+  swift: KGISTWTPXXX
+  swift8: KGISTWTP
+  branch_name: No branch name
+  branch_address: No branch address
+  branch_code: XXX
+  city: Taipei
+  country: Taiwan
+- name: King Fong Securities Co.,ltd.
+  swift: KIFCTWT1XXX
+  swift8: KIFCTWT1
+  branch_name: Head Office
+  branch_address: 481 Chung Shan Road Fongyuan
+  branch_code: XXX
+  city: Fongyuan
+  country: Taiwan
+- name: King Group Securities Co Ltd
+  swift: KIGSTWT1XXX
+  swift8: KIGSTWT1
+  branch_name: Head Office
+  branch_address: 158 Chungcheng 3 Road Kaohsiung
+  branch_code: XXX
+  city: Kaohsiung
+  country: Taiwan
+- name: King Hoe Securities Co Ltd
+  swift: KIHSTWT1XXX
+  swift8: KIHSTWT1
+  branch_name: Head Office
+  branch_address: 3 Lane 199 Hsin-Yi Road Section 4 Taipei
+  branch_code: XXX
+  city: Taipei
+  country: Taiwan
+- name: King's International Securities Corp.
+  swift: KIISTWT1XXX
+  swift8: KIISTWT1
+  branch_name: Head Office
+  branch_address: 79 Tung-Men Street Hsinchu
+  branch_code: XXX
+  city: Hsinchu
+  country: Taiwan
+- name: King's Town Bank
+  swift: TNBBTWTN001
+  swift8: TNBBTWTN
+  branch_name: Business Dept
+  branch_address: Shi-Men Road 70051 Tainan
+  branch_code: '001'
+  city: Tainan
+  country: Taiwan
+- name: King's Town Bank
+  swift: TNBBTWTN004
+  swift8: TNBBTWTN
+  branch_name: Chia-Yi Branch
+  branch_address: 262, Chung-Shan Road 600 Chiayi
+  branch_code: '004'
+  city: Chia Yi
+  country: Taiwan
+- name: King's Town Bank
+  swift: TNBBTWTN007
+  swift8: TNBBTWTN
+  branch_name: Hu-Wei Branch
+  branch_address: 391 Kuang Fu Road 632 Yunlin
+  branch_code: '007'
+  city: Yunlin
+  country: Taiwan
+- name: King's Town Bank
+  swift: TNBBTWTN029
+  swift8: TNBBTWTN
+  branch_name: Hsin-Shih Branch
+  branch_address: 240,Chung Cheng Rd. 74447 Tainan
+  branch_code: '029'
+  city: Tainan
+  country: Taiwan
+- name: King's Town Bank
+  swift: TNBBTWTN053
+  swift8: TNBBTWTN
+  branch_name: Taipei Branch
+  branch_address: 75, Sec. 4 Jen-Ai Road 106 Taipei
+  branch_code: '053'
+  city: Taipei
+  country: Taiwan
+- name: King's Town Bank
+  swift: TNBBTWTN068
+  swift8: TNBBTWTN
+  branch_name: Offshore Banking Branch
+  branch_address: 506 Sec. 1 Shi-Men Road 700 Tainan
+  branch_code: '068'
+  city: Tainan
+  country: Taiwan
+- name: King's Town Bank
+  swift: TNBBTWTN069
+  swift8: TNBBTWTN
+  branch_name: Kaohsiung Branch
+  branch_address: 110 Yu Cheng Road 80794 Kaohsiung
+  branch_code: '069'
+  city: Kaohsiung
+  country: Taiwan
+- name: King's Town Bank
+  swift: TNBBTWTN070
+  swift8: TNBBTWTN
+  branch_name: Taichung Branch
+  branch_address: 200,Chung Ming Rd. 40466 Taichung
+  branch_code: '070'
+  city: Taichung
+  country: Taiwan
+- name: King's Town Bank
+  swift: TNBBTWTN077
+  swift8: TNBBTWTN
+  branch_name: Chung-Cheng Branch
+  branch_address: 175,Chung Cheng 2nd Rd. 80274 Kaohsiung
+  branch_code: '077'
+  city: Kaohsiung
+  country: Taiwan
+- name: King's Town Bank
+  swift: TNBBTWTNXXX
+  swift8: TNBBTWTN
+  branch_name: Head Office
+  branch_address: 506 Sec. 1 Shi-Men Road 70051 Tainan
+  branch_code: XXX
+  city: Tainan
+  country: Taiwan
+- name: Kingston Securites Inc.
+  swift: KINSTWT1XXX
+  swift8: KINSTWT1
+  branch_name: Head Office
+  branch_address: 96 Yenping North Road Section 2 Taipei
+  branch_code: XXX
+  city: Taipei
+  country: Taiwan
+- name: Kingtex Securities Co Ltd
+  swift: KINETWT1XXX
+  swift8: KINETWT1
+  branch_name: Head Office
+  branch_address: 346 Nanking East Road Section 3 Taipei
+  branch_code: XXX
+  city: Taipei
+  country: Taiwan
+- name: Kleinwort Benson Securities Limited, Taiwan Branch
+  swift: KBENTWT1XXX
+  swift8: KBENTWT1
+  branch_name: Head Office
+  branch_address: 378 Fu Hsin North Road 104 Taipei
+  branch_code: XXX
+  city: Taipei
+  country: Taiwan
+- name: Kong Cheng Securities Co Ltd
+  swift: KOCSTWT1XXX
+  swift8: KOCSTWT1
+  branch_name: Head Office
+  branch_address: 77 Chungking South Road Section 1 Taipei
+  branch_code: XXX
+  city: Taipei
+  country: Taiwan
+- name: Kuang Long Securities Co., Ltd.
+  swift: KULSTWT1XXX
+  swift8: KULSTWT1
+  branch_name: Head Office
+  branch_address: 4-6f, 26 Kungyuan Rd Hualian
+  branch_code: XXX
+  city: Hualian
+  country: Taiwan
+- name: Kuanz Ho Securities Co., Ltd.
+  swift: KUAETWT1XXX
+  swift8: KUAETWT1
+  branch_name: Head Office
+  branch_address: 3-4f, 166 Kwangfu Rd. Changhua
+  branch_code: XXX
+  city: Changhua
+  country: Taiwan
+- name: Kung Cheng Securities Co Ltd
+  swift: KUCSTWT1XXX
+  swift8: KUCSTWT1
+  branch_name: Head Office
+  branch_address: 98 Kwangfu Road Changhua
+  branch_code: XXX
+  city: Changhua
+  country: Taiwan
+- name: Kuo Bao Securities Co Ltd
+  swift: KUBETWT1XXX
+  swift8: KUBETWT1
+  branch_name: Head Office
+  branch_address: 92 Mintsu Road Taichung
+  branch_code: XXX
+  city: Taichung
+  country: Taiwan
+- name: Kuo Hua Securities Co Ltd
+  swift: KUHSTWT1XXX
+  swift8: KUHSTWT1
+  branch_name: Head Office
+  branch_address: 54 Section 4 Minsheng East Road Taipei
+  branch_code: XXX
+  city: Taipei
+  country: Taiwan
+- name: Kuo-yuh Securities Co Ltd
+  swift: KUYSTWT1XXX
+  swift8: KUYSTWT1
+  branch_name: Head Office
+  branch_address: 109 Ta-Tung Road Tou-Liu Yunlin
+  branch_code: XXX
+  city: Yunlin
+  country: Taiwan
+- name: Kuotong Securities Co Ltd
+  swift: KUOSTWT1XXX
+  swift8: KUOSTWT1
+  branch_name: Head Office
+  branch_address: 161 1-Hsin 2 Road Chein-Chen Distr. Kaohsiung
+  branch_code: XXX
+  city: Kaohsiung
+  country: Taiwan
+- name: Kwang Ming Securities Co Ltd
+  swift: KWMSTWT1XXX
+  swift8: KWMSTWT1
+  branch_name: Head Office
+  branch_address: 1 Chengkung Road Section 2 Tao-Yuan
+  branch_code: XXX
+  city: Tao-Yuan
+  country: Taiwan
+- name: Kwang-sheng Securities Co Ltd
+  swift: KWSSTWT1XXX
+  swift8: KWSSTWT1
+  branch_name: Head Office
+  branch_address: 30-2 Tung-Men Street Panchiao
+  branch_code: XXX
+  city: Panchiao
+  country: Taiwan
+- name: Lai Fwu Securities Co Ltd
+  swift: LAFETWT1XXX
+  swift8: LAFETWT1
+  branch_name: Head Office
+  branch_address: 128 Minsheng Road Tou-Liu Yunlin
+  branch_code: XXX
+  city: Yunlin
+  country: Taiwan
+- name: Lakeview Securities Co Ltd
+  swift: LAKSTWT1XXX
+  swift8: LAKSTWT1
+  branch_name: Head Office
+  branch_address: 50 Cheng-Kung Road Section 4 Taipei
+  branch_code: XXX
+  city: Taipei
+  country: Taiwan
+- name: Land Bank Of Taiwan
+  swift: LBOTTWTP002
+  swift8: LBOTTWTP
+  branch_name: Keelung Branch
+  branch_address: No.18,Yi 1st Road, 20241 Keelung
+  branch_code: '002'
+  city: Keelung
+  country: Taiwan
+- name: Land Bank Of Taiwan
+  swift: LBOTTWTP003
+  swift8: LBOTTWTP
+  branch_name: Chungho Branch
+  branch_address: No.323, Chin Ping Rd., Chungho Dist 23577 Taipei
+  branch_code: '003'
+  city: Taipei
+  country: Taiwan
+- name: Land Bank Of Taiwan
+  swift: LBOTTWTP004
+  swift8: LBOTTWTP
+  branch_name: Nankang Branch
+  branch_address: 364 Nankang Road, Sec. 1 Taipei
+  branch_code: '004'
+  city: Taipei
+  country: Taiwan
+- name: Land Bank Of Taiwan
+  swift: LBOTTWTP005
+  swift8: LBOTTWTP
+  branch_name: Taipei Branch
+  branch_address: 72 Po Ai Road Taipei
+  branch_code: '005'
+  city: Taipei
+  country: Taiwan
+- name: Land Bank Of Taiwan
+  swift: LBOTTWTP006
+  swift8: LBOTTWTP
+  branch_name: Mingchuan Branch
+  branch_address: Taipei
+  branch_code: '006'
+  city: Taipei
+  country: Taiwan
+- name: Land Bank Of Taiwan
+  swift: LBOTTWTP007
+  swift8: LBOTTWTP
+  branch_name: Kuting Branch
+  branch_address: 125 Roosevelt Road, Sec. 3 Taipei
+  branch_code: '007'
+  city: Taipei
+  country: Taiwan
+- name: Land Bank Of Taiwan
+  swift: LBOTTWTP008
+  swift8: LBOTTWTP
+  branch_name: Changan Branch
+  branch_address: Taipei
+  branch_code: '008'
+  city: Taipei
+  country: Taiwan
+- name: Land Bank Of Taiwan
+  swift: LBOTTWTP009
+  swift8: LBOTTWTP
+  branch_name: Shihlin Branch
+  branch_address: 689 Chung Shan N. Road, Sec. 5 Taipei
+  branch_code: '009'
+  city: Taipei
+  country: Taiwan
+- name: Land Bank Of Taiwan
+  swift: LBOTTWTP010
+  swift8: LBOTTWTP
+  branch_name: Sanchung Branch
+  branch_address: 1-8, Chung Hsin Road, Sec.2, Taipei
+  branch_code: '010'
+  city: Taipei
+  country: Taiwan
+- name: Land Bank Of Taiwan
+  swift: LBOTTWTP011
+  swift8: LBOTTWTP
+  branch_name: Yilan Branch
+  branch_address: No branch address
+  branch_code: '011'
+  city: Yilan
+  country: Taiwan
+- name: Land Bank Of Taiwan
+  swift: LBOTTWTP013
+  swift8: LBOTTWTP
+  branch_name: Tao-Yuan Branch
+  branch_address: 75 Chungcheng Road Tao-Yuan
+  branch_code: '013'
+  city: Tao-Yuan
+  country: Taiwan
+- name: Land Bank Of Taiwan
+  swift: LBOTTWTP014
+  swift8: LBOTTWTP
+  branch_name: Chungli Branch
+  branch_address: 190 Chung Shan Road Chungli
+  branch_code: '014'
+  city: Chung Li
+  country: Taiwan
+- name: Land Bank Of Taiwan
+  swift: LBOTTWTP015
+  swift8: LBOTTWTP
+  branch_name: Shihmen Branch
+  branch_address: 49, Pei-Lung Rd., 32552 Tao-Yuan
+  branch_code: '015'
+  city: Tao-Yuan
+  country: Taiwan
+- name: Land Bank Of Taiwan
+  swift: LBOTTWTP016
+  swift8: LBOTTWTP
+  branch_name: Hsinchu Branch
+  branch_address: 1 Chung Yang Road Hsinchu
+  branch_code: '016'
+  city: Hsinchu
+  country: Taiwan
+- name: Land Bank Of Taiwan
+  swift: LBOTTWTP017
+  swift8: LBOTTWTP
+  branch_name: Chutung Branch
+  branch_address: 10 Tung Lin Road, Chutung Chen Hsinchu
+  branch_code: '017'
+  city: Hsinchu
+  country: Taiwan
+- name: Land Bank Of Taiwan
+  swift: LBOTTWTP020
+  swift8: LBOTTWTP
+  branch_name: Miaoli Branch
+  branch_address: No.402,Chung Cheng Rd. 36043 Miao Li
+  branch_code: '020'
+  city: Miao Li
+  country: Taiwan
+- name: Land Bank Of Taiwan
+  swift: LBOTTWTP022
+  swift8: LBOTTWTP
+  branch_name: Fengyuan Branch
+  branch_address: No. 508, Chung Shan Road Fengyuan D 42044 Taichung
+  branch_code: '022'
+  city: Taichung
+  country: Taiwan
+- name: Land Bank Of Taiwan
+  swift: LBOTTWTP023
+  swift8: LBOTTWTP
+  branch_name: Ta-Chia Branch
+  branch_address: No. 40, Chen Cheng Rd., Tachia Dist 43746 Taichung
+  branch_code: '023'
+  city: Taichung
+  country: Taiwan
+- name: Land Bank Of Taiwan
+  swift: LBOTTWTP024
+  swift8: LBOTTWTP
+  branch_name: Taichung Branch
+  branch_address: Taichung
+  branch_code: '024'
+  city: Taichung
+  country: Taiwan
+- name: Land Bank Of Taiwan
+  swift: LBOTTWTP025
+  swift8: LBOTTWTP
+  branch_name: Nan Tou Branch
+  branch_address: No.202, Jhong Shan Street, 54057 Nantou
+  branch_code: '025'
+  city: Nantou
+  country: Taiwan
+- name: Leaders Securities Co Ltd
+  swift: LEASTWT1XXX
+  swift8: LEASTWT1
+  branch_name: Head Office
+  branch_address: 110 Yenping South Road Taipei
+  branch_code: XXX
+  city: Taipei
+  country: Taiwan
+- name: Lehman Brothers (taiwan) Ltd
+  swift: LEBTTWT1XXX
+  swift8: LEBTTWT1
+  branch_name: Head Office
+  branch_address: 245 Section 1 Tun Hwa South Road Taipei
+  branch_code: XXX
+  city: Taipei
+  country: Taiwan
+- name: Lg Display Taiwan Co., Ltd.
+  swift: LGDTTWT1XXX
+  swift8: LGDTTWT1
+  branch_name: Head Office
+  branch_address: No.105, Sec.2, Tunhwa S. Road. Taipei
+  branch_code: XXX
+  city: Taipei
+  country: Taiwan
+- name: Li Tai Securities Co Ltd
+  swift: TAIUTWT1XXX
+  swift8: TAIUTWT1
+  branch_name: Head Office
+  branch_address: 3 Hoping West Road Section 1 Taipei
+  branch_code: XXX
+  city: Taipei
+  country: Taiwan
+- name: Lucky Leader Securities Co Ltd
+  swift: LULSTWT1XXX
+  swift8: LULSTWT1
+  branch_name: Head Office
+  branch_address: 601 Chung-Cheng Road Section 2 Changhua
+  branch_code: XXX
+  city: Changhua
+  country: Taiwan
+- name: Macquarie Capital Securities Limited, Taiwan Branch
+  swift: BSECTWT1XXX
+  swift8: BSECTWT1
+  branch_name: Head Office
+  branch_address: Concord Building Taipei
+  branch_code: XXX
+  city: Taipei
+  country: Taiwan
+- name: Mao Sheng Securities Co Ltd
+  swift: MAHCTWT1XXX
+  swift8: MAHCTWT1
+  branch_name: Head Office
+  branch_address: 386 Chungshan Road Chiayi
+  branch_code: XXX
+  city: Chiayi
+  country: Taiwan
+- name: Masterlink Securities Co., Ltd.
+  swift: MASCTWT1001
+  swift8: MASCTWT1
+  branch_name: Duennan Branch
+  branch_address: Sec. 2 Duenhua S. Road 103 Taipei
+  branch_code: '001'
+  city: Taipei
+  country: Taiwan
+- name: Masterlink Securities Co., Ltd.
+  swift: MASCTWT1XXX
+  swift8: MASCTWT1
+  branch_name: Head Office
+  branch_address: 1-3fl., 209, Fushing S. Rd. Taipei
+  branch_code: XXX
+  city: Taipei
+  country: Taiwan
+- name: Merrill Lynch Securities (taiwan) Limited
+  swift: MLTATWTXFFO
+  swift8: MLTATWTX
+  branch_name: Taipei
+  branch_address: Taipei
+  branch_code: FFO
+  city: Taipei
+  country: Taiwan
+- name: Merrill Lynch Securities (taiwan) Limited
+  swift: MLTATWTXXXX
+  swift8: MLTATWTX
+  branch_name: Head Office
+  branch_address: Taipei Metro 106 Taipei
+  branch_code: XXX
+  city: Taipei
+  country: Taiwan
+- name: Merrill Lynch Securities Taiwan Limited
+  swift: MLTATWT1XXX
+  swift8: MLTATWT1
+  branch_name: Head Office
+  branch_address: Taipei Metro Taipei
+  branch_code: XXX
+  city: Taipei
+  country: Taiwan
+- name: Mizuho Bank, Ltd., Kaohsiung Branch
+  swift: MHCBTWTPKAO
+  swift8: MHCBTWTP
+  branch_name: Kaohsiung Branch
+  branch_address: 12f, 2 Chung Cheng 3rd Road 800 Kaohsiung
+  branch_code: KAO
+  city: Kaohsiung
+  country: Taiwan
+- name: Mizuho Bank, Ltd.,taipei Branch
+  swift: MHCBTWTPXXX
+  swift8: MHCBTWTP
+  branch_name: Taipei Branch
+  branch_address: 167 Tun Hwa North Road 105 Taipei
+  branch_code: XXX
+  city: Taipei
+  country: Taiwan
+- name: Morgan Stanley Taiwan Limited
+  swift: MSILTWT1XXX
+  swift8: MSILTWT1
+  branch_name: Head Office
+  branch_address: Taipei Metro 106 Taipei
+  branch_code: XXX
+  city: Taipei
+  country: Taiwan
+- name: Nan Tou Securities Co Ltd
+  swift: NATUTWT1XXX
+  swift8: NATUTWT1
+  branch_name: Head Office
+  branch_address: 101 Fuhsing Road Nantou
+  branch_code: XXX
+  city: Nantou
+  country: Taiwan
+- name: New Hundred King Securities Co Ltd
+  swift: NHKSTWT1XXX
+  swift8: NHKSTWT1
+  branch_name: Head Office
+  branch_address: 11 Chunghwa 3 Road Kaohsiung
+  branch_code: XXX
+  city: Kaohsiung
+  country: Taiwan
+- name: Nikko Securities Co. Ltd (taipei Branch),the
+  swift: NSTCTWT1XXX
+  swift8: NSTCTWT1
+  branch_name: Head Office
+  branch_address: 156-1, Min-Sheng East Road, Sec.3 Taipei
+  branch_code: XXX
+  city: Taipei
+  country: Taiwan
+- name: Oriental Securities Co., Ltd.
+  swift: ORISTWT1XXX
+  swift8: ORISTWT1
+  branch_name: Head Office
+  branch_address: 2-5th Fl. 103 Taipei
+  branch_code: XXX
+  city: Taipei
+  country: Taiwan
+- name: Oriental Securities Corp
+  swift: ORMBTWT1XXX
+  swift8: ORMBTWT1
+  branch_name: Min-Sheng Branch
+  branch_address: 2f, 3f, 4f, 5f, 86, Chung Ching S. Taipei
+  branch_code: XXX
+  city: Taipei
+  country: Taiwan
+- name: Oriental Union Securities Co Ltd
+  swift: ORUSTWT1XXX
+  swift8: ORUSTWT1
+  branch_name: Head Office
+  branch_address: 56 Ta-Chang 2 Road San-Ming Distr. Kaohsiung
+  branch_code: XXX
+  city: Kaohsiung
+  country: Taiwan
+- name: Oversea-chinese Banking Corporation Limited, Taipei Branch
+  swift: OCBCTWTPXXX
+  swift8: OCBCTWTP
+  branch_name: Head Office
+  branch_address: Bank Tower Taipei
+  branch_code: XXX
+  city: Taipei
+  country: Taiwan
+- name: Overseas Credit And Securities Incorporated
+  swift: OCSITWT1XXX
+  swift8: OCSITWT1
+  branch_name: Head Office
+  branch_address: 100 Roosevelt Road, Section 2 Taipei
+  branch_code: XXX
+  city: Taipei
+  country: Taiwan
+- name: Pacific Securities Co., Ltd.
+  swift: PACSTWT1NCH
+  swift8: PACSTWT1
+  branch_name: Nan-Ching Branch
+  branch_address: No.108 Nan-Ching East Road, Sec.5 Taipei
+  branch_code: NCH
+  city: Taipei
+  country: Taiwan
+- name: Pacific Securities Co., Ltd.
+  swift: PACSTWT1XXX
+  swift8: PACSTWT1
+  branch_name: Head Office
+  branch_address: 13-14f, 200 Chung Hsiao E. Rd. Taipei
+  branch_code: XXX
+  city: Taipei
+  country: Taiwan
+- name: Pao Shin Securities Co., Ltd.
+  swift: PASUTWT1XXX
+  swift8: PASUTWT1
+  branch_name: Head Office
+  branch_address: 1f, 1 Tai-Chungkang Rd. Taichung
+  branch_code: XXX
+  city: Taichung
+  country: Taiwan
+- name: Pao-shun Securities Co Ltd
+  swift: PASRTWT1XXX
+  swift8: PASRTWT1
+  branch_name: Head Office
+  branch_address: 69 Chang-Lu Road Section 8 Lu-Kang Changhua
+  branch_code: XXX
+  city: Changhua
+  country: Taiwan
+- name: Pei Cheng Securities Co., Ltd.
+  swift: PECCTWT1XXX
+  swift8: PECCTWT1
+  branch_name: Head Office
+  branch_address: 3 F, 116 Yuan-Ho Rd. Sec. 2 Taipei
+  branch_code: XXX
+  city: Taipei
+  country: Taiwan
+- name: Po-hon Securities Co Ltd
+  swift: HONRTWT1XXX
+  swift8: HONRTWT1
+  branch_name: Head Office
+  branch_address: 286 Hsin-Tong Road Lo-Tong I-Lan
+  branch_code: XXX
+  city: I-Lan
+  country: Taiwan
+- name: Polaris Securities Co., Ltd.
+  swift: POLSTWT1XXX
+  swift8: POLSTWT1
+  branch_name: Head Office
+  branch_address: 3f., 270, Sec. 4 Taipei
+  branch_code: XXX
+  city: Taipei
+  country: Taiwan
+- name: President Securities Corporation
+  swift: PREETWT1XXX
+  swift8: PREETWT1
+  branch_name: Head Office
+  branch_address: 1f, 8, Tunghsing Rd. Taipei
+  branch_code: XXX
+  city: Taipei
+  country: Taiwan
+- name: Primasia Securities Company Limited
+  swift: YKSTTWT1XXX
+  swift8: YKSTTWT1
+  branch_name: Head Office
+  branch_address: 3/F, 99 Fu-Hsin N. Rd Taipei
+  branch_code: XXX
+  city: Taipei
+  country: Taiwan
+- name: Prudential Securities Inc
+  swift: PBSITWT1XXX
+  swift8: PBSITWT1
+  branch_name: Head Office
+  branch_address: 70 Section 3 Nanking East Road Taipei
+  branch_code: XXX
+  city: Taipei
+  country: Taiwan
+- name: Rich Soon Securities Co Ltd
+  swift: RISSTWT1XXX
+  swift8: RISSTWT1
+  branch_name: Head Office
+  branch_address: 289 Chung Hsiao East Road Taipei
+  branch_code: XXX
+  city: Taipei
+  country: Taiwan
+- name: Riches Securities Co Ltd
+  swift: RICSTWT1XXX
+  swift8: RICSTWT1
+  branch_name: Head Office
+  branch_address: 110 Kuanchien East Road Panchiao
+  branch_code: XXX
+  city: Panchiao
+  country: Taiwan
+- name: Sakura Securities Co Ltd
+  swift: SAKCTWT1XXX
+  swift8: SAKCTWT1
+  branch_name: Head Office
+  branch_address: 512 Ying-Tsai Road Taichung
+  branch_code: XXX
+  city: Taichung
+  country: Taiwan
+- name: Samsung Electronics Taiwan Co., Ltd
+  swift: SECTTWT16A0
+  swift8: SECTTWT1
+  branch_name: Set
+  branch_address: Taipei
+  branch_code: 6A0
+  city: Taipei
+  country: Taiwan
+- name: Samsung Electronics Taiwan Co., Ltd
+  swift: SECTTWT1XXX
+  swift8: SECTTWT1
+  branch_name: Head Office
+  branch_address: No.63, Lane77, Xing Ai Rd. Taipei
+  branch_code: XXX
+  city: Taipei
+  country: Taiwan
+- name: Sanchung Securities Co Ltd
+  swift: SANRTWT1XXX
+  swift8: SANRTWT1
+  branch_name: Head Office
+  branch_address: Chung-Hsin Road Section 2 Taipei
+  branch_code: XXX
+  city: Taipei
+  country: Taiwan
+- name: Sanho Securities Co Ltd
+  swift: SANITWT1XXX
+  swift8: SANITWT1
+  branch_name: Head Office
+  branch_address: 248 Nanking East Road Section 3 Taipei
+  branch_code: XXX
+  city: Taipei
+  country: Taiwan
+- name: Schroder Securities (taiwan) Ltd
+  swift: SCSLTWT1XXX
+  swift8: SCSLTWT1
+  branch_name: Head Office
+  branch_address: Bank Tower Taipei
+  branch_code: XXX
+  city: Taipei
+  country: Taiwan
+- name: Sg Securities (hk) Ltd.
+  swift: SGSLTWT1XXX
+  swift8: SGSLTWT1
+  branch_name: Head Office
+  branch_address: Union Plaza 105 Taipei
+  branch_code: XXX
+  city: Taipei
+  country: Taiwan
+- name: Shanghai Commercial And Savings Bank, Ltd., The
+  swift: SCSBTWTP003
+  swift8: SCSBTWTP
+  branch_name: Savings Department Branch
+  branch_address: 149, Min Sheng E. Rd., Sec. 2, Taip Taipei
+  branch_code: '003'
+  city: Taipei
+  country: Taiwan
+- name: Shanghai Commercial And Savings Bank, Ltd., The
+  swift: SCSBTWTP004
+  swift8: SCSBTWTP
+  branch_name: Kaohsiung Branch
+  branch_address: 61 Chung Cheng 3rd Road Kaohsiung
+  branch_code: '004'
+  city: Kaohsiung
+  country: Taiwan
+- name: Shanghai Commercial And Savings Bank, Ltd., The
+  swift: SCSBTWTP006
+  swift8: SCSBTWTP
+  branch_name: Cheng Chung Branch
+  branch_address: 28 Kuan Chien Road Taipei
+  branch_code: '006'
+  city: Taipei
+  country: Taiwan
+- name: Shanghai Commercial And Savings Bank, Ltd., The
+  swift: SCSBTWTP008
+  swift8: SCSBTWTP
+  branch_name: Taichung Branch
+  branch_address: 46 San Min Road Section 2 Taichung
+  branch_code: '008'
+  city: Taichung
+  country: Taiwan
+- name: Shanghai Commercial And Savings Bank, Ltd., The
+  swift: SCSBTWTP009
+  swift8: SCSBTWTP
+  branch_name: East Taipei Branch
+  branch_address: 89 Sung Chiang Road Taipei
+  branch_code: '009'
+  city: Taipei
+  country: Taiwan
+- name: Shanghai Commercial And Savings Bank, Ltd., The
+  swift: SCSBTWTP010
+  swift8: SCSBTWTP
+  branch_name: Tainan Branch
+  branch_address: 305, Chin Hwa Rd., Sec. 2, Tainan, Tainan
+  branch_code: '010'
+  city: Tainan
+  country: Taiwan
+- name: Shanghai Commercial And Savings Bank, Ltd., The
+  swift: SCSBTWTP011
+  swift8: SCSBTWTP
+  branch_name: Tao-Yuan Branch
+  branch_address: 178 San Min Road Section 3 Tao-Yuan
+  branch_code: '011'
+  city: Tao-Yuan
+  country: Taiwan
+- name: Shanghai Commercial And Savings Bank, Ltd., The
+  swift: SCSBTWTP012
+  swift8: SCSBTWTP
+  branch_name: North Kaohsiung Branch
+  branch_address: 317 Ming Hua Road Kaohsiung
+  branch_code: '012'
+  city: Kaohsiung
+  country: Taiwan
+- name: Shanghai Commercial And Savings Bank, Ltd., The
+  swift: SCSBTWTP013
+  swift8: SCSBTWTP
+  branch_name: San Chung Branch
+  branch_address: 105 Tze Chiang Road Section 1 Taipei
+  branch_code: '013'
+  city: Taipei
+  country: Taiwan
+- name: Shanghai Commercial And Savings Bank, Ltd., The
+  swift: SCSBTWTP014
+  swift8: SCSBTWTP
+  branch_name: Pan Chiao Branch
+  branch_address: 69 Chung Cheng Road Pan Chiao Taipei
+  branch_code: '014'
+  city: Taipei
+  country: Taiwan
+- name: Shanghai Commercial And Savings Bank, Ltd., The
+  swift: SCSBTWTP015
+  swift8: SCSBTWTP
+  branch_name: Yung Ho Branch
+  branch_address: 295, Fu Ho Rd., Yungho Dist., New T Taipei
+  branch_code: '015'
+  city: Taipei
+  country: Taiwan
+- name: Shanghai Commercial And Savings Bank, Ltd., The
+  swift: SCSBTWTP016
+  swift8: SCSBTWTP
+  branch_name: Yuan Lin Branch
+  branch_address: 360 Chung Shan Road Section 2 Changhua
+  branch_code: '016'
+  city: Changhua
+  country: Taiwan
+- name: Shanghai Commercial And Savings Bank, Ltd., The
+  swift: SCSBTWTP018
+  swift8: SCSBTWTP
+  branch_name: Hsin Yi Branch
+  branch_address: 40 Tun Hua South Road Section 2 Taipei
+  branch_code: '018'
+  city: Taipei
+  country: Taiwan
+- name: Shanghai Commercial And Savings Bank, Ltd., The
+  swift: SCSBTWTP019
+  swift8: SCSBTWTP
+  branch_name: Min Sheng Branch
+  branch_address: 203 Fu Hsing North Road Taipei
+  branch_code: '019'
+  city: Taipei
+  country: Taiwan
+- name: Shanghai Commercial And Savings Bank, Ltd., The
+  swift: SCSBTWTP020
+  swift8: SCSBTWTP
+  branch_name: Chung Hsiao Branch
+  branch_address: 225, Tun Hua S. Rd., Sec. 1, Taipei Taipei
+  branch_code: '020'
+  city: Taipei
+  country: Taiwan
+- name: Shanghai Commercial And Savings Bank, Ltd., The
+  swift: SCSBTWTP021
+  swift8: SCSBTWTP
+  branch_name: Lung Shang Branch
+  branch_address: 60 Cheng Tu Road Taipei
+  branch_code: '021'
+  city: Taipei
+  country: Taiwan
+- name: Shanghai Commercial And Savings Bank, Ltd., The
+  swift: SCSBTWTP022
+  swift8: SCSBTWTP
+  branch_name: Nei Hu Branch
+  branch_address: 166, Cheng Kung Rd., Sec. 4, Taipei Taipei
+  branch_code: '022'
+  city: Taipei
+  country: Taiwan
+- name: Shanghai Commercial And Savings Bank, Ltd., The
+  swift: SCSBTWTP023
+  swift8: SCSBTWTP
+  branch_name: Chung Shan Branch
+  branch_address: 46 Nan King East Road Section 1 Taipei
+  branch_code: '023'
+  city: Taipei
+  country: Taiwan
+- name: Shanghai Commercial And Savings Bank, Ltd., The
+  swift: SCSBTWTP024
+  swift8: SCSBTWTP
+  branch_name: Jen Ai Branch
+  branch_address: 16 Jen Ai Road Section 2 Taipei
+  branch_code: '024'
+  city: Taipei
+  country: Taiwan
+- name: Shanghai Commercial And Savings Bank, Ltd., The
+  swift: SCSBTWTP025
+  swift8: SCSBTWTP
+  branch_name: Hsin Chuang Branch
+  branch_address: 85 Chung Ping Road Hsin Chuang Taipei
+  branch_code: '025'
+  city: Taipei
+  country: Taiwan
+- name: Share Long Securities Co Ltd
+  swift: SHLUTWT1XXX
+  swift8: SHLUTWT1
+  branch_name: Head Office
+  branch_address: 342 Wen-Lin Road Shihlin Distr. Taipei
+  branch_code: XXX
+  city: Taipei
+  country: Taiwan
+- name: Shei Ching Securities Co Ltd
+  swift: SHCSTWT1XXX
+  swift8: SHCSTWT1
+  branch_name: Head Office
+  branch_address: 6-1 Hsin Tung Street Miao Li
+  branch_code: XXX
+  city: Miao Li
+  country: Taiwan
+- name: Sheng Fa Securities Co Ltd
+  swift: SHESTWT1XXX
+  swift8: SHESTWT1
+  branch_name: Head Office
+  branch_address: 95 Jen-an Road Ho-Mei Chen Chunghua
+  branch_code: XXX
+  city: Chunghua
+  country: Taiwan
+- name: Sheng Hoh Securities Co Ltd
+  swift: SHHCTWT1XXX
+  swift8: SHHCTWT1
+  branch_name: Head Office
+  branch_address: 83 Chungking South Road Section 1 Taipei
+  branch_code: XXX
+  city: Taipei
+  country: Taiwan
+- name: Shih Ling Securities Co Ltd
+  swift: SHLRTWT1XXX
+  swift8: SHLRTWT1
+  branch_name: Head Office
+  branch_address: 490 Lin-Shen Road Section 1 Hu-Wei Yunlin
+  branch_code: XXX
+  city: Yunlin
+  country: Taiwan
+- name: Shin Fan Securities Co., Ltd.
+  swift: SHFCTWT1XXX
+  swift8: SHFCTWT1
+  branch_name: Head Office
+  branch_address: 2-4f, 43 San-Tung Rd. Chiayi
+  branch_code: XXX
+  city: Chia Yi
+  country: Taiwan
+- name: Shin Fong Securities Co Ltd
+  swift: SHFUTWT1XXX
+  swift8: SHFUTWT1
+  branch_name: Head Office
+  branch_address: 66-1 Chungking South Road Taipei
+  branch_code: XXX
+  city: Taipei
+  country: Taiwan
+- name: Shin Lung Securities Co Ltd
+  swift: SHLITWT1XXX
+  swift8: SHLITWT1
+  branch_name: Head Office
+  branch_address: 57 Hsinyi Road Keelung
+  branch_code: XXX
+  city: Keelung
+  country: Taiwan
+- name: Shin Ying Securities Co Ltd
+  swift: SHYSTWT1XXX
+  swift8: SHYSTWT1
+  branch_name: Head Office
+  branch_address: 123 Chungshan Road Shinying Tainan
+  branch_code: XXX
+  city: Tainan
+  country: Taiwan
+- name: Shinhong Securities Co Ltd
+  swift: SHNSTWT1XXX
+  swift8: SHNSTWT1
+  branch_name: Head Office
+  branch_address: 169 Chung Hsiao East Road Taipei
+  branch_code: XXX
+  city: Taipei
+  country: Taiwan
+- name: Sing Hau Securities Co Ltd
+  swift: SIHSTWT1XXX
+  swift8: SIHSTWT1
+  branch_name: Head Office
+  branch_address: 16 Teh-Hsing Road Hu-Wei Chen Yunlin
+  branch_code: XXX
+  city: Yunlin
+  country: Taiwan
+- name: Sino-japan Securities Co., Ltd
+  swift: SIJSTWT1XXX
+  swift8: SIJSTWT1
+  branch_name: Head Office
+  branch_address: 3f, 65, Nan-King East Road Taipei
+  branch_code: XXX
+  city: Taipei
+  country: Taiwan
+- name: Societe Generale, Taipei Branch
+  swift: SOGETWTPXXX
+  swift8: SOGETWTP
+  branch_name: Head Office
+  branch_address: 109 Section 3 Min Sheng East Road 105 Taipei
+  branch_code: XXX
+  city: Taipei
+  country: Taiwan
+- name: Standard Chartered Bank (taiwan) Limited
+  swift: SCBLTWT1FMO
+  swift8: SCBLTWT1
+  branch_name: Opics-Fmo Fx/Mm
+  branch_address: No branch address
+  branch_code: FMO
+  city: Taipei
+  country: Taiwan
+- name: Standard Chartered Bank (taiwan) Limited
+  swift: SCBLTWTPCUS
+  swift8: SCBLTWTP
+  branch_name: Custodial Service Department
+  branch_address: 337 Fu Hsing N. Road Taipei
+  branch_code: CUS
+  city: Taipei
+  country: Taiwan
+- name: Standard Chartered Bank (taiwan) Limited
+  swift: SCBLTWTPXXX
+  swift8: SCBLTWTP
+  branch_name: Head Office
+  branch_address: 168 Tun Hwa N. Road Taipei
+  branch_code: XXX
+  city: Taipei
+  country: Taiwan
+- name: Standard Chartered Bank, Taipei Branch
+  swift: SCBLTWTXXXX
+  swift8: SCBLTWTX
+  branch_name: Head Office
+  branch_address: No. 168, Tun Hwa North Road, 105 Taipei
+  branch_code: XXX
+  city: Taipei
+  country: Taiwan
+- name: Sumitomo Mitsui Banking Corporation Taipei Branch
+  swift: SMBCTWTPXXX
+  swift8: SMBCTWTP
+  branch_name: Head Office
+  branch_address: Walsin Lihwa A6 Building 11047 Taipei
+  branch_code: XXX
+  city: Taipei
+  country: Taiwan
+- name: Sun Do Securities Co Ltd
+  swift: SUNCTWT1XXX
+  swift8: SUNCTWT1
+  branch_name: Head Office
+  branch_address: 166 Mingsheng Road Section 2 Tainan
+  branch_code: XXX
+  city: Tainan
+  country: Taiwan
+- name: Sun Young Securities Co Ltd
+  swift: SUYSTWT1XXX
+  swift8: SUYSTWT1
+  branch_name: Head Office
+  branch_address: 14 Chung-I Road Section 2 Tainan
+  branch_code: XXX
+  city: Tainan
+  country: Taiwan
+- name: Sun-fund Securities Ltd
+  swift: SFSETWT1XXX
+  swift8: SFSETWT1
+  branch_name: Head Office
+  branch_address: 302, Yung-Chi Road Taipei
+  branch_code: XXX
+  city: Taipei
+  country: Taiwan
+- name: Sunny Bank
+  swift: SUNYTWTP001
+  swift8: SUNYTWTP
+  branch_name: Business Department
+  branch_address: No.255,Chung Cheng Road, Shihlin 11163 Taipei
+  branch_code: '001'
+  city: Taipei
+  country: Taiwan
+- name: Sunny Bank
+  swift: SUNYTWTP002
+  swift8: SUNYTWTP
+  branch_name: Shih Pai Branch
+  branch_address: Taipei
+  branch_code: '002'
+  city: Taipei
+  country: Taiwan
+- name: Sunny Bank
+  swift: SUNYTWTP008
+  swift8: SUNYTWTP
+  branch_name: She Tzu Branch
+  branch_address: No.260,Sec.5,Yen Ping N.Rd., 11173 Taipei
+  branch_code: '008'
+  city: Taipei
+  country: Taiwan
+- name: Sunny Bank
+  swift: SUNYTWTP013
+  swift8: SUNYTWTP
+  branch_name: Chen Kung Branch
+  branch_address: No.70,Sec.4,Chen Kung Rd.,Nei Hu 11489 Taipei
+  branch_code: '013'
+  city: Taipei
+  country: Taiwan
+- name: Sunny Bank
+  swift: SUNYTWTP017
+  swift8: SUNYTWTP
+  branch_name: Mucha Branch
+  branch_address: Taipei
+  branch_code: '017'
+  city: Taipei
+  country: Taiwan
+- name: Sunny Bank
+  swift: SUNYTWTP021
+  swift8: SUNYTWTP
+  branch_name: Chungshing Branch
+  branch_address: Taipei
+  branch_code: '021'
+  city: Taipei
+  country: Taiwan
+- name: Sunny Bank
+  swift: SUNYTWTP023
+  swift8: SUNYTWTP
+  branch_name: Chungho Branch
+  branch_address: Taipei
+  branch_code: '023'
+  city: Taipei
+  country: Taiwan
+- name: Sunny Bank
+  swift: SUNYTWTP025
+  swift8: SUNYTWTP
+  branch_name: Yung Ho Branch
+  branch_address: No.188,Sec.1,Chung Shan Rd. Yung 23443 Yungho
+  branch_code: '025'
+  city: Yung Ho
+  country: Taiwan
+- name: Sunny Bank
+  swift: SUNYTWTP027
+  swift8: SUNYTWTP
+  branch_name: Panchiao Branch
+  branch_address: No. 133, Sec. 1, Szuchuan Rd., 220 Panchiao
+  branch_code: '027'
+  city: Panchiao
+  country: Taiwan
+- name: Sunny Bank
+  swift: SUNYTWTP038
+  swift8: SUNYTWTP
+  branch_name: Taoyuan Branch
+  branch_address: No. 32-20, Chungshan E. Rd. 330 Tao-Yuan
+  branch_code: '038'
+  city: Tao-Yuan
+  country: Taiwan
+- name: Sunny Bank
+  swift: SUNYTWTP062
+  swift8: SUNYTWTP
+  branch_name: Jong-Hwa Branch
+  branch_address: No.102, Sec. 3, Jhonghua E. Rd., 701 Tainan
+  branch_code: '062'
+  city: Tainan
+  country: Taiwan
+- name: Sunny Bank
+  swift: SUNYTWTP076
+  swift8: SUNYTWTP
+  branch_name: Taichung Branch
+  branch_address: No. 159, Sec. 1, Taichungkang Rd., 403 Taichung
+  branch_code: '076'
+  city: Taichung
+  country: Taiwan
+- name: Sunny Bank
+  swift: SUNYTWTP078
+  swift8: SUNYTWTP
+  branch_name: Nei Hu Branch
+  branch_address: No.250 Sec.1 Nei-Hu Road., 114 Taipei
+  branch_code: '078'
+  city: Taipei
+  country: Taiwan
+- name: Sunny Bank
+  swift: SUNYTWTP081
+  swift8: SUNYTWTP
+  branch_name: Linsen Branch
+  branch_address: Hsinchu
+  branch_code: '081'
+  city: Hsinchu
+  country: Taiwan
+- name: Sunny Bank
+  swift: SUNYTWTP082
+  swift8: SUNYTWTP
+  branch_name: Hsin Hsing Branch
+  branch_address: No.6,Chung Chen 4th Rd.,Hsin Hsing 80049 Kaohsiung
+  branch_code: '082'
+  city: Kaohsiung
+  country: Taiwan
+- name: Sunny Bank
+  swift: SUNYTWTP086
+  swift8: SUNYTWTP
+  branch_name: Sih Wei Branch
+  branch_address: No. 159 Jhong-Hua 4th Rd. Kaohsiung
+  branch_code: '086'
+  city: Kaohsiung
+  country: Taiwan
+- name: Sunny Bank
+  swift: SUNYTWTP095
+  swift8: SUNYTWTP
+  branch_name: Liwen Branch
+  branch_address: Kaohsiung
+  branch_code: '095'
+  city: Kaohsiung
+  country: Taiwan
+- name: Sunny Bank
+  swift: SUNYTWTPXXX
+  swift8: SUNYTWTP
+  branch_name: Head Office
+  branch_address: 143 Fu-Hsing N. Road 105 Taipei
+  branch_code: XXX
+  city: Taipei
+  country: Taiwan
+- name: Sunpont Securities Co Ltd
+  swift: SUNRTWT1XXX
+  swift8: SUNRTWT1
+  branch_name: Head Office
+  branch_address: 27 Anho Road Taipei
+  branch_code: XXX
+  city: Taipei
+  country: Taiwan
+- name: Sunrise Securities Co., Ltd.
+  swift: SUNTTWT10TP
+  swift8: SUNTTWT1
+  branch_name: Taipei
+  branch_address: 289 Chung Hsiao East Road Taipei
+  branch_code: 0TP
+  city: Taipei
+  country: Taiwan
+- name: Sunrise Securities Co., Ltd.
+  swift: SUNTTWT1XXX
+  swift8: SUNTTWT1
+  branch_name: Head Office
+  branch_address: B1f, 144-1 Chunghwa Rd Tainan
+  branch_code: XXX
+  city: Tainan
+  country: Taiwan
+- name: T.w. Securities Co Ltd
+  swift: TWSETWT1XXX
+  swift8: TWSETWT1
+  branch_name: Head Office
+  branch_address: 2 Kaifeng Street Section 1 Taipei
+  branch_code: XXX
+  city: Taipei
+  country: Taiwan
+- name: Ta Chiang Securities Corp
+  swift: CHIETWT1XXX
+  swift8: CHIETWT1
+  branch_name: Head Office
+  branch_address: 163 Nanking East Road Section 5 Taipei
+  branch_code: XXX
+  city: Taipei
+  country: Taiwan
+- name: Ta Ching Securities Co., Ltd.
+  swift: CHICTWT1XXX
+  swift8: CHICTWT1
+  branch_name: Head Office
+  branch_address: 4f, 176 Minsheng E.Rd Taipei
+  branch_code: XXX
+  city: Taipei
+  country: Taiwan
+- name: Ta Chong Bank Ltd.
+  swift: OURBTWTP001
+  swift8: OURBTWTP
+  branch_name: Kaohsiung
+  branch_address: Kaohsiung
+  branch_code: '001'
+  city: Kaohsiung
+  country: Taiwan
+- name: Ta Chong Bank Ltd.
+  swift: OURBTWTP008
+  swift8: OURBTWTP
+  branch_name: Taipei
+  branch_address: Taipei
+  branch_code: '008'
+  city: Taipei
+  country: Taiwan
+- name: Ta Chong Bank Ltd.
+  swift: OURBTWTP019
+  swift8: OURBTWTP
+  branch_name: Offshore Banking Branch
+  branch_address: Lane 583,Rueiguang Road 114 Taipei
+  branch_code: '019'
+  city: Taipei
+  country: Taiwan
+- name: Ta Chong Bank Ltd.
+  swift: OURBTWTP917
+  swift8: OURBTWTP
+  branch_name: Treasury Department
+  branch_address: No.2, Sec 5, Sinyi Rd., Taipei City 110 Taipei
+  branch_code: '917'
+  city: Taipei
+  country: Taiwan
+- name: Ta Chong Bank Ltd.
+  swift: OURBTWTPXXX
+  swift8: OURBTWTP
+  branch_name: Head Office
+  branch_address: No.21, Lane 583, Rueiguang Road 11492 Taipei
+  branch_code: XXX
+  city: Taipei
+  country: Taiwan
+- name: Ta Chung Ho Securities Co Ltd
+  swift: CHUCTWT1XXX
+  swift8: CHUCTWT1
+  branch_name: Head Office
+  branch_address: 43 Hsinyi Street Chung-Ho Taipei
+  branch_code: XXX
+  city: Taipei
+  country: Taiwan
+- name: Ta Fu Securities Co Ltd
+  swift: TAFUTWT1XXX
+  swift8: TAFUTWT1
+  branch_name: Head Office
+  branch_address: Hoping Street 83 Chia-Li Chen Tainan
+  branch_code: XXX
+  city: Tainan
+  country: Taiwan
+- name: Ta Sheng Securities Co Ltd
+  swift: SHEETWT1XXX
+  swift8: SHEETWT1
+  branch_name: Head Office
+  branch_address: 2 Tai-Chung Kang Road Section 1 Taichung
+  branch_code: XXX
+  city: Taichung
+  country: Taiwan
+- name: Ta Shing Securities Co Ltd
+  swift: SHIITWT1XXX
+  swift8: SHIITWT1
+  branch_name: Head Office
+  branch_address: 45 Chungshan Road I-Lan
+  branch_code: XXX
+  city: I-Lan
+  country: Taiwan
+- name: Ta Yun Securities Co., Ltd.
+  swift: YUNETWT1XXX
+  swift8: YUNETWT1
+  branch_name: Head Office
+  branch_address: 1f, 91-99 Chengyi S. Rd. Taipei
+  branch_code: XXX
+  city: Taipei
+  country: Taiwan
+- name: Ta-tung Securities Co Ltd
+  swift: TUNCTWT1XXX
+  swift8: TUNCTWT1
+  branch_name: Head Office
+  branch_address: 89 Tung-Men Road Section 2 Tainan
+  branch_code: XXX
+  city: Tainan
+  country: Taiwan
+- name: Tachan Securities Co Ltd
+  swift: CHAETWT1XXX
+  swift8: CHAETWT1
+  branch_name: Head Office
+  branch_address: 17 Fl., 17,Cheng the Rd. Taipei
+  branch_code: XXX
+  city: Taipei
+  country: Taiwan
+- name: Tah Shin Securities Co Ltd
+  swift: TASSTWT1XXX
+  swift8: TASSTWT1
+  branch_name: Head Office
+  branch_address: 8 Kuanchien Road Taipei
+  branch_code: XXX
+  city: Taipei
+  country: Taiwan
+- name: Tai An Securities Co., Ltd.
+  swift: TIISTWT1XXX
+  swift8: TIISTWT1
+  branch_name: Head Office
+  branch_address: 1-2 F, 234 Minchuan Rd Taichung
+  branch_code: XXX
+  city: Taichung
+  country: Taiwan
+- name: Tai Chin Securities Co. Ltd.
+  swift: TACCTWT1XXX
+  swift8: TACCTWT1
+  branch_name: Head Office
+  branch_address: 18 Kwang Teh Street, Ping Chen Tao-Yuan
+  branch_code: XXX
+  city: Tao-Yuan
+  country: Taiwan
+- name: Taichung Commercial Bank
+  swift: TCBBTWTH044
+  swift8: TCBBTWTH
+  branch_name: Shalu Branch
+  branch_address: Taichung
+  branch_code: '044'
+  city: Taichung
+  country: Taiwan
+- name: Taichung Commercial Bank
+  swift: TCBBTWTH047
+  swift8: TCBBTWTH
+  branch_name: East Fengyuan Branch
+  branch_address: Fengyuan
+  branch_code: '047'
+  city: Fengyuan
+  country: Taiwan
+- name: Taichung Commercial Bank
+  swift: TCBBTWTH055
+  swift8: TCBBTWTH
+  branch_name: Tsaotun Branch
+  branch_address: Tsaotun
+  branch_code: '055'
+  city: Tsaotun
+  country: Taiwan
+- name: Taichung Commercial Bank
+  swift: TCBBTWTH067
+  swift8: TCBBTWTH
+  branch_name: Yuanlin Branch
+  branch_address: Changhua
+  branch_code: '067'
+  city: Changhua
+  country: Taiwan
+- name: Taichung Commercial Bank
+  swift: TCBBTWTH068
+  swift8: TCBBTWTH
+  branch_name: Homei Branch
+  branch_address: Homei
+  branch_code: '068'
+  city: Homei
+  country: Taiwan
+- name: Taichung Commercial Bank
+  swift: TCBBTWTH092
+  swift8: TCBBTWTH
+  branch_name: Taipei Branch
+  branch_address: Taipei
+  branch_code: '092'
+  city: Taipei
+  country: Taiwan
+- name: Taichung Commercial Bank
+  swift: TCBBTWTH101
+  swift8: TCBBTWTH
+  branch_name: Sung Shan Branch
+  branch_address: Taipei
+  branch_code: '101'
+  city: Taipei
+  country: Taiwan
+- name: Taichung Commercial Bank
+  swift: TCBBTWTH103
+  swift8: TCBBTWTH
+  branch_name: Kaohsiung Branch
+  branch_address: Kaohsiung
+  branch_code: '103'
+  city: Kaohsiung
+  country: Taiwan
+- name: Taichung Commercial Bank
+  swift: TCBBTWTHXXX
+  swift8: TCBBTWTH
+  branch_name: Head Office
+  branch_address: 87 Min-Chuan Road 403 Taichung
+  branch_code: XXX
+  city: Taichung
+  country: Taiwan
+- name: Tainan Securities Co Ltd.
+  swift: TANETWT1XXX
+  swift8: TANETWT1
+  branch_name: Head Office
+  branch_address: 165 Minsheng Road, Section 1 Tainan
+  branch_code: XXX
+  city: Tainan
+  country: Taiwan
+- name: Taipei Fubon Commercial Bank Co., Ltd
+  swift: TPBKTWTP200
+  swift8: TPBKTWTP
+  branch_name: Business Department
+  branch_address: 50,Sec.2 Chungshan N. Road 104 Taipei
+  branch_code: '200'
+  city: Taipei
+  country: Taiwan
+- name: Taipei Fubon Commercial Bank Co., Ltd
+  swift: TPBKTWTP220
+  swift8: TPBKTWTP
+  branch_name: Chengtung Branch
+  branch_address: 90, Sec. 2, Nanking E. Road Taipei
+  branch_code: '220'
+  city: Taipei
+  country: Taiwan
+- name: Taipei Fubon Commercial Bank Co., Ltd
+  swift: TPBKTWTP250
+  swift8: TPBKTWTP
+  branch_name: Trust Department
+  branch_address: 138, Sec.3, Min Sheng E. Road Taipei
+  branch_code: '250'
+  city: Taipei
+  country: Taiwan
+- name: Taipei Fubon Commercial Bank Co., Ltd
+  swift: TPBKTWTP300
+  swift8: TPBKTWTP
+  branch_name: Shihlin Branch
+  branch_address: 288, Chungcheng Road Taipei
+  branch_code: '300'
+  city: Taipei
+  country: Taiwan
+- name: Taipei Fubon Commercial Bank Co., Ltd
+  swift: TPBKTWTP305
+  swift8: TPBKTWTP
+  branch_name: Chunghsiao Branch
+  branch_address: Taipei
+  branch_code: '305'
+  city: Taipei
+  country: Taiwan
+- name: Taipei Fubon Commercial Bank Co., Ltd
+  swift: TPBKTWTP307
+  swift8: TPBKTWTP
+  branch_name: Lungchiang Branch
+  branch_address: Taipei
+  branch_code: '307'
+  city: Taipei
+  country: Taiwan
+- name: Taipei Fubon Commercial Bank Co., Ltd
+  swift: TPBKTWTP310
+  swift8: TPBKTWTP
+  branch_name: Yenping Branch
+  branch_address: 69, Sec.2, Yenping N. Road Taipei
+  branch_code: '310'
+  city: Taipei
+  country: Taiwan
+- name: Taipei Fubon Commercial Bank Co., Ltd
+  swift: TPBKTWTP340
+  swift8: TPBKTWTP
+  branch_name: Pate Branch
+  branch_address: Taipei
+  branch_code: '340'
+  city: Taipei
+  country: Taiwan
+- name: Taipei Fubon Commercial Bank Co., Ltd
+  swift: TPBKTWTP350
+  swift8: TPBKTWTP
+  branch_name: Chungshan Branch
+  branch_address: Taipei
+  branch_code: '350'
+  city: Taipei
+  country: Taiwan
+- name: Taipei Fubon Commercial Bank Co., Ltd
+  swift: TPBKTWTP360
+  swift8: TPBKTWTP
+  branch_name: Peitou Branch
+  branch_address: Taipei
+  branch_code: '360'
+  city: Taipei
+  country: Taiwan
+- name: Taipei Fubon Commercial Bank Co., Ltd
+  swift: TPBKTWTP370
+  swift8: TPBKTWTP
+  branch_name: Taan Branch
+  branch_address: Taipei
+  branch_code: '370'
+  city: Taipei
+  country: Taiwan
+- name: Taipei Fubon Commercial Bank Co., Ltd
+  swift: TPBKTWTP380
+  swift8: TPBKTWTP
+  branch_name: Tatung Branch
+  branch_address: Taipei
+  branch_code: '380'
+  city: Taipei
+  country: Taiwan
+- name: Taipei Fubon Commercial Bank Co., Ltd
+  swift: TPBKTWTP410
+  swift8: TPBKTWTP
+  branch_name: Chiencheng Branch
+  branch_address: Taipei
+  branch_code: '410'
+  city: Taipei
+  country: Taiwan
+- name: Taipei Fubon Commercial Bank Co., Ltd
+  swift: TPBKTWTP420
+  swift8: TPBKTWTP
+  branch_name: Nankang Branch
+  branch_address: Taipei
+  branch_code: '420'
+  city: Taipei
+  country: Taiwan
+- name: Taipei Fubon Commercial Bank Co., Ltd
+  swift: TPBKTWTP430
+  swift8: TPBKTWTP
+  branch_name: Chingmei Branch
+  branch_address: 64, Chingwen Street Taipei
+  branch_code: '430'
+  city: Taipei
+  country: Taiwan
+- name: Taipei Fubon Commercial Bank Co., Ltd
+  swift: TPBKTWTP440
+  swift8: TPBKTWTP
+  branch_name: Neihu Branch
+  branch_address: Taipei
+  branch_code: '440'
+  city: Taipei
+  country: Taiwan
+- name: Taipei Fubon Commercial Bank Co., Ltd
+  swift: TPBKTWTP450
+  swift8: TPBKTWTP
+  branch_name: Tunhua Branch
+  branch_address: 201 Tunhua N. Road 10583 Taipei
+  branch_code: '450'
+  city: Taipei
+  country: Taiwan
+- name: Taipei Fubon Commercial Bank Co., Ltd
+  swift: TPBKTWTP454
+  swift8: TPBKTWTP
+  branch_name: Minsheng Branch
+  branch_address: Taipei
+  branch_code: '454'
+  city: Taipei
+  country: Taiwan
+- name: Taipei Fubon Commercial Bank Co., Ltd
+  swift: TPBKTWTP460
+  swift8: TPBKTWTP
+  branch_name: Hsinyi Branch
+  branch_address: 299, Sec. 4, Hsinyi Road Taipei
+  branch_code: '460'
+  city: Taipei
+  country: Taiwan
+- name: Taipei Fubon Commercial Bank Co., Ltd
+  swift: TPBKTWTP462
+  swift8: TPBKTWTP
+  branch_name: Taipei World Trade Center Branch
+  branch_address: Taipei
+  branch_code: '462'
+  city: Taipei
+  country: Taiwan
+- name: Taishin International Bank
+  swift: TSIBTWTP002
+  swift8: TSIBTWTP
+  branch_name: Dunnan Branch
+  branch_address: No.118, Ren-Ai Rd.,Sec.4 106 Taipei
+  branch_code: '002'
+  city: Taipei
+  country: Taiwan
+- name: Taishin International Bank
+  swift: TSIBTWTP003
+  swift8: TSIBTWTP
+  branch_name: Chen Tong Branch
+  branch_address: Taipei
+  branch_code: '003'
+  city: Taipei
+  country: Taiwan
+- name: Taishin International Bank
+  swift: TSIBTWTP007
+  swift8: TSIBTWTP
+  branch_name: Taichung Branch
+  branch_address: Taichung
+  branch_code: '007'
+  city: Taichung
+  country: Taiwan
+- name: Taishin International Bank
+  swift: TSIBTWTP010
+  swift8: TSIBTWTP
+  branch_name: Tainan Branch
+  branch_address: Tainan
+  branch_code: '010'
+  city: Tainan
+  country: Taiwan
+- name: Taishin International Bank
+  swift: TSIBTWTP011
+  swift8: TSIBTWTP
+  branch_name: Nanking E Road Branch
+  branch_address: Taipei
+  branch_code: '011'
+  city: Taipei
+  country: Taiwan
+- name: Taishin International Bank
+  swift: TSIBTWTP015
+  swift8: TSIBTWTP
+  branch_name: Linya Branch
+  branch_address: Kaohsiung
+  branch_code: '015'
+  city: Kaohsiung
+  country: Taiwan
+- name: Taishin International Bank
+  swift: TSIBTWTP019
+  swift8: TSIBTWTP
+  branch_name: Obu Branch
+  branch_address: Taipei
+  branch_code: '019'
+  city: Taipei
+  country: Taiwan
+- name: Taishin International Bank
+  swift: TSIBTWTP054
+  swift8: TSIBTWTP
+  branch_name: Nantun Branch
+  branch_address: No.187, Sec. 2, Dongsing Rd., 40878 Taichung
+  branch_code: '054'
+  city: Taichung
+  country: Taiwan
+- name: Taishin International Bank
+  swift: TSIBTWTP073
+  swift8: TSIBTWTP
+  branch_name: Keelung Rd Branch
+  branch_address: No.55, Sec. 2, Keelung Rd., Sinyi 110 Taipei
+  branch_code: '073'
+  city: Taipei
+  country: Taiwan
+- name: Taishin International Bank
+  swift: TSIBTWTP100
+  swift8: TSIBTWTP
+  branch_name: Guandongciao Branch
+  branch_address: No.271, Sec. 1, Guangfu Rd. 30074 Hsinchu
+  branch_code: '100'
+  city: Hsinchu
+  country: Taiwan
+- name: Taishin International Bank
+  swift: TSIBTWTP105
+  swift8: TSIBTWTP
+  branch_name: Shifu Branch
+  branch_address: No.91, Sec. 2, Wenxin Rd., Xitun di 407 Taichung
+  branch_code: '105'
+  city: Taichung
+  country: Taiwan
+- name: Taishin International Bank
+  swift: TSIBTWTPXXX
+  swift8: TSIBTWTP
+  branch_name: Head Office
+  branch_address: 17 Chien-Kuo N. Road 104 Taipei
+  branch_code: XXX
+  city: Taipei
+  country: Taiwan
+- name: Taiwan Cooperative Bank
+  swift: TACBTWTP002
+  swift8: TACBTWTP
+  branch_name: Jhongshan Lu Branch
+  branch_address: No. 71, Johngshan N. Rd., Sec. 2 10446 Taipei
+  branch_code: '002'
+  city: Taipei
+  country: Taiwan
+- name: Taiwan Cooperative Bank
+  swift: TACBTWTP004
+  swift8: TACBTWTP
+  branch_name: Yanping Branch
+  branch_address: No.301,Nanjing W. Rd. 10342 Taipei
+  branch_code: '004'
+  city: Taipei
+  country: Taiwan
+- name: Taiwan Cooperative Bank
+  swift: TACBTWTP010
+  swift8: TACBTWTP
+  branch_name: Sanchong Branch
+  branch_address: Zhengyi S. Road 24142 Sanchung
+  branch_code: '010'
+  city: Sanchung
+  country: Taiwan
+- name: Taiwan Cooperative Bank
+  swift: TACBTWTP011
+  swift8: TACBTWTP
+  branch_name: Banciao Branch
+  branch_address: No.20,Wunhua Rd., Sec.1 22055 Banciao
+  branch_code: '011'
+  city: Banciao
+  country: Taiwan
+- name: Taiwan Cooperative Bank
+  swift: TACBTWTP015
+  swift8: TACBTWTP
+  branch_name: Tao-Yuan Branch
+  branch_address: Tao-Yuan
+  branch_code: '015'
+  city: Tao-Yuan
+  country: Taiwan
+- name: Taiwan Cooperative Bank
+  swift: TACBTWTP017
+  swift8: TACBTWTP
+  branch_name: Hsinchu Branch
+  branch_address: Hsinchu
+  branch_code: '017'
+  city: Hsinchu
+  country: Taiwan
+- name: Taiwan Cooperative Bank
+  swift: TACBTWTP018
+  swift8: TACBTWTP
+  branch_name: Miaoli Branch
+  branch_address: Zhongzheng Road 36049 Miao Li
+  branch_code: '018'
+  city: Miao Li
+  country: Taiwan
+- name: Taiwan Cooperative Bank
+  swift: TACBTWTP020
+  swift8: TACBTWTP
+  branch_name: Fongyuan Branch
+  branch_address: No. 102, Jhongjheng Rd., 42056 Taichung
+  branch_code: '020'
+  city: Taichung
+  country: Taiwan
+- name: Taiwan Cooperative Bank
+  swift: TACBTWTP021
+  swift8: TACBTWTP
+  branch_name: Shalu Branch
+  branch_address: No. 106, Shatian Road Shalu 43353 Taichung
+  branch_code: '021'
+  city: Taichung
+  country: Taiwan
+- name: Taiwan Cooperative Bank
+  swift: TACBTWTP022
+  swift8: TACBTWTP
+  branch_name: Taichung Branch
+  branch_address: 2 Tsu Yu Road, Section 2 40010 Taichung
+  branch_code: '022'
+  city: Taichung
+  country: Taiwan
+- name: Taiwan Cooperative Bank
+  swift: TACBTWTP023
+  swift8: TACBTWTP
+  branch_name: Changhua Branch
+  branch_address: Changhua
+  branch_code: '023'
+  city: Changhua
+  country: Taiwan
+- name: Taiwan Cooperative Bank
+  swift: TACBTWTP024
+  swift8: TACBTWTP
+  branch_name: Yuanlin Branch
+  branch_address: Zhongshan Road 51041 Yuan-Lin
+  branch_code: '024'
+  city: Yuan-Lin
+  country: Taiwan
+- name: Taiwan Cooperative Bank
+  swift: TACBTWTP025
+  swift8: TACBTWTP
+  branch_name: Nantou Branch
+  branch_address: No.96,Jhongshan Street 54057 Nantou
+  branch_code: '025'
+  city: Nantou
+  country: Taiwan
+- name: Taiwan Cooperative Bank
+  swift: TACBTWTP028
+  swift8: TACBTWTP
+  branch_name: Chiayi Branch
+  branch_address: Chiayi
+  branch_code: '028'
+  city: Chia Yi
+  country: Taiwan
+- name: Taiwan Cooperative Bank
+  swift: TACBTWTP030
+  swift8: TACBTWTP
+  branch_name: Tainan Branch
+  branch_address: Tainan
+  branch_code: '030'
+  city: Tainan
+  country: Taiwan
+- name: Taiwan Cooperative Bank
+  swift: TACBTWTP031
+  swift8: TACBTWTP
+  branch_name: Chenggong Branch
+  branch_address: 1f., No.97, Sec1, Beimen Rd.,West C 70044 Tainan
+  branch_code: '031'
+  city: Tainan
+  country: Taiwan
+- name: Taiwan Cooperative Bank
+  swift: TACBTWTP032
+  swift8: TACBTWTP
+  branch_name: Fongshan Branch
+  branch_address: Zhongzheng Road, Fengshan City 83063 Kaohsiung
+  branch_code: '032'
+  city: Kaohsiung
+  country: Taiwan
+- name: Taiwan Cooperative Bank
+  swift: TACBTWTP033
+  swift8: TACBTWTP
+  branch_name: Gangshan Branch
+  branch_address: No.2, Siaocian Rd. 82042 Kaohsiung
+  branch_code: '033'
+  city: Kaohsiung
+  country: Taiwan
+- name: Taiwan Cooperative Bank
+  swift: TACBTWTP034
+  swift8: TACBTWTP
+  branch_name: Kaohsiung Branch
+  branch_address: 99 Ta Yong Road 80312 Kaohsiung
+  branch_code: '034'
+  city: Kaohsiung
+  country: Taiwan
+- name: Taiwan Cooperative Bank
+  swift: TACBTWTP035
+  swift8: TACBTWTP
+  branch_name: Siande Branch
+  branch_address: No. 182, Gongjheng Rd., Cianjhen 80645 Kaohsiung
+  branch_code: '035'
+  city: Kaohsiung
+  country: Taiwan
+- name: Taiwan Development Corporation
+  swift: TADETWT1XXX
+  swift8: TADETWT1
+  branch_name: Head Office
+  branch_address: 14f-1 Taipei
+  branch_code: XXX
+  city: Taipei
+  country: Taiwan
+- name: Taiwan International Mercantile Exchange Corp
+  swift: XIMETWT1XXX
+  swift8: XIMETWT1
+  branch_name: Head Office
+  branch_address: 14th Fl 100 Rooseveit Rd Taipei
+  branch_code: XXX
+  city: Taipei
+  country: Taiwan
+- name: Taiwan International Securities Corp
+  swift: TAIETWT1SHI
+  swift8: TAIETWT1
+  branch_name: Shilin Branch
+  branch_address: No.118-1,Chunghen Road Taipei
+  branch_code: SHI
+  city: Taipei
+  country: Taiwan
+- name: Taiwan International Securities Corp
+  swift: TAIETWT1XXX
+  swift8: TAIETWT1
+  branch_name: Head Office
+  branch_address: Tuntex Tower Taipei
+  branch_code: XXX
+  city: Taipei
+  country: Taiwan
+- name: Taiwan Securities Co., Ltd.
+  swift: TAICTWT1XXX
+  swift8: TAICTWT1
+  branch_name: Head Office
+  branch_address: 4f, 137 Nanjing E. Rd. Taipei
+  branch_code: XXX
+  city: Taipei
+  country: Taiwan
+- name: Taiwan Shin Kong Commercial Bank Co., Ltd
+  swift: SKBKTWT1XXX
+  swift8: SKBKTWT1
+  branch_name: Head Office
+  branch_address: 27, Sec.1, Jhongsiao W. St Sec 66 10018 Taipei
+  branch_code: XXX
+  city: Taipei
+  country: Taiwan
+- name: Taiwan Shin Kong Commercial Bank Co., Ltd.
+  swift: MKTBTWTP028
+  swift8: MKTBTWTP
+  branch_name: Dong Taipei Branch
+  branch_address: No.29, Lane11, Guang Fu North Rd., 10560 Taipei
+  branch_code: '028'
+  city: Taipei
+  country: Taiwan
+- name: Taiwan Shin Kong Commercial Bank Co., Ltd.
+  swift: MKTBTWTP106
+  swift8: MKTBTWTP
+  branch_name: Sha Lu Branch
+  branch_address: No.26, Rihsin St., Shalu Dist., 43350 Taichung
+  branch_code: '106'
+  city: Taichung
+  country: Taiwan
+- name: Taiwan Shin Kong Commercial Bank Co., Ltd.
+  swift: MKTBTWTP110
+  swift8: MKTBTWTP
+  branch_name: Nan Dong Branch
+  branch_address: No.123,Sec.2,Nanjing E. Rd. 10485 Taipei
+  branch_code: '110'
+  city: Taipei
+  country: Taiwan
+- name: Taiwan Shin Kong Commercial Bank Co., Ltd.
+  swift: MKTBTWTP116
+  swift8: MKTBTWTP
+  branch_name: Cheng Nei Branch
+  branch_address: 115, Sec.1, Chongcing S. Rd. 10045 Taipei
+  branch_code: '116'
+  city: Taipei
+  country: Taiwan
+- name: Taiwan Shin Kong Commercial Bank Co., Ltd.
+  swift: MKTBTWTP134
+  swift8: MKTBTWTP
+  branch_name: Song-an Branch
+  branch_address: No. 241, Sec. 5, Nanjing E. Rd 10569 Taipei
+  branch_code: '134'
+  city: Taipei
+  country: Taiwan
+- name: Taiwan Shin Kong Commercial Bank Co., Ltd.
+  swift: MKTBTWTP143
+  swift8: MKTBTWTP
+  branch_name: Chin Cheng Branch
+  branch_address: Chincheng Street 10547 Taipei
+  branch_code: '143'
+  city: Taipei
+  country: Taiwan
+- name: Taiwan Shin Kong Commercial Bank Co., Ltd.
+  swift: MKTBTWTP152
+  swift8: MKTBTWTP
+  branch_name: Nei Hu Branch
+  branch_address: No.17,Lane 360,Sec. 1, Neihu Rd. 11493 Taipei
+  branch_code: '152'
+  city: Taipei
+  country: Taiwan
+- name: Taiwan Shin Kong Commercial Bank Co., Ltd.
+  swift: MKTBTWTP189
+  swift8: MKTBTWTP
+  branch_name: Nan Gang Branch
+  branch_address: No.218, Chongyang Rd., Nangang Dist 11573 Taipei
+  branch_code: '189'
+  city: Taipei
+  country: Taiwan
+- name: Taiwan Shin Kong Commercial Bank Co., Ltd.
+  swift: MKTBTWTP213
+  swift8: MKTBTWTP
+  branch_name: Hsin Chu Branch
+  branch_address: No.84,Jhongshan Rd. 30046 Hsinchu
+  branch_code: '213'
+  city: Hsinchu
+  country: Taiwan
+- name: Taiwan Shin Kong Commercial Bank Co., Ltd.
+  swift: MKTBTWTP222
+  swift8: MKTBTWTP
+  branch_name: Jhongli Branch
+  branch_address: No.201,Jhongshan Rd. 32044 Jhongli
+  branch_code: '222'
+  city: Jhongli
+  country: Taiwan
+- name: Taiwan Shin Kong Commercial Bank Co., Ltd.
+  swift: MKTBTWTP231
+  swift8: MKTBTWTP
+  branch_name: Taoyuan Branch
+  branch_address: No.207,Fusing Rd. 33066 Tao-Yuan
+  branch_code: '231'
+  city: Tao-Yuan
+  country: Taiwan
+- name: Taiwan Shin Kong Commercial Bank Co., Ltd.
+  swift: MKTBTWTP338
+  swift8: MKTBTWTP
+  branch_name: Sin Pu Branch
+  branch_address: No.21,Yunong Rd. 22049 Banciao
+  branch_code: '338'
+  city: Banciao
+  country: Taiwan
+- name: Taiwan Shin Kong Commercial Bank Co., Ltd.
+  swift: MKTBTWTP347
+  swift8: MKTBTWTP
+  branch_name: Taichung Branch
+  branch_address: No.101, Taichung Rd., East Dist., 40146 Taichung
+  branch_code: '347'
+  city: Taichung
+  country: Taiwan
+- name: Taiwan Shin Kong Commercial Bank Co., Ltd.
+  swift: MKTBTWTP356
+  swift8: MKTBTWTP
+  branch_name: Chung Kang Branch
+  branch_address: No.769,Sec.4,Taiwan Blvd., 40755 Taichung
+  branch_code: '356'
+  city: Taichung
+  country: Taiwan
+- name: Taiwan Shin Kong Commercial Bank Co., Ltd.
+  swift: MKTBTWTP383
+  swift8: MKTBTWTP
+  branch_name: Da Dun Branch
+  branch_address: No. 5, Sec. 2, Gongyi Rd. 40861 Taichung
+  branch_code: '383'
+  city: Taichung
+  country: Taiwan
+- name: Taiwan Shin Kong Commercial Bank Co., Ltd.
+  swift: MKTBTWTP392
+  swift8: MKTBTWTP
+  branch_name: Yuanlin Branch
+  branch_address: No.346,Sec.2,Jhongshan Rd. 51049 Yuan-Lin
+  branch_code: '392'
+  city: Yuan-Lin
+  country: Taiwan
+- name: Taiwan Shin Kong Commercial Bank Co., Ltd.
+  swift: MKTBTWTP417
+  swift8: MKTBTWTP
+  branch_name: East Tainan Branch
+  branch_address: No.12, Sec. 1, Jhonghua E. Rd. 70155 Tainan
+  branch_code: '417'
+  city: Tainan
+  country: Taiwan
+- name: Taiwan Shin Kong Commercial Bank Co., Ltd.
+  swift: MKTBTWTP426
+  swift8: MKTBTWTP
+  branch_name: Da Li Branch
+  branch_address: No.269, Defang S. Rd., Dali Dist., 41284 Taichung
+  branch_code: '426'
+  city: Taichung
+  country: Taiwan
+- name: Taiwan Shin Kong Commercial Bank Co., Ltd.
+  swift: MKTBTWTP444
+  swift8: MKTBTWTP
+  branch_name: Changhua Branch
+  branch_address: No.341,Sanmin Rd. 50043 Changhua
+  branch_code: '444'
+  city: Changhua
+  country: Taiwan
+- name: Taiwan Shin Kong Commercial Bank Co., Ltd.
+  swift: MKTBTWTP499
+  swift8: MKTBTWTP
+  branch_name: Business Department
+  branch_address: No. 36, Songren Rd., Xinyi District 11073 Taipei
+  branch_code: '499'
+  city: Taipei
+  country: Taiwan
+- name: Taiwan Stock Exchange Corporation
+  swift: XTAITWT1XXX
+  swift8: XTAITWT1
+  branch_name: Head Office
+  branch_address: No.7, Xinyi Rd 100 Taipei
+  branch_code: XXX
+  city: Taipei
+  country: Taiwan
+- name: Tao Yuan Securities Co. Ltd.
+  swift: TAYETWT1XXX
+  swift8: TAYETWT1
+  branch_name: Head Office
+  branch_address: 26 Chung Yeng Street Tao-Yuan
+  branch_code: XXX
+  city: Tao-Yuan
+  country: Taiwan
+- name: Taya Securities Co Ltd.
+  swift: TAYCTWT1XXX
+  swift8: TAYCTWT1
+  branch_name: Head Office
+  branch_address: 398 Si Men Road, Section 2 Tainan
+  branch_code: XXX
+  city: Tainan
+  country: Taiwan
+- name: Tayuan Securities Co Ltd.
+  swift: TAYUTWT1XXX
+  swift8: TAYUTWT1
+  branch_name: Head Office
+  branch_address: 85 Jen Ai Road, Section 4 Taipei
+  branch_code: XXX
+  city: Taipei
+  country: Taiwan
+- name: Ten Jen Securities Co. Ltd.
+  swift: TEJSTWT1XXX
+  swift8: TEJSTWT1
+  branch_name: Head Office
+  branch_address: 309 Nanking East Road, Section 3 Taipei
+  branch_code: XXX
+  city: Taipei
+  country: Taiwan
+- name: Ten Lie Securities Corp.
+  swift: TELSTWT1XXX
+  swift8: TELSTWT1
+  branch_name: Head Office
+  branch_address: 97 Mintsu 2 Road Kaohsiung
+  branch_code: XXX
+  city: Kaohsiung
+  country: Taiwan
+- name: Ten Yo Securities Co. Ltd.
+  swift: TENSTWT1XXX
+  swift8: TENSTWT1
+  branch_name: Head Office
+  branch_address: 107 Chung Hsiao East Road, Section Taipei
+  branch_code: XXX
+  city: Taipei
+  country: Taiwan
+- name: The Bank Of East Asia Limited, Taipei Branch
+  swift: BEASTWTPKAO
+  swift8: BEASTWTP
+  branch_name: Kaohsiung Branch
+  branch_address: 175 Chung Cheng, 2nd Road 802 Kaohsiung
+  branch_code: KAO
+  city: Kaohsiung
+  country: Taiwan
+- name: The Bank Of East Asia Limited, Taipei Branch
+  swift: BEASTWTPXXX
+  swift8: BEASTWTP
+  branch_name: Head Office
+  branch_address: 88 Tun Hua N. Road 105 Taipei
+  branch_code: XXX
+  city: Taipei
+  country: Taiwan
+- name: The Bank Of New York Mellon, Taipei Branch
+  swift: IRVTTWTXXXX
+  swift8: IRVTTWTX
+  branch_name: Head Office
+  branch_address: 245 Section 1 Tun Hua South Road 10648 Taipei
+  branch_code: XXX
+  city: Taipei
+  country: Taiwan
+- name: The Hongkong And Shanghai Banking Corporation Ltd.
+  swift: HSBCTW2POBU
+  swift8: HSBCTW2P
+  branch_name: Obu Branch
+  branch_address: Taipei
+  branch_code: OBU
+  city: Taipei
+  country: Taiwan
+- name: The Hongkong And Shanghai Banking Corporation Ltd.
+  swift: HSBCTW2PXXX
+  swift8: HSBCTW2P
+  branch_name: Head Office
+  branch_address: International Trade Building 110 Taipei
+  branch_code: XXX
+  city: Taipei
+  country: Taiwan
+- name: The Sun Securities Co Ltd
+  swift: SUNSTWT1XXX
+  swift8: SUNSTWT1
+  branch_name: Head Office
+  branch_address: 52 Section 1 Nanking East Road Taipei
+  branch_code: XXX
+  city: Taipei
+  country: Taiwan
+- name: The Toronto-dominion Bank
+  swift: TDOMTWT1XXX
+  swift8: TDOMTWT1
+  branch_name: Head Office
+  branch_address: 363 Fu-Hsing North Rd. Taipei
+  branch_code: XXX
+  city: Taipei
+  country: Taiwan
+- name: Ting Fa Securities Co. Ltd.
+  swift: TINETWT1XXX
+  swift8: TINETWT1
+  branch_name: Head Office
+  branch_address: 2-3 Wuchuan Road Taichung
+  branch_code: XXX
+  city: Taichung
+  country: Taiwan
+- name: Ting Kong Integrated Sec Co Ltd
+  swift: TKIETWT1XXX
+  swift8: TKIETWT1
+  branch_name: Head Office
+  branch_address: Taipei
+  branch_code: XXX
+  city: Taipei
+  country: Taiwan
+- name: Ting Kong International Securities Co Ltd
+  swift: TKISTWT1XXX
+  swift8: TKISTWT1
+  branch_name: Head Office
+  branch_address: 49 Kuanchien Road Taipei
+  branch_code: XXX
+  city: Taipei
+  country: Taiwan
+- name: Ting Shing Sec. Co. Ltd.
+  swift: TINHTWT1XXX
+  swift8: TINHTWT1
+  branch_name: Head Office
+  branch_address: 115 Yenping Rsoad, Chao Chou Chen Pingtung
+  branch_code: XXX
+  city: Pingtung
+  country: Taiwan
+- name: Ting Tai Sec. Co. Ltd.
+  swift: TINTTWT1XXX
+  swift8: TINTTWT1
+  branch_name: Head Office
+  branch_address: 117-2 Chungcheng Road Pingtung
+  branch_code: XXX
+  city: Pingtung
+  country: Taiwan
+- name: Tong Shing Securities Co., Ltd.
+  swift: TONSTWT1XXX
+  swift8: TONSTWT1
+  branch_name: Head Office
+  branch_address: 2f, 301, Chi Hsien 1st Rd Kaohsiung
+  branch_code: XXX
+  city: Kaohsiung
+  country: Taiwan
+- name: Tong Tay Sec. Co. Ltd.
+  swift: TONTTWT1XXX
+  swift8: TONTTWT1
+  branch_name: Head Office
+  branch_address: 549 Chienkuo Road, Section 3, Fung Kaohsiung
+  branch_code: XXX
+  city: Kaohsiung
+  country: Taiwan
+- name: Top Securities
+  swift: TOPPTWT1XXX
+  swift8: TOPPTWT1
+  branch_name: Head Office
+  branch_address: 511 Chueh Ming Road Kaohsiung
+  branch_code: XXX
+  city: Kaohsiung
+  country: Taiwan
+- name: Top Securities Co. Ltd.
+  swift: TOPSTWT1XXX
+  swift8: TOPSTWT1
+  branch_name: Head Office
+  branch_address: 308 Chung Shan 1 Road Kaohsiung
+  branch_code: XXX
+  city: Kaohsiung
+  country: Taiwan
+- name: Torng Dah Sec. Co. Ltd.
+  swift: TORDTWT1XXX
+  swift8: TORDTWT1
+  branch_name: Head Office
+  branch_address: 288 Kang Shan Road Kang Shan Chen Kaohsiung
+  branch_code: XXX
+  city: Kaohsiung
+  country: Taiwan
+- name: Tung San Sec. Co Ltd.
+  swift: TUNNTWT1XXX
+  swift8: TUNNTWT1
+  branch_name: Head Office
+  branch_address: 157 Chengchi Road Taitung
+  branch_code: XXX
+  city: Taitung
+  country: Taiwan
+- name: Typhone Securities Co Ltd.
+  swift: TYPHTWT1XXX
+  swift8: TYPHTWT1
+  branch_name: Head Office
+  branch_address: 15 Chungking South Road, Section 1 Taipei
+  branch_code: XXX
+  city: Taipei
+  country: Taiwan
+- name: Tzoong Fwu Sec. Co Ltd.
+  swift: TZOFTWT1XXX
+  swift8: TZOFTWT1
+  branch_name: Head Office
+  branch_address: 179 Tai Ping Road, Section 2 Tsao Nantou
+  branch_code: XXX
+  city: Nantou
+  country: Taiwan
+- name: Ubs Ag Taipei Branch
+  swift: UBSWTWTPXXX
+  swift8: UBSWTWTP
+  branch_name: Taipei Branch
+  branch_address: 7 Sung Jen Road 110 Taipei
+  branch_code: XXX
+  city: Taipei
+  country: Taiwan
+- name: Ubs Global Asset Management (taiwan) Ltd
+  swift: UBSATWTPXXX
+  swift8: UBSATWTP
+  branch_name: Head Office
+  branch_address: Cathay Financial Building 110 Taipei
+  branch_code: XXX
+  city: Taipei
+  country: Taiwan
+- name: Ubs Securities Pte. Ltd. Taipei Branch
+  swift: UBSWTW21XXX
+  swift8: UBSWTW21
+  branch_name: Head Office
+  branch_address: 7 Sung Jen Road 110 Taipei
+  branch_code: XXX
+  city: Taipei
+  country: Taiwan
+- name: Union Bank Of Taiwan
+  swift: UBOTTWTP001
+  swift8: UBOTTWTP
+  branch_name: Business Department
+  branch_address: 105, Chengteh Road, Sec. 1 Taipei
+  branch_code: '001'
+  city: Taipei
+  country: Taiwan
+- name: Union Bank Of Taiwan
+  swift: UBOTTWTP003
+  swift8: UBOTTWTP
+  branch_name: Taoyuan Branch
+  branch_address: 332, Hsienfu Road, Taoyuan Hsien Tao-Yuan
+  branch_code: '003'
+  city: Tao-Yuan
+  country: Taiwan
+- name: Union Bank Of Taiwan
+  swift: UBOTTWTP005
+  swift8: UBOTTWTP
+  branch_name: Nanking East Road Branch
+  branch_address: 137 Nanking East Road Section 2 Taipei
+  branch_code: '005'
+  city: Taipei
+  country: Taiwan
+- name: Union Bank Of Taiwan
+  swift: UBOTTWTP009
+  swift8: UBOTTWTP
+  branch_name: East Taipei Branch
+  branch_address: 217 Naking East Road, Sec. 5 Taipei
+  branch_code: '009'
+  city: Taipei
+  country: Taiwan
+- name: Union Bank Of Taiwan
+  swift: UBOTTWTP010
+  swift8: UBOTTWTP
+  branch_name: Kaohsiung Branch
+  branch_address: 204 Kwang Hwa 1st Road Kaohsiung
+  branch_code: '010'
+  city: Kaohsiung
+  country: Taiwan
+- name: Union Bank Of Taiwan
+  swift: UBOTTWTP062
+  swift8: UBOTTWTP
+  branch_name: Minchuan Branch
+  branch_address: Union Bank of Taiwan 403 Taichung
+  branch_code: '062'
+  city: Taichung
+  country: Taiwan
+- name: Union Bank Of Taiwan
+  swift: UBOTTWTPXXX
+  swift8: UBOTTWTP
+  branch_name: Head Office
+  branch_address: 109 Min-Sheng East Road Section 3 Taipei
+  branch_code: XXX
+  city: Taipei
+  country: Taiwan
+- name: Unite And Prosper Securities Co Ltd
+  swift: UNTPTWT1XXX
+  swift8: UNTPTWT1
+  branch_name: Head Office
+  branch_address: 7 Tacheng Street Taipei
+  branch_code: XXX
+  city: Taipei
+  country: Taiwan
+- name: United Securities Co., Ltd.
+  swift: UNIITWT1XXX
+  swift8: UNIITWT1
+  branch_name: Head Office
+  branch_address: 6f, 86 Chungking S. Rd. Taipei
+  branch_code: XXX
+  city: Taipei
+  country: Taiwan
+- name: Universal Securities Co. Ltd.
+  swift: UNVETWT1XXX
+  swift8: UNVETWT1
+  branch_name: Head Office
+  branch_address: 2 Kwan Chan Road Taipei
+  branch_code: XXX
+  city: Taipei
+  country: Taiwan
+- name: W.i. Carr (taiwan) Limited
+  swift: WICATWT1XXX
+  swift8: WICATWT1
+  branch_name: Head Office
+  branch_address: 552 Chung Hsiao East Road, Taipei
+  branch_code: XXX
+  city: Taipei
+  country: Taiwan
+- name: Wall Street Sec. Co Ltd.
+  swift: WALTTWT1XXX
+  swift8: WALTTWT1
+  branch_name: Head Office
+  branch_address: 83 Taichung Kung Road Section 1 Taichung
+  branch_code: XXX
+  city: Taichung
+  country: Taiwan
+- name: Wan Sheng Securities Co. Ltd.
+  swift: WSSETWT1XXX
+  swift8: WSSETWT1
+  branch_name: Head Office
+  branch_address: No.129 Sung Chiang Road Taipei
+  branch_code: XXX
+  city: Taipei
+  country: Taiwan
+- name: Wan Tai Securities Co Ltd
+  swift: WATSTWT1XXX
+  swift8: WATSTWT1
+  branch_name: Head Office
+  branch_address: 193 Hsin-Jung Road Chiayi
+  branch_code: XXX
+  city: Chiayi
+  country: Taiwan
+- name: Wanshing Securities Co Ltd
+  swift: WANSTWT1XXX
+  swift8: WANSTWT1
+  branch_name: Head Office
+  branch_address: 129 Sungchiang Road Taipei
+  branch_code: XXX
+  city: Taipei
+  country: Taiwan
+- name: Waterland Securities Co. Ltd
+  swift: WSERTWT1XXX
+  swift8: WSERTWT1
+  branch_name: Head Office
+  branch_address: National Industrial Building 105 Taipei
+  branch_code: XXX
+  city: Taipei
+  country: Taiwan
+- name: Well-phone Securities Co Ltd
+  swift: WEPWTWT1XXX
+  swift8: WEPWTWT1
+  branch_name: Head Office
+  branch_address: 1 Nanking East Road Section 2 Taipei
+  branch_code: XXX
+  city: Taipei
+  country: Taiwan
+- name: Wells Fargo Bank N.a., Taipei Branch
+  swift: WFBITWT1XXX
+  swift8: WFBITWT1
+  branch_name: Head Office
+  branch_address: Taipei 101 Tower 10448 Taipei
+  branch_code: XXX
+  city: Taipei
+  country: Taiwan
+- name: Wells Fargo Bank, N.a., Taipei Branch
+  swift: PNBPTWTPXXX
+  swift8: PNBPTWTP
+  branch_name: Head Office
+  branch_address: 44 Section 2 Chung Shan North Road Taipei
+  branch_code: XXX
+  city: Taipei
+  country: Taiwan
+- name: Winner Securities Co., Ltd.
+  swift: WINRTWT1XXX
+  swift8: WINRTWT1
+  branch_name: Head Office
+  branch_address: 2f, 12 Fuhsing Rd Chungli
+  branch_code: XXX
+  city: Chung Li
+  country: Taiwan
+- name: Worldsec Capital Management Inc.
+  swift: WCCMTWT1XXX
+  swift8: WCCMTWT1
+  branch_name: Head Office
+  branch_address: No.29 An-Ho Road, Section 1 Taipei
+  branch_code: XXX
+  city: Taipei
+  country: Taiwan
+- name: Worldwide Securities Co Ltd
+  swift: WORSTWT1XXX
+  swift8: WORSTWT1
+  branch_name: Head Office
+  branch_address: 270 Chunghsiao East Road Section 4 Taipei
+  branch_code: XXX
+  city: Taipei
+  country: Taiwan
+- name: Wu Gou Securities Co Ltd
+  swift: GOUETWT1XXX
+  swift8: GOUETWT1
+  branch_name: Head Office
+  branch_address: 5 Lane 93 San-Ming Road Hsing-Pei Changhua
+  branch_code: XXX
+  city: Changhua
+  country: Taiwan
+- name: Yang-fa Securities Co Ltd
+  swift: YANSTWT1XXX
+  swift8: YANSTWT1
+  branch_name: Head Office
+  branch_address: 295 Chiang-Kung Road Ta-Chia Chen Taichung
+  branch_code: XXX
+  city: Taichung
+  country: Taiwan
+- name: Yie Chang Securities Co Ltd
+  swift: CHAUTWT1XXX
+  swift8: CHAUTWT1
+  branch_name: Head Office
+  branch_address: 156 Kang-Lo Street Tainan
+  branch_code: XXX
+  city: Tainan
+  country: Taiwan
+- name: Ying Yi Securities Co., Ltd.
+  swift: YINSTWT1XXX
+  swift8: YINSTWT1
+  branch_name: Head Office
+  branch_address: 10 Chi Hsien 2 Rd. Kaohsiung
+  branch_code: XXX
+  city: Kaohsiung
+  country: Taiwan
+- name: Young Ming Securities Co Ltd
+  swift: YOMSTWT1XXX
+  swift8: YOMSTWT1
+  branch_name: Head Office
+  branch_address: 88 Shih-Pai Road Section 1 Taipei
+  branch_code: XXX
+  city: Taipei
+  country: Taiwan
+- name: Yu Li Securities Co Ltd
+  swift: YULITWT1XXX
+  swift8: YULITWT1
+  branch_name: Head Office
+  branch_address: 450 Mintsu Road Changhua
+  branch_code: XXX
+  city: Changhua
+  country: Taiwan
+- name: Yuan Tung Securities Co Ltd.
+  swift: YUTSTWT1XXX
+  swift8: YUTSTWT1
+  branch_name: Head Office
+  branch_address: 398 Chi-Chen 2 Road Kaohsiung
+  branch_code: XXX
+  city: Kaohsiung
+  country: Taiwan
+- name: Yuan-lin Securities Co Ltd
+  swift: YULSTWT1XXX
+  swift8: YULSTWT1
+  branch_name: Head Office
+  branch_address: 733 Chungshan Road Section 1 Changhua
+  branch_code: XXX
+  city: Changhua
+  country: Taiwan
+- name: Yuanta Commercial Bank Co., Ltd.
+  swift: APBKTWTH035
+  swift8: APBKTWTH
+  branch_name: Taipei
+  branch_address: Taipei
+  branch_code: '035'
+  city: Taipei
+  country: Taiwan
+- name: Yuanta Commercial Bank Co., Ltd.
+  swift: APBKTWTH127
+  swift8: APBKTWTH
+  branch_name: Kaohsiung
+  branch_address: Kaohsiung
+  branch_code: '127'
+  city: Kaohsiung
+  country: Taiwan
+- name: Yuanta Commercial Bank Co., Ltd.
+  swift: APBKTWTHXXX
+  swift8: APBKTWTH
+  branch_name: Head Office
+  branch_address: No.210, Sec. 3, Chengde Rd 103 Taipei
+  branch_code: XXX
+  city: Taipei
+  country: Taiwan
+- name: Yuanta Securities Company Limited
+  swift: YCPSTWT1XXX
+  swift8: YCPSTWT1
+  branch_name: Head Office
+  branch_address: No. 225, Nanjing E. Rd. Sec.3 104 Taipei
+  branch_code: XXX
+  city: Taipei
+  country: Taiwan
+- name: Yuanta Securities Investment Trust Co., Ltd.
+  swift: YSITTWT1XXX
+  swift8: YSITTWT1
+  branch_name: Head Office
+  branch_address: No.66, Sec. 1, Dun Hua S. Rd., 105 Taipei
+  branch_code: XXX
+  city: Taipei
+  country: Taiwan
+- name: Yung Chong Securities Co Ltd
+  swift: YUCSTWT1XXX
+  swift8: YUCSTWT1
+  branch_name: Head Office
+  branch_address: 225 Nanking East Road Section 3 Taipei
+  branch_code: XXX
+  city: Taipei
+  country: Taiwan
+- name: Yung Chuan Securities Co., Ltd.
+  swift: YUCETWT1XXX
+  swift8: YUCETWT1
+  branch_name: Head Office
+  branch_address: 82 Hsienfu Road Tao-Yuan
+  branch_code: XXX
+  city: Tao-Yuan
+  country: Taiwan
+- name: Yung Li Securities Co., Ltd.
+  swift: YUNSTWT1XXX
+  swift8: YUNSTWT1
+  branch_name: Head Office
+  branch_address: 3-5f, 77 Wuchang St. Taipei
+  branch_code: XXX
+  city: Taipei
+  country: Taiwan
+- name: Yung Sheng Securities Co Ltd
+  swift: YUSETWT1XXX
+  swift8: YUSETWT1
+  branch_name: Head Office
+  branch_address: 16 Sung-Teh Road Taipei
+  branch_code: XXX
+  city: Taipei
+  country: Taiwan
+- name: Yung Shin Securities Co., Ltd.
+  swift: YUSCTWT1XXX
+  swift8: YUSCTWT1
+  branch_name: Head Office
+  branch_address: 2f, 3f, 20 Nan Hai Road Taipei
+  branch_code: XXX
+  city: Taipei
+  country: Taiwan

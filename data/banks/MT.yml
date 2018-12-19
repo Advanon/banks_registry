@@ -1,0 +1,578 @@
+---
+MT:
+- name: Akbank T.A.S. (Malta Branch)
+  swift: AKBKMTMTXXX
+  swift8: AKBKMTMT
+  branch_name: Head Office
+  branch_address: Portomaso Business Tower St. Julians
+  branch_code: XXX
+  city: St. Julians
+  country: Malta
+- name: Aps Bank Ltd.
+  swift: APSBMTMTXXX
+  swift8: APSBMTMT
+  branch_name: Head Office
+  branch_address: Aps Centre Bkr 4012 Birkirkara
+  branch_code: XXX
+  city: Birkirkara
+  country: Malta
+- name: Banif Bank (Malta) Plc
+  swift: BNIFMTMTXXX
+  swift8: BNIFMTMT
+  branch_name: Head Office
+  branch_address: 203 Rue Dargens 1368 Gzira
+  branch_code: XXX
+  city: Gzira
+  country: Malta
+- name: Bank Of Valletta P.L.C.
+  swift: VALLMTMTXXX
+  swift8: VALLMTMT
+  branch_name: Head Office
+  branch_address: Wignacourt Centre St. Venera
+  branch_code: XXX
+  city: St. Venera
+  country: Malta
+- name: Bawag Malta Bank Ltd
+  swift: BAWAMTM3XXX
+  swift8: BAWAMTM3
+  branch_name: Head Office
+  branch_address: 36, the Strand Sliema
+  branch_code: XXX
+  city: Sliema
+  country: Malta
+- name: Central Bank Of Malta
+  swift: MALTMTMTXXX
+  swift8: MALTMTMT
+  branch_name: Head Office
+  branch_address: Castille Place Cmr 01 Valletta
+  branch_code: XXX
+  city: Valletta
+  country: Malta
+- name: Credit Europe Bank N.V. Malta Branch
+  swift: FBHLMTMTXXX
+  swift8: FBHLMTMT
+  branch_name: Head Office
+  branch_address: Tower Road 143/2 Slm1604 Sliema
+  branch_code: XXX
+  city: Sliema
+  country: Malta
+- name: Ess-Databridge Exchange Limited
+  swift: ESSDMTMTXXX
+  swift8: ESSDMTMT
+  branch_name: Head Office
+  branch_address: St. Christopher Street 12 1468 Valletta
+  branch_code: XXX
+  city: Valletta
+  country: Malta
+- name: Fcm Bank Limited
+  swift: FCMFMTMTXXX
+  swift8: FCMFMTMT
+  branch_name: Head Office
+  branch_address: Old Bakery Street 176 Valletta
+  branch_code: XXX
+  city: Valletta
+  country: Malta
+- name: Fcm Bank Limited
+  swift: FCMFMTM1XXX
+  swift8: FCMFMTM1
+  branch_name: Head Office
+  branch_address: Old Bakery Street 176 Valletta
+  branch_code: XXX
+  city: Valletta
+  country: Malta
+- name: Fimbank Plc
+  swift: FIMBMTM3XXX
+  swift8: FIMBMTM3
+  branch_name: Head Office
+  branch_address: Plaza Commercial Centre Slm 1640 Sliema
+  branch_code: XXX
+  city: Sliema
+  country: Malta
+- name: Hsbc Bank Malta P.L.C.
+  swift: MMEBMTMTXXX
+  swift8: MMEBMTMT
+  branch_name: Head Office
+  branch_address: 233 Republic Street Vlt 05 Valletta
+  branch_code: XXX
+  city: Valletta
+  country: Malta
+- name: Hsbc Bank Malta P.L.C.
+  swift: MMEBMTM10M2
+  swift8: MMEBMTM1
+  branch_name: Qormi
+  branch_address: Qormi
+  branch_code: 0M2
+  city: Qormi
+  country: Malta
+- name: Iig Bank (Malta) Ltd
+  swift: IIGBMTMTXXX
+  swift8: IIGBMTMT
+  branch_name: Head Office
+  branch_address: Portomaso Business Tower Stj 4011 St. Julians
+  branch_code: XXX
+  city: St. Julians
+  country: Malta
+- name: Izola Bank Limited
+  swift: IZOLMTMTXXX
+  swift8: IZOLMTMT
+  branch_name: Head Office
+  branch_address: 53-58 East Street Vlt1251 Valletta
+  branch_code: XXX
+  city: Valletta
+  country: Malta
+- name: Lombard Bank Malta Plc
+  swift: LBMAMTMTXXX
+  swift8: LBMAMTMT
+  branch_name: Head Office
+  branch_address: Lombard House Vlt 05 Valletta
+  branch_code: XXX
+  city: Valletta
+  country: Malta
+- name: Malta Stock Exchange
+  swift: XMALMTMTXXX
+  swift8: XMALMTMT
+  branch_name: Head Office
+  branch_address: Garrison Chapel Cmr 01 Valletta
+  branch_code: XXX
+  city: Valletta
+  country: Malta
+- name: Mediterranean Bank Plc
+  swift: MBWMMTMTXXX
+  swift8: MBWMMTMT
+  branch_name: Head Office
+  branch_address: 10 St. Barbara Bastion Vlt 06 Valletta
+  branch_code: XXX
+  city: Valletta
+  country: Malta
+- name: Nbg Bank Malta Limited
+  swift: FNNBMTMTXXX
+  swift8: FNNBMTMT
+  branch_name: Head Office
+  branch_address: Strand Towers Slm1022 Sliema
+  branch_code: XXX
+  city: Sliema
+  country: Malta
+- name: Nemea Bank
+  swift: NMEAMTMTXXX
+  swift8: NMEAMTMT
+  branch_name: Head Office
+  branch_address: Portomaso Tower Stj 4011 St. Julians
+  branch_code: XXX
+  city: St. Julians
+  country: Malta
+- name: Travelex Financial Services Malta Ltd
+  swift: TGBPMTMTXXX
+  swift8: TGBPMTMT
+  branch_name: Head Office
+  branch_address: Il Pjazzetta Sliema
+  branch_code: XXX
+  city: Sliema
+  country: Malta
+- name: Voicecash Bank Limited
+  swift: VOCBMTMTXXX
+  swift8: VOCBMTMT
+  branch_name: Head Office
+  branch_address: 160 Triq Ix-Xatt Gzr 1020 Taxbiex
+  branch_code: XXX
+  city: Taxbiex
+  country: Malta
+- name: Volksbank Malta Limited
+  swift: VBMAMTM3XXX
+  swift8: VBMAMTM3
+  branch_name: Head Office
+  branch_address: 53 Dinglistreet Slm 09 Sliema
+  branch_code: XXX
+  city: Sliema
+  country: Malta
+- name: W And J Coppini And Co
+  swift: COPXMTMTXXX
+  swift8: COPXMTMT
+  branch_name: Head Office
+  branch_address: 144, Tower Road Slm1604 Sliema
+  branch_code: XXX
+  city: Sliema
+  country: Malta
+- name: Amstel Capital (malta) Limited
+  swift: AMCTMTM1XXX
+  swift8: AMCTMTM1
+  branch_name: Head Office
+  branch_address: The Plaza Commercial Centre Slm 15 Sliema
+  branch_code: XXX
+  city: Sliema
+  country: Malta
+- name: Atlas Investment Services Limited
+  swift: ATISMTM1XXX
+  swift8: ATISMTM1
+  branch_name: Head Office
+  branch_address: Abate Rigord Street Msd 12 Taxbiex
+  branch_code: XXX
+  city: Ta'Xbiex
+  country: Malta
+- name: Barclays International Investments (malta) Limited
+  swift: BARCMTM1XXX
+  swift8: BARCMTM1
+  branch_name: Head Office
+  branch_address: Portomaso Tower St. Julians
+  branch_code: XXX
+  city: St. Julian'S
+  country: Malta
+- name: Calamatta Cuschieri And Co. Limited
+  swift: CCUHMTM1XXX
+  swift8: CCUHMTM1
+  branch_name: Head Office
+  branch_address: Valletta Buildings Valletta
+  branch_code: XXX
+  city: Valletta
+  country: Malta
+- name: Central Securities Depository, The
+  swift: CESDMTM1XXX
+  swift8: CESDMTM1
+  branch_name: Head Office
+  branch_address: 27 Pietro Floriani Street 14 Valletta
+  branch_code: XXX
+  city: Valletta
+  country: Malta
+- name: Charts Investment Management Service Limited
+  swift: CIMVMTM1XXX
+  swift8: CIMVMTM1
+  branch_name: Head Office
+  branch_address: Europa Centre Vlt15 Floriana
+  branch_code: XXX
+  city: Floriana
+  country: Malta
+- name: Citco Custody Limited
+  swift: CITCMTMTXXX
+  swift8: CITCMTMT
+  branch_name: No branch name
+  branch_address: No branch address
+  branch_code: XXX
+  city: Valletta
+  country: Malta
+- name: Citco Custody Limited
+  swift: CITCMTM1XXX
+  swift8: CITCMTM1
+  branch_name: Head Office
+  branch_address: St. Barbara Bastion 33 Vlt 1961 Valletta
+  branch_code: XXX
+  city: Valletta
+  country: Malta
+- name: Commbank Europe Ltd
+  swift: CTBEMTM1XXX
+  swift8: CTBEMTM1
+  branch_name: Head Office
+  branch_address: Strand Towers Slm07 Sliema
+  branch_code: XXX
+  city: Sliema
+  country: Malta
+- name: Crystal Finance Investments Ltd.
+  swift: CRFVMTM1XXX
+  swift8: CRFVMTM1
+  branch_name: Head Office
+  branch_address: Freedom Square 6 Vlt 11 Valletta
+  branch_code: XXX
+  city: Valletta
+  country: Malta
+- name: Cultor Asset Management International Limited
+  swift: CSMIMTM1XXX
+  swift8: CSMIMTM1
+  branch_name: Head Office
+  branch_address: Block C 12 Marsascala
+  branch_code: XXX
+  city: Marsascala
+  country: Malta
+- name: Curmi And Partners Limited
+  swift: CURPMTM1XXX
+  swift8: CURPMTM1
+  branch_name: Head Office
+  branch_address: Finance House Msd 11 Taxbiex
+  branch_code: XXX
+  city: Ta'Xbiex
+  country: Malta
+- name: Eft Global Limited
+  swift: EFTGMTM2XXX
+  swift8: EFTGMTM2
+  branch_name: No branch name
+  branch_address: No branch address
+  branch_code: XXX
+  city: Valletta
+  country: Malta
+- name: Eft Global Limited
+  swift: EFTGMTM1XXX
+  swift8: EFTGMTM1
+  branch_name: Head Office
+  branch_address: Palazzo Pietro Stiges Vlt 1436 Valletta
+  branch_code: XXX
+  city: Valletta
+  country: Malta
+- name: Epic Financial Services Limited
+  swift: EPFSMTM1XXX
+  swift8: EPFSMTM1
+  branch_name: Head Office
+  branch_address: Burmarrad Road Spb 08 Burmarrad
+  branch_code: XXX
+  city: Burmarrad
+  country: Malta
+- name: Exante Ltd.
+  swift: EXAEMTM1XXX
+  swift8: EXAEMTM1
+  branch_name: Head Office
+  branch_address: Portomaso Business Tower Stj4011 St. Julians
+  branch_code: XXX
+  city: St. Julian'S
+  country: Malta
+- name: Fexco Financial Services (malta) Limited
+  swift: FFSMMTM1XXX
+  swift8: FFSMMTM1
+  branch_name: Head Office
+  branch_address: Alpine House Sgn 08 San Gwann
+  branch_code: XXX
+  city: San Gwann
+  country: Malta
+- name: Finacom Investment House Limited
+  swift: FIIHMTM1XXX
+  swift8: FIIHMTM1
+  branch_name: Head Office
+  branch_address: The Park Lane Building Hmr 08 Gmangia
+  branch_code: XXX
+  city: G'Mangia
+  country: Malta
+- name: Financial Planning Services Limited
+  swift: FPLSMTM1XXX
+  swift8: FPLSMTM1
+  branch_name: Head Office
+  branch_address: Marina Court Taxbiex
+  branch_code: XXX
+  city: Ta'Xbiex
+  country: Malta
+- name: Financial Plus Investment Services Limited
+  swift: FPISMTM1XXX
+  swift8: FPISMTM1
+  branch_name: Head Office
+  branch_address: Airways House Slm 15 Sliema
+  branch_code: XXX
+  city: Sliema
+  country: Malta
+- name: Finco Treasury Management Limited
+  swift: FTRMMTM1XXX
+  swift8: FTRMMTM1
+  branch_name: Head Office
+  branch_address: The Mall Complex Floriana
+  branch_code: XXX
+  city: Floriana
+  country: Malta
+- name: Globalcapital Financial Management Limited
+  swift: GLFMMTM1XXX
+  swift8: GLFMMTM1
+  branch_name: Head Office
+  branch_address: Operations Centre Bzn 08 Balzan
+  branch_code: XXX
+  city: Balzan
+  country: Malta
+- name: Globalcapital Fund Advisors Limited
+  swift: GLFAMTM1XXX
+  swift8: GLFAMTM1
+  branch_name: Head Office
+  branch_address: 120, the Strand Gzr 03 Gzira
+  branch_code: XXX
+  city: Gzira
+  country: Malta
+- name: Growth Investments Limited
+  swift: GROIMTM1XXX
+  swift8: GROIMTM1
+  branch_name: Head Office
+  branch_address: Middle Sea House Vlt 16 Floriana
+  branch_code: XXX
+  city: Floriana
+  country: Malta
+- name: Hogg Capital Investments Limited
+  swift: HOCIMTM1XXX
+  swift8: HOCIMTM1
+  branch_name: Head Office
+  branch_address: Regent House Slm 15 Sliema
+  branch_code: XXX
+  city: Sliema
+  country: Malta
+- name: Hogg Capital Investments Limited
+  swift: HOCVMTM1XXX
+  swift8: HOCVMTM1
+  branch_name: Head Office
+  branch_address: 33 Regent House Slm 1641 Sliema
+  branch_code: XXX
+  city: Sliema
+  country: Malta
+- name: Hsbc Fund Management (malta) Limited
+  swift: HSFMMTM1XXX
+  swift8: HSFMMTM1
+  branch_name: Head Office
+  branch_address: Hexagon House Blata Il-Bajda
+  branch_code: XXX
+  city: Blata Il-Bajda
+  country: Malta
+- name: Hsbc Investment Services (malta) Limited
+  swift: HINSMTM1XXX
+  swift8: HINSMTM1
+  branch_name: Head Office
+  branch_address: Hexagon House Hmr 12 Blata Il-Bajda
+  branch_code: XXX
+  city: Blata Il-Bajda
+  country: Malta
+- name: Hsbc Stockbrokers (malta) Limited
+  swift: HSSBMTM1XXX
+  swift8: HSSBMTM1
+  branch_name: Head Office
+  branch_address: 233, Republic Street Valletta
+  branch_code: XXX
+  city: Valletta
+  country: Malta
+- name: Island Financial Services Limited
+  swift: ISFSMTM1XXX
+  swift8: ISFSMTM1
+  branch_name: Head Office
+  branch_address: Insurance House Bkr 02 Birkirkara
+  branch_code: XXX
+  city: Birkirkara
+  country: Malta
+- name: Jesmond Mizzi Financial Services Limited
+  swift: JMFSMTM1XXX
+  swift8: JMFSMTM1
+  branch_name: Head Office
+  branch_address: 67, South Street Valletta
+  branch_code: XXX
+  city: Valletta
+  country: Malta
+- name: Lombard Asset Managers Limited
+  swift: LOAGMTM1XXX
+  swift8: LOAGMTM1
+  branch_name: Head Office
+  branch_address: Cobalt Buildings Mriehel
+  branch_code: XXX
+  city: Mriehel
+  country: Malta
+- name: Michael Grech Financial Investment Services Limited
+  swift: MGFIMTM1XXX
+  swift8: MGFIMTM1
+  branch_name: Head Office
+  branch_address: No. 1 Mican Court Vct 111 Victoria
+  branch_code: XXX
+  city: Victoria
+  country: Malta
+- name: Pdk Financial Services Limited
+  swift: PDKFMTM1XXX
+  swift8: PDKFMTM1
+  branch_name: Head Office
+  branch_address: St. Georges Road Stj 3203 St. Julians
+  branch_code: XXX
+  city: Stj St. Julian'S
+  country: Malta
+- name: Rizzo Farrugia And Co.(stockbrokers) Limited
+  swift: RIFSMTM1XXX
+  swift8: RIFSMTM1
+  branch_name: Head Office
+  branch_address: Airways House Slm 15 Sliema
+  branch_code: XXX
+  city: Sliema
+  country: Malta
+- name: Samrob Ltd
+  swift: SAOBMTM1XXX
+  swift8: SAOBMTM1
+  branch_name: Head Office
+  branch_address: Europa Centre, Frn1400 Floriana
+  branch_code: XXX
+  city: Floriana
+  country: Malta
+- name: Sparkasse Bank Malta Plc
+  swift: SBMTMTM1XXX
+  swift8: SBMTMTM1
+  branch_name: Head Office
+  branch_address: 101 Townsquare Slm 3112 Sliema
+  branch_code: XXX
+  city: Sliema
+  country: Malta
+- name: Syspay Limited
+  swift: SYSPMTM1XXX
+  swift8: SYSPMTM1
+  branch_name: Head Office
+  branch_address: 54 Sir Luigi Camilleri Street 1840 Sliema
+  branch_code: XXX
+  city: Sliema
+  country: Malta
+- name: Tell Capital Limited
+  swift: TECAMTM1XXX
+  swift8: TECAMTM1
+  branch_name: Head Office
+  branch_address: Caledonia Tower Sliema
+  branch_code: XXX
+  city: Sliema
+  country: Malta
+- name: Tell Investments Cp
+  swift: TELTMTM1XXX
+  swift8: TELTMTM1
+  branch_name: Head Office
+  branch_address: Caledonia Tower Sliema
+  branch_code: XXX
+  city: Sliema
+  country: Malta
+- name: Tradexec (tex) Limited
+  swift: TRTEMTM1XXX
+  swift8: TRTEMTM1
+  branch_name: Head Office
+  branch_address: Valletta Buildings 1103 Valletta
+  branch_code: XXX
+  city: Valletta
+  country: Malta
+- name: Union Capital Management Ltd
+  swift: UCMNMTM1XXX
+  swift8: UCMNMTM1
+  branch_name: Head Office
+  branch_address: 189/4, the Strand Gzr 03 Gzira
+  branch_code: XXX
+  city: Gzira
+  country: Malta
+- name: Valletta Fund Management Limited
+  swift: VAFMMTM1XXX
+  swift8: VAFMMTM1
+  branch_name: Head Office
+  branch_address: The Mall Offices Vlt 16 Floriana
+  branch_code: XXX
+  city: Floriana
+  country: Malta
+- name: Vitesse Advisors Limited
+  swift: VIADMTM1XXX
+  swift8: VIADMTM1
+  branch_name: Head Office
+  branch_address: Fleur De Lys Road Birkirkara
+  branch_code: XXX
+  city: Birkirkara
+  country: Malta
+- name: Vitesse Funds Sicav Limited
+  swift: VIFSMTM1XXX
+  swift8: VIFSMTM1
+  branch_name: Head Office
+  branch_address: Fleur De Lys Road Birkirkara
+  branch_code: XXX
+  city: Birkirkara
+  country: Malta
+- name: W And J Coppini Investment Services Limited
+  swift: CISRMTM1XXX
+  swift8: CISRMTM1
+  branch_name: Head Office
+  branch_address: 58 Merchants Street Vlt 10 Valletta
+  branch_code: XXX
+  city: Valletta
+  country: Malta
+- name: Z Investment Partners Malta Ltd
+  swift: IVPMMTM1XXX
+  swift8: IVPMMTM1
+  branch_name: Head Office
+  branch_address: 171 Old Bakery Street Vlt 1455 Valletta
+  branch_code: XXX
+  city: Valletta
+  country: Malta
+- name: Zfp Equity Trading (malta) Limited
+  swift: ZETMMTM1XXX
+  swift8: ZETMMTM1
+  branch_name: Head Office
+  branch_address: Regent House Slm 1641 Sliema
+  branch_code: XXX
+  city: Sliema
+  country: Malta

@@ -1,0 +1,114 @@
+---
+GM:
+- name: International Commercial Bank
+  swift: ICBGGMGSXXX
+  swift8: ICBGGMGS
+  branch_name: Head Office
+  branch_address: 48 Kairaba Ave Ksmd Serrekunda
+  branch_code: XXX
+  city: Serrekunda
+  country: Gambia
+- name: Access Bank Gambia
+  swift: ACGAGMGFXXX
+  swift8: ACGAGMGF
+  branch_name: Head Office
+  branch_address: 47 Kairaba Avenue Fajara
+  branch_code: XXX
+  city: Fajara
+  country: Gambia
+- name: Arab Gambian Islamic Bank Ltd
+  swift: AGIXGMGMXXX
+  swift8: AGIXGMGM
+  branch_name: Head Office
+  branch_address: 7 Ecowas Avenue Banjul
+  branch_code: XXX
+  city: Banjul
+  country: Gambia
+- name: Bank Phb (gambia) Limited
+  swift: ITBCGMGMXXX
+  swift8: ITBCGMGM
+  branch_name: Head Office
+  branch_address: 11a Liberation Avenue Banjul
+  branch_code: XXX
+  city: Banjul
+  country: Gambia
+- name: Bsic Gambia Limited
+  swift: BSAHGMGMXXX
+  swift8: BSAHGMGM
+  branch_name: Head Office
+  branch_address: Sankung Sillah Kanifing
+  branch_code: XXX
+  city: Kanifing
+  country: Gambia
+- name: Central Bank Of The Gambia
+  swift: CBGAGMGMXXX
+  swift8: CBGAGMGM
+  branch_name: Head Office
+  branch_address: Central Bank Building Banjul
+  branch_code: XXX
+  city: Banjul
+  country: Gambia
+- name: Ecobank Gambia
+  swift: ECOCGMGMXXX
+  swift8: ECOCGMGM
+  branch_name: Head Office
+  branch_address: Ecobank House Serrekunda
+  branch_code: XXX
+  city: Serrekunda
+  country: Gambia
+- name: First International Bank Limited
+  swift: FIBLGMGMXXX
+  swift8: FIBLGMGM
+  branch_name: Head Office
+  branch_address: 6 Oau Boulevard Banjul
+  branch_code: XXX
+  city: Banjul
+  country: Gambia
+- name: Guaranty Trust Bank (gambia) Limited
+  swift: GTBGGMGMXXX
+  swift8: GTBGGMGM
+  branch_name: Head Office
+  branch_address: 56 Kairaba Avenue, Fajara Ksmd Banjul
+  branch_code: XXX
+  city: Banjul
+  country: Gambia
+- name: Skye Bank Limited, Gambia
+  swift: SKYEGMGMXXX
+  swift8: SKYEGMGM
+  branch_name: Head Office
+  branch_address: 70, Kairaba Avenue, Fajara Ksmd Banjul
+  branch_code: XXX
+  city: Banjul
+  country: Gambia
+- name: Standard Chartered Bank Gambia Limited
+  swift: SCBLGMGMXXX
+  swift8: SCBLGMGM
+  branch_name: Head Office
+  branch_address: 8 Econas Avenue Banjul the Gambia Banjul
+  branch_code: XXX
+  city: Banjul
+  country: Gambia
+- name: Trust Bank Ltd
+  swift: TBLTGMGMXXX
+  swift8: TBLTGMGM
+  branch_name: Head Office
+  branch_address: Trust Bank Building Banjul
+  branch_code: XXX
+  city: Banjul
+  country: Gambia
+- name: U.s. Africa Bank (gambia) Ltd.
+  swift: USABGMG1XXX
+  swift8: USABGMG1
+  branch_name: Head Office
+  branch_address: No. 6 Oau Boulevard Banjul
+  branch_code: XXX
+  city: Banjul
+  country: Gambia
+- name: Zenith Bank Gambia
+  swift: ZEIBGMGMXXX
+  swift8: ZEIBGMGM
+  branch_name: Head Office
+  branch_address: Zenith Bank Banjul
+  branch_code: XXX
+  city: Banjul
+  country: Gambia

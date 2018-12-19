@@ -1,0 +1,42 @@
+---
+FO:
+- name: Banknordik P/f (formerly Foroya Banki P/f
+  swift: FIFBFOTXXXX
+  swift8: FIFBFOTX
+  branch_name: Head Office
+  branch_address: Husagota 3 100 Torshavn
+  branch_code: XXX
+  city: Torshavn
+  country: Faroe Islands
+- name: Eik Banki P/f
+  swift: EIKBFOTFXXX
+  swift8: EIKBFOTF
+  branch_name: Head Office
+  branch_address: Yviri Vid Strond 2 110 Torshavn
+  branch_code: XXX
+  city: Torshavn
+  country: Faroe Islands
+- name: Fossbankin
+  swift: FOSSFO21XXX
+  swift8: FOSSFO21
+  branch_name: Head Office
+  branch_address: Torshavn
+  branch_code: XXX
+  city: Torshavn
+  country: Faroe Islands
+- name: Nordoya Sparikassi
+  swift: NOYAFO21XXX
+  swift8: NOYAFO21
+  branch_name: Head Office
+  branch_address: Osavegur 1 700 Klaksvik
+  branch_code: XXX
+  city: Klaksvik
+  country: Faroe Islands
+- name: Suduroyar Sparikassi
+  swift: SUSPFOT1XXX
+  swift8: SUSPFOT1
+  branch_name: Head Office
+  branch_address: 900 Vagur
+  branch_code: XXX
+  city: Vagur
+  country: Faroe Islands

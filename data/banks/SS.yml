@@ -1,0 +1,202 @@
+---
+SS:
+- name: African National Bank Limited
+  swift: AFNASSJBXXX
+  swift8: AFNASSJB
+  branch_name: Head Office
+  branch_address: Juba Air Cargo Bldg Juba
+  branch_code: XXX
+  city: Juba
+  country: South Sudan
+- name: Afriland First Bank South Sudan
+  swift: CCEISSJBXXX
+  swift8: CCEISSJB
+  branch_name: Head Office
+  branch_address: 03 Hai Cinema Road Juba
+  branch_code: XXX
+  city: Juba
+  country: South Sudan
+- name: Bank Of South Sudan
+  swift: BSSDSSJBXXX
+  swift8: BSSDSSJB
+  branch_name: Head Office
+  branch_address: Bank of South Sudan Building Juba 136
+  branch_code: XXX
+  city: Juba
+  country: South Sudan
+- name: Bank Of South Sudan
+  swift: BSSDSSJ1XXX
+  swift8: BSSDSSJ1
+  branch_name: Head Office
+  branch_address: Bank of South Sudan Building Juba 136
+  branch_code: XXX
+  city: Juba
+  country: South Sudan
+- name: Buffalo Commercial Bank Plc.
+  swift: BCBJSSJBXXX
+  swift8: BCBJSSJB
+  branch_name: Head Office
+  branch_address: Bcb Complex Juba
+  branch_code: XXX
+  city: Juba
+  country: South Sudan
+- name: Cfc Stanbic Bank Ltd
+  swift: SBICSSJBXXX
+  swift8: SBICSSJB
+  branch_name: Head Office
+  branch_address: Cfc Stanbic Centre Juba
+  branch_code: XXX
+  city: Juba
+  country: South Sudan
+- name: Charter One Bank
+  swift: COBJSSJBXXX
+  swift8: COBJSSJB
+  branch_name: Head Office
+  branch_address: Charter One Bank Bldg Juba
+  branch_code: XXX
+  city: Juba
+  country: South Sudan
+- name: Commercial Bank Of Ethiopia-southern Sudan Ltd.
+  swift: CBETSSJBXXX
+  swift8: CBETSSJB
+  branch_name: Head Office
+  branch_address: Haile Selassie Street Juba
+  branch_code: XXX
+  city: Juba
+  country: South Sudan
+- name: Ecobank South Sudan Limited
+  swift: ECOCSSJBXXX
+  swift8: ECOCSSJB
+  branch_name: Head Office
+  branch_address: Koita Complex Juba
+  branch_code: XXX
+  city: Juba
+  country: South Sudan
+- name: Ecobank South Sudan Limited
+  swift: ECOCSSJ1XXX
+  swift8: ECOCSSJ1
+  branch_name: Head Office
+  branch_address: Koita Complex Juba
+  branch_code: XXX
+  city: Juba
+  country: South Sudan
+- name: Eden Commercial Bank Ltd
+  swift: EDBKSSJBXXX
+  swift8: EDBKSSJB
+  branch_name: Head Office
+  branch_address: Eden House, Opp Green Rokon Juba 384
+  branch_code: XXX
+  city: Juba
+  country: South Sudan
+- name: Equity Bank Southern Sudan Limited Head Office
+  swift: EQBLSSJBXXX
+  swift8: EQBLSSJB
+  branch_name: Head Office
+  branch_address: Equity Plaza Juba
+  branch_code: XXX
+  city: Juba
+  country: South Sudan
+- name: Equity Bank Southern Sudan Limited Head Office
+  swift: EQBLSSJ1XXX
+  swift8: EQBLSSJ1
+  branch_name: Head Office
+  branch_address: Equity Plaza Juba
+  branch_code: XXX
+  city: Juba
+  country: South Sudan
+- name: International Commercial Bank Ltd
+  swift: ICBJSSJBXXX
+  swift8: ICBJSSJB
+  branch_name: Head Office
+  branch_address: Airport Business Center Juba Pb 70
+  branch_code: XXX
+  city: Juba
+  country: South Sudan
+- name: Ivory Bank Plc Head Office Juba South Sudan
+  swift: IVOJSSJBXXX
+  swift8: IVOJSSJB
+  branch_name: Head Office
+  branch_address: Ivory Bank Juba 211
+  branch_code: XXX
+  city: Juba
+  country: South Sudan
+- name: Kcb Sudan Ltd
+  swift: KCBLSSJBXXX
+  swift8: KCBLSSJB
+  branch_name: Head Office
+  branch_address: Amin Building Downtown Juba
+  branch_code: XXX
+  city: Juba
+  country: South Sudan
+- name: Liberty Commercial Bank
+  swift: LINYSSJBXXX
+  swift8: LINYSSJB
+  branch_name: Head Office
+  branch_address: Eastern Pearl Business Center Juba Pb 549
+  branch_code: XXX
+  city: Juba
+  country: South Sudan
+- name: Mountains Trade And Development Bank
+  swift: MTDBSSJBXXX
+  swift8: MTDBSSJB
+  branch_name: Head Office
+  branch_address: Police Club Street 4 Juba
+  branch_code: XXX
+  city: Juba
+  country: South Sudan
+- name: National Credit Bank
+  swift: CNABSSJBXXX
+  swift8: CNABSSJB
+  branch_name: Head Office
+  branch_address: Opp. Traffic Police Office Juba
+  branch_code: XXX
+  city: Juba
+  country: South Sudan
+- name: Nile Commercial Bank Ltd
+  swift: NCBLSSJBXXX
+  swift8: NCBLSSJB
+  branch_name: Head Office
+  branch_address: Nile Com Building Juba
+  branch_code: XXX
+  city: Juba
+  country: South Sudan
+- name: Phoenix Commercial Bank
+  swift: PXCBSSJBXXX
+  swift8: PXCBSSJB
+  branch_name: No branch name
+  branch_address: No branch address
+  branch_code: XXX
+  city: Juba
+  country: South Sudan
+- name: Phoenix Commercial Bank
+  swift: PXCBSSJ1XXX
+  swift8: PXCBSSJ1
+  branch_name: Head Office
+  branch_address: Tiba Building Juba
+  branch_code: XXX
+  city: Juba
+  country: South Sudan
+- name: Qnb
+  swift: QNBASSJBXXX
+  swift8: QNBASSJB
+  branch_name: Head Office
+  branch_address: Light Industrial Area 64 Juba
+  branch_code: XXX
+  city: Juba
+  country: South Sudan
+- name: Qnb
+  swift: QNBASSJ1XXX
+  swift8: QNBASSJ1
+  branch_name: Head Office
+  branch_address: Light Industrial Area 64 Juba
+  branch_code: XXX
+  city: Juba
+  country: South Sudan
+- name: South Sudan Commercial Bank Ltd
+  swift: SSDCSSJBXXX
+  swift8: SSDCSSJB
+  branch_name: Head Office
+  branch_address: Tecom Building Juba
+  branch_code: XXX
+  city: Juba
+  country: South Sudan

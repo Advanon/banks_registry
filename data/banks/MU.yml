@@ -1,0 +1,434 @@
+---
+MU:
+- name: Bank Internasional Indonesia
+  swift: IBBKMUMUXXX
+  swift8: IBBKMUMU
+  branch_name: Head Office
+  branch_address: Barkly Wharf Port Louis
+  branch_code: XXX
+  city: Port Louis
+  country: Mauritius
+- name: Bank Of Baroda
+  swift: BARBMUMUOBU
+  swift8: BARBMUMU
+  branch_name: Offshore Banking Unit
+  branch_address: Bank of Baroda Building Port Louis
+  branch_code: OBU
+  city: Port Louis
+  country: Mauritius
+- name: Bank Of Baroda
+  swift: BARBMUMUXXX
+  swift8: BARBMUMU
+  branch_name: Head Office
+  branch_address: Sir William Newton Street Port Louis
+  branch_code: XXX
+  city: Port Louis
+  country: Mauritius
+- name: Abc Banking Corporation Ltd
+  swift: ABCKMUMUXXX
+  swift8: ABCKMUMU
+  branch_name: Head Office
+  branch_address: Abc Centre Port Louis
+  branch_code: XXX
+  city: Port Louis
+  country: Mauritius
+- name: Afrasia Bank Limited
+  swift: AFBLMUMUXXX
+  swift8: AFBLMUMU
+  branch_name: Head Office
+  branch_address: Ibl Building Port Louis
+  branch_code: XXX
+  city: Port Louis
+  country: Mauritius
+- name: African Alliance Stockbroking Holdings Limited
+  swift: AASHMUM1XXX
+  swift8: AASHMUM1
+  branch_name: Head Office
+  branch_address: Ebene Heights Cyber City
+  branch_code: XXX
+  city: Cyber City
+  country: Mauritius
+- name: Anglo-mauritius Stockbrokers Ltd
+  swift: GENRMUM1XXX
+  swift8: GENRMUM1
+  branch_name: Head Office
+  branch_address: Swan Group Centre Port Louis
+  branch_code: XXX
+  city: Port Louis
+  country: Mauritius
+- name: Axys Stockbroking Ltd
+  swift: AXSOMUM1XXX
+  swift8: AXSOMUM1
+  branch_name: Head Office
+  branch_address: Bowen Square Port Louis
+  branch_code: XXX
+  city: Port Louis
+  country: Mauritius
+- name: Bank Of Mauritius
+  swift: BOMMMUPLXXX
+  swift8: BOMMMUPL
+  branch_name: Head Office
+  branch_address: Sir William Newton Street Port Louis
+  branch_code: XXX
+  city: Port Louis
+  country: Mauritius
+- name: Bank One Ltd
+  swift: BKONMUMUXXX
+  swift8: BKONMUMU
+  branch_name: Head Office
+  branch_address: 16 Sir William Newton Street Port Louis
+  branch_code: XXX
+  city: Port Louis
+  country: Mauritius
+- name: Bank One Ltd
+  swift: FSCBMUMUXXX
+  swift8: FSCBMUMU
+  branch_name: Head Office
+  branch_address: 16 Sir William Newton Street Port Louis
+  branch_code: XXX
+  city: Port Louis
+  country: Mauritius
+- name: Banque Des Mascareignes Ltee
+  swift: BAIMMUMUXXX
+  swift8: BAIMMUMU
+  branch_name: Head Office
+  branch_address: One Cathedral Square Port Louis
+  branch_code: XXX
+  city: Port Louis
+  country: Mauritius
+- name: Banyantree Bank Limited
+  swift: BTBLMUMUXXX
+  swift8: BTBLMUMU
+  branch_name: Head Office
+  branch_address: 13 Nexteracom 00230 Cyber City
+  branch_code: XXX
+  city: Cyber City
+  country: Mauritius
+- name: Barclays Bank Mauritius Ltd
+  swift: BARCMUMUMAF
+  swift8: BARCMUMU
+  branch_name: M a F E X Branch
+  branch_address: Port Louis
+  branch_code: MAF
+  city: Port Louis
+  country: Mauritius
+- name: Barclays Bank Mauritius Ltd
+  swift: BARCMUMUOBU
+  swift8: BARCMUMU
+  branch_name: Mauritius Offshore Banking Unit
+  branch_address: Moorgate House Port Louis
+  branch_code: OBU
+  city: Port Louis
+  country: Mauritius
+- name: Barclays Bank Mauritius Ltd
+  swift: BARCMUMUXXX
+  swift8: BARCMUMU
+  branch_name: Head Office
+  branch_address: Sir William Newton Street Port Louis
+  branch_code: XXX
+  city: Ebene
+  country: Mauritius
+- name: Bramer Banking Corporation Ltd
+  swift: BBCLMUMUXXX
+  swift8: BBCLMUMU
+  branch_name: Head Office
+  branch_address: 26, Bourdon Street Port Louis
+  branch_code: XXX
+  city: Port Louis
+  country: Mauritius
+- name: Capital Markets Brokers Limited
+  swift: CMAKMUM1XXX
+  swift8: CMAKMUM1
+  branch_name: Head Office
+  branch_address: Alexander House Ebene
+  branch_code: XXX
+  city: Ebene
+  country: Mauritius
+- name: Central Depository And Settlement Co. Ltd
+  swift: CEDTMUM1XXX
+  swift8: CEDTMUM1
+  branch_name: Head Office
+  branch_address: Les Cascades Buiding Port Louis
+  branch_code: XXX
+  city: Port Louis
+  country: Mauritius
+- name: Century Banking Corporation Ltd
+  swift: CBCLMUMUXXX
+  swift8: CBCLMUMU
+  branch_name: Head Office
+  branch_address: Barkly Wharf Port Louis
+  branch_code: XXX
+  city: Port Louis
+  country: Mauritius
+- name: Citigroup Global Markets Mauritius Private Limited
+  swift: CGMMMUM1XXX
+  swift8: CGMMMUM1
+  branch_name: Head Office
+  branch_address: 10 Frere Felix De Valois Street Port Louis
+  branch_code: XXX
+  city: Port Louis
+  country: Mauritius
+- name: Citigroup Holdings Mauritius Ltd
+  swift: CIHAMUM1XXX
+  swift8: CIHAMUM1
+  branch_name: Head Office
+  branch_address: 10 Frere Felix De Valois Street Port Louis
+  branch_code: XXX
+  city: Port Louis
+  country: Mauritius
+- name: Citigroup Strategic Holdings Mauritius Ltd.
+  swift: CSHMMUM1XXX
+  swift8: CSHMMUM1
+  branch_name: Head Office
+  branch_address: 10, Frere Felix De Valois Street Port Louis
+  branch_code: XXX
+  city: Port Louis
+  country: Mauritius
+- name: Clsa (mauritius) Limited
+  swift: CLSAMUM1XXX
+  swift8: CLSAMUM1
+  branch_name: Head Office
+  branch_address: Citco (Mauritius) Limited Port Louis
+  branch_code: XXX
+  city: Port Louis
+  country: Mauritius
+- name: Dbm Ltd. (mauritius
+  swift: DBMAMUM1XXX
+  swift8: DBMAMUM1
+  branch_name: Head Office
+  branch_address: Port Louis
+  branch_code: XXX
+  city: Port Louis
+  country: Mauritius
+- name: Deutsche Bank (mauritius) Ltd
+  swift: DBMLMUMUXXX
+  swift8: DBMLMUMU
+  branch_name: Head Office
+  branch_address: Barkly Wharf East Port Louis
+  branch_code: XXX
+  city: Port Louis
+  country: Mauritius
+- name: Deutsche Securities Mauritius Ltd
+  swift: DEUTMUMLXXX
+  swift8: DEUTMUML
+  branch_name: Head Office
+  branch_address: Barkly Wharf East Port Louis
+  branch_code: XXX
+  city: Port Louis
+  country: Mauritius
+- name: Dunearn Investments (mauritius) Pte Ltd
+  swift: DEIMMUMUXXX
+  swift8: DEIMMUMU
+  branch_name: Head Office
+  branch_address: C/O Intl Management Mauritius Ltd Port Louis
+  branch_code: XXX
+  city: Port Louis
+  country: Mauritius
+- name: Exon Finance Ltd
+  swift: EXONMUM1XXX
+  swift8: EXONMUM1
+  branch_name: Head Office
+  branch_address: Heritage Court Port Louis
+  branch_code: XXX
+  city: Port Louis
+  country: Mauritius
+- name: Habib Bank Ltd Mauritius
+  swift: HABBMUMUXXX
+  swift8: HABBMUMU
+  branch_name: Head Office
+  branch_address: Sir William Newton Street Port Louis
+  branch_code: XXX
+  city: Port Louis
+  country: Mauritius
+- name: Hongkong And Shanghai Banking Corporation Ltd., The
+  swift: HSBCMUMUOBU
+  swift8: HSBCMUMU
+  branch_name: Hbmu Branch
+  branch_address: Les Cascades Port Louis
+  branch_code: OBU
+  city: Ebene
+  country: Mauritius
+- name: Hongkong And Shanghai Banking Corporation Ltd., The
+  swift: HSBCMUMUXXX
+  swift8: HSBCMUMU
+  branch_name: Head Office
+  branch_address: Place Darmes, Chaussee Street Port Louis
+  branch_code: XXX
+  city: Ebene
+  country: Mauritius
+- name: Huizhou One Limited
+  swift: HUONMUM1XXX
+  swift8: HUONMUM1
+  branch_name: Head Office
+  branch_address: C/O Fidelity Trust Limited Port Louis
+  branch_code: XXX
+  city: Port Louis
+  country: Mauritius
+- name: Idfc Advisors Limited
+  swift: IDADMUM1XXX
+  swift8: IDADMUM1
+  branch_name: Head Office
+  branch_address: 10 Frere Felix De Valois Street Port Louis
+  branch_code: XXX
+  city: Port Louis
+  country: Mauritius
+- name: Investec Bank (mauritius) Limited
+  swift: IVESMUMUXXX
+  swift8: IVESMUMU
+  branch_name: Head Office
+  branch_address: Dias Pier Building Port Louis
+  branch_code: XXX
+  city: Port Louis
+  country: Mauritius
+- name: Mantaray Investments (mauritius) Pte Ltd
+  swift: MAVUMUM1XXX
+  swift8: MAVUMUM1
+  branch_name: Head Office
+  branch_address: Edith Cavell Port Louis
+  branch_code: XXX
+  city: Port Louis
+  country: Mauritius
+- name: Mauritius Commercial Bank Ltd., The
+  swift: MCBLMUMUXXX
+  swift8: MCBLMUMU
+  branch_name: Head Office
+  branch_address: Mcb Centre Port Louis
+  branch_code: XXX
+  city: Port Louis
+  country: Mauritius
+- name: Mauritius Post And Cooperative Bank Ltd
+  swift: MPCBMUMUXXX
+  swift8: MPCBMUMU
+  branch_name: Head Office
+  branch_address: 1, Sir William Newton Street Port Louis
+  branch_code: XXX
+  city: Port Louis
+  country: Mauritius
+- name: Mcb Stockbrokers Limited
+  swift: MCSOMUM1XXX
+  swift8: MCSOMUM1
+  branch_name: Head Office
+  branch_address: Raymond Lamusse Building Port Louis
+  branch_code: XXX
+  city: Port Louis
+  country: Mauritius
+- name: Newton Securities Ltd
+  swift: NESCMUM1XXX
+  swift8: NESCMUM1
+  branch_name: Head Office
+  branch_address: Happy World House Port Louis
+  branch_code: XXX
+  city: Port Louis
+  country: Mauritius
+- name: Nomura Mauritius Limited
+  swift: NOMAMUMUXXX
+  swift8: NOMAMUMU
+  branch_name: Head Office
+  branch_address: Cnr St George and Chazal Streets Port Louis
+  branch_code: XXX
+  city: Port Louis
+  country: Mauritius
+- name: Platinum One Limited
+  swift: PLOEMUM1XXX
+  swift8: PLOEMUM1
+  branch_name: Head Office
+  branch_address: Fidelity Trust Limited Port Louis
+  branch_code: XXX
+  city: Port Louis
+  country: Mauritius
+- name: Sbi (mauritius) Ltd
+  swift: INILMUMU101
+  swift8: INILMUMU
+  branch_name: William Newton Street
+  branch_address: 34 Sir William Newton Street Port Louis
+  branch_code: '101'
+  city: Port Louis
+  country: Mauritius
+- name: Sbi (mauritius) Ltd
+  swift: INILMUMUXXX
+  swift8: INILMUMU
+  branch_name: Head Office
+  branch_address: Sicom Building Port Louis
+  branch_code: XXX
+  city: Port Louis
+  country: Mauritius
+- name: Sparkassa Ekonomisk Forening Ltee
+  swift: KSSAMUM1XXX
+  swift8: KSSAMUM1
+  branch_name: Head Office
+  branch_address: Pamplemousses
+  branch_code: XXX
+  city: Pamplemousses
+  country: Mauritius
+- name: Standard Bank (mauritius) Limited
+  swift: SBICMUMUXXX
+  swift8: SBICMUMU
+  branch_name: Head Office
+  branch_address: Medine Mews Bldg Port Louis
+  branch_code: XXX
+  city: Port Louis
+  country: Mauritius
+- name: Standard Chartered Bank (mauritius) Ltd
+  swift: SCBLMUMUSSU
+  swift8: SCBLMUMU
+  branch_name: Securities Services Unit
+  branch_address: Ebene
+  branch_code: SSU
+  city: Ebene
+  country: Mauritius
+- name: Standard Chartered Bank (mauritius) Ltd
+  swift: SCBLMUMUXXX
+  swift8: SCBLMUMU
+  branch_name: Head Office
+  branch_address: Ebene House Ebene
+  branch_code: XXX
+  city: Ebene
+  country: Mauritius
+- name: Standard Chartered Bank (mauritius) Ltd
+  swift: SCBLMUMUZOP
+  swift8: SCBLMUMU
+  branch_name: Fm Asset Servicing
+  branch_address: Port Louis
+  branch_code: ZOP
+  city: Port Louis
+  country: Mauritius
+- name: State Bank Of Mauritius Ltd.
+  swift: STCBMUMUXXX
+  swift8: STCBMUMU
+  branch_name: Head Office
+  branch_address: State Bank Tower Port Louis
+  branch_code: XXX
+  city: Port Louis
+  country: Mauritius
+- name: Stock Exchange Of Mauritius Ltd, The
+  swift: XMAUMUM1XXX
+  swift8: XMAUMUM1
+  branch_name: Head Office
+  branch_address: Les Cascades Building Port Louis
+  branch_code: XXX
+  city: Port Louis
+  country: Mauritius
+- name: Super Group Trading Limited
+  swift: SGCTMUM1XXX
+  swift8: SGCTMUM1
+  branch_name: Head Office
+  branch_address: Le Caudan Waterfront Port Louis
+  branch_code: XXX
+  city: Port Louis
+  country: Mauritius
+- name: Thomas Cook (mauritius) Operations Company Limited
+  swift: TCILMUM1XXX
+  swift8: TCILMUM1
+  branch_name: Head Office
+  branch_address: Anglo Mauritius House Port Louis
+  branch_code: XXX
+  city: Port Louis
+  country: Mauritius
+- name: Thomas Cook (mauritius) Operations Company Limited
+  swift: TCILMUMUXXX
+  swift8: TCILMUMU
+  branch_name: Head Office
+  branch_address: Anglo Mauritius House Port Louis
+  branch_code: XXX
+  city: Port Louis
+  country: Mauritius

@@ -1,0 +1,250 @@
+---
+EE:
+- name: Aktsiaselts Dnb Pank
+  swift: RIKOEE22XXX
+  swift8: RIKOEE22
+  branch_name: Head Office
+  branch_address: Tartu Mnt. 10 10145 Tallinn
+  branch_code: XXX
+  city: ''
+  country: Estonia
+- name: As Seb Pank
+  swift: EEUHEE2XXXX
+  swift8: EEUHEE2X
+  branch_name: Head Office
+  branch_address: Tornimae 2 15010 Tallinn
+  branch_code: XXX
+  city: Tallinn
+  country: Estonia
+- name: Bigbank As
+  swift: BIGKEE2BXXX
+  swift8: BIGKEE2B
+  branch_name: Head Office
+  branch_address: Tartu Mnt 18 10115 Tallinn
+  branch_code: XXX
+  city: Tallinn
+  country: Estonia
+- name: Citadele Pank
+  swift: PARXEE22XXX
+  swift8: PARXEE22
+  branch_name: Head Office
+  branch_address: Roosikrantsi 2 10119 Tallinn
+  branch_code: XXX
+  city: ''
+  country: Estonia
+- name: Eesti Pank (Bank Of Estonia)
+  swift: EPBEEE2XCCB
+  swift8: EPBEEE2X
+  branch_name: No branch name
+  branch_address: No branch address
+  branch_code: CCB
+  city: Tallinn
+  country: Estonia
+- name: Eesti Pank (Bank Of Estonia)
+  swift: EPBEEE2XCSD
+  swift8: EPBEEE2X
+  branch_name: Mirror Technical Account
+  branch_address: No branch address
+  branch_code: CSD
+  city: Tallinn
+  country: Estonia
+- name: Eesti Pank (Bank Of Estonia)
+  swift: EPBEEE2XERT
+  swift8: EPBEEE2X
+  branch_name: Clearing Department
+  branch_address: No branch address
+  branch_code: ERT
+  city: Tallinn
+  country: Estonia
+- name: Eesti Pank (Bank Of Estonia)
+  swift: EPBEEE2XTGT
+  swift8: EPBEEE2X
+  branch_name: Target 2
+  branch_address: No branch address
+  branch_code: TGT
+  city: Tallinn
+  country: Estonia
+- name: Eesti Pank (Bank Of Estonia)
+  swift: EPBEEE2XXXX
+  swift8: EPBEEE2X
+  branch_name: No branch name
+  branch_address: No branch address
+  branch_code: XXX
+  city: Tallinn
+  country: Estonia
+- name: Handelsbanken
+  swift: HANDEE22XXX
+  swift8: HANDEE22
+  branch_name: Head Office
+  branch_address: Harju 6 10130 Tallinn
+  branch_code: XXX
+  city: ''
+  country: Estonia
+- name: Lhv Pank
+  swift: LHVBEE22XXX
+  swift8: LHVBEE22
+  branch_name: Head Office
+  branch_address: Tartu Mnt. 2 Tallinn
+  branch_code: XXX
+  city: ''
+  country: Estonia
+- name: Nordea Bank Finland Plc Estonia Branch
+  swift: NDEAEE2XXXX
+  swift8: NDEAEE2X
+  branch_name: Head Office
+  branch_address: Tallinn
+  branch_code: XXX
+  city: Tallinn
+  country: Estonia
+- name: Pohjola Bank Plc Estonian Branch
+  swift: OKOYEE2XXXX
+  swift8: OKOYEE2X
+  branch_name: Head Office
+  branch_address: Parnu Mnt. 141 11314 Tallinn
+  branch_code: XXX
+  city: Tallinn
+  country: Estonia
+- name: Sampo Pank (Danske Bank A/S Estonia Branch)
+  swift: FOREEE2XXXX
+  swift8: FOREEE2X
+  branch_name: Head Office
+  branch_address: Narva Mnt. 11 15015 Tallinn
+  branch_code: XXX
+  city: Tallinn
+  country: Estonia
+- name: Swedbank As
+  swift: HABAEE2XHAM
+  swift8: HABAEE2X
+  branch_name: Hansa Asset Managment
+  branch_address: Tallinn
+  branch_code: HAM
+  city: Tallinn
+  country: Estonia
+- name: Swedbank As
+  swift: HABAEE2XXXX
+  swift8: HABAEE2X
+  branch_name: Head Office
+  branch_address: Liivalaia 8 15040 Tallinn
+  branch_code: XXX
+  city: Tallinn
+  country: Estonia
+- name: Tallinna Äripanga
+  swift: TABUEE22XXX
+  swift8: TABUEE22
+  branch_name: Head Office
+  branch_address: Vana-Viru 7 10111 Tallinn
+  branch_code: XXX
+  city: ''
+  country: Estonia
+- name: Versobank
+  swift: SBMBEE22XXX
+  swift8: SBMBEE22
+  branch_name: Head Office
+  branch_address: Parnu Mnt 12 10148 Tallinn
+  branch_code: XXX
+  city: ''
+  country: Estonia
+- name: Allied Irish Banks P.l.c Estonian Branch
+  swift: AIEBEE21XXX
+  swift8: AIEBEE21
+  branch_name: Head Office
+  branch_address: Roosikrantsi 11 10119 Tallinn
+  branch_code: XXX
+  city: Tallinn
+  country: Estonia
+- name: As Gild Financial Advisory Services
+  swift: GFASEE21XXX
+  swift8: GFASEE21
+  branch_name: Head Office
+  branch_address: Tartu Mnt 2 10145 Tallinn
+  branch_code: XXX
+  city: Tallinn
+  country: Estonia
+- name: As Lohmus, Haavel And Viisemann
+  swift: LHVBEE21XXX
+  swift8: LHVBEE21
+  branch_name: Head Office
+  branch_address: Tartu Mnt 2 10145 Tallinn
+  branch_code: XXX
+  city: Tallinn
+  country: Estonia
+- name: Cresco Vaartpaberite As
+  swift: CRVTEE21XXX
+  swift8: CRVTEE21
+  branch_name: Head Office
+  branch_address: Tartu Mnt 2 10145 Tallinn
+  branch_code: XXX
+  city: Tallinn
+  country: Estonia
+- name: Estonian Credit Bank
+  swift: EKRDEE22XXX
+  swift8: EKRDEE22
+  branch_name: Head Office
+  branch_address: Narva Road 4 0001 Tallinn
+  branch_code: XXX
+  city: Tallinn
+  country: Estonia
+- name: Estonian Csd
+  swift: ECSDEE2XXXX
+  swift8: ECSDEE2X
+  branch_name: Head Office
+  branch_address: City Plaza 10145 Tallinn
+  branch_code: XXX
+  city: Tallinn
+  country: Estonia
+- name: Evli Bank Ltd
+  swift: EVSEEE21XXX
+  swift8: EVSEEE21
+  branch_name: Head Office
+  branch_address: Tartu Road 2 10145 Tallinn
+  branch_code: XXX
+  city: Tallinn
+  country: Estonia
+- name: Evli Securities As
+  swift: SUSCEE21XXX
+  swift8: SUSCEE21
+  branch_name: Head Office
+  branch_address: City Plaza 10145 Tallinn
+  branch_code: XXX
+  city: Tallinn
+  country: Estonia
+- name: Folkia As Eesti Filiaal
+  swift: FOEFEE21XXX
+  swift8: FOEFEE21
+  branch_name: Head Office
+  branch_address: Parnu Mnt 141 11314 Tallinn
+  branch_code: XXX
+  city: Tallinn
+  country: Estonia
+- name: Kit Finance Europe As
+  swift: AUASEE21XXX
+  swift8: AUASEE21
+  branch_name: Head Office
+  branch_address: Roosikrantsi 2 10119 Tallinn
+  branch_code: XXX
+  city: Tallinn
+  country: Estonia
+- name: Moneyexpress
+  swift: MOEXEE21XXX
+  swift8: MOEXEE21
+  branch_name: Head Office
+  branch_address: Tornimae 10145 Tallinn
+  branch_code: XXX
+  city: Tallinn
+  country: Estonia
+- name: Scania Finans Ab Eesti Filial
+  swift: SFEFEE21XXX
+  swift8: SFEFEE21
+  branch_name: Head Office
+  branch_address: Peterburi Tee 72 11415 Tallinn
+  branch_code: XXX
+  city: Tallinn
+  country: Estonia
+- name: Tallinn Stock Exchange
+  swift: XTALEE21XXX
+  swift8: XTALEE21
+  branch_name: Head Office
+  branch_address: Ravala 6 105 Tallinn
+  branch_code: XXX
+  city: Tallinn
+  country: Estonia

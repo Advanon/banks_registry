@@ -1,0 +1,450 @@
+---
+OM:
+- name: Habib Bank Limited
+  swift: HBZUOMM1XXX
+  swift8: HBZUOMM1
+  branch_name: Head Office
+  branch_address: Behind Oman Development Bank Muttrah
+  branch_code: XXX
+  city: Muttrah
+  country: Oman
+- name: Qatar National Bank
+  swift: QNBAOMRXXXX
+  swift8: QNBAOMRX
+  branch_name: Head Office
+  branch_address: Qatar National Bank Building Muscat
+  branch_code: XXX
+  city: Muscat
+  country: Oman
+- name: Standard Chartered Bank
+  swift: SCBLOMRXXXX
+  swift8: SCBLOMRX
+  branch_name: Head Office
+  branch_address: Building No. 7032 Muscat
+  branch_code: XXX
+  city: Muscat
+  country: Oman
+- name: Ministry Of Finance
+  swift: MINIOMRUXXX
+  swift8: MINIOMRU
+  branch_name: Head Office
+  branch_address: Al-Saidia Street Muscat
+  branch_code: XXX
+  city: Muscat
+  country: Oman
+- name: Ahli Bank S.a.o.g
+  swift: AUBOOMRUALH
+  swift8: AUBOOMRU
+  branch_name: Al Hilal
+  branch_address: Muscat
+  branch_code: ALH
+  city: Muscat
+  country: Oman
+- name: Ahli Bank S.a.o.g
+  swift: AUBOOMRUXXX
+  swift8: AUBOOMRU
+  branch_name: Head Office
+  branch_address: Mina Al Fahal 116 Ruwi
+  branch_code: XXX
+  city: Ruwi
+  country: Oman
+- name: Al Amin Securities Company Llc
+  swift: ASMLOMR1XXX
+  swift8: ASMLOMR1
+  branch_name: Head Office
+  branch_address: Al Amin Building 112 Ruwi
+  branch_code: XXX
+  city: Ruwi
+  country: Oman
+- name: Al Madina Financial And Investment Services Co. (s.a.o.g
+  swift: MFIEOMR1XXX
+  swift8: MFIEOMR1
+  branch_name: Head Office
+  branch_address: Qurum House 112 Ruwi
+  branch_code: XXX
+  city: Ruwi
+  country: Oman
+- name: Al Qurum Investment Services (saoc
+  swift: QURUOMR1XXX
+  swift8: QURUOMR1
+  branch_name: Head Office
+  branch_address: Al Qurum House 112 Ruwi
+  branch_code: XXX
+  city: Ruwi
+  country: Oman
+- name: Al Shalman Securities Co (saog
+  swift: SHEAOMR1XXX
+  swift8: SHEAOMR1
+  branch_name: Head Office
+  branch_address: Ikhtiyar Building 114 Muttrah
+  branch_code: XXX
+  city: Muttrah
+  country: Oman
+- name: Al Shurooq Securities Co Llc
+  swift: SHUROMR1XXX
+  swift8: SHUROMR1
+  branch_name: Head Office
+  branch_address: Al Shurooq Building 112 Ruwi
+  branch_code: XXX
+  city: Ruwi
+  country: Oman
+- name: Alizz Islamic Bank
+  swift: IZZBOMRUXXX
+  swift8: IZZBOMRU
+  branch_name: No branch name
+  branch_address: No branch address
+  branch_code: XXX
+  city: Muscat
+  country: Oman
+- name: Alizz Islamic Bank
+  swift: IZZBOMR1XXX
+  swift8: IZZBOMR1
+  branch_name: Head Office
+  branch_address: Golden Tower 2774 Muscat
+  branch_code: XXX
+  city: Muscat
+  country: Oman
+- name: Bank Dhofar (s.a.o.g.
+  swift: BDOFOMRUMIB
+  swift8: BDOFOMRU
+  branch_name: Maisarah Islamic Banking Services
+  branch_address: Ruwi
+  branch_code: MIB
+  city: Ruwi
+  country: Oman
+- name: Bank Dhofar (s.a.o.g.
+  swift: BDOFOMRUXXX
+  swift8: BDOFOMRU
+  branch_name: Head Office
+  branch_address: Bank Dhofar 112 Ruwi
+  branch_code: XXX
+  city: Ruwi
+  country: Oman
+- name: Bank Nizwa
+  swift: BNZWOMRXXXX
+  swift8: BNZWOMRX
+  branch_name: Head Office
+  branch_address: Ruwi 112 Muscat
+  branch_code: XXX
+  city: Muscat
+  country: Oman
+- name: Bank Of Baroda, Greater Muttrah Branch
+  swift: BARBOMMXSAL
+  swift8: BARBOMMX
+  branch_name: Salalah Branch
+  branch_address: P.O.Box 478, Postal Code 211, 211 Muttrah
+  branch_code: SAL
+  city: Muttrah
+  country: Oman
+- name: Bank Of Baroda, Greater Muttrah Branch
+  swift: BARBOMMXXXX
+  swift8: BARBOMMX
+  branch_name: Head Office
+  branch_address: Behind Indian Embassy Mbd Area 112 Ruwi
+  branch_code: XXX
+  city: Ruwi
+  country: Oman
+- name: Bank Of Beirut S.a.l.-oman Branch
+  swift: BABEOMRXXXX
+  swift8: BABEOMRX
+  branch_name: Head Office
+  branch_address: Al-Jawhara Building 114 Muscat
+  branch_code: XXX
+  city: Muscat
+  country: Oman
+- name: Bank Sohar S.a.o.g
+  swift: BSHROMRUISL
+  swift8: BSHROMRU
+  branch_name: Sohar Islamic
+  branch_address: Islamic Banking Services 44 Pc 114 Ruwi
+  branch_code: ISL
+  city: Ruwi
+  country: Oman
+- name: Bank Sohar S.a.o.g
+  swift: BSHROMRUXXX
+  swift8: BSHROMRU
+  branch_name: Head Office
+  branch_address: Head Office Ruwi
+  branch_code: XXX
+  city: Ruwi
+  country: Oman
+- name: Bankmuscat Saog
+  swift: BMUSOMRXXXX
+  swift8: BMUSOMRX
+  branch_name: Head Office
+  branch_address: Al Tijara Street 112 Muscat
+  branch_code: XXX
+  city: Muscat
+  country: Oman
+- name: Central Bank Of Oman
+  swift: CBOMOMRUXXX
+  swift8: CBOMOMRU
+  branch_name: Head Office
+  branch_address: Central Bank Ruwi
+  branch_code: XXX
+  city: Ruwi
+  country: Oman
+- name: Efg Hermes Oman Llc
+  swift: EFGHOMM1XXX
+  swift8: EFGHOMM1
+  branch_name: Head Office
+  branch_address: Noor Street Muscat
+  branch_code: XXX
+  city: Muscat
+  country: Oman
+- name: Financial Services Company Saog
+  swift: FIVOOMR1XXX
+  swift8: FIVOOMR1
+  branch_name: Head Office
+  branch_address: Pent House 112 Ruwi
+  branch_code: XXX
+  city: Ruwi
+  country: Oman
+- name: Global Financial Investments S.a.o.g
+  swift: GFISOMR1XXX
+  swift8: GFISOMR1
+  branch_name: Head Office
+  branch_address: Bank Dhofar Building 113 Muscat
+  branch_code: XXX
+  city: Ruwi / Muscat
+  country: Oman
+- name: Global Financial Services Co.
+  swift: FISOOMR1XXX
+  swift8: FISOOMR1
+  branch_name: Head Office
+  branch_address: Lu Lu Building 112 Ruwi
+  branch_code: XXX
+  city: Ruwi
+  country: Oman
+- name: Gulf Investment Services Co. (s.a.o.g
+  swift: GISCOMR1XXX
+  swift8: GISCOMR1
+  branch_name: Head Office
+  branch_address: Building 1295 112 Ruwi
+  branch_code: XXX
+  city: Ruwi
+  country: Oman
+- name: Habib Bank Oman
+  swift: HABBOMRXXXX
+  swift8: HABBOMRX
+  branch_name: Head Office
+  branch_address: 1326 Ruwi
+  branch_code: XXX
+  city: Ruwi
+  country: Oman
+- name: Hsbc Bank Oman S.a.o.g (formerly Hsbc Bank Middle East
+  swift: BBMEOMRXXXX
+  swift8: BBMEOMRX
+  branch_name: Head Office
+  branch_address: Bbme Building, Opposite Gto Tower Ruwi
+  branch_code: XXX
+  city: Ruwi
+  country: Oman
+- name: International Financial Services
+  swift: IFELOMR1XXX
+  swift8: IFELOMR1
+  branch_name: Head Office
+  branch_address: Mundhir Building 112 Ruwi
+  branch_code: XXX
+  city: Ruwi
+  country: Oman
+- name: Middle East Brokerage Company
+  swift: MEBCOMR1XXX
+  swift8: MEBCOMR1
+  branch_name: Head Office
+  branch_address: Ominvest Building 112 Ruwi
+  branch_code: XXX
+  city: Ruwi
+  country: Oman
+- name: Muscat Depository And Securities Registration Co Saoc
+  swift: MDSROMR1XXX
+  swift8: MDSROMR1
+  branch_name: Head Office
+  branch_address: Ruwi
+  branch_code: XXX
+  city: Ruwi
+  country: Oman
+- name: Muscat Securities Market
+  swift: XMUSOMM1XXX
+  swift8: XMUSOMM1
+  branch_name: Head Office
+  branch_address: Ruwi Muscat
+  branch_code: XXX
+  city: Muscat
+  country: Oman
+- name: Muzn Islamic Banking Trading Under National Bank Of Oman
+  swift: MUZNOMR1XXX
+  swift8: MUZNOMR1
+  branch_name: Head Office
+  branch_address: Nbo Head Office 112 Ruwi
+  branch_code: XXX
+  city: Ruwi
+  country: Oman
+- name: National Bank Of Abu Dhabi, Oman Main Branch
+  swift: NBADOMRXTFO
+  swift8: NBADOMRX
+  branch_name: Trade Finance Department
+  branch_address: Muttrah
+  branch_code: TFO
+  city: Muttrah
+  country: Oman
+- name: National Bank Of Abu Dhabi, Oman Main Branch
+  swift: NBADOMRXXXX
+  swift8: NBADOMRX
+  branch_name: Head Office
+  branch_address: Al Safa Building 113 Muscat
+  branch_code: XXX
+  city: Muscat
+  country: Oman
+- name: National Bank Of Oman
+  swift: NBOMOMRXIBS
+  swift8: NBOMOMRX
+  branch_name: Muzn Islamic Banking
+  branch_address: Ruwi
+  branch_code: IBS
+  city: Ruwi
+  country: Oman
+- name: National Bank Of Oman
+  swift: NBOMOMRXITF
+  swift8: NBOMOMRX
+  branch_name: Muzn Islamic Trade Finance
+  branch_address: Getco Building 112 Ruwi
+  branch_code: ITF
+  city: Ruwi
+  country: Oman
+- name: National Bank Of Oman
+  swift: NBOMOMRXTSS
+  swift8: NBOMOMRX
+  branch_name: Trade Services
+  branch_address: Muscat
+  branch_code: TSS
+  city: Muscat
+  country: Oman
+- name: National Bank Of Oman
+  swift: NBOMOMRXXXX
+  swift8: NBOMOMRX
+  branch_name: Head Office
+  branch_address: Muttrah Business District Area 112 Muscat
+  branch_code: XXX
+  city: Muscat
+  country: Oman
+- name: National Securities Company Saog
+  swift: NASGOMR1XXX
+  swift8: NASGOMR1
+  branch_name: Head Office
+  branch_address: Ernst and Young Building 118 Al Harthy Complex
+  branch_code: XXX
+  city: Al Harthy Complex
+  country: Oman
+- name: Octal Petrochemicals Fzc
+  swift: OPCFOMRXXXX
+  swift8: OPCFOMRX
+  branch_name: Head Office
+  branch_address: Al Rawaq Building 112 Muscat
+  branch_code: XXX
+  city: Muscat
+  country: Oman
+- name: Oman And Emirates Investment Holding Co Saog
+  swift: OMEMOMR1XXX
+  swift8: OMEMOMR1
+  branch_name: Head Office
+  branch_address: Majan House 112 Ruwi
+  branch_code: XXX
+  city: Ruwi
+  country: Oman
+- name: Oman And Uae Exchange Centre Co Llc
+  swift: OUAEOMRUXXX
+  swift8: OUAEOMRU
+  branch_name: Head Office
+  branch_address: O C Centre 131 Ruwi
+  branch_code: XXX
+  city: Ruwi
+  country: Oman
+- name: Oman Arab Bank Saoc
+  swift: OMABOMRUXXX
+  swift8: OMABOMRU
+  branch_name: Head Office
+  branch_address: Oab Building Ruwi
+  branch_code: XXX
+  city: Ruwi
+  country: Oman
+- name: Oman Arab Bank Saoc
+  swift: OMABOMRUYSR
+  swift8: OMABOMRU
+  branch_name: Al-Yusr Islamic Banking
+  branch_address: Ruwi
+  branch_code: YSR
+  city: Ruwi
+  country: Oman
+- name: Oman Banking Corp.
+  swift: BOGUOMR1XXX
+  swift8: BOGUOMR1
+  branch_name: Head Office
+  branch_address: Ruwi
+  branch_code: XXX
+  city: Ruwi
+  country: Oman
+- name: Oman International Development And Investment Company Saog
+  swift: OIDIOMR1XXX
+  swift8: OIDIOMR1
+  branch_name: Head Office
+  branch_address: Ominvest Building Ruwi
+  branch_code: XXX
+  city: Ruwi
+  country: Oman
+- name: Oman Investments Services (saoc
+  swift: OISOOMR1XXX
+  swift8: OISOOMR1
+  branch_name: Head Office
+  branch_address: Ruwi
+  branch_code: XXX
+  city: Ruwi
+  country: Oman
+- name: Oman Security Portfolio Co. (saog
+  swift: OSPOOMR1XXX
+  swift8: OSPOOMR1
+  branch_name: Head Office
+  branch_address: Ruwi
+  branch_code: XXX
+  city: Ruwi
+  country: Oman
+- name: Oman United Exchange Co. Llc
+  swift: OMUEOMR1XXX
+  swift8: OMUEOMR1
+  branch_name: Head Office
+  branch_address: Saeed Rajab Building 100 Muscat
+  branch_code: XXX
+  city: Muscat
+  country: Oman
+- name: State Bank Of India, Muscat, Oman
+  swift: SBINOMRXXXX
+  swift8: SBINOMRX
+  branch_name: Head Office
+  branch_address: Salah House 112 Muscat
+  branch_code: XXX
+  city: Muscat
+  country: Oman
+- name: United Securities L.l.c.
+  swift: USECOMR1XXX
+  swift8: USECOMR1
+  branch_name: Head Office
+  branch_address: Yasmin House 112 Ruwi
+  branch_code: XXX
+  city: Ruwi
+  country: Oman
+- name: Vision Investment Services Co (s.a.o.c
+  swift: VISIOMR1XXX
+  swift8: VISIOMR1
+  branch_name: Head Office
+  branch_address: Hurmuz Building 112 Ruwi
+  branch_code: XXX
+  city: Ruwi
+  country: Oman
+- name: Vision Securities Company Llc
+  swift: VSCLOMR1XXX
+  swift8: VSCLOMR1
+  branch_name: Head Office
+  branch_address: Hormuz 131 Muscat
+  branch_code: XXX
+  city: Muscat
+  country: Oman

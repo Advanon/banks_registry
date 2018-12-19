@@ -1,0 +1,770 @@
+---
+BY:
+- name: Alfa-Bank
+  swift: ALFABY2XXXX
+  swift8: ALFABY2X
+  branch_name: Head Office
+  branch_address: 12 Sovetskaya Street 220030 Minsk
+  branch_code: XXX
+  city: Minsk
+  country: Belarus
+- name: Bta Bank Cjsc
+  swift: AEBKBY2XXXX
+  swift8: AEBKBY2X
+  branch_name: Head Office
+  branch_address: V. Khoruzhey 20 220123 Minsk
+  branch_code: XXX
+  city: Minsk
+  country: Belarus
+- name: Bank Moscow-minsk Jsc
+  swift: MMBNBY21271
+  swift8: MMBNBY21
+  branch_name: Mogilev Branch
+  branch_address: Pionerskaya Str., 37a 212030 Mogilev
+  branch_code: '271'
+  city: Mogilev
+  country: Belarus
+- name: Bank Moscow-minsk Jsc
+  swift: MMBNBY21275
+  swift8: MMBNBY21
+  branch_name: Gomel Branch
+  branch_address: Lenina Avenue, 34 246017 Gomel
+  branch_code: '275'
+  city: Gomel
+  country: Belarus
+- name: Bank Moscow-minsk Jsc
+  swift: MMBNBY21277
+  swift8: MMBNBY21
+  branch_name: Vitebsk Branch
+  branch_address: Frunze Avenue, 35/1 210023 Vitebsk
+  branch_code: '277'
+  city: Vitebsk
+  country: Belarus
+- name: Bank Moscow-minsk Jsc
+  swift: MMBNBY21279
+  swift8: MMBNBY21
+  branch_name: Grodno Branch
+  branch_address: Bolshaya Troitskaya Str., 1 230023 Grodno
+  branch_code: '279'
+  city: Grodno
+  country: Belarus
+- name: Bank Moscow-minsk Jsc
+  swift: MMBNBY21282
+  swift8: MMBNBY21
+  branch_name: Brest Branch
+  branch_address: Sovetskaya Str.,49 224005 Brest
+  branch_code: '282'
+  city: Brest
+  country: Belarus
+- name: Bank Moscow-minsk Jsc
+  swift: MMBNBY22XXX
+  swift8: MMBNBY22
+  branch_name: Head Office
+  branch_address: Kommunisticheskaya Street 49 220002 Minsk
+  branch_code: XXX
+  city: Minsk
+  country: Belarus
+- name: "'belagroprombank' Jsc"
+  swift: BAPBBY2XXXX
+  swift8: BAPBBY2X
+  branch_name: Head Office
+  branch_address: 3 Zhukov Ave 220036 Minsk
+  branch_code: XXX
+  city: Minsk
+  country: Belarus
+- name: Absolutbank, Joint-stock Company
+  swift: ABLTBY22240
+  swift8: ABLTBY22
+  branch_name: Minsk Branch 101
+  branch_address: 4 Gusovskogo Str. 220073 Minsk
+  branch_code: '240'
+  city: Minsk
+  country: Belarus
+- name: Absolutbank, Joint-stock Company
+  swift: ABLTBY22XXX
+  swift8: ABLTBY22
+  branch_name: Head Office
+  branch_address: Independence Avenue 95 220023 Minsk
+  branch_code: XXX
+  city: Minsk
+  country: Belarus
+- name: Bank Belveb Ojsc
+  swift: BELBBY21201
+  swift8: BELBBY21
+  branch_name: Brest Regional Branch
+  branch_address: Ul. Pushkinskaya 16/1 224005 Brest
+  branch_code: '201'
+  city: Brest
+  country: Belarus
+- name: Bank Belveb Ojsc
+  swift: BELBBY21202
+  swift8: BELBBY21
+  branch_name: Mogilev Regional Branch
+  branch_address: Ul. Pionerskaya 26 212030 Mogilev
+  branch_code: '202'
+  city: Mogilev
+  country: Belarus
+- name: Bank Belveb Ojsc
+  swift: BELBBY21203
+  swift8: BELBBY21
+  branch_name: Borisov
+  branch_address: Ul. Gagarina 46a 222120 Borisov
+  branch_code: '203'
+  city: Borisov
+  country: Belarus
+- name: Bank Belveb Ojsc
+  swift: BELBBY21204
+  swift8: BELBBY21
+  branch_name: Grodno Regional Branch
+  branch_address: Pl. Sovetskaya 1 230025 Grodno
+  branch_code: '204'
+  city: Grodno
+  country: Belarus
+- name: Bank Belveb Ojsc
+  swift: BELBBY21205
+  swift8: BELBBY21
+  branch_name: Mozyr
+  branch_address: Ul. Saeta 4 247760 Mozir
+  branch_code: '205'
+  city: Mozir
+  country: Belarus
+- name: Bank Belveb Ojsc
+  swift: BELBBY21206
+  swift8: BELBBY21
+  branch_name: Orsha
+  branch_address: Ul. Mira 30 211030 Orsha
+  branch_code: '206'
+  city: Orsha
+  country: Belarus
+- name: Bank Belveb Ojsc
+  swift: BELBBY21207
+  swift8: BELBBY21
+  branch_name: Baranovichi
+  branch_address: Ul. Sovetskaya 82 225320 Baranovichi
+  branch_code: '207'
+  city: Baranovichi
+  country: Belarus
+- name: Bank Belveb Ojsc
+  swift: BELBBY21208
+  swift8: BELBBY21
+  branch_name: Vitebsk Regional Branch
+  branch_address: Al. Zamkovaya 4 210602 Vitebsk
+  branch_code: '208'
+  city: Vitebsk
+  country: Belarus
+- name: Bank Belveb Ojsc
+  swift: BELBBY21209
+  swift8: BELBBY21
+  branch_name: Minsk Branch 1
+  branch_address: Ul. Bogdanovicha 153 220040 Minsk
+  branch_code: '209'
+  city: Minsk
+  country: Belarus
+- name: Bank Belveb Ojsc
+  swift: BELBBY21210
+  swift8: BELBBY21
+  branch_name: Kobrin
+  branch_address: Ul. Dzerzhinskogo 61 225860 Kobrin
+  branch_code: '210'
+  city: Kobrin
+  country: Belarus
+- name: Bank Belveb Ojsc
+  swift: BELBBY21211
+  swift8: BELBBY21
+  branch_name: Molodechno
+  branch_address: Ul. Vilenskaya 10 222310 Molodechno
+  branch_code: '211'
+  city: Molodechno
+  country: Belarus
+- name: Bank Belveb Ojsc
+  swift: BELBBY21212
+  swift8: BELBBY21
+  branch_name: Pinsk
+  branch_address: Ul. Brestskaya 9 225710 Pinsk
+  branch_code: '212'
+  city: Pinsk
+  country: Belarus
+- name: Bank Belveb Ojsc
+  swift: BELBBY21213
+  swift8: BELBBY21
+  branch_name: Gomel Regional Branch
+  branch_address: Ul. Gagarina 55 246050 Gomel
+  branch_code: '213'
+  city: Gomel
+  country: Belarus
+- name: Bank Belveb Ojsc
+  swift: BELBBY21214
+  swift8: BELBBY21
+  branch_name: Bobruisk
+  branch_address: Ul. Internatsionalnaya 49 213819 Bobruisk
+  branch_code: '214'
+  city: Bobruisk
+  country: Belarus
+- name: Bank Belveb Ojsc
+  swift: BELBBY21215
+  swift8: BELBBY21
+  branch_name: Minsk Branch 2
+  branch_address: Ul. Kulman 2 220013 Minsk
+  branch_code: '215'
+  city: Minsk
+  country: Belarus
+- name: Bank Belveb Ojsc
+  swift: BELBBY21216
+  swift8: BELBBY21
+  branch_name: Lida
+  branch_address: Ul. Mitskevicha 23 231300 Lida
+  branch_code: '216'
+  city: Lida
+  country: Belarus
+- name: Bank Belveb Ojsc
+  swift: BELBBY21217
+  swift8: BELBBY21
+  branch_name: Minsk Branch 3
+  branch_address: Ul. Serova 4 220024 Minsk
+  branch_code: '217'
+  city: Minsk
+  country: Belarus
+- name: Bank Belveb Ojsc
+  swift: BELBBY21219
+  swift8: BELBBY21
+  branch_name: Volkovisk
+  branch_address: Ul. Lenina 37 231900 Volkovisk
+  branch_code: '219'
+  city: Volkovisk
+  country: Belarus
+- name: Bank Belveb Ojsc
+  swift: BELBBY21220
+  swift8: BELBBY21
+  branch_name: Minsk Branch 4
+  branch_address: Ul. Yakubova 10 220101 Minsk
+  branch_code: '220'
+  city: Minsk
+  country: Belarus
+- name: Bank Belveb Ojsc
+  swift: BELBBY21221
+  swift8: BELBBY21
+  branch_name: Rechitsa
+  branch_address: Ul. 10 Let Oktyabrya 6 247500 Rechitsa
+  branch_code: '221'
+  city: Rechitsa
+  country: Belarus
+- name: Belarusbank
+  swift: AKBBBY21100
+  swift8: AKBBBY21
+  branch_name: Brest Regional Branch 100
+  branch_address: 202 Brest
+  branch_code: '100'
+  city: Brest
+  country: Belarus
+- name: Belarusbank
+  swift: AKBBBY21113
+  swift8: AKBBBY21
+  branch_name: Kobrin Branch 113
+  branch_address: Suvorova Street 27 Kobrin
+  branch_code: '113'
+  city: Kobrin
+  country: Belarus
+- name: Belarusbank
+  swift: AKBBBY21121
+  swift8: AKBBBY21
+  branch_name: Pinsk Branch 121
+  branch_address: 35 Pinsk
+  branch_code: '121'
+  city: Pinsk
+  country: Belarus
+- name: Belarusbank
+  swift: AKBBBY21200
+  swift8: AKBBBY21
+  branch_name: Vitebsk Regional Branch 200
+  branch_address: 10b Vitebsk
+  branch_code: '200'
+  city: Vitebsk
+  country: Belarus
+- name: Belarusbank
+  swift: AKBBBY21214
+  swift8: AKBBBY21
+  branch_name: Novopolotsk Branch 214
+  branch_address: 4 Novopolotsk
+  branch_code: '214'
+  city: Novopolotsk
+  country: Belarus
+- name: Belarusbank
+  swift: AKBBBY21215
+  swift8: AKBBBY21
+  branch_name: Orsha Branch 215
+  branch_address: 81 Orsha
+  branch_code: '215'
+  city: Orsha
+  country: Belarus
+- name: Belarusbank
+  swift: AKBBBY21216
+  swift8: AKBBBY21
+  branch_name: Polotsk Branch 216
+  branch_address: 4 Polotsk
+  branch_code: '216'
+  city: Polotsk
+  country: Belarus
+- name: Belarusbank
+  swift: AKBBBY21300
+  swift8: AKBBBY21
+  branch_name: Gomel Regional Branch 300
+  branch_address: 6a Gomel
+  branch_code: '300'
+  city: Gomel
+  country: Belarus
+- name: Belarusbank
+  swift: AKBBBY21302
+  swift8: AKBBBY21
+  branch_name: Gomel Branch 302
+  branch_address: 32 Gomel
+  branch_code: '302'
+  city: Gomel
+  country: Belarus
+- name: Belarusbank
+  swift: AKBBBY21312
+  swift8: AKBBBY21
+  branch_name: Zhlobin Branch 312
+  branch_address: 23/2a Zhlobin
+  branch_code: '312'
+  city: Zhlobin
+  country: Belarus
+- name: Belarusbank
+  swift: AKBBBY21317
+  swift8: AKBBBY21
+  branch_name: Mozir Branch 317
+  branch_address: 130 Mozir
+  branch_code: '317'
+  city: Mozir
+  country: Belarus
+- name: Belarusbank
+  swift: AKBBBY21400
+  swift8: AKBBBY21
+  branch_name: Grodno Regional Branch 400
+  branch_address: 5 Grodno
+  branch_code: '400'
+  city: Grodno
+  country: Belarus
+- name: Belarusbank
+  swift: AKBBBY21402
+  swift8: AKBBBY21
+  branch_name: Volkovisk Branch 402
+  branch_address: Sovetskaya Street 20 Volkovisk
+  branch_code: '402'
+  city: Volkovisk
+  country: Belarus
+- name: Belarusbank
+  swift: AKBBBY21413
+  swift8: AKBBBY21
+  branch_name: Lida Branch 413
+  branch_address: Sovetskaya Street 10 Lida
+  branch_code: '413'
+  city: Lida
+  country: Belarus
+- name: Belarusbank
+  swift: AKBBBY21423
+  swift8: AKBBBY21
+  branch_name: Smorgon Branch 423
+  branch_address: 3b Smorgon
+  branch_code: '423'
+  city: Smorgon
+  country: Belarus
+- name: Belarusbank
+  swift: AKBBBY21500
+  swift8: AKBBBY21
+  branch_name: Minsk Regional Branch 500
+  branch_address: 69/1 Minsk
+  branch_code: '500'
+  city: Minsk
+  country: Belarus
+- name: Belarusbank
+  swift: AKBBBY21510
+  swift8: AKBBBY21
+  branch_name: Minsk Branch 510
+  branch_address: 18 Minsk
+  branch_code: '510'
+  city: Minsk
+  country: Belarus
+- name: Belarusbank
+  swift: AKBBBY21511
+  swift8: AKBBBY21
+  branch_name: Minsk Branch 511
+  branch_address: Dolgobrodskaya Street 1 Minsk
+  branch_code: '511'
+  city: Minsk
+  country: Belarus
+- name: Belarusbank
+  swift: AKBBBY21514
+  swift8: AKBBBY21
+  branch_name: Minsk Branch 514
+  branch_address: 47a Minsk
+  branch_code: '514'
+  city: Minsk
+  country: Belarus
+- name: Belarusbank
+  swift: AKBBBY21519
+  swift8: AKBBBY21
+  branch_name: Minsk Branch 519
+  branch_address: 69/1 Minsk
+  branch_code: '519'
+  city: Minsk
+  country: Belarus
+- name: Belarusky Narodny Bank
+  swift: BLNBBY2XXXX
+  swift8: BLNBBY2X
+  branch_name: Head Office
+  branch_address: Pr. Nezavisimosti 87-a 220012 Minsk
+  branch_code: XXX
+  city: Minsk
+  country: Belarus
+- name: Belinvestbank Jsc
+  swift: BLBBBY21739
+  swift8: BLBBBY21
+  branch_name: General Operational Department
+  branch_address: Varvasheny Street 81 220002 Minsk
+  branch_code: '739'
+  city: Minsk
+  country: Belarus
+- name: Belinvestbank Jsc
+  swift: BLBBBY2XBRD
+  swift8: BLBBBY2X
+  branch_name: Brest Regional Branch
+  branch_address: Veri Horuzei Street 8 224030 Brest
+  branch_code: BRD
+  city: Brest
+  country: Belarus
+- name: Belinvestbank Jsc
+  swift: BLBBBY2XCBD
+  swift8: BLBBBY2X
+  branch_name: Branch 539
+  branch_address: Minsk
+  branch_code: CBD
+  city: Minsk
+  country: Belarus
+- name: Belinvestbank Jsc
+  swift: BLBBBY2XGOM
+  swift8: BLBBBY2X
+  branch_name: Gomel Regional Branch
+  branch_address: Sovetskaya Street 48 246022 Gomel
+  branch_code: GOM
+  city: Gomel
+  country: Belarus
+- name: Belinvestbank Jsc
+  swift: BLBBBY2XGRD
+  swift8: BLBBBY2X
+  branch_name: Grodno Regional Directorate
+  branch_address: Grodno
+  branch_code: GRD
+  city: Grodno
+  country: Belarus
+- name: Belinvestbank Jsc
+  swift: BLBBBY2XMOG
+  swift8: BLBBBY2X
+  branch_name: Mogilev Regional Directorate
+  branch_address: Mogilev
+  branch_code: MOG
+  city: Mogilev
+  country: Belarus
+- name: Belinvestbank Jsc
+  swift: BLBBBY2XMRD
+  swift8: BLBBBY2X
+  branch_name: Branch 537
+  branch_address: Minsk
+  branch_code: MRD
+  city: Minsk
+  country: Belarus
+- name: Belinvestbank Jsc
+  swift: BLBBBY2XVRD
+  swift8: BLBBBY2X
+  branch_name: Vitebsk Regional Branch
+  branch_address: Lenin Street 17 210015 Vitebsk
+  branch_code: VRD
+  city: Vitebsk
+  country: Belarus
+- name: Belinvestbank Jsc
+  swift: BLBBBY2XXXX
+  swift8: BLBBBY2X
+  branch_name: Head Office
+  branch_address: 29 Masherova Av. 220002 Minsk
+  branch_code: XXX
+  city: Minsk
+  country: Belarus
+- name: Belorussian-russian Belgazprombank
+  swift: OLMPBY21107
+  swift8: OLMPBY21
+  branch_name: Branch 4
+  branch_address: 5 Romanovskaya Sloboda Street 220048 Minsk
+  branch_code: '107'
+  city: Minsk
+  country: Belarus
+- name: Belorussian-russian Belgazprombank Joint Stock
+  swift: OLMPBY21130
+  swift8: OLMPBY21
+  branch_name: Branch 1
+  branch_address: 41 Mogilyovskaya Street 220007 Minsk
+  branch_code: '130'
+  city: Minsk
+  country: Belarus
+- name: Belorussian-russian Belgazprombank Joint Stock
+  swift: OLMPBY21171
+  swift8: OLMPBY21
+  branch_name: Branch 3
+  branch_address: 13/1 Ya Kupala Street 224000 Brest
+  branch_code: '171'
+  city: Brest
+  country: Belarus
+- name: Belorussian-russian Belgazprombank Joint Stock
+  swift: OLMPBY21180
+  swift8: OLMPBY21
+  branch_name: Branch 2
+  branch_address: 116 Bogdanovich Street 220040 Minsk
+  branch_code: '180'
+  city: Minsk
+  country: Belarus
+- name: Belorussian-russian Belgazprombank Joint Stock
+  swift: OLMPBY21194
+  swift8: OLMPBY21
+  branch_name: Branch 6
+  branch_address: Kalinovskogo Street 63a 230030 Grodno
+  branch_code: '194'
+  city: Grodno
+  country: Belarus
+- name: Belorussian-russian Belgazprombank Joint Stock
+  swift: OLMPBY21232
+  swift8: OLMPBY21
+  branch_name: Branch 7
+  branch_address: Vitebsky Ave, 4 220004 Mogilev
+  branch_code: '232'
+  city: Mogilev
+  country: Belarus
+- name: Belorussian-russian Belgazprombank Joint Stock
+  swift: OLMPBY21238
+  swift8: OLMPBY21
+  branch_name: Branch 5
+  branch_address: 2/44 Ya Kupala Street 210026 Vitebsk
+  branch_code: '238'
+  city: Vitebsk
+  country: Belarus
+- name: Belorussian-russian Belgazprombank Joint Stock
+  swift: OLMPBY21758
+  swift8: OLMPBY21
+  branch_name: Branch 8
+  branch_address: Malaichuka Street 12 246032 Gomel
+  branch_code: '758'
+  city: Gomel
+  country: Belarus
+- name: Belorussian-russian Belgazprombank Joint Stock
+  swift: OLMPBY2XXXX
+  swift8: OLMPBY2X
+  branch_name: Head Office
+  branch_address: Pritytskogo Street 60/2 220121 Minsk
+  branch_code: XXX
+  city: Minsk
+  country: Belarus
+- name: Belswiss Bank
+  swift: UNBSBY2XXXX
+  swift8: UNBSBY2X
+  branch_name: Head Office
+  branch_address: Pobediteley Avenue,23/3 220004 Minsk
+  branch_code: XXX
+  city: Minsk
+  country: Belarus
+- name: Bps-sberbank
+  swift: BPSBBY2XXXX
+  swift8: BPSBBY2X
+  branch_name: Head Office
+  branch_address: 6 Mouliavin Boulevard 220005 Minsk
+  branch_code: XXX
+  city: Minsk
+  country: Belarus
+- name: Cjsc Vtb Bank (belarus
+  swift: SLANBY22XXX
+  swift8: SLANBY22
+  branch_name: Head Office
+  branch_address: 51, K.Tsetkin Street 220004 Minsk
+  branch_code: XXX
+  city: Minsk
+  country: Belarus
+- name: Eurotorginvestbank Joint Stock Company
+  swift: IRJSBY22XXX
+  swift8: IRJSBY22
+  branch_name: Head Office
+  branch_address: Pereulok Promishlennii 11 220075 Minsk
+  branch_code: XXX
+  city: Minsk
+  country: Belarus
+- name: Fransabank Ojsc
+  swift: GTBNBY22XXX
+  swift8: GTBNBY22
+  branch_name: Head Office
+  branch_address: 3 Tatarskaya Street 220035 Minsk
+  branch_code: XXX
+  city: Minsk
+  country: Belarus
+- name: Home Credit Bank
+  swift: LOJSBY22XXX
+  swift8: LOJSBY22
+  branch_name: Head Office
+  branch_address: 25 Inzhenernaya 220075 Minsk
+  branch_code: XXX
+  city: Minsk
+  country: Belarus
+- name: Idea Bank
+  swift: SOMABY22XXX
+  swift8: SOMABY22
+  branch_name: Head Office
+  branch_address: K. Marks 25 220050 Minsk
+  branch_code: XXX
+  city: Minsk
+  country: Belarus
+- name: Joint Stock Company 'technobank'
+  swift: TECNBY22XXX
+  swift8: TECNBY22
+  branch_name: Head Office
+  branch_address: 44 Kropotkina Street 220002 Minsk
+  branch_code: XXX
+  city: Minsk
+  country: Belarus
+- name: Joint-stock Company 'development Bank Of The Republic Of Belarus'
+  swift: BRRBBY2XXXX
+  swift8: BRRBBY2X
+  branch_name: Head Office
+  branch_address: Masherov Avenue 35 220002 Minsk
+  branch_code: XXX
+  city: Minsk
+  country: Belarus
+- name: Minsk Transit Bank
+  swift: MTBKBY22XXX
+  swift8: MTBKBY22
+  branch_name: Head Office
+  branch_address: Partizansky Avenue 6a 220033 Minsk
+  branch_code: XXX
+  city: Minsk
+  country: Belarus
+- name: National Bank Of Republic Belarus
+  swift: NBRBBY2XXXX
+  swift8: NBRBBY2X
+  branch_name: Head Office
+  branch_address: 20 Nezavisimosty Avenue 220008 Minsk
+  branch_code: XXX
+  city: Minsk
+  country: Belarus
+- name: Open Joint-stock Company 'paritetbank', Minsk
+  swift: POISBY2XXXX
+  swift8: POISBY2X
+  branch_name: Head Office
+  branch_address: Gamarnik Street 9/4 220090 Minsk
+  branch_code: XXX
+  city: Minsk
+  country: Belarus
+- name: Priorbank
+  swift: PJCBBY2XBRS
+  swift8: PJCBBY2X
+  branch_name: Brest Branch
+  branch_address: Brest
+  branch_code: BRS
+  city: Brest
+  country: Belarus
+- name: Priorbank
+  swift: PJCBBY2XGML
+  swift8: PJCBBY2X
+  branch_name: Gomel Branch
+  branch_address: Gomel
+  branch_code: GML
+  city: Gomel
+  country: Belarus
+- name: Priorbank
+  swift: PJCBBY2XGRD
+  swift8: PJCBBY2X
+  branch_name: Grodno Branch
+  branch_address: Grodno
+  branch_code: GRD
+  city: Grodno
+  country: Belarus
+- name: Priorbank
+  swift: PJCBBY2XMGL
+  swift8: PJCBBY2X
+  branch_name: Mogilev Branch
+  branch_address: Mogilev
+  branch_code: MGL
+  city: Mogilev
+  country: Belarus
+- name: Priorbank
+  swift: PJCBBY2XMNK
+  swift8: PJCBBY2X
+  branch_name: Minsk Branch
+  branch_address: Minsk
+  branch_code: MNK
+  city: Minsk
+  country: Belarus
+- name: Priorbank
+  swift: PJCBBY2XVTB
+  swift8: PJCBBY2X
+  branch_name: Vitebsk Branch
+  branch_address: Vitebsk
+  branch_code: VTB
+  city: Vitebsk
+  country: Belarus
+- name: Priorbank
+  swift: PJCBBY2XXXX
+  swift8: PJCBBY2X
+  branch_name: Head Office
+  branch_address: V. Khoruzhey Street 31a 220002 Minsk
+  branch_code: XXX
+  city: Minsk
+  country: Belarus
+- name: Reconversion And Development Bank Jsb
+  swift: REDJBY22XXX
+  swift8: REDJBY22
+  branch_name: Head Office
+  branch_address: Krasnozvezdnaya Street 18 220034 Minsk
+  branch_code: XXX
+  city: Minsk
+  country: Belarus
+- name: Reconversion And Development Bank Jsb
+  swift: REDJBY21258
+  swift8: REDJBY21
+  branch_name: Branch 2-Vitebsk
+  branch_address: 6 Pushkina Street 210026 Vitebsk
+  branch_code: '258'
+  city: Vitebsk
+  country: Belarus
+- name: Republican Unitary Enterprise 'republican Central Ecurities Depository'
+  swift: RUERBY21XXX
+  swift8: RUERBY21
+  branch_name: Head Office
+  branch_address: Melnikajte 220004 Minsk
+  branch_code: XXX
+  city: Minsk
+  country: Belarus
+- name: Severny Investicionny Bank
+  swift: SEVNBY21XXX
+  swift8: SEVNBY21
+  branch_name: Head Office
+  branch_address: F. Skorina Avenue 58 220005 Minsk
+  branch_code: XXX
+  city: Minsk
+  country: Belarus
+- name: Trade And Industrial Bank S.a.
+  swift: TRIUBY21XXX
+  swift8: TRIUBY21
+  branch_name: Head Office
+  branch_address: 8 Russianov Street 220141 Minsk
+  branch_code: XXX
+  city: Minsk
+  country: Belarus
+- name: Trustbank
+  swift: TRUEBY2XXXX
+  swift8: TRUEBY2X
+  branch_name: Head Office
+  branch_address: 11 Ignatenko 220035 Minsk
+  branch_code: XXX
+  city: Minsk
+  country: Belarus
+- name: Zepter Bank
+  swift: ZEPTBY2XXXX
+  swift8: ZEPTBY2X
+  branch_name: Head Office
+  branch_address: Victoria Plaza 220034 Minsk
+  branch_code: XXX
+  city: Minsk
+  country: Belarus

@@ -1,0 +1,594 @@
+---
+IL:
+- name: Bank Hapoalim B.M.
+  swift: POALILITBKR
+  swift8: POALILIT
+  branch_name: Forex and Money Market Confirmations
+  branch_address: Tel-Aviv
+  branch_code: BKR
+  city: Tel-Aviv
+  country: Israel
+- name: Bank Hapoalim B.M.
+  swift: POALILITCBS
+  swift8: POALILIT
+  branch_name: Securities
+  branch_address: Tel-Aviv
+  branch_code: CBS
+  city: Tel-Aviv
+  country: Israel
+- name: Bank Hapoalim B.M.
+  swift: POALILITCLS
+  swift8: POALILIT
+  branch_name: Cls
+  branch_address: Tel-Aviv
+  branch_code: CLS
+  city: Tel-Aviv
+  country: Israel
+- name: Bank Hapoalim B.M.
+  swift: POALILITDLR
+  swift8: POALILIT
+  branch_name: Forex and Money Market Payments
+  branch_address: Tel-Aviv
+  branch_code: DLR
+  city: Tel-Aviv
+  country: Israel
+- name: Bank Hapoalim B.M.
+  swift: POALILITFMT
+  swift8: POALILIT
+  branch_name: Foreign Currency for All Branches in Israel
+  branch_address: Tel-Aviv
+  branch_code: FMT
+  city: Tel-Aviv
+  country: Israel
+- name: Bank Hapoalim B.M.
+  swift: POALILITFTD
+  swift8: POALILIT
+  branch_name: Foreign Trade for All Branches in Israel
+  branch_address: Tel-Aviv
+  branch_code: FTD
+  city: Tel-Aviv
+  country: Israel
+- name: Bank Hapoalim B.M.
+  swift: POALILITXXX
+  swift8: POALILIT
+  branch_name: Head Office
+  branch_address: 50 Rothschild Boulevard Tel-Aviv 61000
+  branch_code: XXX
+  city: Tel-Aviv
+  country: Israel
+- name: Bank Leumi Le Israel B.M.
+  swift: LUMIILITHAI
+  swift8: LUMIILIT
+  branch_name: Haifa Branch
+  branch_address: Haifa
+  branch_code: HAI
+  city: Haifa
+  country: Israel
+- name: Bank Leumi Le Israel B.M.
+  swift: LUMIILITBSC
+  swift8: LUMIILIT
+  branch_name: Banking Services Center
+  branch_address: Tel-Aviv
+  branch_code: BSC
+  city: Tel-Aviv
+  country: Israel
+- name: Bank Leumi Le Israel B.M.
+  swift: LUMIILITCLS
+  swift8: LUMIILIT
+  branch_name: Cls Operations
+  branch_address: Tel-Aviv
+  branch_code: CLS
+  city: Tel-Aviv
+  country: Israel
+- name: Bank Leumi Le Israel B.M.
+  swift: LUMIILITTLV
+  swift8: LUMIILIT
+  branch_name: Tel-Aviv Main Branch
+  branch_address: Tel-Aviv
+  branch_code: TLV
+  city: Tel-Aviv
+  country: Israel
+- name: Bank Leumi Le Israel B.M.
+  swift: LUMIILITXXX
+  swift8: LUMIILIT
+  branch_name: Tel-Aviv Main Branch
+  branch_address: 32-34 Yehuda Halevi Street Tel-Aviv 61000
+  branch_code: XXX
+  city: Tel-Aviv
+  country: Israel
+- name: Bank Leumi Le Israel B.M.
+  swift: LUMIILITJLM
+  swift8: LUMIILIT
+  branch_name: Jerusalem Branch
+  branch_address: Jerusalem
+  branch_code: JLM
+  city: Jerusalem
+  country: Israel
+- name: Bank Massad Ltd.
+  swift: MASBILITXXX
+  swift8: MASBILIT
+  branch_name: Head Office
+  branch_address: 80 Rothschild Blvd. Tel-Aviv 61025
+  branch_code: XXX
+  city: Tel-Aviv
+  country: Israel
+- name: Bank Of Israel
+  swift: BOICILIJXXX
+  swift8: BOICILIJ
+  branch_name: Head Office
+  branch_address: Kaplan 2 Jerusalem
+  branch_code: XXX
+  city: Jerusalem
+  country: Israel
+- name: Bank Of Israel
+  swift: ISRAILIJXXX
+  swift8: ISRAILIJ
+  branch_name: Head Office
+  branch_address: 2 Bank of Israel Street Jerusalem 91950
+  branch_code: XXX
+  city: Jerusalem
+  country: Israel
+- name: Bank Of Israel
+  swift: ISRAILIRXXX
+  swift8: ISRAILIR
+  branch_name: Head Office
+  branch_address: Kaplan Street Jerusalem 91950
+  branch_code: XXX
+  city: Jerusalem
+  country: Israel
+- name: Bank Of Jerusalem Ltd. Tel-Aviv
+  swift: JERSILITXXX
+  swift8: JERSILIT
+  branch_name: Head Office
+  branch_address: Shalom Tower Tel-Aviv 61294
+  branch_code: XXX
+  city: Tel-Aviv
+  country: Israel
+- name: Bank Otsar Ha-Hayal Ltd.
+  swift: OTSHILITXXX
+  swift8: OTSHILIT
+  branch_name: Head Office
+  branch_address: 11, Menachem Begin Street Ramat-Gan 52521
+  branch_code: XXX
+  city: Ramat-Gan
+  country: Israel
+- name: Citibank N.A
+  swift: CITIILITTRD
+  swift8: CITIILIT
+  branch_name: Trade Services Dept
+  branch_address: Platinium Building Tel-Aviv
+  branch_code: TRD
+  city: Tel-Aviv
+  country: Israel
+- name: Citibank N.A
+  swift: CITIILITXXX
+  swift8: CITIILIT
+  branch_name: Head Office
+  branch_address: Platinum Building Tel-Aviv 64739
+  branch_code: XXX
+  city: Tel-Aviv
+  country: Israel
+- name: Dexia Israel Bank Ltd
+  swift: OTHHILITXXX
+  swift8: OTHHILIT
+  branch_name: Head Office
+  branch_address: Hatichon Bulding Tel-Aviv 64739
+  branch_code: XXX
+  city: Tel-Aviv
+  country: Israel
+- name: Dexia Israel Bank Ltd
+  swift: OTHHILI1XXX
+  swift8: OTHHILI1
+  branch_name: Head Office
+  branch_address: Hatichon Bulding Tel-Aviv 64739
+  branch_code: XXX
+  city: Tel-Aviv
+  country: Israel
+- name: First International Bank Of Israel Ltd.,The
+  swift: FIRBILITDEX
+  swift8: FIRBILIT
+  branch_name: Diamond Exchange Branch
+  branch_address: 1 Jabotinsky Street Ramat-Gan
+  branch_code: DEX
+  city: Ramat-Gan
+  country: Israel
+- name: First International Bank Of Israel Ltd.,The
+  swift: FIRBILITCBR
+  swift8: FIRBILIT
+  branch_name: Tel-Aviv
+  branch_address: Hashalom Tower Tel-Aviv 65251
+  branch_code: CBR
+  city: Tel-Aviv
+  country: Israel
+- name: First International Bank Of Israel Ltd.,The
+  swift: FIRBILITXXX
+  swift8: FIRBILIT
+  branch_name: Head Office
+  branch_address: 9 Ahad Haam Street Tel-Aviv 65251
+  branch_code: XXX
+  city: Tel-Aviv
+  country: Israel
+- name: Israel Discount Bank Ltd
+  swift: IDBLILITHAI
+  swift8: IDBLILIT
+  branch_name: Haifa
+  branch_address: 47 Haatzmaut Road Haifa 31339
+  branch_code: HAI
+  city: Haifa
+  country: Israel
+- name: Israel Discount Bank Ltd
+  swift: IDBLILITDMD
+  swift8: IDBLILIT
+  branch_name: Diamond Exchange
+  branch_address: Diamond Exchange Building Ramat-Gan 52520
+  branch_code: DMD
+  city: Ramat-Gan
+  country: Israel
+- name: Israel Discount Bank Ltd
+  swift: IDBLILITXXX
+  swift8: IDBLILIT
+  branch_name: Head Office
+  branch_address: 27-31 Yehuda Halevi Street Tel-Aviv 65136
+  branch_code: XXX
+  city: Tel-Aviv
+  country: Israel
+- name: Israel Postal Bank
+  swift: IPOAILIJXXX
+  swift8: IPOAILIJ
+  branch_name: Head Office
+  branch_address: 217 Jaffa Road Jerusalem
+  branch_code: XXX
+  city: Jerusalem
+  country: Israel
+- name: Mercantile Discount Bank Ltd.
+  swift: BARDILITXXX
+  swift8: BARDILIT
+  branch_name: Head Office
+  branch_address: Hayovel Tower Tel-Aviv 67012
+  branch_code: XXX
+  city: Tel-Aviv
+  country: Israel
+- name: Mizrahi Tefahot Bank Ltd
+  swift: MIZBILITBSV
+  swift8: MIZBILIT
+  branch_name: Beer-Sheva Main Branch
+  branch_address: 60 Herzl Street Beer-Sheva 84102
+  branch_code: BSV
+  city: Beer-Sheva
+  country: Israel
+- name: Mizrahi Tefahot Bank Ltd
+  swift: MIZBILITDMD
+  swift8: MIZBILIT
+  branch_name: Diamond Exchange Branch
+  branch_address: 1 Jabotinsky Road Ramat-Gan 52520
+  branch_code: DMD
+  city: Ramat-Gan
+  country: Israel
+- name: Mizrahi Tefahot Bank Ltd
+  swift: MIZBILITJLM
+  swift8: MIZBILIT
+  branch_name: Jerusalem Main Branch
+  branch_address: 2 Ben Yehuda Street Jerusalem 94622
+  branch_code: JLM
+  city: Jerusalem
+  country: Israel
+- name: Mizrahi Tefahot Bank Ltd
+  swift: MIZBILITHAI
+  swift8: MIZBILIT
+  branch_name: Haifa Main Branch
+  branch_address: 64 Haatzmaut Road Haifa 33033
+  branch_code: HAI
+  city: Haifa
+  country: Israel
+- name: Mizrahi Tefahot Bank Ltd
+  swift: MIZBILITTLV
+  swift8: MIZBILIT
+  branch_name: Tel-Aviv Main Branch
+  branch_address: 48 Lilienblum Street Tel-Aviv 65134
+  branch_code: TLV
+  city: Tel-Aviv
+  country: Israel
+- name: Mizrahi Tefahot Bank Ltd
+  swift: MIZBILITXXX
+  swift8: MIZBILIT
+  branch_name: Head Office
+  branch_address: 17, Lincoln Street Tel-Aviv 67134
+  branch_code: XXX
+  city: Tel-Aviv
+  country: Israel
+- name: State Bank Of India
+  swift: SBINILITXXX
+  swift8: SBINILIT
+  branch_name: Head Office
+  branch_address: Shimshon - Diamond Bourse Ramat-Gan 03 52520
+  branch_code: XXX
+  city: Ramat-Gan
+  country: Israel
+- name: Tel Aviv Stock Exchange
+  swift: XTAEILICXXX
+  swift8: XTAEILIC
+  branch_name: Head Office
+  branch_address: 54 Ahad Haam Tel-Aviv 65202
+  branch_code: XXX
+  city: Tel-Aviv
+  country: Israel
+- name: Tel Aviv Stock Exchange
+  swift: XTAEILIBXXX
+  swift8: XTAEILIB
+  branch_name: Head Office
+  branch_address: Ahad Haam Street 54 Tel-Aviv
+  branch_code: XXX
+  city: Tel-Aviv
+  country: Israel
+- name: Tel Aviv Stock Exchange
+  swift: XTAEILIMXXX
+  swift8: XTAEILIM
+  branch_name: Head Office
+  branch_address: Ahad Haam Street 54 Tel-Aviv
+  branch_code: XXX
+  city: Tel-Aviv
+  country: Israel
+- name: Tel-Aviv Stock Exchange Clearing House
+  swift: XTAEILITXXX
+  swift8: XTAEILIT
+  branch_name: Head Office
+  branch_address: Tel-Aviv Stock Exchange Tel-Aviv 65202
+  branch_code: XXX
+  city: Tel-Aviv
+  country: Israel
+- name: Union Bank Of Israel Ltd
+  swift: UNBKILITHAI
+  swift8: UNBKILIT
+  branch_name: Haifa
+  branch_address: 63 Haatzmauth Road Haifa 31013
+  branch_code: HAI
+  city: Haifa
+  country: Israel
+- name: Union Bank Of Israel Ltd
+  swift: UNBKILITJLM
+  swift8: UNBKILIT
+  branch_name: Jerusalem
+  branch_address: 34 Jaffa Street Jerusalem 91008
+  branch_code: JLM
+  city: Jerusalem
+  country: Israel
+- name: Union Bank Of Israel Ltd
+  swift: UNBKILITINT
+  swift8: UNBKILIT
+  branch_name: International Branch
+  branch_address: 6-8 Ahuzat Bayit Street Tel-Aviv 61024
+  branch_code: INT
+  city: Tel-Aviv
+  country: Israel
+- name: Union Bank Of Israel Ltd
+  swift: UNBKILITTLV
+  swift8: UNBKILIT
+  branch_name: Tel-Aviv Head Office
+  branch_address: 6-8 Ahuzat Bayit Street Tel-Aviv 61024
+  branch_code: TLV
+  city: Tel-Aviv
+  country: Israel
+- name: Union Bank Of Israel Ltd
+  swift: UNBKILITXXX
+  swift8: UNBKILIT
+  branch_name: Head Office
+  branch_address: 6-8 Ahuzat Bayit Street Tel-Aviv 61024
+  branch_code: XXX
+  city: Tel-Aviv
+  country: Israel
+- name: Union Bank Of Israel Ltd
+  swift: UNBKILITDMD
+  swift8: UNBKILIT
+  branch_name: Diamond Branch
+  branch_address: Diamond Exchange Building Ramat-Gan 52130
+  branch_code: DMD
+  city: Ramat-Gan
+  country: Israel
+- name: Arab Israel Bank Ltd
+  swift: ARISILI1XXX
+  swift8: ARISILI1
+  branch_name: Head Office
+  branch_address: Alir Nesher 36750
+  branch_code: XXX
+  city: Nesher
+  country: Israel
+- name: Bank Yahav For Goverment Employees Ltd
+  swift: BYAHILI1XXX
+  swift8: BYAHILI1
+  branch_name: Head Office
+  branch_address: Beit Yahav Jerusalem 94467
+  branch_code: XXX
+  city: Jerusalem
+  country: Israel
+- name: Barak Capital G.t Limited
+  swift: BRTPILI1XXX
+  swift8: BRTPILI1
+  branch_name: No branch name
+  branch_address: No branch address
+  branch_code: XXX
+  city: Tel-Aviv
+  country: Israel
+- name: Batucha Securities And Investments Limited
+  swift: BASVILI1XXX
+  swift8: BASVILI1
+  branch_name: Head Office
+  branch_address: 8 Karl Netter Street Tel-Aviv
+  branch_code: XXX
+  city: Tel-Aviv
+  country: Israel
+- name: Bnp Paribas Israel
+  swift: BNPAILI1XXX
+  swift8: BNPAILI1
+  branch_name: Head Office
+  branch_address: Beit Asia Ltd Tel-Aviv 64239
+  branch_code: XXX
+  city: Tel-Aviv
+  country: Israel
+- name: Bnp Paribas Israel
+  swift: BNPAILITXXX
+  swift8: BNPAILIT
+  branch_name: Head Office
+  branch_address: Beit Asia Ltd Tel-Aviv 64239
+  branch_code: XXX
+  city: Tel-Aviv
+  country: Israel
+- name: Brevan Howard (israel) Limited
+  swift: BRHRILI1XXX
+  swift8: BRHRILI1
+  branch_name: Head Office
+  branch_address: 7 Menachem Begin Street Ramat-Gan 52521
+  branch_code: XXX
+  city: Ramat-Gan
+  country: Israel
+- name: Citigroup Financial Products Israel Limited
+  swift: CFPSILI1XXX
+  swift8: CFPSILI1
+  branch_name: Head Office
+  branch_address: Platinum Tower Tel-Aviv 64739
+  branch_code: XXX
+  city: Tel-Aviv
+  country: Israel
+- name: Contech Lp
+  swift: CONHILI1XXX
+  swift8: CONHILI1
+  branch_name: Head Office
+  branch_address: 7 Yad Harutzim Street Herzeliya 46730
+  branch_code: XXX
+  city: Herzeliya
+  country: Israel
+- name: Ds Stock Exchange Services Ltd.
+  swift: STXSILI1XXX
+  swift8: STXSILI1
+  branch_name: Head Office
+  branch_address: Discount Tower - 20th Floor Tel-Aviv 65136
+  branch_code: XXX
+  city: Tel-Aviv
+  country: Israel
+- name: Excellence Nessuah Brokerage Services Limited
+  swift: ZNNXILI1XXX
+  swift8: ZNNXILI1
+  branch_name: Head Office
+  branch_address: Aviv Tower Ramat-Gan 52521
+  branch_code: XXX
+  city: Ramat-Gan
+  country: Israel
+- name: Five Capital Markets Ltd.
+  swift: FIPKILI1XXX
+  swift8: FIPKILI1
+  branch_name: No branch name
+  branch_address: No branch address
+  branch_code: XXX
+  city: Haifa
+  country: Israel
+- name: Fs Mizrahi Tefahot Bank Ltd Ramat Gan
+  swift: MITGILI1XXX
+  swift8: MITGILI1
+  branch_name: Head Office
+  branch_address: 7 Jabotinsky St Ramat-Gan 52520
+  branch_code: XXX
+  city: Ramat-Gan
+  country: Israel
+- name: Hsbc Bank Plc, Tel Aviv
+  swift: HSBCILITXXX
+  swift8: HSBCILIT
+  branch_name: Head Office
+  branch_address: Beit Mozes Tel-Aviv 65786
+  branch_code: XXX
+  city: Tel-Aviv
+  country: Israel
+- name: Investsoft Ltd
+  swift: IVSOILI1XXX
+  swift8: IVSOILI1
+  branch_name: Head Office
+  branch_address: Matam Haifa 31905
+  branch_code: XXX
+  city: Haifa
+  country: Israel
+- name: Israel Brokerage And Investment Limited
+  swift: ISBNILI1XXX
+  swift8: ISBNILI1
+  branch_name: Head Office
+  branch_address: Po Box 29161 Tel-Aviv 67291
+  branch_code: XXX
+  city: Tel-Aviv
+  country: Israel
+- name: Israel Credit Cards Ltd.
+  swift: ICCEILI1XXX
+  swift8: ICCEILI1
+  branch_name: Head Office
+  branch_address: Tfuzot Israel 13 Givatayim
+  branch_code: XXX
+  city: Givatayim
+  country: Israel
+- name: Leader And Co. Investments
+  swift: LEINILI1XXX
+  swift8: LEINILI1
+  branch_name: Head Office
+  branch_address: 21 Haarbaa St. Tel-Aviv
+  branch_code: XXX
+  city: Tel-Aviv
+  country: Israel
+- name: Magna Asset Management
+  swift: MGATILI1XXX
+  swift8: MGATILI1
+  branch_name: Head Office
+  branch_address: 28a Rothschild Boulevard Tel-Aviv 66882
+  branch_code: XXX
+  city: Tel-Aviv
+  country: Israel
+- name: Meitav Brokerage Services Gaon Trade) Ltd
+  swift: MBSGILI1XXX
+  swift8: MBSGILI1
+  branch_name: Head Office
+  branch_address: Museum Tower Tel-Aviv 61180
+  branch_code: XXX
+  city: Tel-Aviv
+  country: Israel
+- name: Ofek Securities And Investments Limited
+  swift: OFSIILI1XXX
+  swift8: OFSIILI1
+  branch_name: Head Office
+  branch_address: Africa Israel Towers Tel-Aviv 65142
+  branch_code: XXX
+  city: Tel-Aviv
+  country: Israel
+- name: Pacific Mediterranean Investment Limited
+  swift: PAMIILI1XXX
+  swift8: PAMIILI1
+  branch_name: Head Office
+  branch_address: Maki Road Herzelia Pituach 46120
+  branch_code: XXX
+  city: Herzelia Pituach
+  country: Israel
+- name: Poalim Sahar Ltd
+  swift: POSHILI1XXX
+  swift8: POSHILI1
+  branch_name: Head Office
+  branch_address: Levinstein Tower Tel-Aviv
+  branch_code: XXX
+  city: Tel-Aviv
+  country: Israel
+- name: Samsung Telecommunication R And D-israel
+  swift: SECTILI1432
+  swift8: SECTILI1
+  branch_name: Yakum 3743754
+  branch_address: Holland Building Europa Yakum 3743754
+  branch_code: '432'
+  city: Yakum
+  country: Israel
+- name: Samsung Telecommunication R And D-israel
+  swift: SECTILI1XXX
+  swift8: SECTILI1
+  branch_name: Head Office
+  branch_address: Holland Building Yakum
+  branch_code: XXX
+  city: Yakum
+  country: Israel
+- name: Trade Bank Ltd.
+  swift: TRADILI1XXX
+  swift8: TRADILI1
+  branch_name: Head Office
+  branch_address: 42 Lilienblumstreet Tel-Aviv
+  branch_code: XXX
+  city: Tel-Aviv
+  country: Israel

@@ -1,0 +1,18 @@
+---
+PM:
+- name: Banque De Saint-pierrre Et Miquelon
+  swift: BDILPMPMXXX
+  swift8: BDILPMPM
+  branch_name: Head Office
+  branch_address: Rue Jacques Cartier, 2 97500 Saint Pierre Et Miquelon
+  branch_code: XXX
+  city: Miquelon Langlade
+  country: Saint Pierre and Miquelon
+- name: Cispm
+  swift: CIPMPMP1XXX
+  swift8: CIPMPMP1
+  branch_name: Head Office
+  branch_address: 29, Rue Marechal De Lattre De Tass Saint Pierre Et Miquelon
+  branch_code: XXX
+  city: Saint Pierre Et Miquelon
+  country: Saint Pierre and Miquelon

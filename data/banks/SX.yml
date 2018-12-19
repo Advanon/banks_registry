@@ -1,0 +1,58 @@
+---
+SX:
+- name: Firstcaribbean International Bank
+  swift: FCIBSXSMXXX
+  swift8: FCIBSXSM
+  branch_name: Head Office
+  branch_address: Front Street Philipsburg
+  branch_code: XXX
+  city: Philipsburg
+  country: Sint Maarten (Dutch part)
+- name: Bank Of Nova Scotia,the
+  swift: NOSCSXSMXXX
+  swift8: NOSCSXSM
+  branch_name: Head Office
+  branch_address: 64 Back Street Philipsburg
+  branch_code: XXX
+  city: Philipsburg
+  country: Sint Maarten (Dutch part)
+- name: Banco Di Caribe N.v Sint Maarten
+  swift: BDCCSXSMXXX
+  swift8: BDCCSXSM
+  branch_name: Head Office
+  branch_address: Airport Boulevard 15 Philipsburg
+  branch_code: XXX
+  city: Philipsburg
+  country: Sint Maarten (Dutch part)
+- name: Cm-cic St Maarten
+  swift: CMCISXS1XXX
+  swift8: CMCISXS1
+  branch_name: Head Office
+  branch_address: Tamarind Plaza Sint Maarten
+  branch_code: XXX
+  city: Maarten
+  country: Sint Maarten (Dutch part)
+- name: Orco Bank N.v. St. Maarten
+  swift: ORBASXSMXXX
+  swift8: ORBASXSM
+  branch_name: Head Office
+  branch_address: Union Plaza Colebay
+  branch_code: XXX
+  city: Colebay
+  country: Sint Maarten (Dutch part)
+- name: Rbc Royal Bank N.v. (formerly Rbtt Bank St. Maarten N.v.
+  swift: RBTTSXSMXXX
+  swift8: RBTTSXSM
+  branch_name: Head Office
+  branch_address: Cannegieter Street, 24 Philipsburg
+  branch_code: XXX
+  city: Philipsburg
+  country: Sint Maarten (Dutch part)
+- name: Windward Islands Bank Ltd, The
+  swift: WISBSXSMXXX
+  swift8: WISBSXSM
+  branch_name: Head Office
+  branch_address: Clem Labega Square Philipsburg
+  branch_code: XXX
+  city: Philipsburg
+  country: Sint Maarten (Dutch part)

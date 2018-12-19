@@ -1,0 +1,370 @@
+---
+HN:
+- name: Banco Centroamericano De Integracion Economica
+  swift: BCIEHNTEXXX
+  swift8: BCIEHNTE
+  branch_name: Head Office
+  branch_address: Edificio Sede Tegucigalpa
+  branch_code: XXX
+  city: Tegucigalpa
+  country: Honduras
+- name: Banco Promerica, S.a.
+  swift: BPRHHNTEXXX
+  swift8: BPRHHNTE
+  branch_name: Head Office
+  branch_address: Col. Pamira, Edificio Palic Tegucigalpa
+  branch_code: XXX
+  city: Tegucigalpa
+  country: Honduras
+- name: America Cdc Casa De Cambio S.a.de C.f.
+  swift: ACSAHNT1XXX
+  swift8: ACSAHNT1
+  branch_name: Head Office
+  branch_address: Colonia Trejo San Pedro Sula
+  branch_code: XXX
+  city: San Pedro Sula
+  country: Honduras
+- name: Arrendamientos Y Creditos Atlantida, S.a.
+  swift: ARCDHNT1XXX
+  swift8: ARCDHNT1
+  branch_name: Head Office
+  branch_address: Blvd. Comunidad Economica Europea 3368 Tegucigalpa
+  branch_code: XXX
+  city: Tegucigalpa
+  country: Honduras
+- name: Banco Atlantida
+  swift: ATTDHNTEXXX
+  swift8: ATTDHNTE
+  branch_name: Head Office
+  branch_address: Plaza Bancatlan Tegucigalpa
+  branch_code: XXX
+  city: Tegucigalpa
+  country: Honduras
+- name: Banco Azteca De Honduras, Sa
+  swift: AZTKHNTEXXX
+  swift8: AZTKHNTE
+  branch_name: Head Office
+  branch_address: Edificio Corporativo Tegucigalpa
+  branch_code: XXX
+  city: Tegucigalpa
+  country: Honduras
+- name: Banco Central De Honduras
+  swift: BCEHHNTEXXX
+  swift8: BCEHHNTE
+  branch_name: Head Office
+  branch_address: Banco Central Tegucigalpa
+  branch_code: XXX
+  city: Tegucigalpa
+  country: Honduras
+- name: Banco Central De Honduras Banco Central
+  swift: BCEHHNTTXXX
+  swift8: BCEHHNTT
+  branch_name: Head Office
+  branch_address: Barrio El Centro 3165 3165 Tegucigalpa
+  branch_code: XXX
+  city: Tegucigalpa
+  country: Honduras
+- name: Banco Davivienda Honduras, S.a.
+  swift: BGAHHNTEXXX
+  swift8: BGAHHNTE
+  branch_name: Head Office
+  branch_address: Oficina Principal 344 Tegucigalpa M.D.C.
+  branch_code: XXX
+  city: Tegucigalpa
+  country: Honduras
+- name: Banco De America Central Honduras, S.a.(bac Bamer
+  swift: BMILHNTEXXX
+  swift8: BMILHNTE
+  branch_name: Head Office
+  branch_address: Boullevard Suyapa, Frente a Tegucigalpa
+  branch_code: XXX
+  city: Tegucigalpa
+  country: Honduras
+- name: Banco De Honduras, S.a.
+  swift: HONAHNT2XXX
+  swift8: HONAHNT2
+  branch_name: No branch name
+  branch_address: No branch address
+  branch_code: XXX
+  city: Tegucigalpa
+  country: Honduras
+- name: Banco De Las Fuerzas Armadas
+  swift: BLFAHNT1XXX
+  swift8: BLFAHNT1
+  branch_name: Head Office
+  branch_address: Centro Comercial Los Castanos Tegucigalpa
+  branch_code: XXX
+  city: Tegucigalpa
+  country: Honduras
+- name: Banco De Los Trabajadores S.a.
+  swift: TSBOHNT1XXX
+  swift8: TSBOHNT1
+  branch_name: Head Office
+  branch_address: 1ra. Y 2da. Avenida Tegucigalpa
+  branch_code: XXX
+  city: Tegucigalpa
+  country: Honduras
+- name: Banco De Occidente S.a.
+  swift: BOCCHNTESPS
+  swift8: BOCCHNTE
+  branch_name: San Pedro Sula
+  branch_address: Edificio Principal 376 San Pedro Sula
+  branch_code: SPS
+  city: San Pedro Sula
+  country: Honduras
+- name: Banco De Occidente S.a.
+  swift: BOCCHNTESRC
+  swift8: BOCCHNTE
+  branch_name: Santa Rosa De Copan
+  branch_address: Edificio Principal 208 Santa Rosa De Copan
+  branch_code: SRC
+  city: Santa Rosa De Copan
+  country: Honduras
+- name: Banco De Occidente S.a.
+  swift: BOCCHNTETGU
+  swift8: BOCCHNTE
+  branch_name: Tegucigalpa
+  branch_address: Edificio Principal 3284 Tegucigalpa
+  branch_code: TGU
+  city: Tegucigalpa
+  country: Honduras
+- name: Banco De Occidente S.a.
+  swift: BOCCHNTEXXX
+  swift8: BOCCHNTE
+  branch_name: Head Office
+  branch_address: Calle Centenario Santa Rosa De Copan
+  branch_code: XXX
+  city: Santa Rosa De Copan
+  country: Honduras
+- name: Banco Ficohsa
+  swift: FIHOHNT1XXX
+  swift8: FIHOHNT1
+  branch_name: Head Office
+  branch_address: Plaza Victoria 504 Tegucigalpa
+  branch_code: XXX
+  city: Tegucigalpa
+  country: Honduras
+- name: Banco Financiera Centroamericana S.a. Ficensa
+  swift: CABFHNTEXXX
+  swift8: CABFHNTE
+  branch_name: Head Office
+  branch_address: Edificio Ficensa Tegucigalpa
+  branch_code: XXX
+  city: Tegucigalpa
+  country: Honduras
+- name: Banco Financiera Comercial Hondurena S.a. (banco Ficohsa
+  swift: FCOHHNTEXXX
+  swift8: FCOHHNTE
+  branch_name: Head Office
+  branch_address: Plaza Victoria Tegucigalpa
+  branch_code: XXX
+  city: Tegucigalpa
+  country: Honduras
+- name: Banco Grupo El Ahorro Hondureno S.a.
+  swift: BCHOHNT1XXX
+  swift8: BCHOHNT1
+  branch_name: Head Office
+  branch_address: Interseccion Boulevard Suyapa Tegucigalpa
+  branch_code: XXX
+  city: Tegucigalpa
+  country: Honduras
+- name: Banco Hondureno Del Cafe
+  swift: BHCAHNTHXXX
+  swift8: BHCAHNTH
+  branch_name: Head Office
+  branch_address: Plaza Banhcafe 583 Tegucigalpa
+  branch_code: XXX
+  city: Tegucigalpa
+  country: Honduras
+- name: Banco Hondureno Del Cafe S.a.
+  swift: BHCAHNT1XXX
+  swift8: BHCAHNT1
+  branch_name: Head Office
+  branch_address: Apdo 583, Lomas Del Mayab Tegucigalpa
+  branch_code: XXX
+  city: Tegucigalpa
+  country: Honduras
+- name: Banco Lafise,s.a.
+  swift: BCCEHNTEXXX
+  swift8: BCCEHNTE
+  branch_name: Head Office
+  branch_address: Calle Dionisio Gutierrez N0.1201 Tegucigalpa
+  branch_code: XXX
+  city: Tegucigalpa
+  country: Honduras
+- name: Banco Municipal Autonomo
+  swift: BMAUHNT1XXX
+  swift8: BMAUHNT1
+  branch_name: Head Office
+  branch_address: 6a Avenida B601 Calle Jerez Tegucigalpa
+  branch_code: XXX
+  city: Tegucigalpa
+  country: Honduras
+- name: Banco Nacional De Desarrollo Agricola
+  swift: DEAGHNT1022
+  swift8: DEAGHNT1
+  branch_name: Comayaguela
+  branch_address: Avenida Comayaguela 4-5, 13 Calle Comayaguela
+  branch_code: '022'
+  city: Comayaguela
+  country: Honduras
+- name: Banco Nacional De Desarrollo Agricola
+  swift: DEAGHNT1XXX
+  swift8: DEAGHNT1
+  branch_name: Head Office
+  branch_address: Banadesa Comayaguela
+  branch_code: XXX
+  city: Comayaguela
+  country: Honduras
+- name: Banco Popular S.a.
+  swift: POUUHNT1XXX
+  swift8: POUUHNT1
+  branch_name: Head Office
+  branch_address: Col. Castano Sur, Tegucigalpa
+  branch_code: XXX
+  city: Tegucigalpa
+  country: Honduras
+- name: Banco Procredit Honduras S.a.
+  swift: PRCBHNTEXXX
+  swift8: PRCBHNTE
+  branch_name: Head Office
+  branch_address: Edificio Procredit Tegucigalpa
+  branch_code: XXX
+  city: Tegucigalpa
+  country: Honduras
+- name: Banco Sogerin S.a.
+  swift: SOGBHNT1XXX
+  swift8: SOGBHNT1
+  branch_name: Head Office
+  branch_address: 1 Calle Avenida S.O. 8 San Pedro Sula
+  branch_code: XXX
+  city: San Pedro Sula
+  country: Honduras
+- name: Casa De Bolsa De Valores S.a. (cabval
+  swift: CBVCHNT1XXX
+  swift8: CBVCHNT1
+  branch_name: Head Office
+  branch_address: Edificio Santos and Cia. 0000 Tegucigalpa
+  branch_code: XXX
+  city: Tegucigalpa
+  country: Honduras
+- name: Casa De Cambio
+  swift: CSAIHNT1XXX
+  swift8: CSAIHNT1
+  branch_name: Head Office
+  branch_address: Plaza Victoria 504 Tegucigalpa Fco. Moraz
+  branch_code: XXX
+  city: Tegucigalpa Fco.
+  country: Honduras
+- name: Casa De Cambio Roble Viejo S.a.
+  swift: CCRVHNT1XXX
+  swift8: CCRVHNT1
+  branch_name: Head Office
+  branch_address: Casa De Cambio Roble Viejo S.a 22388934 Tegucigalpa
+  branch_code: XXX
+  city: Tegucigalpa
+  country: Honduras
+- name: Casa Del Bolsa Promociones E Inversiones En Bolsa, S.a.
+  swift: CBPNHNT1XXX
+  swift8: CBPNHNT1
+  branch_name: Head Office
+  branch_address: Probolsa San Pedro Sula Cortes
+  branch_code: XXX
+  city: San Pedro Sula Cortes
+  country: Honduras
+- name: Central Hondurena De Valores Y Liquidacion (cehval
+  swift: CHVLHNT1XXX
+  swift8: CHVLHNT1
+  branch_name: Head Office
+  branch_address: Edif. Martinez Valenzuela San Pedro Sula
+  branch_code: XXX
+  city: San Pedro Sula
+  country: Honduras
+- name: Continental Casa De Bolsa, S.a
+  swift: CNCSHNT1XXX
+  swift8: CNCSHNT1
+  branch_name: Head Office
+  branch_address: 1ra. Calle, 10 Ave. Bo. El Benque San Pedro Sula
+  branch_code: XXX
+  city: San Pedro Sula
+  country: Honduras
+- name: Corporacion Financiera Internacional (cofinter
+  swift: CFNIHNT1XXX
+  swift8: CFNIHNT1
+  branch_name: No branch name
+  branch_address: No branch address
+  branch_code: XXX
+  city: Tegucigalpa
+  country: Honduras
+- name: Financiera Codimersa Edificio Codimersa
+  swift: FCEOHNT1XXX
+  swift8: FCEOHNT1
+  branch_name: Head Office
+  branch_address: Edificio Codimersa 504 Santa Rosa Copan
+  branch_code: XXX
+  city: Santa Rosa Copan
+  country: Honduras
+- name: Financiera Crediq Sa
+  swift: FIRQHNT1XXX
+  swift8: FIRQHNT1
+  branch_name: Head Office
+  branch_address: Oficina Principal Grupo Q 00000 Tegucigalpa
+  branch_code: XXX
+  city: Tegucigalpa
+  country: Honduras
+- name: Financiera Finca Honduras
+  swift: FIFHHNT1XXX
+  swift8: FIFHHNT1
+  branch_name: Head Office
+  branch_address: Av. Las Minitas 00000 Tegucigalpa
+  branch_code: XXX
+  city: Tegucigalpa
+  country: Honduras
+- name: Financiera Solidaria, S.a.
+  swift: FIODHNT1XXX
+  swift8: FIODHNT1
+  branch_name: Head Office
+  branch_address: 1-2 Calle, 5ave., Bo. El Centro 00000 San Pedro Sula
+  branch_code: XXX
+  city: San Pedro Sula
+  country: Honduras
+- name: Fomento Financiero, S.a. Casa De Bolsa
+  swift: FFCBHNT1XXX
+  swift8: FFCBHNT1
+  branch_name: Head Office
+  branch_address: Edificio Palic 804 00000 Tegucigalpa
+  branch_code: XXX
+  city: Tegucigalpa
+  country: Honduras
+- name: Lafise Valores Casa De Bolsa
+  swift: LVCBHNT1XXX
+  swift8: LVCBHNT1
+  branch_name: Head Office
+  branch_address: Torre Lafise 00000 Tegucigalpa
+  branch_code: XXX
+  city: Tegucigalpa
+  country: Honduras
+- name: Odef Financiera S.a.
+  swift: ODFIHNT1XXX
+  swift8: ODFIHNT1
+  branch_name: Head Office
+  branch_address: Calle 4, 13 Y 14 Avenida 00000 San Pedro Sula
+  branch_code: XXX
+  city: San Pedro Sula
+  country: Honduras
+- name: Servigiros Casa De Cambio S.a.
+  swift: SEAIHNT1XXX
+  swift8: SEAIHNT1
+  branch_name: Head Office
+  branch_address: Barrio El Centro Tegucigalpa
+  branch_code: XXX
+  city: Tegucigalpa
+  country: Honduras
+- name: Sonival, Casa De Bolsa, S. A
+  swift: SOABHNT1XXX
+  swift8: SOABHNT1
+  branch_name: Head Office
+  branch_address: Edificio Sonisa, 3er. Nivel 0000 Tegucigalpa
+  branch_code: XXX
+  city: Tegucigalpa
+  country: Honduras

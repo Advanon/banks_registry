@@ -1,0 +1,346 @@
+---
+CM:
+- name: Citibank N.A.
+  swift: CITICMCXTRD
+  swift8: CITICMCX
+  branch_name: Trade Services Dept
+  branch_address: 96 Rue Flatters Douala
+  branch_code: TRD
+  city: Douala
+  country: Cameroon
+- name: Citibank N.A.
+  swift: CITICMCXXXX
+  swift8: CITICMCX
+  branch_name: Head Office
+  branch_address: 96 Rue Flatters 4571 Douala
+  branch_code: XXX
+  city: Douala
+  country: Cameroon
+- name: African Development Bank
+  swift: AFDBCMC1XXX
+  swift8: AFDBCMC1
+  branch_name: Head Office
+  branch_address: Yaounde
+  branch_code: XXX
+  city: Yaounde
+  country: Cameroon
+- name: Afriland First Bank
+  swift: CCEICMCXBAF
+  swift8: CCEICMCX
+  branch_name: Bafoussam
+  branch_address: Bafoussam
+  branch_code: BAF
+  city: Bafoussam
+  country: Cameroon
+- name: Afriland First Bank
+  swift: CCEICMCXBDA
+  swift8: CCEICMCX
+  branch_name: Bamenda
+  branch_address: Bamenda
+  branch_code: BDA
+  city: Bamenda
+  country: Cameroon
+- name: Afriland First Bank
+  swift: CCEICMCXDLA
+  swift8: CCEICMCX
+  branch_name: Douala
+  branch_address: Douala
+  branch_code: DLA
+  city: Douala
+  country: Cameroon
+- name: Afriland First Bank
+  swift: CCEICMCXGRA
+  swift8: CCEICMCX
+  branch_name: Garoua
+  branch_address: Garoua
+  branch_code: GRA
+  city: Garoua
+  country: Cameroon
+- name: Afriland First Bank
+  swift: CCEICMCXXXX
+  swift8: CCEICMCX
+  branch_name: Head Office
+  branch_address: Place De Lindepandance Yaounde
+  branch_code: XXX
+  city: Yaounde
+  country: Cameroon
+- name: Bank Of Credit And Commerce Cameroon S.a.
+  swift: CCCBCMC10CD
+  swift8: CCCBCMC1
+  branch_name: Douala
+  branch_address: 6 Boulevard De La Liberte Douala
+  branch_code: 0CD
+  city: Douala
+  country: Cameroon
+- name: Bank Of Credit And Commerce Cameroon S.a.
+  swift: CCCBCMC10CY
+  swift8: CCCBCMC1
+  branch_name: Yaounde
+  branch_address: Kennedy Building Yaounde
+  branch_code: 0CY
+  city: Yaounde
+  country: Cameroon
+- name: Bank Of Credit And Commerce Cameroon S.a.
+  swift: CCCBCMC1XXX
+  swift8: CCCBCMC1
+  branch_name: Head Office
+  branch_address: Garoua
+  branch_code: XXX
+  city: Garoua
+  country: Cameroon
+- name: Banque Atlantique Cameroun
+  swift: ATCRCMCMXXX
+  swift8: ATCRCMCM
+  branch_name: Head Office
+  branch_address: Immeuble Etoo Fils 2933 Douala
+  branch_code: XXX
+  city: Douala
+  country: Cameroon
+- name: Banque Des Etats D'afrique Centrale
+  swift: BEACCMCPXXX
+  swift8: BEACCMCP
+  branch_name: Head Office
+  branch_address: Rue Monseigneur Mvogt Yaounde
+  branch_code: XXX
+  city: Yaounde
+  country: Cameroon
+- name: Banque Des Etats D'afrique Centrale
+  swift: BEACCMCX090
+  swift8: BEACCMCX
+  branch_name: Services Centraux Yaounde
+  branch_address: Yaounde
+  branch_code: '090'
+  city: Yaounde
+  country: Cameroon
+- name: Banque Des Etats D'afrique Centrale
+  swift: BEACCMCX091
+  swift8: BEACCMCX
+  branch_name: Direction Des Relations Financieres Exterieures
+  branch_address: Yaounde
+  branch_code: '091'
+  city: Yaounde
+  country: Cameroon
+- name: Banque Des Etats D'afrique Centrale
+  swift: BEACCMCX100
+  swift8: BEACCMCX
+  branch_name: D N Yaounde
+  branch_address: Yaounde
+  branch_code: '100'
+  city: Yaounde
+  country: Cameroon
+- name: Banque Des Etats D'afrique Centrale
+  swift: BEACCMCX110
+  swift8: BEACCMCX
+  branch_name: Douala
+  branch_address: Douala
+  branch_code: '110'
+  city: Douala
+  country: Cameroon
+- name: Banque Des Etats D'afrique Centrale
+  swift: BEACCMCX120
+  swift8: BEACCMCX
+  branch_name: Garoua
+  branch_address: Garoua
+  branch_code: '120'
+  city: Garoua
+  country: Cameroon
+- name: Banque Des Etats D'afrique Centrale
+  swift: BEACCMCX130
+  swift8: BEACCMCX
+  branch_name: Nkongsamba
+  branch_address: Nkongsamba
+  branch_code: '130'
+  city: Nkongsamba
+  country: Cameroon
+- name: Banque Des Etats D'afrique Centrale
+  swift: BEACCMCX140
+  swift8: BEACCMCX
+  branch_name: Limbe
+  branch_address: Limbe
+  branch_code: '140'
+  city: Limbe
+  country: Cameroon
+- name: Banque Des Etats D'afrique Centrale
+  swift: BEACCMCX150
+  swift8: BEACCMCX
+  branch_name: Bafoussam
+  branch_address: Bafoussam
+  branch_code: '150'
+  city: Bafoussam
+  country: Cameroon
+- name: Banque Des Etats D'afrique Centrale
+  swift: BEACCMCXXXX
+  swift8: BEACCMCX
+  branch_name: Head Office
+  branch_address: Rue Monseigneur Mvogt Yaounde
+  branch_code: XXX
+  city: Yaounde
+  country: Cameroon
+- name: Banque Internationale Du Cameroun Pour L'epargne Et Le Credit
+  swift: ICLRCMCXXXX
+  swift8: ICLRCMCX
+  branch_name: Head Office
+  branch_address: Avenue General De Gaulle Douala
+  branch_code: XXX
+  city: Douala
+  country: Cameroon
+- name: Bgfibank Cameroun Sa
+  swift: BGFICMCXXXX
+  swift8: BGFICMCX
+  branch_name: Head Office
+  branch_address: Avenue General De Gaulle Douala
+  branch_code: XXX
+  city: Douala
+  country: Cameroon
+- name: Commercial Bank Of Cameroon
+  swift: CBCDCMCXAKW
+  swift8: CBCDCMCX
+  branch_name: Littoral
+  branch_address: Cbc Bank 15690 Douala
+  branch_code: AKW
+  city: Douala
+  country: Cameroon
+- name: Commercial Bank Of Cameroon
+  swift: CBCDCMCXBFS
+  swift8: CBCDCMCX
+  branch_name: West
+  branch_address: Cbc Bank 1149 Bafoussam
+  branch_code: BFS
+  city: Bafoussam
+  country: Cameroon
+- name: Commercial Bank Of Cameroon
+  swift: CBCDCMCXBON
+  swift8: CBCDCMCX
+  branch_name: 4004 Bonaberi
+  branch_address: Face Gare Routiere 4004 Bonaberi
+  branch_code: BON
+  city: Bonaberi
+  country: Cameroon
+- name: Commercial Bank Of Cameroon
+  swift: CBCDCMCXGRA
+  swift8: CBCDCMCX
+  branch_name: North
+  branch_address: Cbc Bank 425 Garoua
+  branch_code: GRA
+  city: Garoua
+  country: Cameroon
+- name: Commercial Bank Of Cameroon
+  swift: CBCDCMCXMOK
+  swift8: CBCDCMCX
+  branch_name: 13171 Mokolo
+  branch_address: Marche 13171 Mokolo
+  branch_code: MOK
+  city: Mokolo
+  country: Cameroon
+- name: Commercial Bank Of Cameroon
+  swift: CBCDCMCXMRA
+  swift8: CBCDCMCX
+  branch_name: Far North
+  branch_address: Cbc Bank 770 Maroua
+  branch_code: MRA
+  city: Maroua
+  country: Cameroon
+- name: Commercial Bank Of Cameroon
+  swift: CBCDCMCXXXX
+  swift8: CBCDCMCX
+  branch_name: Head Office
+  branch_address: Avenua De Gaulle 4004 Douala
+  branch_code: XXX
+  city: Douala
+  country: Cameroon
+- name: Commercial Bank Of Cameroon
+  swift: CBCDCMCXYDE
+  swift8: CBCDCMCX
+  branch_name: Center
+  branch_address: Cbc Bank 13171 Yaounde
+  branch_code: YDE
+  city: Yaounde
+  country: Cameroon
+- name: Credit Communautaire D'afrique S.a.
+  swift: CCAMCMCYXXX
+  swift8: CCAMCMCY
+  branch_name: Head Office
+  branch_address: Avenue Messa, Mokolo Yaounde
+  branch_code: XXX
+  city: Yaounde
+  country: Cameroon
+- name: Ecobank Cameroun Sa.
+  swift: ECOCCMCXXXX
+  swift8: ECOCCMCX
+  branch_name: Head Office
+  branch_address: Immeuble Cna Douala
+  branch_code: XXX
+  city: Douala
+  country: Cameroon
+- name: Karamouzi's Bank Trust Ltd
+  swift: KBTLCMC1XXX
+  swift8: KBTLCMC1
+  branch_name: Head Office
+  branch_address: Standard Enterprises 621 New Town
+  branch_code: XXX
+  city: New Town
+  country: Cameroon
+- name: National Financial Credit Bank S.a.
+  swift: NAFCCMCYXXX
+  swift8: NAFCCMCY
+  branch_name: Head Office
+  branch_address: Avenue Charles De Gaulle Yaounde
+  branch_code: XXX
+  city: Yaounde
+  country: Cameroon
+- name: Scb Cameroun S.a.
+  swift: BCMACMCXXXX
+  swift8: BCMACMCX
+  branch_name: Head Office
+  branch_address: Rue Du Roi Georges 530 Douala
+  branch_code: XXX
+  city: Douala
+  country: Cameroon
+- name: Societe Generale De Banques Au Cameroun
+  swift: SGCMCMC10CY
+  swift8: SGCMCMC1
+  branch_name: Yaounde
+  branch_address: Avenue Monseigneur Vogt Yaounde
+  branch_code: 0CY
+  city: Yaounde
+  country: Cameroon
+- name: Societe Generale De Banques Au Cameroun
+  swift: SGCMCMCXXXX
+  swift8: SGCMCMCX
+  branch_name: Head Office
+  branch_address: Immeuble Sgbc Douala
+  branch_code: XXX
+  city: Douala
+  country: Cameroon
+- name: Standard Chartered Bank Cameroon S.a.
+  swift: SCBLCMCX0CY
+  swift8: SCBLCMCX
+  branch_name: Yaounde
+  branch_address: Yaounde
+  branch_code: 0CY
+  city: Yaounde
+  country: Cameroon
+- name: Standard Chartered Bank Cameroon S.a.
+  swift: SCBLCMCXXXX
+  swift8: SCBLCMCX
+  branch_name: Head Office
+  branch_address: Boulevard De La Liberte Douala
+  branch_code: XXX
+  city: Douala
+  country: Cameroon
+- name: Union Bank Of Cameroon Ltd. (ubc Ltd.
+  swift: UCMACMCXXXX
+  swift8: UCMACMCX
+  branch_name: Head Office
+  branch_address: Residence Kassap 15569 Akwa-Douala
+  branch_code: XXX
+  city: Akwa-Douala
+  country: Cameroon
+- name: United Bank For Africa Cameroon Plc
+  swift: UNAFCMCXXXX
+  swift8: UNAFCMCX
+  branch_name: Head Office
+  branch_address: Immeuble Noutchinguin 1245 Douala
+  branch_code: XXX
+  city: Douala
+  country: Cameroon

@@ -1,0 +1,330 @@
+---
+KH:
+- name: Credit Agricole Cib
+  swift: BSUIKHP1XXX
+  swift8: BSUIKHP1
+  branch_name: Head Office
+  branch_address: 70, Norodom Boulevard Phnom Penh
+  branch_code: XXX
+  city: Phnom Penh
+  country: Cambodia
+- name: Acleda Bank Plc.
+  swift: ACLBKHPPXXX
+  swift8: ACLBKHPP
+  branch_name: Head Office
+  branch_address: Acleda Bank Plc. 855 Phnom Penh
+  branch_code: XXX
+  city: Phnom Penh
+  country: Cambodia
+- name: Advanced Bank Of Asia Limited
+  swift: ABAAKHPPXXX
+  swift8: ABAAKHPP
+  branch_name: Head Office
+  branch_address: 97/99 Norodom Boulevard, Khan Daun Phnom Penh
+  branch_code: XXX
+  city: Phnom Penh
+  country: Cambodia
+- name: Angkor Capital Specialized Bank
+  swift: ACBCKHPPXXX
+  swift8: ACBCKHPP
+  branch_name: No branch name
+  branch_address: No branch address
+  branch_code: XXX
+  city: Phnom Penh
+  country: Cambodia
+- name: Angkor Capital Specialized Bank
+  swift: ACBCKHP1XXX
+  swift8: ACBCKHP1
+  branch_name: Head Office
+  branch_address: 202 Phnom Penh
+  branch_code: XXX
+  city: Phnom Penh
+  country: Cambodia
+- name: Anz Royal Bank (cambodia) Ltd
+  swift: ANZBKHPPXXX
+  swift8: ANZBKHPP
+  branch_name: Head Office
+  branch_address: Anz Royal 12211 Phnom Penh
+  branch_code: XXX
+  city: Phnom Penh
+  country: Cambodia
+- name: Bank For Investment And Development Of Cambodia Plc
+  swift: IDBCKHPPXXX
+  swift8: IDBCKHPP
+  branch_name: Head Office
+  branch_address: 370, Preah Monivong Blvd 855 Phnom Penh
+  branch_code: XXX
+  city: Phnom Penh
+  country: Cambodia
+- name: Bank Of China Limited Phnom Penh Branch
+  swift: BKCHKHPPXXX
+  swift8: BKCHKHPP
+  branch_name: Head Office
+  branch_address: Canadia Tower Phnom Penh
+  branch_code: XXX
+  city: Phnom Penh
+  country: Cambodia
+- name: Booyoung Khmer Bank
+  swift: BKBCKHPPXXX
+  swift8: BKBCKHPP
+  branch_name: Head Office
+  branch_address: 88, Street 41 Norodom Blvd 855 Phnom Penh
+  branch_code: XXX
+  city: Phnom Penh
+  country: Cambodia
+- name: British American Tobacco (cambodge) Int Ltd
+  swift: BATSKH21XXX
+  swift8: BATSKH21
+  branch_name: No branch name
+  branch_address: No branch address
+  branch_code: XXX
+  city: Phnom Penh
+  country: Cambodia
+- name: British American Tobacco Cambodia Ltd
+  swift: BATSKHP1XXX
+  swift8: BATSKHP1
+  branch_name: No branch name
+  branch_address: No branch address
+  branch_code: XXX
+  city: Phnom Penh
+  country: Cambodia
+- name: Cambodia Asia Bank Ltd
+  swift: CABCKHPPXXX
+  swift8: CABCKHPP
+  branch_name: Head Office
+  branch_address: 252 Monivong Boulevard Phnom Penh
+  branch_code: XXX
+  city: Phnom Penh
+  country: Cambodia
+- name: Cambodia Mekong Bank Public Limited
+  swift: MKGBKHPPXXX
+  swift8: MKGBKHPP
+  branch_name: Head Office
+  branch_address: 1 Kramuon Sar St., Khan Daun Penh Phnom Penh
+  branch_code: XXX
+  city: Phnom Penh
+  country: Cambodia
+- name: Cambodian Commercial Bank Limited
+  swift: SICOKHPPXXX
+  swift8: SICOKHPP
+  branch_name: Head Office
+  branch_address: 26 Monivong Road Phnom Penh
+  branch_code: XXX
+  city: Phnom Penh
+  country: Cambodia
+- name: Cambodian Public Bank Plc
+  swift: CPBLKHPPXXX
+  swift8: CPBLKHPP
+  branch_name: Head Office
+  branch_address: Villa 23 Phnom Penh
+  branch_code: XXX
+  city: Phnom Penh
+  country: Cambodia
+- name: Canadia Bank Plc
+  swift: CADIKHPPXXX
+  swift8: CADIKHPP
+  branch_name: Head Office
+  branch_address: 265-269, Ang Duong Street Phnom Penh
+  branch_code: XXX
+  city: Phnom Penh
+  country: Cambodia
+- name: Cimb Bank Plc
+  swift: CIBBKHPPXXX
+  swift8: CIBBKHPP
+  branch_name: Head Office
+  branch_address: Corner Norodom Boulevard and Street 12203 Phnom Penh
+  branch_code: XXX
+  city: Phnom Penh
+  country: Cambodia
+- name: First Commercial Bank Phnom Penh Branch
+  swift: FCBKKHPP001
+  swift8: FCBKKHPP
+  branch_name: Chorm Chaov Sub-Branch
+  branch_address: Prey Chisak Village Phnom Penh
+  branch_code: '001'
+  city: Phnom Penh
+  country: Cambodia
+- name: First Commercial Bank Phnom Penh Branch
+  swift: FCBKKHPP002
+  swift8: FCBKKHPP
+  branch_name: Olympic Sub-Branch
+  branch_address: 155ab, St. 215, Sangkat Phsar Depo Phnom Penh
+  branch_code: '002'
+  city: Phnom Penh
+  country: Cambodia
+- name: First Commercial Bank Phnom Penh Branch
+  swift: FCBKKHPPXXX
+  swift8: FCBKKHPP
+  branch_name: Head Office
+  branch_address: No.263 Ang Duong Street Phnom Penh
+  branch_code: XXX
+  city: Phnom Penh
+  country: Cambodia
+- name: Foreign Trade Bank Of Cambodia
+  swift: FTCCKHPPXXX
+  swift8: FTCCKHPP
+  branch_name: Head Office
+  branch_address: 3 R.K. Kramuon Sar Phnom Penh
+  branch_code: XXX
+  city: Phnom Penh
+  country: Cambodia
+- name: Hong Leong Bank (cambodia) Plc
+  swift: HLBBKHPPXXX
+  swift8: HLBBKHPP
+  branch_name: Head Office
+  branch_address: No. 28 Samdech Pan Avenue 214 12211 Phnom Penh
+  branch_code: XXX
+  city: Phnom Penh
+  country: Cambodia
+- name: Hong Leong Bank (cambodia) Plc
+  swift: HLBBKHP1XXX
+  swift8: HLBBKHP1
+  branch_name: Head Office
+  branch_address: No. 28 Samdech Pan Avenue 214 12211 Phnom Penh
+  branch_code: XXX
+  city: Phnom Penh
+  country: Cambodia
+- name: Hwangdbs Commercial Bank Plc
+  swift: HDSBKHPPXXX
+  swift8: HDSBKHPP
+  branch_name: Head Office
+  branch_address: B Office Center Phnom Penh
+  branch_code: XXX
+  city: Phnom Penh
+  country: Cambodia
+- name: Industrial And Commercial Bank Of China Limited Phnom Penh Branch
+  swift: ICBKKHPPXXX
+  swift8: ICBKKHPP
+  branch_name: Head Office
+  branch_address: Huotraco Building Phnom Penh
+  branch_code: XXX
+  city: Phnom Penh
+  country: Cambodia
+- name: Industrial And Commercial Bank Of China Limited Phnom Penh Branch
+  swift: ICBKKHP1XXX
+  swift8: ICBKKHP1
+  branch_name: Head Office
+  branch_address: Huotraco Building Phnom Penh
+  branch_code: XXX
+  city: Phnom Penh
+  country: Cambodia
+- name: Kookmin Bank Cambodia Plc
+  swift: CZNBKHPPXXX
+  swift8: CZNBKHPP
+  branch_name: Head Office
+  branch_address: N. 55, Street 214, Sangkat Boeung Phnom Penh
+  branch_code: XXX
+  city: Phnom Penh
+  country: Cambodia
+- name: Maruhan Japan Bank Plc
+  swift: MJBKKHPPXXX
+  swift8: MJBKKHPP
+  branch_name: Head Office
+  branch_address: Norodom Boulevard 12210 Phnom Penh
+  branch_code: XXX
+  city: Phnom Penh
+  country: Cambodia
+- name: Maybank (cambodia) Plc.
+  swift: MBBEKHPPXXX
+  swift8: MBBEKHPP
+  branch_name: Head Office
+  branch_address: Street 114 (Kramoun Sar) Phnom Penh
+  branch_code: XXX
+  city: Phnom Penh
+  country: Cambodia
+- name: Mega International Commercial Bank Co., Ltd.
+  swift: ICBCKHPPPPA
+  swift8: ICBCKHPP
+  branch_name: P.P. Airport Subbranch
+  branch_address: No branch address
+  branch_code: PPA
+  city: Phnom Penh
+  country: Cambodia
+- name: Mega International Commercial Bank Co., Ltd.
+  swift: ICBCKHPPXXX
+  swift8: ICBCKHPP
+  branch_name: Head Office
+  branch_address: Independent Monument, Bkk I Phnom Penh
+  branch_code: XXX
+  city: Phnom Penh
+  country: Cambodia
+- name: National Bank Of Cambodia
+  swift: NCAMKHPPXXX
+  swift8: NCAMKHPP
+  branch_name: Head Office
+  branch_address: 22-24 Norodom Blvd Phnom Penh
+  branch_code: XXX
+  city: Phnom Penh
+  country: Cambodia
+- name: Osk Indochina Bank Limited
+  swift: OSKIKHPPXXX
+  swift8: OSKIKHPP
+  branch_name: Head Office
+  branch_address: Osk Indochina Bank Limited Phnom Penh
+  branch_code: XXX
+  city: Phnom Penh
+  country: Cambodia
+- name: Phnom Penh Commercial Bank
+  swift: PPCBKHPPXXX
+  swift8: PPCBKHPP
+  branch_name: Head Office
+  branch_address: 767-769 Monivong Blvd. Phnom Penh
+  branch_code: XXX
+  city: Phnom Penh
+  country: Cambodia
+- name: Shb Plc Phnompenh Branch, Cambodia
+  swift: SHBAKHPPXXX
+  swift8: SHBAKHPP
+  branch_name: Head Office
+  branch_address: Preah Monivong Blvd 707 Phnom Penh
+  branch_code: XXX
+  city: Phnom Penh
+  country: Cambodia
+- name: Shinhan Khmer Bank
+  swift: SHBKKHPPXXX
+  swift8: SHBKKHPP
+  branch_name: Head Office
+  branch_address: 277 Norodom Blvd Phnom Penh
+  branch_code: XXX
+  city: Phnom Penh
+  country: Cambodia
+- name: Singapore Banking Corporation Ltd
+  swift: CSBCKHPPXXX
+  swift8: CSBCKHPP
+  branch_name: Head Office
+  branch_address: 68 Samdech Pan, St214, Khan Daun Phnom Penh
+  branch_code: XXX
+  city: Phnom Penh
+  country: Cambodia
+- name: Taiwan Cooperative Bank, Phnom Penh Branch
+  swift: TACBKHPPXXX
+  swift8: TACBKHPP
+  branch_name: Head Office
+  branch_address: Sankatteokthla, Kss 100 Phnom Penh
+  branch_code: XXX
+  city: Phnom Penh
+  country: Cambodia
+- name: Union Commercial Bank Plc
+  swift: UCBPKHPPXXX
+  swift8: UCBPKHPP
+  branch_name: Head Office
+  branch_address: Union Commercial Bank Plc (Ucb) Phnom Penh
+  branch_code: XXX
+  city: Phnom Penh
+  country: Cambodia
+- name: Vattanac Bank
+  swift: VBLCKHPPXXX
+  swift8: VBLCKHPP
+  branch_name: Head Office
+  branch_address: 89 Norodom Bd, Sangkat Boeung Phnom Penh
+  branch_code: XXX
+  city: Phnom Penh
+  country: Cambodia
+- name: Vietnam Bank For Agriculture And Rural Development Cambodia Branch
+  swift: VBAAKHPPXXX
+  swift8: VBAAKHPP
+  branch_name: Head Office
+  branch_address: Street Monivong 364 Phnom Penh
+  branch_code: XXX
+  city: Phnom Penh
+  country: Cambodia

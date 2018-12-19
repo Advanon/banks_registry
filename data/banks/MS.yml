@@ -1,0 +1,18 @@
+---
+MS:
+- name: Bank Of Montserrat Limited
+  swift: BKMOMSMSXXX
+  swift8: BKMOMSMS
+  branch_name: Head Office
+  branch_address: Fogarthy Hill St. Peters
+  branch_code: XXX
+  city: St. Peters
+  country: Montserrat
+- name: Government Of Montserrat
+  swift: GVMSMSMSXXX
+  swift8: GVMSMSMS
+  branch_name: Head Office
+  branch_address: Government of Montserrat Brades
+  branch_code: XXX
+  city: Brades
+  country: Montserrat

@@ -1,0 +1,1370 @@
+---
+IR:
+- name: Phoenix Soft Corp Ltd
+  swift: PSCLIRT1XXX
+  swift8: PSCLIRT1
+  branch_name: Head Office
+  branch_address: Kowsar Trade Center Isfahan
+  branch_code: XXX
+  city: Isfahan
+  country: Iran
+- name: Bank Sepah
+  swift: SEPBIRTH007
+  swift8: SEPBIRTH
+  branch_name: Ahwaz Branch
+  branch_address: Salmane Farsi St., Between Hafez Ahwaz
+  branch_code: '007'
+  city: Ahwaz
+  country: Iran
+- name: Bank Sepah
+  swift: SEPBIRTH005
+  swift8: SEPBIRTH
+  branch_name: Arak Branch
+  branch_address: Arak
+  branch_code: '005'
+  city: Arak
+  country: Iran
+- name: Bank Sepah
+  swift: SEPBIRTH015
+  swift8: SEPBIRTH
+  branch_name: 7913956419 Bandar Abbas
+  branch_address: Asad Abadi Branch 7913956419 Bandar Abbas
+  branch_code: '015'
+  city: Bandar Abbas
+  country: Iran
+- name: Bank Sepah
+  swift: SEPBIRTH044
+  swift8: SEPBIRTH
+  branch_name: Bushehr Branch
+  branch_address: Bushehr
+  branch_code: '044'
+  city: Bushehr
+  country: Iran
+- name: Bank Sepah
+  swift: SEPBIRTH006
+  swift8: SEPBIRTH
+  branch_name: Isfahan
+  branch_address: Isfahan
+  branch_code: '006'
+  city: Isfahan
+  country: Iran
+- name: Bank Sepah
+  swift: SEPBIRTH054
+  swift8: SEPBIRTH
+  branch_name: Karaj Branch
+  branch_address: Karaj
+  branch_code: '054'
+  city: Karaj
+  country: Iran
+- name: Bank Sepah
+  swift: SEPBIRTH019
+  swift8: SEPBIRTH
+  branch_name: Kerman Branch
+  branch_address: Kerman
+  branch_code: '019'
+  city: Kerman
+  country: Iran
+- name: Bank Sepah
+  swift: SEPBIRTH020
+  swift8: SEPBIRTH
+  branch_name: Kermanshah Branch
+  branch_address: Azadi Square Kermanshah
+  branch_code: '020'
+  city: Kermanshah
+  country: Iran
+- name: Bank Sepah
+  swift: SEPBIRTH115
+  swift8: SEPBIRTH
+  branch_name: Kish Branch
+  branch_address: Kish Island
+  branch_code: '115'
+  city: Kish Island
+  country: Iran
+- name: Bank Sepah
+  swift: SEPBIRTH238
+  swift8: SEPBIRTH
+  branch_name: Mashhad Branch
+  branch_address: Mashhad
+  branch_code: '238'
+  city: Mashhad
+  country: Iran
+- name: Bank Sepah
+  swift: SEPBIRTH014
+  swift8: SEPBIRTH
+  branch_name: Orumiyeh Branch
+  branch_address: Orumiyeh
+  branch_code: '014'
+  city: Orumiyeh
+  country: Iran
+- name: Bank Sepah
+  swift: SEPBIRTH017
+  swift8: SEPBIRTH
+  branch_name: Qazvin Branch
+  branch_address: Qazvin
+  branch_code: '017'
+  city: Qazvin
+  country: Iran
+- name: Bank Sepah
+  swift: SEPBIRTH018
+  swift8: SEPBIRTH
+  branch_name: Qom Branch
+  branch_address: Qom
+  branch_code: '018'
+  city: Qom
+  country: Iran
+- name: Bank Sepah
+  swift: SEPBIRTH012
+  swift8: SEPBIRTH
+  branch_name: Rasht Branch
+  branch_address: Imam Khomeini St 41396 Rasht
+  branch_code: '012'
+  city: Rasht
+  country: Iran
+- name: Bank Sepah
+  swift: SEPBIRTH016
+  swift8: SEPBIRTH
+  branch_name: Shiraz
+  branch_address: Shiraz
+  branch_code: '016'
+  city: Shiraz
+  country: Iran
+- name: Bank Sepah
+  swift: SEPBIRTH009
+  swift8: SEPBIRTH
+  branch_name: Tabriz
+  branch_address: Tabriz
+  branch_code: '009'
+  city: Tabriz
+  country: Iran
+- name: Bank Sepah
+  swift: SEPBIRTHXXX
+  swift8: SEPBIRTH
+  branch_name: Head Office
+  branch_address: No.7, Africa Hwy 1514947111 Tehran
+  branch_code: XXX
+  city: Tehran
+  country: Iran
+- name: Bank Sepah
+  swift: SEPBIRTH001
+  swift8: SEPBIRTH
+  branch_name: Central Branch
+  branch_address: Tehran
+  branch_code: '001'
+  city: Tehran
+  country: Iran
+- name: Bank Sepah
+  swift: SEPBIRTH002
+  swift8: SEPBIRTH
+  branch_name: Bazar Branch
+  branch_address: Tehran
+  branch_code: '002'
+  city: Tehran
+  country: Iran
+- name: Bank Sepah
+  swift: SEPBIRTH004
+  swift8: SEPBIRTH
+  branch_name: Khayam Branch
+  branch_address: Tehran
+  branch_code: '004'
+  city: Tehran
+  country: Iran
+- name: Bank Eghtesad Novin
+  swift: BEGNIRTHAFG
+  swift8: BEGNIRTH
+  branch_name: Afrigha
+  branch_address: Amirparviz 1969954345 Tehran
+  branch_code: AFG
+  city: Tehran
+  country: Iran
+- name: Bank Eghtesad Novin
+  swift: BEGNIRTHART
+  swift8: BEGNIRTH
+  branch_name: Artesh
+  branch_address: Enbank Tabriz
+  branch_code: ART
+  city: Tabriz
+  country: Iran
+- name: Bank Eghtesad Novin
+  swift: BEGNIRTHAZD
+  swift8: BEGNIRTH
+  branch_name: Azadi Isfahan
+  branch_address: Isfahan
+  branch_code: AZD
+  city: Isfahan
+  country: Iran
+- name: Bank Eghtesad Novin
+  swift: BEGNIRTHBSH
+  swift8: BEGNIRTH
+  branch_name: Bushehr
+  branch_address: Imam Khomeini St Bushehr
+  branch_code: BSH
+  city: Bushehr
+  country: Iran
+- name: Bank Eghtesad Novin
+  swift: BEGNIRTHESF
+  swift8: BEGNIRTH
+  branch_name: Esfandyar
+  branch_address: Tehran
+  branch_code: ESF
+  city: Tehran
+  country: Iran
+- name: Bank Eghtesad Novin
+  swift: BEGNIRTHFER
+  swift8: BEGNIRTH
+  branch_name: Ferdosi
+  branch_address: Ferdosi Square Tehran
+  branch_code: FER
+  city: Tehran
+  country: Iran
+- name: Bank Eghtesad Novin
+  swift: BEGNIRTHGHD
+  swift8: BEGNIRTH
+  branch_name: Ghadir
+  branch_address: Tehran
+  branch_code: GHD
+  city: Tehran
+  country: Iran
+- name: Bank Eghtesad Novin
+  swift: BEGNIRTHIKH
+  swift8: BEGNIRTH
+  branch_name: Imam Khomeini
+  branch_address: Enbank Mashhad
+  branch_code: IKH
+  city: Mashhad
+  country: Iran
+- name: Bank Eghtesad Novin
+  swift: BEGNIRTHKSH
+  swift8: BEGNIRTH
+  branch_name: Kish Island Branch
+  branch_address: Kish Business Center 7941895459 Kish Island
+  branch_code: KSH
+  city: Kish Island
+  country: Iran
+- name: Bank Eghtesad Novin
+  swift: BEGNIRTHMFT
+  swift8: BEGNIRTH
+  branch_name: Mofatteh Branch
+  branch_address: Mofatteh St Tehran
+  branch_code: MFT
+  city: Tehran
+  country: Iran
+- name: Bank Eghtesad Novin
+  swift: BEGNIRTHNFT
+  swift8: BEGNIRTH
+  branch_name: Nft
+  branch_address: Tehran
+  branch_code: NFT
+  city: Tehran
+  country: Iran
+- name: Bank Eghtesad Novin
+  swift: BEGNIRTHSHB
+  swift8: BEGNIRTH
+  branch_name: Cms-Atm
+  branch_address: No. 51 19699 Tehran
+  branch_code: SHB
+  city: Tehran
+  country: Iran
+- name: Bank Eghtesad Novin
+  swift: BEGNIRTHTGH
+  swift8: BEGNIRTH
+  branch_name: Taghi Abad
+  branch_address: Mashhad
+  branch_code: TGH
+  city: Mashhad
+  country: Iran
+- name: Bank Eghtesad Novin
+  swift: BEGNIRTHXXX
+  swift8: BEGNIRTH
+  branch_name: Head Office
+  branch_address: Bank Eghtesad Novin Building 1969954345 Tehran
+  branch_code: XXX
+  city: Tehran
+  country: Iran
+- name: Bank Eghtesad Novin
+  swift: BEGNIRTHZND
+  swift8: BEGNIRTH
+  branch_name: Zand
+  branch_address: Enbank Shiraz
+  branch_code: ZND
+  city: Shiraz
+  country: Iran
+- name: Bank Keshavarzi
+  swift: KESHIRTH020
+  swift8: KESHIRTH
+  branch_name: Orumiyeh
+  branch_address: Ayatollah Kashani St., 5715663616 Orumiyeh
+  branch_code: '020'
+  city: Orumiyeh
+  country: Iran
+- name: Bank Keshavarzi
+  swift: KESHIRTH030
+  swift8: KESHIRTH
+  branch_name: Isfahan Branch
+  branch_address: 64 Boustan Saadi Avenue 81756 Isfahan
+  branch_code: '030'
+  city: Isfahan
+  country: Iran
+- name: Bank Keshavarzi
+  swift: KESHIRTH040
+  swift8: KESHIRTH
+  branch_name: Tabriz Branch
+  branch_address: Modares Street, Khaghani Avenue Tabriz
+  branch_code: '040'
+  city: Tabriz
+  country: Iran
+- name: Bank Keshavarzi
+  swift: KESHIRTH070
+  swift8: KESHIRTH
+  branch_name: Kerman Branch
+  branch_address: Sepah Street 76137 Kerman
+  branch_code: '070'
+  city: Kerman
+  country: Iran
+- name: Bank Keshavarzi
+  swift: KESHIRTH100
+  swift8: KESHIRTH
+  branch_name: Qazvin Branch
+  branch_address: Bouali Street Qazvin
+  branch_code: '100'
+  city: Qazvin
+  country: Iran
+- name: Bank Keshavarzi
+  swift: KESHIRTH103
+  swift8: KESHIRTH
+  branch_name: Shadmehr Branch
+  branch_address: Corner of Shadmehr Street Tehran
+  branch_code: '103'
+  city: Tehran
+  country: Iran
+- name: Bank Keshavarzi
+  swift: KESHIRTH110
+  swift8: KESHIRTH
+  branch_name: Shahrara
+  branch_address: Bank Keshavarzi 14155-6395 Tehran
+  branch_code: '110'
+  city: Tehran
+  country: Iran
+- name: Bank Keshavarzi
+  swift: KESHIRTH140
+  swift8: KESHIRTH
+  branch_name: Mashhad Branch
+  branch_address: Jennat Street 91377 Mashhad
+  branch_code: '140'
+  city: Mashhad
+  country: Iran
+- name: Bank Keshavarzi
+  swift: KESHIRTH160
+  swift8: KESHIRTH
+  branch_name: No branch name
+  branch_address: No branch address
+  branch_code: '160'
+  city: Tehran
+  country: Iran
+- name: Bank Keshavarzi
+  swift: KESHIRTH180
+  swift8: KESHIRTH
+  branch_name: Markaz Tejari Golestan Branch
+  branch_address: Markaz Tejari Golestan Tehran
+  branch_code: '180'
+  city: Tehran
+  country: Iran
+- name: Bank Keshavarzi
+  swift: KESHIRTH204
+  swift8: KESHIRTH
+  branch_name: Sari Branch
+  branch_address: Azadi Blvd. Sari
+  branch_code: '204'
+  city: Sari
+  country: Iran
+- name: Bank Keshavarzi
+  swift: KESHIRTH210
+  swift8: KESHIRTH
+  branch_name: Rasht Branch
+  branch_address: Imam Khomeini Blvd. , Opposite 4188694346 Rasht
+  branch_code: '210'
+  city: Rasht
+  country: Iran
+- name: Bank Keshavarzi
+  swift: KESHIRTH240
+  swift8: KESHIRTH
+  branch_name: Arak
+  branch_address: Arak
+  branch_code: '240'
+  city: Arak
+  country: Iran
+- name: Bank Keshavarzi
+  swift: KESHIRTH300
+  swift8: KESHIRTH
+  branch_name: Kish Branch
+  branch_address: Markaz-E-Tejari 79418 Kish Island
+  branch_code: '300'
+  city: Kish Island
+  country: Iran
+- name: Bank Keshavarzi
+  swift: KESHIRTH340
+  swift8: KESHIRTH
+  branch_name: Dolati Branch
+  branch_address: 186 Keshavarz Blvd, Opposite Tehran
+  branch_code: '340'
+  city: Tehran
+  country: Iran
+- name: Bank Keshavarzi
+  swift: KESHIRTH390
+  swift8: KESHIRTH
+  branch_name: Chabahar Branch
+  branch_address: Banking Complex 9971767445 Chabahar Port
+  branch_code: '390'
+  city: Chabahar Port
+  country: Iran
+- name: Bank Keshavarzi
+  swift: KESHIRTH440
+  swift8: KESHIRTH
+  branch_name: Vali-Asr Branch
+  branch_address: Tehran
+  branch_code: '440'
+  city: Tehran
+  country: Iran
+- name: Bank Keshavarzi
+  swift: KESHIRTH450
+  swift8: KESHIRTH
+  branch_name: Persian Gulf
+  branch_address: Imam Khomeini Blvd., B/W Bargh Sq. 7917783335 Bandar Abbas
+  branch_code: '450'
+  city: Bandar Abbas
+  country: Iran
+- name: Bank Keshavarzi
+  swift: KESHIRTH610
+  swift8: KESHIRTH
+  branch_name: Vanak
+  branch_address: No.68 1517963911 Tehran
+  branch_code: '610'
+  city: Tehran
+  country: Iran
+- name: Bank Keshavarzi
+  swift: KESHIRTH620
+  swift8: KESHIRTH
+  branch_name: Tohid Branch
+  branch_address: 97 Tahid Square 14197 Tehran
+  branch_code: '620'
+  city: Tehran
+  country: Iran
+- name: Bank Maskan
+  swift: BKMNIRTH111
+  swift8: BKMNIRTH
+  branch_name: Central Branch
+  branch_address: Central Branch Building 11365 Tehran
+  branch_code: '111'
+  city: Tehran
+  country: Iran
+- name: Bank Maskan
+  swift: BKMNIRTH114
+  swift8: BKMNIRTH
+  branch_name: Isfahan Central Branch
+  branch_address: Enghelab Square - Esfehan Isfahan
+  branch_code: '114'
+  city: Isfahan
+  country: Iran
+- name: Bank Maskan
+  swift: BKMNIRTH117
+  swift8: BKMNIRTH
+  branch_name: Shiraz Central Branch
+  branch_address: 13765 Shiraz
+  branch_code: '117'
+  city: Shiraz
+  country: Iran
+- name: Bank Maskan
+  swift: BKMNIRTH129
+  swift8: BKMNIRTH
+  branch_name: Tohid Branch
+  branch_address: Bank Maskan Bld. 14574 Tehran
+  branch_code: '129'
+  city: Tehran
+  country: Iran
+- name: Bank Maskan
+  swift: BKMNIRTH181
+  swift8: BKMNIRTH
+  branch_name: Tadjrish Br
+  branch_address: Vali-Asr Ave. Tehran
+  branch_code: '181'
+  city: Tehran
+  country: Iran
+- name: Bank Maskan
+  swift: BKMNIRTH219
+  swift8: BKMNIRTH
+  branch_name: Yousefabad Branch
+  branch_address: Asad-Abadi Ave 14338 Tehran
+  branch_code: '219'
+  city: Tehran
+  country: Iran
+- name: Bank Maskan
+  swift: BKMNIRTH276
+  swift8: BKMNIRTH
+  branch_name: Sadaf Trade Centre
+  branch_address: No. 408-409, Sadaf Trade Centre 9971765739 Chabahar Port
+  branch_code: '276'
+  city: Chabahar Port
+  country: Iran
+- name: Bank Maskan
+  swift: BKMNIRTH286
+  swift8: BKMNIRTH
+  branch_name: Kish Venoos Branch
+  branch_address: Sanaei Ave. Kish Island
+  branch_code: '286'
+  city: Kish Island
+  country: Iran
+- name: Bank Maskan
+  swift: BKMNIRTH295
+  swift8: BKMNIRTH
+  branch_name: Tehran Taleqani Branch
+  branch_address: Taleghani Street Tehran
+  branch_code: '295'
+  city: Tehran
+  country: Iran
+- name: Bank Maskan
+  swift: BKMNIRTH297
+  swift8: BKMNIRTH
+  branch_name: Tehran Narmak Branch
+  branch_address: 1648779433 Tehran
+  branch_code: '297'
+  city: Tehran
+  country: Iran
+- name: Bank Maskan
+  swift: BKMNIRTH412
+  swift8: BKMNIRTH
+  branch_name: Saadat Abad Br
+  branch_address: Saadat Abad Tehran
+  branch_code: '412'
+  city: Tehran
+  country: Iran
+- name: Bank Maskan
+  swift: BKMNIRTH417
+  swift8: BKMNIRTH
+  branch_name: Isfahan Ferdowsi Branch
+  branch_address: 8144647685 Isfahan
+  branch_code: '417'
+  city: Isfahan
+  country: Iran
+- name: Bank Maskan
+  swift: BKMNIRTH421
+  swift8: BKMNIRTH
+  branch_name: Tehran Sepahbod Qarani Branch
+  branch_address: 1581653139 Tehran
+  branch_code: '421'
+  city: Tehran
+  country: Iran
+- name: Bank Maskan
+  swift: BKMNIRTH454
+  swift8: BKMNIRTH
+  branch_name: Tehran Foreign Exchange Branch
+  branch_address: Vanak Square - Tehran Tehran
+  branch_code: '454'
+  city: Tehran
+  country: Iran
+- name: Bank Maskan
+  swift: BKMNIRTH469
+  swift8: BKMNIRTH
+  branch_name: Mirdamad Branch
+  branch_address: No. 100 Mirdamad Blvd, Madar Sq. 15479 Tehran
+  branch_code: '469'
+  city: Tehran
+  country: Iran
+- name: Bank Maskan
+  swift: BKMNIRTH554
+  swift8: BKMNIRTH
+  branch_name: Afriqa Branch
+  branch_address: Bank Maskan Bldg 1915673315 Tehran
+  branch_code: '554'
+  city: Tehran
+  country: Iran
+- name: Bank Maskan
+  swift: BKMNIRTH661
+  swift8: BKMNIRTH
+  branch_name: Motahari Branch
+  branch_address: No. 456 - Mottahari St. 15958 Tehran
+  branch_code: '661'
+  city: Tehran
+  country: Iran
+- name: Bank Maskan
+  swift: BKMNIRTH782
+  swift8: BKMNIRTH
+  branch_name: Qeshm Island Central Branch
+  branch_address: Bank Site - Setare Intl Market Qeshm
+  branch_code: '782'
+  city: Qeshm
+  country: Iran
+- name: Bank Maskan
+  swift: BKMNIRTHACC
+  swift8: BKMNIRTH
+  branch_name: Accounting Division
+  branch_address: Tehran
+  branch_code: ACC
+  city: Tehran
+  country: Iran
+- name: Bank Maskan
+  swift: BKMNIRTHSHB
+  swift8: BKMNIRTH
+  branch_name: 11365 Tehran
+  branch_address: Head Office Building 11365 Tehran
+  branch_code: SHB
+  city: Tehran
+  country: Iran
+- name: Bank Pasargad
+  swift: BKBPIRTH201
+  swift8: BKBPIRTH
+  branch_name: Central Branch, No 430, Mirdamad Blvd ,
+  branch_address: Tehran
+  branch_code: '201'
+  city: Tehran
+  country: Iran
+- name: Bank Pasargad
+  swift: BKBPIRTHIS1
+  swift8: BKBPIRTH
+  branch_name: Saadat Abad St ,
+  branch_address: Saadat Abad St., Between Azadi Sq. 8193613111 Isfahan
+  branch_code: IS1
+  city: Isfahan
+  country: Iran
+- name: Bank Pasargad
+  swift: BKBPIRTHKS1
+  swift8: BKBPIRTH
+  branch_name: 7941895347 Kish Island
+  branch_address: No.16-17 Bazar-E Markaze Tejari 7941895347 Kish Island
+  branch_code: KS1
+  city: Kish Island
+  country: Iran
+- name: Bank Pasargad
+  swift: BKBPIRTHXXX
+  swift8: BKBPIRTH
+  branch_name: Head Office
+  branch_address: Mirdamad Blvd. No.430 1969774511 Tehran
+  branch_code: XXX
+  city: Tehran
+  country: Iran
+- name: City Bank (public Corp
+  swift: CIYBIRTHXXX
+  swift8: CIYBIRTH
+  branch_name: Head Office
+  branch_address: Gharani 147 15846 Tehran
+  branch_code: XXX
+  city: Tehran
+  country: Iran
+- name: Credit Institute For Development
+  swift: BTOSIRTHCNT
+  swift8: BTOSIRTH
+  branch_name: Central
+  branch_address: Jahan Koodak Cross Road, Vanak Sq., 1969935191 Tehran
+  branch_code: CNT
+  city: Tehran
+  country: Iran
+- name: Credit Institute For Development
+  swift: BTOSIRTHISF
+  swift8: BTOSIRTH
+  branch_name: Isfahan201
+  branch_address: Isfahan
+  branch_code: ISF
+  city: Isfahan
+  country: Iran
+- name: Credit Institute For Development
+  swift: BTOSIRTHKSH
+  swift8: BTOSIRTH
+  branch_name: Kish Branch601
+  branch_address: Kish Island
+  branch_code: KSH
+  city: Kish Island
+  country: Iran
+- name: Credit Institute For Development
+  swift: BTOSIRTHMAD
+  swift8: BTOSIRTH
+  branch_name: Madar Sq ,104
+  branch_address: Tehran
+  branch_code: MAD
+  city: Tehran
+  country: Iran
+- name: Credit Institute For Development
+  swift: BTOSIRTHMSH
+  swift8: BTOSIRTH
+  branch_name: Mashhad301
+  branch_address: Mashhad
+  branch_code: MSH
+  city: Mashhad
+  country: Iran
+- name: Credit Institute For Development
+  swift: BTOSIRTHSAN
+  swift8: BTOSIRTH
+  branch_name: Sanaie113
+  branch_address: Tehran
+  branch_code: SAN
+  city: Tehran
+  country: Iran
+- name: Credit Institute For Development
+  swift: BTOSIRTHTAB
+  swift8: BTOSIRTH
+  branch_name: Tabriz
+  branch_address: Tabriz
+  branch_code: TAB
+  city: Tabriz
+  country: Iran
+- name: Credit Institute For Development
+  swift: BTOSIRTHXXX
+  swift8: BTOSIRTH
+  branch_name: Head Office
+  branch_address: 53 Corner of Saneie St, Africa Blvd 1969935191 Tehran
+  branch_code: XXX
+  city: Tehran
+  country: Iran
+- name: Fnxcard Corporation Ltd
+  swift: FNXCIRT1XXX
+  swift8: FNXCIRT1
+  branch_name: Head Office
+  branch_address: Kowsar Trade Center 81736 Isfahan
+  branch_code: XXX
+  city: Isfahan
+  country: Iran
+- name: Helal Iran Medical Devices Co.
+  swift: HIMDIRT1XXX
+  swift8: HIMDIRT1
+  branch_name: Head Office
+  branch_address: 52 Km Tehran-Qazvin High Way 66596 Karaj
+  branch_code: XXX
+  city: Karaj
+  country: Iran
+- name: Iranian Venezuelan Bi-national Bank
+  swift: IVBBIRTHXXX
+  swift8: IVBBIRTH
+  branch_name: Head Office
+  branch_address: Tosee Building 1513835711 Tehran
+  branch_code: XXX
+  city: Tehran
+  country: Iran
+- name: Karafarin Bank
+  swift: KBIDIRTH004
+  swift8: KBIDIRTH
+  branch_name: Esfahan Central Branch
+  branch_address: 58 Feiz Sq., Mir Ave 8164987544 Isfahan
+  branch_code: '004'
+  city: Isfahan
+  country: Iran
+- name: Karafarin Bank
+  swift: KBIDIRTH005
+  swift8: KBIDIRTH
+  branch_name: Farmaniyeh Branch
+  branch_address: Koohe Noor Tower 1953835113 Tehran
+  branch_code: '005'
+  city: Tehran
+  country: Iran
+- name: Karafarin Bank
+  swift: KBIDIRTH008
+  swift8: KBIDIRTH
+  branch_name: Central Branch of Tabriz
+  branch_address: 915 Emam Khomeini Ave, 5163986173 Tabriz
+  branch_code: '008'
+  city: Tabriz
+  country: Iran
+- name: Karafarin Bank
+  swift: KBIDIRTH009
+  swift8: KBIDIRTH
+  branch_name: Vanak Branch
+  branch_address: 52-54 Shiraz Vanak Square 1991817519 Tehran
+  branch_code: '009'
+  city: Tehran
+  country: Iran
+- name: Karafarin Bank
+  swift: KBIDIRTH016
+  swift8: KBIDIRTH
+  branch_name: Zafar Branch
+  branch_address: Zafar Tehran
+  branch_code: '016'
+  city: Tehran
+  country: Iran
+- name: Karafarin Bank
+  swift: KBIDIRTH018
+  swift8: KBIDIRTH
+  branch_name: Mashhad Central Branch
+  branch_address: Ahmad Abad Ave, 9183715581 Mashhad
+  branch_code: '018'
+  city: Mashhad
+  country: Iran
+- name: Karafarin Bank
+  swift: KBIDIRTH022
+  swift8: KBIDIRTH
+  branch_name: Sepahan Branch
+  branch_address: Bokharest St. 1514613146 Tehran
+  branch_code: '022'
+  city: Tehran
+  country: Iran
+- name: Karafarin Bank
+  swift: KBIDIRTH031
+  swift8: KBIDIRTH
+  branch_name: Kish Island Branch
+  branch_address: Markaze Faaliyathaye Pooli Va Kish Island
+  branch_code: '031'
+  city: Kish Island
+  country: Iran
+- name: Karafarin Bank
+  swift: KBIDIRTH050
+  swift8: KBIDIRTH
+  branch_name: Shahis Beheshti Branch
+  branch_address: Tehran
+  branch_code: '050'
+  city: Tehran
+  country: Iran
+- name: Karafarin Bank
+  swift: KBIDIRTHSHB
+  swift8: KBIDIRTH
+  branch_name: Tehran
+  branch_address: Tehran
+  branch_code: SHB
+  city: Tehran
+  country: Iran
+- name: Karafarin Bank
+  swift: KBIDIRTHXXX
+  swift8: KBIDIRTH
+  branch_name: Head Office
+  branch_address: Ahmad Ghasir Ave. 15137 Tehran
+  branch_code: XXX
+  city: Tehran
+  country: Iran
+- name: Kish International Bank
+  swift: KIBOIRTH110
+  swift8: KIBOIRTH
+  branch_name: Teh1
+  branch_address: Valiyeasr Ave. Tehran
+  branch_code: '110'
+  city: Tehran
+  country: Iran
+- name: Kish International Bank
+  swift: KIBOIRTH111
+  swift8: KIBOIRTH
+  branch_name: Teh2
+  branch_address: Valiyeasr Ave. Tehran
+  branch_code: '111'
+  city: Tehran
+  country: Iran
+- name: Kish International Bank
+  swift: KIBOIRTH112
+  swift8: KIBOIRTH
+  branch_name: Teh3
+  branch_address: Valiyeasr Ave. Tehran
+  branch_code: '112'
+  city: Tehran
+  country: Iran
+- name: Kish International Bank
+  swift: KIBOIRTH113
+  swift8: KIBOIRTH
+  branch_name: Teh4
+  branch_address: Valiyeasr Ave. Tehran
+  branch_code: '113'
+  city: Tehran
+  country: Iran
+- name: Kish International Bank
+  swift: KIBOIRTH114
+  swift8: KIBOIRTH
+  branch_name: Teh5
+  branch_address: Valiyeasr Ave. Tehran
+  branch_code: '114'
+  city: Tehran
+  country: Iran
+- name: Kish International Bank
+  swift: KIBOIRTH115
+  swift8: KIBOIRTH
+  branch_name: Teh6
+  branch_address: Valiyeasr Ave. Tehran
+  branch_code: '115'
+  city: Tehran
+  country: Iran
+- name: Kish International Bank
+  swift: KIBOIRTH116
+  swift8: KIBOIRTH
+  branch_name: Ksh1
+  branch_address: Andisheh Blvd, Sanaei Str. Kish Island
+  branch_code: '116'
+  city: Kish Island
+  country: Iran
+- name: Kish International Bank
+  swift: KIBOIRTH117
+  swift8: KIBOIRTH
+  branch_name: Ksh2
+  branch_address: Andisheh Blvd, Sanaei Str. Kish Island
+  branch_code: '117'
+  city: Kish Island
+  country: Iran
+- name: Kish International Bank
+  swift: KIBOIRTH118
+  swift8: KIBOIRTH
+  branch_name: Ksh3
+  branch_address: Andisheh Blvd, Sanaei Str. Kish Island
+  branch_code: '118'
+  city: Kish Island
+  country: Iran
+- name: Kish International Bank
+  swift: KIBOIRTH119
+  swift8: KIBOIRTH
+  branch_name: Teh7
+  branch_address: Valiyeasr Ave. Tehran
+  branch_code: '119'
+  city: Tehran
+  country: Iran
+- name: Kish International Bank
+  swift: KIBOIRTH120
+  swift8: KIBOIRTH
+  branch_name: Teh8
+  branch_address: Valiyeasr Ave. Tehran
+  branch_code: '120'
+  city: Tehran
+  country: Iran
+- name: Kish International Bank
+  swift: KIBOIRTHXXX
+  swift8: KIBOIRTH
+  branch_name: Head Office
+  branch_address: 2208 - Vali Asr St. 1433885146 Tehran
+  branch_code: XXX
+  city: Tehran
+  country: Iran
+- name: Middle East Bank
+  swift: KHMIIRTHXXX
+  swift8: KHMIIRTH
+  branch_name: Head Office
+  branch_address: 6th Alley, Saboonchi St., 12345 Tehran
+  branch_code: XXX
+  city: Tehran
+  country: Iran
+- name: Parsian Bank
+  swift: BKPAIRTHAFS
+  swift8: BKPAIRTH
+  branch_name: Afrighaye Shomali
+  branch_address: Afrigha Tower 1915678613 Tehran
+  branch_code: AFS
+  city: Tehran
+  country: Iran
+- name: Parsian Bank
+  swift: BKPAIRTHAHW
+  swift8: BKPAIRTH
+  branch_name: Ahwaz
+  branch_address: No. 51, Btw 8-9 Sharghi Streets, 6155954897 Ahwaz
+  branch_code: AHW
+  city: Ahwaz
+  country: Iran
+- name: Parsian Bank
+  swift: BKPAIRTHAMH
+  swift8: BKPAIRTH
+  branch_name: Ahmad Abad Mashhad
+  branch_address: Parsian Bank 9176663453 Mashhad
+  branch_code: AMH
+  city: Mashhad
+  country: Iran
+- name: Parsian Bank
+  swift: BKPAIRTHAPA
+  swift8: BKPAIRTH
+  branch_name: Apadana
+  branch_address: 44 Khoramshahr St., Sohrevardi Ave. 1553955711 Tehran
+  branch_code: APA
+  city: Tehran
+  country: Iran
+- name: Parsian Bank
+  swift: BKPAIRTHARJ
+  swift8: BKPAIRTH
+  branch_name: Arjantin Branch
+  branch_address: No.76 Corner of 19th St., Beginning 1513914653 Tehran
+  branch_code: ARJ
+  city: Tehran
+  country: Iran
+- name: Parsian Bank
+  swift: BKPAIRTHAZD
+  swift8: BKPAIRTH
+  branch_name: Azadi Branch
+  branch_address: Corner of Azarbayjan St.,Azadi Ave. 1458995411 Tehran
+  branch_code: AZD
+  city: Tehran
+  country: Iran
+- name: Parsian Bank
+  swift: BKPAIRTHBTE
+  swift8: BKPAIRTH
+  branch_name: Borj Tejarat Electronic
+  branch_address: No. 8 Afriqa St. 1967843111 Tehran
+  branch_code: BTE
+  city: Tehran
+  country: Iran
+- name: Parsian Bank
+  swift: BKPAIRTHCEN
+  swift8: BKPAIRTH
+  branch_name: Central Branch
+  branch_address: Parsian Building 1467793811 Tehran
+  branch_code: CEN
+  city: Tehran
+  country: Iran
+- name: Parsian Bank
+  swift: BKPAIRTHCHT
+  swift8: BKPAIRTH
+  branch_name: Chitgar
+  branch_address: Parsian Bank 1396118111 Tehran
+  branch_code: CHT
+  city: Tehran
+  country: Iran
+- name: Parsian Bank
+  swift: BKPAIRTHCNB
+  swift8: BKPAIRTH
+  branch_name: Central Branch
+  branch_address: Keshavarz Blvd. 14159 Tehran
+  branch_code: CNB
+  city: Tehran
+  country: Iran
+- name: Parsian Bank
+  swift: BKPAIRTHDFT
+  swift8: BKPAIRTH
+  branch_name: Doctor Fatemi
+  branch_address: Ghazali Alley, Dr. Fatemi St. 2 1415894853 Tehran
+  branch_code: DFT
+  city: Tehran
+  country: Iran
+- name: Parsian Bank
+  swift: BKPAIRTHESK
+  swift8: BKPAIRTH
+  branch_name: Eskandari
+  branch_address: No 135 1419943494 Tehran
+  branch_code: ESK
+  city: Tehran
+  country: Iran
+- name: Parsian Bank
+  swift: BKPAIRTHETD
+  swift8: BKPAIRTH
+  branch_name: Ettehad Branch
+  branch_address: No.95,Ettehad St., Abali Road 1658643513 Tehran
+  branch_code: ETD
+  city: Tehran
+  country: Iran
+- name: Parsian Bank
+  swift: BKPAIRTHFKR
+  swift8: BKPAIRTH
+  branch_name: Ferdowsi Kermanshah Branch
+  branch_address: No branch address
+  branch_code: FKR
+  city: Kermanshah
+  country: Iran
+- name: Parsian Bank
+  swift: BKPAIRTHFRD
+  swift8: BKPAIRTH
+  branch_name: Ferdosi Branch
+  branch_address: Koushk Cross, Ferdosi St., No.489 Tehran
+  branch_code: FRD
+  city: Tehran
+  country: Iran
+- name: Parsian Bank
+  swift: BKPAIRTHFSH
+  swift8: BKPAIRTH
+  branch_name: Fereshteh
+  branch_address: Darush Bldg. 1965949313 Tehran
+  branch_code: FSH
+  city: Tehran
+  country: Iran
+- name: Parsian Bank
+  swift: BKPAIRTHGAN
+  swift8: BKPAIRTH
+  branch_name: Gandi
+  branch_address: No 22/1 1517737796 Tehran
+  branch_code: GAN
+  city: Tehran
+  country: Iran
+- name: Parsian Bank
+  swift: BKPAIRTHHAK
+  swift8: BKPAIRTH
+  branch_name: Hakim Nezami Isfahan Branch
+  branch_address: No branch address
+  branch_code: HAK
+  city: Isfahan
+  country: Iran
+- name: Parsian Bank
+  swift: BKPAIRTHKAM
+  swift8: BKPAIRTH
+  branch_name: Kamranieh
+  branch_address: No 6 1936937811 Tehran
+  branch_code: KAM
+  city: Tehran
+  country: Iran
+- name: Parsian Bank
+  swift: BKPAIRTHKAS
+  swift8: BKPAIRTH
+  branch_name: Ayatollah Kashani Sharghi
+  branch_address: No.120/1 Ayatollah Kashani 1481893841 Tehran
+  branch_code: KAS
+  city: Tehran
+  country: Iran
+- name: Saman Bank Corporation
+  swift: SABCIRTH8AF
+  swift8: SABCIRTH
+  branch_name: Afrigha Branch
+  branch_address: Building No. 29 Tehran
+  branch_code: 8AF
+  city: Tehran
+  country: Iran
+- name: Saman Bank Corporation
+  swift: SABCIRTH8AG
+  swift8: SABCIRTH
+  branch_name: Aghdasieh Branch
+  branch_address: Pasdaran Ave., Beside Twelfth Tehran
+  branch_code: 8AG
+  city: Tehran
+  country: Iran
+- name: Saman Bank Corporation
+  swift: SABCIRTH8AI
+  swift8: SABCIRTH
+  branch_name: Arike Iranian Branch
+  branch_address: Arikeye Iranian Commercial Sport Tehran
+  branch_code: 8AI
+  city: Tehran
+  country: Iran
+- name: Saman Bank Corporation
+  swift: SABCIRTH8AJ
+  swift8: SABCIRTH
+  branch_name: Arjantin Branch
+  branch_address: No.103-Beyhaghi Ave.Arjantin Sq. Tehran
+  branch_code: 8AJ
+  city: Tehran
+  country: Iran
+- name: Saman Bank Corporation
+  swift: SABCIRTH8AL
+  swift8: SABCIRTH
+  branch_name: Alborz
+  branch_address: Alborz
+  branch_code: 8AL
+  city: Alborz
+  country: Iran
+- name: Saman Bank Corporation
+  swift: SABCIRTH8AS
+  swift8: SABCIRTH
+  branch_name: Asef Branch
+  branch_address: No.3,Behzadi Ave.,Asef St.,Zaferani Tehran
+  branch_code: 8AS
+  city: Tehran
+  country: Iran
+- name: Saman Bank Corporation
+  swift: SABCIRTH8AY
+  swift8: SABCIRTH
+  branch_name: Ajudaniye Branch
+  branch_address: No.2, Nilufar Alley, Sepand St., Aqdas Tehran
+  branch_code: 8AY
+  city: Tehran
+  country: Iran
+- name: Saman Bank Corporation
+  swift: SABCIRTH8AZ
+  swift8: SABCIRTH
+  branch_name: Azarbayjan Branch
+  branch_address: No.1076 Azarbayjan Street Tehran
+  branch_code: 8AZ
+  city: Tehran
+  country: Iran
+- name: Saman Bank Corporation
+  swift: SABCIRTH8BA
+  swift8: SABCIRTH
+  branch_name: Bagh Ferdows Branch
+  branch_address: Vali-Asr Ave., After Across Zaafa- Tehran
+  branch_code: 8BA
+  city: Tehran
+  country: Iran
+- name: Saman Bank Corporation
+  swift: SABCIRTH8BD
+  swift8: SABCIRTH
+  branch_name: Bolvar Darya
+  branch_address: 863 No. Bolvardarya Tehran
+  branch_code: 8BD
+  city: Tehran
+  country: Iran
+- name: Saman Bank Corporation
+  swift: SABCIRTH8BF
+  swift8: SABCIRTH
+  branch_name: Bozorgrah Fath Branch
+  branch_address: Tehran Commercial Complex Tehran
+  branch_code: 8BF
+  city: Tehran
+  country: Iran
+- name: Saman Bank Corporation
+  swift: SABCIRTH8BH
+  swift8: SABCIRTH
+  branch_name: Beheshti Branch
+  branch_address: No.136.After Sohrevardi Tehran
+  branch_code: 8BH
+  city: Tehran
+  country: Iran
+- name: Saman Bank Corporation
+  swift: SABCIRTH8BM
+  swift8: SABCIRTH
+  branch_name: 24 Metri Saadabad Branch
+  branch_address: Corner of West 4th Alley , 24 Meter Tehran
+  branch_code: 8BM
+  city: Tehran
+  country: Iran
+- name: Saman Bank Corporation
+  swift: SABCIRTH8BZ
+  swift8: SABCIRTH
+  branch_name: Bazar Branch
+  branch_address: West 15 Khordad Ave. Next to Tehran
+  branch_code: 8BZ
+  city: Tehran
+  country: Iran
+- name: Saman Bank Corporation
+  swift: SABCIRTH8CB
+  swift8: SABCIRTH
+  branch_name: Central Branch
+  branch_address: No 879 Between Vali-E-Asr and Tehran
+  branch_code: 8CB
+  city: Tehran
+  country: Iran
+- name: Saman Bank Corporation
+  swift: SABCIRTH8CD
+  swift8: SABCIRTH
+  branch_name: Corporate
+  branch_address: Head Office Tehran
+  branch_code: 8CD
+  city: Tehran
+  country: Iran
+- name: Saman Bank Corporation
+  swift: SABCIRTH8DS
+  swift8: SABCIRTH
+  branch_name: Dezashib Branch
+  branch_address: No.158, Amar Cross, Kabiri St. Tehran
+  branch_code: 8DS
+  city: Tehran
+  country: Iran
+- name: Saman Bank Corporation
+  swift: SABCIRTH8DT
+  swift8: SABCIRTH
+  branch_name: Dowlat
+  branch_address: Por Mehr Building Tehran
+  branch_code: 8DT
+  city: Tehran
+  country: Iran
+- name: Saman Bank Corporation
+  swift: SABCIRTH8EK
+  swift8: SABCIRTH
+  branch_name: Ekbatan Branch
+  branch_address: Phase2 Golha Commercial Complex Tehran
+  branch_code: 8EK
+  city: Tehran
+  country: Iran
+- name: Saman Bank Corporation
+  swift: SABCIRTH8EL
+  swift8: SABCIRTH
+  branch_name: Elahiyeh Branch
+  branch_address: No.60 Sharifimanesh Ave. Eastern Tehran
+  branch_code: 8EL
+  city: Tehran
+  country: Iran
+- name: Sarmaye Bank (p.j.s.c
+  swift: SRMBIRTH301
+  swift8: SRMBIRTH
+  branch_name: Ostad Shahryar
+  branch_address: Emam Str. -Abresan Cros Tabriz
+  branch_code: '301'
+  city: Tabriz
+  country: Iran
+- name: Sarmaye Bank (p.j.s.c
+  swift: SRMBIRTH401
+  swift8: SRMBIRTH
+  branch_name: Kish
+  branch_address: Venus Shoping Center 7641000000 Kish Island
+  branch_code: '401'
+  city: Kish Island
+  country: Iran
+- name: Sarmaye Bank (p.j.s.c
+  swift: SRMBIRTH601
+  swift8: SRMBIRTH
+  branch_name: Sheykh Sadogh
+  branch_address: Sheykh Sadogh Str Isfahan
+  branch_code: '601'
+  city: Isfahan
+  country: Iran
+- name: Sarmaye Bank (p.j.s.c
+  swift: SRMBIRTHCNT
+  swift8: SRMBIRTH
+  branch_name: Central Branch
+  branch_address: No. 24, Arak St, Gharani Ave 19395-6415 Tehran
+  branch_code: CNT
+  city: Tehran
+  country: Iran
+- name: Sarmaye Bank (p.j.s.c
+  swift: SRMBIRTHELH
+  swift8: SRMBIRTH
+  branch_name: Elahiye Branch
+  branch_address: No. 1633, Shariati Ave Tehran
+  branch_code: ELH
+  city: Tehran
+  country: Iran
+- name: Sarmaye Bank (p.j.s.c
+  swift: SRMBIRTHESF
+  swift8: SRMBIRTH
+  branch_name: Isfahan Branch
+  branch_address: Ainehkhaneh Blvd, Between Ferdousi 81646-1111 Isfahan
+  branch_code: ESF
+  city: Isfahan
+  country: Iran
+- name: Sarmaye Bank (p.j.s.c
+  swift: SRMBIRTHESK
+  swift8: SRMBIRTH
+  branch_name: Eskan Branch
+  branch_address: Eskan Tower Tehran
+  branch_code: ESK
+  city: Tehran
+  country: Iran
+- name: Sarmaye Bank (p.j.s.c
+  swift: SRMBIRTHFAT
+  swift8: SRMBIRTH
+  branch_name: Fatemi Branch
+  branch_address: No. 42, Fatemi Sq. Tehran
+  branch_code: FAT
+  city: Tehran
+  country: Iran
+- name: Sarmaye Bank (p.j.s.c
+  swift: SRMBIRTHMSH
+  swift8: SRMBIRTH
+  branch_name: Ahmadabad Branch
+  branch_address: Ahmadabad Ave, After Neshat St or B 9183897887 Mashhad
+  branch_code: MSH
+  city: Mashhad
+  country: Iran
+- name: Sarmaye Bank (p.j.s.c
+  swift: SRMBIRTHXXX
+  swift8: SRMBIRTH
+  branch_name: Head Office
+  branch_address: Sarmaye Bank Tehran
+  branch_code: XXX
+  city: Tehran
+  country: Iran
+- name: Tat Bank
+  swift: TATBIRTHXXX
+  swift8: TATBIRTH
+  branch_name: Head Office
+  branch_address: No.1,15th St., Ahmad Ghasir Ave. 1513835811 Tehran
+  branch_code: XXX
+  city: Tehran
+  country: Iran
+- name: Teheran Stock Exchange
+  swift: XTEHIRT1XXX
+  swift8: XTEHIRT1
+  branch_name: Head Office
+  branch_address: 228 Hafez Avenue 11389 Tehran
+  branch_code: XXX
+  city: Tehran
+  country: Iran
+- name: Tourism Bank
+  swift: TOSMIRTHXXX
+  swift8: TOSMIRTH
+  branch_name: Head Office
+  branch_address: Darioush 1965949313 Tehran
+  branch_code: XXX
+  city: Tehran
+  country: Iran
+- name: Sct Bankers
+  swift: SCERIRTHKSH
+  swift8: SCERIRTH
+  branch_name: Kish Branch
+  branch_address: Kish Banking Fin Activities Cente Kish Island
+  branch_code: KSH
+  city: Kish Island
+  country: Iran
+- name: Sct Bankers
+  swift: SCERIRTHXXX
+  swift8: SCERIRTH
+  branch_name: Head Office
+  branch_address: Reahi Alley, First of Karaj Tehran
+  branch_code: XXX
+  city: Tehran
+  country: Iran

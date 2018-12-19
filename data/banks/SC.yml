@@ -1,0 +1,90 @@
+---
+SC:
+- name: Bank Of Baroda
+  swift: BARBSCSCXXX
+  swift8: BARBSCSC
+  branch_name: Head Office
+  branch_address: Trinity House Victoria
+  branch_code: XXX
+  city: Victoria
+  country: Seychelles
+- name: Habib Bank Limited
+  swift: HABBSCSCXXX
+  swift8: HABBSCSC
+  branch_name: No branch name
+  branch_address: No branch address
+  branch_code: XXX
+  city: Victoria
+  country: Seychelles
+- name: Habib Bank Limited
+  swift: HABBSCS1XXX
+  swift8: HABBSCS1
+  branch_name: Head Office
+  branch_address: Sound and Vision House Victoria
+  branch_code: XXX
+  city: Victoria
+  country: Seychelles
+- name: Bank Of Ceylon, Seychelles Branch
+  swift: BCEYSCSCXXX
+  swift8: BCEYSCSC
+  branch_name: No branch name
+  branch_address: No branch address
+  branch_code: XXX
+  city: Victoria
+  country: Seychelles
+- name: Bmi Offshore Bank Limited
+  swift: BMUSSCSCXXX
+  swift8: BMUSSCSC
+  branch_name: Head Office
+  branch_address: Capital City Building 672 Providence Mahe
+  branch_code: XXX
+  city: Providence Mahe
+  country: Seychelles
+- name: Central Bank Of Seychelles
+  swift: SSCBSCSCXXX
+  swift8: SSCBSCSC
+  branch_name: Head Office
+  branch_address: Central Bank Building Victoria
+  branch_code: XXX
+  city: Victoria
+  country: Seychelles
+- name: Magnate Premier Private Bank Limited
+  swift: MARVSCS1XXX
+  swift8: MARVSCS1
+  branch_name: Head Office
+  branch_address: Capital City Building Victoria
+  branch_code: XXX
+  city: Victoria
+  country: Seychelles
+- name: Mauritius Commercial Bank (seychelles) Limited, The
+  swift: MCBLSCSCXXX
+  swift8: MCBLSCSC
+  branch_name: Head Office
+  branch_address: 122 Albert Street Victoria
+  branch_code: XXX
+  city: Victoria
+  country: Seychelles
+- name: Nouvobanq
+  swift: NOVHSCSCXXX
+  swift8: NOVHSCSC
+  branch_name: Head Office
+  branch_address: Victoria House Victoria
+  branch_code: XXX
+  city: Victoria
+  country: Seychelles
+- name: Rm International Holdings Ag
+  swift: INHLSCS1XXX
+  swift8: INHLSCS1
+  branch_name: Head Office
+  branch_address: Global Gateway 8 Providence Mahe
+  branch_code: XXX
+  city: Providence
+  country: Seychelles
+- name: Seychelles Commercial Bank
+  swift: SEYSSCSCXXX
+  swift8: SEYSSCSC
+  branch_name: Head Office
+  branch_address: Orion Mall Victoria
+  branch_code: XXX
+  city: Victoria
+  country: Seychelles

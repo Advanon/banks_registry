@@ -1,0 +1,538 @@
+---
+IQ:
+- name: Abu Dhabi Islamic Bank
+  swift: ABDIIQBAXXX
+  swift8: ABDIIQBA
+  branch_name: Head Office
+  branch_address: A4 and A7 at Arasat Al Hindia, Main Baghdad
+  branch_code: XXX
+  city: Baghdad
+  country: Iraq
+- name: Arab Banking Corporation
+  swift: ABCOIQB1XXX
+  swift8: ABCOIQB1
+  branch_name: Head Office
+  branch_address: The National Bak of Iraq Building Baghdad
+  branch_code: XXX
+  city: Baghdad
+  country: Iraq
+- name: Arab Banking Corporation
+  swift: ABCOIQBAXXX
+  swift8: ABCOIQBA
+  branch_name: Head Office
+  branch_address: The National Bak of Iraq Building Baghdad
+  branch_code: XXX
+  city: Baghdad
+  country: Iraq
+- name: Ibl Bank, Sal
+  swift: INLEIQBAXXX
+  swift8: INLEIQBA
+  branch_name: No branch name
+  branch_address: No branch address
+  branch_code: XXX
+  city: Baghdad
+  country: Iraq
+- name: Turkiye Cumhuriyeti Ziraat Bankasi A.S.
+  swift: TCZBIQBAXXX
+  swift8: TCZBIQBA
+  branch_name: Head Office
+  branch_address: Al-Wazeriah Baghdad
+  branch_code: XXX
+  city: Baghdad
+  country: Iraq
+- name: Credit Libanais Sal
+  swift: CLIBIQBAXXX
+  swift8: CLIBIQBA
+  branch_name: Head Office
+  branch_address: Street 14, Selman Al Faek, 904 81018 Baghdad
+  branch_code: XXX
+  city: Baghdad
+  country: Iraq
+- name: Credit Libanais Sal
+  swift: CLIBIQB1XXX
+  swift8: CLIBIQB1
+  branch_name: Head Office
+  branch_address: Street 14, Selman Al Faek, 904 81018 Baghdad
+  branch_code: XXX
+  city: Baghdad
+  country: Iraq
+- name: Al Baraka Turk Katilim Bankasi A.s. Erbil Branch
+  swift: BTFHIQBAXXX
+  swift8: BTFHIQBA
+  branch_name: Head Office
+  branch_address: Albarakaturk Erbil Branch 44001 Arbil
+  branch_code: XXX
+  city: Arbil
+  country: Iraq
+- name: Al Rafidain Bank
+  swift: RAFBIQBAXXX
+  swift8: RAFBIQBA
+  branch_name: Head Office
+  branch_address: Alrasheed/Banks Street 11360 Baghdad
+  branch_code: XXX
+  city: Baghdad
+  country: Iraq
+- name: Al-asswar Co. For Money Transfer
+  swift: ASWRIQB1XXX
+  swift8: ASWRIQB1
+  branch_name: Head Office
+  branch_address: Al Taae Building / Bld. 24 Baghdad
+  branch_code: XXX
+  city: Baghdad
+  country: Iraq
+- name: Al-bilad Islamic Bank For Investment And Finance
+  swift: AIIFIQBAXXX
+  swift8: AIIFIQBA
+  branch_name: Head Office
+  branch_address: Al-Bilad Islamic Bank Building Baghdad
+  branch_code: XXX
+  city: Baghdad
+  country: Iraq
+- name: Al-huda Bank
+  swift: BHDAIQBAXXX
+  swift8: BHDAIQBA
+  branch_name: Head Office
+  branch_address: Karrada, Nidhal St. Baghdad
+  branch_code: XXX
+  city: Baghdad
+  country: Iraq
+- name: Al-iraqia For Money Transfer Co.
+  swift: IRAQIQBAXXX
+  swift8: IRAQIQBA
+  branch_name: Head Office
+  branch_address: Bld. 64 Baghdad
+  branch_code: XXX
+  city: Baghdad
+  country: Iraq
+- name: Ashur International Bank For Investment
+  swift: AIBIIQBAXXX
+  swift8: AIBIIQBA
+  branch_name: Head Office
+  branch_address: Ghosin Al-Tofaha Baghdad
+  branch_code: XXX
+  city: Baghdad
+  country: Iraq
+- name: Asya Katilim Bankasi A.s. Arbil Branch
+  swift: ASYAIQBAXXX
+  swift8: ASYAIQBA
+  branch_name: Head Office
+  branch_address: Royal Mall Arbil
+  branch_code: XXX
+  city: Arbil
+  country: Iraq
+- name: Babylon Bank Company
+  swift: BABKIQBAXXX
+  swift8: BABKIQBA
+  branch_name: Head Office
+  branch_address: Babylon Bank Baghdad
+  branch_code: XXX
+  city: Baghdad
+  country: Iraq
+- name: Bank Of Baghdad
+  swift: BABIIQBAXXX
+  swift8: BABIIQBA
+  branch_name: Head Office
+  branch_address: Bank of Baghdad Building 3192 Baghdad
+  branch_code: XXX
+  city: Baghdad
+  country: Iraq
+- name: Bankmed Sal, Iraq
+  swift: MEDLIQBAARB
+  swift8: MEDLIQBA
+  branch_name: No branch name
+  branch_address: No branch address
+  branch_code: ARB
+  city: Arbil
+  country: Iraq
+- name: Bankmed Sal, Iraq
+  swift: MEDLIQBAXXX
+  swift8: MEDLIQBA
+  branch_name: No branch name
+  branch_address: No branch address
+  branch_code: XXX
+  city: Baghdad
+  country: Iraq
+- name: Banque Libano-franaise Sal-iraq
+  swift: BLFSIQBAXXX
+  swift8: BLFSIQBA
+  branch_name: No branch name
+  branch_address: No branch address
+  branch_code: XXX
+  city: Baghdad
+  country: Iraq
+- name: Basrah International Bank For Investment
+  swift: BIBIIQB1XXX
+  swift8: BIBIIQB1
+  branch_name: No branch name
+  branch_address: No branch address
+  branch_code: XXX
+  city: Baghdad
+  country: Iraq
+- name: Basrah International Bank For Investment
+  swift: BIBIIQBAXXX
+  swift8: BIBIIQBA
+  branch_name: Head Office
+  branch_address: Al Tahariyat Square Baghdad
+  branch_code: XXX
+  city: Baghdad
+  country: Iraq
+- name: Bbac Sal Erbil Branch
+  swift: BBACIQBAXXX
+  swift8: BBACIQBA
+  branch_name: Head Office
+  branch_address: Bbac Arbil
+  branch_code: XXX
+  city: Arbil
+  country: Iraq
+- name: Byblos Bank Sal Iraq
+  swift: BYBAIQBABAG
+  swift8: BYBAIQBA
+  branch_name: Byblos Bank Sal
+  branch_address: Baghdad
+  branch_code: BAG
+  city: Baghdad
+  country: Iraq
+- name: Byblos Bank Sal Iraq
+  swift: BYBAIQBABAS
+  swift8: BYBAIQBA
+  branch_name: Basrah
+  branch_address: Basrah
+  branch_code: BAS
+  city: Basrah
+  country: Iraq
+- name: Byblos Bank Sal Iraq
+  swift: BYBAIQBAXXX
+  swift8: BYBAIQBA
+  branch_name: Head Office
+  branch_address: Arbil International Hotel Arbil
+  branch_code: XXX
+  city: Arbil
+  country: Iraq
+- name: Central Bank Of Iraq
+  swift: CBIRIQBAXXX
+  swift8: CBIRIQBA
+  branch_name: Head Office
+  branch_address: Central Bank of Iraq Baghdad
+  branch_code: XXX
+  city: Baghdad
+  country: Iraq
+- name: Cihan Bank For Islamic Investment And Finance
+  swift: CIHBIQBAXXX
+  swift8: CIHBIQBA
+  branch_name: Head Office
+  branch_address: Cihan Plaza Buldg. Arbil
+  branch_code: XXX
+  city: Arbil
+  country: Iraq
+- name: Commercial Bank Of Iraq (s.a.
+  swift: AUBBIQBAXXX
+  swift8: AUBBIQBA
+  branch_name: Head Office
+  branch_address: 904/14/13 Hay Al-Wahda Baghdad
+  branch_code: XXX
+  city: Baghdad
+  country: Iraq
+- name: Credit Bank Of Iraq
+  swift: CBIQIQBAXXX
+  swift8: CBIQIQBA
+  branch_name: Head Office
+  branch_address: Elweya Bldg. - Kahramana Square Baghdad
+  branch_code: XXX
+  city: Baghdad
+  country: Iraq
+- name: Dar Es Salaam Investment Bank
+  swift: DSIVIQBAXXX
+  swift8: DSIVIQBA
+  branch_name: Head Office
+  branch_address: Dar Es Salam 39/1 3067 Baghdad
+  branch_code: XXX
+  city: Baghdad
+  country: Iraq
+- name: Dijlah And Furat Bank
+  swift: DFDIIQBAXXX
+  swift8: DFDIIQBA
+  branch_name: Head Office
+  branch_address: Building 77 Baghdad
+  branch_code: XXX
+  city: Baghdad
+  country: Iraq
+- name: Economy Bank
+  swift: ECOOIQB1XXX
+  swift8: ECOOIQB1
+  branch_name: Head Office
+  branch_address: Economy Bank Bulding Baghdad
+  branch_code: XXX
+  city: Baghdad
+  country: Iraq
+- name: Economy Bank For Investment And Finance
+  swift: ECOVIQBA616
+  swift8: ECOVIQBA
+  branch_name: Alshorjah
+  branch_address: Alshorjah 00964 Baghdad
+  branch_code: '616'
+  city: Baghdad
+  country: Iraq
+- name: Economy Bank For Investment And Finance
+  swift: ECOVIQBAXXX
+  swift8: ECOVIQBA
+  branch_name: Head Office
+  branch_address: 14 of Ramadan St Baghdad
+  branch_code: XXX
+  city: Baghdad
+  country: Iraq
+- name: Elaf Islamic Bank
+  swift: ELAFIQBAXXX
+  swift8: ELAFIQBA
+  branch_name: Head Office
+  branch_address: Elaf Building 3440 Baghdad Alwiya
+  branch_code: XXX
+  city: Baghdad
+  country: Iraq
+- name: Emerald Bank
+  swift: EMERIQBAXXX
+  swift8: EMERIQBA
+  branch_name: Head Office
+  branch_address: Sheikh Choli Street Arbil
+  branch_code: XXX
+  city: Arbil
+  country: Iraq
+- name: Erbil Bank For Investment And Finance
+  swift: EBIFIQBAXXX
+  swift8: EBIFIQBA
+  branch_name: Head Office
+  branch_address: Erbil Bank 20 384 Arbil
+  branch_code: XXX
+  city: Arbil
+  country: Iraq
+- name: Gulf Commercial Bank
+  swift: GUCEIQBAXXX
+  swift8: GUCEIQBA
+  branch_name: Head Office
+  branch_address: Building 27 Baghdad
+  branch_code: XXX
+  city: Baghdad
+  country: Iraq
+- name: Industrial Bank,the
+  swift: IBIQIQB1XXX
+  swift8: IBIQIQB1
+  branch_name: Head Office
+  branch_address: Al-Jamhouriya Street Baghdad
+  branch_code: XXX
+  city: Baghdad
+  country: Iraq
+- name: International Development Bank For Investment And Islamic Finance
+  swift: IDBQIQBAXXX
+  swift8: IDBQIQBA
+  branch_name: Head Office
+  branch_address: Idb-Head Office 99999/1006 Baghdad
+  branch_code: XXX
+  city: Baghdad
+  country: Iraq
+- name: Investment Bank Of Iraq
+  swift: IVBIIQBAXXX
+  swift8: IVBIIQBA
+  branch_name: Head Office
+  branch_address: Building of Investment Bank Baghdad
+  branch_code: XXX
+  city: Baghdad
+  country: Iraq
+- name: Iraqi Islamic Bank For Investment And Development
+  swift: IRIBIQBAXXX
+  swift8: IRIBIQBA
+  branch_name: Head Office
+  branch_address: Islamic Iraqi Bank Building Baghdad
+  branch_code: XXX
+  city: Baghdad
+  country: Iraq
+- name: Iraqi Middle East Investment Bank
+  swift: IMEBIQBAXXX
+  swift8: IMEBIQBA
+  branch_name: Head Office
+  branch_address: Building No 65 Baghdad
+  branch_code: XXX
+  city: Baghdad
+  country: Iraq
+- name: Karmal Stock Exchange
+  swift: KARMIQB1XXX
+  swift8: KARMIQB1
+  branch_name: Head Office
+  branch_address: Alalogi Building Baghdad
+  branch_code: XXX
+  city: Baghdad
+  country: Iraq
+- name: Kurdistan International Bank
+  swift: KIBIIQBABGH
+  swift8: KIBIIQBA
+  branch_name: Baghdad Branch
+  branch_address: No. 66 Fourth Str. Baghdad
+  branch_code: BGH
+  city: Baghdad
+  country: Iraq
+- name: Kurdistan International Bank
+  swift: KIBIIQBADHK
+  swift8: KIBIIQBA
+  branch_name: Duhok Branch
+  branch_address: Duhok Park Bldg. Duhok
+  branch_code: DHK
+  city: Duhok
+  country: Iraq
+- name: Kurdistan International Bank
+  swift: KIBIIQBAERB
+  swift8: KIBIIQBA
+  branch_name: Peshwa Erbil Branch
+  branch_address: 70 Abul Salam Baraziny Str. Arbil
+  branch_code: ERB
+  city: Arbil
+  country: Iraq
+- name: Kurdistan International Bank
+  swift: KIBIIQBASUL
+  swift8: KIBIIQBA
+  branch_name: Sulayminya Branch
+  branch_address: Kib Bldg. Sulayminya
+  branch_code: SUL
+  city: Sulayminya
+  country: Iraq
+- name: Kurdistan International Bank
+  swift: KIBIIQBAXXX
+  swift8: KIBIIQBA
+  branch_name: Head Office
+  branch_address: 70 Abdulsalam Barzani Arbil
+  branch_code: XXX
+  city: Arbil
+  country: Iraq
+- name: Mansour Bank For Investment
+  swift: MBIVIQBAXXX
+  swift8: MBIVIQBA
+  branch_name: Head Office
+  branch_address: Mansour Bank Baghdad
+  branch_code: XXX
+  city: Baghdad
+  country: Iraq
+- name: Mosul Bank
+  swift: MOUUIQBAXXX
+  swift8: MOUUIQBA
+  branch_name: Head Office
+  branch_address: Al-Markiz Street Pc 1292 Mosul
+  branch_code: XXX
+  city: Mosul
+  country: Iraq
+- name: National Bank Of Iraq
+  swift: NBIQIQBAXXX
+  swift8: NBIQIQBA
+  branch_name: Head Office
+  branch_address: Sadoon Street Baghdad
+  branch_code: XXX
+  city: Baghdad
+  country: Iraq
+- name: National Islamic Bank
+  swift: NISBIQBAXXX
+  swift8: NISBIQBA
+  branch_name: Head Office
+  branch_address: National Islamic Bank Baghdad
+  branch_code: XXX
+  city: Baghdad
+  country: Iraq
+- name: North Bank
+  swift: NRTTIQBAXXX
+  swift8: NRTTIQBA
+  branch_name: Head Office
+  branch_address: Al-Fatih Sq St.99 Baghdad
+  branch_code: XXX
+  city: Baghdad
+  country: Iraq
+- name: Rabee Securities
+  swift: RASEIQB1XXX
+  swift8: RASEIQB1
+  branch_name: Head Office
+  branch_address: 903/14/19, Karada Baghdad
+  branch_code: XXX
+  city: Baghdad
+  country: Iraq
+- name: Rasheed Bank
+  swift: RDBAIQBBXXX
+  swift8: RDBAIQBB
+  branch_name: Head Office
+  branch_address: General Administration 53926 Baghdad
+  branch_code: XXX
+  city: Baghdad
+  country: Iraq
+- name: Real Estate Bank,the
+  swift: REEBIQB1XXX
+  swift8: REEBIQB1
+  branch_name: Head Office
+  branch_address: Hassan Bin Thabit Street Baghdad
+  branch_code: XXX
+  city: Baghdad
+  country: Iraq
+- name: Sumer Commercial Bank
+  swift: SUCIIQBAXXX
+  swift8: SUCIIQBA
+  branch_name: Head Office
+  branch_address: Hay Babel 908-16-13 Baghdad
+  branch_code: XXX
+  city: Baghdad
+  country: Iraq
+- name: Trade Bank Of Iraq
+  swift: TRIQIQBAXXX
+  swift8: TRIQIQBA
+  branch_name: Head Office
+  branch_address: Building No.20 Baghdad
+  branch_code: XXX
+  city: Baghdad
+  country: Iraq
+- name: Trans Iraq Bank
+  swift: TIRAIQBAXXX
+  swift8: TIRAIQBA
+  branch_name: Head Office
+  branch_address: Building No.38/1 Baghdad
+  branch_code: XXX
+  city: Baghdad
+  country: Iraq
+- name: Turkiye Is Bankasi A.s. Arbil Branch
+  swift: ISBKIQBAXXX
+  swift8: ISBKIQBA
+  branch_name: Head Office
+  branch_address: Duty Free Complex Arbil
+  branch_code: XXX
+  city: Arbil
+  country: Iraq
+- name: Turkiye Vakiflar Bankasi Erbil Branch
+  swift: TVBAIQBRXXX
+  swift8: TVBAIQBR
+  branch_name: Head Office
+  branch_address: Ster Tower Iq3 Arbil
+  branch_code: XXX
+  city: Arbil
+  country: Iraq
+- name: Union Bank Of Iraq
+  swift: UNRAIQBAXXX
+  swift8: UNRAIQBA
+  branch_name: Head Office
+  branch_address: Mohamed Al-Alwachi Baghdad
+  branch_code: XXX
+  city: Baghdad
+  country: Iraq
+- name: United Bank For Investment
+  swift: UNTVIQBAXXX
+  swift8: UNTVIQBA
+  branch_name: Head Office
+  branch_address: United Bank for Investment Bldg. 00964 Baghdad
+  branch_code: XXX
+  city: Baghdad
+  country: Iraq
+- name: United Company For Financial Transfer
+  swift: UCFTIQB1XXX
+  swift8: UCFTIQB1
+  branch_name: Head Office
+  branch_address: Mukhtar Baghdad
+  branch_code: XXX
+  city: Baghdad
+  country: Iraq
+- name: Warka Bank For Investment And Finance
+  swift: WAIVIQBAXXX
+  swift8: WAIVIQBA
+  branch_name: Head Office
+  branch_address: Warka Bank Baghdad
+  branch_code: XXX
+  city: Baghdad
+  country: Iraq

@@ -1,0 +1,18 @@
+---
+AS:
+- name: Anz Amerika Samoa Bank
+  swift: ANZBASPAXXX
+  swift8: ANZBASPA
+  branch_name: Head Office
+  branch_address: Fagatogo Building 96799 Pago Pago
+  branch_code: XXX
+  city: Pago Pago
+  country: American Samoa
+- name: Bank Of Hawaii-american Samoa Branch
+  swift: BOHIASP1XXX
+  swift8: BOHIASP1
+  branch_name: Head Office
+  branch_address: Lumanai Building 96799 Fagatogo
+  branch_code: XXX
+  city: Fagatogo
+  country: American Samoa

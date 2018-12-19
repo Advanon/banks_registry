@@ -1,0 +1,570 @@
+---
+YE:
+- name: Credit Agricole Cib
+  swift: BSUIYESAXXX
+  swift8: BSUIYESA
+  branch_name: Head Office
+  branch_address: Al Kasr Al Gnamnouri Street Sanaa
+  branch_code: XXX
+  city: Sanaa
+  country: Yemen
+- name: Credit Agricole Cib
+  swift: BSUIYESA001
+  swift8: BSUIYESA
+  branch_name: Sanaa
+  branch_address: Sanaa
+  branch_code: '001'
+  city: Sanaa
+  country: Yemen
+- name: Qatar National Bank Saq
+  swift: QNBAYESAXXX
+  swift8: QNBAYESA
+  branch_name: Head Office
+  branch_address: Al-Zubairi Street Sanaa
+  branch_code: XXX
+  city: Sanaa
+  country: Yemen
+- name: Rafidain Bank
+  swift: RAFBYES1XXX
+  swift8: RAFBYES1
+  branch_name: Head Office
+  branch_address: Sanaa
+  branch_code: XXX
+  city: Sanaa
+  country: Yemen
+- name: United Bank Limited
+  swift: UNILYESAXXX
+  swift8: UNILYESA
+  branch_name: Head Office
+  branch_address: Kirbi Building 1295 Sanaa
+  branch_code: XXX
+  city: Sanaa
+  country: Yemen
+- name: Ministry Of Finance
+  swift: MOFYYESAXXX
+  swift8: MOFYYESA
+  branch_name: Head Office
+  branch_address: Al-Safia St Sanaa
+  branch_code: XXX
+  city: Sanaa
+  country: Yemen
+- name: Alkuraimi Islamic Microfinance Bank
+  swift: KRMBYESAXXX
+  swift8: KRMBYESA
+  branch_name: Head Office
+  branch_address: Hadda St 1 19357 Sanaa
+  branch_code: XXX
+  city: Sanaa
+  country: Yemen
+- name: Arab Bank Plc-yemen
+  swift: ARABYES102H
+  swift8: ARABYES1
+  branch_name: Hodeida
+  branch_address: Sanaa Street Hodeida
+  branch_code: 02H
+  city: Hodeida
+  country: Yemen
+- name: Arab Bank Plc-yemen
+  swift: ARABYES102T
+  swift8: ARABYES1
+  branch_name: Taizz
+  branch_address: Taizz
+  branch_code: 02T
+  city: Taizz
+  country: Yemen
+- name: Arab Bank Plc-yemen
+  swift: ARABYESAADN
+  swift8: ARABYESA
+  branch_name: Aden Branch
+  branch_address: Madram Street 5310 Aden
+  branch_code: ADN
+  city: Aden
+  country: Yemen
+- name: Arab Bank Plc-yemen
+  swift: ARABYESACOU
+  swift8: ARABYESA
+  branch_name: Central Operation Unit
+  branch_address: Zubairi Road 475 1301 Sanaa
+  branch_code: COU
+  city: Sanaa
+  country: Yemen
+- name: Arab Bank Plc-yemen
+  swift: ARABYESAHOD
+  swift8: ARABYESA
+  branch_name: Hodaida Branch
+  branch_address: Sanala Street 3812 Hodeida
+  branch_code: HOD
+  city: Hodeida
+  country: Yemen
+- name: Arab Bank Plc-yemen
+  swift: ARABYESAIBB
+  swift8: ARABYESA
+  branch_name: Ibb Branch
+  branch_address: Aludayu Street 304 Ibb
+  branch_code: IBB
+  city: Ibb
+  country: Yemen
+- name: Arab Bank Plc-yemen
+  swift: ARABYESAMKL
+  swift8: ARABYESA
+  branch_name: Mukalla Branch
+  branch_address: Al-Sharj 1st Street 8833 Mukalla
+  branch_code: MKL
+  city: Mukalla
+  country: Yemen
+- name: Arab Bank Plc-yemen
+  swift: ARABYESASA1
+  swift8: ARABYESA
+  branch_name: Sanaa Branch
+  branch_address: Sanaa
+  branch_code: SA1
+  city: Sanaa
+  country: Yemen
+- name: Arab Bank Plc-yemen
+  swift: ARABYESATAZ
+  swift8: ARABYESA
+  branch_name: Taizz Branch
+  branch_address: Jamal-Abdul-Nasser Street 5234 Taizz
+  branch_code: TAZ
+  city: Taizz
+  country: Yemen
+- name: Arab Bank Plc-yemen
+  swift: ARABYESAXXX
+  swift8: ARABYESA
+  branch_name: Head Office
+  branch_address: Alzubairi Street Sanaa
+  branch_code: XXX
+  city: Sanaa
+  country: Yemen
+- name: Arab Bank Plc-yemen
+  swift: ARABYESAYBC
+  swift8: ARABYESA
+  branch_name: Yemen Branch Centre
+  branch_address: Sanaa
+  branch_code: YBC
+  city: Sanaa
+  country: Yemen
+- name: Bank Of Yemen
+  swift: BAYEYEY1XXX
+  swift8: BAYEYEY1
+  branch_name: Head Office
+  branch_address: Aidrus Road Aden
+  branch_code: XXX
+  city: Aden
+  country: Yemen
+- name: Central Bank Of Yemen
+  swift: CBYEYESAXXX
+  swift8: CBYEYESA
+  branch_name: Head Office
+  branch_address: Ali Abdul Mogni Street Sanaa
+  branch_code: XXX
+  city: Sanaa
+  country: Yemen
+- name: Cooperative And Agricultural Credit Bank
+  swift: CACBYESASAN
+  swift8: CACBYESA
+  branch_name: Head Office
+  branch_address: Sanaa
+  branch_code: SAN
+  city: Sanaa
+  country: Yemen
+- name: Cooperative And Agricultural Credit Bank
+  swift: CACBYESAXXX
+  swift8: CACBYESA
+  branch_name: Head Office
+  branch_address: Saba Roundabout 2015 Sanaa
+  branch_code: XXX
+  city: Sanaa
+  country: Yemen
+- name: Cooperative And Agricultural Credit Bank
+  swift: CACBYESAYIS
+  swift8: CACBYESA
+  branch_name: 15495 Sanaa
+  branch_address: Cac Bank Building 15495 Sanaa
+  branch_code: YIS
+  city: Sanaa
+  country: Yemen
+- name: Housing Credit Bank
+  swift: HOCBYES1XXX
+  swift8: HOCBYES1
+  branch_name: Head Office
+  branch_address: Sanaa
+  branch_code: XXX
+  city: Sanaa
+  country: Yemen
+- name: International Bank Of Yemen Y.s.c.
+  swift: IBOYYESAXXX
+  swift8: IBOYYESA
+  branch_name: Head Office
+  branch_address: 106 Zubeiry Street Sanaa
+  branch_code: XXX
+  city: Sanaa
+  country: Yemen
+- name: Islamic Bank Of Yemen For Finance And Investment
+  swift: ISBYYESA101
+  swift8: ISBYYESA
+  branch_name: Sanaa Branch
+  branch_address: Mareeb Building 18452 Sanaa
+  branch_code: '101'
+  city: Sanaa
+  country: Yemen
+- name: Islamic Bank Of Yemen For Finance And Investment
+  swift: ISBYYESA103
+  swift8: ISBYYESA
+  branch_name: Hodeidah Branch
+  branch_address: Telex Old Building 4765 Hodeida
+  branch_code: '103'
+  city: Hodeida
+  country: Yemen
+- name: Islamic Bank Of Yemen For Finance And Investment
+  swift: ISBYYESA105
+  swift8: ISBYYESA
+  branch_name: Taiz Branch
+  branch_address: Alesaei Building 5050 Taizz
+  branch_code: '105'
+  city: Taizz
+  country: Yemen
+- name: Islamic Bank Of Yemen For Finance And Investment
+  swift: ISBYYESA107
+  swift8: ISBYYESA
+  branch_name: Aden-Crater Branch
+  branch_address: Islamic Bank 339 Aden
+  branch_code: '107'
+  city: Aden
+  country: Yemen
+- name: Islamic Bank Of Yemen For Finance And Investment
+  swift: ISBYYESA109
+  swift8: ISBYYESA
+  branch_name: Sheikh Othman Branch
+  branch_address: Islamic Bank Aden
+  branch_code: '109'
+  city: Aden
+  country: Yemen
+- name: Islamic Bank Of Yemen For Finance And Investment
+  swift: ISBYYESAXXX
+  swift8: ISBYYESA
+  branch_name: Head Office
+  branch_address: Mareb Insurance Sanaa
+  branch_code: XXX
+  city: Sanaa
+  country: Yemen
+- name: National Bank Of Yemen
+  swift: NBOYYESA001
+  swift8: NBOYYESA
+  branch_name: Aidroos Branch
+  branch_address: Head Office Aden
+  branch_code: '001'
+  city: Aden
+  country: Yemen
+- name: National Bank Of Yemen
+  swift: NBOYYESA002
+  swift8: NBOYYESA
+  branch_name: Arawa Branch
+  branch_address: Queen Arawa Road Crater Aden
+  branch_code: '002'
+  city: Aden
+  country: Yemen
+- name: National Bank Of Yemen
+  swift: NBOYYESA003
+  swift8: NBOYYESA
+  branch_name: Malaa Branch
+  branch_address: Jaffer Harhara Aden
+  branch_code: '003'
+  city: Aden
+  country: Yemen
+- name: National Bank Of Yemen
+  swift: NBOYYESA007
+  swift8: NBOYYESA
+  branch_name: Seiyun Branch
+  branch_address: Abdul Majid Alkatiree Seiyun
+  branch_code: '007'
+  city: Seiyun
+  country: Yemen
+- name: National Bank Of Yemen
+  swift: NBOYYESA009
+  swift8: NBOYYESA
+  branch_name: Mukalla
+  branch_address: Warta Abu Bakr Barahim Mukalla
+  branch_code: '009'
+  city: Mukalla
+  country: Yemen
+- name: National Bank Of Yemen
+  swift: NBOYYESA033
+  swift8: NBOYYESA
+  branch_name: Sanaa Branch
+  branch_address: No branch address
+  branch_code: '033'
+  city: Sanaa
+  country: Yemen
+- name: National Bank Of Yemen
+  swift: NBOYYESA034
+  swift8: NBOYYESA
+  branch_name: Hodeida Branch
+  branch_address: Husseini Building Hodeida
+  branch_code: '034'
+  city: Hodeida
+  country: Yemen
+- name: National Bank Of Yemen
+  swift: NBOYYESAXXX
+  swift8: NBOYYESA
+  branch_name: Head Office
+  branch_address: 101 Queen Arawa Road Aden
+  branch_code: XXX
+  city: Aden
+  country: Yemen
+- name: Saba Islamic Bank
+  swift: SAAIYESAXXX
+  swift8: SAAIYESA
+  branch_name: Head Office
+  branch_address: Saif Bin Thee Yazin Street Sanaa
+  branch_code: XXX
+  city: Sanaa
+  country: Yemen
+- name: Saba Islamic Bank
+  swift: SSLBYES1XXX
+  swift8: SSLBYES1
+  branch_name: Head Office
+  branch_address: Saif Bin Thi-Yazen St. Sanaa
+  branch_code: XXX
+  city: Sanaa
+  country: Yemen
+- name: Shamil Bank Of Yemen And Bahrain
+  swift: SBYBYESAXXX
+  swift8: SBYBYESA
+  branch_name: Head Office
+  branch_address: Shamil Bank Building 19382 Sanaa
+  branch_code: XXX
+  city: Sanaa
+  country: Yemen
+- name: Tadhamon International Islamic Bank
+  swift: TIBKYESA101
+  swift8: TIBKYESA
+  branch_name: Sanaa Branch
+  branch_address: Al Zuratry Street Sanaa
+  branch_code: '101'
+  city: Sanaa
+  country: Yemen
+- name: Tadhamon International Islamic Bank
+  swift: TIBKYESA102
+  swift8: TIBKYESA
+  branch_name: Taizz Branch
+  branch_address: Taizz
+  branch_code: '102'
+  city: Taizz
+  country: Yemen
+- name: Tadhamon International Islamic Bank
+  swift: TIBKYESA103
+  swift8: TIBKYESA
+  branch_name: Aden Branch
+  branch_address: Aden
+  branch_code: '103'
+  city: Aden
+  country: Yemen
+- name: Tadhamon International Islamic Bank
+  swift: TIBKYESA104
+  swift8: TIBKYESA
+  branch_name: Hodeida Branch
+  branch_address: Hodeida
+  branch_code: '104'
+  city: Hodeida
+  country: Yemen
+- name: Tadhamon International Islamic Bank
+  swift: TIBKYESA105
+  swift8: TIBKYESA
+  branch_name: Mukalla Branch
+  branch_address: Mukalla
+  branch_code: '105'
+  city: Mukalla
+  country: Yemen
+- name: Tadhamon International Islamic Bank
+  swift: TIBKYESAXXX
+  swift8: TIBKYESA
+  branch_name: Head Office
+  branch_address: Al Saeed Commercial Centre Sanaa
+  branch_code: XXX
+  city: Sanaa
+  country: Yemen
+- name: Yemen Bank For Reconstruction And Development
+  swift: YBRDYESA101
+  swift8: YBRDYESA
+  branch_name: Sanaa Branch
+  branch_address: 26th September Street 9 Sanaa
+  branch_code: '101'
+  city: Sanaa
+  country: Yemen
+- name: Yemen Bank For Reconstruction And Development
+  swift: YBRDYESA103
+  swift8: YBRDYESA
+  branch_name: Zubairi Branch
+  branch_address: Zubairi Street 2793 Sanaa
+  branch_code: '103'
+  city: Sanaa
+  country: Yemen
+- name: Yemen Bank For Reconstruction And Development
+  swift: YBRDYESA105
+  swift8: YBRDYESA
+  branch_name: Abdulmoghni Branch
+  branch_address: Sanaa
+  branch_code: '105'
+  city: Sanaa
+  country: Yemen
+- name: Yemen Bank For Reconstruction And Development
+  swift: YBRDYESA107
+  swift8: YBRDYESA
+  branch_name: Immigrants Branch
+  branch_address: Zubiri Street 1158 Sanaa
+  branch_code: '107'
+  city: Sanaa
+  country: Yemen
+- name: Yemen Bank For Reconstruction And Development
+  swift: YBRDYESA111
+  swift8: YBRDYESA
+  branch_name: Haddah Branch
+  branch_address: Haddah Street 2802 Sanaa
+  branch_code: '111'
+  city: Sanaa
+  country: Yemen
+- name: Yemen Bank For Reconstruction And Development
+  swift: YBRDYESA119
+  swift8: YBRDYESA
+  branch_name: Amran Branch
+  branch_address: Saada Street 21560 Amran
+  branch_code: '119'
+  city: Amran
+  country: Yemen
+- name: Yemen Bank For Reconstruction And Development
+  swift: YBRDYESA201
+  swift8: YBRDYESA
+  branch_name: Taiz Branch
+  branch_address: Taizz
+  branch_code: '201'
+  city: Taizz
+  country: Yemen
+- name: Yemen Bank For Reconstruction And Development
+  swift: YBRDYESA203
+  swift8: YBRDYESA
+  branch_name: 26th September Branch
+  branch_address: Taizz
+  branch_code: '203'
+  city: Taizz
+  country: Yemen
+- name: Yemen Bank For Reconstruction And Development
+  swift: YBRDYESA301
+  swift8: YBRDYESA
+  branch_name: Ibb Branch
+  branch_address: Ibb
+  branch_code: '301'
+  city: Ibb
+  country: Yemen
+- name: Yemen Bank For Reconstruction And Development
+  swift: YBRDYESA401
+  swift8: YBRDYESA
+  branch_name: Hodeidah Branch
+  branch_address: Hodeida
+  branch_code: '401'
+  city: Hodeida
+  country: Yemen
+- name: Yemen Bank For Reconstruction And Development
+  swift: YBRDYESA403
+  swift8: YBRDYESA
+  branch_name: Sanaa Street Branch
+  branch_address: Sanaa Street 3097 Hodeida
+  branch_code: '403'
+  city: Hodeida
+  country: Yemen
+- name: Yemen Bank For Reconstruction And Development
+  swift: YBRDYESA501
+  swift8: YBRDYESA
+  branch_name: Dhamar Branch
+  branch_address: Dhamar
+  branch_code: '501'
+  city: Dhamar
+  country: Yemen
+- name: Yemen Bank For Reconstruction And Development
+  swift: YBRDYESA601
+  swift8: YBRDYESA
+  branch_name: Al Saeeda Branch
+  branch_address: Aden
+  branch_code: '601'
+  city: Aden
+  country: Yemen
+- name: Yemen Bank For Reconstruction And Development
+  swift: YBRDYESA603
+  swift8: YBRDYESA
+  branch_name: Muklla Branch
+  branch_address: Banks Street 50176 Mukalla
+  branch_code: '603'
+  city: Mukalla
+  country: Yemen
+- name: Yemen Bank For Reconstruction And Development
+  swift: YBRDYESA607
+  swift8: YBRDYESA
+  branch_name: Al-Shaikh Othman Branch
+  branch_address: Alsila-Al-Shaikh Al-Dowail 2150 Aden
+  branch_code: '607'
+  city: Aden
+  country: Yemen
+- name: Yemen Bank For Reconstruction And Development
+  swift: YBRDYESAI00
+  swift8: YBRDYESA
+  branch_name: Isb Branch
+  branch_address: No branch address
+  branch_code: I00
+  city: Sanaa
+  country: Yemen
+- name: Yemen Bank For Reconstruction And Development
+  swift: YBRDYESAS00
+  swift8: YBRDYESA
+  branch_name: Isb Sanaa Office
+  branch_address: No branch address
+  branch_code: S00
+  city: Sanaa
+  country: Yemen
+- name: Yemen Bank For Reconstruction And Development
+  swift: YBRDYESAXXX
+  swift8: YBRDYESA
+  branch_name: Head Office
+  branch_address: Head Office Sanaa
+  branch_code: XXX
+  city: Sanaa
+  country: Yemen
+- name: Yemen Commercial Bank
+  swift: YECOYESAXXX
+  swift8: YECOYESA
+  branch_name: Head Office
+  branch_address: Al-Rowaishan Building Sanaa
+  branch_code: XXX
+  city: Sanaa
+  country: Yemen
+- name: Yemen Gulf Bank
+  swift: YGBKYESAXXX
+  swift8: YGBKYESA
+  branch_name: Head Office
+  branch_address: Al-Shokani Street Sanaa
+  branch_code: XXX
+  city: Sanaa
+  country: Yemen
+- name: Yemen Kuwait Bank For Trade And Investment Y.s.c., The
+  swift: YKBAYESAXXX
+  swift8: YKBAYESA
+  branch_name: Head Office
+  branch_address: Al Zubeiri Street Sanaa
+  branch_code: XXX
+  city: Sanaa
+  country: Yemen
+- name: Yemen Kuwait Bank-islamic Branch
+  swift: YKIBYESAXXX
+  swift8: YKIBYESA
+  branch_name: Head Office
+  branch_address: Aman Building 987 Sanaa
+  branch_code: XXX
+  city: Sanaa
+  country: Yemen
+- name: Yemen Lng Company Ltd.
+  swift: YELNYES1XXX
+  swift8: YELNYES1
+  branch_name: Head Office
+  branch_address: Adhban Building Sanaa
+  branch_code: XXX
+  city: Sanaa
+  country: Yemen

@@ -1,0 +1,10 @@
+---
+TV:
+- name: National Bank Of Tuvalu
+  swift: NABTTVTVXXX
+  swift8: NABTTVTV
+  branch_name: Head Office
+  branch_address: National Bank of Tuvalu Building Funafuti
+  branch_code: XXX
+  city: Funafuti
+  country: Tuvalu

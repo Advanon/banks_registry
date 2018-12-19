@@ -1,0 +1,242 @@
+---
+PE:
+- name: Banco Azteca Del Peru, S.A.
+  swift: AZTKPEPLXXX
+  swift8: AZTKPEPL
+  branch_name: Head Office
+  branch_address: Lte 48 Lima
+  branch_code: XXX
+  city: Lima
+  country: Peru
+- name: Banco Central De Reserva Del Peru
+  swift: CRPEPEPLXXX
+  swift8: CRPEPEPL
+  branch_name: Head Office
+  branch_address: Jr. Miroquesada 441-445 Lima 1
+  branch_code: XXX
+  city: Lima
+  country: Peru
+- name: Banco Continental
+  swift: BCONPEPLXXX
+  swift8: BCONPEPL
+  branch_name: Head Office
+  branch_address: Avenida Republica De Panama Lima 27
+  branch_code: XXX
+  city: Lima
+  country: Peru
+- name: Banco De Comercio
+  swift: BDCMPEPLXXX
+  swift8: BDCMPEPL
+  branch_name: Head Office
+  branch_address: Av. Canaval Y Moreyra 454 Lima 27
+  branch_code: XXX
+  city: Lima
+  country: Peru
+- name: Banco De Credito Del Peru
+  swift: BCPLPEPLXXX
+  swift8: BCPLPEPL
+  branch_name: Head Office
+  branch_address: Foreign Operations Service Lima 27
+  branch_code: XXX
+  city: Lima
+  country: Peru
+- name: Banco De La Nacion
+  swift: BANCPEPLXXX
+  swift8: BANCPEPL
+  branch_name: Head Office
+  branch_address: Av.Republica De Panama N 3664 Lima 27
+  branch_code: XXX
+  city: Lima
+  country: Peru
+- name: Banco Financiero Del Peru
+  swift: FINAPEPLXXX
+  swift8: FINAPEPL
+  branch_name: Head Office
+  branch_address: Avenida Ricardo Palma 278 Lima 18
+  branch_code: XXX
+  city: Lima
+  country: Peru
+- name: Banco Gnb Peru Sa
+  swift: HBPEPEPLXXX
+  swift8: HBPEPEPL
+  branch_name: Head Office
+  branch_address: Jiron Carabaya 891 Lima 01
+  branch_code: XXX
+  city: Lima
+  country: Peru
+- name: Banco Interamericano De Finanzas
+  swift: BIFSPEPLXXX
+  swift8: BIFSPEPL
+  branch_name: Head Office
+  branch_address: Avenida R. Rivera Navarrete 600 Lima 27
+  branch_code: XXX
+  city: Lima
+  country: Peru
+- name: Banco Internacional Del Peru (Interbank)
+  swift: BINPPEPLXXX
+  swift8: BINPPEPL
+  branch_name: Head Office
+  branch_address: La Victoria Lima 13
+  branch_code: XXX
+  city: Lima
+  country: Peru
+- name: Banco Santander Peru S.A.
+  swift: BSAPPEPLXXX
+  swift8: BSAPPEPL
+  branch_name: Head Office
+  branch_address: Siglo Xxi Lima 27
+  branch_code: XXX
+  city: Lima
+  country: Peru
+- name: Cetco S.A.
+  swift: BELPPEPLXXX
+  swift8: BELPPEPL
+  branch_name: Head Office
+  branch_address: Torre Wiese Lima 27
+  branch_code: XXX
+  city: Lima
+  country: Peru
+- name: Citibank Del Peru S.A.
+  swift: CITIPEPLXXX
+  swift8: CITIPEPL
+  branch_name: Head Office
+  branch_address: Chocavento Lima
+  branch_code: XXX
+  city: Lima
+  country: Peru
+- name: Corporacion Financiera De Desarrollo S.A. – Cofide
+  swift: COFDPEPLXXX
+  swift8: COFDPEPL
+  branch_name: Head Office
+  branch_address: Augusto Tamayo 160 San Isidro Lima
+  branch_code: XXX
+  city: Lima
+  country: Peru
+- name: Deutsche Bank (Peru) S.A.
+  swift: DEUTPEPLXXX
+  swift8: DEUTPEPL
+  branch_name: Head Office
+  branch_address: Miguel Dasso 104 Lima 27
+  branch_code: XXX
+  city: Lima
+  country: Peru
+- name: Scotiabank Peru S.A.A.
+  swift: BSUDPEPLXXX
+  swift8: BSUDPEPL
+  branch_name: Head Office
+  branch_address: Esquina Dionisio Derteano, Lima 27
+  branch_code: XXX
+  city: Lima
+  country: Peru
+- name: Banco Iberoamericano
+  swift: BAIOPEP1XXX
+  swift8: BAIOPEP1
+  branch_name: Head Office
+  branch_address: Avenida Javier Prado Oeste 869 Lima 27
+  branch_code: XXX
+  city: Lima
+  country: Peru
+- name: Banco Nor Peru
+  swift: BNPEPEP1XXX
+  swift8: BNPEPEP1
+  branch_name: Head Office
+  branch_address: Esquina Camarra, Bolivar Trujillo
+  branch_code: XXX
+  city: Trujillo
+  country: Peru
+- name: Caja Rural De Ahorro Y Credito Chavin Saa
+  swift: CRHCPEP1001
+  swift8: CRHCPEP1
+  branch_name: Principal
+  branch_address: Av. Luzuriaga 1098 Huaraz
+  branch_code: '001'
+  city: Huaraz
+  country: Peru
+- name: Caja Rural De Ahorro Y Credito Chavin Saa
+  swift: CRHCPEP1002
+  swift8: CRHCPEP1
+  branch_name: Oficina Trujillo
+  branch_address: Orbegoso 338 Trujillo
+  branch_code: '002'
+  city: Trujillo
+  country: Peru
+- name: Caja Rural De Ahorro Y Credito Chavin Saa
+  swift: CRHCPEP1XXX
+  swift8: CRHCPEP1
+  branch_name: Head Office
+  branch_address: Jiron Orbegoso 338 Trujillo
+  branch_code: XXX
+  city: Trujillo
+  country: Peru
+- name: Celfin Capital S.a. Sociedad Agente De Bolsa
+  swift: CCSTPEP1XXX
+  swift8: CCSTPEP1
+  branch_name: Head Office
+  branch_address: Av. Amador Merino Reyna 267 Lima
+  branch_code: XXX
+  city: Lima
+  country: Peru
+- name: Cooperativa De Ahorro Y Credito Pacifico
+  swift: PACCPEP1XXX
+  swift8: PACCPEP1
+  branch_name: Head Office
+  branch_address: Calle Las Tiendas 237 Lima
+  branch_code: XXX
+  city: Lima
+  country: Peru
+- name: Credibolsa Sociedad Agente De Bolsa S.a.
+  swift: CBOLPEP1XXX
+  swift8: CBOLPEP1
+  branch_name: Head Office
+  branch_address: Calle Centenario 156 Lima
+  branch_code: XXX
+  city: Lima
+  country: Peru
+- name: Financiera De Credito Del Peru
+  swift: FCPEPEP1XXX
+  swift8: FCPEPEP1
+  branch_name: Head Office
+  branch_address: Centro Comercial Camino Real Lima
+  branch_code: XXX
+  city: Lima
+  country: Peru
+- name: Intervalores
+  swift: INTVPEP1XXX
+  swift8: INTVPEP1
+  branch_name: Head Office
+  branch_address: Juan De Arona B30 San Isidro Lima 27
+  branch_code: XXX
+  city: Lima
+  country: Peru
+- name: Jp Morgan Bank Peru
+  swift: CHASPEP1XXX
+  swift8: CHASPEP1
+  branch_name: Head Office
+  branch_address: Edificio Punta Del Este Lima 27
+  branch_code: XXX
+  city: Lima
+  country: Peru
+- name: Kallpa Securities S.a.b
+  swift: KAESPEP1XXX
+  swift8: KAESPEP1
+  branch_name: Head Office
+  branch_address: Of. 802, Surco Lima 33
+  branch_code: XXX
+  city: Lima
+  country: Peru
+- name: Samsung Electronics Peru S.a.c
+  swift: SECTPEP1860
+  swift8: SECTPEP1
+  branch_name: Lima 27
+  branch_address: Av.Rivera Navarrete 501 Lima 27
+  branch_code: '860'
+  city: Lima
+  country: Peru
+- name: Samsung Electronics Peru S.a.c
+  swift: SECTPEP1XXX
+  swift8: SECTPEP1
+  branch_name: Head Office
+  branch_address: San Isidro Lima 27
+  branch_code: XXX
+  city: Lima
+  country: Peru

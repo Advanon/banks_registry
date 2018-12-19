@@ -1,0 +1,82 @@
+---
+FJ:
+- name: Australia And New Zealand Banking Group Limited
+  swift: ANZBFJFXXXX
+  swift8: ANZBFJFX
+  branch_name: Head Office
+  branch_address: Civic House Suva
+  branch_code: XXX
+  city: Suva
+  country: Fiji
+- name: Westpac Banking Corporation
+  swift: WPACFJFXXXX
+  swift8: WPACFJFX
+  branch_name: Head Office
+  branch_address: 1 Thompson Street Suva
+  branch_code: XXX
+  city: Suva
+  country: Fiji
+- name: Bank Of Baroda, Suva Branch
+  swift: BARBFJFJXXX
+  swift8: BARBFJFJ
+  branch_name: Head Office
+  branch_address: Bob Building 57 Suva
+  branch_code: XXX
+  city: Suva
+  country: Fiji
+- name: Bank Of South Pacific Limited
+  swift: HABBFJF1XXX
+  swift8: HABBFJF1
+  branch_name: Head Office
+  branch_address: Narseys Building Suva
+  branch_code: XXX
+  city: Suva
+  country: Fiji
+- name: Bank Of South Pacific Ltd
+  swift: BOSPFJFJXXX
+  swift8: BOSPFJFJ
+  branch_name: Head Office
+  branch_address: 98/100 Renwick Rd Suva
+  branch_code: XXX
+  city: Suva
+  country: Fiji
+- name: Bred Bank (fiji) Limited
+  swift: BREDFJFJXXX
+  swift8: BREDFJFJ
+  branch_name: Head Office
+  branch_address: Tappoo City Building Suva
+  branch_code: XXX
+  city: Suva
+  country: Fiji
+- name: Central Manufacturing Company Limited
+  swift: BATSFJA1XXX
+  swift8: BATSFJA1
+  branch_name: Head Office
+  branch_address: Lady Maraia Road Suva Nabua
+  branch_code: XXX
+  city: Suva
+  country: Fiji
+- name: Fiji Development Bank
+  swift: FDEVFJF1XXX
+  swift8: FDEVFJF1
+  branch_name: Head Office
+  branch_address: Developement Bank Centre Suva
+  branch_code: XXX
+  city: Suva
+  country: Fiji
+- name: Hfc Bank
+  swift: HFCLFJFJXXX
+  swift8: HFCLFJFJ
+  branch_name: No branch name
+  branch_address: No branch address
+  branch_code: XXX
+  city: Suva
+  country: Fiji
+- name: Reserve Bank Of Fiji
+  swift: RBFJFJFJXXX
+  swift8: RBFJFJFJ
+  branch_name: Head Office
+  branch_address: Reserve Bank Building Suva
+  branch_code: XXX
+  city: Suva
+  country: Fiji

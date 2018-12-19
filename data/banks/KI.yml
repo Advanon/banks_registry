@@ -1,0 +1,10 @@
+---
+KI:
+- name: Anz Bank (kiribati) Ltd
+  swift: BKIRKIKIXXX
+  swift8: BKIRKIKI
+  branch_name: Head Office
+  branch_address: Main Street, Bairiki Tarawa
+  branch_code: XXX
+  city: Tarawa
+  country: Kiribati

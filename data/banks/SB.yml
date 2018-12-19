@@ -1,0 +1,26 @@
+---
+SB:
+- name: Australia And New Zealand Banking Group Limited
+  swift: ANZBSBSBXXX
+  swift8: ANZBSBSB
+  branch_name: Head Office
+  branch_address: Mendana Avenue Honiara
+  branch_code: XXX
+  city: Honiara
+  country: Solomon Islands
+- name: Central Bank Of Solomon Islands
+  swift: CBSISBSBXXX
+  swift8: CBSISBSB
+  branch_name: Head Office
+  branch_address: Cbsi Honiara
+  branch_code: XXX
+  city: Honiara
+  country: Solomon Islands
+- name: Solomon Islands Tobacco Company Limited
+  swift: BATSSBA1XXX
+  swift8: BATSSBA1
+  branch_name: Head Office
+  branch_address: Kukum Highway Honiara
+  branch_code: XXX
+  city: Honiara
+  country: Solomon Islands

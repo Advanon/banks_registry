@@ -1,0 +1,578 @@
+---
+QA:
+- name: Abu Dhabi Islamic Bank
+  swift: ABDIQAQAXXX
+  swift8: ABDIQAQA
+  branch_name: Head Office
+  branch_address: Financial Square Building Off 2 - 3 8147 Doha
+  branch_code: XXX
+  city: Doha
+  country: Qatar
+- name: Abu Dhabi Islamic Bank
+  swift: ABDIQAQ1XXX
+  swift8: ABDIQAQ1
+  branch_name: Head Office
+  branch_address: Diplomatic Area, West Bay Doha
+  branch_code: XXX
+  city: Doha
+  country: Qatar
+- name: Arab Bank Plc
+  swift: ARABQAQARD3
+  swift8: ARABQAQA
+  branch_name: C Ring Branch
+  branch_address: Doha
+  branch_code: RD3
+  city: Doha
+  country: Qatar
+- name: Arab Bank Plc
+  swift: ARABQAQASAD
+  swift8: ARABQAQA
+  branch_name: Alsadd Branch
+  branch_address: Alsadd Street Doha
+  branch_code: SAD
+  city: Doha
+  country: Qatar
+- name: Arab Bank Plc
+  swift: ARABQAQAXXX
+  swift8: ARABQAQA
+  branch_name: Head Office
+  branch_address: Ali Bin Abdullah Street Doha
+  branch_code: XXX
+  city: Doha
+  country: Qatar
+- name: Bnp Paribas
+  swift: BNPAQA21XXX
+  swift8: BNPAQA21
+  branch_name: Head Office
+  branch_address: Al Fardan Office Tower Doha Doha
+  branch_code: XXX
+  city: Doha Doha
+  country: Qatar
+- name: Citibank N.A.
+  swift: CITIQAQAXXX
+  swift8: CITIQAQA
+  branch_name: Head Office
+  branch_address: Qatar Financial Center Doha
+  branch_code: XXX
+  city: Doha
+  country: Qatar
+- name: Deutsche Bank Ag
+  swift: DEUTQAQAXXX
+  swift8: DEUTQAQA
+  branch_name: Head Office
+  branch_address: Qfc Tower 14928 Doha
+  branch_code: XXX
+  city: Doha
+  country: Qatar
+- name: Mashreq Bank
+  swift: MSHQQAQAXXX
+  swift8: MSHQQAQA
+  branch_name: Head Office
+  branch_address: Jabor Bin Moud Street Doha
+  branch_code: XXX
+  city: Doha
+  country: Qatar
+- name: Qatar National Bank
+  swift: QNBAQAQACUS
+  swift8: QNBAQAQA
+  branch_name: Custodian
+  branch_address: No branch address
+  branch_code: CUS
+  city: Doha
+  country: Qatar
+- name: Qatar National Bank
+  swift: QNBAQAQASLB
+  swift8: QNBAQAQA
+  branch_name: Security Lending
+  branch_address: No branch address
+  branch_code: SLB
+  city: Doha
+  country: Qatar
+- name: Qatar National Bank
+  swift: QNBAQAQAXXX
+  swift8: QNBAQAQA
+  branch_name: Head Office
+  branch_address: Corniche Road Doha
+  branch_code: XXX
+  city: Doha
+  country: Qatar
+- name: Standard Chartered Bank
+  swift: SCBLQAQXXXX
+  swift8: SCBLQAQX
+  branch_name: Head Office
+  branch_address: Abdullah Bin Jasim Street Doha
+  branch_code: XXX
+  city: Doha
+  country: Qatar
+- name: United Bank Ltd
+  swift: UDBKQAQ1XXX
+  swift8: UDBKQAQ1
+  branch_name: Head Office
+  branch_address: Doha
+  branch_code: XXX
+  city: Doha
+  country: Qatar
+- name: Doha Bank
+  swift: DOHBQAQADIS
+  swift8: DOHBQAQA
+  branch_name: Doha Islamic
+  branch_address: Doha
+  branch_code: DIS
+  city: Doha
+  country: Qatar
+- name: Doha Bank
+  swift: DOHBQAQADKB
+  swift8: DOHBQAQA
+  branch_name: Dukhan Branch
+  branch_address: Dukhan
+  branch_code: DKB
+  city: Dukhan
+  country: Qatar
+- name: Doha Bank
+  swift: DOHBQAQAMSB
+  swift8: DOHBQAQA
+  branch_name: Mushaireb Branch-Doha City
+  branch_address: Doha
+  branch_code: MSB
+  city: Doha
+  country: Qatar
+- name: Doha Bank
+  swift: DOHBQAQASRB
+  swift8: DOHBQAQA
+  branch_name: Salwa Road Branch-Doha Industrial Area
+  branch_address: Doha
+  branch_code: SRB
+  city: Doha
+  country: Qatar
+- name: Doha Bank
+  swift: DOHBQAQAUSB
+  swift8: DOHBQAQA
+  branch_name: Umm Said Branch
+  branch_address: Umm Said
+  branch_code: USB
+  city: Umm Said
+  country: Qatar
+- name: Doha Bank
+  swift: DOHBQAQAWBB
+  swift8: DOHBQAQA
+  branch_name: West Bay Branch
+  branch_address: Doha
+  branch_code: WBB
+  city: Doha
+  country: Qatar
+- name: Doha Bank
+  swift: DOHBQAQAXXX
+  swift8: DOHBQAQA
+  branch_name: Head Office
+  branch_address: Doha Bank Building Doha
+  branch_code: XXX
+  city: Doha
+  country: Qatar
+- name: Hsbc Bank Middle East Limited
+  swift: BBMEQAQXXXX
+  swift8: BBMEQAQX
+  branch_name: Head Office
+  branch_address: Umm Ghuwailina 27 Doha
+  branch_code: XXX
+  city: Doha
+  country: Qatar
+- name: Ahli Bank Q.s.c.
+  swift: ABQQQAQAAIR
+  swift8: ABQQQAQA
+  branch_name: Airport Branch
+  branch_address: Doha
+  branch_code: AIR
+  city: Doha
+  country: Qatar
+- name: Ahli Bank Q.s.c.
+  swift: ABQQQAQADNB
+  swift8: ABQQQAQA
+  branch_name: Doha Naval Base Branch
+  branch_address: Doha
+  branch_code: DNB
+  city: Doha
+  country: Qatar
+- name: Ahli Bank Q.s.c.
+  swift: ABQQQAQAMER
+  swift8: ABQQQAQA
+  branch_name: Merghab Branch
+  branch_address: Doha
+  branch_code: MER
+  city: Doha
+  country: Qatar
+- name: Ahli Bank Q.s.c.
+  swift: ABQQQAQAXXX
+  swift8: ABQQQAQA
+  branch_name: Main Branch
+  branch_address: Salwa Road Doha
+  branch_code: XXX
+  city: Doha
+  country: Qatar
+- name: Al Khalij Commercial Bank
+  swift: KLJIQAQAXXX
+  swift8: KLJIQAQA
+  branch_name: Head Office
+  branch_address: Al Jazi Building Doha
+  branch_code: XXX
+  city: Doha
+  country: Qatar
+- name: Al Zaman Exchange W.l.l
+  swift: ALZAQAQAXXX
+  swift8: ALZAQAQA
+  branch_name: Head Office
+  branch_address: Souq Najada 23497 Doha
+  branch_code: XXX
+  city: Doha
+  country: Qatar
+- name: Aljazeera Exchange Company
+  swift: AEXCQAQAXXX
+  swift8: AEXCQAQA
+  branch_name: Head Office
+  branch_address: Al Thani Building Doha
+  branch_code: XXX
+  city: Doha
+  country: Qatar
+- name: Arab Jordan Investment Bank (qatar) Llc
+  swift: AJIBQAQAXXX
+  swift8: AJIBQAQA
+  branch_name: Head Office
+  branch_address: Ministry of Economy and Commerce 37563 Doha
+  branch_code: XXX
+  city: Doha
+  country: Qatar
+- name: Bank Audi Llc
+  swift: AUDBQAQAXXX
+  swift8: AUDBQAQA
+  branch_name: Head Office
+  branch_address: Qfc Tower Doha
+  branch_code: XXX
+  city: Doha
+  country: Qatar
+- name: Barwa Bank
+  swift: BRWAQAQAXXX
+  swift8: BRWAQAQA
+  branch_name: Head Office
+  branch_address: Bldg for Mohd Saeed Al Eida 27778 Doha
+  branch_code: XXX
+  city: Doha
+  country: Qatar
+- name: Blom Bank Qatar Llc
+  swift: BLOMQAQAXXX
+  swift8: BLOMQAQA
+  branch_name: Head Office
+  branch_address: Nbk, Amwal Tower 27700 Doha
+  branch_code: XXX
+  city: Doha
+  country: Qatar
+- name: Bnp Paribas, Doha
+  swift: BNPAQAQAXXX
+  swift8: BNPAQAQA
+  branch_name: Head Office
+  branch_address: Al-Istiqlal Street Doha
+  branch_code: XXX
+  city: Doha
+  country: Qatar
+- name: City Exchange Co. W.l.l
+  swift: CECQQAQ1XXX
+  swift8: CECQQAQ1
+  branch_name: No branch name
+  branch_address: No branch address
+  branch_code: XXX
+  city: Doha
+  country: Qatar
+- name: Commercial Bank Of Qatar, Ltd.
+  swift: CBQAQAQAXXX
+  swift8: CBQAQAQA
+  branch_name: Head Office
+  branch_address: Grand Hamad Avenue Doha
+  branch_code: XXX
+  city: Doha
+  country: Qatar
+- name: Dlala Brokerage Llc
+  swift: DLBOQAQAXXX
+  swift8: DLBOQAQA
+  branch_name: Head Office
+  branch_address: Nbk Building 24571 Doha
+  branch_code: XXX
+  city: Doha
+  country: Qatar
+- name: Doha Securities Market
+  swift: DSMDQAQAXXX
+  swift8: DSMDQAQA
+  branch_name: Head Office
+  branch_address: Doha Securities Market 22114 Doha
+  branch_code: XXX
+  city: Doha
+  country: Qatar
+- name: First Gulf Bank Qatar Financial Centre
+  swift: FGBMQAQAXXX
+  swift8: FGBMQAQA
+  branch_name: Head Office
+  branch_address: Al Alawi Tower Doha
+  branch_code: XXX
+  city: Doha
+  country: Qatar
+- name: Gulf Investment Group
+  swift: GUIRQAA1XXX
+  swift8: GUIRQAA1
+  branch_name: Head Office
+  branch_address: Finance Sq. B4 974 Doha
+  branch_code: XXX
+  city: Doha
+  country: Qatar
+- name: Gulf Investments Group
+  swift: GUIRQAQ1XXX
+  swift8: GUIRQAQ1
+  branch_name: Head Office
+  branch_address: Financial Square 4470 Doha
+  branch_code: XXX
+  city: Doha
+  country: Qatar
+- name: Icici Bank Limited (qfc Branch
+  swift: ICICQAQACOP
+  swift8: ICICQAQA
+  branch_name: 24708 Doha
+  branch_address: Qatar Financial Centre Tower-1 24708 Doha
+  branch_code: COP
+  city: Doha
+  country: Qatar
+- name: Icici Bank Limited (qfc Branch
+  swift: ICICQAQAGTS
+  swift8: ICICQAQA
+  branch_name: 24708 Doha
+  branch_address: Qatar Financial Centre Tower-1 24708 Doha
+  branch_code: GTS
+  city: Doha
+  country: Qatar
+- name: Icici Bank Limited (qfc Branch
+  swift: ICICQAQATMO
+  swift8: ICICQAQA
+  branch_name: 24708 Doha
+  branch_address: Qatar Financial Centre Tower-1 24708 Doha
+  branch_code: TMO
+  city: Doha
+  country: Qatar
+- name: Icici Bank Limited (qfc Branch
+  swift: ICICQAQAXXX
+  swift8: ICICQAQA
+  branch_name: Head Office
+  branch_address: Quatar Financial Centre Tower-1 24708 Doha
+  branch_code: XXX
+  city: Doha
+  country: Qatar
+- name: Industrial And Commercial Bank Of China, Limited
+  swift: ICBKQAQAXXX
+  swift8: ICBKQAQA
+  branch_name: Head Office
+  branch_address: Ministry of Economy and Doha
+  branch_code: XXX
+  city: Doha
+  country: Qatar
+- name: International Bank Of Qatar (q.s.c.
+  swift: IBOQQAQAXXX
+  swift8: IBOQQAQA
+  branch_name: Head Office
+  branch_address: Suhaim Bin Hamad Street, 90 Doha
+  branch_code: XXX
+  city: Doha
+  country: Qatar
+- name: International Financial Securities Co.
+  swift: ITFSQAQ1XXX
+  swift8: ITFSQAQ1
+  branch_name: Head Office
+  branch_address: Grand Hamad Road Doha
+  branch_code: XXX
+  city: Doha
+  country: Qatar
+- name: Islamic Financial Securities Company
+  swift: IFSOQAQ1XXX
+  swift8: IFSOQAQ1
+  branch_name: Head Office
+  branch_address: Grand Hamad Street Doha
+  branch_code: XXX
+  city: Doha
+  country: Qatar
+- name: Lari Exchange Company Qatar
+  swift: LAEXQAQ1XXX
+  swift8: LAEXQAQ1
+  branch_name: Head Office
+  branch_address: Souk Ahmed Bin Ali Doha
+  branch_code: XXX
+  city: Doha
+  country: Qatar
+- name: Masraf Al Rayan
+  swift: MAFRQAQAXXX
+  swift8: MAFRQAQA
+  branch_name: Head Office
+  branch_address: United Tower Doha
+  branch_code: XXX
+  city: Doha
+  country: Qatar
+- name: Qatar Central Bank
+  swift: QMAGQAQAXXX
+  swift8: QMAGQAQA
+  branch_name: Head Office
+  branch_address: Abdulla Bin Jassim Street Doha
+  branch_code: XXX
+  city: Doha
+  country: Qatar
+- name: Qatar Development Bank
+  swift: QIDBQAQAXXX
+  swift8: QIDBQAQA
+  branch_name: Head Office
+  branch_address: Qidb Building Doha
+  branch_code: XXX
+  city: Doha
+  country: Qatar
+- name: Qatar First Investment Bank
+  swift: QFIBQAQAXXX
+  swift8: QFIBQAQA
+  branch_name: Head Office
+  branch_address: Al Jazeera Islamic Co. Building 28028 Doha
+  branch_code: XXX
+  city: Doha
+  country: Qatar
+- name: Qatar Foundation
+  swift: QFQFQAQAXXX
+  swift8: QFQFQAQA
+  branch_name: Head Office
+  branch_address: Luqta Street 5825 Doha
+  branch_code: XXX
+  city: Doha
+  country: Qatar
+- name: Qatar International Islamic Bank
+  swift: QIIBQAQAXXX
+  swift8: QIIBQAQA
+  branch_name: Head Office
+  branch_address: Grand Hamad Avenue Doha
+  branch_code: XXX
+  city: Doha
+  country: Qatar
+- name: Qatar Investment Authority
+  swift: GQICQAQAXXX
+  swift8: GQICQAQA
+  branch_name: Head Office
+  branch_address: Ministry of Finance 23224 Doha
+  branch_code: XXX
+  city: Doha
+  country: Qatar
+- name: Qatar Islamic Bank
+  swift: QISBQAQAXXX
+  swift8: QISBQAQA
+  branch_name: Head Office
+  branch_address: Grand Hamad Avenue Doha
+  branch_code: XXX
+  city: Doha
+  country: Qatar
+- name: Qatar Securities Company
+  swift: QASCQAQ1XXX
+  swift8: QASCQAQ1
+  branch_name: Head Office
+  branch_address: Al-Khaleej Insurance Building Doha
+  branch_code: XXX
+  city: Doha
+  country: Qatar
+- name: Qatargas Operating Co Ltd
+  swift: QAQGQAQAXXX
+  swift8: QAQGQAQA
+  branch_name: Head Office
+  branch_address: Navigation Tower Doha
+  branch_code: XXX
+  city: Doha
+  country: Qatar
+- name: Qinvest Llc
+  swift: QINVQAQAXXX
+  swift8: QINVQAQA
+  branch_name: Head Office
+  branch_address: Tornado Tower Doha
+  branch_code: XXX
+  city: Doha
+  country: Qatar
+- name: Qnb Financial Services
+  swift: QNBFQAQ1XXX
+  swift8: QNBFQAQ1
+  branch_name: Head Office
+  branch_address: Qnb Building Doha
+  branch_code: XXX
+  city: Doha
+  country: Qatar
+- name: Rasgas Company Limited
+  swift: RLNGQAQAXXX
+  swift8: RLNGQAQA
+  branch_name: Head Office
+  branch_address: Rasgas Tower 24200 Doha
+  branch_code: XXX
+  city: Doha
+  country: Qatar
+- name: Rasgas Company Limited
+  swift: RLNGQAT1XXX
+  swift8: RLNGQAT1
+  branch_name: Head Office
+  branch_address: Rghq, Palm Towers 24200 Doha
+  branch_code: XXX
+  city: Doha
+  country: Qatar
+- name: Samba Financial Group
+  swift: SAMBQAQAXXX
+  swift8: SAMBQAQA
+  branch_name: Head Office
+  branch_address: Qfc Tower Doha
+  branch_code: XXX
+  city: Doha
+  country: Qatar
+- name: State Bank Of India, Qatar Financial Centre Branch
+  swift: SBINQAQAXXX
+  swift8: SBINQAQA
+  branch_name: Head Office
+  branch_address: Qfc Tower-1 23245 Doha
+  branch_code: XXX
+  city: Doha
+  country: Qatar
+- name: Tasweeq
+  swift: TSWQQAB1XXX
+  swift8: TSWQQAB1
+  branch_name: No branch name
+  branch_address: No branch address
+  branch_code: XXX
+  city: Doha
+  country: Qatar
+- name: Tasweeq
+  swift: TSWQQAQAXXX
+  swift8: TSWQQAQA
+  branch_name: Head Office
+  branch_address: Al Maha Building Doha
+  branch_code: XXX
+  city: Doha
+  country: Qatar
+- name: Tasweeq
+  swift: TSWQQAQBXXX
+  swift8: TSWQQAQB
+  branch_name: Head Office
+  branch_address: Al Maha Building Doha
+  branch_code: XXX
+  city: Doha
+  country: Qatar
+- name: The Group Securities
+  swift: GRPSQAQAXXX
+  swift8: GRPSQAQA
+  branch_name: Head Office
+  branch_address: The Group 1555 Doha
+  branch_code: XXX
+  city: Doha
+  country: Qatar
+- name: Union National Bank-qatar
+  swift: UNBEQAQHXXX
+  swift8: UNBEQAQH
+  branch_name: Head Office
+  branch_address: Al Funduq Street Doha
+  branch_code: XXX
+  city: Doha
+  country: Qatar
+- name: United Bank Limited, Doha
+  swift: UNILQAQAXXX
+  swift8: UNILQAQA
+  branch_name: Head Office
+  branch_address: Building No.24 Doha
+  branch_code: XXX
+  city: Doha
+  country: Qatar

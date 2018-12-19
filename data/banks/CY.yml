@@ -1,0 +1,1459 @@
+---
+CY:
+- name: Alpha Bank Cyprus Limited
+  swift: ABKLCY2NLAR
+  swift8: ABKLCY2N
+  branch_name: Larnaca
+  branch_address: 28 Arch Macarios Iii Avenue Larnaca
+  branch_code: LAR
+  city: Larnaca
+  country: Cyprus
+- name: Alpha Bank Cyprus Limited
+  swift: ABKLCY2NLIM
+  swift8: ABKLCY2N
+  branch_name: Limassol (Lemesos)
+  branch_address: John Kennedy and Limassol (Lemesos)
+  branch_code: LIM
+  city: Limassol (Lemesos)
+  country: Cyprus
+- name: Alpha Bank Cyprus Limited
+  swift: ABKLCY2NXXX
+  swift8: ABKLCY2N
+  branch_name: Head Office
+  branch_address: 3 Lemesou Ave., Aglantzia 2112 Nicosia (Lefkosia)
+  branch_code: XXX
+  city: Nicosia (Lefkosia)
+  country: Cyprus
+- name: Alpha Bank Cyprus Limited
+  swift: ABKLCY2NPAP
+  swift8: ABKLCY2N
+  branch_name: Paphos
+  branch_address: 42 Arch. Makarios Iii Avenue Paphos
+  branch_code: PAP
+  city: Paphos
+  country: Cyprus
+- name: Arab Jordan Investment Bank
+  swift: AJIBCY2IXXX
+  swift8: AJIBCY2I
+  branch_name: Head Office
+  branch_address: Libra Tower 3035 Limassol (Lemesos)
+  branch_code: XXX
+  city: Limassol (Lemesos)
+  country: Cyprus
+- name: Arab Jordan Investment Bank
+  swift: AJIBCY2ICCC
+  swift8: AJIBCY2I
+  branch_name: Clearing
+  branch_address: Libra Tower 3035 Limassol (Lemesos)
+  branch_code: CCC
+  city: Limassol (Lemesos)
+  country: Cyprus
+- name: As Ltb Bank Cyprus Branch
+  swift: LATCCY2LXXX
+  swift8: LATCCY2L
+  branch_name: Head Office
+  branch_address: Maritania Court 3070 Limassol (Lemesos)
+  branch_code: XXX
+  city: Limassol (Lemesos)
+  country: Cyprus
+- name: Atlascapital Financial Services Limited
+  swift: ACFSCY2LXXX
+  swift8: ACFSCY2L
+  branch_name: Head Office
+  branch_address: Promahon Eleftherias Street 19 4103 Limassol (Lemesos)
+  branch_code: XXX
+  city: Limassol (Lemesos)
+  country: Cyprus
+- name: Atonline Limited
+  swift: ATONCY2NXXX
+  swift8: ATONCY2N
+  branch_name: Head Office
+  branch_address: Kyriacos Matsis Avenue 20 1082 Nicosia (Lefkosia)
+  branch_code: XXX
+  city: Nicosia (Lefkosia)
+  country: Cyprus
+- name: Baltikums Bank As
+  swift: CBBRCY2LXXX
+  swift8: CBBRCY2L
+  branch_name: Head Office
+  branch_address: 74 Ayios Athanasios Avenue 4102 Limassol (Lemesos)
+  branch_code: XXX
+  city: Limassol (Lemesos)
+  country: Cyprus
+- name: Banca Transilvania S.A.
+  swift: BTRLCY21XXX
+  swift8: BTRLCY21
+  branch_name: Head Office
+  branch_address: Str. Spyros Kyprianou 18 Nicosia (Lefkosia)
+  branch_code: XXX
+  city: Nicosia (Lefkosia)
+  country: Cyprus
+- name: Bank Of Beirut S.A.L. International Banking Unit (Ibu) Limassol
+  swift: BABECY2NXXX
+  swift8: BABECY2N
+  branch_name: Head Office
+  branch_address: Maximos Plaza Limassol (Lemesos)
+  branch_code: XXX
+  city: Limassol (Lemesos)
+  country: Cyprus
+- name: Bank Of Cyprus Public Company Limited
+  swift: BCYPCY2N030
+  swift8: BCYPCY2N
+  branch_name: Limassol (Lemesos)
+  branch_address: 100 Ayiou Andreou Limassol (Lemesos)
+  branch_code: '030'
+  city: Limassol (Lemesos)
+  country: Cyprus
+- name: Bank Of Cyprus Public Company Limited
+  swift: BCYPCY2N010
+  swift8: BCYPCY2N
+  branch_name: Nicosia (Lefkosia)
+  branch_address: Nicosia (Lefkosia)
+  branch_code: '010'
+  city: Nicosia (Lefkosia)
+  country: Cyprus
+- name: Bank Of Cyprus Public Company Limited
+  swift: BCYPCY2NTSY
+  swift8: BCYPCY2N
+  branch_name: Treasury
+  branch_address: Nicosia (Lefkosia)
+  branch_code: TSY
+  city: Nicosia (Lefkosia)
+  country: Cyprus
+- name: Bank Of Cyprus Public Company Limited
+  swift: BCYPCY2NXXX
+  swift8: BCYPCY2N
+  branch_name: Head Office in Nicosia and All Cyprus Offices
+  branch_address: 51 Stassinos Street 2002 Nicosia (Lefkosia)
+  branch_code: XXX
+  city: Nicosia (Lefkosia)
+  country: Cyprus
+- name: Banque Bemo Sal
+  swift: EUMOCY2IXXX
+  swift8: EUMOCY2I
+  branch_name: Head Office
+  branch_address: Doma Court - 227 Makarios Iii Ave. 3305 Limassol (Lemesos)
+  branch_code: XXX
+  city: Limassol (Lemesos)
+  country: Cyprus
+- name: Banque Sba - International Banking Unit
+  swift: SBAACY2IXXX
+  swift8: SBAACY2I
+  branch_name: Head Office
+  branch_address: Kanika Enaerios Complex Limassol (Lemesos)
+  branch_code: XXX
+  city: Limassol (Lemesos)
+  country: Cyprus
+- name: Barclays Bank Plc, International Banking Unit
+  swift: BARCCYNNXXX
+  swift8: BARCCYNN
+  branch_name: Head Office
+  branch_address: Barclays House 1644 Nicosia (Lefkosia)
+  branch_code: XXX
+  city: Nicosia (Lefkosia)
+  country: Cyprus
+- name: Bbac Sal Limassol Branch
+  swift: BBACCY2NXXX
+  swift8: BBACCY2N
+  branch_name: Head Office
+  branch_address: Emelle Bld 6201 Limassol (Lemesos)
+  branch_code: XXX
+  city: Limassol (Lemesos)
+  country: Cyprus
+- name: Blom Bank S.A.L.
+  swift: BLOMCY2IXXX
+  swift8: BLOMCY2I
+  branch_name: Head Office
+  branch_address: Lordos Center Limassol (Lemesos)
+  branch_code: XXX
+  city: Limassol (Lemesos)
+  country: Cyprus
+- name: Byblos Bank S.A.L. (Ibu)
+  swift: BYBACY2IXXX
+  swift8: BYBACY2I
+  branch_name: Head Office
+  branch_address: Arch. Kyprianou 1 50218 Limassol (Lemesos)
+  branch_code: XXX
+  city: Limassol (Lemesos)
+  country: Cyprus
+- name: Central Bank Of Cyprus
+  swift: CBCYCY2NACC
+  swift8: CBCYCY2N
+  branch_name: Accounting Department
+  branch_address: Nicosia (Lefkosia)
+  branch_code: ACC
+  city: Nicosia (Lefkosia)
+  country: Cyprus
+- name: Central Bank Of Cyprus
+  swift: CBCYCY2NCCB
+  swift8: CBCYCY2N
+  branch_name: Correspondent Central Banking Model
+  branch_address: Nicosia (Lefkosia)
+  branch_code: CCB
+  city: Nicosia (Lefkosia)
+  country: Cyprus
+- name: Central Bank Of Cyprus
+  swift: CBCYCY2NCCH
+  swift8: CBCYCY2N
+  branch_name: Cheques Clearing House
+  branch_address: Nicosia (Lefkosia)
+  branch_code: CCH
+  city: Nicosia (Lefkosia)
+  country: Cyprus
+- name: Central Bank Of Cyprus
+  swift: CBCYCY2NCON
+  swift8: CBCYCY2N
+  branch_name: Cy T2 Contingency
+  branch_address: Nicosia (Lefkosia)
+  branch_code: CON
+  city: Nicosia (Lefkosia)
+  country: Cyprus
+- name: Central Bank Of Cyprus
+  swift: CBCYCY2NCSE
+  swift8: CBCYCY2N
+  branch_name: Cyprus Stock Exchange-Mts
+  branch_address: Nicosia (Lefkosia)
+  branch_code: CSE
+  city: Nicosia (Lefkosia)
+  country: Cyprus
+- name: Central Bank Of Cyprus
+  swift: CBCYCY2NEDS
+  swift8: CBCYCY2N
+  branch_name: External Debt Section
+  branch_address: Nicosia (Lefkosia)
+  branch_code: EDS
+  city: Nicosia (Lefkosia)
+  country: Cyprus
+- name: Central Bank Of Cyprus
+  swift: CBCYCY2NEOS
+  swift8: CBCYCY2N
+  branch_name: Exchange Operations and Settlements
+  branch_address: Nicosia (Lefkosia)
+  branch_code: EOS
+  city: Nicosia (Lefkosia)
+  country: Cyprus
+- name: Central Bank Of Cyprus
+  swift: CBCYCY2NFBU
+  swift8: CBCYCY2N
+  branch_name: Foreign Business Unit
+  branch_address: Nicosia (Lefkosia)
+  branch_code: FBU
+  city: Nicosia (Lefkosia)
+  country: Cyprus
+- name: Central Bank Of Cyprus
+  swift: CBCYCY2NGPS
+  swift8: CBCYCY2N
+  branch_name: Government Payments System
+  branch_address: Nicosia (Lefkosia)
+  branch_code: GPS
+  city: Nicosia (Lefkosia)
+  country: Cyprus
+- name: Central Bank Of Cyprus
+  swift: CBCYCY2NISS
+  swift8: CBCYCY2N
+  branch_name: Issue Section
+  branch_address: Nicosia (Lefkosia)
+  branch_code: ISS
+  city: Nicosia (Lefkosia)
+  country: Cyprus
+- name: Central Bank Of Cyprus
+  swift: CBCYCY2NJCC
+  swift8: CBCYCY2N
+  branch_name: Jcctransfer
+  branch_address: Nicosia (Lefkosia)
+  branch_code: JCC
+  city: Nicosia (Lefkosia)
+  country: Cyprus
+- name: Central Bank Of Cyprus
+  swift: CBCYCY2NLSS
+  swift8: CBCYCY2N
+  branch_name: Government Stocks
+  branch_address: Nicosia (Lefkosia)
+  branch_code: LSS
+  city: Nicosia (Lefkosia)
+  country: Cyprus
+- name: Central Bank Of Cyprus
+  swift: CBCYCY2NMPO
+  swift8: CBCYCY2N
+  branch_name: Monetary Policy Operations
+  branch_address: Nicosia (Lefkosia)
+  branch_code: MPO
+  city: Nicosia (Lefkosia)
+  country: Cyprus
+- name: Central Bank Of Cyprus
+  swift: CBCYCY2NMRS
+  swift8: CBCYCY2N
+  branch_name: Management of Reserves
+  branch_address: Nicosia (Lefkosia)
+  branch_code: MRS
+  city: Nicosia (Lefkosia)
+  country: Cyprus
+- name: Central Bank Of Cyprus
+  swift: CBCYCY2NXXX
+  swift8: CBCYCY2N
+  branch_name: Head Office
+  branch_address: 80 Kennedy Avenue 1076 Nicosia (Lefkosia)
+  branch_code: XXX
+  city: Nicosia (Lefkosia)
+  country: Cyprus
+- name: Central Cooperative Bank Of Bulgaria Plc
+  swift: CECBCY2NXXX
+  swift8: CECBCY2N
+  branch_name: Head Office
+  branch_address: 69, Arch. Makarios Iii Ave. 1504 Nicosia (Lefkosia)
+  branch_code: XXX
+  city: Nicosia (Lefkosia)
+  country: Cyprus
+- name: Co-Operative Central Bank Ltd.
+  swift: CCBKCY2NXXX
+  swift8: CCBKCY2N
+  branch_name: Head Office
+  branch_address: Gregoris Afxentiou Street 1389 Nicosia (Lefkosia)
+  branch_code: XXX
+  city: Nicosia (Lefkosia)
+  country: Cyprus
+- name: Cyprus Development Bank Public Company Ltd, The
+  swift: CYDBCY2NXXX
+  swift8: CYDBCY2N
+  branch_name: Head Office
+  branch_address: Alfa House 1508 Nicosia (Lefkosia)
+  branch_code: XXX
+  city: Nicosia (Lefkosia)
+  country: Cyprus
+- name: Cyprus Stock Exchange
+  swift: XCYSCY2NXXX
+  swift8: XCYSCY2N
+  branch_name: Head Office
+  branch_address: 71-73 Lordou Vironos Avenue 1096 Nicosia (Lefkosia)
+  branch_code: XXX
+  city: Nicosia (Lefkosia)
+  country: Cyprus
+- name: Cyprus Stock Exchange
+  swift: XCYSCY2NASI
+  swift8: XCYSCY2N
+  branch_name: Cse Ancillary System
+  branch_address: Nicosia (Lefkosia)
+  branch_code: ASI
+  city: Nicosia (Lefkosia)
+  country: Cyprus
+- name: Falcon Brokers Ltd
+  swift: FBRKCY2LXXX
+  swift8: FBRKCY2L
+  branch_name: Head Office
+  branch_address: Nouris Building 56642-3309 Limassol (Lemesos)
+  branch_code: XXX
+  city: Limassol (Lemesos)
+  country: Cyprus
+- name: Falcon Brokers Ltd
+  swift: FBRKCY21XXX
+  swift8: FBRKCY21
+  branch_name: Head Office
+  branch_address: Nouris Building 56642-3309 Limassol (Lemesos)
+  branch_code: XXX
+  city: Limassol (Lemesos)
+  country: Cyprus
+- name: Fbme Bank Ltd
+  swift: FBMECY2NXXX
+  swift8: FBMECY2N
+  branch_name: Head Office
+  branch_address: J and P Building 1077 Nicosia (Lefkosia)
+  branch_code: XXX
+  city: Nicosia (Lefkosia)
+  country: Cyprus
+- name: Fbme Bank Ltd
+  swift: FBMECY2102I
+  swift8: FBMECY21
+  branch_name: Limassol (Lemesos)
+  branch_address: Omiros and Araouzos Tower Limassol (Lemesos)
+  branch_code: 02I
+  city: Limassol (Lemesos)
+  country: Cyprus
+- name: First Investment Bank Cyprus International Banking Unit
+  swift: FINVCY2NXXX
+  swift8: FINVCY2N
+  branch_name: Head Office
+  branch_address: Demofontos Street 39 1075 Nicosia (Lefkosia)
+  branch_code: XXX
+  city: Nicosia (Lefkosia)
+  country: Cyprus
+- name: Gpb Financial Services Limited
+  swift: GPBFCY2LXXX
+  swift8: GPBFCY2L
+  branch_name: Head Office
+  branch_address: Arianthi Court 3090 Limassol (Lemesos)
+  branch_code: XXX
+  city: Limassol (Lemesos)
+  country: Cyprus
+- name: Hellenic Bank Public Company Ltd.
+  swift: HEBACY2NLAR
+  swift8: HEBACY2N
+  branch_name: Larnaca
+  branch_address: Corner Gregoriou Afxentiou Avenue Larnaca
+  branch_code: LAR
+  city: Larnaca
+  country: Cyprus
+- name: Hellenic Bank Public Company Ltd.
+  swift: HEBACY2NLIM
+  swift8: HEBACY2N
+  branch_name: Limassol (Lemesos)
+  branch_address: Glastonos and Anaxagora Limassol (Lemesos)
+  branch_code: LIM
+  city: Limassol (Lemesos)
+  country: Cyprus
+- name: Hellenic Bank Public Company Ltd.
+  swift: HEBACY2NHDO
+  swift8: HEBACY2N
+  branch_name: Head Office
+  branch_address: 92 Dhigenis Akritas Avenue 2081 Nicosia (Lefkosia)
+  branch_code: HDO
+  city: Nicosia (Lefkosia)
+  country: Cyprus
+- name: Hellenic Bank Public Company Ltd.
+  swift: HEBACY2NNIC
+  swift8: HEBACY2N
+  branch_name: 2081 Nicosia (Lefkosia)
+  branch_address: 92 Dhigenis Akritas Avenue 2081 Nicosia (Lefkosia)
+  branch_code: NIC
+  city: Nicosia (Lefkosia)
+  country: Cyprus
+- name: Hellenic Bank Public Company Ltd.
+  swift: HEBACY2NXXX
+  swift8: HEBACY2N
+  branch_name: Head Office
+  branch_address: Head Office 2025 Nicosia (Lefkosia)
+  branch_code: XXX
+  city: Nicosia (Lefkosia)
+  country: Cyprus
+- name: Hellenic Bank Public Company Ltd.
+  swift: HEBACY2NPAP
+  swift8: HEBACY2N
+  branch_name: Paphos
+  branch_address: 6 N Mylona Paphos
+  branch_code: PAP
+  city: Paphos
+  country: Cyprus
+- name: Ibl Bank, Sal
+  swift: INLECY2LXXX
+  swift8: INLECY2L
+  branch_name: Head Office
+  branch_address: Ideal Building 54273 Limassol (Lemesos)
+  branch_code: XXX
+  city: Limassol (Lemesos)
+  country: Cyprus
+- name: Jordan Ahli Bank Plc
+  swift: JONBCY2IXXX
+  swift8: JONBCY2I
+  branch_name: Head Office
+  branch_address: Pecora Tower 3303 Limassol (Lemesos)
+  branch_code: XXX
+  city: Limassol (Lemesos)
+  country: Cyprus
+- name: Lebanon And Gulf Bank S.A.L. - Larnaca Branch
+  swift: LGBACY2LXXX
+  swift8: LGBACY2L
+  branch_name: Head Office
+  branch_address: Akamia 6017 Larnaca
+  branch_code: XXX
+  city: Larnaca
+  country: Cyprus
+- name: National Bank Of Greece (Cyprus) Ltd.
+  swift: ETHNCY2N532
+  swift8: ETHNCY2N
+  branch_name: Ayia Napa Branch 532
+  branch_address: 26 Nissi Ave 5341 Ayia Napa
+  branch_code: '532'
+  city: Ayia Napa
+  country: Cyprus
+- name: National Bank Of Greece (Cyprus) Ltd.
+  swift: ETHNCY2N530
+  swift8: ETHNCY2N
+  branch_name: Famagusta Branch 530
+  branch_address: 39 Zinon Kitieos Street 6304 Larnaca
+  branch_code: '530'
+  city: Larnaca
+  country: Cyprus
+- name: National Bank Of Greece (Cyprus) Ltd.
+  swift: ETHNCY2N535
+  swift8: ETHNCY2N
+  branch_name: Larnaca Branch 535
+  branch_address: 46 Arch. Makarios Iii Avenue 6300 Larnaca
+  branch_code: '535'
+  city: Larnaca
+  country: Cyprus
+- name: National Bank Of Greece (Cyprus) Ltd.
+  swift: ETHNCY2N540
+  swift8: ETHNCY2N
+  branch_name: Limassol Main Branch 540
+  branch_address: 212 Ag. Philaxis 3082 Limassol (Lemesos)
+  branch_code: '540'
+  city: Limassol (Lemesos)
+  country: Cyprus
+- name: National Bank Of Greece (Cyprus) Ltd.
+  swift: ETHNCY2N541
+  swift8: ETHNCY2N
+  branch_name: Makarios Iiis Av Branch 541
+  branch_address: 212 Ag. Philaxis 3082 Limassol (Lemesos)
+  branch_code: '541'
+  city: Limassol (Lemesos)
+  country: Cyprus
+- name: National Bank Of Greece (Cyprus) Ltd.
+  swift: ETHNCY2N544
+  swift8: ETHNCY2N
+  branch_name: Omonia Branch 544
+  branch_address: 212 Ag. Philaxis 3082 Limassol (Lemesos)
+  branch_code: '544'
+  city: Limassol (Lemesos)
+  country: Cyprus
+- name: National Bank Of Greece (Cyprus) Ltd.
+  swift: ETHNCY2N553
+  swift8: ETHNCY2N
+  branch_name: Ayios Nicolaos Branch 553
+  branch_address: 16 Griva Digheni Street 3698 Limassol (Lemesos)
+  branch_code: '553'
+  city: Limassol (Lemesos)
+  country: Cyprus
+- name: National Bank Of Greece (Cyprus) Ltd.
+  swift: ETHNCY2N521
+  swift8: ETHNCY2N
+  branch_name: Eleftheria Sq Branch 521
+  branch_address: Omiros and Evagoras Avenue 1506 Nicosia (Lefkosia)
+  branch_code: '521'
+  city: Nicosia (Lefkosia)
+  country: Cyprus
+- name: National Bank Of Greece (Cyprus) Ltd.
+  swift: ETHNCY2N525
+  swift8: ETHNCY2N
+  branch_name: Nicosia Branch 525
+  branch_address: 73 Arch. Makarios Iii Av. 1070 Nicosia (Lefkosia)
+  branch_code: '525'
+  city: Nicosia (Lefkosia)
+  country: Cyprus
+- name: National Bank Of Greece (Cyprus) Ltd.
+  swift: ETHNCY2N526
+  swift8: ETHNCY2N
+  branch_name: Morphou Branch 526
+  branch_address: 115 Strovolos Avenue 2042 Nicosia (Lefkosia)
+  branch_code: '526'
+  city: Nicosia (Lefkosia)
+  country: Cyprus
+- name: National Bank Of Greece (Cyprus) Ltd.
+  swift: ETHNCY2N527
+  swift8: ETHNCY2N
+  branch_name: Athalassa Branch 527
+  branch_address: 90d Athalassa Ave.,and I.Hadjiosif 1597 Nicosia (Lefkosia)
+  branch_code: '527'
+  city: Nicosia (Lefkosia)
+  country: Cyprus
+- name: National Bank Of Greece (Cyprus) Ltd.
+  swift: ETHNCY2N528
+  swift8: ETHNCY2N
+  branch_name: Latsia Branch 528
+  branch_address: 82a J. Kranidioti Avenue, Latsia 2235 Nicosia (Lefkosia)
+  branch_code: '528'
+  city: Nicosia (Lefkosia)
+  country: Cyprus
+- name: National Bank Of Greece (Cyprus) Ltd.
+  swift: ETHNCY2N549
+  swift8: ETHNCY2N
+  branch_name: Nicosia International Business Banking Division 549
+  branch_address: 46 Themistoklis Dervis Str. 1066 Nicosia (Lefkosia)
+  branch_code: '549'
+  city: Nicosia (Lefkosia)
+  country: Cyprus
+- name: National Bank Of Greece (Cyprus) Ltd.
+  swift: ETHNCY2N999
+  swift8: ETHNCY2N
+  branch_name: Back Office 999
+  branch_address: 115 Strovolos Avenue 2042 Nicosia (Lefkosia)
+  branch_code: '999'
+  city: Nicosia (Lefkosia)
+  country: Cyprus
+- name: National Bank Of Greece (Cyprus) Ltd.
+  swift: ETHNCY2NXXX
+  swift8: ETHNCY2N
+  branch_name: Head Office
+  branch_address: 15 Arch. Makarios C. Avenue 1065 Nicosia (Lefkosia)
+  branch_code: XXX
+  city: Nicosia (Lefkosia)
+  country: Cyprus
+- name: National Bank Of Greece (Cyprus) Ltd.
+  swift: ETHNCY2N545
+  swift8: ETHNCY2N
+  branch_name: Paphos Branch 545
+  branch_address: 55-57 Arch. Makarios Iii Avenue 8100 Paphos
+  branch_code: '545'
+  city: Paphos
+  country: Cyprus
+- name: National Bank Of Greece (Cyprus) Ltd.
+  swift: ETHNCY2N531
+  swift8: ETHNCY2N
+  branch_name: Paralimni Branch 531
+  branch_address: 104 Apriliou 1st Avenue 5310 Paralimni
+  branch_code: '531'
+  city: Paralimni
+  country: Cyprus
+- name: National Bank Of Greece (Cyprus) Ltd.
+  swift: ETHNCY2N550
+  swift8: ETHNCY2N
+  branch_name: Limassol International Business Banking Division 550
+  branch_address: 212 Ag. Philaxis Str. 3801 Limassol (Lemesos)
+  branch_code: '550'
+  city: Limassol (Lemesos)
+  country: Cyprus
+- name: Nkb Investments Ltd
+  swift: NKBICY2NXXX
+  swift8: NKBICY2N
+  branch_name: Head Office
+  branch_address: Neocleous House 3608 Limassol (Lemesos)
+  branch_code: XXX
+  city: Limassol (Lemesos)
+  country: Cyprus
+- name: Ojsc Promsvyazbank, Cyprus Branch
+  swift: PRMSCY2NXXX
+  swift8: PRMSCY2N
+  branch_name: Head Office
+  branch_address: Achilleos Building 224 Limassol (Lemesos)
+  branch_code: XXX
+  city: Limassol (Lemesos)
+  country: Cyprus
+- name: Piraeus Bank Cyprus Limited
+  swift: PIRBCY2NXXX
+  swift8: PIRBCY2N
+  branch_name: Head Office
+  branch_address: 1 Spyrou Kyprianou Ave 1065 Nicosia (Lefkosia)
+  branch_code: XXX
+  city: Nicosia (Lefkosia)
+  country: Cyprus
+- name: Privatbank, Cyprus Branch
+  swift: PBANCY2NXXX
+  swift8: PBANCY2N
+  branch_name: Head Office
+  branch_address: Geogas Tower 1055 Nicosia (Lefkosia)
+  branch_code: XXX
+  city: Nicosia (Lefkosia)
+  country: Cyprus
+- name: Renaissance Securities (Cyprus) Limited
+  swift: RESPCY2NXXX
+  swift8: RESPCY2N
+  branch_name: Head Office
+  branch_address: Capital Center 1065 Nicosia (Lefkosia)
+  branch_code: XXX
+  city: Nicosia (Lefkosia)
+  country: Cyprus
+- name: Ronin Europe Limited
+  swift: RNINCY2NXXX
+  swift8: RNINCY2N
+  branch_name: Head Office
+  branch_address: Pythagoras Court 3013027 Limassol (Lemesos)
+  branch_code: XXX
+  city: Limassol (Lemesos)
+  country: Cyprus
+- name: Russian Commercial Bank (Cyprus) Ltd
+  swift: RCBLCY2IXXX
+  swift8: RCBLCY2I
+  branch_name: Head Office
+  branch_address: 2 Amathountos Street 3105 Limassol (Lemesos)
+  branch_code: XXX
+  city: Limassol (Lemesos)
+  country: Cyprus
+- name: Societe Generale Cyprus Limited
+  swift: SOGECY2NAMA
+  swift8: SOGECY2N
+  branch_name: Limassol Operation Onshore
+  branch_address: Limassol (Lemesos)
+  branch_code: AMA
+  city: Limassol (Lemesos)
+  country: Cyprus
+- name: Societe Generale Cyprus Limited
+  swift: SOGECY2NNIC
+  swift8: SOGECY2N
+  branch_name: Nicosia Operation
+  branch_address: Nicosia (Lefkosia)
+  branch_code: NIC
+  city: Nicosia (Lefkosia)
+  country: Cyprus
+- name: Societe Generale Cyprus Limited
+  swift: SOGECY2NXXX
+  swift8: SOGECY2N
+  branch_name: Head Office
+  branch_address: 7-9 Grivas Dighenis Avenue 1066 Nicosia (Lefkosia)
+  branch_code: XXX
+  city: Nicosia (Lefkosia)
+  country: Cyprus
+- name: Td Investments Limited
+  swift: TDINCY2NXXX
+  swift8: TDINCY2N
+  branch_name: Head Office
+  branch_address: Zachariades Building 1070 Nicosia (Lefkosia)
+  branch_code: XXX
+  city: Nicosia (Lefkosia)
+  country: Cyprus
+- name: Td Investments Limited
+  swift: IVEMCY21XXX
+  swift8: IVEMCY21
+  branch_name: Head Office
+  branch_address: Zachariades Building 1070 Nicosia (Lefkosia)
+  branch_code: XXX
+  city: Nicosia (Lefkosia)
+  country: Cyprus
+- name: Trasta Komercbanka Cyprus Branch
+  swift: KBRBCY2NXXX
+  swift8: KBRBCY2N
+  branch_name: Head Office
+  branch_address: 56 Makariou Avenue 1075 Nicosia (Lefkosia)
+  branch_code: XXX
+  city: Nicosia (Lefkosia)
+  country: Cyprus
+- name: Usb Bank Plc (Formerly Universal Bank Public Ltd)
+  swift: UNVKCY2NXXX
+  swift8: UNVKCY2N
+  branch_name: Head Office
+  branch_address: 83 Dhigeni Akrita Avenue 1070 Nicosia (Lefkosia)
+  branch_code: XXX
+  city: Nicosia (Lefkosia)
+  country: Cyprus
+- name: Credit Libanais Sal
+  swift: CLIBCY21XXX
+  swift8: CLIBCY21
+  branch_name: Head Office
+  branch_address: Chrysalia Center Limassol (Lemesos)
+  branch_code: XXX
+  city: Limassol (Lemesos)
+  country: Cyprus
+- name: Alliance Factors Ltd
+  swift: ALTOCY21XXX
+  swift8: ALTOCY21
+  branch_name: Head Office
+  branch_address: Stefel Court 3 John Kennedy 3106 Limassol (Lemesos)
+  branch_code: XXX
+  city: Limassol (Lemesos)
+  country: Cyprus
+- name: Alpinex Financial Services (cyprus) Ltd.
+  swift: AFSYCY21XXX
+  swift8: AFSYCY21
+  branch_name: Head Office
+  branch_address: Helios Court 3036 Limassol (Lemesos)
+  branch_code: XXX
+  city: Limassol (Lemesos)
+  country: Cyprus
+- name: Amg Kapital Limited
+  swift: AMKACY21XXX
+  swift8: AMKACY21
+  branch_name: Head Office
+  branch_address: Maximos Plaza 3106 Limassol (Lemesos)
+  branch_code: XXX
+  city: Limassol (Lemesos)
+  country: Cyprus
+- name: Argus Stockbrokers Limited
+  swift: ARSOCYN1XXX
+  swift8: ARSOCYN1
+  branch_name: Head Office
+  branch_address: Kennedy Business Center Cy1087 Nicosia (Lefkosia)
+  branch_code: XXX
+  city: Nicosia (Lefkosia)
+  country: Cyprus
+- name: Artcap Eastern Investments
+  swift: AREICY21XXX
+  swift8: AREICY21
+  branch_name: Head Office
+  branch_address: Irakli, 2 Egkomi 2413 Nicosia (Lefkosia)
+  branch_code: XXX
+  city: Nicosia (Lefkosia)
+  country: Cyprus
+- name: Atlantic Securities Ltd
+  swift: ATSICY21XXX
+  swift8: ATSICY21
+  branch_name: Head Office
+  branch_address: Trust House 1090 Nicosia (Lefkosia)
+  branch_code: XXX
+  city: Nicosia (Lefkosia)
+  country: Cyprus
+- name: Axia Ventures (cyprus) Ltd.
+  swift: AXVCCY21XXX
+  swift8: AXVCCY21
+  branch_name: Head Office
+  branch_address: Nice Day House 1065 Nicosia (Lefkosia)
+  branch_code: XXX
+  city: Nicosia (Lefkosia)
+  country: Cyprus
+- name: Bankmed Sal-cyprus
+  swift: MEDLCY21XXX
+  swift8: MEDLCY21
+  branch_name: Head Office
+  branch_address: 9 Constantinou Paparigopoulou Cy-3722 Limassol (Lemesos)
+  branch_code: XXX
+  city: Limassol (Lemesos)
+  country: Cyprus
+- name: Brokercreditservice (cyprus) Limited
+  swift: BRCRCY21XXX
+  swift8: BRCRCY21
+  branch_name: Head Office
+  branch_address: Geopyxis Center 3027 Limassol (Lemesos)
+  branch_code: XXX
+  city: Limassol (Lemesos)
+  country: Cyprus
+- name: Brokercreditservice (cyprus) Ltd
+  swift: BCSUCY21XXX
+  swift8: BCSUCY21
+  branch_name: Head Office
+  branch_address: Geopyxis Center 3027 Limassol (Lemesos)
+  branch_code: XXX
+  city: Limassol (Lemesos)
+  country: Cyprus
+- name: Capital Intelligence (cyprus) Limited
+  swift: CAIYCY21XXX
+  swift8: CAIYCY21
+  branch_name: Head Office
+  branch_address: Oasis Complex 3303 Limassol (Lemesos)
+  branch_code: XXX
+  city: Limassol (Lemesos)
+  country: Cyprus
+- name: Clr Securities And Financial Services Ltd
+  swift: CSFRCY21XXX
+  swift8: CSFRCY21
+  branch_name: Head Office
+  branch_address: Clr House 1096 Nicosia (Lefkosia)
+  branch_code: XXX
+  city: Nicosia (Lefkosia)
+  country: Cyprus
+- name: Csc24seven.com Limited
+  swift: CSCCCY21XXX
+  swift8: CSCCCY21
+  branch_name: No branch name
+  branch_address: No branch address
+  branch_code: XXX
+  city: Larnaca
+  country: Cyprus
+- name: Dfg Capital (cyprus) Limited
+  swift: DFCYCY21XXX
+  swift8: DFCYCY21
+  branch_name: Head Office
+  branch_address: Kennedy Business Center 1087 Nicosia (Lefkosia)
+  branch_code: XXX
+  city: Nicosia (Lefkosia)
+  country: Cyprus
+- name: Dgrn Limited
+  swift: DRRNCY21XXX
+  swift8: DRRNCY21
+  branch_name: Head Office
+  branch_address: Julia House 1066 Nicosia (Lefkosia)
+  branch_code: XXX
+  city: Nicosia (Lefkosia)
+  country: Cyprus
+- name: Dragon Capital (cyprus) Ltd
+  swift: DRCCCY21XXX
+  swift8: DRCCCY21
+  branch_name: Head Office
+  branch_address: 3 Bouboulinas Str. Nicosia (Lefkosia)
+  branch_code: XXX
+  city: Nicosia (Lefkosia)
+  country: Cyprus
+- name: Egnaro Investments Limited
+  swift: EGINCY21XXX
+  swift8: EGINCY21
+  branch_name: Head Office
+  branch_address: Savvides Centre 2021 Nicosia (Lefkosia)
+  branch_code: XXX
+  city: Nicosia (Lefkosia)
+  country: Cyprus
+- name: Egnatia Financial Services (cyprus) Limited
+  swift: EFSCCY21XXX
+  swift8: EFSCCY21
+  branch_name: Head Office
+  branch_address: Irene Tower 2025 Nicosia (Lefkosia)
+  branch_code: XXX
+  city: Nicosia (Lefkosia)
+  country: Cyprus
+- name: Entris Equity Limited
+  swift: ENEQCY21XXX
+  swift8: ENEQCY21
+  branch_name: Head Office
+  branch_address: Savvides Centre 2021 Nicosia (Lefkosia)
+  branch_code: XXX
+  city: Nicosia (Lefkosia)
+  country: Cyprus
+- name: Eurobank Cyprus Ltd
+  swift: ERBKCY2NXXX
+  swift8: ERBKCY2N
+  branch_name: No branch name
+  branch_address: No branch address
+  branch_code: XXX
+  city: Nicosia (Lefkosia)
+  country: Cyprus
+- name: Euroorient Securities And Financial Services Ltd
+  swift: EUSACY21XXX
+  swift8: EUSACY21
+  branch_name: Head Office
+  branch_address: Ayias Phylaxeos 182 3083 Limassol (Lemesos)
+  branch_code: XXX
+  city: Limassol (Lemesos)
+  country: Cyprus
+- name: Exscale Investment Ltd
+  swift: EXIVCY21XXX
+  swift8: EXIVCY21
+  branch_name: Head Office
+  branch_address: Oceanic Building 3035 Limassol (Lemesos)
+  branch_code: XXX
+  city: Limassol (Lemesos)
+  country: Cyprus
+- name: Fascinating Trading Limited
+  swift: FATRCY21XXX
+  swift8: FATRCY21
+  branch_name: Head Office
+  branch_address: Larnakos 60, Aglantzia Nicosia (Lefkosia)
+  branch_code: XXX
+  city: Nicosia (Lefkosia)
+  country: Cyprus
+- name: Feathersword Investment Ltd
+  swift: FEAICY21XXX
+  swift8: FEAICY21
+  branch_name: Head Office
+  branch_address: Seawitch a 6017 Larnaca
+  branch_code: XXX
+  city: Larnaca
+  country: Cyprus
+- name: Fenway Services Limited
+  swift: FESECY21XXX
+  swift8: FESECY21
+  branch_name: Head Office
+  branch_address: Elenion Building 1066 Nicosia (Lefkosia)
+  branch_code: XXX
+  city: Nicosia (Lefkosia)
+  country: Cyprus
+- name: Fervent Holdings Limited
+  swift: FEHOCY21XXX
+  swift8: FEHOCY21
+  branch_name: Head Office
+  branch_address: Savvides Center Nicosia (Lefkosia)
+  branch_code: XXX
+  city: Nicosia (Lefkosia)
+  country: Cyprus
+- name: Finam Limited
+  swift: FNMACY21XXX
+  swift8: FNMACY21
+  branch_name: Head Office
+  branch_address: Drakos House 3025 Limassol (Lemesos)
+  branch_code: XXX
+  city: Limassol (Lemesos)
+  country: Cyprus
+- name: Fintailor Investments Limited
+  swift: FINTCY2LXXX
+  swift8: FINTCY2L
+  branch_name: Head Office
+  branch_address: Lophitis Business Centre, Office 4 3035 Limassol (Lemesos)
+  branch_code: XXX
+  city: Limassol (Lemesos)
+  country: Cyprus
+- name: Fintailor Investments Limited
+  swift: FNIVCY21XXX
+  swift8: FNIVCY21
+  branch_name: Head Office
+  branch_address: Lophitis Business Centre 3035 Limassol (Lemesos)
+  branch_code: XXX
+  city: Limassol (Lemesos)
+  country: Cyprus
+- name: Fmc Securities Ltd
+  swift: FMSECY21XXX
+  swift8: FMSECY21
+  branch_name: Head Office
+  branch_address: Pamelva Court Office 304 3105 Limassol (Lemesos)
+  branch_code: XXX
+  city: Limassol (Lemesos)
+  country: Cyprus
+- name: Global Capital Securities And Financial Services Ltd
+  swift: GCSFCY21XXX
+  swift8: GCSFCY21
+  branch_name: Head Office
+  branch_address: Eurosure Building 2112 Nicosia (Lefkosia)
+  branch_code: XXX
+  city: Nicosia (Lefkosia)
+  country: Cyprus
+- name: Grant Asset Management Limited
+  swift: GRAMCY21XXX
+  swift8: GRAMCY21
+  branch_name: Head Office
+  branch_address: Themistolliuderviu Strasse Nicosia (Lefkosia)
+  branch_code: XXX
+  city: Nicosia (Lefkosia)
+  country: Cyprus
+- name: Hellenic Bank (investments) Limited
+  swift: HIPCCY21XXX
+  swift8: HIPCCY21
+  branch_name: Head Office
+  branch_address: Frosia Building 1082 Nicosia (Lefkosia)
+  branch_code: XXX
+  city: Nicosia (Lefkosia)
+  country: Cyprus
+- name: Icfi (cyprus) Ltd
+  swift: ICCYCY21XXX
+  swift8: ICCYCY21
+  branch_name: Head Office
+  branch_address: Emellle Building 3315 Limassol (Lemesos)
+  branch_code: XXX
+  city: Limassol (Lemesos)
+  country: Cyprus
+- name: Ikos Asset Management Ltd
+  swift: IKAMCY21XXX
+  swift8: IKAMCY21
+  branch_name: Head Office
+  branch_address: Frema Plaza M Ayios Athanasios 4103 Limassol (Lemesos)
+  branch_code: XXX
+  city: Limassol (Lemesos)
+  country: Cyprus
+- name: Infina Investments (cyprus) Limited
+  swift: CSNNCY21XXX
+  swift8: CSNNCY21
+  branch_name: Head Office
+  branch_address: Chrysanthou Mylona Limassol (Lemesos)
+  branch_code: XXX
+  city: Limassol (Lemesos)
+  country: Cyprus
+- name: Interfin Trade (overseas) Limited
+  swift: ITTOCY21XXX
+  swift8: ITTOCY21
+  branch_name: Head Office
+  branch_address: Gr. Xenopoulou, 17 3106 Limassol (Lemesos)
+  branch_code: XXX
+  city: Limassol (Lemesos)
+  country: Cyprus
+- name: International Branch Of Open Joint-stock Company Avtovazbank In The Republic
+    Of Cyprus
+  swift: AVBKCY21XXX
+  swift8: AVBKCY21
+  branch_name: Head Office
+  branch_address: Harmony House 3030 Limassol (Lemesos)
+  branch_code: XXX
+  city: Limassol (Lemesos)
+  country: Cyprus
+- name: J And T Financial Investments Limited
+  swift: FNINCY21XXX
+  swift8: FNINCY21
+  branch_name: Head Office
+  branch_address: Savvides Center 1012 Nicosia (Lefkosia)
+  branch_code: XXX
+  city: Nicosia (Lefkosia)
+  country: Cyprus
+- name: Jet Money Services Ltd
+  swift: JMSSCY2NXXX
+  swift8: JMSSCY2N
+  branch_name: Head Office
+  branch_address: Maro Court 2364 Nicosia (Lefkosia)
+  branch_code: XXX
+  city: Nicosia (Lefkosia)
+  country: Cyprus
+- name: Kab Strategy (cyprus) Ltd
+  swift: KASYCY21XXX
+  swift8: KASYCY21
+  branch_name: Head Office
+  branch_address: Atlantis Building 4000 Limassol (Lemesos)
+  branch_code: XXX
+  city: Limassol (Lemesos)
+  country: Cyprus
+- name: Laruftis Investment Limited
+  swift: LAIVCY21XXX
+  swift8: LAIVCY21
+  branch_name: Head Office
+  branch_address: Solea Building 1060 Nicosia (Lefkosia)
+  branch_code: XXX
+  city: Nicosia (Lefkosia)
+  country: Cyprus
+- name: Lce Company Limited
+  swift: LCCOCY21XXX
+  swift8: LCCOCY21
+  branch_name: Head Office
+  branch_address: Savvides Center Nicosia (Lefkosia)
+  branch_code: XXX
+  city: Nicosia (Lefkosia)
+  country: Cyprus
+- name: Ledbetter Limited
+  swift: LEDTCY21XXX
+  swift8: LEDTCY21
+  branch_name: Head Office
+  branch_address: 7 Heliopolis Street Nicosia (Lefkosia)
+  branch_code: XXX
+  city: Nicosia (Lefkosia)
+  country: Cyprus
+- name: Levos Limited
+  swift: LEVSCY21XXX
+  swift8: LEVSCY21
+  branch_name: Head Office
+  branch_address: Larnakos 60 Nicosia (Lefkosia)
+  branch_code: XXX
+  city: Nicosia (Lefkosia)
+  country: Cyprus
+- name: Linvest Capital Ltd.
+  swift: LICLCY21XXX
+  swift8: LICLCY21
+  branch_name: Head Office
+  branch_address: Stephanie House 3101 Limassol (Lemesos)
+  branch_code: XXX
+  city: Limassol (Lemesos)
+  country: Cyprus
+- name: Masterton Development Limited
+  swift: MADECY21XXX
+  swift8: MADECY21
+  branch_name: Head Office
+  branch_address: Akropoleos Nicosia (Lefkosia)
+  branch_code: XXX
+  city: Nicosia (Lefkosia)
+  country: Cyprus
+- name: Mc-bbl Finance Limited
+  swift: MCFNCY21XXX
+  swift8: MCFNCY21
+  branch_name: Head Office
+  branch_address: Julia House Nicosia (Lefkosia)
+  branch_code: XXX
+  city: Nicosia (Lefkosia)
+  country: Cyprus
+- name: Mdm Investments Limited
+  swift: MINUCY21XXX
+  swift8: MINUCY21
+  branch_name: Head Office
+  branch_address: Neroupos Business Center 3041 Limassol (Lemesos)
+  branch_code: XXX
+  city: Limassol (Lemesos)
+  country: Cyprus
+- name: Mega Equity Securities And Financial Services Public Limited
+  swift: MESFCY21XXX
+  swift8: MESFCY21
+  branch_name: Head Office
+  branch_address: Ibm Tower 1685 Nicosia (Lefkosia)
+  branch_code: XXX
+  city: Nicosia (Lefkosia)
+  country: Cyprus
+- name: Meritkapital Limited
+  swift: MEIPCY22XXX
+  swift8: MEIPCY22
+  branch_name: Head Office
+  branch_address: Eftapaton Court 3105 Limassol (Lemesos)
+  branch_code: XXX
+  city: Limassol (Lemesos)
+  country: Cyprus
+- name: Meritkapital Limited
+  swift: MEIPCY21XXX
+  swift8: MEIPCY21
+  branch_name: Head Office
+  branch_address: Eftapaton Court 3105 Limassol (Lemesos)
+  branch_code: XXX
+  city: Limassol (Lemesos)
+  country: Cyprus
+- name: Metropol (cyprus) Limited
+  swift: MECYCY21XXX
+  swift8: MECYCY21
+  branch_name: Head Office
+  branch_address: Panayides Court 3030 Limassol (Lemesos)
+  branch_code: XXX
+  city: Limassol (Lemesos)
+  country: Cyprus
+- name: Moody's Investors Service Cyprus Limited
+  swift: MOODCY21XXX
+  swift8: MOODCY21
+  branch_name: Head Office
+  branch_address: Kanika Business Centre 3301 Limassol (Lemesos)
+  branch_code: XXX
+  city: Limassol (Lemesos)
+  country: Cyprus
+- name: Nam Holdings Limited Julia House
+  swift: NAMHCY21XXX
+  swift8: NAMHCY21
+  branch_name: Head Office
+  branch_address: Julia House 1066 Nicosia (Lefkosia)
+  branch_code: XXX
+  city: Nicosia (Lefkosia)
+  country: Cyprus
+- name: National Bank Of Greece S.a. Cyprus Branch (578
+  swift: ETHNCYNNXXX
+  swift8: ETHNCYNN
+  branch_name: No branch name
+  branch_address: No branch address
+  branch_code: XXX
+  city: Nicosia (Lefkosia)
+  country: Cyprus
+- name: Nbi Investments Limited Frema House
+  swift: NIFHCY21XXX
+  swift8: NIFHCY21
+  branch_name: Head Office
+  branch_address: Frema House 3106 Limassol (Lemesos)
+  branch_code: XXX
+  city: Limassol (Lemesos)
+  country: Cyprus
+- name: Neevas Investment Limited
+  swift: NEIECY21XXX
+  swift8: NEIECY21
+  branch_name: Head Office
+  branch_address: Savvides Centre 2021 Nicosia (Lefkosia)
+  branch_code: XXX
+  city: Nicosia (Lefkosia)
+  country: Cyprus
+- name: Nomos Investment (cyprus) Limited
+  swift: NICYCY21XXX
+  swift8: NICYCY21
+  branch_name: Head Office
+  branch_address: Chr. Chatzipavlou Street 3036 Limassol (Lemesos)
+  branch_code: XXX
+  city: Limassol (Lemesos)
+  country: Cyprus
+- name: Olma Financial Services Ltd.
+  swift: OLMACY21XXX
+  swift8: OLMACY21
+  branch_name: Head Office
+  branch_address: Nicolaou Pentadromos Centre 3026 Limassol (Lemesos)
+  branch_code: XXX
+  city: Limassol (Lemesos)
+  country: Cyprus
+- name: Omega Funds Investment Ltd
+  swift: OMFVCY2NXXX
+  swift8: OMFVCY2N
+  branch_name: Head Office
+  branch_address: Agora Kinnis Bldg 4043 Limassol (Lemesos)
+  branch_code: XXX
+  city: Limassol (Lemesos)
+  country: Cyprus
+- name: Omega Funds Investment Ltd
+  swift: OMFVCY21XXX
+  swift8: OMFVCY21
+  branch_name: Head Office
+  branch_address: 85 Michael Zavou 4107 Limassol (Lemesos)
+  branch_code: XXX
+  city: Limassol (Lemesos)
+  country: Cyprus
+- name: One Plus Capital Ltd
+  swift: ONPCCY21XXX
+  swift8: ONPCCY21
+  branch_name: Head Office
+  branch_address: Oneworld Parkview House 1307 Nicosia (Lefkosia)
+  branch_code: XXX
+  city: Nicosia (Lefkosia)
+  country: Cyprus
+- name: Open.ru Brokerage House (cyprus) Limited
+  swift: OBHCCY21XXX
+  swift8: OBHCCY21
+  branch_name: Head Office
+  branch_address: Papabasiliou House 1076 Nicosia (Lefkosia)
+  branch_code: XXX
+  city: Nicosia (Lefkosia)
+  country: Cyprus
+- name: Otkritie Finance (cyprus) Ltd
+  swift: OTFCCY21XXX
+  swift8: OTFCCY21
+  branch_name: Head Office
+  branch_address: Seasons Plaza 4532 Limassol (Lemesos)
+  branch_code: XXX
+  city: Limassol (Lemesos)
+  country: Cyprus
+- name: Pasternak Holdings Limited
+  swift: PAHOCY21XXX
+  swift8: PAHOCY21
+  branch_name: Head Office
+  branch_address: Elenion Building 1066 Nicosia (Lefkosia)
+  branch_code: XXX
+  city: Nicosia (Lefkosia)
+  country: Cyprus
+- name: Prochoice Chrimatistiriaki Ltd
+  swift: PRCKCY21XXX
+  swift8: PRCKCY21
+  branch_name: Head Office
+  branch_address: Frangos Gourt 6051 Larnaca
+  branch_code: XXX
+  city: Larnaca
+  country: Cyprus
+- name: Rahim Bank Ltd.
+  swift: RAIICY21XXX
+  swift8: RAIICY21
+  branch_name: Head Office
+  branch_address: Rahim Bank Center Nicosia (Lefkosia)
+  branch_code: XXX
+  city: Nicosia (Lefkosia)
+  country: Cyprus
+- name: Regency Asset Management (cyprus) Limited
+  swift: RAMCCY21XXX
+  swift8: RAMCCY21
+  branch_name: Head Office
+  branch_address: Nikou Georgiou 6 1092 Nicosia (Lefkosia)
+  branch_code: XXX
+  city: Nicosia (Lefkosia)
+  country: Cyprus
+- name: Renaissance Financial Services Limited
+  swift: REFVCY21XXX
+  swift8: REFVCY21
+  branch_name: Head Office
+  branch_address: 2-4 Capital Center 1065 Nicosia (Lefkosia)
+  branch_code: XXX
+  city: Nicosia (Lefkosia)
+  country: Cyprus
+- name: Renaissance Investment Management (cyprus) Limited
+  swift: RCICCY21XXX
+  swift8: RCICCY21
+  branch_name: Head Office
+  branch_address: Capital Center 1065 Nicosia (Lefkosia)
+  branch_code: XXX
+  city: Nicosia (Lefkosia)
+  country: Cyprus
+- name: Renaissance Wealth Management (cyprus) Ltd
+  swift: RWMCCY21XXX
+  swift8: RWMCCY21
+  branch_name: Head Office
+  branch_address: Alpha Business Centre 1060 Nicosia (Lefkosia)
+  branch_code: XXX
+  city: Nicosia (Lefkosia)
+  country: Cyprus
+- name: Reserve Invest (cyprus) Limited
+  swift: RINCCY21XXX
+  swift8: RINCCY21
+  branch_name: Head Office
+  branch_address: Maximos Plaza, Block 3 3035 Limassol (Lemesos)
+  branch_code: XXX
+  city: Limassol (Lemesos)
+  country: Cyprus
+- name: Rmg Holding Limited
+  swift: RMHLCY21XXX
+  swift8: RMHLCY21
+  branch_name: Head Office
+  branch_address: Elenion Building Nicosia 1066 Nicosia (Lefkosia)
+  branch_code: XXX
+  city: Nicosia (Lefkosia)
+  country: Cyprus
+- name: S.l. Capital Services Limited
+  swift: CACVCY21XXX
+  swift8: CACVCY21
+  branch_name: Head Office
+  branch_address: Aigeo Court 3101 Limassol (Lemesos)
+  branch_code: XXX
+  city: Limassol (Lemesos)
+  country: Cyprus
+- name: Sharelink Securities And Financial Services Ltd
+  swift: SSFVCY21XXX
+  swift8: SSFVCY21
+  branch_name: Head Office
+  branch_address: Ellinas House 1055 Nicosia (Lefkosia)
+  branch_code: XXX
+  city: Nicosia (Lefkosia)
+  country: Cyprus
+- name: Solid Financial Services Ltd
+  swift: SONSCY21XXX
+  swift8: SONSCY21
+  branch_name: Head Office
+  branch_address: Charalambides Chambers 3106 Limassol (Lemesos)
+  branch_code: XXX
+  city: Limassol (Lemesos)
+  country: Cyprus
+- name: Spyke Equity Limited
+  swift: SPEQCY21XXX
+  swift8: SPEQCY21
+  branch_name: Head Office
+  branch_address: Savvides Centre 2012 Nicosia (Lefkosia)
+  branch_code: XXX
+  city: Nicosia (Lefkosia)
+  country: Cyprus
+- name: Stomarli Holdings Limited
+  swift: STHDCY21XXX
+  swift8: STHDCY21
+  branch_name: Head Office
+  branch_address: Savvides Center Nicosia (Lefkosia)
+  branch_code: XXX
+  city: Nicosia (Lefkosia)
+  country: Cyprus
+- name: Tfi Markets Ltd
+  swift: TFIMCY21XXX
+  swift8: TFIMCY21
+  branch_name: Head Office
+  branch_address: Irene Tower 2025 Nicosia (Lefkosia)
+  branch_code: XXX
+  city: Nicosia (Lefkosia)
+  country: Cyprus
+- name: The Cyprus Investment And Securities Corporation Ltd
+  swift: CISOCY21XXX
+  swift8: CISOCY21
+  branch_name: Head Office
+  branch_address: Eurolife House 2003 Nicosia (Lefkosia)
+  branch_code: XXX
+  city: Nicosia (Lefkosia)
+  country: Cyprus
+- name: The Point Of Contact Communications (services) Ltd
+  swift: TPOCCY21XXX
+  swift8: TPOCCY21
+  branch_name: Head Office
+  branch_address: Evi Court 8035 Paphos
+  branch_code: XXX
+  city: Paphos
+  country: Cyprus
+- name: Tkbc International Limited
+  swift: TKBCCY21XXX
+  swift8: TKBCCY21
+  branch_name: Head Office
+  branch_address: Elenion Building 1066 Nicosia (Lefkosia)
+  branch_code: XXX
+  city: Nicosia (Lefkosia)
+  country: Cyprus
+- name: Ts-tristar Imperial, International Credit Institute Cy Ltd
+  swift: TIIRCY21XXX
+  swift8: TIIRCY21
+  branch_name: Head Office
+  branch_address: Akamia Center 6017 Larnaca
+  branch_code: XXX
+  city: Larnaca
+  country: Cyprus
+- name: U.f.g.i.s. Trading Limited
+  swift: UFTRCY21XXX
+  swift8: UFTRCY21
+  branch_name: Head Office
+  branch_address: Karapatakis Building 6030 Larnaca
+  branch_code: XXX
+  city: Larnaca
+  country: Cyprus
+- name: Ubs Advisory Services Limited
+  swift: UBASCY21XXX
+  swift8: UBASCY21
+  branch_name: Head Office
+  branch_address: Elenion Bulding Cy1066 Nicosia (Lefkosia)
+  branch_code: XXX
+  city: Nicosia (Lefkosia)
+  country: Cyprus
+- name: Ucp Securities Limited
+  swift: UCSCCY21XXX
+  swift8: UCSCCY21
+  branch_name: Head Office
+  branch_address: Afentrikas 0000 Larnaca
+  branch_code: XXX
+  city: Larnaca
+  country: Cyprus
+- name: Uprecht Investment Limited
+  swift: UPINCY21XXX
+  swift8: UPINCY21
+  branch_name: Head Office
+  branch_address: Savvides Centre 2012 Nicosia (Lefkosia)
+  branch_code: XXX
+  city: Nicosia (Lefkosia)
+  country: Cyprus
+- name: Veles International Limited
+  swift: VEITCY21XXX
+  swift8: VEITCY21
+  branch_name: Head Office
+  branch_address: City House Building 1066 Nicosia (Lefkosia)
+  branch_code: XXX
+  city: Nicosia (Lefkosia)
+  country: Cyprus
+- name: Windsor Brokers Ltd
+  swift: WIBOCY21XXX
+  swift8: WIBOCY21
+  branch_name: Head Office
+  branch_address: Windsor Business Centre 4004 Limassol (Lemesos)
+  branch_code: XXX
+  city: Limassol (Lemesos)
+  country: Cyprus
+- name: Ws Financial And Investment Services Limited
+  swift: FNISCY21XXX
+  swift8: FNISCY21
+  branch_name: Head Office
+  branch_address: Megaron Lavinia Cy1065 Nicosia (Lefkosia)
+  branch_code: XXX
+  city: Nicosia (Lefkosia)
+  country: Cyprus
+- name: Zerich Securities Limited
+  swift: ZESUCY21XXX
+  swift8: ZESUCY21
+  branch_name: Head Office
+  branch_address: 13-15 I.D.E Ioannou Building 4003 Limassol (Lemesos)
+  branch_code: XXX
+  city: Limassol (Lemesos)
+  country: Cyprus

@@ -1,0 +1,106 @@
+---
+NE:
+- name: Citibank Nigeria Limited
+  swift: NIBANEN1XXX
+  swift8: NIBANEN1
+  branch_name: Head Office
+  branch_address: Immeuble Sonara Ii Niamey
+  branch_code: XXX
+  city: Niamey
+  country: Niger
+- name: Bank Of Africa Niger
+  swift: AFRINENIXXX
+  swift8: AFRINENI
+  branch_name: Head Office
+  branch_address: Immeuble Boa Niamey
+  branch_code: XXX
+  city: Niamey
+  country: Niger
+- name: Banque Agricole Du Niger
+  swift: BANENENIXXX
+  swift8: BANENENI
+  branch_name: Head Office
+  branch_address: Avenue De Loua, Place Toumo Niamey
+  branch_code: XXX
+  city: Niamey
+  country: Niger
+- name: Banque Atlantique Niger
+  swift: ATNENENIXXX
+  swift8: ATNENENI
+  branch_name: Head Office
+  branch_address: Immeuble Atlantique 10616 Niamey
+  branch_code: XXX
+  city: Niamey
+  country: Niger
+- name: Banque Centrale Des Etats De L'afrique Et De L'ouest
+  swift: BCAONENIMAR
+  swift8: BCAONENI
+  branch_name: Maradi Branch
+  branch_address: Maradi
+  branch_code: MAR
+  city: Maradi
+  country: Niger
+- name: Banque Centrale Des Etats De L'afrique Et De L'ouest
+  swift: BCAONENIXXX
+  swift8: BCAONENI
+  branch_name: Head Office
+  branch_address: Rue De Luranium Niamey
+  branch_code: XXX
+  city: Niamey
+  country: Niger
+- name: Banque Centrale Des Etats De L'afrique Et De L'ouest
+  swift: BCAONENIZIN
+  swift8: BCAONENI
+  branch_name: Zinder Branch
+  branch_address: Zinder
+  branch_code: ZIN
+  city: Zinder
+  country: Niger
+- name: Banque Commerciale Du Niger
+  swift: BCDNNENIXXX
+  swift8: BCDNNENI
+  branch_name: Head Office
+  branch_address: Rond Point Maourey 11363 Niamey
+  branch_code: XXX
+  city: Niamey
+  country: Niger
+- name: Banque Commerciale Du Niger S.a.
+  swift: BALNNEN1XXX
+  swift8: BALNNEN1
+  branch_name: Head Office
+  branch_address: Rue Du Combattant Niamey
+  branch_code: XXX
+  city: Niamey
+  country: Niger
+- name: Banque Islamique Du Niger Pour Le Commerce Et L'investissement
+  swift: BICVNENIXXX
+  swift8: BICVNENI
+  branch_name: Head Office
+  branch_address: Immeuble El-Naser 12754 Niamey
+  branch_code: XXX
+  city: Niamey
+  country: Niger
+- name: Depositaire Central-banque De Reglement (dcbr Niger
+  swift: DCRRNEN1XXX
+  swift8: DCRRNEN1
+  branch_name: Head Office
+  branch_address: Place De La Concertation Niamey
+  branch_code: XXX
+  city: Niamey
+  country: Niger
+- name: Ecobank Niger Ecn
+  swift: ECOCNENIXXX
+  swift8: ECOCNENI
+  branch_name: Head Office
+  branch_address: Angle Rue Des Batisseurs, Bld De 13804 Niamey
+  branch_code: XXX
+  city: Niamey
+  country: Niger
+- name: Societe Nigerienne De Banque
+  swift: SOCNNENIXXX
+  swift8: SOCNNENI
+  branch_name: Head Office
+  branch_address: Avenue De La Mairie Niamey
+  branch_code: XXX
+  city: Niamey
+  country: Niger

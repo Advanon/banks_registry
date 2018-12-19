@@ -1,0 +1,402 @@
+---
+ZW:
+- name: Beverley Building Society
+  swift: BVBSZWH1XXX
+  swift8: BVBSZWH1
+  branch_name: Head Office
+  branch_address: Beverley Place Harare
+  branch_code: XXX
+  city: Harare
+  country: Zimbabwe
+- name: African Banking Corp.of Zimbabwe Ltd.
+  swift: FMBZZWHXXXX
+  swift8: FMBZZWHX
+  branch_name: Head Office
+  branch_address: Banc Abc Harare
+  branch_code: XXX
+  city: Harare
+  country: Zimbabwe
+- name: Agricultural Bank Of Zimbabwe Ltd
+  swift: AGRZZWHAXXX
+  swift8: AGRZZWHA
+  branch_name: Head Office
+  branch_address: Hurudza House Harare
+  branch_code: XXX
+  city: Harare
+  country: Zimbabwe
+- name: Barclays Bank Of Zimbabwe
+  swift: BARCZWHXXXX
+  swift8: BARCZWHX
+  branch_name: Head Office
+  branch_address: Kurima House Harare
+  branch_code: XXX
+  city: Harare
+  country: Zimbabwe
+- name: Bard Discount House Limited
+  swift: BDHLZWH1XXX
+  swift8: BDHLZWH1
+  branch_name: Head Office
+  branch_address: Club House Harare
+  branch_code: XXX
+  city: Harare
+  country: Zimbabwe
+- name: Bard Stockbrokers
+  swift: BSTKZWH1XXX
+  swift8: BSTKZWH1
+  branch_name: Head Office
+  branch_address: Bard House Harare
+  branch_code: XXX
+  city: Harare
+  country: Zimbabwe
+- name: Central Africa Building Society
+  swift: CABSZWHAXXX
+  swift8: CABSZWHA
+  branch_name: Head Office
+  branch_address: Cabs Head Office Harare
+  branch_code: XXX
+  city: Harare
+  country: Zimbabwe
+- name: Cfx Merchant Bank Limited
+  swift: CFXBZWH1XXX
+  swift8: CFXBZWH1
+  branch_name: Head Office
+  branch_address: Tendeseka Office Park Harare
+  branch_code: XXX
+  city: Harare
+  country: Zimbabwe
+- name: Cfx Merchant Bank Limited
+  swift: CFXBZWHAXXX
+  swift8: CFXBZWHA
+  branch_name: Head Office
+  branch_address: Tendeseka Office Park Harare
+  branch_code: XXX
+  city: Harare
+  country: Zimbabwe
+- name: Comesa Clearing House
+  swift: COCUZWHAXXX
+  swift8: COCUZWHA
+  branch_name: Head Office
+  branch_address: 4 Purbeck Close Highlands Harare
+  branch_code: XXX
+  city: Harare
+  country: Zimbabwe
+- name: Commercial Bank Of Zimbabwe Limited
+  swift: COBZZWHAXXX
+  swift8: COBZZWHA
+  branch_name: Head Office
+  branch_address: Union House Harare
+  branch_code: XXX
+  city: Harare
+  country: Zimbabwe
+- name: Ecobank Zimbabwe Limited
+  swift: ECOCZWHXXXX
+  swift8: ECOCZWHX
+  branch_name: Head Office
+  branch_address: Sam Levys Office Park Harare
+  branch_code: XXX
+  city: Harare
+  country: Zimbabwe
+- name: Edwards And Company
+  swift: EDCPZWH1XXX
+  swift8: EDCPZWH1
+  branch_name: Head Office
+  branch_address: Club Chambers Harare
+  branch_code: XXX
+  city: Harare
+  country: Zimbabwe
+- name: Fbc Bank Ltd
+  swift: FBCPZWHAXXX
+  swift8: FBCPZWHA
+  branch_name: Head Office
+  branch_address: Fbc Centre Harare
+  branch_code: XXX
+  city: Harare
+  country: Zimbabwe
+- name: Genesis Securities
+  swift: USPTZWH1XXX
+  swift8: USPTZWH1
+  branch_name: Head Office
+  branch_address: Corner House Harare
+  branch_code: XXX
+  city: Harare
+  country: Zimbabwe
+- name: Industrial Development Corporation Of Zimbabwe Limited
+  swift: IDCZZWH1XXX
+  swift8: IDCZZWH1
+  branch_name: Head Office
+  branch_address: 93 Parklane Harare
+  branch_code: XXX
+  city: Harare
+  country: Zimbabwe
+- name: Infrastructure Development Bank Of Zimbabwe Ed
+  swift: ZDBLZWHAXXX
+  swift8: ZDBLZWHA
+  branch_name: Head Office
+  branch_address: Z.D.B. House Harare
+  branch_code: XXX
+  city: Harare
+  country: Zimbabwe
+- name: Intermarket Discount House
+  swift: INDHZWH1XXX
+  swift8: INDHZWH1
+  branch_name: Head Office
+  branch_address: Udc Centre Harare
+  branch_code: XXX
+  city: Harare
+  country: Zimbabwe
+- name: Mast Stockbrokers (pvt) Ltd
+  swift: MSTPZWH1XXX
+  swift8: MSTPZWH1
+  branch_name: Head Office
+  branch_address: Ncr House Harare
+  branch_code: XXX
+  city: Harare
+  country: Zimbabwe
+- name: Mbca Bank Limited
+  swift: MBCAZWHXXXX
+  swift8: MBCAZWHX
+  branch_name: Head Office
+  branch_address: Old Mutual Centre Harare
+  branch_code: XXX
+  city: Harare
+  country: Zimbabwe
+- name: Metropolitan Bank Of Zimbabwe Ltd
+  swift: MBOZZWHAXXX
+  swift8: MBOZZWHA
+  branch_name: Head Office
+  branch_address: Central House Harare
+  branch_code: XXX
+  city: Harare
+  country: Zimbabwe
+- name: Msasa Stockbrokers (pvt) Ltd
+  swift: MSSTZWH1XXX
+  swift8: MSSTZWH1
+  branch_name: Head Office
+  branch_address: Msasa House Harare
+  branch_code: XXX
+  city: Harare
+  country: Zimbabwe
+- name: Nmb Bank Limited
+  swift: NMBLZWHXBYO
+  swift8: NMBLZWHX
+  branch_name: Bulawayo Branch
+  branch_address: Bulawayo
+  branch_code: BYO
+  city: Bulawayo
+  country: Zimbabwe
+- name: Nmb Bank Limited
+  swift: NMBLZWHXXXX
+  swift8: NMBLZWHX
+  branch_name: Head Office
+  branch_address: Unity Court Harare
+  branch_code: XXX
+  city: Harare
+  country: Zimbabwe
+- name: P.t.a. Clearing House
+  swift: PTAHZWH1XXX
+  swift8: PTAHZWH1
+  branch_name: Head Office
+  branch_address: 101 Union Avenue Harare
+  branch_code: XXX
+  city: Harare
+  country: Zimbabwe
+- name: People's Own Savings Bank
+  swift: PWSBZWHXXXX
+  swift8: PWSBZWHX
+  branch_name: Head Office
+  branch_address: Causeway Harare
+  branch_code: XXX
+  city: Harare
+  country: Zimbabwe
+- name: Premier Banking Corporation Ltd.
+  swift: PRDHZWH1XXX
+  swift8: PRDHZWH1
+  branch_name: Head Office
+  branch_address: Block a Harare
+  branch_code: XXX
+  city: Harare
+  country: Zimbabwe
+- name: Renaissance Securities (private) Limited
+  swift: BSPVZWH1XXX
+  swift8: BSPVZWH1
+  branch_name: Head Office
+  branch_address: Social Security Centre Harare
+  branch_code: XXX
+  city: Harare
+  country: Zimbabwe
+- name: Reserve Bank Of Zimbabwe
+  swift: REBZZWHQXXX
+  swift8: REBZZWHQ
+  branch_name: Head Office
+  branch_address: 80 Samora Machel Avenue Harare
+  branch_code: XXX
+  city: Harare
+  country: Zimbabwe
+- name: Reserve Bank Of Zimbabwe
+  swift: REBZZWHXPCH
+  swift8: REBZZWHX
+  branch_name: Harare
+  branch_address: 80 Samora Machel Avenue Harare
+  branch_code: PCH
+  city: Harare
+  country: Zimbabwe
+- name: Reserve Bank Of Zimbabwe
+  swift: REBZZWHXXXX
+  swift8: REBZZWHX
+  branch_name: Head Office
+  branch_address: 76 Samora Machel Avenue Harare
+  branch_code: XXX
+  city: Harare
+  country: Zimbabwe
+- name: Sagit Stockbrokers (private) Limited
+  swift: SAGSZWH1XXX
+  swift8: SAGSZWH1
+  branch_name: Head Office
+  branch_address: Southampton Life Centre Harare
+  branch_code: XXX
+  city: Harare
+  country: Zimbabwe
+- name: Scotfin Limited
+  swift: SCLIZWH102B
+  swift8: SCLIZWH1
+  branch_name: Bulawayo
+  branch_address: Old Mutual Center Bulawayo
+  branch_code: 02B
+  city: Bulawayo
+  country: Zimbabwe
+- name: Scotfin Limited
+  swift: SCLIZWH102C
+  swift8: SCLIZWH1
+  branch_name: Chinhoyi
+  branch_address: Chinhoyi
+  branch_code: 02C
+  city: Chinhoyi
+  country: Zimbabwe
+- name: Scotfin Limited
+  swift: SCLIZWH102G
+  swift8: SCLIZWH1
+  branch_name: Gweru
+  branch_address: Gweru
+  branch_code: 02G
+  city: Gweru
+  country: Zimbabwe
+- name: Scotfin Limited
+  swift: SCLIZWH102M
+  swift8: SCLIZWH1
+  branch_name: Mutare
+  branch_address: Mutare
+  branch_code: 02M
+  city: Mutare
+  country: Zimbabwe
+- name: Scotfin Limited
+  swift: SCLIZWH1XXX
+  swift8: SCLIZWH1
+  branch_name: Head Office
+  branch_address: Zb House Harare
+  branch_code: XXX
+  city: Harare
+  country: Zimbabwe
+- name: Stanbic Bank Zimbabwe Limited
+  swift: SBICZWH102B
+  swift8: SBICZWH1
+  branch_name: Bulawayo
+  branch_address: Bulawayo
+  branch_code: 02B
+  city: Bulawayo
+  country: Zimbabwe
+- name: Stanbic Bank Zimbabwe Limited
+  swift: SBICZWH102G
+  swift8: SBICZWH1
+  branch_name: Gweru
+  branch_address: Gweru
+  branch_code: 02G
+  city: Gweru
+  country: Zimbabwe
+- name: Stanbic Bank Zimbabwe Limited
+  swift: SBICZWHXXXX
+  swift8: SBICZWHX
+  branch_name: Head Office
+  branch_address: Ottoman House Harare
+  branch_code: XXX
+  city: Harare
+  country: Zimbabwe
+- name: Standard Chartered Bank Zimbabwe Limited
+  swift: SCBLZWHXSSU
+  swift8: SCBLZWHX
+  branch_name: Securities Services Unit
+  branch_address: Harare
+  branch_code: SSU
+  city: Harare
+  country: Zimbabwe
+- name: Standard Chartered Bank Zimbabwe Limited
+  swift: SCBLZWHXXXX
+  swift8: SCBLZWHX
+  branch_name: Head Office
+  branch_address: 38 Speke Avenue Harare
+  branch_code: XXX
+  city: Harare
+  country: Zimbabwe
+- name: Steward Bank Limited
+  swift: STBLZWHXXXX
+  swift8: STBLZWHX
+  branch_name: No branch name
+  branch_address: No branch address
+  branch_code: XXX
+  city: Harare
+  country: Zimbabwe
+- name: Tetrad Investment Bank Limited
+  swift: TTSLZWHXXXX
+  swift8: TTSLZWHX
+  branch_name: Head Office
+  branch_address: Arundel Office Park 263 Harare
+  branch_code: XXX
+  city: Harare
+  country: Zimbabwe
+- name: The Discount Company Of Zimbabwe Limited
+  swift: DCZWZWH1XXX
+  swift8: DCZWZWH1
+  branch_name: Head Office
+  branch_address: 70 Parklane Harare
+  branch_code: XXX
+  city: Harare
+  country: Zimbabwe
+- name: The Tetrad Group
+  swift: TEGRZWH1XXX
+  swift8: TEGRZWH1
+  branch_name: Head Office
+  branch_address: Pegasus House Harare
+  branch_code: XXX
+  city: Harare
+  country: Zimbabwe
+- name: Trust Corporate Securities (private) Limited
+  swift: TCSPZWH1XXX
+  swift8: TCSPZWH1
+  branch_name: Head Office
+  branch_address: Livingstone House Harare
+  branch_code: XXX
+  city: Harare
+  country: Zimbabwe
+- name: Zimbabwe Banking Corporation Ltd.
+  swift: ZBCOZWHXBYO
+  swift8: ZBCOZWHX
+  branch_name: Bulawayo
+  branch_address: Bulawayo
+  branch_code: BYO
+  city: Bulawayo
+  country: Zimbabwe
+- name: Zimbabwe Banking Corporation Ltd.
+  swift: ZBCOZWHXXXX
+  swift8: ZBCOZWHX
+  branch_name: Head Office
+  branch_address: Corner First Street and Speke Harare
+  branch_code: XXX
+  city: Harare
+  country: Zimbabwe
+- name: Zimbabwe Stock Exchange
+  swift: XZIMZWH1XXX
+  swift8: XZIMZWH1
+  branch_name: Head Office
+  branch_address: Chiyedza House Harare
+  branch_code: XXX
+  city: Harare
+  country: Zimbabwe

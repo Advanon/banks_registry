@@ -1,0 +1,482 @@
+---
+GT:
+- name: Banco Metropolitano S.a.
+  swift: BMETGTG1XXX
+  swift8: BMETGTG1
+  branch_name: Head Office
+  branch_address: 5a Avenida 8-24, Zona 1 Guatemala
+  branch_code: XXX
+  city: Guatemala
+  country: Guatemala
+- name: Banco Centroamericano De Integracion Economica
+  swift: BCIEGTG1XXX
+  swift8: BCIEGTG1
+  branch_name: Head Office
+  branch_address: 16 Calle 7-44 Guatemala
+  branch_code: XXX
+  city: Guatemala
+  country: Guatemala
+- name: Banco Promerica, S.a.
+  swift: BPRCGTGCXXX
+  swift8: BPRCGTGC
+  branch_name: Head Office
+  branch_address: Oficina Principal 009 Guatemala
+  branch_code: XXX
+  city: Guatemala
+  country: Guatemala
+- name: Banco Promerica, S.a.
+  swift: BPRKGTG1XXX
+  swift8: BPRKGTG1
+  branch_name: Head Office
+  branch_address: Oficina Principal 009 Guatemala
+  branch_code: XXX
+  city: Guatemala
+  country: Guatemala
+- name: Banco Agromercantil De Guatemala, S.a.
+  swift: AGROGTGCXXX
+  swift8: AGROGTGC
+  branch_name: Head Office
+  branch_address: 7 Ave. 7-30 01009 Guatemala
+  branch_code: XXX
+  city: Guatemala
+  country: Guatemala
+- name: Banco America Central
+  swift: AMCNGTG1XXX
+  swift8: AMCNGTG1
+  branch_name: Head Office
+  branch_address: Coe 01012 Guatemala
+  branch_code: XXX
+  city: Guatemala
+  country: Guatemala
+- name: Banco America Central Sociedad Anonima
+  swift: AMCNGTGTXXX
+  swift8: AMCNGTGT
+  branch_name: Head Office
+  branch_address: 38-39 Avenida Petapa Zona 12 01012 Guatemala
+  branch_code: XXX
+  city: Guatemala
+  country: Guatemala
+- name: Banco Americano, S.a
+  swift: AMRIGTG1XXX
+  swift8: AMRIGTG1
+  branch_name: Head Office
+  branch_address: 11 Calle 7-44 Guatemala
+  branch_code: XXX
+  city: Guatemala
+  country: Guatemala
+- name: Banco Azteca De Guatemala
+  swift: AZTKGTGCXXX
+  swift8: AZTKGTGC
+  branch_name: Head Office
+  branch_address: Plaza Panamericana 01009 Guatemala
+  branch_code: XXX
+  city: Guatemala
+  country: Guatemala
+- name: Banco Citibank De Guatemala, S.a.
+  swift: CITBGTGCXXX
+  swift8: CITBGTGC
+  branch_name: No branch name
+  branch_address: No branch address
+  branch_code: XXX
+  city: Guatemala
+  country: Guatemala
+- name: Banco Corporativo, S.a.
+  swift: COPVGTG1XXX
+  swift8: COPVGTG1
+  branch_name: Head Office
+  branch_address: 6a Avenida 4-38 Guatemala
+  branch_code: XXX
+  city: Guatemala
+  country: Guatemala
+- name: Banco De Antigua, S A
+  swift: ANTGGTG1XXX
+  swift8: ANTGGTG1
+  branch_name: Head Office
+  branch_address: Edificio Banco De Antigua Guatemala
+  branch_code: XXX
+  city: Guatemala
+  country: Guatemala
+- name: Banco De Comercio S.a.
+  swift: CMMEGTG1XXX
+  swift8: CMMEGTG1
+  branch_name: Head Office
+  branch_address: 6a Avenida 8-00 Zona 9 Guatemala
+  branch_code: XXX
+  city: Guatemala
+  country: Guatemala
+- name: Banco De Credito, S.a.
+  swift: BDCTGTGTXXX
+  swift8: BDCTGTGT
+  branch_name: Head Office
+  branch_address: Bancredit, S.A. 01010 Guatemala
+  branch_code: XXX
+  city: Guatemala
+  country: Guatemala
+- name: Banco De Guatemala
+  swift: BAGUGTGBXXX
+  swift8: BAGUGTGB
+  branch_name: Head Office
+  branch_address: Banco De Guatemala 01001 Guatemala
+  branch_code: XXX
+  city: Guatemala
+  country: Guatemala
+- name: Banco De Guatemala
+  swift: BAGUGTGCXXX
+  swift8: BAGUGTGC
+  branch_name: Head Office
+  branch_address: 7a Avenida 22-01 01001 Guatemala
+  branch_code: XXX
+  city: Guatemala
+  country: Guatemala
+- name: Banco De La Republica S.a.
+  swift: REBLGTG1XXX
+  swift8: REBLGTG1
+  branch_name: Head Office
+  branch_address: Edificio Plaza La Republica Guatemala
+  branch_code: XXX
+  city: Guatemala
+  country: Guatemala
+- name: Banco De Los Trabajadores
+  swift: TRAJGTGCXXX
+  swift8: TRAJGTGC
+  branch_name: Head Office
+  branch_address: Torre Financiera 01009 Guatemala
+  branch_code: XXX
+  city: Guatemala
+  country: Guatemala
+- name: Banco Del Ejercito S.a.
+  swift: BAEJGTG10G2
+  swift8: BAEJGTG1
+  branch_name: Agencia Roosevelt
+  branch_address: Comercial Selectas Guatemala
+  branch_code: 0G2
+  city: Guatemala
+  country: Guatemala
+- name: Banco Del Ejercito S.a.
+  swift: BAEJGTG10G3
+  swift8: BAEJGTG1
+  branch_name: Agencia Aguilar Batres
+  branch_address: Calzada Aguilar Batres 30-07 Guatemala
+  branch_code: 0G3
+  city: Guatemala
+  country: Guatemala
+- name: Banco Del Ejercito S.a.
+  swift: BAEJGTG10G4
+  swift8: BAEJGTG1
+  branch_name: Agencia Geminis 10
+  branch_address: Edificio Geminis 10 Guatemala
+  branch_code: 0G4
+  city: Guatemala
+  country: Guatemala
+- name: Banco Del Ejercito S.a.
+  swift: BAEJGTG10G5
+  swift8: BAEJGTG1
+  branch_name: Agencia Quezaltenango
+  branch_address: 7a Avenida 1-89 Quezaltenango
+  branch_code: 0G5
+  city: Quezaltenango
+  country: Guatemala
+- name: Banco Del Ejercito S.a.
+  swift: BAEJGTG10G6
+  swift8: BAEJGTG1
+  branch_name: Agencia Chichicastenango
+  branch_address: Calle Principal Chichicastenango
+  branch_code: 0G6
+  city: Chichicastenango
+  country: Guatemala
+- name: Banco Del Ejercito S.a.
+  swift: BAEJGTG10G7
+  swift8: BAEJGTG1
+  branch_name: Agencia Esquipulas
+  branch_address: 2a Avenida 11-56 Esquipulas
+  branch_code: 0G7
+  city: Esquipulas
+  country: Guatemala
+- name: Banco Del Ejercito S.a.
+  swift: BAEJGTG10G8
+  swift8: BAEJGTG1
+  branch_name: Agencia Gualan Zacapa
+  branch_address: Barrio Las Flores Gualan Zacapa
+  branch_code: 0G8
+  city: Gualan Zacapa
+  country: Guatemala
+- name: Banco Del Ejercito S.a.
+  swift: BAEJGTG10GA
+  swift8: BAEJGTG1
+  branch_name: Agencia Coban
+  branch_address: 2a Avenida 1-47 Coban
+  branch_code: 0GA
+  city: Coban
+  country: Guatemala
+- name: Banco Del Ejercito S.a.
+  swift: BAEJGTG1XXX
+  swift8: BAEJGTG1
+  branch_name: Agencia El Patio
+  branch_address: Edificio El Patio Guatemala
+  branch_code: XXX
+  city: Guatemala
+  country: Guatemala
+- name: Banco Ficohsa Guatemala
+  swift: FCOHGTGCXXX
+  swift8: FCOHGTGC
+  branch_name: Head Office
+  branch_address: 7-44 Zona 9 , 11 Calle 01009 Guatemala
+  branch_code: XXX
+  city: Guatemala
+  country: Guatemala
+- name: Banco G And T Continental, S.a.
+  swift: GTCOGTGCXXX
+  swift8: GTCOGTGC
+  branch_name: Head Office
+  branch_address: 6th Avenue 9-08 10009 Guatemala
+  branch_code: XXX
+  city: Guatemala
+  country: Guatemala
+- name: Banco Industrial, S.a.
+  swift: INDLGTGCXXX
+  swift8: INDLGTGC
+  branch_name: Head Office
+  branch_address: Centro Financiero 01901 Guatemala
+  branch_code: XXX
+  city: Guatemala
+  country: Guatemala
+- name: Banco Inmobiliario, S.a.
+  swift: BINMGTGCXXX
+  swift8: BINMGTGC
+  branch_name: Head Office
+  branch_address: Edificio Galerias Espana. 01009 Guatemala
+  branch_code: XXX
+  city: Guatemala
+  country: Guatemala
+- name: Banco Internacional, S.a.
+  swift: DIBIGTGCXXX
+  swift8: DIBIGTGC
+  branch_name: Head Office
+  branch_address: Torre Internacional 01010 Guatemala
+  branch_code: XXX
+  city: Guatemala
+  country: Guatemala
+- name: Banco Nacional De La Vivienda
+  swift: BNVIGTG1XXX
+  swift8: BNVIGTG1
+  branch_name: Head Office
+  branch_address: 6a Avenida 1-22 Guatemala
+  branch_code: XXX
+  city: Guatemala
+  country: Guatemala
+- name: Banco Reformador, S.a.
+  swift: CTRCGTGCXXX
+  swift8: CTRCGTGC
+  branch_name: Head Office
+  branch_address: 7 Avenida 7-24 01009 Guatemala
+  branch_code: XXX
+  city: Guatemala
+  country: Guatemala
+- name: Banco Sci S. A.
+  swift: CIICGTG1XXX
+  swift8: CIICGTG1
+  branch_name: Head Office
+  branch_address: Edificio Sci Centre Guatemala
+  branch_code: XXX
+  city: Guatemala
+  country: Guatemala
+- name: Banrural S.a.
+  swift: BRRLGTGCXXX
+  swift8: BRRLGTGC
+  branch_name: Head Office
+  branch_address: Avenida La Reforma 2-56 Zona 9 Guatemala
+  branch_code: XXX
+  city: Guatemala
+  country: Guatemala
+- name: Bolsa De Valores Nacional Sa
+  swift: XGTGGTG1XXX
+  swift8: XGTGGTG1
+  branch_name: Head Office
+  branch_address: Centro Financiere Tore Ii Nive Guatemala
+  branch_code: XXX
+  city: Guatemala
+  country: Guatemala
+- name: Central De Valores Nacional, S.a.
+  swift: CEVIGTG1XXX
+  swift8: CEVIGTG1
+  branch_name: Head Office
+  branch_address: Centro Financiero 01004 Guatemala
+  branch_code: XXX
+  city: Guatemala
+  country: Guatemala
+- name: Citibank N.a. Guatemala
+  swift: CITIGTGCXXX
+  swift8: CITIGTGC
+  branch_name: Head Office
+  branch_address: Torre Citibank Guatemala
+  branch_code: XXX
+  city: Guatemala
+  country: Guatemala
+- name: Corporacion Bursatil Sa
+  swift: CORRGTG1XXX
+  swift8: CORRGTG1
+  branch_name: Head Office
+  branch_address: 4ta Calle 6-55 01009 Guatemala
+  branch_code: XXX
+  city: Guatemala
+  country: Guatemala
+- name: El Credito Hipotecario Nacional De Guatemala
+  swift: CHNAGTGCXXX
+  swift8: CHNAGTGC
+  branch_name: Head Office
+  branch_address: 1er. Nivel Edificio El Credito 1000 Guatemala
+  branch_code: XXX
+  city: Guatemala
+  country: Guatemala
+- name: El Credito Hipotecario Nacional De Guatemala
+  swift: CHNAGTG1XXX
+  swift8: CHNAGTG1
+  branch_name: Head Office
+  branch_address: 1er. Nivel Edificio El Credito 1000 Guatemala
+  branch_code: XXX
+  city: Guatemala
+  country: Guatemala
+- name: Financiera Agromercantil S.a.
+  swift: FAGOGTG1XXX
+  swift8: FAGOGTG1
+  branch_name: Head Office
+  branch_address: 7a Avenida 7-30 Zona 9 Guatemala
+  branch_code: XXX
+  city: Guatemala
+  country: Guatemala
+- name: Financiera Consolidada, S.a
+  swift: FCOOGTG1XXX
+  swift8: FCOOGTG1
+  branch_name: Head Office
+  branch_address: Edificio Centro Empresarial Guatemala
+  branch_code: XXX
+  city: Guatemala
+  country: Guatemala
+- name: Financiera Corporativa S.a.
+  swift: FCORGTG1XXX
+  swift8: FCORGTG1
+  branch_name: Head Office
+  branch_address: 6a Avenida 4-38 Zona 9 Guatemala
+  branch_code: XXX
+  city: Guatemala
+  country: Guatemala
+- name: Financiera De Capitales, S. A.
+  swift: FIRCGTG1XXX
+  swift8: FIRCGTG1
+  branch_name: Head Office
+  branch_address: Avenida Reforma 9-76 Zona 9 Guatemala
+  branch_code: XXX
+  city: Guatemala
+  country: Guatemala
+- name: Financiera De Credito S.a
+  swift: FCREGTG1XXX
+  swift8: FCREGTG1
+  branch_name: Head Office
+  branch_address: 12 Calle 6-06 Zona 10 Guatemala
+  branch_code: XXX
+  city: Guatemala
+  country: Guatemala
+- name: Financiera De Inversion, S. A.
+  swift: FIVNGTG1XXX
+  swift8: FIVNGTG1
+  branch_name: Head Office
+  branch_address: Edificio Centro Financiero Guatemala
+  branch_code: XXX
+  city: Guatemala
+  country: Guatemala
+- name: Financiera De Occidente, S.a.
+  swift: FIOCGTG1XXX
+  swift8: FIOCGTG1
+  branch_name: Head Office
+  branch_address: Edificio Corporacion De Occidente Guatemala
+  branch_code: XXX
+  city: Guatemala
+  country: Guatemala
+- name: Financiera Del Pais S A
+  swift: FNPAGTG1XXX
+  swift8: FNPAGTG1
+  branch_name: Head Office
+  branch_address: Torre Del Pais Guatemala
+  branch_code: XXX
+  city: Guatemala
+  country: Guatemala
+- name: Financiera Guatemalteca S.a.
+  swift: FIGAGTG1XXX
+  swift8: FIGAGTG1
+  branch_name: Head Office
+  branch_address: Avenida Reforma 11-49 Guatemala
+  branch_code: XXX
+  city: Guatemala
+  country: Guatemala
+- name: Financiera Industrial, S.a.
+  swift: FIUDGTG1XXX
+  swift8: FIUDGTG1
+  branch_name: Head Office
+  branch_address: Edificio Centro Financiero Guatemala
+  branch_code: XXX
+  city: Guatemala
+  country: Guatemala
+- name: Financiera Latinoamericana, S. A
+  swift: FILMGTG1XXX
+  swift8: FILMGTG1
+  branch_name: Head Office
+  branch_address: Plaza Panamericana Guatemala
+  branch_code: XXX
+  city: Guatemala
+  country: Guatemala
+- name: Financiera Reforma S.a.
+  swift: FIRFGTG1XXX
+  swift8: FIRFGTG1
+  branch_name: Head Office
+  branch_address: Edificio Banco Reformador Guatemala
+  branch_code: XXX
+  city: Guatemala
+  country: Guatemala
+- name: Financiera San Miguel, S. A
+  swift: FSMCGTG1XXX
+  swift8: FSMCGTG1
+  branch_name: Head Office
+  branch_address: Centro Gerencial Las Margaritas Guatemala
+  branch_code: XXX
+  city: Guatemala
+  country: Guatemala
+- name: Financiera Summa, S.a. Centro Gerencial Las Margaritas
+  swift: FSCGGTG1XXX
+  swift8: FSCGGTG1
+  branch_name: Head Office
+  branch_address: Centro Gerencial Las Margaritas 01010 Guatemala
+  branch_code: XXX
+  city: Guatemala
+  country: Guatemala
+- name: Financiera Uno S.a.
+  swift: FIUNGTG1XXX
+  swift8: FIUNGTG1
+  branch_name: Head Office
+  branch_address: Unicentro Guatemala Guatemala
+  branch_code: XXX
+  city: Guatemala
+  country: Guatemala
+- name: Fitch Centroamerica (guatemala
+  swift: FRIPGTG1XXX
+  swift8: FRIPGTG1
+  branch_name: Head Office
+  branch_address: Torre Citigroup Guatemala
+  branch_code: XXX
+  city: Guatemala
+  country: Guatemala
+- name: Imagenes Computarizadas De Guatemala, S. A.
+  swift: ICGSGTGCXXX
+  swift8: ICGSGTGC
+  branch_name: Head Office
+  branch_address: Edificio Platina 01010 Guatemala
+  branch_code: XXX
+  city: Guatemala
+  country: Guatemala
+- name: Occidente International Corporation
+  swift: OCICGTGCXXX
+  swift8: OCICGTGC
+  branch_name: Head Office
+  branch_address: Edificio Corporacion De Occidente 01009 Guatemala
+  branch_code: XXX
+  city: Guatemala
+  country: Guatemala

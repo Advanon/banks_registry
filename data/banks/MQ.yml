@@ -1,0 +1,82 @@
+---
+MQ:
+- name: Credit Agricole
+  swift: AGRIMQMXLEL
+  swift8: AGRIMQMX
+  branch_name: Le Lamentin
+  branch_address: Le Lamentin
+  branch_code: LEL
+  city: Le Lamentin
+  country: Martinique
+- name: Credit Agricole
+  swift: AGRIMQMXXXX
+  swift8: AGRIMQMX
+  branch_name: Head Office
+  branch_address: 106 Boulevard Du General De Gaulle 97200 Fort De France
+  branch_code: XXX
+  city: Fort De France
+  country: Martinique
+- name: Societe Generale De Banque Aux Antilles
+  swift: SOGEMQM1XXX
+  swift8: SOGEMQM1
+  branch_name: Head Office
+  branch_address: 19-21, Rue De La Liberte Fort De France
+  branch_code: XXX
+  city: Fort De France
+  country: Martinique
+- name: Banque Nationale De Paris Succursale De Fort De France
+  swift: BNPAMQMXXXX
+  swift8: BNPAMQMX
+  branch_name: Head Office
+  branch_address: 72 Avenue Des Caraibes 97200 Fort De France
+  branch_code: XXX
+  city: Fort De France
+  country: Martinique
+- name: C.c.p.b Antille Guyane
+  swift: CCNGMQM1XXX
+  swift8: CCNGMQM1
+  branch_name: Head Office
+  branch_address: Lotissement Bardinet Chateauboeuf 97200 Fort De France
+  branch_code: XXX
+  city: Fort De France
+  country: Martinique
+- name: Caisse Epargne Martinique
+  swift: CAEQMQM1XXX
+  swift8: CAEQMQM1
+  branch_name: Head Office
+  branch_address: Boulevard General De Gaulle 97200 Fort De France
+  branch_code: XXX
+  city: Fort De France
+  country: Martinique
+- name: Caisse Epargne Prevoyance Martinique
+  swift: CERIMQM1XXX
+  swift8: CERIMQM1
+  branch_name: Head Office
+  branch_address: 3 Bld General De Gaulle 97200 Fort De France
+  branch_code: XXX
+  city: Fort De France
+  country: Martinique
+- name: Credit Mutuel-caisse Federale Antilles Guyane
+  swift: CMCIMQM1XXX
+  swift8: CMCIMQM1
+  branch_name: Head Office
+  branch_address: Rue Du Professeur R. Garcin 97200 Fort De France
+  branch_code: XXX
+  city: Fort De France
+  country: Martinique
+- name: Societe Martiniquaise De Fint-somafi
+  swift: SMFSMQM1XXX
+  swift8: SMFSMQM1
+  branch_name: Head Office
+  branch_address: Zone Ind Des Mangles 97232 Le Lamentin
+  branch_code: XXX
+  city: Le Lamentin
+  country: Martinique
+- name: Sofiag
+  swift: SOAIMQM1XXX
+  swift8: SOAIMQM1
+  branch_name: Head Office
+  branch_address: 12 Bld Du General De Gaulle Fort De France
+  branch_code: XXX
+  city: Fort De France
+  country: Martinique

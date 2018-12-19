@@ -1,0 +1,298 @@
+---
+NP:
+- name: Ace Development Bank Limited
+  swift: ACDENPKAXXX
+  swift8: ACDENPKA
+  branch_name: Head Office
+  branch_address: Ace Building 977 Kathmandu
+  branch_code: XXX
+  city: Kathmandu
+  country: Nepal
+- name: Agricultural Development Bank Ltd
+  swift: ADBLNPKAXXX
+  swift8: ADBLNPKA
+  branch_name: Head Office
+  branch_address: Ramshahpath Kathmandu
+  branch_code: XXX
+  city: Kathmandu
+  country: Nepal
+- name: Bank Of Kathmandu Limited
+  swift: BOKLNPKAXXX
+  swift8: BOKLNPKA
+  branch_name: Head Office
+  branch_address: Saurya Sadan 9044 Kathmandu
+  branch_code: XXX
+  city: Kathmandu
+  country: Nepal
+- name: Century Commercial Bank Limited
+  swift: CCBNNPKAXXX
+  swift8: CCBNNPKA
+  branch_name: Head Office
+  branch_address: Century 26100 Kathmandu
+  branch_code: XXX
+  city: Kathmandu
+  country: Nepal
+- name: Citibank N. A.
+  swift: CITINPK1XXX
+  swift8: CITINPK1
+  branch_name: Head Office
+  branch_address: Po Box 2826 Ktm Kathmandu
+  branch_code: XXX
+  city: Kathmandu
+  country: Nepal
+- name: Citizens Bank International Limited
+  swift: CTZNNPKAXXX
+  swift8: CTZNNPKA
+  branch_name: Head Office
+  branch_address: Sharada Sadan Kathmandu
+  branch_code: XXX
+  city: Kathmandu
+  country: Nepal
+- name: Civil Bank Limited
+  swift: CIVLNPKAXXX
+  swift8: CIVLNPKA
+  branch_name: Head Office
+  branch_address: Civil Bank Plaza Kathmandu
+  branch_code: XXX
+  city: Kathmandu
+  country: Nepal
+- name: Everest Bank Ltd.
+  swift: EVBLNPKAXXX
+  swift8: EVBLNPKA
+  branch_name: Head Office
+  branch_address: Ebl House 13384 Kathmandu
+  branch_code: XXX
+  city: Kathmandu
+  country: Nepal
+- name: Global Ime Bank Limited
+  swift: GLBBNPKAXXX
+  swift8: GLBBNPKA
+  branch_name: Head Office
+  branch_address: Adarsha Nagar - 13 Birgunj
+  branch_code: XXX
+  city: Birgunj
+  country: Nepal
+- name: Grand Bank Nepal Limited
+  swift: DCBNNPKAXXX
+  swift8: DCBNNPKA
+  branch_name: Head Office
+  branch_address: Kathmandu Plaza Kathmandu
+  branch_code: XXX
+  city: Kathmandu
+  country: Nepal
+- name: Himalayan Bank Ltd.
+  swift: HIMANPKAXXX
+  swift8: HIMANPKA
+  branch_name: Head Office
+  branch_address: Karmachari Sanchaya Kosh Building Kathmandu
+  branch_code: XXX
+  city: Kathmandu
+  country: Nepal
+- name: Janata Bank Nepal Limited
+  swift: JBNLNPKAXXX
+  swift8: JBNLNPKA
+  branch_name: Head Office
+  branch_address: Gan Building Kathmandu
+  branch_code: XXX
+  city: Kathmandu
+  country: Nepal
+- name: Kasthamandap Development Bank Ltd
+  swift: KDBLNPKAXXX
+  swift8: KDBLNPKA
+  branch_name: Head Office
+  branch_address: Tamrakar Complex 00977 Kathmandu
+  branch_code: XXX
+  city: Kathmandu
+  country: Nepal
+- name: Kumari Bank Ltd
+  swift: KMBLNPKAXXX
+  swift8: KMBLNPKA
+  branch_name: Head Office
+  branch_address: Govinda Bhawan 21128 Kathmandu
+  branch_code: XXX
+  city: Kathmandu
+  country: Nepal
+- name: Laxmi Bank Limited
+  swift: LXBLNPKAXXX
+  swift8: LXBLNPKA
+  branch_name: Head Office
+  branch_address: Kathmandu
+  branch_code: XXX
+  city: Kathmandu
+  country: Nepal
+- name: Lumbini Bank Limited
+  swift: LUBLNPKAXXX
+  swift8: LUBLNPKA
+  branch_name: Head Office
+  branch_address: Corporate Office Kathmandu
+  branch_code: XXX
+  city: Kathmandu
+  country: Nepal
+- name: Machhapuchchhre Bank Limited
+  swift: MBLNNPKAXXX
+  swift8: MBLNNPKA
+  branch_name: Head Office
+  branch_address: Ramshah Path Kathmandu
+  branch_code: XXX
+  city: Kathmandu
+  country: Nepal
+- name: Mega Bank Nepal Limited
+  swift: MBNLNPKAXXX
+  swift8: MBNLNPKA
+  branch_name: Head Office
+  branch_address: Mega Mahal Kathmandu
+  branch_code: XXX
+  city: Kathmandu
+  country: Nepal
+- name: Nabil Bank Limited
+  swift: NARBNPKAXXX
+  swift8: NARBNPKA
+  branch_name: Head Office
+  branch_address: Nabil House Kathmandu
+  branch_code: XXX
+  city: Kathmandu
+  country: Nepal
+- name: Nepal Bangladesh Bank Limited
+  swift: NPBBNPKAXXX
+  swift8: NPBBNPKA
+  branch_name: Head Office
+  branch_address: Bijuli Bazar, New Baneswor Kathmandu
+  branch_code: XXX
+  city: Kathmandu
+  country: Nepal
+- name: Nepal Bank Limited
+  swift: NEBLNPKAXXX
+  swift8: NEBLNPKA
+  branch_name: Head Office
+  branch_address: Nepal Bank Limited Building Kathmandu
+  branch_code: XXX
+  city: Kathmandu
+  country: Nepal
+- name: Nepal Credit And Commerce Bank Ltd.
+  swift: NBOCNPKANRD
+  swift8: NBOCNPKA
+  branch_name: New Road Branch
+  branch_address: Joshi Complex 12559 Kathmandu
+  branch_code: NRD
+  city: Kathmandu
+  country: Nepal
+- name: Nepal Credit And Commerce Bank Ltd.
+  swift: NBOCNPKAXXX
+  swift8: NBOCNPKA
+  branch_name: Head Office
+  branch_address: Bagbazar 12559 Kathmandu
+  branch_code: XXX
+  city: Kathmandu
+  country: Nepal
+- name: Nepal Investment Bank Ltd.
+  swift: NIBLNPKTXXX
+  swift8: NIBLNPKT
+  branch_name: Head Office
+  branch_address: Durbar Marg 3412 Kathmandu
+  branch_code: XXX
+  city: Kathmandu
+  country: Nepal
+- name: Nepal Rastra Bank
+  swift: NRBLNPKAFED
+  swift8: NRBLNPKA
+  branch_name: Foreign Exchange Department
+  branch_address: Lalitniwas Kathmandu
+  branch_code: FED
+  city: Kathmandu
+  country: Nepal
+- name: Nepal Rastra Bank
+  swift: NRBLNPKAXXX
+  swift8: NRBLNPKA
+  branch_name: Head Office
+  branch_address: Kathmandu Banking Office 1055 Kathmandu
+  branch_code: XXX
+  city: Kathmandu
+  country: Nepal
+- name: Nepal Sbi Bank Ltd., Kathmandu
+  swift: NSBINPKA001
+  swift8: NSBINPKA
+  branch_name: Birgunj Branch
+  branch_address: Kathmandu
+  branch_code: '001'
+  city: Kathmandu
+  country: Nepal
+- name: Nepal Sbi Bank Ltd., Kathmandu
+  swift: NSBINPKAXXX
+  swift8: NSBINPKA
+  branch_name: Head Office
+  branch_address: Corporate Office 6049 Kathmandu
+  branch_code: XXX
+  city: Kathmandu
+  country: Nepal
+- name: Nic Asia Bank Limited
+  swift: NICENPKAXXX
+  swift8: NICENPKA
+  branch_name: Head Office
+  branch_address: Trade Tower Nepal 7367 Kathmandu
+  branch_code: XXX
+  city: Kathmandu
+  country: Nepal
+- name: Nmb Bank Ltd
+  swift: NMBBNPKAXXX
+  swift8: NMBBNPKA
+  branch_name: Head Office
+  branch_address: Nmb Bhawan 11543 Kathmandu
+  branch_code: XXX
+  city: Kathmandu
+  country: Nepal
+- name: Prime Commercial Bank Ltd
+  swift: PCBLNPKAXXX
+  swift8: PCBLNPKA
+  branch_name: Head Office
+  branch_address: Bira Complex Kathmandu
+  branch_code: XXX
+  city: Kathmandu
+  country: Nepal
+- name: Rastriya Banijya Bank
+  swift: RBBANPKAXXX
+  swift8: RBBANPKA
+  branch_name: Head Office
+  branch_address: R.B. Bank Building Kathmandu
+  branch_code: XXX
+  city: Kathmandu
+  country: Nepal
+- name: Sanima Bank Limited
+  swift: SNMANPKAXXX
+  swift8: SNMANPKA
+  branch_name: Head Office
+  branch_address: Alakapuri 977 Kathmandu
+  branch_code: XXX
+  city: Kathmandu
+  country: Nepal
+- name: Siddhartha Bank Limited
+  swift: SIDDNPKAXXX
+  swift8: SIDDNPKA
+  branch_name: Head Office
+  branch_address: 130/23, Teen Dhara Road, Kamaladi Kathmandu
+  branch_code: XXX
+  city: Kathmandu
+  country: Nepal
+- name: Standard Chartered Bank Nepal Limited
+  swift: SCBLNPKAXXX
+  swift8: SCBLNPKA
+  branch_name: Head Office
+  branch_address: Grindlays Bhawan Kathmandu
+  branch_code: XXX
+  city: Kathmandu
+  country: Nepal
+- name: Sunrise Bank Limited
+  swift: SRBLNPKAXXX
+  swift8: SRBLNPKA
+  branch_name: Head Office
+  branch_address: Gairidhara Crossing Kathmandu
+  branch_code: XXX
+  city: Kathmandu
+  country: Nepal
+- name: Tourism Development Bank Ltd.
+  swift: TDBLNPKAXXX
+  swift8: TDBLNPKA
+  branch_name: Head Office
+  branch_address: Saraswati Sadan 23500 Kathmandu
+  branch_code: XXX
+  city: Kathmandu
+  country: Nepal

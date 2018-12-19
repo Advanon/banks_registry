@@ -1,0 +1,202 @@
+---
+MZ:
+- name: African Banking Corporation (mozambique) Sarl
+  swift: FMBZMZMXXXX
+  swift8: FMBZMZMX
+  branch_name: Head Office
+  branch_address: Predio 33 Andares 1445 Maputo
+  branch_code: XXX
+  city: Maputo
+  country: Mozambique
+- name: Banco Comercial E De Investimentos Sarl
+  swift: CGDIMZMAXXX
+  swift8: CGDIMZMA
+  branch_name: Head Office
+  branch_address: Predio John Orrs Maputo
+  branch_code: XXX
+  city: Maputo
+  country: Mozambique
+- name: Banco De Mocambique
+  swift: BMOCMZM10MB
+  swift8: BMOCMZM1
+  branch_name: Beira
+  branch_address: Beira
+  branch_code: 0MB
+  city: Beira
+  country: Mozambique
+- name: Banco De Mocambique
+  swift: BMOCMZM10MN
+  swift8: BMOCMZM1
+  branch_name: Nampula
+  branch_address: Nampula
+  branch_code: 0MN
+  city: Nampula
+  country: Mozambique
+- name: Banco De Mocambique
+  swift: BMOCMZMAXXX
+  swift8: BMOCMZMA
+  branch_name: Head Office
+  branch_address: Avenue 25 De Setembro 1695 Maputo
+  branch_code: XXX
+  city: Maputo
+  country: Mozambique
+- name: Banco Internacional De Mocambique, S.a
+  swift: BIMOMZMXFIN
+  swift8: BIMOMZMX
+  branch_name: Direccao Financeira
+  branch_address: Maputo
+  branch_code: FIN
+  city: Maputo
+  country: Mozambique
+- name: Banco Internacional De Mocambique, S.a
+  swift: BIMOMZMXINT
+  swift8: BIMOMZMX
+  branch_name: Direccao Internacional
+  branch_address: Maputo
+  branch_code: INT
+  city: Maputo
+  country: Mozambique
+- name: Banco Internacional De Mocambique, S.a
+  swift: BIMOMZMXXXX
+  swift8: BIMOMZMX
+  branch_name: Head Office
+  branch_address: Head Office (Millennium Bim) Maputo
+  branch_code: XXX
+  city: Maputo
+  country: Mozambique
+- name: Banco Mercantil E De Investimentos
+  swift: MERVMZMAXXX
+  swift8: MERVMZMA
+  branch_name: Head Office
+  branch_address: Inss Building Maputo
+  branch_code: XXX
+  city: Maputo
+  country: Mozambique
+- name: Banco Nacional De Investimento, Sa
+  swift: BNIMMZMPXXX
+  swift8: BNIMMZMP
+  branch_name: Head Office
+  branch_address: Rua De Mukumbura 373 Maputo
+  branch_code: XXX
+  city: Maputo
+  country: Mozambique
+- name: Banco Portugues Atlantico
+  swift: ILBKMZM1XXX
+  swift8: ILBKMZM1
+  branch_name: Head Office
+  branch_address: Maputo
+  branch_code: XXX
+  city: Maputo
+  country: Mozambique
+- name: Banco Terra, Sa
+  swift: TERRMZMAXXX
+  swift8: TERRMZMA
+  branch_name: Head Office
+  branch_address: Edificio Sede Maputo
+  branch_code: XXX
+  city: Maputo
+  country: Mozambique
+- name: Banco Unico, Sa
+  swift: UNICMZMXXXX
+  swift8: UNICMZMX
+  branch_name: Head Office
+  branch_address: Avenue Julius Nyerere 3412 Maputo
+  branch_code: XXX
+  city: Maputo
+  country: Mozambique
+- name: Barclays Bank Mocambique, S.a.
+  swift: ABMZMZM10MB
+  swift8: ABMZMZM1
+  branch_name: Beira
+  branch_address: Beira
+  branch_code: 0MB
+  city: Beira
+  country: Mozambique
+- name: Barclays Bank Mocambique, S.a.
+  swift: ABMZMZM10MN
+  swift8: ABMZMZM1
+  branch_name: Nampula
+  branch_address: Nampula
+  branch_code: 0MN
+  city: Nampula
+  country: Mozambique
+- name: Barclays Bank Mocambique, S.a.
+  swift: ABMZMZMAXXX
+  swift8: ABMZMZMA
+  branch_name: Head Office
+  branch_address: Avenida 25 De Setembro 1184 Maputo
+  branch_code: XXX
+  city: Maputo
+  country: Mozambique
+- name: Credicoop
+  swift: CRECMZM1XXX
+  swift8: CRECMZM1
+  branch_name: Head Office
+  branch_address: Maputo
+  branch_code: XXX
+  city: Maputo
+  country: Mozambique
+- name: Fnb Mozambique,sa
+  swift: FIRNMZMXXXX
+  swift8: FIRNMZMX
+  branch_name: Head Office
+  branch_address: Jat Maputo
+  branch_code: XXX
+  city: Maputo
+  country: Mozambique
+- name: Icb-banco Internacional De Comercio, S.a.r.l.
+  swift: IBICMZMAXXX
+  swift8: IBICMZMA
+  branch_name: Head Office
+  branch_address: 25 De Setembro Avenue, 1915 Maputo
+  branch_code: XXX
+  city: Maputo
+  country: Mozambique
+- name: Moza Banco Sa
+  swift: MOZAMZMAXXX
+  swift8: MOZAMZMA
+  branch_name: Head Office
+  branch_address: Av. Kwame Nkrumah 97 Maputo
+  branch_code: XXX
+  city: Maputo
+  country: Mozambique
+- name: Standard Bank Sarl
+  swift: SBICMZM10MB
+  swift8: SBICMZM1
+  branch_name: Beira
+  branch_address: Largo Dr. Agaujo Lacerda 14 Beira
+  branch_code: 0MB
+  city: Beira
+  country: Mozambique
+- name: Standard Bank Sarl
+  swift: SBICMZM10MN
+  swift8: SBICMZM1
+  branch_name: Nampula
+  branch_address: Avenida E. Mondlane 3 Nampula
+  branch_code: 0MN
+  city: Nampula
+  country: Mozambique
+- name: Standard Bank Sarl
+  swift: SBICMZMXXXX
+  swift8: SBICMZMX
+  branch_name: Head Office
+  branch_address: Praca 25 De Junho 1 1119 Maputo
+  branch_code: XXX
+  city: Maputo
+  country: Mozambique
+- name: The Mauritius Commercial Bank (mocambique) S.a.
+  swift: MCBLMZMAXXX
+  swift8: MCBLMZMA
+  branch_name: Head Office
+  branch_address: Ave. Friedrich Engels No. 400 Maputo
+  branch_code: XXX
+  city: Maputo
+  country: Mozambique
+- name: Uba Mocambique,sa
+  swift: UNAFMZMAXXX
+  swift8: UNAFMZMA
+  branch_name: Head Office
+  branch_address: Praca 16 De Junho 843008207 Maputo
+  branch_code: XXX
+  city: Maputo
+  country: Mozambique

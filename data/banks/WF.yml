@@ -1,0 +1,26 @@
+---
+WF:
+- name: Banque De Wallis Et Futuna Sa
+  swift: WAFTWF21XXX
+  swift8: WAFTWF21
+  branch_name: Head Office
+  branch_address: Route De Kafi Ka 98600 Mata Utu
+  branch_code: XXX
+  city: Mata
+  country: Wallis and Futuna
+- name: Ieom Mata Utu
+  swift: INDDWF21XXX
+  swift8: INDDWF21
+  branch_name: Head Office
+  branch_address: Uvea 98600 Mata Utu
+  branch_code: XXX
+  city: Mata Utu
+  country: Wallis and Futuna
+- name: Tresor Public Uvea Mata Utu
+  swift: TRPUWF21XXX
+  swift8: TRPUWF21
+  branch_name: No branch name
+  branch_address: No branch address
+  branch_code: XXX
+  city: Mata
+  country: Wallis and Futuna

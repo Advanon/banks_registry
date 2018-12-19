@@ -1,0 +1,2908 @@
+---
+MY:
+- name: Affin Bank Berhad
+  swift: PHBMMYKLXXX
+  swift8: PHBMMYKL
+  branch_name: Head Office
+  branch_address: Menara Affin Kuala Lumpur 50200
+  branch_code: XXX
+  city: Kuala Lumpur
+  country: Malaysia
+- name: Affin Islamic Bank Berhad
+  swift: AIBBMYKLXXX
+  swift8: AIBBMYKL
+  branch_name: Head Office
+  branch_address: Menara Affin Kuala Lumpur 50200
+  branch_code: XXX
+  city: Kuala Lumpur
+  country: Malaysia
+- name: Al Rajhi Banking And Investment Corporation (Malaysia) Bhd
+  swift: RJHIMYKLXXX
+  swift8: RJHIMYKL
+  branch_name: Head Office
+  branch_address: Wisma Selangor Dredging Kuala Lumpur 50450
+  branch_code: XXX
+  city: Kuala Lumpur
+  country: Malaysia
+- name: Alliance Bank Malaysia Berhad
+  swift: MFBBMYKLXXX
+  swift8: MFBBMYKL
+  branch_name: Head Office
+  branch_address: Menara Multi-Purpose Kuala Lumpur 50100
+  branch_code: XXX
+  city: Kuala Lumpur
+  country: Malaysia
+- name: Ambank (M) Berhad
+  swift: ARBKMYKLLAB
+  swift8: ARBKMYKL
+  branch_name: Labuan Offshore Branch Licensed Labuan Bank No 080097d
+  branch_address: Labuan
+  branch_code: LAB
+  city: Labuan
+  country: Malaysia
+- name: Ambank (M) Berhad
+  swift: ARBKMYKLXXX
+  swift8: ARBKMYKL
+  branch_name: Head Office
+  branch_address: Bangunan Ambank Group Kuala Lumpur 50200
+  branch_code: XXX
+  city: Kuala Lumpur
+  country: Malaysia
+- name: Aminvestment Bank Berhad (Formerly Known As Ammerchant Bank Berhad)
+  swift: AMMBMYKLXXX
+  swift8: AMMBMYKL
+  branch_name: Head Office
+  branch_address: Bangunan Ambank Group Kuala Lumpur 50200
+  branch_code: XXX
+  city: Kuala Lumpur
+  country: Malaysia
+- name: Amislamic Bank Berhad
+  swift: AISLMYKLXXX
+  swift8: AISLMYKL
+  branch_name: Head Office
+  branch_address: Menara Ambank Kuala Lumpur 50450
+  branch_code: XXX
+  city: Kuala Lumpur
+  country: Malaysia
+- name: Asian Finance Bank Berhad
+  swift: AFBQMYKLXXX
+  swift8: AFBQMYKL
+  branch_name: Head Office
+  branch_address: Kenanga International Kuala Lumpur 50250
+  branch_code: XXX
+  city: Kuala Lumpur
+  country: Malaysia
+- name: Bangkok Bank Berhad
+  swift: BKKBMYKLXXX
+  swift8: BKKBMYKL
+  branch_name: Head Office
+  branch_address: 105 Jalan Tun H.S. Lee Kuala Lumpur 50000
+  branch_code: XXX
+  city: Kuala Lumpur
+  country: Malaysia
+- name: Bank Islam Malaysia Berhad
+  swift: BIMBMYKLXXX
+  swift8: BIMBMYKL
+  branch_name: Head Office
+  branch_address: Menara Bank Islam Kuala Lumpur 50450
+  branch_code: XXX
+  city: Kuala Lumpur
+  country: Malaysia
+- name: Bank Kerjasama Rakyat Malaysia Berhad (Bank Rakyat)
+  swift: BKRMMYKLXXX
+  swift8: BKRMMYKL
+  branch_name: Head Office
+  branch_address: Bangunan Bank Rakyat Kuala Lumpur 50732
+  branch_code: XXX
+  city: Kuala Lumpur
+  country: Malaysia
+- name: Bank Muamalat Malaysia Berhad (6175-W)
+  swift: BMMBMYKLXXX
+  swift8: BMMBMYKL
+  branch_name: Head Office
+  branch_address: Menara Bumiputra Kuala Lumpur 50100
+  branch_code: XXX
+  city: Kuala Lumpur
+  country: Malaysia
+- name: Bank Negara Malaysia
+  swift: BNMAMYKLXXX
+  swift8: BNMAMYKL
+  branch_name: Head Office
+  branch_address: Bank Negara Malaysia Building Kuala Lumpur 50480
+  branch_code: XXX
+  city: Kuala Lumpur
+  country: Malaysia
+- name: Bank Of America, Malaysia Berhad
+  swift: BOFAMY2XLBN
+  swift8: BOFAMY2X
+  branch_name: Labuan
+  branch_address: Main Office Tower Labuan 87000
+  branch_code: LBN
+  city: Labuan
+  country: Malaysia
+- name: Bank Of America, Malaysia Berhad
+  swift: BOFAMY2XGRC
+  swift8: BOFAMY2X
+  branch_name: Kuala Lumpur
+  branch_address: Kuala Lumpur
+  branch_code: GRC
+  city: Kuala Lumpur
+  country: Malaysia
+- name: Bank Of America, Malaysia Berhad
+  swift: BOFAMY2XLMY
+  swift8: BOFAMY2X
+  branch_name: Kuala Lumpur
+  branch_address: Kuala Lumpur
+  branch_code: LMY
+  city: Kuala Lumpur
+  country: Malaysia
+- name: Bank Of America, Malaysia Berhad
+  swift: BOFAMY2XXXX
+  swift8: BOFAMY2X
+  branch_name: Head Office
+  branch_address: Wisma Goldhill Kuala Lumpur 50200
+  branch_code: XXX
+  city: Kuala Lumpur
+  country: Malaysia
+- name: Bank Of China (Malaysia) Berhad
+  swift: BKCHMYKLXXX
+  swift8: BKCHMYKL
+  branch_name: Head Office
+  branch_address: Plaza Osk Kuala Lumpur 50450
+  branch_code: XXX
+  city: Kuala Lumpur
+  country: Malaysia
+- name: Bank Of Nova Scotia Berhad
+  swift: NOSCMYKLXXX
+  swift8: NOSCMYKL
+  branch_name: Head Office
+  branch_address: Menara Boustead Kuala Lumpur 50734
+  branch_code: XXX
+  city: Kuala Lumpur
+  country: Malaysia
+- name: Bank Of Nova Scotia, The
+  swift: NOSCMY2LXXX
+  swift8: NOSCMY2L
+  branch_name: The Labuan Branch
+  branch_address: Financial Park Labuan Labuan 87000
+  branch_code: XXX
+  city: Labuan
+  country: Malaysia
+- name: Bank Of Tokyo-Mitsubishi Ufj (Malaysia) Berhad
+  swift: BOTKMYKXXXX
+  swift8: BOTKMYKX
+  branch_name: Head Office
+  branch_address: Menara Imc Kuala Lumpur 50250
+  branch_code: XXX
+  city: Kuala Lumpur
+  country: Malaysia
+- name: Bank Of Tokyo-Mitsubishi Ufj Ltd., The
+  swift: BOTKMYKAXXX
+  swift8: BOTKMYKA
+  branch_name: Labuan Branch
+  branch_address: Financial Park Labuan Labuan 87000
+  branch_code: XXX
+  city: Labuan
+  country: Malaysia
+- name: Bank Pertanian Malaysia Berhad-Agrobank
+  swift: AGOBMYKLXXX
+  swift8: AGOBMYKL
+  branch_name: Head Office
+  branch_address: Menara Agrobank Kuala Lumpur 50726
+  branch_code: XXX
+  city: Kuala Lumpur
+  country: Malaysia
+- name: Bnp Paribas
+  swift: BNPAMYKAXXX
+  swift8: BNPAMYKA
+  branch_name: Head Office
+  branch_address: Wisma Lazenda Labuan 87000
+  branch_code: XXX
+  city: Labuan
+  country: Malaysia
+- name: Bnp Paribas Malaysia Berhad
+  swift: BNPAMYKLSPI
+  swift8: BNPAMYKL
+  branch_name: Bnppm Islamic Banking Window
+  branch_address: Vista Tower, 48a, the Intermark Kuala Lumpur 50400
+  branch_code: SPI
+  city: Kuala Lumpur
+  country: Malaysia
+- name: Bnp Paribas Malaysia Berhad
+  swift: BNPAMYKLXXX
+  swift8: BNPAMYKL
+  branch_name: Head Office
+  branch_address: Vista Tower Kuala Lumpur 50400
+  branch_code: XXX
+  city: Kuala Lumpur
+  country: Malaysia
+- name: Cimb Bank (L) Limited
+  swift: CIBBMYKAXXX
+  swift8: CIBBMYKA
+  branch_name: Head Office
+  branch_address: Financial Park Labuan Labuan 87000
+  branch_code: XXX
+  city: Labuan
+  country: Malaysia
+- name: Cimb Bank Berhad
+  swift: CIBBMYKLXXX
+  swift8: CIBBMYKL
+  branch_name: Head Office
+  branch_address: Bangunan Cimb Kuala Lumpur 50490
+  branch_code: XXX
+  city: Kuala Lumpur
+  country: Malaysia
+- name: Cimb Bank Berhad
+  swift: CIBBMYKLSBL
+  swift8: CIBBMYKL
+  branch_name: Securities Borrowing and Lending
+  branch_address: Kuala Lumpur
+  branch_code: SBL
+  city: Kuala Lumpur
+  country: Malaysia
+- name: Cimb Bank Berhad, Labuan Offshore Branch
+  swift: CIBBMY2LXXX
+  swift8: CIBBMY2L
+  branch_name: Head Office
+  branch_address: Main Office Tower Labuan 87000
+  branch_code: XXX
+  city: Labuan
+  country: Malaysia
+- name: Cimb Investment Bank Berhad
+  swift: COIMMYKLXXX
+  swift8: COIMMYKL
+  branch_name: Head Office
+  branch_address: Bangunan Cimb Kuala Lumpur 50490
+  branch_code: XXX
+  city: Kuala Lumpur
+  country: Malaysia
+- name: Cimb Islamic Bank Berhad
+  swift: CTBBMYKLXXX
+  swift8: CTBBMYKL
+  branch_name: Head Office
+  branch_address: Menara Promet Kuala Lumpur 50250
+  branch_code: XXX
+  city: Kuala Lumpur
+  country: Malaysia
+- name: Cimb-Principal Asset Management Berhad
+  swift: CANHMYKLXXX
+  swift8: CANHMYKL
+  branch_name: Head Office
+  branch_address: Bangunan Cimb Kuala Lumpur 50490
+  branch_code: XXX
+  city: Kuala Lumpur
+  country: Malaysia
+- name: Citibank Berhad
+  swift: CITIMYKLPEN
+  swift8: CITIMYKL
+  branch_name: Penang Branch
+  branch_address: Menara Northam Georgetown 10050
+  branch_code: PEN
+  city: Georgetown
+  country: Malaysia
+- name: Citibank Berhad
+  swift: CITIMYKLJOD
+  swift8: CITIMYKL
+  branch_name: Johor Bahru Branch
+  branch_address: Bangunan City Plaza Johor Bahru, Johor 80300
+  branch_code: JOD
+  city: Johor Bahru, Johor
+  country: Malaysia
+- name: Citibank Berhad
+  swift: CITIMYKLLAB
+  swift8: CITIMYKL
+  branch_name: Lab
+  branch_address: Kuala Lumpur
+  branch_code: LAB
+  city: Kuala Lumpur
+  country: Malaysia
+- name: Citibank Berhad
+  swift: CITIMYKLXXX
+  swift8: CITIMYKL
+  branch_name: Jalan Ampang
+  branch_address: Menara Citibank Kuala Lumpur 50450
+  branch_code: XXX
+  city: Kuala Lumpur
+  country: Malaysia
+- name: Dbs Bank Ltd, Labuan Branch
+  swift: DBSSMY2AXXX
+  swift8: DBSSMY2A
+  branch_name: Head Office
+  branch_address: Main Office Tower Labuan 87000
+  branch_code: XXX
+  city: Labuan
+  country: Malaysia
+- name: Deutsche Bank (Malaysia) Berhad
+  swift: DEUTMYKLBLB
+  swift8: DEUTMYKL
+  branch_name: Labuan Branch
+  branch_address: Labuan
+  branch_code: BLB
+  city: Labuan
+  country: Malaysia
+- name: Deutsche Bank (Malaysia) Berhad
+  swift: DEUTMYKLGMO
+  swift8: DEUTMYKL
+  branch_name: Kuala Lumpur
+  branch_address: Kuala Lumpur
+  branch_code: GMO
+  city: Kuala Lumpur
+  country: Malaysia
+- name: Deutsche Bank (Malaysia) Berhad
+  swift: DEUTMYKLIBW
+  swift8: DEUTMYKL
+  branch_name: Kuala Lumpur
+  branch_address: Kuala Lumpur
+  branch_code: IBW
+  city: Kuala Lumpur
+  country: Malaysia
+- name: Deutsche Bank (Malaysia) Berhad
+  swift: DEUTMYKLISB
+  swift8: DEUTMYKL
+  branch_name: International Islamic Banking, Malaysia Branch
+  branch_address: Kuala Lumpur
+  branch_code: ISB
+  city: Kuala Lumpur
+  country: Malaysia
+- name: Ecm Libra Investment Bank Berhad
+  swift: ECMLMYKLXXX
+  swift8: ECMLMYKL
+  branch_name: Head Office
+  branch_address: Kenanga International Kuala Lumpur 50250
+  branch_code: XXX
+  city: Kuala Lumpur
+  country: Malaysia
+- name: Export-Import Bank Of Malaysia Berhad
+  swift: EXMBMYKLXXX
+  swift8: EXMBMYKL
+  branch_name: Head Office
+  branch_address: Bangunan Bank Industri Kuala Lumpur 50796
+  branch_code: XXX
+  city: Kuala Lumpur
+  country: Malaysia
+- name: Hong Leong Bank Berhad
+  swift: HLBBMYKLJBU
+  swift8: HLBBMYKL
+  branch_name: Johor Bahru Johor
+  branch_address: Johor Bahru, Johor
+  branch_code: JBU
+  city: Johor Bahru, Johor
+  country: Malaysia
+- name: Hong Leong Bank Berhad
+  swift: HLBBMYKLKCH
+  swift8: HLBBMYKL
+  branch_name: Kuching Sarawak
+  branch_address: Kuching, Sarawak
+  branch_code: KCH
+  city: Kuching, Sarawak
+  country: Malaysia
+- name: Hong Leong Bank Berhad
+  swift: HLBBMYKLIBU
+  swift8: HLBBMYKL
+  branch_name: Islamic Banking Unit
+  branch_address: Kuala Lumpur
+  branch_code: IBU
+  city: Kuala Lumpur
+  country: Malaysia
+- name: Hong Leong Bank Berhad
+  swift: HLBBMYKLXXX
+  swift8: HLBBMYKL
+  branch_name: Head Office
+  branch_address: Wisma Hong Leong Kuala Lumpur 50450
+  branch_code: XXX
+  city: Kuala Lumpur
+  country: Malaysia
+- name: Hong Leong Bank Berhad
+  swift: HLBBMYKLPNG
+  swift8: HLBBMYKL
+  branch_name: Penang Penang
+  branch_address: Penang, Penang
+  branch_code: PNG
+  city: Penang, Penang
+  country: Malaysia
+- name: Hong Leong Bank Berhad
+  swift: EOBBMYKLXXX
+  swift8: EOBBMYKL
+  branch_name: Head Office
+  branch_address: Wisma Hong Leong Kuala Lumpur 50450
+  branch_code: XXX
+  city: Kuala Lumpur
+  country: Malaysia
+- name: Hong Leong Investment Bank Berhad
+  swift: HLIVMYKLXXX
+  swift8: HLIVMYKL
+  branch_name: Head Office
+  branch_address: Wisma Hong Leong Kuala Lumpur 50450
+  branch_code: XXX
+  city: Kuala Lumpur
+  country: Malaysia
+- name: Hong Leong Islamic Bank Berhad
+  swift: HLIBMYKLXXX
+  swift8: HLIBMYKL
+  branch_name: Head Office
+  branch_address: Wisma Hong Leong Kuala Lumpur 50450
+  branch_code: XXX
+  city: Kuala Lumpur
+  country: Malaysia
+- name: Hong Leong Islamic Bank Berhad
+  swift: EIBBMYKLXXX
+  swift8: EIBBMYKL
+  branch_name: Head Office
+  branch_address: Wisma Hong Leong Kuala Lumpur 50450
+  branch_code: XXX
+  city: Kuala Lumpur
+  country: Malaysia
+- name: Hongkong And Shanghai Banking Corporation Ltd, The
+  swift: HSBCMYKAXXX
+  swift8: HSBCMYKA
+  branch_name: Head Office
+  branch_address: Offshore Banking Unit Labuan 87000
+  branch_code: XXX
+  city: Labuan
+  country: Malaysia
+- name: Hsbc (Malaysia) Trustee Berhad
+  swift: HSTMMYKLGWS
+  swift8: HSTMMYKL
+  branch_name: Global Wealth Solutions
+  branch_address: Wisma Maran Kuala Lumpur 50050
+  branch_code: GWS
+  city: Kuala Lumpur
+  country: Malaysia
+- name: Hsbc (Malaysia) Trustee Berhad
+  swift: HSTMMYKLXXX
+  swift8: HSTMMYKL
+  branch_name: Head Office
+  branch_address: Annexe Menara Milenium Kuala Lumpur 50490
+  branch_code: XXX
+  city: Kuala Lumpur
+  country: Malaysia
+- name: Hsbc Amanah Malaysia Berhad
+  swift: HMABMYKLXXX
+  swift8: HMABMYKL
+  branch_name: Head Office
+  branch_address: Bangunan Hsbc Kuala Lumpur 50100
+  branch_code: XXX
+  city: Kuala Lumpur
+  country: Malaysia
+- name: Hsbc Bank Malaysia Berhad, Malaysia
+  swift: HBMBMYKLXXX
+  swift8: HBMBMYKL
+  branch_name: Head Office
+  branch_address: 2 Leboh Ampang Kuala Lumpur 50100
+  branch_code: XXX
+  city: Kuala Lumpur
+  country: Malaysia
+- name: Hwangdbs Investment Bank Berhad
+  swift: HDSBMY2PXXX
+  swift8: HDSBMY2P
+  branch_name: Head Office
+  branch_address: Wisma Sri Pinang Penang, Penang 10200
+  branch_code: XXX
+  city: Penang, Penang
+  country: Malaysia
+- name: Industrial And Commercial Bank Of China (Malaysia) Berhad.
+  swift: ICBKMYKLXXX
+  swift8: ICBKMYKL
+  branch_name: Head Office
+  branch_address: No.4 Jalan Conlay Kuala Lumpur 50450
+  branch_code: XXX
+  city: Kuala Lumpur
+  country: Malaysia
+- name: Ing Bank N.V.
+  swift: INGBMYK1XXX
+  swift8: INGBMYK1
+  branch_name: Head Office
+  branch_address: Menara Ing Kuala Lumpur
+  branch_code: XXX
+  city: Kuala Lumpur
+  country: Malaysia
+- name: International Islamic Liquidity Management Corporation
+  swift: IILMMYK1XXX
+  swift8: IILMMYK1
+  branch_name: No branch name
+  branch_address: No branch address
+  branch_code: XXX
+  city: Kuala Lumpur
+  country: Malaysia
+- name: J.P.Morgan Chase Bank Berhad, Kuala Lumpur
+  swift: CHASMYKXKEY
+  swift8: CHASMYKX
+  branch_name: Test Key and Bke Administration
+  branch_address: Kuala Lumpur
+  branch_code: KEY
+  city: Kuala Lumpur
+  country: Malaysia
+- name: J.P.Morgan Chase Bank Berhad, Kuala Lumpur
+  swift: CHASMYKXXXX
+  swift8: CHASMYKX
+  branch_name: Head Office
+  branch_address: Level 26, Menara Dion Kuala Lumpur 50250
+  branch_code: XXX
+  city: Kuala Lumpur
+  country: Malaysia
+- name: J.P.Morgan Chase Bank Berhad, Kuala Lumpur
+  swift: CHASMYKXSEC
+  swift8: CHASMYKX
+  branch_name: Jpmorgan Securities-Malaysia
+  branch_address: No branch address
+  branch_code: SEC
+  city: Kuala Lumpur
+  country: Malaysia
+- name: Kaf Investment Bank Berhad
+  swift: KAFBMYKLXXX
+  swift8: KAFBMYKL
+  branch_name: Head Office
+  branch_address: Chulan Tower Kuala Lumpur 50450
+  branch_code: XXX
+  city: Kuala Lumpur
+  country: Malaysia
+- name: Kaf Investment Bank Berhad
+  swift: KAFDMYK1XXX
+  swift8: KAFDMYK1
+  branch_name: Head Office
+  branch_address: Chulan Tower Kuala Lumpur 50200
+  branch_code: XXX
+  city: Kuala Lumpur
+  country: Malaysia
+- name: Kuwait Finance House (Malaysia) Berhad
+  swift: KFHOMYKLXXX
+  swift8: KFHOMYKL
+  branch_name: Head Office
+  branch_address: Tower 2 Mni Twins Kuala Lumpur 50450
+  branch_code: XXX
+  city: Kuala Lumpur
+  country: Malaysia
+- name: Malayan Banking Berhad (Maybank)
+  swift: MBBEMYKLBWC
+  swift8: MBBEMYKL
+  branch_name: Trade Finance Center
+  branch_address: Butterworth, Penang
+  branch_code: BWC
+  city: Butterworth, Penang
+  country: Malaysia
+- name: Malayan Banking Berhad (Maybank)
+  swift: MBBEMYKLIPH
+  swift8: MBBEMYKL
+  branch_name: Ipoh Perak
+  branch_address: Ipoh, Perak
+  branch_code: IPH
+  city: Ipoh, Perak
+  country: Malaysia
+- name: Malayan Banking Berhad (Maybank)
+  swift: MBBEMYKLJOB
+  swift8: MBBEMYKL
+  branch_name: Johor Bahru Johor
+  branch_address: Johor Bahru, Johor
+  branch_code: JOB
+  city: Johor Bahru, Johor
+  country: Malaysia
+- name: Malayan Banking Berhad (Maybank)
+  swift: MBBEMYKLKIN
+  swift8: MBBEMYKL
+  branch_name: Kota Kinabalu Sabah
+  branch_address: Kota Kinabalu, Sabah
+  branch_code: KIN
+  city: Kota Kinabalu, Sabah
+  country: Malaysia
+- name: Malayan Banking Berhad (Maybank)
+  swift: MBBEMYKLBAN
+  swift8: MBBEMYKL
+  branch_name: Bangsar Baru Branch
+  branch_address: Kuala Lumpur
+  branch_code: BAN
+  city: Kuala Lumpur
+  country: Malaysia
+- name: Malayan Banking Berhad (Maybank)
+  swift: MBBEMYKLBBG
+  swift8: MBBEMYKL
+  branch_name: Bukit Bintang Branch
+  branch_address: Kuala Lumpur
+  branch_code: BBG
+  city: Kuala Lumpur
+  country: Malaysia
+- name: Malayan Banking Berhad (Maybank)
+  swift: MBBEMYKLCSD
+  swift8: MBBEMYKL
+  branch_name: Custodian Services Department
+  branch_address: Menara Maybank Kuala Lumpur 50050
+  branch_code: CSD
+  city: Kuala Lumpur
+  country: Malaysia
+- name: Malayan Banking Berhad (Maybank)
+  swift: MBBEMYKLKEP
+  swift8: MBBEMYKL
+  branch_name: Kepong Branch
+  branch_address: Kuala Lumpur
+  branch_code: KEP
+  city: Kuala Lumpur
+  country: Malaysia
+- name: Malayan Banking Berhad (Maybank)
+  swift: MBBEMYKLKLC
+  swift8: MBBEMYKL
+  branch_name: Trade Finance Center
+  branch_address: Kuala Lumpur
+  branch_code: KLC
+  city: Kuala Lumpur
+  country: Malaysia
+- name: Malayan Banking Berhad (Maybank)
+  swift: MBBEMYKLPUD
+  swift8: MBBEMYKL
+  branch_name: Pudu Branch
+  branch_address: Kuala Lumpur
+  branch_code: PUD
+  city: Kuala Lumpur
+  country: Malaysia
+- name: Malayan Banking Berhad (Maybank)
+  swift: MBBEMYKLSUB
+  swift8: MBBEMYKL
+  branch_name: Subang Airport
+  branch_address: Kuala Lumpur
+  branch_code: SUB
+  city: Kuala Lumpur
+  country: Malaysia
+- name: Malayan Banking Berhad (Maybank)
+  swift: MBBEMYKLWSD
+  swift8: MBBEMYKL
+  branch_name: Wisma Sime Darby Branch
+  branch_address: Kuala Lumpur
+  branch_code: WSD
+  city: Kuala Lumpur
+  country: Malaysia
+- name: Malayan Banking Berhad (Maybank)
+  swift: MBBEMYKLXXX
+  swift8: MBBEMYKL
+  branch_name: Head Office
+  branch_address: Menara Maybank Kuala Lumpur 50050
+  branch_code: XXX
+  city: Kuala Lumpur
+  country: Malaysia
+- name: Malayan Banking Berhad (Maybank)
+  swift: MBBEMYKLPSG
+  swift8: MBBEMYKL
+  branch_name: Pasir Gudang Johor
+  branch_address: Pasir Gudang, Johor
+  branch_code: PSG
+  city: Pasir Gudang, Johor
+  country: Malaysia
+- name: Malayan Banking Berhad (Maybank)
+  swift: MBBEMYKLPEN
+  swift8: MBBEMYKL
+  branch_name: Penang Penang
+  branch_address: Penang, Penang
+  branch_code: PEN
+  city: Penang, Penang
+  country: Malaysia
+- name: Malayan Banking Berhad (Maybank)
+  swift: MBBEMYKLPGC
+  swift8: MBBEMYKL
+  branch_name: Trade Finance Center
+  branch_address: Penang, Penang
+  branch_code: PGC
+  city: Penang, Penang
+  country: Malaysia
+- name: Malayan Banking Berhad (Maybank)
+  swift: MBBEMYKLPKG
+  swift8: MBBEMYKL
+  branch_name: Port Klang Selangor
+  branch_address: Port Klang, Selangor
+  branch_code: PKG
+  city: Port Klang, Selangor
+  country: Malaysia
+- name: Malayan Banking Berhad (Maybank)
+  swift: MBBEMYKLSAC
+  swift8: MBBEMYKL
+  branch_name: Trade Finance Center
+  branch_address: Shah Alam, Selangor
+  branch_code: SAC
+  city: Shah Alam, Selangor
+  country: Malaysia
+- name: Malayan Banking Berhad (Maybank)
+  swift: MBBEMYKLSHA
+  swift8: MBBEMYKL
+  branch_name: Shah Alam Selangor
+  branch_address: Shah Alam, Selangor
+  branch_code: SHA
+  city: Shah Alam, Selangor
+  country: Malaysia
+- name: Malayan Banking Berhad (Maybank)
+  swift: MBBEMYKLPJC
+  swift8: MBBEMYKL
+  branch_name: Trade Finance Center
+  branch_address: Petaling Jaya, Selangor
+  branch_code: PJC
+  city: Petaling Jaya, Selangor
+  country: Malaysia
+- name: Malaysian Airline System Berhad
+  swift: MAYHMY22XXX
+  swift8: MAYHMY22
+  branch_name: Head Office
+  branch_address: Administration Building 1 Subang 47200
+  branch_code: XXX
+  city: Subang
+  country: Malaysia
+- name: Maybank International (L) Ltd.
+  swift: MBBEMYKAXXX
+  swift8: MBBEMYKA
+  branch_name: Head Office
+  branch_address: Financial Park Labuan Labuan 87000
+  branch_code: XXX
+  city: Labuan
+  country: Malaysia
+- name: Mercedes-Benz Malaysia Sdn. Bhd.
+  swift: DABEMYKLXXX
+  swift8: DABEMYKL
+  branch_name: Head Office
+  branch_address: Menara Tm Kuala Lumpur 59800
+  branch_code: XXX
+  city: Kuala Lumpur
+  country: Malaysia
+- name: Middle East Investment Bank Ltd
+  swift: MEIBMYKAXXX
+  swift8: MEIBMYKA
+  branch_name: Head Office
+  branch_address: U0064, Jalan Okk Awang Besar, Labuan 87007
+  branch_code: XXX
+  city: Labuan
+  country: Malaysia
+- name: Mizuho Corporate Bank (Malaysia) Berhad
+  swift: MHCBMYKAXXX
+  swift8: MHCBMYKA
+  branch_name: Head Office
+  branch_address: Menara Maxis Kuala Lumpur 50088
+  branch_code: XXX
+  city: Kuala Lumpur
+  country: Malaysia
+- name: National Bank Of Abu Dhabi
+  swift: NBADMYKLXXX
+  swift8: NBADMYKL
+  branch_name: Head Office
+  branch_address: Menara Maxis Klcc Kuala Lumpur 50000
+  branch_code: XXX
+  city: Kuala Lumpur
+  country: Malaysia
+- name: National Bank Of Abu Dhabi
+  swift: NBADMYK1XXX
+  swift8: NBADMYK1
+  branch_name: Head Office
+  branch_address: Menara Maxis Klcc Kuala Lumpur 50000
+  branch_code: XXX
+  city: Kuala Lumpur
+  country: Malaysia
+- name: Nomura Asset Management Malaysia Sdn Bhd
+  swift: NOCMMYKLXXX
+  swift8: NOCMMYKL
+  branch_name: Head Office
+  branch_address: Menara Imc Kuala Lumpur 50250
+  branch_code: XXX
+  city: Kuala Lumpur
+  country: Malaysia
+- name: Ocbc Al-Amin Bank Berhad
+  swift: OABBMYKLXXX
+  swift8: OABBMYKL
+  branch_name: Head Office
+  branch_address: Wisma Lee Rubber Kuala Lumpur 50100
+  branch_code: XXX
+  city: Kuala Lumpur
+  country: Malaysia
+- name: Ocbc Bank (Malaysia) Berhad
+  swift: OCBCMYKLXXX
+  swift8: OCBCMYKL
+  branch_name: Head Office
+  branch_address: Menara Ocbc Kuala Lumpur 50500
+  branch_code: XXX
+  city: Kuala Lumpur
+  country: Malaysia
+- name: Osk Investment Bank Berhad
+  swift: OSKIMYKLXXX
+  swift8: OSKIMYKL
+  branch_name: Head Office
+  branch_address: Tower One, Rhb Centre Kuala Lumpur 50400
+  branch_code: XXX
+  city: Kuala Lumpur
+  country: Malaysia
+- name: Osk Investment Bank Berhad
+  swift: OSSBMYK1XXX
+  swift8: OSSBMYK1
+  branch_name: Head Office
+  branch_address: Plaza Osk Kuala Lumpur 50450
+  branch_code: XXX
+  city: Kuala Lumpur
+  country: Malaysia
+- name: Oversea-Chinese Banking Corp. Ltd, Labuan Branch
+  swift: OCBCMYKAXXX
+  swift8: OCBCMYKA
+  branch_name: Head Office
+  branch_address: Financial Park Labuan 87000
+  branch_code: XXX
+  city: Labuan
+  country: Malaysia
+- name: Petroliam Nasional Berhad
+  swift: PTROMYKLFSD
+  swift8: PTROMYKL
+  branch_name: Klcc
+  branch_address: Petronas Twin Towers, Tower 1 Kuala Lumpur
+  branch_code: FSD
+  city: Kuala Lumpur
+  country: Malaysia
+- name: Petroliam Nasional Berhad
+  swift: PTROMYKLXXX
+  swift8: PTROMYKL
+  branch_name: Head Office
+  branch_address: Petronas Twin Tower Kuala Lumpur 50088
+  branch_code: XXX
+  city: Kuala Lumpur
+  country: Malaysia
+- name: Petronas Carigali Sdn Bhd
+  swift: PCGLMYKLXXX
+  swift8: PCGLMYKL
+  branch_name: Head Office
+  branch_address: Petronas Twin Towers Kuala Lumpur 50088
+  branch_code: XXX
+  city: Kuala Lumpur
+  country: Malaysia
+- name: Petronas Trading Corporation Sdn. Bhd
+  swift: PTRDMYKLXXX
+  swift8: PTRDMYKL
+  branch_name: Head Office
+  branch_address: Petronas Twin Towers-Tower 1 Kuala Lumpur 50088
+  branch_code: XXX
+  city: Kuala Lumpur
+  country: Malaysia
+- name: Public Bank (L) Ltd
+  swift: PBLLMYKAXXX
+  swift8: PBLLMYKA
+  branch_name: Head Office
+  branch_address: Main Office Tower Labuan 87000
+  branch_code: XXX
+  city: Labuan
+  country: Malaysia
+- name: Public Bank Berhad
+  swift: PBBEMYKLXXX
+  swift8: PBBEMYKL
+  branch_name: Head Office
+  branch_address: Menara Public Bank Kuala Lumpur 50450
+  branch_code: XXX
+  city: Kuala Lumpur
+  country: Malaysia
+- name: Rhb Bank (L) Ltd
+  swift: RHBBMYKAXXX
+  swift8: RHBBMYKA
+  branch_name: Head Office
+  branch_address: Financial Park Labuan Labuan 87000
+  branch_code: XXX
+  city: Labuan
+  country: Malaysia
+- name: Rhb Bank Berhad
+  swift: RHBBMYKLXXX
+  swift8: RHBBMYKL
+  branch_name: Head Office
+  branch_address: 426 Jalan Tun Razak Kuala Lumpur 50400
+  branch_code: XXX
+  city: Kuala Lumpur
+  country: Malaysia
+- name: Rhb Bank Berhad
+  swift: RHBBMYK1KKB
+  swift8: RHBBMYK1
+  branch_name: Kota Kinabalu Sabah
+  branch_address: Rhb Bank Kota Kinabalu, Sabah 88000
+  branch_code: KKB
+  city: Kota Kinabalu, Sabah
+  country: Malaysia
+- name: Rhb Bank Berhad
+  swift: RHBBMYK1PNG
+  swift8: RHBBMYK1
+  branch_name: Penang Penang
+  branch_address: Rhb Bank Penang, Penang 10760
+  branch_code: PNG
+  city: Penang, Penang
+  country: Malaysia
+- name: Rhb Islamic Bank Berhad
+  swift: RHBAMYKLXXX
+  swift8: RHBAMYKL
+  branch_name: Head Office
+  branch_address: Rhb Centre, Tower One Kuala Lumpur 50400
+  branch_code: XXX
+  city: Kuala Lumpur
+  country: Malaysia
+- name: Standard Chartered Bank Malaysia Berhad
+  swift: SCBLMYKXLAB
+  swift8: SCBLMYKX
+  branch_name: Labuan Offshore Banking Unit Only
+  branch_address: Main Office Towers Labuan 87000
+  branch_code: LAB
+  city: Labuan
+  country: Malaysia
+- name: Standard Chartered Bank Malaysia Berhad
+  swift: SCBLMYKXXXX
+  swift8: SCBLMYKX
+  branch_name: All Offices in Malaysia
+  branch_address: 2 Jalan Ampang Kuala Lumpur 50450
+  branch_code: XXX
+  city: Kuala Lumpur
+  country: Malaysia
+- name: Sumitomo Mitsui Banking Corporation
+  swift: SMBCMYKAXXX
+  swift8: SMBCMYKA
+  branch_name: Head Office
+  branch_address: Main Office Tower Financial Park Labuan 87000
+  branch_code: XXX
+  city: Labuan
+  country: Malaysia
+- name: Sumitomo Mitsui Banking Corporation Malaysia Berhad
+  swift: SMBCMYKLXXX
+  swift8: SMBCMYKL
+  branch_name: Head Office
+  branch_address: The Intermark, Vista Tower Kuala Lumpur 50400
+  branch_code: XXX
+  city: Kuala Lumpur
+  country: Malaysia
+- name: The Royal Bank Of Scotland Berhad (301932-A)
+  swift: ABNAMYKLXXX
+  swift8: ABNAMYKL
+  branch_name: Head Office
+  branch_address: Menara Maxis Kuala Lumpur 50088
+  branch_code: XXX
+  city: Kuala Lumpur
+  country: Malaysia
+- name: The Royal Bank Of Scotland Berhad (301932-A)
+  swift: ABNAMYKLPNG
+  swift8: ABNAMYKL
+  branch_name: Penang Penang
+  branch_address: 9 Lebuh Pantai Penang, Penang 10300
+  branch_code: PNG
+  city: Penang, Penang
+  country: Malaysia
+- name: The Royal Bank Of Scotland N.V., (Labuan) Branch (Formerly Known As Abn Amro
+    Bank N.V., Labuan Branch)
+  swift: ABNAMY2AXXX
+  swift8: ABNAMY2A
+  branch_name: Head Office
+  branch_address: Financial Park Labuan Labuan 87000
+  branch_code: XXX
+  city: Labuan
+  country: Malaysia
+- name: Unicorn International Islamic Bank Malaysia Berhad
+  swift: UIIBMYKLXXX
+  swift8: UIIBMYKL
+  branch_name: Head Office
+  branch_address: Menara Standard Chartered Kuala Lumpur 50250
+  branch_code: XXX
+  city: Kuala Lumpur
+  country: Malaysia
+- name: United Overseas Bank (Malaysia) Berhad
+  swift: UOVBMYKLCND
+  swift8: UOVBMYKL
+  branch_name: Custodian and Nominees Department
+  branch_address: Ckb Building Kuala Lumpur 50350
+  branch_code: CND
+  city: Kuala Lumpur
+  country: Malaysia
+- name: United Overseas Bank (Malaysia) Berhad
+  swift: UOVBMYKLXXX
+  swift8: UOVBMYKL
+  branch_name: Head Office
+  branch_address: Bangunan Uob Kuala Lumpur 50050
+  branch_code: XXX
+  city: Kuala Lumpur
+  country: Malaysia
+- name: United Overseas Bank (Malaysia) Berhad
+  swift: UOVBMYK101J
+  swift8: UOVBMYK1
+  branch_name: Kluang Johor
+  branch_address: Kluang, Johor
+  branch_code: 01J
+  city: Kluang, Johor
+  country: Malaysia
+- name: United Overseas Bank (Malaysia) Berhad
+  swift: UOVBMYK101K
+  swift8: UOVBMYK1
+  branch_name: Jalan Dato Hamzah Branch
+  branch_address: Klang, Selangor
+  branch_code: 01K
+  city: Klang, Selangor
+  country: Malaysia
+- name: United Overseas Bank (Malaysia) Berhad
+  swift: UOVBMYK101P
+  swift8: UOVBMYK1
+  branch_name: Butterworth Penang
+  branch_address: Butterworth, Penang
+  branch_code: 01P
+  city: Butterworth, Penang
+  country: Malaysia
+- name: United Overseas Bank (Malaysia) Berhad
+  swift: UOVBMYK101T
+  swift8: UOVBMYK1
+  branch_name: Kota Bahru Kelantan
+  branch_address: Kota Bahru, Kelantan
+  branch_code: 01T
+  city: Kota Bahru, Kelantan
+  country: Malaysia
+- name: United Overseas Bank (Malaysia) Berhad
+  swift: UOVBMYK1022
+  swift8: UOVBMYK1
+  branch_name: Raub Pahang
+  branch_address: Raub, Pahang
+  branch_code: '022'
+  city: Raub, Pahang
+  country: Malaysia
+- name: United Overseas Bank (Malaysia) Berhad
+  swift: UOVBMYK1023
+  swift8: UOVBMYK1
+  branch_name: Seremban Negri Sembilan
+  branch_address: Seremban, Negri Sembilan
+  branch_code: '023'
+  city: Seremban
+  country: Malaysia
+- name: United Overseas Bank (Malaysia) Berhad
+  swift: UOVBMYK1024
+  swift8: UOVBMYK1
+  branch_name: Jalan Othman Branch
+  branch_address: Petaling Jaya, Selangor
+  branch_code: '024'
+  city: Petaling Jaya, Selangor
+  country: Malaysia
+- name: United Overseas Bank (Malaysia) Berhad
+  swift: UOVBMYK1025
+  swift8: UOVBMYK1
+  branch_name: Jalan Tengah Branch
+  branch_address: Petaling Jaya, Selangor
+  branch_code: '025'
+  city: Petaling Jaya, Selangor
+  country: Malaysia
+- name: United Overseas Bank (Malaysia) Berhad
+  swift: UOVBMYK1026
+  swift8: UOVBMYK1
+  branch_name: Bentong Pahang
+  branch_address: Bentong, Pahang
+  branch_code: '026'
+  city: Bentong, Pahang
+  country: Malaysia
+- name: United Overseas Bank (Malaysia) Berhad
+  swift: UOVBMYK1027
+  swift8: UOVBMYK1
+  branch_name: Malacca Malacca
+  branch_address: Malacca, Malacca
+  branch_code: '027'
+  city: Malacca
+  country: Malaysia
+- name: United Overseas Bank (Malaysia) Berhad
+  swift: UOVBMYK102H
+  swift8: UOVBMYK1
+  branch_name: Ipoh Perak
+  branch_address: Ipoh, Perak
+  branch_code: 02H
+  city: Ipoh, Perak
+  country: Malaysia
+- name: United Overseas Bank (Malaysia) Berhad
+  swift: UOVBMYK102J
+  swift8: UOVBMYK1
+  branch_name: Johor Bahru Johor
+  branch_address: Johor Bahru, Johor
+  branch_code: 02J
+  city: Johor Bahru, Johor
+  country: Malaysia
+- name: United Overseas Bank (Malaysia) Berhad
+  swift: UOVBMYK102K
+  swift8: UOVBMYK1
+  branch_name: Jalan Meru
+  branch_address: Klang, Selangor
+  branch_code: 02K
+  city: Klang, Selangor
+  country: Malaysia
+- name: United Overseas Bank (Malaysia) Berhad
+  swift: UOVBMYK102P
+  swift8: UOVBMYK1
+  branch_name: Lebuh Bishop
+  branch_address: Penang, Penang
+  branch_code: 02P
+  city: Penang, Penang
+  country: Malaysia
+- name: United Overseas Bank (Malaysia) Berhad
+  swift: UOVBMYK102T
+  swift8: UOVBMYK1
+  branch_name: Kuantan Pahang
+  branch_address: Kuantan, Pahang
+  branch_code: 02T
+  city: Kuantan, Pahang
+  country: Malaysia
+- name: United Overseas Bank (Malaysia) Berhad
+  swift: UOVBMYK103J
+  swift8: UOVBMYK1
+  branch_name: Kulai Johor
+  branch_address: Kulai, Johor
+  branch_code: 03J
+  city: Kulai, Johor
+  country: Malaysia
+- name: United Overseas Bank (Malaysia) Berhad
+  swift: UOVBMYK103K
+  swift8: UOVBMYK1
+  branch_name: Kuching Sarawak
+  branch_address: Bangunan Yayasan Sarawak Kuching, Sarawak
+  branch_code: 03K
+  city: Kuching, Sarawak
+  country: Malaysia
+- name: United Overseas Bank (Malaysia) Berhad
+  swift: UOVBMYK103P
+  swift8: UOVBMYK1
+  branch_name: Lebuh Pantai
+  branch_address: Penang, Penang
+  branch_code: 03P
+  city: Penang, Penang
+  country: Malaysia
+- name: United Overseas Bank Limited Labuan Branch
+  swift: UOVBMY2LXXX
+  swift8: UOVBMY2L
+  branch_name: Head Office
+  branch_address: Financial Park Labuan Complex Labuan 87000
+  branch_code: XXX
+  city: Labuan
+  country: Malaysia
+- name: Fpb Asia Limited
+  swift: FPASMYK1XXX
+  swift8: FPASMYK1
+  branch_name: Head Office
+  branch_address: Kuala Lumpur
+  branch_code: XXX
+  city: Kuala Lumpur
+  country: Malaysia
+- name: W.i. Carr (far East) Limited
+  swift: WICAMYK1XXX
+  swift8: WICAMYK1
+  branch_name: Head Office
+  branch_address: Menara Boustead Kuala Lumpur 50200
+  branch_code: XXX
+  city: Kuala Lumpur
+  country: Malaysia
+- name: A.a. Anthony And Co Sdn Bhd
+  swift: ANTOMY21XXX
+  swift8: ANTOMY21
+  branch_name: Head Office
+  branch_address: 31 Jalan Rangoon Penang, Penang 10400
+  branch_code: XXX
+  city: Penang, Penang
+  country: Malaysia
+- name: Abn Amro Hoare Govett Asia Clearing Services Ltd.
+  swift: HGASMYK1XXX
+  swift8: HGASMYK1
+  branch_name: Head Office
+  branch_address: Menara Imc. Kuala Lumpur 50250
+  branch_code: XXX
+  city: Kuala Lumpur
+  country: Malaysia
+- name: Abrar Discounts Berhad
+  swift: ISCAMYK1XXX
+  swift8: ISCAMYK1
+  branch_name: Head Office
+  branch_address: Menara Multi-Purpose, Capital Sq. Kuala Lumpur 50100
+  branch_code: XXX
+  city: Kuala Lumpur
+  country: Malaysia
+- name: Abrar Futures Sdn Bhd
+  swift: ABFUMYK1XXX
+  swift8: ABFUMYK1
+  branch_name: Head Office
+  branch_address: Menara Multi Purpose Building Kuala Lumpur 50100
+  branch_code: XXX
+  city: Kuala Lumpur
+  country: Malaysia
+- name: Affin Discount Berhad
+  swift: AFIDMYK1XXX
+  swift8: AFIDMYK1
+  branch_name: Head Office
+  branch_address: Menara Boustead Kuala Lumpur 50200
+  branch_code: XXX
+  city: Kuala Lumpur
+  country: Malaysia
+- name: Affin Investment Bank Berhad
+  swift: AFUOMYK1XXX
+  swift8: AFUOMYK1
+  branch_name: Head Office
+  branch_address: Jln Conlay Kuala Lumpur
+  branch_code: XXX
+  city: Kuala Lumpur
+  country: Malaysia
+- name: Affin Merchant Bank Berhad
+  swift: PMBBMYK1XXX
+  swift8: PMBBMYK1
+  branch_name: Head Office
+  branch_address: Menara Boustead Kuala Lumpur 50200
+  branch_code: XXX
+  city: Kuala Lumpur
+  country: Malaysia
+- name: Agrobank Islamic
+  swift: AGISMYK1XXX
+  swift8: AGISMYK1
+  branch_name: Head Office
+  branch_address: Bank Pertanian Malaysia Berhad Kuala Lumpur 50726
+  branch_code: XXX
+  city: Kuala Lumpur
+  country: Malaysia
+- name: Aia Berhad
+  swift: AIBEMYK1XXX
+  swift8: AIBEMYK1
+  branch_name: No branch name
+  branch_address: No branch address
+  branch_code: XXX
+  city: Kuala Lumpur
+  country: Malaysia
+- name: Al Atas Bullion Trading House (l) Limited
+  swift: ABTHMYK1XXX
+  swift8: ABTHMYK1
+  branch_name: Head Office
+  branch_address: Menara Citibank Kuala Lumpur 50450
+  branch_code: XXX
+  city: Kuala Lumpur
+  country: Malaysia
+- name: Al Atas Capital And Stock Brokerage House Pte Ltd
+  swift: ACSBMYK1XXX
+  swift8: ACSBMYK1
+  branch_name: Head Office
+  branch_address: Main Office Tower Labuan 87000
+  branch_code: XXX
+  city: Labuan
+  country: Malaysia
+- name: Alliance International Berhad
+  swift: HHBSMY41XXX
+  swift8: HHBSMY41
+  branch_name: Head Office
+  branch_address: 22 Jalan Pantai Kota Kinabalu, Sabah 88000
+  branch_code: XXX
+  city: Kota Kinabalu, Sabah
+  country: Malaysia
+- name: Alliance Investment Futures Sdn. Bhd.
+  swift: KLFFMYK1XXX
+  swift8: KLFFMYK1
+  branch_name: Head Office
+  branch_address: Bangunan Angkasa Raya Kuala Lumpur 50450
+  branch_code: XXX
+  city: Kuala Lumpur
+  country: Malaysia
+- name: Alliance Islamic Bank Berhad
+  swift: ALSRMYK1XXX
+  swift8: ALSRMYK1
+  branch_name: Head Office
+  branch_address: Menara Multi-Purpose Kuala Lumpur 50100
+  branch_code: XXX
+  city: Kuala Lumpur
+  country: Malaysia
+- name: Alor Setar Securities Sdn Bhd
+  swift: ALOSMY21XXX
+  swift8: ALOSMY21
+  branch_name: Head Office
+  branch_address: Wisma Pknk Alor Setar, Kedah 05000
+  branch_code: XXX
+  city: Alor Setar, Kedah
+  country: Malaysia
+- name: Amanah Butler Malaysia Sdn Bhd
+  swift: AMBMMYK1XXX
+  swift8: AMBMMYK1
+  branch_name: Head Office
+  branch_address: Banguanan Komplek Kewangan Kuala Lumpur 50200
+  branch_code: XXX
+  city: Kuala Lumpur
+  country: Malaysia
+- name: Amanah Futures And Options Sdn Bhd
+  swift: AFOBMYK1XXX
+  swift8: AFOBMYK1
+  branch_name: Head Office
+  branch_address: Bangunan Mas Building Kuala Lumpur 50250
+  branch_code: XXX
+  city: Kuala Lumpur
+  country: Malaysia
+- name: Amanah Merchant Bank Berhad
+  swift: MBAMMYK1XXX
+  swift8: MBAMMYK1
+  branch_name: Head Office
+  branch_address: Komplek Kewangan Building Kuala Lumpur 50200
+  branch_code: XXX
+  city: Kuala Lumpur
+  country: Malaysia
+- name: Amanah Mutual Berhad
+  swift: MMBHMYK1XXX
+  swift8: MMBHMYK1
+  branch_name: Head Office
+  branch_address: Menara Maybank Building East Wing Kuala Lumpur 50050
+  branch_code: XXX
+  city: Kuala Lumpur
+  country: Malaysia
+- name: Amanah Saham Kedah Berhad
+  swift: KUTMMY21XXX
+  swift8: KUTMMY21
+  branch_name: Head Office
+  branch_address: 178-180 Lebuhraya Sultanah Bahiyah Alor Setar, Kedah 5250
+  branch_code: XXX
+  city: Alor Setar, Kedah
+  country: Malaysia
+- name: Amanah Saham Mic-tpg Bhd
+  swift: ASMIMYK1XXX
+  swift8: ASMIMYK1
+  branch_name: Head Office
+  branch_address: The Klccb Building Kuala Lumpur 50350
+  branch_code: XXX
+  city: Kuala Lumpur
+  country: Malaysia
+- name: Amanah Saham Sarawak Berhad
+  swift: SSWKMYK1XXX
+  swift8: SSWKMYK1
+  branch_name: Head Office
+  branch_address: Ktld Building Kuching, Sarawak 93400
+  branch_code: XXX
+  city: Kuching, Sarawak
+  country: Malaysia
+- name: Amanah Short Deposits Berhad
+  swift: SDEPMYK1XXX
+  swift8: SDEPMYK1
+  branch_name: Head Office
+  branch_address: Bangunan Amanah Capital Kuala Lumpur 50200
+  branch_code: XXX
+  city: Kuala Lumpur
+  country: Malaysia
+- name: Amcredit Berhad
+  swift: AMCBMYK1XXX
+  swift8: AMCBMYK1
+  branch_name: Head Office
+  branch_address: Bangunan Ambank Group Kuala Lumpur 50200
+  branch_code: XXX
+  city: Kuala Lumpur
+  country: Malaysia
+- name: Amfb Holdings Berhad
+  swift: AMFBMYK1XXX
+  swift8: AMFBMYK1
+  branch_name: Head Office
+  branch_address: Bangunan Ambank Group Kuala Lumpur 50200
+  branch_code: XXX
+  city: Kuala Lumpur
+  country: Malaysia
+- name: Ammb Futures Sdn Bhd
+  swift: ARFBMYK1XXX
+  swift8: ARFBMYK1
+  branch_name: Head Office
+  branch_address: Bangunan Arab-Malaysian Building Kuala Lumpur 55200
+  branch_code: XXX
+  city: Kuala Lumpur
+  country: Malaysia
+- name: Ammb Investment Services Bhd
+  swift: AMUTMYK1XXX
+  swift8: AMUTMYK1
+  branch_name: Head Office
+  branch_address: Bangunan Ambank Group Kuala Lumpur 50200
+  branch_code: XXX
+  city: Kuala Lumpur
+  country: Malaysia
+- name: Amsecurities Sdn Bhd
+  swift: AMSDMYK1XXX
+  swift8: AMSDMYK1
+  branch_name: Head Office
+  branch_address: Bangunan Ambank Kuala Lumpur 50200
+  branch_code: XXX
+  city: Kuala Lumpur
+  country: Malaysia
+- name: Aof Futures Sdn. Bhd.
+  swift: AOFMMYK1XXX
+  swift8: AOFMMYK1
+  branch_name: Head Office
+  branch_address: Menara Haw Par Building Kuala Lumpur 50200
+  branch_code: XXX
+  city: Kuala Lumpur
+  country: Malaysia
+- name: Arab Malaysian Development Bank
+  swift: ARMDMYK1XXX
+  swift8: ARMDMYK1
+  branch_name: Head Office
+  branch_address: Jalan Melaka Kuala Lumpur
+  branch_code: XXX
+  city: Kuala Lumpur
+  country: Malaysia
+- name: Asia Commercial Finance (m) Bhd
+  swift: ACFBMYK1XXX
+  swift8: ACFBMYK1
+  branch_name: Head Office
+  branch_address: Wisma Sps Kuala Lumpur 55100
+  branch_code: XXX
+  city: Kuala Lumpur
+  country: Malaysia
+- name: Asia Pacific Banking Group Malaysia
+  swift: APGTMYK1XXX
+  swift8: APGTMYK1
+  branch_name: Head Office
+  branch_address: Level 36, Menara Citibank Kuala Lumpur 50450
+  branch_code: XXX
+  city: Kuala Lumpur
+  country: Malaysia
+- name: Asian And Euro-america Merchant Bankers (malaysia) Berhad
+  swift: AEAMMYK1XXX
+  swift8: AEAMMYK1
+  branch_name: Head Office
+  branch_address: Kuala Lumpur
+  branch_code: XXX
+  city: Kuala Lumpur
+  country: Malaysia
+- name: Asian Trade Investment Bank Ltd
+  swift: ATBLMY2AXXX
+  swift8: ATBLMY2A
+  branch_name: Head Office
+  branch_address: U0271 Labuan 87008
+  branch_code: XXX
+  city: Labuan
+  country: Malaysia
+- name: Asm Mara Unit Trust Management Berhad
+  swift: ASMMMYK1XXX
+  swift8: ASMMMYK1
+  branch_name: Head Office
+  branch_address: Tingkat Bawah Wisma Asmb Building Kuala Lumpur 50400
+  branch_code: XXX
+  city: Kuala Lumpur
+  country: Malaysia
+- name: Avenue Securities Sdn Bdh
+  swift: CHABMYK1XXX
+  swift8: CHABMYK1
+  branch_name: Head Office
+  branch_address: Thb Satu Kuala Lumpur 50490
+  branch_code: XXX
+  city: Kuala Lumpur
+  country: Malaysia
+- name: Avenue Securities Sdn.bhd.
+  swift: AVSSMYK1XXX
+  swift8: AVSSMYK1
+  branch_name: Head Office
+  branch_address: Thb Satu Kuala Lumpur 50490
+  branch_code: XXX
+  city: Kuala Lumpur
+  country: Malaysia
+- name: Bank Industri Malaysia Berhad
+  swift: BKIMMYK1XXX
+  swift8: BKIMMYK1
+  branch_name: Head Office
+  branch_address: Banguanan Bank Industri Kuala Lumpur 50250
+  branch_code: XXX
+  city: Kuala Lumpur
+  country: Malaysia
+- name: Bank Muamalat Malaysia Berhad (6175-w
+  swift: BMMBMYKLTFD
+  swift8: BMMBMYKL
+  branch_name: Trade Finance
+  branch_address: No branch address
+  branch_code: TFD
+  city: Kuala Lumpur
+  country: Malaysia
+- name: Bank Pembangunan Malaysia Berhad
+  swift: PEMBMYK1XXX
+  swift8: PEMBMYK1
+  branch_name: Head Office
+  branch_address: Menara Bank Pembangunan Kuala Lumpur 50774
+  branch_code: XXX
+  city: Kuala Lumpur
+  country: Malaysia
+- name: Bank Perusahaan Kecil And Sederhana Malaysia Berhad
+  swift: MSMEMYK1XXX
+  swift8: MSMEMYK1
+  branch_name: Head Office
+  branch_address: Menara Sme Bank Kuala Lumpur 50250
+  branch_code: XXX
+  city: Kuala Lumpur
+  country: Malaysia
+- name: Bank Simpanan Nasional Berhad
+  swift: BSNAMYK1XXX
+  swift8: BSNAMYK1
+  branch_name: Head Office
+  branch_address: Wisma Bsn Kuala Lumpur 50450
+  branch_code: XXX
+  city: Kuala Lumpur
+  country: Malaysia
+- name: Barclays De Zoete Wedd (malaysia) Sdn Bhd
+  swift: BZWLMYK1XXX
+  swift8: BZWLMYK1
+  branch_name: Head Office
+  branch_address: F.K.L. Plaza Kuala Lumpur 55100
+  branch_code: XXX
+  city: Kuala Lumpur
+  country: Malaysia
+- name: Bat Aspac Service Centre Sdn. Bhd
+  swift: BATSMYK1XXX
+  swift8: BATSMYK1
+  branch_name: No branch name
+  branch_address: No branch address
+  branch_code: XXX
+  city: Kuala Lumpur
+  country: Malaysia
+- name: Bbmb Discount House Bhd
+  swift: BDHBMYK1XXX
+  swift8: BDHBMYK1
+  branch_name: Head Office
+  branch_address: Menara Apera-Ulg Kuala Lumpur 50200
+  branch_code: XXX
+  city: Kuala Lumpur
+  country: Malaysia
+- name: Bbmb Futures Sdn Bhd
+  swift: BBFTMYK1XXX
+  swift8: BBFTMYK1
+  branch_name: Head Office
+  branch_address: Plaza Raja Chulan Kuala Lumpur 50200
+  branch_code: XXX
+  city: Kuala Lumpur
+  country: Malaysia
+- name: Bbmb Kewangan Bhd.
+  swift: BKEWMYK1XXX
+  swift8: BKEWMYK1
+  branch_name: Head Office
+  branch_address: Menara Promet Kuala Lumpur 50250
+  branch_code: XXX
+  city: Kuala Lumpur
+  country: Malaysia
+- name: Bbmb Securities Sdn Bhd
+  swift: BSSBMYK1XXX
+  swift8: BSSBMYK1
+  branch_name: Head Office
+  branch_address: Menara Olympia Kuala Lumpur 50200
+  branch_code: XXX
+  city: Kuala Lumpur
+  country: Malaysia
+- name: Bbmb Unit Trust Management Berhad
+  swift: BBUTMYK1XXX
+  swift8: BBUTMYK1
+  branch_name: Head Office
+  branch_address: Plaza Raja Chulan 8 Jalan Raja Kuala Lumpur 50200
+  branch_code: XXX
+  city: Kuala Lumpur
+  country: Malaysia
+- name: Bimb Securities Sdn Bhd
+  swift: BSDBMYK1XXX
+  swift8: BSDBMYK1
+  branch_name: Head Office
+  branch_address: 32 Menara Multi-Purpose Kuala Lumpur 50100
+  branch_code: XXX
+  city: Kuala Lumpur
+  country: Malaysia
+- name: Bimb Unit Trust Management Berhad
+  swift: BUTMMYK1XXX
+  swift8: BUTMMYK1
+  branch_name: Head Office
+  branch_address: Darul Takaful, Jalan Sultan Ismail Kuala Lumpur 50350
+  branch_code: XXX
+  city: Kuala Lumpur
+  country: Malaysia
+- name: British American Tobacco Gsd (kuala Lumpur) Sdn Bhd
+  swift: BATSMY21XXX
+  swift8: BATSMY21
+  branch_name: No branch name
+  branch_address: No branch address
+  branch_code: XXX
+  city: Petaling Jaya, Selangor
+  country: Malaysia
+- name: Bsn Merchant Bank Bhd
+  swift: BSNMMYK1XXX
+  swift8: BSNMMYK1
+  branch_name: Head Office
+  branch_address: Wisma Genting Kuala Lumpur 50250
+  branch_code: XXX
+  city: Kuala Lumpur
+  country: Malaysia
+- name: Bumiputra Merchant Bankers Berhad
+  swift: BMBBMYK1XXX
+  swift8: BMBBMYK1
+  branch_name: Head Office
+  branch_address: 84 Jalan Raja Chulan Kuala Lumpur 50200
+  branch_code: XXX
+  city: Kuala Lumpur
+  country: Malaysia
+- name: Bursa Malaysia Berhad
+  swift: XKLSMYK1XXX
+  swift8: XKLSMYK1
+  branch_name: Head Office
+  branch_address: Exchange Square Kuala Lumpur 50200
+  branch_code: XXX
+  city: Kuala Lumpur
+  country: Malaysia
+- name: Bursa Malaysia Depository Sdn. Bhd.
+  swift: MCDSMYK1XXX
+  swift8: MCDSMYK1
+  branch_name: Head Office
+  branch_address: Exchange Square Kuala Lumpur 20200
+  branch_code: XXX
+  city: Kuala Lumpur
+  country: Malaysia
+- name: Bursa Malaysia Derivatives Berhad
+  swift: XLOFMYK1XXX
+  swift8: XLOFMYK1
+  branch_name: Head Office
+  branch_address: Exchange Square Kuala Lumpur 50490
+  branch_code: XXX
+  city: Kuala Lumpur
+  country: Malaysia
+- name: Bursa Malaysia Securities Clearing Sendirian Berhad
+  swift: BMSCMYK1XXX
+  swift8: BMSCMYK1
+  branch_name: Head Office
+  branch_address: Bursa Malaysia Kuala Lumpur 50200
+  branch_code: XXX
+  city: Kuala Lumpur
+  country: Malaysia
+- name: Capital Investment Bank (labuan) Limited (cib Labuan
+  swift: CINBMY21XXX
+  swift8: CINBMY21
+  branch_name: Head Office
+  branch_address: Uoa Centre Labuan 50450
+  branch_code: XXX
+  city: Labuan
+  country: Malaysia
+- name: Cimb Futures Sdn. Bhd.
+  swift: CIMFMYK1XXX
+  swift8: CIMFMYK1
+  branch_name: Head Office
+  branch_address: Commerce Square Kuala Lumpur 50490
+  branch_code: XXX
+  city: Kuala Lumpur
+  country: Malaysia
+- name: Cimb Wealth Advisors Berhad
+  swift: BPTMMY21XXX
+  swift8: BPTMMY21
+  branch_name: Head Office
+  branch_address: Jalan 99 21/39 Petaling Jaya, Selangor 47400
+  branch_code: XXX
+  city: Petaling Jaya, Selangor
+  country: Malaysia
+- name: Citigroup Global Market Malaysia Sdn Bhd
+  swift: CITIMY21XXX
+  swift8: CITIMY21
+  branch_name: Head Office
+  branch_address: Menara Citibank Kuala Lumpur 50450
+  branch_code: XXX
+  city: Kuala Lumpur
+  country: Malaysia
+- name: Clsa Securities Malaysia Sdn. Bhd
+  swift: CSMSMYK1XXX
+  swift8: CSMSMYK1
+  branch_name: Head Office
+  branch_address: Menara Dion Kuala Lumpur 50250
+  branch_code: XXX
+  city: Kuala Lumpur
+  country: Malaysia
+- name: Credit Corporation (malaysia) Berhad
+  swift: CCMBMYK1XXX
+  swift8: CCMBMYK1
+  branch_name: Head Office
+  branch_address: Jalan Sultan Ismail Kuala Lumpur 50250
+  branch_code: XXX
+  city: Kuala Lumpur
+  country: Malaysia
+- name: Credit Lyonnais Securities Sdn Bhd
+  swift: CLSAMYK1XXX
+  swift8: CLSAMYK1
+  branch_name: Head Office
+  branch_address: Menara Boustead Kuala Lumpur 50200
+  branch_code: XXX
+  city: Kuala Lumpur
+  country: Malaysia
+- name: Credit Suisse Securities (malaysia) Sdn. Bhd.
+  swift: CSFBMYK1XXX
+  swift8: CSFBMYK1
+  branch_name: Head Office
+  branch_address: Menara Imc Kuala Lumpur 50250
+  branch_code: XXX
+  city: Kuala Lumpur
+  country: Malaysia
+- name: Crosby Research Sdn Bhd
+  swift: CRSHMYK1XXX
+  swift8: CRSHMYK1
+  branch_name: Head Office
+  branch_address: Pernas International Building Kuala Lumpur 50250
+  branch_code: XXX
+  city: Kuala Lumpur
+  country: Malaysia
+- name: Daiwa Securities Co Ltd
+  swift: DAICMYK1XXX
+  swift8: DAICMYK1
+  branch_name: Head Office
+  branch_address: Ubn Tower Kuala Lumpur 50250
+  branch_code: XXX
+  city: Kuala Lumpur
+  country: Malaysia
+- name: Ecmlibra Investment Bank Bhd Bangunan Ecm Libra
+  swift: EIBEMYK1XXX
+  swift8: EIBEMYK1
+  branch_name: Head Office
+  branch_address: Bangunan Ecm Libra Kuala Lumpur 50490
+  branch_code: XXX
+  city: Kuala Lumpur
+  country: Malaysia
+- name: Employees Provident Fund Board
+  swift: KWSPMYK1XXX
+  swift8: KWSPMYK1
+  branch_name: Head Office
+  branch_address: Kwsp Building Kuala Lumpur 50350
+  branch_code: XXX
+  city: Kuala Lumpur
+  country: Malaysia
+- name: Eon Finance Bhd
+  swift: EONFMYK1XXX
+  swift8: EONFMYK1
+  branch_name: Head Office
+  branch_address: Wisma Cyclecarri Kuala Lumpur 50350
+  branch_code: XXX
+  city: Kuala Lumpur
+  country: Malaysia
+- name: Eoncap Securities Sdn Bhd
+  swift: ESSHMYK1XXX
+  swift8: ESSHMYK1
+  branch_name: Head Office
+  branch_address: Menara Eonbank Kuala Lumpur 50350
+  branch_code: XXX
+  city: Kuala Lumpur
+  country: Malaysia
+- name: Fa Securities Sdn. Bhd.
+  swift: FASEMY21XXX
+  swift8: FASEMY21
+  branch_name: Head Office
+  branch_address: Wisma Umno Kuala Terengganu, Terengganu 20100
+  branch_code: XXX
+  city: Kuala Terengganu, Terengganu
+  country: Malaysia
+- name: Fulton Prebon (malaysia) Sdn. Bhd
+  swift: FPMBMYK1XXX
+  swift8: FPMBMYK1
+  branch_name: Head Office
+  branch_address: Yee Seng Building Kuala Lumpur 50200
+  branch_code: XXX
+  city: Kuala Lumpur
+  country: Malaysia
+- name: G.k. Goh Securities Pte Ltd
+  swift: GOSPMYK1XXX
+  swift8: GOSPMYK1
+  branch_name: Head Office
+  branch_address: Ubn Tower Kuala Lumpur 50250
+  branch_code: XXX
+  city: Kuala Lumpur
+  country: Malaysia
+- name: Ha Options And Financial Futures
+  swift: HAOFMYK1XXX
+  swift8: HAOFMYK1
+  branch_name: Head Office
+  branch_address: Menara Lion Building Kuala Lumpur 50450
+  branch_code: XXX
+  city: Kuala Lumpur
+  country: Malaysia
+- name: Halim Securities Sdn Bhd.
+  swift: HALIMY21XXX
+  swift8: HALIMY21
+  branch_name: Head Office
+  branch_address: Menara Mppj Petaling Jaya, Selangor 46300
+  branch_code: XXX
+  city: Petaling Jaya, Selangor
+  country: Malaysia
+- name: Hdm Futures Sdn. Bhd
+  swift: HDMFMYK1XXX
+  swift8: HDMFMYK1
+  branch_name: Head Office
+  branch_address: Mbf Plaza Kuala Lumpur 50450
+  branch_code: XXX
+  city: Kuala Lumpur
+  country: Malaysia
+- name: Hlg Futures Sdn. Bhd.
+  swift: HLGFMYK1XXX
+  swift8: HLGFMYK1
+  branch_name: Head Office
+  branch_address: Menara Hla Kuala Lumpur 50200
+  branch_code: XXX
+  city: Kuala Lumpur
+  country: Malaysia
+- name: Hlg Unit Trust Bhd
+  swift: HUTMMYK1XXX
+  swift8: HUTMMYK1
+  branch_name: Head Office
+  branch_address: Wisma Hla Kuala Lumpur 50200
+  branch_code: XXX
+  city: Kuala Lumpur
+  country: Malaysia
+- name: Hong Leong Finance Berhad
+  swift: HLFBMYK1XXX
+  swift8: HLFBMYK1
+  branch_name: Head Office
+  branch_address: Wisma Hong Leong Kuala Lumpur 50450
+  branch_code: XXX
+  city: Kuala Lumpur
+  country: Malaysia
+- name: Hsbc Research (malaysia) Sdn. Bhd
+  swift: JACLMYK1XXX
+  swift8: JACLMYK1
+  branch_name: Head Office
+  branch_address: Hongkong Bank Building Kuala Lumpur 50100
+  branch_code: XXX
+  city: Kuala Lumpur
+  country: Malaysia
+- name: India International Bank (malaysia) Berhad
+  swift: IIMBMYKLXXX
+  swift8: IIMBMYKL
+  branch_name: Head Office
+  branch_address: Bgn Yee Seng Kuala Lumpur 50200
+  branch_code: XXX
+  city: Kuala Lumpur
+  country: Malaysia
+- name: India International Bank (malaysia) Berhad
+  swift: IIMBMYK1XXX
+  swift8: IIMBMYK1
+  branch_name: Head Office
+  branch_address: Bgn Yee Seng Kuala Lumpur 50200
+  branch_code: XXX
+  city: Kuala Lumpur
+  country: Malaysia
+- name: Ing Insurance Berhad
+  swift: INIHMYK1XXX
+  swift8: INIHMYK1
+  branch_name: Head Office
+  branch_address: Menara Ing Kuala Lumpur 50200
+  branch_code: XXX
+  city: Kuala Lumpur
+  country: Malaysia
+- name: Inter-pacific Securities Sdn. Bhd.
+  swift: INSSMYK1XXX
+  swift8: INSSMYK1
+  branch_name: Head Office
+  branch_address: West Wing Kuala Lumpur 50250
+  branch_code: XXX
+  city: Kuala Lumpur
+  country: Malaysia
+- name: J.m. Sassoon Research (malaysia) Sdn Bhd
+  swift: SRMSMYK1XXX
+  swift8: SRMSMYK1
+  branch_name: Head Office
+  branch_address: Wisma Sime Darby Kuala Lumpur 50350
+  branch_code: XXX
+  city: Kuala Lumpur
+  country: Malaysia
+- name: J.p. Morgan Chase Bank Berhad
+  swift: CHASMYL1XXX
+  swift8: CHASMYL1
+  branch_name: Head Office
+  branch_address: Unit 5(F) Financial Park Labuan 87000
+  branch_code: XXX
+  city: Labuan
+  country: Malaysia
+- name: J.p. Morgan Securities (malaysia) Sdn Bhd
+  swift: CHASMY21XXX
+  swift8: CHASMY21
+  branch_name: Head Office
+  branch_address: Menera Dion Kuala Lumpur
+  branch_code: XXX
+  city: Kuala Lumpur
+  country: Malaysia
+- name: Jf Apex
+  swift: JFAPMYK1XXX
+  swift8: JFAPMYK1
+  branch_name: Head Office
+  branch_address: Menara Keck Seng Bintang 55100
+  branch_code: XXX
+  city: Bintang
+  country: Malaysia
+- name: Jf Apex Futures Sdn Bhd
+  swift: JFAFMY21XXX
+  swift8: JFAFMY21
+  branch_name: Head Office
+  branch_address: Wisma Apex Building Kajang, Selangor 43000
+  branch_code: XXX
+  city: Kajang, Selangor
+  country: Malaysia
+- name: Jf Apex Securities Berhad
+  swift: APEXMY21XXX
+  swift8: APEXMY21
+  branch_name: Head Office
+  branch_address: Menara Apex Kajang 43000
+  branch_code: XXX
+  city: Kajang
+  country: Malaysia
+- name: Jp Morgan Chase Bank, Na Labuan Branch
+  swift: CHASMY2AXXX
+  swift8: CHASMY2A
+  branch_name: Head Office
+  branch_address: Main Office Tower Labuan 87000
+  branch_code: XXX
+  city: Labuan
+  country: Malaysia
+- name: Jupiter Securities Sdn. Bhd
+  swift: JUPSMYK1XXX
+  swift8: JUPSMYK1
+  branch_name: Head Office
+  branch_address: Wisma Hla Kuala Lumpur 50200
+  branch_code: XXX
+  city: Kuala Lumpur
+  country: Malaysia
+- name: K And N Kenaga Sdn Bhd
+  swift: KKENMYK1XXX
+  swift8: KKENMYK1
+  branch_name: Head Office
+  branch_address: Pernas International Building Kuala Lumpur 50250
+  branch_code: XXX
+  city: Kuala Lumpur
+  country: Malaysia
+- name: Kaf-astley And Pearce Sdn Bhd
+  swift: KAAPMYK1XXX
+  swift8: KAAPMYK1
+  branch_name: Head Office
+  branch_address: Chulan Tower Kuala Lumpur 50200
+  branch_code: XXX
+  city: Kuala Lumpur
+  country: Malaysia
+- name: Ke-zan Securities Sdn Bhd
+  swift: KEZAMYK1XXX
+  swift8: KEZAMYK1
+  branch_name: Head Office
+  branch_address: Wisma Lee Rubber Kuala Lumpur 50100
+  branch_code: XXX
+  city: Kuala Lumpur
+  country: Malaysia
+- name: Ke-zan Securities Sdn Bhd
+  swift: KEZNMY21XXX
+  swift8: KEZNMY21
+  branch_name: Head Office
+  branch_address: Wisma Ke-Zan Penang, Penang 10200
+  branch_code: XXX
+  city: Penang, Penang
+  country: Malaysia
+- name: Kenanga Dmg Futures Sdn Bhd
+  swift: KDMGMYK1XXX
+  swift8: KDMGMYK1
+  branch_name: Head Office
+  branch_address: Pernas International Building Kuala Lumpur 50250
+  branch_code: XXX
+  city: Kuala Lumpur
+  country: Malaysia
+- name: Kimara Equities Sdn Bhd
+  swift: KIMAMY21XXX
+  swift8: KIMAMY21
+  branch_name: Head Office
+  branch_address: Bangunan Yayasan Seremban, Negri Sembilan 70000
+  branch_code: XXX
+  city: Seremban, Negri Sembilan
+  country: Malaysia
+- name: Klang Securities Sdn Bhd
+  swift: KLANMY21XXX
+  swift8: KLANMY21
+  branch_name: Head Office
+  branch_address: 1 Lintang Pekan Baru Klang, Selangor 41050
+  branch_code: XXX
+  city: Klang, Selangor
+  country: Malaysia
+- name: Kuala Lumpur City Securities Sdn Bhd
+  swift: KLCEMYK1XXX
+  swift8: KLCEMYK1
+  branch_name: Head Office
+  branch_address: 8 Jalan Binjai, Off Jalan Ampang Kuala Lumpur 50450
+  branch_code: XXX
+  city: Kuala Lumpur
+  country: Malaysia
+- name: Kumpulan Wang Persaraan (diperbadankan
+  swift: KWAPMYK1XXX
+  swift8: KWAPMYK1
+  branch_name: Head Office
+  branch_address: Menara Yayasan Tun Razak Kuala Lumpur 55100
+  branch_code: XXX
+  city: Kuala Lumpur
+  country: Malaysia
+- name: Labuan Securities Sdn Bhd
+  swift: LABNMY21XXX
+  swift8: LABNMY21
+  branch_name: Head Office
+  branch_address: Wisma Oceanic Labuan 87007
+  branch_code: XXX
+  city: Labuan
+  country: Malaysia
+- name: Leong And Co Sdn Bhd
+  swift: LEONMYK1XXX
+  swift8: LEONMYK1
+  branch_name: Head Office
+  branch_address: Wisma Hamzah-Kwong Hing Kuala Lumpur 50100
+  branch_code: XXX
+  city: Kuala Lumpur
+  country: Malaysia
+- name: Libra Capital Management Sdn Bhd
+  swift: LCMSMYK1XXX
+  swift8: LCMSMYK1
+  branch_name: Head Office
+  branch_address: Wisma Genting, Jalan Sultan Ismail Kuala Lumpur
+  branch_code: XXX
+  city: Kuala Lumpur
+  country: Malaysia
+- name: Libra Options And Financial Futures Sdn Bhd
+  swift: LOFFMYK1XXX
+  swift8: LOFFMYK1
+  branch_name: Head Office
+  branch_address: Wisma Genting Building Kuala Lumpur 50250
+  branch_code: XXX
+  city: Kuala Lumpur
+  country: Malaysia
+- name: M And A Securities Sdn. Bhd.
+  swift: PTBBMYK1XXX
+  swift8: PTBBMYK1
+  branch_name: Head Office
+  branch_address: M and a Building Ipoh, Perak 30000
+  branch_code: XXX
+  city: Ipoh, Perak
+  country: Malaysia
+- name: Macquarie Capital Securities (malaysia) Sdn. Bhd.
+  swift: MACQMYK1XXX
+  swift8: MACQMYK1
+  branch_name: Head Office
+  branch_address: Menara Dion Kuala Lumpur 50250
+  branch_code: XXX
+  city: Kuala Lumpur
+  country: Malaysia
+- name: Malacca Securities Sdn. Bhd.
+  swift: MLLAMY21XXX
+  swift8: MLLAMY21
+  branch_name: Head Office
+  branch_address: 1, 3 and 5, Jalan Ppm 9 Melaka 75750
+  branch_code: XXX
+  city: Melaka
+  country: Malaysia
+- name: Malayan Banking Berhad (maybank
+  swift: MBBEMYKLWEB
+  swift8: MBBEMYKL
+  branch_name: Cash Management Department
+  branch_address: Menara Maybank Kuala Lumpur 50050
+  branch_code: WEB
+  city: Kuala Lumpur
+  country: Malaysia
+- name: Malaysia Lng Sdn Bhd
+  swift: MLNGMY21XXX
+  swift8: MLNGMY21
+  branch_name: Head Office
+  branch_address: Petronas Lng Complex Bintulu 97007
+  branch_code: XXX
+  city: Bintulu
+  country: Malaysia
+- name: Malaysian Electronic Payment System (1997) Sdn Bhd
+  swift: MEPSMYK1XXX
+  swift8: MEPSMYK1
+  branch_name: Head Office
+  branch_address: Menara Weld Kuala Lumpur 50200
+  branch_code: XXX
+  city: Kuala Lumpur
+  country: Malaysia
+- name: Malaysian Industrial Development Finance Bhd
+  swift: MAIDMYK1XXX
+  swift8: MAIDMYK1
+  branch_name: Head Office
+  branch_address: Menara Midf Kuala Lumpur 50400
+  branch_code: XXX
+  city: Kuala Lumpur
+  country: Malaysia
+- name: Malpac Management Sdn. Bhd.
+  swift: SSSDMY21XXX
+  swift8: SSSDMY21
+  branch_name: Head Office
+  branch_address: Tingkat 1-2 Seremban, Negri Sembilan 70000
+  branch_code: XXX
+  city: Seremban
+  country: Malaysia
+- name: Manulife Asset Management Services Berhad
+  swift: MAMIMYK1ALL
+  swift8: MAMIMYK1
+  branch_name: All Branch
+  branch_address: No branch address
+  branch_code: ALL
+  city: Kuala Lumpur
+  country: Malaysia
+- name: Manulife Asset Management Services Berhad
+  swift: MAMIMYK1XXX
+  swift8: MAMIMYK1
+  branch_name: No branch name
+  branch_address: No branch address
+  branch_code: XXX
+  city: Kuala Lumpur
+  country: Malaysia
+- name: Mayban Discount Berhad
+  swift: MAYDMYK1XXX
+  swift8: MAYDMYK1
+  branch_name: Head Office
+  branch_address: Menara Maybank Kuala Lumpur 50050
+  branch_code: XXX
+  city: Kuala Lumpur
+  country: Malaysia
+- name: Mayban Finance Bhd
+  swift: MFINMYK1XXX
+  swift8: MFINMYK1
+  branch_name: Head Office
+  branch_address: 1 Lorong Medan Tuanku Satu Kuala Lumpur 50300
+  branch_code: XXX
+  city: Kuala Lumpur
+  country: Malaysia
+- name: Mayban Futures Sdn Bhd
+  swift: MAYFMYK1XXX
+  swift8: MAYFMYK1
+  branch_name: Head Office
+  branch_address: Menara Maybank Building Kuala Lumpur 50050
+  branch_code: XXX
+  city: Kuala Lumpur
+  country: Malaysia
+- name: Mayban Securities Sdn Bhd
+  swift: MAYSMYK1XXX
+  swift8: MAYSMYK1
+  branch_name: Head Office
+  branch_address: Menara Maybank Kuala Lumpur 50050
+  branch_code: XXX
+  city: Kuala Lumpur
+  country: Malaysia
+- name: Maybank International Labuan Branch
+  swift: MBBEMY2LXXX
+  swift8: MBBEMY2L
+  branch_name: Head Office
+  branch_address: Financial Park Labuan Labuan 87000
+  branch_code: XXX
+  city: Labuan
+  country: Malaysia
+- name: Mbf Finance Berhad
+  swift: MBFFMYK1XXX
+  swift8: MBFFMYK1
+  branch_name: Head Office
+  branch_address: Plaza Mbf Kuala Lumpur 50450
+  branch_code: XXX
+  city: Kuala Lumpur
+  country: Malaysia
+- name: Mbf Securities Sdn Bhd
+  swift: MBFSMY21XXX
+  swift8: MBFSMY21
+  branch_name: Head Office
+  branch_address: 57-59-61 Jalan Ali Muar, Johor 84000
+  branch_code: XXX
+  city: Muar, Johor
+  country: Malaysia
+- name: Mbf Unit Trust Management Berhad
+  swift: MBFUMYK1XXX
+  swift8: MBFUMYK1
+  branch_name: Head Office
+  branch_address: Plaza Mbf Kuala Lumpur 50450
+  branch_code: XXX
+  city: Kuala Lumpur
+  country: Malaysia
+- name: Mega International Commercial Bank Co., Ltd. Labuan Branch
+  swift: ICBCMY2LXXX
+  swift8: ICBCMY2L
+  branch_name: Head Office
+  branch_address: Financial Park Labuan Complex Labuan 87000
+  branch_code: XXX
+  city: Labuan
+  country: Malaysia
+- name: Mercedes-benz Services Malaysia Sdn. Bhd.
+  swift: MBSMMYKLXXX
+  swift8: MBSMMYKL
+  branch_name: Head Office
+  branch_address: Menara Tm Kuala Lumpur 50672
+  branch_code: XXX
+  city: Kuala Lumpur
+  country: Malaysia
+- name: Mercury Securities Sdn. Bhd.
+  swift: MERYMY21XXX
+  swift8: MERYMY21
+  branch_name: Head Office
+  branch_address: Wisma Umno Butterworth, Penang 12000
+  branch_code: XXX
+  city: Butterworth, Penang
+  country: Malaysia
+- name: Midf Amanah Investment Bank Berhad
+  swift: MIDFMYK1XXX
+  swift8: MIDFMYK1
+  branch_name: Head Office
+  branch_address: Menara Midf Kuala Lumpur 50200
+  branch_code: XXX
+  city: Kuala Lumpur
+  country: Malaysia
+- name: Mimb Investment Bank Berhad
+  swift: MIMBMYK1XXX
+  swift8: MIMBMYK1
+  branch_name: Head Office
+  branch_address: Menara Eon Bank Kuala Lumpur 50350
+  branch_code: XXX
+  city: Kuala Lumpur
+  country: Malaysia
+- name: Mohaiyani Securities Sdn Bhd
+  swift: MSSBMY21XXX
+  swift8: MSSBMY21
+  branch_name: Head Office
+  branch_address: Plaza Damansara Utama Petaling Jaya, Selangor 47400
+  branch_code: XXX
+  city: Petaling Jaya, Selangor
+  country: Malaysia
+- name: Morgan Grenfell And Co Ltd
+  swift: MGCOMYK1XXX
+  swift8: MGCOMYK1
+  branch_name: Head Office
+  branch_address: Perna International Building Kuala Lumpur 50250
+  branch_code: XXX
+  city: Kuala Lumpur
+  country: Malaysia
+- name: Multi-purpose Unit Trust Management Berhad
+  swift: MPUTMYK1XXX
+  swift8: MPUTMYK1
+  branch_name: Head Office
+  branch_address: 11a Jalan Raja Chulan Kuala Lumpur 50200
+  branch_code: XXX
+  city: Kuala Lumpur
+  country: Malaysia
+- name: Nava Sc Securities Research (m) Sdn Bhd.
+  swift: SCSEMYK1XXX
+  swift8: SCSEMYK1
+  branch_name: Head Office
+  branch_address: Menara Imc Kuala Lumpur 50250
+  branch_code: XXX
+  city: Kuala Lumpur
+  country: Malaysia
+- name: Nikko Advisory Services (malaysia) Son. Bhd.
+  swift: NKSCMYK1XXX
+  swift8: NKSCMYK1
+  branch_name: Head Office
+  branch_address: Ubn Tower Kuala Lumpur 50250
+  branch_code: XXX
+  city: Kuala Lumpur
+  country: Malaysia
+- name: Nomura Malaysia Sdn. Bhd
+  swift: NMSBMYK1XXX
+  swift8: NMSBMYK1
+  branch_name: Head Office
+  branch_address: Ubn Tower Kuala Lumpur 50250
+  branch_code: XXX
+  city: Kuala Lumpur
+  country: Malaysia
+- name: Nomura Securities Malaysia Sdn Bhd
+  swift: NMRSMYK1XXX
+  swift8: NMRSMYK1
+  branch_name: Head Office
+  branch_address: Menara Imc Kuala Lumpur 50250
+  branch_code: XXX
+  city: Kuala Lumpur
+  country: Malaysia
+- name: Novatel Sdn. Bhd.
+  swift: NOSBMY21XXX
+  swift8: NOSBMY21
+  branch_name: Head Office
+  branch_address: 15, Jalan Bu 6/6, Bandar Utama Petaling Jaya, Selangor 47800
+  branch_code: XXX
+  city: Petaling Jaya, Selangor
+  country: Malaysia
+- name: Ocbc Securities (melaka) Sdn Bhd
+  swift: OSMSMY21XXX
+  swift8: OSMSMY21
+  branch_name: Head Office
+  branch_address: 579 Taman Melaka Raya Malacca, Malacca 75000
+  branch_code: XXX
+  city: Malacca
+  country: Malaysia
+- name: Ong Research (malaysia) Sdn Bhd
+  swift: ORMSMYK1XXX
+  swift8: ORMSMYK1
+  branch_name: Head Office
+  branch_address: Plaza See Hoy Chan Kuala Lumpur 50200
+  branch_code: XXX
+  city: Kuala Lumpur
+  country: Malaysia
+- name: Osk And Partners Sdn. Bhd.
+  swift: OSPSMYK1XXX
+  swift8: OSPSMYK1
+  branch_name: Head Office
+  branch_address: Plaza Mbf Kuala Lumpur 50450
+  branch_code: XXX
+  city: Kuala Lumpur
+  country: Malaysia
+- name: Osk Futures And Options Sdn Bhd
+  swift: OSKFMYK1XXX
+  swift8: OSKFMYK1
+  branch_name: Head Office
+  branch_address: Mbf Plaza Kuala Lumpur 50450
+  branch_code: XXX
+  city: Kuala Lumpur
+  country: Malaysia
+- name: Pab Unit Trust Management Berhad
+  swift: AUTMMYK1XXX
+  swift8: AUTMMYK1
+  branch_name: Head Office
+  branch_address: Tingkat 22 Menara Boustead Buiding Kuala Lumpur 50250
+  branch_code: XXX
+  city: Kuala Lumpur
+  country: Malaysia
+- name: Pacific Mutual Fund Bhd
+  swift: PMFBMY21XXX
+  swift8: PMFBMY21
+  branch_name: Head Office
+  branch_address: Menara Choy Fook on Building Petaling Jaya, Selangor 46050
+  branch_code: XXX
+  city: Petaling Jaya, Selangor
+  country: Malaysia
+- name: Panasonic Financial Centre (malaysia) Sdn. Bhd.
+  swift: PANAMY21XXX
+  swift8: PANAMY21
+  branch_name: Head Office
+  branch_address: Central Tower Petaling Jaya, Selangor 47500
+  branch_code: XXX
+  city: Petaling Jaya, Selangor
+  country: Malaysia
+- name: Pb Futures Sdn. Bhd.
+  swift: PBFBMYK1XXX
+  swift8: PBFBMYK1
+  branch_name: Head Office
+  branch_address: Menara Sabre Kuala Lumpur 50250
+  branch_code: XXX
+  city: Kuala Lumpur
+  country: Malaysia
+- name: Pb Securities Sdn. Bhd.
+  swift: SECSMYK1XXX
+  swift8: SECSMYK1
+  branch_name: Head Office
+  branch_address: Lot 264 Kuala Lumpur 50200
+  branch_code: XXX
+  city: Kuala Lumpur
+  country: Malaysia
+- name: Pelaburan Johor Berhad
+  swift: PJBJMY21XXX
+  swift8: PJBJMY21
+  branch_name: Head Office
+  branch_address: Tingkat 10 Johor Bahru, Johor 80000
+  branch_code: XXX
+  city: Johor Bahru, Johor
+  country: Malaysia
+- name: Pengurusan Kumipa Berhad
+  swift: PKUMMY21XXX
+  swift8: PKUMMY21
+  branch_name: Head Office
+  branch_address: Complex Teruntum Kuantan, Pahang 25720
+  branch_code: XXX
+  city: Kuantan, Pahang
+  country: Malaysia
+- name: Permodalan Bsn Berhad
+  swift: PBSNMYK1XXX
+  swift8: PBSNMYK1
+  branch_name: Head Office
+  branch_address: Wisma Bsn Building Kuala Lumpur 50450
+  branch_code: XXX
+  city: Kuala Lumpur
+  country: Malaysia
+- name: Permodalan Nasional Berhad
+  swift: PERMMYK1XXX
+  swift8: PERMMYK1
+  branch_name: Head Office
+  branch_address: Menara Pnb Kuala Lumpur 50400
+  branch_code: XXX
+  city: Kuala Lumpur
+  country: Malaysia
+- name: Permodalan Nasional Berhad
+  swift: PERMMYKLXXX
+  swift8: PERMMYKL
+  branch_name: Head Office
+  branch_address: Menara Pnb Kuala Lumpur 50400
+  branch_code: XXX
+  city: Kuala Lumpur
+  country: Malaysia
+- name: Pesaka Jardine Fleming Sdn Bhd
+  swift: PEJFMYK1XXX
+  swift8: PEJFMYK1
+  branch_name: Head Office
+  branch_address: Shahzan Prudential Tower Kuala Lumpur 50250
+  branch_code: XXX
+  city: Kuala Lumpur
+  country: Malaysia
+- name: Phileo Allied Option And Financial Futures Sdn. Bhd.
+  swift: POFFMYK1XXX
+  swift8: POFFMYK1
+  branch_name: Head Office
+  branch_address: Menara Imc Building Kuala Lumpur 50250
+  branch_code: XXX
+  city: Kuala Lumpur
+  country: Malaysia
+- name: Phileo Allied Securities Sdn Bhd
+  swift: PPSSMYK1XXX
+  swift8: PPSSMYK1
+  branch_name: Head Office
+  branch_address: Wisma Nanyang-Siang Pau Ipoh, Perak 30000
+  branch_code: XXX
+  city: Ipoh, Perak
+  country: Malaysia
+- name: Pica (m) Corporation Sdn Bhd
+  swift: PCOSMYK1XXX
+  swift8: PCOSMYK1
+  branch_name: Head Office
+  branch_address: Buanguanan Mas Kuala Lumpur 50250
+  branch_code: XXX
+  city: Kuala Lumpur
+  country: Malaysia
+- name: Piv Services Sdn Berhad
+  swift: PIVSMYK1XXX
+  swift8: PIVSMYK1
+  branch_name: Head Office
+  branch_address: Menera Imc Kuala Lumpur 50250
+  branch_code: XXX
+  city: Kuala Lumpur
+  country: Malaysia
+- name: Pm Securities Sdn. Bhd.
+  swift: PENSMYK1XXX
+  swift8: PENSMYK1
+  branch_name: Head Office
+  branch_address: Menara Pmi Kuala Lumpur 50250
+  branch_code: XXX
+  city: Kuala Lumpur
+  country: Malaysia
+- name: Primeinvestcorp
+  swift: PRNVMY21XXX
+  swift8: PRNVMY21
+  branch_name: Head Office
+  branch_address: 37 Johor Bahru, Johor 81300
+  branch_code: XXX
+  city: Johor Bahru, Johor
+  country: Malaysia
+- name: Ptb Unit Trust Berhad
+  swift: PUTBMY21XXX
+  swift8: PUTBMY21
+  branch_name: Head Office
+  branch_address: Lobby B, Kelana Centre Point No. 3, Kuala Terengganu, Terengganu
+    20200
+  branch_code: XXX
+  city: Kuala Terengganu, Terengganu
+  country: Malaysia
+- name: Public Finance Berhad
+  swift: PFBEMYK1XXX
+  swift8: PFBEMYK1
+  branch_name: Head Office
+  branch_address: Bangunan Public Bank Kuala Lumpur 50000
+  branch_code: XXX
+  city: Kuala Lumpur
+  country: Malaysia
+- name: Public Investment Bank Berhad
+  swift: SMBBMYK1XXX
+  swift8: SMBBMYK1
+  branch_name: Head Office
+  branch_address: Menara Public Bank Kuala Lumpur 50450
+  branch_code: XXX
+  city: Kuala Lumpur
+  country: Malaysia
+- name: Public Islamic Bank Berhad
+  swift: PIBEMYK1XXX
+  swift8: PIBEMYK1
+  branch_name: Head Office
+  branch_address: Menara Public Bank Kuala Lumpur 50450
+  branch_code: XXX
+  city: Kuala Lumpur
+  country: Malaysia
+- name: Public Mutual Berhad
+  swift: KLMFMYK1XXX
+  swift8: KLMFMYK1
+  branch_name: Head Office
+  branch_address: Block B, Sri Damansara Business Pa Kuala Lumpur 50400
+  branch_code: XXX
+  city: Kuala Lumpur
+  country: Malaysia
+- name: Rakyat Merchant Bankers Berhad
+  swift: RMBBMYK1XXX
+  swift8: RMBBMYK1
+  branch_name: Head Office
+  branch_address: Bangunion Angkasa Raya Kuala Lumpur 50450
+  branch_code: XXX
+  city: Kuala Lumpur
+  country: Malaysia
+- name: Rashid And Zaki Derivatives Sdn Bhd
+  swift: RNZDMYK1XXX
+  swift8: RNZDMYK1
+  branch_name: Head Office
+  branch_address: Block F Kuala Lumpur 50480
+  branch_code: XXX
+  city: Kuala Lumpur
+  country: Malaysia
+- name: Rhb Excel Sdn. Bhd.
+  swift: RHBKMYK1XXX
+  swift8: RHBKMYK1
+  branch_name: Head Office
+  branch_address: Rhb Centre Kuala Lumpur 50400
+  branch_code: XXX
+  city: Kuala Lumpur
+  country: Malaysia
+- name: Rhb Futures Sdn Bhd
+  swift: RHBFMYK1XXX
+  swift8: RHBFMYK1
+  branch_name: Head Office
+  branch_address: Rhb 1 Building Kuala Lumpur 50400
+  branch_code: XXX
+  city: Kuala Lumpur
+  country: Malaysia
+- name: Rhb Investment Bank Berhad
+  swift: RHBMMYK1XXX
+  swift8: RHBMMYK1
+  branch_name: Head Office
+  branch_address: Rhb Centre Kuala Lumpur 50400
+  branch_code: XXX
+  city: Kuala Lumpur
+  country: Malaysia
+- name: Royal Savings And Loan Ef
+  swift: ROSLMYK1XXX
+  swift8: ROSLMYK1
+  branch_name: Head Office
+  branch_address: Menara Citibank Kuala Lumpur 50450
+  branch_code: XXX
+  city: Kuala Lumpur
+  country: Malaysia
+- name: Rsi Capital Holdings Bhd
+  swift: RCHBMYK1XXX
+  swift8: RCHBMYK1
+  branch_name: Head Office
+  branch_address: 73-1,Amber Business Plaza 1,Jalan J Kuala Lumpur 00000
+  branch_code: XXX
+  city: Kuala Lumpur
+  country: Malaysia
+- name: Rsle Holding (labuan) Corporation
+  swift: RHLCMY21XXX
+  swift8: RHLCMY21
+  branch_name: Head Office
+  branch_address: Financial Park Complex Labuan 87000
+  branch_code: XXX
+  city: Labuan
+  country: Malaysia
+- name: Sabah Development Bank Bhd.
+  swift: SDBEMY41XXX
+  swift8: SDBEMY41
+  branch_name: Head Office
+  branch_address: Sdb Tower Kota Kinabalu, Sabah 88824
+  branch_code: XXX
+  city: Kota Kinabalu, Sabah
+  country: Malaysia
+- name: Saham Sabah Berhad
+  swift: SASBMY41XXX
+  swift8: SASBMY41
+  branch_name: Head Office
+  branch_address: Cps Tower Kota Kinabalu, Sabah 88000
+  branch_code: XXX
+  city: Kota Kinabalu, Sabah
+  country: Malaysia
+- name: Samsung Electronics Display (m) Sdn.bhd.
+  swift: SECTMY21510
+  swift8: SECTMY21
+  branch_name: Sdma
+  branch_address: Seremban, Negri Sembilan
+  branch_code: '510'
+  city: Seremban
+  country: Malaysia
+- name: Samsung Electronics Display (m) Sdn.bhd.
+  swift: SECTMY21520
+  swift8: SECTMY21
+  branch_name: Sema
+  branch_address: Port Klang, Selangor
+  branch_code: '520'
+  city: Port Klang, Selangor
+  country: Malaysia
+- name: Samsung Electronics Display (m) Sdn.bhd.
+  swift: SECTMY215F0
+  swift8: SECTMY21
+  branch_name: Sme
+  branch_address: Kuala Lumpur
+  branch_code: 5F0
+  city: Kuala Lumpur
+  country: Malaysia
+- name: Samsung Electronics Display (m) Sdn.bhd.
+  swift: SECTMY21XXX
+  swift8: SECTMY21
+  branch_name: Head Office
+  branch_address: "(Hsd) 69244 Seremban, Negri Sembilan 71450"
+  branch_code: XXX
+  city: Seremban
+  country: Malaysia
+- name: Sarawak Securities Futures Sdn Bhd
+  swift: SSFOMYK1XXX
+  swift8: SSFOMYK1
+  branch_name: Head Office
+  branch_address: Wisma Mahmud Kuching, Sarawak 93100
+  branch_code: XXX
+  city: Kuching, Sarawak
+  country: Malaysia
+- name: Sbb Securities Sdn. Bhd
+  swift: SSSHMYK1XXX
+  swift8: SSSHMYK1
+  branch_name: Head Office
+  branch_address: 51-53, Persiaran Greenhill Ipoh, Perak 30450
+  branch_code: XXX
+  city: Ipoh, Perak
+  country: Malaysia
+- name: Sbb Unit Trust Management B Erhad
+  swift: SBUTMYK1XXX
+  swift8: SBUTMYK1
+  branch_name: Head Office
+  branch_address: Wisma Perdana Building Kuala Lumpur 50490
+  branch_code: XXX
+  city: Kuala Lumpur
+  country: Malaysia
+- name: Schroder (malaysia) Sdn Bhd
+  swift: SMSBMYK1XXX
+  swift8: SMSBMYK1
+  branch_name: Head Office
+  branch_address: Komplek Kewagan Building Kuala Lumpur 50200
+  branch_code: XXX
+  city: Kuala Lumpur
+  country: Malaysia
+- name: Schroders Malaysia (l) Berhad
+  swift: SMBLMYK1XXX
+  swift8: SMBLMYK1
+  branch_name: Head Office
+  branch_address: Main Office Tower Labuan 87000
+  branch_code: XXX
+  city: Labuan
+  country: Malaysia
+- name: Seagroatt And Campbell Sdn Bhd
+  swift: SEACMYK1XXX
+  swift8: SEACMYK1
+  branch_name: Head Office
+  branch_address: Wisma Hamzah Kwong Hing Kuala Lumpur 50100
+  branch_code: XXX
+  city: Kuala Lumpur
+  country: Malaysia
+- name: Sfsb Services (melaka) Sdn. Bhd.
+  swift: SFDBMY21XXX
+  swift8: SFDBMY21
+  branch_name: Head Office
+  branch_address: Bangunan Tabung Haji Building Malacca, Malacca 75000
+  branch_code: XXX
+  city: Malacca
+  country: Malaysia
+- name: Sg Securities (singapore) Custodial Services Pte. Ltd.
+  swift: SGSEMYK1XXX
+  swift8: SGSEMYK1
+  branch_name: Kl Branch
+  branch_address: 1710 Pernas International Bldg. Kuala Lumpur 50250
+  branch_code: XXX
+  city: Kuala Lumpur
+  country: Malaysia
+- name: Sharikat Nominee Bumiputra Sdn Bhd
+  swift: SNBBMYK1XXX
+  swift8: SNBBMYK1
+  branch_name: Head Office
+  branch_address: Menara Bumiputra Kuala Lumpur 50913
+  branch_code: XXX
+  city: Kuala Lumpur
+  country: Malaysia
+- name: Short Deposits (malaysia) Berhad
+  swift: SDMBMYK1XXX
+  swift8: SDMBMYK1
+  branch_name: Head Office
+  branch_address: Bangunan Komplek Kewangan Kuala Lumpur 50200
+  branch_code: XXX
+  city: Kuala Lumpur
+  country: Malaysia
+- name: Sime Securities Sdn Bhd
+  swift: UMSSMYK1XXX
+  swift8: UMSSMYK1
+  branch_name: Head Office
+  branch_address: Bangunan Umbc Kuala Lumpur 50000
+  branch_code: XXX
+  city: Kuala Lumpur
+  country: Malaysia
+- name: Sj Securities Sdn Bhd
+  swift: SJSEMY21XXX
+  swift8: SJSEMY21
+  branch_name: Head Office
+  branch_address: Holiday Villa Petaling Jaya, Selangor 47500
+  branch_code: XXX
+  city: Petaling Jaya, Selangor
+  country: Malaysia
+- name: South Johor Securities Sdn Bhd
+  swift: SJSSMY21XXX
+  swift8: SJSSMY21
+  branch_name: Head Office
+  branch_address: Penggaram Complex Batu Pahat, Johore 83000
+  branch_code: XXX
+  city: Batu Pahat
+  country: Malaysia
+- name: Southern Finance Co Bhd
+  swift: UMFBMYK1XXX
+  swift8: UMFBMYK1
+  branch_name: Head Office
+  branch_address: Mui Plaza Kuala Lumpur 50250
+  branch_code: XXX
+  city: Kuala Lumpur
+  country: Malaysia
+- name: Southern Investment Bank Berhad
+  swift: PERDMYK1XXX
+  swift8: PERDMYK1
+  branch_name: Head Office
+  branch_address: Wisma Genting Kuala Lumpur 50250
+  branch_code: XXX
+  city: Kuala Lumpur
+  country: Malaysia
+- name: Standard Chartered Saadiq Berhad
+  swift: SCSRMYK1XXX
+  swift8: SCSRMYK1
+  branch_name: Head Office
+  branch_address: Menara Standard Chartered Kuala Lumpur 50250
+  branch_code: XXX
+  city: Kuala Lumpur
+  country: Malaysia
+- name: Sun Hung Kai Investment Services Ltd
+  swift: SUNHMYK1XXX
+  swift8: SUNHMYK1
+  branch_name: Head Office
+  branch_address: Banguanan Mas Kuala Lumpur 50250
+  branch_code: XXX
+  city: Kuala Lumpur
+  country: Malaysia
+- name: Supreme Finance (m) Berhad
+  swift: SUFBMYK1XXX
+  swift8: SUFBMYK1
+  branch_name: Head Office
+  branch_address: Supreme Finance Centre Kuala Lumpur 55100
+  branch_code: XXX
+  city: Kuala Lumpur
+  country: Malaysia
+- name: Syarikat Soon Theam Sdn Bhd
+  swift: SSTDMY21XXX
+  swift8: SSTDMY21
+  branch_name: Head Office
+  branch_address: 20-B Penang Street Penang, Penang 10200
+  branch_code: XXX
+  city: Penang, Penang
+  country: Malaysia
+- name: Ta Futures Sdn. Bhd.
+  swift: TAFRMYK1XXX
+  swift8: TAFRMYK1
+  branch_name: Head Office
+  branch_address: Ubn Tower Kuala Lumpur 50250
+  branch_code: XXX
+  city: Kuala Lumpur
+  country: Malaysia
+- name: Ta Investment Management Berhad
+  swift: TAUTMYK1XXX
+  swift8: TAUTMYK1
+  branch_name: Head Office
+  branch_address: Ubn Tower Kuala Lumpur 50250
+  branch_code: XXX
+  city: Kuala Lumpur
+  country: Malaysia
+- name: Ta Securities
+  swift: LEKEMY21XXX
+  swift8: LEKEMY21
+  branch_name: Head Office
+  branch_address: 5503 Jalan Sri Maha Raja Kota Bahru, Kelantan 15720
+  branch_code: XXX
+  city: Kota Bahru, Kelantan
+  country: Malaysia
+- name: Ta Securities Berhad
+  swift: SETAMYK1XXX
+  swift8: SETAMYK1
+  branch_name: Head Office
+  branch_address: Ubn Tower Kuala Lumpur 50250
+  branch_code: XXX
+  city: Kuala Lumpur
+  country: Malaysia
+- name: Ta Securities Holdings Berhad
+  swift: BOTLMY21XXX
+  swift8: BOTLMY21
+  branch_name: Head Office
+  branch_address: Menara Ta One Kuala Lumpur 50250
+  branch_code: XXX
+  city: Kuala Lumpur
+  country: Malaysia
+- name: Thong And Kay Hian Securities Sdn. Bhd.
+  swift: TKHOMY21XXX
+  swift8: TKHOMY21
+  branch_name: Head Office
+  branch_address: Wisma Sri Pinang Building Penang, Penang 10200
+  branch_code: XXX
+  city: Penang, Penang
+  country: Malaysia
+- name: Thong-khjc Sdn Bhd
+  swift: THKHMYP1XXX
+  swift8: THKHMYP1
+  branch_name: Head Office
+  branch_address: Wisma Sri Pinang Penang, Penang 10200
+  branch_code: XXX
+  city: Penang, Penang
+  country: Malaysia
+- name: Ubs Securities Malaysia Sdn. Bhd.
+  swift: USMSMYK1XXX
+  swift8: USMSMYK1
+  branch_name: Head Office
+  branch_address: Wisma Hong Leong Kuala Lumpur 50450
+  branch_code: XXX
+  city: Kuala Lumpur
+  country: Malaysia
+- name: Uob Kay Hian Securities (m) Sdn Bhd
+  swift: INNOMY41XXX
+  swift8: INNOMY41
+  branch_name: Head Office
+  branch_address: 11 Equity House Kota Kinabalu, Sabah 88100
+  branch_code: XXX
+  city: Kota Kinabalu, Sabah
+  country: Malaysia
+- name: Uob Securities Pte Ltd
+  swift: UOBSMYK1XXX
+  swift8: UOBSMYK1
+  branch_name: Head Office
+  branch_address: Lee Wah Bank Building Kuala Lumpur 50050
+  branch_code: XXX
+  city: Kuala Lumpur
+  country: Malaysia
+- name: Upen Securities Sdn Bhd
+  swift: USSBMY21XXX
+  swift8: USSBMY21
+  branch_name: Head Office
+  branch_address: Jalan Bukit Lagi Kangar, Perlis 01000
+  branch_code: XXX
+  city: Kangar, Perlis
+  country: Malaysia
+- name: Utama Merchant Bank Berhad
+  swift: UMBBMYK1XXX
+  swift8: UMBBMYK1
+  branch_name: Head Office
+  branch_address: Central Plaza Kuala Lumpur 50250
+  branch_code: XXX
+  city: Kuala Lumpur
+  country: Malaysia
+- name: Utama Wardley Berhad
+  swift: UWDYMYK1XXX
+  swift8: UWDYMYK1
+  branch_name: Head Office
+  branch_address: Plaza See Hoy Chan Kuala Lumpur 50776
+  branch_code: XXX
+  city: Kuala Lumpur
+  country: Malaysia
+- name: Vickers Ballas Research (m) Sdn Bhd
+  swift: VIBRMYK1XXX
+  swift8: VIBRMYK1
+  branch_name: Head Office
+  branch_address: Wisma Concorde Kuala Lumpur 50250
+  branch_code: XXX
+  city: Kuala Lumpur
+  country: Malaysia
+- name: Volkswagen Group Malaysia
+  swift: VOGMMYK1XXX
+  swift8: VOGMMYK1
+  branch_name: No branch name
+  branch_address: No branch address
+  branch_code: XXX
+  city: Kuala Lumpur
+  country: Malaysia
+- name: Wah Tat Bank Berhad
+  swift: WTBBMY3103K
+  swift8: WTBBMY31
+  branch_name: Kuching Sarawak
+  branch_address: 8 Carpenter Street Kuching, Sarawak 93734
+  branch_code: 03K
+  city: Kuching, Sarawak
+  country: Malaysia
+- name: Wah Tat Bank Berhad
+  swift: WTBBMY310KL
+  swift8: WTBBMY31
+  branch_name: Kuala Lumpur
+  branch_address: 38-40 Jalan Silang Kuala Lumpur 50050
+  branch_code: 0KL
+  city: Kuala Lumpur
+  country: Malaysia
+- name: Wah Tat Bank Berhad
+  swift: WTBBMY31XXX
+  swift8: WTBBMY31
+  branch_name: Head Office
+  branch_address: 15 Bank Road Sibu, Sarawak 96000
+  branch_code: XXX
+  city: Sibu, Sarawak
+  country: Malaysia
+- name: Wk Options And Futures Sdn Bhd
+  swift: WKOFMY21XXX
+  swift8: WKOFMY21
+  branch_name: Head Office
+  branch_address: Taman Sri Kuantan Iii Building Kuantan, Pahang 25300
+  branch_code: XXX
+  city: Kuantan, Pahang
+  country: Malaysia
+- name: Wk Securities Sdn Bhd
+  swift: SESBMY21XXX
+  swift8: SESBMY21
+  branch_name: Head Office
+  branch_address: Wisma Grand Kuantan, Pahang 25000
+  branch_code: XXX
+  city: Kuantan, Pahang
+  country: Malaysia
+- name: Y.k. Fung Securities Sdn Bhd
+  swift: FSSBMYK1XXX
+  swift8: FSSBMYK1
+  branch_name: Head Office
+  branch_address: 65 Clarke Street Ipoh, Perak 30300
+  branch_code: XXX
+  city: Ipoh, Perak
+  country: Malaysia
+- name: Yamaichi Advisory Services (malaysia) Sdn Bhd
+  swift: YASMMYK1XXX
+  swift8: YASMMYK1
+  branch_name: Head Office
+  branch_address: Ubn Tower Kuala Lumpur 50250
+  branch_code: XXX
+  city: Kuala Lumpur
+  country: Malaysia

@@ -1,0 +1,364 @@
+---
+LT:
+- name: Ab Citadele Bankas
+  swift: INDULT2XXXX
+  swift8: INDULT2X
+  branch_name: Head Office
+  branch_address: K. Kalinausko Street 13 03107 Vilnius
+  branch_code: XXX
+  city: Vilnius
+  country: Lithuania
+- name: Ab Dnb Bankas
+  swift: AGBLLT2XXXX
+  swift8: AGBLLT2X
+  branch_name: Head Office
+  branch_address: J.Basanaviciaus Street 26 2600 Vilnius
+  branch_code: XXX
+  city: Vilnius
+  country: Lithuania
+- name: Danske Bank A/S,Lithuania Branch
+  swift: SMPOLT22XXX
+  swift8: SMPOLT22
+  branch_name: Head Office
+  branch_address: Saltoniskiu G. 2 08500 Vilnius
+  branch_code: XXX
+  city: Vilnius
+  country: Lithuania
+- name: Lietuvos Bankas (Bank Of Lithuania)
+  swift: LIABLT2XCON
+  swift8: LIABLT2X
+  branch_name: Target2 Contingency
+  branch_address: Vilnius
+  branch_code: CON
+  city: Vilnius
+  country: Lithuania
+- name: Lietuvos Bankas (Bank Of Lithuania)
+  swift: LIABLT2XMSD
+  swift8: LIABLT2X
+  branch_name: Payment Systems Department
+  branch_address: Zirmunu G. 151 09128 Vilnius
+  branch_code: MSD
+  city: Vilnius
+  country: Lithuania
+- name: Lietuvos Centrinis Vertybiniu Popieriu Depozitoriumas, Ab (Central Securities
+    Depository Of Lithuania)
+  swift: CSDLLT22RTG
+  swift8: CSDLLT22
+  branch_name: Pm
+  branch_address: Vilnius
+  branch_code: RTG
+  city: Vilnius
+  country: Lithuania
+- name: Lietuvos Centrinis Vertybiniu Popieriu Depozitoriumas, Ab (Central Securities
+    Depository Of Lithuania)
+  swift: CSDLLT22XXX
+  swift8: CSDLLT22
+  branch_name: Head Office
+  branch_address: Konstitucijos Pr. 23b Lt-08105 Vilnius Vno
+  branch_code: XXX
+  city: Vilnius
+  country: Lithuania
+- name: Lithuanian Central Credit Union
+  swift: LCKULT22XXX
+  swift8: LCKULT22
+  branch_name: Head Office
+  branch_address: Savanoriu Av. 336-211 49425 Kaunas
+  branch_code: XXX
+  city: Kaunas
+  country: Lithuania
+- name: Nordea Bank Finland Plc Lithuania Branch
+  swift: NDEALT2XXXX
+  swift8: NDEALT2X
+  branch_name: Head Office
+  branch_address: Didzioji Street 18/2 Vilnius
+  branch_code: XXX
+  city: Vilnius
+  country: Lithuania
+- name: Seb Bank
+  swift: CBVILT2XXXX
+  swift8: CBVILT2X
+  branch_name: Head Office
+  branch_address: Gedimino Ave. 12 01103 Vilnius
+  branch_code: XXX
+  city: Vilnius
+  country: Lithuania
+- name: Siauliu Bankas Ab
+  swift: CBSBLT26XXX
+  swift8: CBSBLT26
+  branch_name: Head Office
+  branch_address: Tilzes Street 149 76348 Siauliai
+  branch_code: XXX
+  city: Siauliai
+  country: Lithuania
+- name: Svenska Handelsbanken Ab
+  swift: HANDLT2XXXX
+  swift8: HANDLT2X
+  branch_name: Head Office
+  branch_address: Gelezinio Vilko G. 18 a 08104 Vilnius
+  branch_code: XXX
+  city: Vilnius
+  country: Lithuania
+- name: Swedbank Ab
+  swift: HABALT22XXX
+  swift8: HABALT22
+  branch_name: Head Office
+  branch_address: Konstitucijos 20a Lt-03502 Vilnius
+  branch_code: XXX
+  city: Vilnius
+  country: Lithuania
+- name: Uab Fmi Finvesta
+  swift: UAFFLT22XXX
+  swift8: UAFFLT22
+  branch_name: Head Office
+  branch_address: Konstitucijos Pr. 15/5 Lt-09312 Vilnius
+  branch_code: XXX
+  city: Vilnius
+  country: Lithuania
+- name: Evli Bank Ltd
+  swift: EVSELT21XXX
+  swift8: EVSELT21
+  branch_name: Head Office
+  branch_address: J. Jasinskio 16 B 01112 Vilnius
+  branch_code: XXX
+  city: Vilnius
+  country: Lithuania
+- name: Ab Fmi Finasta
+  swift: FNSTLTL1XXX
+  swift8: FNSTLTL1
+  branch_name: Head Office
+  branch_address: Konstitucijos Pr. 23 2600 Vilnius
+  branch_code: XXX
+  city: Vilnius
+  country: Lithuania
+- name: Abfc Finance
+  swift: ABFCLT21XXX
+  swift8: ABFCLT21
+  branch_name: Head Office
+  branch_address: Auditiskiu 3-3 Vilnius
+  branch_code: XXX
+  city: Vilnius
+  country: Lithuania
+- name: Akcin Bendrov Vb Busto Kredit Ir Obligacij Bankas
+  swift: BKOBLT21XXX
+  swift8: BKOBLT21
+  branch_name: Head Office
+  branch_address: Gedimino Pr. 12 2600 Vilnius
+  branch_code: XXX
+  city: Vilnius
+  country: Lithuania
+- name: Akcine Bendrove Lietuvos Pastas
+  swift: ABLPLT21XXX
+  swift8: ABLPLT21
+  branch_name: Head Office
+  branch_address: A. Vivulskio 23 Lt-03500 Vilnius
+  branch_code: XXX
+  city: Vilnius
+  country: Lithuania
+- name: Cjsc Fbc Mrc Markets
+  swift: CFMALT21XXX
+  swift8: CFMALT21
+  branch_name: Head Office
+  branch_address: 283b 06313 Vilnius
+  branch_code: XXX
+  city: Vilnius
+  country: Lithuania
+- name: Diskontas Finansinio Maklerio Uab
+  swift: DISTLT21XXX
+  swift8: DISTLT21
+  branch_name: Head Office
+  branch_address: Laisv S A. 1 5300 Panevezys
+  branch_code: XXX
+  city: Panevezys
+  country: Lithuania
+- name: Ekspres Commercial Bank
+  swift: EKCBLT21XXX
+  swift8: EKCBLT21
+  branch_name: Head Office
+  branch_address: Kalvariju 124 2042 Vilnius
+  branch_code: XXX
+  city: Vilnius
+  country: Lithuania
+- name: Financial Brokerage Company Dv Invest Ltd
+  swift: DVINLT21XXX
+  swift8: DVINLT21
+  branch_name: Head Office
+  branch_address: Konstitucijos Ave. 23c - 614 08105 Vilnius
+  branch_code: XXX
+  city: Vilnius
+  country: Lithuania
+- name: Finhill
+  swift: FIHHLT21XXX
+  swift8: FIHHLT21
+  branch_name: Head Office
+  branch_address: 10 Smolensko 03201 Vilnius
+  branch_code: XXX
+  city: Vilnius
+  country: Lithuania
+- name: Fm Uab Suprema
+  swift: SPRALT21XXX
+  swift8: SPRALT21
+  branch_name: Head Office
+  branch_address: Vilnius
+  branch_code: XXX
+  city: Vilnius
+  country: Lithuania
+- name: Fmi Uab Baltic Stockholm Sparkassa
+  swift: BATKLT21XXX
+  swift8: BATKLT21
+  branch_name: Head Office
+  branch_address: K-Centre 92118 Klaipeda
+  branch_code: XXX
+  city: Klaipeda
+  country: Lithuania
+- name: G. Steponkaus Kontora Fmuab
+  swift: STEKLT21XXX
+  swift8: STEKLT21
+  branch_name: Head Office
+  branch_address: Konstitucijos Pr. 15-12 2662 Vilnius
+  branch_code: XXX
+  city: Vilnius
+  country: Lithuania
+- name: Kapitalo Srautal Uab Fm
+  swift: KPTLLT21XXX
+  swift8: KPTLLT21
+  branch_name: Head Office
+  branch_address: Konstitucijos Pr 23-503 2600 Vilnius
+  branch_code: XXX
+  city: Vilnius
+  country: Lithuania
+- name: Kredito Bankas
+  swift: KRBALT21XXX
+  swift8: KRBALT21
+  branch_name: Head Office
+  branch_address: A. Rotundo 5 2600 Vilnius
+  branch_code: XXX
+  city: Vilnius
+  country: Lithuania
+- name: Mp Investment Bank Hf
+  swift: INBHLT21XXX
+  swift8: INBHLT21
+  branch_name: Head Office
+  branch_address: A. Tum No St. 4 1135 Vilnius
+  branch_code: XXX
+  city: Vilnius
+  country: Lithuania
+- name: Nasdaq Omx Vilnius Ab
+  swift: XLITLT21XXX
+  swift8: XLITLT21
+  branch_name: Head Office
+  branch_address: Konstitucijos Pr. 7 08501 Vilnius
+  branch_code: XXX
+  city: Vilnius
+  country: Lithuania
+- name: Naugvilda Fmi Uab
+  swift: NAUVLT21XXX
+  swift8: NAUVLT21
+  branch_name: Head Office
+  branch_address: Ozo G. 25 2053 Vilnius
+  branch_code: XXX
+  city: Vilnius
+  country: Lithuania
+- name: Pohjola Bank Plc Lithuanian Branch
+  swift: OKOYLT2XXXX
+  swift8: OKOYLT2X
+  branch_name: Head Office
+  branch_address: Konstitucijos Pr. 7 09308 Vilnius
+  branch_code: XXX
+  city: Vilnius
+  country: Lithuania
+- name: Pohjola Bank Plc Lithuanian Branch
+  swift: OKOYLT21XXX
+  swift8: OKOYLT21
+  branch_name: Head Office
+  branch_address: Konstitucijos Av. 7 09308 Vilnius
+  branch_code: XXX
+  city: Vilnius
+  country: Lithuania
+- name: Seb Enskilda Uab
+  swift: SENULT21XXX
+  swift8: SENULT21
+  branch_name: Head Office
+  branch_address: Gedimino Pr. 12 01103 Vilnius
+  branch_code: XXX
+  city: Vilnius
+  country: Lithuania
+- name: Sinkus Fm Uab
+  swift: SIKULT21XXX
+  swift8: SIKULT21
+  branch_name: Head Office
+  branch_address: Konstitucijos Pr 23-608 2004 Vilnius
+  branch_code: XXX
+  city: Vilnius
+  country: Lithuania
+- name: Uab Fm Baltijos Vertyblnlai Poplerlai
+  swift: BVPPLT21XXX
+  swift8: BVPPLT21
+  branch_name: Head Office
+  branch_address: Gadimino Pr. 80 2600 Vilnius
+  branch_code: XXX
+  city: Vilnius
+  country: Lithuania
+- name: Uab Fm Finbaltus
+  swift: FNBTLT21XXX
+  swift8: FNBTLT21
+  branch_name: Head Office
+  branch_address: Konstitucijos Pr. 23-660 2034 Vilnius
+  branch_code: XXX
+  city: Vilnius
+  country: Lithuania
+- name: Uab Fm International Market
+  swift: INLTLT21XXX
+  swift8: INLTLT21
+  branch_name: Head Office
+  branch_address: Jeksto 16-4 2001 Vilnius
+  branch_code: XXX
+  city: Vilnius
+  country: Lithuania
+- name: Uab Fm Technologiju Valdymo
+  swift: TEVALT21XXX
+  swift8: TEVALT21
+  branch_name: Head Office
+  branch_address: Draugystes 19 3031 Kaunas
+  branch_code: XXX
+  city: Kaunas
+  country: Lithuania
+- name: Uab Fmi Jus Tarpininkas
+  swift: UABFLT21XXX
+  swift8: UABFLT21
+  branch_name: Head Office
+  branch_address: A.Mickeviciaus Str. 29-3 3005 Kaunas
+  branch_code: XXX
+  city: Kaunas
+  country: Lithuania
+- name: Uab Fmi Spekonis Ir Gastonas
+  swift: SPEKLT21XXX
+  swift8: SPEKLT21
+  branch_name: Head Office
+  branch_address: Konstitucijos Pr. 23-602, 2662 Vilnius
+  branch_code: XXX
+  city: Vilnius
+  country: Lithuania
+- name: Uab Fmi Zabolis Ir Partneriai
+  swift: UFZPLT21XXX
+  swift8: UFZPLT21
+  branch_name: Head Office
+  branch_address: Jogailos Str. 4 1116 Vilnius
+  branch_code: XXX
+  city: Vilnius
+  country: Lithuania
+- name: Uab Medicinos Bankas
+  swift: MDBALT22XXX
+  swift8: MDBALT22
+  branch_name: Head Office
+  branch_address: Pamenkalnio 40 01114 Vilnius 1
+  branch_code: XXX
+  city: Vilnius
+  country: Lithuania
+- name: Vivum Fmi Uab
+  swift: VIVULT21XXX
+  swift8: VIVULT21
+  branch_name: Head Office
+  branch_address: Konstitucijos Pr. 23-612 Vilnius
+  branch_code: XXX
+  city: Vilnius
+  country: Lithuania

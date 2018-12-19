@@ -1,0 +1,106 @@
+---
+BJ:
+- name: Bank Of Africa-benin
+  swift: AFRIBJB1BWB
+  swift8: AFRIBJB1
+  branch_name: Cotonou
+  branch_address: Cotonou
+  branch_code: BWB
+  city: Cotonou
+  country: Benin
+- name: Bank Of Africa-benin
+  swift: AFRIBJBJXXX
+  swift8: AFRIBJBJ
+  branch_name: Head Office
+  branch_address: Avenue Jean Paul Ii Cotonou
+  branch_code: XXX
+  city: Cotonou
+  country: Benin
+- name: Banque Atlantique Du Benin
+  swift: ATBJBJBJXXX
+  swift8: ATBJBJBJ
+  branch_name: Head Office
+  branch_address: Immeuble Atlantique Benin Cotonou
+  branch_code: XXX
+  city: Cotonou
+  country: Benin
+- name: Banque Centrale Des Etats De L'afrique De L'ouest
+  swift: BCAOBJBJPAR
+  swift8: BCAOBJBJ
+  branch_name: Parakou Branch
+  branch_address: Parakou
+  branch_code: PAR
+  city: Parakou
+  country: Benin
+- name: Banque Centrale Des Etats De L'afrique De L'ouest
+  swift: BCAOBJBJXXX
+  swift8: BCAOBJBJ
+  branch_name: Head Office
+  branch_address: Avenue Jean Paul Ii Cotonou
+  branch_code: XXX
+  city: Cotonou
+  country: Benin
+- name: Banque Internationale Du Benin
+  swift: BIBEBJBJXXX
+  swift8: BIBEBJBJ
+  branch_name: Head Office
+  branch_address: Head Office Cotonou
+  branch_code: XXX
+  city: Cotonou
+  country: Benin
+- name: Bgfibank Benin
+  swift: BGFIBJBJXXX
+  swift8: BGFIBJBJ
+  branch_name: Head Office
+  branch_address: Carre 38 01 Cotonou
+  branch_code: XXX
+  city: Cotonou
+  country: Benin
+- name: Continental Bank-benin
+  swift: COBBBJBJXXX
+  swift8: COBBBJBJ
+  branch_name: Head Office
+  branch_address: Avenue Jean-Paul Ii Cotonou
+  branch_code: XXX
+  city: Cotonou
+  country: Benin
+- name: Depositaire Central-banque De Reglement (dcbr Benin
+  swift: DCRDBJB1XXX
+  swift8: DCRDBJB1
+  branch_name: Head Office
+  branch_address: Avenue Charles De Gaulle Cotonou
+  branch_code: XXX
+  city: Cotonou
+  country: Benin
+- name: Diamond Bank Benin Sa
+  swift: DBLNBJBJXXX
+  swift8: DBLNBJBJ
+  branch_name: Head Office
+  branch_address: Diamond Bank Benin Cotonou
+  branch_code: XXX
+  city: Cotonou
+  country: Benin
+- name: Ecobank Benin
+  swift: ECOCBJBJXXX
+  swift8: ECOCBJBJ
+  branch_name: Head Office
+  branch_address: Rue Du Gouverneur Bayol Cotonou
+  branch_code: XXX
+  city: Cotonou
+  country: Benin
+- name: Orabank Benin
+  swift: ORBKBJBJXXX
+  swift8: ORBKBJBJ
+  branch_name: Head Office
+  branch_address: Rue Du Commandant Decoeur Cotonou
+  branch_code: XXX
+  city: Cotonou
+  country: Benin
+- name: Societe Generale De Banques Au Benin
+  swift: SOGEBJBJXXX
+  swift8: SOGEBJBJ
+  branch_name: Head Office
+  branch_address: Sobac-Agf Cotonou
+  branch_code: XXX
+  city: Cotonou
+  country: Benin

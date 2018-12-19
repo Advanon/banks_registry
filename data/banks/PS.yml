@@ -1,0 +1,466 @@
+---
+PS:
+- name: Arab Bank Plc
+  swift: ARABPS22020
+  swift8: ARABPS22
+  branch_name: Nablus Branch
+  branch_address: A.B. Building Nablus
+  branch_code: '020'
+  city: Nablus
+  country: Palestine, State of
+- name: Arab Bank Plc
+  swift: ARABPS22030
+  swift8: ARABPS22
+  branch_name: Al-Bireh Branch
+  branch_address: Al-Bireh
+  branch_code: '030'
+  city: Al-Bireh
+  country: Palestine, State of
+- name: Arab Bank Plc
+  swift: ARABPS22040
+  swift8: ARABPS22
+  branch_name: Hebron Branch
+  branch_address: Hebron
+  branch_code: '040'
+  city: Hebron
+  country: Palestine, State of
+- name: Arab Bank Plc
+  swift: ARABPS22050
+  swift8: ARABPS22
+  branch_name: Bethlehem Branch
+  branch_address: Manger Street Bethlehem
+  branch_code: '050'
+  city: Bethlehem
+  country: Palestine, State of
+- name: Arab Bank Plc
+  swift: ARABPS22060
+  swift8: ARABPS22
+  branch_name: Jenin Branch
+  branch_address: Jenin
+  branch_code: '060'
+  city: Jenin
+  country: Palestine, State of
+- name: Arab Bank Plc
+  swift: ARABPS22070
+  swift8: ARABPS22
+  branch_name: Tulkarm Branch
+  branch_address: Tulkarm
+  branch_code: '070'
+  city: Tulkarm
+  country: Palestine, State of
+- name: Arab Bank Plc
+  swift: ARABPS22080
+  swift8: ARABPS22
+  branch_name: Qalqiliah Branch
+  branch_address: Qalqiliah
+  branch_code: '080'
+  city: Qalqiliah
+  country: Palestine, State of
+- name: Arab Bank Plc
+  swift: ARABPS22090
+  swift8: ARABPS22
+  branch_name: Al Masyoon Branch
+  branch_address: Arab Bank Regional Management Ramallah 1476
+  branch_code: '090'
+  city: Ramallah
+  country: Palestine, State of
+- name: Arab Bank Plc
+  swift: ARABPS22100
+  swift8: ARABPS22
+  branch_name: Bethany Branch
+  branch_address: Bethany
+  branch_code: '100'
+  city: Bethany
+  country: Palestine, State of
+- name: Arab Bank Plc
+  swift: ARABPS22110
+  swift8: ARABPS22
+  branch_name: Al-Ram Branch
+  branch_address: Al-Ram
+  branch_code: '110'
+  city: Al-Ram
+  country: Palestine, State of
+- name: Arab Bank Plc
+  swift: ARABPS22500
+  swift8: ARABPS22
+  branch_name: Gaza Branch
+  branch_address: Omar Al-Mukhtar Street Gaza
+  branch_code: '500'
+  city: Gaza
+  country: Palestine, State of
+- name: Arab Bank Plc
+  swift: ARABPS22550
+  swift8: ARABPS22
+  branch_name: Jerich Branch
+  branch_address: Jericho
+  branch_code: '550'
+  city: Jericho
+  country: Palestine, State of
+- name: Arab Bank Plc
+  swift: ARABPS22600
+  swift8: ARABPS22
+  branch_name: Rimal Branch
+  branch_address: Gaza
+  branch_code: '600'
+  city: Gaza
+  country: Palestine, State of
+- name: Arab Bank Plc
+  swift: ARABPS22650
+  swift8: ARABPS22
+  branch_name: Khan Younis Branch
+  branch_address: Khan Younis
+  branch_code: '650'
+  city: Khan Younis
+  country: Palestine, State of
+- name: Arab Bank Plc
+  swift: ARABPS22COT
+  swift8: ARABPS22
+  branch_name: Centralized Outward Transfers Dept
+  branch_address: Arab Bank Regional Management Ramallah 1476
+  branch_code: COT
+  city: Ramallah
+  country: Palestine, State of
+- name: Arab Bank Plc
+  swift: ARABPS22COU
+  swift8: ARABPS22
+  branch_name: Central Operations Unit, Trade Finance Services
+  branch_address: Arab Bank Regional Management Ramallah 1476
+  branch_code: COU
+  city: Ramallah
+  country: Palestine, State of
+- name: Arab Bank Plc
+  swift: ARABPS22DLR
+  swift8: ARABPS22
+  branch_name: Treasury Operations
+  branch_address: Arab Bank Regional Management Ramallah 1476
+  branch_code: DLR
+  city: Ramallah
+  country: Palestine, State of
+- name: Arab Bank Plc
+  swift: ARABPS22XXX
+  swift8: ARABPS22
+  branch_name: Head Office
+  branch_address: Arab Bank Regional Management Ramallah 1476
+  branch_code: XXX
+  city: Ramallah
+  country: Palestine, State of
+- name: Hsbc Bank Middle East
+  swift: BBMEPS22XXX
+  swift8: BBMEPS22
+  branch_name: Head Office
+  branch_address: Jaffa Street Ramallah
+  branch_code: XXX
+  city: Ramallah
+  country: Palestine, State of
+- name: Egyptian Arab Land Bank
+  swift: ARLBPS22XXX
+  swift8: ARLBPS22
+  branch_name: Head Office
+  branch_address: Al Fuad Building Ramallah 91200
+  branch_code: XXX
+  city: Ramallah
+  country: Palestine, State of
+- name: Al Arabi Investment Group Co.
+  swift: ARIRPS21XXX
+  swift8: ARIRPS21
+  branch_name: Head Office
+  branch_address: Al Teeri Street Ramallah
+  branch_code: XXX
+  city: Ramallah
+  country: Palestine, State of
+- name: Bank Of Jordan Plc
+  swift: BJORPS22XXX
+  swift8: BJORPS22
+  branch_name: Head Office
+  branch_address: Bank of Jordan, Regional Office Ramallah
+  branch_code: XXX
+  city: Ramallah
+  country: Palestine, State of
+- name: Cairo Amman Bank
+  swift: CAABPS22XXX
+  swift8: CAABPS22
+  branch_name: Head Office
+  branch_address: National College Street Ramallah
+  branch_code: XXX
+  city: Ramallah
+  country: Palestine, State of
+- name: Jordan Commercial Bank
+  swift: JCBAPS22XXX
+  swift8: JCBAPS22
+  branch_name: Head Office
+  branch_address: Regional Management - City Center Ramallah
+  branch_code: XXX
+  city: Ramallah
+  country: Palestine, State of
+- name: Jordan Kuwait Bank
+  swift: JKBAPS22XXX
+  swift8: JKBAPS22
+  branch_name: Head Office
+  branch_address: Burg Al-Berah Building Ramallah 740
+  branch_code: XXX
+  city: Ramallah
+  country: Palestine, State of
+- name: Al Nawras Financial Investment Co.
+  swift: NAFIPS21XXX
+  swift8: NAFIPS21
+  branch_name: Head Office
+  branch_address: Al Mahid Street Bethlehem
+  branch_code: XXX
+  city: Bethlehem
+  country: Palestine, State of
+- name: Al Wasata Securities Co. Ltd
+  swift: WASUPS21XXX
+  swift8: WASUPS21
+  branch_name: Head Office
+  branch_address: Rafah Street Gaza
+  branch_code: XXX
+  city: Gaza
+  country: Palestine, State of
+- name: Alwasta Securities Co
+  swift: ALWSPS21XXX
+  swift8: ALWSPS21
+  branch_name: Head Office
+  branch_address: Al Irsal St Ramallah
+  branch_code: XXX
+  city: Ramallah
+  country: Palestine, State of
+- name: Arab Islamic Bank
+  swift: AISBPS22XXX
+  swift8: AISBPS22
+  branch_name: Head Office
+  branch_address: Nablus Street Ramallah
+  branch_code: XXX
+  city: Ramallah
+  country: Palestine, State of
+- name: Bank Of Palestine Plc
+  swift: PALSPS22XXX
+  swift8: PALSPS22
+  branch_name: Head Office
+  branch_address: Bank of Palestine Plc Building Ramallah 61000
+  branch_code: XXX
+  city: Ramallah
+  country: Palestine, State of
+- name: Global Securities Co
+  swift: GLSUPS21XXX
+  swift8: GLSUPS21
+  branch_name: Head Office
+  branch_address: City Center Nablus
+  branch_code: XXX
+  city: Nablus
+  country: Palestine, State of
+- name: Jordan Ahli Bank-plc Foreign Public Company
+  swift: JONBPS22XXX
+  swift8: JONBPS22
+  branch_name: Head Office
+  branch_address: Odah El-Shami Building Ramallah 550
+  branch_code: XXX
+  city: Ramallah
+  country: Palestine, State of
+- name: Jordan And Palestine Investment Co.
+  swift: JPAIPS21XXX
+  swift8: JPAIPS21
+  branch_name: Head Office
+  branch_address: City Center Ramallah
+  branch_code: XXX
+  city: Ramallah
+  country: Palestine, State of
+- name: Jordan Gulf Bank
+  swift: JGBAPS21XXX
+  swift8: JGBAPS21
+  branch_name: Head Office
+  branch_address: Al-Hussein Square Gaza
+  branch_code: XXX
+  city: Gaza
+  country: Palestine, State of
+- name: Jordan Palestine Co. For Financial Investment
+  swift: JOPFPS21XXX
+  swift8: JOPFPS21
+  branch_name: Head Office
+  branch_address: Al Irsal Street Ramallah
+  branch_code: XXX
+  city: Ramallah
+  country: Palestine, State of
+- name: Lotus Financial Investment Co.
+  swift: LOFNPS21XXX
+  swift8: LOFNPS21
+  branch_name: Head Office
+  branch_address: Al-Sharfa St Ramallah
+  branch_code: XXX
+  city: Ramallah
+  country: Palestine, State of
+- name: National Company For Securities Investment
+  swift: NCSIPS21XXX
+  swift8: NCSIPS21
+  branch_name: Head Office
+  branch_address: Al Quds Street Ramallah
+  branch_code: XXX
+  city: Ramallah
+  country: Palestine, State of
+- name: Nawras Brokerage Co.
+  swift: NAWRPS21XXX
+  swift8: NAWRPS21
+  branch_name: Head Office
+  branch_address: Hebron St Bethlehem
+  branch_code: XXX
+  city: Bethlehem
+  country: Palestine, State of
+- name: Palestine Commercial Bank
+  swift: PCBQPS22XXX
+  swift8: PCBQPS22
+  branch_name: Head Office
+  branch_address: Nahda Street Ramallah
+  branch_code: XXX
+  city: Ramallah
+  country: Palestine, State of
+- name: Palestine Investment Bank
+  swift: PINVPS22XXX
+  swift8: PINVPS22
+  branch_name: Head Office
+  branch_address: Altweel Bld. Ramallah
+  branch_code: XXX
+  city: Ramallah
+  country: Palestine, State of
+- name: Palestine Islamic Bank
+  swift: PIBCPS22XXX
+  swift8: PIBCPS22
+  branch_name: Head Office
+  branch_address: Palestine Islamic Bank Building Ramallah
+  branch_code: XXX
+  city: Ramallah
+  country: Palestine, State of
+- name: Palestine Monetary Authority
+  swift: PMAPPS22ACH
+  swift8: PMAPPS22
+  branch_name: Ramallah
+  branch_address: Ramallah
+  branch_code: ACH
+  city: Ramallah
+  country: Palestine, State of
+- name: Palestine Monetary Authority
+  swift: PMAPPS22ASA
+  swift8: PMAPPS22
+  branch_name: Authorized Settlement Agenrt
+  branch_address: Ramallah
+  branch_code: ASA
+  city: Ramallah
+  country: Palestine, State of
+- name: Palestine Monetary Authority
+  swift: PMAPPS22PEX
+  swift8: PMAPPS22
+  branch_name: Csd
+  branch_address: Al-Bireh
+  branch_code: PEX
+  city: Al-Bireh
+  country: Palestine, State of
+- name: Palestine Monetary Authority
+  swift: PMAPPS22TIA
+  swift8: PMAPPS22
+  branch_name: Technical Infratructure Agent
+  branch_address: Ramallah
+  branch_code: TIA
+  city: Ramallah
+  country: Palestine, State of
+- name: Palestine Monetary Authority
+  swift: PMAPPS22XXX
+  swift8: PMAPPS22
+  branch_name: Head Office
+  branch_address: Al-Ramouni Al-Bireh
+  branch_code: XXX
+  city: Al-Bireh
+  country: Palestine, State of
+- name: Palestine Monetary Authority
+  swift: PMAPPS2PXXX
+  swift8: PMAPPS2P
+  branch_name: Head Office
+  branch_address: Nablus Road Ramallah
+  branch_code: XXX
+  city: Ramallah
+  country: Palestine, State of
+- name: Palestine Securities Exchange
+  swift: XPAEPS21XXX
+  swift8: XPAEPS21
+  branch_name: Head Office
+  branch_address: Al-Qaser Bldg. Nablus
+  branch_code: XXX
+  city: Nablus
+  country: Palestine, State of
+- name: Palestinian Islamic Bank
+  swift: PISBPS21XXX
+  swift8: PISBPS21
+  branch_name: Head Office
+  branch_address: Gaza
+  branch_code: XXX
+  city: Gaza
+  country: Palestine, State of
+- name: Quds Bank
+  swift: ALDNPS22XXX
+  swift8: ALDNPS22
+  branch_name: Head Office
+  branch_address: Quds Bank Building Ramallah 2471
+  branch_code: XXX
+  city: Ramallah
+  country: Palestine, State of
+- name: Sahem Trading And Investment Company
+  swift: STIPPS21XXX
+  swift8: STIPPS21
+  branch_name: Head Office
+  branch_address: Rafat Street Ramallah
+  branch_code: XXX
+  city: Ramallah
+  country: Palestine, State of
+- name: Target Investment Co.
+  swift: TARVPS21XXX
+  swift8: TARVPS21
+  branch_name: Head Office
+  branch_address: City Center Nablus
+  branch_code: XXX
+  city: Nablus
+  country: Palestine, State of
+- name: Target Jordan Palestine Securities
+  swift: TJPSPS21XXX
+  swift8: TJPSPS21
+  branch_name: Head Office
+  branch_address: Ramalla Ramallah
+  branch_code: XXX
+  city: Ramallah
+  country: Palestine, State of
+- name: The Clearing, Depository And Settlement Departmen(cds
+  swift: CDSEPS21XXX
+  swift8: CDSEPS21
+  branch_name: Head Office
+  branch_address: Al Qasr Building Nablus
+  branch_code: XXX
+  city: Nablus
+  country: Palestine, State of
+- name: The Housing Bank For Trade And Finance/ramallah
+  swift: HBHOPS22XXX
+  swift8: HBHOPS22
+  branch_name: Head Office
+  branch_address: Rukab Building Ramallah 0000
+  branch_code: XXX
+  city: Ramallah
+  country: Palestine, State of
+- name: The National Bank Plc (formerly Al Rafah Microfinance Bank
+  swift: TNBCPS22XXX
+  swift8: TNBCPS22
+  branch_name: Head Office
+  branch_address: The National Bank Plc Building Ramallah 00970
+  branch_code: XXX
+  city: Ramallah
+  country: Palestine, State of
+- name: United Securities Co
+  swift: UNTEPS21XXX
+  swift8: UNTEPS21
+  branch_name: Head Office
+  branch_address: Quds St. Ramallah
+  branch_code: XXX
+  city: Ramallah
+  country: Palestine, State of
+- name: Wataniya Securities Co
+  swift: WATTPS21XXX
+  swift8: WATTPS21
+  branch_name: Head Office
+  branch_address: Alahliya St Ramallah
+  branch_code: XXX
+  city: Ramallah
+  country: Palestine, State of

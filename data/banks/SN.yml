@@ -1,0 +1,242 @@
+---
+SN:
+- name: Citibank N.A.
+  swift: CITISNDAXXX
+  swift8: CITISNDA
+  branch_name: Head Office
+  branch_address: Immeuble Sdih 3391 Dakar
+  branch_code: XXX
+  city: Dakar
+  country: Senegal
+- name: Banque Centrale Des Etats De L'afrique De L'ouest
+  swift: BCAOSNDA001
+  swift8: BCAOSNDA
+  branch_name: Agence Nationale
+  branch_address: Boulevard General De Gaule Dakar
+  branch_code: '001'
+  city: Dakar
+  country: Senegal
+- name: Banque Centrale Des Etats De L'afrique De L'ouest
+  swift: BCAOSNDAKAO
+  swift8: BCAOSNDA
+  branch_name: Kaolack Branch
+  branch_address: Kaolack
+  branch_code: KAO
+  city: Kaolack
+  country: Senegal
+- name: Banque Centrale Des Etats De L'afrique De L'ouest
+  swift: BCAOSNDAXXX
+  swift8: BCAOSNDA
+  branch_name: Head Office
+  branch_address: Avenue Abdoulaye Fadiga Dakar
+  branch_code: XXX
+  city: Dakar
+  country: Senegal
+- name: Banque Centrale Des Etats De L'afrique De L'ouest
+  swift: BCAOSNDAZIG
+  swift8: BCAOSNDA
+  branch_name: Ziguinchor Branch
+  branch_address: Ziguinchor
+  branch_code: ZIG
+  city: Ziguinchor
+  country: Senegal
+- name: Bank Of Africa-senegal
+  swift: AFRISNDAXXX
+  swift8: AFRISNDA
+  branch_name: Head Office
+  branch_address: Residence Excellence 00221 Dakar
+  branch_code: XXX
+  city: Dakar
+  country: Senegal
+- name: Banque Atlantique Senegal
+  swift: ATSNSNDAXXX
+  swift8: ATSNSNDA
+  branch_name: Head Office
+  branch_address: Face Cathedrale 50780 Dakar
+  branch_code: XXX
+  city: Dakar
+  country: Senegal
+- name: Banque Centrale Des Etats De L'afrique De L'ouest (b.c.e.a.o.
+  swift: BCAOSNDPXXX
+  swift8: BCAOSNDP
+  branch_name: Head Office
+  branch_address: Avenue Abdoulaye Fadiga Dakar
+  branch_code: XXX
+  city: Dakar
+  country: Senegal
+- name: Banque De L'habitat Du Senegal
+  swift: LHSESNDAXXX
+  swift8: LHSESNDA
+  branch_name: Head Office
+  branch_address: Boulevard General De Gaule 229 Dakar
+  branch_code: XXX
+  city: Dakar
+  country: Senegal
+- name: Banque Des Institutions Mutualistes D'afrique De L'ouest
+  swift: BIMUSNDAXXX
+  swift8: BIMUSNDA
+  branch_name: Head Office
+  branch_address: Mermoz Pyrotechnie 12524 Dakar
+  branch_code: XXX
+  city: Dakar
+  country: Senegal
+- name: Banque Internationale Pour Le Commerce Et L'industrie Du Senegal
+  swift: BICISNDXXXX
+  swift8: BICISNDX
+  branch_name: Head Office
+  branch_address: 2 Avenue Roume Dakar
+  branch_code: XXX
+  city: Dakar
+  country: Senegal
+- name: Banque Islamique Du Senegal
+  swift: ISSNSNDAXXX
+  swift8: ISSNSNDA
+  branch_name: Head Office
+  branch_address: Immeuble Faycal Dakar
+  branch_code: XXX
+  city: Dakar
+  country: Senegal
+- name: Banque Nationale Pour Le Developpement Economique Du Senegal (bnde
+  swift: BNDXSNDAXXX
+  swift8: BNDXSNDA
+  branch_name: No branch name
+  branch_address: No branch address
+  branch_code: XXX
+  city: Dakar
+  country: Senegal
+- name: Banque Regionale De Marches
+  swift: BRMXSNDAXXX
+  swift8: BRMXSNDA
+  branch_name: Head Office
+  branch_address: La Rotonde 32040 Dakar
+  branch_code: XXX
+  city: Dakar
+  country: Senegal
+- name: Banque Sahelo-saharienne Pour L'investissement Et Le Commerce (senegal) S.a.
+  swift: BSAHSNDAXXX
+  swift8: BSAHSNDA
+  branch_name: Head Office
+  branch_address: 12 Boulevard Djily Mbaye Dakar
+  branch_code: XXX
+  city: Dakar
+  country: Senegal
+- name: Caisse Nationale D'epargne
+  swift: NDECSND1XXX
+  swift8: NDECSND1
+  branch_name: Head Office
+  branch_address: Avenue Malick Sy Dakar
+  branch_code: XXX
+  city: Dakar
+  country: Senegal
+- name: Caisse Nationale De Credit Agricole Du Senegal (c.n.c.a.s.
+  swift: CADKSNDAXXX
+  swift8: CADKSNDA
+  branch_name: Head Office
+  branch_address: Avenue Albert Sarraut 45 Dakar
+  branch_code: XXX
+  city: Dakar
+  country: Senegal
+- name: Compagnie Bancaire De L'afrique Occidentale
+  swift: CBAOSNDAXXX
+  swift8: CBAOSNDA
+  branch_name: Head Office
+  branch_address: 1, Place De Lindependance Dakar
+  branch_code: XXX
+  city: Dakar
+  country: Senegal
+- name: Credit Du Senegal
+  swift: BCMASNDAXXX
+  swift8: BCMASNDA
+  branch_name: Head Office
+  branch_address: 17 Boulevard Elhadji Djily Mbaye X Dakar
+  branch_code: XXX
+  city: Dakar
+  country: Senegal
+- name: Credit International Sa
+  swift: CLIBSNDAXXX
+  swift8: CLIBSNDA
+  branch_name: Head Office
+  branch_address: Le Goelan Dakar
+  branch_code: XXX
+  city: Dakar
+  country: Senegal
+- name: Depositaire Central-banque De Reglement (dcbr Senegal
+  swift: DCECSND1XXX
+  swift8: DCECSND1
+  branch_name: Head Office
+  branch_address: 1, Place De Lindependance Dakar
+  branch_code: XXX
+  city: Dakar
+  country: Senegal
+- name: Diamondbank Senegal
+  swift: DBLNSNDAXXX
+  swift8: DBLNSNDA
+  branch_name: Head Office
+  branch_address: 41, Rue Carnot 3370 Dakar
+  branch_code: XXX
+  city: Dakar
+  country: Senegal
+- name: Ecobank Senegal
+  swift: ECOCSNDAXXX
+  swift8: ECOCSNDA
+  branch_name: Head Office
+  branch_address: 8 Avenue Leopold Sedar Senghor Dakar
+  branch_code: XXX
+  city: Dakar
+  country: Senegal
+- name: International Commercial Bank Senegal
+  swift: ICSGSNDAXXX
+  swift8: ICSGSNDA
+  branch_name: Head Office
+  branch_address: 5 Senghor Dakar
+  branch_code: XXX
+  city: Dakar
+  country: Senegal
+- name: La Poste
+  swift: LPSTSND1XXX
+  swift8: LPSTSND1
+  branch_name: Head Office
+  branch_address: 6 Rue Abdoulaye Seck Marie Parsine Dakar
+  branch_code: XXX
+  city: Dakar
+  country: Senegal
+- name: Massraf Faysal Al Islami Senegal
+  swift: MFISSND1XXX
+  swift8: MFISSND1
+  branch_name: Head Office
+  branch_address: Boulevard Pinet Laprade Dakar
+  branch_code: XXX
+  city: Dakar
+  country: Senegal
+- name: Societe Generale De Banques Au Senegal
+  swift: SGSNSNDAXXX
+  swift8: SGSNSNDA
+  branch_name: Head Office
+  branch_address: S.G.B.S 323 Dakar
+  branch_code: XXX
+  city: Dakar
+  country: Senegal
+- name: Sonabanque
+  swift: SONASND1XXX
+  swift8: SONASND1
+  branch_name: Head Office
+  branch_address: 15 Alees Robert Delmas Dakar
+  branch_code: XXX
+  city: Dakar
+  country: Senegal
+- name: Union Senegalaise De Banque Pour Le Commerce Et L'industrie
+  swift: USBASND1XXX
+  swift8: USBASND1
+  branch_name: Head Office
+  branch_address: 17 Boulevard Pinet Laprade Dakar
+  branch_code: XXX
+  city: Dakar
+  country: Senegal
+- name: United Bank For Africa Senegal
+  swift: UNAFSNDAXXX
+  swift8: UNAFSNDA
+  branch_name: Head Office
+  branch_address: Lot D Dakar
+  branch_code: XXX
+  city: Dakar
+  country: Senegal

@@ -1,0 +1,82 @@
+---
+DJ:
+- name: Bank Of Africa Mer Rouge
+  swift: MRINDJJDXXX
+  swift8: MRINDJJD
+  branch_name: Head Office
+  branch_address: 10 Place Lagarde 88 Djibouti
+  branch_code: XXX
+  city: Djibouti
+  country: Djibouti
+- name: Banque Centrale De Djibouti
+  swift: BCDJDJJDXXX
+  swift8: BCDJDJJD
+  branch_name: Head Office
+  branch_address: Boulevard Saint Laurent Du Var Djibouti
+  branch_code: XXX
+  city: Djibouti
+  country: Djibouti
+- name: Banque Centrale De Djibouti
+  swift: BNDJDJD1XXX
+  swift8: BNDJDJD1
+  branch_name: Head Office
+  branch_address: Avenue St Laurent Du Var Djibouti
+  branch_code: XXX
+  city: Djibouti
+  country: Djibouti
+- name: Banque De Depot Et Credit Djibouti
+  swift: DECDDJJDXXX
+  swift8: DECDDJJD
+  branch_name: Head Office
+  branch_address: Place Lagarde 1929 Djibouti
+  branch_code: XXX
+  city: Djibouti
+  country: Djibouti
+- name: Banque De Djibouti Et Du Moyen Orient
+  swift: BDMODJD1XXX
+  swift8: BDMODJD1
+  branch_name: Head Office
+  branch_address: 6 Rue De Marseille Djibouti
+  branch_code: XXX
+  city: Djibouti
+  country: Djibouti
+- name: Banque Pour Le Commerce Et L'industrie-mer Rouge
+  swift: BCIMDJJXXXX
+  swift8: BCIMDJJX
+  branch_name: Head Office
+  branch_address: Place Lagarde Djibouti
+  branch_code: XXX
+  city: Djibouti
+  country: Djibouti
+- name: Cac International Bank
+  swift: CACDDJJDXXX
+  swift8: CACDDJJD
+  branch_name: Head Office
+  branch_address: Alkaram Building 1868 Djibouti
+  branch_code: XXX
+  city: Djibouti
+  country: Djibouti
+- name: Exim Bank (djibouti) S.a.
+  swift: EXTNDJJDXXX
+  swift8: EXTNDJJD
+  branch_name: Head Office
+  branch_address: A.G.Clemencien Djibouti
+  branch_code: XXX
+  city: Djibouti
+  country: Djibouti
+- name: International Commercial Bank Djibouti
+  swift: ICDJDJJDXXX
+  swift8: ICDJDJJD
+  branch_name: Head Office
+  branch_address: Immeuble No 15 Djibouti
+  branch_code: XXX
+  city: Djibouti
+  country: Djibouti
+- name: Salaam African Bank
+  swift: ISEADJJDXXX
+  swift8: ISEADJJD
+  branch_name: Head Office
+  branch_address: Al Taj Bldg 01 2550 Djibouti
+  branch_code: XXX
+  city: Djibouti
+  country: Djibouti

@@ -1,0 +1,1379 @@
+---
+RO:
+- name: Alpha Bank Romania Sa
+  swift: BUCUROBUXXX
+  swift8: BUCUROBU
+  branch_name: Head Office
+  branch_address: 237b, Dorobantilor Street 010566 Bucharest
+  branch_code: XXX
+  city: Bucharest
+  country: Romania
+- name: Ate Bank Romania S.A.
+  swift: MINDROBUXXX
+  swift8: MINDROBU
+  branch_name: Head Office
+  branch_address: Calea Grivitei 24, Sector 1 78104 Bucharest
+  branch_code: XXX
+  city: Bucharest
+  country: Romania
+- name: Banc Post S.A.
+  swift: BPOSROBUXXX
+  swift8: BPOSROBU
+  branch_name: Head Office
+  branch_address: 12 Libertatii Avenue 4 Bucharest
+  branch_code: XXX
+  city: Bucharest
+  country: Romania
+- name: Banca Comerciala Carpatica Sa
+  swift: CARPRO22XXX
+  swift8: CARPRO22
+  branch_name: Head Office
+  branch_address: Str. Autogarii Nr. 1 550135 Sibiu
+  branch_code: XXX
+  city: Sibiu
+  country: Romania
+- name: Banca Comerciala Feroviara S.A.
+  swift: BFERROBUXXX
+  swift8: BFERROBU
+  branch_name: Head Office
+  branch_address: Cfr Palace 010867 Bucharest
+  branch_code: XXX
+  city: Bucharest
+  country: Romania
+- name: Banca Comerciala Romana S.A
+  swift: RNCBROBUCV0
+  swift8: RNCBROBU
+  branch_name: Covasna Branch
+  branch_address: Sfantu Gheorghe
+  branch_code: CV0
+  city: Sfantu Gheorghe
+  country: Romania
+- name: Banca Comerciala Romana S.A
+  swift: RNCBROBUIL0
+  swift8: RNCBROBU
+  branch_name: Ialomita Branch
+  branch_address: Slobozia
+  branch_code: IL0
+  city: Slobozia
+  country: Romania
+- name: Banca Comerciala Romana S.A
+  swift: RNCBROBUCS0
+  swift8: RNCBROBU
+  branch_name: Caras Severin Branch
+  branch_address: Resita
+  branch_code: CS0
+  city: Resita
+  country: Romania
+- name: Banca Comerciala Romana S.A
+  swift: RNCBROBUAR0
+  swift8: RNCBROBU
+  branch_name: Arad Branch
+  branch_address: Arad
+  branch_code: AR0
+  city: Arad
+  country: Romania
+- name: Banca Comerciala Romana S.A
+  swift: RNCBROBUXXX
+  swift8: RNCBROBU
+  branch_name: Head Office
+  branch_address: 5, Regina Elisabeta Blvd. 70348 Bucharest
+  branch_code: XXX
+  city: Bucharest
+  country: Romania
+- name: Banca Italo Romena Spa Italia Volpago Del Montello,Sucursala Bucuresti
+  swift: BITRROBUXXX
+  swift8: BITRROBU
+  branch_name: Head Office
+  branch_address: Sitraco Center 751211 Bucharest
+  branch_code: XXX
+  city: Bucharest
+  country: Romania
+- name: Banca Romaneasca S.A.
+  swift: BRMAROBUXXX
+  swift8: BRMAROBU
+  branch_name: Head Office
+  branch_address: 35 Boulevar Unirii 70401 Bucharest
+  branch_code: XXX
+  city: Bucharest
+  country: Romania
+- name: Banca Transilvania S.A.
+  swift: BTRLRO22BTS
+  swift8: BTRLRO22
+  branch_name: Bt Securities
+  branch_address: Maestro Business Center Cluj-Napoca
+  branch_code: BTS
+  city: Cluj-Napoca
+  country: Romania
+- name: Banca Transilvania S.A.
+  swift: BTRLRO22CJ8
+  swift8: BTRLRO22
+  branch_name: Ag Billa
+  branch_address: Calea Floresti Nr. 75 Cluj-Napoca
+  branch_code: CJ8
+  city: Cluj-Napoca
+  country: Romania
+- name: Banca Transilvania S.A.
+  swift: BTRLRO22CJA
+  swift8: BTRLRO22
+  branch_name: Cluj-Napoca Branch
+  branch_address: 3 Dorobantiloa 3400 Cluj-Napoca
+  branch_code: CJA
+  city: Cluj-Napoca
+  country: Romania
+- name: Banca Transilvania S.A.
+  swift: BTRLRO22CJM
+  swift8: BTRLRO22
+  branch_name: Marasti
+  branch_address: Fabricii No.7 Cluj-Napoca
+  branch_code: CJM
+  city: Cluj-Napoca
+  country: Romania
+- name: Banca Transilvania S.A.
+  swift: BTRLRO22CJZ
+  swift8: BTRLRO22
+  branch_name: Zorilor
+  branch_address: Republicii No.109 Cluj-Napoca
+  branch_code: CJZ
+  city: Cluj-Napoca
+  country: Romania
+- name: Banca Transilvania S.A.
+  swift: BTRLRO22XXX
+  swift8: BTRLRO22
+  branch_name: Head Office
+  branch_address: 8 G. Baritiu Street 400027 Cluj-Napoca
+  branch_code: XXX
+  city: Cluj-Napoca
+  country: Romania
+- name: Banca Transilvania S.A.
+  swift: BTRLRO22CTA
+  swift8: BTRLRO22
+  branch_name: Constanta Branch
+  branch_address: 53 Ferdinand Avenue 8700 Constanta
+  branch_code: CTA
+  city: Constanta
+  country: Romania
+- name: Banca Transilvania S.A.
+  swift: BTRLRO22DJA
+  swift8: BTRLRO22
+  branch_name: Craiova Branch
+  branch_address: 16 Jancu Jianu Street 1100 Craiova
+  branch_code: DJA
+  city: Craiova
+  country: Romania
+- name: Banca Transilvania S.A.
+  swift: BTRLRO22HDA
+  swift8: BTRLRO22
+  branch_name: Deva Branch
+  branch_address: 42, 22 December Street 2700 Deva
+  branch_code: HDA
+  city: Deva
+  country: Romania
+- name: Banca Transilvania S.A.
+  swift: BTRLRO22AR4
+  swift8: BTRLRO22
+  branch_name: Ag Chisinau Cris
+  branch_address: Str. Infratirii Nr. 89 Chisinau Cris
+  branch_code: AR4
+  city: Chisinau Cris
+  country: Romania
+- name: Banca Transilvania S.A.
+  swift: BTRLRO22SVF
+  swift8: BTRLRO22
+  branch_name: Falticeni
+  branch_address: Bd Revolutiei No.27 Falticeni
+  branch_code: SVF
+  city: Falticeni
+  country: Romania
+- name: Banca Transilvania S.A.
+  swift: BTRLRO22GLA
+  swift8: BTRLRO22
+  branch_name: Galati Branch
+  branch_address: 3 Maiov Iancu Fotea Street Galati
+  branch_code: GLA
+  city: Galati
+  country: Romania
+- name: Banca Transilvania S.A.
+  swift: BTRLRO22BVF
+  swift8: BTRLRO22
+  branch_name: Fagaras
+  branch_address: Str. N. Balcescu No.15 Fagaras
+  branch_code: BVF
+  city: Fagaras
+  country: Romania
+- name: Banca Transilvania S.A.
+  swift: BTRLRO22ISA
+  swift8: BTRLRO22
+  branch_name: Iasi Branch
+  branch_address: 3 a Ghica Voda Street 6600 Iasi
+  branch_code: ISA
+  city: Iasi
+  country: Romania
+- name: Banca Transilvania S.A.
+  swift: BTRLRO22CJH
+  swift8: BTRLRO22
+  branch_name: Huedin
+  branch_address: Horea Street No.2 Huedin
+  branch_code: CJH
+  city: Huedin
+  country: Romania
+- name: Banca Transilvania S.A.
+  swift: BTRLRO22CJD
+  swift8: BTRLRO22
+  branch_name: Dej Branch
+  branch_address: 41, 1 Mai Street 4650 Dej
+  branch_code: CJD
+  city: Dej
+  country: Romania
+- name: Banca Transilvania S.A.
+  swift: BTRLRO22VLD
+  swift8: BTRLRO22
+  branch_name: Dragasani
+  branch_address: Bl.A1 Dragasani
+  branch_code: VLD
+  city: Dragasani
+  country: Romania
+- name: Banca Transilvania S.A.
+  swift: BTRLRO22GRA
+  swift8: BTRLRO22
+  branch_name: Zona Liberta Giurgiu Branch
+  branch_address: 1, Portului Street 8375 Giurgiu
+  branch_code: GRA
+  city: Giurgiu
+  country: Romania
+- name: Banca Transilvania S.A.
+  swift: BTRLRO22AR5
+  swift8: BTRLRO22
+  branch_name: Ag Ineu
+  branch_address: Calea Republicii Nr. 11 Ineu
+  branch_code: AR5
+  city: Ineu
+  country: Romania
+- name: Banca Transilvania S.A.
+  swift: BTRLRO22CTM
+  swift8: BTRLRO22
+  branch_name: Ag Mangalia
+  branch_address: Str. Stefan Cel Mare Nr. 6 Mangalia
+  branch_code: CTM
+  city: Mangalia
+  country: Romania
+- name: Bank Leumi Romania S.A.
+  swift: DAFBRO22CLU
+  swift8: DAFBRO22
+  branch_name: Cluj-Napoca
+  branch_address: Cluj-Napoca
+  branch_code: CLU
+  city: Cluj-Napoca
+  country: Romania
+- name: Bank Leumi Romania S.A.
+  swift: DAFBRO22CTA
+  swift8: DAFBRO22
+  branch_name: Constanta
+  branch_address: Constanta
+  branch_code: CTA
+  city: Constanta
+  country: Romania
+- name: Bank Leumi Romania S.A.
+  swift: DAFBRO22ORA
+  swift8: DAFBRO22
+  branch_name: Oradea
+  branch_address: Oradea
+  branch_code: ORA
+  city: Oradea
+  country: Romania
+- name: Bank Leumi Romania S.A.
+  swift: DAFBRO22TIM
+  swift8: DAFBRO22
+  branch_name: Timisoara
+  branch_address: Timisoara
+  branch_code: TIM
+  city: Timisoara
+  country: Romania
+- name: Bank Leumi Romania S.A.
+  swift: DAFBRO22BRA
+  swift8: DAFBRO22
+  branch_name: Brasov
+  branch_address: Brasov
+  branch_code: BRA
+  city: Brasov
+  country: Romania
+- name: Bank Leumi Romania S.A.
+  swift: DAFBRO22BUC
+  swift8: DAFBRO22
+  branch_name: Bucharest
+  branch_address: Bucharest
+  branch_code: BUC
+  city: Bucharest
+  country: Romania
+- name: Bank Leumi Romania S.A.
+  swift: DAFBRO22XXX
+  swift8: DAFBRO22
+  branch_name: Head Office
+  branch_address: B-Dul Aviatorilor 45 011853 Bucharest
+  branch_code: XXX
+  city: Bucharest
+  country: Romania
+- name: Egnatia Securities S.a.
+  swift: EGNTROB1XXX
+  swift8: EGNTROB1
+  branch_name: Head Office
+  branch_address: Regina Maria Nr. 19 Bucharest
+  branch_code: XXX
+  city: Bucharest
+  country: Romania
+- name: Actinvest Sa
+  swift: ACTNRO21XXX
+  swift8: ACTNRO21
+  branch_name: Head Office
+  branch_address: N. Lorga Nr. 2 Brasov
+  branch_code: XXX
+  city: Brasov
+  country: Romania
+- name: Active International Sa
+  swift: ACIRROB1XXX
+  swift8: ACIRROB1
+  branch_name: Head Office
+  branch_address: Bd.Pierre De Coubertin Nr. 3-5 Bucharest
+  branch_code: XXX
+  city: Bucharest
+  country: Romania
+- name: Alpha Finance Romania Sa
+  swift: ALNRROB1XXX
+  swift8: ALNRROB1
+  branch_name: Head Office
+  branch_address: Cal.Dorobantilor Nr. 237b Bucharest
+  branch_code: XXX
+  city: Bucharest
+  country: Romania
+- name: Arcelormittal Tubular Products Roman Sa
+  swift: USINRO21GAL
+  swift8: USINRO21
+  branch_name: Galati
+  branch_address: Galati
+  branch_code: GAL
+  city: Galati
+  country: Romania
+- name: Arcelormittal Tubular Products Roman Sa
+  swift: USINRO21IAS
+  swift8: USINRO21
+  branch_name: Iasi
+  branch_address: Iasi
+  branch_code: IAS
+  city: Iasi
+  country: Romania
+- name: Arcelormittal Tubular Products Roman Sa
+  swift: USINRO21MSR
+  swift8: USINRO21
+  branch_name: Roman
+  branch_address: Roman
+  branch_code: MSR
+  city: Roman
+  country: Romania
+- name: Arcelormittal Tubular Products Roman Sa
+  swift: USINRO21XXX
+  swift8: USINRO21
+  branch_name: Head Office
+  branch_address: 246, Stefan Cel Mare Street 611040 Roman
+  branch_code: XXX
+  city: Roman
+  country: Romania
+- name: Austro-rom S.a.
+  swift: AUSMROB1XXX
+  swift8: AUSMROB1
+  branch_name: Head Office
+  branch_address: 11 Viltorulul Street, Sector 2 Bucharest
+  branch_code: XXX
+  city: Bucharest
+  country: Romania
+- name: B.c.r. Securities S.a.
+  swift: BCERROB1XXX
+  swift8: BCERROB1
+  branch_name: Head Office
+  branch_address: Calea Grivitei 160 Bucharest
+  branch_code: XXX
+  city: Bucharest
+  country: Romania
+- name: Bank Of Cyprus Pcl Nicosia, Romanian Branch
+  swift: BCYPROBUXXX
+  swift8: BCYPROBU
+  branch_name: Head Office
+  branch_address: Calea Dorobanti 187b 011565 Bucharest
+  branch_code: XXX
+  city: Bucharest
+  country: Romania
+- name: Bcr Banca Pentru Locuinte S.a.
+  swift: BCRLROBUXXX
+  swift8: BCRLROBU
+  branch_name: Head Office
+  branch_address: Bucharest Financial Plazza 030023 Bucharest
+  branch_code: XXX
+  city: Bucharest
+  country: Romania
+- name: Bforex Global Trading S.a.
+  swift: BGLTROB1XXX
+  swift8: BGLTROB1
+  branch_name: Head Office
+  branch_address: 10-12 Belgrad Street Bucharest
+  branch_code: XXX
+  city: Bucharest
+  country: Romania
+- name: Blom Bank France S.a. Romania Branch
+  swift: BLOMROBUXXX
+  swift8: BLOMROBU
+  branch_name: Head Office
+  branch_address: Block K3 030835 Bucharest
+  branch_code: XXX
+  city: Bucharest
+  country: Romania
+- name: Bnp Paribas Fortis Sa/nv Bruxelles Bucharest Branch
+  swift: FTSBROBUXXX
+  swift8: FTSBROBU
+  branch_name: Head Office
+  branch_address: S-Park 1 Bucharest
+  branch_code: XXX
+  city: Bucharest
+  country: Romania
+- name: Brd Securities-groupe Societe Generale S.a.
+  swift: BSGSROB1XXX
+  swift8: BSGSROB1
+  branch_name: Head Office
+  branch_address: Bd.Ion Mihalache Nr. 1-7 Bucharest
+  branch_code: XXX
+  city: Bucharest
+  country: Romania
+- name: Brd-groupe Societe Generale Sa
+  swift: BRDEROBUCAM
+  swift8: BRDEROBU
+  branch_name: Campineanu Branch
+  branch_address: Union Building Bucharest
+  branch_code: CAM
+  city: Bucharest
+  country: Romania
+- name: Brd-groupe Societe Generale Sa
+  swift: BRDEROBUTIT
+  swift8: BRDEROBU
+  branch_name: Securities Division
+  branch_address: Bucharest
+  branch_code: TIT
+  city: Bucharest
+  country: Romania
+- name: Brd-groupe Societe Generale Sa
+  swift: BRDEROBUXXX
+  swift8: BRDEROBU
+  branch_name: Head Office
+  branch_address: 1-7 Ion Mihalache Boulevard 011171 Bucharest
+  branch_code: XXX
+  city: Bucharest
+  country: Romania
+- name: Bt Securities S.a.
+  swift: SEEERO21XXX
+  swift8: SEEERO21
+  branch_name: Head Office
+  branch_address: Bd. 21 Decembrie1989 Nr. 104 Cluj-Napoca
+  branch_code: XXX
+  city: Cluj-Napoca
+  country: Romania
+- name: Bucuresti Global Invest S.a.
+  swift: BUGIROB1XXX
+  swift8: BUGIROB1
+  branch_name: Head Office
+  branch_address: Spl. Unirii Nr. 16 Bucharest
+  branch_code: XXX
+  city: Bucharest
+  country: Romania
+- name: Bursa De Valori Bucuresti Sa
+  swift: XBSEROB1XXX
+  swift8: XBSEROB1
+  branch_name: Head Office
+  branch_address: Bulevardul Carol I 34 - 36 70421 Bucharest
+  branch_code: XXX
+  city: Bucharest
+  country: Romania
+- name: Capa Finance Ifn Sa
+  swift: PATRROB1XXX
+  swift8: PATRROB1
+  branch_name: Head Office
+  branch_address: Bd. Aviatorilor Nr. 33 011853 Bucharest
+  branch_code: XXX
+  city: Bucharest
+  country: Romania
+- name: Capitol S.a.
+  swift: CATLROB1XXX
+  swift8: CATLROB1
+  branch_name: Head Office
+  branch_address: Str. Academiei 17 Bucharest Bucharest
+  branch_code: XXX
+  city: Bucharest
+  country: Romania
+- name: Carpatica Invest Sa
+  swift: CRNVRO21XXX
+  swift8: CRNVRO21
+  branch_name: Head Office
+  branch_address: Autogarii Nr. 1 Sibiu
+  branch_code: XXX
+  city: Sibiu
+  country: Romania
+- name: Casa De Compensare Bucuresti S.a.
+  swift: CCBUROB1XXX
+  swift8: CCBUROB1
+  branch_name: Head Office
+  branch_address: Bd. Carol I, Nr. 34-36, Sect 2 Bucharest
+  branch_code: XXX
+  city: Bucharest
+  country: Romania
+- name: Casa Romana De Compensatie S.a.
+  swift: CSRCRO21XXX
+  swift8: CSRCRO21
+  branch_name: Head Office
+  branch_address: Mihail Kogalniceanu Nr. 2 550138 Sibiu
+  branch_code: XXX
+  city: Sibiu
+  country: Romania
+- name: Cec Bank-s.a.
+  swift: CECEROBUXXX
+  swift8: CECEROBU
+  branch_name: Head Office
+  branch_address: 11-13 Calea Victoriei 79104 Bucharest
+  branch_code: XXX
+  city: Bucharest
+  country: Romania
+- name: Central European Investments S.a.
+  swift: CEENROB1XXX
+  swift8: CEENROB1
+  branch_name: Head Office
+  branch_address: Bd. Vasile Milea Nr. 2h Bucharest
+  branch_code: XXX
+  city: Bucharest
+  country: Romania
+- name: Citibank Europe Plc, Dublin-sucursala Romania
+  swift: CITIROBUTGT
+  swift8: CITIROBU
+  branch_name: Target 2
+  branch_address: Bucharest
+  branch_code: TGT
+  city: Bucharest
+  country: Romania
+- name: Citibank Europe Plc, Dublin-sucursala Romania
+  swift: CITIROBUTRD
+  swift8: CITIROBU
+  branch_name: Trade Services Dept
+  branch_address: 2 Expozitiei Blvd Bucharest
+  branch_code: TRD
+  city: Bucharest
+  country: Romania
+- name: Citibank Europe Plc, Dublin-sucursala Romania
+  swift: CITIROBUXXX
+  swift8: CITIROBU
+  branch_name: Head Office
+  branch_address: 145, Calea Victoriei, 010072 Bucharest
+  branch_code: XXX
+  city: Bucharest
+  country: Romania
+- name: City Invest S.a.
+  swift: CIYIRO21XXX
+  swift8: CIYIRO21
+  branch_name: Head Office
+  branch_address: 9 Fraternitatii Street Galati
+  branch_code: XXX
+  city: Galati
+  country: Romania
+- name: Confident Invest Bucharest S.a.
+  swift: COIHROB1XXX
+  swift8: COIHROB1
+  branch_name: Head Office
+  branch_address: Bl. M66 Bucharest
+  branch_code: XXX
+  city: Bucharest
+  country: Romania
+- name: Credit Agricole Bank Romania S.a.
+  swift: BSEAROBUXXX
+  swift8: BSEAROBU
+  branch_name: Head Office
+  branch_address: 19, Berzei Street 70759 Bucharest
+  branch_code: XXX
+  city: Bucharest
+  country: Romania
+- name: Credit Europe Bank (romania) S.a.
+  swift: FNNBROBUXXX
+  swift8: FNNBROBU
+  branch_name: Head Office
+  branch_address: Bulevardul Timisoara, Nr.26z, 061331 Bucharest
+  branch_code: XXX
+  city: Bucharest
+  country: Romania
+- name: Creditcoop Casa Centrala
+  swift: CRCOROBUXXX
+  swift8: CRCOROBU
+  branch_name: Head Office
+  branch_address: Creditcoop Building 060015 Bucharest
+  branch_code: XXX
+  city: Bucharest
+  country: Romania
+- name: Delta Valori Mobiliare (d.v.m.) S.a
+  swift: DVMDROB1XXX
+  swift8: DVMDROB1
+  branch_name: Head Office
+  branch_address: Sos. Vergului Nr. 59 Bucharest
+  branch_code: XXX
+  city: Bucharest
+  country: Romania
+- name: Depozitarul Central S.a.
+  swift: DECNROBUXXX
+  swift8: DECNROBU
+  branch_name: Head Office
+  branch_address: 25, Fagaras St. 010897 Bucharest
+  branch_code: XXX
+  city: Bucharest
+  country: Romania
+- name: Dorinvest S.a.
+  swift: DORNROB1XXX
+  swift8: DORNROB1
+  branch_name: Head Office
+  branch_address: Jaques Elias Nr. 4 Bucharest
+  branch_code: XXX
+  city: Bucharest
+  country: Romania
+- name: Eastern Securities S.a.
+  swift: EASCROB1XXX
+  swift8: EASCROB1
+  branch_name: Head Office
+  branch_address: Calea Victoriei 222 Bucharest
+  branch_code: XXX
+  city: Bucharest
+  country: Romania
+- name: Eldainvest S.a.
+  swift: ELDARO21XXX
+  swift8: ELDARO21
+  branch_name: Head Office
+  branch_address: Bl. B Galati
+  branch_code: XXX
+  city: Galati
+  country: Romania
+- name: Equity Invest S.a.
+  swift: EQIVROB1XXX
+  swift8: EQIVROB1
+  branch_name: Head Office
+  branch_address: Frumoasa Nr. 52 Bucharest
+  branch_code: XXX
+  city: Bucharest
+  country: Romania
+- name: Esteuro Capital S.a.
+  swift: ESCPROB1XXX
+  swift8: ESCPROB1
+  branch_name: Head Office
+  branch_address: Bl. 106 Bucharest
+  branch_code: XXX
+  city: Bucharest
+  country: Romania
+- name: Estinvest S.a.
+  swift: ESTIRO21XXX
+  swift8: ESTIRO21
+  branch_name: Head Office
+  branch_address: Republicii Nr. 9 Focsani
+  branch_code: XXX
+  city: Focsani
+  country: Romania
+- name: Eteba Romania S.a.
+  swift: ETROROB1XXX
+  swift8: ETROROB1
+  branch_name: Head Office
+  branch_address: Bl. B3 Bucharest
+  branch_code: XXX
+  city: Bucharest
+  country: Romania
+- name: Etr Romania
+  swift: ETRMROB1XXX
+  swift8: ETRMROB1
+  branch_name: Head Office
+  branch_address: National Environmental Protection Bucharest
+  branch_code: XXX
+  city: Bucharest
+  country: Romania
+- name: Eurobank Securities S.a.
+  swift: EFESROB1XXX
+  swift8: EFESROB1
+  branch_name: Head Office
+  branch_address: Sos. N. Titulescu Nr. 4-8 Bucharest
+  branch_code: XXX
+  city: Bucharest
+  country: Romania
+- name: Eurosavam S.a.
+  swift: EURVROB1XXX
+  swift8: EURVROB1
+  branch_name: Head Office
+  branch_address: Bl. M5 Bucharest
+  branch_code: XXX
+  city: Ploiesti
+  country: Romania
+- name: Eximbank Of Romania
+  swift: EXIMROBUXXX
+  swift8: EXIMROBU
+  branch_name: Head Office
+  branch_address: Splaiul Independentei Street 15 Bucharest
+  branch_code: XXX
+  city: Bucharest
+  country: Romania
+- name: Fairwind Securities S.a.
+  swift: UNSUROB1XXX
+  swift8: UNSUROB1
+  branch_name: Head Office
+  branch_address: Splaiul Unirii Nr.16 Bucharest
+  branch_code: XXX
+  city: Bucharest
+  country: Romania
+- name: Finaco Securities S.a.
+  swift: FIUEROB1XXX
+  swift8: FIUEROB1
+  branch_name: Head Office
+  branch_address: Av. Petre Cretu 17 Bucharest
+  branch_code: XXX
+  city: Bucharest
+  country: Romania
+- name: G.i.f.-grupul De Intermediere Financiara S.a.
+  swift: GGIFROB1XXX
+  swift8: GGIFROB1
+  branch_name: Head Office
+  branch_address: Negustori Nr. 34 Bucharest
+  branch_code: XXX
+  city: Bucharest
+  country: Romania
+- name: G.m. Invest S.a.
+  swift: IVTEROB1XXX
+  swift8: IVTEROB1
+  branch_name: Head Office
+  branch_address: Bl. A2 Bucharest
+  branch_code: XXX
+  city: Bucharest
+  country: Romania
+- name: Garanti Bank S.a.
+  swift: UGBIROBUXXX
+  swift8: UGBIROBU
+  branch_name: Head Office
+  branch_address: F Building Bucharest
+  branch_code: XXX
+  city: Bucharest
+  country: Romania
+- name: Global Valori Mobiliare S.a.
+  swift: GLVMROB1XXX
+  swift8: GLVMROB1
+  branch_name: Head Office
+  branch_address: Cercului Nr. 1 Bucharest
+  branch_code: XXX
+  city: Bucharest
+  country: Romania
+- name: Goldring S.a.
+  swift: GOLIRO21XXX
+  swift8: GOLIRO21
+  branch_name: Head Office
+  branch_address: Bartok Bela Nr. 11/3 Targu Mures
+  branch_code: XXX
+  city: Targu Mures
+  country: Romania
+- name: Harinvest S.a.
+  swift: HARIRO21XXX
+  swift8: HARIRO21
+  branch_name: Head Office
+  branch_address: Gen. Praporgescu Nr. 18 Ramnicu Valcea
+  branch_code: XXX
+  city: Ramnicu Valcea
+  country: Romania
+- name: Hb Invest S.a.
+  swift: IVTSRO21XXX
+  swift8: IVTSRO21
+  branch_name: Head Office
+  branch_address: Sc.C/D Brasov
+  branch_code: XXX
+  city: Brasov
+  country: Romania
+- name: Hti Valori Mobiliare S.a.
+  swift: HTVMROB1XXX
+  swift8: HTVMROB1
+  branch_name: Head Office
+  branch_address: Bd. Pache Protopopescu Nr. 45 Bucharest
+  branch_code: XXX
+  city: Bucharest
+  country: Romania
+- name: Ieba Trust S.a.
+  swift: IETRROB1XXX
+  swift8: IETRROB1
+  branch_name: Head Office
+  branch_address: Buzesti Nr. 66-68 Bucharest
+  branch_code: XXX
+  city: Bucharest
+  country: Romania
+- name: Ifb Finwest S.a.
+  swift: IFFNRO21XXX
+  swift8: IFFNRO21
+  branch_name: Head Office
+  branch_address: Bd. Revolutiei Nr. 55 Arad
+  branch_code: XXX
+  city: Arad
+  country: Romania
+- name: Ing Bank N.v., Bucharest Branch
+  swift: INGBROBUXXX
+  swift8: INGBROBU
+  branch_name: Head Office
+  branch_address: Ing Building 71268 Bucharest
+  branch_code: XXX
+  city: Bucharest
+  country: Romania
+- name: Intercapital Invest S.a.
+  swift: ITINROB1XXX
+  swift8: ITINROB1
+  branch_name: Head Office
+  branch_address: Bd. Aviatorilor Nr. 33 Bucharest
+  branch_code: XXX
+  city: Bucharest
+  country: Romania
+- name: Interdealer Capital Invest S.a.
+  swift: INLNRO21XXX
+  swift8: INLNRO21
+  branch_name: Head Office
+  branch_address: Constanta Nr. 7 Cluj-Napoca
+  branch_code: XXX
+  city: Cluj-Napoca
+  country: Romania
+- name: Interfinbrok Corporation S.a.
+  swift: INAORO21XXX
+  swift8: INAORO21
+  branch_name: Head Office
+  branch_address: Calarasi Nr.1 Constanta
+  branch_code: XXX
+  city: Constanta
+  country: Romania
+- name: Intervam S.a.
+  swift: ITTRROB1XXX
+  swift8: ITTRROB1
+  branch_name: Head Office
+  branch_address: Mircea Vulcanescu Nr.79 Bucharest
+  branch_code: XXX
+  city: Bucharest
+  country: Romania
+- name: Intesa Sanpaolo Romania S.a.
+  swift: WBANRO22XXX
+  swift8: WBANRO22
+  branch_name: Head Office
+  branch_address: B-Dul Revolutiei 88 310025 Arad
+  branch_code: XXX
+  city: Arad
+  country: Romania
+- name: Invest Trust S.a.
+  swift: INUTRO21XXX
+  swift8: INUTRO21
+  branch_name: Head Office
+  branch_address: Calea Bucuresti Nr.39 Craiova
+  branch_code: XXX
+  city: Craiova
+  country: Romania
+- name: Kd Capital Management S.a.
+  swift: CPMAROB1XXX
+  swift8: CPMAROB1
+  branch_name: Head Office
+  branch_address: Gheorghe Manu Nr.5 Bucharest
+  branch_code: XXX
+  city: Bucharest
+  country: Romania
+- name: Kira Credito And Cauzioni Ifn S.a
+  swift: KCCFRO21XXX
+  swift8: KCCFRO21
+  branch_name: No branch name
+  branch_address: No branch address
+  branch_code: XXX
+  city: Iasi
+  country: Romania
+- name: Libra Bank S.a.
+  swift: BRELROBUCAM
+  swift8: BRELROBU
+  branch_name: Bucharest
+  branch_address: Cimpineanu Street, 11 Bucharest
+  branch_code: CAM
+  city: Bucharest
+  country: Romania
+- name: Libra Bank S.a.
+  swift: BRELROBUXXX
+  swift8: BRELROBU
+  branch_name: Head Office
+  branch_address: 11 Dr. Grigore Mora 011885 Bucharest
+  branch_code: XXX
+  city: Bucharest
+  country: Romania
+- name: Marfin Bank (romania) S.a.
+  swift: EGNAROBXXXX
+  swift8: EGNAROBX
+  branch_name: Head Office
+  branch_address: 90-92, Emanoil Porumbaru Street 11428 Bucharest
+  branch_code: XXX
+  city: Bucharest
+  country: Romania
+- name: Ministry Of Public Finance
+  swift: TREZROBUXXX
+  swift8: TREZROBU
+  branch_name: Head Office
+  branch_address: Information Technology Dept. 050741 Bucharest 4
+  branch_code: XXX
+  city: Bucharest
+  country: Romania
+- name: Muntenia Global Invest S.a.
+  swift: MUGIROB1XXX
+  swift8: MUGIROB1
+  branch_name: Head Office
+  branch_address: Bld.Marasesti Nr.25 Bucharest
+  branch_code: XXX
+  city: Bucharest
+  country: Romania
+- name: National Bank Of Romania
+  swift: NBORROBPXXX
+  swift8: NBORROBP
+  branch_name: Head Office
+  branch_address: Bucharest
+  branch_code: XXX
+  city: Bucharest
+  country: Romania
+- name: National Bank Of Romania
+  swift: NBORROBSXXX
+  swift8: NBORROBS
+  branch_name: Head Office
+  branch_address: 25 Lipscani Street, Iii 030031 Bucharest
+  branch_code: XXX
+  city: Bucharest
+  country: Romania
+- name: National Bank Of Romania
+  swift: NBORROBUXXX
+  swift8: NBORROBU
+  branch_name: Head Office
+  branch_address: Lipscani Street 25 70421 Bucharest
+  branch_code: XXX
+  city: Bucharest
+  country: Romania
+- name: Nextebank S.a. (formerly Mkb Romexterra Bank
+  swift: CRDZROBUXXX
+  swift8: CRDZROBU
+  branch_name: Head Office
+  branch_address: Millennium Business Center 021012 Bucharest
+  branch_code: XXX
+  city: Bucharest
+  country: Romania
+- name: Nhl Securities S.a.
+  swift: SMRSROB1XXX
+  swift8: SMRSROB1
+  branch_name: Head Office
+  branch_address: 20 Dr. Constantin Istrati Street Bucharest
+  branch_code: XXX
+  city: Bucharest
+  country: Romania
+- name: Nova Invest S.a.
+  swift: NOIVRO21XXX
+  swift8: NOIVRO21
+  branch_name: Head Office
+  branch_address: Gheorghe Doja Nr.3 Satu Mare
+  branch_code: XXX
+  city: Satu Mare
+  country: Romania
+- name: Oltenia Grup Invest S.a.
+  swift: OLGIRO21XXX
+  swift8: OLGIRO21
+  branch_name: Head Office
+  branch_address: Mihai Viteazu Nr.4 Craiova
+  branch_code: XXX
+  city: Craiova
+  country: Romania
+- name: Otp Bank Romania S.a.
+  swift: OTPVROBUXXX
+  swift8: OTPVROBU
+  branch_name: Head Office
+  branch_address: Str. Buzesti 66-68 011017 Bucharest
+  branch_code: XXX
+  city: Bucharest
+  country: Romania
+- name: Piraeus Bank Romania
+  swift: PIRBROBUXXX
+  swift8: PIRBROBU
+  branch_name: Head Office
+  branch_address: International Business Center 020922 Bucharest
+  branch_code: XXX
+  city: Bucharest
+  country: Romania
+- name: Porsche Bank Romania Sa
+  swift: PORLROBUXXX
+  swift8: PORLROBU
+  branch_name: Head Office
+  branch_address: Porsche Building 014251 Bucharest
+  branch_code: XXX
+  city: Voluntari
+  country: Romania
+- name: Prime Transaction S.a.
+  swift: PRTAROB1XXX
+  swift8: PRTAROB1
+  branch_name: Head Office
+  branch_address: Caloian Judetul Nr.22 Bucharest
+  branch_code: XXX
+  city: Bucharest
+  country: Romania
+- name: Procreditbank S.a.
+  swift: MIROROBUXXX
+  swift8: MIROROBU
+  branch_name: Head Office
+  branch_address: Cascade Center 011017 Bucharest
+  branch_code: XXX
+  city: Bucharest
+  country: Romania
+- name: Raiffeisen Banca Pentru Locuinte S.a.
+  swift: RZBLROBUXXX
+  swift8: RZBLROBU
+  branch_name: Head Office
+  branch_address: 79, Nicolae Caramfil, District 1 014146 Bucharest
+  branch_code: XXX
+  city: Bucharest
+  country: Romania
+- name: Raiffeisen Bank S.a.
+  swift: RZBRROBUXXX
+  swift8: RZBRROBU
+  branch_name: Head Office
+  branch_address: Building 2b, Operational Center 20335 Bucharest
+  branch_code: XXX
+  city: Bucharest
+  country: Romania
+- name: Raiffeisen Capital And Investment S.a.
+  swift: RACIROB1XXX
+  swift8: RACIROB1
+  branch_name: Head Office
+  branch_address: P-Ta Charles De Gaulle Nr.15 Bucharest
+  branch_code: XXX
+  city: Bucharest
+  country: Romania
+- name: Rasdaq
+  swift: XRASROB1XXX
+  swift8: XRASROB1
+  branch_name: Head Office
+  branch_address: World Trade Center Bucharest
+  branch_code: XXX
+  city: Bucharest
+  country: Romania
+- name: Rbs Securities (romania) S.a.
+  swift: AASOROB1XXX
+  swift8: AASOROB1
+  branch_name: Head Office
+  branch_address: Piata Montreal Nr. 10 Bucharest
+  branch_code: XXX
+  city: Bucharest
+  country: Romania
+- name: Roinvest Bucovina S.a.
+  swift: ROBURO21XXX
+  swift8: ROBURO21
+  branch_name: Head Office
+  branch_address: Stefanita Voda Nr.8 Suceava
+  branch_code: XXX
+  city: Suceava
+  country: Romania
+- name: Romanian International Bank Sa
+  swift: ROINROBUXXX
+  swift8: ROINROBU
+  branch_name: Head Office
+  branch_address: Bdul. Unirii 67 Bucharest
+  branch_code: XXX
+  city: Bucharest
+  country: Romania
+- name: Romanian Post National Company
+  swift: RONCROB1XXX
+  swift8: RONCROB1
+  branch_name: Head Office
+  branch_address: Dacia Avenue No.140 Bucharest
+  branch_code: XXX
+  city: Bucharest
+  country: Romania
+- name: Rombell Securities S.a.
+  swift: ROECROB1XXX
+  swift8: ROECROB1
+  branch_name: Head Office
+  branch_address: B-Dul Ficusului Nr.44a B Bucharest
+  branch_code: XXX
+  city: Bucharest
+  country: Romania
+- name: Romcapital S.a.
+  swift: ROMCRO21XXX
+  swift8: ROMCRO21
+  branch_name: Head Office
+  branch_address: B-Dul Mihai Viteazu Nr.30b Timis
+  branch_code: XXX
+  city: Timis
+  country: Romania
+- name: Romexterra Finance S.a
+  swift: FNCCRO21XXX
+  swift8: FNCCRO21
+  branch_name: Head Office
+  branch_address: B-Dul 1 Decembrie1918 Nr.93 Targu Mures
+  branch_code: XXX
+  city: Targu Mures
+  country: Romania
+- name: S.c. Depozitarul Sibex S.a.
+  swift: DESXRO21XXX
+  swift8: DESXRO21
+  branch_name: Head Office
+  branch_address: 9-10 Aurel Vlaicu Square 550377 Sibiu
+  branch_code: XXX
+  city: Sibiu
+  country: Romania
+- name: S.s.i.f. Fortius Finance S.a.
+  swift: SSFIROB1XXX
+  swift8: SSFIROB1
+  branch_name: Head Office
+  branch_address: Aviator Sanatescu Nr. 53 Bucharest
+  branch_code: XXX
+  city: Bucharest
+  country: Romania
+- name: S.s.i.f. Orizont Vest S.a.
+  swift: SSOVRO21XXX
+  swift8: SSOVRO21
+  branch_name: Head Office
+  branch_address: Republicii Nr.28/a Oradea
+  branch_code: XXX
+  city: Oradea
+  country: Romania
+- name: S.s.i.f. Piraeus Securities Romania S.a.
+  swift: SPSMROB1XXX
+  swift8: SPSMROB1
+  branch_name: Head Office
+  branch_address: B-Dul Carol I Nr.34-36 Bucharest
+  branch_code: XXX
+  city: Bucharest
+  country: Romania
+- name: S.s.i.f. Romintrade S.a.
+  swift: SSRORO21XXX
+  swift8: SSRORO21
+  branch_name: Head Office
+  branch_address: B-Dul Victoriei Nr.12 Brasov
+  branch_code: XXX
+  city: Brasov
+  country: Romania
+- name: S.s.i.f. Vienna Investment Trust S.a.
+  swift: FIEFROB1XXX
+  swift8: FIEFROB1
+  branch_name: Head Office
+  branch_address: Aleea Alexandru Nr. 48, Sector 1. Bucharest
+  branch_code: XXX
+  city: Bucharest
+  country: Romania
+- name: Samsung Electronics Romania Srl
+  swift: SECTRO214B6
+  swift8: SECTRO21
+  branch_name: Voluntari
+  branch_address: Nord City Tower Voluntari
+  branch_code: 4B6
+  city: Voluntari
+  country: Romania
+- name: Samsung Electronics Romania Srl
+  swift: SECTRO21XXX
+  swift8: SECTRO21
+  branch_name: Head Office
+  branch_address: '077190 1/Vii Pipera Voluntari'
+  branch_code: XXX
+  city: Voluntari
+  country: Romania
+- name: Sc Smith And Smith Srl
+  swift: SSRRROBUXXX
+  swift8: SSRRROBU
+  branch_name: Head Office
+  branch_address: George Georgescu 10 40133 Bucharest
+  branch_code: XXX
+  city: Bucharest
+  country: Romania
+- name: Societate De Investitii Financiare Broker S.a.
+  swift: SIFKRO21XXX
+  swift8: SIFKRO21
+  branch_name: Head Office
+  branch_address: Albert Einstein Nr. 8 Cluj-Napoca
+  branch_code: XXX
+  city: Cluj-Napoca
+  country: Romania
+- name: Societatea Nationala De Compensare, Decontare Si Depozitare Pentru Valori
+    Mobiliare Sa
+  swift: SNCDROB1XXX
+  swift8: SNCDROB1
+  branch_name: Head Office
+  branch_address: World Trade Center 78334 Bucharest
+  branch_code: XXX
+  city: Bucharest
+  country: Romania
+- name: Ssif Mobinvest S.a.
+  swift: SSMORO21XXX
+  swift8: SSMORO21
+  branch_name: Head Office
+  branch_address: Parcul Traian Nr.25 Oradea
+  branch_code: XXX
+  city: Oradea
+  country: Romania
+- name: Ssif Stk Trading S.a.
+  swift: SSSRRO21XXX
+  swift8: SSSRRO21
+  branch_name: Head Office
+  branch_address: Str.Barabas Bela Nr.27 Arad
+  branch_code: XXX
+  city: Arad
+  country: Romania
+- name: Super Gold Invest S.a.
+  swift: SUGIRO21XXX
+  swift8: SUGIRO21
+  branch_name: Head Office
+  branch_address: Crinului Nr.18 Pitesti
+  branch_code: XXX
+  city: Pitesti
+  country: Romania
+- name: Swiss Capital Sa
+  swift: KSRSROB1XXX
+  swift8: KSRSROB1
+  branch_name: Head Office
+  branch_address: Clucerului Nr.55 Bucharest
+  branch_code: XXX
+  city: Bucharest
+  country: Romania
+- name: T.g.h. Investment S.a.
+  swift: TGINRO21XXX
+  swift8: TGINRO21
+  branch_name: Head Office
+  branch_address: B-Dul Carol I Nr.4 Iasi
+  branch_code: XXX
+  city: Iasi
+  country: Romania
+- name: Target Capital S.a.
+  swift: TACIRO21XXX
+  swift8: TACIRO21
+  branch_name: Head Office
+  branch_address: Gavril Muzicescu Nr.5 Cluj-Napoca
+  branch_code: XXX
+  city: Cluj-Napoca
+  country: Romania
+- name: Tbi Bank Ead Sofia Bucharest Branch
+  swift: TBIBROBUXXX
+  swift8: TBIBROBU
+  branch_name: Head Office
+  branch_address: 8-12 Putul Lui Zamfir 011683 Bucharest
+  branch_code: XXX
+  city: Bucharest
+  country: Romania
+- name: Tradeville Sa
+  swift: VANGROB1XXX
+  swift8: VANGROB1
+  branch_name: Head Office
+  branch_address: Building 4b Bucharest
+  branch_code: XXX
+  city: Bucharest
+  country: Romania
+- name: Transfond S.a.
+  swift: TRFDROBSSNT
+  swift8: TRFDROBS
+  branch_name: Back Office Application
+  branch_address: Bucharest
+  branch_code: SNT
+  city: Bucharest
+  country: Romania
+- name: Transfond S.a.
+  swift: TRFDROBSXXX
+  swift8: TRFDROBS
+  branch_name: Head Office
+  branch_address: Bd. Ficusului 1, Sector 1 013971 Bucharest
+  branch_code: XXX
+  city: Bucharest
+  country: Romania
+- name: Transfond S.a.
+  swift: TRFDROBUXXX
+  swift8: TRFDROBU
+  branch_name: Head Office
+  branch_address: Bd. Ficusului No. 1, Sector 1 013971 Bucharest
+  branch_code: XXX
+  city: Bucharest
+  country: Romania
+- name: Transilvania Capital S.a.
+  swift: TRPTRO21XXX
+  swift8: TRPTRO21
+  branch_name: Head Office
+  branch_address: Petofi Sandor Nr.8 Miercurea Ciuc
+  branch_code: XXX
+  city: Miercurea Ciuc
+  country: Romania
+- name: Trend S.a.
+  swift: TEENRO21XXX
+  swift8: TEENRO21
+  branch_name: Head Office
+  branch_address: Nicolae Balcescu Nr.5 Bacau
+  branch_code: XXX
+  city: Bacau
+  country: Romania
+- name: Unicapital S.a.
+  swift: UNCPROB1XXX
+  swift8: UNCPROB1
+  branch_name: Head Office
+  branch_address: Calea Dorobanti Nr.134 Bucharest
+  branch_code: XXX
+  city: Bucharest
+  country: Romania
+- name: Unicredit Ca-ib Securities Sa
+  swift: CAUEROB1XXX
+  swift8: CAUEROB1
+  branch_name: Head Office
+  branch_address: 25 Nicolae Caramfil Street Bucharest
+  branch_code: XXX
+  city: Bucharest
+  country: Romania
+- name: Unicredit Tiriac Bank Sa
+  swift: BACXROBUXXX
+  swift8: BACXROBU
+  branch_name: Head Office
+  branch_address: Ghetarilor Bucharest
+  branch_code: XXX
+  city: Bucharest
+  country: Romania
+- name: Ursus Breweries Sa
+  swift: SABMROB1XXX
+  swift8: SABMROB1
+  branch_name: Head Office
+  branch_address: Calea Victoriei 145 010072 Bucharest
+  branch_code: XXX
+  city: Bucharest
+  country: Romania
+- name: Valahia Capital Sa
+  swift: VACTROB1XXX
+  swift8: VACTROB1
+  branch_name: Head Office
+  branch_address: Bl 5b Bucharest
+  branch_code: XXX
+  city: Bucharest
+  country: Romania
+- name: Valmob Intermedia S.a.
+  swift: VAITRO21XXX
+  swift8: VAITRO21
+  branch_name: Head Office
+  branch_address: Armand Calinescu Nr.2 Pitesti
+  branch_code: XXX
+  city: Pitesti
+  country: Romania
+- name: Ventrust Investment S.a.
+  swift: VEIVRO21XXX
+  swift8: VEIVRO21
+  branch_name: Head Office
+  branch_address: Gheorghe Doja Nr.30/2 Targu Mures
+  branch_code: XXX
+  city: Targu Mures
+  country: Romania
+- name: Volksbank Romania S.a.
+  swift: VBBUROBUXXX
+  swift8: VBBUROBU
+  branch_name: Head Office
+  branch_address: Bd. Mihai Bravu 171 021323 Bucharest
+  branch_code: XXX
+  city: Bucharest
+  country: Romania
+- name: Voltinvest S.a.
+  swift: VOLTRO21XXX
+  swift8: VOLTRO21
+  branch_name: Head Office
+  branch_address: Tufanele Nr.1 Craiova
+  branch_code: XXX
+  city: Craiova
+  country: Romania
+- name: W.b.s. Romania S.a.
+  swift: WBROROB1XXX
+  swift8: WBROROB1
+  branch_name: Head Office
+  branch_address: Batistei Nr.11 Bucharest
+  branch_code: XXX
+  city: Bucharest
+  country: Romania

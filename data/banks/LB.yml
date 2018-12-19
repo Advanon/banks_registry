@@ -1,0 +1,1026 @@
+---
+LB:
+- name: Arab African International Bank
+  swift: ARAILBBEXXX
+  swift8: ARAILBBE
+  branch_name: Head Office
+  branch_address: Arab African Intl Bank Building 11-6066 Beirut
+  branch_code: XXX
+  city: Beirut
+  country: Lebanon
+- name: Arab Bank Plc
+  swift: ARABLBB1022
+  swift8: ARABLBB1
+  branch_name: Tal Branch
+  branch_address: Jbeil
+  branch_code: '022'
+  city: Jbeil
+  country: Lebanon
+- name: Arab Bank Plc
+  swift: ARABLBB1023
+  swift8: ARABLBB1
+  branch_name: Saida
+  branch_address: Saida
+  branch_code: '023'
+  city: Saida
+  country: Lebanon
+- name: Arab Bank Plc
+  swift: ARABLBB1024
+  swift8: ARABLBB1
+  branch_name: Chtoura Branch
+  branch_address: Chtoura
+  branch_code: '024'
+  city: Chtoura
+  country: Lebanon
+- name: Arab Bank Plc
+  swift: ARABLBB1025
+  swift8: ARABLBB1
+  branch_name: Zahreih Branch
+  branch_address: Jbeil
+  branch_code: '025'
+  city: Jbeil
+  country: Lebanon
+- name: Arab Bank Plc
+  swift: ARABLBB1026
+  swift8: ARABLBB1
+  branch_name: Mina Branch
+  branch_address: Jbeil
+  branch_code: '026'
+  city: Jbeil
+  country: Lebanon
+- name: Arab Bank Plc
+  swift: ARABLBB10B2
+  swift8: ARABLBB1
+  branch_name: Dora Branch
+  branch_address: Centre St. Jacques Beirut
+  branch_code: 0B2
+  city: Beirut
+  country: Lebanon
+- name: Arab Bank Plc
+  swift: ARABLBB10B3
+  swift8: ARABLBB1
+  branch_name: Mazraa Branch
+  branch_address: Rihani Center Beirut
+  branch_code: 0B3
+  city: Beirut
+  country: Lebanon
+- name: Arab Bank Plc
+  swift: ARABLBB10B4
+  swift8: ARABLBB1
+  branch_name: Ras Beirut Branch
+  branch_address: Beirut
+  branch_code: 0B4
+  city: Beirut
+  country: Lebanon
+- name: Arab Bank Plc
+  swift: ARABLBB10B5
+  swift8: ARABLBB1
+  branch_name: Verdun Branch
+  branch_address: Simakiyah Buildings Beirut
+  branch_code: 0B5
+  city: Beirut
+  country: Lebanon
+- name: Arab Bank Plc
+  swift: ARABLBB10B6
+  swift8: ARABLBB1
+  branch_name: Beirut Branch
+  branch_address: Riad Al-Solh Street Beirut
+  branch_code: 0B6
+  city: Beirut
+  country: Lebanon
+- name: Arab Bank Plc
+  swift: ARABLBBX0B7
+  swift8: ARABLBBX
+  branch_name: Shyah Branch
+  branch_address: Shyah
+  branch_code: 0B7
+  city: Shyah
+  country: Lebanon
+- name: Arab Bank Plc
+  swift: ARABLBBX0B8
+  swift8: ARABLBBX
+  branch_name: Sin El-Fil Branch
+  branch_address: Sin El-Fil
+  branch_code: 0B8
+  city: Sin El-Fil
+  country: Lebanon
+- name: Arab Bank Plc
+  swift: ARABLBBXXXX
+  swift8: ARABLBBX
+  branch_name: Lebanon Branches Centre
+  branch_address: Arab Bank 11-1015 Beirut Be
+  branch_code: XXX
+  city: Beirut
+  country: Lebanon
+- name: Banque Bemo Sal
+  swift: EUMOLBBEXXX
+  swift8: EUMOLBBE
+  branch_name: Head Office
+  branch_address: Esseily Building 11-7048 Beirut
+  branch_code: XXX
+  city: Beirut
+  country: Lebanon
+- name: Blom Bank S.A.L.
+  swift: BLOMLBBXXXX
+  swift8: BLOMLBBX
+  branch_name: Head Office
+  branch_address: Blom Building 1107 2807 Beirut
+  branch_code: XXX
+  city: Beirut
+  country: Lebanon
+- name: Habib Bank Limited
+  swift: HABBLBBEXXX
+  swift8: HABBLBBE
+  branch_name: Head Office
+  branch_address: Fadlallah Center 11-5616 Beirut
+  branch_code: XXX
+  city: Beirut
+  country: Lebanon
+- name: National Bank Of Abu Dhabi
+  swift: NBADLBB1XXX
+  swift8: NBADLBB1
+  branch_name: Head Office
+  branch_address: Zein Building Beirut
+  branch_code: XXX
+  city: Beirut
+  country: Lebanon
+- name: Qatar National Bank
+  swift: QNBALBBEXXX
+  swift8: QNBALBBE
+  branch_name: Head Office
+  branch_address: Capital Plaza Building Beirut
+  branch_code: XXX
+  city: Beirut
+  country: Lebanon
+- name: Hsbc Bank Middle East
+  swift: BBMELBBXXXX
+  swift8: BBMELBBX
+  branch_name: Head Office
+  branch_address: Sna Building Beirut
+  branch_code: XXX
+  city: Beirut
+  country: Lebanon
+- name: Rafidain Bank
+  swift: RAFBLBBEXXX
+  swift8: RAFBLBBE
+  branch_name: Head Office
+  branch_address: Main Branch 961 Beirut
+  branch_code: XXX
+  city: Beirut
+  country: Lebanon
+- name: Paribas
+  swift: PARBLBB1XXX
+  swift8: PARBLBB1
+  branch_name: Head Office
+  branch_address: Centre Sabbagh, Hamra Beirut
+  branch_code: XXX
+  city: Beirut
+  country: Lebanon
+- name: Bank Of Baghdad
+  swift: BABILBBEXXX
+  swift8: BABILBBE
+  branch_name: Head Office
+  branch_address: Towers Building 11-5777 Beirut
+  branch_code: XXX
+  city: Beirut
+  country: Lebanon
+- name: Al Baraka Bank S.a.l.
+  swift: ALCVLBBEXXX
+  swift8: ALCVLBBE
+  branch_name: Head Office
+  branch_address: Center Verdun 2000 113-5683 Beirut
+  branch_code: XXX
+  city: Beirut
+  country: Lebanon
+- name: Al Bilad Islamic Bank For Investment And Finance Psc
+  swift: AIIFLBBEXXX
+  swift8: AIIFLBBE
+  branch_name: Head Office
+  branch_address: Broadway Center Beirut
+  branch_code: XXX
+  city: Beirut
+  country: Lebanon
+- name: Al Mawarid Bank S.a.l.
+  swift: MABALBBEXXX
+  swift8: MABALBBE
+  branch_name: Head Office
+  branch_address: Yared Building 1136260 Beirut
+  branch_code: XXX
+  city: Beirut
+  country: Lebanon
+- name: Arab Finance Corporation Sal
+  swift: AFCOLBBEXXX
+  swift8: AFCOLBBE
+  branch_name: Head Office
+  branch_address: Gefinor 20348423 Beirut
+  branch_code: XXX
+  city: Beirut
+  country: Lebanon
+- name: Arab Finance House Sal (islamic Bank
+  swift: AFHOLBBEXXX
+  swift8: AFHOLBBE
+  branch_name: Head Office
+  branch_address: Ellipse 961 Beirut
+  branch_code: XXX
+  city: Beirut
+  country: Lebanon
+- name: Arab Investment Bank Sal
+  swift: ARBVLBBEXXX
+  swift8: ARBVLBBE
+  branch_name: Head Office
+  branch_address: Commercial Buildings Co 1107-2230 Beirut
+  branch_code: XXX
+  city: Beirut
+  country: Lebanon
+- name: Audi Investment Bank Sal
+  swift: INFSLBB1XXX
+  swift8: INFSLBB1
+  branch_name: Head Office
+  branch_address: Saint Nicolas Area Beirut
+  branch_code: XXX
+  city: Beirut
+  country: Lebanon
+- name: Audi Saradar Investment Bank S.a.l.
+  swift: AUSILBBEXXX
+  swift8: AUSILBBE
+  branch_name: Head Office
+  branch_address: Bank Audi Plaza - Bab Idriss 1107 2808 Beirut
+  branch_code: XXX
+  city: Beirut
+  country: Lebanon
+- name: Audi Saradar Private Bank S.a.l.
+  swift: BSARLBBXXXX
+  swift8: BSARLBBX
+  branch_name: Head Office
+  branch_address: Hadifeh Building Beirut
+  branch_code: XXX
+  city: Beirut
+  country: Lebanon
+- name: B.l.c. Bank S.a.l.
+  swift: LICOLBBXXXX
+  swift8: LICOLBBX
+  branch_name: Head Office
+  branch_address: Blcbank Beirut
+  branch_code: XXX
+  city: Beirut
+  country: Lebanon
+- name: Bank Al Madina Sal.
+  swift: MADILBL1XXX
+  swift8: MADILBL1
+  branch_name: Head Office
+  branch_address: Bank Al Madina Building 113-7221 Beirut
+  branch_code: XXX
+  city: Beirut
+  country: Lebanon
+- name: Bank Audi Sal-audi Saradar Group
+  swift: AUDBLBBXXXX
+  swift8: AUDBLBBX
+  branch_name: Head Office
+  branch_address: Audi Plaza 2021 8102 Beirut
+  branch_code: XXX
+  city: Beirut
+  country: Lebanon
+- name: Bank Of Beirut Invest S.a.l
+  swift: BOBPLBBEXXX
+  swift8: BOBPLBBE
+  branch_name: Head Office
+  branch_address: Bank of Beirut Building 11 - 7354 Beirut
+  branch_code: XXX
+  city: Beirut
+  country: Lebanon
+- name: Bank Of Beirut S.a.l.
+  swift: BABELBBEXXX
+  swift8: BABELBBE
+  branch_name: Head Office
+  branch_address: Gefinor Building Bloc a Beirut
+  branch_code: XXX
+  city: Beirut
+  country: Lebanon
+- name: Bankmed,sal
+  swift: MEDLLBBXXXX
+  swift8: MEDLLBBX
+  branch_name: Head Office
+  branch_address: Group Mediterranee Building Beirut
+  branch_code: XXX
+  city: Beirut
+  country: Lebanon
+- name: Banque De Credit National S.a.l.
+  swift: BCNBLBBEXXX
+  swift8: BCNBLBBE
+  branch_name: Head Office
+  branch_address: 157 Marfaa Building 110204 Beirut
+  branch_code: XXX
+  city: Beirut
+  country: Lebanon
+- name: Banque De L'habitat S.a.l.
+  swift: LHBALBBXXXX
+  swift8: LHBALBBX
+  branch_name: Head Office
+  branch_address: City Dora Ii 9024-11 Beirut
+  branch_code: XXX
+  city: Beirut
+  country: Lebanon
+- name: Banque De L'industrie Et Du Travail S.a.l.
+  swift: BTLVLBBEXXX
+  swift8: BTLVLBBE
+  branch_name: Head Office
+  branch_address: B.I.T. 11-3948 Beirut
+  branch_code: XXX
+  city: Beirut
+  country: Lebanon
+- name: Banque Du Credit Populaire S A L
+  swift: NUDTLBB1XXX
+  swift8: NUDTLBB1
+  branch_name: Head Office
+  branch_address: Al Ittihada Center Beirut
+  branch_code: XXX
+  city: Beirut
+  country: Lebanon
+- name: Banque Du Liban
+  swift: BDLCLBBAXXX
+  swift8: BDLCLBBA
+  branch_name: Head Office
+  branch_address: Banque Du Liban 11-5544 Beirut
+  branch_code: XXX
+  city: Beirut
+  country: Lebanon
+- name: Banque Du Liban
+  swift: BDLCLBBCXXX
+  swift8: BDLCLBBC
+  branch_name: Head Office
+  branch_address: 11-5544 Beirut
+  branch_code: XXX
+  city: Beirut
+  country: Lebanon
+- name: Banque Du Liban
+  swift: BDLCLBBGXXX
+  swift8: BDLCLBBG
+  branch_name: Head Office
+  branch_address: 11-5544 Beirut
+  branch_code: XXX
+  city: Beirut
+  country: Lebanon
+- name: Banque Du Liban
+  swift: BDLCLBBXACD
+  swift8: BDLCLBBX
+  branch_name: Accounting Department
+  branch_address: Beirut
+  branch_code: ACD
+  city: Beirut
+  country: Lebanon
+- name: Banque Du Liban
+  swift: BDLCLBBXASA
+  swift8: BDLCLBBX
+  branch_name: Beirut
+  branch_address: Beirut
+  branch_code: ASA
+  city: Beirut
+  country: Lebanon
+- name: Banque Du Liban
+  swift: BDLCLBBXCOD
+  swift8: BDLCLBBX
+  branch_name: Current Operations Department
+  branch_address: Beirut
+  branch_code: COD
+  city: Beirut
+  country: Lebanon
+- name: Banque Du Liban
+  swift: BDLCLBBXFOD
+  swift8: BDLCLBBX
+  branch_name: Financial Operations Department
+  branch_address: Beirut
+  branch_code: FOD
+  city: Beirut
+  country: Lebanon
+- name: Banque Du Liban
+  swift: BDLCLBBXFXD
+  swift8: BDLCLBBX
+  branch_name: Foreign Exchange Department
+  branch_address: Beirut
+  branch_code: FXD
+  city: Beirut
+  country: Lebanon
+- name: Banque Du Liban
+  swift: BDLCLBBXMOF
+  swift8: BDLCLBBX
+  branch_name: Ministry of Finance-Treasury and Public Debt Directorate
+  branch_address: Beirut
+  branch_code: MOF
+  city: Beirut
+  country: Lebanon
+- name: Banque Du Liban
+  swift: BDLCLBBXTIA
+  swift8: BDLCLBBX
+  branch_name: Beirut
+  branch_address: Beirut
+  branch_code: TIA
+  city: Beirut
+  country: Lebanon
+- name: Banque Du Liban
+  swift: BDLCLBBXXXX
+  swift8: BDLCLBBX
+  branch_name: Head Office
+  branch_address: Rue Banque Du Liban Hamra Beirut
+  branch_code: XXX
+  city: Beirut
+  country: Lebanon
+- name: Banque Joseph Geagea S A L
+  swift: BJGELBB1XXX
+  swift8: BJGELBB1
+  branch_name: Head Office
+  branch_address: Autostrade Zalka Amaret, Chaloub El Beirut
+  branch_code: XXX
+  city: Beirut
+  country: Lebanon
+- name: Banque Libano Francaise
+  swift: BLFSLBBXXXX
+  swift8: BLFSLBBX
+  branch_name: Head Office
+  branch_address: Liberty Tower Plaza Building Beirut
+  branch_code: XXX
+  city: Beirut
+  country: Lebanon
+- name: Banque Misr Liban S.a.l.
+  swift: BMISLBB1022
+  swift8: BMISLBB1
+  branch_name: Tripoli
+  branch_address: Al-Tall-Boulevard Tripoli
+  branch_code: '022'
+  city: Tripoli
+  country: Lebanon
+- name: Banque Misr Liban S.a.l.
+  swift: BMISLBB1023
+  swift8: BMISLBB1
+  branch_name: Saida
+  branch_address: Riad Solh Street Saida
+  branch_code: '023'
+  city: Saida
+  country: Lebanon
+- name: Banque Misr Liban S.a.l.
+  swift: BMISLBB1024
+  swift8: BMISLBB1
+  branch_name: Zahle
+  branch_address: Boulevard Zahle
+  branch_code: '024'
+  city: Zahle
+  country: Lebanon
+- name: Banque Misr Liban S.a.l.
+  swift: BMISLBB1025
+  swift8: BMISLBB1
+  branch_name: Chtoura
+  branch_address: Damascus Street Chtoura
+  branch_code: '025'
+  city: Chtoura
+  country: Lebanon
+- name: Banque Misr Liban S.a.l.
+  swift: BMISLBB1026
+  swift8: BMISLBB1
+  branch_name: Jounieh
+  branch_address: The Square Jounieh
+  branch_code: '026'
+  city: Jounieh
+  country: Lebanon
+- name: Banque Misr Liban S.a.l.
+  swift: BMISLBB10B2
+  swift8: BMISLBB1
+  branch_name: Mar Elias Street Branch
+  branch_address: Mar Elias Street Beirut
+  branch_code: 0B2
+  city: Beirut
+  country: Lebanon
+- name: Banque Misr Liban S.a.l.
+  swift: BMISLBBEXXX
+  swift8: BMISLBBE
+  branch_name: Head Office
+  branch_address: Riad Elsolh Street Beirut
+  branch_code: XXX
+  city: Beirut
+  country: Lebanon
+- name: Banque Pharaon Et Chiha S.a.l.
+  swift: BPHCLBBEXXX
+  swift8: BPHCLBBE
+  branch_name: Head Office
+  branch_address: Jazra Building 11072010 Beirut
+  branch_code: XXX
+  city: Beirut
+  country: Lebanon
+- name: Bbac Sal
+  swift: BBACLBBXXXX
+  swift8: BBACLBBX
+  branch_name: Head Office
+  branch_address: 250 Clemenceau Street Beirut
+  branch_code: XXX
+  city: Beirut
+  country: Lebanon
+- name: Beirut Stock Exchange
+  swift: XBEYLBB1XXX
+  swift8: XBEYLBB1
+  branch_name: Head Office
+  branch_address: Azarieh Building Beirut
+  branch_code: XXX
+  city: Beirut
+  country: Lebanon
+- name: Bemo Securitisation Sal
+  swift: BEMSLBB1XXX
+  swift8: BEMSLBB1
+  branch_name: Head Office
+  branch_address: Two Park Avenue Beirut
+  branch_code: XXX
+  city: Beirut
+  country: Lebanon
+- name: Blc Invest S.a.l
+  swift: BLIVLBBEXXX
+  swift8: BLIVLBBE
+  branch_name: Head Office
+  branch_address: Royal Tower Building 2064-5809 Beirut
+  branch_code: XXX
+  city: Beirut
+  country: Lebanon
+- name: Blom Development Bank S.a.l.
+  swift: BDBLLBBEXXX
+  swift8: BDBLLBBE
+  branch_name: Head Office
+  branch_address: Blom Bank 1107 2807 Beirut
+  branch_code: XXX
+  city: Beirut
+  country: Lebanon
+- name: Blominvest Bank S.a.l.
+  swift: BLINLBBEXXX
+  swift8: BLINLBBE
+  branch_name: Head Office
+  branch_address: Blom Bldg. 1107 2807 Beirut
+  branch_code: XXX
+  city: Beirut
+  country: Lebanon
+- name: Bsl Bank S.a.l.
+  swift: SONBLBBEXXX
+  swift8: SONBLBBE
+  branch_name: Head Office
+  branch_address: Snbsl Building 11-957 Beirut
+  branch_code: XXX
+  city: Beirut
+  country: Lebanon
+- name: Byblos Bank S.a.l.
+  swift: BYBALBBXXXX
+  swift8: BYBALBBX
+  branch_name: Head Office
+  branch_address: Byblos Tower Beirut
+  branch_code: XXX
+  city: Beirut
+  country: Lebanon
+- name: Byblos Invest Bank S.a.l.
+  swift: BYBILBBXXXX
+  swift8: BYBILBBX
+  branch_name: Head Office
+  branch_address: Byblos Tower 1107 2811 Beirut
+  branch_code: XXX
+  city: Beirut
+  country: Lebanon
+- name: Cedrus Invest Bank S.a.l
+  swift: CIBXLBBEXXX
+  swift8: CIBXLBBE
+  branch_name: Head Office
+  branch_address: Sofil Center 16-6759 Achrafieh
+  branch_code: XXX
+  city: Achrafieh
+  country: Lebanon
+- name: Centre De Traitement Monetique Sal
+  swift: CDTMLBB1XXX
+  swift8: CDTMLBB1
+  branch_name: Head Office
+  branch_address: Banque Libano-Francaise Bldg, Beirut
+  branch_code: XXX
+  city: Beirut
+  country: Lebanon
+- name: Citibank Beirut
+  swift: CITILBBEXXX
+  swift8: CITILBBE
+  branch_name: Head Office
+  branch_address: Geffinor Center Beirut
+  branch_code: XXX
+  city: Beirut
+  country: Lebanon
+- name: Council For Development And Reconstruction
+  swift: CDRALBB1XXX
+  swift8: CDRALBB1
+  branch_name: Head Office
+  branch_address: Cdr 20239201 Beirut
+  branch_code: XXX
+  city: Beirut
+  country: Lebanon
+- name: Credit Commercial Et Foncier Sal
+  swift: CCFXLBBEXXX
+  swift8: CCFXLBBE
+  branch_name: Head Office
+  branch_address: Lazarieh 11-7408 Beirut
+  branch_code: XXX
+  city: Beirut
+  country: Lebanon
+- name: Credit Financier Sal.
+  swift: CRFCLBBEXXX
+  swift8: CRFCLBBE
+  branch_name: Head Office
+  branch_address: Hazmieh Commercial Center Beirut
+  branch_code: XXX
+  city: Beirut
+  country: Lebanon
+- name: Credit Libanais Investment Bank Sal
+  swift: LIBNLBBEXXX
+  swift8: LIBNLBBE
+  branch_name: Head Office
+  branch_address: Asseily Building 166729 Beirut
+  branch_code: XXX
+  city: Beirut
+  country: Lebanon
+- name: Credit Libanais S.a.l.
+  swift: CLIBLBBXXXX
+  swift8: CLIBLBBX
+  branch_name: Head Office
+  branch_address: Sofil Center Beirut
+  branch_code: XXX
+  city: Beirut
+  country: Lebanon
+- name: Creditbank Sal
+  swift: CBCBLBBEXXX
+  swift8: CBCBLBBE
+  branch_name: Head Office
+  branch_address: Bechir Gemayel Avenue, Achrafieh 16-5795 Beirut
+  branch_code: XXX
+  city: Beirut
+  country: Lebanon
+- name: Cscbank Sal
+  swift: CCSCLBBEXXX
+  swift8: CCSCLBBE
+  branch_name: Head Office
+  branch_address: Csc 1103 2120 Beirut
+  branch_code: XXX
+  city: Beirut
+  country: Lebanon
+- name: Emirates Lebanon Bank Sal
+  swift: ELBKLBBXXXX
+  swift8: ELBKLBBX
+  branch_name: Head Office
+  branch_address: Bourj El Ghazal 11-1608 Beirut
+  branch_code: XXX
+  city: Beirut
+  country: Lebanon
+- name: Federal Bank Of Lebanon S A L
+  swift: FBLELBBXXXX
+  swift8: FBLELBBX
+  branch_name: Head Office
+  branch_address: Gebara Building Beirut
+  branch_code: XXX
+  city: Beirut
+  country: Lebanon
+- name: Fenicia Bank S.a.l.
+  swift: BKAWLBBEXXX
+  swift8: BKAWLBBE
+  branch_name: Head Office
+  branch_address: Fenecia Bank Building 1103 2110 Beirut
+  branch_code: XXX
+  city: Beirut
+  country: Lebanon
+- name: Ffa Private Bank S.a.l.
+  swift: FFAILBBEXXX
+  swift8: FFAILBBE
+  branch_name: Head Office
+  branch_address: Tamari Building 90-1283 Beirut
+  branch_code: XXX
+  city: Beirut
+  country: Lebanon
+- name: Fidus Sal Groupe Societe Generale De Banque Au Liban
+  swift: FIDRLBB1XXX
+  swift8: FIDRLBB1
+  branch_name: Head Office
+  branch_address: Sehnauoui Building Beirut
+  branch_code: XXX
+  city: Beirut
+  country: Lebanon
+- name: Fidus Sal Groupe Societe Generale De Banque Au Liban
+  swift: FIDRLBBXXXX
+  swift8: FIDRLBBX
+  branch_name: Head Office
+  branch_address: Sehnaoui Building Beirut
+  branch_code: XXX
+  city: Beirut
+  country: Lebanon
+- name: Finance Bank
+  swift: FBLBLBBXXXX
+  swift8: FBLBLBBX
+  branch_name: Head Office
+  branch_address: Intra Beirut
+  branch_code: XXX
+  city: Beirut
+  country: Lebanon
+- name: First National Bank S.a.l.
+  swift: FINKLBBEXXX
+  swift8: FINKLBBE
+  branch_name: Head Office
+  branch_address: Fnb Building 110-435 Beirut
+  branch_code: XXX
+  city: Beirut
+  country: Lebanon
+- name: Fransa Invest Bank
+  swift: FRAILBBEXXX
+  swift8: FRAILBBE
+  branch_name: Head Office
+  branch_address: Fransabank Center 1107 2803 Beirut
+  branch_code: XXX
+  city: Beirut
+  country: Lebanon
+- name: Fransabank Sal
+  swift: FSABLBBXXXX
+  swift8: FSABLBBX
+  branch_name: Head Office
+  branch_address: Fransabank Center 110393 Beirut
+  branch_code: XXX
+  city: Beirut
+  country: Lebanon
+- name: Ibl Bank S.a.l.(formerly Intercontinental Bank Of Lebanon S.a.l.
+  swift: INLELBBEXXX
+  swift8: INLELBBE
+  branch_name: Head Office
+  branch_address: Charles Malek Avenue 115292 Beirut
+  branch_code: XXX
+  city: Beirut
+  country: Lebanon
+- name: Ibl Investment Bank Sal
+  swift: IBLVLBBEXXX
+  swift8: IBLVLBBE
+  branch_name: Head Office
+  branch_address: Al Madina Tower Beirut
+  branch_code: XXX
+  city: Beirut
+  country: Lebanon
+- name: International Payment Network (ipn
+  swift: IPNBLBB1XXX
+  swift8: IPNBLBB1
+  branch_name: Head Office
+  branch_address: Monte Libano 90-1160 Beirut
+  branch_code: XXX
+  city: Beirut
+  country: Lebanon
+- name: Invest Bank (p.s.c.
+  swift: IBTFLBBEXXX
+  swift8: IBTFLBBE
+  branch_name: Head Office
+  branch_address: Sultan Al Oueiss 115484 Beirut
+  branch_code: XXX
+  city: Beirut
+  country: Lebanon
+- name: Jammal Trust Bank Sal
+  swift: JTBKLBBEXXX
+  swift8: JTBKLBBE
+  branch_name: Head Office
+  branch_address: Jammal Building Beirut
+  branch_code: XXX
+  city: Beirut
+  country: Lebanon
+- name: Kafalat S.a.l. Guarantees For Small And Medium Enterprises
+  swift: KAFALBBEXXX
+  swift8: KAFALBBE
+  branch_name: Head Office
+  branch_address: Picadilly Bldg 11-641 Beirut
+  branch_code: XXX
+  city: Beirut
+  country: Lebanon
+- name: Lebanese Islamic Bank S.a.l.
+  swift: LIBBLBBEXXX
+  swift8: LIBBLBBE
+  branch_name: Head Office
+  branch_address: Liberty Tower Bldg Beirut
+  branch_code: XXX
+  city: Beirut
+  country: Lebanon
+- name: Lebanese Swiss Bank Sal
+  swift: LEBSLBBXXXX
+  swift8: LEBSLBBX
+  branch_name: Head Office
+  branch_address: Center Cebaco Beirut
+  branch_code: XXX
+  city: Beirut
+  country: Lebanon
+- name: Lebanon And Gulf Bank Sal
+  swift: LGBALBBEXXX
+  swift8: LGBALBBE
+  branch_name: Head Office
+  branch_address: Renno 1103 2806 Beirut
+  branch_code: XXX
+  city: Beirut
+  country: Lebanon
+- name: Lebanon Invest S.a.l
+  swift: LINVLBB1XXX
+  swift8: LINVLBB1
+  branch_name: Head Office
+  branch_address: Banque Audi Plaza Beirut
+  branch_code: XXX
+  city: Beirut
+  country: Lebanon
+- name: Libank S.a.l. (levant Investment Bank
+  swift: LIBKLBBEXXX
+  swift8: LIBKLBBE
+  branch_name: Head Office
+  branch_address: New Starco 2020-5201 Beirut
+  branch_code: XXX
+  city: Beirut
+  country: Lebanon
+- name: Litex Bank S A L
+  swift: LITELBB1XXX
+  swift8: LITELBB1
+  branch_name: Head Office
+  branch_address: Emir Abdel Rahman Al-Saoud Bldg Beirut
+  branch_code: XXX
+  city: Beirut
+  country: Lebanon
+- name: Lucid Investment Corporation (l.i.c) Sal
+  swift: LUCILBBXXXX
+  swift8: LUCILBBX
+  branch_name: No branch name
+  branch_address: No branch address
+  branch_code: XXX
+  city: Beirut
+  country: Lebanon
+- name: Meab Sal
+  swift: BAMOLBBEXXX
+  swift8: BAMOLBBE
+  branch_name: Head Office
+  branch_address: Hejeij Building Beirut
+  branch_code: XXX
+  city: Beirut
+  country: Lebanon
+- name: Mecattaf S.a.l
+  swift: MECALBBEXXX
+  swift8: MECALBBE
+  branch_name: Head Office
+  branch_address: Mecattaf Bldg. Awkar El Metn
+  branch_code: XXX
+  city: Awkar El Metn
+  country: Lebanon
+- name: Medinvestment Bank Sal
+  swift: MIBLLBBXXXX
+  swift8: MIBLLBBX
+  branch_name: Head Office
+  branch_address: Mediterranee Group Building 2022 9302 Beirut
+  branch_code: XXX
+  city: Beirut
+  country: Lebanon
+- name: Medsecurities Investment Sal
+  swift: MENVLBB1XXX
+  swift8: MENVLBB1
+  branch_name: Head Office
+  branch_address: Bankmed Center Beirut
+  branch_code: XXX
+  city: Beirut
+  country: Lebanon
+- name: Mena Invest S.a.l.
+  swift: MENALBBEXXX
+  swift8: MENALBBE
+  branch_name: Head Office
+  branch_address: Harbor Tower 11-4405 Beirut
+  branch_code: XXX
+  city: Beirut
+  country: Lebanon
+- name: Merrill Lynch Pierce Fenner And Smith (me) S.a.l.
+  swift: MPFSLBB1XXX
+  swift8: MPFSLBB1
+  branch_name: Head Office
+  branch_address: Sabbagh Center Beirut
+  branch_code: XXX
+  city: Beirut
+  country: Lebanon
+- name: Midclear S.a.l.
+  swift: MIDRLBBEASA
+  swift8: MIDRLBBE
+  branch_name: Beirut
+  branch_address: Beirut
+  branch_code: ASA
+  city: Beirut
+  country: Lebanon
+- name: Midclear S.a.l.
+  swift: MIDRLBBEXXX
+  swift8: MIDRLBBE
+  branch_name: Head Office
+  branch_address: Aresco Center Beirut
+  branch_code: XXX
+  city: Beirut
+  country: Lebanon
+- name: Middle East Airlines-airliban
+  swift: MEALLBBEXXX
+  swift8: MEALLBBE
+  branch_name: Head Office
+  branch_address: Mea Headquarter 11206 Beirut
+  branch_code: XXX
+  city: Beirut
+  country: Lebanon
+- name: Middle East Capital Group
+  swift: MECXLBBEXXX
+  swift8: MECXLBBE
+  branch_name: Head Office
+  branch_address: First National Bank 110-435 Beirut
+  branch_code: XXX
+  city: Beirut
+  country: Lebanon
+- name: Middle East Capital Group S.a.l
+  swift: MIDDLBB1XXX
+  swift8: MIDDLBB1
+  branch_name: Head Office
+  branch_address: Bac Center Tower a Beirut
+  branch_code: XXX
+  city: Beirut
+  country: Lebanon
+- name: Ministry Of Finance
+  swift: MINFLBBEXXX
+  swift8: MINFLBBE
+  branch_name: Head Office
+  branch_address: Ministry of Finance Beirut
+  branch_code: XXX
+  city: Beirut
+  country: Lebanon
+- name: National Bank Of Kuwait (lebanon) Sal
+  swift: NBOKLBBEXXX
+  swift8: NBOKLBBE
+  branch_name: Head Office
+  branch_address: B.A.C. Building Beirut
+  branch_code: XXX
+  city: Beirut
+  country: Lebanon
+- name: Near East Commercial Bank S.a.l.
+  swift: NECBLBBEXXX
+  swift8: NECBLBBE
+  branch_name: Head Office
+  branch_address: Sna Building Beirut
+  branch_code: XXX
+  city: Beirut
+  country: Lebanon
+- name: North Africa Commercial Bank S.a.l.
+  swift: NACBLBBEXXX
+  swift8: NACBLBBE
+  branch_name: Head Office
+  branch_address: Aresco Centre 11/9575 Beirut
+  branch_code: XXX
+  city: Beirut
+  country: Lebanon
+- name: Optimum Invest Sal
+  swift: OPTILBBEXXX
+  swift8: OPTILBBE
+  branch_name: Head Office
+  branch_address: Marfaa 146 17-5154 Beirut
+  branch_code: XXX
+  city: Beirut
+  country: Lebanon
+- name: Saudi Lebanese Bank Sal.
+  swift: SLBLLBBXXXX
+  swift8: SLBLLBBX
+  branch_name: Head Office
+  branch_address: Bashir Al Kasar Street, Verdun Beirut
+  branch_code: XXX
+  city: Beirut
+  country: Lebanon
+- name: Saudi National Commercial Bank-beirut
+  swift: SNCBLBBEXXX
+  swift8: SNCBLBBE
+  branch_name: Head Office
+  branch_address: Verdun Plaza Beirut
+  branch_code: XXX
+  city: Beirut
+  country: Lebanon
+- name: Societe D'investissements Financier S Sal
+  swift: SODALBB1XXX
+  swift8: SODALBB1
+  branch_name: Head Office
+  branch_address: Zakhem Plaza 55518 Sin El-Fil
+  branch_code: XXX
+  city: Sin El-Fil
+  country: Lebanon
+- name: Societe Financiere Du Liban Sal
+  swift: LISFLBBEXXX
+  swift8: LISFLBBE
+  branch_name: Head Office
+  branch_address: Mouccarri Center Beirut
+  branch_code: XXX
+  city: Beirut
+  country: Lebanon
+- name: Societe Generale De Banque Au Liban S.a.l.
+  swift: SGLILBBXXXX
+  swift8: SGLILBBX
+  branch_name: Head Office
+  branch_address: Sehnaoui Building Beirut
+  branch_code: XXX
+  city: Beirut
+  country: Lebanon
+- name: Syrian Lebanese Commercial Bank Sal.
+  swift: SYLCLBBEXXX
+  swift8: SYLCLBBE
+  branch_name: Head Office
+  branch_address: Al Hamra Building Beirut
+  branch_code: XXX
+  city: Beirut
+  country: Lebanon
+- name: United Bank Of Saudi And Lebanon
+  swift: UBSLLBB1XXX
+  swift8: UBSLLBB1
+  branch_name: Head Office
+  branch_address: Banque Du Liban Street Beirut
+  branch_code: XXX
+  city: Beirut
+  country: Lebanon

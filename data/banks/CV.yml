@@ -1,0 +1,114 @@
+---
+CV:
+- name: Banco Angolano De Investimentos, S.a.
+  swift: BAIPCVCVXXX
+  swift8: BAIPCVCV
+  branch_name: Head Office
+  branch_address: Edificio Santa Maria Praia
+  branch_code: XXX
+  city: Praia
+  country: Cape Verde
+- name: Banco Caboverdiano De Negocios-bcn
+  swift: CANBCVCVXXX
+  swift8: CANBCVCV
+  branch_name: Head Office
+  branch_address: Bcn 593 Praia
+  branch_code: XXX
+  city: Praia
+  country: Cape Verde
+- name: Banco Comercial Do Atlantico
+  swift: BCATCVCV0C2
+  swift8: BCATCVCV
+  branch_name: S Vicente
+  branch_address: Apartado 19 Mindelo S. Vicente
+  branch_code: 0C2
+  city: S. Vicente
+  country: Cape Verde
+- name: Banco Comercial Do Atlantico
+  swift: BCATCVCV0C3
+  swift8: BCATCVCV
+  branch_name: Sal
+  branch_address: Sal
+  branch_code: 0C3
+  city: Sal
+  country: Cape Verde
+- name: Banco Comercial Do Atlantico
+  swift: BCATCVCVXXX
+  swift8: BCATCVCV
+  branch_name: Head Office
+  branch_address: Avenida A. Cabral Praia
+  branch_code: XXX
+  city: Praia
+  country: Cape Verde
+- name: Banco De Cabo Verde
+  swift: BCAVCVCVXXX
+  swift8: BCAVCVCV
+  branch_name: Head Office
+  branch_address: Avenue Amilcar Cabral Praia
+  branch_code: XXX
+  city: Praia
+  country: Cape Verde
+- name: Banco Espirito Santo Cabo Verde,sa
+  swift: BESCCVCPXXX
+  swift8: BESCCVCP
+  branch_name: Head Office
+  branch_address: Avenida Cidade De Lisboa 35 Praia
+  branch_code: XXX
+  city: Praia
+  country: Cape Verde
+- name: Banco Fiduciario Internacional (i.f.i.), S.a.
+  swift: BFIICVCVXXX
+  swift8: BFIICVCV
+  branch_name: Head Office
+  branch_address: Rua Cidade Do Funchal, Nr. 6 Praia
+  branch_code: XXX
+  city: Praia
+  country: Cape Verde
+- name: Banco Insular (i.f.i) S.a.r.l.
+  swift: BILRCVC1XXX
+  swift8: BILRCVC1
+  branch_name: Head Office
+  branch_address: Edificio Ferreira Cars Praia
+  branch_code: XXX
+  city: Praia
+  country: Cape Verde
+- name: Banco Interatlantico, Sarl
+  swift: CGDICVCPXXX
+  swift8: CGDICVCP
+  branch_name: Head Office
+  branch_address: Achado De Santo Antonio Praia
+  branch_code: XXX
+  city: Praia
+  country: Cape Verde
+- name: Banco Privado Internacional (ifi
+  swift: PRIFCVCVXXX
+  swift8: PRIFCVCV
+  branch_name: Head Office
+  branch_address: Achada De Santo Antonio Praia
+  branch_code: XXX
+  city: Praia
+  country: Cape Verde
+- name: Caixa Economica De Cabo Verde
+  swift: CXECCVCVXXX
+  swift8: CXECCVCV
+  branch_name: Head Office
+  branch_address: Av. Cidade De Lisboa - Fazenda Praia
+  branch_code: XXX
+  city: Praia
+  country: Cape Verde
+- name: Ecocbank Cabo Verde
+  swift: ECOCCVCVXXX
+  swift8: ECOCCVCV
+  branch_name: Head Office
+  branch_address: 43 Avenida Amilcar Cabral 374 C Praia
+  branch_code: XXX
+  city: Praia
+  country: Cape Verde
+- name: Novo Banco Sa
+  swift: NBCVCVCVXXX
+  swift8: NBCVCVCV
+  branch_name: Head Office
+  branch_address: Edificio Santo Antonio 162 a Praia
+  branch_code: XXX
+  city: A Praia
+  country: Cape Verde

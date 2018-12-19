@@ -1,0 +1,722 @@
+---
+KZ:
+- name: Industrial And Commercial Bank Of China
+  swift: ICBKKZKXXXX
+  swift8: ICBKKZKX
+  branch_name: Head Office
+  branch_address: Turgut Ozal Int., 050046 Almaty
+  branch_code: XXX
+  city: Almaty
+  country: Kazakhstan
+- name: Bta Bank Jsc
+  swift: ABKZKZK1023
+  swift8: ABKZKZK1
+  branch_name: Aktau Branch
+  branch_address: Micro District 9 - 23a 466200 Aktau
+  branch_code: '023'
+  city: Aktau
+  country: Kazakhstan
+- name: Bta Bank Jsc
+  swift: ABKZKZK1024
+  swift8: ABKZKZK1
+  branch_name: Atyrau Branch
+  branch_address: Abaya Street 26a 465000 Atyrau
+  branch_code: '024'
+  city: Atyrau
+  country: Kazakhstan
+- name: Bta Bank Jsc
+  swift: ABKZKZK1025
+  swift8: ABKZKZK1
+  branch_name: Kostanay Branch
+  branch_address: Sovetskaya Street 68 458000 Kostanay
+  branch_code: '025'
+  city: Kostanay
+  country: Kazakhstan
+- name: Bta Bank Jsc
+  swift: ABKZKZK1026
+  swift8: ABKZKZK1
+  branch_name: Uralsk Branch
+  branch_address: Rabochaya Street 16 417800 Uralsk
+  branch_code: '026'
+  city: Uralsk
+  country: Kazakhstan
+- name: Bta Bank Jsc
+  swift: ABKZKZK10K2
+  swift8: ABKZKZK1
+  branch_name: Shimkent Branch
+  branch_address: Nekrasova Street 486250 Shimkent
+  branch_code: 0K2
+  city: Shimkent
+  country: Kazakhstan
+- name: Bta Bank Jsc
+  swift: ABKZKZK10K3
+  swift8: ABKZKZK1
+  branch_name: Karaganda Branch
+  branch_address: Kostenko Street 6 470061 Karaganda
+  branch_code: 0K3
+  city: Karaganda
+  country: Kazakhstan
+- name: Bta Bank Jsc
+  swift: ABKZKZK10K4
+  swift8: ABKZKZK1
+  branch_name: Kokshetau Branch
+  branch_address: Gorkogo Street 19 475006 Kokshetau
+  branch_code: 0K4
+  city: Kokshetau
+  country: Kazakhstan
+- name: Bta Bank Jsc
+  swift: ABKZKZK10K5
+  swift8: ABKZKZK1
+  branch_name: Ust-Kamenogorsk Branch
+  branch_address: Myzy Street 39 482000 Ust-Kamenogorsk
+  branch_code: 0K5
+  city: Ust-Kamenogorsk
+  country: Kazakhstan
+- name: Bta Bank Jsc
+  swift: ABKZKZKXSMK
+  swift8: ABKZKZKX
+  branch_name: Securities Markets Dept
+  branch_address: Almaty
+  branch_code: SMK
+  city: Almaty
+  country: Kazakhstan
+- name: Bta Bank Jsc
+  swift: ABKZKZKXXXX
+  swift8: ABKZKZKX
+  branch_name: Head Office
+  branch_address: 97, Zholdasbekov Str. 050051 Almaty
+  branch_code: XXX
+  city: Almaty
+  country: Kazakhstan
+- name: Al Hilal Islamic Bank Jsc
+  swift: HLALKZKZXXX
+  swift8: HLALKZKZ
+  branch_name: Head Office
+  branch_address: 36 Al Farabi Avenue 050059 Almaty
+  branch_code: XXX
+  city: Almaty
+  country: Kazakhstan
+- name: Alfa Bank Jsc Sb
+  swift: ALFAKZKAXXX
+  swift8: ALFAKZKA
+  branch_name: Head Office
+  branch_address: Masanchy Street 57a 050012 Almaty
+  branch_code: XXX
+  city: Almaty
+  country: Kazakhstan
+- name: Alliance Bank
+  swift: IRTYKZKA001
+  swift8: IRTYKZKA
+  branch_name: Almaty
+  branch_address: Almaty
+  branch_code: '001'
+  city: Almaty
+  country: Kazakhstan
+- name: Alliance Bank
+  swift: IRTYKZKAXXX
+  swift8: IRTYKZKA
+  branch_name: Head Office
+  branch_address: Furmanov Street 50 050000 Almaty
+  branch_code: XXX
+  city: Almaty
+  country: Kazakhstan
+- name: Asiacredit Bank
+  swift: LARIKZKAXXX
+  swift8: LARIKZKA
+  branch_name: Head Office
+  branch_address: Rozybakieva Street 181 a 050060 Almaty
+  branch_code: XXX
+  city: Almaty
+  country: Kazakhstan
+- name: Astana Finance Bank
+  swift: ASFBKZKAXXX
+  swift8: ASFBKZKA
+  branch_name: Head Office
+  branch_address: 98a, Masanchi Street 050022 Almaty
+  branch_code: XXX
+  city: Almaty
+  country: Kazakhstan
+- name: Atf Bank
+  swift: ALMNKZKATRE
+  swift8: ALMNKZKA
+  branch_name: Almaty
+  branch_address: Almaty
+  branch_code: TRE
+  city: Almaty
+  country: Kazakhstan
+- name: Atf Bank
+  swift: ALMNKZKAXXX
+  swift8: ALMNKZKA
+  branch_name: Head Office
+  branch_address: 100 Furmanov Street 050000 Almaty
+  branch_code: XXX
+  city: Almaty
+  country: Kazakhstan
+- name: Bank Kassa Nova
+  swift: KSNVKZKAXXX
+  swift8: KSNVKZKA
+  branch_name: Head Office
+  branch_address: Kunaev Str. 050000 Almaty
+  branch_code: XXX
+  city: Astana
+  country: Kazakhstan
+- name: Bank Of China Kazakhstan
+  swift: BKCHKZKAXXX
+  swift8: BKCHKZKA
+  branch_name: Head Office
+  branch_address: 207 Street Gogol Almaty
+  branch_code: XXX
+  city: Almaty
+  country: Kazakhstan
+- name: Bank Rbk
+  swift: KINCKZKAXXX
+  swift8: KINCKZKA
+  branch_name: Head Office
+  branch_address: 84, Adi Sharipova 050012 Almaty
+  branch_code: XXX
+  city: Almaty
+  country: Kazakhstan
+- name: British American Tobacco Kazakhstan Trading Llp
+  swift: BATSKZK1XXX
+  swift8: BATSKZK1
+  branch_name: No branch name
+  branch_address: No branch address
+  branch_code: XXX
+  city: Almaty
+  country: Kazakhstan
+- name: Central Asian Stock Exchange
+  swift: XKAZKZK1XXX
+  swift8: XKAZKZK1
+  branch_name: Head Office
+  branch_address: Fourmanov Street 65 480004 Almaty
+  branch_code: XXX
+  city: Almaty
+  country: Kazakhstan
+- name: Central Securities Depository, Cjsc
+  swift: CEDUKZKAXXX
+  swift8: CEDUKZKA
+  branch_name: Head Office
+  branch_address: 67, Aiteke Bi 480091 Almaty
+  branch_code: XXX
+  city: Almaty
+  country: Kazakhstan
+- name: Chase Manhattan Bank
+  swift: CHASKZK1XXX
+  swift8: CHASKZK1
+  branch_name: Head Office
+  branch_address: Almaty
+  branch_code: XXX
+  city: Almaty
+  country: Kazakhstan
+- name: Cjsc Citibank Kazakhstan
+  swift: CITIKZKAXXX
+  swift8: CITIKZKA
+  branch_name: Head Office
+  branch_address: Park Palace a 480100 Almaty
+  branch_code: XXX
+  city: Almaty
+  country: Kazakhstan
+- name: Cjsc Citibank Kazakhstan
+  swift: CITIKZX1TRD
+  swift8: CITIKZX1
+  branch_name: Trade Services Dept
+  branch_address: Almaty
+  branch_code: TRD
+  city: Almaty
+  country: Kazakhstan
+- name: Credit Altyn Bank
+  swift: CRAYKZK1XXX
+  swift8: CRAYKZK1
+  branch_name: Head Office
+  branch_address: Dostyk Ave 282 050020 Almaty
+  branch_code: XXX
+  city: Almaty
+  country: Kazakhstan
+- name: Credit Altyn Bank
+  swift: CRAYKZKAXXX
+  swift8: CRAYKZKA
+  branch_name: Head Office
+  branch_address: Dostyk Ave 282 050020 Almaty
+  branch_code: XXX
+  city: Almaty
+  country: Kazakhstan
+- name: Delta Bank, Jsc
+  swift: NFBAKZ23XXX
+  swift8: NFBAKZ23
+  branch_name: Head Office
+  branch_address: 73a Tole Bi 050040 Almaty
+  branch_code: XXX
+  city: Almaty
+  country: Kazakhstan
+- name: Development Bank Of Kazakhstan Jsc
+  swift: DVKAKZKAXXX
+  swift8: DVKAKZKA
+  branch_name: Head Office
+  branch_address: 32 Republic Avenue 010000 Astana
+  branch_code: XXX
+  city: Astana
+  country: Kazakhstan
+- name: Eurasian Bank
+  swift: EURIKZKAXXX
+  swift8: EURIKZKA
+  branch_name: Head Office
+  branch_address: 56 Kunaev Street 480002 Almaty
+  branch_code: XXX
+  city: Almaty
+  country: Kazakhstan
+- name: Eurasian Development Bank
+  swift: EABRKZKAXXX
+  swift8: EABRKZKA
+  branch_name: Head Office
+  branch_address: Panfilova St. 98 050000 Almaty
+  branch_code: XXX
+  city: Almaty
+  country: Kazakhstan
+- name: Eximbank Kazakhstan Joint-stock Company
+  swift: EXKAKZKAXXX
+  swift8: EXKAKZKA
+  branch_name: Head Office
+  branch_address: 80, Bogenbai Batyr Str. 050010 Almaty
+  branch_code: XXX
+  city: Almaty
+  country: Kazakhstan
+- name: Express Bank Jsc
+  swift: INKZKZK1XXX
+  swift8: INKZKZK1
+  branch_name: Head Office
+  branch_address: 70 Amangeldy Street 050012 Almaty
+  branch_code: XXX
+  city: Almaty
+  country: Kazakhstan
+- name: Halyk Bank
+  swift: HALYKZK1XXX
+  swift8: HALYKZK1
+  branch_name: Head Office
+  branch_address: Baitursinova 22 Almaty
+  branch_code: XXX
+  city: Almaty
+  country: Kazakhstan
+- name: Halyk Savings Bank Of Kazakstan
+  swift: HSBKKZKXTSY
+  swift8: HSBKKZKX
+  branch_name: Treasury Department
+  branch_address: 97 Rozybakiev Street 480046 Almaty
+  branch_code: TSY
+  city: Almaty
+  country: Kazakhstan
+- name: Halyk Savings Bank Of Kazakstan
+  swift: HSBKKZKXXXX
+  swift8: HSBKKZKX
+  branch_name: Head Office
+  branch_address: Rozybakieva Street 97 480046 Almaty
+  branch_code: XXX
+  city: Almaty
+  country: Kazakhstan
+- name: House Construction Savings Bank Of Kazakhstan
+  swift: HCSKKZKAXXX
+  swift8: HCSKKZKA
+  branch_name: Head Office
+  branch_address: 91, Abylai Khan Avenue 050000 Almaty
+  branch_code: XXX
+  city: Almaty
+  country: Kazakhstan
+- name: Hsbc Securities Kazakhstan Llp
+  swift: HSBCKZB1XXX
+  swift8: HSBCKZB1
+  branch_name: Head Office
+  branch_address: 43 Dostyk Avenue 050010 Almaty
+  branch_code: XXX
+  city: Almaty
+  country: Kazakhstan
+- name: Jsc 'bank Centercredit'
+  swift: KCJBKZK1AKT
+  swift8: KCJBKZK1
+  branch_name: Aktau Branch
+  branch_address: 12, Microdistrict 12 466200 Aktau
+  branch_code: AKT
+  city: Aktau
+  country: Kazakhstan
+- name: Jsc 'bank Centercredit'
+  swift: KCJBKZK1ALM
+  swift8: KCJBKZK1
+  branch_name: Almaty Branch
+  branch_address: 156, Bogenbai Batyr Str. 480012 Almaty
+  branch_code: ALM
+  city: Almaty
+  country: Kazakhstan
+- name: Jsc 'bank Centercredit'
+  swift: KCJBKZK1AOF
+  swift8: KCJBKZK1
+  branch_name: Almaty Regional Branch
+  branch_address: Battalkhanov, 17 040900 Almaty
+  branch_code: AOF
+  city: Almaty
+  country: Kazakhstan
+- name: Jsc 'bank Centercredit'
+  swift: KCJBKZK1AST
+  swift8: KCJBKZK1
+  branch_name: Astana Branch
+  branch_address: 9/1, Baraev Str. 473000 Astana
+  branch_code: AST
+  city: Astana
+  country: Kazakhstan
+- name: Jsc 'bank Centercredit'
+  swift: KCJBKZK1ATB
+  swift8: KCJBKZK1
+  branch_name: Aktobe Branch
+  branch_address: 2, 101 Strelkovoi Brigady 030000 Aktobe
+  branch_code: ATB
+  city: Aktobe
+  country: Kazakhstan
+- name: Jsc 'bank Centercredit'
+  swift: KCJBKZK1ATR
+  swift8: KCJBKZK1
+  branch_name: Atyrau Branch
+  branch_address: 24-A, Azattyk Avenue 465021 Atyrau
+  branch_code: ATR
+  city: Atyrau
+  country: Kazakhstan
+- name: Jsc 'bank Centercredit'
+  swift: KCJBKZK1GZK
+  swift8: KCJBKZK1
+  branch_name: Zhezkazgan Branch
+  branch_address: 26-A, Mira Str. 477000 Zhezkazgan
+  branch_code: GZK
+  city: Zhezkazgan
+  country: Kazakhstan
+- name: Jsc 'bank Centercredit'
+  swift: KCJBKZK1KAR
+  swift8: KCJBKZK1
+  branch_name: Karaganda Branch
+  branch_address: 5, Alikhanov Str. 470061 Karaganda
+  branch_code: KAR
+  city: Karaganda
+  country: Kazakhstan
+- name: Jsc 'bank Centercredit'
+  swift: KCJBKZK1KOK
+  swift8: KCJBKZK1
+  branch_name: Kokshetau Branch
+  branch_address: 210, Auezov Str. 475000 Kokshetau
+  branch_code: KOK
+  city: Kokshetau
+  country: Kazakhstan
+- name: Jsc 'bank Centercredit'
+  swift: KCJBKZK1KOS
+  swift8: KCJBKZK1
+  branch_name: Kostanai Branch
+  branch_address: 16, Urozhainaya Str. 458018 Kostanay
+  branch_code: KOS
+  city: Kostanay
+  country: Kazakhstan
+- name: Jsc 'bank Centercredit'
+  swift: KCJBKZK1KZO
+  swift8: KCJBKZK1
+  branch_name: Kyzylorda Branch
+  branch_address: 46, Tokmagambetov Str. 467019 Kyzylorda
+  branch_code: KZO
+  city: Kyzylorda
+  country: Kazakhstan
+- name: Jsc 'bank Centercredit'
+  swift: KCJBKZK1PTR
+  swift8: KCJBKZK1
+  branch_name: Petropavlovsk Branch
+  branch_address: 28, Konstitutsiyi Str. 642015 Petropavlovsk
+  branch_code: PTR
+  city: Petropavlovsk
+  country: Kazakhstan
+- name: Jsc 'bank Centercredit'
+  swift: KCJBKZK1PVL
+  swift8: KCJBKZK1
+  branch_name: Pavlodar Branch
+  branch_address: 156/1, Satpaev Str. 637000 Pavlodar
+  branch_code: PVL
+  city: Pavlodar
+  country: Kazakhstan
+- name: Jsc 'bank Centercredit'
+  swift: KCJBKZK1SMK
+  swift8: KCJBKZK1
+  branch_name: Shymkent Branch
+  branch_address: 65, Turkestanskaya Str. 486050 Shimkent
+  branch_code: SMK
+  city: Shimkent
+  country: Kazakhstan
+- name: Jsc 'bank Centercredit'
+  swift: KCJBKZK1SMP
+  swift8: KCJBKZK1
+  branch_name: Semey
+  branch_address: Lenina 22 071400 Semey
+  branch_code: SMP
+  city: Semey
+  country: Kazakhstan
+- name: Jsc 'bank Centercredit'
+  swift: KCJBKZK1TLD
+  swift8: KCJBKZK1
+  branch_name: Taldykorgan Branch
+  branch_address: 22-A, Kabanbai Batyr Str. 488000 Taldykorgan
+  branch_code: TLD
+  city: Taldykorgan
+  country: Kazakhstan
+- name: Jsc 'bank Centercredit'
+  swift: KCJBKZK1TRZ
+  swift8: KCJBKZK1
+  branch_name: Taraz Branch
+  branch_address: 182, Kazybek-Bi Str. 484039 Taraz
+  branch_code: TRZ
+  city: Taraz
+  country: Kazakhstan
+- name: Jsc 'bank Centercredit'
+  swift: KCJBKZK1URL
+  swift8: KCJBKZK1
+  branch_name: Uralsk Branch
+  branch_address: 184/1 Dostyk Str. 417000 Uralsk
+  branch_code: URL
+  city: Uralsk
+  country: Kazakhstan
+- name: Jsc 'bank Centercredit'
+  swift: KCJBKZK1UST
+  swift8: KCJBKZK1
+  branch_name: Ust-Kamenogorsk Branch
+  branch_address: 17, Karl Libknekht Str. 492024 Ust-Kamenogorsk
+  branch_code: UST
+  city: Ust-Kamenogorsk
+  country: Kazakhstan
+- name: Jsc 'bank Centercredit'
+  swift: KCJBKZKXXXX
+  swift8: KCJBKZKX
+  branch_name: Head Office
+  branch_address: 98, Panfilov Str. 050000 Almaty
+  branch_code: XXX
+  city: Almaty
+  country: Kazakhstan
+- name: Jsc 'bankpozitiv Kazakhstan'
+  swift: DEMIKZKAXXX
+  swift8: DEMIKZKA
+  branch_name: Head Office
+  branch_address: 83 Tole Bi Str. 050012 Almaty
+  branch_code: XXX
+  city: Almaty
+  country: Kazakhstan
+- name: Jsc Mittal Steel Temirtau
+  swift: USINKZ21XXX
+  swift8: USINKZ21
+  branch_name: Head Office
+  branch_address: 1 Republic Avenue 101407 Temirtau
+  branch_code: XXX
+  city: Temirtau
+  country: Kazakhstan
+- name: Jsc Sb Pnb-kazakhstan
+  swift: DABNKZ2PXXX
+  swift8: DABNKZ2P
+  branch_name: Head Office
+  branch_address: 91/2, Dostyk Str. 050051 Almaty
+  branch_code: XXX
+  city: Almaty
+  country: Kazakhstan
+- name: Kaspi Bank Jsc
+  swift: CASPKZKAXXX
+  swift8: CASPKZKA
+  branch_name: Head Office
+  branch_address: 90, Adi Sharipov Street 050012 Almaty
+  branch_code: XXX
+  city: Almaty
+  country: Kazakhstan
+- name: Kazakhstan Stock Exchange
+  swift: KICEKZKXXXX
+  swift8: KICEKZKX
+  branch_name: Head Office
+  branch_address: 291/3a Dostyk Ave. 050020 Almaty
+  branch_code: XXX
+  city: Almaty
+  country: Kazakhstan
+- name: Kazakhstan-ziraat International Bank
+  swift: KZIBKZKAXXX
+  swift8: KZIBKZKA
+  branch_name: Head Office
+  branch_address: 132 Klochkov Street 480057 Almaty
+  branch_code: XXX
+  city: Almaty
+  country: Kazakhstan
+- name: Kazinvestbank, Jsc
+  swift: KAZSKZKAXXX
+  swift8: KAZSKZKA
+  branch_name: Head Office
+  branch_address: 172 Dostyk Ave. 050051 Almaty
+  branch_code: XXX
+  city: Almaty
+  country: Kazakhstan
+- name: Kazkommertsbank
+  swift: KZKOKZKXXXX
+  swift8: KZKOKZKX
+  branch_name: Head Office
+  branch_address: 135zh Gagarin Avenue 050060 Almaty
+  branch_code: XXX
+  city: Almaty
+  country: Kazakhstan
+- name: Kazpochtabank, Joint-stock Bank
+  swift: KAZPKZK1XXX
+  swift8: KAZPKZK1
+  branch_name: Head Office
+  branch_address: 242, Furmanov Street 480099 Almaty
+  branch_code: XXX
+  city: Almaty
+  country: Kazakhstan
+- name: Kazpost Oao
+  swift: KAJSKZK1XXX
+  swift8: KAJSKZK1
+  branch_name: Head Office
+  branch_address: Bogenbai Batyr Street, 152 480012 Almaty
+  branch_code: XXX
+  city: Almaty
+  country: Kazakhstan
+- name: National Bank Of Kazakhstan
+  swift: NBRKKZKXXXX
+  swift8: NBRKKZKX
+  branch_name: Head Office
+  branch_address: District Koktem-3 21 480070 Almaty
+  branch_code: XXX
+  city: Almaty
+  country: Kazakhstan
+- name: National Bank Of Pakistan Cjsc Sb
+  swift: NBPAKZKAXXX
+  swift8: NBPAKZKA
+  branch_name: Head Office
+  branch_address: Hc Alatau 480002 Almaty
+  branch_code: XXX
+  city: Almaty
+  country: Kazakhstan
+- name: Nurbank Joint Stock Company
+  swift: NURSKZKXXXX
+  swift8: NURSKZKX
+  branch_name: Head Office
+  branch_address: Zheltoksan Street 168b 480013 Almaty
+  branch_code: XXX
+  city: Almaty
+  country: Kazakhstan
+- name: Qazaq Banki Joint Stock Company
+  swift: SENIKZKAXXX
+  swift8: SENIKZKA
+  branch_name: Head Office
+  branch_address: 21/2 Askarov Street, Apt. 1 040924 Almaty
+  branch_code: XXX
+  city: Kaskelen
+  country: Kazakhstan
+- name: Samsung Electronics Kz And Central Asia
+  swift: SECTKZK1981
+  swift8: SECTKZK1
+  branch_name: 050000 Almaty
+  branch_address: Nauryzbay Batry 31 050000 Almaty
+  branch_code: '981'
+  city: Almaty
+  country: Kazakhstan
+- name: Samsung Electronics Kz And Central Asia
+  swift: SECTKZK1XXX
+  swift8: SECTKZK1
+  branch_name: Head Office
+  branch_address: Temiryazeva Street 050051 Almaty
+  branch_code: XXX
+  city: Almaty
+  country: Kazakhstan
+- name: Sb Jsc Home Credit And Finance Bank
+  swift: INLMKZKAXXX
+  swift8: INLMKZKA
+  branch_name: Head Office
+  branch_address: 38, Toulebaev Str 050004 Almaty
+  branch_code: XXX
+  city: Almaty
+  country: Kazakhstan
+- name: Sb Sberbank Jsc
+  swift: SABRKZKAAST
+  swift8: SABRKZKA
+  branch_name: Astana Branch
+  branch_address: 22/1, Republic Avenue 473000 Astana
+  branch_code: AST
+  city: Astana
+  country: Kazakhstan
+- name: Sb Sberbank Jsc
+  swift: SABRKZKAXXX
+  swift8: SABRKZKA
+  branch_name: Head Office
+  branch_address: 30/26, Gogol/Kaldayakov Street 050010 Almaty
+  branch_code: XXX
+  city: Almaty
+  country: Kazakhstan
+- name: Shinhan Bank Kazakhstan
+  swift: SHBKKZKAXXX
+  swift8: SHBKKZKA
+  branch_name: Head Office
+  branch_address: 123/7 Dostyk Ave. Medeu District Almaty
+  branch_code: XXX
+  city: Almaty
+  country: Kazakhstan
+- name: Taib Kazak Bank Sb Cjsc
+  swift: TBKBKZKAXXX
+  swift8: TBKBKZKA
+  branch_name: Head Office
+  branch_address: 103 Furmanov Street 480091 Almaty
+  branch_code: XXX
+  city: Almaty
+  country: Kazakhstan
+- name: The Royal Bank Of Scotland Kazakhstan
+  swift: ABNAKZKXATY
+  swift8: ABNAKZKX
+  branch_name: Atyrau Branch
+  branch_address: Abn Amro Bank 465002 Atyrau
+  branch_code: ATY
+  city: Atyrau
+  country: Kazakhstan
+- name: The Royal Bank Of Scotland Kazakhstan
+  swift: ABNAKZKXTCO
+  swift8: ABNAKZKX
+  branch_name: Tcov Branch
+  branch_address: 466440 Tengiz
+  branch_code: TCO
+  city: Tengiz
+  country: Kazakhstan
+- name: The Royal Bank Of Scotland Kazakhstan
+  swift: ABNAKZKXXXX
+  swift8: ABNAKZKX
+  branch_name: Head Office
+  branch_address: Kazhymukan Street 45 050059 Almaty
+  branch_code: XXX
+  city: Almaty
+  country: Kazakhstan
+- name: Tsesna Bank Open Joint-stock Company
+  swift: TSESKZKAXXX
+  swift8: TSESKZKA
+  branch_name: Head Office
+  branch_address: 43, Beibitshilik Street 473000 Astana
+  branch_code: XXX
+  city: Astana
+  country: Kazakhstan
+- name: Turkiye Kazakhstan International Bank
+  swift: TKIBKZK1XXX
+  swift8: TKIBKZK1
+  branch_name: Head Office
+  branch_address: Shepkina Street 39, Arbita 3 480043 Almaty
+  branch_code: XXX
+  city: Almaty
+  country: Kazakhstan
+- name: Visor Capital
+  swift: VIAAKZK1XXX
+  swift8: VIAAKZK1
+  branch_name: Head Office
+  branch_address: Esentai Tower Almaty
+  branch_code: XXX
+  city: Almaty
+  country: Kazakhstan
+- name: Vtb Bank (kazakhstan
+  swift: VTBAKZKZXXX
+  swift8: VTBAKZKZ
+  branch_name: Head Office
+  branch_address: 28 V, Temiryazeva St. 050040 Almaty
+  branch_code: XXX
+  city: Almaty
+  country: Kazakhstan
+- name: Zaman-bank Jsc
+  swift: ZAJSKZ22XXX
+  swift8: ZAJSKZ22
+  branch_name: Head Office
+  branch_address: 111a, Lenina Ul. 141206 Ekibastuz
+  branch_code: XXX
+  city: Ekibastuz
+  country: Kazakhstan

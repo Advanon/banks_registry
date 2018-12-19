@@ -1,0 +1,450 @@
+---
+JM:
+- name: Citibank N.A.
+  swift: CITIJMK1XXX
+  swift8: CITIJMK1
+  branch_name: Head Office
+  branch_address: Kingston
+  branch_code: XXX
+  city: Kingston
+  country: Jamaica
+- name: Alliance Investment Management Limited
+  swift: ALNGJMK1XXX
+  swift8: ALNGJMK1
+  branch_name: Head Office
+  branch_address: Alliance 5 Kingston
+  branch_code: XXX
+  city: Kingston
+  country: Jamaica
+- name: Bank Of Jamaica
+  swift: BAJAJMK11KN
+  swift8: BAJAJMK1
+  branch_name: Rtgs
+  branch_address: Kingston
+  branch_code: 1KN
+  city: Kingston
+  country: Jamaica
+- name: Bank Of Jamaica
+  swift: BAJAJMKNXXX
+  swift8: BAJAJMKN
+  branch_name: Head Office
+  branch_address: Nethersole Place Kingston
+  branch_code: XXX
+  city: Kingston
+  country: Jamaica
+- name: Bank Of Nova Scotia Jamaica Ltd., The
+  swift: NOSCJMKNXXX
+  swift8: NOSCJMKN
+  branch_name: Head Office
+  branch_address: Scotiabank Centre Kingston
+  branch_code: XXX
+  city: Kingston
+  country: Jamaica
+- name: Barita Investments Limited
+  swift: BAVSJMK1XXX
+  swift8: BAVSJMK1
+  branch_name: Head Office
+  branch_address: 15 St Lucia Way 5 Kingston
+  branch_code: XXX
+  city: Kingston
+  country: Jamaica
+- name: Bpm Financial Limited
+  swift: BPFIJMK1XXX
+  swift8: BPFIJMK1
+  branch_name: Head Office
+  branch_address: 1 a Holborn Rd 10 Kingston
+  branch_code: XXX
+  city: Kingston
+  country: Jamaica
+- name: C.o.k. Co-operative Credit Union Ltd.
+  swift: CCENJMK1XXX
+  swift8: CCENJMK1
+  branch_name: Head Office
+  branch_address: 66 Slipe Road, Kingston 5 Kingston
+  branch_code: XXX
+  city: Kingston
+  country: Jamaica
+- name: Capital And Credit Merchant Bank Limited
+  swift: CCMKJMK1XXX
+  swift8: CCMKJMK1
+  branch_name: Head Office
+  branch_address: 6-8 Grenada Way Kingston
+  branch_code: XXX
+  city: Kingston
+  country: Jamaica
+- name: Capital And Credit Securities Limited
+  swift: CPCSJMK1XXX
+  swift8: CPCSJMK1
+  branch_name: Head Office
+  branch_address: 18 Trafalgar Road 10 Kingston
+  branch_code: XXX
+  city: Kingston
+  country: Jamaica
+- name: Capital Solutions Limited
+  swift: CPSOJMK1XXX
+  swift8: CPSOJMK1
+  branch_name: Head Office
+  branch_address: 70-72 Lady Musgrave Road 10 Kingston
+  branch_code: XXX
+  city: Kingston
+  country: Jamaica
+- name: Ccu Investments Limited
+  swift: CCNVJMK1XXX
+  swift8: CCNVJMK1
+  branch_name: Head Office
+  branch_address: Oj Thorbourne 5 Kingston
+  branch_code: XXX
+  city: Kingston
+  country: Jamaica
+- name: Churches Co-operative Credit Union Ltd.
+  swift: CCEOJMK1XXX
+  swift8: CCEOJMK1
+  branch_name: Head Office
+  branch_address: Churches Co-Operative Credit 5 Kingston
+  branch_code: XXX
+  city: Kingston
+  country: Jamaica
+- name: Citifinance Limited
+  swift: CIAFJMK1XXX
+  swift8: CIAFJMK1
+  branch_name: Head Office
+  branch_address: Citibank 5 Kingston
+  branch_code: XXX
+  city: Kingston
+  country: Jamaica
+- name: Credit Union Fund Management Company Ltd
+  swift: CUFMJMK1XXX
+  swift8: CUFMJMK1
+  branch_name: Head Office
+  branch_address: 2a Manhattan Road 5 Kingston
+  branch_code: XXX
+  city: Kingston
+  country: Jamaica
+- name: Development Bank Of Jamaica Limited
+  swift: NDBJJMK1XXX
+  swift8: NDBJJMK1
+  branch_name: Head Office
+  branch_address: 11-15 Oxford Road Kingston
+  branch_code: XXX
+  city: Kingston
+  country: Jamaica
+- name: First Global Bank Limited
+  swift: FILBJMKNXXX
+  swift8: FILBJMKN
+  branch_name: Head Office
+  branch_address: Sagicor Building 5 Kingston
+  branch_code: XXX
+  city: Kingston
+  country: Jamaica
+- name: First Global Financial Services Limited
+  swift: FGFSJMK1XXX
+  swift8: FGFSJMK1
+  branch_name: Head Office
+  branch_address: 2 St. Lucia Crescent 5 Kingston
+  branch_code: XXX
+  city: Kingston
+  country: Jamaica
+- name: First Heritage Co-operative Credit Union Limited
+  swift: FHCRJMK1XXX
+  swift8: FHCRJMK1
+  branch_name: Head Office
+  branch_address: 8-10 Eureka Road Kingston 5
+  branch_code: XXX
+  city: Kingston
+  country: Jamaica
+- name: Firstcaribbean International Bank (jamaica) Limited
+  swift: FCIBJMKNXXX
+  swift8: FCIBJMKN
+  branch_name: Head Office
+  branch_address: 18 Halfway Tree Road Kingston
+  branch_code: XXX
+  city: Kingston
+  country: Jamaica
+- name: Firstcaribbean International Trust And Merchant Bank (jamaica) Limited
+  swift: FCIBJM21XXX
+  swift8: FCIBJM21
+  branch_name: Head Office
+  branch_address: Knutsford Boulevard 5 Kingston
+  branch_code: XXX
+  city: Kingston
+  country: Jamaica
+- name: Guardian Asset Management Jamaica Limited
+  swift: GAMJJMK1XXX
+  swift8: GAMJJMK1
+  branch_name: Head Office
+  branch_address: Guardian Life Centre 5 Kingston
+  branch_code: XXX
+  city: Kingston
+  country: Jamaica
+- name: Guardian Life Limted
+  swift: GULIJMK1XXX
+  swift8: GULIJMK1
+  branch_name: Head Office
+  branch_address: Guardian Life Centre 5 Kingston
+  branch_code: XXX
+  city: Kingston
+  country: Jamaica
+- name: Ideal Finance Corporation Limited
+  swift: IDFCJMK1XXX
+  swift8: IDFCJMK1
+  branch_name: Head Office
+  branch_address: Ideal Finance Corporation Limited 5 Kingston
+  branch_code: XXX
+  city: Kingston
+  country: Jamaica
+- name: Ideal Portfolio Services Co Ltd
+  swift: IDPSJMK1XXX
+  swift8: IDPSJMK1
+  branch_name: Head Office
+  branch_address: 17 Ripon Road 5 Kingston
+  branch_code: XXX
+  city: Kingston
+  country: Jamaica
+- name: Intertrade Finance Corporation Ltd.
+  swift: ITFCJMK1XXX
+  swift8: ITFCJMK1
+  branch_name: Head Office
+  branch_address: 23 Barbados Avenue 5 Kingston
+  branch_code: XXX
+  city: Kingston
+  country: Jamaica
+- name: Jamaica Central Securities Depository Limited
+  swift: JCSDJMK1XXX
+  swift8: JCSDJMK1
+  branch_name: Head Office
+  branch_address: 40 Harbour Street Kingston
+  branch_code: XXX
+  city: Kingston
+  country: Jamaica
+- name: Jamaica Co-operative Credit Union League Limited
+  swift: JCCUJMK1XXX
+  swift8: JCCUJMK1
+  branch_name: Head Office
+  branch_address: Credit Union House 5 Kingston
+  branch_code: XXX
+  city: Kingston
+  country: Jamaica
+- name: Jamaica Money Market Brokers Ltd
+  swift: JMMBJMK1XXX
+  swift8: JMMBJMK1
+  branch_name: Head Office
+  branch_address: 6 Haughton Terrace 10 Kingston
+  branch_code: XXX
+  city: Kingston
+  country: Jamaica
+- name: Jn Fund Managers Limited
+  swift: FUNMJMK1XXX
+  swift8: FUNMJMK1
+  branch_name: Head Office
+  branch_address: 17 Belmont Road 8 Kingston
+  branch_code: XXX
+  city: Kingston
+  country: Jamaica
+- name: M/vl Stockbrokers Ltd.
+  swift: MVSTJMK1XXX
+  swift8: MVSTJMK1
+  branch_name: Head Office
+  branch_address: 2-6 Grenada Crescent 5 Kingston
+  branch_code: XXX
+  city: Kingston
+  country: Jamaica
+- name: Mayberry Investments Limited
+  swift: MAYNJMK1XXX
+  swift8: MAYNJMK1
+  branch_name: Head Office
+  branch_address: Mayberry Investments Limited Kingston 5
+  branch_code: XXX
+  city: Kingston
+  country: Jamaica
+- name: Mf And G Asset Management Limited
+  swift: ASAEJMK1XXX
+  swift8: ASAEJMK1
+  branch_name: Head Office
+  branch_address: 21 East Street Kingston
+  branch_code: XXX
+  city: Kingston
+  country: Jamaica
+- name: Mf And G Trust And Finance Company
+  swift: MFGTJMK1XXX
+  swift8: MFGTJMK1
+  branch_name: Head Office
+  branch_address: 21 East Street Kingston
+  branch_code: XXX
+  city: Kingston
+  country: Jamaica
+- name: Moneymasters Limited
+  swift: MONMJMK1XXX
+  swift8: MONMJMK1
+  branch_name: Head Office
+  branch_address: 17 Knutsford Boulevard 5 Kingston
+  branch_code: XXX
+  city: Kingston
+  country: Jamaica
+- name: National Commercial Bank Jamaica Limited
+  swift: JNCBJMK10K2
+  swift8: JNCBJMK1
+  branch_name: King Street
+  branch_address: 77 King Street Kingston
+  branch_code: 0K2
+  city: Kingston
+  country: Jamaica
+- name: National Commercial Bank Jamaica Limited
+  swift: JNCBJMKXXXX
+  swift8: JNCBJMKX
+  branch_name: Head Office
+  branch_address: 77 King Street Kingston
+  branch_code: XXX
+  city: Kingston
+  country: Jamaica
+- name: National Export-import Bank Of Jamaica Limited
+  swift: NAEBJMKIXXX
+  swift8: NAEBJMKI
+  branch_name: Head Office
+  branch_address: The Dorchester Kingston
+  branch_code: XXX
+  city: Kingston
+  country: Jamaica
+- name: Ncb Capital Markets Limited
+  swift: NCCMJMK1XXX
+  swift8: NCCMJMK1
+  branch_name: Head Office
+  branch_address: The Atrium 10 Kingston
+  branch_code: XXX
+  city: Kingston
+  country: Jamaica
+- name: Ncb Insurance Company Limited
+  swift: NCICJMK1XXX
+  swift8: NCICJMK1
+  branch_name: Head Office
+  branch_address: The Atrium 20 Kingston
+  branch_code: XXX
+  city: Kingston
+  country: Jamaica
+- name: Pan Caribbean Bank Limited
+  swift: PCARJMK1XXX
+  swift8: PCARJMK1
+  branch_name: Head Office
+  branch_address: Pan Caribbean Building 5 Kingston
+  branch_code: XXX
+  city: Kingston
+  country: Jamaica
+- name: Pan Caribbean Financial Services Ltd
+  swift: PCFSJMK1XXX
+  swift8: PCFSJMK1
+  branch_name: Head Office
+  branch_address: Pan Caribbean Building 5 Kingston
+  branch_code: XXX
+  city: Kingston
+  country: Jamaica
+- name: Pan Caribbean Merchant Bank Ltd.
+  swift: PCMBJMK1XXX
+  swift8: PCMBJMK1
+  branch_name: Head Office
+  branch_address: 64 Knutsford Boulevard 5 Kingston
+  branch_code: XXX
+  city: Kingston
+  country: Jamaica
+- name: Prime Asset Management Ltd
+  swift: PRTGJMK1XXX
+  swift8: PRTGJMK1
+  branch_name: Head Office
+  branch_address: 7 Harbour Street Kingston
+  branch_code: XXX
+  city: Kingston
+  country: Jamaica
+- name: Proven Wealth Limited
+  swift: PWELJMK1XXX
+  swift8: PWELJMK1
+  branch_name: Head Office
+  branch_address: Guardian Life Centre Kingston
+  branch_code: XXX
+  city: Kingston
+  country: Jamaica
+- name: Sagicor Life Jamaica Limited
+  swift: SALJJMK1XXX
+  swift8: SALJJMK1
+  branch_name: Head Office
+  branch_address: 60 Knutsford Boulevard 5 Kingston
+  branch_code: XXX
+  city: Kingston
+  country: Jamaica
+- name: Scotia Dbg Merchant Bank Limited
+  swift: SCDMJMK1XXX
+  swift8: SCDMJMK1
+  branch_name: Head Office
+  branch_address: 1b Holborn Road 10 Kingston
+  branch_code: XXX
+  city: Kingston
+  country: Jamaica
+- name: Sterling Asset Management Ltd.
+  swift: STEGJMK1XXX
+  swift8: STEGJMK1
+  branch_name: Head Office
+  branch_address: 7 Barbados Avenue 5 Kingston
+  branch_code: XXX
+  city: Kingston
+  country: Jamaica
+- name: Stocks And Securities Limited
+  swift: SSERJMK1XXX
+  swift8: SSERJMK1
+  branch_name: Head Office
+  branch_address: 24-26 Grenada Crescent 5 Kingston
+  branch_code: XXX
+  city: Kingston
+  country: Jamaica
+- name: The Jamaica Stock Exchange Limited
+  swift: XJAMJMK1XXX
+  swift8: XJAMJMK1
+  branch_name: Head Office
+  branch_address: Bank of Jamaica (Towers) Kingston
+  branch_code: XXX
+  city: Kingston
+  country: Jamaica
+- name: Ugi Finance And Investments Limited
+  swift: UGFIJMK1XXX
+  swift8: UGFIJMK1
+  branch_name: Head Office
+  branch_address: 2 Belmont Road 5 Kingston
+  branch_code: XXX
+  city: Kingston
+  country: Jamaica
+- name: Victoria Mutual Building Society
+  swift: VMBSJMK1XXX
+  swift8: VMBSJMK1
+  branch_name: Head Office
+  branch_address: 73-75 Half Way Tree Road 10 Kingston
+  branch_code: XXX
+  city: Kingston
+  country: Jamaica
+- name: Victoria Mutual Wealth Management Limited
+  swift: VMWMJMK1XXX
+  swift8: VMWMJMK1
+  branch_name: Head Office
+  branch_address: 52-60 Grenada Crescent Kingston
+  branch_code: XXX
+  city: Kingston
+  country: Jamaica
+- name: West Indies Union Investment Management Limited
+  swift: WIUIJMK1XXX
+  swift8: WIUIJMK1
+  branch_name: Head Office
+  branch_address: 125 Manchester Road Mandeville
+  branch_code: XXX
+  city: Mandeville
+  country: Jamaica
+- name: Workers Bank Trust Company
+  swift: WBTCJMK1XXX
+  swift8: WBTCJMK1
+  branch_name: Head Office
+  branch_address: 153-155 East Street Kingston
+  branch_code: XXX
+  city: Kingston
+  country: Jamaica
+- name: Workers Trust And Merchant Bank Ltd
+  swift: WTMBJMK1XXX
+  swift8: WTMBJMK1
+  branch_name: Head Office
+  branch_address: 153-155 East Street Kingston
+  branch_code: XXX
+  city: Kingston
+  country: Jamaica

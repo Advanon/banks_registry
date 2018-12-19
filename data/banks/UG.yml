@@ -1,0 +1,362 @@
+---
+UG:
+- name: East African Development Bank
+  swift: AFDEUGKAXXX
+  swift8: AFDEUGKA
+  branch_name: Head Office
+  branch_address: 4 Nile Avenue Kampala
+  branch_code: XXX
+  city: Kampala
+  country: Uganda
+- name: Abc Capital Bank Limited
+  swift: ABCFUGKAXXX
+  swift8: ABCFUGKA
+  branch_name: Head Office
+  branch_address: Colline House Kampala Ka
+  branch_code: XXX
+  city: Kampala Ka
+  country: Uganda
+- name: Bank Of Africa-uganda Ltd.
+  swift: AFRIUGKAXXX
+  swift8: AFRIUGKA
+  branch_name: Head Office
+  branch_address: Jinja Road Kampala
+  branch_code: XXX
+  city: Kampala
+  country: Uganda
+- name: Bank Of Baroda (uganda) Limited
+  swift: BARBUGKAXXX
+  swift8: BARBUGKA
+  branch_name: Head Office
+  branch_address: Bank of Baroda Building Kampala
+  branch_code: XXX
+  city: Kampala
+  country: Uganda
+- name: Bank Of India (uganda) Ltd
+  swift: BKIDUGKAXXX
+  swift8: BKIDUGKA
+  branch_name: Head Office
+  branch_address: Plot No 37 7332 Kampala
+  branch_code: XXX
+  city: Kampala
+  country: Uganda
+- name: Bank Of India (uganda) Ltd
+  swift: UGKAUGK1XXX
+  swift8: UGKAUGK1
+  branch_name: Head Office
+  branch_address: Jinja Road 37 7332 Kampala
+  branch_code: XXX
+  city: Kampala
+  country: Uganda
+- name: Bank Of Uganda
+  swift: UGBAUGKABKG
+  swift8: UGBAUGKA
+  branch_name: Letters of Credit Processing
+  branch_address: Kampala
+  branch_code: BKG
+  city: Kampala
+  country: Uganda
+- name: Bank Of Uganda
+  swift: UGBAUGKAXXX
+  swift8: UGBAUGKA
+  branch_name: Head Office
+  branch_address: Bank of Uganda Kampala
+  branch_code: XXX
+  city: Kampala
+  country: Uganda
+- name: Barclays Bank Of Uganda Ltd.
+  swift: BARCUGKXXXX
+  swift8: BARCUGKX
+  branch_name: Head Office
+  branch_address: 16 Kampata Road Kampala
+  branch_code: XXX
+  city: Kampala
+  country: Uganda
+- name: Cairo International Bank Ltd
+  swift: CAIEUGKAXXX
+  swift8: CAIEUGKA
+  branch_name: Head Office
+  branch_address: Plot 30, Kampala Road Kampala
+  branch_code: XXX
+  city: Kampala
+  country: Uganda
+- name: Centenary Rural Development Bank Limited
+  swift: CERBUGKAXXX
+  swift8: CERBUGKA
+  branch_name: Head Office
+  branch_address: Talenta House Kampala
+  branch_code: XXX
+  city: Kampala
+  country: Uganda
+- name: Citibank Uganda Limited
+  swift: CITIUGKATRD
+  swift8: CITIUGKA
+  branch_name: Trade Services Dept
+  branch_address: Plot Nr 4 Kampala
+  branch_code: TRD
+  city: Kampala
+  country: Uganda
+- name: Citibank Uganda Limited
+  swift: CITIUGKAXXX
+  swift8: CITIUGKA
+  branch_name: Head Office
+  branch_address: Centre Court Kampala
+  branch_code: XXX
+  city: Kampala
+  country: Uganda
+- name: Co-operative Bank Ltd.,the
+  swift: COPBUGK1XXX
+  swift8: COPBUGK1
+  branch_name: Head Office
+  branch_address: Kampala
+  branch_code: XXX
+  city: Kampala
+  country: Uganda
+- name: Crane Bank Ltd
+  swift: CRANUGKAXXX
+  swift8: CRANUGKA
+  branch_name: Head Office
+  branch_address: Crane Chambers 256 Kampala
+  branch_code: XXX
+  city: Kampala
+  country: Uganda
+- name: Crested Stocks And Securities Limited
+  swift: CRKSUGK1XXX
+  swift8: CRKSUGK1
+  branch_name: No branch name
+  branch_address: No branch address
+  branch_code: XXX
+  city: Kampala
+  country: Uganda
+- name: Dfcu Bank
+  swift: DFCUUGKAXXX
+  swift8: DFCUUGKA
+  branch_name: Head Office
+  branch_address: Impala House Kampala
+  branch_code: XXX
+  city: Kampala
+  country: Uganda
+- name: Diamond Trust Bank Uganda Limited
+  swift: DTKEUGKAXXX
+  swift8: DTKEUGKA
+  branch_name: Head Office
+  branch_address: Diamond Trust Bld. Kampala
+  branch_code: XXX
+  city: Kampala
+  country: Uganda
+- name: Ecobank Uganda
+  swift: ECOCUGKAXXX
+  swift8: ECOCUGKA
+  branch_name: Head Office
+  branch_address: Parliament Avenue 041 Kampala
+  branch_code: XXX
+  city: Kampala
+  country: Uganda
+- name: Engiplan Consultants
+  swift: ENCOUGK1XXX
+  swift8: ENCOUGK1
+  branch_name: Head Office
+  branch_address: Kitakule Crescent, Balintuma Rd Kampala
+  branch_code: XXX
+  city: Kampala
+  country: Uganda
+- name: Equity Bank Uganda Ltd
+  swift: EQBLUGKAXXX
+  swift8: EQBLUGKA
+  branch_name: Head Office
+  branch_address: Mutesa Road Kampala
+  branch_code: XXX
+  city: Kampala
+  country: Uganda
+- name: Equity Stock Brokers
+  swift: EQSBUGK1XXX
+  swift8: EQSBUGK1
+  branch_name: Head Office
+  branch_address: Orient Plaza Kampala
+  branch_code: XXX
+  city: Kampala
+  country: Uganda
+- name: Gold Trust Bank
+  swift: GOLTUGK1XXX
+  swift8: GOLTUGK1
+  branch_name: Head Office
+  branch_address: Kampala
+  branch_code: XXX
+  city: Kampala
+  country: Uganda
+- name: Housing Finance Bank Ltd.
+  swift: HFINUGKAXXX
+  swift8: HFINUGKA
+  branch_name: Head Office
+  branch_address: Investment House Kampala
+  branch_code: XXX
+  city: Kampala
+  country: Uganda
+- name: Imperial Bank (uganda) Limited
+  swift: IMPLUGKAXXX
+  swift8: IMPLUGKA
+  branch_name: Head Office
+  branch_address: Hannington Road 36206 Kampala
+  branch_code: XXX
+  city: Kampala
+  country: Uganda
+- name: International Credit Bank Ltd.
+  swift: ICFBUGK1XXX
+  swift8: ICFBUGK1
+  branch_name: Head Office
+  branch_address: Uganda House Kampala
+  branch_code: XXX
+  city: Kampala
+  country: Uganda
+- name: Kcb Bank Uganda Limited
+  swift: KCBLUGKAXXX
+  swift8: KCBLUGKA
+  branch_name: Head Office
+  branch_address: Commercial Plaza Kampala
+  branch_code: XXX
+  city: Kampala
+  country: Uganda
+- name: M/d Trans Africa Bank
+  swift: TRARUGK1XXX
+  swift8: TRARUGK1
+  branch_name: Head Office
+  branch_address: Udyam House Kampala
+  branch_code: XXX
+  city: Kampala
+  country: Uganda
+- name: Mbea Brokerage Services (u) Limited
+  swift: MBRSUGK1XXX
+  swift8: MBRSUGK1
+  branch_name: Head Office
+  branch_address: 44 Lumumba Avenue Kampala
+  branch_code: XXX
+  city: Kampala
+  country: Uganda
+- name: Nc Bank Uganda Limited
+  swift: NINCUGKAXXX
+  swift8: NINCUGKA
+  branch_name: Head Office
+  branch_address: Rwenzori Towers 28707 Kampala
+  branch_code: XXX
+  city: Kampala
+  country: Uganda
+- name: Nile Bank Ltd
+  swift: NLBKUGK1XXX
+  swift8: NLBKUGK1
+  branch_name: Head Office
+  branch_address: Spear House Kampala
+  branch_code: XXX
+  city: Kampala
+  country: Uganda
+- name: Orient Bank Limited
+  swift: ORINUGKAXXX
+  swift8: ORINUGKA
+  branch_name: Head Office
+  branch_address: Orient Plaza Kampala
+  branch_code: XXX
+  city: Kampala
+  country: Uganda
+- name: Postbank Uganda Limited
+  swift: UGPBUGKAXXX
+  swift8: UGPBUGKA
+  branch_name: Head Office
+  branch_address: Plot 4/6 Kampala
+  branch_code: XXX
+  city: Kampala
+  country: Uganda
+- name: Sabmiller Uganda
+  swift: SABMUGT1NBL
+  swift8: SABMUGT1
+  branch_name: Kampala
+  branch_address: Plot 6-10 Portbell Road Kampala
+  branch_code: NBL
+  city: Kampala
+  country: Uganda
+- name: Sabmiller Uganda
+  swift: SABMUGT1RBL
+  swift8: SABMUGT1
+  branch_name: Kampala
+  branch_address: Plot 6-10 Portbell Road Kampala
+  branch_code: RBL
+  city: Kampala
+  country: Uganda
+- name: Sabmiller Uganda
+  swift: SABMUGT1XXX
+  swift8: SABMUGT1
+  branch_name: Head Office
+  branch_address: Portbell Road Kampala
+  branch_code: XXX
+  city: Kampala
+  country: Uganda
+- name: Stanbic Bank Uganda Limited
+  swift: SBICUGKXXXX
+  swift8: SBICUGKX
+  branch_name: Head Office
+  branch_address: 45 Kampala Road Kampala
+  branch_code: XXX
+  city: Kampala
+  country: Uganda
+- name: Standard Chartered Bank Uganda Limited
+  swift: SCBLUGKASSU
+  swift8: SCBLUGKA
+  branch_name: Securities Services Unit
+  branch_address: Kampala
+  branch_code: SSU
+  city: Kampala
+  country: Uganda
+- name: Standard Chartered Bank Uganda Limited
+  swift: SCBLUGKAXXX
+  swift8: SCBLUGKA
+  branch_name: Head Office
+  branch_address: Standard House Building Kampala
+  branch_code: XXX
+  city: Kampala
+  country: Uganda
+- name: Tropical Bank Limited
+  swift: LAUBUGK1XXX
+  swift8: LAUBUGK1
+  branch_name: Head Office
+  branch_address: Kampala Road Kampala
+  branch_code: XXX
+  city: Kampala
+  country: Uganda
+- name: Tropical Bank Ltd
+  swift: TROAUGKAXXX
+  swift8: TROAUGKA
+  branch_name: Head Office
+  branch_address: 27, Kampala Road Kampala
+  branch_code: XXX
+  city: Kampala
+  country: Uganda
+- name: Trust Bank (uganda) Limited
+  swift: TRBAUGK1XXX
+  swift8: TRBAUGK1
+  branch_name: Head Office
+  branch_address: Baumann House Kampala
+  branch_code: XXX
+  city: Kampala
+  country: Uganda
+- name: Uganda Institute Of Bankers
+  swift: UIDBUGK1XXX
+  swift8: UIDBUGK1
+  branch_name: Head Office
+  branch_address: Buganda Road Kampala
+  branch_code: XXX
+  city: Kampala
+  country: Uganda
+- name: Uganda Securities Exchange Ltd
+  swift: USCDUGKAXXX
+  swift8: USCDUGKA
+  branch_name: Head Office
+  branch_address: Workers House 23552 Kampala
+  branch_code: XXX
+  city: Kampala
+  country: Uganda
+- name: United Bank For Africa (uganda) Ltd
+  swift: UNAFUGKAXXX
+  swift8: UNAFUGKA
+  branch_name: Head Office
+  branch_address: Spear House Kampala
+  branch_code: XXX
+  city: Kampala
+  country: Uganda

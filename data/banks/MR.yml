@@ -1,0 +1,162 @@
+---
+MR:
+- name: Attijari Bank Mauritanie
+  swift: BCMAMRMRXXX
+  swift8: BCMAMRMR
+  branch_name: Head Office
+  branch_address: Siege 415 Nouakchott
+  branch_code: XXX
+  city: Nouakchott
+  country: Mauritania
+- name: Banque Al Muamelat As Sahiha
+  swift: BMSHMRMRXXX
+  swift8: BMSHMRMR
+  branch_name: Head Office
+  branch_address: Immeuble Al Kayma 5243 Nouakchott
+  branch_code: XXX
+  city: Nouakchott
+  country: Mauritania
+- name: Banque Al Wava Mauritanienne Islamique (bamis
+  swift: BAAWMRMRXXX
+  swift8: BAAWMRMR
+  branch_name: Head Office
+  branch_address: Avenue Du Roi Faycal Nouakchott
+  branch_code: XXX
+  city: Nouakchott
+  country: Mauritania
+- name: Banque Centrale De Mauritanie
+  swift: BCEMMRMRXXX
+  swift8: BCEMMRMR
+  branch_name: Head Office
+  branch_address: Bcm Building Nouakchott
+  branch_code: XXX
+  city: Nouakchott
+  country: Mauritania
+- name: Banque El Amana (bea
+  swift: AMDHMRMRXXX
+  swift8: AMDHMRMR
+  branch_name: Head Office
+  branch_address: 59 Rue Mamadou Konate Nouakchott
+  branch_code: XXX
+  city: Nouakchott
+  country: Mauritania
+- name: Banque Islamique De Mauritanie
+  swift: BIMMMRMRXXX
+  swift8: BIMMMRMR
+  branch_name: Head Office
+  branch_address: Avenue Du Roi 402 Nouakchott
+  branch_code: XXX
+  city: Nouakchott
+  country: Mauritania
+- name: Banque Islamique De Mauritanie
+  swift: BIMMMRM1XXX
+  swift8: BIMMMRM1
+  branch_name: Head Office
+  branch_address: Avenue Du Roi 402 Nouakchott
+  branch_code: XXX
+  city: Nouakchott
+  country: Mauritania
+- name: Banque Mauritanienne Pour Le Commerce International
+  swift: MBICMRMR0MN
+  swift8: MBICMRMR
+  branch_name: Nouadhibou
+  branch_address: Nouadhibou
+  branch_code: 0MN
+  city: Nouadhibou
+  country: Mauritania
+- name: Banque Mauritanienne Pour Le Commerce International
+  swift: MBICMRMRXXX
+  swift8: MBICMRMR
+  branch_name: Head Office
+  branch_address: Bmci Building Nouakchott
+  branch_code: XXX
+  city: Nouakchott
+  country: Mauritania
+- name: Banque Nationale De Mauritanie
+  swift: BQNMMRMRXXX
+  swift8: BQNMMRMR
+  branch_name: Head Office
+  branch_address: Avenue Gamal Abd El Nasser Nouakchott
+  branch_code: XXX
+  city: Nouakchott
+  country: Mauritania
+- name: Banque Populaire De Mauritanie
+  swift: BPMAMRMRXXX
+  swift8: BPMAMRMR
+  branch_name: Head Office
+  branch_address: Avenue Charles De Gaulle Nouakchott
+  branch_code: XXX
+  city: Nouakchott
+  country: Mauritania
+- name: Banque Pour Le Commerce Et L'industrie
+  swift: COLIMRMRXXX
+  swift8: COLIMRMR
+  branch_name: Head Office
+  branch_address: Bci 5050 Nouakchott
+  branch_code: XXX
+  city: Nouakchott
+  country: Mauritania
+- name: Chinguitty Bank
+  swift: CZRZMRMRXXX
+  swift8: CZRZMRMR
+  branch_name: Head Office
+  branch_address: Avenue Gamal Abd El Nasser Nouakchott
+  branch_code: XXX
+  city: Nouakchott
+  country: Mauritania
+- name: Generale De Banque De Mauritanie Pour L'investissement Et Le Commerce
+  swift: GBMCMRMRNDB
+  swift8: GBMCMRMR
+  branch_name: Nouadhibou
+  branch_address: Gbm Nouadhibou
+  branch_code: NDB
+  city: Nouadhibou
+  country: Mauritania
+- name: Generale De Banque De Mauritanie Pour L'investissement Et Le Commerce
+  swift: GBMCMRMRXXX
+  swift8: GBMCMRMR
+  branch_name: Head Office
+  branch_address: Avenue De Lindependance Nouakchott
+  branch_code: XXX
+  city: Nouakchott
+  country: Mauritania
+- name: Maurisbank Sa (el Islami
+  swift: MAURMRMRXXX
+  swift8: MAURMRMR
+  branch_name: No branch name
+  branch_address: No branch address
+  branch_code: XXX
+  city: Nouakchott
+  country: Mauritania
+- name: Orabank Mauritanie
+  swift: ORBKMRMRXXX
+  swift8: ORBKMRMR
+  branch_name: Head Office
+  branch_address: Av General Charles De Gaulle Nouakchott
+  branch_code: XXX
+  city: Nouakchott
+  country: Mauritania
+- name: Qatar National Bank (qnb
+  swift: QNBAMRMUXXX
+  swift8: QNBAMRMU
+  branch_name: Head Office
+  branch_address: Al Khaima Building Nouakchott
+  branch_code: XXX
+  city: Nouakchott
+  country: Mauritania
+- name: Societe Generale Mauritanie
+  swift: BIIMMRMRXXX
+  swift8: BIIMMRMR
+  branch_name: Head Office
+  branch_address: Avenue Charles De Gaulle Nouakchott
+  branch_code: XXX
+  city: Nouakchott
+  country: Mauritania
+- name: Union Des Banques De Developpement
+  swift: DEUBMRM1XXX
+  swift8: DEUBMRM1
+  branch_name: Head Office
+  branch_address: Avenue De Lindependance Nouakchott
+  branch_code: XXX
+  city: Nouakchott
+  country: Mauritania

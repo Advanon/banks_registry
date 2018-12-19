@@ -1,0 +1,122 @@
+---
+GP:
+- name: Credit Agricole
+  swift: AGRIGPGXBTR
+  swift8: AGRIGPGX
+  branch_name: Basse Terre
+  branch_address: Basse Terre
+  branch_code: BTR
+  city: Basse Terre
+  country: Guadeloupe
+- name: Credit Agricole
+  swift: AGRIGPGXXXX
+  swift8: AGRIGPGX
+  branch_name: Head Office
+  branch_address: Petit Perou Les Abymes Pointe-A-Pitre Cedex
+  branch_code: XXX
+  city: Pointe a Pitre
+  country: Guadeloupe
+- name: Banque Des Antilles Francaises
+  swift: BDAFGPGX971
+  swift8: BDAFGPGX
+  branch_name: Comex Guadeloupe
+  branch_address: Place De La Victoire, Bp 76 97152 Pointe-A-Pitre
+  branch_code: '971'
+  city: Pointe a Pitre
+  country: Guadeloupe
+- name: Banque Des Antilles Francaises
+  swift: BDAFGPGXXXX
+  swift8: BDAFGPGX
+  branch_name: Head Office
+  branch_address: 30 Rue Ferdinand Forest Zi De Jarry 97122 Baie Mahault
+  branch_code: XXX
+  city: Baie Mahault
+  country: Guadeloupe
+- name: Banque Francaise Commerciale Antilles-guyane
+  swift: BFECGPGXXXX
+  swift8: BFECGPGX
+  branch_name: Head Office
+  branch_address: Immeuble Bfc La Rocade 97151 Abymes
+  branch_code: XXX
+  city: Abymes
+  country: Guadeloupe
+- name: Banque Nationale De Paris Succursale De Pointe A Pitre
+  swift: BNPAGPGXBAS
+  swift8: BNPAGPGX
+  branch_name: Basse Terre
+  branch_address: 13 Rue Maurice Marie-Claire Basse Terre
+  branch_code: BAS
+  city: Basse Terre
+  country: Guadeloupe
+- name: Banque Nationale De Paris Succursale De Pointe A Pitre
+  swift: BNPAGPGXXXX
+  swift8: BNPAGPGX
+  branch_name: Head Office
+  branch_address: Place De La Renovation 97110 Pointe-A-Pitre
+  branch_code: XXX
+  city: Baie Mahault
+  country: Guadeloupe
+- name: Caisse Epargne Prevoyance Guadeloupe
+  swift: CEPGGPG1XXX
+  swift8: CEPGGPG1
+  branch_name: Head Office
+  branch_address: Plazza Grand-Camp Rocade Abymes
+  branch_code: XXX
+  city: Abymes
+  country: Guadeloupe
+- name: Caisse Regionale De Credit Maritime Mutuel D'outre Mer
+  swift: CMDMGPG1XXX
+  swift8: CMDMGPG1
+  branch_name: Head Office
+  branch_address: 36, Rue Achille Rene Boisneuf 97158 Pointe-A-Pitre
+  branch_code: XXX
+  city: Pointe a Pitre
+  country: Guadeloupe
+- name: Credit Moderne Antilles
+  swift: CRMSGPG1XXX
+  swift8: CRMSGPG1
+  branch_name: Head Office
+  branch_address: Imm. Houele Zi Jarry 97122 Baie Mahault
+  branch_code: XXX
+  city: Baie Mahault
+  country: Guadeloupe
+- name: Societe Anonyme De Gestion Et De Financement-sagefi
+  swift: SGFAGPG1XXX
+  swift8: SGFAGPG1
+  branch_name: Head Office
+  branch_address: Le Patio 97139 Abymes
+  branch_code: XXX
+  city: Abymes
+  country: Guadeloupe
+- name: Societe Generale De Banque Aux Antilles
+  swift: SOGEGPGPGUA
+  swift8: SOGEGPGP
+  branch_name: Guadeloupe Branch
+  branch_address: Pointe-A-Pitre
+  branch_code: GUA
+  city: Pointe a Pitre
+  country: Guadeloupe
+- name: Societe Generale De Banque Aux Antilles
+  swift: SOGEGPGPMAR
+  swift8: SOGEGPGP
+  branch_name: Pointe-A-Pitre
+  branch_address: Pointe-A-Pitre
+  branch_code: MAR
+  city: Pointe a Pitre
+  country: Guadeloupe
+- name: Societe Generale De Banque Aux Antilles
+  swift: SOGEGPGPXXX
+  swift8: SOGEGPGP
+  branch_name: Head Office
+  branch_address: Zi De Jarry 97152 Pointe-A-Pitre
+  branch_code: XXX
+  city: Pointe a Pitre
+  country: Guadeloupe
+- name: Societe Guadeloupeenne De Financement-soguafi
+  swift: SGFOGPG1XXX
+  swift8: SGFOGPG1
+  branch_name: Head Office
+  branch_address: Zi De Jarry 97189 Baie Mahault
+  branch_code: XXX
+  city: Baie Mahault
+  country: Guadeloupe

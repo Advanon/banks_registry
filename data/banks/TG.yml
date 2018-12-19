@@ -1,0 +1,227 @@
+---
+TG:
+- name: Banque Centrale Des Etats De L'afrique De L'ouest
+  swift: BCAOTGTGKAR
+  swift8: BCAOTGTG
+  branch_name: Kara Branch
+  branch_address: Kara
+  branch_code: KAR
+  city: Kara
+  country: Togo
+- name: Banque Centrale Des Etats De L'afrique De L'ouest
+  swift: BCAOTGTGXXX
+  swift8: BCAOTGTG
+  branch_name: Head Office
+  branch_address: Rue Branly Lome
+  branch_code: XXX
+  city: Lome
+  country: Togo
+- name: Bank Of Africa Togo
+  swift: AFRITGTGXXX
+  swift8: AFRITGTG
+  branch_name: No branch name
+  branch_address: No branch address
+  branch_code: XXX
+  city: Lome
+  country: Togo
+- name: Banque Atlantique Togo
+  swift: ATTGTGTGXXX
+  swift8: ATTGTGTG
+  branch_name: Head Office
+  branch_address: Immeuble Miss Togo 14511 Lome
+  branch_code: XXX
+  city: Lome
+  country: Togo
+- name: Banque Internationale Pour L'afrique Au Togo
+  swift: BILTTGTGXXX
+  swift8: BILTTGTG
+  branch_name: Head Office
+  branch_address: 13 Rue Du Commerce Lome
+  branch_code: XXX
+  city: Lome
+  country: Togo
+- name: Banque Ouest Africaine De Developpement (boad
+  swift: BOADTGTGXXX
+  swift8: BOADTGTG
+  branch_name: Head Office
+  branch_address: Immeuble Boad Lome
+  branch_code: XXX
+  city: Lome
+  country: Togo
+- name: Banque Populaire Pour L'epargne Et Le Credit (formerly Caisse D'epargne Du
+    Togo
+  swift: BPECTGTGXXX
+  swift8: BPECTGTG
+  branch_name: Head Office
+  branch_address: 23, Avenue Kleber Dadjo 904 Lome
+  branch_code: XXX
+  city: Lome
+  country: Togo
+- name: Banque Regionale De Solidarite-togo
+  swift: BRSWTGTGXXX
+  swift8: BRSWTGTG
+  branch_name: Head Office
+  branch_address: Avenue Maman Ndanida Amoutive 80162 Lome
+  branch_code: XXX
+  city: Lome
+  country: Togo
+- name: Banque Togolaise Pour Le Commerce Et L'industrie
+  swift: BTCITGTGXXX
+  swift8: BTCITGTG
+  branch_name: Head Office
+  branch_address: 169 Boulevard 13 Janvier Lome
+  branch_code: XXX
+  city: Lome
+  country: Togo
+- name: Bsic Togo Sa
+  swift: BSAHTGTGXXX
+  swift8: BSAHTGTG
+  branch_name: Head Office
+  branch_address: Bsic Togo Lome
+  branch_code: XXX
+  city: Lome
+  country: Togo
+- name: Depositaire Central-banque De Reglement (dcbr Togo
+  swift: DCEDTGT1XXX
+  swift8: DCEDTGT1
+  branch_name: Head Office
+  branch_address: Avenue De La Presidence-Pompidou Lome
+  branch_code: XXX
+  city: Lome
+  country: Togo
+- name: Diamondbank Togo
+  swift: DBLNTGTGXXX
+  swift8: DBLNTGTG
+  branch_name: Head Office
+  branch_address: Angle Du Boulevard Du 13 Janvier Lome
+  branch_code: XXX
+  city: Lome
+  country: Togo
+- name: Ecobank Togo
+  swift: ECOCTGTAXXX
+  swift8: ECOCTGTA
+  branch_name: Head Office
+  branch_address: Avenue Sylvanius Olympio Lome
+  branch_code: XXX
+  city: Lome
+  country: Togo
+- name: Ecobank Togo
+  swift: ECOCTGTGBID
+  swift8: ECOCTGTG
+  branch_name: Lome
+  branch_address: Bld Circulaire Lome
+  branch_code: BID
+  city: Lome
+  country: Togo
+- name: Ecobank Togo
+  swift: ECOCTGTGEPI
+  swift8: ECOCTGTG
+  branch_name: Eprocess Int
+  branch_address: 2, Rue Sylvanus Olympio Lome
+  branch_code: EPI
+  city: Lome
+  country: Togo
+- name: Ecobank Togo
+  swift: ECOCTGTGETI
+  swift8: ECOCTGTG
+  branch_name: Eti Department
+  branch_address: Ecobank 3302 Lome
+  branch_code: ETI
+  city: Lome
+  country: Togo
+- name: Ecobank Togo
+  swift: ECOCTGTGWPS
+  swift8: ECOCTGTG
+  branch_name: Soapi-Waips
+  branch_address: Head Office 3302 Lome
+  branch_code: WPS
+  city: Lome
+  country: Togo
+- name: Ecobank Togo
+  swift: ECOCTGTGXXX
+  swift8: ECOCTGTG
+  branch_name: Head Office
+  branch_address: 2 Rue Du Commerce Lome
+  branch_code: XXX
+  city: Lome
+  country: Togo
+- name: Ecobank Togo
+  swift: ECOCTGTSXXX
+  swift8: ECOCTGTS
+  branch_name: Head Office
+  branch_address: Avenue Sylvanius Olympio Lome
+  branch_code: XXX
+  city: Lome
+  country: Togo
+- name: Ecobank Togo
+  swift: ECOCTGTUXXX
+  swift8: ECOCTGTU
+  branch_name: Head Office
+  branch_address: Avenue Sylvanius Olympio Lome
+  branch_code: XXX
+  city: Lome
+  country: Togo
+- name: Ecobank Togo
+  swift: ECOCTGTXXXX
+  swift8: ECOCTGTX
+  branch_name: Head Office
+  branch_address: Avenue Sylvanius Olympio Lome
+  branch_code: XXX
+  city: Lome
+  country: Togo
+- name: Ecowas Bank For Investment And Development
+  swift: EBIDTGTGXXX
+  swift8: EBIDTGTG
+  branch_name: Head Office
+  branch_address: Ebid Building 2704 Lome
+  branch_code: XXX
+  city: Lome
+  country: Togo
+- name: Orabank Togo
+  swift: ORBKTGTGXXX
+  swift8: ORBKTGTG
+  branch_name: Head Office
+  branch_address: 11 Avenue Du 24 Janvier Lome
+  branch_code: XXX
+  city: Lome
+  country: Togo
+- name: Orabank Togo
+  swift: FIBTTGTGXXX
+  swift8: FIBTTGTG
+  branch_name: Head Office
+  branch_address: 11 Avenue Du 24 Janvier Lome
+  branch_code: XXX
+  city: Lome
+  country: Togo
+- name: Societe Des Postes Du Togo
+  swift: SOTOTGT1XXX
+  swift8: SOTOTGT1
+  branch_name: Head Office
+  branch_address: 23 Avenue Nicolas Grunitzky Lome
+  branch_code: XXX
+  city: Lome
+  country: Togo
+- name: Societe Inter Africaine De Banque, Sa
+  swift: BALTTGT1XXX
+  swift8: BALTTGT1
+  branch_name: Head Office
+  branch_address: 14, Rue Du Commerce Lome
+  branch_code: XXX
+  city: Lome
+  country: Togo
+- name: Societe Inter-africaine De Banque
+  swift: SIABTGTGXXX
+  swift8: SIABTGTG
+  branch_name: Head Office
+  branch_address: Siab Lome
+  branch_code: XXX
+  city: Lome
+  country: Togo
+- name: Union Togolaise De Banque
+  swift: UNTBTGTGXXX
+  swift8: UNTBTGTG
+  branch_name: Head Office
+  branch_address: Agence Circulaire Lome
+  branch_code: XXX
+  city: Lome
+  country: Togo

@@ -1,0 +1,74 @@
+---
+LC:
+- name: Royal Bank Of Canada
+  swift: ROYCLCLCXXX
+  swift8: ROYCLCLC
+  branch_name: Head Office
+  branch_address: Laborie Street Castries
+  branch_code: XXX
+  city: Castries
+  country: Saint Lucia
+- name: Firstcaribbean International Bank
+  swift: FCIBLCLCXXX
+  swift8: FCIBLCLC
+  branch_name: Head Office
+  branch_address: Bridge Street Castries
+  branch_code: XXX
+  city: Castries
+  country: Saint Lucia
+- name: Bank Of Nova Scotia,the
+  swift: NOSCLCLCXXX
+  swift8: NOSCLCLC
+  branch_name: Head Office
+  branch_address: 6 William Peter Boulevard Castries
+  branch_code: XXX
+  city: Castries
+  country: Saint Lucia
+- name: 1st National Bank St.lucia Limited
+  swift: LUOBLCLCXXX
+  swift8: LUOBLCLC
+  branch_name: Head Office
+  branch_address: 21 Bridge Street Castries
+  branch_code: XXX
+  city: Castries
+  country: Saint Lucia
+- name: Bank Of Saint Lucia International Limited
+  swift: BSLULCLCXXX
+  swift8: BSLULCLC
+  branch_name: Head Office
+  branch_address: Cnr of Almond Road and Gros-Islet
+  branch_code: XXX
+  city: Gros-Islet
+  country: Saint Lucia
+- name: Bank Of Saint Lucia Limited
+  swift: BOSLLCLCXXX
+  swift8: BOSLLCLC
+  branch_name: Head Office
+  branch_address: Financial Center Castries
+  branch_code: XXX
+  city: Castries
+  country: Saint Lucia
+- name: Government Of Saint Lucia
+  swift: GVLCLCLCXXX
+  swift8: GVLCLCLC
+  branch_name: Head Office
+  branch_address: Financial Centre Castries
+  branch_code: XXX
+  city: Castries
+  country: Saint Lucia
+- name: Hermes Bank Limited
+  swift: HEMMLCL2XXX
+  swift8: HEMMLCL2
+  branch_name: Head Office
+  branch_address: Bella Rosa Rodney Bay 1 Gros-Islet
+  branch_code: XXX
+  city: Gros-Islet
+  country: Saint Lucia
+- name: Statetrust Bank And Trust Ltd.
+  swift: STTTLCLCXXX
+  swift8: STTTLCLC
+  branch_name: Head Office
+  branch_address: Pricewaterhousecoopers Building Castries
+  branch_code: XXX
+  city: Castries
+  country: Saint Lucia

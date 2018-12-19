@@ -1,0 +1,1383 @@
+---
+NZ:
+- name: 'Anz National Bank Limited (Formerly Known As: Anz Banking Group (New Zealand)
+    Ltd)'
+  swift: ANZBNZ22797
+  swift8: ANZBNZ22
+  branch_name: 1 Christchurch
+  branch_address: Corner Colombo and Hereford Streets 1 Christchurch
+  branch_code: '797'
+  city: Christchurch
+  country: New Zealand
+- name: 'Anz National Bank Limited (Formerly Known As: Anz Banking Group (New Zealand)
+    Ltd)'
+  swift: ANZBNZ22102
+  swift8: ANZBNZ22
+  branch_name: Auckland Central
+  branch_address: Corner Queen and Victoria Streets 1 Auckland
+  branch_code: '102'
+  city: Auckland
+  country: New Zealand
+- name: 'Anz National Bank Limited (Formerly Known As: Anz Banking Group (New Zealand)
+    Ltd)'
+  swift: ANZBNZ22058
+  swift8: ANZBNZ22
+  branch_name: 6000 Wellington
+  branch_address: 215-229 Lambton Quay 6000 Wellington
+  branch_code: '058'
+  city: Wellington
+  country: New Zealand
+- name: 'Anz National Bank Limited (Formerly Known As: Anz Banking Group (New Zealand)
+    Ltd)'
+  swift: ANZBNZ22XXX
+  swift8: ANZBNZ22
+  branch_name: Head Office
+  branch_address: 170-186 Featherstone Street 6011 Wellington
+  branch_code: XXX
+  city: Wellington
+  country: New Zealand
+- name: Asb Bank Limited
+  swift: ASBBNZ2ACLS
+  swift8: ASBBNZ2A
+  branch_name: Cls Payments Only
+  branch_address: Auckland
+  branch_code: CLS
+  city: Auckland
+  country: New Zealand
+- name: Asb Bank Limited
+  swift: ASBBNZ2AFXD
+  swift8: ASBBNZ2A
+  branch_name: Foreign Exchange
+  branch_address: Auckland
+  branch_code: FXD
+  city: Auckland
+  country: New Zealand
+- name: Asb Bank Limited
+  swift: ASBBNZ2AGRI
+  swift8: ASBBNZ2A
+  branch_name: Asb Group Investments
+  branch_address: Auckland
+  branch_code: GRI
+  city: Auckland
+  country: New Zealand
+- name: Asb Bank Limited
+  swift: ASBBNZ2AITS
+  swift8: ASBBNZ2A
+  branch_name: International Trade Services
+  branch_address: Asb Tower 1010 Auckland
+  branch_code: ITS
+  city: Auckland
+  country: New Zealand
+- name: Asb Bank Limited
+  swift: ASBBNZ2AMMD
+  swift8: ASBBNZ2A
+  branch_name: Money Market
+  branch_address: Auckland
+  branch_code: MMD
+  city: Auckland
+  country: New Zealand
+- name: Asb Bank Limited
+  swift: ASBBNZ2ASEC
+  swift8: ASBBNZ2A
+  branch_name: Securities
+  branch_address: Auckland
+  branch_code: SEC
+  city: Auckland
+  country: New Zealand
+- name: Asb Bank Limited
+  swift: ASBBNZ2AXXX
+  swift8: ASBBNZ2A
+  branch_name: Head Office
+  branch_address: Asb Bank Centre 1001 Auckland
+  branch_code: XXX
+  city: Auckland
+  country: New Zealand
+- name: Bank Of Baroda (New Zeland) Ltd
+  swift: BARBNZ2AXXX
+  swift8: BARBNZ2A
+  branch_name: Head Office
+  branch_address: 114, Dominion Road 1446 Auckland
+  branch_code: XXX
+  city: Auckland
+  country: New Zealand
+- name: Bank Of India (New Zealand) Limited
+  swift: BKIDNZ2AXXX
+  swift8: BKIDNZ2A
+  branch_name: Head Office
+  branch_address: 10, Manukau Road 1023 Auckland
+  branch_code: XXX
+  city: Auckland
+  country: New Zealand
+- name: Bank Of New Zealand
+  swift: BKNZNZ22900
+  swift8: BKNZNZ22
+  branch_name: 9016 Dunedin
+  branch_address: 98 George Street 9016 Dunedin
+  branch_code: '900'
+  city: Dunedin
+  country: New Zealand
+- name: Bank Of New Zealand
+  swift: BKNZNZ22800
+  swift8: BKNZNZ22
+  branch_name: 8011 Christchurch
+  branch_address: 114 Fitzgerald Avenue 8011 Christchurch
+  branch_code: '800'
+  city: Christchurch
+  country: New Zealand
+- name: Bank Of New Zealand
+  swift: BKNZNZ22100
+  swift8: BKNZNZ22
+  branch_name: 1010 Auckland
+  branch_address: 80 Queen Street 1010 Auckland
+  branch_code: '100'
+  city: Auckland
+  country: New Zealand
+- name: Bank Of New Zealand
+  swift: BKNZNZ22500
+  swift8: BKNZNZ22
+  branch_name: Branch
+  branch_address: 38 Willis Street 6011 Wellington
+  branch_code: '500'
+  city: Wellington
+  country: New Zealand
+- name: Bank Of New Zealand
+  swift: BKNZNZ22985
+  swift8: BKNZNZ22
+  branch_name: Head Office
+  branch_address: Harbour Quays 6011 Wellington
+  branch_code: '985'
+  city: Wellington
+  country: New Zealand
+- name: Bank Of New Zealand
+  swift: BKNZNZ22XXX
+  swift8: BKNZNZ22
+  branch_name: Head Office
+  branch_address: Harbour Quays 6011 Wellington
+  branch_code: XXX
+  city: Wellington
+  country: New Zealand
+- name: Bank Of New Zealand
+  swift: BKNZNZ22TVL
+  swift8: BKNZNZ22
+  branch_name: 6011 Wellington
+  branch_address: Harbour Quays 6011 Wellington
+  branch_code: TVL
+  city: Wellington
+  country: New Zealand
+- name: Citibank Na New Zealand Branch
+  swift: CITINZ2XXXX
+  swift8: CITINZ2X
+  branch_name: Head Office
+  branch_address: Citibank Centre 1 Auckland
+  branch_code: XXX
+  city: Auckland
+  country: New Zealand
+- name: Citibank Na New Zealand Branch
+  swift: CITINZ2102W
+  swift8: CITINZ21
+  branch_name: Wellington
+  branch_address: Wellington
+  branch_code: 02W
+  city: Wellington
+  country: New Zealand
+- name: Citibank Na New Zealand Branch
+  swift: CITINZ2XCOP
+  swift8: CITINZ2X
+  branch_name: Co-Op
+  branch_address: Auckland
+  branch_code: COP
+  city: Auckland
+  country: New Zealand
+- name: Deutsche Bank Ag, New Zealand Branch
+  swift: DEUTNZ2ACFM
+  swift8: DEUTNZ2A
+  branch_name: Funds Management
+  branch_address: Auckland
+  branch_code: CFM
+  city: Auckland
+  country: New Zealand
+- name: Deutsche Bank Ag, New Zealand Branch
+  swift: DEUTNZ2ANOM
+  swift8: DEUTNZ2A
+  branch_name: Custodian Services
+  branch_address: Auckland
+  branch_code: NOM
+  city: Auckland
+  country: New Zealand
+- name: Deutsche Bank Ag, New Zealand Branch
+  swift: DEUTNZ2AXXX
+  swift8: DEUTNZ2A
+  branch_name: Head Office
+  branch_address: Price Waterhouse Centre Auckland
+  branch_code: XXX
+  city: Auckland
+  country: New Zealand
+- name: General Equity Building Society
+  swift: GEBSNZ2AXXX
+  swift8: GEBSNZ2A
+  branch_name: Head Office
+  branch_address: 17 Albert St 1010 Auckland
+  branch_code: XXX
+  city: Auckland
+  country: New Zealand
+- name: Hongkong And Shanghai Banking Corporation Limited, The
+  swift: HSBCNZ2ACHC
+  swift8: HSBCNZ2A
+  branch_name: Christchurch Branch
+  branch_address: Hongkong Bank House Christchurch
+  branch_code: CHC
+  city: Christchurch
+  country: New Zealand
+- name: Hongkong And Shanghai Banking Corporation Limited, The
+  swift: HSBCNZ2ACLS
+  swift8: HSBCNZ2A
+  branch_name: Continuous Link Settelment Department
+  branch_address: Hsbc House Auckland
+  branch_code: CLS
+  city: Auckland
+  country: New Zealand
+- name: Hongkong And Shanghai Banking Corporation Limited, The
+  swift: HSBCNZ2AXXX
+  swift8: HSBCNZ2A
+  branch_name: Head Office
+  branch_address: Hsbc House 1 Auckland
+  branch_code: XXX
+  city: Auckland
+  country: New Zealand
+- name: Hongkong And Shanghai Banking Corporation Limited, The
+  swift: HSBCNZ2AWLT
+  swift8: HSBCNZ2A
+  branch_name: Wellington Branch
+  branch_address: Wellington
+  branch_code: WLT
+  city: Wellington
+  country: New Zealand
+- name: Jp Morgan Chase Bank, N.A
+  swift: CHASNZ2ACCS
+  swift8: CHASNZ2A
+  branch_name: Wss Local Custodian Services
+  branch_address: Auckland
+  branch_code: CCS
+  city: Auckland
+  country: New Zealand
+- name: Jp Morgan Chase Bank, N.A
+  swift: CHASNZ2AXXX
+  swift8: CHASNZ2A
+  branch_name: Head Office
+  branch_address: Pwc Tower 1010 Auckland
+  branch_code: XXX
+  city: Auckland
+  country: New Zealand
+- name: Kiwibank Limited
+  swift: KIWINZ22XXX
+  swift8: KIWINZ22
+  branch_name: Head Office
+  branch_address: Radio New Zealand House Wellington
+  branch_code: XXX
+  city: Wellington
+  country: New Zealand
+- name: Kookmin Bank, Auckland Branch
+  swift: CZNBNZ2AXXX
+  swift8: CZNBNZ2A
+  branch_name: Head Office
+  branch_address: Asb Bank Center Auckland
+  branch_code: XXX
+  city: Auckland
+  country: New Zealand
+- name: Mercedes-Benz Financial Services New Zealand Ltd.
+  swift: DCFSNZ2AXXX
+  swift8: DCFSNZ2A
+  branch_name: Head Office
+  branch_address: 3 Clemow Drive Auckland
+  branch_code: XXX
+  city: Auckland
+  country: New Zealand
+- name: Mercedes-Benz New Zealand Ltd.
+  swift: DABENZ2AXXX
+  swift8: DABENZ2A
+  branch_name: Head Office
+  branch_address: 7 Clemow Drive, 1741 Auckland
+  branch_code: XXX
+  city: Auckland
+  country: New Zealand
+- name: National Nominees Limited
+  swift: NATANZ22XXX
+  swift8: NATANZ22
+  branch_name: Head Office
+  branch_address: United Bank Tower 1036 Auckland
+  branch_code: XXX
+  city: Auckland
+  country: New Zealand
+- name: New Zealand Exchange Limited
+  swift: NZXCNZ2WXXX
+  swift8: NZXCNZ2W
+  branch_name: Head Office
+  branch_address: Nzx Centre Wellington
+  branch_code: XXX
+  city: Wellington
+  country: New Zealand
+- name: New Zealand Railways Corporation
+  swift: NZRCNZ2WXXX
+  swift8: NZRCNZ2W
+  branch_name: Head Office
+  branch_address: Wellington Railway Station 6011 Wellington
+  branch_code: XXX
+  city: Wellington
+  country: New Zealand
+- name: New Zealand Treasury
+  swift: NZTRNZ2WXXX
+  swift8: NZTRNZ2W
+  branch_name: Head Office
+  branch_address: 1 the Terrace Wellington
+  branch_code: XXX
+  city: Wellington
+  country: New Zealand
+- name: Rabobank New Zealand Branch
+  swift: RABONZ2WXXX
+  swift8: RABONZ2W
+  branch_name: Head Office
+  branch_address: 80 the Terrace Wellington
+  branch_code: XXX
+  city: Wellington
+  country: New Zealand
+- name: Reserve Bank Of New Zealand
+  swift: RBNZNZ22XXX
+  swift8: RBNZNZ22
+  branch_name: Head Office
+  branch_address: 2 the Terrace Wellington
+  branch_code: XXX
+  city: Wellington
+  country: New Zealand
+- name: Reserve Bank Of New Zealand
+  swift: RBNZNZ2SXXX
+  swift8: RBNZNZ2S
+  branch_name: Head Office
+  branch_address: 2 the Terrace Wellington
+  branch_code: XXX
+  city: Wellington
+  country: New Zealand
+- name: Reserve Bank Of New Zealand
+  swift: RBNZNZ2WACC
+  swift8: RBNZNZ2W
+  branch_name: 6011 Wellington
+  branch_address: The Terrace 6011 Wellington
+  branch_code: ACC
+  city: Wellington
+  country: New Zealand
+- name: Reserve Bank Of New Zealand
+  swift: RBNZNZ2WCCY
+  swift8: RBNZNZ2W
+  branch_name: 6011 Wellington
+  branch_address: The Terrace 6011 Wellington
+  branch_code: CCY
+  city: Wellington
+  country: New Zealand
+- name: Reserve Bank Of New Zealand
+  swift: RBNZNZ2WXXX
+  swift8: RBNZNZ2W
+  branch_name: Head Office
+  branch_address: 2 the Terrace Wellington
+  branch_code: XXX
+  city: Wellington
+  country: New Zealand
+- name: Safe And Sound Building Society
+  swift: SSBTNZ2AXXX
+  swift8: SSBTNZ2A
+  branch_name: Head Office
+  branch_address: Asb Bank Centre 1010 Auckland
+  branch_code: XXX
+  city: Auckland
+  country: New Zealand
+- name: Trade And Merchant Trust Company Limited
+  swift: TMTCNZ2AXXX
+  swift8: TMTCNZ2A
+  branch_name: Head Office
+  branch_address: Grant Thornton House 1140 Auckland
+  branch_code: XXX
+  city: Auckland
+  country: New Zealand
+- name: Travelex Gbp Australia Pty Ltd (Nz Branch)
+  swift: COOKNZ2AXXX
+  swift8: COOKNZ2A
+  branch_name: Head Office
+  branch_address: Zurich House 1010 Auckland
+  branch_code: XXX
+  city: Auckland
+  country: New Zealand
+- name: Tsb Bank Limited
+  swift: TSBANZ22XXX
+  swift8: TSBANZ22
+  branch_name: Head Office
+  branch_address: Tsb Centre New Plymouth
+  branch_code: XXX
+  city: New Plymouth
+  country: New Zealand
+- name: Westpac New Zealand Limited, A Wholly Owned Subsidiary Of Westpac Banking
+    Corporation
+  swift: WPACNZ2WXXX
+  swift8: WPACNZ2W
+  branch_name: For All New Zealand Branches
+  branch_address: 16 Takutai Square 1010 Auckland
+  branch_code: XXX
+  city: Auckland
+  country: New Zealand
+- name: Abn Amro Craigs Ltd
+  swift: CRGGNZ21XXX
+  swift8: CRGGNZ21
+  branch_name: Head Office
+  branch_address: 159-165 Murshmere Road Jakapura Auckland
+  branch_code: XXX
+  city: Auckland
+  country: New Zealand
+- name: Abn Amro Securities Nz Limited.
+  swift: ABNANZA1XXX
+  swift8: ABNANZA1
+  branch_name: Head Office
+  branch_address: 48 Shortland Street Auckland
+  branch_code: XXX
+  city: Auckland
+  country: New Zealand
+- name: Access Brokerage Ltd
+  swift: ACCRNZ21XXX
+  swift8: ACCRNZ21
+  branch_name: Head Office
+  branch_address: Exchange House Wellington
+  branch_code: XXX
+  city: Wellington
+  country: New Zealand
+- name: Accident Compensation Corporation
+  swift: ACCNNZ21XXX
+  swift8: ACCNNZ21
+  branch_name: Head Office
+  branch_address: Seabridge House 6011 Wellington
+  branch_code: XXX
+  city: Wellington
+  country: New Zealand
+- name: Ai Credit Finance Limited
+  swift: CEIINZ21XXX
+  swift8: CEIINZ21
+  branch_name: No branch name
+  branch_address: No branch address
+  branch_code: XXX
+  city: Auckland
+  country: New Zealand
+- name: Allozy Financial Group Limited
+  swift: ALNUNZ21XXX
+  swift8: ALNUNZ21
+  branch_name: Head Office
+  branch_address: 21 Queen Street 1010 Auckland
+  branch_code: XXX
+  city: Auckland
+  country: New Zealand
+- name: Allozy Financial Trust
+  swift: ALIUNZ21XXX
+  swift8: ALIUNZ21
+  branch_name: Head Office
+  branch_address: 22 Carruther St Ilam 8041 Christchurch
+  branch_code: XXX
+  city: Christchurch
+  country: New Zealand
+- name: Ants International L.p.
+  swift: ANINNZ21XXX
+  swift8: ANINNZ21
+  branch_name: No branch name
+  branch_address: No branch address
+  branch_code: XXX
+  city: Auckland
+  country: New Zealand
+- name: Anz Mccaughan Securities (nz) Ltd
+  swift: AMCLNZ21XXX
+  swift8: AMCLNZ21
+  branch_name: Head Office
+  branch_address: 135 Albert Street Auckland
+  branch_code: XXX
+  city: Auckland
+  country: New Zealand
+- name: Asia Pacific Banking Group Australia And New Zealand
+  swift: APGTNZ21XXX
+  swift8: APGTNZ21
+  branch_name: Head Office
+  branch_address: Level 27, Pwc Tower, 0000 Auckland
+  branch_code: XXX
+  city: Auckland
+  country: New Zealand
+- name: Asia Pacific Financial Services Limited
+  swift: APFENZ21XXX
+  swift8: APFENZ21
+  branch_name: Head Office
+  branch_address: 2 Woodward Street Wellington
+  branch_code: XXX
+  city: Wellington
+  country: New Zealand
+- name: Auckland Savings And Loan Limited
+  swift: AUSLNZ21XXX
+  swift8: AUSLNZ21
+  branch_name: Head Office
+  branch_address: 40b Esk Street, Parkvale 3112 Tauranga
+  branch_code: XXX
+  city: Tauranga
+  country: New Zealand
+- name: Baldwin Smith And Co
+  swift: BALMNZ21XXX
+  swift8: BALMNZ21
+  branch_name: Head Office
+  branch_address: 43 High Street Blenheim
+  branch_code: XXX
+  city: Blenheim
+  country: New Zealand
+- name: Binary Credit Ltd
+  swift: BIRRNZ21XXX
+  swift8: BIRRNZ21
+  branch_name: Head Office
+  branch_address: 10 Manukau Road, Newmarket Auckland
+  branch_code: XXX
+  city: Auckland
+  country: New Zealand
+- name: Bishop Campbell And Co
+  swift: BISMNZ21XXX
+  swift8: BISMNZ21
+  branch_name: Head Office
+  branch_address: Mlc Building Timaru
+  branch_code: XXX
+  city: Timaru
+  country: New Zealand
+- name: British American Tobacco (new Zealand) Limited
+  swift: BATSNZA1XXX
+  swift8: BATSNZA1
+  branch_name: Head Office
+  branch_address: Price Waterhouse Centre Auckland
+  branch_code: XXX
+  city: Auckland
+  country: New Zealand
+- name: Brook Asset Management
+  swift: BRENNZ21XXX
+  swift8: BRENNZ21
+  branch_name: Head Office
+  branch_address: The General Building 1001 Auckland
+  branch_code: XXX
+  city: Auckland
+  country: New Zealand
+- name: Cc Holdings Financial Services Ltd
+  swift: HOGMNZ21XXX
+  swift8: HOGMNZ21
+  branch_name: Head Office
+  branch_address: Pwc Tower 1010 Auckland
+  branch_code: XXX
+  city: Auckland
+  country: New Zealand
+- name: Century Bancorp
+  swift: CEBNNZ21XXX
+  swift8: CEBNNZ21
+  branch_name: Head Office
+  branch_address: 188 Quay Street 1010 Auckland
+  branch_code: XXX
+  city: Auckland
+  country: New Zealand
+- name: Chartered Savings Loan And Trust Limited
+  swift: CSLTNZ21XXX
+  swift8: CSLTNZ21
+  branch_name: Head Office
+  branch_address: Level 8 1010 Auckland
+  branch_code: XXX
+  city: Auckland
+  country: New Zealand
+- name: Citigroup Global Markets New Zealand Ltd.
+  swift: SSSANZ21XXX
+  swift8: SSSANZ21
+  branch_name: Head Office
+  branch_address: Trust Bank Centre Wellington
+  branch_code: XXX
+  city: Wellington
+  country: New Zealand
+- name: Clavell Equities
+  swift: CLAENZ21XXX
+  swift8: CLAENZ21
+  branch_name: Head Office
+  branch_address: Auckland
+  branch_code: XXX
+  city: Auckland
+  country: New Zealand
+- name: Cogent Investment Operations
+  swift: COVONZ21XXX
+  swift8: COVONZ21
+  branch_name: Head Office
+  branch_address: Lombard House 6001 Wellington
+  branch_code: XXX
+  city: Wellington
+  country: New Zealand
+- name: Continental Capital Ltd
+  swift: CNCTNZ21XXX
+  swift8: CNCTNZ21
+  branch_name: Head Office
+  branch_address: Parkvale Tauranga
+  branch_code: XXX
+  city: Tauranga
+  country: New Zealand
+- name: Continental Finance Group Ltd
+  swift: CNFGNZ21XXX
+  swift8: CNFGNZ21
+  branch_name: Head Office
+  branch_address: 19 Concord Avenue 3116 Mount Maunganui
+  branch_code: XXX
+  city: Mount
+  country: New Zealand
+- name: County Natwest Securities (new Zealand
+  swift: CNSNNZ21XXX
+  swift8: CNSNNZ21
+  branch_name: Head Office
+  branch_address: Trust Bank Centre Wellington
+  branch_code: XXX
+  city: Wellington
+  country: New Zealand
+- name: Craig And Co Ltd
+  swift: CRAINZ21XXX
+  swift8: CRAINZ21
+  branch_name: Head Office
+  branch_address: Farming House Tauranga
+  branch_code: XXX
+  city: Tauranga
+  country: New Zealand
+- name: Currency Online Limited
+  swift: CURRNZ21XXX
+  swift8: CURRNZ21
+  branch_name: Head Office
+  branch_address: Cambridge Terrace 141 8140 Christchurch
+  branch_code: XXX
+  city: Christchurch
+  country: New Zealand
+- name: Deutsche Morgan Grenfell Auckland New Zealand
+  swift: DMGANZ21XXX
+  swift8: DMGANZ21
+  branch_name: Head Office
+  branch_address: Asb Tower Auckland
+  branch_code: XXX
+  city: Auckland
+  country: New Zealand
+- name: Deutsche Morgan Grenfell Wellington
+  swift: DMGLNZ21XXX
+  swift8: DMGLNZ21
+  branch_name: Head Office
+  branch_address: Bain. Co. Europa House Wellington
+  branch_code: XXX
+  city: Wellington
+  country: New Zealand
+- name: Deutsche Securities New Zealand Limited
+  swift: DEUSNZ21XXX
+  swift8: DEUSNZ21
+  branch_name: Head Office
+  branch_address: 66 Wyndham Street Auckland
+  branch_code: XXX
+  city: Auckland
+  country: New Zealand
+- name: Devon Funds Management
+  swift: DEFMNZ21XXX
+  swift8: DEFMNZ21
+  branch_name: Head Office
+  branch_address: Union House 1010 Auckland
+  branch_code: XXX
+  city: Auckland
+  country: New Zealand
+- name: Direct Broking Ltd
+  swift: DIRBNZ21XXX
+  swift8: DIRBNZ21
+  branch_name: Head Office
+  branch_address: 22 Panama Street Wellington
+  branch_code: XXX
+  city: Wellington
+  country: New Zealand
+- name: Dixipay Limited
+  swift: DIXINZ21XXX
+  swift8: DIXINZ21
+  branch_name: Head Office
+  branch_address: 135 Broadway, Newmarket 1023 Auckland
+  branch_code: XXX
+  city: Auckland
+  country: New Zealand
+- name: Egden Wignall And Co
+  swift: EGDWNZ21XXX
+  swift8: EGDWNZ21
+  branch_name: Head Office
+  branch_address: Exchange House Christchurch
+  branch_code: XXX
+  city: Christchurch
+  country: New Zealand
+- name: Esam Cushing And Co
+  swift: ESAUNZ21XXX
+  swift8: ESAUNZ21
+  branch_name: Head Office
+  branch_address: 127 Queen Street East Hastings
+  branch_code: XXX
+  city: Hastings
+  country: New Zealand
+- name: Fay, Richwhite And Company Limited
+  swift: FAYRNZ2102A
+  swift8: FAYRNZ21
+  branch_name: Auckland
+  branch_address: Auckland
+  branch_code: 02A
+  city: Auckland
+  country: New Zealand
+- name: Fay, Richwhite And Company Limited
+  swift: FAYRNZ21XXX
+  swift8: FAYRNZ21
+  branch_name: Head Office
+  branch_address: Fletcher Challange House Wellington
+  branch_code: XXX
+  city: Wellington
+  country: New Zealand
+- name: Fgbc Limited
+  swift: FGCCNZ21XXX
+  swift8: FGCCNZ21
+  branch_name: Head Office
+  branch_address: 412 Lake Road Takapuna
+  branch_code: XXX
+  city: Takapuna
+  country: New Zealand
+- name: First Excelsior Ltd
+  swift: FIXCNZ21XXX
+  swift8: FIXCNZ21
+  branch_name: Head Office
+  branch_address: 10 Manukao Road - Newmarket 00000 Auckland
+  branch_code: XXX
+  city: Auckland
+  country: New Zealand
+- name: First Nz Capital Equities Limited
+  swift: FICQNZ21XXX
+  swift8: FICQNZ21
+  branch_name: Head Office
+  branch_address: Cultex Tower Wellington
+  branch_code: XXX
+  city: Wellington
+  country: New Zealand
+- name: First Pacific Trust Ltd
+  swift: FPTUNZ21XXX
+  swift8: FPTUNZ21
+  branch_name: Head Office
+  branch_address: 60 Cook Street Auckland
+  branch_code: XXX
+  city: Auckland
+  country: New Zealand
+- name: Fisher And Paykel Appliances Limited
+  swift: FPNZNZ2AXXX
+  swift8: FPNZNZ2A
+  branch_name: Head Office
+  branch_address: Springs Road, 78 2013 Auckland
+  branch_code: XXX
+  city: Auckland
+  country: New Zealand
+- name: Fonterra Co-operative Group Limited
+  swift: FONTNZ2AXXX
+  swift8: FONTNZ2A
+  branch_name: Head Office
+  branch_address: Princes Street 9 1142 Auckland
+  branch_code: XXX
+  city: Auckland
+  country: New Zealand
+- name: Forsyth Barr Ltd
+  swift: FORBNZ21XXX
+  swift8: FORBNZ21
+  branch_name: Head Office
+  branch_address: Forsyth Barr House Dunedin
+  branch_code: XXX
+  city: Dunedin
+  country: New Zealand
+- name: Gabites Sinclair And Partners
+  swift: GABSNZ21XXX
+  swift8: GABSNZ21
+  branch_name: Head Office
+  branch_address: 100 Burnett Street Ashburton
+  branch_code: XXX
+  city: Ashburton
+  country: New Zealand
+- name: Garlick And Co Ltd
+  swift: GARLNZ21XXX
+  swift8: GARLNZ21
+  branch_name: Head Office
+  branch_address: Willeston House Wellington
+  branch_code: XXX
+  city: Wellington
+  country: New Zealand
+- name: Glendinning And Glendinning
+  swift: GLEGNZ21XXX
+  swift8: GLEGNZ21
+  branch_name: Head Office
+  branch_address: National Mutual Building Palmerston North
+  branch_code: XXX
+  city: Palmerston North
+  country: New Zealand
+- name: Global Financial Trust
+  swift: HECRNZ21XXX
+  swift8: HECRNZ21
+  branch_name: Head Office
+  branch_address: 171 Featherston St Lambton
+  branch_code: XXX
+  city: Lambton
+  country: New Zealand
+- name: Globalre Insurance Limited
+  swift: GLIUNZ21XXX
+  swift8: GLIUNZ21
+  branch_name: Head Office
+  branch_address: 41 Shortland Street Auckland
+  branch_code: XXX
+  city: Auckland
+  country: New Zealand
+- name: Goldman Sachs New Zealand Limited
+  swift: JBWANZ21XXX
+  swift8: JBWANZ21
+  branch_name: Head Office
+  branch_address: Vero Centre 1010 Auckland
+  branch_code: XXX
+  city: Auckland
+  country: New Zealand
+- name: Gould Steele And Co
+  swift: GOUSNZ21XXX
+  swift8: GOUSNZ21
+  branch_name: Head Office
+  branch_address: 104 the Terrace 6001 Wellington
+  branch_code: XXX
+  city: Wellington
+  country: New Zealand
+- name: Greenslades Ltd
+  swift: WIEGNZ21XXX
+  swift8: WIEGNZ21
+  branch_name: Head Office
+  branch_address: Mutual Fund Building Dunedin
+  branch_code: XXX
+  city: Dunedin
+  country: New Zealand
+- name: Greg Mitchell
+  swift: GMITNZ21XXX
+  swift8: GMITNZ21
+  branch_name: Head Office
+  branch_address: 16b Brogar Place 8005 Christchurch
+  branch_code: XXX
+  city: Christchurch
+  country: New Zealand
+- name: Guardians Of New Zealand Superannuation
+  swift: GNZSNZ2AXXX
+  swift8: GNZSNZ2A
+  branch_name: Aim-Poms Service
+  branch_address: Zurich House 1143 Auckland
+  branch_code: XXX
+  city: Auckland
+  country: New Zealand
+- name: Hamilton Hindin Greene
+  swift: HAHGNZ21XXX
+  swift8: HAHGNZ21
+  branch_name: Head Office
+  branch_address: National Bank Buiding Christchurch
+  branch_code: XXX
+  city: Christchurch
+  country: New Zealand
+- name: Hampshire Savings And Loan Limited
+  swift: HASONZ21XXX
+  swift8: HASONZ21
+  branch_name: Head Office
+  branch_address: 980a Whangaparaoa Rd Manly
+  branch_code: XXX
+  city: Manly
+  country: New Zealand
+- name: Harbour Asset Management Limited
+  swift: HAAMNZ21XXX
+  swift8: HAAMNZ21
+  branch_name: Head Office
+  branch_address: Fujitsu Tower Wellington
+  branch_code: XXX
+  city: Wellington
+  country: New Zealand
+- name: Hifx Ltd
+  swift: HIFXNZ2AXXX
+  swift8: HIFXNZ2A
+  branch_name: Head Office
+  branch_address: Chorus House 1010 Auckland
+  branch_code: XXX
+  city: Auckland
+  country: New Zealand
+- name: Idlyc Holdings Trust
+  swift: IDHTNZ21XXX
+  swift8: IDHTNZ21
+  branch_name: Head Office
+  branch_address: 9 Melody Lane Ruakura Road 3216 Hamilton
+  branch_code: XXX
+  city: Hamilton
+  country: New Zealand
+- name: Industrial And Commercial Bank Of China (new Zealand) Limited
+  swift: ICBKNZ2AXXX
+  swift8: ICBKNZ2A
+  branch_name: No branch name
+  branch_address: No branch address
+  branch_code: XXX
+  city: Auckland
+  country: New Zealand
+- name: Investa Securities Ltd.
+  swift: IVSCNZ21XXX
+  swift8: IVSCNZ21
+  branch_name: Head Office
+  branch_address: Pwc Tower Auckland
+  branch_code: XXX
+  city: Auckland
+  country: New Zealand
+- name: Isc Financial Group Ltd
+  swift: ISFGNZ21XXX
+  swift8: ISFGNZ21
+  branch_name: Head Office
+  branch_address: Level 1, 10 Manukau Road 1023 Auckland
+  branch_code: XXX
+  city: Auckland
+  country: New Zealand
+- name: J. Rothschild Ppg Securities Limite
+  swift: RPSLNZ21XXX
+  swift8: RPSLNZ21
+  branch_name: Head Office
+  branch_address: 84 Halesowen Avenue, Mount Eden Auckland
+  branch_code: XXX
+  city: Auckland
+  country: New Zealand
+- name: Jardine Fleming New Zealand Limited
+  swift: JFLENZ21XXX
+  swift8: JFLENZ21
+  branch_name: Head Office
+  branch_address: Trust Bank Centre Wellington
+  branch_code: XXX
+  city: Wellington
+  country: New Zealand
+- name: John Chapman
+  swift: CHAANZ21XXX
+  swift8: CHAANZ21
+  branch_name: Head Office
+  branch_address: 107 Heu Heu Street 2730 Taupo
+  branch_code: XXX
+  city: Taupo
+  country: New Zealand
+- name: Lawrence Millton And Howarth
+  swift: LAMHNZ21XXX
+  swift8: LAMHNZ21
+  branch_name: Head Office
+  branch_address: Clarendon Tower Christchurch
+  branch_code: XXX
+  city: Christchurch
+  country: New Zealand
+- name: Legacy Capital Trust
+  swift: LECTNZ21XXX
+  swift8: LECTNZ21
+  branch_name: Head Office
+  branch_address: 41 Shortland Street 1010 Auckland
+  branch_code: XXX
+  city: Auckland
+  country: New Zealand
+- name: Leveraged Equities Finance Ltd
+  swift: LEEFNZ21XXX
+  swift8: LEEFNZ21
+  branch_name: Head Office
+  branch_address: Vodafone on the Quay 6140 Wellington
+  branch_code: XXX
+  city: Wellington
+  country: New Zealand
+- name: London Capital Nz Ltd
+  swift: LOAINZ21XXX
+  swift8: LOAINZ21
+  branch_name: Head Office
+  branch_address: C/- Bell Gully, 48 Shortland Street 1010 Auckland
+  branch_code: XXX
+  city: Auckland
+  country: New Zealand
+- name: Lr Singleton And Co
+  swift: SINENZ21XXX
+  swift8: SINENZ21
+  branch_name: Head Office
+  branch_address: 209 Karamu Road Hastings
+  branch_code: XXX
+  city: Hastings
+  country: New Zealand
+- name: Macquarie Equities New Zealand Ltd
+  swift: MACQNZ21XXX
+  swift8: MACQNZ21
+  branch_name: Head Office
+  branch_address: City Tower Wellington
+  branch_code: XXX
+  city: Wellington
+  country: New Zealand
+- name: Macquarie Securities New Zealand Limited
+  swift: MSNZNZ21XXX
+  swift8: MSNZNZ21
+  branch_name: Head Office
+  branch_address: 88 Shortland Street 1010 Auckland
+  branch_code: XXX
+  city: Auckland
+  country: New Zealand
+- name: Magnate Premier Limited
+  swift: MGPINZ21XXX
+  swift8: MGPINZ21
+  branch_name: Head Office
+  branch_address: 41 Shortland Street Auckland
+  branch_code: XXX
+  city: Auckland
+  country: New Zealand
+- name: Mama Savings Trust Ltd
+  swift: MAVTNZ21XXX
+  swift8: MAVTNZ21
+  branch_name: Head Office
+  branch_address: 14 Glenburn Place 2010 Papakura
+  branch_code: XXX
+  city: Papakura
+  country: New Zealand
+- name: Mercxyz One Limited
+  swift: MEONNZ21XXX
+  swift8: MEONNZ21
+  branch_name: Head Office
+  branch_address: 60 Cook Street Auckland
+  branch_code: XXX
+  city: Auckland
+  country: New Zealand
+- name: Milford Asset Management
+  swift: MIANNZ21XXX
+  swift8: MIANNZ21
+  branch_name: Head Office
+  branch_address: Shortland Chambers 1140 Auckland
+  branch_code: XXX
+  city: Auckland
+  country: New Zealand
+- name: Millennium Fixed Income (new Zealand
+  swift: MFIWNZ21XXX
+  swift8: MFIWNZ21
+  branch_name: Head Office
+  branch_address: Level 37, Vero Centre 1010 Auckland
+  branch_code: XXX
+  city: Auckland
+  country: New Zealand
+- name: Munro, Alan Roderick And Walden, Dale Charles
+  swift: MUNHNZ21XXX
+  swift8: MUNHNZ21
+  branch_name: Head Office
+  branch_address: 45 George Street Timaru
+  branch_code: XXX
+  city: Timaru
+  country: New Zealand
+- name: National Finance Group Ltd
+  swift: NAFGNZ21XXX
+  swift8: NAFGNZ21
+  branch_name: Head Office
+  branch_address: 19 Concord Avenue 3116 Mount Maunganui
+  branch_code: XXX
+  city: Mount
+  country: New Zealand
+- name: New Zealand Emission Unit Register
+  swift: NZEUNZ21XXX
+  swift8: NZEUNZ21
+  branch_name: Head Office
+  branch_address: 33 Bowen Street Wellington
+  branch_code: XXX
+  city: Wellington
+  country: New Zealand
+- name: New Zealand Futures And Options Exchange
+  swift: XNEENZ21XXX
+  swift8: XNEENZ21
+  branch_name: Head Office
+  branch_address: Stock Exchange Centre 1001 Auckland
+  branch_code: XXX
+  city: Auckland
+  country: New Zealand
+- name: New Zealand International Finance Limited
+  swift: NZIFNZ21XXX
+  swift8: NZIFNZ21
+  branch_name: Head Office
+  branch_address: 24b Moorefield Road 6037 Wellington
+  branch_code: XXX
+  city: Wellington
+  country: New Zealand
+- name: New Zealand International Savings And Loan Ltd
+  swift: NZISNZ21XXX
+  swift8: NZISNZ21
+  branch_name: Head Office
+  branch_address: 9/22 Curran Street 1011 Auckland
+  branch_code: XXX
+  city: Herne Bay
+  country: New Zealand
+- name: New Zealand Stock Exchange-auckland
+  swift: XAUKNZ21XXX
+  swift8: XAUKNZ21
+  branch_name: Head Office
+  branch_address: The Stock Exchange Centre Auckland
+  branch_code: XXX
+  city: Auckland
+  country: New Zealand
+- name: New Zealand Superannuation Fund
+  swift: NZSFNZ21XXX
+  swift8: NZSFNZ21
+  branch_name: Head Office
+  branch_address: 29 Customs Street West 1010 Auckland
+  branch_code: XXX
+  city: Auckland
+  country: New Zealand
+- name: Nike New Zealand Limited
+  swift: NIKENZ21XXX
+  swift8: NIKENZ21
+  branch_name: Head Office
+  branch_address: The Mercari Centre 1330 Auckland
+  branch_code: XXX
+  city: Auckland
+  country: New Zealand
+- name: Noble And Lee Ltd.
+  swift: NOBLNZ21XXX
+  swift8: NOBLNZ21
+  branch_name: Head Office
+  branch_address: 51 Arawha Street Matamata
+  branch_code: XXX
+  city: Matamata
+  country: New Zealand
+- name: Nzi Capital Savings Limited
+  swift: NZCANZ21XXX
+  swift8: NZCANZ21
+  branch_name: Head Office
+  branch_address: Pwc Tower 1010 Auckland
+  branch_code: XXX
+  city: Auckland
+  country: New Zealand
+- name: Nzij Stockbrokers Ltd
+  swift: MACENZ21XXX
+  swift8: MACENZ21
+  branch_name: Head Office
+  branch_address: Woo House Wellington
+  branch_code: XXX
+  city: Wellington
+  country: New Zealand
+- name: Opt Mobile Limited
+  swift: OPMONZ21XXX
+  swift8: OPMONZ21
+  branch_name: Head Office
+  branch_address: Mays Street 0624 Auckland
+  branch_code: XXX
+  city: Auckland
+  country: New Zealand
+- name: Ord Minnett Group Ltd. Wellington
+  swift: OMGLNZ2102A
+  swift8: OMGLNZ21
+  branch_name: Auckland
+  branch_address: Arthur Andersen Tower Auckland
+  branch_code: 02A
+  city: Auckland
+  country: New Zealand
+- name: Ord Minnett Group Ltd. Wellington
+  swift: OMGLNZ21XXX
+  swift8: OMGLNZ21
+  branch_name: Head Office
+  branch_address: Bnz Centre Wellington
+  branch_code: XXX
+  city: Wellington
+  country: New Zealand
+- name: Overseas Trade Finance
+  swift: OVTFNZ21XXX
+  swift8: OVTFNZ21
+  branch_name: Head Office
+  branch_address: 60 Cook Street 1010 Auckland
+  branch_code: XXX
+  city: Auckland
+  country: New Zealand
+- name: Pacific Venture Capital Trust
+  swift: PVCTNZ21XXX
+  swift8: PVCTNZ21
+  branch_name: Head Office
+  branch_address: 41 Shortland St 1010 Auckland
+  branch_code: XXX
+  city: Auckland
+  country: New Zealand
+- name: Panterra Financial Services, Ltd.
+  swift: PAIRNZ21XXX
+  swift8: PAIRNZ21
+  branch_name: Head Office
+  branch_address: Plaza Level 1010 Auckland
+  branch_code: XXX
+  city: Auckland
+  country: New Zealand
+- name: Pb Standard Capital Limited
+  swift: STTPNZ21XXX
+  swift8: STTPNZ21
+  branch_name: Head Office
+  branch_address: Target Building 1024 Auckland
+  branch_code: XXX
+  city: Auckland
+  country: New Zealand
+- name: Phoenix Software Corporation Ltd
+  swift: PSCLNZ21XXX
+  swift8: PSCLNZ21
+  branch_name: Head Office
+  branch_address: 1977 6037 Johnsonville
+  branch_code: XXX
+  city: Johnsonville
+  country: New Zealand
+- name: Pmb Investments Limited
+  swift: PMBINZ21XXX
+  swift8: PMBINZ21
+  branch_name: Head Office
+  branch_address: 48b Bond Street 1021 Auckland
+  branch_code: XXX
+  city: Auckland Auckland
+  country: New Zealand
+- name: R M Story And Co
+  swift: STOYNZ21XXX
+  swift8: STOYNZ21
+  branch_name: Head Office
+  branch_address: 36 Ridgway Street 5000 Wanganui
+  branch_code: XXX
+  city: Wanganui
+  country: New Zealand
+- name: Regan And Co
+  swift: REGANZ21XXX
+  swift8: REGANZ21
+  branch_name: Head Office
+  branch_address: Kings Building New Plymouth
+  branch_code: XXX
+  city: New Plymouth
+  country: New Zealand
+- name: Rieh Financial Limited
+  swift: RIFLNZ21XXX
+  swift8: RIFLNZ21
+  branch_name: Head Office
+  branch_address: 14 Glenburn Place 2110 Papakura
+  branch_code: XXX
+  city: Papakura
+  country: New Zealand
+- name: Ross, Sinclair And Co.
+  swift: RSSSNZ21XXX
+  swift8: RSSSNZ21
+  branch_name: Head Office
+  branch_address: 100 Burnett St Ashburton
+  branch_code: XXX
+  city: Ashburton
+  country: New Zealand
+- name: Seamed Finance Ltd
+  swift: SENCNZ21XXX
+  swift8: SENCNZ21
+  branch_name: Head Office
+  branch_address: 31a Hawera Road 1071 Auckland
+  branch_code: XXX
+  city: Auckland
+  country: New Zealand
+- name: Smartshares Limited
+  swift: SMASNZ21XXX
+  swift8: SMASNZ21
+  branch_name: Head Office
+  branch_address: Nzx Center 6140 Wellington
+  branch_code: XXX
+  city: Wellington
+  country: New Zealand
+- name: Somerset Smith Partners
+  swift: SOSRNZ21XXX
+  swift8: SOSRNZ21
+  branch_name: Head Office
+  branch_address: 25 Spation Street Napier
+  branch_code: XXX
+  city: Napier
+  country: New Zealand
+- name: Sovereign American Crown Trust
+  swift: SAORNZ21XXX
+  swift8: SAORNZ21
+  branch_name: Head Office
+  branch_address: 41 Shortland Street Auckland
+  branch_code: XXX
+  city: Auckland
+  country: New Zealand
+- name: Tea Custodians Limited
+  swift: TECDNZ21XXX
+  swift8: TECDNZ21
+  branch_name: Head Office
+  branch_address: Martime Tower 3121 Wellington
+  branch_code: XXX
+  city: Wellington
+  country: New Zealand
+- name: The Celestine Group Limited
+  swift: CEGPNZ21XXX
+  swift8: CEGPNZ21
+  branch_name: Head Office
+  branch_address: Auckland Chancery 1010 Auckland
+  branch_code: XXX
+  city: Auckland
+  country: New Zealand
+- name: Trillion Private Wealth Ltd
+  swift: TRPWNZ21XXX
+  swift8: TRPWNZ21
+  branch_name: Head Office
+  branch_address: 9/22 Curran Street 1011 Auckland
+  branch_code: XXX
+  city: Auckland
+  country: New Zealand
+- name: Ubs New Zealand Ltd
+  swift: BUTWNZ21XXX
+  swift8: BUTWNZ21
+  branch_name: Head Office
+  branch_address: Stock Exchange Centre Auckland
+  branch_code: XXX
+  city: Auckland
+  country: New Zealand
+- name: Ultimate Financial Services Lp
+  swift: ULFSNZ21XXX
+  swift8: ULFSNZ21
+  branch_name: Head Office
+  branch_address: 412 Lake Road Auckland
+  branch_code: XXX
+  city: Auckland
+  country: New Zealand
+- name: Universal Gold Finance Limited
+  swift: UNGFNZ21XXX
+  swift8: UNGFNZ21
+  branch_name: Head Office
+  branch_address: 412 Lake Road Auckland
+  branch_code: XXX
+  city: Auckland
+  country: New Zealand
+- name: Westpactrust Securities Nz Ltd
+  swift: WTSLNZ21XXX
+  swift8: WTSLNZ21
+  branch_name: Head Office
+  branch_address: 318 Lambton Quay 6000 Wellington
+  branch_code: XXX
+  city: Wellington
+  country: New Zealand
+- name: Winstanley And Dickson
+  swift: WINKNZ21XXX
+  swift8: WINKNZ21
+  branch_name: Head Office
+  branch_address: 52 Scott Street Blenheim
+  branch_code: XXX
+  city: Blenheim
+  country: New Zealand
+- name: Wmg Yovich And Co
+  swift: WMGYNZ21XXX
+  swift8: WMGYNZ21
+  branch_name: Head Office
+  branch_address: 22 Rust Avenue Whangarei
+  branch_code: XXX
+  city: Whangarei
+  country: New Zealand
+- name: Wolf Alliance Ltd
+  swift: WOALNZ21XXX
+  swift8: WOALNZ21
+  branch_name: Head Office
+  branch_address: 412 Lake Road Auckland
+  branch_code: XXX
+  city: Auckland
+  country: New Zealand
+- name: Wolf Sparkasse
+  swift: WOLSNZ21XXX
+  swift8: WOLSNZ21
+  branch_name: Head Office
+  branch_address: 412 Lake Road Auckland
+  branch_code: XXX
+  city: Auckland
+  country: New Zealand
+- name: Woodward Partners Securities Limited
+  swift: WOPSNZ21XXX
+  swift8: WOPSNZ21
+  branch_name: Head Office
+  branch_address: Woodward House 0000 Wellington
+  branch_code: XXX
+  city: Wellington
+  country: New Zealand
+- name: Young And Co
+  swift: YOUGNZ21XXX
+  swift8: YOUGNZ21
+  branch_name: Head Office
+  branch_address: Farmers Mutual House Palmerston North
+  branch_code: XXX
+  city: Palmerston North
+  country: New Zealand

@@ -1,0 +1,4059 @@
+---
+FI:
+- name: Aito Säästöpankki Oy
+  swift: AISAFI21XXX
+  swift8: AISAFI21
+  branch_name: Head Office
+  branch_address: Kauppakatu 14 B 33210 Tampere
+  branch_code: XXX
+  city: ''
+  country: Finland
+- name: Akaan Seudun Osuuspankki
+  swift: AKSUFI21XXX
+  swift8: AKSUFI21
+  branch_name: Head Office
+  branch_address: Valtatie 8 37800 Toijala
+  branch_code: XXX
+  city: ''
+  country: Finland
+- name: Aktia Bank P.L.C.
+  swift: HELSFIHHXXX
+  swift8: HELSFIHH
+  branch_name: Head Office
+  branch_address: Mannerheimintie 14 00100 Helsinki
+  branch_code: XXX
+  city: Helsinki
+  country: Finland
+- name: Alajärven Osuuspankki
+  swift: ALOUFI21XXX
+  swift8: ALOUFI21
+  branch_name: Head Office
+  branch_address: Keskuskatu 9 62900 Alajarvi
+  branch_code: XXX
+  city: ''
+  country: Finland
+- name: Alastaron Osuuspankki
+  swift: ALOPFI21XXX
+  swift8: ALOPFI21
+  branch_name: Head Office
+  branch_address: Loimijoentie 78 32440 Alastaro
+  branch_code: XXX
+  city: ''
+  country: Finland
+- name: Alavieskan Osuuspankki
+  swift: ALONFI21XXX
+  swift8: ALONFI21
+  branch_name: Head Office
+  branch_address: Keskustie 7 85200 Alavieska
+  branch_code: XXX
+  city: ''
+  country: Finland
+- name: Alavuden Seudun Osuuspankki
+  swift: ALEPFI21XXX
+  swift8: ALEPFI21
+  branch_name: Head Office
+  branch_address: Kuulantie 2 63300 Alavus
+  branch_code: XXX
+  city: ''
+  country: Finland
+- name: Andelsbanken För Åland
+  swift: ANADFI21XXX
+  swift8: ANADFI21
+  branch_name: Head Office
+  branch_address: Kopmansgatan 2 22101 Mariehamn
+  branch_code: XXX
+  city: ''
+  country: Finland
+- name: Andelsbanken Raseborg
+  swift: ANRSFI21XXX
+  swift8: ANRSFI21
+  branch_name: Head Office
+  branch_address: Kopmansgatan 6 10300 Karis
+  branch_code: XXX
+  city: ''
+  country: Finland
+- name: Artjärven Osuuspankki
+  swift: AROUFI21XXX
+  swift8: AROUFI21
+  branch_name: Head Office
+  branch_address: Salmelantie 2 16200 Artjarvi
+  branch_code: XXX
+  city: ''
+  country: Finland
+- name: Askolan Osuuspankki
+  swift: ASOSFI21XXX
+  swift8: ASOSFI21
+  branch_name: Head Office
+  branch_address: Helkamaentie 15 07230 Monninkyla
+  branch_code: XXX
+  city: ''
+  country: Finland
+- name: Auran Osuuspankki
+  swift: AUOSFI21XXX
+  swift8: AUOSFI21
+  branch_name: Head Office
+  branch_address: Turuntie 2 21381 Aura
+  branch_code: XXX
+  city: ''
+  country: Finland
+- name: Bank Of Aland Plc
+  swift: AABAFI22XXX
+  swift8: AABAFI22
+  branch_name: Head Office
+  branch_address: Nygatan 2 22100 Mariehamn
+  branch_code: XXX
+  city: Mariehamn
+  country: Finland
+- name: Bank Of Aland Plc
+  swift: AABAFI22TMS
+  swift8: AABAFI22
+  branch_name: Treasury Department
+  branch_address: Mariehamn
+  branch_code: TMS
+  city: Mariehamn
+  country: Finland
+- name: Bigbank As Suomen Sivuliike
+  swift: BISKFIH1XXX
+  swift8: BISKFIH1
+  branch_name: Head Office
+  branch_address: Kampinkuja 2 00100 Helsinki
+  branch_code: XXX
+  city: ''
+  country: Finland
+- name: Carnegie Investment Bank Ab, Finland Filial
+  swift: CASFFIH1XXX
+  swift8: CASFFIH1
+  branch_name: Head Office
+  branch_address: Etelaesplanadi 12 a 00131 Helsinki
+  branch_code: XXX
+  city: ''
+  country: Finland
+- name: Citibank International Plc, Finland Branch
+  swift: CITIFIHXXXX
+  swift8: CITIFIHX
+  branch_name: Head Office
+  branch_address: Aleksanterinkatu 48a 00101 Helsinki
+  branch_code: XXX
+  city: Helsinki
+  country: Finland
+- name: Credit Agricole Cib
+  swift: BSUIFIHHXXX
+  swift8: BSUIFIHH
+  branch_name: Head Office
+  branch_address: Aleksanterinkatu 15 B 64 Helsinki
+  branch_code: XXX
+  city: Helsinki
+  country: Finland
+- name: Danske Bank
+  swift: DABAFIHXXXX
+  swift8: DABAFIHX
+  branch_name: Head Office
+  branch_address: C/O Sampo Pankki, Hiililaiturinkuja 00075 Helsinki
+  branch_code: XXX
+  city: Helsinki
+  country: Finland
+- name: De Lage Landen Finans Ab, Sivuliike Suomessa
+  swift: DLFNFIH1XXX
+  swift8: DLFNFIH1
+  branch_name: Head Office
+  branch_address: Salomonkatu 17 a 00100 Helsinki
+  branch_code: XXX
+  city: ''
+  country: Finland
+- name: Deutsche Bank Ag
+  swift: DEUTFIH1XXX
+  swift8: DEUTFIH1
+  branch_name: No branch name
+  branch_address: No branch address
+  branch_code: XXX
+  city: ''
+  country: Finland
+- name: Deutsche Bank Ag
+  swift: DEUTFIH1HAM
+  swift8: DEUTFIH1
+  branch_name: Db Helsinki
+  branch_address: No branch address
+  branch_code: HAM
+  city: Helsinki
+  country: Finland
+- name: Diners Club Finland, Filial Till Diners Club Nordic Ab
+  swift: DCFBFIH1XXX
+  swift8: DCFBFIH1
+  branch_name: Head Office
+  branch_address: Unionsgatan 30 00036 Helsingfors
+  branch_code: XXX
+  city: ''
+  country: Finland
+- name: Dnb Bank Asa, Filial Finland
+  swift: DNBAFIHXXXX
+  swift8: DNBAFIHX
+  branch_name: Head Office
+  branch_address: Mannerheimvaegen 8 00100 Helsinki
+  branch_code: XXX
+  city: Helsinki
+  country: Finland
+- name: Ekenäs Sparbank
+  swift: EKSRFI21XXX
+  swift8: EKSRFI21
+  branch_name: Head Office
+  branch_address: Stationsvagen 6 10600 Ekenas
+  branch_code: XXX
+  city: ''
+  country: Finland
+- name: Enon Osuuspankki
+  swift: ENOSFI21XXX
+  swift8: ENOSFI21
+  branch_name: Head Office
+  branch_address: Niskantie 19 81200 Eno
+  branch_code: XXX
+  city: ''
+  country: Finland
+- name: Etelä-Karjalan Osuuspankki
+  swift: ETOSFI21XXX
+  swift8: ETOSFI21
+  branch_name: Head Office
+  branch_address: Pormestarinkatu 2 Lappeenranta
+  branch_code: XXX
+  city: ''
+  country: Finland
+- name: Etelä-Päijänteen Osuuspankki
+  swift: ETOAFI21XXX
+  swift8: ETOAFI21
+  branch_name: Head Office
+  branch_address: Rusthollintie 1 17200 Vaaksy
+  branch_code: XXX
+  city: ''
+  country: Finland
+- name: Etelä-Pohjanmaan Osuuspankki
+  swift: ETOPFI21XXX
+  swift8: ETOPFI21
+  branch_name: Head Office
+  branch_address: Keskuskatu 9 60100 Seinajoki
+  branch_code: XXX
+  city: ''
+  country: Finland
+- name: Eufex Ltd
+  swift: EUFXFIHHXXX
+  swift8: EUFXFIHH
+  branch_name: Head Office
+  branch_address: Keilaranta 19 02150 Espoo
+  branch_code: XXX
+  city: Espoo
+  country: Finland
+- name: Eufex Pankki Oyj
+  swift: EUFPFIH1XXX
+  swift8: EUFPFIH1
+  branch_name: No branch name
+  branch_address: No branch address
+  branch_code: XXX
+  city: ''
+  country: Finland
+- name: Eurajoen Säästöpankki
+  swift: EUSPFI21XXX
+  swift8: EUSPFI21
+  branch_name: Head Office
+  branch_address: Kauppakatu 2 26100 Rauma
+  branch_code: XXX
+  city: ''
+  country: Finland
+- name: Euran Osuuspankki
+  swift: EUOUFI21XXX
+  swift8: EUOUFI21
+  branch_name: Head Office
+  branch_address: Satakunnankatu 19 27510 Eura
+  branch_code: XXX
+  city: ''
+  country: Finland
+- name: Euroclear Finland Ltd
+  swift: APKEFIHHCLP
+  swift8: APKEFIHH
+  branch_name: Csd Community
+  branch_address: Helsinki
+  branch_code: CLP
+  city: Helsinki
+  country: Finland
+- name: Euroclear Finland Ltd
+  swift: APKEFIHHXXX
+  swift8: APKEFIHH
+  branch_name: Head Office
+  branch_address: Urho Kekkosen Katu 5 C 00101 Helsinki
+  branch_code: XXX
+  city: Helsinki
+  country: Finland
+- name: Euroclear Finland Ltd
+  swift: APKEFIHHATP
+  swift8: APKEFIHH
+  branch_name: Money Market System
+  branch_address: Unioninkatu 32 B 00131 Helsinki
+  branch_code: ATP
+  city: Helsinki
+  country: Finland
+- name: Euroclear Finland Ltd
+  swift: ECLNFIH1XXX
+  swift8: ECLNFIH1
+  branch_name: Head Office
+  branch_address: Urho Kekkosen Katu 5c Helsinki
+  branch_code: XXX
+  city: Helsinki
+  country: Finland
+- name: Evli Bank Plc
+  swift: EVSEFIHHXXX
+  swift8: EVSEFIHH
+  branch_name: Head Office
+  branch_address: Aleksanterinkatu 19a 00101 Helsinki
+  branch_code: XXX
+  city: Helsinki
+  country: Finland
+- name: Evli Bank Plc
+  swift: EVSEFIHHFND
+  swift8: EVSEFIHH
+  branch_name: Investment Funds
+  branch_address: Helsinki
+  branch_code: FND
+  city: Helsinki
+  country: Finland
+- name: Fim Pankkiiriliike
+  swift: FIPAFIH1XXX
+  swift8: FIPAFIH1
+  branch_name: Head Office
+  branch_address: Pohjois Esplanadi 33 00100 Helsinki
+  branch_code: XXX
+  city: ''
+  country: Finland
+- name: Folkia As, Suomen Sivuliike
+  swift: FOSIFIH1XXX
+  swift8: FOSIFIH1
+  branch_name: Head Office
+  branch_address: Bulevardi 7 00120 Helsinki
+  branch_code: XXX
+  city: ''
+  country: Finland
+- name: Forex Bank Aktiebolag Filial I Finland
+  swift: FORXFIH1XXX
+  swift8: FORXFIH1
+  branch_name: Head Office
+  branch_address: 7b Porkkalankatu 00180 Helsinki
+  branch_code: XXX
+  city: ''
+  country: Finland
+- name: Haapamäen Seudun Osuuspankki
+  swift: HASKFI21XXX
+  swift8: HASKFI21
+  branch_name: Head Office
+  branch_address: Pihlajavedentie 3 42800 Haapamaki
+  branch_code: XXX
+  city: ''
+  country: Finland
+- name: Hailuodon Osuuspankki
+  swift: HAOAFI21XXX
+  swift8: HAOAFI21
+  branch_name: Head Office
+  branch_address: Luovontie 138 90480 Hailuoto
+  branch_code: XXX
+  city: ''
+  country: Finland
+- name: Halsuan Osuuspankki
+  swift: HAONFI21XXX
+  swift8: HAONFI21
+  branch_name: Head Office
+  branch_address: Perhontie 12 69510 Halsua
+  branch_code: XXX
+  city: ''
+  country: Finland
+- name: Hannulan Osuuspankki
+  swift: HAOSFI21XXX
+  swift8: HAOSFI21
+  branch_name: Head Office
+  branch_address: Saksalansaarentie 9 41550 Hannula
+  branch_code: XXX
+  city: ''
+  country: Finland
+- name: Hartolan Osuuspankki
+  swift: HAOIFI21XXX
+  swift8: HAOIFI21
+  branch_name: Head Office
+  branch_address: Keskustie 48 19600 Hartola
+  branch_code: XXX
+  city: ''
+  country: Finland
+- name: Hauhon Osuuspankki
+  swift: HAUSFI21XXX
+  swift8: HAUSFI21
+  branch_name: Head Office
+  branch_address: Hauhontie 13 14700 Hauho
+  branch_code: XXX
+  city: ''
+  country: Finland
+- name: Haukivuoren Osuuspankki
+  swift: HAUUFI21XXX
+  swift8: HAUUFI21
+  branch_name: Head Office
+  branch_address: Keskustie 76 51600 Haukivuori
+  branch_code: XXX
+  city: ''
+  country: Finland
+- name: Heinäveden Osuuspankki
+  swift: HEOUFI21XXX
+  swift8: HEOUFI21
+  branch_name: Head Office
+  branch_address: Kermantie 2 79700 Heinavesi
+  branch_code: XXX
+  city: ''
+  country: Finland
+- name: Helmi Säästöpankki Oy
+  swift: HESAFI21XXX
+  swift8: HESAFI21
+  branch_name: Head Office
+  branch_address: Torikatu 3 15110 Lahti
+  branch_code: XXX
+  city: ''
+  country: Finland
+- name: Helsingin Op Pankki Oyj
+  swift: HEPYFI21XXX
+  swift8: HEPYFI21
+  branch_name: Head Office
+  branch_address: Mikonkatu 13 a 00101 Helsinki
+  branch_code: XXX
+  city: ''
+  country: Finland
+- name: Hirvensalmen Osuuspankki
+  swift: HIOUFI21XXX
+  swift8: HIOUFI21
+  branch_name: Head Office
+  branch_address: Hirvensalmentie 21 52550 Hirvensalmi
+  branch_code: XXX
+  city: ''
+  country: Finland
+- name: Honkajoen Osuuspankki
+  swift: HOOSFI21XXX
+  swift8: HOOSFI21
+  branch_name: Head Office
+  branch_address: Porhontie 1 38950 Honkajoki
+  branch_code: XXX
+  city: ''
+  country: Finland
+- name: Huittisten Säästöpankki
+  swift: HUSOFI21XXX
+  swift8: HUSOFI21
+  branch_name: Head Office
+  branch_address: Lauttakylankatu 5 32700 Huittinen
+  branch_code: XXX
+  city: ''
+  country: Finland
+- name: Humppilan Osuuspankki
+  swift: HUOPFI21XXX
+  swift8: HUOPFI21
+  branch_name: Head Office
+  branch_address: Kisakuja 1 31640 Humppila
+  branch_code: XXX
+  city: ''
+  country: Finland
+- name: Ikaalisten Osuuspankki
+  swift: IKOSFI21XXX
+  swift8: IKOSFI21
+  branch_name: Head Office
+  branch_address: Vanha Tampereentie 10 39501 Ikaalinen
+  branch_code: XXX
+  city: ''
+  country: Finland
+- name: Ikano Bank Ab (Publ), Finland Filial
+  swift: KPFFFI21XXX
+  swift8: KPFFFI21
+  branch_name: Head Office
+  branch_address: Porttipuistontie 1 01200 Vantaa
+  branch_code: XXX
+  city: ''
+  country: Finland
+- name: Ilomantsin Osuuspankki
+  swift: ILOSFI21XXX
+  swift8: ILOSFI21
+  branch_name: Head Office
+  branch_address: Mantsintie 5 82900 Ilomantsi
+  branch_code: XXX
+  city: ''
+  country: Finland
+- name: Isojoen Osuuspankki
+  swift: ISOUFI21XXX
+  swift8: ISOUFI21
+  branch_name: Head Office
+  branch_address: Honkajoentie 4 64900 Isojoki
+  branch_code: XXX
+  city: ''
+  country: Finland
+- name: Itella Pankki Oy
+  swift: ITELFIHHXXX
+  swift8: ITELFIHH
+  branch_name: Head Office
+  branch_address: 7 Postintaival 00011 Helsinki
+  branch_code: XXX
+  city: Helsinki
+  country: Finland
+- name: Jämijärven Osuuspankki
+  swift: JAOUFI21XXX
+  swift8: JAOUFI21
+  branch_name: Head Office
+  branch_address: Jamijarventie 22 38800 Jamijarvi
+  branch_code: XXX
+  city: ''
+  country: Finland
+- name: Jämsän Seudun Osuuspankki
+  swift: JASSFI21XXX
+  swift8: JASSFI21
+  branch_name: Head Office
+  branch_address: Keskuskatu 11 42100 Jamsa
+  branch_code: XXX
+  city: ''
+  country: Finland
+- name: Janakkalan Osuuspankki
+  swift: JAOPFI21XXX
+  swift8: JAOPFI21
+  branch_name: Head Office
+  branch_address: Harvialantie 7 a 14200 Turenki
+  branch_code: XXX
+  city: ''
+  country: Finland
+- name: Joensuun Seudun Osuuspankki
+  swift: JOSSFI21XXX
+  swift8: JOSSFI21
+  branch_name: Head Office
+  branch_address: Siltakatu 4 80100 Joensuu
+  branch_code: XXX
+  city: ''
+  country: Finland
+- name: Jokioisten Osuuspankki
+  swift: JOOSFI21XXX
+  swift8: JOOSFI21
+  branch_name: Head Office
+  branch_address: Keskuskatu 12 31600 Jokioinen
+  branch_code: XXX
+  city: ''
+  country: Finland
+- name: Joroisten Osuuspankki
+  swift: JORUFI21XXX
+  swift8: JORUFI21
+  branch_name: Head Office
+  branch_address: Mutalantie 1 79600 Joroinen
+  branch_code: XXX
+  city: ''
+  country: Finland
+- name: Jpmorgan Europe Limited, Helsinki Branch
+  swift: CHASFIHHXXX
+  swift8: CHASFIHH
+  branch_name: Head Office
+  branch_address: Aleksis Kiven Katu 3 16 Helsinki
+  branch_code: XXX
+  city: Helsinki
+  country: Finland
+- name: Juuan Osuuspankki
+  swift: JUOSFI21XXX
+  swift8: JUOSFI21
+  branch_name: Head Office
+  branch_address: Poikolantie 2 a 83900 Juuka
+  branch_code: XXX
+  city: ''
+  country: Finland
+- name: Kainuun Osuuspankki
+  swift: KAOKFI21XXX
+  swift8: KAOKFI21
+  branch_name: Head Office
+  branch_address: Pohjolankatu 18 87101 Kajaani
+  branch_code: XXX
+  city: ''
+  country: Finland
+- name: Kalajoen Osuuspankki
+  swift: KAOIFI21XXX
+  swift8: KAOIFI21
+  branch_name: Head Office
+  branch_address: Kalajoentie 36 85100 Kalajoki
+  branch_code: XXX
+  city: ''
+  country: Finland
+- name: Kalannin Säästöpankki
+  swift: KALAFI21XXX
+  swift8: KALAFI21
+  branch_name: Head Office
+  branch_address: Alinenkatu 26 23500 Uusikaupunki
+  branch_code: XXX
+  city: ''
+  country: Finland
+- name: Kalkkisten Osuuspankki
+  swift: KASPFI21XXX
+  swift8: KASPFI21
+  branch_name: Head Office
+  branch_address: Siltatie 20 17240 Kalkkinen
+  branch_code: XXX
+  city: ''
+  country: Finland
+- name: Kangasalan Seudun Osuuspankki
+  swift: KASOFI21XXX
+  swift8: KASOFI21
+  branch_name: Head Office
+  branch_address: Kuohunharjuntie 26 36201 Kangasala
+  branch_code: XXX
+  city: ''
+  country: Finland
+- name: Kangasniemen Osuuspankki
+  swift: KAUSFI21XXX
+  swift8: KAUSFI21
+  branch_name: Head Office
+  branch_address: Otto Mannisen Tie 1-3 51200 Kangasniemi
+  branch_code: XXX
+  city: ''
+  country: Finland
+- name: Kannonkosken Osuuspankki
+  swift: KANOFI21XXX
+  swift8: KANOFI21
+  branch_name: Head Office
+  branch_address: Toritie 3 a 43300 Kannonkoski
+  branch_code: XXX
+  city: ''
+  country: Finland
+- name: Kannuksen Osuuspankki
+  swift: KAUUFI21XXX
+  swift8: KAUUFI21
+  branch_name: Head Office
+  branch_address: Valtakatu 1 69100 Kannus
+  branch_code: XXX
+  city: ''
+  country: Finland
+- name: Kantasäästöpankki Oy
+  swift: KANPFI21XXX
+  swift8: KANPFI21
+  branch_name: Head Office
+  branch_address: Sibeliuksenkatu 4 13100 Hameenlinna
+  branch_code: XXX
+  city: ''
+  country: Finland
+- name: Karjalan Osuuspankki
+  swift: KAUAFI21XXX
+  swift8: KAUAFI21
+  branch_name: Head Office
+  branch_address: Karjalantie 943 23100 Mynamaki
+  branch_code: XXX
+  city: ''
+  country: Finland
+- name: Kärkölän Osuuspankki
+  swift: KAOSFI21XXX
+  swift8: KAOSFI21
+  branch_name: Head Office
+  branch_address: Hahkaniementie 3 16600 Jarvela
+  branch_code: XXX
+  city: ''
+  country: Finland
+- name: Karkun Osuuspankki
+  swift: KAUNFI21XXX
+  swift8: KAUNFI21
+  branch_name: Head Office
+  branch_address: Riippilantie 2 38100 Sastamala
+  branch_code: XXX
+  city: ''
+  country: Finland
+- name: Karvian Osuuspankki
+  swift: KAOPFI21XXX
+  swift8: KAOPFI21
+  branch_name: Head Office
+  branch_address: Kylakarviantie 30 39930 Karvia
+  branch_code: XXX
+  city: ''
+  country: Finland
+- name: Kaustisen Osuuspankki
+  swift: KAOAFI21XXX
+  swift8: KAOAFI21
+  branch_name: Head Office
+  branch_address: Kaustintie 3 69600 Kaustinen
+  branch_code: XXX
+  city: ''
+  country: Finland
+- name: Käylän Osuuspankki
+  swift: KAONFI21XXX
+  swift8: KAONFI21
+  branch_name: Head Office
+  branch_address: Kaylantie 5 93850 Kayla
+  branch_code: XXX
+  city: ''
+  country: Finland
+- name: Keiteleen Osuuspankki
+  swift: KEOPFI21XXX
+  swift8: KEOPFI21
+  branch_name: Head Office
+  branch_address: Ayrapaantie 1 72600 Keitele
+  branch_code: XXX
+  city: ''
+  country: Finland
+- name: Kemin Seudun Osuuspankki
+  swift: KESOFI21XXX
+  swift8: KESOFI21
+  branch_name: Head Office
+  branch_address: Valtakatu 14 94100 Kemi
+  branch_code: XXX
+  city: ''
+  country: Finland
+- name: Kerimäen Osuuspankki
+  swift: KEOKFI21XXX
+  swift8: KEOKFI21
+  branch_name: Head Office
+  branch_address: Halvantie 2 58201 Kerimaki
+  branch_code: XXX
+  city: ''
+  country: Finland
+- name: Kesälahden Osuuspankki
+  swift: KEOIFI21XXX
+  swift8: KEOIFI21
+  branch_name: Head Office
+  branch_address: Kesalahdentie 30 a 59800 Kesalahti
+  branch_code: XXX
+  city: ''
+  country: Finland
+- name: Keski-Suomen Osuuspankki
+  swift: KEOUFI21XXX
+  swift8: KEOUFI21
+  branch_name: Head Office
+  branch_address: Kauppakatu 22 40100 Jyvaskyla
+  branch_code: XXX
+  city: ''
+  country: Finland
+- name: Keski-Uudenmaan Osuuspankki
+  swift: KEONFI21XXX
+  swift8: KEONFI21
+  branch_name: Head Office
+  branch_address: Sibeliuksenkatu 17 04400 Jarvenpaa
+  branch_code: XXX
+  city: ''
+  country: Finland
+- name: Keuruun Osuuspankki
+  swift: KEOAFI21XXX
+  swift8: KEOAFI21
+  branch_name: Head Office
+  branch_address: Multiantie 1 42700 Keuruu
+  branch_code: XXX
+  city: ''
+  country: Finland
+- name: Kihniön Osuuspankki
+  swift: KIOUFI21XXX
+  swift8: KIOUFI21
+  branch_name: Head Office
+  branch_address: Valkamatie 2 39820 Kihnio
+  branch_code: XXX
+  city: ''
+  country: Finland
+- name: Kiihtelysvaaran Osuuspankki
+  swift: KIOPFI21XXX
+  swift8: KIOPFI21
+  branch_name: Head Office
+  branch_address: Makrantie 8 82140 Kiihtelysvaara
+  branch_code: XXX
+  city: ''
+  country: Finland
+- name: Kiikoisten Osuuspankki
+  swift: KIOAFI21XXX
+  swift8: KIOAFI21
+  branch_name: Head Office
+  branch_address: Kiikostentie 333 38360 Kiikoinen
+  branch_code: XXX
+  city: ''
+  country: Finland
+- name: Kiikoisten Säästöpankki
+  swift: KISOFI21XXX
+  swift8: KISOFI21
+  branch_name: Head Office
+  branch_address: Taitajantie 1 38360 Kiikoinen
+  branch_code: XXX
+  city: ''
+  country: Finland
+- name: Kiteen Seudun Osuuspankki
+  swift: KISUFI21XXX
+  swift8: KISUFI21
+  branch_name: Head Office
+  branch_address: Kiteentie 3 82500 Kitee
+  branch_code: XXX
+  city: ''
+  country: Finland
+- name: Koitin-Pertunmaan Osuuspankki
+  swift: KOOKFI21XXX
+  swift8: KOOKFI21
+  branch_name: Head Office
+  branch_address: Nokantie 8 19540 Koitti
+  branch_code: XXX
+  city: ''
+  country: Finland
+- name: Kokkolan Osuuspankki
+  swift: KOSPFI21XXX
+  swift8: KOSPFI21
+  branch_name: Head Office
+  branch_address: Isokatu 6 67101 Kokkola
+  branch_code: XXX
+  city: ''
+  country: Finland
+- name: Korpilahden Osuuspankki
+  swift: KOSNFI21XXX
+  swift8: KOSNFI21
+  branch_name: Head Office
+  branch_address: Martinpolku 23 41800 Korpilahti
+  branch_code: XXX
+  city: ''
+  country: Finland
+- name: Korsnäs Andelsbank
+  swift: KOADFI21XXX
+  swift8: KOADFI21
+  branch_name: Head Office
+  branch_address: Silverbergsvagen 20 66200 Korsnas
+  branch_code: XXX
+  city: ''
+  country: Finland
+- name: Kosken Osuuspankki
+  swift: KOOSFI21XXX
+  swift8: KOOSFI21
+  branch_name: Head Office
+  branch_address: Hameentie 21 31500 Koski Tl
+  branch_code: XXX
+  city: ''
+  country: Finland
+- name: Köyliön Osuuspankki
+  swift: KOONFI21XXX
+  swift8: KOONFI21
+  branch_name: Head Office
+  branch_address: Koyliontie 1 27710 Koylio
+  branch_code: XXX
+  city: ''
+  country: Finland
+- name: Kristinestads Sparbank
+  swift: KRSNFI21XXX
+  swift8: KRSNFI21
+  branch_name: Head Office
+  branch_address: Lappfjardsvagen 729 64300 Lappfjard
+  branch_code: XXX
+  city: ''
+  country: Finland
+- name: Kronoby Andelsbank
+  swift: KRADFI21XXX
+  swift8: KRADFI21
+  branch_name: Head Office
+  branch_address: Kronobyvagen 8 68500 Kronoby
+  branch_code: XXX
+  city: ''
+  country: Finland
+- name: Kuhmoisten Osuuspankki
+  swift: KUOAFI21XXX
+  swift8: KUOAFI21
+  branch_name: Head Office
+  branch_address: Toritie 51 17800 Kuhmoinen
+  branch_code: XXX
+  city: ''
+  country: Finland
+- name: Kuhmon Osuuspankki
+  swift: KUOPFI21XXX
+  swift8: KUOPFI21
+  branch_name: Head Office
+  branch_address: Koulukatu 10 88900 Kuhmo
+  branch_code: XXX
+  city: ''
+  country: Finland
+- name: Kuortaneen Osuuspankki
+  swift: KUONFI21XXX
+  swift8: KUONFI21
+  branch_name: Head Office
+  branch_address: Keskustie 36 63100 Kuortane
+  branch_code: XXX
+  city: ''
+  country: Finland
+- name: Kurikan Osuuspankki
+  swift: KUOUFI21XXX
+  swift8: KUOUFI21
+  branch_name: Head Office
+  branch_address: Keskuspuistikko 7 61300 Kurikka
+  branch_code: XXX
+  city: ''
+  country: Finland
+- name: Kurun Osuuspankki
+  swift: KUOKFI21XXX
+  swift8: KUOKFI21
+  branch_name: Head Office
+  branch_address: Kauppatie 11 34300 Kuru
+  branch_code: XXX
+  city: ''
+  country: Finland
+- name: Kuusamon Osuuspankki
+  swift: KUSSFI21XXX
+  swift8: KUSSFI21
+  branch_name: Head Office
+  branch_address: Kitkantie 7 93600 Kuusamo
+  branch_code: XXX
+  city: ''
+  country: Finland
+- name: Kvevlax Sparbank
+  swift: KVSPFI21XXX
+  swift8: KVSPFI21
+  branch_name: Head Office
+  branch_address: Kvevlaxvagen 1 66530 Korsholm
+  branch_code: XXX
+  city: ''
+  country: Finland
+- name: Kyrön Seudun Osuuspankki
+  swift: KYSOFI21XXX
+  swift8: KYSOFI21
+  branch_name: Head Office
+  branch_address: Kyrontie 31 21800 Kyro
+  branch_code: XXX
+  city: ''
+  country: Finland
+- name: Kyrönmaan Osuuspankki
+  swift: KYOUFI21XXX
+  swift8: KYOUFI21
+  branch_name: Head Office
+  branch_address: Lukkarinmaentie 2 61500 Isokyro
+  branch_code: XXX
+  city: ''
+  country: Finland
+- name: Kyyjärven Osuuspankki
+  swift: KYYOFIH1XXX
+  swift8: KYYOFIH1
+  branch_name: Head Office
+  branch_address: Tuliharjuntie 4 43700 Kyyjarvi
+  branch_code: XXX
+  city: ''
+  country: Finland
+- name: Laihian Osuuspankki
+  swift: LAOPFI21XXX
+  swift8: LAOPFI21
+  branch_name: Head Office
+  branch_address: Ruuntintie 2 a 66400 Laihia
+  branch_code: XXX
+  city: ''
+  country: Finland
+- name: Lammin Osuuspankki
+  swift: LAONFI21XXX
+  swift8: LAONFI21
+  branch_name: Head Office
+  branch_address: Mommilantie 6 16900 Lammi
+  branch_code: XXX
+  city: ''
+  country: Finland
+- name: Lammin Säästöpankki
+  swift: LAMTFI21XXX
+  swift8: LAMTFI21
+  branch_name: Head Office
+  branch_address: Hameenkatu 14 05800 Hyvinkaa
+  branch_code: XXX
+  city: ''
+  country: Finland
+- name: Lanneveden Osuuspankki
+  swift: LAOAFI21XXX
+  swift8: LAOAFI21
+  branch_name: Head Office
+  branch_address: Uuraistentie 1132 41270 Lannevesi
+  branch_code: XXX
+  city: ''
+  country: Finland
+- name: Länsi-Kymen Osuuspankki
+  swift: LAOKFI21XXX
+  swift8: LAOKFI21
+  branch_name: Head Office
+  branch_address: Vanhamaantie 9 47200 Elimaki
+  branch_code: XXX
+  city: ''
+  country: Finland
+- name: Länsi-Suomen Osuuspankki
+  swift: LANOFI21XXX
+  swift8: LANOFI21
+  branch_name: Head Office
+  branch_address: Yrjonkatu 22 28100 Pori
+  branch_code: XXX
+  city: ''
+  country: Finland
+- name: Länsi-Uudenmaan Osuuspankki
+  swift: LAOIFI21XXX
+  swift8: LAOIFI21
+  branch_name: Head Office
+  branch_address: Kauppakatu 13 08100 Lohja
+  branch_code: XXX
+  city: ''
+  country: Finland
+- name: Länsi-Uudenmaan Säästöpankki
+  swift: LASTFI21XXX
+  swift8: LASTFI21
+  branch_name: Head Office
+  branch_address: Laurinkatu 48 08100 Lohja
+  branch_code: XXX
+  city: ''
+  country: Finland
+- name: Lapin Osuuspankki
+  swift: LASUFI21XXX
+  swift8: LASUFI21
+  branch_name: Head Office
+  branch_address: Meijeritie 2 27230 Lappi
+  branch_code: XXX
+  city: ''
+  country: Finland
+- name: Lappajärven Osuuspankki
+  swift: LAOSFI21XXX
+  swift8: LAOSFI21
+  branch_name: Head Office
+  branch_address: Maneesintie 4 62600 Lappajarvi
+  branch_code: XXX
+  city: ''
+  country: Finland
+- name: Lapuan Osuuspankki
+  swift: LAPUFI21XXX
+  swift8: LAPUFI21
+  branch_name: Head Office
+  branch_address: Kauppakatu 4 62100 Lapua
+  branch_code: XXX
+  city: ''
+  country: Finland
+- name: Lavian Osuuspankki
+  swift: LAOUFI21XXX
+  swift8: LAOUFI21
+  branch_name: Head Office
+  branch_address: Tampereentie 6 38600 Lavia
+  branch_code: XXX
+  city: ''
+  country: Finland
+- name: Lehtimäen Osuuspankki
+  swift: LEOSFI21XXX
+  swift8: LEOSFI21
+  branch_name: Head Office
+  branch_address: Kirkonkylantie 3 63500 Lehtimaki
+  branch_code: XXX
+  city: ''
+  country: Finland
+- name: Lemin Osuuspankki
+  swift: LEOKFI21XXX
+  swift8: LEOKFI21
+  branch_name: Head Office
+  branch_address: Uimintie 1 a 1 54710 Lemi
+  branch_code: XXX
+  city: ''
+  country: Finland
+- name: Leppävirran Osuuspankki
+  swift: LEOUFI21XXX
+  swift8: LEOUFI21
+  branch_name: Head Office
+  branch_address: Kievarinkatu 1 79100 Leppavirta
+  branch_code: XXX
+  city: ''
+  country: Finland
+- name: Liedon Osuuspankki
+  swift: LIOSFI21XXX
+  swift8: LIOSFI21
+  branch_name: Head Office
+  branch_address: Hyvattylantie 10 21420 Lieto
+  branch_code: XXX
+  city: ''
+  country: Finland
+- name: Liedon Säästöpankki
+  swift: LSAAFI21XXX
+  swift8: LSAAFI21
+  branch_name: Head Office
+  branch_address: Hyvattylantie 4 21420 Lieto
+  branch_code: XXX
+  city: ''
+  country: Finland
+- name: Limingan Osuuspankki
+  swift: LIOUFI21XXX
+  swift8: LIOUFI21
+  branch_name: Head Office
+  branch_address: Kauppakatu 3 a 91900 Liminka
+  branch_code: XXX
+  city: ''
+  country: Finland
+- name: Liperin Osuuspankki
+  swift: LIOPFI21XXX
+  swift8: LIOPFI21
+  branch_name: Head Office
+  branch_address: Keskustie 3 83100 Liperi
+  branch_code: XXX
+  city: ''
+  country: Finland
+- name: Lokalahden Osuuspankki
+  swift: LOOSFI21XXX
+  swift8: LOOSFI21
+  branch_name: Head Office
+  branch_address: Erkontie 16 23450 Lokalahti
+  branch_code: XXX
+  city: ''
+  country: Finland
+- name: Lopen Osuuspankki
+  swift: LOOUFI21XXX
+  swift8: LOOUFI21
+  branch_name: Head Office
+  branch_address: Kauppatie 2 12700 Loppi
+  branch_code: XXX
+  city: ''
+  country: Finland
+- name: Lounais-Suomen Osuuspankki
+  swift: LOOPFI21XXX
+  swift8: LOOPFI21
+  branch_name: Head Office
+  branch_address: Vistantie 21 21530 Paimio
+  branch_code: XXX
+  city: ''
+  country: Finland
+- name: Lounaismaan Osuuspankki
+  swift: SAOKFI21XXX
+  swift8: SAOKFI21
+  branch_name: Head Office
+  branch_address: Turuntie 7 24100 Salo
+  branch_code: XXX
+  city: ''
+  country: Finland
+- name: Lounaisrannikon Osuuspankki
+  swift: VAOUFI21XXX
+  swift8: VAOUFI21
+  branch_name: Head Office
+  branch_address: Koulukatu 1 23500 Uusikaupunki
+  branch_code: XXX
+  city: ''
+  country: Finland
+- name: Luhangan Osuuspankki
+  swift: LUOPFI21XXX
+  swift8: LUOPFI21
+  branch_name: Head Office
+  branch_address: Tammijarventie 262 19910 Tammijarvi
+  branch_code: XXX
+  city: ''
+  country: Finland
+- name: Luopioisten Osuuspankki
+  swift: LUOSFI21XXX
+  swift8: LUOSFI21
+  branch_name: Head Office
+  branch_address: Keskitie 15 36760 Luopioinen
+  branch_code: XXX
+  city: ''
+  country: Finland
+- name: Luumäen Osuuspankki
+  swift: LUOAFI21XXX
+  swift8: LUOAFI21
+  branch_name: Head Office
+  branch_address: Linnalantie 51 54500 Taavetti
+  branch_code: XXX
+  city: ''
+  country: Finland
+- name: Maaningan Osuuspankki
+  swift: MAOAFI21XXX
+  swift8: MAOAFI21
+  branch_name: Head Office
+  branch_address: Keskuskatu 6 04600 Maaninka
+  branch_code: XXX
+  city: ''
+  country: Finland
+- name: Mäntän Seudun Osuuspankki
+  swift: MAEKFI21XXX
+  swift8: MAEKFI21
+  branch_name: Head Office
+  branch_address: Seppalan Puistotie 8 35800 Mantta
+  branch_code: XXX
+  city: ''
+  country: Finland
+- name: Mäntsälän Osuuspankki
+  swift: MAOKFI21XXX
+  swift8: MAOKFI21
+  branch_name: Head Office
+  branch_address: Keskuskatu 6 04600 Mantsala
+  branch_code: XXX
+  city: ''
+  country: Finland
+- name: Marttilan Osuuspankki
+  swift: MAUNFI21XXX
+  swift8: MAUNFI21
+  branch_name: Head Office
+  branch_address: Kirkkotie 2 21490 Marttila
+  branch_code: XXX
+  city: ''
+  country: Finland
+- name: Mellilän Seudun Osuuspankki
+  swift: MESNFI21XXX
+  swift8: MESNFI21
+  branch_name: Head Office
+  branch_address: Sahantie 2 32300 Mellila
+  branch_code: XXX
+  city: ''
+  country: Finland
+- name: Merimaskun Osuuspankki
+  swift: MEOSFI21XXX
+  swift8: MEOSFI21
+  branch_name: Head Office
+  branch_address: Rajatie 2 21160 Merimasku
+  branch_code: XXX
+  city: ''
+  country: Finland
+- name: Metsämaan Osuuspankki
+  swift: MEOUFI21XXX
+  swift8: MEOUFI21
+  branch_name: Head Office
+  branch_address: Metsamaantie 624 32270 Metsamaa
+  branch_code: XXX
+  city: ''
+  country: Finland
+- name: Miehikkälän Osuuspankki
+  swift: MIOUFI21XXX
+  swift8: MIOUFI21
+  branch_name: Head Office
+  branch_address: Keskustie 17 49700 Miehikkala
+  branch_code: XXX
+  city: ''
+  country: Finland
+- name: Mietoisten Säästöpankki
+  swift: MISNFI21XXX
+  swift8: MISNFI21
+  branch_name: Head Office
+  branch_address: Kirkkotie 111 23120 Mietoinen
+  branch_code: XXX
+  city: ''
+  country: Finland
+- name: Mouhijärven Osuuspankki
+  swift: MOOUFI21XXX
+  swift8: MOOUFI21
+  branch_name: Head Office
+  branch_address: Uotsolantie 43 a 38460 Sastamala
+  branch_code: XXX
+  city: ''
+  country: Finland
+- name: Multian Osuuspankki
+  swift: MUOSFI21XXX
+  swift8: MUOSFI21
+  branch_name: Head Office
+  branch_address: Keskustie 29 42600 Multia
+  branch_code: XXX
+  city: ''
+  country: Finland
+- name: Mynämäen Osuuspankki
+  swift: MYOSFI21XXX
+  swift8: MYOSFI21
+  branch_name: Head Office
+  branch_address: Virastotie 2 23100 Mynamaki
+  branch_code: XXX
+  city: ''
+  country: Finland
+- name: Myrskylän Osuuspankki
+  swift: MYOUFI21XXX
+  swift8: MYOUFI21
+  branch_name: Head Office
+  branch_address: Virastotie 4 07600 Myrskyla
+  branch_code: XXX
+  city: ''
+  country: Finland
+- name: Nagu Andelsbank
+  swift: NAANFI21XXX
+  swift8: NAANFI21
+  branch_name: Head Office
+  branch_address: Sommartorget 1 21660 Nagu
+  branch_code: XXX
+  city: ''
+  country: Finland
+- name: Nakkila-Luvian Osuuspankki
+  swift: NAOUFI21XXX
+  swift8: NAOUFI21
+  branch_name: Head Office
+  branch_address: Porintie 4 29250 Nakkila
+  branch_code: XXX
+  city: ''
+  country: Finland
+- name: Niinijoen Osuuspankki
+  swift: NIOSFI21XXX
+  swift8: NIOSFI21
+  branch_name: Head Office
+  branch_address: Niinijoentie 837 32410 Niinijoki
+  branch_code: XXX
+  city: ''
+  country: Finland
+- name: Nivalan Järvikylän Osuuspankki
+  swift: NIJOFI21XXX
+  swift8: NIJOFI21
+  branch_name: Head Office
+  branch_address: Toripiha 1 85500 Nivala
+  branch_code: XXX
+  city: ''
+  country: Finland
+- name: Nivalan Osuuspankki
+  swift: NIOUFI21XXX
+  swift8: NIOUFI21
+  branch_name: Head Office
+  branch_address: Kalliontie 20 85500 Nivala
+  branch_code: XXX
+  city: ''
+  country: Finland
+- name: Nooa Säästöpankki Oy
+  swift: NOASFIH1XXX
+  swift8: NOASFIH1
+  branch_name: Head Office
+  branch_address: Mikonkatu 2 D 100 Helsinki
+  branch_code: XXX
+  city: ''
+  country: Finland
+- name: Nordea Bank Finland Plc
+  swift: NDEAFIHH030
+  swift8: NDEAFIHH
+  branch_name: Markets Equities
+  branch_address: Helsinki
+  branch_code: '030'
+  city: Helsinki
+  country: Finland
+- name: Nordea Bank Finland Plc
+  swift: NDEAFIHHNCL
+  swift8: NDEAFIHH
+  branch_name: Helsinki
+  branch_address: Helsinki
+  branch_code: NCL
+  city: Helsinki
+  country: Finland
+- name: Nordea Bank Finland Plc
+  swift: NDEAFIHHTRI
+  swift8: NDEAFIHH
+  branch_name: Helsinki
+  branch_address: Helsinki
+  branch_code: TRI
+  city: Helsinki
+  country: Finland
+- name: Nordea Bank Finland Plc
+  swift: NDEAFIHHXXX
+  swift8: NDEAFIHH
+  branch_name: Head Office
+  branch_address: Aleksanterinkatu 36 00100 Helsinki
+  branch_code: XXX
+  city: Helsinki
+  country: Finland
+- name: Nordea Bank Finland Plc
+  swift: NDEAFIHHISA
+  swift8: NDEAFIHH
+  branch_name: Helsinki
+  branch_address: Helsinki
+  branch_code: ISA
+  city: Helsinki
+  country: Finland
+- name: Nordic Investment Bank
+  swift: NOINFIHHXXX
+  swift8: NOINFIHH
+  branch_name: Head Office
+  branch_address: Fabianinkatu 34 00170 Helsinki
+  branch_code: XXX
+  city: Helsinki
+  country: Finland
+- name: Nordnet Bank Ab Finsk Filial
+  swift: NOUSFIH1XXX
+  swift8: NOUSFIH1
+  branch_name: Head Office
+  branch_address: Yliopistonkatu 5, 3. Krs 00100 Helsinki
+  branch_code: XXX
+  city: ''
+  country: Finland
+- name: Nousiaisten Osuuspankki
+  swift: NOOSFI21XXX
+  swift8: NOOSFI21
+  branch_name: Head Office
+  branch_address: Nummentie 3 21270 Nousiainen
+  branch_code: XXX
+  city: ''
+  country: Finland
+- name: Oma Säästöpankki Oy
+  swift: OMSAFI21XXX
+  swift8: OMSAFI21
+  branch_name: Head Office
+  branch_address: Keskustori 3 60100 Seinajoki
+  branch_code: XXX
+  city: ''
+  country: Finland
+- name: Orimattilan Osuuspankki
+  swift: OROSFI21XXX
+  swift8: OROSFI21
+  branch_name: Head Office
+  branch_address: Erkontie 11 16300 Orimattila
+  branch_code: XXX
+  city: ''
+  country: Finland
+- name: Oripään Osuuspankki
+  swift: OROPFI21XXX
+  swift8: OROPFI21
+  branch_name: Head Office
+  branch_address: Ylaneentie 2 32500 Oripaa
+  branch_code: XXX
+  city: ''
+  country: Finland
+- name: Oriveden Seudun Osuuspankki
+  swift: ORSOFI21XXX
+  swift8: ORSOFI21
+  branch_name: Head Office
+  branch_address: Keskustie 25 35300 Orivesi
+  branch_code: XXX
+  city: ''
+  country: Finland
+- name: Östnylands Andelsbank
+  swift: OSANFI21XXX
+  swift8: OSANFI21
+  branch_name: Head Office
+  branch_address: Kramaretorget 2 06101 Borga
+  branch_code: XXX
+  city: ''
+  country: Finland
+- name: Östra Korsholms Andelsbank
+  swift: OSKNFI21XXX
+  swift8: OSKNFI21
+  branch_name: Head Office
+  branch_address: Voitbyvagen 121 66520 Veikars
+  branch_code: XXX
+  city: ''
+  country: Finland
+- name: Osuuspankki Kantrisalo
+  swift: OSKAFI21XXX
+  swift8: OSKAFI21
+  branch_name: Head Office
+  branch_address: Inkereentie 1023 C 25190 Inkere
+  branch_code: XXX
+  city: ''
+  country: Finland
+- name: Osuuspankki Poppia
+  swift: KIOSFI21XXX
+  swift8: KIOSFI21
+  branch_name: Head Office
+  branch_address: Niemistenkatu 4 74700 Kiuruvesi
+  branch_code: XXX
+  city: ''
+  country: Finland
+- name: Oulaisten Osuuspankki
+  swift: OUOSFI21XXX
+  swift8: OUOSFI21
+  branch_name: Head Office
+  branch_address: Keskuskatu 7 86301 Oulainen
+  branch_code: XXX
+  city: ''
+  country: Finland
+- name: Oulun Osuuspankki
+  swift: OUOPFI21XXX
+  swift8: OUOPFI21
+  branch_name: Head Office
+  branch_address: Isokatu 14 90100 Oulu
+  branch_code: XXX
+  city: ''
+  country: Finland
+- name: Outokummun Osuuspankki
+  swift: OUOUFI21XXX
+  swift8: OUOUFI21
+  branch_name: Head Office
+  branch_address: Kummunkatu 5 83500 Outokumpu
+  branch_code: XXX
+  city: ''
+  country: Finland
+- name: Paattisten Osuuspankki
+  swift: PAOPFI21XXX
+  swift8: PAOPFI21
+  branch_name: Head Office
+  branch_address: Seuravuorenkatu 2 21330 Paattinen
+  branch_code: XXX
+  city: ''
+  country: Finland
+- name: Päijät-Hämeen Osuuspankki
+  swift: PAOUFI21XXX
+  swift8: PAOUFI21
+  branch_name: Head Office
+  branch_address: Aleksanterinkatu 20 15140 Lahti
+  branch_code: XXX
+  city: ''
+  country: Finland
+- name: Paltamon Osuuspankki
+  swift: PAOAFI21XXX
+  swift8: PAOAFI21
+  branch_name: Head Office
+  branch_address: Lepikontie 19 88300 Paltamo
+  branch_code: XXX
+  city: ''
+  country: Finland
+- name: Parikkalan Osuuspankki
+  swift: PAOKFI21XXX
+  swift8: PAOKFI21
+  branch_name: Head Office
+  branch_address: Parikkalantie 23 59100 Parikkala
+  branch_code: XXX
+  city: ''
+  country: Finland
+- name: Pedersörenejdens Andelsbank
+  swift: PEAEFI21XXX
+  swift8: PEAEFI21
+  branch_name: Head Office
+  branch_address: Salutorget 2 68600 Jakobstad
+  branch_code: XXX
+  city: ''
+  country: Finland
+- name: Peräseinäjoen Osuuspankki
+  swift: PEOUFI21XXX
+  swift8: PEOUFI21
+  branch_name: Head Office
+  branch_address: Keskuskatu 26 61100 Peraseinajoki
+  branch_code: XXX
+  city: ''
+  country: Finland
+- name: Perhon Osuuspankki
+  swift: PEOPFI21XXX
+  swift8: PEOPFI21
+  branch_name: Head Office
+  branch_address: Vehmassuontie 2 69950 Perho
+  branch_code: XXX
+  city: ''
+  country: Finland
+- name: Petäjäveden Osuuspankki
+  swift: PEOSFI21XXX
+  swift8: PEOSFI21
+  branch_name: Head Office
+  branch_address: Kirkkotie 6 41900 Petajavesi
+  branch_code: XXX
+  city: ''
+  country: Finland
+- name: Pielaveden Osuuspankki
+  swift: PIOUFI21XXX
+  swift8: PIOUFI21
+  branch_name: Head Office
+  branch_address: Puistotie 26 72401 Pielavesi
+  branch_code: XXX
+  city: ''
+  country: Finland
+- name: Pielisen Osuuspankki
+  swift: PIOSFI21XXX
+  swift8: PIOSFI21
+  branch_name: Head Office
+  branch_address: Pielisentie 9 81700 Lieksa
+  branch_code: XXX
+  city: ''
+  country: Finland
+- name: Pihtiputaan Osuuspankki
+  swift: PIOAFI21XXX
+  swift8: PIOAFI21
+  branch_name: Head Office
+  branch_address: Asematie 14 44800 Pihtipudas
+  branch_code: XXX
+  city: ''
+  country: Finland
+- name: Piikkiön Osuuspankki
+  swift: PIIKFI21XXX
+  swift8: PIIKFI21
+  branch_name: Head Office
+  branch_address: Hadvalantie 10 21500 Piikkio
+  branch_code: XXX
+  city: ''
+  country: Finland
+- name: Pohjanmaan Osuuspankki
+  swift: KAOUFI21XXX
+  swift8: KAOUFI21
+  branch_name: Head Office
+  branch_address: Kauppatie 54 62200 Kauhava
+  branch_code: XXX
+  city: ''
+  country: Finland
+- name: Pohjois-Savon Osuuspankki
+  swift: POOSFI21XXX
+  swift8: POOSFI21
+  branch_name: Head Office
+  branch_address: Puijonkatu 25 70100 Kuopio
+  branch_code: XXX
+  city: ''
+  country: Finland
+- name: Pohjola Pankki Oyj (Pohjola Bank Plc)
+  swift: OKOYFIHHXXX
+  swift8: OKOYFIHH
+  branch_name: Head Office
+  branch_address: Teollisuuskatu 1b / Va3a 00510 Helsinki
+  branch_code: XXX
+  city: Helsinki
+  country: Finland
+- name: Pohjolan Osuuspankki
+  swift: POOAFI21XXX
+  swift8: POOAFI21
+  branch_name: Head Office
+  branch_address: Koskikatu 12 96101 Rovaniemi
+  branch_code: XXX
+  city: ''
+  country: Finland
+- name: Polvijärven Osuuspankki
+  swift: POOUFI21XXX
+  swift8: POOUFI21
+  branch_name: Head Office
+  branch_address: Polvijarventie 9 83700 Polvijarvi
+  branch_code: XXX
+  city: ''
+  country: Finland
+- name: Porvoon Osuuspankki
+  swift: POOPFI21XXX
+  swift8: POOPFI21
+  branch_name: Head Office
+  branch_address: Rauhankatu 27 06100 Porvoo
+  branch_code: XXX
+  city: ''
+  country: Finland
+- name: Posion Osuuspankki
+  swift: POONFI21XXX
+  swift8: POONFI21
+  branch_name: Head Office
+  branch_address: Posiontie 44 97900 Posio
+  branch_code: XXX
+  city: ''
+  country: Finland
+- name: Pöytyän Osuuspankki
+  swift: POOKFI21XXX
+  swift8: POOKFI21
+  branch_name: Head Office
+  branch_address: Turuntie 631 a 21870 Riihikoski
+  branch_code: XXX
+  city: ''
+  country: Finland
+- name: Pudasjärven Osuuspankki
+  swift: PUOSFI21XXX
+  swift8: PUOSFI21
+  branch_name: Head Office
+  branch_address: Toritie 1 93100 Pudasjarvi
+  branch_code: XXX
+  city: ''
+  country: Finland
+- name: Pukkilan Osuuspankki
+  swift: PUOUFI21XXX
+  swift8: PUOUFI21
+  branch_name: Head Office
+  branch_address: Koivulinnantie 3 07560 Pukkila
+  branch_code: XXX
+  city: ''
+  country: Finland
+- name: Pulkkilan Osuuspankki
+  swift: PUOPFI21XXX
+  swift8: PUOPFI21
+  branch_name: Head Office
+  branch_address: Pulkkilantie 17 92600 Pulkkila
+  branch_code: XXX
+  city: ''
+  country: Finland
+- name: Punkalaitumen Osuuspankki
+  swift: PUONFI21XXX
+  swift8: PUONFI21
+  branch_name: Head Office
+  branch_address: Urjalantie 51 31900 Punkalaidun
+  branch_code: XXX
+  city: ''
+  country: Finland
+- name: Puolangan Osuuspankki
+  swift: PUOKFI21XXX
+  swift8: PUOKFI21
+  branch_name: Head Office
+  branch_address: Maaherrankatu 12 89200 Puolanka
+  branch_code: XXX
+  city: ''
+  country: Finland
+- name: Purmo Andelsbank
+  swift: PUANFI21XXX
+  swift8: PUANFI21
+  branch_name: Head Office
+  branch_address: Lillbyvagen 168 68940 Lillby
+  branch_code: XXX
+  city: ''
+  country: Finland
+- name: Pyhälaakson Osuuspankki
+  swift: PYOSFI21XXX
+  swift8: PYOSFI21
+  branch_name: Head Office
+  branch_address: Vanhatie 49 86600 Haapavesi
+  branch_code: XXX
+  city: ''
+  country: Finland
+- name: Pyhärannan Säästöpankki
+  swift: PYSAFI21XXX
+  swift8: PYSAFI21
+  branch_name: Head Office
+  branch_address: Ristentie 15 23950 Pyharanta
+  branch_code: XXX
+  city: ''
+  country: Finland
+- name: Pyhäselän Paikallisosuuspankki
+  swift: PYPAFI21XXX
+  swift8: PYPAFI21
+  branch_name: Head Office
+  branch_address: Lastaustie 2 82200 Hammaslahti
+  branch_code: XXX
+  city: ''
+  country: Finland
+- name: Raahen Seudun Osuuspankki
+  swift: RASUFI21XXX
+  swift8: RASUFI21
+  branch_name: Head Office
+  branch_address: Kirkkokatu 34 92100 Raahe
+  branch_code: XXX
+  city: ''
+  country: Finland
+- name: Rääkkylän Osuuspankki
+  swift: RAOSFI21XXX
+  swift8: RAOSFI21
+  branch_name: Head Office
+  branch_address: Kinnulantie 3 82300 Raakkyla
+  branch_code: XXX
+  city: ''
+  country: Finland
+- name: Rantasalmen Osuuspankki
+  swift: RAOUFI21XXX
+  swift8: RAOUFI21
+  branch_name: Head Office
+  branch_address: Kylatie 28 58900 Rantasalmi
+  branch_code: XXX
+  city: ''
+  country: Finland
+- name: Rautalammin Osuuspankki
+  swift: RAOKFI21XXX
+  swift8: RAOKFI21
+  branch_name: Head Office
+  branch_address: Kuopiontie 32 77700 Rautalampi
+  branch_code: XXX
+  city: ''
+  country: Finland
+- name: Reisjärven Osuuspankki
+  swift: REOSFI21XXX
+  swift8: REOSFI21
+  branch_name: Head Office
+  branch_address: Kirkkotie 8 85900 Reisjarvi
+  branch_code: XXX
+  city: ''
+  country: Finland
+- name: Resurs Bank Ab Suomen Sivuliike
+  swift: RESKFIH1XXX
+  swift8: RESKFIH1
+  branch_name: Head Office
+  branch_address: Insinoorinkatu 3 B 00880 Helsinki
+  branch_code: XXX
+  city: ''
+  country: Finland
+- name: Riistaveden Osuuspankki
+  swift: RIOSFI21XXX
+  swift8: RIOSFI21
+  branch_name: Head Office
+  branch_address: Keskustie 20 71160 Riistavesi
+  branch_code: XXX
+  city: ''
+  country: Finland
+- name: Ruoveden Osuuspankki
+  swift: RUOSFI21XXX
+  swift8: RUOSFI21
+  branch_name: Head Office
+  branch_address: Ruovedentie 13 34600 Ruovesi
+  branch_code: XXX
+  city: ''
+  country: Finland
+- name: Ruukin Osuuspankki
+  swift: RUOUFI21XXX
+  swift8: RUOUFI21
+  branch_name: Head Office
+  branch_address: Siikasavontie 3 92400 Ruukki
+  branch_code: XXX
+  city: ''
+  country: Finland
+- name: Rymättylän Osuuspankki
+  swift: RYOUFI21XXX
+  swift8: RYOUFI21
+  branch_name: Head Office
+  branch_address: Viluntie 3 21140 Rymattyla
+  branch_code: XXX
+  city: ''
+  country: Finland
+- name: S-Bank Ltd
+  swift: SBANFIHHXXX
+  swift8: SBANFIHH
+  branch_name: Head Office
+  branch_address: Fleminginkatu 34 000510 Helsinki
+  branch_code: XXX
+  city: Helsinki
+  country: Finland
+- name: Säästöpankki Optia
+  swift: SAOTFI21XXX
+  swift8: SAOTFI21
+  branch_name: Head Office
+  branch_address: Savonkatu 15 74100 Iisalmi
+  branch_code: XXX
+  city: ''
+  country: Finland
+- name: Säästöpankki Sinetti
+  swift: ERSSFI21XXX
+  swift8: ERSSFI21
+  branch_name: Head Office
+  branch_address: Erajarventie 1591 35220 Erajarvi
+  branch_code: XXX
+  city: ''
+  country: Finland
+- name: Säkylän Osuuspankki
+  swift: SAOSFI21XXX
+  swift8: SAOSFI21
+  branch_name: Head Office
+  branch_address: Pyhajarventie 8 27800 Sakyla
+  branch_code: XXX
+  city: ''
+  country: Finland
+- name: Sallan Osuuspankki
+  swift: SAOUFI21XXX
+  swift8: SAOUFI21
+  branch_name: Head Office
+  branch_address: Kuusamontie 4 98900 Salla
+  branch_code: XXX
+  city: ''
+  country: Finland
+- name: Sampo Bank (Part Of Danske Bank Group)
+  swift: DABAFIHHCAP
+  swift8: DABAFIHH
+  branch_name: Danske Capital
+  branch_address: Helsinki
+  branch_code: CAP
+  city: Helsinki
+  country: Finland
+- name: Sampo Bank (Part Of Danske Bank Group)
+  swift: DABAFIHHXXX
+  swift8: DABAFIHH
+  branch_name: Head Office
+  branch_address: Hiililaiturinkuja 2 00075 Helsinki
+  branch_code: XXX
+  city: Helsinki
+  country: Finland
+- name: Satakunnan Osuuspankki
+  swift: HUOUFI21XXX
+  swift8: HUOUFI21
+  branch_name: Head Office
+  branch_address: Risto Rytin Katu 31 32700 Huittinen
+  branch_code: XXX
+  city: ''
+  country: Finland
+- name: Satapirkan Osuuspankki
+  swift: PAOIFI21XXX
+  swift8: PAOIFI21
+  branch_name: Head Office
+  branch_address: Keskuskatu 8 39700 Parkano
+  branch_code: XXX
+  city: ''
+  country: Finland
+- name: Savitaipaleen Osuuspankki
+  swift: SAUPFI21XXX
+  swift8: SAUPFI21
+  branch_name: Head Office
+  branch_address: Kievarintie 1 54800 Savitaipale
+  branch_code: XXX
+  city: ''
+  country: Finland
+- name: Seb Kort Bank Ab, Helsingin Sivuliike
+  swift: SKHSFI21XXX
+  swift8: SKHSFI21
+  branch_name: Head Office
+  branch_address: Unionsgatan 30 00100 Helsingfors
+  branch_code: XXX
+  city: ''
+  country: Finland
+- name: Sievin Osuuspankki
+  swift: SIOUFI21XXX
+  swift8: SIOUFI21
+  branch_name: Head Office
+  branch_address: Haikolantie 20 85410 Sievi
+  branch_code: XXX
+  city: ''
+  country: Finland
+- name: Siikajoen Osuuspankki
+  swift: SIOKFI21XXX
+  swift8: SIOKFI21
+  branch_name: Head Office
+  branch_address: Kauppatie 5 92320 Siikajoki
+  branch_code: XXX
+  city: ''
+  country: Finland
+- name: Siikalatvan Osuuspankki
+  swift: SIONFI21XXX
+  swift8: SIONFI21
+  branch_name: Head Office
+  branch_address: Paavolantie 15 92500 Rantsila
+  branch_code: XXX
+  city: ''
+  country: Finland
+- name: Siilinjärven Osuuspankki
+  swift: SIOSFI21XXX
+  swift8: SIOSFI21
+  branch_name: Head Office
+  branch_address: Kuiluntie 5 71800 Siilinjarvi
+  branch_code: XXX
+  city: ''
+  country: Finland
+- name: Simpeleen Osuuspankki
+  swift: SIOIFI21XXX
+  swift8: SIOIFI21
+  branch_name: Head Office
+  branch_address: Pankkikatu 1 56800 Simpele
+  branch_code: XXX
+  city: ''
+  country: Finland
+- name: Skandinaviska Enskilda Banken
+  swift: ESSEFIHXXXX
+  swift8: ESSEFIHX
+  branch_name: Head Office
+  branch_address: Unionsgatan 30 00100 Helsinki
+  branch_code: XXX
+  city: Helsinki
+  country: Finland
+- name: Someron Säästöpankki
+  swift: SOAOFI21XXX
+  swift8: SOAOFI21
+  branch_name: Head Office
+  branch_address: Joensuuntie 27 31400 Somero
+  branch_code: XXX
+  city: ''
+  country: Finland
+- name: Sonkajärven Osuuspankki
+  swift: SOOPFI21XXX
+  swift8: SOOPFI21
+  branch_name: Head Office
+  branch_address: Rutakontie 36 74300 Sonkajarvi
+  branch_code: XXX
+  city: ''
+  country: Finland
+- name: Sotkamon Osuuspankki
+  swift: SOOAFI21XXX
+  swift8: SOOAFI21
+  branch_name: Head Office
+  branch_address: Kainuuntie 22 88600 Sotkamo
+  branch_code: XXX
+  city: ''
+  country: Finland
+- name: Stadshypotek Ab (Publ), Filialverksamheten I Finland
+  swift: SJSIFIH1XXX
+  swift8: SJSIFIH1
+  branch_name: Head Office
+  branch_address: Aleksanterinkatu 11 00100 Helsinki
+  branch_code: XXX
+  city: ''
+  country: Finland
+- name: State Treasury
+  swift: VKSKFIHHXXX
+  swift8: VKSKFIHH
+  branch_name: Head Office
+  branch_address: Siltasaarenkatu 18-20 a 54 Helsinki
+  branch_code: XXX
+  city: Helsinki
+  country: Finland
+- name: Sulkavan Osuuspankki
+  swift: SUOUFI21XXX
+  swift8: SUOUFI21
+  branch_name: Head Office
+  branch_address: Alanteentie 28 58701 Sulkava
+  branch_code: XXX
+  city: ''
+  country: Finland
+- name: Suomen Hypoteekkiyhdistys
+  swift: SHMSFIH1XXX
+  swift8: SHMSFIH1
+  branch_name: Head Office
+  branch_address: Pl 509 00101 Helsinki
+  branch_code: XXX
+  city: ''
+  country: Finland
+- name: Suomen Pankki - Finlands Bank
+  swift: SPFBFIHH1A1
+  swift8: SPFBFIHH
+  branch_name: Target2 Pmj-as Dts
+  branch_address: Helsinki
+  branch_code: 1A1
+  city: Helsinki
+  country: Finland
+- name: Suomen Pankki - Finlands Bank
+  swift: SPFBFIHH1A2
+  swift8: SPFBFIHH
+  branch_name: Target2 Rahahuolto
+  branch_address: Helsinki
+  branch_code: 1A2
+  city: Helsinki
+  country: Finland
+- name: Suomen Pankki - Finlands Bank
+  swift: SPFBFIHHASI
+  swift8: SPFBFIHH
+  branch_name: Target2 Pmj-as Nts
+  branch_address: Helsinki
+  branch_code: ASI
+  city: Helsinki
+  country: Finland
+- name: Suomen Pankki - Finlands Bank
+  swift: SPFBFIHHCON
+  swift8: SPFBFIHH
+  branch_name: Helsinki
+  branch_address: Helsinki
+  branch_code: CON
+  city: Helsinki
+  country: Finland
+- name: Suomen Pankki - Finlands Bank
+  swift: SPFBFIHHECB
+  swift8: SPFBFIHH
+  branch_name: Ecb Operations
+  branch_address: Helsinki
+  branch_code: ECB
+  city: Helsinki
+  country: Finland
+- name: Suomen Pankki - Finlands Bank
+  swift: SPFBFIHHEUX
+  swift8: SPFBFIHH
+  branch_name: Target2 Ncbecb Internal
+  branch_address: Helsinki
+  branch_code: EUX
+  city: Helsinki
+  country: Finland
+- name: Suomen Pankki - Finlands Bank
+  swift: SPFBFIHHRMA
+  swift8: SPFBFIHH
+  branch_name: Target2 Rma Internal
+  branch_address: Helsinki
+  branch_code: RMA
+  city: Helsinki
+  country: Finland
+- name: Suomen Pankki - Finlands Bank
+  swift: SPFBFIHHSFA
+  swift8: SPFBFIHH
+  branch_name: Target2 Sfa Internal
+  branch_address: Helsinki
+  branch_code: SFA
+  city: Helsinki
+  country: Finland
+- name: Suomen Pankki - Finlands Bank
+  swift: SPFBFIHHSFM
+  swift8: SPFBFIHH
+  branch_name: Target2 Sfm Internal
+  branch_address: Helsinki
+  branch_code: SFM
+  city: Helsinki
+  country: Finland
+- name: Suomen Pankki - Finlands Bank
+  swift: SPFBFIHHXXX
+  swift8: SPFBFIHH
+  branch_name: Head Office
+  branch_address: Snellmaninaukio 00170 Helsinki
+  branch_code: XXX
+  city: Helsinki
+  country: Finland
+- name: Suomenniemen Säästöpankki
+  swift: SUSSFI21XXX
+  swift8: SUSSFI21
+  branch_name: Head Office
+  branch_address: Kirkkokylantie 18 52830 Suomenniemi
+  branch_code: XXX
+  city: ''
+  country: Finland
+- name: Suomenselän Osuuspankki
+  swift: PYOUFI21XXX
+  swift8: PYOUFI21
+  branch_name: Head Office
+  branch_address: Ollintie 14 86800 Pyhasalmi
+  branch_code: XXX
+  city: ''
+  country: Finland
+- name: Suomussalmen Osuuspankki
+  swift: SUOPFI21XXX
+  swift8: SUOPFI21
+  branch_name: Head Office
+  branch_address: Keskuskatu 3 89600 Suomussalmi
+  branch_code: XXX
+  city: ''
+  country: Finland
+- name: Suonenjoen Osuuspankki
+  swift: SUOAFI21XXX
+  swift8: SUOAFI21
+  branch_name: Head Office
+  branch_address: Rautalammintie 12 77600 Suonenjoki
+  branch_code: XXX
+  city: ''
+  country: Finland
+- name: Suupohjan Osuuspankki
+  swift: SUOSFI21XXX
+  swift8: SUOSFI21
+  branch_name: Head Office
+  branch_address: Topeeka 31 61800 Kauhajoki
+  branch_code: XXX
+  city: ''
+  country: Finland
+- name: Suur-Savon Osuuspankki
+  swift: SUONFI21XXX
+  swift8: SUONFI21
+  branch_name: Head Office
+  branch_address: Porrassalmenkatu 19 50101 Mikkeli
+  branch_code: XXX
+  city: ''
+  country: Finland
+- name: Svea Ekonomi Ab, Filial I Finland
+  swift: SEIDFIH1XXX
+  swift8: SEIDFIH1
+  branch_name: No branch name
+  branch_address: No branch address
+  branch_code: XXX
+  city: ''
+  country: Finland
+- name: Svenska Handelsbanken
+  swift: HANDFIHHCUS
+  swift8: HANDFIHH
+  branch_name: Nordic Custody Services
+  branch_address: Aleksanterinkatu 11 00100 Helsinki
+  branch_code: CUS
+  city: Helsinki
+  country: Finland
+- name: Svenska Handelsbanken
+  swift: HANDFIHHXXX
+  swift8: HANDFIHH
+  branch_name: Head Office
+  branch_address: Aleksanterinkatu 11 00100 Helsinki
+  branch_code: XXX
+  city: Helsinki
+  country: Finland
+- name: Swedbank Ab
+  swift: SWEDFIHHXXX
+  swift8: SWEDFIHH
+  branch_name: Head Office
+  branch_address: Mannerheimintie 14b 00101 Helsinki
+  branch_code: XXX
+  city: Helsinki
+  country: Finland
+- name: Sysmän Osuuspankki
+  swift: SYOSFI21XXX
+  swift8: SYOSFI21
+  branch_name: Head Office
+  branch_address: Sysmantie 36 19700 Sysma
+  branch_code: XXX
+  city: ''
+  country: Finland
+- name: Sysmän Säästöpankki
+  swift: SYSAFI21XXX
+  swift8: SYSAFI21
+  branch_name: Head Office
+  branch_address: Sysmantie 38 19700 Sysma
+  branch_code: XXX
+  city: ''
+  country: Finland
+- name: Taivalkosken Osuuspankki
+  swift: TAOAFI21XXX
+  swift8: TAOAFI21
+  branch_name: Head Office
+  branch_address: Talonpojantie 7 93400 Taivalkoski
+  branch_code: XXX
+  city: ''
+  country: Finland
+- name: Taivassalon Osuuspankki
+  swift: TAOUFI21XXX
+  swift8: TAOUFI21
+  branch_name: Head Office
+  branch_address: Ihattulantie 5 23310 Taivassalo
+  branch_code: XXX
+  city: ''
+  country: Finland
+- name: Tampereen Seudun Osuuspankki
+  swift: TAEOFI21XXX
+  swift8: TAEOFI21
+  branch_name: Head Office
+  branch_address: Op-Private Tampere 33100 Tampere
+  branch_code: XXX
+  city: ''
+  country: Finland
+- name: Tapiola Asset Management Ltd
+  swift: TAPLFI21XXX
+  swift8: TAPLFI21
+  branch_name: Head Office
+  branch_address: Revontulentie 7 02100 Tapiola
+  branch_code: XXX
+  city: ''
+  country: Finland
+- name: Tarvasjoen Osuuspankki
+  swift: TAOPFI21XXX
+  swift8: TAOPFI21
+  branch_name: Head Office
+  branch_address: Hameen Harkatie 638 B 21450 Tarvasjoki
+  branch_code: XXX
+  city: ''
+  country: Finland
+- name: Teliasonera Finans Finland, Filial Till Teliasonera Finans Ab
+  swift: TFFFFI21XXX
+  swift8: TFFFFI21
+  branch_name: Head Office
+  branch_address: Teollisuuskatu 13 00510 Helsingfors
+  branch_code: XXX
+  city: ''
+  country: Finland
+- name: Tervolan Osuuspankki
+  swift: TEOUFI21XXX
+  swift8: TEOUFI21
+  branch_name: Head Office
+  branch_address: Keskustie 95 95300 Tervola
+  branch_code: XXX
+  city: ''
+  country: Finland
+- name: Tervon Osuuspankki
+  swift: TEOSFI21XXX
+  swift8: TEOSFI21
+  branch_name: Head Office
+  branch_address: Urheilutie 1 72210 Tervo
+  branch_code: XXX
+  city: ''
+  country: Finland
+- name: Tf Bank Ab, Filial Finland
+  swift: FIFDFIH1XXX
+  swift8: FIFDFIH1
+  branch_name: No branch name
+  branch_address: No branch address
+  branch_code: XXX
+  city: ''
+  country: Finland
+- name: Tiistenjoen Osuuspankki
+  swift: TIOSFI21XXX
+  swift8: TIOSFI21
+  branch_name: Head Office
+  branch_address: Kuortaneentie 1506 62165 Tiistenjoki
+  branch_code: XXX
+  city: ''
+  country: Finland
+- name: Toholammin Osuuspankki
+  swift: TOOSFI21XXX
+  swift8: TOOSFI21
+  branch_name: Head Office
+  branch_address: Ullavantie 1 69300 Toholampi
+  branch_code: XXX
+  city: ''
+  country: Finland
+- name: Tornion Osuuspankki
+  swift: TOOPFI21XXX
+  swift8: TOOPFI21
+  branch_name: Head Office
+  branch_address: Hallituskatu 14 95400 Tornio
+  branch_code: XXX
+  city: ''
+  country: Finland
+- name: Turun Seudun Osuuspankki
+  swift: TUSUFI21XXX
+  swift8: TUSUFI21
+  branch_name: Head Office
+  branch_address: Maariankatu 4 20101 Turku
+  branch_code: XXX
+  city: ''
+  country: Finland
+- name: Tuupovaaran Osuuspankki
+  swift: TUOUFI21XXX
+  swift8: TUOUFI21
+  branch_name: Head Office
+  branch_address: Rekijoentie 3 82730 Tuupovaara
+  branch_code: XXX
+  city: ''
+  country: Finland
+- name: Tuusniemen Osuuspankki
+  swift: TUOSFI21XXX
+  swift8: TUOSFI21
+  branch_name: Head Office
+  branch_address: Keskitie 26 71200 Tuusniemi
+  branch_code: XXX
+  city: ''
+  country: Finland
+- name: Tyrnävän Osuuspankki
+  swift: TYOSFI21XXX
+  swift8: TYOSFI21
+  branch_name: Head Office
+  branch_address: Vanhatie 14 1 E 91800 Tyrnava
+  branch_code: XXX
+  city: ''
+  country: Finland
+- name: Ullavan Osuuspankki
+  swift: ULOSFI21XXX
+  swift8: ULOSFI21
+  branch_name: Head Office
+  branch_address: Ullavantie 675 68370 Ullava
+  branch_code: XXX
+  city: ''
+  country: Finland
+- name: Upm-Kymmene Corporation
+  swift: UPMKFIHHXXX
+  swift8: UPMKFIHH
+  branch_name: Head Office
+  branch_address: Etelaesplanadi 2 00101 Helsinki
+  branch_code: XXX
+  city: Helsinki
+  country: Finland
+- name: Urjalan Osuuspankki
+  swift: UROSFI21XXX
+  swift8: UROSFI21
+  branch_name: Head Office
+  branch_address: Kisatie 2 31760 Urjala
+  branch_code: XXX
+  city: ''
+  country: Finland
+- name: Utajärven Osuuspankki
+  swift: UTOSFI21XXX
+  swift8: UTOSFI21
+  branch_name: Head Office
+  branch_address: Vanhatie 35 91600 Utajarvi
+  branch_code: XXX
+  city: ''
+  country: Finland
+- name: Valkeakosken Osuuspankki
+  swift: VAOAFI21XXX
+  swift8: VAOAFI21
+  branch_name: Head Office
+  branch_address: Valtakatu 9-11 37601 Valkeakoski
+  branch_code: XXX
+  city: ''
+  country: Finland
+- name: Vammalan Seudun Osuuspankki
+  swift: VASOFI21XXX
+  swift8: VASOFI21
+  branch_name: Head Office
+  branch_address: Puistokatu 2 38200 Sastamala
+  branch_code: XXX
+  city: ''
+  country: Finland
+- name: Vampulan Osuuspankki
+  swift: VAONFI21XXX
+  swift8: VAONFI21
+  branch_name: Head Office
+  branch_address: Sallilantie 49 32610 Vampula
+  branch_code: XXX
+  city: ''
+  country: Finland
+- name: Vasa Andelsbank
+  swift: VAOPFI21XXX
+  swift8: VAOPFI21
+  branch_name: Head Office
+  branch_address: Alatori 65100 Vaasa
+  branch_code: XXX
+  city: ''
+  country: Finland
+- name: Vaskion Osuuspankki
+  swift: VAOSFI21XXX
+  swift8: VAOSFI21
+  branch_name: Head Office
+  branch_address: Kauppatie 15 25260 Vaskio
+  branch_code: XXX
+  city: ''
+  country: Finland
+- name: Vehmersalmen Osuuspankki
+  swift: VEOSFI21XXX
+  swift8: VEOSFI21
+  branch_name: Head Office
+  branch_address: Vehmersalmentie 34 71310 Vehmersalmi
+  branch_code: XXX
+  city: ''
+  country: Finland
+- name: Vesannon Osuuspankki
+  swift: VEOUFI21XXX
+  swift8: VEOUFI21
+  branch_name: Head Office
+  branch_address: Keskustie 7 72300 Vesanto
+  branch_code: XXX
+  city: ''
+  country: Finland
+- name: Vetelin Osuuspankki
+  swift: VEOPFI21XXX
+  swift8: VEOPFI21
+  branch_name: Head Office
+  branch_address: Koulutie 84 69700 Veteli
+  branch_code: XXX
+  city: ''
+  country: Finland
+- name: Vetelin Ylipään Osuuspankki
+  swift: VEYOFI21XXX
+  swift8: VEYOFI21
+  branch_name: Head Office
+  branch_address: Finnilantie 9 69820 Rayrinki
+  branch_code: XXX
+  city: ''
+  country: Finland
+- name: Vihannin Osuuspankki
+  swift: VIOSFI21XXX
+  swift8: VIOSFI21
+  branch_name: Head Office
+  branch_address: Asematie 9 86400 Vihanti
+  branch_code: XXX
+  city: ''
+  country: Finland
+- name: Vimpelin Osuuspankki
+  swift: VIOUFI21XXX
+  swift8: VIOUFI21
+  branch_name: Head Office
+  branch_address: Patruunantie 14 62800 Vimpeli
+  branch_code: XXX
+  city: ''
+  country: Finland
+- name: Virtain Osuuspankki
+  swift: VIOAFI21XXX
+  swift8: VIOAFI21
+  branch_name: Head Office
+  branch_address: Virtaintie 40 34800 Virrat
+  branch_code: XXX
+  city: ''
+  country: Finland
+- name: Yläneen Osuuspankki
+  swift: YLOSFI21XXX
+  swift8: YLOSFI21
+  branch_name: Head Office
+  branch_address: Haverintie 6 a 21900 Ylane
+  branch_code: XXX
+  city: ''
+  country: Finland
+- name: Ylihärmän Säästöpankki
+  swift: YLSAFI21XXX
+  swift8: YLSAFI21
+  branch_name: Head Office
+  branch_address: Paamajantie 17 62375 Yliharma
+  branch_code: XXX
+  city: ''
+  country: Finland
+- name: Ylitornion Osuuspankki
+  swift: YLOUFI21XXX
+  swift8: YLOUFI21
+  branch_name: Head Office
+  branch_address: Alkkulanraitti 52 95600 Ylitornio
+  branch_code: XXX
+  city: ''
+  country: Finland
+- name: Ylivieskan Osuuspankki
+  swift: YLOPFI21XXX
+  swift8: YLOPFI21
+  branch_name: Head Office
+  branch_address: Kauppakatu 11 84100 Ylivieska
+  branch_code: XXX
+  city: ''
+  country: Finland
+- name: Ypäjän Osuuspankki
+  swift: YPOSFI21XXX
+  swift8: YPOSFI21
+  branch_name: Head Office
+  branch_address: Kurjenmaentie 2 32100 Ypaja
+  branch_code: XXX
+  city: ''
+  country: Finland
+- name: Yttermark Sparbank
+  swift: YTSPFI21XXX
+  swift8: YTSPFI21
+  branch_name: Head Office
+  branch_address: Vasavagen 742 64220 Narpes
+  branch_code: XXX
+  city: ''
+  country: Finland
+- name: A.g. Securities
+  swift: AGPAFIH1XXX
+  swift8: AGPAFIH1
+  branch_name: Head Office
+  branch_address: 44 Aleksanterinkatu 00101 Helsinki
+  branch_code: XXX
+  city: Helsinki
+  country: Finland
+- name: Ahtarin Osuuspankki
+  swift: AHOSFI21XXX
+  swift8: AHOSFI21
+  branch_name: Head Office
+  branch_address: Ostolantie 15 63700 Ahtari
+  branch_code: XXX
+  city: Ahtari
+  country: Finland
+- name: Aktia Asset Management Oy Ab
+  swift: AKAMFIH1XXX
+  swift8: AKAMFIH1
+  branch_name: Head Office
+  branch_address: Kalevagatan 4 00100 Helsinki
+  branch_code: XXX
+  city: Helsinki
+  country: Finland
+- name: Alexandria Pankkiiriliike Oyj
+  swift: ALPYFIH1XXX
+  swift8: ALPYFIH1
+  branch_name: Head Office
+  branch_address: Etelaesplanadi 22 a 00130 Helsinki
+  branch_code: XXX
+  city: Helsinki
+  country: Finland
+- name: Alfred Berg Omaisuudenhoito Suomi Oy
+  swift: ABOOFIH1XXX
+  swift8: ABOOFIH1
+  branch_name: Head Office
+  branch_address: Pohjoisesplanadi 37 a 00100 Helsinki
+  branch_code: XXX
+  city: Helsinki
+  country: Finland
+- name: Alfred Berg Pankkiiriliike
+  swift: ALFFFIH1XXX
+  swift8: ALFFFIH1
+  branch_name: Head Office
+  branch_address: Kluwikatu 3 00100 Helsinki
+  branch_code: XXX
+  city: Helsinki
+  country: Finland
+- name: Aros Securities Oy
+  swift: ABBOFIH1XXX
+  swift8: ABBOFIH1
+  branch_name: Head Office
+  branch_address: Kaivokatu 8 00100 Helsinki
+  branch_code: XXX
+  city: Helsinki
+  country: Finland
+- name: As Lhv Pank Finnish Branch
+  swift: LPFBFIH1XXX
+  swift8: LPFBFIH1
+  branch_name: Head Office
+  branch_address: Mannerheimintie 40 00100 Helsinki
+  branch_code: XXX
+  city: Helsinki
+  country: Finland
+- name: Aurator Varainhoito Oy-aurator Asset Management
+  swift: AVAAFI21XXX
+  swift8: AVAAFI21
+  branch_name: Head Office
+  branch_address: Lantinen Rantakatu 27 a 2 20100 Turku
+  branch_code: XXX
+  city: Turku
+  country: Finland
+- name: Basware Corporation
+  swift: BAWCFI21XXX
+  swift8: BAWCFI21
+  branch_name: Head Office
+  branch_address: Linnoitustie 2 02601 Espoo
+  branch_code: XXX
+  city: Espoo
+  country: Finland
+- name: Cargotec Oyj
+  swift: CTECFIHHXXX
+  swift8: CTECFIHH
+  branch_name: Head Office
+  branch_address: Porkkalankatu 5 00180 Helsinki
+  branch_code: XXX
+  city: Helsinki
+  country: Finland
+- name: Carnegie Asset Management Finland Ltd
+  swift: CRTEFIH1XXX
+  swift8: CRTEFIH1
+  branch_name: Head Office
+  branch_address: Keskuskatu 1 B 00100 Helsinki
+  branch_code: XXX
+  city: Helsinki
+  country: Finland
+- name: Celeres Rahastoyhtio Oy
+  swift: CERHFIH1XXX
+  swift8: CERHFIH1
+  branch_name: Head Office
+  branch_address: Mikonkatu 9 00100 Helsinki
+  branch_code: XXX
+  city: Helsinki
+  country: Finland
+- name: Conventum Securities Limited
+  swift: CVMLFIH1XXX
+  swift8: CVMLFIH1
+  branch_name: Head Office
+  branch_address: Kaivolatu 12a 00100 Helsinki
+  branch_code: XXX
+  city: Helsinki
+  country: Finland
+- name: Danske Bank A/s Helsinki Branch
+  swift: PROEFIH1XXX
+  swift8: PROEFIH1
+  branch_name: Head Office
+  branch_address: Unioninkatu 22 00130 Helsinki
+  branch_code: XXX
+  city: Helsinki
+  country: Finland
+- name: Danske Bank Plc
+  swift: DABAFIHHCLS
+  swift8: DABAFIHH
+  branch_name: Cls Services
+  branch_address: No branch address
+  branch_code: CLS
+  city: Helsinki
+  country: Finland
+- name: Digia Financial Software Ltd
+  swift: DIFSFIH1XXX
+  swift8: DIFSFIH1
+  branch_name: Head Office
+  branch_address: Hiomontie 19 00380 Helsinki
+  branch_code: XXX
+  city: Helsinki
+  country: Finland
+- name: E. Ohman J Or Fondbolag Finland Ab
+  swift: OJFAFIH1XXX
+  swift8: OJFAFIH1
+  branch_name: Head Office
+  branch_address: Pietarinkuja 3 00140 Helsinki
+  branch_code: XXX
+  city: Helsinki
+  country: Finland
+- name: Elcoteq Se
+  swift: ELCOFI21XXX
+  swift8: ELCOFI21
+  branch_name: Head Office
+  branch_address: Sinimaentie 8b 02631 Espoo
+  branch_code: XXX
+  city: Espoo
+  country: Finland
+- name: Elite Private Banking Ltd
+  swift: ELPRFIH1XXX
+  swift8: ELPRFIH1
+  branch_name: Head Office
+  branch_address: Etelaesplanadi 24 00130 Helsinki
+  branch_code: XXX
+  city: Helsinki
+  country: Finland
+- name: Emissions Trading Registry Of Finland
+  swift: ETRFFIH1XXX
+  swift8: ETRFFIH1
+  branch_name: Head Office
+  branch_address: Energy Market Authority 00500 Helsinki
+  branch_code: XXX
+  city: Helsinki
+  country: Finland
+- name: Eq Asset Management Oy
+  swift: ASNGFIH1XXX
+  swift8: ASNGFIH1
+  branch_name: Head Office
+  branch_address: Mannerheiminaukio 1a 00100 Helsinki
+  branch_code: XXX
+  city: Helsinki
+  country: Finland
+- name: Eq Pankki Oy
+  swift: EQPIFIH1XXX
+  swift8: EQPIFIH1
+  branch_name: Head Office
+  branch_address: Mannerheimintie 4 100 Helsinki
+  branch_code: XXX
+  city: Helsinki
+  country: Finland
+- name: Eq Turku Omaisuudenhoito Oy
+  swift: TUOMFI21XXX
+  swift8: TUOMFI21
+  branch_name: Head Office
+  branch_address: Eerikinkatu 13c 20100 Turku
+  branch_code: XXX
+  city: Turku
+  country: Finland
+- name: Erik Selin Bankers Ltd
+  swift: ERSBFIH1XXX
+  swift8: ERSBFIH1
+  branch_name: Head Office
+  branch_address: Pleni Roberti Nkatu 7 00130 Helsinki
+  branch_code: XXX
+  city: Helsinki
+  country: Finland
+- name: Estlander And Partners Ltd
+  swift: ESPRFIH1XXX
+  swift8: ESPRFIH1
+  branch_name: Head Office
+  branch_address: Pohjoisesplanadi 25 B 00100 Helsinki
+  branch_code: XXX
+  city: Helsinki
+  country: Finland
+- name: Estlander And Ronnlund Financial Products Oy
+  swift: ERFPFI21XXX
+  swift8: ERFPFI21
+  branch_name: Head Office
+  branch_address: Alatori 1a 65100 Vaasa
+  branch_code: XXX
+  city: Vaasa
+  country: Finland
+- name: Etela-karjalan Saastopankki
+  swift: ETSAFI21XXX
+  swift8: ETSAFI21
+  branch_name: Head Office
+  branch_address: Valtakatu 32 53100 Lappeenranta
+  branch_code: XXX
+  city: Lappeenranta
+  country: Finland
+- name: Etela-savon Osuuspankki
+  swift: ETOUFI21XXX
+  swift8: ETOUFI21
+  branch_name: Head Office
+  branch_address: Porrassalmenkatu 19 50101 Mikkeli
+  branch_code: XXX
+  city: Mikkeli
+  country: Finland
+- name: Etera Mutual Pension Ins. Co.
+  swift: EMPIFI21XXX
+  swift8: EMPIFI21
+  branch_name: Head Office
+  branch_address: Palkkatilanportti, 1 Helsinki
+  branch_code: XXX
+  city: Helsinki
+  country: Finland
+- name: Fa Solutions Oy
+  swift: SOLTFIH1XXX
+  swift8: SOLTFIH1
+  branch_name: Head Office
+  branch_address: Mannerheimintie 8 00100 Helsinki
+  branch_code: XXX
+  city: Helsinki
+  country: Finland
+- name: Fennia Asset Management Ltd
+  swift: FEANFIH1XXX
+  swift8: FEANFIH1
+  branch_name: Head Office
+  branch_address: Televisiokatu 1 Helsinki
+  branch_code: XXX
+  city: Helsinki
+  country: Finland
+- name: Fim Asset Management Ltd
+  swift: FMAMFIH1XXX
+  swift8: FMAMFIH1
+  branch_name: Head Office
+  branch_address: Pohjoisesplanadi 33 a 00100 Helsinki
+  branch_code: XXX
+  city: Helsinki
+  country: Finland
+- name: Fim Bank Ltd
+  swift: FISEFIHHXXX
+  swift8: FISEFIHH
+  branch_name: Head Office
+  branch_address: Pohjoisesplanadi 33 a 00100 Helsinki
+  branch_code: XXX
+  city: Helsinki
+  country: Finland
+- name: Finlandia Group Oyj
+  swift: FIGYFIH1XXX
+  swift8: FIGYFIH1
+  branch_name: Head Office
+  branch_address: Aleksanterinkatu 44 00100 Helsinki
+  branch_code: XXX
+  city: Helsinki
+  country: Finland
+- name: Forssan Seudun Osuuspankki
+  swift: FOSOFI21XXX
+  swift8: FOSOFI21
+  branch_name: Head Office
+  branch_address: Sibeliuksenkatu 3 30101 Forssa
+  branch_code: XXX
+  city: Forssa
+  country: Finland
+- name: Fourton Oy
+  swift: FOURFI21XXX
+  swift8: FOURFI21
+  branch_name: Head Office
+  branch_address: Tapiolan Keskustorni 13.Krs 02100 Espoo
+  branch_code: XXX
+  city: Espoo
+  country: Finland
+- name: Front Capital Oy
+  swift: FRCPFIH1XXX
+  swift8: FRCPFIH1
+  branch_name: Head Office
+  branch_address: Aleksanterinkatu 48 a 00100 Helsinki
+  branch_code: XXX
+  city: Helsinki
+  country: Finland
+- name: Fsb Oy Pankkiiriliike
+  swift: FSOPFIH1XXX
+  swift8: FSOPFIH1
+  branch_name: Head Office
+  branch_address: Yrjonkatu 30 a 00100 Helsinki
+  branch_code: XXX
+  city: Helsinki
+  country: Finland
+- name: Glitnir Alternative Investments Oy
+  swift: GLAIFIH1XXX
+  swift8: GLAIFIH1
+  branch_name: Head Office
+  branch_address: Pohjoisesplanadi 33 a 00100 Helsinki
+  branch_code: XXX
+  city: Helsinki
+  country: Finland
+- name: Haapajarven Osuuspankki
+  swift: HAOUFI21XXX
+  swift8: HAOUFI21
+  branch_name: Head Office
+  branch_address: Puistokatu 35 85800 Haapajarvi
+  branch_code: XXX
+  city: Haapajarvi
+  country: Finland
+- name: Hameenlinnan Seudun Osuuspankki
+  swift: HAEOFI21XXX
+  swift8: HAEOFI21
+  branch_name: Head Office
+  branch_address: Raatihuoneenkatu 21 13100 Hameenlinna
+  branch_code: XXX
+  city: Hameenlinna
+  country: Finland
+- name: Haminan Seudun Osuuspankki
+  swift: HAEPFI21XXX
+  swift8: HAEPFI21
+  branch_name: Head Office
+  branch_address: Puistokatu 6 49400 Hamina
+  branch_code: XXX
+  city: Hamina
+  country: Finland
+- name: Harjavallan Osuuspankki
+  swift: HAOKFI21XXX
+  swift8: HAOKFI21
+  branch_name: Head Office
+  branch_address: Harjavallankatu 13 29200 Harjavalta
+  branch_code: XXX
+  city: Harjavalta
+  country: Finland
+- name: Head Asset Management Oy
+  swift: HEAAFIH1XXX
+  swift8: HEAAFIH1
+  branch_name: Head Office
+  branch_address: Pohjoisesplanadi 25 a 8 00100 Helsinki
+  branch_code: XXX
+  city: Helsinki
+  country: Finland
+- name: Hellanmaan Osuuspankki
+  swift: HEOSFI21XXX
+  swift8: HEOSFI21
+  branch_name: Head Office
+  branch_address: Hellanmaantie 422 62130 Lapua
+  branch_code: XXX
+  city: Lapua
+  country: Finland
+- name: Helsinki Capital Partners Rahastoyhtio Oy
+  swift: HCPRFIH1XXX
+  swift8: HCPRFIH1
+  branch_name: No branch name
+  branch_address: No branch address
+  branch_code: XXX
+  city: Helsinki
+  country: Finland
+- name: Huhtamon Osuuspankki
+  swift: HUOSFI21XXX
+  swift8: HUOSFI21
+  branch_name: Head Office
+  branch_address: Kangastie 1298 32770 Huhtamo
+  branch_code: XXX
+  city: Huhtamo
+  country: Finland
+- name: Icecapital Asset Management Ltd
+  swift: ICSNFIH1XXX
+  swift8: ICSNFIH1
+  branch_name: Head Office
+  branch_address: Kluuvikatu 3 00100 Helsinki
+  branch_code: XXX
+  city: Helsinki
+  country: Finland
+- name: Icecapital Markets Ltd
+  swift: ICSUFIH1XXX
+  swift8: ICSUFIH1
+  branch_name: Head Office
+  branch_address: Kluuvikatu 3 00100 Helsinki
+  branch_code: XXX
+  city: Helsinki
+  country: Finland
+- name: If P And C Insurance Ltd
+  swift: IFPCFIH1XXX
+  swift8: IFPCFIH1
+  branch_name: Head Office
+  branch_address: Niittyportti 4 00220 Espoo
+  branch_code: XXX
+  city: Espoo
+  country: Finland
+- name: Investa Asset Management
+  swift: INATFIH1XXX
+  swift8: INATFIH1
+  branch_name: Head Office
+  branch_address: Bulevardi 7 00120 Helsinki
+  branch_code: XXX
+  city: Helsinki
+  country: Finland
+- name: Jam Advisors Ltd
+  swift: JAADFIH1XXX
+  swift8: JAADFIH1
+  branch_name: Head Office
+  branch_address: Bulevardi 6 a 7 00120 Helsinki
+  branch_code: XXX
+  city: Helsinki
+  country: Finland
+- name: Keikyan Osuuspankki
+  swift: KESKFI21XXX
+  swift8: KESKFI21
+  branch_name: Head Office
+  branch_address: Paatie 16 32740 Sastamala
+  branch_code: XXX
+  city: Sastamala
+  country: Finland
+- name: Kemira Oyj
+  swift: KEMIFIH1XXX
+  swift8: KEMIFIH1
+  branch_name: Head Office
+  branch_address: Porkkalankatu 3 00101 Helsinki
+  branch_code: XXX
+  city: Helsinki
+  country: Finland
+- name: Keskinainen Elakevakuutusyhtioe Ilmarinen
+  swift: IMPIFIH1XXX
+  swift8: IMPIFIH1
+  branch_name: Head Office
+  branch_address: Porkkalankatu 1 Helsinki
+  branch_code: XXX
+  city: Helsinki
+  country: Finland
+- name: Kjk Capital Oy
+  swift: KJKCFIH1XXX
+  swift8: KJKCFIH1
+  branch_name: Head Office
+  branch_address: Kalevankatu 14 C 00100 Helsinki
+  branch_code: XXX
+  city: Helsinki
+  country: Finland
+- name: Koillis-savon Osuuspankki
+  swift: KOOUFI21XXX
+  swift8: KOOUFI21
+  branch_name: Head Office
+  branch_address: Nilsiantie 65 73300 Nilsia
+  branch_code: XXX
+  city: Nilsia
+  country: Finland
+- name: Kokemaen Osuuspankki
+  swift: KOOIFI21XXX
+  swift8: KOOIFI21
+  branch_name: Head Office
+  branch_address: Tulkkilantie 27 32800 Kokemaki
+  branch_code: XXX
+  city: Kokemaki
+  country: Finland
+- name: Kotkan Seudun Osuuspankki
+  swift: KOSOFI21XXX
+  swift8: KOSOFI21
+  branch_name: Head Office
+  branch_address: Kirkkokatu 14 48100 Kotka
+  branch_code: XXX
+  city: Kotka
+  country: Finland
+- name: Kouvolan Seudun Osuuspankki
+  swift: KOSUFI21XXX
+  swift8: KOSUFI21
+  branch_name: Head Office
+  branch_address: Kouvolankatu 16 45100 Kouvola
+  branch_code: XXX
+  city: Kouvola
+  country: Finland
+- name: Kuntien Elakevakuutus
+  swift: KUELFIH1XXX
+  swift8: KUELFIH1
+  branch_name: Head Office
+  branch_address: Unioninkatu 43 00101 Helsinki
+  branch_code: XXX
+  city: Helsinki
+  country: Finland
+- name: Kymijoen Osuuspankki
+  swift: KYOPFI21XXX
+  swift8: KYOPFI21
+  branch_name: Head Office
+  branch_address: Paatie 20 46900 Anjalankoski
+  branch_code: XXX
+  city: Anjalankoski
+  country: Finland
+- name: Lago Kapital Ltd
+  swift: LAGOFIH1XXX
+  swift8: LAGOFIH1
+  branch_name: Head Office
+  branch_address: Hietaniemenkatu 2, 7 Floor 00100 Helsinki
+  branch_code: XXX
+  city: Helsinki
+  country: Finland
+- name: Landsbanki Islands
+  swift: LAISFIH1XXX
+  swift8: LAISFIH1
+  branch_name: Head Office
+  branch_address: Kluuvikatu, 3 00100 Helsinki
+  branch_code: XXX
+  city: Helsinki
+  country: Finland
+- name: Langelmaen Saastopankki
+  swift: LASKFI21XXX
+  swift8: LASKFI21
+  branch_name: Head Office
+  branch_address: Lankipohjantie 13 35400 Langelmaki
+  branch_code: XXX
+  city: Langelmaki
+  country: Finland
+- name: Lapinlahden Osuuspankki
+  swift: LAPLFI21XXX
+  swift8: LAPLFI21
+  branch_name: Head Office
+  branch_address: Linnansalmentie 26 73100 Lapinlahti
+  branch_code: XXX
+  city: Lapinlahti
+  country: Finland
+- name: Lappo Andelsbank
+  swift: LAADFI21XXX
+  swift8: LAADFI21
+  branch_name: Head Office
+  branch_address: Lappo 22840 Lappo
+  branch_code: XXX
+  city: Lappo
+  country: Finland
+- name: Liqvinet Oy
+  swift: LIQVFIH1XXX
+  swift8: LIQVFIH1
+  branch_name: Head Office
+  branch_address: Aleksanterinkatu 21 00100 Helsinki
+  branch_code: XXX
+  city: Helsinki
+  country: Finland
+- name: Luvian Osuuspankki
+  swift: LUOUFI21XXX
+  swift8: LUOUFI21
+  branch_name: Head Office
+  branch_address: Kuivalahdentie 2 B 29100 Luvia
+  branch_code: XXX
+  city: Luvia
+  country: Finland
+- name: Maskun Osuuspankki
+  swift: MAUKFI21XXX
+  swift8: MAUKFI21
+  branch_name: Head Office
+  branch_address: Keskuskaari 5 21250 Masku
+  branch_code: XXX
+  city: Masku
+  country: Finland
+- name: Mb Corporate Finance Limited
+  swift: MBCFFIH1XXX
+  swift8: MBCFFIH1
+  branch_name: Head Office
+  branch_address: Fabianinkatu 23 00131 Helsinki
+  branch_code: XXX
+  city: Helsinki
+  country: Finland
+- name: Metsa Group Financial Services
+  swift: MGRPFI22XXX
+  swift8: MGRPFI22
+  branch_name: Head Office
+  branch_address: Revontulentie 6 02020 Espoo
+  branch_code: XXX
+  city: Espoo
+  country: Finland
+- name: Metso Corporation
+  swift: MTSOFIHHXXX
+  swift8: MTSOFIHH
+  branch_name: Head Office
+  branch_address: Fabianinkatu 9a 00130 Helsinki
+  branch_code: XXX
+  city: Helsinki
+  country: Finland
+- name: Municipality Finance Plc
+  swift: MUFIFIHHXXX
+  swift8: MUFIFIHH
+  branch_name: Head Office
+  branch_address: Jaakonkatu 3a 00100 Helsinki
+  branch_code: XXX
+  city: Helsinki
+  country: Finland
+- name: Narpes Sparbank
+  swift: NASKFI21XXX
+  swift8: NASKFI21
+  branch_name: Head Office
+  branch_address: Narpesvagen 13 64201 Narpes
+  branch_code: XXX
+  city: Narpes
+  country: Finland
+- name: Navi Group Oy
+  swift: NAGPFIH1XXX
+  swift8: NAGPFIH1
+  branch_name: Head Office
+  branch_address: Mikonkatu 6 00100 Helsinki
+  branch_code: XXX
+  city: Helsinki
+  country: Finland
+- name: Netposti
+  swift: NETPFIH1XXX
+  swift8: NETPFIH1
+  branch_name: Head Office
+  branch_address: Postintaival 7a 00011 Helsinki
+  branch_code: XXX
+  city: Helsinki
+  country: Finland
+- name: Nordea Aaa Government Bond Fund
+  swift: NAGBFIH1XXX
+  swift8: NAGBFIH1
+  branch_name: Head Office
+  branch_address: Keskuskatu 3a 00020 Helsinki
+  branch_code: XXX
+  city: Helsinki
+  country: Finland
+- name: Nordea Capital Protection 75
+  swift: NOAOFIH1XXX
+  swift8: NOAOFIH1
+  branch_name: Head Office
+  branch_address: Keskuskatu 3a 00020 Helsinki
+  branch_code: XXX
+  city: Helsinki
+  country: Finland
+- name: Nordea China Fund
+  swift: NOHFFIH1XXX
+  swift8: NOHFFIH1
+  branch_name: Head Office
+  branch_address: Keskuskatu 3a 00020 Helsinki
+  branch_code: XXX
+  city: Helsinki
+  country: Finland
+- name: Nordea Corporate Bond Fund
+  swift: NCBFFIH1XXX
+  swift8: NCBFFIH1
+  branch_name: Head Office
+  branch_address: Keskuskatu 3a 00020 Helsinki
+  branch_code: XXX
+  city: Helsinki
+  country: Finland
+- name: Nordea Eastern Europe Fund
+  swift: NEEFFIH1XXX
+  swift8: NEEFFIH1
+  branch_name: Head Office
+  branch_address: Keskuskatu 3a 00020 Helsinki
+  branch_code: XXX
+  city: Helsinki
+  country: Finland
+- name: Nordea Emerging Market Bond Fund
+  swift: NEMOFIH1XXX
+  swift8: NEMOFIH1
+  branch_name: Head Office
+  branch_address: Keskuskatu 3a 00020 Helsinki
+  branch_code: XXX
+  city: Helsinki
+  country: Finland
+- name: Nordea Emerging Market Equities Fund
+  swift: NEMEFIH1XXX
+  swift8: NEMEFIH1
+  branch_name: Head Office
+  branch_address: Keskuskatu 3a 00020 Helsinki
+  branch_code: XXX
+  city: Helsinki
+  country: Finland
+- name: Nordea Equity Portfolio
+  swift: NOELFIH1XXX
+  swift8: NOELFIH1
+  branch_name: Head Office
+  branch_address: Keskuskatu 3a 00020 Helsinki
+  branch_code: XXX
+  city: Helsinki
+  country: Finland
+- name: Nordea Europe Fund
+  swift: NOEUFIH1XXX
+  swift8: NOEUFIH1
+  branch_name: Head Office
+  branch_address: Keskuskatu 3a 00020 Helsinki
+  branch_code: XXX
+  city: Helsinki
+  country: Finland
+- name: Nordea European High Yield Fund
+  swift: NEHYFIH1XXX
+  swift8: NEHYFIH1
+  branch_name: Head Office
+  branch_address: Keskuskatu 3a 00020 Helsinki
+  branch_code: XXX
+  city: Helsinki
+  country: Finland
+- name: Nordea European Index Fund
+  swift: NEIFFIH1XXX
+  swift8: NEIFFIH1
+  branch_name: Head Office
+  branch_address: Keskuskatu 3a 00020 Helsinki
+  branch_code: XXX
+  city: Helsinki
+  country: Finland
+- name: Nordea European New Frontiers
+  swift: NENFFIH1XXX
+  swift8: NENFFIH1
+  branch_name: Head Office
+  branch_address: Keskuskatu 3a 00020 Helsinki
+  branch_code: XXX
+  city: Helsinki
+  country: Finland
+- name: Nordea Far East Fund
+  swift: NFEFFIH1XXX
+  swift8: NFEFFIH1
+  branch_name: Head Office
+  branch_address: Keskuskatu 3a 00020 Helsinki
+  branch_code: XXX
+  city: Helsinki
+  country: Finland
+- name: Nordea Finland Fund
+  swift: NOFUFIH1XXX
+  swift8: NOFUFIH1
+  branch_name: Head Office
+  branch_address: Keskuskatu 3a 00020 Helsinki
+  branch_code: XXX
+  city: Helsinki
+  country: Finland
+- name: Nordea Finnish 130/30
+  swift: NOFHFIH1XXX
+  swift8: NOFHFIH1
+  branch_name: Head Office
+  branch_address: Keskuskatu 3a 00020 Helsinki
+  branch_code: XXX
+  city: Helsinki
+  country: Finland
+- name: Nordea Finnish Small Cap
+  swift: NFMCFIH1XXX
+  swift8: NFMCFIH1
+  branch_name: Head Office
+  branch_address: Keskuskatu 3a 00020 Helsinki
+  branch_code: XXX
+  city: Helsinki
+  country: Finland
+- name: Nordea Fixed Income Portfolio Plus
+  swift: NFIOFIH1XXX
+  swift8: NFIOFIH1
+  branch_name: Head Office
+  branch_address: Keskuskatu 3a 00020 Helsinki
+  branch_code: XXX
+  city: Helsinki
+  country: Finland
+- name: Nordea Foresta Fund
+  swift: NOFFFIH1XXX
+  swift8: NOFFFIH1
+  branch_name: Head Office
+  branch_address: Keskuskatu 3a 00020 Helsinki
+  branch_code: XXX
+  city: Helsinki
+  country: Finland
+- name: Nordea Global Dividend Fund
+  swift: NGDFFIH1XXX
+  swift8: NGDFFIH1
+  branch_name: Head Office
+  branch_address: Keskuskatu 3a 00020 Helsinki
+  branch_code: XXX
+  city: Helsinki
+  country: Finland
+- name: Nordea Global Emerging Markets Equities Ucits Etf
+  swift: NGEMFIH1XXX
+  swift8: NGEMFIH1
+  branch_name: No branch name
+  branch_address: No branch address
+  branch_code: XXX
+  city: Helsinki
+  country: Finland
+- name: Nordea Global High Yield
+  swift: NGHYFIH1XXX
+  swift8: NGHYFIH1
+  branch_name: Head Office
+  branch_address: Keskuskatu 3a 00020 Helsinki
+  branch_code: XXX
+  city: Helsinki
+  country: Finland
+- name: Nordea Global Index Fund
+  swift: NGIFFIH1XXX
+  swift8: NGIFFIH1
+  branch_name: Head Office
+  branch_address: Keskuskatu 3a 00020 Helsinki
+  branch_code: XXX
+  city: Helsinki
+  country: Finland
+- name: Nordea Global Technology Fund
+  swift: NGTFFIH1XXX
+  swift8: NGTFFIH1
+  branch_name: Head Office
+  branch_address: Keskuskatu 3a 00020 Helsinki
+  branch_code: XXX
+  city: Helsinki
+  country: Finland
+- name: Nordea Henkivakuutus
+  swift: NOHEFIH1XXX
+  swift8: NOHEFIH1
+  branch_name: No branch name
+  branch_address: No branch address
+  branch_code: XXX
+  city: Helsinki
+  country: Finland
+- name: Nordea India Fund
+  swift: NOIFFIH1XXX
+  swift8: NOIFFIH1
+  branch_name: Head Office
+  branch_address: Keskuskatu 3a 00020 Helsinki
+  branch_code: XXX
+  city: Helsinki
+  country: Finland
+- name: Nordea Invest, European Smaller Favourites Fund
+  swift: NIEMFIH1XXX
+  swift8: NIEMFIH1
+  branch_name: No branch name
+  branch_address: No branch address
+  branch_code: XXX
+  city: Helsinki
+  country: Finland
+- name: Nordea Japan Fund
+  swift: NOJFFIH1XXX
+  swift8: NOJFFIH1
+  branch_name: Head Office
+  branch_address: Keskuskatu 3a 00020 Helsinki
+  branch_code: XXX
+  city: Helsinki
+  country: Finland
+- name: Nordea Life Assurance Finland Ltd, Aktiva Aggressiv
+  swift: NLSAFIH1XXX
+  swift8: NLSAFIH1
+  branch_name: No branch name
+  branch_address: No branch address
+  branch_code: XXX
+  city: Helsinki
+  country: Finland
+- name: Nordea Life Assurance Finland Ltd, Aktiva Balans
+  swift: NLADFIH1XXX
+  swift8: NLADFIH1
+  branch_name: No branch name
+  branch_address: No branch address
+  branch_code: XXX
+  city: Helsinki
+  country: Finland
+- name: Nordea Life Assurance Finland Ltd, Aktiva Defensiv
+  swift: NLSNFIH1XXX
+  swift8: NLSNFIH1
+  branch_name: No branch name
+  branch_address: No branch address
+  branch_code: XXX
+  city: Helsinki
+  country: Finland
+- name: Nordea Life Assurance Finland Ltd, Aktiva Global
+  swift: NLAGFIH1XXX
+  swift8: NLAGFIH1
+  branch_name: No branch name
+  branch_address: No branch address
+  branch_code: XXX
+  city: Helsinki
+  country: Finland
+- name: Nordea Life Assurance Finland Ltd, Aktiva Offensiv
+  swift: NLSLFIH1XXX
+  swift8: NLSLFIH1
+  branch_name: No branch name
+  branch_address: No branch address
+  branch_code: XXX
+  city: Helsinki
+  country: Finland
+- name: Nordea Life Assurance Finland Ltd, Alternatives
+  swift: NLALFIH1XXX
+  swift8: NLALFIH1
+  branch_name: No branch name
+  branch_address: No branch address
+  branch_code: XXX
+  city: Helsinki
+  country: Finland
+- name: Nordea Life Assurance Finland Ltd, Equity Nlp
+  swift: NLAFFIH1XXX
+  swift8: NLAFFIH1
+  branch_name: No branch name
+  branch_address: No branch address
+  branch_code: XXX
+  city: Helsinki
+  country: Finland
+- name: Nordea Life Assurance Finland Ltd, Erkki Etola
+  swift: NLSIFIH1XXX
+  swift8: NLSIFIH1
+  branch_name: No branch name
+  branch_address: No branch address
+  branch_code: XXX
+  city: Helsinki
+  country: Finland
+- name: Nordea Life Assurance Finland Ltd, Heikki Kyostila
+  swift: NLAAFIH1XXX
+  swift8: NLAAFIH1
+  branch_name: No branch name
+  branch_address: No branch address
+  branch_code: XXX
+  city: Helsinki
+  country: Finland
+- name: Nordea Life Assurance Finland Ltd, Kauppa Ja Kone
+  swift: NLANFIH1XXX
+  swift8: NLANFIH1
+  branch_name: No branch name
+  branch_address: No branch address
+  branch_code: XXX
+  city: Helsinki
+  country: Finland
+- name: Nordea Life Assurance Finland Ltd, Nordea Maailma Osake
+  swift: NLSDFIH1XXX
+  swift8: NLSDFIH1
+  branch_name: No branch name
+  branch_address: No branch address
+  branch_code: XXX
+  city: Helsinki
+  country: Finland
+- name: Nordea Life Assurance Finland Ltd, Private Equity
+  swift: NLPQFIH1XXX
+  swift8: NLPQFIH1
+  branch_name: No branch name
+  branch_address: No branch address
+  branch_code: XXX
+  city: Helsinki
+  country: Finland
+- name: Nordea Life Assurance Finland Ltd, Real Estate
+  swift: NLSFFIH1XXX
+  swift8: NLSFFIH1
+  branch_name: No branch name
+  branch_address: No branch address
+  branch_code: XXX
+  city: Helsinki
+  country: Finland
+- name: Nordea Medica Fund
+  swift: NOMFFIH1XXX
+  swift8: NOMFFIH1
+  branch_name: Head Office
+  branch_address: Keskuskatu 3a 00020 Helsinki
+  branch_code: XXX
+  city: Helsinki
+  country: Finland
+- name: Nordea Nordic Fund
+  swift: NONFFIH1XXX
+  swift8: NONFFIH1
+  branch_name: Head Office
+  branch_address: Keskuskatu 3a 00020 Helsinki
+  branch_code: XXX
+  city: Helsinki
+  country: Finland
+- name: Nordea Nordic Small Cap Fund
+  swift: NNSCFIH1XXX
+  swift8: NNSCFIH1
+  branch_name: Head Office
+  branch_address: Keskuskatu 3a 00020 Helsinki
+  branch_code: XXX
+  city: Helsinki
+  country: Finland
+- name: Nordea Norsk Kredittobligasjon Fund
+  swift: NNKFFIH1XXX
+  swift8: NNKFFIH1
+  branch_name: No branch name
+  branch_address: No branch address
+  branch_code: XXX
+  city: Helsinki
+  country: Finland
+- name: Nordea North America Fund
+  swift: NNAFFIH1XXX
+  swift8: NNAFFIH1
+  branch_name: Head Office
+  branch_address: Keskuskatu 3a 00020 Helsinki
+  branch_code: XXX
+  city: Helsinki
+  country: Finland
+- name: Nordea Premium Asset Management Balanced Fund
+  swift: NPAAFIH1XXX
+  swift8: NPAAFIH1
+  branch_name: Head Office
+  branch_address: Keskuskatu 3a 00020 Helsinki
+  branch_code: XXX
+  city: Helsinki
+  country: Finland
+- name: Nordea Premium Asset Management Growth Fund
+  swift: NPAGFIH1XXX
+  swift8: NPAGFIH1
+  branch_name: Head Office
+  branch_address: Keskuskatu 3a 00020 Helsinki
+  branch_code: XXX
+  city: Helsinki
+  country: Finland
+- name: Nordea Premium Asset Management Moderate Fund
+  swift: NPANFIH1XXX
+  swift8: NPANFIH1
+  branch_name: Head Office
+  branch_address: Keskuskatu 3a 00020 Helsinki
+  branch_code: XXX
+  city: Helsinki
+  country: Finland
+- name: Nordea Private Banking Focus Finland Fund
+  swift: NPFIFIH1XXX
+  swift8: NPFIFIH1
+  branch_name: Head Office
+  branch_address: Keskuskatu 3a 00020 Helsinki
+  branch_code: XXX
+  city: Helsinki
+  country: Finland
+- name: Nordea Private Banking Focus Nordic Fund
+  swift: NPFNFIH1XXX
+  swift8: NPFNFIH1
+  branch_name: Head Office
+  branch_address: Keskuskatu 3a 00020 Helsinki
+  branch_code: XXX
+  city: Helsinki
+  country: Finland
+- name: Nordea Private Banking Kort Obligasjon Fund
+  swift: NPKOFIH1XXX
+  swift8: NPKOFIH1
+  branch_name: Head Office
+  branch_address: Keskuskatu 3a 00020 Helsinki
+  branch_code: XXX
+  city: Helsinki
+  country: Finland
+- name: Nordea Private Banking Likviditet Fund
+  swift: NPLFFIH1XXX
+  swift8: NPLFFIH1
+  branch_name: Head Office
+  branch_address: Keskuskatu 3a 00020 Helsinki
+  branch_code: XXX
+  city: Helsinki
+  country: Finland
+- name: Nordea Private Banking Norsk Aksje Portefolje
+  swift: NPNAFIH1XXX
+  swift8: NPNAFIH1
+  branch_name: Head Office
+  branch_address: Keskuskatu 3a 00020 Helsinki
+  branch_code: XXX
+  city: Helsinki
+  country: Finland
+- name: Nordea Pro European Fund
+  swift: NPEFFIH1XXX
+  swift8: NPEFFIH1
+  branch_name: Head Office
+  branch_address: Keskuskatu 3a 00020 Helsinki
+  branch_code: XXX
+  city: Helsinki
+  country: Finland
+- name: Nordea Pro Finland Fund
+  swift: NPFFFIH1XXX
+  swift8: NPFFFIH1
+  branch_name: Head Office
+  branch_address: Keskuskatu 3a 00020 Helsinki
+  branch_code: XXX
+  city: Helsinki
+  country: Finland
+- name: Nordea Pro Stable Return Fund
+  swift: NPSRFIH1XXX
+  swift8: NPSRFIH1
+  branch_name: Head Office
+  branch_address: Keskuskatu 3a 00020 Helsinki
+  branch_code: XXX
+  city: Helsinki
+  country: Finland
+- name: Nordea Russia Fund
+  swift: NRFNFIH1XXX
+  swift8: NRFNFIH1
+  branch_name: Head Office
+  branch_address: Keskuskatu 3a 00020 Helsinki
+  branch_code: XXX
+  city: Helsinki
+  country: Finland
+- name: Nordea Savings 10
+  swift: NOVGFIH1XXX
+  swift8: NOVGFIH1
+  branch_name: Head Office
+  branch_address: Keskuskatu 3a 00020 Helsinki
+  branch_code: XXX
+  city: Helsinki
+  country: Finland
+- name: Nordea Savings 25
+  swift: NOAVFIH1XXX
+  swift8: NOAVFIH1
+  branch_name: Head Office
+  branch_address: Keskuskatu 3a 00020 Helsinki
+  branch_code: XXX
+  city: Helsinki
+  country: Finland
+- name: Nordea Savings 25
+  swift: NOIIFIH1XXX
+  swift8: NOIIFIH1
+  branch_name: Head Office
+  branch_address: Keskuskatu 3a 00020 Helsinki
+  branch_code: XXX
+  city: Helsinki
+  country: Finland
+- name: Nordea Savings 75
+  swift: NOVVFIH1XXX
+  swift8: NOVVFIH1
+  branch_name: Head Office
+  branch_address: Keskuskatu 3a 00020 Helsinki
+  branch_code: XXX
+  city: Helsinki
+  country: Finland
+- name: Nordea Savings Fixed Income
+  swift: NSFNFIH1XXX
+  swift8: NSFNFIH1
+  branch_name: Head Office
+  branch_address: Keskuskatu 3a 00020 Helsinki
+  branch_code: XXX
+  city: Helsinki
+  country: Finland
+- name: Nordea Stabile Equities Ucits Etf
+  swift: NSEUFIH1XXX
+  swift8: NSEUFIH1
+  branch_name: No branch name
+  branch_address: No branch address
+  branch_code: XXX
+  city: Helsinki
+  country: Finland
+- name: Nordea Stable Return Fund
+  swift: NSRFFIH1XXX
+  swift8: NSRFFIH1
+  branch_name: Head Office
+  branch_address: Keskuskatu 3a 00020 Helsinki
+  branch_code: XXX
+  city: Helsinki
+  country: Finland
+- name: Nordea Stratega Fixed Income
+  swift: NSFIFIH1XXX
+  swift8: NSFIFIH1
+  branch_name: Head Office
+  branch_address: Keskuskatu 3a 00020 Helsinki
+  branch_code: XXX
+  city: Helsinki
+  country: Finland
+- name: Nordea Swe Inflation Linked Bond Fund
+  swift: NSILFIH1XXX
+  swift8: NSILFIH1
+  branch_name: Head Office
+  branch_address: Keskuskatu 3a 00020 Helsinki
+  branch_code: XXX
+  city: Helsinki
+  country: Finland
+- name: Nordea Swe Institutional Short Duration Bond Fund
+  swift: NSISFIH1XXX
+  swift8: NSISFIH1
+  branch_name: Head Office
+  branch_address: Keskuskatu 3a 00020 Helsinki
+  branch_code: XXX
+  city: Helsinki
+  country: Finland
+- name: Nordea World Fund
+  swift: NOWFFIH1XXX
+  swift8: NOWFFIH1
+  branch_name: Head Office
+  branch_address: Keskuskatu 3a 00020 Helsinki
+  branch_code: XXX
+  city: Helsinki
+  country: Finland
+- name: Nordea Yield Fund
+  swift: NOYFFIH1XXX
+  swift8: NOYFFIH1
+  branch_name: Head Office
+  branch_address: Keskuskatu 3a 00020 Helsinki
+  branch_code: XXX
+  city: Helsinki
+  country: Finland
+- name: Nordeaprivate Banking Obligasjon Fund
+  swift: NPOFFIH1XXX
+  swift8: NPOFFIH1
+  branch_name: Head Office
+  branch_address: Keskuskatu 3a 00020 Helsinki
+  branch_code: XXX
+  city: Helsinki
+  country: Finland
+- name: Omx Nordic Exchange Group Oy
+  swift: XFOMFIH1XXX
+  swift8: XFOMFIH1
+  branch_name: Head Office
+  branch_address: Fabianinkatu 14 100 Helsinki
+  branch_code: XXX
+  city: Helsinki
+  country: Finland
+- name: Op Pension Fund
+  swift: PEFNFIH1XXX
+  swift8: PEFNFIH1
+  branch_name: Head Office
+  branch_address: Teollisuuskatu 1a B 00000 Helsinki
+  branch_code: XXX
+  city: Helsinki
+  country: Finland
+- name: Op-pohjola Group (securities Transaction Reportingop Branches
+  swift: POHGFIH1XXX
+  swift8: POHGFIH1
+  branch_name: Head Office
+  branch_address: Teollisuuskatu 1 00510 Helsinki
+  branch_code: XXX
+  city: Helsinki
+  country: Finland
+- name: Opuscapita Oy
+  swift: OPUSFI2HXXX
+  swift8: OPUSFI2H
+  branch_name: Head Office
+  branch_address: Keilaranta 13 02150 Espoo
+  branch_code: XXX
+  city: Espoo
+  country: Finland
+- name: Overmark Andelsbank
+  swift: OVANFI21XXX
+  swift8: OVANFI21
+  branch_name: Head Office
+  branch_address: Vasavagen 1619 64610 Overmark
+  branch_code: XXX
+  city: Overmark
+  country: Finland
+- name: Oy Ahola Maliniemi Partners Ab
+  swift: AHMPFIH1XXX
+  swift8: AHMPFIH1
+  branch_name: Head Office
+  branch_address: Tehtaankatu 27-29 00150 Helsinki
+  branch_code: XXX
+  city: Helsinki
+  country: Finland
+- name: Oy Samlink Ab
+  swift: SALKFI21XXX
+  swift8: SALKFI21
+  branch_name: Head Office
+  branch_address: Linnoitustie 9 02600 Espoo
+  branch_code: XXX
+  city: Espoo
+  country: Finland
+- name: Oy United Bankers Ab
+  swift: UNBRFIH1XXX
+  swift8: UNBRFIH1
+  branch_name: Head Office
+  branch_address: Aleksanterinkatu 21a 00100 Helsinki
+  branch_code: XXX
+  city: Helsinki
+  country: Finland
+- name: Pareto Securities Oy
+  swift: OJFFFIH1XXX
+  swift8: OJFFFIH1
+  branch_name: Head Office
+  branch_address: Aleksanterinkatu 44 Helsinki
+  branch_code: XXX
+  city: Helsinki
+  country: Finland
+- name: Parkanon Saastopankki
+  swift: PAAKFI21XXX
+  swift8: PAAKFI21
+  branch_name: Head Office
+  branch_address: Parkanontie 45 39700 Parkano
+  branch_code: XXX
+  city: Parkano
+  country: Finland
+- name: Pension Fennia
+  swift: PEFEFI21XXX
+  swift8: PEFEFI21
+  branch_name: Head Office
+  branch_address: Elake-Fennia Helsinki
+  branch_code: XXX
+  city: Helsinki
+  country: Finland
+- name: Pohjola Asset Management Limited
+  swift: POAEFIH1XXX
+  swift8: POAEFIH1
+  branch_name: Head Office
+  branch_address: Etelaesplanadi 12 Helsinki
+  branch_code: XXX
+  city: Helsinki
+  country: Finland
+- name: Pohjola Pankki Oyj (pohjola Bank Plc) (markets/clearing And Settlement
+  swift: OPSEFIH1XXX
+  swift8: OPSEFIH1
+  branch_name: Head Office
+  branch_address: Teollisuuskatu 1b 101 Helsinki
+  branch_code: XXX
+  city: Helsinki
+  country: Finland
+- name: Pp-laskenta
+  swift: PPLAFI21XXX
+  swift8: PPLAFI21
+  branch_name: Head Office
+  branch_address: Linnoitustie 9 02600 Espoo
+  branch_code: XXX
+  city: Espoo
+  country: Finland
+- name: Privanet Securities Ltd
+  swift: PSEUFI21XXX
+  swift8: PSEUFI21
+  branch_name: No branch name
+  branch_address: No branch address
+  branch_code: XXX
+  city: Turku
+  country: Finland
+- name: Quorum Fund Management Company Ltd
+  swift: QFMCFIH1XXX
+  swift8: QFMCFIH1
+  branch_name: Head Office
+  branch_address: Aleksanterinkatu 44 00100 Helsinki
+  branch_code: XXX
+  city: Helsinki
+  country: Finland
+- name: Ramirent Plc
+  swift: RMRTFI22XXX
+  swift8: RMRTFI22
+  branch_name: Head Office
+  branch_address: Ayritie 16 01511 Vantaa
+  branch_code: XXX
+  city: Vantaa
+  country: Finland
+- name: Rvm Investium Oy
+  swift: RVINFIH1XXX
+  swift8: RVINFIH1
+  branch_name: No branch name
+  branch_address: No branch address
+  branch_code: XXX
+  city: Helsinki
+  country: Finland
+- name: Sampo Plc
+  swift: SAHOFIH1KVA
+  swift8: SAHOFIH1
+  branch_name: Helsinki
+  branch_address: Helsinki
+  branch_code: KVA
+  city: Helsinki
+  country: Finland
+- name: Sampo Plc
+  swift: SAHOFIH1MLI
+  swift8: SAHOFIH1
+  branch_name: Helsinki
+  branch_address: Helsinki
+  branch_code: MLI
+  city: Helsinki
+  country: Finland
+- name: Sampo Plc
+  swift: SAHOFIH1SAM
+  swift8: SAHOFIH1
+  branch_name: Helsinki
+  branch_address: Helsinki
+  branch_code: SAM
+  city: Helsinki
+  country: Finland
+- name: Sampo Plc
+  swift: SAHOFIH1XXX
+  swift8: SAHOFIH1
+  branch_name: Head Office
+  branch_address: Investment Operations/Back Office 00100 Helsinki
+  branch_code: XXX
+  city: Helsinki
+  country: Finland
+- name: Sanomawsoy Corporation
+  swift: SAWSFIHHXXX
+  swift8: SAWSFIHH
+  branch_name: Head Office
+  branch_address: Ludviginkatu 6-8 00100 Helsinki
+  branch_code: XXX
+  city: Helsinki
+  country: Finland
+- name: Sauvon Osuuspankki
+  swift: SAOIFI21XXX
+  swift8: SAOIFI21
+  branch_name: Head Office
+  branch_address: Viljontie 1 21571 Sauvo
+  branch_code: XXX
+  city: Sauvo
+  country: Finland
+- name: Scania Finans Ab, Finnish Branch
+  swift: SFFNFIH1XXX
+  swift8: SFFNFIH1
+  branch_name: Head Office
+  branch_address: Muonamiehentie 1 00390 Helsinki
+  branch_code: XXX
+  city: Helsinki
+  country: Finland
+- name: Seb Fund Management Company Finland Ltd.
+  swift: SEGOFIH1XXX
+  swift8: SEGOFIH1
+  branch_name: Head Office
+  branch_address: Unionsgatan 30 00100 Helsinki
+  branch_code: XXX
+  city: Helsinki
+  country: Finland
+- name: Seb Wealth Management Finland Ltd.(former Seb Gyllenberg Asset Management
+    Ltd.
+  swift: GYAMFIH1XXX
+  swift8: GYAMFIH1
+  branch_name: Head Office
+  branch_address: Unionsgatan 30 100 Helsinki
+  branch_code: XXX
+  city: Helsinki
+  country: Finland
+- name: Seligson And Co Oyj
+  swift: SEOYFIH1XXX
+  swift8: SEOYFIH1
+  branch_name: Head Office
+  branch_address: Erottajankatu 1-3 00130 Helsinki
+  branch_code: XXX
+  city: Helsinki
+  country: Finland
+- name: Sideby Andelsbank
+  swift: SIAKFI21XXX
+  swift8: SIAKFI21
+  branch_name: Head Office
+  branch_address: Sidebyvagen 704 64490 Sideby
+  branch_code: XXX
+  city: Sideby
+  country: Finland
+- name: Skandinaviska Enskilda Banken Ab (publ) Helsinki Branch
+  swift: ENSSFIH1XXX
+  swift8: ENSSFIH1
+  branch_name: Head Office
+  branch_address: Unioninkatu 30 101 Helsinki
+  branch_code: XXX
+  city: Helsinki
+  country: Finland
+- name: Skargardssparbanken Ab
+  swift: SKASFI21XXX
+  swift8: SKASFI21
+  branch_name: Head Office
+  branch_address: Nasby 21760 Houtskar
+  branch_code: XXX
+  city: Houtskar
+  country: Finland
+- name: Sofi Pankkiiriliike Sofi Securities Inc
+  swift: SOPAFIH1XXX
+  swift8: SOPAFIH1
+  branch_name: Head Office
+  branch_address: Bulevardi 13 a 00120 Helsinki
+  branch_code: XXX
+  city: Helsinki
+  country: Finland
+- name: Solidus Oy
+  swift: SODUFIH1XXX
+  swift8: SODUFIH1
+  branch_name: Head Office
+  branch_address: Vuorikatu 20 a 00101 Helsinki
+  branch_code: XXX
+  city: Helsinki
+  country: Finland
+- name: Somerniemen Osuuspankki
+  swift: SOOSFI21XXX
+  swift8: SOOSFI21
+  branch_name: Head Office
+  branch_address: Helsingintie 1869 31470 Somerniemi
+  branch_code: XXX
+  city: Somerniemi
+  country: Finland
+- name: Someron Osuuspankki
+  swift: SOOUFI21XXX
+  swift8: SOOUFI21
+  branch_name: Head Office
+  branch_address: Joensuuntie 11 31400 Somero
+  branch_code: XXX
+  city: Somero
+  country: Finland
+- name: Sp Kapitaali Oy
+  swift: KAPLFIH1XXX
+  swift8: KAPLFIH1
+  branch_name: Head Office
+  branch_address: Aleksanterinkatu 15 B 00100 Helsinki
+  branch_code: XXX
+  city: Helsinki
+  country: Finland
+- name: Sp-rahastoyhtio Oy
+  swift: SPHTFIH1XXX
+  swift8: SPHTFIH1
+  branch_name: Head Office
+  branch_address: Tammasaarenkatu 1 00180 Helsinki
+  branch_code: XXX
+  city: Helsinki
+  country: Finland
+- name: Suodenniemen Saastopankki
+  swift: SUSOFI21XXX
+  swift8: SUSOFI21
+  branch_name: Head Office
+  branch_address: Suodenniementie 10 38510 Sastamala
+  branch_code: XXX
+  city: Sastamala
+  country: Finland
+- name: Taaleritehdas Oy
+  swift: TAALFI21XXX
+  swift8: TAALFI21
+  branch_name: Head Office
+  branch_address: Kluuvikatu 3 02170 Espoo
+  branch_code: XXX
+  city: Espoo
+  country: Finland
+- name: The Royal Bank Of Scotland Plc, Filial I Finland
+  swift: RBOSFIH1XXX
+  swift8: RBOSFIH1
+  branch_name: No branch name
+  branch_address: No branch address
+  branch_code: XXX
+  city: Helsingfors
+  country: Finland
+- name: The State Pension Fund
+  swift: STPDFI21XXX
+  swift8: STPDFI21
+  branch_name: Head Office
+  branch_address: Unioninkatu 13 Helsinki
+  branch_code: XXX
+  city: Helsinki
+  country: Finland
+- name: Tieto Oyj
+  swift: TICOFIHHXXX
+  swift8: TICOFIHH
+  branch_name: Head Office
+  branch_address: Aku Korhosen Tie 2-6 00441 Helsinki
+  branch_code: XXX
+  city: Helsinki
+  country: Finland
+- name: Titanium Rahastoyhtio Oy
+  swift: TIRHFIH1XXX
+  swift8: TIRHFIH1
+  branch_name: No branch name
+  branch_address: No branch address
+  branch_code: XXX
+  city: Helsinki
+  country: Finland
+- name: Tuuloksen Saastopankki
+  swift: TUSAFI21XXX
+  swift8: TUSAFI21
+  branch_name: Head Office
+  branch_address: Tuulosentie 1 14810 Hameenlinna
+  branch_code: XXX
+  city: Hameenlinna
+  country: Finland
+- name: Ub Rahastoyhtio Oy
+  swift: RAHTFIH1XXX
+  swift8: RAHTFIH1
+  branch_name: Head Office
+  branch_address: Aleksanterinkatu 17 00100 Helsinki
+  branch_code: XXX
+  city: Helsinki
+  country: Finland
+- name: United Bankers Omaisuudenhoito Oy
+  swift: UNOMFIH1XXX
+  swift8: UNOMFIH1
+  branch_name: Head Office
+  branch_address: Aleksanterinkatu 21 a 00100 Helsinki
+  branch_code: XXX
+  city: Helsinki
+  country: Finland
+- name: Uukuniemen Osuuspankki
+  swift: UUOSFI21XXX
+  swift8: UUOSFI21
+  branch_name: Head Office
+  branch_address: Niukkalantie 1465 59720 Uukuniemi
+  branch_code: XXX
+  city: Uukuniemi
+  country: Finland
+- name: Valo Research And Trading Ltd
+  swift: VARAFIH1XXX
+  swift8: VARAFIH1
+  branch_name: Head Office
+  branch_address: Mannerheimintie 2 00100 Helsinki
+  branch_code: XXX
+  city: Helsinki
+  country: Finland
+- name: Varainhallinta Tresor Oy
+  swift: VATSFIH1XXX
+  swift8: VATSFIH1
+  branch_name: Head Office
+  branch_address: Erottajankatu 1 00121 Helsinki
+  branch_code: XXX
+  city: Helsinki
+  country: Finland
+- name: Varpaisjarven Osuuspankki
+  swift: VAOKFI21XXX
+  swift8: VAOKFI21
+  branch_name: Head Office
+  branch_address: Lapinlahdentie 1 73201 Varpaisjarvi
+  branch_code: XXX
+  city: Varpaisjarvi
+  country: Finland
+- name: Veritas Pension Fund
+  swift: VEPFFI21XXX
+  swift8: VEPFFI21
+  branch_name: Head Office
+  branch_address: Olavintie 2 Turku
+  branch_code: XXX
+  city: Turku
+  country: Finland
+- name: Viereman Osuuspankki
+  swift: VIERFI21XXX
+  swift8: VIERFI21
+  branch_name: Head Office
+  branch_address: Petterintie 2 74200 Vierema
+  branch_code: XXX
+  city: Vierema
+  country: Finland
+- name: Virolahden Osuuspankki
+  swift: VIOPFI21XXX
+  swift8: VIOPFI21
+  branch_name: Head Office
+  branch_address: Opintie 1 49900 Virolahti
+  branch_code: XXX
+  city: Virolahti
+  country: Finland
+- name: Visio Varainhoito Oy
+  swift: VISVFIH1XXX
+  swift8: VISVFIH1
+  branch_name: Head Office
+  branch_address: Aleksanterinkatu 21 H 00100 Helsinki
+  branch_code: XXX
+  city: Helsinki
+  country: Finland
+- name: Vora Sparbank
+  swift: VOSPFI21XXX
+  swift8: VOSPFI21
+  branch_name: Head Office
+  branch_address: Voravagen 7 66600 Vora
+  branch_code: XXX
+  city: Vora
+  country: Finland
+- name: Williams De Broe
+  swift: WIBRFIH1XXX
+  swift8: WIBRFIH1
+  branch_name: Head Office
+  branch_address: Pohj. Espl. 25 a 00100 Helsinki
+  branch_code: XXX
+  city: Helsinki
+  country: Finland
+- name: Wip Asset Management Oy
+  swift: WIANFIH1XXX
+  swift8: WIANFIH1
+  branch_name: Head Office
+  branch_address: Lonnrotinkatu 3 a 00120 Helsinki
+  branch_code: XXX
+  city: Helsinki
+  country: Finland

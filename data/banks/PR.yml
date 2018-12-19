@@ -1,0 +1,170 @@
+---
+PR:
+- name: Acesco Caribe, Mfg.
+  swift: ACAIPR21XXX
+  swift8: ACAIPR21
+  branch_name: Head Office
+  branch_address: Catano 00963
+  branch_code: XXX
+  city: Catano
+  country: Puerto Rico
+- name: Activo International Bank
+  swift: ACTTPRSJXXX
+  swift8: ACTTPRSJ
+  branch_name: Head Office
+  branch_address: Rivera Plaza San Juan 00918
+  branch_code: XXX
+  city: San Juan
+  country: Puerto Rico
+- name: Andcapital Bank International Corp
+  swift: ACBIPR22XXX
+  swift8: ACBIPR22
+  branch_name: Head Office
+  branch_address: Bbva Tower Hato Rey 00918
+  branch_code: XXX
+  city: Hato Rey
+  country: Puerto Rico
+- name: Arca International Bank, Inc.
+  swift: ARNRPRSJXXX
+  swift8: ARNRPRSJ
+  branch_name: Head Office
+  branch_address: 268 Munoz Rivera Ave. San Juan
+  branch_code: XXX
+  city: San Juan
+  country: Puerto Rico
+- name: Banco Popular De Puerto Rico
+  swift: BPPRPRSXXXX
+  swift8: BPPRPRSX
+  branch_name: Head Office
+  branch_address: 1500 Ponce De Leon Avenue San Juan 00907
+  branch_code: XXX
+  city: San Juan
+  country: Puerto Rico
+- name: Banco San Juan Internacional Inc
+  swift: BSJIPRSJXXX
+  swift8: BSJIPRSJ
+  branch_name: Head Office
+  branch_address: Avenida Ponce De Leon 165 San Juan 00917
+  branch_code: XXX
+  city: San Juan
+  country: Puerto Rico
+- name: Banco Santander Puerto Rico
+  swift: BSCHPRSXXXX
+  swift8: BSCHPRSX
+  branch_name: Head Office
+  branch_address: 207 Ponce De Leon Avenue San Juan 00936
+  branch_code: XXX
+  city: San Juan
+  country: Puerto Rico
+- name: Bancolombia Puerto Rico Internacional Inc.
+  swift: CFSUPRSJXXX
+  swift8: CFSUPRSJ
+  branch_name: Head Office
+  branch_address: 270 Munoz Rivera Avenue San Juan 00918
+  branch_code: XXX
+  city: San Juan
+  country: Puerto Rico
+- name: Bbo International Private Bank Inc
+  swift: BBOIPRSJXXX
+  swift8: BBOIPRSJ
+  branch_name: No branch name
+  branch_address: No branch address
+  branch_code: XXX
+  city: San Juan
+  country: Puerto Rico
+- name: Bst International Bank, Inc
+  swift: TOTAPR22XXX
+  swift8: TOTAPR22
+  branch_name: Head Office
+  branch_address: Westernbank World Plaza Hato Rey 00918
+  branch_code: XXX
+  city: Hato Rey
+  country: Puerto Rico
+- name: Caracas International Banking Corp.
+  swift: CIBPPRSJXXX
+  swift8: CIBPPRSJ
+  branch_name: Head Office
+  branch_address: 221 Plaza San Juan 00918
+  branch_code: XXX
+  city: San Juan
+  country: Puerto Rico
+- name: Citibank, Na Puerto Rico
+  swift: CITIPRSJXXX
+  swift8: CITIPRSJ
+  branch_name: Head Office
+  branch_address: 270 Munoz Rivera Avenue San Juan 00926
+  branch_code: XXX
+  city: San Juan
+  country: Puerto Rico
+- name: Facebank International Corporation
+  swift: FILCPR22XXX
+  swift8: FILCPR22
+  branch_name: Head Office
+  branch_address: Centro Intl De Mercadeo Guaynabo 00968-8053
+  branch_code: XXX
+  city: Guaynabo
+  country: Puerto Rico
+- name: Firstbank Puerto Rico
+  swift: FBPRPRSJXXX
+  swift8: FBPRPRSJ
+  branch_name: Head Office
+  branch_address: 1519 Ponce De Leon Avenue Santurce 00908
+  branch_code: XXX
+  city: Santurce
+  country: Puerto Rico
+- name: Italbank International, Inc
+  swift: IBIIPRSJXXX
+  swift8: IBIIPRSJ
+  branch_name: Head Office
+  branch_address: Scotiabank Plaza San Juan 00917-1923
+  branch_code: XXX
+  city: San Juan
+  country: Puerto Rico
+- name: Nodus International Bank
+  swift: NDBKPRSJXXX
+  swift8: NDBKPRSJ
+  branch_name: Head Office
+  branch_address: Popular Center San Juan 00918
+  branch_code: XXX
+  city: San Juan
+  country: Puerto Rico
+- name: Oriental Bank
+  swift: OBPRPRSJXXX
+  swift8: OBPRPRSJ
+  branch_name: No branch name
+  branch_address: No branch address
+  branch_code: XXX
+  city: Hato Rey
+  country: Puerto Rico
+- name: Oriental Bank
+  swift: OBPRPRS1XXX
+  swift8: OBPRPRS1
+  branch_name: Head Office
+  branch_address: Munoz Rivera 254 Hato Rey 00918
+  branch_code: XXX
+  city: Hato Rey
+  country: Puerto Rico
+- name: Ponce Federal Bank
+  swift: PFEBPR21XXX
+  swift8: PFEBPR21
+  branch_name: Head Office
+  branch_address: Ponce
+  branch_code: XXX
+  city: Ponce
+  country: Puerto Rico
+- name: Scotiabank De Puerto Rico
+  swift: NOSCPR22MIA
+  swift8: NOSCPR22
+  branch_name: San Juan
+  branch_address: San Juan
+  branch_code: MIA
+  city: San Juan
+  country: Puerto Rico
+- name: Scotiabank De Puerto Rico
+  swift: NOSCPR22XXX
+  swift8: NOSCPR22
+  branch_name: Head Office
+  branch_address: 273 Ponce De Leon Avenue Hato Rey
+  branch_code: XXX
+  city: Hato Rey
+  country: Puerto Rico

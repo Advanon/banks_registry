@@ -1,0 +1,82 @@
+---
+RE:
+- name: Credit Agricole
+  swift: AGRIRERXLEO
+  swift8: AGRIRERX
+  branch_name: Le Port
+  branch_address: Le Port
+  branch_code: LEO
+  city: Le Port
+  country: Réunion
+- name: Credit Agricole
+  swift: AGRIRERXSNL
+  swift8: AGRIRERX
+  branch_name: La Reunion Branch
+  branch_address: Rue Des Payet, 31 97450 Saint Louis
+  branch_code: SNL
+  city: Saint Louis
+  country: Réunion
+- name: Credit Agricole
+  swift: AGRIRERXXXX
+  swift8: AGRIRERX
+  branch_name: Head Office
+  branch_address: Cite Des Lauriers Les Camelias 97462 Saint Denis Cedex
+  branch_code: XXX
+  city: Saint Denis
+  country: Réunion
+- name: Banque Francaise Commerciale De L'ocean Indien
+  swift: BFCORERXXXX
+  swift8: BFCORERX
+  branch_name: Head Office
+  branch_address: 60 Rue Alexis De Villeneuve 97400 Saint Denis
+  branch_code: XXX
+  city: Saint Denis
+  country: Réunion
+- name: Banque De La Reunion
+  swift: REUBRERXXXX
+  swift8: REUBRERX
+  branch_name: Head Office
+  branch_address: 27 Rue Jean Chatel 97711 Saint Denis Cedex 9
+  branch_code: XXX
+  city: Saint Denis
+  country: Réunion
+- name: Bnp Paribas La Reunion
+  swift: BNPARERXPOR
+  swift8: BNPARERX
+  branch_name: Le Port
+  branch_address: Le Port
+  branch_code: POR
+  city: Le Port
+  country: Réunion
+- name: Bnp Paribas La Reunion
+  swift: BNPARERXXXX
+  swift8: BNPARERX
+  branch_name: Head Office
+  branch_address: 67 Rue Juliette Dodu 97400 Saint Denis
+  branch_code: XXX
+  city: Saint Denis
+  country: Réunion
+- name: Oceor Lease Reunion
+  swift: OCLRRER1XXX
+  swift8: OCLRRER1
+  branch_name: Head Office
+  branch_address: Z I Du Chaudron 97400 Saint Denis
+  branch_code: XXX
+  city: Saint Denis
+  country: Réunion
+- name: Societe Financiere Pour Le Developpement De La Reunion
+  swift: SODIRER1XXX
+  swift8: SODIRER1
+  branch_name: Head Office
+  branch_address: 3, Rue Labourdonnais 97400 Saint Denis
+  branch_code: XXX
+  city: Saint Denis
+  country: Réunion
+- name: Societe Reunionnaise De Fint-sorefi
+  swift: SORFRER1XXX
+  swift8: SORFRER1
+  branch_name: Head Office
+  branch_address: Sainte Clotilde 97490 Saint Denis
+  branch_code: XXX
+  city: Saint Denis
+  country: Réunion

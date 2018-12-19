@@ -1,0 +1,1963 @@
+---
+KR:
+- name: Australia And New Zealand Banking Group Limited
+  swift: ANZBKRSXXXX
+  swift8: ANZBKRSX
+  branch_name: Head Office
+  branch_address: Kyobo Building Seoul
+  branch_code: XXX
+  city: Seoul
+  country: South Korea
+- name: Credit Agricole Cib
+  swift: CRLYKRSEXXX
+  swift8: CRLYKRSE
+  branch_name: Head Office
+  branch_address: Kyobo Building 110 714 Seoul
+  branch_code: XXX
+  city: Seoul
+  country: South Korea
+- name: Deutsche Bank Ag
+  swift: DEUTKRS102P
+  swift8: DEUTKRS1
+  branch_name: 600 012 Pusan
+  branch_address: 44, 2-Ga, Chungang-Dong, Chung-Ku 600 012 Pusan
+  branch_code: 02P
+  city: Pusan
+  country: South Korea
+- name: Hongkong And Shanghai Banking Corporation Limited, The
+  swift: HSBCKRSEBSN
+  swift8: HSBCKRSE
+  branch_name: Busan Branch
+  branch_address: Busan
+  branch_code: BSN
+  city: Busan
+  country: South Korea
+- name: Hongkong And Shanghai Banking Corporation Limited, The
+  swift: HSBCKRSECLS
+  swift8: HSBCKRSE
+  branch_name: Seoul
+  branch_address: Seoul
+  branch_code: CLS
+  city: Seoul
+  country: South Korea
+- name: Hongkong And Shanghai Banking Corporation Limited, The
+  swift: HSBCKRSEXXX
+  swift8: HSBCKRSE
+  branch_name: Head Office
+  branch_address: Hsbc Building 25 100 161 Seoul
+  branch_code: XXX
+  city: Seoul
+  country: South Korea
+- name: Industrial And Commercial Bank Of China
+  swift: ICBKKRSEXXX
+  swift8: ICBKKRSE
+  branch_name: Head Office
+  branch_address: Teapyungro Building 100-102 Seoul
+  branch_code: XXX
+  city: Seoul
+  country: South Korea
+- name: Ing Bank N.V.
+  swift: INGBKRSEXXX
+  swift8: INGBKRSE
+  branch_name: Head Office
+  branch_address: Hungkuk Building 100-061 Seoul
+  branch_code: XXX
+  city: Seoul
+  country: South Korea
+- name: Kookmin Bank
+  swift: CZNBKRSECLS
+  swift8: CZNBKRSE
+  branch_name: Cls Division
+  branch_address: Seoul
+  branch_code: CLS
+  city: Seoul
+  country: South Korea
+- name: Kookmin Bank
+  swift: CZNBKRSECTD
+  swift8: CZNBKRSE
+  branch_name: Custody Department
+  branch_address: Seoul
+  branch_code: CTD
+  city: Seoul
+  country: South Korea
+- name: Kookmin Bank
+  swift: CZNBKRSEWLS
+  swift8: CZNBKRSE
+  branch_name: Wls Division
+  branch_address: Seoul
+  branch_code: WLS
+  city: Seoul
+  country: South Korea
+- name: Kookmin Bank
+  swift: CZNBKRSEXXX
+  swift8: CZNBKRSE
+  branch_name: Head Office
+  branch_address: Sewoo Building 150-868 Seoul
+  branch_code: XXX
+  city: Seoul
+  country: South Korea
+- name: Korea Development Bank, The
+  swift: KODBKRSE001
+  swift8: KODBKRSE
+  branch_name: International Department
+  branch_address: 16-3, Yeouido-Dong 150-973 Seoul
+  branch_code: '001'
+  city: Seoul
+  country: South Korea
+- name: Korea Development Bank, The
+  swift: KODBKRSEXXX
+  swift8: KODBKRSE
+  branch_name: Head Office
+  branch_address: 16-3, Yeouido-Dong, Yeoungdeungpo-Gu 150-973 Seoul
+  branch_code: XXX
+  city: Seoul
+  country: South Korea
+- name: Korea Exchange Bank
+  swift: KOEXKRSECLS
+  swift8: KOEXKRSE
+  branch_name: Cls Control Desk
+  branch_address: 181, 2-Ga, Ulchi-Ro, Chung-Ku Seoul
+  branch_code: CLS
+  city: Seoul
+  country: South Korea
+- name: Korea Exchange Bank
+  swift: KOEXKRSEFCL
+  swift8: KOEXKRSE
+  branch_name: Korea Exchange Bank Fcl Division
+  branch_address: Korea Exchange Bank, Head Office 100-793 Seoul
+  branch_code: FCL
+  city: Seoul
+  country: South Korea
+- name: Korea Exchange Bank
+  swift: KOEXKRSEFCN
+  swift8: KOEXKRSE
+  branch_name: Korea Exchange Bank Fcn Division
+  branch_address: Korea Exchange Bank, Head Office 100-793 Seoul
+  branch_code: FCN
+  city: Seoul
+  country: South Korea
+- name: Korea Exchange Bank
+  swift: KOEXKRSEXXX
+  swift8: KOEXKRSE
+  branch_name: Head Office
+  branch_address: 181, 2-Ka, Ulchi-Ro, Chung-Ku 100 793 Seoul
+  branch_code: XXX
+  city: Seoul
+  country: South Korea
+- name: Shinhan Bank
+  swift: SHBKKRSECLS
+  swift8: SHBKKRSE
+  branch_name: Seoul
+  branch_address: Seoul
+  branch_code: CLS
+  city: Seoul
+  country: South Korea
+- name: Shinhan Bank
+  swift: SHBKKRSEKPO
+  swift8: SHBKKRSE
+  branch_name: Korea Post Office
+  branch_address: Seoul
+  branch_code: KPO
+  city: Seoul
+  country: South Korea
+- name: Shinhan Bank
+  swift: SHBKKRSETST
+  swift8: SHBKKRSE
+  branch_name: Tst
+  branch_address: Seoul
+  branch_code: TST
+  city: Seoul
+  country: South Korea
+- name: Shinhan Bank
+  swift: SHBKKRSEXXX
+  swift8: SHBKKRSE
+  branch_name: Head Office
+  branch_address: 120, 2-Ga, Taepyung-Ro, Chung-Gu 100 102 Seoul
+  branch_code: XXX
+  city: Seoul
+  country: South Korea
+- name: Sumitomo Mitsui Banking Corporation
+  swift: SMBCKRSEXXX
+  swift8: SMBCKRSE
+  branch_name: Head Office
+  branch_address: Young Poong Building 110-752 Seoul
+  branch_code: XXX
+  city: Seoul
+  country: South Korea
+- name: Bank Of Tokyo-mitsubishi Ufj, Ltd., The
+  swift: BOTKKRSXXXX
+  swift8: BOTKKRSX
+  branch_name: Seoul Branch
+  branch_address: Youngpoong Building Seoul
+  branch_code: XXX
+  city: Seoul
+  country: South Korea
+- name: The Export-import Bank Of Korea
+  swift: EXIKKRSEIFD
+  swift8: EXIKKRSE
+  branch_name: Kexim Interantional Finance Department
+  branch_address: Seoul
+  branch_code: IFD
+  city: Seoul
+  country: South Korea
+- name: The Export-import Bank Of Korea
+  swift: EXIKKRSEXXX
+  swift8: EXIKKRSE
+  branch_name: Head Office
+  branch_address: 16-1, Yoido-Dong, Youngdeungpo-Gu 150 996 Seoul
+  branch_code: XXX
+  city: Seoul
+  country: South Korea
+- name: Bookook Securities Co Ltd
+  swift: BOOSKRS1XXX
+  swift8: BOOSKRS1
+  branch_name: Head Office
+  branch_address: 34-2 Yoido-Dong, Yongdeungpo-Gu 150 010 Seoul
+  branch_code: XXX
+  city: Seoul
+  country: South Korea
+- name: Dongwon Securities
+  swift: DOSUKRS1186
+  swift8: DOSUKRS1
+  branch_name: International Investment Department
+  branch_address: Korea Investment and Securities Co 150-745 Seoul
+  branch_code: '186'
+  city: Seoul
+  country: South Korea
+- name: Dongwon Securities
+  swift: DOSUKRS1XXX
+  swift8: DOSUKRS1
+  branch_name: Head Office
+  branch_address: 34-7 Yoido Dong, Youngdungpo Gu Seoul
+  branch_code: XXX
+  city: Seoul
+  country: South Korea
+- name: Fpb Asia Limited
+  swift: FPASKRS1XXX
+  swift8: FPASKRS1
+  branch_name: Head Office
+  branch_address: Seoul
+  branch_code: XXX
+  city: Seoul
+  country: South Korea
+- name: Hanil Securities Co. Ltd
+  swift: HANEKRS1XXX
+  swift8: HANEKRS1
+  branch_name: Head Office
+  branch_address: 34-12 Yoido-Dong, Youngdeungpo-Ku 150 010 Seoul
+  branch_code: XXX
+  city: Seoul
+  country: South Korea
+- name: Agricultural Bank Of China Seoul Branch
+  swift: ABOCKRSEXXX
+  swift8: ABOCKRSE
+  branch_name: Head Office
+  branch_address: Taepyung-Ro 1-Ga, Chung-Gu 84 100-768 Seoul
+  branch_code: XXX
+  city: Seoul
+  country: South Korea
+- name: Aia International, Korea Branch
+  swift: AIKRKRS1XXX
+  swift8: AIKRKRS1
+  branch_name: No branch name
+  branch_address: No branch address
+  branch_code: XXX
+  city: Seoul
+  country: South Korea
+- name: Ang Investment Trust Management Company
+  swift: AITMKRS1XXX
+  swift8: AITMKRS1
+  branch_name: Head Office
+  branch_address: Yeoidodong Seoul
+  branch_code: XXX
+  city: Seoul
+  country: South Korea
+- name: Banco Bilbao Vizcaya Argentaria Sa.
+  swift: BBVAKRSEXXX
+  swift8: BBVAKRSE
+  branch_name: Head Office
+  branch_address: Seoul Finance Center 100-768 Seoul
+  branch_code: XXX
+  city: Seoul
+  country: South Korea
+- name: Bank Of America, N.a. Pusan
+  swift: BOFAKR2102P
+  swift8: BOFAKR21
+  branch_name: 600 011 Pusan
+  branch_address: 77-1, Chungang-Dong, Chung-Ku 600 011 Pusan
+  branch_code: 02P
+  city: Pusan
+  country: South Korea
+- name: Bank Of America, N.a. Seoul Branch
+  swift: BOFAKR2XXXX
+  swift8: BOFAKR2X
+  branch_name: Head Office
+  branch_address: Seoul Finance Center 100 768 Seoul
+  branch_code: XXX
+  city: Seoul
+  country: South Korea
+- name: Bank Of China Seoul Branch
+  swift: BKCHKRSEANS
+  swift8: BKCHKRSE
+  branch_name: Ansan Branch
+  branch_address: 797-1 Wonkok-Dong, Danwon-Gu Ansan
+  branch_code: ANS
+  city: Ansan
+  country: South Korea
+- name: Bank Of China Seoul Branch
+  swift: BKCHKRSEDAE
+  swift8: BKCHKRSE
+  branch_name: Daegu Branch
+  branch_address: Asia Cement Building 703-802 Daegu
+  branch_code: DAE
+  city: Daegu
+  country: South Korea
+- name: Bank Of China Seoul Branch
+  swift: BKCHKRSEGRO
+  swift8: BKCHKRSE
+  branch_name: Guro Branch
+  branch_address: Smile B/D 155-75 Seoul
+  branch_code: GRO
+  city: Seoul
+  country: South Korea
+- name: Bank Of China Seoul Branch
+  swift: BKCHKRSEGUR
+  swift8: BKCHKRSE
+  branch_name: Guro Branch
+  branch_address: Guro Gongdan Guro-Gu Seoul
+  branch_code: GUR
+  city: Seoul
+  country: South Korea
+- name: Bank Of China Seoul Branch
+  swift: BKCHKRSEICN
+  swift8: BKCHKRSE
+  branch_name: Incheon Branch
+  branch_address: China Town, Sinpo-Dong Incheon
+  branch_code: ICN
+  city: Incheon
+  country: South Korea
+- name: Bank Of China Seoul Branch
+  swift: BKCHKRSEXXX
+  swift8: BKCHKRSE
+  branch_name: Head Office
+  branch_address: Young Poong Buildings 110-752 Seoul
+  branch_code: XXX
+  city: Seoul
+  country: South Korea
+- name: Bank Of Communications Co. Ltd Seoul Branch
+  swift: COMMKRSEXXX
+  swift8: COMMKRSE
+  branch_name: Head Office
+  branch_address: 6th Samsung Fire Main Bldg. 100-191 Seoul
+  branch_code: XXX
+  city: Seoul
+  country: South Korea
+- name: Bank Of Korea
+  swift: BOKRKRSTXXX
+  swift8: BOKRKRST
+  branch_name: No branch name
+  branch_address: No branch address
+  branch_code: XXX
+  city: Seoul
+  country: South Korea
+- name: Bank Of Korea, The
+  swift: BOKRKRSEXXX
+  swift8: BOKRKRSE
+  branch_name: Head Office
+  branch_address: 110, 3-Ga, Namdaemun-Ro, Chung-Gu 100 794 Seoul
+  branch_code: XXX
+  city: Seoul
+  country: South Korea
+- name: Bank Of Nova Scotia, The, Seoul Branch
+  swift: NOSCKRSEXXX
+  swift8: NOSCKRSE
+  branch_name: Head Office
+  branch_address: Dong-a Media Center 110 715 Seoul
+  branch_code: XXX
+  city: Seoul
+  country: South Korea
+- name: Bankers Trust International
+  swift: BKTIKRS1XXX
+  swift8: BKTIKRS1
+  branch_name: Head Office
+  branch_address: Hanhwa Building 100-070 Seoul
+  branch_code: XXX
+  city: Seoul
+  country: South Korea
+- name: Barclays Bank Plc, Seoul Branch
+  swift: BARCKRSEXXX
+  swift8: BARCKRSE
+  branch_name: Head Office
+  branch_address: Seoul Finance Center 100-768 Seoul
+  branch_code: XXX
+  city: Seoul
+  country: South Korea
+- name: Barclays Capital Securities Ltd, Seoul Branch
+  swift: BCSCKRS1XXX
+  swift8: BCSCKRS1
+  branch_name: Head Office
+  branch_address: Seoul Finance Center 100-768 Seoul
+  branch_code: XXX
+  city: Seoul
+  country: South Korea
+- name: Barclays De Zoete Wedd Securities Ltd.
+  swift: BZWSKRS1XXX
+  swift8: BZWSKRS1
+  branch_name: Head Office
+  branch_address: Kyobo Building 110-714 Seoul
+  branch_code: XXX
+  city: Seoul
+  country: South Korea
+- name: Baro Investment Securities
+  swift: BRIUKRS1XXX
+  swift8: BRIUKRS1
+  branch_name: Head Office
+  branch_address: F and F Building 135-913 Seoul
+  branch_code: XXX
+  city: Seoul
+  country: South Korea
+- name: Bat Korea Manufacturing Ltd
+  swift: BATSKR21XXX
+  swift8: BATSKR21
+  branch_name: No branch name
+  branch_address: No branch address
+  branch_code: XXX
+  city: Sacheon
+  country: South Korea
+- name: Bnp Paribas Securities Korea Co., Ltd.
+  swift: BPPSKRS1XXX
+  swift8: BPPSKRS1
+  branch_name: Head Office
+  branch_address: Taepyeongro Building 100-767 Seoul
+  branch_code: XXX
+  city: Seoul
+  country: South Korea
+- name: Bnp Paribas Seoul Branch
+  swift: BNPAKRSEXXX
+  swift8: BNPAKRSE
+  branch_name: Head Office
+  branch_address: Taepyeongno Building 100 767 Seoul
+  branch_code: XXX
+  city: Seoul
+  country: South Korea
+- name: British American Tobacco Korea
+  swift: BATSKRS1XXX
+  swift8: BATSKRS1
+  branch_name: No branch name
+  branch_address: No branch address
+  branch_code: XXX
+  city: Seoul
+  country: South Korea
+- name: Busan Bank
+  swift: PUSBKR2PINT
+  swift8: PUSBKR2P
+  branch_name: International Department Seoul
+  branch_address: Kumseki Building 100 191 Seoul
+  branch_code: INT
+  city: Seoul
+  country: South Korea
+- name: Busan Bank
+  swift: PUSBKR2PMAS
+  swift8: PUSBKR2P
+  branch_name: Masan Branch
+  branch_address: 658-4 Pongam-Dong Masan
+  branch_code: MAS
+  city: Masan
+  country: South Korea
+- name: Busan Bank
+  swift: PUSBKR2PSEL
+  swift8: PUSBKR2P
+  branch_name: Seoul Branch
+  branch_address: Kumseki Building 100 191 Seoul
+  branch_code: SEL
+  city: Seoul
+  country: South Korea
+- name: Busan Bank
+  swift: PUSBKR2PXXX
+  swift8: PUSBKR2P
+  branch_name: Head Office
+  branch_address: 830-38 Beomil-Dong, Dong-Gu 601 717 Busan
+  branch_code: XXX
+  city: Busan
+  country: South Korea
+- name: Bzw Securities Ltd.
+  swift: BZSEKRS1XXX
+  swift8: BZSEKRS1
+  branch_name: Head Office
+  branch_address: Kyobo Building 110 714 Seoul
+  branch_code: XXX
+  city: Seoul
+  country: South Korea
+- name: Cheil Industries Inc.
+  swift: CIISKR22XXX
+  swift8: CIISKR22
+  branch_name: Head Office
+  branch_address: Cheil Industries R and D Building 437-711 Uiwang-Si
+  branch_code: XXX
+  city: Uiwang
+  country: South Korea
+- name: Cheil Worldwide, Inc
+  swift: CIWWKRSEXXX
+  swift8: CIWWKRSE
+  branch_name: Head Office
+  branch_address: Cheil Worldwide, Inc 140-739 Seoul
+  branch_code: XXX
+  city: Seoul
+  country: South Korea
+- name: China Construction Bank Seoul Branch
+  swift: PCBCKRSEXXX
+  swift8: PCBCKRSE
+  branch_name: Head Office
+  branch_address: Seoul Finance Centre 100-101 Seoul
+  branch_code: XXX
+  city: Seoul
+  country: South Korea
+- name: Cho Hung Securities Corporation
+  swift: CHHEKRS1XXX
+  swift8: CHHEKRS1
+  branch_name: Head Office
+  branch_address: 44-5 Youido-Dong 100021 Seoul
+  branch_code: XXX
+  city: Seoul
+  country: South Korea
+- name: Cimb Securities Ltd., Korea Branch
+  swift: CSKRKRS1XXX
+  swift8: CSKRKRS1
+  branch_name: Head Office
+  branch_address: S-Tower 110-700 Seoul
+  branch_code: XXX
+  city: Seoul
+  country: South Korea
+- name: Citibank Korea Inc
+  swift: CITIKRSXWLS
+  swift8: CITIKRSX
+  branch_name: Worldlink Operation
+  branch_address: Citibank H.Q. 100-180 Seoul
+  branch_code: WLS
+  city: Seoul
+  country: South Korea
+- name: Citibank Korea Inc
+  swift: CITIKRSXXXX
+  swift8: CITIKRSX
+  branch_name: Head Office
+  branch_address: 39 Da-Dong, Chung-Ku 110 180 Seoul
+  branch_code: XXX
+  city: Seoul
+  country: South Korea
+- name: Citigroup Global Markets Korea Securities Limited
+  swift: KBSSKRS1XXX
+  swift8: KBSSKRS1
+  branch_name: Head Office
+  branch_address: Dong-a Life Insurance Building Seoul
+  branch_code: XXX
+  city: Seoul
+  country: South Korea
+- name: Clsa Securities Korea Ltd.
+  swift: CLSAKRS1XXX
+  swift8: CLSAKRS1
+  branch_name: Head Office
+  branch_address: Sean Building 110 061 Seoul
+  branch_code: XXX
+  city: Seoul
+  country: South Korea
+- name: Credit Suisse Ag, Seoul Branch
+  swift: CRESKRSEXXX
+  swift8: CRESKRSE
+  branch_name: Head Office
+  branch_address: Hanwha Building 100-755 Seoul
+  branch_code: XXX
+  city: Seoul
+  country: South Korea
+- name: Credit Suisse Securities (europe) Limited, Seoul Branch
+  swift: CSFBKRSEXXX
+  swift8: CSFBKRSE
+  branch_name: Head Office
+  branch_address: Hanhwa Building 100-070 Seoul
+  branch_code: XXX
+  city: Seoul
+  country: South Korea
+- name: Dae Han Securities Co Ltd
+  swift: DAHUKRS1XXX
+  swift8: DAHUKRS1
+  branch_name: Head Office
+  branch_address: 44-31 Yoido-Dong, Youngdeungpo-Ku 150 010 Seoul
+  branch_code: XXX
+  city: Seoul
+  country: South Korea
+- name: Dae Yu Securities Co. Ltd.
+  swift: DAECKRS1XXX
+  swift8: DAECKRS1
+  branch_name: Head Office
+  branch_address: 25-15 Yoido-Dong, Youngdeungpo-Ku 150 010 Seoul
+  branch_code: XXX
+  city: Seoul
+  country: South Korea
+- name: Daegu Bank, Ltd.,the
+  swift: DAEBKR22SEL
+  swift8: DAEBKR22
+  branch_name: 100 070 Seoul
+  branch_address: Samgu Building 100 070 Seoul
+  branch_code: SEL
+  city: Seoul
+  country: South Korea
+- name: Daegu Bank, Ltd.,the
+  swift: DAEBKR22XXX
+  swift8: DAEBKR22
+  branch_name: Head Office
+  branch_address: 118, 2-Ga, Susung-Dong, Susung-Gu 706 032 Daegu
+  branch_code: XXX
+  city: Daegu
+  country: South Korea
+- name: Daewoo Securities Co., Ltd.
+  swift: DWSEKRSEXXX
+  swift8: DWSEKRSE
+  branch_name: Head Office
+  branch_address: Daewoo Securities Building 150 716 Seoul
+  branch_code: XXX
+  city: Seoul
+  country: South Korea
+- name: Daimler Trucks Korea Ltd.
+  swift: DTKRKRSEXXX
+  swift8: DTKRKRSE
+  branch_name: No branch name
+  branch_address: No branch address
+  branch_code: XXX
+  city: Seoul
+  country: South Korea
+- name: Daishin Asset Management
+  swift: DAMSKRS1XXX
+  swift8: DAMSKRS1
+  branch_name: No branch name
+  branch_address: No branch address
+  branch_code: XXX
+  city: Seoul
+  country: South Korea
+- name: Daishin Securites Co., Ltd
+  swift: DSSCKRSEXXX
+  swift8: DSSCKRSE
+  branch_name: No branch name
+  branch_address: No branch address
+  branch_code: XXX
+  city: Seoul
+  country: South Korea
+- name: Daiwa Securities Capital Markets Korea Co.,ltd.
+  swift: DSCCKRS1XXX
+  swift8: DSCCKRS1
+  branch_name: Head Office
+  branch_address: Hanadaetoo Securities Building 150-705 Seoul
+  branch_code: XXX
+  city: Seoul
+  country: South Korea
+- name: Dbs Bank Ltd, Seoul Branch
+  swift: DBSSKRSEIBD
+  swift8: DBSSKRSE
+  branch_name: Seoul Branch
+  branch_address: Seoul
+  branch_code: IBD
+  city: Seoul
+  country: South Korea
+- name: Dbs Bank Ltd, Seoul Branch
+  swift: DBSSKRSEXXX
+  swift8: DBSSKRSE
+  branch_name: Head Office
+  branch_address: Kwanghwamoon Building 100-180 Seoul
+  branch_code: XXX
+  city: Seoul
+  country: South Korea
+- name: Deutsche Bank Ag, Seoul Branch
+  swift: DEUTKRSEXXX
+  swift8: DEUTKRSE
+  branch_name: Head Office
+  branch_address: Sei an Building 110 061 Seoul
+  branch_code: XXX
+  city: Seoul
+  country: South Korea
+- name: Deutsche Securities Korea Co.
+  swift: DSALKRS1XXX
+  swift8: DSALKRS1
+  branch_name: Head Office
+  branch_address: Hanwha Building 100-755 Seoul
+  branch_code: XXX
+  city: Seoul
+  country: South Korea
+- name: Dong Bu Securities Co. Ltd.
+  swift: DSEUKRS1XXX
+  swift8: DSEUKRS1
+  branch_name: Head Office
+  branch_address: 889 Daechi-Dong, Gangnam-Ku 135 280 Seoul
+  branch_code: XXX
+  city: Seoul
+  country: South Korea
+- name: Dongbu Asset Management
+  swift: DAMGKRS1XXX
+  swift8: DAMGKRS1
+  branch_name: Head Office
+  branch_address: Shinsong Center B/D 150-711 Seoul
+  branch_code: XXX
+  city: Seoul
+  country: South Korea
+- name: Dongsuh Securities Co Ltd.
+  swift: DOSEKRS1XXX
+  swift8: DOSEKRS1
+  branch_name: Head Office
+  branch_address: 33 Da-Dong Chung-Ku 100-193 Seoul
+  branch_code: XXX
+  city: Seoul
+  country: South Korea
+- name: Dream Asset Management Co., Ltd
+  swift: DASGKRS1XXX
+  swift8: DASGKRS1
+  branch_name: Head Office
+  branch_address: Korean Fire Protection Association 150 885 Seoul
+  branch_code: XXX
+  city: Seoul
+  country: South Korea
+- name: E Trade Korea Co., Ltd.
+  swift: ETSIKRS1XXX
+  swift8: ETSIKRS1
+  branch_name: Head Office
+  branch_address: Korea Investment Trust Building 150-745 Seoul
+  branch_code: XXX
+  city: Seoul
+  country: South Korea
+- name: Eland World Limited
+  swift: ELGTKRSEXXX
+  swift8: ELGTKRSE
+  branch_name: Head Office
+  branch_address: Eland World B/D 153-803 Seoul
+  branch_code: XXX
+  city: Seoul
+  country: South Korea
+- name: Eugene Investment And Securities Co.,ltd.
+  swift: SEOSKRS1XXX
+  swift8: SEOSKRS1
+  branch_name: Head Office
+  branch_address: Eugene Securities Co.,Bilg 150010 Seoul
+  branch_code: XXX
+  city: Seoul
+  country: South Korea
+- name: First Securities Co Ltd
+  swift: FIRSKRS1XXX
+  swift8: FIRSKRS1
+  branch_name: Head Office
+  branch_address: 44-11 Yoido-Dong, Youngdeungpo-Ku 150 010 Seoul
+  branch_code: XXX
+  city: Seoul
+  country: South Korea
+- name: Fitch Ratings Ltd (korea Branch
+  swift: FRIPKRS1XXX
+  swift8: FRIPKRS1
+  branch_name: Head Office
+  branch_address: Kyobo Securities Building 150 737 Seoul
+  branch_code: XXX
+  city: Seoul
+  country: South Korea
+- name: Goldman Sachs (asia) L.l.c. Seoul Branch
+  swift: GSALKRSEXXX
+  swift8: GSALKRSE
+  branch_name: Head Office
+  branch_address: Dong Ah Life Insurance Building Seoul
+  branch_code: XXX
+  city: Seoul
+  country: South Korea
+- name: Goldman Sachs International Bank, Seoul Branch
+  swift: GSIBKRSEXXX
+  swift8: GSIBKRSE
+  branch_name: Head Office
+  branch_address: Hungkuk Life Insurance Building 110-786 Seoul
+  branch_code: XXX
+  city: Seoul
+  country: South Korea
+- name: Han Yang Security Co. Ltd.
+  swift: HAYSKRS1XXX
+  swift8: HAYSKRS1
+  branch_name: Head Office
+  branch_address: 34-11 Yoido-Dong, Youngdeungpo-Ku 150 010 Seoul
+  branch_code: XXX
+  city: Seoul
+  country: South Korea
+- name: Hana Bank
+  swift: HNBNKRSETCS
+  swift8: HNBNKRSE
+  branch_name: Seoul
+  branch_address: Seoul
+  branch_code: TCS
+  city: Seoul
+  country: South Korea
+- name: Hana Bank
+  swift: HNBNKRSEXXX
+  swift8: HNBNKRSE
+  branch_name: Head Office
+  branch_address: Hana Bank Annex 100-720 Seoul
+  branch_code: XXX
+  city: Seoul
+  country: South Korea
+- name: Hana Daetoo Securities
+  swift: HNDTKRSEXXX
+  swift8: HNDTKRSE
+  branch_name: Head Office
+  branch_address: Yeouido-Dong, Yeoungdeungpo-Gu 27-3 150-705 Seoul
+  branch_code: XXX
+  city: Seoul
+  country: South Korea
+- name: Hanmag Securities Corporation
+  swift: HASNKRS1XXX
+  swift8: HASNKRS1
+  branch_name: Head Office
+  branch_address: Daehan Building 150-878 Seoul
+  branch_code: XXX
+  city: Seoul
+  country: South Korea
+- name: Hanshin Securities Co. Ltd.
+  swift: HNSEKRS1XXX
+  swift8: HNSEKRS1
+  branch_name: Head Office
+  branch_address: 34-7, Yoido-Dong, Youngdeungpo-Gu 150 010 Seoul
+  branch_code: XXX
+  city: Seoul
+  country: South Korea
+- name: Hanwha Investment Trust Management
+  swift: HAITKRS1XXX
+  swift8: HAITKRS1
+  branch_name: Head Office
+  branch_address: Hanwha Securities Bldg 150-717 Seoul
+  branch_code: XXX
+  city: Seoul
+  country: South Korea
+- name: Hanwha Life Insurance
+  swift: HWLIKRSEXXX
+  swift8: HWLIKRSE
+  branch_name: No branch name
+  branch_address: No branch address
+  branch_code: XXX
+  city: Seoul
+  country: South Korea
+- name: Hanwha Life Insurance
+  swift: HWLIKRS1XXX
+  swift8: HWLIKRS1
+  branch_name: Head Office
+  branch_address: Hanwha Life 63 Building 150-763 Seoul
+  branch_code: XXX
+  city: Seoul
+  country: South Korea
+- name: Hanwha Securities Seoul
+  swift: HNWSKRS1XXX
+  swift8: HNWSKRS1
+  branch_name: Head Office
+  branch_address: No.23-5 Yoido-Dong, Youngdungpo-Gu Seoul
+  branch_code: XXX
+  city: Seoul
+  country: South Korea
+- name: Hanyang Securities Co. Ltd.
+  swift: HSECKRS1XXX
+  swift8: HSECKRS1
+  branch_name: Head Office
+  branch_address: 34-11, Youido-Dong, Young Deungpo-Ku 150 010 Seoul
+  branch_code: XXX
+  city: Seoul
+  country: South Korea
+- name: Hewlett-packard Korea Ltd.
+  swift: HEKOKRS1XXX
+  swift8: HEKOKRS1
+  branch_name: Head Office
+  branch_address: Hp Korea House 150 742 Seoul
+  branch_code: XXX
+  city: Seoul
+  country: South Korea
+- name: Hi Asset Management
+  swift: ASNMKRS1XXX
+  swift8: ASNMKRS1
+  branch_name: Head Office
+  branch_address: 25-15 Yoidodong Seoul
+  branch_code: XXX
+  city: Seoul
+  country: South Korea
+- name: Hsbc Fund Services (korea) Limited
+  swift: HIFKKRSEXXX
+  swift8: HIFKKRSE
+  branch_name: Head Office
+  branch_address: Kyobo Building 150-737 Seoul
+  branch_code: XXX
+  city: Seoul
+  country: South Korea
+- name: Hyundai Asset Management
+  swift: HYAMKRS1XXX
+  swift8: HYAMKRS1
+  branch_name: Head Office
+  branch_address: E Room Center 150-874 Seoul
+  branch_code: XXX
+  city: Seoul
+  country: South Korea
+- name: Hyundai Securities
+  swift: HYSEKRSEXXX
+  swift8: HYSEKRSE
+  branch_name: Head Office
+  branch_address: Hyundai Securities Building 150-735 Seoul
+  branch_code: XXX
+  city: Seoul
+  country: South Korea
+- name: Indian Overseas Bank, Seoul Branch
+  swift: IOBAKRSEXXX
+  swift8: IOBAKRSE
+  branch_name: Head Office
+  branch_address: Building 2431 Seoul
+  branch_code: XXX
+  city: Seoul
+  country: South Korea
+- name: Industrial Bank Of Korea
+  swift: IBKOKRSEXXX
+  swift8: IBKOKRSE
+  branch_name: Head Office Seoul
+  branch_address: 50, Ulchiro 2-Ga, Chung-Gu 100 758 Seoul
+  branch_code: XXX
+  city: Seoul
+  country: South Korea
+- name: J. Henry Schroder Wagg And Co Ltd
+  swift: JHSWKRS1XXX
+  swift8: JHSWKRS1
+  branch_name: Head Office
+  branch_address: Kyobo Building 110-714 Seoul
+  branch_code: XXX
+  city: Seoul
+  country: South Korea
+- name: J.p. Morgan Securities (far East) Ltd
+  swift: CHASKRSEENQ
+  swift8: CHASKRSE
+  branch_name: Telex and S W I F T Message Enquiries
+  branch_address: Seoul
+  branch_code: ENQ
+  city: Seoul
+  country: South Korea
+- name: J.p. Morgan Securities (far East) Ltd
+  swift: CHASKRSEKEY
+  swift8: CHASKRSE
+  branch_name: Test Key and Bke Administration
+  branch_address: Seoul
+  branch_code: KEY
+  city: Seoul
+  country: South Korea
+- name: J.p. Morgan Securities (far East) Ltd
+  swift: CHASKRSEXXX
+  swift8: CHASKRSE
+  branch_name: Head Office
+  branch_address: Jpmorgan Plaza 100120 Seoul
+  branch_code: XXX
+  city: Seoul
+  country: South Korea
+- name: J.p. Morgan Securities Asia Ltd
+  swift: JMSAKRS1XXX
+  swift8: JMSAKRS1
+  branch_name: Head Office
+  branch_address: Kyobo Building 110-714 Seoul
+  branch_code: XXX
+  city: Seoul
+  country: South Korea
+- name: Jeju Bank
+  swift: JJBKKR22XXX
+  swift8: JJBKKR22
+  branch_name: Head Office
+  branch_address: 1349 Yi-Do 1-Dong 690-829 Jeju
+  branch_code: XXX
+  city: Jeju
+  country: South Korea
+- name: Jeonbuk Bank
+  swift: JEONKRS1022
+  swift8: JEONKRS1
+  branch_name: Jeonju
+  branch_address: Jeonju
+  branch_code: '022'
+  city: Jeonju
+  country: South Korea
+- name: Jeonbuk Bank
+  swift: JEONKRSEXXX
+  swift8: JEONKRSE
+  branch_name: Head Office
+  branch_address: Seoul Finance Center 100-768 Seoul
+  branch_code: XXX
+  city: Seoul
+  country: South Korea
+- name: Jpmorgan Chase Bank, N.a., Seoul Branch
+  swift: CHASKRSXENQ
+  swift8: CHASKRSX
+  branch_name: Telex and S W I F T Message Enquiries
+  branch_address: Seoul
+  branch_code: ENQ
+  city: Seoul
+  country: South Korea
+- name: Jpmorgan Chase Bank, N.a., Seoul Branch
+  swift: CHASKRSXKEY
+  swift8: CHASKRSX
+  branch_name: Test Key and Bke Administration
+  branch_address: Seoul
+  branch_code: KEY
+  city: Seoul
+  country: South Korea
+- name: Jpmorgan Chase Bank, N.a., Seoul Branch
+  swift: CHASKRSXXXX
+  swift8: CHASKRSX
+  branch_name: Head Office
+  branch_address: Jpmorgan Plaza 100 120 Seoul
+  branch_code: XXX
+  city: Seoul
+  country: South Korea
+- name: Kb Asset Management
+  swift: KBAMKRS1XXX
+  swift8: KBAMKRS1
+  branch_name: Head Office
+  branch_address: Good Morning Tower 150-712 Seoul
+  branch_code: XXX
+  city: Seoul
+  country: South Korea
+- name: Kb Investment And Securities Co., Ltd.
+  swift: HISOKRS1XXX
+  swift8: HISOKRS1
+  branch_name: Head Office
+  branch_address: Good Morning Tower Seoul
+  branch_code: XXX
+  city: Seoul
+  country: South Korea
+- name: Kdb Asset Management
+  swift: KDAMKRS1XXX
+  swift8: KDAMKRS1
+  branch_name: Head Office
+  branch_address: Hp Korea House 150 724 Seoul
+  branch_code: XXX
+  city: Seoul
+  country: South Korea
+- name: Kdb Securities Co. Ltd.
+  swift: KDBSKRS1XXX
+  swift8: KDBSKRS1
+  branch_name: Head Office
+  branch_address: 25-12 Yoido-Dong Youngdeungpo-Ku 150-010 Seoul
+  branch_code: XXX
+  city: Seoul
+  country: South Korea
+- name: Keimyung University
+  swift: KEUNKR21XXX
+  swift8: KEUNKR21
+  branch_name: Head Office
+  branch_address: 1000 Sindangdong Dalseogu 704-701 Daegu
+  branch_code: XXX
+  city: Daegu
+  country: South Korea
+- name: Kfb Securities Co. Ltd.
+  swift: SANSKRS1XXX
+  swift8: SANSKRS1
+  branch_name: Head Office
+  branch_address: 198, 2-Ka Euljiro, Chung-Ku 100 192 Seoul
+  branch_code: XXX
+  city: Seoul
+  country: South Korea
+- name: Kiwoom Securities
+  swift: KIWSKRS1XXX
+  swift8: KIWSKRS1
+  branch_name: Head Office
+  branch_address: Yuhwasecurities Bldg 150-738 Seoul
+  branch_code: XXX
+  city: Seoul
+  country: South Korea
+- name: Kiwoom Securities Co,. Ltd.
+  swift: KIWCKRS1XXX
+  swift8: KIWCKRS1
+  branch_name: Head Office
+  branch_address: 23-7, Yoido-Dong, Youngdengpo-Gu 150-738 Seoul
+  branch_code: XXX
+  city: Seoul
+  country: South Korea
+- name: Kleinwort Benson Ltd
+  swift: KLBCKRS1XXX
+  swift8: KLBCKRS1
+  branch_name: Head Office
+  branch_address: Ima Building Seoul
+  branch_code: XXX
+  city: Seoul
+  country: South Korea
+- name: Korea Exchange
+  swift: KORXKR21XXX
+  swift8: KORXKR21
+  branch_name: Head Office
+  branch_address: 134, Jaseong-Ro, Dong-Gu 601720 Busan
+  branch_code: XXX
+  city: Busan
+  country: South Korea
+- name: Korea Financial Telecommunications And Clearing Institute
+  swift: KFTCKRS1XXX
+  swift8: KFTCKRS1
+  branch_name: Head Office
+  branch_address: 717 Yeoksam-Dong Seoul
+  branch_code: XXX
+  city: Seoul
+  country: South Korea
+- name: Korea Investment And Securities Co., Ltd.
+  swift: KISEKRSEXXX
+  swift8: KISEKRSE
+  branch_name: Head Office
+  branch_address: 27-1 Yeoido-Dong Yeongdeungpogu 150-745 Seoul
+  branch_code: XXX
+  city: Seoul
+  country: South Korea
+- name: Korea Investment Trust Management Co
+  swift: KITNKRS1XXX
+  swift8: KITNKRS1
+  branch_name: Head Office
+  branch_address: 27-1, Yeouido-Dong, Yeongdeungpo 150-745 Seoul
+  branch_code: XXX
+  city: Seoul
+  country: South Korea
+- name: Korea Long Term Bank Securities
+  swift: KLTEKRS1XXX
+  swift8: KLTEKRS1
+  branch_name: Head Office
+  branch_address: 15-22 Yoido-Dong, Youngdeungpo-Gu Seoul
+  branch_code: XXX
+  city: Seoul
+  country: South Korea
+- name: Korea Securities Depository
+  swift: KSDCKRSEFOT
+  swift8: KSDCKRSE
+  branch_name: Fundoperatiom Team
+  branch_address: Korea Secuties Depository 150-948 Seoul
+  branch_code: FOT
+  city: Seoul
+  country: South Korea
+- name: Korea Securities Depository
+  swift: KSDCKRSEFUN
+  swift8: KSDCKRSE
+  branch_name: Fund Settlement Team
+  branch_address: Korea Securities Depository 150-948 Seoul
+  branch_code: FUN
+  city: Seoul
+  country: South Korea
+- name: Korea Securities Depository
+  swift: KSDCKRSEKDR
+  swift8: KSDCKRSE
+  branch_name: Kdr Team
+  branch_address: Seoul
+  branch_code: KDR
+  city: Seoul
+  country: South Korea
+- name: Korea Securities Depository
+  swift: KSDCKRSESLB
+  swift8: KSDCKRSE
+  branch_name: Securities Lending and Borrowing
+  branch_address: Seoul
+  branch_code: SLB
+  city: Seoul
+  country: South Korea
+- name: Korea Securities Depository
+  swift: KSDCKRSEXXX
+  swift8: KSDCKRSE
+  branch_name: Head Office
+  branch_address: 33 Yoido-Dong Youngdeungpo-Ku 150-010 Seoul
+  branch_code: XXX
+  city: Seoul
+  country: South Korea
+- name: Korea Securities Finance Corporation (ksfc
+  swift: KOSFKRS1XXX
+  swift8: KOSFKRS1
+  branch_name: Head Office
+  branch_address: Ksfc Building 150-884 Seoul
+  branch_code: XXX
+  city: Seoul
+  country: South Korea
+- name: Korea Trade Insurance Corporation
+  swift: KEXIKRSEXXX
+  swift8: KEXIKRSE
+  branch_name: Head Office
+  branch_address: Seoul Central Building 110-729 Seoul
+  branch_code: XXX
+  city: Seoul
+  country: South Korea
+- name: Ktb Asset Management
+  swift: KTAMKRS1XXX
+  swift8: KTAMKRS1
+  branch_name: Head Office
+  branch_address: Kofia Building 150-974 Seoul
+  branch_code: XXX
+  city: Seoul
+  country: South Korea
+- name: Ktb Investment And Securities Co., Ltd
+  swift: BRNAKRS1XXX
+  swift8: BRNAKRS1
+  branch_name: Head Office
+  branch_address: 11/F Hana Securities Building 150-709 Seoul
+  branch_code: XXX
+  city: Seoul
+  country: South Korea
+- name: Kwangju Bank Ltd, The
+  swift: KWABKRSEXXX
+  swift8: KWABKRSE
+  branch_name: Head Office
+  branch_address: 43-2, Yoido-Dong, Yeoungdeungpo-Ku 150 010 Seoul
+  branch_code: XXX
+  city: Seoul
+  country: South Korea
+- name: Kyobo Axa Investment Managers Co., Ltd.
+  swift: KAIGKRS1XXX
+  swift8: KAIGKRS1
+  branch_name: Head Office
+  branch_address: Kyobo Building 110 714 Seoul
+  branch_code: XXX
+  city: Seoul
+  country: South Korea
+- name: Kyobo Life Insurance Co., Ltd.
+  swift: KYBOKRSEXXX
+  swift8: KYBOKRSE
+  branch_name: Head Office
+  branch_address: Jongno-1ga, Jongno-Gu, 1 110-714 Seoul
+  branch_code: XXX
+  city: Seoul
+  country: South Korea
+- name: Kyobo Securities Co., Ltd.
+  swift: KYOBKRS1XXX
+  swift8: KYOBKRS1
+  branch_name: Head Office
+  branch_address: Kyobo Securities Building 150-737 Seoul
+  branch_code: XXX
+  city: Seoul
+  country: South Korea
+- name: Kyongnam Bank
+  swift: KYNAKR22ITL
+  swift8: KYNAKR22
+  branch_name: International Department Seoul
+  branch_address: Seoul
+  branch_code: ITL
+  city: Seoul
+  country: South Korea
+- name: Kyongnam Bank
+  swift: KYNAKR22XXX
+  swift8: KYNAKR22
+  branch_name: Head Office
+  branch_address: 246-1, Sokchon-Dong, Hoewon-Gu 630-010 Masan
+  branch_code: XXX
+  city: Masan
+  country: South Korea
+- name: Landesbank Baden-wuerttemberg, Seoul
+  swift: SOLAKRSEXXX
+  swift8: SOLAKRSE
+  branch_name: Head Office
+  branch_address: Seoul Finance Center 100 768 Seoul
+  branch_code: XXX
+  city: Seoul
+  country: South Korea
+- name: Leading Investment And Securities C O., Ltd
+  swift: LISCKRS1XXX
+  swift8: LISCKRS1
+  branch_name: Head Office
+  branch_address: W Bank Bldg Seoul
+  branch_code: XXX
+  city: Seoul
+  country: South Korea
+- name: Lg Cns Co.,ltd
+  swift: LGCNKRS1XXX
+  swift8: LGCNKRS1
+  branch_name: Head Office
+  branch_address: Lg Twin Tower West Tower 150-721 Seoul
+  branch_code: XXX
+  city: Seoul
+  country: South Korea
+- name: Lg Display
+  swift: LGDTKRSEXXX
+  swift8: LGDTKRSE
+  branch_name: Head Office
+  branch_address: Lg Twin Tower (West) 150-721 Seoul
+  branch_code: XXX
+  city: Seoul
+  country: South Korea
+- name: Lg Electronics Inc.
+  swift: LGETKRSEXXX
+  swift8: LGETKRSE
+  branch_name: Head Office
+  branch_address: Lg Twin Tower West Tower 150-721 Seoul
+  branch_code: XXX
+  city: Seoul
+  country: South Korea
+- name: Lloyds Bank Plc
+  swift: LOYDKRS1XXX
+  swift8: LOYDKRS1
+  branch_name: Head Office
+  branch_address: Samsung Main Building Seoul
+  branch_code: XXX
+  city: Seoul
+  country: South Korea
+- name: Lotte Chemical Corporation
+  swift: LTCHKRS1XXX
+  swift8: LTCHKRS1
+  branch_name: Head Office
+  branch_address: Lotte Tower Seoul
+  branch_code: XXX
+  city: Seoul
+  country: South Korea
+- name: Lucky Securities Co. Ltd.
+  swift: LUSEKRS1XXX
+  swift8: LUSEKRS1
+  branch_name: Head Office
+  branch_address: 34-6 Yoido-Dong Youngdeungpo-Ku 150-010 Seoul
+  branch_code: XXX
+  city: Seoul
+  country: South Korea
+- name: Macquarie Bank Limited, Seoul Branch
+  swift: MACQKRSEXXX
+  swift8: MACQKRSE
+  branch_name: Head Office
+  branch_address: Hanwha Building Seoul
+  branch_code: XXX
+  city: Seoul
+  country: South Korea
+- name: Macquarie Securities Korea Limited
+  swift: BSKLKRS1XXX
+  swift8: BSKLKRS1
+  branch_name: Head Office
+  branch_address: Hanwha Building 110061 Seoul
+  branch_code: XXX
+  city: Seoul
+  country: South Korea
+- name: Mercedes-benz Financial Services Korea Ltd.
+  swift: MBFKKRSEXXX
+  swift8: MBFKKRSE
+  branch_name: Head Office
+  branch_address: Seoul Square Building 100-714 Seoul
+  branch_code: XXX
+  city: Seoul
+  country: South Korea
+- name: Mercedes-benz Korea Limited
+  swift: MBKRKRSEXXX
+  swift8: MBKRKRSE
+  branch_name: No branch name
+  branch_address: No branch address
+  branch_code: XXX
+  city: Seoul
+  country: South Korea
+- name: Meritz Asset Management
+  swift: MEEMKRS1XXX
+  swift8: MEEMKRS1
+  branch_name: No branch name
+  branch_address: No branch address
+  branch_code: XXX
+  city: Seoul
+  country: South Korea
+- name: Meritz Securities Co., Ltd.
+  swift: HAISKRS1XXX
+  swift8: HAISKRS1
+  branch_name: Head Office
+  branch_address: 34-10, Youido-Dong, Youngdeungpo-Ku Seoul
+  branch_code: XXX
+  city: Seoul
+  country: South Korea
+- name: Meritz Securities Co.,ltd
+  swift: KFBCKRSEXXX
+  swift8: KFBCKRSE
+  branch_name: Head Office
+  branch_address: Meritz Securities Bldg 150-884 Seoul
+  branch_code: XXX
+  city: Seoul
+  country: South Korea
+- name: Merrill Lynch And Company Inc.
+  swift: MLCOKRS1XXX
+  swift8: MLCOKRS1
+  branch_name: Head Office
+  branch_address: Kyobo Building Seoul
+  branch_code: XXX
+  city: Seoul
+  country: South Korea
+- name: Merrill Lynch International, Seoul Office
+  swift: MLKRKRS1XXX
+  swift8: MLKRKRS1
+  branch_name: Head Office
+  branch_address: Dong-Ah Life Insurance Building 100-180 Seoul
+  branch_code: XXX
+  city: Seoul
+  country: South Korea
+- name: Mirae Asset Fund Services
+  swift: MRFSKRSEXXX
+  swift8: MRFSKRSE
+  branch_name: Head Office
+  branch_address: Mirae Asset Life Insurance Bldg 150-994 Seoul
+  branch_code: XXX
+  city: Seoul
+  country: South Korea
+- name: Mirae Asset Global Investments
+  swift: MAONKRS1XXX
+  swift8: MAONKRS1
+  branch_name: Head Office
+  branch_address: 45-1 Yeouido-Dong 150-994 Seoul
+  branch_code: XXX
+  city: Seoul
+  country: South Korea
+- name: Mirae Asset Investment Management Co Ltd.
+  swift: MAVAKRS1XXX
+  swift8: MAVAKRS1
+  branch_name: Head Office
+  branch_address: Mirae Asset Building 150891 Seoul
+  branch_code: XXX
+  city: Seoul
+  country: South Korea
+- name: Mirae Asset Maps Global Investments
+  swift: MALSKRS1XXX
+  swift8: MALSKRS1
+  branch_name: Head Office
+  branch_address: 45-1 Yeouido-Dong 150-994 Seoul
+  branch_code: XXX
+  city: Seoul
+  country: South Korea
+- name: Mirae Asset Securities
+  swift: MIAEKRSEXXX
+  swift8: MIAEKRSE
+  branch_name: Head Office
+  branch_address: Mirae Asset Building 150-994 Seoul
+  branch_code: XXX
+  city: Seoul
+  country: South Korea
+- name: Mirae Asset Securities
+  swift: MIAEKRS1XXX
+  swift8: MIAEKRS1
+  branch_name: Head Office
+  branch_address: Mirae Asset Building 150-994 Seoul
+  branch_code: XXX
+  city: Seoul
+  country: South Korea
+- name: Mizuho Bank, Ltd., Seoul Branch
+  swift: MHCBKRSEXXX
+  swift8: MHCBKRSE
+  branch_name: Head Office
+  branch_address: 6, 2-Ka, Euljiro, Chung-Ku 100-192 Seoul
+  branch_code: XXX
+  city: Seoul
+  country: South Korea
+- name: Morgan Grenfell
+  swift: MGCOKRS1XXX
+  swift8: MGCOKRS1
+  branch_name: Head Office
+  branch_address: Young Poong Building 110-110 Seoul
+  branch_code: XXX
+  city: Seoul
+  country: South Korea
+- name: Morgan Stanley And Co Inc.
+  swift: MSNYKRS1XXX
+  swift8: MSNYKRS1
+  branch_name: Head Office
+  branch_address: Kyobo Building Seoul
+  branch_code: XXX
+  city: Seoul
+  country: South Korea
+- name: Morgan Stanley And Co. International Plc, Seoul Branch
+  swift: MSKRKRSXXXX
+  swift8: MSKRKRSX
+  branch_name: Head Office
+  branch_address: Kwangwha Mun Seoul
+  branch_code: XXX
+  city: Seoul
+  country: South Korea
+- name: Nacfca Itmc
+  swift: NACIKRS1XXX
+  swift8: NACIKRS1
+  branch_name: Head Office
+  branch_address: Hp Building 150-724 Seoul
+  branch_code: XXX
+  city: Seoul
+  country: South Korea
+- name: National Bank Of Pakistan, Seoul Branch Korea
+  swift: NBPAKRSIXXX
+  swift8: NBPAKRSI
+  branch_name: Head Office
+  branch_address: Kydo Building I 110-121 Seoul
+  branch_code: XXX
+  city: Seoul
+  country: South Korea
+- name: National Pension Service Fund Management Center Management Center
+  swift: NPSFKRS1XXX
+  swift8: NPSFKRS1
+  branch_name: Head Office
+  branch_address: National Pension Service Fund 135-811 Seoul
+  branch_code: XXX
+  city: Seoul
+  country: South Korea
+- name: New Japan Securities Co Ltd
+  swift: NJSCKRS1XXX
+  swift8: NJSCKRS1
+  branch_name: Head Office
+  branch_address: Press Centre Building Seoul
+  branch_code: XXX
+  city: Seoul
+  country: South Korea
+- name: Newedge Financial Hong Kong Limited, Seoul Branch
+  swift: NEWGKRS1XXX
+  swift8: NEWGKRS1
+  branch_name: Head Office
+  branch_address: Kyobo Building 110-714 Seoul
+  branch_code: XXX
+  city: Seoul
+  country: South Korea
+- name: Nh Investment And Securities Co.,ltd
+  swift: HNISKRS1XXX
+  swift8: HNISKRS1
+  branch_name: Head Office
+  branch_address: Nonghyup Welfare Bld 150-747 Seoul
+  branch_code: XXX
+  city: Seoul
+  country: South Korea
+- name: Nh-ca Asset Management
+  swift: NHAMKRS1XXX
+  swift8: NHAMKRS1
+  branch_name: Head Office
+  branch_address: Nonghyup Welfare Bld 150-747 Seoul
+  branch_code: XXX
+  city: Seoul
+  country: South Korea
+- name: Nike Sports Korea Co., Ltd.
+  swift: NIKEKRS1XXX
+  swift8: NIKEKRS1
+  branch_name: Head Office
+  branch_address: Gangnam Finance Center 135092 Seoul
+  branch_code: XXX
+  city: Seoul
+  country: South Korea
+- name: Nomura Financial Investment (korea) Co., Ltd.
+  swift: NFIKKRSEXXX
+  swift8: NFIKKRSE
+  branch_name: Head Office
+  branch_address: Seoul Finance Center 100 768 Seoul
+  branch_code: XXX
+  city: Seoul
+  country: South Korea
+- name: Nonghyup Bank (formerly Known As National Agricultural Cooperative Federation
+  swift: NACFKRSEXXX
+  swift8: NACFKRSE
+  branch_name: Head Office
+  branch_address: 75, 1-Ga, Chungjeong-Ro, Jung-Gu 100 707 Seoul
+  branch_code: XXX
+  city: Seoul
+  country: South Korea
+- name: Oversea-chinese Banking Coporation Limited, Seoul Branch
+  swift: OCBCKRSEXXX
+  swift8: OCBCKRSE
+  branch_name: Head Office
+  branch_address: Seoul Finance Center 100-768 Seoul
+  branch_code: XXX
+  city: Seoul
+  country: South Korea
+- name: Prudential Securities Inc.
+  swift: PBSIKRS1XXX
+  swift8: PBSIKRS1
+  branch_name: Head Office
+  branch_address: Daehan Fire/Machine Insurance Bldg 100-778 Seoul
+  branch_code: XXX
+  city: Seoul
+  country: South Korea
+- name: Rbs Asia Limited (seoul) Branch
+  swift: HGASKRS1XXX
+  swift8: HGASKRS1
+  branch_name: Head Office
+  branch_address: Seoul Finance Center 100-768 Seoul
+  branch_code: XXX
+  city: Seoul
+  country: South Korea
+- name: Rothmans Far East B.v. Korea
+  swift: BATSKR31XXX
+  swift8: BATSKR31
+  branch_name: No branch name
+  branch_address: No branch address
+  branch_code: XXX
+  city: Seoul
+  country: South Korea
+- name: Samsung Asset Management Co., Ltd.
+  swift: SITAKRS1XXX
+  swift8: SITAKRS1
+  branch_name: Head Office
+  branch_address: Samsung Life Insurance Co. Bldg Seoul
+  branch_code: XXX
+  city: Seoul
+  country: South Korea
+- name: Samsung C And T Corporation
+  swift: SCNTKRSEXXX
+  swift8: SCNTKRSE
+  branch_name: Head Office
+  branch_address: Samsung C and T Corp Bldg 137-956 Seoul
+  branch_code: XXX
+  city: Seoul
+  country: South Korea
+- name: Samsung C And T Corporation Trading And Investment
+  swift: SCNTKRSTXXX
+  swift8: SCNTKRST
+  branch_name: Head Office
+  branch_address: Samsung C and T Corporation Bldg 137-857 Seoul
+  branch_code: XXX
+  city: Seoul
+  country: South Korea
+- name: Samsung Electro-mechanics Co., Ltd
+  swift: SEMTKR22XXX
+  swift8: SEMTKR22
+  branch_name: Head Office
+  branch_address: Yeongtiong-Gu, Suwon-Si, Gyeonggi-Do 443-743 Suwon-Si
+  branch_code: XXX
+  city: Suwon-Si
+  country: South Korea
+- name: Samsung Electronics Co., Ltd.
+  swift: SECTKRSEXXX
+  swift8: SECTKRSE
+  branch_name: Head Office
+  branch_address: Samsung Main Buldg.Global-Erp 100-742 Seoul
+  branch_code: XXX
+  city: Seoul
+  country: South Korea
+- name: Samsung Everland Inc.
+  swift: SEVFKRSEXXX
+  swift8: SEVFKRSE
+  branch_name: No branch name
+  branch_address: No branch address
+  branch_code: XXX
+  city: Seoul
+  country: South Korea
+- name: Samsung Heavy Industries
+  swift: SSHIKRSEXXX
+  swift8: SSHIKRSE
+  branch_name: Head Office
+  branch_address: Samsung Life Insurance Tower 137-955 Seoul
+  branch_code: XXX
+  city: Seoul
+  country: South Korea
+- name: Samsung Life Insurance Co., Ltd
+  swift: SSLIKRSEXXX
+  swift8: SSLIKRSE
+  branch_name: Head Office
+  branch_address: Samsung Life Building 100 716 Seoul
+  branch_code: XXX
+  city: Seoul
+  country: South Korea
+- name: Samsung Sdi Co.,ltd.
+  swift: SSDIKR22XXX
+  swift8: SSDIKR22
+  branch_name: Head Office
+  branch_address: 428-5 Gongse-Dong, Giheung-Gu 446-577 Yongin-Si
+  branch_code: XXX
+  city: Yongin
+  country: South Korea
+- name: Samsung Sds Co., Ltd.
+  swift: SSDSKRSEXXX
+  swift8: SSDSKRSE
+  branch_name: Head Office
+  branch_address: Yeoksam-Dong, Kangnam-Gu 707-19 135-080 Seoul
+  branch_code: XXX
+  city: Seoul
+  country: South Korea
+- name: Samsung Securities Co.,ltd
+  swift: SAMCKRSLXXX
+  swift8: SAMCKRSL
+  branch_name: Head Office
+  branch_address: Samsung Main Bldg. 100-742 Seoul
+  branch_code: XXX
+  city: Seoul
+  country: South Korea
+- name: Samsung Securities Co.,ltd.
+  swift: SAMCKRS1DER
+  swift8: SAMCKRS1
+  branch_name: Derivates Sales Team
+  branch_address: Samsung Main Building 100-742 Seoul
+  branch_code: DER
+  city: Seoul
+  country: South Korea
+- name: Samsung Securities Co.,ltd.
+  swift: SAMCKRS1PRT
+  swift8: SAMCKRS1
+  branch_name: Proprietary Trading
+  branch_address: Seoul
+  branch_code: PRT
+  city: Seoul
+  country: South Korea
+- name: Samsung Securities Co.,ltd.
+  swift: SAMCKRS1XXX
+  swift8: SAMCKRS1
+  branch_name: Head Office
+  branch_address: Jongno Tower Bldg. 110-789 Seoul
+  branch_code: XXX
+  city: Seoul
+  country: South Korea
+- name: Seoul Guarantee Insurance Company
+  swift: KSGIKRSEXXX
+  swift8: KSGIKRSE
+  branch_name: Head Office
+  branch_address: 136-74 Yeonji-Dong, Jongro-Gu 110-737 Seoul
+  branch_code: XXX
+  city: Seoul
+  country: South Korea
+- name: Sg Securities Korea Co Ltd
+  swift: SGSEKRS1XXX
+  swift8: SGSEKRS1
+  branch_name: Head Office
+  branch_address: Seian Building 110-700 Seoul
+  branch_code: XXX
+  city: Seoul
+  country: South Korea
+- name: Sg Securities Korea Co., Ltd.
+  swift: SGSEKRSLXXX
+  swift8: SGSEKRSL
+  branch_name: Head Office
+  branch_address: S-Tower 110-700 Seoul
+  branch_code: XXX
+  city: Seoul
+  country: South Korea
+- name: Shearson Lehman Brothers
+  swift: SHLBKRS1XXX
+  swift8: SHLBKRS1
+  branch_name: Head Office
+  branch_address: Oriental Chemical Building Seoul
+  branch_code: XXX
+  city: Seoul
+  country: South Korea
+- name: Shin Han Securities Co. Ltd.
+  swift: SHHSKRS1XXX
+  swift8: SHHSKRS1
+  branch_name: Head Office
+  branch_address: 25-15 Yoido-Dong Youngdeungpo-Ku 150 010 Seoul
+  branch_code: XXX
+  city: Seoul
+  country: South Korea
+- name: Shin Heung Securities Company Ltd.
+  swift: SHHEKRS1XXX
+  swift8: SHHEKRS1
+  branch_name: Head Office
+  branch_address: 25-5 Yeoeuido-Dong 100192 Seoul
+  branch_code: XXX
+  city: Seoul
+  country: South Korea
+- name: Shinan Bnp Paribas Asset Management Co., Ltd.
+  swift: SBPAKRS1XXX
+  swift8: SBPAKRS1
+  branch_name: Head Office
+  branch_address: Goodmorning Shinhan Tower 150-712 Seoul
+  branch_code: XXX
+  city: Seoul
+  country: South Korea
+- name: Shinhan Aitas Co., Ltd.
+  swift: SHFAKRSEXXX
+  swift8: SHFAKRSE
+  branch_name: Head Office
+  branch_address: Excon Venture Bldg Seoul
+  branch_code: XXX
+  city: Seoul
+  country: South Korea
+- name: Shinhan Investment Corp.
+  swift: SSISKRS1GEB
+  swift8: SSISKRS1
+  branch_name: General
+  branch_address: Seoul
+  branch_code: GEB
+  city: Seoul
+  country: South Korea
+- name: Shinhan Investment Corp.
+  swift: SSISKRS1XXX
+  swift8: SSISKRS1
+  branch_name: Head Office
+  branch_address: Goodmorning Shinhan Tower 150-712 Seoul
+  branch_code: XXX
+  city: Seoul
+  country: South Korea
+- name: Sk Securities Co., Ltd
+  swift: SKSEKRS1XXX
+  swift8: SKSEKRS1
+  branch_name: Head Office
+  branch_address: Sk Securities Building 150-734 Seoul
+  branch_code: XXX
+  city: Seoul
+  country: South Korea
+- name: Societe Generale, Seoul Branch
+  swift: SOGEKRSEXXX
+  swift8: SOGEKRSE
+  branch_name: Head Office
+  branch_address: Sean Building 110-700 Seoul
+  branch_code: XXX
+  city: Seoul
+  country: South Korea
+- name: Standard Chartered Bank Korea Limited
+  swift: SCBLKRSEEQI
+  swift8: SCBLKRSE
+  branch_name: Custodial Services Department
+  branch_address: Seoul
+  branch_code: EQI
+  city: Seoul
+  country: South Korea
+- name: Standard Chartered Bank Korea Limited
+  swift: SCBLKRSEXXX
+  swift8: SCBLKRSE
+  branch_name: Head Office
+  branch_address: Sc First Bank Building 100-702 Seoul
+  branch_code: XXX
+  city: Seoul
+  country: South Korea
+- name: Standard Chartered Securities Korea Limited
+  swift: SCKRKRS1XXX
+  swift8: SCKRKRS1
+  branch_name: Head Office
+  branch_address: Scfirst Bank 110-702 Seoul
+  branch_code: XXX
+  city: Seoul
+  country: South Korea
+- name: State Steet Bank And Trust Company, Korea Branch
+  swift: SBOSKRSEXXX
+  swift8: SBOSKRSE
+  branch_name: Head Office
+  branch_address: Seoul Finance Center Building 100-768 Seoul
+  branch_code: XXX
+  city: Seoul
+  country: South Korea
+- name: Suhyup Bank (also Known As National Federation Of Fisheries Cooperatives
+  swift: NFFCKRSEXXX
+  swift8: NFFCKRSE
+  branch_name: Head Office
+  branch_address: 11-6 Shinchun-Dong Songpa-Ku 138-240 Seoul
+  branch_code: XXX
+  city: Seoul
+  country: South Korea
+- name: The Bank Of New York Mellon, Seoul Branch
+  swift: IRVTKRSXXXX
+  swift8: IRVTKRSX
+  branch_name: Head Office
+  branch_address: Young Poong Building 110 752 Seoul
+  branch_code: XXX
+  city: Seoul
+  country: South Korea
+- name: The Hongkong And Shanghai Banking Corporation Limited
+  swift: HJCEKRS1XXX
+  swift8: HJCEKRS1
+  branch_name: Head Office
+  branch_address: Hsbc Building 25 100-161 Seoul
+  branch_code: XXX
+  city: Seoul
+  country: South Korea
+- name: The Korea Post
+  swift: KOPOKRS1XXX
+  swift8: KOPOKRS1
+  branch_name: Head Office
+  branch_address: 2nd Fl Daeok Bldg 110110 Seoul
+  branch_code: XXX
+  city: Seoul
+  country: South Korea
+- name: The Royal Bank Of Scotland Plc (seoul), Formerly Known As The Royal Bank Of
+    Scotland N.v. (seoul
+  swift: ABNAKRSEXXX
+  swift8: ABNAKRSE
+  branch_name: Head Office
+  branch_address: Seoul Finance Center 100-768 Seoul
+  branch_code: XXX
+  city: Seoul
+  country: South Korea
+- name: Tong Yang Asset Management Corp.
+  swift: TYAMKRS1XXX
+  swift8: TYAMKRS1
+  branch_name: Head Office
+  branch_address: Yeoidodongyeongdeungpogu 150-707 Seoul
+  branch_code: XXX
+  city: Seoul
+  country: South Korea
+- name: Tong Yang Investment Bank
+  swift: TYSEKRS1XXX
+  swift8: TYSEKRS1
+  branch_name: Head Office
+  branch_address: Tyib Bldg 100192 Seoul
+  branch_code: XXX
+  city: Seoul
+  country: South Korea
+- name: Tong Yang Investment Trust Management
+  swift: TOYIKRS1XXX
+  swift8: TOYIKRS1
+  branch_name: Head Office
+  branch_address: Yeoidodong Youngdeungpoku Seoul
+  branch_code: XXX
+  city: Seoul
+  country: South Korea
+- name: Tong Yang Investment Trust Management Company
+  swift: TYITKRS1XXX
+  swift8: TYITKRS1
+  branch_name: Head Office
+  branch_address: Yeoidodong Seoul
+  branch_code: XXX
+  city: Seoul
+  country: South Korea
+- name: Tongyang Securities Inc.
+  swift: TYMBKRSEXXX
+  swift8: TYMBKRSE
+  branch_name: Head Office
+  branch_address: Tys Bldg 100 845 Seoul
+  branch_code: XXX
+  city: Seoul
+  country: South Korea
+- name: U.b.a.f.-union De Banques Arabes Et Francaises
+  swift: UBAFKRSXXXX
+  swift8: UBAFKRSX
+  branch_name: Head Office
+  branch_address: Samdo Building Seoul
+  branch_code: XXX
+  city: Seoul
+  country: South Korea
+- name: Ubs Ag Seoul Branch
+  swift: UBSWKRSEXXX
+  swift8: UBSWKRSE
+  branch_name: Head Office
+  branch_address: Young Poong Building 110-752 Seoul
+  branch_code: XXX
+  city: Seoul
+  country: South Korea
+- name: Ubs Securities Pte. Ltd. Seoul Branch
+  swift: WAREKRS1XXX
+  swift8: WAREKRS1
+  branch_name: Seoul Branch
+  branch_address: Seoul Finance Center 100-768 Seoul
+  branch_code: XXX
+  city: Seoul
+  country: South Korea
+- name: United Overseas Bank Limited, Seoul Branch
+  swift: UOVBKRSEXXX
+  swift8: UOVBKRSE
+  branch_name: Head Office
+  branch_address: Kyobo Building 110 714 Seoul
+  branch_code: XXX
+  city: Seoul
+  country: South Korea
+- name: W.i. Carr (far East) Limited
+  swift: WICAKRS1XXX
+  swift8: WICAKRS1
+  branch_name: Head Office
+  branch_address: Kyobo Building 110 714 Seoul
+  branch_code: XXX
+  city: Seoul
+  country: South Korea
+- name: Wells Fargo Bank, N.a., Seoul Branch
+  swift: PNBPKRSXXXX
+  swift8: PNBPKRSX
+  branch_name: Head Office
+  branch_address: Samwha Building 100070 Seoul
+  branch_code: XXX
+  city: Seoul
+  country: South Korea
+- name: Woori Bank, Seoul
+  swift: HVBKKRSEXXX
+  swift8: HVBKKRSE
+  branch_name: Head Office
+  branch_address: 1585 Sangam-Dong Mapo-Gu 121-835 Seoul
+  branch_code: XXX
+  city: Seoul
+  country: South Korea
+- name: Woori Investment And Securities Co., Ltd
+  swift: WISHKRSEXXX
+  swift8: WISHKRSE
+  branch_name: Head Office
+  branch_address: Woori Investment and Securities 150-725 Seoul
+  branch_code: XXX
+  city: Seoul
+  country: South Korea
+- name: Woori Investment Bank
+  swift: KHMBKRSEXXX
+  swift8: KHMBKRSE
+  branch_name: Head Office
+  branch_address: Premier Place Builidng 100-170 Seoul
+  branch_code: XXX
+  city: Seoul
+  country: South Korea
+- name: Yamaguchi Bank, Ltd., The, Busan Branch
+  swift: YMBKKR2PXXX
+  swift8: YMBKKR2P
+  branch_name: Head Office
+  branch_address: Postal Insurance Busan Bldg. 600-711 Pusan
+  branch_code: XXX
+  city: Pusan
+  country: South Korea

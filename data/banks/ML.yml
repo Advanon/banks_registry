@@ -1,0 +1,138 @@
+---
+ML:
+- name: Banque Centrale Des Etats De L'afrique De L'ouest
+  swift: BCAOMLBASIK
+  swift8: BCAOMLBA
+  branch_name: Sikasso Branch
+  branch_address: Sikasso
+  branch_code: SIK
+  city: Sikasso
+  country: Mali
+- name: Banque Centrale Des Etats De L'afrique De L'ouest
+  swift: BCAOMLBAXXX
+  swift8: BCAOMLBA
+  branch_name: Head Office
+  branch_address: Avenue Moussa Travele Bamako
+  branch_code: XXX
+  city: Bamako
+  country: Mali
+- name: Bank Of Africa-mali
+  swift: AFRIMLBA022
+  swift8: AFRIMLBA
+  branch_name: Bamako
+  branch_address: 418, Avenue De La Marne Bamako
+  branch_code: '022'
+  city: Bamako
+  country: Mali
+- name: Banque (mali) Centrale Des Etats De L'afrique Et De L'ouest
+  swift: BCAOMLBAMOP
+  swift8: BCAOMLBA
+  branch_name: Mopti Branch
+  branch_address: Mopti
+  branch_code: MOP
+  city: Mopti
+  country: Mali
+- name: Banque Atlantique Mali
+  swift: ATMLMLBAXXX
+  swift8: ATMLMLBA
+  branch_name: Head Office
+  branch_address: Immeuble Balde Bamako
+  branch_code: XXX
+  city: Bamako
+  country: Mali
+- name: Banque Commerciale Du Sahel Sa
+  swift: ALIMMLBAXXX
+  swift8: ALIMMLBA
+  branch_name: Head Office
+  branch_address: Banque Commerciale Du Sahel Bamako
+  branch_code: XXX
+  city: Bamako
+  country: Mali
+- name: Banque De Developpement Du Mali-s.a.
+  swift: BDMAMLBAXXX
+  swift8: BDMAMLBA
+  branch_name: Head Office
+  branch_address: Siege Central Bamako
+  branch_code: XXX
+  city: Bamako
+  country: Mali
+- name: Banque De L' Habitat Du Mali
+  swift: BAHMMLBAXXX
+  swift8: BAHMMLBA
+  branch_name: Head Office
+  branch_address: Aci 2000 Bamako
+  branch_code: XXX
+  city: Bamako
+  country: Mali
+- name: Banque Internationale Pour Le Mali Sa.
+  swift: BIPMMLBAXXX
+  swift8: BIPMMLBA
+  branch_name: Head Office
+  branch_address: Boulevard De Lindependance, 15 Bamako
+  branch_code: XXX
+  city: Bamako
+  country: Mali
+- name: Banque Malienne De Solidarite
+  swift: BMSMMLBAXXX
+  swift8: BMSMMLBA
+  branch_name: Head Office
+  branch_address: Immeuble Dette Publique Bamako
+  branch_code: XXX
+  city: Bamako
+  country: Mali
+- name: Banque Nationale De Developpement Agricole (bnda
+  swift: BNADMLBAXXX
+  swift8: BNADMLBA
+  branch_name: Head Office
+  branch_address: Immeuble Caa Bamako
+  branch_code: XXX
+  city: Bamako
+  country: Mali
+- name: Banque Sahelo-saharienne Pour L'investissement Et Le Commerce (mali) S.a.
+  swift: BSAHMLBAXXX
+  swift8: BSAHMLBA
+  branch_name: Head Office
+  branch_address: Quartier Du Fleuve Bamako
+  branch_code: XXX
+  city: Bamako
+  country: Mali
+- name: Bci-mali
+  swift: COLIMLBAXXX
+  swift8: COLIMLBA
+  branch_name: Head Office
+  branch_address: Aliou Tomota Hamdallaye E4373 Bamako
+  branch_code: XXX
+  city: Bamako
+  country: Mali
+- name: Bicim
+  swift: BICIMLBAXXX
+  swift8: BICIMLBA
+  branch_name: Head Office
+  branch_address: Boulevard Du 22 Octobre 1946 Bamako
+  branch_code: XXX
+  city: Bamako
+  country: Mali
+- name: Depositaire Central/banque De Reglement
+  swift: DCRBMLB1XXX
+  swift8: DCRBMLB1
+  branch_name: Head Office
+  branch_address: Place De La Liberte Bamako
+  branch_code: XXX
+  city: Bamako
+  country: Mali
+- name: Ecobank Mali
+  swift: ECOCMLBAXXX
+  swift8: ECOCMLBA
+  branch_name: Head Office
+  branch_address: Place De La Nation Bamako
+  branch_code: XXX
+  city: Bamako
+  country: Mali
+- name: Uba Mali S.a
+  swift: UNAFMLB1XXX
+  swift8: UNAFMLB1
+  branch_name: Head Office
+  branch_address: Rue De 22 Octobre Bamako
+  branch_code: XXX
+  city: Bamako
+  country: Mali

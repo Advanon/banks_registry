@@ -1,0 +1,2733 @@
+---
+AE:
+- name: Abn Amro Bank N.V. United Arab Emirates Branch
+  swift: ABNAAEAAIPC
+  swift8: ABNAAEAA
+  branch_name: International Private Clients Department
+  branch_address: Dubai
+  branch_code: IPC
+  city: Dubai
+  country: United Arab Emirates
+- name: Abn Amro Bank N.V. United Arab Emirates Branch
+  swift: ABNAAEAAXXX
+  swift8: ABNAAEAA
+  branch_name: Head Office
+  branch_address: Dubai Intl Financial Center 2567 Dubai
+  branch_code: XXX
+  city: Dubai
+  country: United Arab Emirates
+- name: Abu Dhabi Commercial Bank
+  swift: ADCBAEAAFIN
+  swift8: ADCBAEAA
+  branch_name: Finance Departement
+  branch_address: Abu Dhabi
+  branch_code: FIN
+  city: Abu Dhabi
+  country: United Arab Emirates
+- name: Abu Dhabi Commercial Bank
+  swift: ADCBAEAAREM
+  swift8: ADCBAEAA
+  branch_name: Rbs
+  branch_address: Abu Dhabi
+  branch_code: REM
+  city: Abu Dhabi
+  country: United Arab Emirates
+- name: Abu Dhabi Commercial Bank
+  swift: ADCBAEAATRY
+  swift8: ADCBAEAA
+  branch_name: Treasury Settlements
+  branch_address: Abu Dhabi Mall Abu Dhabi
+  branch_code: TRY
+  city: Abu Dhabi
+  country: United Arab Emirates
+- name: Abu Dhabi Commercial Bank
+  swift: ADCBAEAAXXX
+  swift8: ADCBAEAA
+  branch_name: Head Office
+  branch_address: Salam Street Abu Dhabi
+  branch_code: XXX
+  city: Abu Dhabi
+  country: United Arab Emirates
+- name: Abu Dhabi Commercial Bank
+  swift: ADCBAEAA060
+  swift8: ADCBAEAA
+  branch_name: Dubai Trade Finance
+  branch_address: A.D.C.B. Building Dubai
+  branch_code: '060'
+  city: Dubai
+  country: United Arab Emirates
+- name: Abu Dhabi Commercial Bank
+  swift: ADCBAEAACMD
+  swift8: ADCBAEAA
+  branch_name: Cash Management Department
+  branch_address: Abu Dhabi
+  branch_code: CMD
+  city: Abu Dhabi
+  country: United Arab Emirates
+- name: Abu Dhabi Fund For Development
+  swift: ADFDAEAAXXX
+  swift8: ADFDAEAA
+  branch_name: Head Office
+  branch_address: Abu Dhabi Fund Building Abu Dhabi
+  branch_code: XXX
+  city: Abu Dhabi
+  country: United Arab Emirates
+- name: Abu Dhabi Islamic Bank
+  swift: ABDIAEADXXX
+  swift8: ABDIAEAD
+  branch_name: Head Office
+  branch_address: Buti Ahmed Al Otiba 313 Abu Dhabi
+  branch_code: XXX
+  city: Abu Dhabi
+  country: United Arab Emirates
+- name: Ajman Bank Pjsc
+  swift: AJMNAEAJXXX
+  swift8: AJMNAEAJ
+  branch_name: Head Office
+  branch_address: Building 2 Ajman
+  branch_code: XXX
+  city: Ajman
+  country: United Arab Emirates
+- name: Al Ahli Bank Of Kuwait.K.S.C.
+  swift: ABKKAEAAXXX
+  swift8: ABKKAEAA
+  branch_name: Head Office
+  branch_address: Emirates Institute for Financial Abu Dhabi
+  branch_code: XXX
+  city: Abu Dhabi
+  country: United Arab Emirates
+- name: Al Fardan Exchange
+  swift: FEXEAEAAXXX
+  swift8: FEXEAEAA
+  branch_name: Head Office
+  branch_address: Amin Khuri Tower 2095 Abu Dhabi
+  branch_code: XXX
+  city: Abu Dhabi
+  country: United Arab Emirates
+- name: Al Hilal Bank
+  swift: HLALAEAAXXX
+  swift8: HLALAEAA
+  branch_name: Head Office
+  branch_address: Sheikh Sultan Building 63111 Abu Dhabi
+  branch_code: XXX
+  city: Abu Dhabi
+  country: United Arab Emirates
+- name: Al Khaliji France S.A.
+  swift: LICOAEADXXX
+  swift8: LICOAEAD
+  branch_name: Head Office
+  branch_address: Al Maidan Tower Dubai
+  branch_code: XXX
+  city: Dubai
+  country: United Arab Emirates
+- name: Al Mal Capital Psc
+  swift: AMCXAEAAXXX
+  swift8: AMCXAEAA
+  branch_name: Head Office
+  branch_address: Emaar Business Park Dubai
+  branch_code: XXX
+  city: Dubai
+  country: United Arab Emirates
+- name: Al Rostamani International Exchange
+  swift: TCARAEADXXX
+  swift8: TCARAEAD
+  branch_name: Head Office
+  branch_address: Hq Building Dubai
+  branch_code: XXX
+  city: Dubai
+  country: United Arab Emirates
+- name: Alahli Bank Of Kuwait Dubai Branch
+  swift: ABKKAEADXXX
+  swift8: ABKKAEAD
+  branch_name: Head Office
+  branch_address: Beniyas Street, Deira Dubai
+  branch_code: XXX
+  city: Dubai
+  country: United Arab Emirates
+- name: Alfuad Exchange
+  swift: ALFXAEADXXX
+  swift8: ALFXAEAD
+  branch_name: Head Office
+  branch_address: Saif Alotiba Bldg Dubai
+  branch_code: XXX
+  city: Dubai
+  country: United Arab Emirates
+- name: Arab African International Bank
+  swift: ARAIAEADAUH
+  swift8: ARAIAEAD
+  branch_name: Abu Dhabi
+  branch_address: Arab Monetary Fund Building Abu Dhabi
+  branch_code: AUH
+  city: Abu Dhabi
+  country: United Arab Emirates
+- name: Arab African International Bank
+  swift: ARAIAEADXXX
+  swift8: ARAIAEAD
+  branch_name: Head Office
+  branch_address: Benyas Street Dubai
+  branch_code: XXX
+  city: Dubai
+  country: United Arab Emirates
+- name: Arab Bank For Investment And Foreign Trade
+  swift: ABINAEAASUK
+  swift8: ABINAEAA
+  branch_name: Al-Souk Branch
+  branch_address: Abu Dhabi
+  branch_code: SUK
+  city: Abu Dhabi
+  country: United Arab Emirates
+- name: Arab Bank For Investment And Foreign Trade
+  swift: ABINAEAAXXX
+  swift8: ABINAEAA
+  branch_name: Head Office
+  branch_address: Arbift Building Abu Dhabi
+  branch_code: XXX
+  city: Abu Dhabi
+  country: United Arab Emirates
+- name: Arab Bank For Investment And Foreign Trade
+  swift: ABINAEAAAIN
+  swift8: ABINAEAA
+  branch_name: Al Ain Branch
+  branch_address: Al Ain
+  branch_code: AIN
+  city: Al Ain
+  country: United Arab Emirates
+- name: Arab Bank For Investment And Foreign Trade
+  swift: ABINAEAADXB
+  swift8: ABINAEAA
+  branch_name: Dubai Branch
+  branch_address: Dubai
+  branch_code: DXB
+  city: Dubai
+  country: United Arab Emirates
+- name: Arab Bank Plc
+  swift: ARABAEADABC
+  swift8: ARABAEAD
+  branch_name: Uae Branches Center
+  branch_address: Sheik Kalifa Bin Zayed Street Abu Dhabi
+  branch_code: ABC
+  city: Abu Dhabi
+  country: United Arab Emirates
+- name: Arab Bank Plc
+  swift: ARABAEADAJM
+  swift8: ARABAEAD
+  branch_name: Ajman Branch
+  branch_address: Shaikh Rashid Alnaimi Street Ajman
+  branch_code: AJM
+  city: Ajman
+  country: United Arab Emirates
+- name: Arab Bank Plc
+  swift: ARABAEADAIN
+  swift8: ARABAEAD
+  branch_name: Al Ain Branch
+  branch_address: Zayed Ben Sultan Street Al Ain
+  branch_code: AIN
+  city: Al Ain
+  country: United Arab Emirates
+- name: Arab Bank Plc
+  swift: ARABAEADCTU
+  swift8: ARABAEAD
+  branch_name: Central Transfers Unit
+  branch_address: Al Ittihad Street 11364 Dubai
+  branch_code: CTU
+  city: Dubai
+  country: United Arab Emirates
+- name: Arab Bank Plc
+  swift: ARABAEADDER
+  swift8: ARABAEAD
+  branch_name: Deira Branch
+  branch_address: Salah Eddine Alayyubi Street Dubai
+  branch_code: DER
+  city: Dubai
+  country: United Arab Emirates
+- name: Arab Bank Plc
+  swift: ARABAEADMAK
+  swift8: ARABAEAD
+  branch_name: Dubai Branch
+  branch_address: Flame R/a Dubai
+  branch_code: MAK
+  city: Dubai
+  country: United Arab Emirates
+- name: Arab Bank Plc
+  swift: ARABAEADFTC
+  swift8: ARABAEAD
+  branch_name: Foreign Trade Center
+  branch_address: Ittihad Street 11364 Dubai
+  branch_code: FTC
+  city: Dubai
+  country: United Arab Emirates
+- name: Arab Bank Plc
+  swift: ARABAEADXXX
+  swift8: ARABAEAD
+  branch_name: Head Office
+  branch_address: Al Ittihad Street Dubai
+  branch_code: XXX
+  city: Dubai
+  country: United Arab Emirates
+- name: Arab Bank Plc
+  swift: ARABAEADFUJ
+  swift8: ARABAEAD
+  branch_name: Fujairah Branch
+  branch_address: Shaikh Zayed Street Fujairah
+  branch_code: FUJ
+  city: Fujairah
+  country: United Arab Emirates
+- name: Arab Bank Plc
+  swift: ARABAEADRAK
+  swift8: ARABAEAD
+  branch_name: Ras Al Khaimah Branch
+  branch_address: Oman Street Nakheil Ras Al Khaimah
+  branch_code: RAK
+  city: Ras Al Khaimah
+  country: United Arab Emirates
+- name: Arab Bank Plc
+  swift: ARABAEADSHJ
+  swift8: ARABAEAD
+  branch_name: Sharjah Branch
+  branch_address: Alourooba Street Sharjah
+  branch_code: SHJ
+  city: Sharjah
+  country: United Arab Emirates
+- name: Arab Monetary Fund
+  swift: ARMFAEAAXXX
+  swift8: ARMFAEAA
+  branch_name: Head Office
+  branch_address: Abu Dhabi
+  branch_code: XXX
+  city: Abu Dhabi
+  country: United Arab Emirates
+- name: Arqaam Capital Limited
+  swift: ARQMAEADXXX
+  swift8: ARQMAEAD
+  branch_name: Head Office
+  branch_address: Building Gv05, the Gate Village 506687 Dubai
+  branch_code: XXX
+  city: Dubai
+  country: United Arab Emirates
+- name: Axis Bank Limited
+  swift: UTIBAEA1XXX
+  swift8: UTIBAEA1
+  branch_name: Head Office
+  branch_address: Dubai National Insurance Building Dubai
+  branch_code: XXX
+  city: Dubai
+  country: United Arab Emirates
+- name: Axis Bank Limited Difc Branch (Regulated By Dfsa)
+  swift: AXISAEADXXX
+  swift8: AXISAEAD
+  branch_name: Head Office
+  branch_address: Al Fattan Currency House Dubai
+  branch_code: XXX
+  city: Dubai
+  country: United Arab Emirates
+- name: Bank Of Baroda
+  swift: BARBAEADADH
+  swift8: BARBAEAD
+  branch_name: Abu Dhabi Branch
+  branch_address: Al Halami Centre Abu Dhabi
+  branch_code: ADH
+  city: Abu Dhabi
+  country: United Arab Emirates
+- name: Bank Of Baroda
+  swift: BARBAEADALN
+  swift8: BARBAEAD
+  branch_name: Alain
+  branch_address: Planning Street, Near Clock Tower Al Ain
+  branch_code: ALN
+  city: Al Ain
+  country: United Arab Emirates
+- name: Bank Of Baroda
+  swift: BARBAEADDEI
+  swift8: BARBAEAD
+  branch_name: Deira Branch
+  branch_address: Kazim Building Dubai
+  branch_code: DEI
+  city: Dubai
+  country: United Arab Emirates
+- name: Bank Of Baroda
+  swift: BARBAEADDUB
+  swift8: BARBAEAD
+  branch_name: Dubai Main Office
+  branch_address: Sh. Rashid Building Dubai
+  branch_code: DUB
+  city: Dubai
+  country: United Arab Emirates
+- name: Bank Of Baroda
+  swift: BARBAEADXXX
+  swift8: BARBAEAD
+  branch_name: Head Office
+  branch_address: Dubai
+  branch_code: XXX
+  city: Dubai
+  country: United Arab Emirates
+- name: Bank Of Baroda
+  swift: BARBAEADRAK
+  swift8: BARBAEAD
+  branch_name: Ras Al Khaimah Branch
+  branch_address: Sh. Saqr Bin Rashid Al Qassim Bldg Ras Al Khaimah
+  branch_code: RAK
+  city: Ras Al Khaimah
+  country: United Arab Emirates
+- name: Bank Of Baroda
+  swift: BARBAEADSHJ
+  swift8: BARBAEAD
+  branch_name: Sharjah Branch
+  branch_address: Al Arooba Building Sharjah
+  branch_code: SHJ
+  city: Sharjah
+  country: United Arab Emirates
+- name: Bank Of Baroda
+  swift: BARBAEADIFC
+  swift8: BARBAEAD
+  branch_name: Dubai International Financial Centre Difc Obu
+  branch_address: Gate Building Dubai
+  branch_code: IFC
+  city: Dubai
+  country: United Arab Emirates
+- name: Bank Of Nova Scotia
+  swift: NOSCAEADXXX
+  swift8: NOSCAEAD
+  branch_name: Head Office
+  branch_address: Precinct Building Dubai
+  branch_code: XXX
+  city: Dubai
+  country: United Arab Emirates
+- name: Bank Of Sharjah The
+  swift: SHARAEASXXX
+  swift8: SHARAEAS
+  branch_name: Head Office
+  branch_address: Al Borj Avenue Sharjah
+  branch_code: XXX
+  city: Sharjah
+  country: United Arab Emirates
+- name: Banque De Commerce Et De Placements Sa Difc Branch
+  swift: BPCPAEADXXX
+  swift8: BPCPAEAD
+  branch_name: Head Office
+  branch_address: Difc 506584 Dubai
+  branch_code: XXX
+  city: Dubai
+  country: United Arab Emirates
+- name: Banque Misr
+  swift: BCAIAEAA802
+  swift8: BCAIAEAA
+  branch_name: Abu Dhabi Branch
+  branch_address: Dana Building Abu Dhabi
+  branch_code: '802'
+  city: Abu Dhabi
+  country: United Arab Emirates
+- name: Banque Misr
+  swift: BCAIAEAAXXX
+  swift8: BCAIAEAA
+  branch_name: Head Office
+  branch_address: Dinna Building Abu Dhabi
+  branch_code: XXX
+  city: Abu Dhabi
+  country: United Arab Emirates
+- name: Banque Misr
+  swift: BCAIAEAA806
+  swift8: BCAIAEAA
+  branch_name: Al Ain Branch
+  branch_address: Alain Building 59232 Al Ain
+  branch_code: '806'
+  city: Al Ain
+  country: United Arab Emirates
+- name: Banque Misr
+  swift: BCAIAEAA803
+  swift8: BCAIAEAA
+  branch_name: Dubai Branch
+  branch_address: Goma Almaged Building 1502 Dubai
+  branch_code: '803'
+  city: Dubai
+  country: United Arab Emirates
+- name: Banque Misr
+  swift: BCAIAEAA805
+  swift8: BCAIAEAA
+  branch_name: Ras Elkhema Branch
+  branch_address: Aly Elshrhan Ras Al Khaimah
+  branch_code: '805'
+  city: Ras Al Khaimah
+  country: United Arab Emirates
+- name: Banque Misr
+  swift: BCAIAEAA804
+  swift8: BCAIAEAA
+  branch_name: Sharjah Branch
+  branch_address: Elsafa 254 Sharjah
+  branch_code: '804'
+  city: Sharjah
+  country: United Arab Emirates
+- name: Barclays Bank Plc
+  swift: BARCAEADABU
+  swift8: BARCAEAD
+  branch_name: Abu Dhabi
+  branch_address: Adnic Building Abu Dhabi
+  branch_code: ABU
+  city: Abu Dhabi
+  country: United Arab Emirates
+- name: Barclays Bank Plc
+  swift: BARCAEADXXX
+  swift8: BARCAEAD
+  branch_name: Head Office
+  branch_address: Enoc House Dubai
+  branch_code: XXX
+  city: Dubai
+  country: United Arab Emirates
+- name: Blom Bank France S.A.
+  swift: BLOMAEADXXX
+  swift8: BLOMAEAD
+  branch_name: Head Office
+  branch_address: Sheikh Ahmed Bin Rashid Al Maktoum Dubai
+  branch_code: XXX
+  city: Dubai
+  country: United Arab Emirates
+- name: Bnp Paribas Abu Dhabi
+  swift: BNPAAEAAXXX
+  swift8: BNPAAEAA
+  branch_name: Head Office
+  branch_address: Khalifa Street Abu Dhabi
+  branch_code: XXX
+  city: Abu Dhabi
+  country: United Arab Emirates
+- name: Bnp Paribas Dubai
+  swift: BNPAAEADXXX
+  swift8: BNPAAEAD
+  branch_name: Head Office
+  branch_address: Khaleed Bin Al Waleed Street Dubai
+  branch_code: XXX
+  city: Dubai
+  country: United Arab Emirates
+- name: Central Bank Of The U.A.E.
+  swift: CBAUAEAAXXX
+  swift8: CBAUAEAA
+  branch_name: Head Office
+  branch_address: Bainuna Street Abu Dhabi
+  branch_code: XXX
+  city: Abu Dhabi
+  country: United Arab Emirates
+- name: Citibank N.A.
+  swift: CITIAEADTRD
+  swift8: CITIAEAD
+  branch_name: Trade Services Dept
+  branch_address: Khalid Ibn Al Walid Street Dubai
+  branch_code: TRD
+  city: Dubai
+  country: United Arab Emirates
+- name: Citibank N.A.
+  swift: CITIAEADXXX
+  swift8: CITIAEAD
+  branch_name: Head Office
+  branch_address: Khalid Ibn Al Walid Street 749 Dubai
+  branch_code: XXX
+  city: Dubai
+  country: United Arab Emirates
+- name: Commercial Bank International
+  swift: CLBIAEADAD1
+  swift8: CLBIAEAD
+  branch_name: Abu Dhabi Branch
+  branch_address: Sheikha Fatimabint Mubarak 43133 Abu Dhabi
+  branch_code: AD1
+  city: Abu Dhabi
+  country: United Arab Emirates
+- name: Commercial Bank International
+  swift: CLBIAEADAN1
+  swift8: CLBIAEAD
+  branch_name: Al Ain Branch
+  branch_address: Shk.Ahmed Bin Zaed Bldg. 18026 Al Ain
+  branch_code: AN1
+  city: Al Ain
+  country: United Arab Emirates
+- name: Commercial Bank International
+  swift: CLBIAEADDB1
+  swift8: CLBIAEAD
+  branch_name: Bur Dubai Branch
+  branch_address: Rais Hassan Saadi Building Dubai
+  branch_code: DB1
+  city: Dubai
+  country: United Arab Emirates
+- name: Commercial Bank International
+  swift: CLBIAEADDB2
+  swift8: CLBIAEAD
+  branch_name: Sheikh Zaid Road Branch
+  branch_address: Gargash Building Dubai
+  branch_code: DB2
+  city: Dubai
+  country: United Arab Emirates
+- name: Commercial Bank International
+  swift: CLBIAEADXXX
+  swift8: CLBIAEAD
+  branch_name: Head Office
+  branch_address: Cbi Building 4449 Dubai
+  branch_code: XXX
+  city: Dubai
+  country: United Arab Emirates
+- name: Commercial Bank International
+  swift: CLBIAEADRK2
+  swift8: CLBIAEAD
+  branch_name: Al Manar Mall Branch
+  branch_address: Al Manar Mall Building 2886 Ras Al Khaimah
+  branch_code: RK2
+  city: Ras Al Khaimah
+  country: United Arab Emirates
+- name: Commercial Bank International
+  swift: CLBIAEADRK1
+  swift8: CLBIAEAD
+  branch_name: Ras Al Khaimah Branch
+  branch_address: Cbi Building 793 Ras Al Khaimah
+  branch_code: RK1
+  city: Ras Al Khaimah
+  country: United Arab Emirates
+- name: Commercial Bank International
+  swift: CLBIAEADSH1
+  swift8: CLBIAEAD
+  branch_name: Sharjah Branch
+  branch_address: Al Burj Avenue 2418 Sharjah
+  branch_code: SH1
+  city: Sharjah
+  country: United Arab Emirates
+- name: Commercial Bank International
+  swift: CLBIAEA10AR
+  swift8: CLBIAEA1
+  branch_name: Ras Al Khaimah
+  branch_address: Ras Al Khaimah
+  branch_code: 0AR
+  city: Ras Al Khaimah
+  country: United Arab Emirates
+- name: Commercial Bank Of Dubai
+  swift: CBDUAEADADH
+  swift8: CBDUAEAD
+  branch_name: Abu Dhabi Branch
+  branch_address: Abu Dhabi
+  branch_code: ADH
+  city: Abu Dhabi
+  country: United Arab Emirates
+- name: Commercial Bank Of Dubai
+  swift: CBDUAEADAJM
+  swift8: CBDUAEAD
+  branch_name: Ajman
+  branch_address: Ajman
+  branch_code: AJM
+  city: Ajman
+  country: United Arab Emirates
+- name: Commercial Bank Of Dubai
+  swift: CBDUAEADAIN
+  swift8: CBDUAEAD
+  branch_name: Al Ain
+  branch_address: Al Ain
+  branch_code: AIN
+  city: Al Ain
+  country: United Arab Emirates
+- name: Commercial Bank Of Dubai
+  swift: CBDUAEADGAR
+  swift8: CBDUAEAD
+  branch_name: Al Garhoud Branch
+  branch_address: Al Garhoud Street, Deira Dubai
+  branch_code: GAR
+  city: Dubai
+  country: United Arab Emirates
+- name: Commercial Bank Of Dubai
+  swift: CBDUAEADAMS
+  swift8: CBDUAEAD
+  branch_name: Al Maktoum St Branch
+  branch_address: Dubai
+  branch_code: AMS
+  city: Dubai
+  country: United Arab Emirates
+- name: Commercial Bank Of Dubai
+  swift: CBDUAEADSAF
+  swift8: CBDUAEAD
+  branch_name: Al Safa Branch
+  branch_address: Sheikh Zayed Street Dubai
+  branch_code: SAF
+  city: Dubai
+  country: United Arab Emirates
+- name: Commercial Bank Of Dubai
+  swift: CBDUAEADDER
+  swift8: CBDUAEAD
+  branch_name: Deira Branch
+  branch_address: Dubai
+  branch_code: DER
+  city: Dubai
+  country: United Arab Emirates
+- name: Commercial Bank Of Dubai
+  swift: CBDUAEADDXB
+  swift8: CBDUAEAD
+  branch_name: Dubai Branch
+  branch_address: Dubai
+  branch_code: DXB
+  city: Dubai
+  country: United Arab Emirates
+- name: Commercial Bank Of Dubai
+  swift: CBDUAEADJAL
+  swift8: CBDUAEAD
+  branch_name: Jebel Ali Branch
+  branch_address: Dubai
+  branch_code: JAL
+  city: Dubai
+  country: United Arab Emirates
+- name: Commercial Bank Of Dubai
+  swift: CBDUAEADJUM
+  swift8: CBDUAEAD
+  branch_name: Jumeirah Branch
+  branch_address: Dubai
+  branch_code: JUM
+  city: Dubai
+  country: United Arab Emirates
+- name: Commercial Bank Of Dubai
+  swift: CBDUAEADRAK
+  swift8: CBDUAEAD
+  branch_name: Ras Al Khaimah Branch
+  branch_address: Ras Al Khaimah
+  branch_code: RAK
+  city: Ras Al Khaimah
+  country: United Arab Emirates
+- name: Commercial Bank Of Dubai
+  swift: CBDUAEADSAW
+  swift8: CBDUAEAD
+  branch_name: Souq Al Wasl Branch
+  branch_address: Dubai
+  branch_code: SAW
+  city: Dubai
+  country: United Arab Emirates
+- name: Commercial Bank Of Dubai
+  swift: CBDUAEADSHJ
+  swift8: CBDUAEAD
+  branch_name: Sharjah Branch
+  branch_address: Sharjah
+  branch_code: SHJ
+  city: Sharjah
+  country: United Arab Emirates
+- name: Commercial Bank Of Dubai
+  swift: CBDUAEADXXX
+  swift8: CBDUAEAD
+  branch_name: Head Office
+  branch_address: Al Ittihad Street Dubai
+  branch_code: XXX
+  city: Dubai
+  country: United Arab Emirates
+- name: Credit Agricole Cib (Dubai Branch)
+  swift: BSUIAEADXXX
+  swift8: BSUIAEAD
+  branch_name: Head Office
+  branch_address: Dubai World Trade Centre Dubai
+  branch_code: XXX
+  city: Dubai
+  country: United Arab Emirates
+- name: Dbs Bank Ltd
+  swift: DBSSAEADXXX
+  swift8: DBSSAEAD
+  branch_name: Head Office
+  branch_address: Building 3 (East Wing) Dubai
+  branch_code: XXX
+  city: Dubai
+  country: United Arab Emirates
+- name: Deutsche Bank Ag
+  swift: DEUTAEAAXXX
+  swift8: DEUTAEAA
+  branch_name: Head Office
+  branch_address: Injazat Building Abu Dhabi
+  branch_code: XXX
+  city: Abu Dhabi
+  country: United Arab Emirates
+- name: Deutsche Bank Ag
+  swift: DEUTAEADXXX
+  swift8: DEUTAEAD
+  branch_name: Head Office
+  branch_address: Emirates Towers 504902 Dubai
+  branch_code: XXX
+  city: Dubai
+  country: United Arab Emirates
+- name: Emirates Investment Bank P.J.S.C.
+  swift: AEINAEADXXX
+  swift8: AEINAEAD
+  branch_name: Head Office
+  branch_address: Festival Tower Dubai
+  branch_code: XXX
+  city: Dubai
+  country: United Arab Emirates
+- name: Habib Bank Ag Zurich
+  swift: HBZUAEADXXX
+  swift8: HBZUAEAD
+  branch_name: Head Office
+  branch_address: Beniyas Square, Deira Dubai
+  branch_code: XXX
+  city: Dubai
+  country: United Arab Emirates
+- name: Habib Bank Limited
+  swift: HABBAEA10AA
+  swift8: HABBAEA1
+  branch_name: Abu Dhabi
+  branch_address: Abu Dhabi
+  branch_code: 0AA
+  city: Abu Dhabi
+  country: United Arab Emirates
+- name: Habib Bank Limited
+  swift: HABBAEA10AS
+  swift8: HABBAEA1
+  branch_name: Sharjah
+  branch_address: Sharjah
+  branch_code: 0AS
+  city: Sharjah
+  country: United Arab Emirates
+- name: Habib Bank Limited
+  swift: HABBAEADXXX
+  swift8: HABBAEAD
+  branch_name: Head Office
+  branch_address: Al-Abbas Building 888 Dubai
+  branch_code: XXX
+  city: Dubai
+  country: United Arab Emirates
+- name: Icici Bank Limited
+  swift: ICICAEADCOP
+  swift8: ICICAEAD
+  branch_name: Central Operations
+  branch_address: Difc Level 5, Gate Bldg 4 506529 Dubai
+  branch_code: COP
+  city: Dubai
+  country: United Arab Emirates
+- name: Icici Bank Limited
+  swift: ICICAEADGTS
+  swift8: ICICAEAD
+  branch_name: Global Trade Service Unit
+  branch_address: Difc Level 5, Gate Bldg 4 506529 Dubai
+  branch_code: GTS
+  city: Dubai
+  country: United Arab Emirates
+- name: Icici Bank Limited
+  swift: ICICAEADTMO
+  swift8: ICICAEAD
+  branch_name: Treasury
+  branch_address: Difc Level 5, Gate Bldg 4 506529 Dubai
+  branch_code: TMO
+  city: Dubai
+  country: United Arab Emirates
+- name: Icici Bank Limited
+  swift: ICICAEADXXX
+  swift8: ICICAEAD
+  branch_name: Head Office
+  branch_address: Difc 506529 Dubai
+  branch_code: XXX
+  city: Dubai
+  country: United Arab Emirates
+- name: Intesa Sanpaolo Spa
+  swift: BCITAEADXXX
+  swift8: BCITAEAD
+  branch_name: Head Office
+  branch_address: Dubai International Fin Centre Dubai
+  branch_code: XXX
+  city: Dubai
+  country: United Arab Emirates
+- name: Lloyds Tsb Bank Plc
+  swift: LOYDAEADXXX
+  swift8: LOYDAEAD
+  branch_name: Head Office
+  branch_address: Lloyds Tsb Bank Plc Dubai
+  branch_code: XXX
+  city: Dubai
+  country: United Arab Emirates
+- name: Merrill Lynch International
+  swift: MLINAEA1XXX
+  swift8: MLINAEA1
+  branch_name: Head Office
+  branch_address: Arbift Tower Dubai
+  branch_code: XXX
+  city: Dubai
+  country: United Arab Emirates
+- name: National Bank Of Abu Dhabi
+  swift: NBADAEAAAAM
+  swift8: NBADAEAA
+  branch_name: Al Ain Mall Branch
+  branch_address: Al Ain
+  branch_code: AAM
+  city: Al Ain
+  country: United Arab Emirates
+- name: National Bank Of Abu Dhabi
+  swift: NBADAEAAABA
+  swift8: NBADAEAA
+  branch_name: Al Bourj Avenue
+  branch_address: Sharjah
+  branch_code: ABA
+  city: Sharjah
+  country: United Arab Emirates
+- name: National Bank Of Abu Dhabi
+  swift: NBADAEAAAGO
+  swift8: NBADAEAA
+  branch_name: Arabian Gulf Office
+  branch_address: Abu Dhabi
+  branch_code: AGO
+  city: Abu Dhabi
+  country: United Arab Emirates
+- name: National Bank Of Abu Dhabi
+  swift: NBADAEAAAIR
+  swift8: NBADAEAA
+  branch_name: International Airport Branch
+  branch_address: Abu Dhabi
+  branch_code: AIR
+  city: Abu Dhabi
+  country: United Arab Emirates
+- name: National Bank Of Abu Dhabi
+  swift: NBADAEAAAJM
+  swift8: NBADAEAA
+  branch_name: Ajman Branch
+  branch_address: Ajman
+  branch_code: AJM
+  city: Ajman
+  country: United Arab Emirates
+- name: National Bank Of Abu Dhabi
+  swift: NBADAEAAALN
+  swift8: NBADAEAA
+  branch_name: Al Ain Branch
+  branch_address: Al Ain
+  branch_code: ALN
+  city: Al Ain
+  country: United Arab Emirates
+- name: National Bank Of Abu Dhabi
+  swift: NBADAEAAAMG
+  swift8: NBADAEAA
+  branch_name: Asset Management Group
+  branch_address: Abu Dhabi
+  branch_code: AMG
+  city: Abu Dhabi
+  country: United Arab Emirates
+- name: National Bank Of Abu Dhabi
+  swift: NBADAEAAAML
+  swift8: NBADAEAA
+  branch_name: Abu Dhabi Mall
+  branch_address: Abu Dhabi
+  branch_code: AML
+  city: Abu Dhabi
+  country: United Arab Emirates
+- name: National Bank Of Abu Dhabi
+  swift: NBADAEAAAQB
+  swift8: NBADAEAA
+  branch_name: Al Qusais Branch
+  branch_address: Dubai
+  branch_code: AQB
+  city: Dubai
+  country: United Arab Emirates
+- name: National Bank Of Abu Dhabi
+  swift: NBADAEAAASN
+  swift8: NBADAEAA
+  branch_name: Al Sanaiya Branch
+  branch_address: Al Ain
+  branch_code: ASN
+  city: Al Ain
+  country: United Arab Emirates
+- name: National Bank Of Abu Dhabi
+  swift: NBADAEAABAN
+  swift8: NBADAEAA
+  branch_name: Baniyas Branch
+  branch_address: Abu Dhabi
+  branch_code: BAN
+  city: Abu Dhabi
+  country: United Arab Emirates
+- name: National Bank Of Abu Dhabi
+  swift: NBADAEAABAT
+  swift8: NBADAEAA
+  branch_name: Batin Branch
+  branch_address: Abu Dhabi
+  branch_code: BAT
+  city: Abu Dhabi
+  country: United Arab Emirates
+- name: National Bank Of Abu Dhabi
+  swift: NBADAEAABTB
+  swift8: NBADAEAA
+  branch_name: Between the Two Bridges
+  branch_address: Abu Dhabi
+  branch_code: BTB
+  city: Abu Dhabi
+  country: United Arab Emirates
+- name: National Bank Of Abu Dhabi
+  swift: NBADAEAACLO
+  swift8: NBADAEAA
+  branch_name: Al Ain Clock Tower Branch
+  branch_address: Al Ain
+  branch_code: CLO
+  city: Al Ain
+  country: United Arab Emirates
+- name: National Bank Of Abu Dhabi
+  swift: NBADAEAACOD
+  swift8: NBADAEAA
+  branch_name: Wholesale Operations Centre
+  branch_address: Tariq Bin Ziad Street 46175 Abu Dhabi
+  branch_code: COD
+  city: Abu Dhabi
+  country: United Arab Emirates
+- name: National Bank Of Abu Dhabi
+  swift: NBADAEAACOL
+  swift8: NBADAEAA
+  branch_name: Collection Department, Retail Operation Centre,
+  branch_address: Abu Dhabi
+  branch_code: COL
+  city: Abu Dhabi
+  country: United Arab Emirates
+- name: National Bank Of Abu Dhabi
+  swift: NBADAEAACOR
+  swift8: NBADAEAA
+  branch_name: Corniche Branch
+  branch_address: Abu Dhabi
+  branch_code: COR
+  city: Abu Dhabi
+  country: United Arab Emirates
+- name: National Bank Of Abu Dhabi
+  swift: NBADAEAACPU
+  swift8: NBADAEAA
+  branch_name: Retail Operations Centre
+  branch_address: Tariq Bin Ziad Street 46175 Abu Dhabi
+  branch_code: CPU
+  city: Abu Dhabi
+  country: United Arab Emirates
+- name: National Bank Of Abu Dhabi
+  swift: NBADAEAACSU
+  swift8: NBADAEAA
+  branch_name: Card Centre
+  branch_address: Arabian Gulf Street 28886 Abu Dhabi
+  branch_code: CSU
+  city: Abu Dhabi
+  country: United Arab Emirates
+- name: National Bank Of Abu Dhabi
+  swift: NBADAEAADAS
+  swift8: NBADAEAA
+  branch_name: Das Island Branch
+  branch_address: Abu Dhabi
+  branch_code: DAS
+  city: Abu Dhabi
+  country: United Arab Emirates
+- name: Punjab National Bank
+  swift: PUNBAEADXXX
+  swift8: PUNBAEAD
+  branch_name: Head Office
+  branch_address: Eta Star- Liberty House Dubai
+  branch_code: XXX
+  city: Dubai
+  country: United Arab Emirates
+- name: Royal Bank Of Canada
+  swift: ROYCAEA1XXX
+  swift8: ROYCAEA1
+  branch_name: Head Office
+  branch_address: Api World Tower Dubai
+  branch_code: XXX
+  city: Dubai
+  country: United Arab Emirates
+- name: Standard Chartered Bank
+  swift: SCBLAEADABD
+  swift8: SCBLAEAD
+  branch_name: Abu Dhabi
+  branch_address: Abu Dhabi
+  branch_code: ABD
+  city: Abu Dhabi
+  country: United Arab Emirates
+- name: Standard Chartered Bank
+  swift: SCBLAEADDIF
+  swift8: SCBLAEAD
+  branch_name: Dubai International Financial Centre-Offshore Banking
+  branch_address: Dubai
+  branch_code: DIF
+  city: Dubai
+  country: United Arab Emirates
+- name: Standard Chartered Bank
+  swift: SCBLAEADXXX
+  swift8: SCBLAEAD
+  branch_name: Head Office
+  branch_address: Standard Chartered Bank Bldg. Dubai
+  branch_code: XXX
+  city: Dubai
+  country: United Arab Emirates
+- name: State Bank Of India
+  swift: SBINAEADXXX
+  swift8: SBINAEAD
+  branch_name: Head Office
+  branch_address: Gate Village 5 Dubai
+  branch_code: XXX
+  city: Dubai
+  country: United Arab Emirates
+- name: The Royal Bank Of Scotland Plc United Arab Emirates (Formerly Known As Rbs
+    Nv)
+  swift: ABNAAEADAUH
+  swift8: ABNAAEAD
+  branch_name: Abu Dhabi
+  branch_address: 235 Airport Road Abu Dhabi
+  branch_code: AUH
+  city: Abu Dhabi
+  country: United Arab Emirates
+- name: The Royal Bank Of Scotland Plc United Arab Emirates (Formerly Known As Rbs
+    Nv)
+  swift: ABNAAEADSHJ
+  swift8: ABNAAEAD
+  branch_name: Dubai
+  branch_address: Downtown Burj Dubai Unit 3 Dubai
+  branch_code: SHJ
+  city: Dubai
+  country: United Arab Emirates
+- name: The Royal Bank Of Scotland Plc United Arab Emirates (Formerly Known As Rbs
+    Nv)
+  swift: ABNAAEADXXX
+  swift8: ABNAAEAD
+  branch_name: Head Office
+  branch_address: Downtown Burj Dubai, Unit 3 Dubai
+  branch_code: XXX
+  city: Dubai
+  country: United Arab Emirates
+- name: Bank Of Tokyo-mitsubishi Ufj, Ltd., The
+  swift: BOTKAEAAXXX
+  swift8: BOTKAEAA
+  branch_name: Head Office
+  branch_address: One Nbad Tower Abu Dhabi
+  branch_code: XXX
+  city: Abu Dhabi
+  country: United Arab Emirates
+- name: Mashreqbank Psc.
+  swift: BOMLAEADCSU
+  swift8: BOMLAEAD
+  branch_name: Fi-Customer Services
+  branch_address: Dubai
+  branch_code: CSU
+  city: Dubai
+  country: United Arab Emirates
+- name: Mashreqbank Psc.
+  swift: BOMLAEADEBC
+  swift8: BOMLAEAD
+  branch_name: Financial Institutions Division
+  branch_address: Dubai
+  branch_code: EBC
+  city: Dubai
+  country: United Arab Emirates
+- name: Mashreqbank Psc.
+  swift: BOMLAEADFTC
+  swift8: BOMLAEAD
+  branch_name: Foreign Trade Centre
+  branch_address: Dubai
+  branch_code: FTC
+  city: Dubai
+  country: United Arab Emirates
+- name: Mashreqbank Psc.
+  swift: BOMLAEADHDO
+  swift8: BOMLAEAD
+  branch_name: Head Office
+  branch_address: Dubai
+  branch_code: HDO
+  city: Dubai
+  country: United Arab Emirates
+- name: Mashreqbank Psc.
+  swift: BOMLAEADRAM
+  swift8: BOMLAEAD
+  branch_name: Remittances Centre
+  branch_address: Dubai
+  branch_code: RAM
+  city: Dubai
+  country: United Arab Emirates
+- name: Mashreqbank Psc.
+  swift: BOMLAEADTID
+  swift8: BOMLAEAD
+  branch_name: Treasury and Investment Division
+  branch_address: Dubai
+  branch_code: TID
+  city: Dubai
+  country: United Arab Emirates
+- name: Mashreqbank Psc.
+  swift: BOMLAEADXXX
+  swift8: BOMLAEAD
+  branch_name: Head Office
+  branch_address: Al Ghurair City Dubai 04
+  branch_code: XXX
+  city: Dubai
+  country: United Arab Emirates
+- name: National Bank Of Bahrain
+  swift: NBOBAEAAXXX
+  swift8: NBOBAEAA
+  branch_name: Head Office
+  branch_address: Khalaf Bin Ahmed Al Otaiba Building Abu Dhabi
+  branch_code: XXX
+  city: Abu Dhabi
+  country: United Arab Emirates
+- name: Citibank, N.a.
+  swift: CITIAEA10AD
+  swift8: CITIAEA1
+  branch_name: Dubai
+  branch_address: Citibank House Dubai
+  branch_code: 0AD
+  city: Dubai
+  country: United Arab Emirates
+- name: Citibank, N.a.
+  swift: CITIAEA10AS
+  swift8: CITIAEA1
+  branch_name: Sharjah
+  branch_address: H.H. Sheikh Zaid Building Sharjah
+  branch_code: 0AS
+  city: Sharjah
+  country: United Arab Emirates
+- name: Citibank, N.a.
+  swift: CITIAEA1TRD
+  swift8: CITIAEA1
+  branch_name: Dubai
+  branch_address: Dubai
+  branch_code: TRD
+  city: Dubai
+  country: United Arab Emirates
+- name: Citibank, N.a.
+  swift: CITIAEA1XXX
+  swift8: CITIAEA1
+  branch_name: Head Office
+  branch_address: Corniche Plaza Building Abu Dhabi
+  branch_code: XXX
+  city: Abu Dhabi
+  country: United Arab Emirates
+- name: Investbank
+  swift: IBTFAEASXXX
+  swift8: IBTFAEAS
+  branch_name: Head Office
+  branch_address: Sheikh Sagr.Mohamad Al Qassimi Sharjah
+  branch_code: XXX
+  city: Sharjah
+  country: United Arab Emirates
+- name: Doha Bank
+  swift: DOHBAEADABU
+  swift8: DOHBAEAD
+  branch_name: Bra
+  branch_address: Al Oteiba Tower 27448 Abu Dhabi
+  branch_code: ABU
+  city: Abu Dhabi
+  country: United Arab Emirates
+- name: Doha Bank
+  swift: DOHBAEADXXX
+  swift8: DOHBAEAD
+  branch_name: Head Office
+  branch_address: Twin Towers Dubai
+  branch_code: XXX
+  city: Dubai
+  country: United Arab Emirates
+- name: National Bank Of Oman
+  swift: NBOMAEADXXX
+  swift8: NBOMAEAD
+  branch_name: Head Office
+  branch_address: Bin Sagar Building Abu Dhabi
+  branch_code: XXX
+  city: Abu Dhabi
+  country: United Arab Emirates
+- name: Hsbc Bank Middle East Limited
+  swift: BBMEAEADABU
+  swift8: BBMEAEAD
+  branch_name: Abu Dhabi
+  branch_address: Abu Dhabi
+  branch_code: ABU
+  city: Abu Dhabi
+  country: United Arab Emirates
+- name: Hsbc Bank Middle East Limited
+  swift: BBMEAEADALA
+  swift8: BBMEAEAD
+  branch_name: Al Ain
+  branch_address: Al Ain
+  branch_code: ALA
+  city: Al Ain
+  country: United Arab Emirates
+- name: Hsbc Bank Middle East Limited
+  swift: BBMEAEADBDU
+  swift8: BBMEAEAD
+  branch_name: Securities Brokerage
+  branch_address: Dubai
+  branch_code: BDU
+  city: Dubai
+  country: United Arab Emirates
+- name: Hsbc Bank Middle East Limited
+  swift: BBMEAEADDIF
+  swift8: BBMEAEAD
+  branch_name: Difc Branch
+  branch_address: Precinct Building Dubai
+  branch_code: DIF
+  city: Dubai
+  country: United Arab Emirates
+- name: Hsbc Bank Middle East Limited
+  swift: BBMEAEADFUJ
+  swift8: BBMEAEAD
+  branch_name: Fujairah
+  branch_address: Fujairah
+  branch_code: FUJ
+  city: Fujairah
+  country: United Arab Emirates
+- name: Hsbc Bank Middle East Limited
+  swift: BBMEAEADRKS
+  swift8: BBMEAEAD
+  branch_name: Ras Al Khaimah
+  branch_address: Ras Al Khaimah
+  branch_code: RKS
+  city: Ras Al Khaimah
+  country: United Arab Emirates
+- name: Hsbc Bank Middle East Limited
+  swift: BBMEAEADSHJ
+  swift8: BBMEAEAD
+  branch_name: Sharjah
+  branch_address: Sharjah
+  branch_code: SHJ
+  city: Sharjah
+  country: United Arab Emirates
+- name: Hsbc Bank Middle East Limited
+  swift: BBMEAEADXXX
+  swift8: BBMEAEAD
+  branch_name: Head Office
+  branch_address: Dubai Internet City Dubai
+  branch_code: XXX
+  city: Dubai
+  country: United Arab Emirates
+- name: Samba Financial Group
+  swift: SAMBAEADXXX
+  swift8: SAMBAEAD
+  branch_name: Head Office
+  branch_address: Burj Dubai Business Hub Dubai
+  branch_code: XXX
+  city: Dubai
+  country: United Arab Emirates
+- name: Abraaj Capital Limited
+  swift: ABPPAEA1XXX
+  swift8: ABPPAEA1
+  branch_name: Head Office
+  branch_address: Emirates Tower Office Dubai
+  branch_code: XXX
+  city: Dubai
+  country: United Arab Emirates
+- name: Abu Dhabi Investment Council
+  swift: ADCNAEAAXXX
+  swift8: ADCNAEAA
+  branch_name: Head Office
+  branch_address: Al Bahar Towers 1 61999 Abu Dhabi
+  branch_code: XXX
+  city: Abu Dhabi
+  country: United Arab Emirates
+- name: Abu Dhabi Retirment Pension And Benefits Fund
+  swift: ADPFAEAAXXX
+  swift8: ADPFAEAA
+  branch_name: No branch name
+  branch_address: No branch address
+  branch_code: XXX
+  city: Abu Dhabi
+  country: United Arab Emirates
+- name: Abu Dhabi Securities Market
+  swift: ADSEAEA1XXX
+  swift8: ADSEAEA1
+  branch_name: Head Office
+  branch_address: Al Ghaith Tower Abu Dhabi
+  branch_code: XXX
+  city: Abu Dhabi
+  country: United Arab Emirates
+- name: Ads Securities Llc
+  swift: ADSLAEADXXX
+  swift8: ADSLAEAD
+  branch_name: Head Office
+  branch_address: Irena Tower 93894 Abu Dhabi
+  branch_code: XXX
+  city: Abu Dhabi
+  country: United Arab Emirates
+- name: Agricultural Bank Of China Dubai Branch
+  swift: ABOCAEADXXX
+  swift8: ABOCAEAD
+  branch_name: Head Office
+  branch_address: Currency House Tower 2, Dubai
+  branch_code: XXX
+  city: Dubai
+  country: United Arab Emirates
+- name: Ahmed Al Hussain Money Exchange Est
+  swift: AAHUAEADXXX
+  swift8: AAHUAEAD
+  branch_name: Head Office
+  branch_address: Mohd.Al Sayed Abdullah 1283 Dubai
+  branch_code: XXX
+  city: Dubai
+  country: United Arab Emirates
+- name: Al Ansari Exchange Llc
+  swift: ALANAEAAXXX
+  swift8: ALANAEAA
+  branch_name: Head Office
+  branch_address: Al Amin Tower Abu Dhabi
+  branch_code: XXX
+  city: Abu Dhabi
+  country: United Arab Emirates
+- name: Al Dahab Exchange
+  swift: DMTIAEAAXXX
+  swift8: DMTIAEAA
+  branch_name: Head Office
+  branch_address: Seed Bin Ali Al-Qaizi Building 43886 Dubai
+  branch_code: XXX
+  city: Dubai
+  country: United Arab Emirates
+- name: Al Dhabi Investment Pjsc
+  swift: ALDHAEA1XXX
+  swift8: ALDHAEA1
+  branch_name: Head Office
+  branch_address: Porcelanosa/Khidma Tower Abu Dhabi
+  branch_code: XXX
+  city: Abu Dhabi
+  country: United Arab Emirates
+- name: Al Fardan Exchange And Finance Co.
+  swift: ALFEAEA1XXX
+  swift8: ALFEAEA1
+  branch_name: Head Office
+  branch_address: Abu Dhabi
+  branch_code: XXX
+  city: Abu Dhabi
+  country: United Arab Emirates
+- name: Al Futtaim Hc Securities Company Llc
+  swift: FSCLAEA1XXX
+  swift8: FSCLAEA1
+  branch_name: Head Office
+  branch_address: Festival Tower Dubai
+  branch_code: XXX
+  city: Dubai
+  country: United Arab Emirates
+- name: Al Jarwan Exchange
+  swift: JAEXAEADXXX
+  swift8: JAEXAEAD
+  branch_name: Head Office
+  branch_address: Sabkha Road Branch No3 Dubai
+  branch_code: XXX
+  city: Dubai
+  country: United Arab Emirates
+- name: Al Mal Securities Emirates Llc
+  swift: AMSUAEA1XXX
+  swift8: AMSUAEA1
+  branch_name: Head Office
+  branch_address: Sh Zayed Road Dubai
+  branch_code: XXX
+  city: Dubai
+  country: United Arab Emirates
+- name: Al Nahdi Exchange
+  swift: NAHDAEADXXX
+  swift8: NAHDAEAD
+  branch_name: Head Office
+  branch_address: Ayal Nasir Road 57726 Dubai
+  branch_code: XXX
+  city: Dubai
+  country: United Arab Emirates
+- name: Al Rasheed Exchange
+  swift: RDEXAEA1XXX
+  swift8: RDEXAEA1
+  branch_name: Head Office
+  branch_address: Mutinah Deira 2 Dubai
+  branch_code: XXX
+  city: Dubai
+  country: United Arab Emirates
+- name: Al Rasheed Exchange
+  swift: RDEXAEADXXX
+  swift8: RDEXAEAD
+  branch_name: Head Office
+  branch_address: Mutinah Deira 2 Dubai
+  branch_code: XXX
+  city: Dubai
+  country: United Arab Emirates
+- name: Alfa Exchange
+  swift: ALEHAEADXXX
+  swift8: ALEHAEAD
+  branch_name: Head Office
+  branch_address: Naif Building 116399 Dubai
+  branch_code: XXX
+  city: Dubai
+  country: United Arab Emirates
+- name: Alfalah Exchange Company
+  swift: AFECAEAAXXX
+  swift8: AFECAEAA
+  branch_name: Head Office
+  branch_address: Omar Al Askari and Saeed Al Askari Abu Dhabi
+  branch_code: XXX
+  city: Abu Dhabi
+  country: United Arab Emirates
+- name: Alramz Securities Co.
+  swift: ALRSAEA1XXX
+  swift8: ALRSAEA1
+  branch_name: Head Office
+  branch_address: Alghaith Tower 32000 Abu Dhabi
+  branch_code: XXX
+  city: Abu Dhabi
+  country: United Arab Emirates
+- name: Arab German International Broker Finance Brokers L.l.c.
+  swift: AGIOAEA1XXX
+  swift8: AGIOAEA1
+  branch_name: Head Office
+  branch_address: Villa B 17 Abu Dhabi
+  branch_code: XXX
+  city: Abu Dhabi
+  country: United Arab Emirates
+- name: Arab Link Money Transfer
+  swift: ALNKAEADXXX
+  swift8: ALNKAEAD
+  branch_name: Head Office
+  branch_address: Sheikh Omer Building 108343 Abu Dhabi
+  branch_code: XXX
+  city: Abu Dhabi
+  country: United Arab Emirates
+- name: Arab Trade Financing Program
+  swift: ATFPAEADXXX
+  swift8: ATFPAEAD
+  branch_name: Head Office
+  branch_address: Arab Monetary Fund Bldg 26799 Abu Dhabi
+  branch_code: XXX
+  city: Abu Dhabi
+  country: United Arab Emirates
+- name: Arqaam Securities Llc
+  swift: ARQSAEA1XXX
+  swift8: ARQSAEA1
+  branch_name: Head Office
+  branch_address: Al Naser Palace Building 120111 Dubai
+  branch_code: XXX
+  city: Dubai
+  country: United Arab Emirates
+- name: Asia Pacific Banking Group Middle E
+  swift: APGTAEA1XXX
+  swift8: APGTAEA1
+  branch_name: Head Office
+  branch_address: Arch Tower 0000 Dubai
+  branch_code: XXX
+  city: Dubai
+  country: United Arab Emirates
+- name: Asia Pacific Financials Services Middle East Limited
+  swift: APFRAEA1XXX
+  swift8: APFRAEA1
+  branch_name: Head Office
+  branch_address: Arch Tower 00000 Dubai
+  branch_code: XXX
+  city: Dubai
+  country: United Arab Emirates
+- name: Audi Volkswagen Middle East
+  swift: AVMEAEA1XXX
+  swift8: AVMEAEA1
+  branch_name: No branch name
+  branch_address: No branch address
+  branch_code: XXX
+  city: Dubai
+  country: United Arab Emirates
+- name: Aziz Exchange Co Llc
+  swift: AZIZAEADXXX
+  swift8: AZIZAEAD
+  branch_name: Head Office
+  branch_address: Ali Bin Thani Building 860 Dubai
+  branch_code: XXX
+  city: Dubai
+  country: United Arab Emirates
+- name: Bank Of China Middle East(dubai) Limited
+  swift: BKCHAEADXXX
+  swift8: BKCHAEAD
+  branch_name: Head Office
+  branch_address: Al Fattan Currency House Dubai
+  branch_code: XXX
+  city: Dubai
+  country: United Arab Emirates
+- name: Bank Of The Arab Coast
+  swift: ARCOAEA1XXX
+  swift8: ARCOAEA1
+  branch_name: Head Office
+  branch_address: Al Maktoum Street Dubai
+  branch_code: XXX
+  city: Dubai
+  country: United Arab Emirates
+- name: Bank Of Tokyo-mitsubishi Ufj, Ltd.,
+  swift: BOTKAEADXXX
+  swift8: BOTKAEAD
+  branch_name: Head Office
+  branch_address: Building 6, East Wing Dubai
+  branch_code: XXX
+  city: Dubai
+  country: United Arab Emirates
+- name: Beltone Financial Securities-emirates
+  swift: BEFSAEA1XXX
+  swift8: BEFSAEA1
+  branch_name: Head Office
+  branch_address: Shk Zayed Rd Dubai
+  branch_code: XXX
+  city: Dubai
+  country: United Arab Emirates
+- name: Capital Union
+  swift: CPUNAEA1XXX
+  swift8: CPUNAEA1
+  branch_name: Head Office
+  branch_address: Juma Al Majid 32514 Dubai
+  branch_code: XXX
+  city: Dubai
+  country: United Arab Emirates
+- name: Central Depository
+  swift: CTDTAEA1XXX
+  swift8: CTDTAEA1
+  branch_name: Head Office
+  branch_address: Essa Abdulfattah Kazim Dubai
+  branch_code: XXX
+  city: Dubai
+  country: United Arab Emirates
+- name: China Construction Bank (dubai) Ltd
+  swift: PCBCAEADXXX
+  swift8: PCBCAEAD
+  branch_name: Head Office
+  branch_address: Al Fattan Currency House 128220 Dubai
+  branch_code: XXX
+  city: Dubai
+  country: United Arab Emirates
+- name: Commerzbank Ag Dubai Branch
+  swift: COBAAEADXXX
+  swift8: COBAAEAD
+  branch_name: Head Office
+  branch_address: Difc Dubai
+  branch_code: XXX
+  city: Dubai
+  country: United Arab Emirates
+- name: Credit Agricole Cheuvreux Middle East
+  swift: CACHAEA1XXX
+  swift8: CACHAEA1
+  branch_name: Head Office
+  branch_address: Precinct Building 2 Dubai
+  branch_code: XXX
+  city: Dubai
+  country: United Arab Emirates
+- name: Credit Agricole Cib (difc Branch, Regulated By Thedfsa
+  swift: BSUIAEAFXXX
+  swift8: BSUIAEAF
+  branch_name: Head Office
+  branch_address: Tower 2 Dubai
+  branch_code: XXX
+  city: Dubai
+  country: United Arab Emirates
+- name: Credit Europe Bank (dubai) Ltd
+  swift: FBHLAEADXXX
+  swift8: FBHLAEAD
+  branch_name: Head Office
+  branch_address: Al Fattan Currency House Dubai
+  branch_code: XXX
+  city: Dubai
+  country: United Arab Emirates
+- name: Dinar Exchange
+  swift: DNARAEADXXX
+  swift8: DNARAEAD
+  branch_name: Head Office
+  branch_address: Rta Building Dubai
+  branch_code: XXX
+  city: Dubai
+  country: United Arab Emirates
+- name: Direct Broker For Financial Service
+  swift: DBFSAEAAXXX
+  swift8: DBFSAEAA
+  branch_name: Head Office
+  branch_address: Saeed Tower - 2 Dubai
+  branch_code: XXX
+  city: Dubai
+  country: United Arab Emirates
+- name: Dubai Bank Pjsc
+  swift: DBXPAEADXXX
+  swift8: DBXPAEAD
+  branch_name: Head Office
+  branch_address: Dubai Bank Building Dubai
+  branch_code: XXX
+  city: Dubai
+  country: United Arab Emirates
+- name: Dubai Exchange Centre L.l.c.
+  swift: DEXEAEADXXX
+  swift8: DEXEAEAD
+  branch_name: Head Office
+  branch_address: Dubai Exchange 0844 Dubai
+  branch_code: XXX
+  city: Dubai
+  country: United Arab Emirates
+- name: Dubai Financial Market, Pjsc.
+  swift: DFMTAEA1XXX
+  swift8: DFMTAEA1
+  branch_name: Head Office
+  branch_address: World Trade Center Building Dubai
+  branch_code: XXX
+  city: Dubai
+  country: United Arab Emirates
+- name: Dubai Islamic Bank
+  swift: DUIBAEADDEO
+  swift8: DUIBAEAD
+  branch_name: Direct Equities Operations
+  branch_address: Dubai
+  branch_code: DEO
+  city: Dubai
+  country: United Arab Emirates
+- name: Dubai Islamic Bank
+  swift: DUIBAEADLCS
+  swift8: DUIBAEAD
+  branch_name: Department Letters of Credit
+  branch_address: Dubai
+  branch_code: LCS
+  city: Dubai
+  country: United Arab Emirates
+- name: Dubai Islamic Bank
+  swift: DUIBAEADTOS
+  swift8: DUIBAEAD
+  branch_name: Treasury Department
+  branch_address: Dubai
+  branch_code: TOS
+  city: Dubai
+  country: United Arab Emirates
+- name: Dubai Islamic Bank
+  swift: DUIBAEADXXX
+  swift8: DUIBAEAD
+  branch_name: Head Office
+  branch_address: Head Office Dubai
+  branch_code: XXX
+  city: Dubai
+  country: United Arab Emirates
+- name: Dubai, Fitch Ratings Ltd (dubai Branch
+  swift: FRIPAEA1XXX
+  swift8: FRIPAEA1
+  branch_name: Head Office
+  branch_address: Difc Dubai
+  branch_code: XXX
+  city: Dubai
+  country: United Arab Emirates
+- name: Duet Mena Limited
+  swift: DUMNAEA1XXX
+  swift8: DUMNAEA1
+  branch_name: Head Office
+  branch_address: Al Fattan Currency House Dubai
+  branch_code: XXX
+  city: Dubai
+  country: United Arab Emirates
+- name: Economic Exchange Centre
+  swift: ECOXAEADXXX
+  swift8: ECOXAEAD
+  branch_name: Head Office
+  branch_address: Naif Road 116/356 Dubai
+  branch_code: XXX
+  city: Dubai
+  country: United Arab Emirates
+- name: Ed And F Man Professional Trading (dubai) Limited
+  swift: MPTDAEA1XXX
+  swift8: MPTDAEA1
+  branch_name: Head Office
+  branch_address: Dubai International Finance Centr 121208 Dubai
+  branch_code: XXX
+  city: Dubai
+  country: United Arab Emirates
+- name: Efg-hermes Brokerage-uae Ltd.
+  swift: EFGHAEB1XXX
+  swift8: EFGHAEB1
+  branch_name: Head Office
+  branch_address: Emirates Towers Dubai
+  branch_code: XXX
+  city: Dubai
+  country: United Arab Emirates
+- name: Efg-hermes Uae Limited
+  swift: EFGHAEA1XXX
+  swift8: EFGHAEA1
+  branch_name: Head Office
+  branch_address: The Gate Dubai
+  branch_code: XXX
+  city: Dubai
+  country: United Arab Emirates
+- name: El-nilein Bank
+  swift: NILBAEAAXXX
+  swift8: NILBAEAA
+  branch_name: Head Office
+  branch_address: Najda Street Abu Dhabi
+  branch_code: XXX
+  city: Abu Dhabi
+  country: United Arab Emirates
+- name: Emaar Financial Services Llc
+  swift: EMFSAEA1XXX
+  swift8: EMFSAEA1
+  branch_name: Head Office
+  branch_address: Oud Metha Street Dubai
+  branch_code: XXX
+  city: Dubai
+  country: United Arab Emirates
+- name: Emirates Banks Association
+  swift: EMIBAEA1XXX
+  swift8: EMIBAEA1
+  branch_name: Head Office
+  branch_address: Arab Monetary Fund Building Abu Dhabi
+  branch_code: XXX
+  city: Abu Dhabi
+  country: United Arab Emirates
+- name: Emirates India International Exchange
+  swift: EINIAEA1XXX
+  swift8: EINIAEA1
+  branch_name: Head Office
+  branch_address: Al Gaiz Building Dubai
+  branch_code: XXX
+  city: Dubai
+  country: United Arab Emirates
+- name: Emirates India International Exchange Lpc
+  swift: EIIEAEADXXX
+  swift8: EIIEAEAD
+  branch_name: Head Office
+  branch_address: Kanoo Building Dubai
+  branch_code: XXX
+  city: Dubai
+  country: United Arab Emirates
+- name: Emirates Islamic Bank
+  swift: MEBLAEADADC
+  swift8: MEBLAEAD
+  branch_name: Sh Rashid Street Branch
+  branch_address: Abu Dhabi
+  branch_code: ADC
+  city: Abu Dhabi
+  country: United Arab Emirates
+- name: Emirates Islamic Bank
+  swift: MEBLAEADAJS
+  swift8: MEBLAEAD
+  branch_name: Al Jawazat Street Branch
+  branch_address: Al Ain
+  branch_code: AJS
+  city: Al Ain
+  country: United Arab Emirates
+- name: Emirates Islamic Bank
+  swift: MEBLAEADBUD
+  swift8: MEBLAEAD
+  branch_name: Bur Dubai Branch
+  branch_address: Dubai
+  branch_code: BUD
+  city: Dubai
+  country: United Arab Emirates
+- name: Emirates Islamic Bank
+  swift: MEBLAEADDFR
+  swift8: MEBLAEAD
+  branch_name: Al Dhiyafa Road Branch
+  branch_address: Dubai
+  branch_code: DFR
+  city: Dubai
+  country: United Arab Emirates
+- name: Emirates Islamic Bank
+  swift: MEBLAEADFUJ
+  swift8: MEBLAEAD
+  branch_name: Fujairah Branch
+  branch_address: Fujairah
+  branch_code: FUJ
+  city: Fujairah
+  country: United Arab Emirates
+- name: Emirates Islamic Bank
+  swift: MEBLAEADMRD
+  swift8: MEBLAEAD
+  branch_name: Murshid Bazar Branch
+  branch_address: Dubai
+  branch_code: MRD
+  city: Dubai
+  country: United Arab Emirates
+- name: Emirates Islamic Bank
+  swift: MEBLAEADQFS
+  swift8: MEBLAEAD
+  branch_name: King Faisal Street Branch
+  branch_address: Umm Al Qaiwain
+  branch_code: QFS
+  city: Umm Al Qaiwain
+  country: United Arab Emirates
+- name: Emirates Islamic Bank
+  swift: MEBLAEADRIQ
+  swift8: MEBLAEAD
+  branch_name: Al Riqa Branch
+  branch_address: Dubai
+  branch_code: RIQ
+  city: Dubai
+  country: United Arab Emirates
+- name: Emirates Islamic Bank
+  swift: MEBLAEADROS
+  swift8: MEBLAEAD
+  branch_name: Oman Street Branch
+  branch_address: Ras Al Khaimah
+  branch_code: ROS
+  city: Ras Al Khaimah
+  country: United Arab Emirates
+- name: Emirates Islamic Bank
+  swift: MEBLAEADSBA
+  swift8: MEBLAEAD
+  branch_name: Al Borj Avenue Branch
+  branch_address: Sharjah
+  branch_code: SBA
+  city: Sharjah
+  country: United Arab Emirates
+- name: Emirates Islamic Bank
+  swift: MEBLAEADXXX
+  swift8: MEBLAEAD
+  branch_name: Head Office
+  branch_address: Al Yousuf Tower 6564 Dubai
+  branch_code: XXX
+  city: Dubai
+  country: United Arab Emirates
+- name: Emirates National Bank Ltd
+  swift: ENABAEA1XXX
+  swift8: ENABAEA1
+  branch_name: Head Office
+  branch_address: Al Maktoum Street Dubai
+  branch_code: XXX
+  city: Dubai
+  country: United Arab Emirates
+- name: Emirates Nbd Bank Pjsc
+  swift: EBILAEADADB
+  swift8: EBILAEAD
+  branch_name: Abu Dhabi Branch
+  branch_address: Abu Dhabi
+  branch_code: ADB
+  city: Abu Dhabi
+  country: United Arab Emirates
+- name: Emirates Nbd Bank Pjsc
+  swift: EBILAEADAMR
+  swift8: EBILAEAD
+  branch_name: Al Maktoum Road Branch
+  branch_address: Dubai
+  branch_code: AMR
+  city: Dubai
+  country: United Arab Emirates
+- name: Emirates Nbd Bank Pjsc
+  swift: EBILAEADBSQ
+  swift8: EBILAEAD
+  branch_name: Beniyas Square Branch
+  branch_address: Dubai
+  branch_code: BSQ
+  city: Dubai
+  country: United Arab Emirates
+- name: Emirates Nbd Bank Pjsc
+  swift: EBILAEADBTA
+  swift8: EBILAEAD
+  branch_name: Bander Taleb Branch
+  branch_address: Dubai
+  branch_code: BTA
+  city: Dubai
+  country: United Arab Emirates
+- name: Emirates Nbd Bank Pjsc
+  swift: EBILAEADDMB
+  swift8: EBILAEAD
+  branch_name: Dubai Main Branch
+  branch_address: Dubai
+  branch_code: DMB
+  city: Dubai
+  country: United Arab Emirates
+- name: Emirates Nbd Bank Pjsc
+  swift: EBILAEADFIN
+  swift8: EBILAEAD
+  branch_name: Group Head Office, Finance Department
+  branch_address: Dubai
+  branch_code: FIN
+  city: Dubai
+  country: United Arab Emirates
+- name: Emirates Nbd Bank Pjsc
+  swift: EBILAEADGAL
+  swift8: EBILAEAD
+  branch_name: Galleria Branch
+  branch_address: Dubai
+  branch_code: GAL
+  city: Dubai
+  country: United Arab Emirates
+- name: Emirates Nbd Bank Pjsc
+  swift: EBILAEADJAZ
+  swift8: EBILAEAD
+  branch_name: Jebel Ali Branch
+  branch_address: Dubai
+  branch_code: JAZ
+  city: Dubai
+  country: United Arab Emirates
+- name: Emirates Nbd Bank Pjsc
+  swift: EBILAEADJUM
+  swift8: EBILAEAD
+  branch_name: Jumeirah Branch
+  branch_address: Al Wasl Road, Jumeirah Dubai
+  branch_code: JUM
+  city: Dubai
+  country: United Arab Emirates
+- name: Emirates Nbd Bank Pjsc
+  swift: EBILAEADKAM
+  swift8: EBILAEAD
+  branch_name: Karama Branch
+  branch_address: Dubai
+  branch_code: KAM
+  city: Dubai
+  country: United Arab Emirates
+- name: Emirates Nbd Bank Pjsc
+  swift: EBILAEADQID
+  swift8: EBILAEAD
+  branch_name: Qiyadah Branch
+  branch_address: Dubai
+  branch_code: QID
+  city: Dubai
+  country: United Arab Emirates
+- name: Emirates Nbd Bank Pjsc
+  swift: EBILAEADSAT
+  swift8: EBILAEAD
+  branch_name: Satwa Branch
+  branch_address: Dubai
+  branch_code: SAT
+  city: Dubai
+  country: United Arab Emirates
+- name: Emirates Nbd Bank Pjsc
+  swift: EBILAEADSEC
+  swift8: EBILAEAD
+  branch_name: Emirates Nbd Securities
+  branch_address: Dubai
+  branch_code: SEC
+  city: Dubai
+  country: United Arab Emirates
+- name: Emirates Nbd Bank Pjsc
+  swift: EBILAEADSUK
+  swift8: EBILAEAD
+  branch_name: Al Souk Branch
+  branch_address: Dubai
+  branch_code: SUK
+  city: Dubai
+  country: United Arab Emirates
+- name: Emirates Nbd Bank Pjsc
+  swift: EBILAEADTFS
+  swift8: EBILAEAD
+  branch_name: Group Head Office, Trade Finance Services
+  branch_address: Dubai
+  branch_code: TFS
+  city: Dubai
+  country: United Arab Emirates
+- name: Emirates Nbd Bank Pjsc
+  swift: EBILAEADXXX
+  swift8: EBILAEAD
+  branch_name: Head Office
+  branch_address: Beniyas Street, Deira Dubai
+  branch_code: XXX
+  city: Dubai
+  country: United Arab Emirates
+- name: Es Bankers Dubai Limited
+  swift: ESBDAEADXXX
+  swift8: ESBDAEAD
+  branch_name: Head Office
+  branch_address: Gave Village Building 1 Dubai
+  branch_code: XXX
+  city: Dubai
+  country: United Arab Emirates
+- name: Federal Exchange
+  swift: FEDXAEA1XXX
+  swift8: FEDXAEA1
+  branch_name: Head Office
+  branch_address: Bldg. of Moza Bint Ahmed 1038 Dubai
+  branch_code: XXX
+  city: Dubai
+  country: United Arab Emirates
+- name: Federal Exchange
+  swift: FEDXAEAAXXX
+  swift8: FEDXAEAA
+  branch_name: Head Office
+  branch_address: Al Habtoor Building 1038 Dubai
+  branch_code: XXX
+  city: Dubai
+  country: United Arab Emirates
+- name: Finance House P.j.s.c
+  swift: FHOUAEADXXX
+  swift8: FHOUAEAD
+  branch_name: Head Office
+  branch_address: Bldg of Heirs of Hamad Mohammed 7878 Abu Dhabi
+  branch_code: XXX
+  city: Abu Dhabi
+  country: United Arab Emirates
+- name: First Gulf Bank
+  swift: FGBMAEAAXXX
+  swift8: FGBMAEAA
+  branch_name: Head Office
+  branch_address: Zayed 2nd Street 6316 Abu Dhabi
+  branch_code: XXX
+  city: Abu Dhabi
+  country: United Arab Emirates
+- name: First Gulf Financial Services
+  swift: FGFEAEA1XXX
+  swift8: FGFEAEA1
+  branch_name: Head Office
+  branch_address: C2 Building Sh Fatima Towers 107077 Abu Dhabi
+  branch_code: XXX
+  city: Abu Dhabi
+  country: United Arab Emirates
+- name: Gcc Exchange
+  swift: GCCEAEADXXX
+  swift8: GCCEAEAD
+  branch_name: Head Office
+  branch_address: Al Ghurair Real Estate Building Dubai
+  branch_code: XXX
+  city: Dubai
+  country: United Arab Emirates
+- name: Global Investment Bank Limited
+  swift: RIBBAEAAXXX
+  swift8: RIBBAEAA
+  branch_name: Head Office
+  branch_address: Difc 9 and 10 Dubai
+  branch_code: XXX
+  city: Dubai
+  country: United Arab Emirates
+- name: Gulf Express Exchange
+  swift: GUEEAEADXXX
+  swift8: GUEEAEAD
+  branch_name: Head Office
+  branch_address: Gargash Centre 252258 Dxb Dubai
+  branch_code: XXX
+  city: Dxb Dubai
+  country: United Arab Emirates
+- name: Gulf Merchant Group Llp
+  swift: GMGLAEA1XXX
+  swift8: GMGLAEA1
+  branch_name: Head Office
+  branch_address: Emirates Towers Offices 74601 Dubai
+  branch_code: XXX
+  city: Dubai
+  country: United Arab Emirates
+- name: Habib Exchange Company L. L. C.
+  swift: HEXCAEAAXXX
+  swift8: HEXCAEAA
+  branch_name: Head Office
+  branch_address: Knaish Khalifa Knaish Al Qubaisi 2370 Abu Dhabi
+  branch_code: XXX
+  city: Abu Dhabi
+  country: United Arab Emirates
+- name: Hinduja Bank (middle East) Ltd
+  swift: ABSGAEADXXX
+  swift8: ABSGAEAD
+  branch_name: Head Office
+  branch_address: Dubai Int. Financial Center Dubai
+  branch_code: XXX
+  city: Dubai
+  country: United Arab Emirates
+- name: Horizon Exchange
+  swift: HREXAEADXXX
+  swift8: HREXAEAD
+  branch_name: No branch name
+  branch_address: No branch address
+  branch_code: XXX
+  city: Dubai
+  country: United Arab Emirates
+- name: Horizon Exchange
+  swift: HREXAEA1XXX
+  swift8: HREXAEA1
+  branch_name: Head Office
+  branch_address: 109 Sabhka Street, Deira 116665 Dubai
+  branch_code: XXX
+  city: Dubai
+  country: United Arab Emirates
+- name: Hsbc Financial Services (middle East) Limited
+  swift: WDMEAEA1XXX
+  swift8: WDMEAEA1
+  branch_name: Head Office
+  branch_address: Twin Towers Dubai
+  branch_code: XXX
+  city: Dubai
+  country: United Arab Emirates
+- name: Idbi Bank Ltd
+  swift: IBKLAEADXXX
+  swift8: IBKLAEAD
+  branch_name: Head Office
+  branch_address: Building 5 Dubai
+  branch_code: XXX
+  city: Dubai
+  country: United Arab Emirates
+- name: Industrial And Commercial Bank Of China (middle East
+  swift: ICBKAEADXXX
+  swift8: ICBKAEAD
+  branch_name: Head Office
+  branch_address: Al Kifaf Building Dubai
+  branch_code: XXX
+  city: Dubai
+  country: United Arab Emirates
+- name: Industrial And Commercial Bank Of China Limited-abu Dhabi Branch
+  swift: ICBKAEAAXXX
+  swift8: ICBKAEAA
+  branch_name: Head Office
+  branch_address: Al Buttin Tower Abu Dhabi
+  branch_code: XXX
+  city: Abu Dhabi
+  country: United Arab Emirates
+- name: International Petroleum Investment Company
+  swift: IPIOAEA1XXX
+  swift8: IPIOAEA1
+  branch_name: Head Office
+  branch_address: Sh Zahyed the First Street Abu Dhabi
+  branch_code: XXX
+  city: Abu Dhabi
+  country: United Arab Emirates
+- name: Invest Ad
+  swift: ADICAEAAXXX
+  swift8: ADICAEAA
+  branch_name: Head Office
+  branch_address: New Nbad Building Abu Dhabi
+  branch_code: XXX
+  city: Abu Dhabi
+  country: United Arab Emirates
+- name: Ittihad International Investment L.l.c.
+  swift: IIICAEA1XXX
+  swift8: IIICAEA1
+  branch_name: Head Office
+  branch_address: Bainuna Street No. 34 Abu Dhabi
+  branch_code: XXX
+  city: Abu Dhabi
+  country: United Arab Emirates
+- name: Janata Bank
+  swift: JANBAEAAALN
+  swift8: JANBAEAA
+  branch_name: Al Ain Branch
+  branch_address: Sk. Khlifa Bin Mohd. Al-Nahiyan 1107 Al Ain
+  branch_code: ALN
+  city: Al Ain
+  country: United Arab Emirates
+- name: Janata Bank
+  swift: JANBAEAAAUH
+  swift8: JANBAEAA
+  branch_name: Abu Dhabi Branch
+  branch_address: Obied Sayah Al-Mansuri Bldg 2630 Abu Dhabi
+  branch_code: AUH
+  city: Abu Dhabi
+  country: United Arab Emirates
+- name: Janata Bank
+  swift: JANBAEAADXB
+  swift8: JANBAEAA
+  branch_name: Dubai Branch
+  branch_address: Baniyas Complex 3342 Dubai
+  branch_code: DXB
+  city: Dubai
+  country: United Arab Emirates
+- name: Janata Bank
+  swift: JANBAEAASHJ
+  swift8: JANBAEAA
+  branch_name: Sharjah Branch
+  branch_address: Saker Bin Rashid Bldg 5303 Sharjah
+  branch_code: SHJ
+  city: Sharjah
+  country: United Arab Emirates
+- name: Janata Bank
+  swift: JANBAEAAXXX
+  swift8: JANBAEAA
+  branch_name: Head Office
+  branch_address: Obied Sayah Al-Mansuri Building Abu Dhabi
+  branch_code: XXX
+  city: Abu Dhabi
+  country: United Arab Emirates
+- name: Katota Investment Sector Fze
+  swift: KISFAEA1XXX
+  swift8: KISFAEA1
+  branch_name: Head Office
+  branch_address: Business Center 04 Ras Al Khaimah
+  branch_code: XXX
+  city: Ras Al Khaimah
+  country: United Arab Emirates
+- name: Kbc Aldini Capital Limited
+  swift: KBCKAEADXXX
+  swift8: KBCKAEAD
+  branch_name: Head Office
+  branch_address: 416, Liberty House 43832 Dubai
+  branch_code: XXX
+  city: Dubai
+  country: United Arab Emirates
+- name: Korea Exchange Bank Abudhabi Branch
+  swift: KOEXAEADXXX
+  swift8: KOEXAEAD
+  branch_name: Head Office
+  branch_address: Office Tower No.3, Etihad Towers 45636 Abu Dhabi
+  branch_code: XXX
+  city: Abu Dhabi
+  country: United Arab Emirates
+- name: Kuwait Turkish Participation Bank Dubai Limited
+  swift: KTEFAEADXXX
+  swift8: KTEFAEAD
+  branch_name: Head Office
+  branch_address: Difc Global, Business Centre Dubai
+  branch_code: XXX
+  city: Dubai
+  country: United Arab Emirates
+- name: Lari Exchange
+  swift: LAEEAEAAXXX
+  swift8: LAEEAEAA
+  branch_name: Head Office
+  branch_address: Saif Bin Darwish Building Abu Dhabi
+  branch_code: XXX
+  city: Abu Dhabi
+  country: United Arab Emirates
+- name: Louis Dreyfus Commodities Mea Trading Dmcc
+  swift: LDMEAEADXXX
+  swift8: LDMEAEAD
+  branch_name: Head Office
+  branch_address: Tiffany Tower Dubai
+  branch_code: XXX
+  city: Dubai
+  country: United Arab Emirates
+- name: Lulu International Exchange
+  swift: LULUAEADXXX
+  swift8: LULUAEAD
+  branch_name: Head Office
+  branch_address: Madinat Zayed Office Tower 5379 Abu Dhabi
+  branch_code: XXX
+  city: Abu Dhabi
+  country: United Arab Emirates
+- name: Mac Capital Limited
+  swift: MCCPAEA1XXX
+  swift8: MCCPAEA1
+  branch_name: Head Office
+  branch_address: Liberty House, 909 Dubai
+  branch_code: XXX
+  city: Dubai
+  country: United Arab Emirates
+- name: Mac Sharaf Securities (uae) Llc.
+  swift: MSSUAEA1XXX
+  swift8: MSSUAEA1
+  branch_name: Head Office
+  branch_address: Gold and Diamond Park Dubai
+  branch_code: XXX
+  city: Dubai
+  country: United Arab Emirates
+- name: Makaseb Islamic Financial Services Llc
+  swift: MIFRAEA1XXX
+  swift8: MIFRAEA1
+  branch_name: Head Office
+  branch_address: Al Ghaith Tower 51414 Abu Dhabi
+  branch_code: XXX
+  city: Abu Dhabi
+  country: United Arab Emirates
+- name: Mashreq Securities Llc
+  swift: MSSLAEA1XXX
+  swift8: MSSLAEA1
+  branch_name: Head Office
+  branch_address: Agc Dubai
+  branch_code: XXX
+  city: Dubai
+  country: United Arab Emirates
+- name: Mena Corp Financial Services Llc
+  swift: MFELAEA1XXX
+  swift8: MFELAEA1
+  branch_name: No branch name
+  branch_address: No branch address
+  branch_code: XXX
+  city: Abu Dhabi
+  country: United Arab Emirates
+- name: Middle East Financial Brokerage Company, L.l.c
+  swift: MFBCAEA1XXX
+  swift8: MFBCAEA1
+  branch_name: Head Office
+  branch_address: Al Safa Building Dubai
+  branch_code: XXX
+  city: Dubai
+  country: United Arab Emirates
+- name: Ministry Of Energy
+  swift: MIEEAEA1XXX
+  swift8: MIEEAEA1
+  branch_name: Head Office
+  branch_address: Al Ethihad 99979 Dubai
+  branch_code: XXX
+  city: Dubai
+  country: United Arab Emirates
+- name: Mirabaud (middle East) Limited
+  swift: MIRAAEADXXX
+  swift8: MIRAAEAD
+  branch_name: Head Office
+  branch_address: The Gate Village Dubai
+  branch_code: XXX
+  city: Dubai
+  country: United Arab Emirates
+- name: Multinet Trust Exchange
+  swift: MULXAEAEXXX
+  swift8: MULXAEAE
+  branch_name: Head Office
+  branch_address: Al Owais Tower Dubai
+  branch_code: XXX
+  city: Dubai
+  country: United Arab Emirates
+- name: Multinet Trust Exchange
+  swift: MULXAEADXXX
+  swift8: MULXAEAD
+  branch_name: Head Office
+  branch_address: Al Owais Business Tower 14780 Dubai
+  branch_code: XXX
+  city: Dubai
+  country: United Arab Emirates
+- name: Naeem Shares And Bonds
+  swift: NSHOAEA1XXX
+  swift8: NSHOAEA1
+  branch_name: Head Office
+  branch_address: Star Giga House 119244 Dubai
+  branch_code: XXX
+  city: Dubai
+  country: United Arab Emirates
+- name: Nasdaq Dubai Limited
+  swift: DIFXAEAAXXX
+  swift8: DIFXAEAA
+  branch_name: Head Office
+  branch_address: The Exchange Building 53536 Dubai
+  branch_code: XXX
+  city: Dubai
+  country: United Arab Emirates
+- name: Nasim Al Barari Exchange
+  swift: NABEAEA1XXX
+  swift8: NABEAEA1
+  branch_name: Head Office
+  branch_address: Khalifa Mohamed Al Tajer 22927 Dubai
+  branch_code: XXX
+  city: Dubai
+  country: United Arab Emirates
+- name: National Bank Of Abu Dhabi Head Office
+  swift: NBADAEABXXX
+  swift8: NBADAEAB
+  branch_name: Aim/Poms Service
+  branch_address: No branch address
+  branch_code: XXX
+  city: Abu Dhabi
+  country: United Arab Emirates
+- name: National Bank Of Abu Dhabi Head Office
+  swift: NBADAEB1XXX
+  swift8: NBADAEB1
+  branch_name: Aim-Poms Service
+  branch_address: H.O. Sheikh Kalifa Street Abu Dhabi
+  branch_code: XXX
+  city: Abu Dhabi
+  country: United Arab Emirates
+- name: National Bank Of Fujairah
+  swift: NBFUAEAFAUH
+  swift8: NBFUAEAF
+  branch_name: Abu Dhabi Branch
+  branch_address: Mubarak Al Mazroui Building Abu Dhabi
+  branch_code: AUH
+  city: Abu Dhabi
+  country: United Arab Emirates
+- name: National Bank Of Fujairah
+  swift: NBFUAEAFDXB
+  swift8: NBFUAEAF
+  branch_name: Dubai Branch
+  branch_address: Al Fujairah Building Dubai
+  branch_code: DXB
+  city: Dubai
+  country: United Arab Emirates
+- name: National Bank Of Fujairah
+  swift: NBFUAEAFFUJ
+  swift8: NBFUAEAF
+  branch_name: Fujairah Branch
+  branch_address: Hamad Bin Abdulla Street Fujairah
+  branch_code: FUJ
+  city: Fujairah
+  country: United Arab Emirates
+- name: National Bank Of Fujairah
+  swift: NBFUAEAFJBA
+  swift8: NBFUAEAF
+  branch_name: Jebel Ali
+  branch_address: Dubai
+  branch_code: JBA
+  city: Dubai
+  country: United Arab Emirates
+- name: National Bank Of Fujairah
+  swift: NBFUAEAFSHJ
+  swift8: NBFUAEAF
+  branch_name: Sharjah Branch
+  branch_address: Sharjah
+  branch_code: SHJ
+  city: Sharjah
+  country: United Arab Emirates
+- name: National Bank Of Fujairah
+  swift: NBFUAEAFXXX
+  swift8: NBFUAEAF
+  branch_name: Head Office
+  branch_address: Sheikh Hamad Bin Abddullah Street Fujairah
+  branch_code: XXX
+  city: Fujairah
+  country: United Arab Emirates
+- name: National Bank Of Kuwait (s.a.k.).
+  swift: NBOKAEADXXX
+  swift8: NBOKAEAD
+  branch_name: Head Office
+  branch_address: Acico Business Park Dubai
+  branch_code: XXX
+  city: Dubai
+  country: United Arab Emirates
+- name: National Bank Of Ras Al-khaimah, The
+  swift: NRAKAEAKXXX
+  swift8: NRAKAEAK
+  branch_name: Head Office
+  branch_address: Nbrak Building Ras Al Khaimah
+  branch_code: XXX
+  city: Ras Al Khaimah
+  country: United Arab Emirates
+- name: National Bank Of Umm Al Qaiwain Psc.
+  swift: UMMQAEADFXD
+  swift8: UMMQAEAD
+  branch_name: Um Al Qaiwain Private Properties Building
+  branch_address: King Faisal Street Umm Al Qaiwain
+  branch_code: FXD
+  city: Umm Al Qaiwain
+  country: United Arab Emirates
+- name: National Bank Of Umm Al Qaiwain Psc.
+  swift: UMMQAEADXXX
+  swift8: UMMQAEAD
+  branch_name: Head Office
+  branch_address: National Bank of Umm Al Qaiwain Bld Dubai
+  branch_code: XXX
+  city: Dubai
+  country: United Arab Emirates
+- name: National Investment And Securities Corp (niscorp
+  swift: INSNAEA1XXX
+  swift8: INSNAEA1
+  branch_name: Head Office
+  branch_address: Abu Dhabi
+  branch_code: XXX
+  city: Abu Dhabi
+  country: United Arab Emirates
+- name: Natixis Dubai
+  swift: NATXAEADXXX
+  swift8: NATXAEAD
+  branch_name: Head Office
+  branch_address: Gate Village Building 8 Dubai
+  branch_code: XXX
+  city: Dubai
+  country: United Arab Emirates
+- name: Natixis Dubai
+  swift: BFCEAEADXXX
+  swift8: BFCEAEAD
+  branch_name: Head Office
+  branch_address: Juma Al Majid Building Dubai
+  branch_code: XXX
+  city: Dubai
+  country: United Arab Emirates
+- name: Noor Islamic Bank
+  swift: NISLAEADXXX
+  swift8: NISLAEAD
+  branch_name: Head Office
+  branch_address: Emaar Business Park 8822 Dubai
+  branch_code: XXX
+  city: Dubai
+  country: United Arab Emirates
+- name: Oasis Capital Limited
+  swift: OACAAEA1XXX
+  swift8: OACAAEA1
+  branch_name: Head Office
+  branch_address: Dudai World Trade Centre Dubai
+  branch_code: XXX
+  city: Dubai
+  country: United Arab Emirates
+- name: Oasis Crescent Capital (difc) Limited
+  swift: OCCDAEA1XXX
+  swift8: OCCDAEA1
+  branch_name: Head Office
+  branch_address: Dubai International Finance Centre 506562 Dubai
+  branch_code: XXX
+  city: Dubai
+  country: United Arab Emirates
+- name: Orient Exchange Co.(l.l.c.
+  swift: OECOAEADXXX
+  swift8: OECOAEAD
+  branch_name: Head Office
+  branch_address: H.H.Sheikha Sheikha Building 25557 Dubai
+  branch_code: XXX
+  city: Dubai
+  country: United Arab Emirates
+- name: Prime Emirates L.l.c
+  swift: PRELAEA1XXX
+  swift8: PRELAEA1
+  branch_name: Head Office
+  branch_address: Zayed 1st Road 60355 Abu Dhabi
+  branch_code: XXX
+  city: Abu Dhabi
+  country: United Arab Emirates
+- name: Rasmala Investment Bank Ltd.
+  swift: RSMLAEADXXX
+  swift8: RSMLAEAD
+  branch_name: Head Office
+  branch_address: Building 10 31145 Dubai
+  branch_code: XXX
+  city: Dubai
+  country: United Arab Emirates
+- name: Redha Al Ansari Exchange
+  swift: RAECAEADXXX
+  swift8: RAECAEAD
+  branch_name: Head Office
+  branch_address: Al Mashraf Towers 8828 Dubai
+  branch_code: XXX
+  city: Dubai
+  country: United Arab Emirates
+- name: Sajwani Exchange
+  swift: SAJWAEADXXX
+  swift8: SAJWAEAD
+  branch_name: Head Office
+  branch_address: Jehad Al Enza Bldg Sharjah
+  branch_code: XXX
+  city: Sharjah
+  country: United Arab Emirates
+- name: Samsung Gulf Electronics Co., Ltd.
+  swift: SECTAEA1710
+  swift8: SECTAEA1
+  branch_name: Sge
+  branch_address: Dubai
+  branch_code: '710'
+  city: Dubai
+  country: United Arab Emirates
+- name: Samsung Gulf Electronics Co., Ltd.
+  swift: SECTAEA1XXX
+  swift8: SECTAEA1
+  branch_name: Head Office
+  branch_address: Concord Tower Dubai
+  branch_code: XXX
+  city: Dubai
+  country: United Arab Emirates
+- name: Sct Bankers
+  swift: SCTSAEA1XXX
+  swift8: SCTSAEA1
+  branch_name: Head Office
+  branch_address: Sheykh Ahmad 31988 Dubai
+  branch_code: XXX
+  city: Dubai
+  country: United Arab Emirates
+- name: Sharaf Exchange Llc
+  swift: SHEXAEA1XXX
+  swift8: SHEXAEA1
+  branch_name: No branch name
+  branch_address: No branch address
+  branch_code: XXX
+  city: Dubai
+  country: United Arab Emirates
+- name: Sharaf Exchange Llc
+  swift: SHEXAEADXXX
+  swift8: SHEXAEAD
+  branch_name: Head Office
+  branch_address: 317 Mankhool Road Dubai
+  branch_code: XXX
+  city: Dubai
+  country: United Arab Emirates
+- name: Sharjah Islamic Bank
+  swift: NBSHAEASXXX
+  swift8: NBSHAEAS
+  branch_name: Head Office
+  branch_address: Al Borj Avenue Sharjah
+  branch_code: XXX
+  city: Sharjah
+  country: United Arab Emirates
+- name: Shuaa Capital P.s.c.
+  swift: AGEIAEA1XXX
+  swift8: AGEIAEA1
+  branch_name: Head Office
+  branch_address: Emirates Towers Dubai
+  branch_code: XXX
+  city: Dubai
+  country: United Arab Emirates
+- name: Shuaa Capital Psc
+  swift: SHCPAEADXXX
+  swift8: SHCPAEAD
+  branch_name: Head Office
+  branch_address: Emirates Towers Dubai
+  branch_code: XXX
+  city: Dubai
+  country: United Arab Emirates
+- name: Smbc Dubai
+  swift: SMBCAEADXXX
+  swift8: SMBCAEAD
+  branch_name: Head Office
+  branch_address: Difc, Building One, Floor 5, 506559 Dubai
+  branch_code: XXX
+  city: Dubai
+  country: United Arab Emirates
+- name: Sorinet Comercial Trust
+  swift: SCERAEA1XXX
+  swift8: SCERAEA1
+  branch_name: Head Office
+  branch_address: Sheykh Ahmad 31988 Dubai
+  branch_code: XXX
+  city: Dubai
+  country: United Arab Emirates
+- name: Swiss Investment Bank Plc
+  swift: FIWSAEA1XXX
+  swift8: FIWSAEA1
+  branch_name: Head Office
+  branch_address: 608 Prism Tower 111994 Dubai
+  branch_code: XXX
+  city: Dubai
+  country: United Arab Emirates
+- name: Tabra And Al Nibal Exchange
+  swift: TBRAAEA1XXX
+  swift8: TBRAAEA1
+  branch_name: Head Office
+  branch_address: Muteena Road 21378 Dubai
+  branch_code: XXX
+  city: Dubai
+  country: United Arab Emirates
+- name: U.a.e. Exchange Centre
+  swift: UAEXAEAAXXX
+  swift8: UAEXAEAA
+  branch_name: Head Office
+  branch_address: Omeir Bin Yousef Building 211447 Abu Dhabi
+  branch_code: XXX
+  city: Abu Dhabi
+  country: United Arab Emirates
+- name: Union Bank Of India Difc Branch
+  swift: UBINAEADXXX
+  swift8: UBINAEAD
+  branch_name: Head Office
+  branch_address: Financial Centre Unit No. 208-210 Dubai
+  branch_code: XXX
+  city: Dubai
+  country: United Arab Emirates
+- name: Union National Bank
+  swift: UNBEAEAAQTR
+  swift8: UNBEAEAA
+  branch_name: Salam Street
+  branch_address: Abu Dhabi
+  branch_code: QTR
+  city: Abu Dhabi
+  country: United Arab Emirates
+- name: Union National Bank
+  swift: UNBEAEAATFS
+  swift8: UNBEAEAA
+  branch_name: Trade Finance Services Area
+  branch_address: Abu Dhabi
+  branch_code: TFS
+  city: Abu Dhabi
+  country: United Arab Emirates
+- name: Union National Bank
+  swift: UNBEAEAAXXX
+  swift8: UNBEAEAA
+  branch_name: Head Office
+  branch_address: Salam Street Abu Dhabi
+  branch_code: XXX
+  city: Abu Dhabi
+  country: United Arab Emirates
+- name: United Arab Bank
+  swift: UARBAEAAXXX
+  swift8: UARBAEAA
+  branch_name: Head Office
+  branch_address: Al Qasimiya Street 25022 Sharjah
+  branch_code: XXX
+  city: Sharjah
+  country: United Arab Emirates
+- name: United Bank Ltd.
+  swift: UNILAEADCPU
+  swift8: UNILAEAD
+  branch_name: Ubl, Central Processing Unit
+  branch_address: Dubai
+  branch_code: CPU
+  city: Dubai
+  country: United Arab Emirates
+- name: United Bank Ltd.
+  swift: UNILAEADTFC
+  swift8: UNILAEAD
+  branch_name: Ubl, Trade Finance Centre
+  branch_address: Dubai
+  branch_code: TFC
+  city: Dubai
+  country: United Arab Emirates
+- name: United Bank Ltd.
+  swift: UNILAEADTRY
+  swift8: UNILAEAD
+  branch_name: Ubl, Treasury Operations Dept
+  branch_address: Dubai
+  branch_code: TRY
+  city: Dubai
+  country: United Arab Emirates
+- name: United Bank Ltd.
+  swift: UNILAEADXXX
+  swift8: UNILAEAD
+  branch_name: Head Office
+  branch_address: Garhoud Views Bldg. Dubai
+  branch_code: XXX
+  city: Dubai
+  country: United Arab Emirates
+- name: United Investment Bank Ltd.
+  swift: UIBLAEA1XXX
+  swift8: UIBLAEA1
+  branch_name: Head Office
+  branch_address: Gate Village Building 5 Dubai Difc
+  branch_code: XXX
+  city: Dubai
+  country: United Arab Emirates
+- name: Universal Exchange Center
+  swift: UECEAEADXXX
+  swift8: UECEAEAD
+  branch_name: Head Office
+  branch_address: Al Wasl Building 82471 Dubai
+  branch_code: XXX
+  city: Dubai
+  country: United Arab Emirates
+- name: Wall Street Exchange Centre Llc
+  swift: WSEEAEADXXX
+  swift8: WSEEAEAD
+  branch_name: Head Office
+  branch_address: Deira Central Building Dubai
+  branch_code: XXX
+  city: Dubai
+  country: United Arab Emirates
+- name: Zfp Equity Trading (dubai) Limited
+  swift: ZETDAEA1XXX
+  swift8: ZETDAEA1
+  branch_name: Head Office
+  branch_address: Gate Village 10 Dubai
+  branch_code: XXX
+  city: Dubai
+  country: United Arab Emirates

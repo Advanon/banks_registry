@@ -1,0 +1,1975 @@
+---
+VN:
+- name: Bangkok Bank Public Company Limited
+  swift: BKKBVNV10V5
+  swift8: BKKBVNV1
+  branch_name: Hanoi
+  branch_address: 8 Tran Hung Dao Street, Hoan Kiem Hanoi
+  branch_code: 0V5
+  city: Hanoi
+  country: Viet Nam
+- name: Bank Of China
+  swift: BKCHVNVXXXX
+  swift8: BKCHVNVX
+  branch_name: Head Office
+  branch_address: 14c Cach Mang Thang Tam Street Ho Chi Minh City
+  branch_code: XXX
+  city: Ho Chi Minh City
+  country: Viet Nam
+- name: Citibank N.A.
+  swift: CITIVNVXHCM
+  swift8: CITIVNVX
+  branch_name: Ho Chih Min City Branch
+  branch_address: Sunwah Building Ho Chi Minh City
+  branch_code: HCM
+  city: Ho Chi Minh City
+  country: Viet Nam
+- name: Citibank N.A.
+  swift: CITIVNVXXXX
+  swift8: CITIVNVX
+  branch_name: Head Office
+  branch_address: 51 Ly Thai to Street Hanoi
+  branch_code: XXX
+  city: Hanoi
+  country: Viet Nam
+- name: Credit Agricole Cib
+  swift: CAINVNVXHAN
+  swift8: CAINVNVX
+  branch_name: 84 Hanoi
+  branch_address: Hanoi Tower 84 Hanoi
+  branch_code: HAN
+  city: Hanoi
+  country: Viet Nam
+- name: Credit Agricole Cib
+  swift: CAINVNVXXXX
+  swift8: CAINVNVX
+  branch_name: Head Office
+  branch_address: 21-23 Nguyen Thi Minh Khai Street Ho Chi Minh City
+  branch_code: XXX
+  city: Ho Chi Minh City
+  country: Viet Nam
+- name: First Commercial Bank
+  swift: FCBKVNVXHAN
+  swift8: FCBKVNVX
+  branch_name: Hanoi Branch
+  branch_address: Charmvit Tower Hanoi
+  branch_code: HAN
+  city: Hanoi
+  country: Viet Nam
+- name: First Commercial Bank
+  swift: FCBKVNVXXXX
+  swift8: FCBKVNVX
+  branch_name: Head Office
+  branch_address: 88 Dong Kohi St., District 1 Ho Chi Minh City
+  branch_code: XXX
+  city: Ho Chi Minh City
+  country: Viet Nam
+- name: Jpmorgan Chase Bank, N.A.
+  swift: CHASVNVXAGY
+  swift8: CHASVNVX
+  branch_name: Loans Operations Department
+  branch_address: Ho Chi Minh City
+  branch_code: AGY
+  city: Ho Chi Minh City
+  country: Viet Nam
+- name: Jpmorgan Chase Bank, N.A.
+  swift: CHASVNVXDEP
+  swift8: CHASVNVX
+  branch_name: Deposit Operations Department
+  branch_address: Ho Chi Minh City
+  branch_code: DEP
+  city: Ho Chi Minh City
+  country: Viet Nam
+- name: Jpmorgan Chase Bank, N.A.
+  swift: CHASVNVXMTS
+  swift8: CHASVNVX
+  branch_name: Payment Operations Department
+  branch_address: Ho Chi Minh City
+  branch_code: MTS
+  city: Ho Chi Minh City
+  country: Viet Nam
+- name: Jpmorgan Chase Bank, N.A.
+  swift: CHASVNVXSFX
+  swift8: CHASVNVX
+  branch_name: Fx Operations
+  branch_address: Ho Chi Minh City
+  branch_code: SFX
+  city: Ho Chi Minh City
+  country: Viet Nam
+- name: Jpmorgan Chase Bank, N.A.
+  swift: CHASVNVXTRO
+  swift8: CHASVNVX
+  branch_name: Global Market Operations Department
+  branch_address: Ho Chi Minh City
+  branch_code: TRO
+  city: Ho Chi Minh City
+  country: Viet Nam
+- name: Jpmorgan Chase Bank, N.A.
+  swift: CHASVNVXTSD
+  swift8: CHASVNVX
+  branch_name: Trade Operations Department
+  branch_address: Ho Chi Minh City
+  branch_code: TSD
+  city: Ho Chi Minh City
+  country: Viet Nam
+- name: Jpmorgan Chase Bank, N.A.
+  swift: CHASVNVXWCS
+  swift8: CHASVNVX
+  branch_name: Wholesale Customer Services Unit
+  branch_address: Ho Chi Minh City
+  branch_code: WCS
+  city: Ho Chi Minh City
+  country: Viet Nam
+- name: Jpmorgan Chase Bank, N.A.
+  swift: CHASVNVXXXX
+  swift8: CHASVNVX
+  branch_name: Head Office
+  branch_address: Saigon Towers Ho Chi Minh City
+  branch_code: XXX
+  city: Ho Chi Minh City
+  country: Viet Nam
+- name: Malayan Banking Berhad
+  swift: MBBEVNVXHCM
+  swift8: MBBEVNVX
+  branch_name: Ho Chi Minh City
+  branch_address: Sunwah Tower Ho Chi Minh City
+  branch_code: HCM
+  city: Ho Chi Minh City
+  country: Viet Nam
+- name: Malayan Banking Berhad
+  swift: MBBEVNVXXXX
+  swift8: MBBEVNVX
+  branch_name: Head Office
+  branch_address: 63, Ly Thai to Hanoi
+  branch_code: XXX
+  city: Hanoi
+  country: Viet Nam
+- name: Oversea-Chinese Banking Corporation Limited
+  swift: OCBCVNVXXXX
+  swift8: OCBCVNVX
+  branch_name: Head Office
+  branch_address: Saigon Tower Ho Chi Minh City
+  branch_code: XXX
+  city: Ho Chi Minh City
+  country: Viet Nam
+- name: Standard Chartered Bank
+  swift: SCBLVNVHXXX
+  swift8: SCBLVNVH
+  branch_name: Head Office
+  branch_address: Regency Hanoi Towers Hanoi
+  branch_code: XXX
+  city: Hanoi
+  country: Viet Nam
+- name: Sumitomo Mitsui Banking Corporation
+  swift: SMBCVNVXXXX
+  swift8: SMBCVNVX
+  branch_name: Head Office
+  branch_address: The Landmark Ho Chi Minh City
+  branch_code: XXX
+  city: Ho Chi Minh City
+  country: Viet Nam
+- name: Bank Of Tokyo-mitsubishi Ufj, Ltd., The
+  swift: BOTKVNVXXXX
+  swift8: BOTKVNVX
+  branch_name: Ho Chi Minh City Branch
+  branch_address: The Landmark Ho Chi Minh City
+  branch_code: XXX
+  city: Ho Chi Minh City
+  country: Viet Nam
+- name: Mega International Commercial Bank Co., Ltd.
+  swift: ICBCVNVXXXX
+  swift8: ICBCVNVX
+  branch_name: Head Office
+  branch_address: The Landmark, Unit 1 Ho Chi Minh City
+  branch_code: XXX
+  city: Ho Chi Minh City
+  country: Viet Nam
+- name: Mizuho Bank, Ltd.
+  swift: MHCBVNVXHCM
+  swift8: MHCBVNVX
+  branch_name: Hochiminh Branch
+  branch_address: Ho Chi Minh City
+  branch_code: HCM
+  city: Ho Chi Minh City
+  country: Viet Nam
+- name: Mizuho Bank, Ltd.
+  swift: MHCBVNVXXXX
+  swift8: MHCBVNVX
+  branch_name: Head Office
+  branch_address: 63 Ltt Building Hanoi
+  branch_code: XXX
+  city: Hanoi
+  country: Viet Nam
+- name: Acb Securities Company, Ltd
+  swift: ACBSVNVCXXX
+  swift8: ACBSVNVC
+  branch_name: Head Office
+  branch_address: Acbs Building 700000 Ho Chi Minh City
+  branch_code: XXX
+  city: Ho Chi Minh City
+  country: Viet Nam
+- name: An Binh Commercial Joint Stock Bank
+  swift: ABBKVNVXXXX
+  swift8: ABBKVNVX
+  branch_name: Head Office
+  branch_address: 101 Lang Ha Hanoi
+  branch_code: XXX
+  city: Hanoi
+  country: Viet Nam
+- name: Anz Bank(vietnam) Limited
+  swift: ANZBVNVX472
+  swift8: ANZBVNVX
+  branch_name: Ho Chi Minh City
+  branch_address: 11 Me Linh Square, District 1 Ho Chi Minh City
+  branch_code: '472'
+  city: Ho Chi Minh City
+  country: Viet Nam
+- name: Anz Bank(vietnam) Limited
+  swift: ANZBVNVXXXX
+  swift8: ANZBVNVX
+  branch_name: Head Office
+  branch_address: 13 Hai Ba Trung Hanoi
+  branch_code: XXX
+  city: Hanoi
+  country: Viet Nam
+- name: Asia Commercial Bank
+  swift: ASCBVNVXXXX
+  swift8: ASCBVNVX
+  branch_name: Head Office
+  branch_address: 442, Nguyen Thi Minh Khai Street Ho Chi Minh City
+  branch_code: XXX
+  city: Ho Chi Minh City
+  country: Viet Nam
+- name: Bangkok Bank Pcl
+  swift: BKKBVNVXHAN
+  swift8: BKKBVNVX
+  branch_name: Hanoi Branch
+  branch_address: International Center Hanoi
+  branch_code: HAN
+  city: Hanoi
+  country: Viet Nam
+- name: Bangkok Bank Pcl
+  swift: BKKBVNVXXXX
+  swift8: BKKBVNVX
+  branch_name: Ho Chi Minh Branch
+  branch_address: Harbour View Tower Ho Chi Minh City
+  branch_code: XXX
+  city: Ho Chi Minh City
+  country: Viet Nam
+- name: Bank Of Communications Co.,ltd Ho Chi Minh City Branch
+  swift: COMMVNVXXXX
+  swift8: COMMVNVX
+  branch_name: Head Office
+  branch_address: Vincom Center Ho Chi Minh City
+  branch_code: XXX
+  city: Ho Chi Minh City
+  country: Viet Nam
+- name: Bao Viet Securities Company
+  swift: BVSCVNV1XXX
+  swift8: BVSCVNV1
+  branch_name: Head Office
+  branch_address: 11 Nguyen Cong Tru, District 1 Ho Chi Minh City
+  branch_code: XXX
+  city: Ho Chi Minh City
+  country: Viet Nam
+- name: Baoviet Joint Stock Commercial Bank
+  swift: BVBVVNVXXXX
+  swift8: BVBVVNVX
+  branch_name: Head Office
+  branch_address: Baoviet Building 84 Hanoi
+  branch_code: XXX
+  city: Hanoi
+  country: Viet Nam
+- name: Bnp Paribas Vietnam-ho Chi Minh City Branch
+  swift: BNPAVNVNXXX
+  swift8: BNPAVNVN
+  branch_name: Head Office
+  branch_address: Saigon Tower Ho Chi Minh City
+  branch_code: XXX
+  city: Ho Chi Minh City
+  country: Viet Nam
+- name: British American Tobacco Vinataba (jv) Ltd
+  swift: BATSVNV1XXX
+  swift8: BATSVNV1
+  branch_name: No branch name
+  branch_address: No branch address
+  branch_code: XXX
+  city: Bien Hoa
+  country: Viet Nam
+- name: China Construction Bank Corporation Ho Chi Minh City Branch
+  swift: PCBCVNVXXXX
+  swift8: PCBCVNVX
+  branch_name: Head Office
+  branch_address: Sailing Tower Ho Chi Minh City
+  branch_code: XXX
+  city: Ho Chi Minh City
+  country: Viet Nam
+- name: Commonwealth Bank Of Australia Ho Chi Minh City
+  swift: CTBAVNVXXXX
+  swift8: CTBAVNVX
+  branch_name: Head Office
+  branch_address: Han Nam Building Ho Chi Minh City
+  branch_code: XXX
+  city: Ho Chi Minh City
+  country: Viet Nam
+- name: Ctbc Bank Co., Ltd Hochi Minh City Branch
+  swift: CTCBVNVXXXX
+  swift8: CTCBVNVX
+  branch_name: Head Office
+  branch_address: Kumho Asiana Plaza Saigon Ho Chi Minh City
+  branch_code: XXX
+  city: Ho Chi Minh City
+  country: Viet Nam
+- name: Dai-nam Ngan-hang (dai-nam Bank
+  swift: DNDBVNV1XXX
+  swift8: DNDBVNV1
+  branch_name: Head Office
+  branch_address: 17 Lam Son Square Hanoi
+  branch_code: XXX
+  city: Hanoi
+  country: Viet Nam
+- name: Dbs Bank Ltd.-ho Chi Minh City Branch
+  swift: DBSSVNVXXXX
+  swift8: DBSSVNVX
+  branch_name: Head Office
+  branch_address: 65 Le Loi Boulevard Ho Chi Minh City
+  branch_code: XXX
+  city: Ho Chi Minh City
+  country: Viet Nam
+- name: Deutsche Bank, Ho Chi Minh City Branch
+  swift: DEUTVNVXXXX
+  swift8: DEUTVNVX
+  branch_name: Head Office
+  branch_address: Saigon Centre Building Ho Chi Minh City
+  branch_code: XXX
+  city: Ho Chi Minh City
+  country: Viet Nam
+- name: Donga Bank
+  swift: EACBVNVXXXX
+  swift8: EACBVNVX
+  branch_name: Head Office
+  branch_address: 130 Phan Dang Luu Street, Ho Chi Minh City
+  branch_code: XXX
+  city: Ho Chi Minh City
+  country: Viet Nam
+- name: Far East National Bank, Ho Chi Minh City Branch
+  swift: FENBVNVXXXX
+  swift8: FENBVNVX
+  branch_name: Head Office
+  branch_address: Saigon Riverside Office Building Ho Chi Minh City
+  branch_code: XXX
+  city: Ho Chi Minh City
+  country: Viet Nam
+- name: Global Petro Commercial Joint Stock Bank
+  swift: GBNKVNVXXXX
+  swift8: GBNKVNVX
+  branch_name: Head Office
+  branch_address: Capital Tower 084 Hanoi
+  branch_code: XXX
+  city: Hanoi
+  country: Viet Nam
+- name: Hochiminh City Development Joint Stock Commercial Bank
+  swift: HDBCVNVX008
+  swift8: HDBCVNVX
+  branch_name: Hdb-Hanoi Branch
+  branch_address: 91b Nguyen Thai Hoc St. 04 Hanoi
+  branch_code: '008'
+  city: Hanoi
+  country: Viet Nam
+- name: Hochiminh City Development Joint Stock Commercial Bank
+  swift: HDBCVNVXXXX
+  swift8: HDBCVNVX
+  branch_name: Head Office
+  branch_address: Hdbank Tower Ho Chi Minh City
+  branch_code: XXX
+  city: Ho Chi Minh City
+  country: Viet Nam
+- name: Hong Leong Bank Vietnam Limited
+  swift: HLBBVNVX002
+  swift8: HLBBVNVX
+  branch_name: Hanoi Branch
+  branch_address: Central Building Hanoi
+  branch_code: '002'
+  city: Hanoi
+  country: Viet Nam
+- name: Hong Leong Bank Vietnam Limited
+  swift: HLBBVNVXXXX
+  swift8: HLBBVNVX
+  branch_name: Head Office
+  branch_address: Centec Tower Ho Chi Minh City
+  branch_code: XXX
+  city: Ho Chi Minh City
+  country: Viet Nam
+- name: Horizon Securities Corporation (hrs
+  swift: HSCRVNV1XXX
+  swift8: HSCRVNV1
+  branch_name: Head Office
+  branch_address: 194 Nguyen Cong Tru St., Dist 1 Ho Chi Minh City
+  branch_code: XXX
+  city: Ho Chi Minh City
+  country: Viet Nam
+- name: Hsbc Bank (vietnam) Ltd.
+  swift: HSBCVNVX003
+  swift8: HSBCVNVX
+  branch_name: Can Tho
+  branch_address: 12 Hoa Binh Street Can Tho
+  branch_code: '003'
+  city: Can Tho
+  country: Viet Nam
+- name: Hsbc Bank (vietnam) Ltd.
+  swift: HSBCVNVX004
+  swift8: HSBCVNVX
+  branch_name: Binh Duong
+  branch_address: Minh Sang Plaza Binh Duong
+  branch_code: '004'
+  city: Binh Duong
+  country: Viet Nam
+- name: Hsbc Bank (vietnam) Ltd.
+  swift: HSBCVNVX005
+  swift8: HSBCVNVX
+  branch_name: Da Nang
+  branch_address: Indochina Riverside Tower Da Nang
+  branch_code: '005'
+  city: Da Nang
+  country: Viet Nam
+- name: Hsbc Bank (vietnam) Ltd.
+  swift: HSBCVNVXVHN
+  swift8: HSBCVNVX
+  branch_name: Hanoi Branch
+  branch_address: Hanoi
+  branch_code: VHN
+  city: Hanoi
+  country: Viet Nam
+- name: Hsbc Bank (vietnam) Ltd.
+  swift: HSBCVNVXXXX
+  swift8: HSBCVNVX
+  branch_name: Head Office
+  branch_address: The Metropolitan Ho Chi Minh City
+  branch_code: XXX
+  city: Ho Chi Minh City
+  country: Viet Nam
+- name: Hsc
+  swift: HSCCVNV1XXX
+  swift8: HSCCVNV1
+  branch_name: Head Office
+  branch_address: 6 Thai Van Lung, Dist 1 Ho Chi Minh City
+  branch_code: XXX
+  city: Ho Chi Minh City
+  country: Viet Nam
+- name: Hua Nan Commercial Bank, Ltd. Hochiminh City Branch
+  swift: HNBKVNVXXXX
+  swift8: HNBKVNVX
+  branch_name: Head Office
+  branch_address: Royal Tower Ho Chi Minh City
+  branch_code: XXX
+  city: Ho Chi Minh City
+  country: Viet Nam
+- name: Icbc Hanoi Branch
+  swift: ICBKVNVNXXX
+  swift8: ICBKVNVN
+  branch_name: Head Office
+  branch_address: Daeha Business Center Hanoi
+  branch_code: XXX
+  city: Hanoi
+  country: Viet Nam
+- name: Indovina Bank Ltd.
+  swift: IABBVNVXXXX
+  swift8: IABBVNVX
+  branch_name: Head Office
+  branch_address: 46-48-50 Pham Hong Thai Street, Ho Chi Minh City
+  branch_code: XXX
+  city: Ho Chi Minh City
+  country: Viet Nam
+- name: Industrial Bank Of Korea, Vietnam
+  swift: IBKOVNVXHAN
+  swift8: IBKOVNVX
+  branch_name: Hanoi Branch
+  branch_address: No branch address
+  branch_code: HAN
+  city: Hanoi
+  country: Viet Nam
+- name: Industrial Bank Of Korea, Vietnam
+  swift: IBKOVNVXXXX
+  swift8: IBKOVNVX
+  branch_name: Head Office
+  branch_address: Diamond Plaza Ho Chi Minh City
+  branch_code: XXX
+  city: Ho Chi Minh City
+  country: Viet Nam
+- name: Joint Stock Commercial Bank For Foreign Trade Of Vietnam
+  swift: BFTVVNVX001
+  swift8: BFTVVNVX
+  branch_name: Operations Centre
+  branch_address: 31-33 Ngo Quyen Hanoi
+  branch_code: '001'
+  city: Hanoi
+  country: Viet Nam
+- name: Joint Stock Commercial Bank For Foreign Trade Of Vietnam
+  swift: BFTVVNVX002
+  swift8: BFTVVNVX
+  branch_name: Hanoi Branch
+  branch_address: 344 Ba Trieu, Hai Ba Trung Hanoi
+  branch_code: '002'
+  city: Hanoi
+  country: Viet Nam
+- name: Joint Stock Commercial Bank For Foreign Trade Of Vietnam
+  swift: BFTVVNVX003
+  swift8: BFTVVNVX
+  branch_name: Haiphong Branch
+  branch_address: 11 Hoang Dieu, Hong Bang Haiphong
+  branch_code: '003'
+  city: Haiphong
+  country: Viet Nam
+- name: Joint Stock Commercial Bank For Foreign Trade Of Vietnam
+  swift: BFTVVNVX004
+  swift8: BFTVVNVX
+  branch_name: Da Nang Branch
+  branch_address: 140-142 Le Loi, Hai Chau Da Nang
+  branch_code: '004'
+  city: Da Nang
+  country: Viet Nam
+- name: Joint Stock Commercial Bank For Foreign Trade Of Vietnam
+  swift: BFTVVNVX005
+  swift8: BFTVVNVX
+  branch_name: Qui Nhon Branch
+  branch_address: 152 Le Loi Road, Binh Din Qui Nhon
+  branch_code: '005'
+  city: Qui Nhon
+  country: Viet Nam
+- name: Joint Stock Commercial Bank For Foreign Trade Of Vietnam
+  swift: BFTVVNVX006
+  swift8: BFTVVNVX
+  branch_name: Nha Trang Branch
+  branch_address: 17 Quang Trung Nha Trang
+  branch_code: '006'
+  city: Nha Trang
+  country: Viet Nam
+- name: Joint Stock Commercial Bank For Foreign Trade Of Vietnam
+  swift: BFTVVNVX007
+  swift8: BFTVVNVX
+  branch_name: Ho Chi Minh City Branch
+  branch_address: 29 Ben Chuong Duong, District No 1 Ho Chi Minh City
+  branch_code: '007'
+  city: Ho Chi Minh City
+  country: Viet Nam
+- name: Joint Stock Commercial Bank For Foreign Trade Of Vietnam
+  swift: BFTVVNVX008
+  swift8: BFTVVNVX
+  branch_name: Vung Tau Branch
+  branch_address: 27 Tran Hung Dao Vung Tau
+  branch_code: '008'
+  city: Vung Tau
+  country: Viet Nam
+- name: Joint Stock Commercial Bank For Foreign Trade Of Vietnam
+  swift: BFTVVNVX009
+  swift8: BFTVVNVX
+  branch_name: Kien Giang Branch
+  branch_address: 2 Mac Cuu Road, Rach Gia City Kien Giang
+  branch_code: '009'
+  city: Kien Giang
+  country: Viet Nam
+- name: Joint Stock Commercial Bank For Foreign Trade Of Vietnam
+  swift: BFTVVNVX010
+  swift8: BFTVVNVX
+  branch_name: Vinh Branch
+  branch_address: 9 Nguyen Sy Sach Vinh
+  branch_code: '010'
+  city: Vinh
+  country: Viet Nam
+- name: Joint Stock Commercial Bank For Foreign Trade Of Vietnam
+  swift: BFTVVNVX011
+  swift8: BFTVVNVX
+  branch_name: Can Tho Branch
+  branch_address: 7 Hoa Binh, Ninh Kieu Can Tho
+  branch_code: '011'
+  city: Can Tho
+  country: Viet Nam
+- name: Joint Stock Commercial Bank For Foreign Trade Of Vietnam
+  swift: BFTVVNVX012
+  swift8: BFTVVNVX
+  branch_name: Dong Nai Branch
+  branch_address: 77c Hung Dao Vuong, Dong Nai
+  branch_code: '012'
+  city: Dong Nai
+  country: Viet Nam
+- name: Joint Stock Commercial Bank For Foreign Trade Of Vietnam
+  swift: BFTVVNVX014
+  swift8: BFTVVNVX
+  branch_name: Quang Ninh Branch
+  branch_address: 703 Le Thanh Tong, Ha Long City Quang Ninh
+  branch_code: '014'
+  city: Quang Ninh
+  country: Viet Nam
+- name: Joint Stock Commercial Bank For Foreign Trade Of Vietnam
+  swift: BFTVVNVX015
+  swift8: BFTVVNVX
+  branch_name: An Giang Branch
+  branch_address: 1 Hung Vuong, Long Xuyen City an Giang
+  branch_code: '015'
+  city: An Giang
+  country: Viet Nam
+- name: Joint Stock Commercial Bank For Foreign Trade Of Vietnam
+  swift: BFTVVNVX016
+  swift8: BFTVVNVX
+  branch_name: Hue City Branch
+  branch_address: 78 Hung Vuong, Hue City, Thua Thien Hue City
+  branch_code: '016'
+  city: Hue City
+  country: Viet Nam
+- name: Joint Stock Commercial Bank For Foreign Trade Of Vietnam
+  swift: BFTVVNVX018
+  swift8: BFTVVNVX
+  branch_name: South Sai Gon Branch
+  branch_address: Tan Thuan Epz, District No 7 Ho Chi Minh City
+  branch_code: '018'
+  city: Ho Chi Minh City
+  country: Viet Nam
+- name: Joint Stock Commercial Bank For Foreign Trade Of Vietnam
+  swift: BFTVVNVX019
+  swift8: BFTVVNVX
+  branch_name: Ca Mau Branch
+  branch_address: 4 Lac Long Quan Street, Ca Mau
+  branch_code: '019'
+  city: Ca Mau
+  country: Viet Nam
+- name: Joint Stock Commercial Bank For Foreign Trade Of Vietnam
+  swift: BFTVVNVX020
+  swift8: BFTVVNVX
+  branch_name: Ha Tinh Branch
+  branch_address: 11 Phan Dinh Phung, Ha Tinh Town Ha Tinh
+  branch_code: '020'
+  city: Ha Tinh
+  country: Viet Nam
+- name: Joint Stock Commercial Bank For Foreign Trade Of Vietnam
+  swift: BFTVVNVX021
+  swift8: BFTVVNVX
+  branch_name: Thai Binh Branch
+  branch_address: 59 Le Loi, Thai Binh City Thai Binh
+  branch_code: '021'
+  city: Binh City / Thai / Binh
+  country: Viet Nam
+- name: Joint Stock Commercial Bank For Foreign Trade Of Vietnam
+  swift: BFTVVNVX022
+  swift8: BFTVVNVX
+  branch_name: Ninh Binh Branch
+  branch_address: 872 Tran Hung Dao Str. Ninh Binh
+  branch_code: '022'
+  city: Ninh Binh
+  country: Viet Nam
+- name: Joint Stock Commercial Bank For Investment And Development Of Vietnam
+  swift: BIDVVNVX120
+  swift8: BIDVVNVX
+  branch_name: Transaction Center No 1
+  branch_address: 53 Quang Trung Street Hanoi
+  branch_code: '120'
+  city: Hanoi
+  country: Viet Nam
+- name: Joint Stock Commercial Bank For Investment And Development Of Vietnam
+  swift: BIDVVNVX122
+  swift8: BIDVVNVX
+  branch_name: Ha Thanh Branch
+  branch_address: 34 Hang Bai Street, Hoan Kiem Dist. 084 Hanoi
+  branch_code: '122'
+  city: Hanoi
+  country: Viet Nam
+- name: Joint Stock Commercial Bank For Investment And Development Of Vietnam
+  swift: BIDVVNVX123
+  swift8: BIDVVNVX
+  branch_name: Quang Trung Branch
+  branch_address: Prime Center Building Hanoi
+  branch_code: '123'
+  city: Hanoi
+  country: Viet Nam
+- name: Joint Stock Commercial Bank For Investment And Development Of Vietnam
+  swift: BIDVVNVX125
+  swift8: BIDVVNVX
+  branch_name: Dong Do Branch
+  branch_address: 14 Lang Ha Street Hanoi
+  branch_code: '125'
+  city: Hanoi
+  country: Viet Nam
+- name: Joint Stock Commercial Bank For Investment And Development Of Vietnam
+  swift: BIDVVNVX130
+  swift8: BIDVVNVX
+  branch_name: Sogiaodich2 Branch
+  branch_address: 117 Nguyen Hue Street, District 1 Ho Chi Minh City
+  branch_code: '130'
+  city: Ho Chi Minh City
+  country: Viet Nam
+- name: Joint Stock Commercial Bank For Investment And Development Of Vietnam
+  swift: BIDVVNVX135
+  swift8: BIDVVNVX
+  branch_name: Gia Dinh Branch
+  branch_address: 127 Dinh Tien Hoang Street Ho Chi Minh City
+  branch_code: '135'
+  city: Ho Chi Minh City
+  country: Viet Nam
+- name: Joint Stock Commercial Bank For Investment And Development Of Vietnam
+  swift: BIDVVNVX140
+  swift8: BIDVVNVX
+  branch_name: Saigon Branch
+  branch_address: 505 Nguyen Tral Street, 5 District Ho Chi Minh City
+  branch_code: '140'
+  city: Ho Chi Minh City
+  country: Viet Nam
+- name: Joint Stock Commercial Bank For Investment And Development Of Vietnam
+  swift: BIDVVNVX150
+  swift8: BIDVVNVX
+  branch_name: Northern Hanoi Branch
+  branch_address: 558 Nguyen Van Cu Street Hanoi
+  branch_code: '150'
+  city: Hanoi
+  country: Viet Nam
+- name: Joint Stock Commercial Bank For Investment And Development Of Vietnam
+  swift: BIDVVNVX160
+  swift8: BIDVVNVX
+  branch_name: Transaction Center No 3
+  branch_address: Tung Shing Square Hanoi
+  branch_code: '160'
+  city: Hanoi
+  country: Viet Nam
+- name: Joint Stock Commercial Bank For Investment And Development Of Vietnam
+  swift: BIDVVNVX211
+  swift8: BIDVVNVX
+  branch_name: Hanoi Branch
+  branch_address: Hanoi
+  branch_code: '211'
+  city: Hanoi
+  country: Viet Nam
+- name: Joint Stock Commercial Bank For Investment And Development Of Vietnam
+  swift: BIDVVNVX215
+  swift8: BIDVVNVX
+  branch_name: Cau Giay Branch
+  branch_address: 263 Cau Giay Street Hanoi
+  branch_code: '215'
+  city: Hanoi
+  country: Viet Nam
+- name: Joint Stock Commercial Bank For Investment And Development Of Vietnam
+  swift: BIDVVNVX220
+  swift8: BIDVVNVX
+  branch_name: Thang Long Branch
+  branch_address: South Thang Long Road, Hanoi
+  branch_code: '220'
+  city: Hanoi
+  country: Viet Nam
+- name: Joint Stock Commercial Bank For Investment And Development Of Vietnam
+  swift: BIDVVNVX310
+  swift8: BIDVVNVX
+  branch_name: Ho Chi Minh City Branch
+  branch_address: Ho Chi Minh City
+  branch_code: '310'
+  city: Ho Chi Minh City
+  country: Viet Nam
+- name: Joint Stock Commercial Bank For Investment And Development Of Vietnam
+  swift: BIDVVNVX311
+  swift8: BIDVVNVX
+  branch_name: Tan Tao Branch
+  branch_address: Tan Tao Industrial Zone Ho Chi Minh City
+  branch_code: '311'
+  city: Ho Chi Minh City
+  country: Viet Nam
+- name: Joint Stock Commercial Bank For Investment And Development Of Vietnam
+  swift: BIDVVNVX314
+  swift8: BIDVVNVX
+  branch_name: Thu Duc Branch
+  branch_address: 33 Nguyen Van Ba Street Ho Chi Minh City
+  branch_code: '314'
+  city: Ho Chi Minh City
+  country: Viet Nam
+- name: Joint Stock Commercial Bank For Investment And Development Of Vietnam
+  swift: BIDVVNVX321
+  swift8: BIDVVNVX
+  branch_name: Haiphong Branch
+  branch_address: Haiphong
+  branch_code: '321'
+  city: Haiphong
+  country: Viet Nam
+- name: Joint Stock Commercial Bank For Investment And Development Of Vietnam
+  swift: BIDVVNVX351
+  swift8: BIDVVNVX
+  branch_name: Lang Son Branch
+  branch_address: 01 Hoang Van Thu Street, Lang Son
+  branch_code: '351'
+  city: Lang Son
+  country: Viet Nam
+- name: Joint Stock Commercial Bank For Investment And Development Of Vietnam
+  swift: BIDVVNVX371
+  swift8: BIDVVNVX
+  branch_name: Yen Bai Branch
+  branch_address: Tran Hung Gao Street, Yen Bai Town Yen Bai
+  branch_code: '371'
+  city: Yen Bai
+  country: Viet Nam
+- name: Joint Stock Commercial Bank For Investment And Development Of Vietnam
+  swift: BIDVVNVX390
+  swift8: BIDVVNVX
+  branch_name: Thai Nguyen Branch
+  branch_address: Hoang Van Thu Street, Thai Nguyen
+  branch_code: '390'
+  city: Thai Nguyen
+  country: Viet Nam
+- name: Joint Stock Commercial Bank For Investment And Development Of Vietnam
+  swift: BIDVVNVX421
+  swift8: BIDVVNVX
+  branch_name: Phu Tho Branch
+  branch_address: 1167 Hung Vuong Street, Phu Tho
+  branch_code: '421'
+  city: Phu Tho
+  country: Viet Nam
+- name: Kien Long Commercial Joint Stock Bank
+  swift: KLBKVNVXXXX
+  swift8: KLBKVNVX
+  branch_name: Head Office
+  branch_address: Gb Building 84 Ho Chi Minh City
+  branch_code: XXX
+  city: Ho Chi Minh City
+  country: Viet Nam
+- name: Kookmin Bank / Ho Chi Minh City Branch
+  swift: CZNBVNVXXXX
+  swift8: CZNBVNVX
+  branch_name: Head Office
+  branch_address: Kumho Asiana Plaza Saigon Co.Ltd Ho Chi Minh City
+  branch_code: XXX
+  city: Ho Chi Minh City
+  country: Viet Nam
+- name: Korea Exchange Bank, Hanoi Branch
+  swift: KOEXVNVXXXX
+  swift8: KOEXVNVX
+  branch_name: Head Office
+  branch_address: Daeha Business Center Hanoi
+  branch_code: XXX
+  city: Hanoi
+  country: Viet Nam
+- name: Lien Viet Post Joint Stock Commercial Bank
+  swift: LVBKVNVXXXX
+  swift8: LVBKVNVX
+  branch_name: Head Office
+  branch_address: N. 32 Nguyen Cong Tru Street, Vi Thanh Hau Giang
+  branch_code: XXX
+  city: Thanh Hau Giang
+  country: Viet Nam
+- name: Maybank Kim Eng Securities Joint Stock Company
+  swift: MKESVNV1XXX
+  swift8: MKESVNV1
+  branch_name: Head Office
+  branch_address: Htmc Building Ho Chi Minh City
+  branch_code: XXX
+  city: Ho Chi Minh City
+  country: Viet Nam
+- name: Mercedes-benz Vietnam Ltd.
+  swift: DABEVNVXXXX
+  swift8: DABEVNVX
+  branch_name: Head Office
+  branch_address: District Go Vap Ho Chi Minh City
+  branch_code: XXX
+  city: Ho Chi Minh City
+  country: Viet Nam
+- name: Military Commercial Joint Stock Bank
+  swift: MSCBVNVX001
+  swift8: MSCBVNVX
+  branch_name: Sgd Branch
+  branch_address: No3 Lieu Giai Str., Hanoi
+  branch_code: '001'
+  city: Hanoi
+  country: Viet Nam
+- name: Military Commercial Joint Stock Bank
+  swift: MSCBVNVX002
+  swift8: MSCBVNVX
+  branch_name: Hcm Branch
+  branch_address: No 18b Cong Hoa Str. Ho Chi Minh City
+  branch_code: '002'
+  city: Ho Chi Minh City
+  country: Viet Nam
+- name: Military Commercial Joint Stock Bank
+  swift: MSCBVNVX003
+  swift8: MSCBVNVX
+  branch_name: Haiphong Branch
+  branch_address: No 2b Lach Tray Str. Haiphong
+  branch_code: '003'
+  city: Haiphong
+  country: Viet Nam
+- name: Military Commercial Joint Stock Bank
+  swift: MSCBVNVX004
+  swift8: MSCBVNVX
+  branch_name: 84511 Da Nang
+  branch_address: No 54 Dien Bien Phu. Str. 84511 Da Nang
+  branch_code: '004'
+  city: Da Nang
+  country: Viet Nam
+- name: Military Commercial Joint Stock Bank
+  swift: MSCBVNVX005
+  swift8: MSCBVNVX
+  branch_name: Dbp Branch
+  branch_address: No 28a Dien Bien Phu Str. Hanoi
+  branch_code: '005'
+  city: Hanoi
+  country: Viet Nam
+- name: Military Commercial Joint Stock Bank
+  swift: MSCBVNVX006
+  swift8: MSCBVNVX
+  branch_name: Govap Branch
+  branch_address: No 3 Nguyen Oanh Str. Ho Chi Minh City
+  branch_code: '006'
+  city: Ho Chi Minh City
+  country: Viet Nam
+- name: Military Commercial Joint Stock Bank
+  swift: MSCBVNVX007
+  swift8: MSCBVNVX
+  branch_name: Can Tho Branch
+  branch_address: No 4244 Nguyen an Ninh Str. Can Tho
+  branch_code: '007'
+  city: Can Tho
+  country: Viet Nam
+- name: Military Commercial Joint Stock Bank
+  swift: MSCBVNVX008
+  swift8: MSCBVNVX
+  branch_name: Viet Tri Branch
+  branch_address: No 2175 Hung Vuong Str. Viet Tri
+  branch_code: '008'
+  city: Viet Tri
+  country: Viet Nam
+- name: Military Commercial Joint Stock Bank
+  swift: MSCBVNVXXXX
+  swift8: MSCBVNVX
+  branch_name: Head Office
+  branch_address: No.3 Lieu Giai-Cong Vi-Ba Dinh Hanoi
+  branch_code: XXX
+  city: Hanoi
+  country: Viet Nam
+- name: Nam A Commercial Joint Stock Bank
+  swift: NAMAVNVXXXX
+  swift8: NAMAVNVX
+  branch_name: Head Office
+  branch_address: 201-203 Cach Mang Thang 8 Street, Ho Chi Minh City
+  branch_code: XXX
+  city: Ho Chi Minh City
+  country: Viet Nam
+- name: Nam Viet Commercial Joint Stock Bank
+  swift: NVBAVNVXXXX
+  swift8: NVBAVNVX
+  branch_name: Head Office
+  branch_address: Ben Chuong Duong Quan 1 70000 Ho Chi Minh City
+  branch_code: XXX
+  city: Ho Chi Minh City
+  country: Viet Nam
+- name: Natixis Branch In Hochiminh City (formerly Natexispopulaires-ho Chi Minh City
+  swift: BFCEVNVXXXX
+  swift8: BFCEVNVX
+  branch_name: Head Office
+  branch_address: 173 Vo Thi Sau, District 3 Ho Chi Minh City
+  branch_code: XXX
+  city: Ho Chi Minh City
+  country: Viet Nam
+- name: North Asia Commercial Joint-stock Bank
+  swift: NASCVNVXXXX
+  swift8: NASCVNVX
+  branch_name: Head Office
+  branch_address: Bac a Vinh
+  branch_code: XXX
+  city: Vinh
+  country: Viet Nam
+- name: Ocean Commercial Joint Stock Bank
+  swift: OJBAVNVXXXX
+  swift8: OJBAVNVX
+  branch_name: Head Office
+  branch_address: 199 Nguyen Luong Bang 084 Hai Duong
+  branch_code: XXX
+  city: Hai Duong
+  country: Viet Nam
+- name: Orient Commercial Joint Stock Bank
+  swift: ORCOVNVXXXX
+  swift8: ORCOVNVX
+  branch_name: Head Office
+  branch_address: 45, Le Duan Boulevard, District 1 Ho Chi Minh City
+  branch_code: XXX
+  city: Ho Chi Minh City
+  country: Viet Nam
+- name: Petrolimex Group Commercial Joint Stock Bank
+  swift: PGBLVNVXXXX
+  swift8: PGBLVNVX
+  branch_name: Head Office
+  branch_address: Trung Hoa Nhan Chinh Hanoi
+  branch_code: XXX
+  city: Hanoi
+  country: Viet Nam
+- name: Sacombank Securities Joint Stock Company
+  swift: SAEMVNV1XXX
+  swift8: SAEMVNV1
+  branch_name: Head Office
+  branch_address: 278 Nam Ky Khoi Nghia Street 70000 Ho Chi Minh City
+  branch_code: XXX
+  city: Ho Chi Minh City
+  country: Viet Nam
+- name: Sai Gon Securities Incorporation
+  swift: SAEPVNV1XXX
+  swift8: SAEPVNV1
+  branch_name: Head Office
+  branch_address: 72 Nguyen Hue Street Ho Chi Minh City
+  branch_code: XXX
+  city: Ho Chi Minh City
+  country: Viet Nam
+- name: Sai Gon-ha Noi Commercial Joint Stock Bank
+  swift: SHBAVNVXXXX
+  swift8: SHBAVNVX
+  branch_name: Head Office
+  branch_address: 77 Tran Hung Dao Str., 844 Hanoi
+  branch_code: XXX
+  city: Hanoi
+  country: Viet Nam
+- name: Saigon Bank For Industry And Trade, The
+  swift: SBITVNVX0V2
+  swift8: SBITVNVX
+  branch_name: Ba-Chieu Branch
+  branch_address: 118 Dinh Tien Hoang Street Ho Chi Minh City
+  branch_code: 0V2
+  city: Ho Chi Minh City
+  country: Viet Nam
+- name: Saigon Bank For Industry And Trade, The
+  swift: SBITVNVX0V3
+  swift8: SBITVNVX
+  branch_name: Tan-Binh Branch
+  branch_address: 8-10 Ly Thuong Kiet Street Ho Chi Minh City
+  branch_code: 0V3
+  city: Ho Chi Minh City
+  country: Viet Nam
+- name: Saigon Bank For Industry And Trade, The
+  swift: SBITVNVX0V4
+  swift8: SBITVNVX
+  branch_name: Thai-Binh Branch
+  branch_address: 333 Pham Ngu Lao Street Q1 Ho Chi Minh City
+  branch_code: 0V4
+  city: Ho Chi Minh City
+  country: Viet Nam
+- name: Saigon Bank For Industry And Trade, The
+  swift: SBITVNVXXXX
+  swift8: SBITVNVX
+  branch_name: Head Office
+  branch_address: 2c Pho Duc Chinh Street, Dist.1 70000 Ho Chi Minh City
+  branch_code: XXX
+  city: Ho Chi Minh City
+  country: Viet Nam
+- name: Saigon Commercial Bank
+  swift: SACLVNVXXXX
+  swift8: SACLVNVX
+  branch_name: Head Office
+  branch_address: Scb Building 70000 Ho Chi Minh City
+  branch_code: XXX
+  city: Ho Chi Minh City
+  country: Viet Nam
+- name: Saigon Thuong Tin Commercial Joint Stock Bank (sacombank
+  swift: SGTTVNVXXXX
+  swift8: SGTTVNVX
+  branch_name: Head Office
+  branch_address: Sacombank Ho Chi Minh City
+  branch_code: XXX
+  city: Ho Chi Minh City
+  country: Viet Nam
+- name: Samsung Vina Electronics Co Ltd
+  swift: SECTVNV1530
+  swift8: SECTVNV1
+  branch_name: Savina
+  branch_address: Ho Chi Minh City
+  branch_code: '530'
+  city: Ho Chi Minh City
+  country: Viet Nam
+- name: Samsung Vina Electronics Co Ltd
+  swift: SECTVNV15H0
+  swift8: SECTVNV1
+  branch_name: Sev
+  branch_address: Trung Thanh Building Bac Ninh
+  branch_code: 5H0
+  city: Bac Ninh
+  country: Viet Nam
+- name: Samsung Vina Electronics Co Ltd
+  swift: SECTVNV1XXX
+  swift8: SECTVNV1
+  branch_name: Head Office
+  branch_address: 9truong Son, Linh Trung Ho Chi Minh City
+  branch_code: XXX
+  city: Ho Chi Minh City
+  country: Viet Nam
+- name: Shinhan Bank Vietnam
+  swift: SHBKVNVXXXX
+  swift8: SHBKVNVX
+  branch_name: Head Office
+  branch_address: Centec Tower Ho Chi Minh City
+  branch_code: XXX
+  city: Ho Chi Minh City
+  country: Viet Nam
+- name: Southeast Asia Commercial Joint Stock Bank
+  swift: SEAVVNVXXXX
+  swift8: SEAVVNVX
+  branch_name: Head Office
+  branch_address: 25 Tran Hung Dao 084 Hanoi
+  branch_code: XXX
+  city: Hanoi
+  country: Viet Nam
+- name: Standard Chartered Bank (vietnam) Limited
+  swift: SCBLVNV10VN
+  swift8: SCBLVNV1
+  branch_name: 70000 Ho Chi Minh City
+  branch_address: Dong Khoi Street 134 70000 Ho Chi Minh City
+  branch_code: 0VN
+  city: Ho Chi Minh City
+  country: Viet Nam
+- name: Standard Chartered Bank (vietnam) Limited
+  swift: SCBLVNVXXXX
+  swift8: SCBLVNVX
+  branch_name: Head Office
+  branch_address: Regency Hanoi Towers Hanoi
+  branch_code: XXX
+  city: Hanoi
+  country: Viet Nam
+- name: State Bank Of Vietnam
+  swift: NABVVNV1XXX
+  swift8: NABVVNV1
+  branch_name: Head Office
+  branch_address: 49 Ly Thai to Street Hanoi
+  branch_code: XXX
+  city: Hanoi
+  country: Viet Nam
+- name: State Bank Of Vietnam
+  swift: STBVVNVXXXX
+  swift8: STBVVNVX
+  branch_name: Head Office
+  branch_address: 47-49 Ly Thai to Street Hanoi
+  branch_code: XXX
+  city: Hanoi
+  country: Viet Nam
+- name: Taipei Fubon Commercial Bank
+  swift: TPBKVNVX960
+  swift8: TPBKVNVX
+  branch_name: Binh Thanh Branch
+  branch_address: No. 473, Dien Bien Phu Street Ho Chi Minh City
+  branch_code: '960'
+  city: Ho Chi Minh City
+  country: Viet Nam
+- name: Taipei Fubon Commercial Bank
+  swift: TPBKVNVX962
+  swift8: TPBKVNVX
+  branch_name: Hanoi Branch
+  branch_address: No.14, Lang Ha Street Hanoi
+  branch_code: '962'
+  city: Hanoi
+  country: Viet Nam
+- name: Taipei Fubon Commercial Bank
+  swift: TPBKVNVX963
+  swift8: TPBKVNVX
+  branch_name: Ho Chi Minh City Branch
+  branch_address: No. 253 Dien Bien Phu Street Ho Chi Minh City
+  branch_code: '963'
+  city: Ho Chi Minh City
+  country: Viet Nam
+- name: Taipei Fubon Commercial Bank
+  swift: TPBKVNVXXXX
+  swift8: TPBKVNVX
+  branch_name: Head Office
+  branch_address: 194 Golden Building Ho Chi Minh City
+  branch_code: XXX
+  city: Ho Chi Minh City
+  country: Viet Nam
+- name: Thang Long Securities Jsc
+  swift: TLSJVNV1XXX
+  swift8: TLSJVNV1
+  branch_name: Head Office
+  branch_address: 1-5 Le Duan Ho Chi Minh City
+  branch_code: XXX
+  city: Ho Chi Minh City
+  country: Viet Nam
+- name: The Bank Of Tokyo-mitsubishi Ufj, Ltd. Hanoi Branch
+  swift: BOTKVNV5XXX
+  swift8: BOTKVNV5
+  branch_name: Hanoi Branch
+  branch_address: Pacific Place Hanoi
+  branch_code: XXX
+  city: Hanoi
+  country: Viet Nam
+- name: The Hongkong And Shanghai Banking Corporation Limited, Hanoi Branch
+  swift: HSBCVNVHXXX
+  swift8: HSBCVNVH
+  branch_name: Head Office
+  branch_address: Pacific Place Hanoi
+  branch_code: XXX
+  city: Hanoi
+  country: Viet Nam
+- name: The Shanghai Commercial And Savings Bank, Ltd., Dong Nai Branch
+  swift: SCSBVNVXXXX
+  swift8: SCSBVNVX
+  branch_name: Head Office
+  branch_address: Bigc Dong Nai Commercial Center Bien Hoa
+  branch_code: XXX
+  city: Bien Hoa
+  country: Viet Nam
+- name: Thien Viet Securities Joint Stock Company
+  swift: TVSJVNV1XXX
+  swift8: TVSJVNV1
+  branch_name: Head Office
+  branch_address: Building Dmc 084 Hanoi
+  branch_code: XXX
+  city: Hanoi
+  country: Viet Nam
+- name: Tienphong Commercial Joint Stock Bank
+  swift: TPBVVNVXXXX
+  swift8: TPBVVNVX
+  branch_name: Head Office
+  branch_address: Fpt Building 84 Hanoi
+  branch_code: XXX
+  city: Hanoi
+  country: Viet Nam
+- name: United Overseas Bank Ltd.
+  swift: UOVBVNVXXXX
+  swift8: UOVBVNVX
+  branch_name: Head Office
+  branch_address: Central Plaza Office Building Ho Chi Minh City
+  branch_code: XXX
+  city: Ho Chi Minh City
+  country: Viet Nam
+- name: Vid Public Bank
+  swift: VIDPVNV5XXX
+  swift8: VIDPVNV5
+  branch_name: Head Office
+  branch_address: Prime Centre Building Hanoi
+  branch_code: XXX
+  city: Hanoi
+  country: Viet Nam
+- name: Viet Capital Commercial Joint Stock Bank
+  swift: VCBCVNVXXXX
+  swift8: VCBCVNVX
+  branch_name: Head Office
+  branch_address: Hai Ba Trung Street 112-118 Ho Chi Minh City
+  branch_code: XXX
+  city: Ho Chi Minh City
+  country: Viet Nam
+- name: Viet Capital Securities Joint Stock Company
+  swift: VCSJVNV1XXX
+  swift8: VCSJVNV1
+  branch_name: Head Office
+  branch_address: Vcsc Ho Chi Minh City
+  branch_code: XXX
+  city: Ho Chi Minh City
+  country: Viet Nam
+- name: Viet Nam Thuong Tin Commercial Joint Stock Bank
+  swift: VNTTVNVXXXX
+  swift8: VNTTVNVX
+  branch_name: Head Office
+  branch_address: 35 Tran Hung Dao Street, Ward 3 Soc Trang
+  branch_code: XXX
+  city: Soc Trang
+  country: Viet Nam
+- name: Viet-nam Ngan-hang (joint Stock Bank
+  swift: VINGVNV1XXX
+  swift8: VINGVNV1
+  branch_name: Head Office
+  branch_address: 117 Nguyen Hue Boulevard Hanoi
+  branch_code: XXX
+  city: Hanoi
+  country: Viet Nam
+- name: Vietnam Asia Commercial Joint-stock Bank
+  swift: VNACVNVXXXX
+  swift8: VNACVNVX
+  branch_name: Head Office
+  branch_address: 115-121 Nguyen Cong Tru Street Ho Chi Minh City
+  branch_code: XXX
+  city: Ho Chi Minh City
+  country: Viet Nam
+- name: Vietnam Bank For Agriculture And Rural Development
+  swift: VBAAVNV10VN
+  swift8: VBAAVNV1
+  branch_name: Ho Chi Minh City
+  branch_address: Ben Chuoung Cong Ho Chi Minh City
+  branch_code: 0VN
+  city: Ho Chi Minh City
+  country: Viet Nam
+- name: Vietnam Bank For Agriculture And Rural Development
+  swift: VBAAVNVX200
+  swift8: VBAAVNVX
+  branch_name: Laocai Branch
+  branch_address: Duyenhai Ward Lao Cai
+  branch_code: '200'
+  city: Lao Cai
+  country: Viet Nam
+- name: Vietnam Bank For Agriculture And Rural Development
+  swift: VBAAVNVX202
+  swift8: VBAAVNVX
+  branch_name: Laocai City Branch
+  branch_address: No. 005 Nguyen Hue Street Lao Cai
+  branch_code: '202'
+  city: Lao Cai
+  country: Viet Nam
+- name: Vietnam Bank For Agriculture And Rural Development
+  swift: VBAAVNVX210
+  swift8: VBAAVNVX
+  branch_name: Phutho Branch
+  branch_address: 1674 Hungvuong Viet Tri
+  branch_code: '210'
+  city: Viet Tri
+  country: Viet Nam
+- name: Vietnam Bank For Agriculture And Rural Development
+  swift: VBAAVNVX211
+  swift8: VBAAVNVX
+  branch_name: Vinhphuc Branch
+  branch_address: Dongda Ward Vinh Yen
+  branch_code: '211'
+  city: Vinh Yen
+  country: Viet Nam
+- name: Vietnam Bank For Agriculture And Rural Development
+  swift: VBAAVNVX212
+  swift8: VBAAVNVX
+  branch_name: Phuc Yen Branch
+  branch_address: 35 Vanmieu Street Phuc Yen
+  branch_code: '212'
+  city: Phuc Yen
+  country: Viet Nam
+- name: Vietnam Bank For Agriculture And Rural Development
+  swift: VBAAVNVX213
+  swift8: VBAAVNVX
+  branch_name: Me Linh Branch
+  branch_address: Dai Thinh Town, Me Linh District, Hanoi
+  branch_code: '213'
+  city: Hanoi
+  country: Viet Nam
+- name: Vietnam Bank For Agriculture And Rural Development
+  swift: VBAAVNVX220
+  swift8: VBAAVNVX
+  branch_name: Cao Bang Branch
+  branch_address: No 062, Hoang Dinh Giong Street 22000 Cao Bang
+  branch_code: '220'
+  city: Cao Bang
+  country: Viet Nam
+- name: Vietnam Bank For Agriculture And Rural Development
+  swift: VBAAVNVX230
+  swift8: VBAAVNVX
+  branch_name: Ha Giang Branch
+  branch_address: Ha Giang
+  branch_code: '230'
+  city: Ha Giang
+  country: Viet Nam
+- name: Vietnam Bank For Agriculture And Rural Development
+  swift: VBAAVNVX231
+  swift8: VBAAVNVX
+  branch_name: Hoa Binh Branch
+  branch_address: Hoa Binh
+  branch_code: '231'
+  city: Hoa Binh
+  country: Viet Nam
+- name: Vietnam Bank For Agriculture And Rural Development
+  swift: VBAAVNVX240
+  swift8: VBAAVNVX
+  branch_name: Bacgiang Branch
+  branch_address: Ngogiatu Bac Giang
+  branch_code: '240'
+  city: Bac Giang
+  country: Viet Nam
+- name: Vietnam Bank For Agriculture And Rural Development
+  swift: VBAAVNVX241
+  swift8: VBAAVNVX
+  branch_name: Bacninh Branch
+  branch_address: Nguyendu Road, Bac Ninh
+  branch_code: '241'
+  city: Bac Ninh
+  country: Viet Nam
+- name: Vietnam Bank For Agriculture And Rural Development
+  swift: VBAAVNVX242
+  swift8: VBAAVNVX
+  branch_name: Tu Son Branch
+  branch_address: Dinh Bang Block Bac Ninh
+  branch_code: '242'
+  city: Bac Ninh
+  country: Viet Nam
+- name: Vietnam Bank For Agriculture And Rural Development
+  swift: VBAAVNVX250
+  swift8: VBAAVNVX
+  branch_name: Langson Branch
+  branch_address: No 03 Ly Thai to Street Lang Son
+  branch_code: '250'
+  city: Lang Son
+  country: Viet Nam
+- name: Vietnam Bank For Agriculture And Rural Development
+  swift: VBAAVNVX252
+  swift8: VBAAVNVX
+  branch_name: Thanh Pho Lang Son Branch
+  branch_address: Lang Son
+  branch_code: '252'
+  city: Lang Son
+  country: Viet Nam
+- name: Vietnam Bank For Agriculture And Rural Development
+  swift: VBAAVNVX260
+  swift8: VBAAVNVX
+  branch_name: Tuyen Quang Branch
+  branch_address: Tuyen Quang
+  branch_code: '260'
+  city: Tuyen Quang
+  country: Viet Nam
+- name: Vietnam Bank For Agriculture And Rural Development
+  swift: VBAAVNVX270
+  swift8: VBAAVNVX
+  branch_name: Yen Bai Branch
+  branch_address: Yen Bai
+  branch_code: '270'
+  city: Yen Bai
+  country: Viet Nam
+- name: Vietnam Bank For Agriculture And Rural Development
+  swift: VBAAVNVX280
+  swift8: VBAAVNVX
+  branch_name: Thainguyen Branch
+  branch_address: 279 Bacnam Road Thai Nguyen
+  branch_code: '280'
+  city: Thai Nguyen
+  country: Viet Nam
+- name: Vietnam Bank For Agriculture And Rural Development
+  swift: VBAAVNVX290
+  swift8: VBAAVNVX
+  branch_name: Son La Branch
+  branch_address: Son La
+  branch_code: '290'
+  city: Son La
+  country: Viet Nam
+- name: Vietnam Bank For Agriculture And Rural Development
+  swift: VBAAVNVX295
+  swift8: VBAAVNVX
+  branch_name: Laichau Branch
+  branch_address: Lai Chau
+  branch_code: '295'
+  city: Lai
+  country: Viet Nam
+- name: Vietnam Cong Thuong Ngan-hang
+  swift: VCTNVNV1XXX
+  swift8: VCTNVNV1
+  branch_name: Head Office
+  branch_address: 93-95 Dailo Ham Nghi Hanoi
+  branch_code: XXX
+  city: Hanoi
+  country: Viet Nam
+- name: Vietnam Construction Joint Stock Commercial Bank
+  swift: GTBAVNVXXXX
+  swift8: GTBAVNVX
+  branch_name: Head Office
+  branch_address: 145-147-149 Hung Vuong Street, Tan An
+  branch_code: XXX
+  city: Tan An
+  country: Viet Nam
+- name: Vietnam Export Import Commercial Joint-stock Bank
+  swift: EBVIVNVX03D
+  swift8: EBVIVNVX
+  branch_name: District 3 Branch
+  branch_address: 42 Vo Van Tan, Ward 6, 84-08 Ho Chi Minh City
+  branch_code: 03D
+  city: Ho Chi Minh City
+  country: Viet Nam
+- name: Vietnam Export Import Commercial Joint-stock Bank
+  swift: EBVIVNVX10D
+  swift8: EBVIVNVX
+  branch_name: District 10 Branch
+  branch_address: 727 3/2 Str., District 10 Ho Chi Minh City
+  branch_code: 10D
+  city: Ho Chi Minh City
+  country: Viet Nam
+- name: Vietnam Export Import Commercial Joint-stock Bank
+  swift: EBVIVNVX11D
+  swift8: EBVIVNVX
+  branch_name: District 11 Branch
+  branch_address: 31-33 Au Co, Ward 14 84-083 Ho Chi Minh City
+  branch_code: 11D
+  city: Ho Chi Minh City
+  country: Viet Nam
+- name: Vietnam Export Import Commercial Joint-stock Bank
+  swift: EBVIVNVX1CB
+  swift8: EBVIVNVX
+  branch_name: Main Transaction Office No 1
+  branch_address: 7, Le Thi Hong Gam Street 84-8 Ho Chi Minh City
+  branch_code: 1CB
+  city: Ho Chi Minh City
+  country: Viet Nam
+- name: Vietnam Export Import Commercial Joint-stock Bank
+  swift: EBVIVNVXAGG
+  swift8: EBVIVNVX
+  branch_name: An Giang Branch
+  branch_address: 70-72 Hai Ba Trung, an Giang 84-76 Long Xuyen
+  branch_code: AGG
+  city: Long Xuyen
+  country: Viet Nam
+- name: Vietnam Export Import Commercial Joint-stock Bank
+  swift: EBVIVNVXBDG
+  swift8: EBVIVNVX
+  branch_name: Binh Duong Branch
+  branch_address: 231 Bac Si Yersin, Thu Dau Mot Town 84-650 Binh Duong
+  branch_code: BDG
+  city: Binh Duong
+  country: Viet Nam
+- name: Vietnam Export Import Commercial Joint-stock Bank
+  swift: EBVIVNVXBLU
+  swift8: EBVIVNVX
+  branch_name: Bac Lieu Branch
+  branch_address: 477 84-781 Bac Lieu
+  branch_code: BLU
+  city: Bac Lieu
+  country: Viet Nam
+- name: Vietnam Export Import Commercial Joint-stock Bank
+  swift: EBVIVNVXBMT
+  swift8: EBVIVNVX
+  branch_name: Buon Ma Thuot Br
+  branch_address: 114-116 Phan Boi Chau, Thong Nhat 84-500 Buon Ma Thuot
+  branch_code: BMT
+  city: Buon Ma Thuot
+  country: Viet Nam
+- name: Vietnam Export Import Commercial Joint-stock Bank
+  swift: EBVIVNVXBPU
+  swift8: EBVIVNVX
+  branch_name: Binh Phu Branch
+  branch_address: 30 Binh Phu, Ward 11, Dist 6 84-8 Ho Chi Minh City
+  branch_code: BPU
+  city: Ho Chi Minh City
+  country: Viet Nam
+- name: Vietnam Export Import Commercial Joint-stock Bank
+  swift: EBVIVNVXBRA
+  swift8: EBVIVNVX
+  branch_name: Ba Ria-Vung Tau Branch
+  branch_address: 112-114 Bach Dang, Phuoc Trung 84-64 Ba Ria
+  branch_code: BRA
+  city: Ba Ria
+  country: Viet Nam
+- name: Vietnam Export Import Commercial Joint-stock Bank
+  swift: EBVIVNVXBTN
+  swift8: EBVIVNVX
+  branch_name: Binh Tan Branch
+  branch_address: Eximbank - Binh Tan 84-8 Ho Chi Minh City
+  branch_code: BTN
+  city: Ho Chi Minh City
+  country: Viet Nam
+- name: Vietnam Export Import Commercial Joint-stock Bank
+  swift: EBVIVNVXCGY
+  swift8: EBVIVNVX
+  branch_name: Cau Giay Branch
+  branch_address: 136 Hoang Quoc Viet, Cau Giay Dist 84-4 Hanoi
+  branch_code: CGY
+  city: Hanoi
+  country: Viet Nam
+- name: Vietnam Export Import Commercial Joint-stock Bank
+  swift: EBVIVNVXCHA
+  swift8: EBVIVNVX
+  branch_name: Cong Hoa Branch
+  branch_address: 276 Cong Hoa, Ward 13, 848 Ho Chi Minh City
+  branch_code: CHA
+  city: Ho Chi Minh City
+  country: Viet Nam
+- name: Vietnam Export Import Commercial Joint-stock Bank
+  swift: EBVIVNVXCKH
+  swift8: EBVIVNVX
+  branch_name: Tay Do Branch
+  branch_address: Lots P and R 84-7103 Can Tho
+  branch_code: CKH
+  city: Can Tho
+  country: Viet Nam
+- name: Vietnam Export Import Commercial Joint-stock Bank
+  swift: EBVIVNVXCTH
+  swift8: EBVIVNVX
+  branch_name: Can Tho Branch
+  branch_address: Dien Bien Phu Street Can Tho
+  branch_code: CTH
+  city: Can Tho
+  country: Viet Nam
+- name: Vietnam Export Import Commercial Joint-stock Bank
+  swift: EBVIVNVXDDA
+  swift8: EBVIVNVX
+  branch_name: Dong Da Branch
+  branch_address: 90 Lang St. 84-043 Hanoi
+  branch_code: DDA
+  city: Hanoi
+  country: Viet Nam
+- name: Vietnam Export Import Commercial Joint-stock Bank
+  swift: EBVIVNVXDLT
+  swift8: EBVIVNVX
+  branch_name: Da Lat Branch
+  branch_address: 2d-2d/1-2e Nguyen Van Troi, Ward 84-63 Da Lat
+  branch_code: DLT
+  city: Da Lat
+  country: Viet Nam
+- name: Vietnam Export Import Commercial Joint-stock Bank
+  swift: EBVIVNVXDNG
+  swift8: EBVIVNVX
+  branch_name: Da Nang Branch
+  branch_address: 48 Tran Phu Street Da Nang
+  branch_code: DNG
+  city: Da Nang
+  country: Viet Nam
+- name: Vietnam Export Import Commercial Joint-stock Bank
+  swift: EBVIVNVXDNI
+  swift8: EBVIVNVX
+  branch_name: Dong Nai Branch
+  branch_address: 881 National Road No. 15, 8461 Dong Nai
+  branch_code: DNI
+  city: Dong Nai
+  country: Viet Nam
+- name: Vietnam Export Import Commercial Joint-stock Bank
+  swift: EBVIVNVXHBH
+  swift8: EBVIVNVX
+  branch_name: Hoa Binh Branch
+  branch_address: 78 Nguyen Trai, Ward 3 84-083 Ho Chi Minh City
+  branch_code: HBH
+  city: Ho Chi Minh City
+  country: Viet Nam
+- name: Vietnam International Commercial Joint Stock Bank
+  swift: VNIBVNVXXXX
+  swift8: VNIBVNVX
+  branch_name: Head Office
+  branch_address: Viet Tower Hanoi
+  branch_code: XXX
+  city: Hanoi
+  country: Viet Nam
+- name: Vietnam Joint Stock Commercial Bank For Industry And Trade (formerly Vietnam
+    Bank For Industry And Trade
+  swift: ICBVVNVX096
+  swift8: ICBVVNVX
+  branch_name: Global Money Transfer
+  branch_address: 126 Doi Can Hanoi
+  branch_code: '096'
+  city: Hanoi
+  country: Viet Nam
+- name: Vietnam Joint Stock Commercial Bank For Industry And Trade (formerly Vietnam
+    Bank For Industry And Trade
+  swift: ICBVVNVX106
+  swift8: ICBVVNVX
+  branch_name: Transaction Office Nr 1
+  branch_address: 10 Le Lai Street Hanoi
+  branch_code: '106'
+  city: Hanoi
+  country: Viet Nam
+- name: Vietnam Joint Stock Commercial Bank For Industry And Trade (formerly Vietnam
+    Bank For Industry And Trade
+  swift: ICBVVNVX122
+  swift8: ICBVVNVX
+  branch_name: Hoan Kiem-Branch
+  branch_address: 37 Hang Bo Street Hanoi
+  branch_code: '122'
+  city: Hanoi
+  country: Viet Nam
+- name: Vietnam Joint Stock Commercial Bank For Industry And Trade (formerly Vietnam
+    Bank For Industry And Trade
+  swift: ICBVVNVX124
+  swift8: ICBVVNVX
+  branch_name: Ba Dinh Branch
+  branch_address: 126 Doi Can Street Hanoi
+  branch_code: '124'
+  city: Hanoi
+  country: Viet Nam
+- name: Vietnam Joint Stock Commercial Bank For Industry And Trade (formerly Vietnam
+    Bank For Industry And Trade
+  swift: ICBVVNVX126
+  swift8: ICBVVNVX
+  branch_name: Dong Da Branch
+  branch_address: Hanoi
+  branch_code: '126'
+  city: Hanoi
+  country: Viet Nam
+- name: Vietnam Joint Stock Commercial Bank For Industry And Trade (formerly Vietnam
+    Bank For Industry And Trade
+  swift: ICBVVNVX127
+  swift8: ICBVVNVX
+  branch_name: Thanhxuan Branch
+  branch_address: 275 Nguyen Trai Road Hanoi
+  branch_code: '127'
+  city: Hanoi
+  country: Viet Nam
+- name: Vietnam Joint Stock Commercial Bank For Industry And Trade (formerly Vietnam
+    Bank For Industry And Trade
+  swift: ICBVVNVX128
+  swift8: ICBVVNVX
+  branch_name: Chuong Duong Branch
+  branch_address: Hanoi
+  branch_code: '128'
+  city: Hanoi
+  country: Viet Nam
+- name: Vietnam Joint Stock Commercial Bank For Industry And Trade (formerly Vietnam
+    Bank For Industry And Trade
+  swift: ICBVVNVX129
+  swift8: ICBVVNVX
+  branch_name: Northern Hanoi Branch
+  branch_address: 567 Nguyen Van Linh Road Hanoi
+  branch_code: '129'
+  city: Hanoi Phuc Dong
+  country: Viet Nam
+- name: Vietnam Joint Stock Commercial Bank For Industry And Trade (formerly Vietnam
+    Bank For Industry And Trade
+  swift: ICBVVNVX131
+  swift8: ICBVVNVX
+  branch_name: Eastern Hanoi Branch
+  branch_address: 284 Ha Huy Tap Str., Yen Vien Ward Hanoi
+  branch_code: '131'
+  city: Hanoi
+  country: Viet Nam
+- name: Vietnam Joint Stock Commercial Bank For Industry And Trade (formerly Vietnam
+    Bank For Industry And Trade
+  swift: ICBVVNVX136
+  swift8: ICBVVNVX
+  branch_name: Hoang Mai
+  branch_address: No 2-4 Hanoi
+  branch_code: '136'
+  city: Hanoi
+  country: Viet Nam
+- name: Vietnam Joint Stock Commercial Bank For Industry And Trade (formerly Vietnam
+    Bank For Industry And Trade
+  swift: ICBVVNVX140
+  swift8: ICBVVNVX
+  branch_name: Nam Thang Long
+  branch_address: 117a Hoang Quoc Viet Hanoi
+  branch_code: '140'
+  city: Hanoi
+  country: Viet Nam
+- name: Vietnam Joint Stock Commercial Bank For Industry And Trade (formerly Vietnam
+    Bank For Industry And Trade
+  swift: ICBVVNVX142
+  swift8: ICBVVNVX
+  branch_name: Hai Ba Trung Branch
+  branch_address: Hanoi
+  branch_code: '142'
+  city: Hanoi
+  country: Viet Nam
+- name: Vietnam Joint Stock Commercial Bank For Industry And Trade (formerly Vietnam
+    Bank For Industry And Trade
+  swift: ICBVVNVX144
+  swift8: ICBVVNVX
+  branch_name: Donganh Branch
+  branch_address: Dong Anh Town Hanoi
+  branch_code: '144'
+  city: Hanoi
+  country: Viet Nam
+- name: Vietnam Joint Stock Commercial Bank For Industry And Trade (formerly Vietnam
+    Bank For Industry And Trade
+  swift: ICBVVNVX145
+  swift8: ICBVVNVX
+  branch_name: Northern Thang Long Branch
+  branch_address: No branch address
+  branch_code: '145'
+  city: Hanoi
+  country: Viet Nam
+- name: Vietnam Joint Stock Commercial Bank For Industry And Trade (formerly Vietnam
+    Bank For Industry And Trade
+  swift: ICBVVNVX146
+  swift8: ICBVVNVX
+  branch_name: Western Hanoi Branch
+  branch_address: 8 Ho Tung Mau, Mai Dich Commune Hanoi
+  branch_code: '146'
+  city: Hanoi
+  country: Viet Nam
+- name: Vietnam Joint Stock Commercial Bank For Industry And Trade (formerly Vietnam
+    Bank For Industry And Trade
+  swift: ICBVVNVX160
+  swift8: ICBVVNVX
+  branch_name: Hai Phong Branch
+  branch_address: Haiphong
+  branch_code: '160'
+  city: Haiphong
+  country: Viet Nam
+- name: Vietnam Joint Stock Commercial Bank For Industry And Trade (formerly Vietnam
+    Bank For Industry And Trade
+  swift: ICBVVNVX161
+  swift8: ICBVVNVX
+  branch_name: To Hieu Branch
+  branch_address: 116 to Hieu Str Haiphong
+  branch_code: '161'
+  city: Haiphong
+  country: Viet Nam
+- name: Vietnam Joint Stock Commercial Bank For Industry And Trade (formerly Vietnam
+    Bank For Industry And Trade
+  swift: ICBVVNVX162
+  swift8: ICBVVNVX
+  branch_name: Do Son Branch
+  branch_address: 193 Ly Thanh Tong Str Haiphong
+  branch_code: '162'
+  city: Haiphong
+  country: Viet Nam
+- name: Vietnam Joint Stock Commercial Bank For Industry And Trade (formerly Vietnam
+    Bank For Industry And Trade
+  swift: ICBVVNVX164
+  swift8: ICBVVNVX
+  branch_name: Lechan Branch
+  branch_address: 189 Cat Dai Haiphong
+  branch_code: '164'
+  city: Haiphong
+  country: Viet Nam
+- name: Vietnam Joint Stock Commercial Bank For Industry And Trade (formerly Vietnam
+    Bank For Industry And Trade
+  swift: ICBVVNVX166
+  swift8: ICBVVNVX
+  branch_name: Hongbang Branch
+  branch_address: 90 Tran Quang Khai Haiphong
+  branch_code: '166'
+  city: Haiphong
+  country: Viet Nam
+- name: Vietnam Maritime Commercial Stock Bank
+  swift: MCOBVNVX001
+  swift8: MCOBVNVX
+  branch_name: Hai Phong Branch
+  branch_address: 9 Nguyen Tri Phuong Str Haiphong
+  branch_code: '001'
+  city: Haiphong
+  country: Viet Nam
+- name: Vietnam Maritime Commercial Stock Bank
+  swift: MCOBVNVX002
+  swift8: MCOBVNVX
+  branch_name: Ha Noi Branch
+  branch_address: 71 Hai Ba Trung Str Hanoi
+  branch_code: '002'
+  city: Hanoi
+  country: Viet Nam
+- name: Vietnam Maritime Commercial Stock Bank
+  swift: MCOBVNVX003
+  swift8: MCOBVNVX
+  branch_name: Ho Chi Minh Branch
+  branch_address: 26-28 Hai Ba Trung Ho Chi Minh City
+  branch_code: '003'
+  city: Ho Chi Minh City
+  country: Viet Nam
+- name: Vietnam Maritime Commercial Stock Bank
+  swift: MCOBVNVX004
+  swift8: MCOBVNVX
+  branch_name: Quang Ninh Branch
+  branch_address: 168 Le Thanh Tong Str Quang Ninh
+  branch_code: '004'
+  city: Quang Ninh
+  country: Viet Nam
+- name: Vietnam Maritime Commercial Stock Bank
+  swift: MCOBVNVX005
+  swift8: MCOBVNVX
+  branch_name: Da Nang Branch
+  branch_address: 15 Le Duan Str Da Nang
+  branch_code: '005'
+  city: Da Nang
+  country: Viet Nam
+- name: Vietnam Maritime Commercial Stock Bank
+  swift: MCOBVNVX006
+  swift8: MCOBVNVX
+  branch_name: Can Tho Branch
+  branch_address: 40 Phan Dinh Phung Can Tho
+  branch_code: '006'
+  city: Can Tho
+  country: Viet Nam
+- name: Vietnam Maritime Commercial Stock Bank
+  swift: MCOBVNVX007
+  swift8: MCOBVNVX
+  branch_name: Vung Tau Branch
+  branch_address: 55-57 Nam Ky Khoi Nghia Str Vung Tau
+  branch_code: '007'
+  city: Vung Tau
+  country: Viet Nam
+- name: Vietnam Maritime Commercial Stock Bank
+  swift: MCOBVNVX008
+  swift8: MCOBVNVX
+  branch_name: Dongda Branch
+  branch_address: 47a Huynh Thuc Khang Str Hanoi
+  branch_code: '008'
+  city: Hanoi
+  country: Viet Nam
+- name: Vietnam Maritime Commercial Stock Bank
+  swift: MCOBVNVX009
+  swift8: MCOBVNVX
+  branch_name: Industrial Zone Hoa Khanh Branch
+  branch_address: Dien Bien Phu Str Da Nang
+  branch_code: '009'
+  city: Da Nang
+  country: Viet Nam
+- name: Vietnam Maritime Commercial Stock Bank
+  swift: MCOBVNVX010
+  swift8: MCOBVNVX
+  branch_name: Saigon Branch
+  branch_address: 283, 3/2 Str. District 10 Ho Chi Minh City
+  branch_code: '010'
+  city: Ho Chi Minh City
+  country: Viet Nam
+- name: Vietnam Maritime Commercial Stock Bank
+  swift: MCOBVNVX011
+  swift8: MCOBVNVX
+  branch_name: Nhatrang Branch
+  branch_address: 34 Tranphu Vinhnguyen Nhatrang Nha Trang
+  branch_code: '011'
+  city: Nha Trang
+  country: Viet Nam
+- name: Vietnam Maritime Commercial Stock Bank
+  swift: MCOBVNVXXXX
+  swift8: MCOBVNVX
+  branch_name: Head Office
+  branch_address: Sky City Hanoi
+  branch_code: XXX
+  city: Hanoi
+  country: Viet Nam
+- name: Vietnam Post
+  swift: VNPTVNV1XXX
+  swift8: VNPTVNV1
+  branch_name: Head Office
+  branch_address: 5 Pham Hung, My Dinh, Tu Liem Hanoi
+  branch_code: XXX
+  city: Hanoi
+  country: Viet Nam
+- name: Vietnam Prosperity Joint Stock Commercial Bank (formerly:vietnam Jsc Bk For
+    Private Enterprises
+  swift: VPBKVNVXXXX
+  swift8: VPBKVNVX
+  branch_name: Head Office
+  branch_address: Vpbank Bldg., Hanoi
+  branch_code: XXX
+  city: Hanoi
+  country: Viet Nam
+- name: Vietnam Public Joint Stock Commercial Bank (pvcombank
+  swift: WBVNVNVXXXX
+  swift8: WBVNVNVX
+  branch_name: Head Office
+  branch_address: Western Bank Can Tho
+  branch_code: XXX
+  city: Hanoi
+  country: Viet Nam
+- name: Vietnam Russia Joint Venture Bank
+  swift: VRBAVNVXXXX
+  swift8: VRBAVNVX
+  branch_name: Head Office
+  branch_address: No.85 Ly Thuong Kiet Street 844 Hanoi
+  branch_code: XXX
+  city: Hanoi
+  country: Viet Nam
+- name: Vietnam Securities Depository
+  swift: VISDVNV1XXX
+  swift8: VISDVNV1
+  branch_name: Head Office
+  branch_address: Le Dai Hanh Ward Hanoi
+  branch_code: XXX
+  city: Hanoi
+  country: Viet Nam
+- name: Vietnam Technological And Commercial Joint Stock Bank
+  swift: VTCBVNVXXXX
+  swift8: VTCBVNVX
+  branch_name: Head Office
+  branch_address: 15 Dao Duy Tu, Hoan Kiem Hanoi
+  branch_code: XXX
+  city: Hanoi
+  country: Viet Nam
+- name: Vina Securities Jsc
+  swift: VSJCVNV1XXX
+  swift8: VSJCVNV1
+  branch_name: Head Office
+  branch_address: Sun Wah Tower 84 Ho Chi Minh City
+  branch_code: XXX
+  city: Ho Chi Minh City
+  country: Viet Nam
+- name: Vinasiam Bank Hochiminh City
+  swift: VNBKVNVXXXX
+  swift8: VNBKVNVX
+  branch_name: Head Office
+  branch_address: 2 Pho Duc Chinh Street Ho Chi Minh City
+  branch_code: XXX
+  city: Ho Chi Minh City
+  country: Viet Nam
+- name: Woori Bank, Hanoi
+  swift: HVBKVNVXXXX
+  swift8: HVBKVNVX
+  branch_name: Head Office
+  branch_address: Office Tower Hanoi
+  branch_code: XXX
+  city: Hanoi
+  country: Viet Nam
+- name: Wooribank Hochiminh
+  swift: HVBKVN2XXXX
+  swift8: HVBKVN2X
+  branch_name: Head Office
+  branch_address: Sun Wah Tower Ho Chi Minh City
+  branch_code: XXX
+  city: Ho Chi Minh City
+  country: Viet Nam

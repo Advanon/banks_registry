@@ -1,0 +1,3154 @@
+---
+PH:
+- name: Asia United Bank Corporation
+  swift: AUBKPHMMXXX
+  swift8: AUBKPHMM
+  branch_name: Head Office
+  branch_address: Parc Royale Pasig City
+  branch_code: XXX
+  city: Pasig City
+  country: Philippines
+- name: Asian Development Bank
+  swift: ASDBPHMMXXX
+  swift8: ASDBPHMM
+  branch_name: Head Office
+  branch_address: 6 Adb Avenue Mandaluyong, Metro 1501 Manila
+  branch_code: XXX
+  city: Manila
+  country: Philippines
+- name: Australia And New Zealand Banking Group Limited
+  swift: ANZBPHMXXXX
+  swift8: ANZBPHMX
+  branch_name: Head Office
+  branch_address: Tuscan Building Manila
+  branch_code: XXX
+  city: Manila
+  country: Philippines
+- name: Bangko Sentral Ng Pilipinas
+  swift: PHCBPHMDXXX
+  swift8: PHCBPHMD
+  branch_name: Head Office
+  branch_address: Edp Building 1004 Manila
+  branch_code: XXX
+  city: Manila
+  country: Philippines
+- name: Bangko Sentral Ng Pilipinas
+  swift: PHCBPHMMXXX
+  swift8: PHCBPHMM
+  branch_name: Head Office
+  branch_address: Cbp 5 Storey Building 1004 Manila
+  branch_code: XXX
+  city: Manila
+  country: Philippines
+- name: Bangko Sentral Ng Pilipinas
+  swift: PHCBPHMCXXX
+  swift8: PHCBPHMC
+  branch_name: Head Office
+  branch_address: Edpc Building Manila
+  branch_code: XXX
+  city: Manila
+  country: Philippines
+- name: Bangkok Bank Public Company Limited Manila Branch
+  swift: BKKBPHMMXXX
+  swift8: BKKBPHMM
+  branch_name: Head Office
+  branch_address: The Enterprise Center 1200 Manila
+  branch_code: XXX
+  city: Manila
+  country: Philippines
+- name: Bank Of China Manila Branch
+  swift: BKCHPHMMXXX
+  swift8: BKCHPHMM
+  branch_name: Head Office
+  branch_address: Philamlife Tower 1200 Manila
+  branch_code: XXX
+  city: Manila
+  country: Philippines
+- name: Bank Of Commerce
+  swift: PABIPHMMXXX
+  swift8: PABIPHMM
+  branch_name: Head Office
+  branch_address: Bankers Center Manila
+  branch_code: XXX
+  city: Manila
+  country: Philippines
+- name: Bank Of The Philippine Islands
+  swift: BOPIPHMMTRY
+  swift8: BOPIPHMM
+  branch_name: Treasury Group
+  branch_address: Ayala Avenue, Corner Paseo De 1827 Mcc Manila
+  branch_code: TRY
+  city: Manila
+  country: Philippines
+- name: Bank Of The Philippine Islands
+  swift: BOPIPHMMXXX
+  swift8: BOPIPHMM
+  branch_name: Head Office
+  branch_address: Ayala Avenue, Corner Paseo De Manila
+  branch_code: XXX
+  city: Manila
+  country: Philippines
+- name: Bank Of Tokyo Mitsubishi Ufj Ltd. The
+  swift: BOTKPHMMXXX
+  swift8: BOTKPHMM
+  branch_name: Manila Branch
+  branch_address: 6788 Ayala Avenue Manila
+  branch_code: XXX
+  city: Manila
+  country: Philippines
+- name: Bdo Private Bank Inc.
+  swift: BOPBPHMMXXX
+  swift8: BOPBPHMM
+  branch_name: Head Office
+  branch_address: Tower 1 1226 Manila
+  branch_code: XXX
+  city: Manila
+  country: Philippines
+- name: Bdo Unibank Inc.
+  swift: BNORPHMMXXX
+  swift8: BNORPHMM
+  branch_name: Head Office
+  branch_address: Bdo Corporate Center 1200 Manila
+  branch_code: XXX
+  city: Manila
+  country: Philippines
+- name: Bnp Paribas Manila Offshore Branch
+  swift: BNPAPHMMXXX
+  swift8: BNPAPHMM
+  branch_name: Head Office
+  branch_address: Philamlife Tower 1262 Manila
+  branch_code: XXX
+  city: Manila
+  country: Philippines
+- name: China Banking Corporation
+  swift: CHBKPHMMXXX
+  swift8: CHBKPHMM
+  branch_name: Head Office
+  branch_address: China Banking Corporation Bldg. 1226 Manila
+  branch_code: XXX
+  city: Manila
+  country: Philippines
+- name: Chinatrust (Phils.) Commercial Bank Manila
+  swift: CTCBPHMMXXX
+  swift8: CTCBPHMM
+  branch_name: Head Office
+  branch_address: Pse Building, Tower One 1200 Manila
+  branch_code: XXX
+  city: Manila
+  country: Philippines
+- name: Citibank N.A. Manila Branch
+  swift: CITIPHMXCBU
+  swift8: CITIPHMX
+  branch_name: Cebu
+  branch_address: Cebu
+  branch_code: CBU
+  city: Cebu
+  country: Philippines
+- name: Citibank N.A. Manila Branch
+  swift: CITIPHMXXXX
+  swift8: CITIPHMX
+  branch_name: Head Office
+  branch_address: Citibank Centre 1200 Manila
+  branch_code: XXX
+  city: Manila
+  country: Philippines
+- name: Citibank N.A. Manila Branch
+  swift: CITIPHMXTSU
+  swift8: CITIPHMX
+  branch_name: Ibg-Treasury Services Unit
+  branch_address: Manila
+  branch_code: TSU
+  city: Manila
+  country: Philippines
+- name: Credit Agricole Cib
+  swift: CRLYPHMMXXX
+  swift8: CRLYPHMM
+  branch_name: Head Office
+  branch_address: Pacific Star Building Manila
+  branch_code: XXX
+  city: Manila
+  country: Philippines
+- name: Deutsche Bank Ag
+  swift: DEUTPHMMXXX
+  swift8: DEUTPHMM
+  branch_name: Head Office
+  branch_address: Bpi Pasea De Roxas Condominium 1226 Manila
+  branch_code: XXX
+  city: Manila
+  country: Philippines
+- name: Deutsche Bank Ag
+  swift: DEUTPHMMGMO
+  swift8: DEUTPHMM
+  branch_name: Manila
+  branch_address: Manila
+  branch_code: GMO
+  city: Manila
+  country: Philippines
+- name: Development Bank Of The Philippines
+  swift: DBPHPHMMXXX
+  swift8: DBPHPHMM
+  branch_name: Head Office
+  branch_address: Corner Gil Puyat and Makati Avenues 1200 Manila
+  branch_code: XXX
+  city: Manila
+  country: Philippines
+- name: East West Banking Corporation
+  swift: EWBCPHMMXXX
+  swift8: EWBCPHMM
+  branch_name: Head Office
+  branch_address: 6795 Ayala Avenue Corner, V.A. Manila
+  branch_code: XXX
+  city: Manila
+  country: Philippines
+- name: Hongkong And Shanghai Banking Corporation Limited The
+  swift: HSBCPHMMCEB
+  swift8: HSBCPHMM
+  branch_name: Cebu Branch
+  branch_address: 14 Juana Osmena Street 6000 Cebu
+  branch_code: CEB
+  city: Cebu
+  country: Philippines
+- name: Hongkong And Shanghai Banking Corporation Limited The
+  swift: HSBCPHMMSEC
+  swift8: HSBCPHMM
+  branch_name: Custody and Clearing
+  branch_address: Philippine Stock Exchange Centre 1600 Manila
+  branch_code: SEC
+  city: Manila
+  country: Philippines
+- name: Hongkong And Shanghai Banking Corporation Limited The
+  swift: HSBCPHMMTRY
+  swift8: HSBCPHMM
+  branch_name: Mnl Treasury Department
+  branch_address: Manila
+  branch_code: TRY
+  city: Manila
+  country: Philippines
+- name: Hongkong And Shanghai Banking Corporation Limited The
+  swift: HSBCPHMMXXX
+  swift8: HSBCPHMM
+  branch_name: Head Office
+  branch_address: The Enterprise Centre 1200 Manila
+  branch_code: XXX
+  city: Taguig City
+  country: Philippines
+- name: Ing Bank N.V.
+  swift: INGBPHMMXXX
+  swift8: INGBPHMM
+  branch_name: Head Office
+  branch_address: Tower One 1200 Manila
+  branch_code: XXX
+  city: Manila
+  country: Philippines
+- name: Jpmorgan Chase Bank N.A. Manila Branch
+  swift: CHASPHMMOBU
+  swift8: CHASPHMM
+  branch_name: Offhore Banking Unit
+  branch_address: Corinthian Plaza Bldg. Manila
+  branch_code: OBU
+  city: Manila
+  country: Philippines
+- name: Jpmorgan Chase Bank N.A. Manila Branch
+  swift: CHASPHMMENQ
+  swift8: CHASPHMM
+  branch_name: Telex and S W I F T Message Enquiries
+  branch_address: Manila
+  branch_code: ENQ
+  city: Manila
+  country: Philippines
+- name: Jpmorgan Chase Bank N.A. Manila Branch
+  swift: CHASPHMMKEY
+  swift8: CHASPHMM
+  branch_name: Test Key and Bke Administration
+  branch_address: Manila
+  branch_code: KEY
+  city: Manila
+  country: Philippines
+- name: Jpmorgan Chase Bank N.A. Manila Branch
+  swift: CHASPHMMXXX
+  swift8: CHASPHMM
+  branch_name: Head Office
+  branch_address: Philamlife Tower 1227 Manila
+  branch_code: XXX
+  city: Manila
+  country: Philippines
+- name: Korea Exchange Bank
+  swift: KOEXPHMMXXX
+  swift8: KOEXPHMM
+  branch_name: Head Office
+  branch_address: Citibank Tower 0702 Manila
+  branch_code: XXX
+  city: Makati City
+  country: Philippines
+- name: Land Bank Of The Philippines
+  swift: TLBPPHMMXXX
+  swift8: TLBPPHMM
+  branch_name: Head Office
+  branch_address: Landbank Plaza Manila
+  branch_code: XXX
+  city: Manila
+  country: Philippines
+- name: Land Bank Of The Philippines
+  swift: TLBPPHM10M2
+  swift8: TLBPPHM1
+  branch_name: 8000 Davao
+  branch_address: Aldevinco Building 8000 Davao
+  branch_code: 0M2
+  city: Davao
+  country: Philippines
+- name: Land Bank Of The Philippines
+  swift: TLBPPHM10M3
+  swift8: TLBPPHM1
+  branch_name: Iloilo
+  branch_address: Corner Izmart and Solis Streets Iloilo
+  branch_code: 0M3
+  city: Iloilo
+  country: Philippines
+- name: Land Bank Of The Philippines
+  swift: TLBPPHM10M4
+  swift8: TLBPPHM1
+  branch_name: General Santos
+  branch_address: Go Chay Ching Building General Santos
+  branch_code: 0M4
+  city: General Santos
+  country: Philippines
+- name: Land Bank Of The Philippines
+  swift: TLBPPHM10MC
+  swift8: TLBPPHM1
+  branch_name: Cebu
+  branch_address: Corn.Osmena Boulevard, P.Del Cebu
+  branch_code: 0MC
+  city: Cebu
+  country: Philippines
+- name: Land Bank Of The Philippines
+  swift: TLBPPHM10MQ
+  swift8: TLBPPHM1
+  branch_name: Quezon City
+  branch_address: Quezon City
+  branch_code: 0MQ
+  city: Quezon City
+  country: Philippines
+- name: Maybank Philippines Inc
+  swift: MBBEPHMMXXX
+  swift8: MBBEPHMM
+  branch_name: Head Office
+  branch_address: Legaspi Tower 300 Manila
+  branch_code: XXX
+  city: Manila
+  country: Philippines
+- name: Mega International Commercial Bank Co. Ltd. Manila Branch
+  swift: ICBCPHMMXXX
+  swift8: ICBCPHMM
+  branch_name: Head Office
+  branch_address: Pacific Star Building Manila
+  branch_code: XXX
+  city: Manila
+  country: Philippines
+- name: Metropolitan Bank And Trust Co.
+  swift: MBTCPHMMXXX
+  swift8: MBTCPHMM
+  branch_name: Head Office
+  branch_address: Metrobank Plaza Building 1200 Manila
+  branch_code: XXX
+  city: Manila
+  country: Philippines
+- name: Mizuho Bank Ltd. Manila Branch
+  swift: MHCBPHMMXXX
+  swift8: MHCBPHMM
+  branch_name: Head Office
+  branch_address: Citibank Tower 1200 Manila
+  branch_code: XXX
+  city: Manila
+  country: Philippines
+- name: Philippine Bank Of Communications
+  swift: CPHIPHMMXXX
+  swift8: CPHIPHMM
+  branch_name: Head Office
+  branch_address: Pbcom Tower Manila
+  branch_code: XXX
+  city: Manila
+  country: Philippines
+- name: Philippine National Bank
+  swift: PNBMPHMMTOD
+  swift8: PNBMPHMM
+  branch_name: Treasury Operations Division
+  branch_address: Manila
+  branch_code: TOD
+  city: Manila
+  country: Philippines
+- name: Philippine National Bank
+  swift: PNBMPHMMXXX
+  swift8: PNBMPHMM
+  branch_name: Head Office
+  branch_address: Pnb Financial Center Manila
+  branch_code: XXX
+  city: Manila
+  country: Philippines
+- name: Philippine Savings Bank
+  swift: PHSBPHMMXXX
+  swift8: PHSBPHMM
+  branch_name: Head Office
+  branch_address: Psbank Building 1226 Manila
+  branch_code: XXX
+  city: Manila
+  country: Philippines
+- name: Philippine Veterans Bank
+  swift: PHVBPHMMXXX
+  swift8: PHVBPHMM
+  branch_name: Head Office
+  branch_address: Pvb Building 1200 Manila
+  branch_code: XXX
+  city: Manila
+  country: Philippines
+- name: Philtrust Bank (Philippine Trust Company)
+  swift: PHTBPHMMXXX
+  swift8: PHTBPHMM
+  branch_name: Head Office
+  branch_address: Philtrust Bank Building 1007 Manila
+  branch_code: XXX
+  city: Manila
+  country: Philippines
+- name: Rizal Commercial Banking Corporation
+  swift: RCBCPHMMXXX
+  swift8: RCBCPHMM
+  branch_name: Head Office
+  branch_address: Rcbc Building 1200 Manila
+  branch_code: XXX
+  city: Manila
+  country: Philippines
+- name: Rizal Commercial Banking Corporation
+  swift: RCBCPH21XXX
+  swift8: RCBCPH21
+  branch_name: Foreign Currency Deposit Unit-Fcdu
+  branch_address: Yuchengco Tower 3117 Manila
+  branch_code: XXX
+  city: Manila
+  country: Philippines
+- name: Security Bank Corporation
+  swift: SETCPHMMXXX
+  swift8: SETCPHMM
+  branch_name: Head Office
+  branch_address: Security Bank Centre 0719 Manila
+  branch_code: XXX
+  city: Manila
+  country: Philippines
+- name: Standard Chartered Bank
+  swift: SCBLPHMMEQI
+  swift8: SCBLPHMM
+  branch_name: Custodial Department
+  branch_address: Manila
+  branch_code: EQI
+  city: Manila
+  country: Philippines
+- name: Standard Chartered Bank
+  swift: SCBLPHMMXXX
+  swift8: SCBLPHMM
+  branch_name: Head Office
+  branch_address: 6756 Bankmer Building, 1200 Manila
+  branch_code: XXX
+  city: Manila
+  country: Philippines
+- name: Taiwan Cooperative Bank Manila Offshore Banking Branch
+  swift: TACBPHMMXXX
+  swift8: TACBPHMM
+  branch_name: Head Office
+  branch_address: Citibank Tower Manila
+  branch_code: XXX
+  city: Manila
+  country: Philippines
+- name: Tong Yang Savings Bank Inc.
+  swift: TYBKPHMMXXX
+  swift8: TYBKPHMM
+  branch_name: Head Office
+  branch_address: Chatham Building 1227 Manila
+  branch_code: XXX
+  city: Manila
+  country: Philippines
+- name: Union Bank Of The Philippines
+  swift: UBPHPHMMXXX
+  swift8: UBPHPHMM
+  branch_name: Head Office
+  branch_address: Unionbank Plaza 1605 Pasig City
+  branch_code: XXX
+  city: Pasig City
+  country: Philippines
+- name: United Coconut Planters Bank
+  swift: UCPBPHMMXXX
+  swift8: UCPBPHMM
+  branch_name: Head Office
+  branch_address: Ucpb Executive Offices 1200 Manila
+  branch_code: XXX
+  city: Manila
+  country: Philippines
+- name: United Overseas Bank Philippines
+  swift: UOVBPHMMXXX
+  swift8: UOVBPHMM
+  branch_name: Head Office
+  branch_address: Pacific Star Bldg Manila
+  branch_code: XXX
+  city: Manila
+  country: Philippines
+- name: Bank Dagang Nasional Indonesia
+  swift: DANIPHM1XXX
+  swift8: DANIPHM1
+  branch_name: Head Office
+  branch_address: Ayala Tower I and Exchange Plaza Manila
+  branch_code: XXX
+  city: Manila
+  country: Philippines
+- name: Fpb Asia Limited
+  swift: FPASPHM1XXX
+  swift8: FPASPHM1
+  branch_name: Head Office
+  branch_address: Ayala Life Building Manila
+  branch_code: XXX
+  city: Manila
+  country: Philippines
+- name: Jardine Fleming
+  swift: JFLEPHM1XXX
+  swift8: JFLEPHM1
+  branch_name: Head Office
+  branch_address: Corporate Business Centre Manila
+  branch_code: XXX
+  city: Manila
+  country: Philippines
+- name: 1st Macro Bank, Inc. (a Rural Bank
+  swift: MCRUPHM1XXX
+  swift8: MCRUPHM1
+  branch_name: Head Office
+  branch_address: B. Morcilla 1620 Pateros
+  branch_code: XXX
+  city: Pateros
+  country: Philippines
+- name: A And A Securities, Inc.
+  swift: SEUUPHM1XXX
+  swift8: SEUUPHM1
+  branch_name: Head Office
+  branch_address: Pacific Bank Building Manila
+  branch_code: XXX
+  city: Manila
+  country: Philippines
+- name: A.t. De Castro Securities Corporation
+  swift: CASUPHM1XXX
+  swift8: CASUPHM1
+  branch_name: Head Office
+  branch_address: Tower 1 and Exchange Plaza Manila
+  branch_code: XXX
+  city: Manila
+  country: Philippines
+- name: Aaa Southeast Equities Inc.
+  swift: AASQPHM1XXX
+  swift8: AASQPHM1
+  branch_name: Head Office
+  branch_address: Fortune Life Building Manila
+  branch_code: XXX
+  city: Manila
+  country: Philippines
+- name: Ab Capital And Investment Corporation
+  swift: CAVPPHM1XXX
+  swift8: CAVPPHM1
+  branch_name: Head Office
+  branch_address: Phinma Plaza 1200 Manila
+  branch_code: XXX
+  city: Manila
+  country: Philippines
+- name: Abacus Capital And Investment Corporation
+  swift: ACICPHM1XXX
+  swift8: ACICPHM1
+  branch_name: Head Office
+  branch_address: East Tower 1600 Pasig City
+  branch_code: XXX
+  city: Pasig City
+  country: Philippines
+- name: Abacus Securities Corporation
+  swift: ABAEPHM1XXX
+  swift8: ABAEPHM1
+  branch_name: Head Office
+  branch_address: Philippine Stock Exchange Centre 1600 Manila
+  branch_code: XXX
+  city: Manila
+  country: Philippines
+- name: Aboitiz Equity Ventures Inc.
+  swift: ABTZPH21XXX
+  swift8: ABTZPH21
+  branch_name: Head Office
+  branch_address: Aboitiz Building Cebu
+  branch_code: XXX
+  city: Cebu
+  country: Philippines
+- name: Agj Securities Corp.
+  swift: AGJSPHM1XXX
+  swift8: AGJSPHM1
+  branch_name: Head Office
+  branch_address: Maripola Building Manila
+  branch_code: XXX
+  city: Manila
+  country: Philippines
+- name: Aig-philam Savings Bank, Inc
+  swift: PHSAPHM1XXX
+  swift8: PHSAPHM1
+  branch_name: Head Office
+  branch_address: Salustiana Ty Tower 1229 Manila
+  branch_code: XXX
+  city: Manila
+  country: Philippines
+- name: Al-amanah Islamic Investment Bank Of The Philippines
+  swift: AIIPPHM1XXX
+  swift8: AIIPPHM1
+  branch_name: Head Office
+  branch_address: Dbp Building 1200 Makati City
+  branch_code: XXX
+  city: Makati City
+  country: Philippines
+- name: All Asia Securities Management Corp.
+  swift: AASSPHM10MM
+  swift8: AASSPHM1
+  branch_name: Manila
+  branch_address: All Asia Centre Manila
+  branch_code: 0MM
+  city: Manila
+  country: Philippines
+- name: All Asia Securities Management Corp.
+  swift: AASSPHM1XXX
+  swift8: AASSPHM1
+  branch_name: Head Office
+  branch_address: Aboitiz Building Cebu
+  branch_code: XXX
+  city: Cebu
+  country: Philippines
+- name: Allied Savings Bank
+  swift: ALSGPHM1XXX
+  swift8: ALSGPHM1
+  branch_name: Head Office
+  branch_address: 11th Floor Allied Bank Center 1510 Makati City
+  branch_code: XXX
+  city: Makati City
+  country: Philippines
+- name: Alpha Securities Corp.
+  swift: ALPCPHM1XXX
+  swift8: ALPCPHM1
+  branch_name: Head Office
+  branch_address: Pacific Star Building Manila
+  branch_code: XXX
+  city: Manila
+  country: Philippines
+- name: Amethyst Securities Corp.
+  swift: AMECPHM1XXX
+  swift8: AMECPHM1
+  branch_name: Head Office
+  branch_address: Exchange Building Manila
+  branch_code: XXX
+  city: Manila
+  country: Philippines
+- name: Amon Securities Corp.
+  swift: AMONPHM1XXX
+  swift8: AMONPHM1
+  branch_name: Head Office
+  branch_address: Pacific Star Building Manila
+  branch_code: XXX
+  city: Manila
+  country: Philippines
+- name: Angping And Associates
+  swift: ANGPPHM1XXX
+  swift8: ANGPPHM1
+  branch_name: Head Office
+  branch_address: Cacho Gonzalez Building Manila
+  branch_code: XXX
+  city: Manila
+  country: Philippines
+- name: Ansaldo, Godinez And Company, Inc.
+  swift: ANSGPHM1XXX
+  swift8: ANSGPHM1
+  branch_name: Head Office
+  branch_address: 340 Nueva Street Manila
+  branch_code: XXX
+  city: Manila
+  country: Philippines
+- name: Anscor-hagedorn Securities Inc.
+  swift: ANSCPHM1XXX
+  swift8: ANSCPHM1
+  branch_name: Head Office
+  branch_address: Asian Bank Centre Manila
+  branch_code: XXX
+  city: Manila
+  country: Philippines
+- name: Armstrong Securities Inc.
+  swift: ARMEPHM1XXX
+  swift8: ARMEPHM1
+  branch_name: Head Office
+  branch_address: Ortigas Centre Manila
+  branch_code: XXX
+  city: Manila
+  country: Philippines
+- name: Asi Securities Inc.
+  swift: ASISPHM1XXX
+  swift8: ASISPHM1
+  branch_name: Head Office
+  branch_address: Metrobank Plaza Building Manila
+  branch_code: XXX
+  city: Manila
+  country: Philippines
+- name: Asia Pacific Capital Equities And Sec. Corp.
+  swift: APCEPHM1XXX
+  swift8: APCEPHM1
+  branch_name: Head Office
+  branch_address: Corporate Centre Quezon City
+  branch_code: XXX
+  city: Quezon City
+  country: Philippines
+- name: Asian Oceanic Merit Securities Inc.
+  swift: AOMSPHM1XXX
+  swift8: AOMSPHM1
+  branch_name: Head Office
+  branch_address: Exchange Building Manila
+  branch_code: XXX
+  city: Manila
+  country: Philippines
+- name: Asiasec Equities Inc.
+  swift: ASESPHM1XXX
+  swift8: ASESPHM1
+  branch_name: Head Office
+  branch_address: Diners Club Centre Manila
+  branch_code: XXX
+  city: Manila
+  country: Philippines
+- name: Asiatrust Bank
+  swift: ATDBPHM10M2
+  swift8: ATDBPHM1
+  branch_name: Antipolo
+  branch_address: M.L. Quezon Street Antipolo
+  branch_code: 0M2
+  city: Antipolo
+  country: Philippines
+- name: Asiatrust Bank
+  swift: ATDBPHM10M3
+  swift8: ATDBPHM1
+  branch_name: Bacoor
+  branch_address: 286 Rotonda Highway Panapaan Bacoor
+  branch_code: 0M3
+  city: Bacoor
+  country: Philippines
+- name: Asiatrust Bank
+  swift: ATDBPHM10M4
+  swift8: ATDBPHM1
+  branch_name: Caloocan City
+  branch_address: Rizal Avenue Extension Corner 9th Caloocan City
+  branch_code: 0M4
+  city: Caloocan City
+  country: Philippines
+- name: Asiatrust Bank
+  swift: ATDBPHM10M5
+  swift8: ATDBPHM1
+  branch_name: Masinag Branch
+  branch_address: Kingsville Arcade Antipolo
+  branch_code: 0M5
+  city: Antipolo
+  country: Philippines
+- name: Asiatrust Bank
+  swift: ATDBPHM10M6
+  swift8: ATDBPHM1
+  branch_name: New Manila Branch
+  branch_address: 1052 E. Rodriguez Sr. Avenue Quezon City
+  branch_code: 0M6
+  city: Quezon City
+  country: Philippines
+- name: Asiatrust Bank
+  swift: ATDBPHM10M7
+  swift8: ATDBPHM1
+  branch_name: Pasay City
+  branch_address: Bismac Building Pasay City
+  branch_code: 0M7
+  city: Pasay City
+  country: Philippines
+- name: Asiatrust Bank
+  swift: ATDBPHM10M8
+  swift8: ATDBPHM1
+  branch_name: Del Monte Branch
+  branch_address: 564 Del Monte Avenue Corner Quezon City
+  branch_code: 0M8
+  city: Quezon City
+  country: Philippines
+- name: Asiatrust Bank
+  swift: ATDBPHM10MA
+  swift8: ATDBPHM1
+  branch_name: Roosevelt Branch
+  branch_address: Leyba Building Quezon City
+  branch_code: 0MA
+  city: Quezon City
+  country: Philippines
+- name: Asiatrust Bank
+  swift: ATDBPHM10MB
+  swift8: ATDBPHM1
+  branch_name: Salcedo Branch
+  branch_address: Le Grand Condominium Manila
+  branch_code: 0MB
+  city: Manila
+  country: Philippines
+- name: Asiatrust Bank
+  swift: ATDBPHM10MC
+  swift8: ATDBPHM1
+  branch_name: San Juan
+  branch_address: 450 P. Guevarra Street Corner San Juan
+  branch_code: 0MC
+  city: San Juan
+  country: Philippines
+- name: Asiatrust Bank
+  swift: ATDBPHM10MD
+  swift8: ATDBPHM1
+  branch_name: Santiago
+  branch_address: Papa Mikes Building Santiago
+  branch_code: 0MD
+  city: Santiago
+  country: Philippines
+- name: Asiatrust Bank
+  swift: ATDBPHM10ME
+  swift8: ATDBPHM1
+  branch_name: Tutuban Centermall Branch
+  branch_address: Pnr Tutuban Station Tondo
+  branch_code: 0ME
+  city: Tondo
+  country: Philippines
+- name: Asiatrust Bank
+  swift: ATDBPHM10MF
+  swift8: ATDBPHM1
+  branch_name: Valenzuela
+  branch_address: 245 Macarthur Highway Karuhatan Valenzuela
+  branch_code: 0MF
+  city: Valenzuela
+  country: Philippines
+- name: Asiatrust Bank
+  swift: ATDBPHM10MM
+  swift8: ATDBPHM1
+  branch_name: Pasong Tamo Branch
+  branch_address: Kings Court Building Manila
+  branch_code: 0MM
+  city: Manila
+  country: Philippines
+- name: Asiatrust Bank
+  swift: ATDBPHM1XXX
+  swift8: ATDBPHM1
+  branch_name: Head Office
+  branch_address: Asiatrust Building Quezon City
+  branch_code: XXX
+  city: Quezon City
+  country: Philippines
+- name: Asiatrust Development Bank
+  swift: ASDVPHM1XXX
+  swift8: ASDVPHM1
+  branch_name: Head Office
+  branch_address: Asiatrust Bank Building 1100 Quezon City
+  branch_code: XXX
+  city: Quezon City
+  country: Philippines
+- name: Astra Securities Corp.
+  swift: ASTSPHM1XXX
+  swift8: ASTSPHM1
+  branch_name: Head Office
+  branch_address: Liberty Building Manila
+  branch_code: XXX
+  city: Manila
+  country: Philippines
+- name: Atc Securities Inc.
+  swift: ATCSPHM1XXX
+  swift8: ATCSPHM1
+  branch_name: Head Office
+  branch_address: Fil-Am Resources Building Manila
+  branch_code: XXX
+  city: Manila
+  country: Philippines
+- name: Atr-kim Eng Securities, Inc
+  swift: ATSCPHM1XXX
+  swift8: ATSCPHM1
+  branch_name: Head Office
+  branch_address: Exchange Plaza 1200 Manila
+  branch_code: XXX
+  city: Manila
+  country: Philippines
+- name: Aurora Securities, Inc.
+  swift: AURSPHM1XXX
+  swift8: AURSPHM1
+  branch_name: Head Office
+  branch_address: Downtown Centre Building Manila
+  branch_code: XXX
+  city: Manila
+  country: Philippines
+- name: B. H. Chua Securities Corporation
+  swift: BHCHPHM1XXX
+  swift8: BHCHPHM1
+  branch_name: Head Office
+  branch_address: Acclaim Building Manila
+  branch_code: XXX
+  city: Manila
+  country: Philippines
+- name: Ba Securities Inc.
+  swift: BATTPHM1XXX
+  swift8: BATTPHM1
+  branch_name: Head Office
+  branch_address: Sedcco I Building Manila
+  branch_code: XXX
+  city: Manila
+  country: Philippines
+- name: Balanga Rural Bank, Inc.
+  swift: BRULPHM1XXX
+  swift8: BRULPHM1
+  branch_name: Head Office
+  branch_address: Don Manuel Banzon Avenue 00000 Balanga
+  branch_code: XXX
+  city: Balanga
+  country: Philippines
+- name: Banco Filipino Savings And Mortgage Bank
+  swift: FIAOPHM1XXX
+  swift8: FIAOPHM1
+  branch_name: Head Office
+  branch_address: Banco Filipino Smb 1200 Manila
+  branch_code: XXX
+  city: Manila
+  country: Philippines
+- name: Banco San Vicente, Inc. (a Rural Bank
+  swift: SAVRPHM1XXX
+  swift8: SAVRPHM1
+  branch_name: No branch name
+  branch_address: No branch address
+  branch_code: XXX
+  city: San Vicente
+  country: Philippines
+- name: Bangko Mabuhay (rural Bank Of Tanza (cavite), Inc.
+  swift: MRTCPHM1XXX
+  swift8: MRTCPHM1
+  branch_name: Head Office
+  branch_address: Bangko Mabuhay Bldg. 4108 Tanza
+  branch_code: XXX
+  city: Tanza
+  country: Philippines
+- name: Bangko Nuestra Senora Del Pilar Inc. (a Rural Bank
+  swift: NSPRPHM1XXX
+  swift8: NSPRPHM1
+  branch_name: Head Office
+  branch_address: No.678 Mcarthur Highway, 2015 San Simon Pampanga
+  branch_code: XXX
+  city: San Simon
+  country: Philippines
+- name: Bangko Rural Ng Pasacao (cs), Incorporated
+  swift: RUPIPHM1XXX
+  swift8: RUPIPHM1
+  branch_name: Head Office
+  branch_address: Sta. Rosa Del Sur 4417 Pasacao, Camarines Sur
+  branch_code: XXX
+  city: Pasacao, Camarines Sur
+  country: Philippines
+- name: Bank Dharmala
+  swift: BADAPHM1XXX
+  swift8: BADAPHM1
+  branch_name: Head Office
+  branch_address: The Professional Group Tower Mandaluyong
+  branch_code: XXX
+  city: Mandaluyong
+  country: Philippines
+- name: Bank Of Florida, Inc. (a Rural Bank
+  swift: FLRUPHM1XXX
+  swift8: FLRUPHM1
+  branch_name: Head Office
+  branch_address: Bank of Florida Bldg. 2000 San Fernando Pampanga
+  branch_code: XXX
+  city: San Fernando
+  country: Philippines
+- name: Bank Of Lubao (a Rural Bank) Inc.
+  swift: LURUPHM1XXX
+  swift8: LURUPHM1
+  branch_name: Head Office
+  branch_address: Bank of Lubao 2005 Lubao
+  branch_code: XXX
+  city: Lubao
+  country: Philippines
+- name: Bank Of Makati (a Rural Bank), Inc.
+  swift: MKRUPHM1XXX
+  swift8: MKRUPHM1
+  branch_name: Head Office
+  branch_address: Bank of Makati, Inc. 1200 Makati City
+  branch_code: XXX
+  city: Makati City
+  country: Philippines
+- name: Bank One Savings And Trust Corporation
+  swift: ONSTPHM1XXX
+  swift8: ONSTPHM1
+  branch_name: Head Office
+  branch_address: Isetann Building 1016 Manila
+  branch_code: XXX
+  city: Manila
+  country: Philippines
+- name: Barcelon Roxas Securities Inc.
+  swift: BROXPHM1XXX
+  swift8: BROXPHM1
+  branch_name: Head Office
+  branch_address: Sss (Makati) Building Manila
+  branch_code: XXX
+  city: Manila
+  country: Philippines
+- name: Bdo Elite Savings Bank, Inc.
+  swift: BDESPHM1XXX
+  swift8: BDESPHM1
+  branch_name: Head Office
+  branch_address: Net Cube Building Taguig City
+  branch_code: XXX
+  city: Taguig City
+  country: Philippines
+- name: Belson Securities, Inc.
+  swift: BELCPHM1XXX
+  swift8: BELCPHM1
+  branch_name: Head Office
+  branch_address: Belson House Manila
+  branch_code: XXX
+  city: Manila
+  country: Philippines
+- name: Benjamin Co Ca And Co Inc.
+  swift: BENJPHM1XXX
+  swift8: BENJPHM1
+  branch_name: Head Office
+  branch_address: Downtown Centre Building Manila
+  branch_code: XXX
+  city: Manila
+  country: Philippines
+- name: Bernad Securities Inc.
+  swift: BEREPHM1XXX
+  swift8: BEREPHM1
+  branch_name: Head Office
+  branch_address: 1057 M.H. De Pilar Street Manila
+  branch_code: XXX
+  city: Manila
+  country: Philippines
+- name: Bfe Financial Svcs. And Consultancy, Inc.
+  swift: BFSCPHM1XXX
+  swift8: BFSCPHM1
+  branch_name: Head Office
+  branch_address: Ba Lepanto Bldg. Manila
+  branch_code: XXX
+  city: Manila
+  country: Philippines
+- name: Bnp Paribas Peregrine Securities, Inc
+  swift: BPPSPHM1XXX
+  swift8: BPPSPHM1
+  branch_name: Head Office
+  branch_address: Philamlife Tower 1226 Manila
+  branch_code: XXX
+  city: Manila
+  country: Philippines
+- name: Bpi Capital Corp.
+  swift: BPAPPHM1XXX
+  swift8: BPAPPHM1
+  branch_name: Head Office
+  branch_address: Pbi Building 1026 Manila
+  branch_code: XXX
+  city: Manila
+  country: Philippines
+- name: Bpi Card Finance
+  swift: BPCNPHM1XXX
+  swift8: BPCNPHM1
+  branch_name: Head Office
+  branch_address: Bpi Building 1026 Manila
+  branch_code: XXX
+  city: Manila
+  country: Philippines
+- name: Bpi Direct
+  swift: BPDIPHM1XXX
+  swift8: BPDIPHM1
+  branch_name: Head Office
+  branch_address: Bpi Card Center 1026 Manila
+  branch_code: XXX
+  city: Manila
+  country: Philippines
+- name: Bpi Family Bank
+  swift: BPFFPHM1XXX
+  swift8: BPFFPHM1
+  branch_name: Head Office
+  branch_address: Bpi Family Bank Building 1026 Manila
+  branch_code: XXX
+  city: Manila
+  country: Philippines
+- name: Bpi Family Savings Bank
+  swift: BPFSPHM1XXX
+  swift8: BPFSPHM1
+  branch_name: Head Office
+  branch_address: Bpi Head Office Building 1226 Makati
+  branch_code: XXX
+  city: Makati
+  country: Philippines
+- name: Bpi Globe Banko Inc.
+  swift: BPGOPHM1XXX
+  swift8: BPGOPHM1
+  branch_name: Head Office
+  branch_address: Bpi Head Office Bld 1226 Makati City
+  branch_code: XXX
+  city: Makati City
+  country: Philippines
+- name: Bpi Leasing Corporation
+  swift: BPLIPHM1XXX
+  swift8: BPLIPHM1
+  branch_name: Head Office
+  branch_address: Bpi Building 1026 Manila
+  branch_code: XXX
+  city: Manila
+  country: Philippines
+- name: Bpi Securities Corp.
+  swift: BPISPHM1XXX
+  swift8: BPISPHM1
+  branch_name: Head Office
+  branch_address: Paseo Wing Bpi Building Manila
+  branch_code: XXX
+  city: Manila
+  country: Philippines
+- name: British American Tobacco Philippines Ltd.
+  swift: BATSPHM1XXX
+  swift8: BATSPHM1
+  branch_name: No branch name
+  branch_address: No branch address
+  branch_code: XXX
+  city: Muntinlupa
+  country: Philippines
+- name: Bsp Branch Open Account Spc
+  swift: BBOAPHM1XXX
+  swift8: BBOAPHM1
+  branch_name: No branch name
+  branch_address: No branch address
+  branch_code: XXX
+  city: Quezon City
+  country: Philippines
+- name: Bsp-pfo Amd-pfo Housing Program
+  swift: BPFCPHM1XXX
+  swift8: BPFCPHM1
+  branch_name: No branch name
+  branch_address: No branch address
+  branch_code: XXX
+  city: Manila Metro
+  country: Philippines
+- name: Bsp-pfo Car Plan Fund
+  swift: BCPFPHM1XXX
+  swift8: BCPFPHM1
+  branch_name: No branch name
+  branch_address: No branch address
+  branch_code: XXX
+  city: Manila
+  country: Philippines
+- name: Bsp-pfo Housing Fund
+  swift: BHFUPHM1XXX
+  swift8: BHFUPHM1
+  branch_name: No branch name
+  branch_address: No branch address
+  branch_code: XXX
+  city: Manila
+  country: Philippines
+- name: Bsp-pfo Longevity Trust Fund
+  swift: BLTFPHM1XXX
+  swift8: BLTFPHM1
+  branch_name: No branch name
+  branch_address: No branch address
+  branch_code: XXX
+  city: Manila
+  country: Philippines
+- name: Bsp-pfo Provident Fund
+  swift: BPRFPHM1XXX
+  swift8: BPRFPHM1
+  branch_name: No branch name
+  branch_address: No branch address
+  branch_code: XXX
+  city: Manila
+  country: Philippines
+- name: Bt Brokerage (phils), Inc
+  swift: BRKPPHM1XXX
+  swift8: BRKPPHM1
+  branch_name: Head Office
+  branch_address: Pacific Star Building Manila
+  branch_code: XXX
+  city: Manila
+  country: Philippines
+- name: Bureau Of The Treasury
+  swift: BUTRPHM1XXX
+  swift8: BUTRPHM1
+  branch_name: Head Office
+  branch_address: Palacio Del Gobernador Manila
+  branch_code: XXX
+  city: Manila
+  country: Philippines
+- name: Bzw (asia) Ltd
+  swift: BWWAPHM1XXX
+  swift8: BWWAPHM1
+  branch_name: Head Office
+  branch_address: Dolmar Gold Tower Manila
+  branch_code: XXX
+  city: Manila
+  country: Philippines
+- name: Campos, Lanuza And Co. Inc.
+  swift: CALAPHM10M2
+  swift8: CALAPHM1
+  branch_name: Manila
+  branch_address: 7a Country Space 1, Gil Puyat Manila
+  branch_code: 0M2
+  city: Manila
+  country: Philippines
+- name: Campos, Lanuza And Co. Inc.
+  swift: CALAPHM1XXX
+  swift8: CALAPHM1
+  branch_name: Head Office
+  branch_address: Philippines Stock Exchange Center Manila
+  branch_code: XXX
+  city: Manila
+  country: Philippines
+- name: Cantilan Bank, Inc. (a Rural Bank
+  swift: CNRLPHM1XXX
+  swift8: CNRLPHM1
+  branch_name: No branch name
+  branch_address: No branch address
+  branch_code: XXX
+  city: Cantilan
+  country: Philippines
+- name: Cathay Securities, Inc.
+  swift: CATSPHM1XXX
+  swift8: CATSPHM1
+  branch_name: Head Office
+  branch_address: East Tower Manila
+  branch_code: XXX
+  city: Manila
+  country: Philippines
+- name: Century Savings Bank Corporation
+  swift: CESNPHM1XXX
+  swift8: CESNPHM1
+  branch_name: Head Office
+  branch_address: 232 Shaw Boulevard Cor Oranbo Drive 1603 Pasig City
+  branch_code: XXX
+  city: Pasig City
+  country: Philippines
+- name: China Bank Savings, Inc.
+  swift: CHSVPHM1XXX
+  swift8: CHSVPHM1
+  branch_name: Head Office
+  branch_address: Vgp Center 1226 Makati City
+  branch_code: XXX
+  city: Makati City
+  country: Philippines
+- name: Citibank Securities Inc.
+  swift: CIVPPHM1XXX
+  swift8: CIVPPHM1
+  branch_name: Head Office
+  branch_address: Citibank Center Manila
+  branch_code: XXX
+  city: Manila
+  country: Philippines
+- name: Citisecurities Inc.
+  swift: CITSPHM1XXX
+  swift8: CITSPHM1
+  branch_name: Head Office
+  branch_address: Tektite Tower 1 Manila
+  branch_code: XXX
+  city: Manila
+  country: Philippines
+- name: City Savings Bank
+  swift: CIVAPHM1XXX
+  swift8: CIVAPHM1
+  branch_name: Head Office
+  branch_address: City Savings Financial Plaza 6000 Cebu City
+  branch_code: XXX
+  city: Cebu City
+  country: Philippines
+- name: Citystate Savings Bank, Inc.
+  swift: CIVVPHM1XXX
+  swift8: CIVVPHM1
+  branch_name: Head Office
+  branch_address: Citystate Centre Building 1600 Pasig City
+  branch_code: XXX
+  city: Pasig City
+  country: Philippines
+- name: Citytrust Securities Corp.
+  swift: CITRPHM1XXX
+  swift8: CITRPHM1
+  branch_name: Head Office
+  branch_address: Citytryst Bank Building Manila
+  branch_code: XXX
+  city: Manila
+  country: Philippines
+- name: Commercial Bank Of Manila
+  swift: COBMPHM1XXX
+  swift8: COBMPHM1
+  branch_name: Head Office
+  branch_address: Combank Building Manila
+  branch_code: XXX
+  city: Manila
+  country: Philippines
+- name: Commonwealth Bank/savings And Loan
+  swift: CBSLPHM1XXX
+  swift8: CBSLPHM1
+  branch_name: Head Office
+  branch_address: Shaw Boulevard 718 Mandaluyong Manila
+  branch_code: XXX
+  city: Manila
+  country: Philippines
+- name: Connell Securities Inc.
+  swift: COSCPHM1XXX
+  swift8: COSCPHM1
+  branch_name: Head Office
+  branch_address: 116 Building Manila
+  branch_code: XXX
+  city: Manila
+  country: Philippines
+- name: Corinthian Securities, Inc.
+  swift: CORCPHM1XXX
+  swift8: CORCPHM1
+  branch_name: Head Office
+  branch_address: Zeta Ii Bldg. Manila
+  branch_code: XXX
+  city: Manila
+  country: Philippines
+- name: Country Builders Bank Inc. (a Rural Bank
+  swift: COUKPHM1XXX
+  swift8: COUKPHM1
+  branch_name: Head Office
+  branch_address: 10 General Luna Street, Tuktukan 1637 Taguig City
+  branch_code: XXX
+  city: Taguig City
+  country: Philippines
+- name: Coyiuto Securities Inc.
+  swift: COYIPHM1XXX
+  swift8: COYIPHM1
+  branch_name: Head Office
+  branch_address: Sedcco I Building Manila
+  branch_code: XXX
+  city: Manila
+  country: Philippines
+- name: Credit Lyonnais Securities Philippines Inc
+  swift: CLSAPHM1XXX
+  swift8: CLSAPHM1
+  branch_name: Head Office
+  branch_address: Trafalgar Plaza Manila
+  branch_code: XXX
+  city: Manila
+  country: Philippines
+- name: Credit Manila, Inc.
+  swift: CMANPHM1XXX
+  swift8: CMANPHM1
+  branch_name: Head Office
+  branch_address: Unit A, G/F Marvin Plaza Manila
+  branch_code: XXX
+  city: Manila
+  country: Philippines
+- name: Credit Suisse Securities (philippines) Inc.
+  swift: CRESPHM1XXX
+  swift8: CRESPHM1
+  branch_name: Head Office
+  branch_address: The Enterprise Center 1226 Makati
+  branch_code: XXX
+  city: Makati
+  country: Philippines
+- name: Crosby Securities (phils) Inc.
+  swift: CRSEPHM1XXX
+  swift8: CRSEPHM1
+  branch_name: Head Office
+  branch_address: Rufino Pacific Tower Manila
+  branch_code: XXX
+  city: Manila
+  country: Philippines
+- name: Cualoping Securities Corp
+  swift: CUASPHM1XXX
+  swift8: CUASPHM1
+  branch_name: Head Office
+  branch_address: Tytana Centre Manila
+  branch_code: XXX
+  city: Manila
+  country: Philippines
+- name: Dao Heng Bank Inc.
+  swift: DHBIPHM1XXX
+  swift8: DHBIPHM1
+  branch_name: Head Office
+  branch_address: 146 Pearlbank Center Manila
+  branch_code: XXX
+  city: Manila
+  country: Philippines
+- name: David Go Securities Corp
+  swift: DAVSPHM1XXX
+  swift8: DAVSPHM1
+  branch_name: Head Office
+  branch_address: Federation Centre Building Manila
+  branch_code: XXX
+  city: Manila
+  country: Philippines
+- name: Dbp-daiwa Capital Markets Philippines, Inc.
+  swift: DBSHPHM1XXX
+  swift8: DBSHPHM1
+  branch_name: Head Office
+  branch_address: Citibank Tower 1226 Manila
+  branch_code: XXX
+  city: Manila
+  country: Philippines
+- name: Dbp-daiwa Securities (phils.), Inc.
+  swift: DSPHPHM1XXX
+  swift8: DSPHPHM1
+  branch_name: Head Office
+  branch_address: Citibank Tower 1200 Manila
+  branch_code: XXX
+  city: Manila
+  country: Philippines
+- name: Dbs Securities (phils) Inc
+  swift: DBSPPHM1XXX
+  swift8: DBSPPHM1
+  branch_name: Head Office
+  branch_address: Sage House Manila
+  branch_code: XXX
+  city: Manila
+  country: Philippines
+- name: Deutsche Regis Partners Inc.
+  swift: TWENPHM1XXX
+  swift8: TWENPHM1
+  branch_name: Head Office
+  branch_address: Tower One 1226 Manila
+  branch_code: XXX
+  city: Manila
+  country: Philippines
+- name: Dharmala Securities (phils) Inc
+  swift: DHSPPHM1XXX
+  swift8: DHSPPHM1
+  branch_name: Head Office
+  branch_address: Oppen Building Manila
+  branch_code: XXX
+  city: Manila
+  country: Philippines
+- name: Diversified Securities Inc
+  swift: DIVSPHM1XXX
+  swift8: DIVSPHM1
+  branch_name: Head Office
+  branch_address: Pacific Bank Building Manila
+  branch_code: XXX
+  city: Manila
+  country: Philippines
+- name: Dumaguete City Development Bank,inc
+  swift: DCDEPHM1XXX
+  swift8: DCDEPHM1
+  branch_name: Head Office
+  branch_address: Dcdb Building 6200 Dumaguete
+  branch_code: XXX
+  city: Dumaguete
+  country: Philippines
+- name: Dungganon Bank (a Microfinance Thrift Bank), Inc.
+  swift: DUMTPHM1XXX
+  swift8: DUMTPHM1
+  branch_name: Head Office
+  branch_address: G/F, Nwtf Bldg. 6100 Bacolod City
+  branch_code: XXX
+  city: Bacolod City
+  country: Philippines
+- name: E. Chua Chiaco Securities Inc.
+  swift: CHCSPHM1XXX
+  swift8: CHCSPHM1
+  branch_name: Head Office
+  branch_address: 112 Renta Cor. Juan Luna Street Manila
+  branch_code: XXX
+  city: Manila
+  country: Philippines
+- name: East Coast Rural Bank Of Hagonoy, Inc.
+  swift: ECRHPHM1XXX
+  swift8: ECRHPHM1
+  branch_name: Head Office
+  branch_address: Ecb Building 3002 Hagonoy Bulacan
+  branch_code: XXX
+  city: Hagonoy Bulacan
+  country: Philippines
+- name: East West Capital Corp
+  swift: EAWCPHM1XXX
+  swift8: EAWCPHM1
+  branch_name: Head Office
+  branch_address: 1331 Angono Street Metro Manila Manila
+  branch_code: XXX
+  city: Manila
+  country: Philippines
+- name: Eastern Securities Development Corporation
+  swift: EASDPHM1XXX
+  swift8: EASDPHM1
+  branch_name: Head Office
+  branch_address: Tytana Building Manila
+  branch_code: XXX
+  city: Manila
+  country: Philippines
+- name: Eib Securities, Inc.
+  swift: EISEPHM1XXX
+  swift8: EISEPHM1
+  branch_name: Head Office
+  branch_address: Eib Plaza Manila
+  branch_code: XXX
+  city: Manila
+  country: Philippines
+- name: Enterprise Bank Inc. (a Thrift Bank
+  swift: ENTHPHM1XXX
+  swift8: ENTHPHM1
+  branch_name: Head Office
+  branch_address: Poblacion Lianga Surigao Del Sur
+  branch_code: XXX
+  city: Del Sur
+  country: Philippines
+- name: Entrepreneur Rural Bank, Inc.
+  swift: ENRUPHM1XXX
+  swift8: ENRUPHM1
+  branch_name: Head Office
+  branch_address: A. Mabini 63 4023 San Pedro Laguna
+  branch_code: XXX
+  city: San Pedro
+  country: Philippines
+- name: Equicom Savings Bank, Inc.
+  swift: EQSNPHM1XXX
+  swift8: EQSNPHM1
+  branch_name: Head Office
+  branch_address: G/F Renaissance Office 1229 Makati City
+  branch_code: XXX
+  city: Makati City
+  country: Philippines
+- name: Equitable Securities (phils.) Inc.
+  swift: EQSPPHM1XXX
+  swift8: EQSPPHM1
+  branch_name: Head Office
+  branch_address: Cacho-Gonzalez Bldg Manila
+  branch_code: XXX
+  city: Manila
+  country: Philippines
+- name: Equitiworld Securities Inc.
+  swift: EQUSPHM1XXX
+  swift8: EQUSPHM1
+  branch_name: Head Office
+  branch_address: Y Tower Ii Building Manila
+  branch_code: XXX
+  city: Manila
+  country: Philippines
+- name: Evergreen Stock Brokerage And Securities, Inc.
+  swift: ESBEPHM1XXX
+  swift8: ESBEPHM1
+  branch_name: Head Office
+  branch_address: Tower 1 and Exchange Plaza Manila
+  branch_code: XXX
+  city: Manila
+  country: Philippines
+- name: F. Yap Securities Inc
+  swift: YAPSPHM1XXX
+  swift8: YAPSPHM1
+  branch_name: Head Office
+  branch_address: Tektite Tower 1 Manila
+  branch_code: XXX
+  city: Manila
+  country: Philippines
+- name: Far East Bank And Trust Co, Foreign Currency Deposit Unit (fcdu
+  swift: FEBTPHM1XXX
+  swift8: FEBTPHM1
+  branch_name: Head Office
+  branch_address: Far East Bank Center Manila
+  branch_code: XXX
+  city: Manila
+  country: Philippines
+- name: Filidian Rural Bank Of Antipolo,inc
+  swift: FRUNPHM1XXX
+  swift8: FRUNPHM1
+  branch_name: No branch name
+  branch_address: No branch address
+  branch_code: XXX
+  city: Antipolo
+  country: Philippines
+- name: Finvest Securities Co Inc
+  swift: FINUPHM1XXX
+  swift8: FINUPHM1
+  branch_name: Head Office
+  branch_address: Sage House Building Manila
+  branch_code: XXX
+  city: Manila
+  country: Philippines
+- name: First Integrated Capital Securities, Inc.
+  swift: FICEPHM1XXX
+  swift8: FICEPHM1
+  branch_name: Head Office
+  branch_address: Tower I and Exchange Manila
+  branch_code: XXX
+  city: Manila
+  country: Philippines
+- name: First Metro Securities Brokerage Corporation
+  swift: FMSOPHM1XXX
+  swift8: FMSOPHM1
+  branch_name: Head Office
+  branch_address: Psbank Center 1227 Makati
+  branch_code: XXX
+  city: Makati
+  country: Philippines
+- name: First Orient Securities Inc
+  swift: FIOSPHM1XXX
+  swift8: FIOSPHM1
+  branch_name: Head Office
+  branch_address: Makati Stock Exchange Buidinga Manila
+  branch_code: XXX
+  city: Manila
+  country: Philippines
+- name: First Pacific Bancorp, Llc
+  swift: FPBCPHM1XXX
+  swift8: FPBCPHM1
+  branch_name: Head Office
+  branch_address: Fortune Village 5 Valenzuela
+  branch_code: XXX
+  city: Valenzuela
+  country: Philippines
+- name: First Peninsula Securities Corp
+  swift: FIPSPHM1XXX
+  swift8: FIPSPHM1
+  branch_name: Head Office
+  branch_address: Dona Narcisa Building Manila
+  branch_code: XXX
+  city: Manila
+  country: Philippines
+- name: First Ressources Management And Securities Corporation,the
+  swift: FIRRPHM1XXX
+  swift8: FIRRPHM1
+  branch_name: Head Office
+  branch_address: Royal Match Building Manila
+  branch_code: XXX
+  city: Manila
+  country: Philippines
+- name: Fortune Securities Inc.
+  swift: FOTRPHM1XXX
+  swift8: FOTRPHM1
+  branch_name: Head Office
+  branch_address: Ddic Building Manila
+  branch_code: XXX
+  city: Manila
+  country: Philippines
+- name: Francisco Ortigas Securities Inc
+  swift: FROEPHM1XXX
+  swift8: FROEPHM1
+  branch_name: Head Office
+  branch_address: Ortigas Buiding Manila
+  branch_code: XXX
+  city: Manila
+  country: Philippines
+- name: G And L Securities Co., Inc.
+  swift: SERTPHM1XXX
+  swift8: SERTPHM1
+  branch_name: Head Office
+  branch_address: State Financing Ctr Bldg Manila
+  branch_code: XXX
+  city: Manila
+  country: Philippines
+- name: G.d. Tan And Co Inc
+  swift: TANNPHM1XXX
+  swift8: TANNPHM1
+  branch_name: Head Office
+  branch_address: Jaka Building Manila
+  branch_code: XXX
+  city: Manila
+  country: Philippines
+- name: G.k. Goh Securities (philippines) Inc.
+  swift: GKGSPHM1XXX
+  swift8: GKGSPHM1
+  branch_name: Head Office
+  branch_address: Standard Chartered Bank Building 1226 Manila
+  branch_code: XXX
+  city: Manila
+  country: Philippines
+- name: Ge Money Bank, Inc. (a Savings Bank
+  swift: GEMPPH21XXX
+  swift8: GEMPPH21
+  branch_name: Head Office
+  branch_address: Monte De Piedad St., 1100 Quezon City
+  branch_code: XXX
+  city: Quezon City
+  country: Philippines
+- name: Genesis Global Securities, Inc.
+  swift: GEGSPHM1XXX
+  swift8: GEGSPHM1
+  branch_name: Head Office
+  branch_address: Room 805 Federal Tower Manila
+  branch_code: XXX
+  city: Manila
+  country: Philippines
+- name: Global Business Holdings Inc.
+  swift: PCBAPHM10MB
+  swift8: PCBAPHM1
+  branch_name: Dasmarinas Branch
+  branch_address: 285 Dasmarinas, Binondo Manila
+  branch_code: 0MB
+  city: Manila
+  country: Philippines
+- name: Global Business Holdings Inc.
+  swift: PCBAPHM10MC
+  swift8: PCBAPHM1
+  branch_name: Cebu Branch
+  branch_address: Jose Avenue Corner Sanciangko 6000 Cebu
+  branch_code: 0MC
+  city: Cebu
+  country: Philippines
+- name: Global Business Holdings Inc.
+  swift: PCBAPHM10MD
+  swift8: PCBAPHM1
+  branch_name: Davao Branch
+  branch_address: Claro M. Recto Street 8000 Davao
+  branch_code: 0MD
+  city: Davao
+  country: Philippines
+- name: Global Business Holdings Inc.
+  swift: PCBAPHM10MP
+  swift8: PCBAPHM1
+  branch_name: Port Area Branch
+  branch_address: Manila
+  branch_code: 0MP
+  city: Manila
+  country: Philippines
+- name: Global Business Holdings Inc.
+  swift: PCBAPHM10MQ
+  swift8: PCBAPHM1
+  branch_name: Cubao Branch
+  branch_address: Quezon City
+  branch_code: 0MQ
+  city: Quezon City
+  country: Philippines
+- name: Global Business Holdings Inc.
+  swift: PCBAPHM10MS
+  swift8: PCBAPHM1
+  branch_name: Ortigas Branch
+  branch_address: Ortigas Avenue San Juan
+  branch_code: 0MS
+  city: San Juan
+  country: Philippines
+- name: Global Business Holdings Inc.
+  swift: PCBAPHM1XXX
+  swift8: PCBAPHM1
+  branch_name: Head Office
+  branch_address: Globalbank Centre Manila
+  branch_code: XXX
+  city: Manila
+  country: Philippines
+- name: Globalinks Securities And Stocks, Inc
+  swift: GLSTPHM1XXX
+  swift8: GLSTPHM1
+  branch_name: Head Office
+  branch_address: Belson House Manila
+  branch_code: XXX
+  city: Manila
+  country: Philippines
+- name: Goldstar Securities Inc
+  swift: GOLCPHM1XXX
+  swift8: GOLCPHM1
+  branch_name: Head Office
+  branch_address: Tektite Tower I Manila
+  branch_code: XXX
+  city: Manila
+  country: Philippines
+- name: Gsis Family Bank
+  swift: GSFAPHM1XXX
+  swift8: GSFAPHM1
+  branch_name: Head Office
+  branch_address: Aic Grande Tower 1605 Pasig City
+  branch_code: XXX
+  city: Pasig City
+  country: Philippines
+- name: Guagua Rural Bank, Inc.
+  swift: GRBUPHM1XXX
+  swift8: GRBUPHM1
+  branch_name: No branch name
+  branch_address: No branch address
+  branch_code: XXX
+  city: Guagua
+  country: Philippines
+- name: Guild Securities Inc
+  swift: GUISPHM1XXX
+  swift8: GUISPHM1
+  branch_name: Head Office
+  branch_address: Makati Stock Exchange Buiding Manila
+  branch_code: XXX
+  city: Manila
+  country: Philippines
+- name: Guoco Securities (phils) Inc
+  swift: GUSPPHM1XXX
+  swift8: GUSPPHM1
+  branch_name: Head Office
+  branch_address: Ba-Lepanto Building Manila
+  branch_code: XXX
+  city: Manila
+  country: Philippines
+- name: H.e. Bennett Securities Inc.
+  swift: BENCPHM1XXX
+  swift8: BENCPHM1
+  branch_name: Head Office
+  branch_address: Marvel Building Manila
+  branch_code: XXX
+  city: Manila
+  country: Philippines
+- name: Hang Tsun Securities (phils
+  swift: HTSPPHM1XXX
+  swift8: HTSPPHM1
+  branch_name: Head Office
+  branch_address: Federation Centre Manila
+  branch_code: XXX
+  city: Manila
+  country: Philippines
+- name: Hdi Securities Inc
+  swift: HDISPHM1XXX
+  swift8: HDISPHM1
+  branch_name: Head Office
+  branch_address: Ba-Lepanto Building Manila
+  branch_code: XXX
+  city: Manila
+  country: Philippines
+- name: Highland Securities Phils. Inc.
+  swift: HISHPHM1XXX
+  swift8: HISHPHM1
+  branch_name: Head Office
+  branch_address: Stock Exchange Centre, East Tower Manila
+  branch_code: XXX
+  city: Manila
+  country: Philippines
+- name: Hiyas Banking Corporation
+  swift: HIYCPHM1XXX
+  swift8: HIYCPHM1
+  branch_name: Head Office
+  branch_address: Gov. Fortunato F. Halili Avenue 3022 Sta. Maria
+  branch_code: XXX
+  city: Sta. Maria
+  country: Philippines
+- name: Hk Securities, Inc.
+  swift: SEREPHM1XXX
+  swift8: SEREPHM1
+  branch_name: Head Office
+  branch_address: Ortigas Building Manila
+  branch_code: XXX
+  city: Manila
+  country: Philippines
+- name: Home Savings Bank And Trust Co.
+  swift: HSBTPHM1XXX
+  swift8: HSBTPHM1
+  branch_name: Head Office
+  branch_address: Concepcion Building Manila
+  branch_code: XXX
+  city: Manila
+  country: Philippines
+- name: Hsbc Savings Bank (philipines) Inc.
+  swift: HBPHPHMMXXX
+  swift8: HBPHPHMM
+  branch_name: Head Office
+  branch_address: Peninsula Court Building 1200 Manila
+  branch_code: XXX
+  city: Manila
+  country: Philippines
+- name: I. Ackerman And Co Inc
+  swift: ACKEPHM1XXX
+  swift8: ACKEPHM1
+  branch_name: Head Office
+  branch_address: Makati Stock Exchange Building Manila
+  branch_code: XXX
+  city: Manila
+  country: Philippines
+- name: I.b. Gimenez Securities, Inc.
+  swift: GIMSPHM1XXX
+  swift8: GIMSPHM1
+  branch_name: Head Office
+  branch_address: Ase Centre Manila
+  branch_code: XXX
+  city: Manila
+  country: Philippines
+- name: Igc Securities, Inc.
+  swift: IGCSPHM1XXX
+  swift8: IGCSPHM1
+  branch_name: Head Office
+  branch_address: Tower I and Exchange Plaza Manila
+  branch_code: XXX
+  city: Manila
+  country: Philippines
+- name: Imperial De Guzman, Abalos And Co Inc.
+  swift: IMGAPHM1XXX
+  swift8: IMGAPHM1
+  branch_name: Head Office
+  branch_address: Ddic Building Manila
+  branch_code: XXX
+  city: Manila
+  country: Philippines
+- name: Indosuez W.i. Carr Securities (philippines) Inc.
+  swift: WICAPHM1XXX
+  swift8: WICAPHM1
+  branch_name: Head Office
+  branch_address: Citibank Tower 1200 Manila
+  branch_code: XXX
+  city: Manila
+  country: Philippines
+- name: Insular Life Savings And Trust Co.
+  swift: ILSTPHM1XXX
+  swift8: ILSTPHM1
+  branch_name: Head Office
+  branch_address: Universal Re-Insurance Bldg. 1226 Manila
+  branch_code: XXX
+  city: Manila
+  country: Philippines
+- name: Intra-invest Securities Inc
+  swift: INIEPHM1XXX
+  swift8: INIEPHM1
+  branch_name: Head Office
+  branch_address: Makati Stock Exchange Building Manila
+  branch_code: XXX
+  city: Manila
+  country: Philippines
+- name: Investors Securities Inc
+  swift: INVUPHM1XXX
+  swift8: INVUPHM1
+  branch_name: Head Office
+  branch_address: Unit M-Vi-a Module 6 Manila
+  branch_code: XXX
+  city: Manila
+  country: Philippines
+- name: Isla Bank (a Thrift Bank), Inc.
+  swift: ISTHPHM1XXX
+  swift8: ISTHPHM1
+  branch_name: Head Office
+  branch_address: Sterling Centre 1200 Manila
+  branch_code: XXX
+  city: Manila
+  country: Philippines
+- name: J.m. Barcelon And Co Inc
+  swift: BARNPHM1XXX
+  swift8: BARNPHM1
+  branch_name: Head Office
+  branch_address: Pako Building Manila
+  branch_code: XXX
+  city: Manila
+  country: Philippines
+- name: J.p. Morgan Securities Philippines Inc.
+  swift: CHASPHS1XXX
+  swift8: CHASPHS1
+  branch_name: Head Office
+  branch_address: Philamlife Tower Manila
+  branch_code: XXX
+  city: Manila
+  country: Philippines
+- name: Janiuay Rural Bank, Inc.
+  swift: JARUPHM1XXX
+  swift8: JARUPHM1
+  branch_name: Head Office
+  branch_address: Crispin Salazar Street, Janiuay 5034 Iloilo City
+  branch_code: XXX
+  city: Iloilo City
+  country: Philippines
+- name: Jenn Woei Securities, Inc
+  swift: JEWSPHM1XXX
+  swift8: JEWSPHM1
+  branch_name: Head Office
+  branch_address: Tower One and Exchange Plaza Manila
+  branch_code: XXX
+  city: Manila
+  country: Philippines
+- name: Katipunan Bank (zn), Inc. A Rural Bank
+  swift: KRBFPHM1XXX
+  swift8: KRBFPHM1
+  branch_name: No branch name
+  branch_address: No branch address
+  branch_code: XXX
+  city: Dipolog City
+  country: Philippines
+- name: Keppel Bank Philippines, Inc.
+  swift: KEPHPHM1XXX
+  swift8: KEPHPHM1
+  branch_name: Head Office
+  branch_address: Country Space 1 Building 1200 Manila
+  branch_code: XXX
+  city: Manila
+  country: Philippines
+- name: Keppel Securities Philippines Inc
+  swift: KESPPHM1XXX
+  swift8: KESPPHM1
+  branch_name: Head Office
+  branch_address: Peninsula Court Manila
+  branch_code: XXX
+  city: Manila
+  country: Philippines
+- name: Kerry Securities (phils), Inc.
+  swift: KERSPHM1XXX
+  swift8: KERSPHM1
+  branch_name: Head Office
+  branch_address: Salustiana Tower 1200 Manila
+  branch_code: XXX
+  city: Manila
+  country: Philippines
+- name: Key Securities Inc
+  swift: KEYSPHM1XXX
+  swift8: KEYSPHM1
+  branch_name: Head Office
+  branch_address: Pacific Mansion Building Manila
+  branch_code: XXX
+  city: Manila
+  country: Philippines
+- name: Kim Eng Securities Philippines Inc.
+  swift: KMESPHM1XXX
+  swift8: KMESPHM1
+  branch_name: Head Office
+  branch_address: Pacific Bank Building Manila
+  branch_code: XXX
+  city: Manila
+  country: Philippines
+- name: L.m. Garcia And Associates, Inc.
+  swift: GARSPHM1XXX
+  swift8: GARSPHM1
+  branch_name: Head Office
+  branch_address: Tektite Tower I Manila
+  branch_code: XXX
+  city: Manila
+  country: Philippines
+- name: Larrgo Securities Co Inc
+  swift: LARCPHM1XXX
+  swift8: LARCPHM1
+  branch_name: Head Office
+  branch_address: Rufino Building Manila
+  branch_code: XXX
+  city: Manila
+  country: Philippines
+- name: Legazpi Savings Bank
+  swift: LESIPHM1XXX
+  swift8: LESIPHM1
+  branch_name: Head Office
+  branch_address: Legazpi Savings Bank 4500 Legazpi
+  branch_code: XXX
+  city: Legazpi
+  country: Philippines
+- name: Lipa Bank Inc.-a Rural Bank
+  swift: LIRUPHM1XXX
+  swift8: LIRUPHM1
+  branch_name: Head Office
+  branch_address: T.M. Kalaw St. 4217 Lipa City
+  branch_code: XXX
+  city: Lipa City
+  country: Philippines
+- name: Litonjua Securities Inc
+  swift: LITSPHM1XXX
+  swift8: LITSPHM1
+  branch_name: Head Office
+  branch_address: Ditz Building Manila
+  branch_code: XXX
+  city: Manila
+  country: Philippines
+- name: Lopez, Locsin, Ledesma And Co Inc
+  swift: LOLLPHM1XXX
+  swift8: LOLLPHM1
+  branch_name: Head Office
+  branch_address: Liberty Building Manila
+  branch_code: XXX
+  city: Manila
+  country: Philippines
+- name: Lucky Securities Inc
+  swift: LUCSPHM1XXX
+  swift8: LUCSPHM1
+  branch_name: Head Office
+  branch_address: Tektite Tower 1 Manila
+  branch_code: XXX
+  city: Manila
+  country: Philippines
+- name: Luy's Securities Co Inc
+  swift: LUYSPHM1XXX
+  swift8: LUYSPHM1
+  branch_name: Head Office
+  branch_address: 1000 A. Mabini Street Ermita Manila
+  branch_code: XXX
+  city: Manila
+  country: Philippines
+- name: Luzon Development Bank
+  swift: LUDVPHM1XXX
+  swift8: LUDVPHM1
+  branch_name: Head Office
+  branch_address: El Rico Suites 1200 Manila
+  branch_code: XXX
+  city: Manila
+  country: Philippines
+- name: M.d. Bondoc And Co Inc
+  swift: BONOPHM1XXX
+  swift8: BONOPHM1
+  branch_name: Head Office
+  branch_address: Strata 100 Building Manila
+  branch_code: XXX
+  city: Manila
+  country: Philippines
+- name: Macquarie Capital Securities (philippines) Inc.
+  swift: INBLPHM1XXX
+  swift8: INBLPHM1
+  branch_name: Head Office
+  branch_address: Tower 1, Ayala Triangle 1200 Manila
+  branch_code: XXX
+  city: Manila
+  country: Philippines
+- name: Malayan Bank Savings And Mortgage Bank
+  swift: MAARPHM1XXX
+  swift8: MAARPHM1
+  branch_name: Head Office
+  branch_address: Majalco Building 1229 Manila
+  branch_code: XXX
+  city: Manila
+  country: Philippines
+- name: Mandarin Securities Corp
+  swift: MANUPHM1XXX
+  swift8: MANUPHM1
+  branch_name: Head Office
+  branch_address: 1000 A. Mabini Street Ermita Manila
+  branch_code: XXX
+  city: Manila
+  country: Philippines
+- name: Manila Banking Corp.
+  swift: MABCPHM1XXX
+  swift8: MABCPHM1
+  branch_name: Head Office
+  branch_address: Manilabank Building 1226 Manila
+  branch_code: XXX
+  city: Manila
+  country: Philippines
+- name: Marian Securities Inc
+  swift: MAIEPHM1XXX
+  swift8: MAIEPHM1
+  branch_name: Head Office
+  branch_address: 2272 Pasong Tamo Ext. Makati Metro Manila
+  branch_code: XXX
+  city: Manila
+  country: Philippines
+- name: Mark Securities Corp
+  swift: MAKCPHM1XXX
+  swift8: MAKCPHM1
+  branch_name: Head Office
+  branch_address: Makati Stock Exchange Building Manila
+  branch_code: XXX
+  city: Manila
+  country: Philippines
+- name: Market Capital And Securities Inc
+  swift: MACCPHM1XXX
+  swift8: MACCPHM1
+  branch_name: Head Office
+  branch_address: Corporate Plaza Building Manila
+  branch_code: XXX
+  city: Manila
+  country: Philippines
+- name: Mdr Securities, Inc
+  swift: MDRSPHM1XXX
+  swift8: MDRSPHM1
+  branch_name: Head Office
+  branch_address: Aic-Burgundy Empire Tower Manila
+  branch_code: XXX
+  city: Manila
+  country: Philippines
+- name: Mercantile Securities Corp
+  swift: MERUPHM1XXX
+  swift8: MERUPHM1
+  branch_name: Head Office
+  branch_address: Producers Bank Centre Manila
+  branch_code: XXX
+  city: Manila
+  country: Philippines
+- name: Merchants Savings And Loan Association, Inc.
+  swift: MSLSPHM1XXX
+  swift8: MSLSPHM1
+  branch_name: Head Office
+  branch_address: Rcbc Plaza Yuchengco Tower 1226 Makati City
+  branch_code: XXX
+  city: Makati City
+  country: Philippines
+- name: Meridian Securities Inc
+  swift: MERTPHM1XXX
+  swift8: MERTPHM1
+  branch_name: Head Office
+  branch_address: Tektite Tower I Manila
+  branch_code: XXX
+  city: Manila
+  country: Philippines
+- name: Merrill Lynch Securities Philippines Inc.
+  swift: MLSPPHM1XXX
+  swift8: MLSPPHM1
+  branch_name: Head Office
+  branch_address: Citibank Tower 1226 Manila
+  branch_code: XXX
+  city: Manila
+  country: Philippines
+- name: Metrobank Card Corporation (a Finance Co.
+  swift: MCCEPHM1XXX
+  swift8: MCCEPHM1
+  branch_name: Head Office
+  branch_address: Ayala Avenue 1226 Makati City
+  branch_code: XXX
+  city: Makati City
+  country: Philippines
+- name: Microfinance Maximum Savings Bank,inc.
+  swift: MIMVPHM1XXX
+  swift8: MIMVPHM1
+  branch_name: Head Office
+  branch_address: 54 Oppax Building 5203 Puerto Galera
+  branch_code: XXX
+  city: Puerto
+  country: Philippines
+- name: Morgan Grenfell Phils Sec. Inc.
+  swift: MGPSPHM1XXX
+  swift8: MGPSPHM1
+  branch_name: Head Office
+  branch_address: Makati Stock Exchange Building Manila
+  branch_code: XXX
+  city: Manila
+  country: Philippines
+- name: Mount Peak Securities Inc
+  swift: MOPSPHM1XXX
+  swift8: MOPSPHM1
+  branch_name: Head Office
+  branch_address: C.K. Building Manila
+  branch_code: XXX
+  city: Manila
+  country: Philippines
+- name: Multinational Investment Bancorporation
+  swift: MUIAPHM1XXX
+  swift8: MUIAPHM1
+  branch_name: Head Office
+  branch_address: Rafino Pacific Tower 1226 Manila
+  branch_code: XXX
+  city: Manila
+  country: Philippines
+- name: Municipal Rural Bank Of Libmanan (cs), Inc.
+  swift: MURLPHM1XXX
+  swift8: MURLPHM1
+  branch_name: Head Office
+  branch_address: T. Dilanco St. 4407 Camarines Sur Libmanan
+  branch_code: XXX
+  city: Camarines Sur
+  country: Philippines
+- name: Nestle Business Services Aoa Inc
+  swift: NESNPHMNXXX
+  swift8: NESNPHMN
+  branch_name: Head Office
+  branch_address: Lucky Text Compound, Supima E-Circle Manila
+  branch_code: XXX
+  city: Manila
+  country: Philippines
+- name: New World Securities Inc
+  swift: NEWCPHM1XXX
+  swift8: NEWCPHM1
+  branch_name: Head Office
+  branch_address: Fil-Am Resources Building Manila
+  branch_code: XXX
+  city: Manila
+  country: Philippines
+- name: Nieves Sanchez Inc.
+  swift: NIESPHM1XXX
+  swift8: NIESPHM1
+  branch_name: Head Office
+  branch_address: Trade and Commerce Building Manila
+  branch_code: XXX
+  city: Manila
+  country: Philippines
+- name: Ocbc Securities (philippines) Inc.
+  swift: OSPNPHM1XXX
+  swift8: OSPNPHM1
+  branch_name: Head Office
+  branch_address: C. Phil. Stock Exchange Manila
+  branch_code: XXX
+  city: Manila
+  country: Philippines
+- name: One Network Bank, Inc. (a Rural Bank
+  swift: ONNRPHM1XXX
+  swift8: ONNRPHM1
+  branch_name: Head Office
+  branch_address: Onb Center 8000 Davao City
+  branch_code: XXX
+  city: Davao City
+  country: Philippines
+- name: Optimum Developement Bank. Inc
+  swift: OPDVPHM1XXX
+  swift8: OPDVPHM1
+  branch_name: Head Office
+  branch_address: Worldwide Corporate Center 1552 Mandaluyong City
+  branch_code: XXX
+  city: Mandaluyong City
+  country: Philippines
+- name: Optimum Securities Corp.
+  swift: OPTMPHM1XXX
+  swift8: OPTMPHM1
+  branch_name: Head Office
+  branch_address: Corner United and 2nd Streets Bo Manila
+  branch_code: XXX
+  city: Manila
+  country: Philippines
+- name: Orientrade Securities Inc.
+  swift: ORIEPHM1XXX
+  swift8: ORIEPHM1
+  branch_name: Head Office
+  branch_address: Vernida I Condominium Manila
+  branch_code: XXX
+  city: Manila
+  country: Philippines
+- name: Orix Metro Leasing And Finance Corporation
+  swift: OMLFPHM1XXX
+  swift8: OMLFPHM1
+  branch_name: Head Office
+  branch_address: Gt Tower International 1227 Makati City
+  branch_code: XXX
+  city: Makati City
+  country: Philippines
+- name: Overseas Union Bank Limited, Manila Branch
+  swift: OUBKPHM1XXX
+  swift8: OUBKPHM1
+  branch_name: Head Office
+  branch_address: Corinthian Plaza, Paseo De Roxas Manila
+  branch_code: XXX
+  city: Manila
+  country: Philippines
+- name: Pacific Ace Savings Bank
+  swift: PASVPHM1XXX
+  swift8: PASVPHM1
+  branch_name: No branch name
+  branch_address: No branch address
+  branch_code: XXX
+  city: Olongapo
+  country: Philippines
+- name: Pacific Basin Sec. Co. Inc.
+  swift: PACAPHM1XXX
+  swift8: PACAPHM1
+  branch_name: Head Office
+  branch_address: Y Tower Ii Building Manila
+  branch_code: XXX
+  city: Manila
+  country: Philippines
+- name: Pan Asia Securities Corporation
+  swift: PANIPHM1XXX
+  swift8: PANIPHM1
+  branch_name: Head Office
+  branch_address: Tower 1 and Exchange Plaza Manila
+  branch_code: XXX
+  city: Manila
+  country: Philippines
+- name: Papa Securities Corp.
+  swift: PAPSPHM1XXX
+  swift8: PAPSPHM1
+  branch_name: Head Office
+  branch_address: S and L Building Manila
+  branch_code: XXX
+  city: Manila
+  country: Philippines
+- name: Partner Rural Bank (cotabato), Inc.
+  swift: PRTOPHM1XXX
+  swift8: PRTOPHM1
+  branch_name: Head Office
+  branch_address: Partner Rural Bank Bldg. 9412 Pigcawayan
+  branch_code: XXX
+  city: Pigcawayan
+  country: Philippines
+- name: Pcci Securities Brokers Corporation
+  swift: PSBOPHM1XXX
+  swift8: PSBOPHM1
+  branch_name: No branch name
+  branch_address: No branch address
+  branch_code: XXX
+  city: Makati City
+  country: Philippines
+- name: Pdcp Development Bank
+  swift: PRBPPH21XXX
+  swift8: PRBPPH21
+  branch_name: Head Office
+  branch_address: Bankers Centre Cebu
+  branch_code: XXX
+  city: Cebu
+  country: Philippines
+- name: Pdcp Development Bank
+  swift: PRBPPHM1XXX
+  swift8: PRBPPHM1
+  branch_name: Head Office
+  branch_address: Bankers Centre Manila
+  branch_code: XXX
+  city: Manila
+  country: Philippines
+- name: Peregrine Securities Phils Inc.
+  swift: PESPPHM1XXX
+  swift8: PESPPHM1
+  branch_name: Head Office
+  branch_address: Makati Stock Exchange Building Manila
+  branch_code: XXX
+  city: Manila
+  country: Philippines
+- name: Philippine Business Bank
+  swift: PPBUPHMMXXX
+  swift8: PPBUPHMM
+  branch_name: Head Office
+  branch_address: 350 Rizal Avemue Extension 1400 Caloocan City
+  branch_code: XXX
+  city: Caloocan City
+  country: Philippines
+- name: Philippine Commercial Capital, Inc.
+  swift: PHCCPHM1XXX
+  swift8: PHCCPHM1
+  branch_name: Head Office
+  branch_address: Pcci Corporate Centre 1227 Makati City
+  branch_code: XXX
+  city: Makati City
+  country: Philippines
+- name: Philippine Depository Trust Corp
+  swift: PHCDPHM1XXX
+  swift8: PHCDPHM1
+  branch_name: Head Office
+  branch_address: Makati Stock Exchange Bldg. Manila
+  branch_code: XXX
+  city: Manila
+  country: Philippines
+- name: Philippine Equity Partners Inc.
+  swift: PEQPPHM1XXX
+  swift8: PEQPPHM1
+  branch_name: Head Office
+  branch_address: 19c Citibank Tower 1226 Manila
+  branch_code: XXX
+  city: Manila
+  country: Philippines
+- name: Philippine Postal Corporation
+  swift: PPOSPHM1XXX
+  swift8: PPOSPHM1
+  branch_name: Head Office
+  branch_address: Liwasang Bonifacio 1000 Manila
+  branch_code: XXX
+  city: Manila
+  country: Philippines
+- name: Philippine Postal Savings Bank, Inc
+  swift: PHSVPHM1XXX
+  swift8: PHSVPHM1
+  branch_name: Head Office
+  branch_address: Liwasang Bonifacio 1000 Manila
+  branch_code: XXX
+  city: Manila
+  country: Philippines
+- name: Philippine Stock Exchange, Inc.
+  swift: XPHSPHM1XXX
+  swift8: XPHSPHM1
+  branch_name: Head Office
+  branch_address: Philippine Stock Exchange Center Pasig City
+  branch_code: XXX
+  city: Pasig City
+  country: Philippines
+- name: Philippines Asia Equity Sec. Inc.
+  swift: PAESPHM1XXX
+  swift8: PAESPHM1
+  branch_name: Head Office
+  branch_address: Pacific Star Building 1200 Manila
+  branch_code: XXX
+  city: Manila
+  country: Philippines
+- name: Pierce Interlink Sec. Inc.
+  swift: PIEIPHM1XXX
+  swift8: PIEIPHM1
+  branch_name: Head Office
+  branch_address: Padilla De Los Reyes Building Manila
+  branch_code: XXX
+  city: Manila
+  country: Philippines
+- name: Planbank Rural Bank Of Canlubang Planters, Inc.
+  swift: PRNPPHM1XXX
+  swift8: PRNPPHM1
+  branch_name: Head Office
+  branch_address: National Highway Brgy. Halang 4027 Calamba
+  branch_code: XXX
+  city: Calamba
+  country: Philippines
+- name: Planters Development Bank
+  swift: PLDEPHM1XXX
+  swift8: PLDEPHM1
+  branch_name: Head Office
+  branch_address: Plantersbank Building 1200 Manila
+  branch_code: XXX
+  city: Manila
+  country: Philippines
+- name: Platinum Securities Inc.
+  swift: PLAIPHM1XXX
+  swift8: PLAIPHM1
+  branch_name: Head Office
+  branch_address: Executive Building Centre Manila
+  branch_code: XXX
+  city: Manila
+  country: Philippines
+- name: Pnb Republic Bank
+  swift: RPBAPHM1XXX
+  swift8: RPBAPHM1
+  branch_name: Head Office
+  branch_address: Legaspi Tower 300 1000 Manila
+  branch_code: XXX
+  city: Manila
+  country: Philippines
+- name: Pnb Securities Inc.
+  swift: PNBBPHM1XXX
+  swift8: PNBBPHM1
+  branch_name: Head Office
+  branch_address: Skyland Plaza Manila
+  branch_code: XXX
+  city: Manila
+  country: Philippines
+- name: Premiere Development Bank
+  swift: PRDEPHM1XXX
+  swift8: PRDEPHM1
+  branch_name: Head Office
+  branch_address: Premiere Bank Building 1200 Manila
+  branch_code: XXX
+  city: Manila
+  country: Philippines
+- name: Premium Securities Corp.
+  swift: PREMPHM1XXX
+  swift8: PREMPHM1
+  branch_name: Head Office
+  branch_address: Equitable Bank Building Manila
+  branch_code: XXX
+  city: Manila
+  country: Philippines
+- name: Probity Securities Management Corp.
+  swift: PROTPHM1XXX
+  swift8: PROTPHM1
+  branch_name: Head Office
+  branch_address: Mario Co Building Manila
+  branch_code: XXX
+  city: Manila
+  country: Philippines
+- name: Producers Savings Bank Corporation One San Miguel Avenue
+  swift: PSCOPHM1XXX
+  swift8: PSCOPHM1
+  branch_name: Head Office
+  branch_address: One San Miguel Avenue 00000 Pasig City
+  branch_code: XXX
+  city: Pasig City
+  country: Philippines
+- name: Quality Investment And Securities Corp.
+  swift: QUISPHM1XXX
+  swift8: QUISPHM1
+  branch_name: Head Office
+  branch_address: Tytana Plaza Building Manila
+  branch_code: XXX
+  city: Manila
+  country: Philippines
+- name: Queen City Development Bank
+  swift: QCDFPHM1XXX
+  swift8: QCDFPHM1
+  branch_name: Head Office
+  branch_address: Sky City Tower 5000 Iloilo
+  branch_code: XXX
+  city: Iloilo
+  country: Philippines
+- name: Quezon Capital Rural Bank, Incorporated
+  swift: QCRIPHM1XXX
+  swift8: QCRIPHM1
+  branch_name: Head Office
+  branch_address: Perez Corner C.M. Recto Streets 4301 Lucena City
+  branch_code: XXX
+  city: Lucena City
+  country: Philippines
+- name: R And L Investments, Inc
+  swift: RLINPHM1XXX
+  swift8: RLINPHM1
+  branch_name: Head Office
+  branch_address: 675 Lee Street Manila
+  branch_code: XXX
+  city: Manila
+  country: Philippines
+- name: R. Nubla Securities Inc.
+  swift: NUBLPHM1XXX
+  swift8: NUBLPHM1
+  branch_name: Head Office
+  branch_address: Fil-Am Resources Building Manila
+  branch_code: XXX
+  city: Manila
+  country: Philippines
+- name: R.s. Lim And Co. Inc.
+  swift: LIMSPHM1XXX
+  swift8: LIMSPHM1
+  branch_name: Head Office
+  branch_address: 1509 Galvani Street Manila
+  branch_code: XXX
+  city: Manila
+  country: Philippines
+- name: Rashind Hussain Securities (philippines) Inc
+  swift: RAHSPHM1XXX
+  swift8: RAHSPHM1
+  branch_name: Head Office
+  branch_address: Rufino Pacific Tower 1226 Manila
+  branch_code: XXX
+  city: Manila
+  country: Philippines
+- name: Rbs Asia Securities, Inc.
+  swift: HGASPHM1XXX
+  swift8: HGASPHM1
+  branch_name: Head Office
+  branch_address: Lkg Tower 1286 Manila
+  branch_code: XXX
+  city: Manila
+  country: Philippines
+- name: Rcbc Capital Corporation
+  swift: RCCOPHM1XXX
+  swift8: RCCOPHM1
+  branch_name: Head Office
+  branch_address: Rcbc Plaza, Yuchengco Tower 0727 Manila
+  branch_code: XXX
+  city: Manila
+  country: Philippines
+- name: Rcbc Savings Bank, Inc.
+  swift: RCSAPHM1XXX
+  swift8: RCSAPHM1
+  branch_name: Head Office
+  branch_address: Tower I, Rcbc Plaza 1226 Makati City
+  branch_code: XXX
+  city: Makati City
+  country: Philippines
+- name: Regina Capital Development Corp.
+  swift: REGIPHM1XXX
+  swift8: REGIPHM1
+  branch_name: Head Office
+  branch_address: Manila Bank Building Manila
+  branch_code: XXX
+  city: Manila
+  country: Philippines
+- name: Rfm Capital Limited
+  swift: RFCAPHM1XXX
+  swift8: RFCAPHM1
+  branch_name: Head Office
+  branch_address: Rfm Building Manila
+  branch_code: XXX
+  city: Manila
+  country: Philippines
+- name: Robinsons Bank Corporation
+  swift: ROBPPHMQXXX
+  swift8: ROBPPHMQ
+  branch_name: Head Office
+  branch_address: 129 Edsa Corner Ortigas Quezon City
+  branch_code: XXX
+  city: Quezon City
+  country: Philippines
+- name: Rtg And Co. Inc.
+  swift: RTGCPHM1XXX
+  swift8: RTGCPHM1
+  branch_name: Head Office
+  branch_address: Makati Stock Exchange Building Manila
+  branch_code: XXX
+  city: Manila
+  country: Philippines
+- name: Rural Bank Of Camalig (albay) Inc.
+  swift: RUCAPHM1XXX
+  swift8: RUCAPHM1
+  branch_name: Head Office
+  branch_address: Camalig Bank Corporate Office 4500 Legazpi
+  branch_code: XXX
+  city: Legazpi
+  country: Philippines
+- name: Rural Bank Of Cauayan Inc.
+  swift: RBCYPHM1XXX
+  swift8: RBCYPHM1
+  branch_name: No branch name
+  branch_address: No branch address
+  branch_code: XXX
+  city: Cauayan
+  country: Philippines
+- name: Rural Bank Of Guinobatan, Inc.
+  swift: RUGUPHM1XXX
+  swift8: RUGUPHM1
+  branch_name: Head Office
+  branch_address: Jmh Building 4503 Guinobatan Albay
+  branch_code: XXX
+  city: Guinobatan
+  country: Philippines
+- name: Rural Bank Of Jaen, Inc.
+  swift: RUJAPHM1XXX
+  swift8: RUJAPHM1
+  branch_name: Head Office
+  branch_address: P. Gonzalo St. Apo Esquivel 3109 Jaen
+  branch_code: XXX
+  city: Jaen
+  country: Philippines
+- name: Rural Bank Of Liloy (zn), Inc
+  swift: LILOPHM1XXX
+  swift8: LILOPHM1
+  branch_name: Head Office
+  branch_address: Brgy. Baybay, Liloy 7115 Dipolog City
+  branch_code: XXX
+  city: Dipolog City
+  country: Philippines
+- name: Rural Bank Of Mabalacat, Inc.
+  swift: RUMAPHM1XXX
+  swift8: RUMAPHM1
+  branch_name: Head Office
+  branch_address: No. 107 Mac Arthur Highway, Dau 2010 Mabalacat Pampanga
+  branch_code: XXX
+  city: Mabalacat
+  country: Philippines
+- name: Rural Bank Of New Washington (aklan) Inc.
+  swift: RNWAPHM1XXX
+  swift8: RNWAPHM1
+  branch_name: Head Office
+  branch_address: Venus Avenue 5610 New Washington Aklan
+  branch_code: XXX
+  city: New Washington
+  country: Philippines
+- name: Rural Bank Of Odiongan Inc
+  swift: RUODPHM1XXX
+  swift8: RUODPHM1
+  branch_name: Head Office
+  branch_address: J.P. Rizal Street 4201 Batangas
+  branch_code: XXX
+  city: Batangas
+  country: Philippines
+- name: Rural Bank Of Pagbilao Inc.
+  swift: RUPAPHM1XXX
+  swift8: RUPAPHM1
+  branch_name: Head Office
+  branch_address: Rbpi Centre 4302 Pagbilao
+  branch_code: XXX
+  city: Pagbilao
+  country: Philippines
+- name: Rural Bank Of Pandi (bulacan), Inc.
+  swift: RPBUPHM1XXX
+  swift8: RPBUPHM1
+  branch_name: Head Office
+  branch_address: J.P. Rizal Street 3014 Pandi Bulacan
+  branch_code: XXX
+  city: Pandi
+  country: Philippines
+- name: Rural Bank Of San Jose (camarines Sur), Inc.
+  swift: RSJCPHM1XXX
+  swift8: RSJCPHM1
+  branch_name: Head Office
+  branch_address: Mendoza Street, San Antonio, San Jo 4423 Camarines Sur
+  branch_code: XXX
+  city: Camarines Sur
+  country: Philippines
+- name: Rural Bank Of San Luis (batangas),
+  swift: RSLSPHM1XXX
+  swift8: RSLSPHM1
+  branch_name: Head Office
+  branch_address: Poblacion 4210 San Luis
+  branch_code: XXX
+  city: San Luis
+  country: Philippines
+- name: Rural Bank Of Sta. Ignacia, Inc.
+  swift: RUSGPHM1XXX
+  swift8: RUSGPHM1
+  branch_name: Head Office
+  branch_address: Poblacion East Santa Ignacia
+  branch_code: XXX
+  city: Santa
+  country: Philippines
+- name: Rural Bank Of Tangub City Inc.
+  swift: RUTCPHM1XXX
+  swift8: RUTCPHM1
+  branch_name: No branch name
+  branch_address: No branch address
+  branch_code: XXX
+  city: Tangub
+  country: Philippines
+- name: S.j. Roxas And Company, Inc.
+  swift: SJROPHM1XXX
+  swift8: SJROPHM1
+  branch_name: Head Office
+  branch_address: Tower 1 and Exchange Plaza Manila
+  branch_code: XXX
+  city: Manila
+  country: Philippines
+- name: 'Salisbury Bkt Securities Corporation (formerly: Public Securities Corporation'
+  swift: PUBLPHM1XXX
+  swift8: PUBLPHM1
+  branch_name: Head Office
+  branch_address: Tower One and Exchange Plaza 1226 Makati
+  branch_code: XXX
+  city: Makati
+  country: Philippines
+- name: Samsung Electronics Philippines Corp.
+  swift: SECTPHM15B0
+  swift8: SECTPHM1
+  branch_name: Sepco
+  branch_address: Taguig
+  branch_code: 5B0
+  city: Taguig
+  country: Philippines
+- name: Samsung Electronics Philippines Corp.
+  swift: SECTPHM15B1
+  swift8: SECTPHM1
+  branch_name: Sephil
+  branch_address: Calamba
+  branch_code: 5B1
+  city: Calamba
+  country: Philippines
+- name: Samsung Electronics Philippines Corp.
+  swift: SECTPHM1XXX
+  swift8: SECTPHM1
+  branch_name: Head Office
+  branch_address: Hanjin Building 1634 Taguig
+  branch_code: XXX
+  city: Taguig
+  country: Philippines
+- name: Sapphire Securities Inc.
+  swift: SAPPPHM1XXX
+  swift8: SAPPPHM1
+  branch_name: Head Office
+  branch_address: Bank of Commerce Building Manila
+  branch_code: XXX
+  city: Manila
+  country: Philippines
+- name: Saviour Rural Bank, Inc.
+  swift: SAUAPHM1XXX
+  swift8: SAUAPHM1
+  branch_name: Head Office
+  branch_address: Home Bldg. 2005 Lubao Pampanga
+  branch_code: XXX
+  city: Lubao
+  country: Philippines
+- name: Sb Equities Incorporated
+  swift: EQICPHM1XXX
+  swift8: EQICPHM1
+  branch_name: Head Office
+  branch_address: Security Bank Centre 0719 Manila
+  branch_code: XXX
+  city: Manila
+  country: Philippines
+- name: Secured Bank, Inc.
+  swift: SBRBPHM1XXX
+  swift8: SBRBPHM1
+  branch_name: Head Office
+  branch_address: Capt. Vicente Roa St., 01 9000 Cagayan De Oro City
+  branch_code: XXX
+  city: Cagayan De Oro City
+  country: Philippines
+- name: Securities Specialists Inc.
+  swift: SECLPHM1XXX
+  swift8: SECLPHM1
+  branch_name: Head Office
+  branch_address: Casa Blanca Manila
+  branch_code: XXX
+  city: Manila
+  country: Philippines
+- name: Sg Securities (philippines),inc.
+  swift: SGSEPHM1XXX
+  swift8: SGSEPHM1
+  branch_name: Head Office
+  branch_address: Antel Corporate Centre 1226 Manila
+  branch_code: XXX
+  city: Manila
+  country: Philippines
+- name: Solar Securities Inc.
+  swift: SOLRPHM1XXX
+  swift8: SOLRPHM1
+  branch_name: Head Office
+  branch_address: Tektite Tower I Manila
+  branch_code: XXX
+  city: Manila
+  country: Philippines
+- name: Squire Securities, Inc.
+  swift: SUIRPHM1XXX
+  swift8: SUIRPHM1
+  branch_name: Head Office
+  branch_address: Rm. 314 Mse Bldg. Manila
+  branch_code: XXX
+  city: Manila
+  country: Philippines
+- name: Ssi-systems Standards Incorporated
+  swift: SSSTPHM1XXX
+  swift8: SSSTPHM1
+  branch_name: Head Office
+  branch_address: Republic Glass Building 1039 Manila
+  branch_code: XXX
+  city: Manila
+  country: Philippines
+- name: Standard Securities Corporation
+  swift: STACPHM1XXX
+  swift8: STACPHM1
+  branch_name: Head Office
+  branch_address: Downtown Centre Building Manila
+  branch_code: XXX
+  city: Manila
+  country: Philippines
+- name: State Investment Trust, Inc.
+  swift: STIUPHM1XXX
+  swift8: STIUPHM1
+  branch_name: Head Office
+  branch_address: State Center Ii, Building No. 1 1555 Mandaluyong City
+  branch_code: XXX
+  city: Mandaluyong City
+  country: Philippines
+- name: Sterling Bank Of Asia Inc.
+  swift: STLAPH21XXX
+  swift8: STLAPH21
+  branch_name: Head Office
+  branch_address: Sterling Bank Corporate Center 1500 San Juan
+  branch_code: XXX
+  city: San Juan
+  country: Philippines
+- name: Summa International Bank Ltd.
+  swift: ILBSPHM1XXX
+  swift8: ILBSPHM1
+  branch_name: Head Office
+  branch_address: Bpi Building Manila
+  branch_code: XXX
+  city: Manila
+  country: Philippines
+- name: Summit Rural Bank Of Lipa City, Inc
+  swift: SRLCPHM1XXX
+  swift8: SRLCPHM1
+  branch_name: Head Office
+  branch_address: 50 B. Morada Avenue 4217 Lipa City
+  branch_code: XXX
+  city: Lipa City
+  country: Philippines
+- name: Summit Securities Inc.
+  swift: SUMMPHM1XXX
+  swift8: SUMMPHM1
+  branch_name: Head Office
+  branch_address: Tektite Tower I Manila
+  branch_code: XXX
+  city: Manila
+  country: Philippines
+- name: Sun Savings Bank
+  swift: SUSVPHM1XXX
+  swift8: SUSVPHM1
+  branch_name: Head Office
+  branch_address: Rosalie Building 6045 Talisay City Cebu
+  branch_code: XXX
+  city: Talisay City Cebu
+  country: Philippines
+- name: Supreme Stockbroker Inc.
+  swift: SUPMPHM1XXX
+  swift8: SUPMPHM1
+  branch_name: Head Office
+  branch_address: Valderrama Building Manila
+  branch_code: XXX
+  city: Manila
+  country: Philippines
+- name: Ta Bank Of The Philippines Inc.
+  swift: PHIIPHM1XXX
+  swift8: PHIIPHM1
+  branch_name: Head Office
+  branch_address: Octagon Building Pasig City
+  branch_code: XXX
+  city: Pasig City
+  country: Philippines
+- name: Tansengco And Company Inc.
+  swift: TANGPHM1XXX
+  swift8: TANGPHM1
+  branch_name: Head Office
+  branch_address: Trade and Commerce Building Manila
+  branch_code: XXX
+  city: Manila
+  country: Philippines
+- name: The Palawan Bank (palawan Development Bank, Inc.).
+  swift: PAPDPHM1XXX
+  swift8: PAPDPHM1
+  branch_name: No branch name
+  branch_address: No branch address
+  branch_code: XXX
+  city: Puerto
+  country: Philippines
+- name: The Real Bank (a Thrift Bank), Inc.
+  swift: RETHPHM1XXX
+  swift8: RETHPHM1
+  branch_name: Head Office
+  branch_address: President Tower 1100 Quezon City
+  branch_code: XXX
+  city: Quezon City
+  country: Philippines
+- name: Tiaong Rural Bank, Inc.
+  swift: TRULPHM1XXX
+  swift8: TRULPHM1
+  branch_name: No branch name
+  branch_address: No branch address
+  branch_code: XXX
+  city: Tiaong
+  country: Philippines
+- name: Tower Securities Inc.
+  swift: TOWRPHM1XXX
+  swift8: TOWRPHM1
+  branch_name: Head Office
+  branch_address: Tektite Tower I Manila
+  branch_code: XXX
+  city: Manila
+  country: Philippines
+- name: Toyota Financial Services Philippines, Corp.
+  swift: TFSHPHM1XXX
+  swift8: TFSHPHM1
+  branch_name: Head Office
+  branch_address: Gt Tower International 1226 Makati City
+  branch_code: XXX
+  city: Makati City
+  country: Philippines
+- name: Traders Royal Bank
+  swift: TRBFPHM1XXX
+  swift8: TRBFPHM1
+  branch_name: Head Office
+  branch_address: Kanlaon Towers Manila
+  branch_code: XXX
+  city: Manila
+  country: Philippines
+- name: Trans-asia Securities Inc.
+  swift: TRAAPHM1XXX
+  swift8: TRAAPHM1
+  branch_name: Head Office
+  branch_address: State Centre Building Manila
+  branch_code: XXX
+  city: Manila
+  country: Philippines
+- name: Transnational Securities, Inc
+  swift: TRAOPHM1XXX
+  swift8: TRAOPHM1
+  branch_name: Head Office
+  branch_address: Mary Bachrach Building Manila
+  branch_code: XXX
+  city: Manila
+  country: Philippines
+- name: Trendline Securities Corp.
+  swift: TRENPHM1XXX
+  swift8: TRENPHM1
+  branch_name: Head Office
+  branch_address: Tytana Building Manila
+  branch_code: XXX
+  city: Manila
+  country: Philippines
+- name: Tri-state Securities Inc.
+  swift: TRITPHM1XXX
+  swift8: TRITPHM1
+  branch_name: Head Office
+  branch_address: Tektite Towers I Manila
+  branch_code: XXX
+  city: Manila
+  country: Philippines
+- name: Ubp Securities Inc.
+  swift: UBPPPHM1XXX
+  swift8: UBPPPHM1
+  branch_name: Head Office
+  branch_address: Makati Stock Exchange Building Manila
+  branch_code: XXX
+  city: Manila
+  country: Philippines
+- name: Ubs Securities Philippines Inc
+  swift: SWDEPHM1XXX
+  swift8: SWDEPHM1
+  branch_name: Head Office
+  branch_address: Tower One Manila
+  branch_code: XXX
+  city: Manila
+  country: Philippines
+- name: Ucpb Savings Bank, Inc.
+  swift: UCSVPHM1XXX
+  swift8: UCSVPHM1
+  branch_name: Head Office
+  branch_address: Ucpb Building 1200 Makati City
+  branch_code: XXX
+  city: Makati City
+  country: Philippines
+- name: Ucpb Securities Inc.
+  swift: CPBBPHM1XXX
+  swift8: CPBBPHM1
+  branch_name: Head Office
+  branch_address: Ucpb Building Manila
+  branch_code: XXX
+  city: Manila
+  country: Philippines
+- name: Unicapital Securities,inc.
+  swift: UCSEPHM1XXX
+  swift8: UCSEPHM1
+  branch_name: Head Office
+  branch_address: Majalco Building 1200 Manila
+  branch_code: XXX
+  city: Manila
+  country: Philippines
+- name: Uy-tioco And Co. Inc.
+  swift: TIOCPHM1XXX
+  swift8: TIOCPHM1
+  branch_name: Head Office
+  branch_address: Fil-Am Resources Building Manila
+  branch_code: XXX
+  city: Manila
+  country: Philippines
+- name: Valiant Bank, Inc. (a Rural Bank
+  swift: VARUPHM1XXX
+  swift8: VARUPHM1
+  branch_name: Head Office
+  branch_address: 41 Mabini Street 5000 Iloilo
+  branch_code: XXX
+  city: Iloilo
+  country: Philippines
+- name: Venture Securities Inc.
+  swift: VENTPHM1XXX
+  swift8: VENTPHM1
+  branch_name: Head Office
+  branch_address: Sycip Law All Asia-Leasing Centre Manila
+  branch_code: XXX
+  city: Manila
+  country: Philippines
+- name: Vicente Goquiolay And Co., Inc.
+  swift: VICGPHM1XXX
+  swift8: VICGPHM1
+  branch_name: Head Office
+  branch_address: Downtown Centre Building Manila
+  branch_code: XXX
+  city: Manila
+  country: Philippines
+- name: Vicsal Securities And Stockbrokerage Inc.
+  swift: VICAPHM1XXX
+  swift8: VICAPHM1
+  branch_name: Head Office
+  branch_address: 658 Carlos Palanca Street Manila
+  branch_code: XXX
+  city: Manila
+  country: Philippines
+- name: Wealth Securities Inc
+  swift: WEASPHM1XXX
+  swift8: WEASPHM1
+  branch_name: Head Office
+  branch_address: East Tower 1600 Manila
+  branch_code: XXX
+  city: Manila
+  country: Philippines
+- name: Westin Securities Corp.
+  swift: WESNPHM1XXX
+  swift8: WESNPHM1
+  branch_name: Head Office
+  branch_address: Pse Plaza Manila
+  branch_code: XXX
+  city: Manila
+  country: Philippines
+- name: Wolff And Co. Inc.
+  swift: WOLFPHM1XXX
+  swift8: WOLFPHM1
+  branch_name: Head Office
+  branch_address: Tektite Tower I Manila
+  branch_code: XXX
+  city: Manila
+  country: Philippines
+- name: Womens Rural Bank, Inc.
+  swift: WORUPHM1XXX
+  swift8: WORUPHM1
+  branch_name: No branch name
+  branch_address: No branch address
+  branch_code: XXX
+  city: Batangas
+  country: Philippines
+- name: Wong Securities Corp.
+  swift: WONGPHM1XXX
+  swift8: WONGPHM1
+  branch_name: Head Office
+  branch_address: A. Mabini Street Corner Santa Manila
+  branch_code: XXX
+  city: Manila
+  country: Philippines
+- name: Worldsec International Securities Philippines Inc
+  swift: WISPPHM1XXX
+  swift8: WISPPHM1
+  branch_name: Head Office
+  branch_address: Alpap I Building Manila
+  branch_code: XXX
+  city: Manila
+  country: Philippines
+- name: Yao And Zialcita Inc.
+  swift: YAOZPHM1XXX
+  swift8: YAOZPHM1
+  branch_name: Head Office
+  branch_address: Yao Bldg. Manila
+  branch_code: XXX
+  city: Manila
+  country: Philippines
+- name: Yaptinchay Sec. Inc.
+  swift: YAPTPHM1XXX
+  swift8: YAPTPHM1
+  branch_name: Head Office
+  branch_address: Tektite Tower I Manila
+  branch_code: XXX
+  city: Manila
+  country: Philippines
+- name: Yu And Company, Inc.
+  swift: YUOYPHM1XXX
+  swift8: YUOYPHM1
+  branch_name: Head Office
+  branch_address: Tektite Tower 1 Manila
+  branch_code: XXX
+  city: Manila
+  country: Philippines
+- name: Yu Heng Securities Inc.
+  swift: HENEPHM1XXX
+  swift8: HENEPHM1
+  branch_name: Head Office
+  branch_address: Arca Building Pasay City
+  branch_code: XXX
+  city: Pasay City
+  country: Philippines

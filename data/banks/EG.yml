@@ -1,0 +1,4218 @@
+---
+EG:
+- name: African Export Import Bank
+  swift: AFXMEGCAXXX
+  swift8: AFXMEGCA
+  branch_name: Head Office
+  branch_address: Afreximbank 11757 Cairo
+  branch_code: XXX
+  city: Cairo
+  country: Egypt
+- name: Arab African International Bank
+  swift: ARAIEGCXALE
+  swift8: ARAIEGCX
+  branch_name: Alexandria
+  branch_address: 73 Horea Road Alexandria
+  branch_code: ALE
+  city: Alexandria
+  country: Egypt
+- name: Arab African International Bank
+  swift: ARAIEGCXALF
+  swift8: ARAIEGCX
+  branch_name: Cairo
+  branch_address: 54 D Gomhoria Street Cairo
+  branch_code: ALF
+  city: Cairo
+  country: Egypt
+- name: Arab African International Bank
+  swift: ARAIEGCXALX
+  swift8: ARAIEGCX
+  branch_name: Alexandria Branch
+  branch_address: 24 Bani El-Abbas Street Alexandria
+  branch_code: ALX
+  city: Alexandria
+  country: Egypt
+- name: Arab African International Bank
+  swift: ARAIEGCXASH
+  swift8: ARAIEGCX
+  branch_name: 10th Ramadan Branch
+  branch_address: 3rd Industrial Zone, Area Mcs Cairo
+  branch_code: ASH
+  city: Cairo
+  country: Egypt
+- name: Arab African International Bank
+  swift: ARAIEGCXBRG
+  swift8: ARAIEGCX
+  branch_name: Bourg El Arab
+  branch_address: Banks Area Bourg El Arab
+  branch_code: BRG
+  city: Bourg El Arab
+  country: Egypt
+- name: Arab African International Bank
+  swift: ARAIEGCXCAI
+  swift8: ARAIEGCX
+  branch_name: Cairo Branch
+  branch_address: 44 Abdel Khalek Sarwat Street Cairo
+  branch_code: CAI
+  city: Cairo
+  country: Egypt
+- name: Arab African International Bank
+  swift: ARAIEGCXDOC
+  swift8: ARAIEGCX
+  branch_name: Cairo
+  branch_address: Cairo
+  branch_code: DOC
+  city: Cairo
+  country: Egypt
+- name: Arab African International Bank
+  swift: ARAIEGCXDOK
+  swift8: ARAIEGCX
+  branch_name: Cairo
+  branch_address: 12 Nadi El Said Cairo
+  branch_code: DOK
+  city: Cairo
+  country: Egypt
+- name: Arab African International Bank
+  swift: ARAIEGCXGLF
+  swift8: ARAIEGCX
+  branch_name: Golf Branch
+  branch_address: 13 El Nozha St. Cairo
+  branch_code: GLF
+  city: Cairo
+  country: Egypt
+- name: Arab African International Bank
+  swift: ARAIEGCXGRD
+  swift8: ARAIEGCX
+  branch_name: Cairo
+  branch_address: 8 Ibrahim Nagib Street Cairo
+  branch_code: GRD
+  city: Cairo
+  country: Egypt
+- name: Arab African International Bank
+  swift: ARAIEGCXHEL
+  swift8: ARAIEGCX
+  branch_name: Heliopolis Branch
+  branch_address: 23 Ramsis Street Al-Kourba Cairo
+  branch_code: HEL
+  city: Cairo
+  country: Egypt
+- name: Arab African International Bank
+  swift: ARAIEGCXHLP
+  swift8: ARAIEGCX
+  branch_name: Cairo
+  branch_address: 6 Boutrus Gali Street Cairo
+  branch_code: HLP
+  city: Cairo
+  country: Egypt
+- name: Arab African International Bank
+  swift: ARAIEGCXMAA
+  swift8: ARAIEGCX
+  branch_name: Maadi Branch
+  branch_address: 5, Midan Al Saray Al Koubra - Cairo
+  branch_code: MAA
+  city: Cairo
+  country: Egypt
+- name: Arab African International Bank
+  swift: ARAIEGCXMOH
+  swift8: ARAIEGCX
+  branch_name: Mohandseen Branch
+  branch_address: Cairo
+  branch_code: MOH
+  city: Cairo
+  country: Egypt
+- name: Arab African International Bank
+  swift: ARAIEGCXMRG
+  swift8: ARAIEGCX
+  branch_name: Cairo
+  branch_address: 14 El Margany Cairo
+  branch_code: MRG
+  city: Cairo
+  country: Egypt
+- name: Arab African International Bank
+  swift: ARAIEGCXOCT
+  swift8: ARAIEGCX
+  branch_name: 6th October Branch
+  branch_address: 6th of October
+  branch_code: OCT
+  city: Of October
+  country: Egypt
+- name: Arab African International Bank
+  swift: ARAIEGCXTNT
+  swift8: ARAIEGCX
+  branch_name: Tanta
+  branch_address: 95 Gaish Street Tanta
+  branch_code: TNT
+  city: Tanta
+  country: Egypt
+- name: Arab African International Bank
+  swift: ARAIEGCXTWN
+  swift8: ARAIEGCX
+  branch_name: Cairo
+  branch_address: 19 Kasel El Nil Cairo
+  branch_code: TWN
+  city: Cairo
+  country: Egypt
+- name: Arab African International Bank
+  swift: ARAIEGCXXXX
+  swift8: ARAIEGCX
+  branch_name: Head Office
+  branch_address: 5, Midan Al Saray Al Koubra 115166 Cairo
+  branch_code: XXX
+  city: Cairo
+  country: Egypt
+- name: Arab Bank Plc
+  swift: ARABEGCXALX
+  swift8: ARABEGCX
+  branch_name: Alexandria Branch
+  branch_address: 21 Talaat Harb Street Alexandria
+  branch_code: ALX
+  city: Alexandria
+  country: Egypt
+- name: Arab Bank Plc
+  swift: ARABEGCXAMN
+  swift8: ARABEGCX
+  branch_name: Ali Ameen Branch
+  branch_address: Ali Ameen Street N (Nasr City) Cairo
+  branch_code: AMN
+  city: Cairo
+  country: Egypt
+- name: Arab Bank Plc
+  swift: ARABEGCXCAI
+  swift8: ARABEGCX
+  branch_name: Cairo Branch
+  branch_address: 28 Talat Harb Street Cairo
+  branch_code: CAI
+  city: Cairo
+  country: Egypt
+- name: Arab Bank Plc
+  swift: ARABEGCXCOU
+  swift8: ARABEGCX
+  branch_name: Central Operation Unit
+  branch_address: 54 a El-Gomhoria Street Cairo
+  branch_code: COU
+  city: Cairo
+  country: Egypt
+- name: Arab Bank Plc
+  swift: ARABEGCXDKI
+  swift8: ARABEGCX
+  branch_name: Dokki Branch
+  branch_address: 12814 Cairo
+  branch_code: DKI
+  city: Cairo
+  country: Egypt
+- name: Arab Bank Plc
+  swift: ARABEGCXGMH
+  swift8: ARABEGCX
+  branch_name: El-Gomhoria Branch
+  branch_address: El-Gomhoria Building Cairo
+  branch_code: GMH
+  city: Cairo
+  country: Egypt
+- name: Arab Bank Plc
+  swift: ARABEGCXHEL
+  swift8: ARABEGCX
+  branch_name: Heliopolis Branch
+  branch_address: 49 Beirut Street Heliopolis Cairo
+  branch_code: HEL
+  city: Cairo
+  country: Egypt
+- name: Arab Bank Plc
+  swift: ARABEGCXHGZ
+  swift8: ARABEGCX
+  branch_name: El-Hegaz Branch
+  branch_address: 22 Montaza Street Heliopiless Cairo
+  branch_code: HGZ
+  city: Cairo
+  country: Egypt
+- name: Arab Bank Plc
+  swift: ARABEGCXHRM
+  swift8: ARABEGCX
+  branch_name: Al Haram Branch
+  branch_address: 426 Al Haram Giza
+  branch_code: HRM
+  city: Giza
+  country: Egypt
+- name: Arab Bank Plc
+  swift: ARABEGCXMDI
+  swift8: ARABEGCX
+  branch_name: Maadi Branch
+  branch_address: 31, Street 155, Maadi Cairo
+  branch_code: MDI
+  city: Cairo
+  country: Egypt
+- name: Arab Bank Plc
+  swift: ARABEGCXMHD
+  swift8: ARABEGCX
+  branch_name: El-Mohandesseen Branch
+  branch_address: 50 Geziert El Arab Street Cairo
+  branch_code: MHD
+  city: Cairo
+  country: Egypt
+- name: Arab Bank Plc
+  swift: ARABEGCXMKT
+  swift8: ARABEGCX
+  branch_name: El Mokatam Branch
+  branch_address: El Mokatam Cairo
+  branch_code: MKT
+  city: Cairo
+  country: Egypt
+- name: Arab Bank Plc
+  swift: ARABEGCXNOZ
+  swift8: ARABEGCX
+  branch_name: Arab Bank Plc Nozha
+  branch_address: 19 Nozha Street Ard El-Golf Nasr Cairo
+  branch_code: NOZ
+  city: Cairo
+  country: Egypt
+- name: Arab Bank Plc
+  swift: ARABEGCXNSA
+  swift8: ARABEGCX
+  branch_name: Ali Ameen Branch
+  branch_address: 50 Ameen St. Cairo
+  branch_code: NSA
+  city: Cairo
+  country: Egypt
+- name: Arab Bank Plc
+  swift: ARABEGCXNSR
+  swift8: ARABEGCX
+  branch_name: Nasr Branch
+  branch_address: 41 Al Sanhory Street Cairo
+  branch_code: NSR
+  city: Cairo
+  country: Egypt
+- name: Arab Bank Plc
+  swift: ARABEGCXOCT
+  swift8: ARABEGCX
+  branch_name: 6th of October Branch
+  branch_address: Boray Plaza Towers 6th of October
+  branch_code: OCT
+  city: 6th of October
+  country: Egypt
+- name: Arab Bank Plc
+  swift: ARABEGCXRMD
+  swift8: ARABEGCX
+  branch_name: The Tenth of Ramadan Branch
+  branch_address: 4th Commercial Area the Tenth of Ramadan
+  branch_code: RMD
+  city: The Tenth of Ramadan
+  country: Egypt
+- name: Arab Bank Plc
+  swift: ARABEGCXSAW
+  swift8: ARABEGCX
+  branch_name: El-Thawra Branch
+  branch_address: El-Thawra Street, 42 Giza
+  branch_code: SAW
+  city: Giza
+  country: Egypt
+- name: Arab Bank Plc
+  swift: ARABEGCXSHO
+  swift8: ARABEGCX
+  branch_name: Shoubra Branch
+  branch_address: 19, Dwlatian Street Cairo
+  branch_code: SHO
+  city: Cairo
+  country: Egypt
+- name: Arab Bank Plc
+  swift: ARABEGCXSHR
+  swift8: ARABEGCX
+  branch_name: Sharm-Elsheikh Branch
+  branch_address: Cataract Lialina Resort Sharm El Sheikh
+  branch_code: SHR
+  city: Sharm El Sheikh
+  country: Egypt
+- name: Banque Misr
+  swift: BMISEGCX101
+  swift8: BMISEGCX
+  branch_name: Cairo Branch
+  branch_address: 151 Mohamed Farid Street Cairo
+  branch_code: '101'
+  city: Cairo
+  country: Egypt
+- name: Banque Misr
+  swift: BMISEGCX105
+  swift8: BMISEGCX
+  branch_name: Mostafa Kamel Branch
+  branch_address: 155 Mohamed Farid Street Cairo
+  branch_code: '105'
+  city: Cairo
+  country: Egypt
+- name: Banque Misr
+  swift: BMISEGCX107
+  swift8: BMISEGCX
+  branch_name: Kasr El Nil Branch
+  branch_address: 45 Kasr El Nil Street Cairo
+  branch_code: '107'
+  city: Cairo
+  country: Egypt
+- name: Banque Misr
+  swift: BMISEGCX140
+  swift8: BMISEGCX
+  branch_name: Overseas Branch
+  branch_address: 153 Mohamed Farid Streed Cairo
+  branch_code: '140'
+  city: Cairo
+  country: Egypt
+- name: Banque Misr
+  swift: BMISEGCX155
+  swift8: BMISEGCX
+  branch_name: Cairo
+  branch_address: 10 El Kamel, Mohamed Street Cairo
+  branch_code: '155'
+  city: Cairo
+  country: Egypt
+- name: Banque Misr
+  swift: BMISEGCX371
+  swift8: BMISEGCX
+  branch_name: Mohamed Roushdy Branch
+  branch_address: Ever Green Tower Cairo
+  branch_code: '371'
+  city: Cairo
+  country: Egypt
+- name: Banque Misr
+  swift: BMISEGCX372
+  swift8: BMISEGCX
+  branch_name: Ahmed Orabi Branch
+  branch_address: Manshia Square Alexandria
+  branch_code: '372'
+  city: Alexandria
+  country: Egypt
+- name: Banque Misr
+  swift: BMISEGCX373
+  swift8: BMISEGCX
+  branch_name: El Gomhoria St Branch
+  branch_address: Gulf Tower Port Said
+  branch_code: '373'
+  city: Port Said
+  country: Egypt
+- name: Banque Misr
+  swift: BMISEGCX375
+  swift8: BMISEGCX
+  branch_name: Dar El Kadaa Branch
+  branch_address: 28,26th July Street Cairo
+  branch_code: '375'
+  city: Cairo
+  country: Egypt
+- name: Banque Misr
+  swift: BMISEGCX381
+  swift8: BMISEGCX
+  branch_name: Kasr El Aini Branch
+  branch_address: 106, Kasr El Aini Street Cairo
+  branch_code: '381'
+  city: Cairo
+  country: Egypt
+- name: Banque Misr
+  swift: BMISEGCX388
+  swift8: BMISEGCX
+  branch_name: El Tawfikia Branch
+  branch_address: 4 Orabi Square Cairo
+  branch_code: '388'
+  city: Cairo
+  country: Egypt
+- name: Banque Misr
+  swift: BMISEGCX401
+  swift8: BMISEGCX
+  branch_name: Talaat Harb Main Branch
+  branch_address: 9 Talaat Harb Street Alexandria
+  branch_code: '401'
+  city: Alexandria
+  country: Egypt
+- name: Banque Misr
+  swift: BMISEGCX408
+  swift8: BMISEGCX
+  branch_name: Attareen Branch
+  branch_address: 18 Talaat Harb Street Alexandria
+  branch_code: '408'
+  city: Alexandria
+  country: Egypt
+- name: Banque Misr
+  swift: BMISEGCX413
+  swift8: BMISEGCX
+  branch_name: Port Said Branch
+  branch_address: Sultan Hussein Street Port Said
+  branch_code: '413'
+  city: Port Said
+  country: Egypt
+- name: Banque Misr
+  swift: BMISEGCXALX
+  swift8: BMISEGCX
+  branch_name: Borg El-Selsela
+  branch_address: 9, Road 26 July 21111 Alexandria
+  branch_code: ALX
+  city: Alexandria
+  country: Egypt
+- name: Banque Misr
+  swift: BMISEGCXCOL
+  swift8: BMISEGCX
+  branch_name: 11511 Cairo
+  branch_address: Banque Misr Tower 11511 Cairo
+  branch_code: COL
+  city: Cairo
+  country: Egypt
+- name: Banque Misr
+  swift: BMISEGCXFCC
+  swift8: BMISEGCX
+  branch_name: 11511 Cairo
+  branch_address: Banque Misr Tower 11511 Cairo
+  branch_code: FCC
+  city: Cairo
+  country: Egypt
+- name: Banque Misr
+  swift: BMISEGCXGDR
+  swift8: BMISEGCX
+  branch_name: Cairo
+  branch_address: Banque Misr Tower Cairo
+  branch_code: GDR
+  city: Cairo
+  country: Egypt
+- name: Banque Misr
+  swift: BMISEGCXNIL
+  swift8: BMISEGCX
+  branch_name: Nil Region
+  branch_address: Cairo Plaza Building 11511 Cairo
+  branch_code: NIL
+  city: Cairo
+  country: Egypt
+- name: Banque Misr
+  swift: BMISEGCXTBO
+  swift8: BMISEGCX
+  branch_name: 11511 Cairo
+  branch_address: Banque Misr Tower 11511 Cairo
+  branch_code: TBO
+  city: Cairo
+  country: Egypt
+- name: Mashreq Bank
+  swift: MSHQEGCACBG
+  swift8: MSHQEGCA
+  branch_name: Corporate Bank
+  branch_address: Cairo
+  branch_code: CBG
+  city: Cairo
+  country: Egypt
+- name: Mashreq Bank
+  swift: MSHQEGCARBG
+  swift8: MSHQEGCA
+  branch_name: Retail Bank
+  branch_address: Cairo
+  branch_code: RBG
+  city: Cairo
+  country: Egypt
+- name: Mashreq Bank
+  swift: MSHQEGCATCM
+  swift8: MSHQEGCA
+  branch_name: Treasury
+  branch_address: Cairo
+  branch_code: TCM
+  city: Cairo
+  country: Egypt
+- name: Mashreq Bank
+  swift: MSHQEGCAXXX
+  swift8: MSHQEGCA
+  branch_name: Head Office
+  branch_address: Nile Towers Cairo
+  branch_code: XXX
+  city: Cairo
+  country: Egypt
+- name: National Bank Of Abu Dhabi
+  swift: NBADEGCAACC
+  swift8: NBADEGCA
+  branch_name: Alexandria City
+  branch_address: Alexandria City Center Mall Alexandria
+  branch_code: ACC
+  city: Dhabi / Alexandria
+  country: Egypt
+- name: National Bank Of Abu Dhabi
+  swift: NBADEGCAAKD
+  swift8: NBADEGCA
+  branch_name: Abbas Al Akaad Branch-Nasr City
+  branch_address: 36 Abbas Al Akkad Cairo
+  branch_code: AKD
+  city: Cairo
+  country: Egypt
+- name: National Bank Of Abu Dhabi
+  swift: NBADEGCAALX
+  swift8: NBADEGCA
+  branch_name: Alexandria Branch
+  branch_address: 28 Salah Salem Street Alexandria
+  branch_code: ALX
+  city: Alexandria
+  country: Egypt
+- name: National Bank Of Abu Dhabi
+  swift: NBADEGCAASU
+  swift8: NBADEGCA
+  branch_name: Assiut Branch
+  branch_address: Assuit
+  branch_code: ASU
+  city: Assuit
+  country: Egypt
+- name: National Bank Of Abu Dhabi
+  swift: NBADEGCACHF
+  swift8: NBADEGCA
+  branch_name: Chouifat Branch
+  branch_address: Cairo
+  branch_code: CHF
+  city: Cairo
+  country: Egypt
+- name: National Bank Of Abu Dhabi
+  swift: NBADEGCADMT
+  swift8: NBADEGCA
+  branch_name: Damietta Branch
+  branch_address: Domiat
+  branch_code: DMT
+  city: Domiat
+  country: Egypt
+- name: National Bank Of Abu Dhabi
+  swift: NBADEGCAGZA
+  swift8: NBADEGCA
+  branch_name: Giza Branch
+  branch_address: Nile Tower Cairo
+  branch_code: GZA
+  city: Cairo
+  country: Egypt
+- name: National Bank Of Abu Dhabi
+  swift: NBADEGCAHGZ
+  swift8: NBADEGCA
+  branch_name: El-Hegaz Branch
+  branch_address: Cairo
+  branch_code: HGZ
+  city: Cairo
+  country: Egypt
+- name: National Bank Of Abu Dhabi
+  swift: NBADEGCAHLP
+  swift8: NBADEGCA
+  branch_name: Heliopolis Branch
+  branch_address: 88 El Sawra Street Cairo
+  branch_code: HLP
+  city: Cairo
+  country: Egypt
+- name: National Bank Of Abu Dhabi
+  swift: NBADEGCAHUR
+  swift8: NBADEGCA
+  branch_name: Hurghada Branch
+  branch_address: West Mall Hurghada
+  branch_code: HUR
+  city: Hurghada
+  country: Egypt
+- name: National Bank Of Abu Dhabi
+  swift: NBADEGCALUX
+  swift8: NBADEGCA
+  branch_name: Luxor
+  branch_address: Sonesta St. George Hotel-Luxor Luxor
+  branch_code: LUX
+  city: Luxor
+  country: Egypt
+- name: National Bank Of Abu Dhabi
+  swift: NBADEGCAMAC
+  swift8: NBADEGCA
+  branch_name: Maadi City Center-Elkatamia Road, Maadi
+  branch_address: Maadi
+  branch_code: MAC
+  city: Maadi
+  country: Egypt
+- name: National Bank Of Abu Dhabi
+  swift: NBADEGCAMAD
+  swift8: NBADEGCA
+  branch_name: Maadi Branch
+  branch_address: Cairo
+  branch_code: MAD
+  city: Cairo
+  country: Egypt
+- name: National Bank Of Abu Dhabi
+  swift: NBADEGCAMHD
+  swift8: NBADEGCA
+  branch_name: Mohandessin Branch
+  branch_address: 35 Mohie El Din Aboul Ezz Street Cairo
+  branch_code: MHD
+  city: Cairo
+  country: Egypt
+- name: National Bank Of Abu Dhabi
+  swift: NBADEGCAMNS
+  swift8: NBADEGCA
+  branch_name: Mansoura Branch
+  branch_address: 242 El Gaish Street El Mansoura
+  branch_code: MNS
+  city: El Mansoura
+  country: Egypt
+- name: National Bank Of Abu Dhabi
+  swift: NBADEGCAMRR
+  swift8: NBADEGCA
+  branch_name: Maadi Ring Road Branch
+  branch_address: Maadi
+  branch_code: MRR
+  city: Maadi
+  country: Egypt
+- name: National Bank Of Abu Dhabi
+  swift: NBADEGCAOBR
+  swift8: NBADEGCA
+  branch_name: El Obour City Branch
+  branch_address: Cairo Ismailya Desert Road Cairo
+  branch_code: OBR
+  city: Cairo
+  country: Egypt
+- name: National Bank Of Abu Dhabi
+  swift: NBADEGCAOCT
+  swift8: NBADEGCA
+  branch_name: 6th of October Branch
+  branch_address: 52h Al Mehwar Al Markasi Banking 6th of October
+  branch_code: OCT
+  city: 6th of October
+  country: Egypt
+- name: National Bank Of Abu Dhabi
+  swift: NBADEGCAPSD
+  swift8: NBADEGCA
+  branch_name: Port Said Branch
+  branch_address: El Salam Tower Port Said
+  branch_code: PSD
+  city: Port Said
+  country: Egypt
+- name: National Bank Of Abu Dhabi
+  swift: NBADEGCAPSU
+  swift8: NBADEGCA
+  branch_name: Payments Services Unit-Central Operations Division
+  branch_address: 4 Mamar Behlar Cairo
+  branch_code: PSU
+  city: Cairo
+  country: Egypt
+- name: Bank Of Nova Scotia,the
+  swift: NOSCEGCAXXX
+  swift8: NOSCEGCA
+  branch_name: Head Office
+  branch_address: 3, Ahmed Nessim Street, Giza 11511 Cairo
+  branch_code: XXX
+  city: Cairo
+  country: Egypt
+- name: Rafidain Bank
+  swift: RAFBEGC1XXX
+  swift8: RAFBEGC1
+  branch_name: Head Office
+  branch_address: 114 Tahrir St. Cairo
+  branch_code: XXX
+  city: Cairo
+  country: Egypt
+- name: Abu Dhabi Islamic Bank-egypt
+  swift: ABDIEGCAALX
+  swift8: ABDIEGCA
+  branch_name: Alexandria Branch
+  branch_address: No branch address
+  branch_code: ALX
+  city: Alexandria
+  country: Egypt
+- name: Abu Dhabi Islamic Bank-egypt
+  swift: ABDIEGCAAZH
+  swift8: ABDIEGCA
+  branch_name: El Azhar Branch
+  branch_address: No branch address
+  branch_code: AZH
+  city: Cairo
+  country: Egypt
+- name: Abu Dhabi Islamic Bank-egypt
+  swift: ABDIEGCABLQ
+  swift8: ABDIEGCA
+  branch_name: Bab El Louk Branch
+  branch_address: No branch address
+  branch_code: BLQ
+  city: Cairo
+  country: Egypt
+- name: Abu Dhabi Islamic Bank-egypt
+  swift: ABDIEGCABRS
+  swift8: ABDIEGCA
+  branch_name: El Borsa Branch
+  branch_address: No branch address
+  branch_code: BRS
+  city: Cairo
+  country: Egypt
+- name: Abu Dhabi Islamic Bank-egypt
+  swift: ABDIEGCADKI
+  swift8: ABDIEGCA
+  branch_name: Dokki Islamic Branch
+  branch_address: No branch address
+  branch_code: DKI
+  city: Cairo
+  country: Egypt
+- name: Abu Dhabi Islamic Bank-egypt
+  swift: ABDIEGCADMN
+  swift8: ABDIEGCA
+  branch_name: Damanhour Branch
+  branch_address: No branch address
+  branch_code: DMN
+  city: Damanhour
+  country: Egypt
+- name: Abu Dhabi Islamic Bank-egypt
+  swift: ABDIEGCAGCT
+  swift8: ABDIEGCA
+  branch_name: Garden City Islamic Branch
+  branch_address: No branch address
+  branch_code: GCT
+  city: Cairo
+  country: Egypt
+- name: Abu Dhabi Islamic Bank-egypt
+  swift: ABDIEGCAGZI
+  swift8: ABDIEGCA
+  branch_name: Giza Islamic Branch
+  branch_address: No branch address
+  branch_code: GZI
+  city: Cairo
+  country: Egypt
+- name: Abu Dhabi Islamic Bank-egypt
+  swift: ABDIEGCAHLC
+  swift8: ABDIEGCA
+  branch_name: Heliopolis Commercial Branch
+  branch_address: No branch address
+  branch_code: HLC
+  city: Cairo
+  country: Egypt
+- name: Abu Dhabi Islamic Bank-egypt
+  swift: ABDIEGCAHLI
+  swift8: ABDIEGCA
+  branch_name: Heliopolis Islamic Branch
+  branch_address: No branch address
+  branch_code: HLI
+  city: Cairo
+  country: Egypt
+- name: Abu Dhabi Islamic Bank-egypt
+  swift: ABDIEGCAHLW
+  swift8: ABDIEGCA
+  branch_name: Helwan Branch
+  branch_address: No branch address
+  branch_code: HLW
+  city: Cairo
+  country: Egypt
+- name: Abu Dhabi Islamic Bank-egypt
+  swift: ABDIEGCAKLI
+  swift8: ABDIEGCA
+  branch_name: Qalioub Islamic Branch
+  branch_address: No branch address
+  branch_code: KLI
+  city: Qaliobia
+  country: Egypt
+- name: Abu Dhabi Islamic Bank-egypt
+  swift: ABDIEGCAKSR
+  swift8: ABDIEGCA
+  branch_name: Kasr El Nil Branch
+  branch_address: No branch address
+  branch_code: KSR
+  city: Cairo
+  country: Egypt
+- name: Abu Dhabi Islamic Bank-egypt
+  swift: ABDIEGCAMHD
+  swift8: ABDIEGCA
+  branch_name: Mohandsen Branch
+  branch_address: No branch address
+  branch_code: MHD
+  city: Cairo
+  country: Egypt
+- name: Abu Dhabi Islamic Bank-egypt
+  swift: ABDIEGCAOCT
+  swift8: ABDIEGCA
+  branch_name: 6th October Branch
+  branch_address: No branch address
+  branch_code: OCT
+  city: Cairo
+  country: Egypt
+- name: Abu Dhabi Islamic Bank-egypt
+  swift: ABDIEGCAOPR
+  swift8: ABDIEGCA
+  branch_name: El Opera Branch
+  branch_address: No branch address
+  branch_code: OPR
+  city: Cairo
+  country: Egypt
+- name: Abu Dhabi Islamic Bank-egypt
+  swift: ABDIEGCASHP
+  swift8: ABDIEGCA
+  branch_name: Shoubra El Rheima Islamic Branch
+  branch_address: No branch address
+  branch_code: SHP
+  city: Qaliobia
+  country: Egypt
+- name: Abu Dhabi Islamic Bank-egypt
+  swift: ABDIEGCASWH
+  swift8: ABDIEGCA
+  branch_name: Sawah Branch
+  branch_address: No branch address
+  branch_code: SWH
+  city: Cairo
+  country: Egypt
+- name: Abu Dhabi Islamic Bank-egypt
+  swift: ABDIEGCAXXX
+  swift8: ABDIEGCA
+  branch_name: No branch name
+  branch_address: No branch address
+  branch_code: XXX
+  city: Cairo
+  country: Egypt
+- name: Abu Dhabi Islamic Bank-egypt
+  swift: ABDIEGCAZMK
+  swift8: ABDIEGCA
+  branch_name: Zamalek Branch
+  branch_address: No branch address
+  branch_code: ZMK
+  city: Cairo
+  country: Egypt
+- name: Ahli United Bank (egypt) S.a.e.
+  swift: DEIBEGCX016
+  swift8: DEIBEGCX
+  branch_name: Central Operations
+  branch_address: Ahli United Bank 11835 Cairo
+  branch_code: '016'
+  city: Cairo
+  country: Egypt
+- name: Ahli United Bank (egypt) S.a.e.
+  swift: DEIBEGCX024
+  swift8: DEIBEGCX
+  branch_name: Giza-Dokki Branch
+  branch_address: 22 Adel Hussein Kostom Giza Cairo
+  branch_code: '024'
+  city: Cairo
+  country: Egypt
+- name: Ahli United Bank (egypt) S.a.e.
+  swift: DEIBEGCX032
+  swift8: DEIBEGCX
+  branch_name: Heliopolis Branch
+  branch_address: 15a Al-Ahram Street Cairo
+  branch_code: '032'
+  city: Cairo
+  country: Egypt
+- name: Ahli United Bank (egypt) S.a.e.
+  swift: DEIBEGCX040
+  swift8: DEIBEGCX
+  branch_name: Shubra Branch
+  branch_address: 85 Shubra Street Cairo
+  branch_code: '040'
+  city: Cairo
+  country: Egypt
+- name: Ahli United Bank (egypt) S.a.e.
+  swift: DEIBEGCX059
+  swift8: DEIBEGCX
+  branch_name: Maadi Branch
+  branch_address: Crossing of Street No 79 and No 10 Cairo
+  branch_code: '059'
+  city: Cairo
+  country: Egypt
+- name: Ahli United Bank (egypt) S.a.e.
+  swift: DEIBEGCX075
+  swift8: DEIBEGCX
+  branch_name: Merghany Branch
+  branch_address: Crossing of El-Merghany and Nozha Cairo
+  branch_code: '075'
+  city: Cairo
+  country: Egypt
+- name: Ahli United Bank (egypt) S.a.e.
+  swift: DEIBEGCX083
+  swift8: DEIBEGCX
+  branch_name: Mohandessin Branch
+  branch_address: 64 Gameat El-Dowal El-Arabeya Cairo
+  branch_code: '083'
+  city: Cairo
+  country: Egypt
+- name: Ahli United Bank (egypt) S.a.e.
+  swift: DEIBEGCX110
+  swift8: DEIBEGCX
+  branch_name: Downtown
+  branch_address: 4 Champlion St. Cairo
+  branch_code: '110'
+  city: Cairo
+  country: Egypt
+- name: Ahli United Bank (egypt) S.a.e.
+  swift: DEIBEGCX128
+  swift8: DEIBEGCX
+  branch_name: El-Haram Branch
+  branch_address: 107 El-Haram Street El-Kom El- Cairo
+  branch_code: '128'
+  city: Cairo
+  country: Egypt
+- name: Ahli United Bank (egypt) S.a.e.
+  swift: DEIBEGCX215
+  swift8: DEIBEGCX
+  branch_name: Alexandria Branch
+  branch_address: Saet El-Zohour Square Alexandria
+  branch_code: '215'
+  city: Alexandria
+  country: Egypt
+- name: Ahli United Bank (egypt) S.a.e.
+  swift: DEIBEGCX223
+  swift8: DEIBEGCX
+  branch_name: Sidi-Bishr Branch
+  branch_address: 544 El-Gueish Avenue Ramada Hotel Alexandria
+  branch_code: '223'
+  city: Alexandria
+  country: Egypt
+- name: Ahli United Bank (egypt) S.a.e.
+  swift: DEIBEGCX319
+  swift8: DEIBEGCX
+  branch_name: Tanta Branch
+  branch_address: 1 El-Gueish Square Tanta
+  branch_code: '319'
+  city: Tanta
+  country: Egypt
+- name: Ahli United Bank (egypt) S.a.e.
+  swift: DEIBEGCX518
+  swift8: DEIBEGCX
+  branch_name: El Mansoura Branch
+  branch_address: El Mansoura
+  branch_code: '518'
+  city: El Mansoura
+  country: Egypt
+- name: Ahli United Bank (egypt) S.a.e.
+  swift: DEIBEGCX527
+  swift8: DEIBEGCX
+  branch_name: Domiat Branch
+  branch_address: 122 El-Modereya Domiat
+  branch_code: '527'
+  city: Domiat
+  country: Egypt
+- name: Ahli United Bank (egypt) S.a.e.
+  swift: DEIBEGCX613
+  swift8: DEIBEGCX
+  branch_name: Suez Branch
+  branch_address: El-Gueish Street Suez
+  branch_code: '613'
+  city: Suez
+  country: Egypt
+- name: Ahli United Bank (egypt) S.a.e.
+  swift: DEIBEGCX621
+  swift8: DEIBEGCX
+  branch_name: Port Said Branch
+  branch_address: 11 Saad Zaghloul Street Port Said
+  branch_code: '621'
+  city: Port Said
+  country: Egypt
+- name: Ahli United Bank (egypt) S.a.e.
+  swift: DEIBEGCX718
+  swift8: DEIBEGCX
+  branch_name: El Menia Branch
+  branch_address: El-Gomhorya Street El Menia
+  branch_code: '718'
+  city: El Menia
+  country: Egypt
+- name: Ahli United Bank (egypt) S.a.e.
+  swift: DEIBEGCXXXX
+  swift8: DEIBEGCX
+  branch_name: Head Office
+  branch_address: City Centre, the Fifth Compound 11835 Cairo
+  branch_code: XXX
+  city: Cairo
+  country: Egypt
+- name: Albaraka Bank Egypt
+  swift: ABRKEGC10AL
+  swift8: ABRKEGC1
+  branch_name: 21111 Alexandria
+  branch_address: 8 Beni El Abbas 21111 Alexandria
+  branch_code: 0AL
+  city: Alexandria
+  country: Egypt
+- name: Albaraka Bank Egypt
+  swift: ABRKEGCAAKD
+  swift8: ABRKEGCA
+  branch_name: Akkad Branch
+  branch_address: Akkad Center 11765 Cairo
+  branch_code: AKD
+  city: Cairo
+  country: Egypt
+- name: Albaraka Bank Egypt
+  swift: ABRKEGCAALF
+  swift8: ABRKEGCA
+  branch_name: Alfy Branch
+  branch_address: El Sawra Building 11511 Cairo
+  branch_code: ALF
+  city: Cairo
+  country: Egypt
+- name: Albaraka Bank Egypt
+  swift: ABRKEGCAASH
+  swift8: ABRKEGCA
+  branch_name: 10th Ramadan Branch
+  branch_address: Part 4/a Main City Center 44635 the Tenth of Ramadan
+  branch_code: ASH
+  city: The Tenth of Ramadan
+  country: Egypt
+- name: Albaraka Bank Egypt
+  swift: ABRKEGCAAZA
+  swift8: ABRKEGCA
+  branch_name: Alexandria Branch
+  branch_address: Bany Al Abbas - Azarita 2111 Alexandria
+  branch_code: AZA
+  city: Alexandria
+  country: Egypt
+- name: Albaraka Bank Egypt
+  swift: ABRKEGCABRG
+  swift8: ABRKEGCA
+  branch_name: Borg Al Arab Branch
+  branch_address: Esfb Building 21934 Alexandria
+  branch_code: BRG
+  city: Alexandria
+  country: Egypt
+- name: Albaraka Bank Egypt
+  swift: ABRKEGCACAI
+  swift8: ABRKEGCA
+  branch_name: Garden City Branch
+  branch_address: Itehad El Mohameen Alarab - 11516 Cairo
+  branch_code: CAI
+  city: Cairo
+  country: Egypt
+- name: Albaraka Bank Egypt
+  swift: ABRKEGCACOR
+  swift8: ABRKEGCA
+  branch_name: Correspondants Department
+  branch_address: Esfb Building 12311 Giza
+  branch_code: COR
+  city: Giza
+  country: Egypt
+- name: Albaraka Bank Egypt
+  swift: ABRKEGCADOK
+  swift8: ABRKEGCA
+  branch_name: Dokki Branch
+  branch_address: Esfb Building 12311 Giza
+  branch_code: DOK
+  city: Giza
+  country: Egypt
+- name: Albaraka Bank Egypt
+  swift: ABRKEGCAEZZ
+  swift8: ABRKEGCA
+  branch_name: Mohyee Eldin Abou El Ezz Branch
+  branch_address: Egyptian Saudi Finance Bank 12311 Giza
+  branch_code: EZZ
+  city: Giza
+  country: Egypt
+- name: Albaraka Bank Egypt
+  swift: ABRKEGCAFSL
+  swift8: ABRKEGCA
+  branch_name: King Faisal Branch
+  branch_address: Alsalam Street - Faisal 12566 Giza
+  branch_code: FSL
+  city: Giza
+  country: Egypt
+- name: Albaraka Bank Egypt
+  swift: ABRKEGCAHDW
+  swift8: ABRKEGCA
+  branch_name: International Garden Branch
+  branch_address: No branch address
+  branch_code: HDW
+  city: Cairo
+  country: Egypt
+- name: Albaraka Bank Egypt
+  swift: ABRKEGCALCG
+  swift8: ABRKEGCA
+  branch_name: Lc Department
+  branch_address: Esfb Building 12311 Giza
+  branch_code: LCG
+  city: Giza
+  country: Egypt
+- name: Albaraka Bank Egypt
+  swift: ABRKEGCALSK
+  swift8: ABRKEGCA
+  branch_name: New Maadi Branch
+  branch_address: No branch address
+  branch_code: LSK
+  city: Cairo
+  country: Egypt
+- name: Albaraka Bank Egypt
+  swift: ABRKEGCAMAD
+  swift8: ABRKEGCA
+  branch_name: Maadi Branch
+  branch_address: Waheeb Doos 11728 Cairo
+  branch_code: MAD
+  city: Cairo
+  country: Egypt
+- name: Albaraka Bank Egypt
+  swift: ABRKEGCAMAL
+  swift8: ABRKEGCA
+  branch_name: Financial Department
+  branch_address: Esfb Building 12311 Giza
+  branch_code: MAL
+  city: Giza
+  country: Egypt
+- name: Albaraka Bank Egypt
+  swift: ABRKEGCAMAN
+  swift8: ABRKEGCA
+  branch_name: Mansora Branch
+  branch_address: Al Falaky St. Toreal 35511 Al Mansora
+  branch_code: MAN
+  city: Al Mansora
+  country: Egypt
+- name: Albaraka Bank Egypt
+  swift: ABRKEGCAMNL
+  swift8: ABRKEGCA
+  branch_name: Almanial Branch Cairo
+  branch_address: 83-73 Building Cairo
+  branch_code: MNL
+  city: Cairo
+  country: Egypt
+- name: Albaraka Bank Egypt
+  swift: ABRKEGCAMOH
+  swift8: ABRKEGCA
+  branch_name: Mohandseen Branch
+  branch_address: 45 12411 Giza
+  branch_code: MOH
+  city: Giza
+  country: Egypt
+- name: Albaraka Bank Egypt
+  swift: ABRKEGCAMRG
+  swift8: ABRKEGCA
+  branch_name: Heliopolice Branch
+  branch_address: Al Sayed Al Marghany 11757 Cairo
+  branch_code: MRG
+  city: Cairo
+  country: Egypt
+- name: Alwatany Bank Of Egypt
+  swift: WABAEGCXALX
+  swift8: WABAEGCX
+  branch_name: Alexandria Branch
+  branch_address: 49 Horeya Road Alexandria
+  branch_code: ALX
+  city: Alexandria
+  country: Egypt
+- name: Alwatany Bank Of Egypt
+  swift: WABAEGCXCOR
+  swift8: WABAEGCX
+  branch_name: Cornish Branch
+  branch_address: Garden City Cairo
+  branch_code: COR
+  city: Cairo
+  country: Egypt
+- name: Alwatany Bank Of Egypt
+  swift: WABAEGCXDOK
+  swift8: WABAEGCX
+  branch_name: Dokki Branch for Islamic Operations
+  branch_address: 2 Tahrir Street Cross Sudan Street Cairo
+  branch_code: DOK
+  city: Cairo
+  country: Egypt
+- name: Alwatany Bank Of Egypt
+  swift: WABAEGCXGAL
+  swift8: WABAEGCX
+  branch_name: Algalaa Branch
+  branch_address: 6 Alsad Alali Street, 12612 Giza
+  branch_code: GAL
+  city: Giza
+  country: Egypt
+- name: Alwatany Bank Of Egypt
+  swift: WABAEGCXHAR
+  swift8: WABAEGCX
+  branch_name: Giza-Al Haram Branch
+  branch_address: 1 King Faisal Street Al Haram Cairo
+  branch_code: HAR
+  city: Cairo
+  country: Egypt
+- name: Alwatany Bank Of Egypt
+  swift: WABAEGCXHEL
+  swift8: WABAEGCX
+  branch_name: Heliopolis Branch
+  branch_address: 68 Omar Ebn El Khatab St. Cairo
+  branch_code: HEL
+  city: Cairo
+  country: Egypt
+- name: Alwatany Bank Of Egypt
+  swift: WABAEGCXMNS
+  swift8: WABAEGCX
+  branch_name: Mansoura Branch
+  branch_address: 3 El Falaky Street, Torrel Area 35511 El Mansoura
+  branch_code: MNS
+  city: El Mansoura
+  country: Egypt
+- name: Alwatany Bank Of Egypt
+  swift: WABAEGCXMOH
+  swift8: WABAEGCX
+  branch_name: Mohandseen Branch
+  branch_address: Dr. Fouad Mohy El Deen Square Cairo
+  branch_code: MOH
+  city: Cairo
+  country: Egypt
+- name: Alwatany Bank Of Egypt
+  swift: WABAEGCXNCT
+  swift8: WABAEGCX
+  branch_name: Nasr City Branch
+  branch_address: 54 El Tyaran Street 11371 Cairo
+  branch_code: NCT
+  city: Cairo
+  country: Egypt
+- name: Alwatany Bank Of Egypt
+  swift: WABAEGCXOCT
+  swift8: WABAEGCX
+  branch_name: 6th of October Branch
+  branch_address: First Service Center-Part 1 C 12566 6th of October
+  branch_code: OCT
+  city: Of October
+  country: Egypt
+- name: Alwatany Bank Of Egypt
+  swift: WABAEGCXRAM
+  swift8: WABAEGCX
+  branch_name: The Tenth of Ramadan Branch
+  branch_address: Administrative Building the Tenth of Ramadan
+  branch_code: RAM
+  city: The Tenth of Ramadan
+  country: Egypt
+- name: Alwatany Bank Of Egypt
+  swift: WABAEGCXRML
+  swift8: WABAEGCX
+  branch_name: Alexandria Branch for Islamic Operation
+  branch_address: 52 Saad Zaghloul Street Alexandria
+  branch_code: RML
+  city: Alexandria
+  country: Egypt
+- name: Alwatany Bank Of Egypt
+  swift: WABAEGCXROX
+  swift8: WABAEGCX
+  branch_name: Roxy Branch
+  branch_address: 16, Nehro St. Alandalos Crossing, 11757 Cairo
+  branch_code: ROX
+  city: Cairo
+  country: Egypt
+- name: Alwatany Bank Of Egypt
+  swift: WABAEGCXSAR
+  swift8: WABAEGCX
+  branch_name: Sarwat Branch
+  branch_address: 48-50 Abd El Khalek Sarwat Street Cairo
+  branch_code: SAR
+  city: Cairo
+  country: Egypt
+- name: Alwatany Bank Of Egypt
+  swift: WABAEGCXSOH
+  swift8: WABAEGCX
+  branch_name: Sohag Branch
+  branch_address: Sohag
+  branch_code: SOH
+  city: Sohag
+  country: Egypt
+- name: Alwatany Bank Of Egypt
+  swift: WABAEGCXXXX
+  swift8: WABAEGCX
+  branch_name: Head Office
+  branch_address: Dr. Fouad Mohy El Deen Square Cairo
+  branch_code: XXX
+  city: Cairo
+  country: Egypt
+- name: Alwatany Bank Of Egypt
+  swift: WABAEGCXZAY
+  swift8: WABAEGCX
+  branch_name: El Sheikh Zayed Branch
+  branch_address: Building 48 12556 6th of October
+  branch_code: ZAY
+  city: Of October
+  country: Egypt
+- name: Alwatany Bank Of Egypt
+  swift: WABAEGCXZIZ
+  swift8: WABAEGCX
+  branch_name: Zezinya Branch
+  branch_address: 601 Horeya Road 21613 Alexandria
+  branch_code: ZIZ
+  city: Alexandria
+  country: Egypt
+- name: Arab Banking Corporation Egypt
+  swift: EAABEGC10AL
+  swift8: EAABEGC1
+  branch_name: Alexandria
+  branch_address: Alexandria
+  branch_code: 0AL
+  city: Alexandria
+  country: Egypt
+- name: Arab Banking Corporation Egypt
+  swift: EAABEGCX002
+  swift8: EAABEGCX
+  branch_name: Treasury Back Office
+  branch_address: Cairo
+  branch_code: '002'
+  city: Cairo
+  country: Egypt
+- name: Arab Banking Corporation Egypt
+  swift: EAABEGCX003
+  swift8: EAABEGCX
+  branch_name: Bostan Branch
+  branch_address: 187 Youssef El Geundi Street 12411 Cairo
+  branch_code: '003'
+  city: Cairo
+  country: Egypt
+- name: Arab Banking Corporation Egypt
+  swift: EAABEGCX005
+  swift8: EAABEGCX
+  branch_name: Mohandeseen Branch
+  branch_address: 32 Syria Street 12411 Cairo
+  branch_code: '005'
+  city: Cairo
+  country: Egypt
+- name: Arab Banking Corporation Egypt
+  swift: EAABEGCX007
+  swift8: EAABEGCX
+  branch_name: Nasr City Branch
+  branch_address: 44 Nagaty Serag Street 11787 Cairo
+  branch_code: '007'
+  city: Cairo
+  country: Egypt
+- name: Arab Banking Corporation Egypt
+  swift: EAABEGCX008
+  swift8: EAABEGCX
+  branch_name: Zamalek Branch
+  branch_address: 1 Saleh Ayoub Street 12411 Cairo
+  branch_code: '008'
+  city: Cairo
+  country: Egypt
+- name: Arab Banking Corporation Egypt
+  swift: EAABEGCX010
+  swift8: EAABEGCX
+  branch_name: Alexandria Branch
+  branch_address: 24 Banlel Abbas Street 21111 Alexandria
+  branch_code: '010'
+  city: Alexandria
+  country: Egypt
+- name: Arab Banking Corporation Egypt
+  swift: EAABEGCX011
+  swift8: EAABEGCX
+  branch_name: 6th of October City Branch
+  branch_address: Banks Area 6th of October City 12411 6th of October
+  branch_code: '011'
+  city: 6th of October
+  country: Egypt
+- name: Arab Banking Corporation Egypt
+  swift: EAABEGCX015
+  swift8: EAABEGCX
+  branch_name: Tenth of Ramadan Branch
+  branch_address: 10th of Ramadan City 44629 the Tenth of Ramadan
+  branch_code: '015'
+  city: The Tenth of Ramadan
+  country: Egypt
+- name: Arab Banking Corporation Egypt
+  swift: EAABEGCXXXX
+  swift8: EAABEGCX
+  branch_name: Head Office
+  branch_address: 1 El Saleh Ayoub Street 12411 Cairo
+  branch_code: XXX
+  city: Cairo
+  country: Egypt
+- name: Arab International Bank
+  swift: ARIBEGCX001
+  swift8: ARIBEGCX
+  branch_name: Head Office
+  branch_address: Cairo
+  branch_code: '001'
+  city: Cairo
+  country: Egypt
+- name: Arab International Bank
+  swift: ARIBEGCX002
+  swift8: ARIBEGCX
+  branch_name: Alexandria Branch
+  branch_address: Alexandria
+  branch_code: '002'
+  city: Alexandria
+  country: Egypt
+- name: Arab International Bank
+  swift: ARIBEGCX003
+  swift8: ARIBEGCX
+  branch_name: Tahrir Branch
+  branch_address: Cairo
+  branch_code: '003'
+  city: Cairo
+  country: Egypt
+- name: Arab International Bank
+  swift: ARIBEGCX004
+  swift8: ARIBEGCX
+  branch_name: Nasr City Branch
+  branch_address: Nasr City Cairo
+  branch_code: '004'
+  city: Cairo
+  country: Egypt
+- name: Arab International Bank
+  swift: ARIBEGCX005
+  swift8: ARIBEGCX
+  branch_name: Heliopolice Branch
+  branch_address: Cairo
+  branch_code: '005'
+  city: Cairo
+  country: Egypt
+- name: Arab International Bank
+  swift: ARIBEGCX006
+  swift8: ARIBEGCX
+  branch_name: Port Said Branch
+  branch_address: Port Said
+  branch_code: '006'
+  city: Port Said
+  country: Egypt
+- name: Arab International Bank
+  swift: ARIBEGCX007
+  swift8: ARIBEGCX
+  branch_name: Sarwat Branch
+  branch_address: Cairo
+  branch_code: '007'
+  city: Cairo
+  country: Egypt
+- name: Arab International Bank
+  swift: ARIBEGCX008
+  swift8: ARIBEGCX
+  branch_name: Mohandiseen Branch
+  branch_address: Cairo
+  branch_code: '008'
+  city: Cairo
+  country: Egypt
+- name: Arab International Bank
+  swift: ARIBEGCXLBR
+  swift8: ARIBEGCX
+  branch_name: Local Bank Department
+  branch_address: Cairo
+  branch_code: LBR
+  city: Cairo
+  country: Egypt
+- name: Arab International Bank
+  swift: ARIBEGCXMOP
+  swift8: ARIBEGCX
+  branch_name: Money Oper Dept
+  branch_address: Cairo
+  branch_code: MOP
+  city: Cairo
+  country: Egypt
+- name: Arab International Bank
+  swift: ARIBEGCXXXX
+  swift8: ARIBEGCX
+  branch_name: Head Office
+  branch_address: 35 Abdel Khalek Sarwat Street Cairo
+  branch_code: XXX
+  city: Cairo
+  country: Egypt
+- name: Arab Investment Bank
+  swift: AINBEGCA10R
+  swift8: AINBEGCA
+  branch_name: 10ramadan Branch
+  branch_address: Arish
+  branch_code: 10R
+  city: Arish
+  country: Egypt
+- name: Arab Investment Bank
+  swift: AINBEGCA5ST
+  swift8: AINBEGCA
+  branch_name: 5st Branch
+  branch_address: No branch address
+  branch_code: 5ST
+  city: Cairo
+  country: Egypt
+- name: Arab Investment Bank
+  swift: AINBEGCAALI
+  swift8: AINBEGCA
+  branch_name: Alexandria for Islamic Operation Branch
+  branch_address: 68 El-Horia Street Alexandria
+  branch_code: ALI
+  city: Alexandria
+  country: Egypt
+- name: Arab Investment Bank
+  swift: AINBEGCAALX
+  swift8: AINBEGCA
+  branch_name: Alexandria Branch
+  branch_address: 68 El-Horia Street Alexandria
+  branch_code: ALX
+  city: Alexandria
+  country: Egypt
+- name: Arab Investment Bank
+  swift: AINBEGCACAI
+  swift8: AINBEGCA
+  branch_name: Cairo Branch
+  branch_address: Cairo Sky Building 11511 Cairo
+  branch_code: CAI
+  city: Cairo
+  country: Egypt
+- name: Arab Investment Bank
+  swift: AINBEGCAFSL
+  swift8: AINBEGCA
+  branch_name: Faisal Branch
+  branch_address: 48 Faisal Street, Giza Cairo
+  branch_code: FSL
+  city: Cairo
+  country: Egypt
+- name: Arab Investment Bank
+  swift: AINBEGCAGIZ
+  swift8: AINBEGCA
+  branch_name: Giza Branch
+  branch_address: Sky Center Building Cairo
+  branch_code: GIZ
+  city: Cairo
+  country: Egypt
+- name: Arab Investment Bank
+  swift: AINBEGCAHEL
+  swift8: AINBEGCA
+  branch_name: Heliopolis Branch
+  branch_address: 29 Asmaa Fahmy Street, El-Golf Cairo
+  branch_code: HEL
+  city: Cairo
+  country: Egypt
+- name: Arab Investment Bank
+  swift: AINBEGCAKOR
+  swift8: AINBEGCA
+  branch_name: Kornish Branch
+  branch_address: 1113 Corniche El-Nil Cairo
+  branch_code: KOR
+  city: Cairo
+  country: Egypt
+- name: Arab Investment Bank
+  swift: AINBEGCAMAD
+  swift8: AINBEGCA
+  branch_name: Maadi Branch
+  branch_address: 206 Salah Salem Degla-Maadi Street Cairo
+  branch_code: MAD
+  city: Cairo
+  country: Egypt
+- name: Arab Investment Bank
+  swift: AINBEGCAMAR
+  swift8: AINBEGCA
+  branch_name: 6th of October Branch
+  branch_address: No branch address
+  branch_code: MAR
+  city: Of October
+  country: Egypt
+- name: Arab Investment Bank
+  swift: AINBEGCAMIN
+  swift8: AINBEGCA
+  branch_name: El Menia Branch
+  branch_address: No branch address
+  branch_code: MIN
+  city: El Menia
+  country: Egypt
+- name: Arab Investment Bank
+  swift: AINBEGCAMOH
+  swift8: AINBEGCA
+  branch_name: Mohandesin Branch
+  branch_address: 59 Mosadak Street Giza
+  branch_code: MOH
+  city: Giza
+  country: Egypt
+- name: Arab Investment Bank
+  swift: AINBEGCANSR
+  swift8: AINBEGCA
+  branch_name: Nasr City
+  branch_address: Nasr Center Building Cairo
+  branch_code: NSR
+  city: Cairo
+  country: Egypt
+- name: Arab Investment Bank
+  swift: AINBEGCAOBR
+  swift8: AINBEGCA
+  branch_name: El Obour Branch
+  branch_address: No branch address
+  branch_code: OBR
+  city: Al Obour
+  country: Egypt
+- name: Arab Investment Bank
+  swift: AINBEGCAPSD
+  swift8: AINBEGCA
+  branch_name: Port Said Branch
+  branch_address: Free Port Building Port Said
+  branch_code: PSD
+  city: Port Said
+  country: Egypt
+- name: Arab Investment Bank
+  swift: AINBEGCASHB
+  swift8: AINBEGCA
+  branch_name: Shoubra Branch
+  branch_address: Agha Khantowers Cairo
+  branch_code: SHB
+  city: Cairo
+  country: Egypt
+- name: Arab Investment Bank
+  swift: AINBEGCAXXX
+  swift8: AINBEGCA
+  branch_name: Head Office
+  branch_address: Cairo Sky Building 11511 Cairo
+  branch_code: XXX
+  city: Cairo
+  country: Egypt
+- name: Arab Investment Bank
+  swift: AINBEGCAZMK
+  swift8: AINBEGCA
+  branch_name: Zamalek for Islamic Operation Branch
+  branch_address: 8, El-Mansour Mohamed, Zamalek Cairo
+  branch_code: ZMK
+  city: Cairo
+  country: Egypt
+- name: Bank Audi Sae
+  swift: AUDBEGCAXXX
+  swift8: AUDBEGCA
+  branch_name: Head Office
+  branch_address: 104 El Nile Street, El Dokki Cairo
+  branch_code: XXX
+  city: Cairo
+  country: Egypt
+- name: Bank Of Alexandria S A E
+  swift: ALEXEGCX001
+  swift8: ALEXEGCX
+  branch_name: Alexandria Branch
+  branch_address: 6 Salah Salim Alexandria
+  branch_code: '001'
+  city: Alexandria
+  country: Egypt
+- name: Bank Of Alexandria S A E
+  swift: ALEXEGCX002
+  swift8: ALEXEGCX
+  branch_name: Port Said Branch
+  branch_address: Gomhorea and Gabrty Port Said
+  branch_code: '002'
+  city: Port Said
+  country: Egypt
+- name: Bank Of Alexandria S A E
+  swift: ALEXEGCX003
+  swift8: ALEXEGCX
+  branch_name: Sherif Branch
+  branch_address: Silver Tower Cairo
+  branch_code: '003'
+  city: Cairo
+  country: Egypt
+- name: Bank Of Alexandria S A E
+  swift: ALEXEGCX004
+  swift8: ALEXEGCX
+  branch_name: Muski Branch
+  branch_address: 14 Gohar El Kaed Cairo
+  branch_code: '004'
+  city: Cairo
+  country: Egypt
+- name: Bank Of Alexandria S A E
+  swift: ALEXEGCX005
+  swift8: ALEXEGCX
+  branch_name: Investment Department
+  branch_address: 48/50 Abd El Khalek Sarwat 11511 Cairo
+  branch_code: '005'
+  city: Cairo
+  country: Egypt
+- name: Bank Of Alexandria S A E
+  swift: ALEXEGCXXXX
+  swift8: ALEXEGCX
+  branch_name: Head Office
+  branch_address: 26 Gomhoria Street Cairo
+  branch_code: XXX
+  city: Cairo
+  country: Egypt
+- name: Banque Du Caire
+  swift: BCAIEGCX008
+  swift8: BCAIEGCX
+  branch_name: Plan Department
+  branch_address: Cairo
+  branch_code: '008'
+  city: Cairo
+  country: Egypt
+- name: Banque Du Caire
+  swift: BCAIEGCX011
+  swift8: BCAIEGCX
+  branch_name: Foreign Relations Department
+  branch_address: Cairo
+  branch_code: '011'
+  city: Cairo
+  country: Egypt
+- name: Banque Du Caire
+  swift: BCAIEGCX013
+  swift8: BCAIEGCX
+  branch_name: Settlement Department
+  branch_address: Cairo
+  branch_code: '013'
+  city: Cairo
+  country: Egypt
+- name: Banque Du Caire
+  swift: BCAIEGCX020
+  swift8: BCAIEGCX
+  branch_name: Kasr El-Neel Branch
+  branch_address: Cairo
+  branch_code: '020'
+  city: Cairo
+  country: Egypt
+- name: Banque Du Caire
+  swift: BCAIEGCX030
+  swift8: BCAIEGCX
+  branch_name: 19 Adly Branch
+  branch_address: Cairo
+  branch_code: '030'
+  city: Cairo
+  country: Egypt
+- name: Banque Du Caire
+  swift: BCAIEGCX033
+  swift8: BCAIEGCX
+  branch_name: Awkaf
+  branch_address: Cairo
+  branch_code: '033'
+  city: Cairo
+  country: Egypt
+- name: Banque Du Caire
+  swift: BCAIEGCX034
+  swift8: BCAIEGCX
+  branch_name: Giza-Dokki Branch
+  branch_address: Cairo
+  branch_code: '034'
+  city: Cairo
+  country: Egypt
+- name: Banque Du Caire
+  swift: BCAIEGCX035
+  swift8: BCAIEGCX
+  branch_name: Abbasia Branch
+  branch_address: Cairo
+  branch_code: '035'
+  city: Cairo
+  country: Egypt
+- name: Banque Du Caire
+  swift: BCAIEGCX040
+  swift8: BCAIEGCX
+  branch_name: Alfy Branch
+  branch_address: Cairo
+  branch_code: '040'
+  city: Cairo
+  country: Egypt
+- name: Banque Du Caire
+  swift: BCAIEGCX045
+  swift8: BCAIEGCX
+  branch_name: Sarwat Branch
+  branch_address: Cairo
+  branch_code: '045'
+  city: Cairo
+  country: Egypt
+- name: Banque Du Caire
+  swift: BCAIEGCX055
+  swift8: BCAIEGCX
+  branch_name: Talaat Harb
+  branch_address: Cairo
+  branch_code: '055'
+  city: Cairo
+  country: Egypt
+- name: Banque Du Caire
+  swift: BCAIEGCX060
+  swift8: BCAIEGCX
+  branch_name: Azhar Branch
+  branch_address: Cairo
+  branch_code: '060'
+  city: Cairo
+  country: Egypt
+- name: Banque Du Caire
+  swift: BCAIEGCX070
+  swift8: BCAIEGCX
+  branch_name: Helioplis Branch
+  branch_address: Cairo
+  branch_code: '070'
+  city: Cairo
+  country: Egypt
+- name: Banque Du Caire
+  swift: BCAIEGCX072
+  swift8: BCAIEGCX
+  branch_name: Horriya
+  branch_address: Cairo
+  branch_code: '072'
+  city: Cairo
+  country: Egypt
+- name: Banque Du Caire
+  swift: BCAIEGCX073
+  swift8: BCAIEGCX
+  branch_name: Lakkany
+  branch_address: Cairo
+  branch_code: '073'
+  city: Cairo
+  country: Egypt
+- name: Banque Du Caire
+  swift: BCAIEGCX080
+  swift8: BCAIEGCX
+  branch_name: Saida Zainab Branch
+  branch_address: Cairo
+  branch_code: '080'
+  city: Cairo
+  country: Egypt
+- name: Banque Du Caire
+  swift: BCAIEGCX085
+  swift8: BCAIEGCX
+  branch_name: Midan Elsaida
+  branch_address: Cairo
+  branch_code: '085'
+  city: Cairo
+  country: Egypt
+- name: Banque Du Caire
+  swift: BCAIEGCX090
+  swift8: BCAIEGCX
+  branch_name: Ramsis Branch
+  branch_address: Cairo
+  branch_code: '090'
+  city: Cairo
+  country: Egypt
+- name: Banque Du Caire
+  swift: BCAIEGCX095
+  swift8: BCAIEGCX
+  branch_name: 26 Jul Branch
+  branch_address: Cairo
+  branch_code: '095'
+  city: Cairo
+  country: Egypt
+- name: Banque Du Caire
+  swift: BCAIEGCX100
+  swift8: BCAIEGCX
+  branch_name: Shoubra Branch
+  branch_address: Cairo
+  branch_code: '100'
+  city: Cairo
+  country: Egypt
+- name: Barclays Bank-egypt S.a.e.
+  swift: BCBIEGCX003
+  swift8: BCBIEGCX
+  branch_name: Alexandria Branch
+  branch_address: 10 El Fawatem Street Azarita Alexandria
+  branch_code: '003'
+  city: Alexandria
+  country: Egypt
+- name: Barclays Bank-egypt S.a.e.
+  swift: BCBIEGCX004
+  swift8: BCBIEGCX
+  branch_name: Nasr City Branch
+  branch_address: 52 Abass El Akad Street Nasr City Cairo
+  branch_code: '004'
+  city: Cairo
+  country: Egypt
+- name: Barclays Bank-egypt S.a.e.
+  swift: BCBIEGCX005
+  swift8: BCBIEGCX
+  branch_name: Mohandesien Branch
+  branch_address: 51 El Hegaz Street Mohandesien Cairo
+  branch_code: '005'
+  city: Cairo
+  country: Egypt
+- name: Barclays Bank-egypt S.a.e.
+  swift: BCBIEGCXXXX
+  swift8: BCBIEGCX
+  branch_name: Head Office
+  branch_address: 12 Medan El Shiekh Youssef - Cairo
+  branch_code: XXX
+  city: Cairo
+  country: Egypt
+- name: Beltone Securities Brokerage S.a.e
+  swift: BELTEGCABAM
+  swift8: BELTEGCA
+  branch_name: Beltone Am
+  branch_address: Cairo
+  branch_code: BAM
+  city: Cairo
+  country: Egypt
+- name: Beltone Securities Brokerage S.a.e
+  swift: BELTEGCAXXX
+  swift8: BELTEGCA
+  branch_name: Head Office
+  branch_address: Isis Building 11451 Cairo
+  branch_code: XXX
+  city: Cairo
+  country: Egypt
+- name: Blom Bank Egypt S.a.e.
+  swift: MRBAEGCBXXX
+  swift8: MRBAEGCB
+  branch_name: Head Office
+  branch_address: Dora Tower Giza
+  branch_code: XXX
+  city: Giza
+  country: Egypt
+- name: Blom Bank Egypt S.a.e.
+  swift: MRBAEGCX002
+  swift8: MRBAEGCX
+  branch_name: Zamalek Branch
+  branch_address: Cairo
+  branch_code: '002'
+  city: Cairo
+  country: Egypt
+- name: Blom Bank Egypt S.a.e.
+  swift: MRBAEGCX003
+  swift8: MRBAEGCX
+  branch_name: Sporting Branch
+  branch_address: Alexandria
+  branch_code: '003'
+  city: Alexandria
+  country: Egypt
+- name: Blom Bank Egypt S.a.e.
+  swift: MRBAEGCX004
+  swift8: MRBAEGCX
+  branch_name: Heliopolis Branch
+  branch_address: Cairo
+  branch_code: '004'
+  city: Cairo
+  country: Egypt
+- name: Blom Bank Egypt S.a.e.
+  swift: MRBAEGCX005
+  swift8: MRBAEGCX
+  branch_name: Mohandseen Branch
+  branch_address: Cairo
+  branch_code: '005'
+  city: Cairo
+  country: Egypt
+- name: Blom Bank Egypt S.a.e.
+  swift: MRBAEGCX006
+  swift8: MRBAEGCX
+  branch_name: Alexandria Branch
+  branch_address: Alexandria
+  branch_code: '006'
+  city: Alexandria
+  country: Egypt
+- name: Blom Bank Egypt S.a.e.
+  swift: MRBAEGCX007
+  swift8: MRBAEGCX
+  branch_name: Hurghada Branch
+  branch_address: Hurghada
+  branch_code: '007'
+  city: Hurghada
+  country: Egypt
+- name: Blom Bank Egypt S.a.e.
+  swift: MRBAEGCX008
+  swift8: MRBAEGCX
+  branch_name: Opera Branch
+  branch_address: Cairo
+  branch_code: '008'
+  city: Cairo
+  country: Egypt
+- name: Blom Bank Egypt S.a.e.
+  swift: MRBAEGCX009
+  swift8: MRBAEGCX
+  branch_name: Nasr City Branch
+  branch_address: El Akkad Mall 11371 Cairo
+  branch_code: '009'
+  city: Cairo
+  country: Egypt
+- name: Blom Bank Egypt S.a.e.
+  swift: MRBAEGCX010
+  swift8: MRBAEGCX
+  branch_name: Maadi
+  branch_address: Maadi
+  branch_code: '010'
+  city: Maadi
+  country: Egypt
+- name: Blom Bank Egypt S.a.e.
+  swift: MRBAEGCX011
+  swift8: MRBAEGCX
+  branch_name: Sharm Elsheikh
+  branch_address: Sharm El Sheikh
+  branch_code: '011'
+  city: Sharm El Sheikh
+  country: Egypt
+- name: Blom Bank Egypt S.a.e.
+  swift: MRBAEGCX012
+  swift8: MRBAEGCX
+  branch_name: Dokki
+  branch_address: Giza
+  branch_code: '012'
+  city: Giza
+  country: Egypt
+- name: Blom Bank Egypt S.a.e.
+  swift: MRBAEGCX013
+  swift8: MRBAEGCX
+  branch_name: Shatby
+  branch_address: Alexandria
+  branch_code: '013'
+  city: Alexandria
+  country: Egypt
+- name: Blom Bank Egypt S.a.e.
+  swift: MRBAEGCX014
+  swift8: MRBAEGCX
+  branch_name: 6 Th October
+  branch_address: 6th of October
+  branch_code: '014'
+  city: Of October
+  country: Egypt
+- name: Blom Bank Egypt S.a.e.
+  swift: MRBAEGCX015
+  swift8: MRBAEGCX
+  branch_name: Mansora
+  branch_address: Mansura
+  branch_code: '015'
+  city: Mansura
+  country: Egypt
+- name: Blom Bank Egypt S.a.e.
+  swift: MRBAEGCX016
+  swift8: MRBAEGCX
+  branch_name: Abbasia
+  branch_address: Cairo
+  branch_code: '016'
+  city: Cairo
+  country: Egypt
+- name: Blom Bank Egypt S.a.e.
+  swift: MRBAEGCX017
+  swift8: MRBAEGCX
+  branch_name: Domyat
+  branch_address: Domiat
+  branch_code: '017'
+  city: Domiat
+  country: Egypt
+- name: Blom Bank Egypt S.a.e.
+  swift: MRBAEGCX018
+  swift8: MRBAEGCX
+  branch_name: Ismailia
+  branch_address: Ismailia
+  branch_code: '018'
+  city: Ismailia
+  country: Egypt
+- name: Blom Bank Egypt S.a.e.
+  swift: MRBAEGCX019
+  swift8: MRBAEGCX
+  branch_name: Shoubra
+  branch_address: Cairo
+  branch_code: '019'
+  city: Cairo
+  country: Egypt
+- name: Blom Bank Egypt S.a.e.
+  swift: MRBAEGCX020
+  swift8: MRBAEGCX
+  branch_name: Montaza
+  branch_address: Alexandria
+  branch_code: '020'
+  city: Alexandria
+  country: Egypt
+- name: Central Bank Of Egypt Cairo
+  swift: CBEGEGCAALX
+  swift8: CBEGEGCA
+  branch_name: Cbe Alexandria Branch
+  branch_address: Alexandria Building 11511 Cairo
+  branch_code: ALX
+  city: Cairo
+  country: Egypt
+- name: Central Bank Of Egypt Cairo
+  swift: CBEGEGCAASA
+  swift8: CBEGEGCA
+  branch_name: Cbe as an Asa Test and Trainning
+  branch_address: Gamhoria 11511 Cairo
+  branch_code: ASA
+  city: Cairo
+  country: Egypt
+- name: Central Bank Of Egypt Cairo
+  swift: CBEGEGCABES
+  swift8: CBEGEGCA
+  branch_name: Book Entry System Test and Trainning
+  branch_address: Gamhoria 11511 Cairo
+  branch_code: BES
+  city: Cairo
+  country: Egypt
+- name: Central Bank Of Egypt Cairo
+  swift: CBEGEGCACCP
+  swift8: CBEGEGCA
+  branch_name: Ccp for the Rtgs
+  branch_address: El Gamhoria 11511 Cairo
+  branch_code: CCP
+  city: Cairo
+  country: Egypt
+- name: Central Bank Of Egypt Cairo
+  swift: CBEGEGCAPRT
+  swift8: CBEGEGCA
+  branch_name: Cbe Port Said Branch
+  branch_address: Port Said Building 11511 Cairo
+  branch_code: PRT
+  city: Cairo
+  country: Egypt
+- name: Central Bank Of Egypt Cairo
+  swift: CBEGEGCX001
+  swift8: CBEGEGCX
+  branch_name: The Ach
+  branch_address: Misr Bank Tower 11511 Cairo
+  branch_code: '001'
+  city: Cairo
+  country: Egypt
+- name: Central Bank Of Egypt Cairo
+  swift: CBEGEGCX002
+  swift8: CBEGEGCX
+  branch_name: The Tia
+  branch_address: Gomhoria 11511 Cairo
+  branch_code: '002'
+  city: Cairo
+  country: Egypt
+- name: Central Bank Of Egypt Cairo
+  swift: CBEGEGCXALX
+  swift8: CBEGEGCX
+  branch_name: Alexandria Branch
+  branch_address: Alexandria
+  branch_code: ALX
+  city: Alexandria
+  country: Egypt
+- name: Central Bank Of Egypt Cairo
+  swift: CBEGEGCXASA
+  swift8: CBEGEGCX
+  branch_name: Cbe as an Asa
+  branch_address: Gamhoria 11511 Cairo
+  branch_code: ASA
+  city: Cairo
+  country: Egypt
+- name: Central Bank Of Egypt Cairo
+  swift: CBEGEGCXBES
+  swift8: CBEGEGCX
+  branch_name: Book Entry System
+  branch_address: Gamhoria 11511 Cairo
+  branch_code: BES
+  city: Cairo
+  country: Egypt
+- name: Central Bank Of Egypt Cairo
+  swift: CBEGEGCXBKO
+  swift8: CBEGEGCX
+  branch_name: Back Office for Dealing Room
+  branch_address: Cairo
+  branch_code: BKO
+  city: Cairo
+  country: Egypt
+- name: Central Bank Of Egypt Cairo
+  swift: CBEGEGCXCCP
+  swift8: CBEGEGCX
+  branch_name: The Ccp for the Rtgs
+  branch_address: El Gamhoria 11511 Cairo
+  branch_code: CCP
+  city: Cairo
+  country: Egypt
+- name: Central Bank Of Egypt Cairo
+  swift: CBEGEGCXPOS
+  swift8: CBEGEGCX
+  branch_name: Port Said Branch
+  branch_address: Port Said
+  branch_code: POS
+  city: Port Said
+  country: Egypt
+- name: Central Bank Of Egypt Cairo
+  swift: CBEGEGCXSMK
+  swift8: CBEGEGCX
+  branch_name: Securities Department
+  branch_address: 31, Kaser El Nile Street 11511 Cairo
+  branch_code: SMK
+  city: Cairo
+  country: Egypt
+- name: Central Bank Of Egypt Cairo
+  swift: CBEGEGCXXXX
+  swift8: CBEGEGCX
+  branch_name: Head Office
+  branch_address: 31 Kaser El Nile Street Cairo
+  branch_code: XXX
+  city: Cairo
+  country: Egypt
+- name: Chase Manhattan Bank, Cairo
+  swift: CHASEGC1XXX
+  swift8: CHASEGC1
+  branch_name: Head Office
+  branch_address: Cairo
+  branch_code: XXX
+  city: Cairo
+  country: Egypt
+- name: Citibank Cairo
+  swift: CITIEGCXALE
+  swift8: CITIEGCX
+  branch_name: Alexandria
+  branch_address: Alexandria
+  branch_code: ALE
+  city: Alexandria
+  country: Egypt
+- name: Citibank Cairo
+  swift: CITIEGCXTRD
+  swift8: CITIEGCX
+  branch_name: Trade Services Department
+  branch_address: Cairo
+  branch_code: TRD
+  city: Cairo
+  country: Egypt
+- name: Citibank Cairo
+  swift: CITIEGCXXXX
+  swift8: CITIEGCX
+  branch_name: Head Office
+  branch_address: 4 Ahmed Pasha Street Garden City 188 Cairo
+  branch_code: XXX
+  city: Cairo
+  country: Egypt
+- name: Commercial International Bank (egypt) S.a.e.
+  swift: CIBEEGCX001
+  swift8: CIBEEGCX
+  branch_name: Giza Branch
+  branch_address: Nile Tower Buidling Giza
+  branch_code: '001'
+  city: Giza
+  country: Egypt
+- name: Commercial International Bank (egypt) S.a.e.
+  swift: CIBEEGCX002
+  swift8: CIBEEGCX
+  branch_name: Port Said Branch
+  branch_address: Killany Building Port Said
+  branch_code: '002'
+  city: Port Said
+  country: Egypt
+- name: Commercial International Bank (egypt) S.a.e.
+  swift: CIBEEGCX003
+  swift8: CIBEEGCX
+  branch_name: Sultan Hussein Branch
+  branch_address: 61 Sultan Hussein Street Azaritta Alexandria
+  branch_code: '003'
+  city: Alexandria
+  country: Egypt
+- name: Commercial International Bank (egypt) S.a.e.
+  swift: CIBEEGCX004
+  swift8: CIBEEGCX
+  branch_name: Mohandessein Branch
+  branch_address: Gameat Al Dowal Al Arabia Street Cairo
+  branch_code: '004'
+  city: Cairo
+  country: Egypt
+- name: Commercial International Bank (egypt) S.a.e.
+  swift: CIBEEGCX005
+  swift8: CIBEEGCX
+  branch_name: Hoda Shaarawy Branch
+  branch_address: 16 Hoda Shaarawy Street Cairo
+  branch_code: '005'
+  city: Cairo
+  country: Egypt
+- name: Commercial International Bank (egypt) S.a.e.
+  swift: CIBEEGCX006
+  swift8: CIBEEGCX
+  branch_name: Heliopolis Branch
+  branch_address: 24 Merghany Street Heliopolis Cairo
+  branch_code: '006'
+  city: Cairo
+  country: Egypt
+- name: Commercial International Bank (egypt) S.a.e.
+  swift: CIBEEGCX007
+  swift8: CIBEEGCX
+  branch_name: Zamalek Branch
+  branch_address: 12 El Saleh Ayoub Street Zamalek Cairo
+  branch_code: '007'
+  city: Cairo
+  country: Egypt
+- name: Commercial International Bank (egypt) S.a.e.
+  swift: CIBEEGCX008
+  swift8: CIBEEGCX
+  branch_name: Manshia Branch
+  branch_address: 12 Ahmed Orabi Square El Manshia Alexandria
+  branch_code: '008'
+  city: Alexandria
+  country: Egypt
+- name: Commercial International Bank (egypt) S.a.e.
+  swift: CIBEEGCX009
+  swift8: CIBEEGCX
+  branch_name: Roushdy Branch
+  branch_address: 25 Mohamed Amin Shoheab Street Alexandria
+  branch_code: '009'
+  city: Alexandria
+  country: Egypt
+- name: Commercial International Bank (egypt) S.a.e.
+  swift: CIBEEGCX010
+  swift8: CIBEEGCX
+  branch_name: Mobtadaian Branch
+  branch_address: 12 Birgas Street Garden City Cairo
+  branch_code: '010'
+  city: Cairo
+  country: Egypt
+- name: Commercial International Bank (egypt) S.a.e.
+  swift: CIBEEGCX011
+  swift8: CIBEEGCX
+  branch_name: Tanta Branch
+  branch_address: 55 El Guish Street Tanta
+  branch_code: '011'
+  city: Tanta
+  country: Egypt
+- name: Commercial International Bank (egypt) S.a.e.
+  swift: CIBEEGCX012
+  swift8: CIBEEGCX
+  branch_name: Maadi Branch
+  branch_address: 67 Number 9 Street Cairo
+  branch_code: '012'
+  city: Cairo
+  country: Egypt
+- name: Commercial International Bank (egypt) S.a.e.
+  swift: CIBEEGCX013
+  swift8: CIBEEGCX
+  branch_name: Masadak Branch
+  branch_address: 38 Mossadak Street - Dokki 2430 Cairo
+  branch_code: '013'
+  city: Cairo
+  country: Egypt
+- name: Commercial International Bank (egypt) S.a.e.
+  swift: CIBEEGCX014
+  swift8: CIBEEGCX
+  branch_name: Nasr City Branch
+  branch_address: 53 Abbas El Akkad Street Nasr City Cairo
+  branch_code: '014'
+  city: Cairo
+  country: Egypt
+- name: Commercial International Bank (egypt) S.a.e.
+  swift: CIBEEGCX015
+  swift8: CIBEEGCX
+  branch_name: Al Mansoura Branch
+  branch_address: 6 Al Gomhoria Street, Al Mansoura El Mansoura
+  branch_code: '015'
+  city: El Mansoura
+  country: Egypt
+- name: Commercial International Bank (egypt) S.a.e.
+  swift: CIBEEGCX016
+  swift8: CIBEEGCX
+  branch_name: Mostorad Branch
+  branch_address: Petrol Companies Street Great Cairo Cairo
+  branch_code: '016'
+  city: Cairo
+  country: Egypt
+- name: Commercial International Bank (egypt) S.a.e.
+  swift: CIBEEGCX017
+  swift8: CIBEEGCX
+  branch_name: 6th October Branch
+  branch_address: 6th October City 1/1 Banks City 6th of October
+  branch_code: '017'
+  city: 6th of October
+  country: Egypt
+- name: Commercial International Bank (egypt) S.a.e.
+  swift: CIBEEGCX018
+  swift8: CIBEEGCX
+  branch_name: Grand Mall Branch
+  branch_address: Grand Mall Building Cairo
+  branch_code: '018'
+  city: Cairo
+  country: Egypt
+- name: Commercial International Bank (egypt) S.a.e.
+  swift: CIBEEGCX019
+  swift8: CIBEEGCX
+  branch_name: Hurghada Branch
+  branch_address: Grand Hotel Hurghada
+  branch_code: '019'
+  city: Hurghada
+  country: Egypt
+- name: Commercial International Bank (egypt) S.a.e.
+  swift: CIBEEGCX020
+  swift8: CIBEEGCX
+  branch_name: El Nasr Branch
+  branch_address: Ramo Garden Cairo
+  branch_code: '020'
+  city: Cairo
+  country: Egypt
+- name: Commercial International Brokerage Company
+  swift: CIBOEGCXXXX
+  swift8: CIBOEGCX
+  branch_name: Head Office
+  branch_address: 66/68 Mohy El Din Abou El Eiz Cairo
+  branch_code: XXX
+  city: Cairo
+  country: Egypt
+- name: Credit Agricole Egypt
+  swift: AGRIEGCXXXX
+  swift8: AGRIEGCX
+  branch_name: Head Office
+  branch_address: Eab Building 11511 Cairo
+  branch_code: XXX
+  city: Cairo
+  country: Egypt
+- name: Credit Foncier Egyptien
+  swift: CFOEEGC1XXX
+  swift8: CFOEEGC1
+  branch_name: Head Office
+  branch_address: 11 El Mashaady Street Cairo
+  branch_code: XXX
+  city: Cairo
+  country: Egypt
+- name: Credit Suisse
+  swift: CRESEGC1XXX
+  swift8: CRESEGC1
+  branch_name: Head Office
+  branch_address: Cairo
+  branch_code: XXX
+  city: Cairo
+  country: Egypt
+- name: Delta Rasmala Securities
+  swift: DESGEGCAXXX
+  swift8: DESGEGCA
+  branch_name: Head Office
+  branch_address: 31 Gezerit El Arab, Mohandessin 12411 Giza
+  branch_code: XXX
+  city: Giza
+  country: Egypt
+- name: Egyptian Arab Land Bank
+  swift: ARLBEGC1MTG
+  swift8: ARLBEGC1
+  branch_name: Mit Ghamr New Branch
+  branch_address: 24 Mit Ghamr
+  branch_code: MTG
+  city: Mit Ghamr
+  country: Egypt
+- name: Egyptian Arab Land Bank
+  swift: ARLBEGC1SHB
+  swift8: ARLBEGC1
+  branch_name: New Branch
+  branch_address: 5 Shibin El Kom
+  branch_code: SHB
+  city: Shibin El Kom
+  country: Egypt
+- name: Egyptian Arab Land Bank
+  swift: ARLBEGC1TN2
+  swift8: ARLBEGC1
+  branch_name: New Branch
+  branch_address: 15 Tanta
+  branch_code: TN2
+  city: Tanta
+  country: Egypt
+- name: Egyptian Arab Land Bank
+  swift: ARLBEGCAALX
+  swift8: ARLBEGCA
+  branch_name: Alexandria Branch
+  branch_address: El Sabbah Alexandria
+  branch_code: ALX
+  city: Alexandria
+  country: Egypt
+- name: Egyptian Arab Land Bank
+  swift: ARLBEGCAARI
+  swift8: ARLBEGCA
+  branch_name: Arish
+  branch_address: 23 July St. Arish
+  branch_code: ARI
+  city: Arish
+  country: Egypt
+- name: Egyptian Arab Land Bank
+  swift: ARLBEGCAASW
+  swift8: ARLBEGCA
+  branch_name: Aswan
+  branch_address: Abtal El Tahrer St. Aswan
+  branch_code: ASW
+  city: Aswan
+  country: Egypt
+- name: Egyptian Arab Land Bank
+  swift: ARLBEGCACAI
+  swift8: ARLBEGCA
+  branch_name: Cairo Branch
+  branch_address: 45 Waked St. From 54 D Gomhotya St. Cairo
+  branch_code: CAI
+  city: Cairo
+  country: Egypt
+- name: Egyptian Arab Land Bank
+  swift: ARLBEGCADIM
+  swift8: ARLBEGCA
+  branch_name: Domiat
+  branch_address: 422 Redwan Street Domiat
+  branch_code: DIM
+  city: Domiat
+  country: Egypt
+- name: Egyptian Arab Land Bank
+  swift: ARLBEGCADOK
+  swift8: ARLBEGCA
+  branch_name: Giza
+  branch_address: 23 Mosadak Street Giza
+  branch_code: DOK
+  city: Giza
+  country: Egypt
+- name: Egyptian Arab Land Bank
+  swift: ARLBEGCAHIL
+  swift8: ARLBEGCA
+  branch_name: Heliopolic Branch
+  branch_address: 14a Matghani St. Heliopolic Cairo
+  branch_code: HIL
+  city: Cairo
+  country: Egypt
+- name: Egyptian Arab Land Bank
+  swift: ARLBEGCAHOL
+  swift8: ARLBEGCA
+  branch_name: Holwan Branch
+  branch_address: 29 Raghb St. Holwan Cairo
+  branch_code: HOL
+  city: Cairo
+  country: Egypt
+- name: Egyptian Arab Land Bank
+  swift: ARLBEGCAHRG
+  swift8: ARLBEGCA
+  branch_name: Hurghada
+  branch_address: El Markz El Togary El Sakalla Hurghada
+  branch_code: HRG
+  city: Hurghada
+  country: Egypt
+- name: Egyptian Arab Land Bank
+  swift: ARLBEGCAISM
+  swift8: ARLBEGCA
+  branch_name: Ismailia
+  branch_address: Orabi St. Ismailia
+  branch_code: ISM
+  city: Ismailia
+  country: Egypt
+- name: Egyptian Arab Land Bank
+  swift: ARLBEGCALUX
+  swift8: ARLBEGCA
+  branch_name: Luxor
+  branch_address: Mohamed Farid St. Luxor
+  branch_code: LUX
+  city: Luxor
+  country: Egypt
+- name: Egyptian Arab Land Bank
+  swift: ARLBEGCAMAN
+  swift8: ARLBEGCA
+  branch_name: El Mansoura
+  branch_address: 251 El Gomhorya St. El Mansoura
+  branch_code: MAN
+  city: El Mansoura
+  country: Egypt
+- name: Egyptian Arab Land Bank
+  swift: ARLBEGCAMAT
+  swift8: ARLBEGCA
+  branch_name: Marsa Matrouh
+  branch_address: Marsa Matrouh
+  branch_code: MAT
+  city: Marsa Matrouh
+  country: Egypt
+- name: Egyptian Arab Land Bank
+  swift: ARLBEGCAMIN
+  swift8: ARLBEGCA
+  branch_name: El Menia
+  branch_address: 41 Mahmoud Hussin El Menia
+  branch_code: MIN
+  city: El Menia
+  country: Egypt
+- name: Egyptian Arab Land Bank
+  swift: ARLBEGCAMOF
+  swift8: ARLBEGCA
+  branch_name: Mashhady Branch
+  branch_address: 11 El Mashhady Cairo
+  branch_code: MOF
+  city: Cairo
+  country: Egypt
+- name: Egyptian Arab Land Bank
+  swift: ARLBEGCAMOH
+  swift8: ARLBEGCA
+  branch_name: Mohadessen Branch
+  branch_address: 78 Gameat El Doweal El Arabia Str. Cairo
+  branch_code: MOH
+  city: Cairo
+  country: Egypt
+- name: Egyptian Arab Land Bank
+  swift: ARLBEGCANSR
+  swift8: ARLBEGCA
+  branch_name: El Nasr Branch
+  branch_address: El Nasr Road Cairo
+  branch_code: NSR
+  city: Cairo
+  country: Egypt
+- name: Egyptian Banks Company For Technological Advancement, Sae
+  swift: EBCGEGC1XXX
+  swift8: EBCGEGC1
+  branch_name: Head Office
+  branch_address: Evergreen Tower 11522 Cairo
+  branch_code: XXX
+  city: Cairo
+  country: Egypt
+- name: Egyptian Financial Group
+  swift: EGFGEGC1XXX
+  swift8: EGFGEGC1
+  branch_name: Head Office
+  branch_address: 55 Giza Street Giza Cairo
+  branch_code: XXX
+  city: Cairo
+  country: Egypt
+- name: Egyptian Gulf Bank
+  swift: EGGBEGCAAHG
+  swift8: EGGBEGCA
+  branch_name: El Ahaly Sporting Club Gezira Branch
+  branch_address: Al Ahly Sporting Club 11568 Cairo
+  branch_code: AHG
+  city: Cairo
+  country: Egypt
+- name: Egyptian Gulf Bank
+  swift: EGGBEGCAAHN
+  swift8: EGGBEGCA
+  branch_name: El Ahaly Sporting Club Nasr City Branch
+  branch_address: Al Ahly Sporting Club 11817 Cairo
+  branch_code: AHN
+  city: Cairo
+  country: Egypt
+- name: Egyptian Gulf Bank
+  swift: EGGBEGCAALX
+  swift8: EGGBEGCA
+  branch_name: Alexandria Branch
+  branch_address: Building 81 21511 Alexandria
+  branch_code: ALX
+  city: Alexandria
+  country: Egypt
+- name: Egyptian Gulf Bank
+  swift: EGGBEGCAAZH
+  swift8: EGGBEGCA
+  branch_name: Al-Azhar
+  branch_address: Bldg Nbr. 189 Cairo
+  branch_code: AZH
+  city: Cairo
+  country: Egypt
+- name: Egyptian Gulf Bank
+  swift: EGGBEGCACAI
+  swift8: EGGBEGCA
+  branch_name: Garden City
+  branch_address: Abd-Elqader Hamza Nbr 9 11516 Cairo
+  branch_code: CAI
+  city: Cairo
+  country: Egypt
+- name: Egyptian Gulf Bank
+  swift: EGGBEGCAHEL
+  swift8: EGGBEGCA
+  branch_name: Heliopolis Branch
+  branch_address: Building 15 11341 Cairo
+  branch_code: HEL
+  city: Cairo
+  country: Egypt
+- name: Egyptian Gulf Bank
+  swift: EGGBEGCAHSC
+  swift8: EGGBEGCA
+  branch_name: Sporting Club
+  branch_address: 17 El Merghany Street, Heliopolis 11341 Cairo
+  branch_code: HSC
+  city: Cairo
+  country: Egypt
+- name: Egyptian Gulf Bank
+  swift: EGGBEGCALCS
+  swift8: EGGBEGCA
+  branch_name: Lcs Center
+  branch_address: 9 A.Kader Hamza ,Garden City 11516 Cairo
+  branch_code: LCS
+  city: Garden City / Cairo
+  country: Egypt
+- name: Egyptian Gulf Bank
+  swift: EGGBEGCALGS
+  swift8: EGGBEGCA
+  branch_name: Lgs Center
+  branch_address: 9 A. Kader Hamza ,Garden City 11516 Cairo
+  branch_code: LGS
+  city: Garden City / Cairo
+  country: Egypt
+- name: Egyptian Gulf Bank
+  swift: EGGBEGCAMAN
+  swift8: EGGBEGCA
+  branch_name: Mansoura Branch
+  branch_address: Bldg. Nbr. 25 El Mansoura
+  branch_code: MAN
+  city: El Mansoura
+  country: Egypt
+- name: Egyptian Gulf Bank
+  swift: EGGBEGCAMER
+  swift8: EGGBEGCA
+  branch_name: Merghany Branch
+  branch_address: 91a, Merghany Street 11771 Cairo
+  branch_code: MER
+  city: Cairo
+  country: Egypt
+- name: Egyptian Gulf Bank
+  swift: EGGBEGCAMOH
+  swift8: EGGBEGCA
+  branch_name: Mohandseen Branch
+  branch_address: 34 Lebnan Street Cairo
+  branch_code: MOH
+  city: Cairo
+  country: Egypt
+- name: Egyptian Gulf Bank
+  swift: EGGBEGCAOCT
+  swift8: EGGBEGCA
+  branch_name: 6th of October
+  branch_address: 6th of October
+  branch_code: OCT
+  city: Of October
+  country: Egypt
+- name: Egyptian Gulf Bank
+  swift: EGGBEGCAPAY
+  swift8: EGGBEGCA
+  branch_name: Pay
+  branch_address: Orman Plaza 12612 Giza
+  branch_code: PAY
+  city: Giza
+  country: Egypt
+- name: Egyptian Gulf Bank
+  swift: EGGBEGCARAM
+  swift8: EGGBEGCA
+  branch_name: The Tenth of Ramadan Branch
+  branch_address: Sect. 3 the Tenth of Ramadan
+  branch_code: RAM
+  city: The Tenth of Ramadan
+  country: Egypt
+- name: Egyptian Gulf Bank
+  swift: EGGBEGCAXXX
+  swift8: EGGBEGCA
+  branch_name: Head Office
+  branch_address: 8 Ahmed Nesseem Street, Giza Cairo
+  branch_code: XXX
+  city: Cairo
+  country: Egypt
+- name: Egyptian Investor Protection Fund
+  swift: EIPFEGCAXXX
+  swift8: EIPFEGCA
+  branch_name: Head Office
+  branch_address: El-Gomhoria , 70 11511 Cairo
+  branch_code: XXX
+  city: Cairo
+  country: Egypt
+- name: Egyptian Workers Bank
+  swift: EWBAEGC1XXX
+  swift8: EWBAEGC1
+  branch_name: Head Office
+  branch_address: 10 Mohamed Helmy Ibrahim Street Cairo
+  branch_code: XXX
+  city: Cairo
+  country: Egypt
+- name: El Safwa For Securities Trading
+  swift: SASDEGC1XXX
+  swift8: SASDEGC1
+  branch_name: Head Office
+  branch_address: Cairo
+  branch_code: XXX
+  city: Cairo
+  country: Egypt
+- name: El Salam Co.
+  swift: SALMEGC1XXX
+  swift8: SALMEGC1
+  branch_name: Head Office
+  branch_address: Cairo
+  branch_code: XXX
+  city: Cairo
+  country: Egypt
+- name: Export Development Bank Of Egypt
+  swift: EXDEEGCXALX
+  swift8: EXDEEGCX
+  branch_name: Selsela Branch
+  branch_address: Korneish Street - Azarita Alexandria
+  branch_code: ALX
+  city: Alexandria
+  country: Egypt
+- name: Export Development Bank Of Egypt
+  swift: EXDEEGCXBRG
+  swift8: EXDEEGCX
+  branch_name: Borg El Arab
+  branch_address: Bloc 5 23121 Alexandria
+  branch_code: BRG
+  city: Alexandria
+  country: Egypt
+- name: Export Development Bank Of Egypt
+  swift: EXDEEGCXDOK
+  swift8: EXDEEGCX
+  branch_name: Dokki Mosadak Branch
+  branch_address: 71 Mousadak Street - El Dokki Cairo
+  branch_code: DOK
+  city: Cairo
+  country: Egypt
+- name: Export Development Bank Of Egypt
+  swift: EXDEEGCXFSL
+  swift8: EXDEEGCX
+  branch_name: Fisal
+  branch_address: 41 Fisal Street 44637 Giza
+  branch_code: FSL
+  city: Giza
+  country: Egypt
+- name: Export Development Bank Of Egypt
+  swift: EXDEEGCXHED
+  swift8: EXDEEGCX
+  branch_name: Head Office
+  branch_address: 108 Mohi El Din Abu Elezz - Cairo
+  branch_code: HED
+  city: Cairo
+  country: Egypt
+- name: Export Development Bank Of Egypt
+  swift: EXDEEGCXHEG
+  swift8: EXDEEGCX
+  branch_name: Hegaz Branch
+  branch_address: 11 Hegaz Street Heliopolis Cairo
+  branch_code: HEG
+  city: Cairo
+  country: Egypt
+- name: Export Development Bank Of Egypt
+  swift: EXDEEGCXMOH
+  swift8: EXDEEGCX
+  branch_name: Main Branch
+  branch_address: 108 Mohi El Din Abu Ei Ezz - Cairo
+  branch_code: MOH
+  city: Cairo
+  country: Egypt
+- name: Export Development Bank Of Egypt
+  swift: EXDEEGCXNCT
+  swift8: EXDEEGCX
+  branch_name: Nasr City
+  branch_address: 4 Nasr Road With Makram Ebaid 11371 Cairo
+  branch_code: NCT
+  city: Cairo
+  country: Egypt
+- name: Export Development Bank Of Egypt
+  swift: EXDEEGCXNIL
+  swift8: EXDEEGCX
+  branch_name: Nile Branch
+  branch_address: 6 Ibn Elarhab 12211 Giza
+  branch_code: NIL
+  city: Giza
+  country: Egypt
+- name: Export Development Bank Of Egypt
+  swift: EXDEEGCXOBO
+  swift8: EXDEEGCX
+  branch_name: Al Obour
+  branch_address: City Clup-Obour 11828 Al Obour
+  branch_code: OBO
+  city: Al Obour
+  country: Egypt
+- name: Export Development Bank Of Egypt
+  swift: EXDEEGCXOBR
+  swift8: EXDEEGCX
+  branch_name: Orouba Branch
+  branch_address: 1 Obour Buildings - Sallah Salem Cairo
+  branch_code: OBR
+  city: Cairo
+  country: Egypt
+- name: Export Development Bank Of Egypt
+  swift: EXDEEGCXOCT
+  swift8: EXDEEGCX
+  branch_name: October Branch
+  branch_address: Piece 2/1 - Banks District 6th of October
+  branch_code: OCT
+  city: 6th of October
+  country: Egypt
+- name: Export Development Bank Of Egypt
+  swift: EXDEEGCXRAM
+  swift8: EXDEEGCX
+  branch_name: Ramadan Branch
+  branch_address: Group D the Tenth of Ramadan
+  branch_code: RAM
+  city: The Tenth of Ramadan
+  country: Egypt
+- name: Export Development Bank Of Egypt
+  swift: EXDEEGCXRSH
+  swift8: EXDEEGCX
+  branch_name: Roshdy Branch
+  branch_address: 16 Souria Street - Roshdy Alexandria
+  branch_code: RSH
+  city: Alexandria
+  country: Egypt
+- name: Export Development Bank Of Egypt
+  swift: EXDEEGCXXXX
+  swift8: EXDEEGCX
+  branch_name: Head Office
+  branch_address: Evergreen Building 11511 Cairo
+  branch_code: XXX
+  city: Cairo
+  country: Egypt
+- name: Export Development Bank Of Egypt
+  swift: EXDEEGCXZAM
+  swift8: EXDEEGCX
+  branch_name: Zamalek Branch
+  branch_address: 9 Shafeek Mansour Street - Cairo
+  branch_code: ZAM
+  city: Cairo
+  country: Egypt
+- name: Faisal Islamic Bank Of Egypt
+  swift: FIEGEGCXALX
+  swift8: FIEGEGCX
+  branch_name: Alexandria Branch
+  branch_address: 7 Victor Basily Street El Azareta Alexandria
+  branch_code: ALX
+  city: Alexandria
+  country: Egypt
+- name: Faisal Islamic Bank Of Egypt
+  swift: FIEGEGCXASU
+  swift8: FIEGEGCX
+  branch_name: Assuit Branch
+  branch_address: Extention of Youssry Ragheb Street Assuit
+  branch_code: ASU
+  city: Assuit
+  country: Egypt
+- name: Faisal Islamic Bank Of Egypt
+  swift: FIEGEGCXASW
+  swift8: FIEGEGCX
+  branch_name: Aswan Branch
+  branch_address: El-Awkaf Aswan
+  branch_code: ASW
+  city: Aswan
+  country: Egypt
+- name: Faisal Islamic Bank Of Egypt
+  swift: FIEGEGCXAX2
+  swift8: FIEGEGCX
+  branch_name: Alexandria Ii Branch
+  branch_address: Abrag Al-Ashraaf Alexandria
+  branch_code: AX2
+  city: Alexandria
+  country: Egypt
+- name: Faisal Islamic Bank Of Egypt
+  swift: FIEGEGCXAX3
+  swift8: FIEGEGCX
+  branch_name: Muntazah
+  branch_address: Faisal Bank Alexandria
+  branch_code: AX3
+  city: Alexandria
+  country: Egypt
+- name: Faisal Islamic Bank Of Egypt
+  swift: FIEGEGCXAX4
+  swift8: FIEGEGCX
+  branch_name: El-Agmy Branch
+  branch_address: Alexandria
+  branch_code: AX4
+  city: Alexandria
+  country: Egypt
+- name: Faisal Islamic Bank Of Egypt
+  swift: FIEGEGCXAZH
+  swift8: FIEGEGCX
+  branch_name: Al-Azhar Branch
+  branch_address: 1, Souk El Kahira El Fatimi Street Cairo
+  branch_code: AZH
+  city: Cairo
+  country: Egypt
+- name: Faisal Islamic Bank Of Egypt
+  swift: FIEGEGCXBNH
+  swift8: FIEGEGCX
+  branch_name: Banha Branch
+  branch_address: No branch address
+  branch_code: BNH
+  city: Banha
+  country: Egypt
+- name: Faisal Islamic Bank Of Egypt
+  swift: FIEGEGCXCAI
+  swift8: FIEGEGCX
+  branch_name: 11511 Cairo
+  branch_address: 1113 Cornish El Nile 11511 Cairo
+  branch_code: CAI
+  city: Cairo
+  country: Egypt
+- name: Faisal Islamic Bank Of Egypt
+  swift: FIEGEGCXDMN
+  swift8: FIEGEGCX
+  branch_name: Damanhour Branch
+  branch_address: Sheikh Mohamed Abel Elkerim Street Damanhour
+  branch_code: DMN
+  city: Damanhour
+  country: Egypt
+- name: Faisal Islamic Bank Of Egypt
+  swift: FIEGEGCXDOK
+  swift8: FIEGEGCX
+  branch_name: Dokki Branch
+  branch_address: 17, El Faluga Street Agouza Giza
+  branch_code: DOK
+  city: Giza
+  country: Egypt
+- name: Faisal Islamic Bank Of Egypt
+  swift: FIEGEGCXDOM
+  swift8: FIEGEGCX
+  branch_name: Damietta Branch
+  branch_address: Faisal Bank Building Domiat
+  branch_code: DOM
+  city: Domiat
+  country: Egypt
+- name: Faisal Islamic Bank Of Egypt
+  swift: FIEGEGCXFYM
+  swift8: FIEGEGCX
+  branch_name: Fayoum
+  branch_address: El Fayoum
+  branch_code: FYM
+  city: El Fayoum
+  country: Egypt
+- name: Faisal Islamic Bank Of Egypt
+  swift: FIEGEGCXGHM
+  swift8: FIEGEGCX
+  branch_name: Ghamra Branch
+  branch_address: 259, 261 Ramess Street Cairo
+  branch_code: GHM
+  city: Cairo
+  country: Egypt
+- name: Faisal Islamic Bank Of Egypt
+  swift: FIEGEGCXHEL
+  swift8: FIEGEGCX
+  branch_name: Heliopolis Branch
+  branch_address: 4, Al-Athary Mohamed Nafei Street Cairo
+  branch_code: HEL
+  city: Cairo
+  country: Egypt
+- name: Faisal Islamic Bank Of Egypt
+  swift: FIEGEGCXHRM
+  swift8: FIEGEGCX
+  branch_name: El-Haram Branch
+  branch_address: Giza
+  branch_code: HRM
+  city: Giza
+  country: Egypt
+- name: Faisal Islamic Bank Of Egypt
+  swift: FIEGEGCXITD
+  swift8: FIEGEGCX
+  branch_name: International Division
+  branch_address: 149 Tahrir Street, Dokki Square Giza
+  branch_code: ITD
+  city: Giza
+  country: Egypt
+- name: Faisal Islamic Bank Of Egypt
+  swift: FIEGEGCXMAI
+  swift8: FIEGEGCX
+  branch_name: Giza
+  branch_address: 149 Tahrir Street Giza
+  branch_code: MAI
+  city: Giza
+  country: Egypt
+- name: Faisal Islamic Bank Of Egypt
+  swift: FIEGEGCXMHL
+  swift8: FIEGEGCX
+  branch_name: El Mahala Al Kobra Branch
+  branch_address: Awkaf Building El Mahala El Kobra
+  branch_code: MHL
+  city: El Mahala El Kobra
+  country: Egypt
+- name: Faisal Islamic Bank Of Egypt
+  swift: FIEGEGCXMIN
+  swift8: FIEGEGCX
+  branch_name: El-Menia Branch
+  branch_address: El Menia
+  branch_code: MIN
+  city: El Menia
+  country: Egypt
+- name: Financial Brokerage Group
+  swift: FIBGEGC1XXX
+  swift8: FIBGEGC1
+  branch_name: Head Office
+  branch_address: 58 El Tahrir Street Giza
+  branch_code: XXX
+  city: Giza
+  country: Egypt
+- name: Financial Brokerage Group (fbg
+  swift: EFGHEGCAAMO
+  swift8: EFGHEGCA
+  branch_name: Assets Management Operation
+  branch_address: Tahrir Street 58, Dokki-Giza 12311 Cairo
+  branch_code: AMO
+  city: Cairo
+  country: Egypt
+- name: Financial Brokerage Group (fbg
+  swift: EFGHEGCAFBG
+  swift8: EFGHEGCA
+  branch_name: Financial Brokerage Group
+  branch_address: Tahrir Street 58, Dokki-Giza 12311 Cairo
+  branch_code: FBG
+  city: Cairo
+  country: Egypt
+- name: Financial Brokerage Group (fbg
+  swift: EFGHEGCAXXX
+  swift8: EFGHEGCA
+  branch_name: Head Office
+  branch_address: Tahrir Street 58, Dokki-Giza 12311 Cairo
+  branch_code: XXX
+  city: Cairo
+  country: Egypt
+- name: Fleming Mansour Securities Brokerage
+  swift: FMSREGC1XXX
+  swift8: FMSREGC1
+  branch_name: Head Office
+  branch_address: El Bostan Centre Cairo
+  branch_code: XXX
+  city: Cairo
+  country: Egypt
+- name: Fortune Securities Co.
+  swift: FOSCEGC1XXX
+  swift8: FOSCEGC1
+  branch_name: Head Office
+  branch_address: 2 Soliman Abaza St Cairo
+  branch_code: XXX
+  city: Cairo
+  country: Egypt
+- name: Hc Brokerage(s.a.e
+  swift: HCBREGC1XXX
+  swift8: HCBREGC1
+  branch_name: Head Office
+  branch_address: World Trade Center 11221 Giza
+  branch_code: XXX
+  city: Giza
+  country: Egypt
+- name: Housing And Development Bank
+  swift: HDBKEGCAZAM
+  swift8: HDBKEGCA
+  branch_name: Main Branch
+  branch_address: 10 El-Kamel Mohamed Street, Zamalek Cairo
+  branch_code: ZAM
+  city: Cairo
+  country: Egypt
+- name: Hsbc Bank Egypt
+  swift: EBBKEGCXXXX
+  swift8: EBBKEGCX
+  branch_name: Head Office
+  branch_address: Abou El Feda Building Cairo
+  branch_code: XXX
+  city: Cairo
+  country: Egypt
+- name: Hsbc James Capel Brokerage-egypt S.a.e.
+  swift: HJCREGC1XXX
+  swift8: HJCREGC1
+  branch_name: Head Office
+  branch_address: 3 Abou El Feda Street Cairo
+  branch_code: XXX
+  city: Cairo
+  country: Egypt
+- name: Hsbc Securities Egypt S.a.e.
+  swift: HCESEGC1XXX
+  swift8: HCESEGC1
+  branch_name: No branch name
+  branch_address: No branch address
+  branch_code: XXX
+  city: Cairo
+  country: Egypt
+- name: Industrial Development And Workers Bank Of Egypt
+  swift: DIBBEGCA03B
+  swift8: DIBBEGCA
+  branch_name: Tanta
+  branch_address: 14 Said Street Tanta
+  branch_code: 03B
+  city: Tanta
+  country: Egypt
+- name: Industrial Development And Workers Bank Of Egypt
+  swift: DIBBEGCA0A4
+  swift8: DIBBEGCA
+  branch_name: City Branch
+  branch_address: Building 4 the Tenth of Ramadan
+  branch_code: 0A4
+  city: The Tenth of Ramadan
+  country: Egypt
+- name: Industrial Development And Workers Bank Of Egypt
+  swift: DIBBEGCA0A5
+  swift8: DIBBEGCA
+  branch_name: Port Said
+  branch_address: Building 4 Port Said
+  branch_code: 0A5
+  city: Port Said
+  country: Egypt
+- name: Industrial Development And Workers Bank Of Egypt
+  swift: DIBBEGCA0A6
+  swift8: DIBBEGCA
+  branch_name: El Salaam Branch
+  branch_address: Building 15 Cairo
+  branch_code: 0A6
+  city: City / Cairo
+  country: Egypt
+- name: Industrial Development And Workers Bank Of Egypt
+  swift: DIBBEGCA0AL
+  swift8: DIBBEGCA
+  branch_name: Alexandria
+  branch_address: 34 Zahraa Zeznia Building Alexandria
+  branch_code: 0AL
+  city: Alexandria
+  country: Egypt
+- name: Industrial Development And Workers Bank Of Egypt
+  swift: DIBBEGCA0C2
+  swift8: DIBBEGCA
+  branch_name: Head Office-Unico Building
+  branch_address: Unico Building Cairo
+  branch_code: 0C2
+  city: Cairo
+  country: Egypt
+- name: Industrial Development And Workers Bank Of Egypt
+  swift: DIBBEGCA0C3
+  swift8: DIBBEGCA
+  branch_name: Branch
+  branch_address: 110 Galaa Street Cairo
+  branch_code: 0C3
+  city: Cairo
+  country: Egypt
+- name: Industrial Development And Workers Bank Of Egypt
+  swift: DIBBEGCACAI
+  swift8: DIBBEGCA
+  branch_name: Cairo Branch
+  branch_address: Cairo
+  branch_code: CAI
+  city: Cairo
+  country: Egypt
+- name: Industrial Development And Workers Bank Of Egypt
+  swift: DIBBEGCAFIN
+  swift8: DIBBEGCA
+  branch_name: Financial Department
+  branch_address: Cairo
+  branch_code: FIN
+  city: Cairo
+  country: Egypt
+- name: Industrial Development And Workers Bank Of Egypt
+  swift: DIBBEGCAXXX
+  swift8: DIBBEGCA
+  branch_name: Head Office-El Galaa Building
+  branch_address: El Galaa Building Cairo
+  branch_code: XXX
+  city: Cairo
+  country: Egypt
+- name: Louxor Brokerage Co
+  swift: LOBREGC1XXX
+  swift8: LOBREGC1
+  branch_name: Head Office
+  branch_address: 33 Emad El Dinsti 5929071 Cairo
+  branch_code: XXX
+  city: Cairo
+  country: Egypt
+- name: Mcsd Misr For Clearing,depository And Registry
+  swift: MCSDEGCAIPF
+  swift8: MCSDEGCA
+  branch_name: Egyptian Investor Protection Fund Department
+  branch_address: Egyptian Investor Protection Fund 1536 Cairo
+  branch_code: IPF
+  city: Cairo
+  country: Egypt
+- name: Mcsd Misr For Clearing,depository And Registry
+  swift: MCSDEGCAXXX
+  swift8: MCSDEGCA
+  branch_name: Head Office
+  branch_address: 70 El Gomhoria Street 1536 Cairo
+  branch_code: XXX
+  city: Cairo
+  country: Egypt
+- name: Mega Investments Securities
+  swift: MISHEGC1XXX
+  swift8: MISHEGC1
+  branch_name: Head Office
+  branch_address: 58 Syria 12411 Giza
+  branch_code: XXX
+  city: Giza
+  country: Egypt
+- name: Mega Investments Securities
+  swift: MISHEGCAXXX
+  swift8: MISHEGCA
+  branch_name: Head Office
+  branch_address: 58 Syria 12411 Giza
+  branch_code: XXX
+  city: Giza
+  country: Egypt
+- name: Misr Iran Development Bank
+  swift: MIDBEGCXACC
+  swift8: MIDBEGCX
+  branch_name: Accounting Dept
+  branch_address: Giza
+  branch_code: ACC
+  city: Giza
+  country: Egypt
+- name: Misr Iran Development Bank
+  swift: MIDBEGCXADL
+  swift8: MIDBEGCX
+  branch_name: Adly Branch
+  branch_address: 8 Adly Street 11511 Cairo
+  branch_code: ADL
+  city: Cairo
+  country: Egypt
+- name: Misr Iran Development Bank
+  swift: MIDBEGCXALX
+  swift8: MIDBEGCX
+  branch_name: Alexandria Branch
+  branch_address: 10 Nouh Efendy Street Baney Alexandria
+  branch_code: ALX
+  city: Alexandria
+  country: Egypt
+- name: Misr Iran Development Bank
+  swift: MIDBEGCXDAM
+  swift8: MIDBEGCX
+  branch_name: Damieta
+  branch_address: Damieta
+  branch_code: DAM
+  city: Damieta
+  country: Egypt
+- name: Misr Iran Development Bank
+  swift: MIDBEGCXDEL
+  swift8: MIDBEGCX
+  branch_name: Dealing Dept
+  branch_address: Giza
+  branch_code: DEL
+  city: Giza
+  country: Egypt
+- name: Misr Iran Development Bank
+  swift: MIDBEGCXGZA
+  swift8: MIDBEGCX
+  branch_name: Giza Branch
+  branch_address: Giza
+  branch_code: GZA
+  city: Giza
+  country: Egypt
+- name: Misr Iran Development Bank
+  swift: MIDBEGCXHLP
+  swift8: MIDBEGCX
+  branch_name: Heliopolis Branch
+  branch_address: Cleopatra Street 24 Cairo
+  branch_code: HLP
+  city: Cairo
+  country: Egypt
+- name: Misr Iran Development Bank
+  swift: MIDBEGCXLCD
+  swift8: MIDBEGCX
+  branch_name: Documentary Credit Dept
+  branch_address: Giza
+  branch_code: LCD
+  city: Giza
+  country: Egypt
+- name: Misr Iran Development Bank
+  swift: MIDBEGCXMAD
+  swift8: MIDBEGCX
+  branch_name: Maadi Branch
+  branch_address: 355 Street 11 - Maadi Cairo
+  branch_code: MAD
+  city: Cairo
+  country: Egypt
+- name: Misr Iran Development Bank
+  swift: MIDBEGCXMHD
+  swift8: MIDBEGCX
+  branch_name: Mohadeseen Branch
+  branch_address: Abu-Bakr Al-Sedik 16 Giza
+  branch_code: MHD
+  city: Giza
+  country: Egypt
+- name: Misr Iran Development Bank
+  swift: MIDBEGCXNCA
+  swift8: MIDBEGCX
+  branch_name: New Cairo Br
+  branch_address: Cairo
+  branch_code: NCA
+  city: Cairo
+  country: Egypt
+- name: Misr Iran Development Bank
+  swift: MIDBEGCXNSR
+  swift8: MIDBEGCX
+  branch_name: Nasr City Branch
+  branch_address: 26 Ahmad Kassem Gouda Street - Nasr Cairo
+  branch_code: NSR
+  city: Cairo
+  country: Egypt
+- name: Misr Iran Development Bank
+  swift: MIDBEGCXOCT
+  swift8: MIDBEGCX
+  branch_name: 6th of October Branch
+  branch_address: 6th of October
+  branch_code: OCT
+  city: Of October
+  country: Egypt
+- name: Misr Iran Development Bank
+  swift: MIDBEGCXPTS
+  swift8: MIDBEGCX
+  branch_name: Port Said Branch
+  branch_address: 13 El Goumhoria and El Nasr Street Port Said
+  branch_code: PTS
+  city: Port Said
+  country: Egypt
+- name: Misr Iran Development Bank
+  swift: MIDBEGCXRAM
+  swift8: MIDBEGCX
+  branch_name: The Tenth of Ramadan Branch
+  branch_address: City Center 44635 the Tenth of Ramadan
+  branch_code: RAM
+  city: The Tenth of Ramadan
+  country: Egypt
+- name: Misr Iran Development Bank
+  swift: MIDBEGCXSUH
+  swift8: MIDBEGCX
+  branch_name: Suhag Br
+  branch_address: Suhag
+  branch_code: SUH
+  city: Suhag
+  country: Egypt
+- name: Misr Iran Development Bank
+  swift: MIDBEGCXUNV
+  swift8: MIDBEGCX
+  branch_name: University of 6 October Branch
+  branch_address: University of 6 October 6th of October
+  branch_code: UNV
+  city: 6th of October
+  country: Egypt
+- name: Misr Iran Development Bank
+  swift: MIDBEGCXXXX
+  swift8: MIDBEGCX
+  branch_name: Head Office
+  branch_address: Nile Tower 12612 Giza
+  branch_code: XXX
+  city: Giza
+  country: Egypt
+- name: Mohandes Bank
+  swift: MOHBEGC1XXX
+  swift8: MOHBEGC1
+  branch_name: Head Office
+  branch_address: 30 Ramses Street Cairo
+  branch_code: XXX
+  city: Cairo
+  country: Egypt
+- name: Mubasher Securities
+  swift: MUSSEGC1XXX
+  swift8: MUSSEGC1
+  branch_name: Head Office
+  branch_address: Tiba 2000 Administrative Building 00000 Cairo
+  branch_code: XXX
+  city: Cairo
+  country: Egypt
+- name: Mubasher Trade
+  swift: MUBREGC1XXX
+  swift8: MUBREGC1
+  branch_name: Head Office
+  branch_address: Tiba 2000 Administrative Building - Cairo
+  branch_code: XXX
+  city: Cairo
+  country: Egypt
+- name: Mubasher Trade
+  swift: MUBREGCAXXX
+  swift8: MUBREGCA
+  branch_name: Head Office
+  branch_address: Suez Canal Tower Giza
+  branch_code: XXX
+  city: Giza
+  country: Egypt
+- name: Nasser Social Bank
+  swift: NSOBEGC1XXX
+  swift8: NSOBEGC1
+  branch_name: Head Office
+  branch_address: 35 Kasr El Nil Street Cairo
+  branch_code: XXX
+  city: Cairo
+  country: Egypt
+- name: National Bank Of Egypt
+  swift: NBEGEGCX001
+  swift8: NBEGEGCX
+  branch_name: Main Branch
+  branch_address: 24 Sherief Street Cairo
+  branch_code: '001'
+  city: Cairo
+  country: Egypt
+- name: National Bank Of Egypt
+  swift: NBEGEGCX002
+  swift8: NBEGEGCX
+  branch_name: El Nasr Branch
+  branch_address: Main Branch Cairo
+  branch_code: '002'
+  city: Cairo
+  country: Egypt
+- name: National Bank Of Egypt
+  swift: NBEGEGCX003
+  swift8: NBEGEGCX
+  branch_name: Sarwat Branch
+  branch_address: 39 Abdel Khalik Sarwat Street Cairo
+  branch_code: '003'
+  city: Cairo
+  country: Egypt
+- name: National Bank Of Egypt
+  swift: NBEGEGCX004
+  swift8: NBEGEGCX
+  branch_name: Eloui Branch
+  branch_address: 4 Shawarbi Street Cairo
+  branch_code: '004'
+  city: Cairo
+  country: Egypt
+- name: National Bank Of Egypt
+  swift: NBEGEGCX006
+  swift8: NBEGEGCX
+  branch_name: El Sherifain Branch
+  branch_address: 9 El Sherifain Street Cairo
+  branch_code: '006'
+  city: Cairo
+  country: Egypt
+- name: National Bank Of Egypt
+  swift: NBEGEGCX007
+  swift8: NBEGEGCX
+  branch_name: Ramsis Branch
+  branch_address: 217 Ramsis Street Cairo
+  branch_code: '007'
+  city: Cairo
+  country: Egypt
+- name: National Bank Of Egypt
+  swift: NBEGEGCX008
+  swift8: NBEGEGCX
+  branch_name: El Faggala Branch
+  branch_address: 49, Kamel Sedki St. Cairo
+  branch_code: '008'
+  city: Cairo
+  country: Egypt
+- name: National Bank Of Egypt
+  swift: NBEGEGCX009
+  swift8: NBEGEGCX
+  branch_name: Capital Branch
+  branch_address: 8 Ibrahim Nagib Street Garden City Cairo
+  branch_code: '009'
+  city: Cairo
+  country: Egypt
+- name: National Bank Of Egypt
+  swift: NBEGEGCX072
+  swift8: NBEGEGCX
+  branch_name: Alserag Mall Branch
+  branch_address: Alserag Mall Cairo
+  branch_code: '072'
+  city: Cairo
+  country: Egypt
+- name: National Bank Of Egypt
+  swift: NBEGEGCX073
+  swift8: NBEGEGCX
+  branch_name: Abbas Elakad Branch
+  branch_address: No branch address
+  branch_code: '073'
+  city: Cairo
+  country: Egypt
+- name: National Bank Of Egypt
+  swift: NBEGEGCX075
+  swift8: NBEGEGCX
+  branch_name: Arkadia Branch
+  branch_address: 3 Aly Bik Elnagar Cairo
+  branch_code: '075'
+  city: Cairo
+  country: Egypt
+- name: National Bank Of Egypt
+  swift: NBEGEGCX077
+  swift8: NBEGEGCX
+  branch_name: Tower Branch
+  branch_address: Tower Building 11611 Cairo
+  branch_code: '077'
+  city: Cairo
+  country: Egypt
+- name: National Bank Of Egypt
+  swift: NBEGEGCX100
+  swift8: NBEGEGCX
+  branch_name: Heliopolis Branch
+  branch_address: 21 Ibrhim Ellakkani Street Cairo
+  branch_code: '100'
+  city: Cairo
+  country: Egypt
+- name: National Bank Of Egypt
+  swift: NBEGEGCX101
+  swift8: NBEGEGCX
+  branch_name: El Mosky Branch
+  branch_address: 48,50 Abdel Khaled Sarwat Street Cairo
+  branch_code: '101'
+  city: Cairo
+  country: Egypt
+- name: National Bank Of Egypt
+  swift: NBEGEGCX102
+  swift8: NBEGEGCX
+  branch_name: El Nozha Branch
+  branch_address: 62. Mohamood Hafiz Street Cairo
+  branch_code: '102'
+  city: Cairo
+  country: Egypt
+- name: National Bank Of Egypt
+  swift: NBEGEGCX103
+  swift8: NBEGEGCX
+  branch_name: El-Hamzawi Branch
+  branch_address: 24 Bebers St. Cairo
+  branch_code: '103'
+  city: Cairo
+  country: Egypt
+- name: National Bank Of Egypt
+  swift: NBEGEGCX104
+  swift8: NBEGEGCX
+  branch_name: Nasr City Branch
+  branch_address: 8, Osman Abdel Hafeez Street Cairo
+  branch_code: '104'
+  city: Cairo
+  country: Egypt
+- name: National Bank Of Egypt
+  swift: NBEGEGCX105
+  swift8: NBEGEGCX
+  branch_name: Airport Branch
+  branch_address: Cairo International Airport Cairo
+  branch_code: '105'
+  city: Cairo
+  country: Egypt
+- name: National Bank Of Egypt
+  swift: NBEGEGCX107
+  swift8: NBEGEGCX
+  branch_name: El Asher Men Ramadan Branch
+  branch_address: The Tenth of Ramadan
+  branch_code: '107'
+  city: The Tenth of Ramadan
+  country: Egypt
+- name: National Bank Of Egypt
+  swift: NBEGEGCX108
+  swift8: NBEGEGCX
+  branch_name: Hadayek El-Kobba Branch
+  branch_address: 111 El-Madena El-Marausra St. Cairo
+  branch_code: '108'
+  city: Cairo
+  country: Egypt
+- name: National Bank Of Greece, (egypt Network
+  swift: ETHNEGCAXXX
+  swift8: ETHNEGCA
+  branch_name: Head Office
+  branch_address: 32 Haroun Street, Dokki Giza
+  branch_code: XXX
+  city: Giza
+  country: Egypt
+- name: National Bank Of Oman (saog
+  swift: NBOMEGCXCHO
+  swift8: NBOMEGCX
+  branch_name: Cairo
+  branch_address: Cairo
+  branch_code: CHO
+  city: Cairo
+  country: Egypt
+- name: National Bank Of Oman (saog
+  swift: NBOMEGCXXXX
+  swift8: NBOMEGCX
+  branch_name: Head Office
+  branch_address: 133/135 Abdel Aziz Fahmy St. Cairo
+  branch_code: XXX
+  city: Cairo
+  country: Egypt
+- name: National Investment Bank
+  swift: NINBEGCAXXX
+  swift8: NINBEGCA
+  branch_name: Head Office
+  branch_address: National Investment Bank 11589 Cairo
+  branch_code: XXX
+  city: Cairo
+  country: Egypt
+- name: National Post Organization
+  swift: PSTEEGC1XXX
+  swift8: PSTEEGC1
+  branch_name: Head Office
+  branch_address: National Post Organization 11599 Cairo
+  branch_code: XXX
+  city: Cairo
+  country: Egypt
+- name: National Post Organization
+  swift: PSTEEGCXXXX
+  swift8: PSTEEGCX
+  branch_name: Head Office
+  branch_address: National Post Organization 11599 Cairo
+  branch_code: XXX
+  city: Cairo
+  country: Egypt
+- name: Pharos Holding
+  swift: PHHOEGC1XXX
+  swift8: PHHOEGC1
+  branch_name: Head Office
+  branch_address: 26 Mohamed Mazhar Zamalek 1121 Cairo
+  branch_code: XXX
+  city: Cairo
+  country: Egypt
+- name: Pharos Securities
+  swift: PHAREGCAXXX
+  swift8: PHAREGCA
+  branch_name: Head Office
+  branch_address: Abou El Feda Street 7 11211 Cairo
+  branch_code: XXX
+  city: Cairo
+  country: Egypt
+- name: Piraeus Bank-egypt S.a.e.
+  swift: ECBAEGCAXXX
+  swift8: ECBAEGCA
+  branch_name: Head Office
+  branch_address: Ever Green Building Cairo
+  branch_code: XXX
+  city: Cairo
+  country: Egypt
+- name: Prime Securities Sae
+  swift: PSSREGC1XXX
+  swift8: PSSREGC1
+  branch_name: Head Office
+  branch_address: El-Horreya Tower Cairo
+  branch_code: XXX
+  city: Cairo
+  country: Egypt
+- name: Principal Bank For Development And Agricultural Credit
+  swift: BDACEGCA001
+  swift8: BDACEGCA
+  branch_name: Cairo Branch
+  branch_address: 14, Gawad Husny Street Cairo
+  branch_code: '001'
+  city: Cairo
+  country: Egypt
+- name: Principal Bank For Development And Agricultural Credit
+  swift: BDACEGCA002
+  swift8: BDACEGCA
+  branch_name: Giza Branch
+  branch_address: 41, Rabia Algize Street Cairo
+  branch_code: '002'
+  city: Cairo
+  country: Egypt
+- name: Principal Bank For Development And Agricultural Credit
+  swift: BDACEGCA003
+  swift8: BDACEGCA
+  branch_name: Alexandria Branch
+  branch_address: 166, Horia Street Alexandria
+  branch_code: '003'
+  city: Alexandria
+  country: Egypt
+- name: Principal Bank For Development And Agricultural Credit
+  swift: BDACEGCA013
+  swift8: BDACEGCA
+  branch_name: Kalubia Branch
+  branch_address: Kornish El Nil Street Banha
+  branch_code: '013'
+  city: Banha
+  country: Egypt
+- name: Principal Bank For Development And Agricultural Credit
+  swift: BDACEGCA040
+  swift8: BDACEGCA
+  branch_name: El Gharbia Branch
+  branch_address: 8, Osman Mohamed Street Tanta
+  branch_code: '040'
+  city: Tanta
+  country: Egypt
+- name: Principal Bank For Development And Agricultural Credit
+  swift: BDACEGCA045
+  swift8: BDACEGCA
+  branch_name: El Behera Branch
+  branch_address: 3, El Goumoria Street Damanhour
+  branch_code: '045'
+  city: Damanhour
+  country: Egypt
+- name: Principal Bank For Development And Agricultural Credit
+  swift: BDACEGCA047
+  swift8: BDACEGCA
+  branch_name: Kafr El Sheikh Branch
+  branch_address: El Gash St. Next to National Kafr El Sheikh
+  branch_code: '047'
+  city: Kafr El Sheikh
+  country: Egypt
+- name: Principal Bank For Development And Agricultural Credit
+  swift: BDACEGCA050
+  swift8: BDACEGCA
+  branch_name: Dakahlia Branch
+  branch_address: 13, El Goumhoria Street El Mansoura
+  branch_code: '050'
+  city: El Mansoura
+  country: Egypt
+- name: Principal Bank For Development And Agricultural Credit
+  swift: BDACEGCA055
+  swift8: BDACEGCA
+  branch_name: El Sharkia Branch
+  branch_address: 32, Talat Harb Street Zakazik
+  branch_code: '055'
+  city: Zakazik
+  country: Egypt
+- name: Principal Bank For Development And Agricultural Credit
+  swift: BDACEGCA057
+  swift8: BDACEGCA
+  branch_name: Domiat Branch
+  branch_address: El Tahrir Street Midan Soror Domiat
+  branch_code: '057'
+  city: Domiat
+  country: Egypt
+- name: Principal Bank For Development And Agricultural Credit
+  swift: BDACEGCA064
+  swift8: BDACEGCA
+  branch_name: Ismailia Branch
+  branch_address: 12, Ismail Serry Street Ismailia
+  branch_code: '064'
+  city: Ismailia
+  country: Egypt
+- name: Principal Bank For Development And Agricultural Credit
+  swift: BDACEGCA082
+  swift8: BDACEGCA
+  branch_name: Bani Suef Branch
+  branch_address: 69, Port Said Street Bani Suef
+  branch_code: '082'
+  city: Bani Suef
+  country: Egypt
+- name: Principal Bank For Development And Agricultural Credit
+  swift: BDACEGCA084
+  swift8: BDACEGCA
+  branch_name: El Fayoum Branch
+  branch_address: El Khalifa El Mamoun Street El Fayoum
+  branch_code: '084'
+  city: El Fayoum
+  country: Egypt
+- name: Principal Bank For Development And Agricultural Credit
+  swift: BDACEGCA086
+  swift8: BDACEGCA
+  branch_name: El Menia Branch
+  branch_address: El Horria Street Next to Moderiat El Menia
+  branch_code: '086'
+  city: El Menia
+  country: Egypt
+- name: Principal Bank For Development And Agricultural Credit
+  swift: BDACEGCA088
+  swift8: BDACEGCA
+  branch_name: Assuit and El Wadi El Gided Branch
+  branch_address: Talat Habb Street Assuit
+  branch_code: '088'
+  city: Assuit
+  country: Egypt
+- name: Principal Bank For Development And Agricultural Credit
+  swift: BDACEGCA093
+  swift8: BDACEGCA
+  branch_name: Suhag Branch
+  branch_address: El Magzar El Aaly Street Suhag
+  branch_code: '093'
+  city: Suhag
+  country: Egypt
+- name: Principal Bank For Development And Agricultural Credit
+  swift: BDACEGCA096
+  swift8: BDACEGCA
+  branch_name: Kena Branch
+  branch_address: El Hilal El Ahmar Hospital Street Kena
+  branch_code: '096'
+  city: Kena
+  country: Egypt
+- name: Principal Bank For Development And Agricultural Credit
+  swift: BDACEGCA097
+  swift8: BDACEGCA
+  branch_name: Aswan Branch
+  branch_address: 112, Triq El Sadat El Khazan Aswan
+  branch_code: '097'
+  city: Aswan
+  country: Egypt
+- name: Principal Bank For Development And Agricultural Credit
+  swift: BDACEGCAXXX
+  swift8: BDACEGCA
+  branch_name: Head Office
+  branch_address: 110 Karr El Eini Street Cairo
+  branch_code: XXX
+  city: Cairo
+  country: Egypt
+- name: Societe Arabe Internationale De Banque
+  swift: SBNKEGC10AL
+  swift8: SBNKEGC1
+  branch_name: Alexandria
+  branch_address: Alexandria
+  branch_code: 0AL
+  city: Alexandria
+  country: Egypt
+- name: Societe Arabe Internationale De Banque
+  swift: SBNKEGCXALX
+  swift8: SBNKEGCX
+  branch_name: Alexandria
+  branch_address: Alexandria
+  branch_code: ALX
+  city: Alexandria
+  country: Egypt
+- name: Societe Arabe Internationale De Banque
+  swift: SBNKEGCXARM
+  swift8: SBNKEGCX
+  branch_name: 12564-36 6th of October
+  branch_address: 8 Touristic Region - Green Heights, 12564/36 6th of October
+  branch_code: ARM
+  city: Of October
+  country: Egypt
+- name: Societe Arabe Internationale De Banque
+  swift: SBNKEGCXASH
+  swift8: SBNKEGCX
+  branch_name: The Tenth of Ramadan Branch
+  branch_address: The Tenth of Ramadan
+  branch_code: ASH
+  city: The Tenth of Ramadan
+  country: Egypt
+- name: Societe Arabe Internationale De Banque
+  swift: SBNKEGCXASI
+  swift8: SBNKEGCX
+  branch_name: Assuit Branch
+  branch_address: No branch address
+  branch_code: ASI
+  city: Assuit
+  country: Egypt
+- name: Societe Arabe Internationale De Banque
+  swift: SBNKEGCXAZH
+  swift8: SBNKEGCX
+  branch_name: Al Azher Branch
+  branch_address: Cairo
+  branch_code: AZH
+  city: Cairo
+  country: Egypt
+- name: Societe Arabe Internationale De Banque
+  swift: SBNKEGCXBUS
+  swift8: SBNKEGCX
+  branch_name: Boustan Branch
+  branch_address: Cairo
+  branch_code: BUS
+  city: Cairo
+  country: Egypt
+- name: Societe Arabe Internationale De Banque
+  swift: SBNKEGCXCIC
+  swift8: SBNKEGCX
+  branch_name: Cairo
+  branch_address: Canidian Univeristy Cairo
+  branch_code: CIC
+  city: Cairo
+  country: Egypt
+- name: Societe Arabe Internationale De Banque
+  swift: SBNKEGCXDMT
+  swift8: SBNKEGCX
+  branch_name: Domiat
+  branch_address: Kornich Al-Nil Domiat
+  branch_code: DMT
+  city: Domiat
+  country: Egypt
+- name: Societe Arabe Internationale De Banque
+  swift: SBNKEGCXHLP
+  swift8: SBNKEGCX
+  branch_name: Heliopolis Branch
+  branch_address: Cairo
+  branch_code: HLP
+  city: Cairo
+  country: Egypt
+- name: Societe Arabe Internationale De Banque
+  swift: SBNKEGCXINV
+  swift8: SBNKEGCX
+  branch_name: Investment
+  branch_address: Port Said
+  branch_code: INV
+  city: Port Said
+  country: Egypt
+- name: Societe Arabe Internationale De Banque
+  swift: SBNKEGCXISL
+  swift8: SBNKEGCX
+  branch_name: Islamic Branch
+  branch_address: Port Said
+  branch_code: ISL
+  city: Port Said
+  country: Egypt
+- name: Societe Arabe Internationale De Banque
+  swift: SBNKEGCXMHL
+  swift8: SBNKEGCX
+  branch_name: El Mahala El Kobra
+  branch_address: 36 El Kowtlee St. El Mahala El Kobra
+  branch_code: MHL
+  city: El Mahala El Kobra
+  country: Egypt
+- name: Societe Arabe Internationale De Banque
+  swift: SBNKEGCXMNS
+  swift8: SBNKEGCX
+  branch_name: El Mansoura
+  branch_address: 4 Torail St., El Mansoura
+  branch_code: MNS
+  city: El Mansoura
+  country: Egypt
+- name: Societe Arabe Internationale De Banque
+  swift: SBNKEGCXMRG
+  swift8: SBNKEGCX
+  branch_name: Cairo
+  branch_address: Helioples Cairo
+  branch_code: MRG
+  city: Cairo
+  country: Egypt
+- name: Societe Arabe Internationale De Banque
+  swift: SBNKEGCXNCA
+  swift8: SBNKEGCX
+  branch_name: Cairo
+  branch_address: El-Benok Street Cairo
+  branch_code: NCA
+  city: Cairo
+  country: Egypt
+- name: Societe Arabe Internationale De Banque
+  swift: SBNKEGCXNRS
+  swift8: SBNKEGCX
+  branch_name: El Nours
+  branch_address: El Nours Port Said
+  branch_code: NRS
+  city: Port Said
+  country: Egypt
+- name: Societe Arabe Internationale De Banque
+  swift: SBNKEGCXOCT
+  swift8: SBNKEGCX
+  branch_name: 6th of October Branch
+  branch_address: 6th of October
+  branch_code: OCT
+  city: Of October
+  country: Egypt
+- name: Societe Arabe Internationale De Banque
+  swift: SBNKEGCXSHD
+  swift8: SBNKEGCX
+  branch_name: Port Said
+  branch_address: El Shohdaa St. Port Said
+  branch_code: SHD
+  city: Port Said
+  country: Egypt
+- name: Societe Arabe Internationale De Banque
+  swift: SBNKEGCXSMH
+  swift8: SBNKEGCX
+  branch_name: Alexandria
+  branch_address: Semoha Alexandria
+  branch_code: SMH
+  city: Alexandria
+  country: Egypt
+- name: Strategy Securities Group
+  swift: STSGEGC1XXX
+  swift8: STSGEGC1
+  branch_name: Head Office
+  branch_address: 38 Wadi El-Nil Street 12411 Cairo
+  branch_code: XXX
+  city: Cairo
+  country: Egypt
+- name: Suez Canal Bank
+  swift: SUCAEGCXALX
+  swift8: SUCAEGCX
+  branch_name: Alexandria Branch
+  branch_address: 60 Alhorreya Road Alexandria
+  branch_code: ALX
+  city: Alexandria
+  country: Egypt
+- name: Suez Canal Bank
+  swift: SUCAEGCXAMR
+  swift8: SUCAEGCX
+  branch_name: Alamria Branch
+  branch_address: Free Zone - Alamria Alexandria
+  branch_code: AMR
+  city: Alexandria
+  country: Egypt
+- name: Suez Canal Bank
+  swift: SUCAEGCXASU
+  swift8: SUCAEGCX
+  branch_name: Assuit Branch
+  branch_address: Saraya El Baroudi Tower 71111 Assuit
+  branch_code: ASU
+  city: Assuit
+  country: Egypt
+- name: Suez Canal Bank
+  swift: SUCAEGCXBRG
+  swift8: SUCAEGCX
+  branch_name: Bourg El Arab Branch
+  branch_address: Banks Area 21934 Bourg El Arab
+  branch_code: BRG
+  city: Bourg El Arab
+  country: Egypt
+- name: Suez Canal Bank
+  swift: SUCAEGCXCAI
+  swift8: SUCAEGCX
+  branch_name: Cairo Branch
+  branch_address: 11 Sabry Abo Alam St. 1511 Cairo
+  branch_code: CAI
+  city: Cairo
+  country: Egypt
+- name: Suez Canal Bank
+  swift: SUCAEGCXDOK
+  swift8: SUCAEGCX
+  branch_name: Dokki Branch
+  branch_address: 122 Tahrir Street Dokki Cairo
+  branch_code: DOK
+  city: Cairo
+  country: Egypt
+- name: Suez Canal Bank
+  swift: SUCAEGCXDOM
+  swift8: SUCAEGCX
+  branch_name: Domiat Branch
+  branch_address: New Damietta Port Services Domiat
+  branch_code: DOM
+  city: Domiat
+  country: Egypt
+- name: Suez Canal Bank
+  swift: SUCAEGCXFOS
+  swift8: SUCAEGCX
+  branch_name: Fostat Branch
+  branch_address: 1 Salah Salem St Cairo
+  branch_code: FOS
+  city: Cairo
+  country: Egypt
+- name: Suez Canal Bank
+  swift: SUCAEGCXGIZ
+  swift8: SUCAEGCX
+  branch_name: Giza Branch
+  branch_address: 27 Taha Hussein Street Giza Cairo
+  branch_code: GIZ
+  city: Cairo
+  country: Egypt
+- name: Suez Canal Bank
+  swift: SUCAEGCXGRD
+  swift8: SUCAEGCX
+  branch_name: Garden City Branch
+  branch_address: Garden City Cairo
+  branch_code: GRD
+  city: Cairo
+  country: Egypt
+- name: Suez Canal Bank
+  swift: SUCAEGCXHEL
+  swift8: SUCAEGCX
+  branch_name: Heliopolis Branch
+  branch_address: 12 Bagdad Street Heliopolis Cairo
+  branch_code: HEL
+  city: Cairo
+  country: Egypt
+- name: Suez Canal Bank
+  swift: SUCAEGCXISM
+  swift8: SUCAEGCX
+  branch_name: Ismalia Branch
+  branch_address: 43 El Sawra Street Ismailia
+  branch_code: ISM
+  city: Ismailia
+  country: Egypt
+- name: Suez Canal Bank
+  swift: SUCAEGCXMAD
+  swift8: SUCAEGCX
+  branch_name: Maadi Branch
+  branch_address: 141 Wady Wl Nil Street Cairo
+  branch_code: MAD
+  city: Cairo
+  country: Egypt
+- name: Suez Canal Bank
+  swift: SUCAEGCXMAN
+  swift8: SUCAEGCX
+  branch_name: El Mansoura Branch
+  branch_address: 28,29 Alexanrd El Makdone and Saad 35511 El Mansoura
+  branch_code: MAN
+  city: El Mansoura
+  country: Egypt
+- name: Suez Canal Bank
+  swift: SUCAEGCXMEN
+  swift8: SUCAEGCX
+  branch_name: El Menia Branch
+  branch_address: 195 B El Horreya St. Ex King 61511 El Menia
+  branch_code: MEN
+  city: El Menia
+  country: Egypt
+- name: Suez Canal Bank
+  swift: SUCAEGCXMOH
+  swift8: SUCAEGCX
+  branch_name: Mohandesseen Branch
+  branch_address: 8 Abdel Rahman El Rafai Street Cairo
+  branch_code: MOH
+  city: Cairo
+  country: Egypt
+- name: Suez Canal Bank
+  swift: SUCAEGCXNSR
+  swift8: SUCAEGCX
+  branch_name: Nasr City Branch
+  branch_address: 74, Abas El Akad St, Nasr City, 11817 Cairo
+  branch_code: NSR
+  city: Cairo
+  country: Egypt
+- name: Suez Canal Bank
+  swift: SUCAEGCXOBR
+  swift8: SUCAEGCX
+  branch_name: Al Obour Branch
+  branch_address: Area 16, 17 Bank Complex Behind Al Obour
+  branch_code: OBR
+  city: Al Obour
+  country: Egypt
+- name: Suez Canal Bank
+  swift: SUCAEGCXOCT
+  swift8: SUCAEGCX
+  branch_name: 6th of October City Branch
+  branch_address: Banks Area 6th of October
+  branch_code: OCT
+  city: 6th of October
+  country: Egypt
+- name: Suez Canal Bank
+  swift: SUCAEGCXOCU
+  swift8: SUCAEGCX
+  branch_name: University Branch
+  branch_address: 6th of October
+  branch_code: OCU
+  city: 6th of October
+  country: Egypt
+- name: Swiss Group For Securities Brokerag
+  swift: SGFBEGC1XXX
+  swift8: SGFBEGC1
+  branch_name: No branch name
+  branch_address: No branch address
+  branch_code: XXX
+  city: Cairo
+  country: Egypt
+- name: The United Bank
+  swift: UBOEEGCXXXX
+  swift8: UBOEEGCX
+  branch_name: Head Office
+  branch_address: 106, Kasr El Aini Street Cairo
+  branch_code: XXX
+  city: Cairo
+  country: Egypt
+- name: Triple A Securities Co.
+  swift: TREEEGC1XXX
+  swift8: TREEEGC1
+  branch_name: Head Office
+  branch_address: 45 Kasr El Nil Shamplion St. 11121 Cairo
+  branch_code: XXX
+  city: Cairo
+  country: Egypt
+- name: Union National Bank-egypt S.a.e.
+  swift: ALECEGALCAI
+  swift8: ALECEGAL
+  branch_name: Cairo Branch
+  branch_address: Cairo
+  branch_code: CAI
+  city: Cairo
+  country: Egypt
+- name: Union National Bank-egypt S.a.e.
+  swift: ALECEGALGLY
+  swift8: ALECEGAL
+  branch_name: Gleem Branch
+  branch_address: 85 El Horreya Street 21519 Alexandria
+  branch_code: GLY
+  city: Alexandria
+  country: Egypt
+- name: Union National Bank-egypt S.a.e.
+  swift: ALECEGALMAI
+  swift8: ALECEGAL
+  branch_name: El Horreya Branch
+  branch_address: Alexandria
+  branch_code: MAI
+  city: Alexandria
+  country: Egypt
+- name: Union National Bank-egypt S.a.e.
+  swift: ALECEGALNCT
+  swift8: ALECEGAL
+  branch_name: Nasr City Branch
+  branch_address: Cairo
+  branch_code: NCT
+  city: Cairo
+  country: Egypt
+- name: Union National Bank-egypt S.a.e.
+  swift: ALECEGALPSD
+  swift8: ALECEGAL
+  branch_name: Port Said Branch
+  branch_address: Port Said
+  branch_code: PSD
+  city: Port Said
+  country: Egypt
+- name: Union National Bank-egypt S.a.e.
+  swift: ALECEGALSDZ
+  swift8: ALECEGAL
+  branch_name: Saad Zhagloul Branch
+  branch_address: Alexandria
+  branch_code: SDZ
+  city: Alexandria
+  country: Egypt
+- name: Union National Bank-egypt S.a.e.
+  swift: ALECEGALSUZ
+  swift8: ALECEGAL
+  branch_name: Suez Branch
+  branch_address: Suez
+  branch_code: SUZ
+  city: Suez
+  country: Egypt
+- name: Union National Bank-egypt S.a.e.
+  swift: ALECEGALXXX
+  swift8: ALECEGAL
+  branch_name: Head Office
+  branch_address: El Gamaa Building 12612 Giza
+  branch_code: XXX
+  city: Giza
+  country: Egypt

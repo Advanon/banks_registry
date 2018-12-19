@@ -1,0 +1,450 @@
+---
+CI:
+- name: Citibank N.A.
+  swift: CITICIAXXXX
+  swift8: CITICIAX
+  branch_name: Head Office
+  branch_address: Immeuble Botreau Roussel Abidjan 01
+  branch_code: XXX
+  city: Abidjan
+  country: Cote d'Ivoire
+- name: Banque Centrale Des Etats De L'afrique De L'ouest
+  swift: BCAOCIABABE
+  swift8: BCAOCIAB
+  branch_name: Abengourou Branch
+  branch_address: Abengourou
+  branch_code: ABE
+  city: Abengourou
+  country: Cote d'Ivoire
+- name: Banque Centrale Des Etats De L'afrique De L'ouest
+  swift: BCAOCIABBOU
+  swift8: BCAOCIAB
+  branch_name: Bouake Branch
+  branch_address: Bouake
+  branch_code: BOU
+  city: Bouake
+  country: Cote d'Ivoire
+- name: Banque Centrale Des Etats De L'afrique De L'ouest
+  swift: BCAOCIABDAL
+  swift8: BCAOCIAB
+  branch_name: Daloa Branch
+  branch_address: Daloa
+  branch_code: DAL
+  city: Daloa
+  country: Cote d'Ivoire
+- name: Banque Centrale Des Etats De L'afrique De L'ouest
+  swift: BCAOCIABKOR
+  swift8: BCAOCIAB
+  branch_name: Korhogo Branch
+  branch_address: Korhogo
+  branch_code: KOR
+  city: Korhogo
+  country: Cote d'Ivoire
+- name: Banque Centrale Des Etats De L'afrique De L'ouest
+  swift: BCAOCIABMAN
+  swift8: BCAOCIAB
+  branch_name: Man Branch
+  branch_address: Man
+  branch_code: MAN
+  city: Man
+  country: Cote d'Ivoire
+- name: Banque Centrale Des Etats De L'afrique De L'ouest
+  swift: BCAOCIABSAN
+  swift8: BCAOCIAB
+  branch_name: San Pedro Branch
+  branch_address: San Pedro
+  branch_code: SAN
+  city: San Pedro
+  country: Cote d'Ivoire
+- name: Banque Centrale Des Etats De L'afrique De L'ouest
+  swift: BCAOCIABXXX
+  swift8: BCAOCIAB
+  branch_name: Head Office
+  branch_address: Abidjan
+  branch_code: XXX
+  city: Abidjan
+  country: Cote d'Ivoire
+- name: Coris Bank International
+  swift: CORICIABXXX
+  swift8: CORICIAB
+  branch_name: Head Office
+  branch_address: 1 Boulevard De La Republique, Abidjan
+  branch_code: XXX
+  city: Abidjan
+  country: Cote d'Ivoire
+- name: African Development Bank
+  swift: AFDBCIABALS
+  swift8: AFDBCIAB
+  branch_name: African Legal Support Facility
+  branch_address: Abidjan
+  branch_code: ALS
+  city: Abidjan
+  country: Cote d'Ivoire
+- name: African Development Bank
+  swift: AFDBCIABAMI
+  swift8: AFDBCIAB
+  branch_name: Abidjan
+  branch_address: Abidjan
+  branch_code: AMI
+  city: Abidjan
+  country: Cote d'Ivoire
+- name: African Development Bank
+  swift: AFDBCIABFSF
+  swift8: AFDBCIAB
+  branch_name: Abidjan
+  branch_address: Abidjan
+  branch_code: FSF
+  city: Abidjan
+  country: Cote d'Ivoire
+- name: African Development Bank
+  swift: AFDBCIABMDT
+  swift8: AFDBCIAB
+  branch_name: Abidjan
+  branch_address: Abidjan
+  branch_code: MDT
+  city: Abidjan
+  country: Cote d'Ivoire
+- name: African Development Bank
+  swift: AFDBCIABMFW
+  swift8: AFDBCIAB
+  branch_name: Making Finance
+  branch_address: Abidjan
+  branch_code: MFW
+  city: Abidjan
+  country: Cote d'Ivoire
+- name: African Development Bank
+  swift: AFDBCIABMIC
+  swift8: AFDBCIAB
+  branch_name: Abidjan
+  branch_address: Abidjan
+  branch_code: MIC
+  city: Abidjan
+  country: Cote d'Ivoire
+- name: African Development Bank
+  swift: AFDBCIABNTF
+  swift8: AFDBCIAB
+  branch_name: Abidjan
+  branch_address: Abidjan
+  branch_code: NTF
+  city: Abidjan
+  country: Cote d'Ivoire
+- name: African Development Bank
+  swift: AFDBCIABPID
+  swift8: AFDBCIAB
+  branch_name: Pida Account
+  branch_address: Abidjan
+  branch_code: PID
+  city: Abidjan
+  country: Cote d'Ivoire
+- name: African Development Bank
+  swift: AFDBCIABPRS
+  swift8: AFDBCIAB
+  branch_name: Abidjan
+  branch_address: Abidjan
+  branch_code: PRS
+  city: Abidjan
+  country: Cote d'Ivoire
+- name: African Development Bank
+  swift: AFDBCIABSRP
+  swift8: AFDBCIAB
+  branch_name: Abidjan
+  branch_address: Abidjan
+  branch_code: SRP
+  city: Abidjan
+  country: Cote d'Ivoire
+- name: African Development Bank
+  swift: AFDBCIABTRY
+  swift8: AFDBCIAB
+  branch_name: Treasury Department
+  branch_address: Abidjan
+  branch_code: TRY
+  city: Abidjan
+  country: Cote d'Ivoire
+- name: African Development Bank
+  swift: AFDBCIABWAT
+  swift8: AFDBCIAB
+  branch_name: Abidjan
+  branch_address: Abidjan
+  branch_code: WAT
+  city: Abidjan
+  country: Cote d'Ivoire
+- name: African Development Bank
+  swift: AFDBCIABXXX
+  swift8: AFDBCIAB
+  branch_name: Head Office
+  branch_address: 10-12 Avenue Joseph Anoma Abidjan 01
+  branch_code: XXX
+  city: Abidjan
+  country: Cote d'Ivoire
+- name: Export-import Bank Of Korea, The
+  swift: EXIKCIA1XXX
+  swift8: EXIKCIA1
+  branch_name: Head Office
+  branch_address: Abidjan
+  branch_code: XXX
+  city: Abidjan
+  country: Cote d'Ivoire
+- name: Access Bank Cote D'ivoire
+  swift: OMFNCIABXXX
+  swift8: OMFNCIAB
+  branch_name: Head Office
+  branch_address: Immeuble Alliance Abidjan 01
+  branch_code: XXX
+  city: Abidjan
+  country: Cote d'Ivoire
+- name: Bank Of Africa-cote D'ivoire
+  swift: AFRICIABXXX
+  swift8: AFRICIAB
+  branch_name: Head Office
+  branch_address: Smgl Abidjan 01
+  branch_code: XXX
+  city: Abidjan
+  country: Cote d'Ivoire
+- name: Banque Atlantique Cote D'ivoire
+  swift: ATCICIABSAN
+  swift8: ATCICIAB
+  branch_name: San Pedro
+  branch_address: Caisse De Stabilisation San Pedro
+  branch_code: SAN
+  city: San Pedro
+  country: Cote d'Ivoire
+- name: Banque Atlantique Cote D'ivoire
+  swift: ATCICIABXXX
+  swift8: ATCICIAB
+  branch_name: Head Office
+  branch_address: Immeuble Atlantique Abidjan 04
+  branch_code: XXX
+  city: Abidjan
+  country: Cote d'Ivoire
+- name: Banque De L'habitat De Cote D'ivoire
+  swift: BHCICIABXXX
+  swift8: BHCICIAB
+  branch_name: Head Office
+  branch_address: Bhci Abidjan 2325
+  branch_code: XXX
+  city: Abidjan
+  country: Cote d'Ivoire
+- name: Banque Internationale Pour L'afrique De L'ouest (biaoci
+  swift: BIAOCIAB032
+  swift8: BIAOCIAB
+  branch_name: Bouake
+  branch_address: Bouake
+  branch_code: '032'
+  city: Bouake
+  country: Cote d'Ivoire
+- name: Banque Internationale Pour L'afrique De L'ouest (biaoci
+  swift: BIAOCIAB033
+  swift8: BIAOCIAB
+  branch_name: Korhogo
+  branch_address: Korhogo
+  branch_code: '033'
+  city: Korhogo
+  country: Cote d'Ivoire
+- name: Banque Internationale Pour L'afrique De L'ouest (biaoci
+  swift: BIAOCIAB034
+  swift8: BIAOCIAB
+  branch_name: Daloa
+  branch_address: Daloa
+  branch_code: '034'
+  city: Daloa
+  country: Cote d'Ivoire
+- name: Banque Internationale Pour L'afrique De L'ouest (biaoci
+  swift: BIAOCIABXXX
+  swift8: BIAOCIAB
+  branch_name: Head Office
+  branch_address: 8-10 Avenue Joseph Anoma Abidjan 01
+  branch_code: XXX
+  city: Abidjan
+  country: Cote d'Ivoire
+- name: Banque Internationale Pour Le Commerce Et L'industrie De La Cote D'ivoire
+  swift: BICICIABBKE
+  swift8: BICICIAB
+  branch_name: Bouake
+  branch_address: Bouake
+  branch_code: BKE
+  city: Bouake
+  country: Cote d'Ivoire
+- name: Banque Internationale Pour Le Commerce Et L'industrie De La Cote D'ivoire
+  swift: BICICIABBSE
+  swift8: BICICIAB
+  branch_name: Abidjan
+  branch_address: Abidjan
+  branch_code: BSE
+  city: Abidjan
+  country: Cote d'Ivoire
+- name: Banque Internationale Pour Le Commerce Et L'industrie De La Cote D'ivoire
+  swift: BICICIABPLT
+  swift8: BICICIAB
+  branch_name: Plateau
+  branch_address: Abidjan
+  branch_code: PLT
+  city: Abidjan
+  country: Cote d'Ivoire
+- name: Banque Internationale Pour Le Commerce Et L'industrie De La Cote D'ivoire
+  swift: BICICIABSUD
+  swift8: BICICIAB
+  branch_name: Sud
+  branch_address: Abidjan
+  branch_code: SUD
+  city: Abidjan
+  country: Cote d'Ivoire
+- name: Banque Internationale Pour Le Commerce Et L'industrie De La Cote D'ivoire
+  swift: BICICIABXXX
+  swift8: BICICIAB
+  branch_name: Head Office
+  branch_address: Avenue Franchet Desperey Abidjan 01
+  branch_code: XXX
+  city: Abidjan
+  country: Cote d'Ivoire
+- name: Banque Nationale D'investissement
+  swift: CSSSCIABXXX
+  swift8: CSSSCIAB
+  branch_name: Head Office
+  branch_address: Immeubles Sciam Abidjan 01
+  branch_code: XXX
+  city: Abidjan
+  country: Cote d'Ivoire
+- name: Bgfibank Cote D'ivoire
+  swift: BGFICIABXXX
+  swift8: BGFICIAB
+  branch_name: Head Office
+  branch_address: Immeuble Amci Abidjan
+  branch_code: XXX
+  city: Abidjan
+  country: Cote d'Ivoire
+- name: Biao Investissement
+  swift: BRCICIA1XXX
+  swift8: BRCICIA1
+  branch_name: Head Office
+  branch_address: Abidjan
+  branch_code: XXX
+  city: Abidjan
+  country: Cote d'Ivoire
+- name: Bourse Des Valeurs Abidjan
+  swift: XABJCIA1XXX
+  swift8: XABJCIA1
+  branch_name: Head Office
+  branch_address: Abidjan
+  branch_code: XXX
+  city: Abidjan
+  country: Cote d'Ivoire
+- name: Bourse Regionale Des Valeurs Mobilieres
+  swift: BRVICIA1XXX
+  swift8: BRVICIA1
+  branch_name: Head Office
+  branch_address: 18 Rue Joseph Anoma Abidjan 1
+  branch_code: XXX
+  city: Abidjan
+  country: Cote d'Ivoire
+- name: Bridge Bank Group Cote D'ivoire
+  swift: BGCDCIABXXX
+  swift8: BGCDCIAB
+  branch_name: Head Office
+  branch_address: Abidjan Plateau Abidjan 01 13002
+  branch_code: XXX
+  city: Abidjan
+  country: Cote d'Ivoire
+- name: Bsic Cote D'ivoire
+  swift: BSAHCIABXXX
+  swift8: BSAHCIAB
+  branch_name: Head Office
+  branch_address: Avenue Nogues Abidjan
+  branch_code: XXX
+  city: Abidjan
+  country: Cote d'Ivoire
+- name: Caisse Nationale Des Caisse Epargne
+  swift: CNCGCIABXXX
+  swift8: CNCGCIAB
+  branch_name: Head Office
+  branch_address: Immeuble Postel 2001 Abidjan 01
+  branch_code: XXX
+  city: Abidjan
+  country: Cote d'Ivoire
+- name: Diamondbank Cote D'ivoire
+  swift: DBLNCIABXXX
+  swift8: DBLNCIAB
+  branch_name: Head Office
+  branch_address: Immeuble Ivotel Abidjan
+  branch_code: XXX
+  city: Abidjan
+  country: Cote d'Ivoire
+- name: Ecobank-cote D'ivoire S.a.
+  swift: ECOCCIABXXX
+  swift8: ECOCCIAB
+  branch_name: Head Office
+  branch_address: Immeuble Alliance Abidjan 01
+  branch_code: XXX
+  city: Abidjan
+  country: Cote d'Ivoire
+- name: Guaranty Trust Bank Cote D'ivoire
+  swift: GTBICIABXXX
+  swift8: GTBICIAB
+  branch_name: Head Office
+  branch_address: Gtbank Ci Head Office Abidjan 25
+  branch_code: XXX
+  city: Abidjan
+  country: Cote d'Ivoire
+- name: Paribas
+  swift: PARBCIA1XXX
+  swift8: PARBCIA1
+  branch_name: Head Office
+  branch_address: 17 Avenue Terrasson De Fougeres Abidjan 09
+  branch_code: XXX
+  city: Abidjan
+  country: Cote d'Ivoire
+- name: Sgi Hudson And Cie
+  swift: SGHUCIA1XXX
+  swift8: SGHUCIA1
+  branch_name: Head Office
+  branch_address: Immeuble Maci Abidjan
+  branch_code: XXX
+  city: Abidjan
+  country: Cote d'Ivoire
+- name: Societe Generale De Banques En Cote D'ivoire
+  swift: SGCICIABXXX
+  swift8: SGCICIAB
+  branch_name: Head Office
+  branch_address: 5-7 Rue Joseph Anoma Abidjan 01
+  branch_code: XXX
+  city: Abidjan
+  country: Cote d'Ivoire
+- name: Societe Ivoirienne De Banque
+  swift: SIVBCIABXXX
+  swift8: SIVBCIAB
+  branch_name: Siege
+  branch_address: 34 Boulevard De La Republique Abidjan 01
+  branch_code: XXX
+  city: Abidjan
+  country: Cote d'Ivoire
+- name: Standard Chartered Bank Cote D'ivoire
+  swift: SCBLCIABSSU
+  swift8: SCBLCIAB
+  branch_name: Securities Services
+  branch_address: Abidjan
+  branch_code: SSU
+  city: Abidjan
+  country: Cote d'Ivoire
+- name: Standard Chartered Bank Cote D'ivoire
+  swift: SCBLCIABXXX
+  swift8: SCBLCIAB
+  branch_name: Head Office
+  branch_address: 23 Boulevard De La Republique Abidjan
+  branch_code: XXX
+  city: Abidjan
+  country: Cote d'Ivoire
+- name: United Bank For Africa Cote D'ivoire
+  swift: UNAFCIABXXX
+  swift8: UNAFCIAB
+  branch_name: Head Office
+  branch_address: Botreau Roussel Abidjan 17
+  branch_code: XXX
+  city: Abidjan
+  country: Cote d'Ivoire
+- name: Versus Bank
+  swift: VSBKCIABXXX
+  swift8: VSBKCIAB
+  branch_name: Head Office
+  branch_address: Immeuble Crrae-Umoa Abidjan 01
+  branch_code: XXX
+  city: Abidjan
+  country: Cote d'Ivoire

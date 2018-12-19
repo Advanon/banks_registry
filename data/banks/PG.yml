@@ -1,0 +1,50 @@
+---
+PG:
+- name: Bank Of South Pacific Limited
+  swift: BOSPPGPMXXX
+  swift8: BOSPPGPM
+  branch_name: Head Office
+  branch_address: Corner Douglas / Musgrave St Port Moresby
+  branch_code: XXX
+  city: Port Moresby
+  country: Papua New Guinea
+- name: Australia And New Zealand Banking Group (png) Ltd.
+  swift: ANZBPGPXXXX
+  swift8: ANZBPGPX
+  branch_name: Head Office
+  branch_address: Invesmen Haus Port Moresby
+  branch_code: XXX
+  city: Port Moresby
+  country: Papua New Guinea
+- name: Bank Of Papua New Guinea
+  swift: BPNGPGPMXXX
+  swift8: BPNGPGPM
+  branch_name: Head Office
+  branch_address: Torobert Haus Port Moresby
+  branch_code: XXX
+  city: Port Moresby
+  country: Papua New Guinea
+- name: British American Tobacco (png) Limited
+  swift: BATSPGA1XXX
+  swift8: BATSPGA1
+  branch_name: Head Office
+  branch_address: Deloittes Tower Port Moresby
+  branch_code: XXX
+  city: Port Moresby
+  country: Papua New Guinea
+- name: First Investment Finance Limited
+  swift: FIVFPGPMXXX
+  swift8: FIVFPGPM
+  branch_name: Head Office
+  branch_address: Ela Beach Tower Port Moresby
+  branch_code: XXX
+  city: Port Moresby
+  country: Papua New Guinea
+- name: Westpac Bank-png-limited
+  swift: WPACPGPMXXX
+  swift8: WPACPGPM
+  branch_name: Head Office
+  branch_address: Corner Musgrave and Douglas Street Port Moresby
+  branch_code: XXX
+  city: Port Moresby
+  country: Papua New Guinea

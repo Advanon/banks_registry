@@ -1,0 +1,434 @@
+---
+BO:
+- name: Banco De La Nacion Argentina
+  swift: NACNBOLPXXX
+  swift8: NACNBOLP
+  branch_name: Head Office
+  branch_address: Calle Junin Nr 22 Santa Cruz De La Sierra
+  branch_code: XXX
+  city: Santa Cruz De La Sierra
+  country: Bolivia
+- name: Citibank N.A.
+  swift: CITIBOL1XXX
+  swift8: CITIBOL1
+  branch_name: Head Office
+  branch_address: Calle 15 Torre Ketal La Paz
+  branch_code: XXX
+  city: La Paz
+  country: Bolivia
+- name: Banco Bisa S.a.
+  swift: BANIBOLXCBB
+  swift8: BANIBOLX
+  branch_name: Cochabamba
+  branch_address: Calle Nationiel Aguirre S-508 Cochabamba
+  branch_code: CBB
+  city: Cochabamba
+  country: Bolivia
+- name: Banco Bisa S.a.
+  swift: BANIBOLXSCZ
+  swift8: BANIBOLX
+  branch_name: Santa Cruz De La Sierra
+  branch_address: Calle Beni 47 Santa Cruz De La Sierra
+  branch_code: SCZ
+  city: Santa Cruz De La Sierra
+  country: Bolivia
+- name: Banco Bisa S.a.
+  swift: BANIBOLXXXX
+  swift8: BANIBOLX
+  branch_name: Head Office
+  branch_address: Edificio Bisa La Paz
+  branch_code: XXX
+  city: La Paz
+  country: Bolivia
+- name: Banco Central De Bolivia
+  swift: BCEBBOLPXXX
+  swift8: BCEBBOLP
+  branch_name: Head Office
+  branch_address: Ayacucho Esq. Mercado La Paz
+  branch_code: XXX
+  city: La Paz
+  country: Bolivia
+- name: Banco De Credito De Bolivia S.a.
+  swift: BCPLBOLXCBB
+  swift8: BCPLBOLX
+  branch_name: Cochabamba
+  branch_address: Avenida Avacucho S-311 Cochabamba
+  branch_code: CBB
+  city: Cochabamba
+  country: Bolivia
+- name: Banco De Credito De Bolivia S.a.
+  swift: BCPLBOLXSCZ
+  swift8: BCPLBOLX
+  branch_name: Santa Cruz De La Sierra
+  branch_address: Calle 24 De Septiembre 158 Santa Cruz De La Sierra
+  branch_code: SCZ
+  city: Santa Cruz De La Sierra
+  country: Bolivia
+- name: Banco De Credito De Bolivia S.a.
+  swift: BCPLBOLXXXX
+  swift8: BCPLBOLX
+  branch_name: Head Office
+  branch_address: Calle Colon Esq. Mercado 1308 La Paz
+  branch_code: XXX
+  city: La Paz
+  country: Bolivia
+- name: Banco De Credito Oruro
+  swift: BCROBO21XXX
+  swift8: BCROBO21
+  branch_name: Head Office
+  branch_address: Plaza 10 De Febrero Oruro
+  branch_code: XXX
+  city: Oruro
+  country: Bolivia
+- name: Banco De Inversion Boliviano S.a.
+  swift: BIBOBOL1XXX
+  swift8: BIBOBOL1
+  branch_name: Head Office
+  branch_address: Avenida 16 De Julio 1571 La Paz
+  branch_code: XXX
+  city: La Paz
+  country: Bolivia
+- name: Banco De La Paz, S.a.
+  swift: BPAZBOL1022
+  swift8: BPAZBOL1
+  branch_name: Santa Cruz De La Sierra
+  branch_address: Banco De La Paz Building Santa Cruz De La Sierra
+  branch_code: '022'
+  city: Santa Cruz De La Sierra
+  country: Bolivia
+- name: Banco De La Paz, S.a.
+  swift: BPAZBOL1023
+  swift8: BPAZBOL1
+  branch_name: Cochabamba
+  branch_address: Banco De La Paz Building Cochabamba
+  branch_code: '023'
+  city: Cochabamba
+  country: Bolivia
+- name: Banco De La Paz, S.a.
+  swift: BPAZBOL1XXX
+  swift8: BPAZBOL1
+  branch_name: Head Office
+  branch_address: Banco De La Paz Building La Paz
+  branch_code: XXX
+  city: La Paz
+  country: Bolivia
+- name: Banco Do Brasil S.a.
+  swift: BRASBOLXXXX
+  swift8: BRASBOLX
+  branch_name: Head Office
+  branch_address: Avenida 16 De Julio, 1642 La Paz
+  branch_code: XXX
+  city: La Paz
+  country: Bolivia
+- name: Banco Economico S.a.
+  swift: BOEOBO22BEC
+  swift8: BOEOBO22
+  branch_name: 5603 Santa Cruz De La Sierra
+  branch_address: Banco Economico 5603 Santa Cruz De La Sierra
+  branch_code: BEC
+  city: Santa Cruz De La Sierra
+  country: Bolivia
+- name: Banco Economico S.a.
+  swift: BOEOBO22CBB
+  swift8: BOEOBO22
+  branch_name: Cochabamba Branch
+  branch_address: Calle Nataniel Aguirre Cochabamba
+  branch_code: CBB
+  city: Cochabamba
+  country: Bolivia
+- name: Banco Economico S.a.
+  swift: BOEOBO22LPZ
+  swift8: BOEOBO22
+  branch_name: La Paz Branch
+  branch_address: Av. Camacho 1245-1267 La Paz
+  branch_code: LPZ
+  city: La Paz
+  country: Bolivia
+- name: Banco Economico S.a.
+  swift: BOEOBO22SCZ
+  swift8: BOEOBO22
+  branch_name: Santa Cruz Branch
+  branch_address: Santa Cruz De La Sierra
+  branch_code: SCZ
+  city: Santa Cruz De La Sierra
+  country: Bolivia
+- name: Banco Economico S.a.
+  swift: BOEOBO22XXX
+  swift8: BOEOBO22
+  branch_name: Head Office
+  branch_address: Calle Ayacucho 166 Santa Cruz De La Sierra
+  branch_code: XXX
+  city: Santa Cruz De La Sierra
+  country: Bolivia
+- name: Banco Ganadero S.a.
+  swift: GNDRBO22CMI
+  swift8: GNDRBO22
+  branch_name: Santa Cruz De La Sierra
+  branch_address: Santa Cruz De La Sierra
+  branch_code: CMI
+  city: Santa Cruz De La Sierra
+  country: Bolivia
+- name: Banco Ganadero S.a.
+  swift: GNDRBO22FIT
+  swift8: GNDRBO22
+  branch_name: Santa Cruz De La Sierra
+  branch_address: Santa Cruz De La Sierra
+  branch_code: FIT
+  city: Santa Cruz De La Sierra
+  country: Bolivia
+- name: Banco Ganadero S.a.
+  swift: GNDRBO22GEB
+  swift8: GNDRBO22
+  branch_name: Santa Cruz De La Sierra
+  branch_address: Santa Cruz De La Sierra
+  branch_code: GEB
+  city: Santa Cruz De La Sierra
+  country: Bolivia
+- name: Banco Ganadero S.a.
+  swift: GNDRBO22XXX
+  swift8: GNDRBO22
+  branch_name: Head Office
+  branch_address: Banco Ganadero S.A. Santa Cruz De La Sierra
+  branch_code: XXX
+  city: Santa Cruz De La Sierra
+  country: Bolivia
+- name: Banco Hipotecario Nacional
+  swift: BHNABOL1XXX
+  swift8: BHNABOL1
+  branch_name: Head Office
+  branch_address: Avenida 16 Julio 1630 La Paz
+  branch_code: XXX
+  city: La Paz
+  country: Bolivia
+- name: Banco Latinoamericano De Desarrollo S.a.
+  swift: BALDBOL1XXX
+  swift8: BALDBOL1
+  branch_name: Head Office
+  branch_address: Avenida Mcal Santa Cruz La Paz
+  branch_code: XXX
+  city: La Paz
+  country: Bolivia
+- name: Banco Los Andes Procredit
+  swift: PRCBBO22XXX
+  swift8: PRCBBO22
+  branch_name: Head Office
+  branch_address: Central Banco Los Andes Procredit Santa Cruz De La Sierra
+  branch_code: XXX
+  city: Santa Cruz De La Sierra
+  country: Bolivia
+- name: Banco Mercantil Santa Cruz S.a.
+  swift: MERBBOLXCBB
+  swift8: MERBBOLX
+  branch_name: Cochabamba
+  branch_address: Nataniel Aguirre Esquina Calama Cochabamba
+  branch_code: CBB
+  city: Cochabamba
+  country: Bolivia
+- name: Banco Mercantil Santa Cruz S.a.
+  swift: MERBBOLXSCZ
+  swift8: MERBBOLX
+  branch_name: Santa Cruz De La Sierra
+  branch_address: Rene Moreno Equina S. De Figueroa Santa Cruz De La Sierra
+  branch_code: SCZ
+  city: Santa Cruz De La Sierra
+  country: Bolivia
+- name: Banco Mercantil Santa Cruz S.a.
+  swift: MERBBOLXXXX
+  swift8: MERBBOLX
+  branch_name: Head Office
+  branch_address: Calle Ayacucho Esquina Mercado La Paz
+  branch_code: XXX
+  city: La Paz
+  country: Bolivia
+- name: Banco Minero De Bolivia
+  swift: BAMIBOL1XXX
+  swift8: BAMIBOL1
+  branch_name: Head Office
+  branch_address: Calle Comercio 1290 La Paz
+  branch_code: XXX
+  city: La Paz
+  country: Bolivia
+- name: Banco Nacional De Bolivia
+  swift: BNBOBOLXCBB
+  swift8: BNBOBOLX
+  branch_name: Departamento Internacional
+  branch_address: Edificio B.N.B. Cochabamba
+  branch_code: CBB
+  city: Cochabamba
+  country: Bolivia
+- name: Banco Nacional De Bolivia
+  swift: BNBOBOLXLPZ
+  swift8: BNBOBOLX
+  branch_name: Dpto Internacional
+  branch_address: Edificio B.N.B. La Paz
+  branch_code: LPZ
+  city: La Paz
+  country: Bolivia
+- name: Banco Nacional De Bolivia
+  swift: BNBOBOLXORU
+  swift8: BNBOBOLX
+  branch_name: Departamento Internacional
+  branch_address: Edificio B.N.B. Oruro
+  branch_code: ORU
+  city: Oruro
+  country: Bolivia
+- name: Banco Nacional De Bolivia
+  swift: BNBOBOLXPOI
+  swift8: BNBOBOLX
+  branch_name: Departamento Internacional
+  branch_address: Edificio B.N.B. Potosi
+  branch_code: POI
+  city: Potosi
+  country: Bolivia
+- name: Banco Nacional De Bolivia
+  swift: BNBOBOLXSCZ
+  swift8: BNBOBOLX
+  branch_name: Dpto Internacional
+  branch_address: Edificio B.N.B. Santa Cruz De La Sierra
+  branch_code: SCZ
+  city: Santa Cruz De La Sierra
+  country: Bolivia
+- name: Banco Nacional De Bolivia
+  swift: BNBOBOLXSRE
+  swift8: BNBOBOLX
+  branch_name: Departamento Internacional
+  branch_address: Edificio B.N.B. Sucre
+  branch_code: SRE
+  city: Sucre
+  country: Bolivia
+- name: Banco Nacional De Bolivia
+  swift: BNBOBOLXTES
+  swift8: BNBOBOLX
+  branch_name: Tresoreria
+  branch_address: La Paz
+  branch_code: TES
+  city: La Paz
+  country: Bolivia
+- name: Banco Nacional De Bolivia
+  swift: BNBOBOLXTJA
+  swift8: BNBOBOLX
+  branch_name: Departamento Internacional
+  branch_address: Edificio B.N.B. Tarija
+  branch_code: TJA
+  city: Tarija
+  country: Bolivia
+- name: Banco Nacional De Bolivia
+  swift: BNBOBOLXXXX
+  swift8: BNBOBOLX
+  branch_name: Head Office
+  branch_address: Avenida Camacho Esquina Colon La Paz
+  branch_code: XXX
+  city: La Paz
+  country: Bolivia
+- name: Banco Santa Cruz S.a.
+  swift: BSCHBO21024
+  swift8: BSCHBO21
+  branch_name: Oruro Branch
+  branch_address: Calle Bolivar 460-480 Oruro
+  branch_code: '024'
+  city: Oruro
+  country: Bolivia
+- name: Banco Santa Cruz S.a.
+  swift: BSCHBO21025
+  swift8: BSCHBO21
+  branch_name: Sucre Branch
+  branch_address: Calle San Alberto 102 Sucre
+  branch_code: '025'
+  city: Sucre
+  country: Bolivia
+- name: Banco Santa Cruz S.a.
+  swift: BSCHBO21CBB
+  swift8: BSCHBO21
+  branch_name: Cochabamba Branch
+  branch_address: Calle 25 De Mayo 265 Cochabamba
+  branch_code: CBB
+  city: Cochabamba
+  country: Bolivia
+- name: Banco Santa Cruz S.a.
+  swift: BSCHBO21LPZ
+  swift8: BSCHBO21
+  branch_name: La Paz Branch
+  branch_address: Avenida Camacho 1448 La Paz
+  branch_code: LPZ
+  city: La Paz
+  country: Bolivia
+- name: Banco Santa Cruz S.a.
+  swift: BSCHBO21XXX
+  swift8: BSCHBO21
+  branch_name: Head Office
+  branch_address: Calle Junin 154 Santa Cruz De La Sierra
+  branch_code: XXX
+  city: Santa Cruz De La Sierra
+  country: Bolivia
+- name: Banco Solidario S.a.
+  swift: BSOLBOLPXXX
+  swift8: BSOLBOLP
+  branch_name: Head Office
+  branch_address: Banco Solidario S.A. (Bancosol) La Paz
+  branch_code: XXX
+  city: La Paz
+  country: Bolivia
+- name: Banco Union S.a.
+  swift: BAUNBO22CBB
+  swift8: BAUNBO22
+  branch_name: Sucursal Cochabamba
+  branch_address: Edificio Camara De Comercio Cochabamba
+  branch_code: CBB
+  city: Cochabamba
+  country: Bolivia
+- name: Banco Union S.a.
+  swift: BAUNBO22LPZ
+  swift8: BAUNBO22
+  branch_name: Sucursal La Paz
+  branch_address: Avenida Camacho 1416, Esquina La Paz
+  branch_code: LPZ
+  city: La Paz
+  country: Bolivia
+- name: Banco Union S.a.
+  swift: BAUNBO22SCZ
+  swift8: BAUNBO22
+  branch_name: Sucursal Santa Cruz
+  branch_address: Calle Libertad 156 Santa Cruz De La Sierra
+  branch_code: SCZ
+  city: Santa Cruz De La Sierra
+  country: Bolivia
+- name: Banco Union S.a.
+  swift: BAUNBO22XXX
+  swift8: BAUNBO22
+  branch_name: Head Office
+  branch_address: Calle Libertad 156 Santa Cruz De La Sierra
+  branch_code: XXX
+  city: Santa Cruz De La Sierra
+  country: Bolivia
+- name: Bhn Multibanco S.a.
+  swift: BHNMBOL1022
+  swift8: BHNMBOL1
+  branch_name: Santa Cruz De La Sierra
+  branch_address: Calle Gabriel Rene Mereno 140 Santa Cruz De La Sierra
+  branch_code: '022'
+  city: Santa Cruz De La Sierra
+  country: Bolivia
+- name: Bhn Multibanco S.a.
+  swift: BHNMBOL1023
+  swift8: BHNMBOL1
+  branch_name: Cochabamba
+  branch_address: Calle Nataniel Agruirre 501 Cochabamba
+  branch_code: '023'
+  city: Cochabamba
+  country: Bolivia
+- name: Bhn Multibanco S.a.
+  swift: BHNMBOL1XXX
+  swift8: BHNMBOL1
+  branch_name: Head Office
+  branch_address: Av Arce Esq. Rosendo Gutierrez 4824 La Paz
+  branch_code: XXX
+  city: Paz
+  country: Bolivia
+- name: Bolsa Boliviana De Valores S.a.
+  swift: XBOLBOL1XXX
+  swift8: XBOLBOL1
+  branch_name: Head Office
+  branch_address: Edificio Mutual La Paz La Paz
+  branch_code: XXX
+  city: La Paz
+  country: Bolivia

@@ -1,0 +1,58 @@
+---
+BQ:
+- name: Banco Di Caribe N.v. Bonaire
+  swift: BDCCBQBNXXX
+  swift8: BDCCBQBN
+  branch_name: Head Office
+  branch_address: Kaya Grandi 22 Kralendijk
+  branch_code: XXX
+  city: Kralendijk
+  country: Bonaire
+- name: Girobank Nv Bonaire Branch
+  swift: GIRCBQBNXXX
+  swift8: GIRCBQBN
+  branch_name: Head Office
+  branch_address: Kaya L.D. Gerharts 6 Kralendijk
+  branch_code: XXX
+  city: Kralendijk
+  country: Bonaire
+- name: Maduro And Curiel's Bank (bonaire) Nv
+  swift: MCBKBQBNXXX
+  swift8: MCBKBQBN
+  branch_name: Head Office
+  branch_address: Bulevar Gobernador N. Debrot 81 Kralendijk
+  branch_code: XXX
+  city: Kralendijk
+  country: Bonaire
+- name: Orco Bank N.v. Bonaire
+  swift: ORBABQBNXXX
+  swift8: ORBABQBN
+  branch_name: Head Office
+  branch_address: Kaya Grandi 48 Kralendijk
+  branch_code: XXX
+  city: Kralendijk
+  country: Bonaire
+- name: Rbc Royal Bank N.v. (formerly Rbtt Bank N.v.
+  swift: RBTTBQSAXXX
+  swift8: RBTTBQSA
+  branch_name: Head Office
+  branch_address: Windward Side Saba
+  branch_code: XXX
+  city: Saba
+  country: Bonaire
+- name: Rbc Royal Bank N.v.(formerly Rbtt Bank N.v.
+  swift: RBTTBQBNXXX
+  swift8: RBTTBQBN
+  branch_name: Head Office
+  branch_address: Kaya Korona 15 Bonaire
+  branch_code: XXX
+  city: Bonaire
+  country: Bonaire
+- name: The Windward Islands Bank Ltd St.eustatius
+  swift: WISBBQEEXXX
+  swift8: WISBBQEE
+  branch_name: Head Office
+  branch_address: Fort Orjane Straat Mazinga Square Saint Eustatius
+  branch_code: XXX
+  city: Saint Eustatius
+  country: Bonaire

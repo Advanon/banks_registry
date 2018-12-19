@@ -1,0 +1,938 @@
+---
+JE:
+- name: Banque Nationale De Paris
+  swift: BNPAJESHXXX
+  swift8: BNPAJESH
+  branch_name: Head Office
+  branch_address: Bnp House St. Helier Je4 8rd
+  branch_code: XXX
+  city: St. Helier
+  country: Jersey
+- name: Barclays Bank Plc
+  swift: BARCJES1022
+  swift8: BARCJES1
+  branch_name: Personal Banking International-Cust A-J Jersey
+  branch_address: Victoria Road Georgetown Je4 8zs
+  branch_code: '022'
+  city: Georgetown
+  country: Jersey
+- name: Barclays Bank Plc
+  swift: BARCJES1023
+  swift8: BARCJES1
+  branch_name: Personal Banking International-Cust K-Z Jersey
+  branch_address: Victoria Road Georgetown Je4 8zs
+  branch_code: '023'
+  city: Georgetown
+  country: Jersey
+- name: Barclays Bank Plc
+  swift: BARCJES1026
+  swift8: BARCJES1
+  branch_name: Personal Banking International-Jersey
+  branch_address: Victoria Road Georgetown Je4 8wy
+  branch_code: '026'
+  city: Georgetown
+  country: Jersey
+- name: Barclays Bank Plc
+  swift: BARCJES10S3
+  swift8: BARCJES1
+  branch_name: Barclays Bank Plc Jersey
+  branch_address: St. Helier
+  branch_code: 0S3
+  city: St. Helier
+  country: Jersey
+- name: Barclays Bank Plc
+  swift: BARCJES10WJ
+  swift8: BARCJES1
+  branch_name: Bpci Limited Woolwich Jersey
+  branch_address: 13 Library Place St. Helier Je4 8ne
+  branch_code: 0WJ
+  city: St. Helier
+  country: Jersey
+- name: Barclays Bank Plc
+  swift: BARCJES1XXX
+  swift8: BARCJES1
+  branch_name: Head Office
+  branch_address: 13 Library Place St. Helier Je4 8ne
+  branch_code: XXX
+  city: St. Helier
+  country: Jersey
+- name: Citibank N.A
+  swift: CITIJESXEFX
+  swift8: CITIJESX
+  branch_name: Citibank Jersey Emfx Confirmations
+  branch_address: St. Helier
+  branch_code: EFX
+  city: St. Helier
+  country: Jersey
+- name: Citibank N.A
+  swift: CITIJESXLPN
+  swift8: CITIJESX
+  branch_name: Private Banking Group
+  branch_address: 38 Esplanade St. Helier
+  branch_code: LPN
+  city: St. Helier
+  country: Jersey
+- name: Citibank N.A
+  swift: CITIJESXXXX
+  swift8: CITIJESX
+  branch_name: No branch name
+  branch_address: No branch address
+  branch_code: XXX
+  city: St. Helier
+  country: Jersey
+- name: Hsbc Bank Plc
+  swift: MIDLJEH104A
+  swift8: MIDLJEH1
+  branch_name: '402533'
+  branch_address: St. Helier
+  branch_code: 04A
+  city: St. Helier
+  country: Jersey
+- name: Hsbc Bank Plc
+  swift: MIDLJEH105A
+  swift8: MIDLJEH1
+  branch_name: Halkett Street, Jersey
+  branch_address: St. Helier
+  branch_code: 05A
+  city: St. Helier
+  country: Jersey
+- name: Hsbc Bank Plc
+  swift: MIDLJEH106A
+  swift8: MIDLJEH1
+  branch_name: Five Oaks, Jersey
+  branch_address: St. Helier
+  branch_code: 06A
+  city: St. Helier
+  country: Jersey
+- name: Hsbc Bank Plc
+  swift: MIDLJEH1XXX
+  swift8: MIDLJEH1
+  branch_name: Head Office
+  branch_address: 8 Library Place St. Helier
+  branch_code: XXX
+  city: St. Helier
+  country: Jersey
+- name: Jp Morgan Chase Bank, N.A
+  swift: CHASJESXENQ
+  swift8: CHASJESX
+  branch_name: Telex and S W I F T Message Enquiries
+  branch_address: St. Helier
+  branch_code: ENQ
+  city: St. Helier
+  country: Jersey
+- name: Jp Morgan Chase Bank, N.A
+  swift: CHASJESXKEY
+  swift8: CHASJESX
+  branch_name: Test Key and Bke Administration
+  branch_address: St. Helier
+  branch_code: KEY
+  city: St. Helier
+  country: Jersey
+- name: Jp Morgan Chase Bank, N.A
+  swift: CHASJESXXXX
+  swift8: CHASJESX
+  branch_name: Head Office
+  branch_address: Chase House St. Helier Je4 8th
+  branch_code: XXX
+  city: St. Helier
+  country: Jersey
+- name: Royal Bank Of Scotland International Limited, The
+  swift: RBOSJESXXXX
+  swift8: RBOSJESX
+  branch_name: Head Office
+  branch_address: Royal Bank House St. Helier Je2 4su
+  branch_code: XXX
+  city: St. Helier
+  country: Jersey
+- name: State Street Bank And Trust Company
+  swift: SBOSJESHXXX
+  swift8: SBOSJESH
+  branch_name: Head Office
+  branch_address: Eagle House St. Helier Je24qd
+  branch_code: XXX
+  city: St. Helier
+  country: Jersey
+- name: Union Bancaire Privee, Ubp
+  swift: UBPGJESXXXX
+  swift8: UBPGJESX
+  branch_name: Head Office
+  branch_address: 40 Esplanade St. Helier Je4 5uh
+  branch_code: XXX
+  city: St. Helier
+  country: Jersey
+- name: Barclays Private Bank And Trust Ltd
+  swift: BPBLJES1XXX
+  swift8: BPBLJES1
+  branch_name: Head Office
+  branch_address: 39-41 Broad Street St. Helier Je4 8pu
+  branch_code: XXX
+  city: St. Helier
+  country: Jersey
+- name: Deutsche Bank International Limited
+  swift: MGCOJESHXXX
+  swift8: MGCOJESH
+  branch_name: Head Office
+  branch_address: St. Pauls Gate St. Helier Je4 8zb
+  branch_code: XXX
+  city: St. Helier
+  country: Jersey
+- name: Lloyds Bank International Limited
+  swift: HSAMJESHXXX
+  swift8: HSAMJESH
+  branch_name: Head Office
+  branch_address: 25 New Street St. Helier Jersey Je4 8rg
+  branch_code: XXX
+  city: St. Helier Jersey
+  country: Jersey
+- name: Abbey National International Limited
+  swift: ANILJESHTSY
+  swift8: ANILJESH
+  branch_name: Treasury Operations
+  branch_address: St. Helier
+  branch_code: TSY
+  city: St. Helier
+  country: Jersey
+- name: Abbey National International Limited
+  swift: ANILJESHXXX
+  swift8: ANILJESH
+  branch_name: Head Office
+  branch_address: Abbey House St. Helier Je4 8xg
+  branch_code: XXX
+  city: St. Helier
+  country: Jersey
+- name: Abn Amro Bank N.v. Jersey Branch
+  swift: ABNAJESHXXX
+  swift8: ABNAJESH
+  branch_name: All Offices
+  branch_address: Abn Amro House St. Helier Je4 8tb
+  branch_code: XXX
+  city: St. Helier
+  country: Jersey
+- name: Abn Amro Trust Company (jersey) Limited
+  swift: ATCJJES1XXX
+  swift8: ATCJJES1
+  branch_name: Head Office
+  branch_address: 7 Castle Street St. Helier Je4 8tb
+  branch_code: XXX
+  city: St. Helier
+  country: Jersey
+- name: Alpha Bank Jersey Limited
+  swift: ALJEJES1XXX
+  swift8: ALJEJES1
+  branch_name: Head Office
+  branch_address: 5 Wests Centre St. Helier Je44st
+  branch_code: XXX
+  city: St. Helier
+  country: Jersey
+- name: Asahi Life Investment Europe Limited
+  swift: ALIEJES1XXX
+  swift8: ALIEJES1
+  branch_name: Head Office
+  branch_address: 12 Dumaesq Street St. Helier Je4 8zb
+  branch_code: XXX
+  city: St. Helier
+  country: Jersey
+- name: Ashburton (jersey) Limited
+  swift: ASHMJES1XXX
+  swift8: ASHMJES1
+  branch_name: Head Office
+  branch_address: Jersey General House St. Helier Je4 8sj
+  branch_code: XXX
+  city: St. Helier
+  country: Jersey
+- name: B.a.i.i. Trust Ltd
+  swift: BTRUJES1XXX
+  swift8: BTRUJES1
+  branch_name: Head Office
+  branch_address: 3 Charles Street St. Helier
+  branch_code: XXX
+  city: St. Helier
+  country: Jersey
+- name: Baloise Finance (jersey) Limited
+  swift: BAFJJES1XXX
+  swift8: BAFJJES1
+  branch_name: Head Office
+  branch_address: Eagle House St. Helier Je2 4qb
+  branch_code: XXX
+  city: St. Helier
+  country: Jersey
+- name: Bank Leumi Jersey Limited
+  swift: LUMIJES1XXX
+  swift8: LUMIJES1
+  branch_name: Head Office
+  branch_address: 27 Hill Street St. Helier Je4 5tr
+  branch_code: XXX
+  city: St. Helier
+  country: Jersey
+- name: Bank Of India, Jersey Branch
+  swift: BKIDJESHXXX
+  swift8: BKIDJESH
+  branch_name: Head Office
+  branch_address: 37 New Street St. Helier Je2 3ra
+  branch_code: XXX
+  city: St. Helier
+  country: Jersey
+- name: Bank Of Scotland (jersey) Limited
+  swift: BOFSJES1001
+  swift8: BOFSJES1
+  branch_name: Jersey Money Market Accounts Centre
+  branch_address: St. Helier
+  branch_code: '001'
+  city: St. Helier
+  country: Jersey
+- name: Bank Of Scotland (jersey) Limited
+  swift: BOFSJES1002
+  swift8: BOFSJES1
+  branch_name: Personal Financial Services Jersey
+  branch_address: St. Helier
+  branch_code: '002'
+  city: St. Helier
+  country: Jersey
+- name: Bank Of Scotland (jersey) Limited
+  swift: BOFSJES1SPJ
+  swift8: BOFSJES1
+  branch_name: Speirs and Jeffrey Jersey Branch
+  branch_address: St. Helier
+  branch_code: SPJ
+  city: St. Helier
+  country: Jersey
+- name: Bank Of Scotland (jersey) Limited
+  swift: BOFSJES1TCO
+  swift8: BOFSJES1
+  branch_name: Turcan Connell Offshore Branch
+  branch_address: St. Helier
+  branch_code: TCO
+  city: St. Helier
+  country: Jersey
+- name: Bank Of Scotland-jersey Treasury
+  swift: BOFSJES1011
+  swift8: BOFSJES1
+  branch_name: Jersey R 12 47 53
+  branch_address: St. Helier
+  branch_code: '011'
+  city: St. Helier
+  country: Jersey
+- name: Bank Of Scotland-jersey Treasury
+  swift: BOFSJES1012
+  swift8: BOFSJES1
+  branch_name: Jersey Money Mkt Ac Ctre R 12 47 54
+  branch_address: St. Helier
+  branch_code: '012'
+  city: St. Helier
+  country: Jersey
+- name: Bank Of Scotland-jersey Treasury
+  swift: BOFSJES1DRO
+  swift8: BOFSJES1
+  branch_name: Don Road Offshore
+  branch_address: St. Helier
+  branch_code: DRO
+  city: St. Helier
+  country: Jersey
+- name: Bank Of Scotland-jersey Treasury
+  swift: BOFSJES1JER
+  swift8: BOFSJES1
+  branch_name: International , Jersey
+  branch_address: St. Helier
+  branch_code: JER
+  city: St. Helier
+  country: Jersey
+- name: Bank Of Scotland-jersey Treasury
+  swift: BOFSJES1XXX
+  swift8: BOFSJES1
+  branch_name: Head Office
+  branch_address: Halifax House St. Helier Je4 5ub
+  branch_code: XXX
+  city: St. Helier
+  country: Jersey
+- name: Barclays Bank Plc Fiduciary Deposit Business
+  swift: BARCJESXXXX
+  swift8: BARCJESX
+  branch_name: Head Office
+  branch_address: Broad Street 39-41 St. Helier Je4 8pu
+  branch_code: XXX
+  city: St. Helier
+  country: Jersey
+- name: Barclays Private Clients International Limited, Jersey Branch
+  swift: BARCJESAXXX
+  swift8: BARCJESA
+  branch_name: Head Office
+  branch_address: Library Place 13 St. Helier Je4 8ne
+  branch_code: XXX
+  city: St. Helier
+  country: Jersey
+- name: Bedell Trust Company Limited
+  swift: BEDLJESHXXX
+  swift8: BEDLJESH
+  branch_name: Head Office
+  branch_address: 26 New Street St. Helier Je4 8pp
+  branch_code: XXX
+  city: St. Helier
+  country: Jersey
+- name: Bnp Paribas Securities Services Jersey Branch
+  swift: PARBJESHFDA
+  swift8: PARBJESH
+  branch_name: Jersey
+  branch_address: St. Helier
+  branch_code: FDA
+  city: St. Helier
+  country: Jersey
+- name: Bnp Paribas Securities Services Jersey Branch
+  swift: PARBJESHISI
+  swift8: PARBJESH
+  branch_name: Global Custody
+  branch_address: St. Helier
+  branch_code: ISI
+  city: St. Helier
+  country: Jersey
+- name: Bnp Paribas Securities Services Jersey Branch
+  swift: PARBJESHXXX
+  swift8: PARBJESH
+  branch_name: Head Office
+  branch_address: Liberte House St. Helier Je4 5rl
+  branch_code: XXX
+  city: St. Helier
+  country: Jersey
+- name: Brevan Howard Investment Products Limited
+  swift: BHIRJES1XXX
+  swift8: BHIRJES1
+  branch_name: Head Office
+  branch_address: One the Esplanade St. Helier
+  branch_code: XXX
+  city: St. Helier
+  country: Jersey
+- name: Capita Fiduciary Group Limited
+  swift: CFGRJES1XXX
+  swift8: CFGRJES1
+  branch_name: Head Office
+  branch_address: 12 Castle Street St. Helier Je2 3rt
+  branch_code: XXX
+  city: St. Helier
+  country: Jersey
+- name: Cater Allen Stockbrokers Limited
+  swift: JEFEJES1XXX
+  swift8: JEFEJES1
+  branch_name: Head Office
+  branch_address: 38 Esplanade St. Helier Je4 8xz
+  branch_code: XXX
+  city: St. Helier
+  country: Jersey
+- name: Cazenove Portfolio Management Jersey
+  swift: CAZEJES1XXX
+  swift8: CAZEJES1
+  branch_name: Head Office
+  branch_address: Commercial House St. Helier Je2 3ru
+  branch_code: XXX
+  city: St. Helier
+  country: Jersey
+- name: Cfp Energy Limited
+  swift: CFPEJES1XXX
+  swift8: CFPEJES1
+  branch_name: Head Office
+  branch_address: Templar House St. Helier Je1 2tr
+  branch_code: XXX
+  city: St. Helier
+  country: Jersey
+- name: Citibank (channel Islands) Limited
+  swift: CITIJEJXXXX
+  swift8: CITIJEJX
+  branch_name: Head Office
+  branch_address: 38 Esplanade St. Helier Je4 8qb
+  branch_code: XXX
+  city: St. Helier
+  country: Jersey
+- name: Collins Stewart (offshore) Limited
+  swift: MATSJES1XXX
+  swift8: MATSJES1
+  branch_name: Head Office
+  branch_address: 38/39 Esplanade St. Helier Je4 8fr
+  branch_code: XXX
+  city: St. Helier
+  country: Jersey
+- name: Deutsche International Corporate Services Ltd
+  swift: DICEJES1XXX
+  swift8: DICEJES1
+  branch_name: Head Office
+  branch_address: St Pauls Gate, New Street St. Helier Je4 8zb
+  branch_code: XXX
+  city: St. Helier
+  country: Jersey
+- name: Ebc Trust Company (jersey) Limited
+  swift: EBCJJES1XXX
+  swift8: EBCJJES1
+  branch_name: Head Office
+  branch_address: Ebc House St. Helier
+  branch_code: XXX
+  city: St. Helier
+  country: Jersey
+- name: Efg Private Bank (c.i.) Lt, Jersey Branch
+  swift: EFGBJESHXXX
+  swift8: EFGBJESH
+  branch_name: Head Office
+  branch_address: No 1 Seaton Place St. Helier Je4 8yj
+  branch_code: XXX
+  city: St. Helier
+  country: Jersey
+- name: Fenchurch Trust Ltd.
+  swift: FETRJES1XXX
+  swift8: FETRJES1
+  branch_name: Head Office
+  branch_address: 19 Seaton Place St. Helier
+  branch_code: XXX
+  city: St. Helier
+  country: Jersey
+- name: Forten Asset Management Limited
+  swift: FOSNJES1XXX
+  swift8: FOSNJES1
+  branch_name: Head Office
+  branch_address: Ogier House St. Helier Je4 9wg
+  branch_code: XXX
+  city: St. Helier
+  country: Jersey
+- name: Gartmore Fund Managers International Limited
+  swift: GRTLJES1XXX
+  swift8: GRTLJES1
+  branch_name: Head Office
+  branch_address: La Motte Street St. Helier
+  branch_code: XXX
+  city: St. Helier
+  country: Jersey
+- name: Hsbc Bank International Limited
+  swift: MIDLJESH01A
+  swift8: MIDLJESH
+  branch_name: St Helier
+  branch_address: St. Helier
+  branch_code: 01A
+  city: St. Helier
+  country: Jersey
+- name: Hsbc Bank International Limited
+  swift: MIDLJESHXXX
+  swift8: MIDLJESH
+  branch_name: Head Office
+  branch_address: Hsbc House St. Helier Je1 1hs
+  branch_code: XXX
+  city: St. Helier
+  country: Jersey
+- name: Hsbc Global Asset Management (international) Limited
+  swift: JCCLJES1XXX
+  swift8: JCCLJES1
+  branch_name: Head Office
+  branch_address: Hsbc House St. Helier
+  branch_code: XXX
+  city: St. Helier
+  country: Jersey
+- name: Hsbc Jersey St. Brelade
+  swift: MIDLJEJ1XXX
+  swift8: MIDLJEJ1
+  branch_name: Head Office
+  branch_address: 9 Quennevais Parade St. Brelade Je3 8fx
+  branch_code: XXX
+  city: St. Brelade
+  country: Jersey
+- name: Income Partners
+  swift: ICMEJES1XXX
+  swift8: ICMEJES1
+  branch_name: Head Office
+  branch_address: St Pauls Gate, New Street St. Helier Je4 8zb
+  branch_code: XXX
+  city: St. Helier
+  country: Jersey
+- name: J. P. Morgan International Derivatives Ltd.
+  swift: MOIEJES1XXX
+  swift8: MOIEJES1
+  branch_name: Head Office
+  branch_address: Oak Walk St. Peter St. Helier
+  branch_code: XXX
+  city: St. Helier
+  country: Jersey
+- name: L.b.i. Finance (jersey) Ltd
+  swift: LBFJJES1XXX
+  swift8: LBFJJES1
+  branch_name: Head Office
+  branch_address: 4 Bond Street St. Helier
+  branch_code: XXX
+  city: St. Helier
+  country: Jersey
+- name: Lloyds Bank Plc-jersey
+  swift: LOYDJEJ1XXX
+  swift8: LOYDJEJ1
+  branch_name: Head Office
+  branch_address: 25, New Street St. Helier Je4 8rg
+  branch_code: XXX
+  city: St. Helier
+  country: Jersey
+- name: Lloyds Bank Plc-jersey
+  swift: LOYDJES1001
+  swift8: LOYDJES1
+  branch_name: St Helier
+  branch_address: Broad Street 9 St. Helier Je4 8rs
+  branch_code: '001'
+  city: St. Helier
+  country: Jersey
+- name: Lloyds Bank Plc-jersey
+  swift: LOYDJES1002
+  swift8: LOYDJES1
+  branch_name: St Helier
+  branch_address: New Street 25-29 St. Helier Je4 8rs
+  branch_code: '002'
+  city: St. Helier
+  country: Jersey
+- name: Lloyds Bank Plc-jersey
+  swift: LOYDJES1003
+  swift8: LOYDJES1
+  branch_name: St Brelade
+  branch_address: Quennevais Road St. Brelade Je3 8ll
+  branch_code: '003'
+  city: St. Brelade
+  country: Jersey
+- name: Lloyds Bank Plc-jersey
+  swift: LOYDJES1004
+  swift8: LOYDJES1
+  branch_name: Five Oaks
+  branch_address: Bagatelle Road St. Helier Je2 7ty
+  branch_code: '004'
+  city: St. Helier
+  country: Jersey
+- name: Lloyds Bank Plc-jersey
+  swift: LOYDJES1005
+  swift8: LOYDJES1
+  branch_name: Five Oaks
+  branch_address: Bagatelle Road St. Helier Je2 7ty
+  branch_code: '005'
+  city: St. Helier
+  country: Jersey
+- name: Lloyds Bank Plc-jersey
+  swift: LOYDJES1006
+  swift8: LOYDJES1
+  branch_name: Jersey Offshore Centre
+  branch_address: La Pouquelaye St. Helier Je1 3zd
+  branch_code: '006'
+  city: St. Helier
+  country: Jersey
+- name: Lloyds Bank Plc-jersey
+  swift: LOYDJES1007
+  swift8: LOYDJES1
+  branch_name: Jersey Offshore Centre
+  branch_address: La Pouquelaye St. Helier Je1 3zd
+  branch_code: '007'
+  city: St. Helier
+  country: Jersey
+- name: Lloyds Bank Plc-jersey
+  swift: LOYDJESHXXX
+  swift8: LOYDJESH
+  branch_name: Head Office
+  branch_address: 25 New Street St. Helier Je4 8rg
+  branch_code: XXX
+  city: St. Helier
+  country: Jersey
+- name: Lloyds Tsb Offshore Limited
+  swift: LOYDJEH1XXX
+  swift8: LOYDJEH1
+  branch_name: Head Office
+  branch_address: 25 New Street St. Helier Je4 8ze
+  branch_code: XXX
+  city: St. Helier
+  country: Jersey
+- name: Lombard Odier Darier Hentsch (jersey) Limited
+  swift: LOCYJES1XXX
+  swift8: LOCYJES1
+  branch_name: Head Office
+  branch_address: No 1 Seaton Place St. Helier Je4 8yj
+  branch_code: XXX
+  city: St. Helier
+  country: Jersey
+- name: Lyxor/black Diamond Arbitrage
+  swift: LYDAJES1XXX
+  swift8: LYDAJES1
+  branch_name: Head Office
+  branch_address: 7 the Esplanade St. Helier Je4 8rt
+  branch_code: XXX
+  city: St. Helier
+  country: Jersey
+- name: Merrill Lynch Portfolio Managers (channel Islands
+  swift: MLPMJESXCIT
+  swift8: MLPMJESX
+  branch_name: St Helier
+  branch_address: St. Helier
+  branch_code: CIT
+  city: St. Helier
+  country: Jersey
+- name: Merrill Lynch Portfolio Managers (channel Islands
+  swift: MLPMJESXFST
+  swift8: MLPMJESX
+  branch_name: St Helier
+  branch_address: St. Helier
+  branch_code: FST
+  city: St. Helier
+  country: Jersey
+- name: Merrill Lynch Portfolio Managers (channel Islands
+  swift: MLPMJESXHLD
+  swift8: MLPMJESX
+  branch_name: Hld
+  branch_address: St. Helier
+  branch_code: HLD
+  city: St. Helier
+  country: Jersey
+- name: Merrill Lynch Portfolio Managers (channel Islands
+  swift: MLPMJESXSTP
+  swift8: MLPMJESX
+  branch_name: Stp
+  branch_address: St. Helier
+  branch_code: STP
+  city: St. Helier
+  country: Jersey
+- name: Merrill Lynch Portfolio Managers (channel Islands
+  swift: MLPMJESXXXX
+  swift8: MLPMJESX
+  branch_name: Head Office
+  branch_address: Forum House St. Helier
+  branch_code: XXX
+  city: St. Helier
+  country: Jersey
+- name: Minerva Trust And Corporate Services Limited
+  swift: MTCSJESHXXX
+  swift8: MTCSJESH
+  branch_name: Head Office
+  branch_address: La Motte Street 43/45 St. Helier Je4 8sd
+  branch_code: XXX
+  city: St. Helier
+  country: Jersey
+- name: Moore Stephens
+  swift: MSJYJESHXXX
+  swift8: MSJYJESH
+  branch_name: Head Office
+  branch_address: First Island House St. Helier Je2asp
+  branch_code: XXX
+  city: St. Helier
+  country: Jersey
+- name: Morgan Guaranty Trust Co. Of New York
+  swift: MGTCJES1XXX
+  swift8: MGTCJES1
+  branch_name: Head Office
+  branch_address: Queensway House St. Helier
+  branch_code: XXX
+  city: St. Helier
+  country: Jersey
+- name: Mourant And Co. Limited
+  swift: MOURJES1XXX
+  swift8: MOURJES1
+  branch_name: Head Office
+  branch_address: 22 Grenville Street St. Helier Je4 8px
+  branch_code: XXX
+  city: St. Helier
+  country: Jersey
+- name: Natwest Offshore-jersey
+  swift: RBOSJE41XXX
+  swift8: RBOSJE41
+  branch_name: Head Office
+  branch_address: 16 Library Place St. Helier Je4 8nh
+  branch_code: XXX
+  city: St. Helier
+  country: Jersey
+- name: Natwest-jersey
+  swift: RBOSJESHXXX
+  swift8: RBOSJESH
+  branch_name: Head Office
+  branch_address: 23-25 Broad Street St. Helier Je4 8qg
+  branch_code: XXX
+  city: St. Helier
+  country: Jersey
+- name: Nedbank Private Wealth Ltd
+  swift: RFLCJESXXXX
+  swift8: RFLCJESX
+  branch_name: Head Office
+  branch_address: 28 New Street St. Helier Je2 3te
+  branch_code: XXX
+  city: St. Helier
+  country: Jersey
+- name: Net-gold Services Ltd
+  swift: GMNYJESHXXX
+  swift8: GMNYJESH
+  branch_name: Head Office
+  branch_address: Commercial Street 32 St. Helier Je2 3ru
+  branch_code: XXX
+  city: St. Helier
+  country: Jersey
+- name: Newton Fund Managers (c.i.) Limited
+  swift: NEFAJEH1XXX
+  swift8: NEFAJEH1
+  branch_name: Head Office
+  branch_address: Union House St. Helier Je23rf
+  branch_code: XXX
+  city: St. Helier
+  country: Jersey
+- name: Pershing (channel Islands) Limited
+  swift: PERLJESHXXX
+  swift8: PERLJESH
+  branch_name: Head Office
+  branch_address: Ogier House St. Helier Je4 9wg
+  branch_code: XXX
+  city: St. Helier
+  country: Jersey
+- name: Quilter And Co Channel Islands
+  swift: QUITJES1XXX
+  swift8: QUITJES1
+  branch_name: Head Office
+  branch_address: Sutton House St. Helier Je4 8te
+  branch_code: XXX
+  city: St. Helier
+  country: Jersey
+- name: R And H Fund Services (jersey) Limited
+  swift: FUSJJES1XXX
+  swift8: FUSJJES1
+  branch_name: Head Office
+  branch_address: Ordnance House St. Helier Je4 8pw
+  branch_code: XXX
+  city: St. Helier
+  country: Jersey
+- name: Royal Bank Of Scotland Jersey St. Helier (plc
+  swift: RBOSJES1028
+  swift8: RBOSJES1
+  branch_name: Jersey St Helier Branch
+  branch_address: St. Helier
+  branch_code: '028'
+  city: St. Helier
+  country: Jersey
+- name: Royal Bank Of Scotland Jersey St. Helier (plc
+  swift: RBOSJES1560
+  swift8: RBOSJES1
+  branch_name: St Helier
+  branch_address: St. Helier
+  branch_code: '560'
+  city: St. Helier
+  country: Jersey
+- name: Royal Bank Of Scotland Jersey St. Helier (plc
+  swift: RBOSJES1891
+  swift8: RBOSJES1
+  branch_name: Jersey St Helier Branch
+  branch_address: St. Helier
+  branch_code: '891'
+  city: St. Helier
+  country: Jersey
+- name: Royal Bank Of Scotland Jersey St. Helier (plc
+  swift: RBOSJES1893
+  swift8: RBOSJES1
+  branch_name: Jersey St Helier Branch
+  branch_address: St. Helier
+  branch_code: '893'
+  city: St. Helier
+  country: Jersey
+- name: Royal Bank Of Scotland Jersey St. Helier (plc
+  swift: RBOSJES1XXX
+  swift8: RBOSJES1
+  branch_name: Head Office
+  branch_address: St. Helier
+  branch_code: XXX
+  city: St. Helier
+  country: Jersey
+- name: Sanne Trust Company Ltd
+  swift: SNLTJESHXXX
+  swift8: SNLTJESH
+  branch_name: No branch name
+  branch_address: No branch address
+  branch_code: XXX
+  city: St. Helier
+  country: Jersey
+- name: Sg Hambros Bank (channel Islands
+  swift: HAMBJESXXXX
+  swift8: HAMBJESX
+  branch_name: Head Office
+  branch_address: 18 Esplanade St. Helier Je4 8pr
+  branch_code: XXX
+  city: St. Helier
+  country: Jersey
+- name: Societe General Investment Management (channel Is Lands) Limited
+  swift: SGIMJES1XXX
+  swift8: SGIMJES1
+  branch_name: Head Office
+  branch_address: Channel House St. Helier Je4 0sf
+  branch_code: XXX
+  city: St. Helier
+  country: Jersey
+- name: Soditic And Co. Ltd
+  swift: SOFLJES1XXX
+  swift8: SOFLJES1
+  branch_name: Head Office
+  branch_address: 27 Hill Street St. Helier Je2 3rl
+  branch_code: XXX
+  city: St. Helier
+  country: Jersey
+- name: Standard Bank Jersey Ltd.
+  swift: SBICJESHXXX
+  swift8: SBICJESH
+  branch_name: Head Office
+  branch_address: Standard Bank House St. Helier Je4 8xr
+  branch_code: XXX
+  city: St. Helier
+  country: Jersey
+- name: Standard Bank Stockbrokers (c.i.) Ltd
+  swift: SBICJES1243
+  swift8: SBICJES1
+  branch_name: St Helier
+  branch_address: St. Helier
+  branch_code: '243'
+  city: St. Helier
+  country: Jersey
+- name: Standard Bank Stockbrokers (c.i.) Ltd
+  swift: SBICJES1XXX
+  swift8: SBICJES1
+  branch_name: Head Office
+  branch_address: One Waverly Place St. Helier Je4 8xr
+  branch_code: XXX
+  city: St. Helier
+  country: Jersey
+- name: Standard Chartered Bank, Jersey Branch
+  swift: SCBLJESHXXX
+  swift8: SCBLJESH
+  branch_name: Head Office
+  branch_address: Conway Street St. Helier Je4 8py
+  branch_code: XXX
+  city: St. Helier
+  country: Jersey
+- name: Standard Chartered Trust Co.
+  swift: SDCTJES1XXX
+  swift8: SDCTJES1
+  branch_name: Head Office
+  branch_address: Commercial House St. Helier
+  branch_code: XXX
+  city: St. Helier
+  country: Jersey
+- name: Stonehage Dealing And Treasury Services (jersey) Ltd
+  swift: SDTSJESHXXX
+  swift8: SDTSJESH
+  branch_name: Head Office
+  branch_address: The Forum St. Helier Je1 4hh
+  branch_code: XXX
+  city: St. Helier
+  country: Jersey
+- name: Stonehage Trust Holdings (jersey) Limited
+  swift: SFSHJESHXXX
+  swift8: SFSHJESH
+  branch_name: Head Office
+  branch_address: Sir Walter Raleigh House St. Helier Je1 4hh
+  branch_code: XXX
+  city: St. Helier
+  country: Jersey
+- name: Tintrade Ltd
+  swift: TINRJES1XXX
+  swift8: TINRJES1
+  branch_name: Head Office
+  branch_address: Ctv House St. Helier Je2 3gf
+  branch_code: XXX
+  city: St. Helier
+  country: Jersey
+- name: Ubs Ag Jersey Branch
+  swift: UBSWJESHXXX
+  swift8: UBSWJESH
+  branch_name: Jersey Branch
+  branch_address: Cantrade House St. Helier Je4 8uj
+  branch_code: XXX
+  city: St. Helier
+  country: Jersey
+- name: Vistra (jersey) Limited
+  swift: VISTJESHXXX
+  swift8: VISTJESH
+  branch_name: Head Office
+  branch_address: Esplanade 38 St. Helier Je1 4tr
+  branch_code: XXX
+  city: St. Helier
+  country: Jersey

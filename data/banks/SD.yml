@@ -1,0 +1,650 @@
+---
+SD:
+- name: Abu Dhabi Islamic Bank
+  swift: ABDISDKHXXX
+  swift8: ABDISDKH
+  branch_name: Head Office
+  branch_address: Interaction of Africa St With Maamo Khartoum
+  branch_code: XXX
+  city: Khartoum
+  country: Sudan
+- name: Citibank N.A.
+  swift: CITISDK1XXX
+  swift8: CITISDK1
+  branch_name: Head Office
+  branch_address: Khartoum
+  branch_code: XXX
+  city: Khartoum
+  country: Sudan
+- name: Habib Bank Ltd
+  swift: HABBSDK1XXX
+  swift8: HABBSDK1
+  branch_name: Head Office
+  branch_address: Baladia Avenue Khartoum
+  branch_code: XXX
+  city: Khartoum
+  country: Sudan
+- name: Qatar National Bank
+  swift: QNBASDKHXXX
+  swift8: QNBASDKH
+  branch_name: Head Office
+  branch_address: Qatar National Bank Khartoum Amarat
+  branch_code: XXX
+  city: Khartoum Amarat
+  country: Sudan
+- name: Kcb Sudan Ltd
+  swift: KCBLSDKJXXX
+  swift8: KCBLSDKJ
+  branch_name: Head Office
+  branch_address: Amin Building Downtown Juba
+  branch_code: XXX
+  city: Juba
+  country: Sudan
+- name: Mountains Trade And Development Bank
+  swift: MTDBSDKJXXX
+  swift8: MTDBSDKJ
+  branch_name: Head Office
+  branch_address: Police Club Street 4 Juba
+  branch_code: XXX
+  city: Juba
+  country: Sudan
+- name: Agricultural Bank Of Sudan
+  swift: ABSUSDKHXXX
+  swift8: ABSUSDKH
+  branch_name: Head Office
+  branch_address: Agricultural Bank Building Khartoum
+  branch_code: XXX
+  city: Khartoum
+  country: Sudan
+- name: Al Baraka Bank (sudan
+  swift: RAKASDKHXXX
+  swift8: RAKASDKH
+  branch_name: Head Office
+  branch_address: Al Baraka Twors Khartoum
+  branch_code: XXX
+  city: Khartoum
+  country: Sudan
+- name: Al Nile Bank For Commerce And Development Co.
+  swift: NILESDKH024
+  swift8: NILESDKH
+  branch_name: Omdurman
+  branch_address: Omdurman
+  branch_code: '024'
+  city: Omdurman
+  country: Sudan
+- name: Al Nile Bank For Commerce And Development Co.
+  swift: NILESDKH025
+  swift8: NILESDKH
+  branch_name: Medani
+  branch_address: Medani
+  branch_code: '025'
+  city: Medani
+  country: Sudan
+- name: Al Nile Bank For Commerce And Development Co.
+  swift: NILESDKH026
+  swift8: NILESDKH
+  branch_name: Elmngil
+  branch_address: Elmngil
+  branch_code: '026'
+  city: Elmngil
+  country: Sudan
+- name: Al Nile Bank For Commerce And Development Co.
+  swift: NILESDKH027
+  swift8: NILESDKH
+  branch_name: Elobied
+  branch_address: Elobied
+  branch_code: '027'
+  city: Elobied
+  country: Sudan
+- name: Al Nile Bank For Commerce And Development Co.
+  swift: NILESDKH028
+  swift8: NILESDKH
+  branch_name: Omrwaba
+  branch_address: Omrwaba
+  branch_code: '028'
+  city: Omrwaba
+  country: Sudan
+- name: Al Nile Bank For Commerce And Development Co.
+  swift: NILESDKH02A
+  swift8: NILESDKH
+  branch_name: Elnihood
+  branch_address: Elnihood
+  branch_code: 02A
+  city: Elnihood
+  country: Sudan
+- name: Al Nile Bank For Commerce And Development Co.
+  swift: NILESDKH02B
+  swift8: NILESDKH
+  branch_name: Abu Jebeha
+  branch_address: Abu Jebeha
+  branch_code: 02B
+  city: Abu Jebeha
+  country: Sudan
+- name: Al Nile Bank For Commerce And Development Co.
+  swift: NILESDKH02C
+  swift8: NILESDKH
+  branch_name: Niala
+  branch_address: Niala
+  branch_code: 02C
+  city: Niala
+  country: Sudan
+- name: Al Nile Bank For Commerce And Development Co.
+  swift: NILESDKH02D
+  swift8: NILESDKH
+  branch_name: El Fashir
+  branch_address: El Fashir
+  branch_code: 02D
+  city: El Fashir
+  country: Sudan
+- name: Al Nile Bank For Commerce And Development Co.
+  swift: NILESDKH02E
+  swift8: NILESDKH
+  branch_name: Haifa
+  branch_address: Haifa
+  branch_code: 02E
+  city: Haifa
+  country: Sudan
+- name: Al Nile Bank For Commerce And Development Co.
+  swift: NILESDKH02F
+  swift8: NILESDKH
+  branch_name: Elgdarif
+  branch_address: Elgdarif
+  branch_code: 02F
+  city: Elgdarif
+  country: Sudan
+- name: Al Nile Bank For Commerce And Development Co.
+  swift: NILESDKH02G
+  swift8: NILESDKH
+  branch_name: Kasla
+  branch_address: Kasla
+  branch_code: 02G
+  city: Kasla
+  country: Sudan
+- name: Al Nile Bank For Commerce And Development Co.
+  swift: NILESDKH02H
+  swift8: NILESDKH
+  branch_name: Atbra
+  branch_address: Atbra
+  branch_code: 02H
+  city: Atbra
+  country: Sudan
+- name: Al Nile Bank For Commerce And Development Co.
+  swift: NILESDKH02J
+  swift8: NILESDKH
+  branch_name: Khashm Elgirba
+  branch_address: Khashm Elgirba
+  branch_code: 02J
+  city: Elgirba
+  country: Sudan
+- name: Al Nile Bank For Commerce And Development Co.
+  swift: NILESDKH02K
+  swift8: NILESDKH
+  branch_name: Dungla
+  branch_address: Dungla
+  branch_code: 02K
+  city: Dungla
+  country: Sudan
+- name: Al Nile Bank For Commerce And Development Co.
+  swift: NILESDKH02L
+  swift8: NILESDKH
+  branch_name: Karema
+  branch_address: Karema
+  branch_code: 02L
+  city: Karema
+  country: Sudan
+- name: Al Nile Bank For Commerce And Development Co.
+  swift: NILESDKH02M
+  swift8: NILESDKH
+  branch_name: Elgolid
+  branch_address: Elgolid
+  branch_code: 02M
+  city: Elgolid
+  country: Sudan
+- name: Al Nile Bank For Commerce And Development Co.
+  swift: NILESDKH02N
+  swift8: NILESDKH
+  branch_name: Addbh
+  branch_address: Addbh
+  branch_code: 02N
+  city: Addbh
+  country: Sudan
+- name: Al Nile Bank For Commerce And Development Co.
+  swift: NILESDKH02P
+  swift8: NILESDKH
+  branch_name: Abu Hamad
+  branch_address: Abu Hamad
+  branch_code: 02P
+  city: Abu Hamad
+  country: Sudan
+- name: Al Nile Bank For Commerce And Development Co.
+  swift: NILESDKH0K2
+  swift8: NILESDKH
+  branch_name: Khartoum North Branch
+  branch_address: Khartoum
+  branch_code: 0K2
+  city: Khartoum
+  country: Sudan
+- name: Al Shamal Islamic Bank
+  swift: ISBSSDKHXXX
+  swift8: ISBSSDKH
+  branch_name: Head Office
+  branch_address: Sudanese Insurance Company Bdg Khartoum
+  branch_code: XXX
+  city: Khartoum
+  country: Sudan
+- name: Alrowad Bank For Development And Investment
+  swift: RBDISDKHXXX
+  swift8: RBDISDKH
+  branch_name: No branch name
+  branch_address: No branch address
+  branch_code: XXX
+  city: Khartoum
+  country: Sudan
+- name: Alsalam Bank
+  swift: ALSASDKHXXX
+  swift8: ALSASDKH
+  branch_name: Head Office
+  branch_address: Elbereir Building Khartoum
+  branch_code: XXX
+  city: Khartoum
+  country: Sudan
+- name: Animal Resources Bank
+  swift: ANRESDKHXXX
+  swift8: ANRESDKH
+  branch_name: Head Office
+  branch_address: Animal Resources Bank Building Khartoum
+  branch_code: XXX
+  city: Khartoum
+  country: Sudan
+- name: Arab Bank For Economic Development In Africa (badea
+  swift: ABEASDKHXXX
+  swift8: ABEASDKH
+  branch_name: Head Office
+  branch_address: Badea 11111 Khartoum
+  branch_code: XXX
+  city: Khartoum
+  country: Sudan
+- name: Arab Sudanese Bank
+  swift: ARABSDKHXXX
+  swift8: ARABSDKH
+  branch_name: Head Office
+  branch_address: Dar Nazar 995 Khartoum
+  branch_code: XXX
+  city: Khartoum
+  country: Sudan
+- name: Bank Of Khartoum
+  swift: BAKHSDKHXXX
+  swift8: BAKHSDKH
+  branch_name: Head Office
+  branch_address: Bank of Khartoum Building Khartoum
+  branch_code: XXX
+  city: Khartoum
+  country: Sudan
+- name: Bank Of Oman Ltd. (sudan
+  swift: BOLSSDK1XXX
+  swift8: BOLSSDK1
+  branch_name: Head Office
+  branch_address: Baladia Street Khartoum
+  branch_code: XXX
+  city: Khartoum
+  country: Sudan
+- name: Banque Sahelo-saharienne Pour L'investissement Et Le Commerce-soudan Branche-(b.s.i.c.
+  swift: BSAHSDKHXXX
+  swift8: BSAHSDKH
+  branch_name: Head Office
+  branch_address: Elfaiha Khartoum
+  branch_code: XXX
+  city: Khartoum
+  country: Sudan
+- name: Blue Nile Mashreg Bank
+  swift: BLNISDKHXXX
+  swift8: BLNISDKH
+  branch_name: Head Office
+  branch_address: Ibrahim M Abdalla Building Khartoum
+  branch_code: XXX
+  city: Khartoum
+  country: Sudan
+- name: Byblos Bank Africa Limited
+  swift: BYBASDKHXXX
+  swift8: BYBASDKH
+  branch_name: Head Office
+  branch_address: Street 21, Al Amarat Khartoum
+  branch_code: XXX
+  city: Khartoum
+  country: Sudan
+- name: Central Bank Of Sudan
+  swift: BSDNSDKHHQR
+  swift8: BSDNSDKH
+  branch_name: Head Quarter
+  branch_address: Central Bank of Sudan 11111 Khartoum
+  branch_code: HQR
+  city: Khartoum
+  country: Sudan
+- name: Central Bank Of Sudan
+  swift: BSDNSDKHXXX
+  swift8: BSDNSDKH
+  branch_name: Head Office
+  branch_address: Bank of Sudan Building Khartoum
+  branch_code: XXX
+  city: Khartoum
+  country: Sudan
+- name: El Nilein Industrial Development Bank Group
+  swift: ENIDSDKHXXX
+  swift8: ENIDSDKH
+  branch_name: Head Office
+  branch_address: Industrial Bank Building Khartoum
+  branch_code: XXX
+  city: Khartoum
+  country: Sudan
+- name: Elgazeera Sudanese Jordanian Bank
+  swift: GSJBSDKHXXX
+  swift8: GSJBSDKH
+  branch_name: Head Office
+  branch_address: Building 2 11111 Khartoum
+  branch_code: XXX
+  city: Khartoum
+  country: Sudan
+- name: Export Development Bank
+  swift: EXPDSDKHXXX
+  swift8: EXPDSDKH
+  branch_name: Head Office
+  branch_address: Gamhuria Street 3575 Khartoum
+  branch_code: XXX
+  city: Khartoum
+  country: Sudan
+- name: Faisal Islamic Bank
+  swift: FISBSDKH101
+  swift8: FISBSDKH
+  branch_name: Faiha Branch
+  branch_address: Khartoum
+  branch_code: '101'
+  city: Khartoum
+  country: Sudan
+- name: Faisal Islamic Bank
+  swift: FISBSDKH102
+  swift8: FISBSDKH
+  branch_name: Khartoum Central Station Branch
+  branch_address: Khartoum
+  branch_code: '102'
+  city: Khartoum
+  country: Sudan
+- name: Faisal Islamic Bank
+  swift: FISBSDKH105
+  swift8: FISBSDKH
+  branch_name: University of Khartoum Branch
+  branch_address: Khartoum
+  branch_code: '105'
+  city: Khartoum
+  country: Sudan
+- name: Faisal Islamic Bank
+  swift: FISBSDKH107
+  swift8: FISBSDKH
+  branch_name: Al Saganah Branch
+  branch_address: Khartoum
+  branch_code: '107'
+  city: Khartoum
+  country: Sudan
+- name: Faisal Islamic Bank
+  swift: FISBSDKH110
+  swift8: FISBSDKH
+  branch_name: Al Suk Al Shabi Khartoum Branch
+  branch_address: Khartoum
+  branch_code: '110'
+  city: Khartoum
+  country: Sudan
+- name: Faisal Islamic Bank
+  swift: FISBSDKH114
+  swift8: FISBSDKH
+  branch_name: Khartoum North Industrial Area Branch
+  branch_address: Khartoum
+  branch_code: '114'
+  city: Khartoum
+  country: Sudan
+- name: Faisal Islamic Bank
+  swift: FISBSDKH115
+  swift8: FISBSDKH
+  branch_name: Khartoum New Industrial Area Branch
+  branch_address: Khartoum
+  branch_code: '115'
+  city: Khartoum
+  country: Sudan
+- name: Faisal Islamic Bank
+  swift: FISBSDKH116
+  swift8: FISBSDKH
+  branch_name: Al Suk Al Mahali Branch
+  branch_address: Khartoum
+  branch_code: '116'
+  city: Khartoum
+  country: Sudan
+- name: Faisal Islamic Bank
+  swift: FISBSDKH118
+  swift8: FISBSDKH
+  branch_name: Al Suk Al Arabi Branch
+  branch_address: Khartoum
+  branch_code: '118'
+  city: Khartoum
+  country: Sudan
+- name: Faisal Islamic Bank
+  swift: FISBSDKH121
+  swift8: FISBSDKH
+  branch_name: Omdurman Branch
+  branch_address: Omdurman
+  branch_code: '121'
+  city: Omdurman
+  country: Sudan
+- name: Faisal Islamic Bank
+  swift: FISBSDKH122
+  swift8: FISBSDKH
+  branch_name: Artisans Branch
+  branch_address: Omdurman
+  branch_code: '122'
+  city: Khartoum
+  country: Sudan
+- name: Faisal Islamic Bank
+  swift: FISBSDKH401
+  swift8: FISBSDKH
+  branch_name: Portsudan Branch
+  branch_address: Port Sudan
+  branch_code: '401'
+  city: Port Sudan
+  country: Sudan
+- name: Faisal Islamic Bank
+  swift: FISBSDKHXXX
+  swift8: FISBSDKH
+  branch_name: Head Office
+  branch_address: El Faiha Building Khartoum
+  branch_code: XXX
+  city: Khartoum
+  country: Sudan
+- name: Farmers Commercial Bank
+  swift: FARCSDKHXXX
+  swift8: FARCSDKH
+  branch_name: Head Office
+  branch_address: Farmers Commercial Bank Building Khartoum
+  branch_code: XXX
+  city: Khartoum
+  country: Sudan
+- name: Financial Investment Bank
+  swift: FITBSDKHXXX
+  swift8: FITBSDKH
+  branch_name: Head Office
+  branch_address: Manar Tower Khartoum
+  branch_code: XXX
+  city: Khartoum
+  country: Sudan
+- name: Islamic Bank For Western Sudan
+  swift: IBWSSDK1XXX
+  swift8: IBWSSDK1
+  branch_name: Head Office
+  branch_address: United Nation Square Khartoum
+  branch_code: XXX
+  city: Khartoum
+  country: Sudan
+- name: Ivory Bank
+  swift: IVOBSDKHXXX
+  swift8: IVOBSDKH
+  branch_name: Head Office
+  branch_address: Intersection of Alsayed 11149 Khartoum
+  branch_code: XXX
+  city: Khartoum
+  country: Sudan
+- name: National Bank Of Abu Dhabi Khartoum Branch
+  swift: NBADSDKHAMR
+  swift8: NBADSDKH
+  branch_name: Amarat Branch
+  branch_address: Block 9/10 Khartoum
+  branch_code: AMR
+  city: Khartoum
+  country: Sudan
+- name: National Bank Of Abu Dhabi Khartoum Branch
+  swift: NBADSDKHXXX
+  swift8: NBADSDKH
+  branch_name: Head Office
+  branch_address: Altaka Building Khartoum
+  branch_code: XXX
+  city: Khartoum
+  country: Sudan
+- name: National Bank Of Egypt (khartoum
+  swift: NBEKSDKHXXX
+  swift8: NBEKSDKH
+  branch_name: Head Office
+  branch_address: Africa Tower Khartoum
+  branch_code: XXX
+  city: Khartoum
+  country: Sudan
+- name: National Bank Of Sudan
+  swift: NBSUSDKHXXX
+  swift8: NBSUSDKH
+  branch_name: Head Office
+  branch_address: Kronfli Building Khartoum
+  branch_code: XXX
+  city: Khartoum
+  country: Sudan
+- name: Omdurman National Bank
+  swift: OMDBSDKHXXX
+  swift8: OMDBSDKH
+  branch_name: Head Office
+  branch_address: Omdurman National Bank Building Khartoum
+  branch_code: XXX
+  city: Khartoum
+  country: Sudan
+- name: Qatar Islamic Bank Sudan Branch
+  swift: QIBSSDKHXXX
+  swift8: QIBSSDKH
+  branch_name: No branch name
+  branch_address: No branch address
+  branch_code: XXX
+  city: Khartoum
+  country: Sudan
+- name: Qatar Islamic Bank Sudan Branch
+  swift: QIBSSDK1XXX
+  swift8: QIBSSDK1
+  branch_name: Head Office
+  branch_address: Hamza Plaza Khartoum
+  branch_code: XXX
+  city: Khartoum
+  country: Sudan
+- name: Real Estate Commercial Bank
+  swift: CRETSDKHXXX
+  swift8: CRETSDKH
+  branch_name: Head Office
+  branch_address: El Baldia Street Khartoum
+  branch_code: XXX
+  city: Khartoum
+  country: Sudan
+- name: Saudi Sudanese Bank
+  swift: SAUSSDKHXXX
+  swift8: SAUSSDKH
+  branch_name: Head Office
+  branch_address: Mahmood Ahmad Abd Alla Building Khartoum
+  branch_code: XXX
+  city: Khartoum
+  country: Sudan
+- name: Savings And Social Development Bank
+  swift: SBSUSDK1XXX
+  swift8: SBSUSDK1
+  branch_name: Head Office
+  branch_address: Khartoum
+  branch_code: XXX
+  city: Khartoum
+  country: Sudan
+- name: Savings And Social Development Bank
+  swift: SSODSDKHXXX
+  swift8: SSODSDKH
+  branch_name: Head Office
+  branch_address: Bank of Khartoum Twoer Khartoum
+  branch_code: XXX
+  city: Khartoum
+  country: Sudan
+- name: Sudan Commercial Bank
+  swift: SUCBSDK1XXX
+  swift8: SUCBSDK1
+  branch_name: Head Office
+  branch_address: Khartoum
+  branch_code: XXX
+  city: Khartoum
+  country: Sudan
+- name: Sudanese Egyptian Bank
+  swift: SUEGSDKHXXX
+  swift8: SUEGSDKH
+  branch_name: Head Office
+  branch_address: Building 28 154 Khartoum
+  branch_code: XXX
+  city: Khartoum
+  country: Sudan
+- name: Sudanese French Bank
+  swift: SUFRSDKHXXX
+  swift8: SUFRSDKH
+  branch_name: Head Office
+  branch_address: El Ameen Modasir Building Khartoum
+  branch_code: XXX
+  city: Khartoum
+  country: Sudan
+- name: Sudanese International Bank
+  swift: SUINSDK1XXX
+  swift8: SUINSDK1
+  branch_name: Head Office
+  branch_address: Kasr Avenue Khartoum
+  branch_code: XXX
+  city: Khartoum
+  country: Sudan
+- name: Sudanese Islamic Bank
+  swift: SEIBSDKHXXX
+  swift8: SEIBSDKH
+  branch_name: Head Office
+  branch_address: Sudanese Islamic Bank Building Khartoum
+  branch_code: XXX
+  city: Khartoum
+  country: Sudan
+- name: Tadamon Islamic Bank
+  swift: TISBSDKHXXX
+  swift8: TISBSDKH
+  branch_name: Head Office
+  branch_address: Tadamon Tower Khartoum
+  branch_code: XXX
+  city: Khartoum
+  country: Sudan
+- name: The Industrial Development Bank-sudan
+  swift: INSDSDKHXXX
+  swift8: INSDSDKH
+  branch_name: Head Office
+  branch_address: The Industrial Development Bank Bl 710 Khartoum
+  branch_code: XXX
+  city: Khartoum
+  country: Sudan
+- name: United Capital Bank
+  swift: CBSKSDKHXXX
+  swift8: CBSKSDKH
+  branch_name: Head Office
+  branch_address: Building of Investment Savings 11111 Khartoum
+  branch_code: XXX
+  city: Khartoum
+  country: Sudan
+- name: Workers National Bank
+  swift: WONTSDKHXXX
+  swift8: WONTSDKH
+  branch_name: Head Office
+  branch_address: Mahmoud Ahd.A/Alla B. 11111 Khartoum
+  branch_code: XXX
+  city: Khartoum
+  country: Sudan

@@ -1,0 +1,458 @@
+---
+SI:
+- name: Abanka Vipa D.D.
+  swift: ABANSI2XXXX
+  swift8: ABANSI2X
+  branch_name: Head Office
+  branch_address: Slovenska Cesta 58 1517 Ljubljana
+  branch_code: XXX
+  city: Ljubljana
+  country: Slovenia
+- name: Bank Of Slovenia
+  swift: BSLJSI2XB2B
+  swift8: BSLJSI2X
+  branch_name: Poravnava Step2 Mpedd-Storitev B2b
+  branch_address: Ljubljana
+  branch_code: B2B
+  city: Ljubljana
+  country: Slovenia
+- name: Bank Of Slovenia
+  swift: BSLJSI2XCCB
+  swift8: BSLJSI2X
+  branch_name: Ccbm
+  branch_address: Ljubljana
+  branch_code: CCB
+  city: Ljubljana
+  country: Slovenia
+- name: Bank Of Slovenia
+  swift: BSLJSI2XCOR
+  swift8: BSLJSI2X
+  branch_name: Poravnava Step2 Mpedd-Storitev Core
+  branch_address: Ljubljana
+  branch_code: COR
+  city: Ljubljana
+  country: Slovenia
+- name: Bank Of Slovenia
+  swift: BSLJSI2XEUX
+  swift8: BSLJSI2X
+  branch_name: Target
+  branch_address: Ljubljana
+  branch_code: EUX
+  city: Ljubljana
+  country: Slovenia
+- name: Bank Of Slovenia
+  swift: BSLJSI2XIND
+  swift8: BSLJSI2X
+  branch_name: Ljubljana
+  branch_address: Ljubljana
+  branch_code: IND
+  city: Ljubljana
+  country: Slovenia
+- name: Bank Of Slovenia
+  swift: BSLJSI2XXXX
+  swift8: BSLJSI2X
+  branch_name: Head Office
+  branch_address: Slovenska 35 1505 Ljubljana
+  branch_code: XXX
+  city: Ljubljana
+  country: Slovenia
+- name: Banka Celje D.D.
+  swift: SBCESI2XXXX
+  swift8: SBCESI2X
+  branch_name: Head Office
+  branch_address: Vodnikova 2 3000 Celje
+  branch_code: XXX
+  city: Celje
+  country: Slovenia
+- name: Banka Koper D.D.
+  swift: BAKOSI2XIBO
+  swift8: BAKOSI2X
+  branch_name: Ibos Code
+  branch_address: Koper
+  branch_code: IBO
+  city: Koper
+  country: Slovenia
+- name: Banka Koper D.D.
+  swift: BAKOSI2XXXX
+  swift8: BAKOSI2X
+  branch_name: Head Office
+  branch_address: Pristaniska Ulica 14 6502 Koper
+  branch_code: XXX
+  city: Koper
+  country: Slovenia
+- name: Banka Sparkasse D.D.
+  swift: KSPKSI22XXX
+  swift8: KSPKSI22
+  branch_name: Head Office
+  branch_address: Cesta V Klece 15 1000 Ljubljana
+  branch_code: XXX
+  city: Ljubljana
+  country: Slovenia
+- name: Bks Bank Ag, Bancna Podruznica
+  swift: BFKKSI22XXX
+  swift8: BFKKSI22
+  branch_name: Head Office
+  branch_address: Dunajska Cesta 161 1102 Ljubljana
+  branch_code: XXX
+  city: Ljubljana
+  country: Slovenia
+- name: Central Securities Clearing Corporation - Kdd
+  swift: KDDSSI22XXX
+  swift8: KDDSSI22
+  branch_name: Head Office
+  branch_address: Tivolska Cesta 48 1000 Ljubljana
+  branch_code: XXX
+  city: Ljubljana
+  country: Slovenia
+- name: Delavska Hranilnica D.D. Ljubljana
+  swift: HDELSI22XXX
+  swift8: HDELSI22
+  branch_name: Head Office
+  branch_address: Dalmatinova 4 1000 Ljubljana
+  branch_code: XXX
+  city: Ljubljana
+  country: Slovenia
+- name: Dezelna Banka Slovenije D.D.
+  swift: SZKBSI2XXXX
+  swift8: SZKBSI2X
+  branch_name: Head Office
+  branch_address: Kolodvorska 9 1000 Ljubljana
+  branch_code: XXX
+  city: Ljubljana
+  country: Slovenia
+- name: Factor Banka D.D.
+  swift: FCTBSI2XXXX
+  swift8: FCTBSI2X
+  branch_name: Head Office
+  branch_address: Tivolska 48 1000 Ljubljana
+  branch_code: XXX
+  city: Ljubljana
+  country: Slovenia
+- name: Gorenjska Banka D.D., Kranj
+  swift: GORESI2XXXX
+  swift8: GORESI2X
+  branch_name: Head Office
+  branch_address: Bleiweisova Cesta 1 4000 Kranj
+  branch_code: XXX
+  city: Kranj
+  country: Slovenia
+- name: Hranilnica Lon D.D.
+  swift: HLONSI22XXX
+  swift8: HLONSI22
+  branch_name: Head Office
+  branch_address: Bleiweisova 2 4000 Kranj
+  branch_code: XXX
+  city: Kranj
+  country: Slovenia
+- name: Hranilnica Vipava D.D.
+  swift: HKVISI22XXX
+  swift8: HKVISI22
+  branch_name: Head Office
+  branch_address: Glavni Trg 15 5271 Vipava
+  branch_code: XXX
+  city: Vipava
+  country: Slovenia
+- name: Hypo Alpe-Adria-Bank D.D.
+  swift: HAABSI22XXX
+  swift8: HAABSI22
+  branch_name: Head Office
+  branch_address: Stekleni Dvor 1000 Ljubljana
+  branch_code: XXX
+  city: Ljubljana
+  country: Slovenia
+- name: Nova Kreditna Banka Maribor D.D.
+  swift: KBMASI2XXXX
+  swift8: KBMASI2X
+  branch_name: Head Office
+  branch_address: Vita Kraigherja 4 2505 Maribor
+  branch_code: XXX
+  city: Maribor
+  country: Slovenia
+- name: Nova Ljubljanska Banka D.D.
+  swift: LJBASI2XXXX
+  swift8: LJBASI2X
+  branch_name: Head Office
+  branch_address: Trg Republike 2 1520 Ljubljana
+  branch_code: XXX
+  city: Ljubljana
+  country: Slovenia
+- name: Postna Banka Slovenije D.D.
+  swift: PBSLSI22XXX
+  swift8: PBSLSI22
+  branch_name: Head Office
+  branch_address: Vita Kraigherja 5 2000 Maribor
+  branch_code: XXX
+  city: Maribor
+  country: Slovenia
+- name: Raiffeisen Banka D.D.
+  swift: KREKSI22XXX
+  swift8: KREKSI22
+  branch_name: Head Office
+  branch_address: Zagrebska Cesta 76 2000 Maribor
+  branch_code: XXX
+  city: Maribor
+  country: Slovenia
+- name: Sid-Slovenska Izvozna In Razvojna Banka, D.D., Ljubljana
+  swift: SIDRSI22XXX
+  swift8: SIDRSI22
+  branch_name: Head Office
+  branch_address: Ljubljana
+  branch_code: XXX
+  city: Ljubljana
+  country: Slovenia
+- name: Skb Banka D.D.
+  swift: SKBASI2XXXX
+  swift8: SKBASI2X
+  branch_name: Head Office
+  branch_address: 1513 Ljubljana
+  branch_code: XXX
+  city: Ljubljana
+  country: Slovenia
+- name: Unicredit Banka Slovenija D.D.
+  swift: BACXSI22XXX
+  swift8: BACXSI22
+  branch_name: Head Office
+  branch_address: Smartinska 140 1000 Ljubljana
+  branch_code: XXX
+  city: Ljubljana
+  country: Slovenia
+- name: Zveza Bank R.Z.Z O.J. Podruznica Ljubljana
+  swift: VSGKSI22XXX
+  swift8: VSGKSI22
+  branch_name: Head Office
+  branch_address: Bravnicarjeva 13 1000 Ljubljana
+  branch_code: XXX
+  city: Ljubljana
+  country: Slovenia
+- name: Argonos, Borzno Posredniska Hisa, D.o.o.
+  swift: ABPHSI21XXX
+  swift8: ABPHSI21
+  branch_name: Head Office
+  branch_address: Puharjeva Ulica 2 1000 Ljubljana
+  branch_code: XXX
+  city: Ljubljana
+  country: Slovenia
+- name: Brokerjet Sparkasse-borzno Posredniska Druzba, D.d.
+  swift: BSPDSI21XXX
+  swift8: BSPDSI21
+  branch_name: Head Office
+  branch_address: Cesta V Klece 15 1000 Ljubljana
+  branch_code: XXX
+  city: Ljubljana
+  country: Slovenia
+- name: Certius Bph D.o.o.
+  swift: CEBDSI21XXX
+  swift8: CEBDSI21
+  branch_name: Head Office
+  branch_address: Smartinska Cesta 152 1000 Ljubljana
+  branch_code: XXX
+  city: Ljubljana
+  country: Slovenia
+- name: Gbd Gorenjska Borznoposredniska Druzba D.d.
+  swift: GBDGSI21XXX
+  swift8: GBDGSI21
+  branch_name: Head Office
+  branch_address: Koroska Cesta 33 4000 Kranj
+  branch_code: XXX
+  city: Kranj
+  country: Slovenia
+- name: Generali Insurance Co.
+  swift: GEIUSI21XXX
+  swift8: GEIUSI21
+  branch_name: Head Office
+  branch_address: Krziceva 3 1000 Ljubljana
+  branch_code: XXX
+  city: Ljubljana
+  country: Slovenia
+- name: Ilirika D.d. Ljubljana
+  swift: ILIISI21XXX
+  swift8: ILIISI21
+  branch_name: Head Office
+  branch_address: Slovenska Cesta 54 a Ljubljana
+  branch_code: XXX
+  city: Ljubljana
+  country: Slovenia
+- name: Jasmin Muhic
+  swift: JASMSI21XXX
+  swift8: JASMSI21
+  branch_name: Head Office
+  branch_address: Kamniska Cesta 66 1217 Vodice
+  branch_code: XXX
+  city: Vodice
+  country: Slovenia
+- name: Kapitalska Druzba
+  swift: KADRSI21XXX
+  swift8: KADRSI21
+  branch_name: Head Office
+  branch_address: Dunajska Cesta 119 Ljubljana
+  branch_code: XXX
+  city: Ljubljana
+  country: Slovenia
+- name: Kbm Infond Dzu
+  swift: KBIZSI21XXX
+  swift8: KBIZSI21
+  branch_name: Head Office
+  branch_address: Vita Kraigherja 5 2000 Maribor
+  branch_code: XXX
+  city: Maribor
+  country: Slovenia
+- name: Kd Funds
+  swift: FNDDSI21XXX
+  swift8: FNDDSI21
+  branch_name: Head Office
+  branch_address: Cielovska 206 Ljubljana
+  branch_code: XXX
+  city: Ljubljana
+  country: Slovenia
+- name: Kd Skladi D.o.o.
+  swift: SKOOSI21XXX
+  swift8: SKOOSI21
+  branch_name: Head Office
+  branch_address: Celovska C. 206 1000 Ljubljana
+  branch_code: XXX
+  city: Ljubljana
+  country: Slovenia
+- name: Kd, Borznoposredniska Druzba, D.o.o
+  swift: BDDOSI21XXX
+  swift8: BDDOSI21
+  branch_name: Head Office
+  branch_address: Celovska Cesta 206 1000 Ljubljana
+  branch_code: XXX
+  city: Ljubljana
+  country: Slovenia
+- name: Ljubljana Stock Exchange
+  swift: XLJUSI21XXX
+  swift8: XLJUSI21
+  branch_name: Head Office
+  branch_address: Slovenska 56 61000 Ljubljana
+  branch_code: XXX
+  city: Ljubljana
+  country: Slovenia
+- name: Moja Delnica Bph D.d.
+  swift: MODPSI21XXX
+  swift8: MODPSI21
+  branch_name: Head Office
+  branch_address: Dunajska Cesta 20 1000 Ljubljana
+  branch_code: XXX
+  city: Ljubljana
+  country: Slovenia
+- name: Moja Nalozba Pokojninska Drurba
+  swift: MNPDSI21XXX
+  swift8: MNPDSI21
+  branch_name: Head Office
+  branch_address: Ulica Vita Kraigherja 5 2000 Maribor
+  branch_code: XXX
+  city: Maribor
+  country: Slovenia
+- name: Mp Bph D.d.
+  swift: BPHBSI21XXX
+  swift8: BPHBSI21
+  branch_name: Head Office
+  branch_address: Ulica Gradnikove Brigade 11 1000 Ljubljana
+  branch_code: XXX
+  city: Ljubljana
+  country: Slovenia
+- name: Mp, Poteza, Publikum, Investicijske Storitve, D.d.
+  swift: POPJSI21XXX
+  swift8: POPJSI21
+  branch_name: Head Office
+  branch_address: Zelezna Cesta 18 1000 Ljubljana
+  branch_code: XXX
+  city: Ljubljana
+  country: Slovenia
+- name: Perspektiva Bpd D.d.
+  swift: PEBPSI21XXX
+  swift8: PEBPSI21
+  branch_name: Head Office
+  branch_address: Dunajska Cesta 156 1000 Ljubljana
+  branch_code: XXX
+  city: Ljubljana
+  country: Slovenia
+- name: Poteza D.d.
+  swift: POBFSI21XXX
+  swift8: POBFSI21
+  branch_name: Head Office
+  branch_address: Zelezna Cesta 18 1000 Ljubljana
+  branch_code: XXX
+  city: Ljubljana
+  country: Slovenia
+- name: Primorski Financni Center Interfin D.o.o.
+  swift: PFCISI21XXX
+  swift8: PFCISI21
+  branch_name: Head Office
+  branch_address: Pristaniska Ulica 12 6000 Koper
+  branch_code: XXX
+  city: Koper
+  country: Slovenia
+- name: Prva Osebna Zavarovalnica
+  swift: PROZSI21XXX
+  swift8: PROZSI21
+  branch_name: No branch name
+  branch_address: No branch address
+  branch_code: XXX
+  city: Ljubljana
+  country: Slovenia
+- name: Publikum Borzno Posredovanje,d.d.
+  swift: PUBPSI21XXX
+  swift8: PUBPSI21
+  branch_name: Head Office
+  branch_address: Miklosiceva 38 1000 Ljubljana
+  branch_code: XXX
+  city: Ljubljana
+  country: Slovenia
+- name: Sberbank Banka D.d.
+  swift: SABRSI2XXXX
+  swift8: SABRSI2X
+  branch_name: Head Office
+  branch_address: Dunajska 128a 1000 Ljubljana
+  branch_code: XXX
+  city: Ljubljana
+  country: Slovenia
+- name: Sid-slovene Export And Development Bank Inc., Ljubljana
+  swift: SEDJSI21XXX
+  swift8: SEDJSI21
+  branch_name: Head Office
+  branch_address: Josipine Turnograjske 6 1000 Ljubljana
+  branch_code: XXX
+  city: Ljubljana
+  country: Slovenia
+- name: Triglav Druzba Za
+  swift: TRDRSI21XXX
+  swift8: TRDRSI21
+  branch_name: Head Office
+  branch_address: Slovenska 54 1000 Ljubljana
+  branch_code: XXX
+  city: Ljubljana
+  country: Slovenia
+- name: Ts Zeron Imperial Ltd
+  swift: ZEIMSI21XXX
+  swift8: ZEIMSI21
+  branch_name: Head Office
+  branch_address: Clearing and Brokerage House 3000 Celje
+  branch_code: XXX
+  city: Celje
+  country: Slovenia
+- name: Veritas B.h. D.o.o.
+  swift: VERISI21XXX
+  swift8: VERISI21
+  branch_name: Head Office
+  branch_address: Partizanska Cesta 30 2000 Maribor
+  branch_code: XXX
+  city: Maribor
+  country: Slovenia
+- name: Zavarovalnica Marbor
+  swift: ZAMASI21XXX
+  swift8: ZAMASI21
+  branch_name: Head Office
+  branch_address: Cankarjeva 3 Marbor
+  branch_code: XXX
+  city: Marbor
+  country: Slovenia
+- name: Zavarovalnica Triglav D.d.
+  swift: ZATRSI21XXX
+  swift8: ZATRSI21
+  branch_name: Head Office
+  branch_address: Miklosiceva 19 1000 Ljubljana
+  branch_code: XXX
+  city: Ljubljana
+  country: Slovenia

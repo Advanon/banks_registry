@@ -1,0 +1,674 @@
+---
+KW:
+- name: Citibank N.A.
+  swift: CITIKWKWXXX
+  swift8: CITIKWKW
+  branch_name: Head Office
+  branch_address: Gulf Business Center, Arraya Ctr. 13160 Safat
+  branch_code: XXX
+  city: Safat
+  country: Kuwait
+- name: National Bank Of Abu Dhabi
+  swift: NBADKWKWTFO
+  swift8: NBADKWKW
+  branch_name: Trade Finance Department, National Bank of Abu Dhabi, Kuwait
+  branch_address: Safat
+  branch_code: TFO
+  city: Safat
+  country: Kuwait
+- name: National Bank Of Abu Dhabi
+  swift: NBADKWKWXXX
+  swift8: NBADKWKW
+  branch_name: Head Office
+  branch_address: Al Bahar Tower 13027 Safat
+  branch_code: XXX
+  city: Safat
+  country: Kuwait
+- name: Qatar National Bank
+  swift: QNBAKWKWXXX
+  swift8: QNBAKWKW
+  branch_name: Head Office
+  branch_address: Al-Arabia Tower Kuwait
+  branch_code: XXX
+  city: Kuwait
+  country: Kuwait
+- name: Bbk
+  swift: BBKUKWKWXXX
+  swift8: BBKUKWKW
+  branch_name: Head Office
+  branch_address: Ahmed Al Jaber Street 13104 Kuwait
+  branch_code: XXX
+  city: Kuwait
+  country: Kuwait
+- name: Hsbc Bank Middle East
+  swift: HBMEKWKWXXX
+  swift8: HBMEKWKW
+  branch_name: Head Office
+  branch_address: Al Khorafi Building Kuwait
+  branch_code: XXX
+  city: Kuwait
+  country: Kuwait
+- name: Mashreqbank Psc.
+  swift: MSHQKWKWXXX
+  swift8: MSHQKWKW
+  branch_name: Head Office
+  branch_address: Zomorouda Tower Kuwait
+  branch_code: XXX
+  city: Kuwait
+  country: Kuwait
+- name: National Bank Of Kuwait
+  swift: NBOKKWKWXXX
+  swift8: NBOKKWKW
+  branch_name: Head Office
+  branch_address: Abdullah Salem Street 13001 Kuwait
+  branch_code: XXX
+  city: Kuwait
+  country: Kuwait
+- name: Ahli United Bank K.s.c.
+  swift: BKMEKWKWXXX
+  swift8: BKMEKWKW
+  branch_name: Head Office
+  branch_address: Joint Banking Complex 12168 Kuwait
+  branch_code: XXX
+  city: Kuwait
+  country: Kuwait
+- name: Al Mal Investment Company K.s.c. (closed
+  swift: AMKCKWK1XXX
+  swift8: AMKCKWK1
+  branch_name: Head Office
+  branch_address: Al-Usaimi Complex Safat
+  branch_code: XXX
+  city: Safat
+  country: Kuwait
+- name: Al Mulla International Exchange Co
+  swift: AMIEKWKWXXX
+  swift8: AMIEKWKW
+  branch_name: Head Office
+  branch_address: Al Saleh Complex 13002 Kuwait
+  branch_code: XXX
+  city: Kuwait
+  country: Kuwait
+- name: Al Rajhi Bank, Kuwait
+  swift: RJHIKWKWXXX
+  swift8: RJHIKWKW
+  branch_name: Head Office
+  branch_address: Olaya Main Street Kuwait
+  branch_code: XXX
+  city: Kuwait
+  country: Kuwait
+- name: Alahli Bank Of Kuwait K.s.c.
+  swift: ABKKKWKWXXX
+  swift8: ABKKKWKW
+  branch_name: Head Office
+  branch_address: Safat Square 13014 Kuwait
+  branch_code: XXX
+  city: Kuwait
+  country: Kuwait
+- name: Almuzaini Exchange Company Ksc (closed
+  swift: AAACKWKWXXX
+  swift8: AAACKWKW
+  branch_name: Head Office
+  branch_address: Opposite Public Library 13022 Kuwait
+  branch_code: XXX
+  city: Kuwait
+  country: Kuwait
+- name: Arab Fund For Economic And Social Development
+  swift: AFEDKWKWXXX
+  swift8: AFEDKWKW
+  branch_name: Head Office
+  branch_address: Arab Headquarter Org. Building 13080 Kuwait
+  branch_code: XXX
+  city: Kuwait
+  country: Kuwait
+- name: Bahrain Exchange Company Wll
+  swift: BECXKWKWXXX
+  swift8: BECXKWKW
+  branch_name: Head Office
+  branch_address: Ministry of Awqaf Bldg. 29149 Safat
+  branch_code: XXX
+  city: Safat
+  country: Kuwait
+- name: Bankmuscat
+  swift: BMUSKWKWXXX
+  swift8: BMUSKWKW
+  branch_name: Head Office
+  branch_address: Al Safat Commercial Centre 15259 Kuwait
+  branch_code: XXX
+  city: Kuwait
+  country: Kuwait
+- name: Bayt Al Mal Investment Company
+  swift: BAYTKWK1XXX
+  swift8: BAYTKWK1
+  branch_name: Head Office
+  branch_address: Wafra Real Estate Building 13067 Safat
+  branch_code: XXX
+  city: Safat
+  country: Kuwait
+- name: Bnp Paribas Kuwait
+  swift: BNPAKWKWXXX
+  swift8: BNPAKWKW
+  branch_name: Head Office
+  branch_address: Dar Al Awadhi Tower Kuwait
+  branch_code: XXX
+  city: Kuwait
+  country: Kuwait
+- name: Boubyan Bank (k.s.c
+  swift: BBYNKWKWXXX
+  swift8: BBYNKWKW
+  branch_name: Head Office
+  branch_address: Boubyan Bank (K.S.C.) 13116 Kuwait
+  branch_code: XXX
+  city: Kuwait
+  country: Kuwait
+- name: Burgan Bank
+  swift: BRGNKWKWXXX
+  swift8: BRGNKWKW
+  branch_name: Head Office
+  branch_address: Burgan Tower 12170 Kuwait
+  branch_code: XXX
+  city: Kuwait
+  country: Kuwait
+- name: Central Bank Of Kuwait
+  swift: CBKUKWKWBOD
+  swift8: CBKUKWKW
+  branch_name: Banking Operations Department-Kwd Only
+  branch_address: Kuwait
+  branch_code: BOD
+  city: Kuwait
+  country: Kuwait
+- name: Central Bank Of Kuwait
+  swift: CBKUKWKWXXX
+  swift8: CBKUKWKW
+  branch_name: Head Office
+  branch_address: Abdulla Al Salem Street 13006 Kuwait
+  branch_code: XXX
+  city: Kuwait
+  country: Kuwait
+- name: Commercial Bank Of Kuwait Sak,the
+  swift: COMBKWKWA01
+  swift8: COMBKWKW
+  branch_name: Head Office Branch
+  branch_address: Safat
+  branch_code: A01
+  city: Safat
+  country: Kuwait
+- name: Commercial Bank Of Kuwait Sak,the
+  swift: COMBKWKWA02
+  swift8: COMBKWKW
+  branch_name: Abdullah Al-Salem Street Branch
+  branch_address: Kuwait
+  branch_code: A02
+  city: Kuwait
+  country: Kuwait
+- name: Commercial Bank Of Kuwait Sak,the
+  swift: COMBKWKWA04
+  swift8: COMBKWKW
+  branch_name: Airport Branch
+  branch_address: Farwania
+  branch_code: A04
+  city: Farwania
+  country: Kuwait
+- name: Commercial Bank Of Kuwait Sak,the
+  swift: COMBKWKWA05
+  swift8: COMBKWKW
+  branch_name: Abd Mubarak Branch
+  branch_address: Safat
+  branch_code: A05
+  city: Safat
+  country: Kuwait
+- name: Commercial Bank Of Kuwait Sak,the
+  swift: COMBKWKWA06
+  swift8: COMBKWKW
+  branch_name: Fahaheel Branch
+  branch_address: Fahaheel
+  branch_code: A06
+  city: Fahaheel
+  country: Kuwait
+- name: Commercial Bank Of Kuwait Sak,the
+  swift: COMBKWKWA07
+  swift8: COMBKWKW
+  branch_name: Jahra Branch
+  branch_address: Jahra
+  branch_code: A07
+  city: Jahra
+  country: Kuwait
+- name: Commercial Bank Of Kuwait Sak,the
+  swift: COMBKWKWA08
+  swift8: COMBKWKW
+  branch_name: Khaitan Branch
+  branch_address: Khaitan
+  branch_code: A08
+  city: Khaitan
+  country: Kuwait
+- name: Commercial Bank Of Kuwait Sak,the
+  swift: COMBKWKWA09
+  swift8: COMBKWKW
+  branch_name: Fahd Al Salem Br
+  branch_address: Al Nasser Tower Kuwait
+  branch_code: A09
+  city: Kuwait
+  country: Kuwait
+- name: Commercial Bank Of Kuwait Sak,the
+  swift: COMBKWKWA10
+  swift8: COMBKWKW
+  branch_name: Omariya Branch
+  branch_address: Omaria
+  branch_code: A10
+  city: Omaria
+  country: Kuwait
+- name: Commercial Bank Of Kuwait Sak,the
+  swift: COMBKWKWA11
+  swift8: COMBKWKW
+  branch_name: Ajial Complex Branch
+  branch_address: Fahaheel
+  branch_code: A11
+  city: Fahaheel
+  country: Kuwait
+- name: Commercial Bank Of Kuwait Sak,the
+  swift: COMBKWKWA12
+  swift8: COMBKWKW
+  branch_name: Sabahiya Branch
+  branch_address: Sabahiya
+  branch_code: A12
+  city: Sabahiya
+  country: Kuwait
+- name: Commercial Bank Of Kuwait Sak,the
+  swift: COMBKWKWA13
+  swift8: COMBKWKW
+  branch_name: Sulaibikhat Branch
+  branch_address: Sulaibikhat
+  branch_code: A13
+  city: Sulaibikhat
+  country: Kuwait
+- name: Commercial Bank Of Kuwait Sak,the
+  swift: COMBKWKWA14
+  swift8: COMBKWKW
+  branch_name: Ea Ahmadi Branch
+  branch_address: Ahmadi
+  branch_code: A14
+  city: Ahmadi
+  country: Kuwait
+- name: Commercial Bank Of Kuwait Sak,the
+  swift: COMBKWKWA15
+  swift8: COMBKWKW
+  branch_name: Khaldiya Branch
+  branch_address: Khaldiya
+  branch_code: A15
+  city: Khaldiya
+  country: Kuwait
+- name: Commercial Bank Of Kuwait Sak,the
+  swift: COMBKWKWA16
+  swift8: COMBKWKW
+  branch_name: Hawalli Branch
+  branch_address: Hawalli
+  branch_code: A16
+  city: Hawalli
+  country: Kuwait
+- name: Commercial Bank Of Kuwait Sak,the
+  swift: COMBKWKWA17
+  swift8: COMBKWKW
+  branch_name: Mina Abdulla Branch
+  branch_address: Mina Abdulla
+  branch_code: A17
+  city: Mina Abdulla
+  country: Kuwait
+- name: Commercial Bank Of Kuwait Sak,the
+  swift: COMBKWKWA18
+  swift8: COMBKWKW
+  branch_name: Rumaithiya Branch
+  branch_address: Rumaithiya
+  branch_code: A18
+  city: Rumaithiya
+  country: Kuwait
+- name: Commercial Bank Of Kuwait Sak,the
+  swift: COMBKWKWA19
+  swift8: COMBKWKW
+  branch_name: Ardhiya Branch
+  branch_address: Ardhiya
+  branch_code: A19
+  city: Ardhiya
+  country: Kuwait
+- name: Commercial Bank Of Kuwait Sak,the
+  swift: COMBKWKWA20
+  swift8: COMBKWKW
+  branch_name: Beirut St Branch
+  branch_address: Commercial Bank of Kuwait 13029 Kuwait
+  branch_code: A20
+  city: Kuwait
+  country: Kuwait
+- name: Commercial Bank Of Kuwait Sak,the
+  swift: COMBKWKWA21
+  swift8: COMBKWKW
+  branch_name: Shuwaikh Branch
+  branch_address: Shuwaikh
+  branch_code: A21
+  city: Shuwaikh
+  country: Kuwait
+- name: Doha Bank
+  swift: DOHBKWKWXXX
+  swift8: DOHBKWKW
+  branch_name: Head Office
+  branch_address: Abraj Al Watiya Compound Kuwait
+  branch_code: XXX
+  city: Kuwait
+  country: Kuwait
+- name: Efg Hermes Ifa
+  swift: EFHIKWK1XXX
+  swift8: EFHIKWK1
+  branch_name: Head Office
+  branch_address: Stock Exchange Building Kuwait
+  branch_code: XXX
+  city: Kuwait
+  country: Kuwait
+- name: Etemadco Exchange Company W.l.l.
+  swift: ETEMKWKWXXX
+  swift8: ETEMKWKW
+  branch_name: Head Office
+  branch_address: Zaid Al-Kazemi and Sons 13061 Kuwait
+  branch_code: XXX
+  city: Kuwait
+  country: Kuwait
+- name: First Securities Brokerage Company S.a.k.
+  swift: FSBOKWK1XXX
+  swift8: FSBOKWK1
+  branch_name: Head Office
+  branch_address: Al-Naqee Building 13124 Safat
+  branch_code: XXX
+  city: Safat
+  country: Kuwait
+- name: Global Investment House
+  swift: GIHKKWKWCLT
+  swift8: GIHKKWKW
+  branch_name: Global Investment House-Client Account
+  branch_address: Kuwait
+  branch_code: CLT
+  city: Kuwait
+  country: Kuwait
+- name: Global Investment House
+  swift: GIHKKWKWXXX
+  swift8: GIHKKWKW
+  branch_name: Head Office
+  branch_address: Souk Al Safat Building 13149 Safat
+  branch_code: XXX
+  city: Safat
+  country: Kuwait
+- name: Gulf Bank, K.s.c.
+  swift: GULBKWKWTFS
+  swift8: GULBKWKW
+  branch_name: Trade Finance
+  branch_address: Kuwait
+  branch_code: TFS
+  city: Kuwait
+  country: Kuwait
+- name: Gulf Bank, K.s.c.
+  swift: GULBKWKWTRO
+  swift8: GULBKWKW
+  branch_name: Treasury Operations
+  branch_address: Kuwait
+  branch_code: TRO
+  city: Kuwait
+  country: Kuwait
+- name: Gulf Bank, K.s.c.
+  swift: GULBKWKWVOS
+  swift8: GULBKWKW
+  branch_name: Vostro-Kd Department
+  branch_address: Kuwait
+  branch_code: VOS
+  city: Kuwait
+  country: Kuwait
+- name: Gulf Bank, K.s.c.
+  swift: GULBKWKWXXX
+  swift8: GULBKWKW
+  branch_name: Head Office
+  branch_address: Mubarak Al-Kabir Street 13032 Kuwait
+  branch_code: XXX
+  city: Kuwait
+  country: Kuwait
+- name: Gulf Custody Company
+  swift: GCCOKWKWXXX
+  swift8: GCCOKWKW
+  branch_name: Head Office
+  branch_address: Ziad Al Kazemi Building 13072 Safat
+  branch_code: XXX
+  city: Safat
+  country: Kuwait
+- name: Gulf Investment Corporation
+  swift: GCORKWKWXXX
+  swift8: GCORKWKW
+  branch_name: Head Office
+  branch_address: Al-Sharq - Jaber Al-Mubarak Street 13035 Kuwait
+  branch_code: XXX
+  city: Kuwait
+  country: Kuwait
+- name: Independent Petroleum Group
+  swift: IPGHKWKWXXX
+  swift8: IPGHKWKW
+  branch_name: Head Office
+  branch_address: Building 18 24027 Jabriya
+  branch_code: XXX
+  city: Jabriya
+  country: Kuwait
+- name: Industrial Bank Of Kuwait K.s.c., The
+  swift: IBKUKWKWXXX
+  swift8: IBKUKWKW
+  branch_name: Head Office
+  branch_address: Joint Banking Centre 13032 Kuwait
+  branch_code: XXX
+  city: Kuwait
+  country: Kuwait
+- name: International Financial Line Exchange Co.k.s.c.(closed
+  swift: IFLCKWKWXXX
+  swift8: IFLCKWKW
+  branch_name: Head Office
+  branch_address: Arwa Real Estate Complex, Bld 7, 13102 Safat
+  branch_code: XXX
+  city: Safat
+  country: Kuwait
+- name: Investment Dar Company K.s.c.c, The
+  swift: TIDCKWKWXXX
+  swift8: TIDCKWKW
+  branch_name: Head Office
+  branch_address: Hasan Ahmed Ibrahim 13060 Kuwait
+  branch_code: XXX
+  city: Kuwait
+  country: Kuwait
+- name: Kfic Financial Brokerage
+  swift: KFFBKWK1XXX
+  swift8: KFFBKWK1
+  branch_name: Head Office
+  branch_address: Kse (Kuwait Stock Exchange) 13066 Kuwait
+  branch_code: XXX
+  city: Kuwait
+  country: Kuwait
+- name: Kuwait Airways Corporation
+  swift: KACCKWKWXXX
+  swift8: KACCKWKW
+  branch_name: Head Office
+  branch_address: Kuwait Airways Head Office 13004 Safat
+  branch_code: XXX
+  city: Safat
+  country: Kuwait
+- name: Kuwait Bahrain International Exchange Company Ksc, Kuwait
+  swift: KBEXKWKFXXX
+  swift8: KBEXKWKF
+  branch_name: Head Office
+  branch_address: Eissa Al Othman Bld., Basement 13130 Kuwait
+  branch_code: XXX
+  city: Kuwait
+  country: Kuwait
+- name: Kuwait China Investment Company Ksc
+  swift: KCICKWKMXXX
+  swift8: KCICKWKM
+  branch_name: Aim-Poms Service
+  branch_address: Al Dhow Tower 13122 Sharq
+  branch_code: XXX
+  city: Sharq
+  country: Kuwait
+- name: Kuwait Clearing Company S.a.k.
+  swift: KCCKKWKWXXX
+  swift8: KCCKKWKW
+  branch_name: Head Office
+  branch_address: Kuwait Stock Exchange 13081 Kuwait
+  branch_code: XXX
+  city: Kuwait
+  country: Kuwait
+- name: Kuwait Finance House (k.s.c.
+  swift: KFHOKWKWXXX
+  swift8: KFHOKWKW
+  branch_name: Head Office
+  branch_address: Kuwait Finance House 13110 Safat
+  branch_code: XXX
+  city: Safat
+  country: Kuwait
+- name: Kuwait Financial Centre S.a.k.
+  swift: KFCEKWKWXXX
+  swift8: KFCEKWKW
+  branch_name: Head Office
+  branch_address: Al Duaij Bdg, Darwaza a Razzak Kuwait
+  branch_code: XXX
+  city: Kuwait
+  country: Kuwait
+- name: Kuwait Fund For Arab Economic Development
+  swift: KFAEKWKWXXX
+  swift8: KFAEKWKW
+  branch_name: Head Office
+  branch_address: Kfaed Building 13030 Kuwait
+  branch_code: XXX
+  city: Kuwait
+  country: Kuwait
+- name: Kuwait International Bank
+  swift: KWIBKWKWXXX
+  swift8: KWIBKWKW
+  branch_name: Head Office
+  branch_address: Joint Banking Centre 13089 Kuwait
+  branch_code: XXX
+  city: Kuwait
+  country: Kuwait
+- name: Kuwait International Finance Co. S.a.k.
+  swift: KUIFKWK1XXX
+  swift8: KUIFKWK1
+  branch_name: Head Office
+  branch_address: Kuwait
+  branch_code: XXX
+  city: Kuwait
+  country: Kuwait
+- name: Kuwait Investment Authority
+  swift: KIAKKWKWXXX
+  swift8: KIAKKWKW
+  branch_name: Head Office
+  branch_address: Ministries Complex, Block 3 Kuwait
+  branch_code: XXX
+  city: Kuwait
+  country: Kuwait
+- name: Kuwait Investment Company (s.a.k.
+  swift: KICOKWKWXXX
+  swift8: KICOKWKW
+  branch_name: Head Office
+  branch_address: Souk Al Manakh Bldg. 13011 Kuwait
+  branch_code: XXX
+  city: Kuwait
+  country: Kuwait
+- name: Kuwait Investment Projects Company-assets Management Closed Shareholding Company
+  swift: KMCOKWKWXXX
+  swift8: KMCOKWKW
+  branch_name: Head Office
+  branch_address: Al-Shaheed Tower, Sharq 13149 Safat
+  branch_code: XXX
+  city: Safat
+  country: Kuwait
+- name: Kuwait Petroleum Corporation
+  swift: KPCOKWKWXXX
+  swift8: KPCOKWKW
+  branch_name: Head Office
+  branch_address: Oil Sector Building 13126 Safat
+  branch_code: XXX
+  city: Safat
+  country: Kuwait
+- name: Kuwait Stock Exchange
+  swift: XKUWKWK1XXX
+  swift8: XKUWKWK1
+  branch_name: Head Office
+  branch_address: Safat
+  branch_code: XXX
+  city: Safat
+  country: Kuwait
+- name: National Investments Company K.s.c. (closed
+  swift: NICKKWKWXXX
+  swift8: NICKKWKW
+  branch_name: Head Office
+  branch_address: Al Khaleejia Building 13117 Safat
+  branch_code: XXX
+  city: Safat
+  country: Kuwait
+- name: Noor Financial Investment Company
+  swift: NFICKWKWXXX
+  swift8: NFICKWKW
+  branch_name: Head Office
+  branch_address: Al-Kharafi Towe 13034 Kuwait
+  branch_code: XXX
+  city: Kuwait
+  country: Kuwait
+- name: Oman Exchange Co. Wll
+  swift: OMANKWKWXXX
+  swift8: OMANKWKW
+  branch_name: Head Office
+  branch_address: Essa Abdullah Othman 13121 Safat
+  branch_code: XXX
+  city: Safat
+  country: Kuwait
+- name: Public Institution For Social Security,the
+  swift: PISUKWKWXXX
+  swift8: PISUKWKW
+  branch_name: Head Office
+  branch_address: Al Taminat Building 13104 Kuwait
+  branch_code: XXX
+  city: Kuwait
+  country: Kuwait
+- name: Savings And Credit Bank
+  swift: SACBKWK1XXX
+  swift8: SACBKWK1
+  branch_name: Head Office
+  branch_address: Al-Shuhada Street 13015 Safat
+  branch_code: XXX
+  city: Safat
+  country: Kuwait
+- name: Sharq Financial Brokerage Co.
+  swift: SHFBKWK1XXX
+  swift8: SHFBKWK1
+  branch_name: Head Office
+  branch_address: Kuwait Stock Exchange 15252 Kuwait
+  branch_code: XXX
+  city: Kuwait
+  country: Kuwait
+- name: Uae Exchange Centre Wll
+  swift: UAEXKWKWXXX
+  swift8: UAEXKWKW
+  branch_name: Head Office
+  branch_address: Al Rabia Building 13122 Safat
+  branch_code: XXX
+  city: Safat
+  country: Kuwait
+- name: Union National Bank-kuwait
+  swift: UNBEKWKWXXX
+  swift8: UNBEKWKW
+  branch_name: Head Office
+  branch_address: Ahmed El Jaber Kuwait
+  branch_code: XXX
+  city: Kuwait
+  country: Kuwait
+- name: Union Securities Brokerage. Co
+  swift: UNSOKWK1XXX
+  swift8: UNSOKWK1
+  branch_name: Head Office
+  branch_address: Mubark Al- Kaber 25879 Kuwait
+  branch_code: XXX
+  city: Kuwait
+  country: Kuwait
+- name: Warba Bank
+  swift: WRBAKWKWXXX
+  swift8: WRBAKWKW
+  branch_name: Head Office
+  branch_address: Al Rayaa Center Kuwait
+  branch_code: XXX
+  city: Kuwait
+  country: Kuwait

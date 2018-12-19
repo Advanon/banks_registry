@@ -1,0 +1,1267 @@
+---
+HU:
+- name: Allamadossag Kezelo Kozpont Rt.
+  swift: AKKHHUHBXXX
+  swift8: AKKHHUHB
+  branch_name: Head Office
+  branch_address: Csalogany 9-11 Budapest 1027
+  branch_code: XXX
+  city: Budapest
+  country: Hungary
+- name: Bank Of China (Hungary) Ltd
+  swift: BKCHHUHBXXX
+  swift8: BKCHHUHB
+  branch_name: Head Office
+  branch_address: Bank Center Budapest 1054
+  branch_code: XXX
+  city: Budapest
+  country: Hungary
+- name: Bnp Paribas Securities Hungary Branch
+  swift: PARBHUHXXXX
+  swift8: PARBHUHX
+  branch_name: Head Office
+  branch_address: Roosevelt Ter 7-8 Budapest 1051
+  branch_code: XXX
+  city: Budapest
+  country: Hungary
+- name: Bnp Paribas, Hungary Branch
+  swift: BNPAHUHXXXX
+  swift8: BNPAHUHX
+  branch_name: Head Office
+  branch_address: Roosevelt Ter 7-8 Budapest 1051
+  branch_code: XXX
+  city: Budapest
+  country: Hungary
+- name: Budapest Bank Rt.
+  swift: BUDAHUHBXXX
+  swift8: BUDAHUHB
+  branch_name: Head Office
+  branch_address: Vaci Ut. 193 Budapest 1138
+  branch_code: XXX
+  city: Budapest
+  country: Hungary
+- name: Cib Bank Ltd. (Formerly Central-European Int.Bank Ltd.)
+  swift: CIBHHUHBXXX
+  swift8: CIBHHUHB
+  branch_name: Head Office
+  branch_address: Medve U. 4-14 Budapest 1027
+  branch_code: XXX
+  city: Budapest
+  country: Hungary
+- name: Citibank Europe Plc Hungarian Branch
+  swift: CITIHUHXCUS
+  swift8: CITIHUHX
+  branch_name: Custody Department
+  branch_address: Budapest
+  branch_code: CUS
+  city: Budapest
+  country: Hungary
+- name: Citibank Europe Plc Hungarian Branch
+  swift: CITIHUHXTRD
+  swift8: CITIHUHX
+  branch_name: Trade Services Dept
+  branch_address: Szabadsag Ter 7 Budapest 1051
+  branch_code: TRD
+  city: Budapest
+  country: Hungary
+- name: Citibank Europe Plc Hungarian Branch
+  swift: CITIHUHXXXX
+  swift8: CITIHUHX
+  branch_name: Head Office
+  branch_address: Szabadsag Ter 7 Budapest 1051
+  branch_code: XXX
+  city: Budapest
+  country: Hungary
+- name: Commerzbank (Budapest) Rt.
+  swift: COBAHUHXXXX
+  swift8: COBAHUHX
+  branch_name: Head Office
+  branch_address: Szechen Yi Rakpart 8 Budapest 1054
+  branch_code: XXX
+  city: Budapest
+  country: Hungary
+- name: Credigen Bank Zrt
+  swift: CRDGHUHBXXX
+  swift8: CRDGHUHB
+  branch_name: Head Office
+  branch_address: Fenyes Adolf U. 6-8. Budapest 1036
+  branch_code: XXX
+  city: Budapest
+  country: Hungary
+- name: Deutsche Bank Europe Gmbh Hungary Branch
+  swift: DEUTHU2BXXX
+  swift8: DEUTHU2B
+  branch_name: Head Office
+  branch_address: Hold Utca 27 Budapest 1054
+  branch_code: XXX
+  city: Budapest
+  country: Hungary
+- name: Erste Bank Hungary Nyrt
+  swift: GIBAHUHBXXX
+  swift8: GIBAHUHB
+  branch_name: Head Office
+  branch_address: Nepfurdo U. 24-26 Budapest 1138
+  branch_code: XXX
+  city: Budapest
+  country: Hungary
+- name: Fhb Kereskedelmi Bank Zrt
+  swift: FHKBHUHBXXX
+  swift8: FHKBHUHB
+  branch_name: Head Office
+  branch_address: Ulloi Ut 48 Budapest 1082
+  branch_code: XXX
+  city: Budapest
+  country: Hungary
+- name: Foldhitel Es Jelzalogbank Rt
+  swift: FHJBHUHBXXX
+  swift8: FHJBHUHB
+  branch_name: Head Office
+  branch_address: Ulloi Ut 48 Budapest 1082
+  branch_code: XXX
+  city: Budapest
+  country: Hungary
+- name: Fundamenta-Lakaskassza Lakastakarekpenztar Rt
+  swift: FLTPHUHBXXX
+  swift8: FLTPHUHB
+  branch_name: Head Office
+  branch_address: Vaci Utca 19-21 Budapest 1052
+  branch_code: XXX
+  city: Budapest
+  country: Hungary
+- name: Giro Zrt.
+  swift: GHUNHUHBGIR
+  swift8: GHUNHUHB
+  branch_name: Budapest
+  branch_address: Budapest
+  branch_code: GIR
+  city: Budapest
+  country: Hungary
+- name: Giro Zrt.
+  swift: GHUNHUHBXXX
+  swift8: GHUNHUHB
+  branch_name: Head Office
+  branch_address: Vadasz 31. Budapest 1054
+  branch_code: XXX
+  city: Budapest
+  country: Hungary
+- name: Granit Bank Zrt.
+  swift: GNBAHUHBXXX
+  swift8: GNBAHUHB
+  branch_name: Head Office
+  branch_address: Madach Imre 13-14 Budapest 1075
+  branch_code: XXX
+  city: Budapest
+  country: Hungary
+- name: Hanwha Bank Hungary Co. Ltd.
+  swift: KULBHUHBXXX
+  swift8: KULBHUHB
+  branch_name: Head Office
+  branch_address: Est-West Bussiness Center Budapest 1088
+  branch_code: XXX
+  city: Budapest
+  country: Hungary
+- name: Hungarian Branch Office Of Axa Bank Europe Sa.
+  swift: EUDIHUHBXXX
+  swift8: EUDIHUHB
+  branch_name: Head Office
+  branch_address: Bsr Building Budapest 1138
+  branch_code: XXX
+  city: Budapest
+  country: Hungary
+- name: Hungarian Development Bank Plc
+  swift: HBIDHUHBXXX
+  swift8: HBIDHUHB
+  branch_name: Head Office
+  branch_address: Nador Street 31 Budapest 1051
+  branch_code: XXX
+  city: Budapest
+  country: Hungary
+- name: Hungarian State Treasury
+  swift: HUSTHUHBXXX
+  swift8: HUSTHUHB
+  branch_name: Head Office
+  branch_address: Csalogany U 9-11 Budapest 1027
+  branch_code: XXX
+  city: Budapest
+  country: Hungary
+- name: Ing Bank N.V. Hungary Branch
+  swift: INGBHUHBXXX
+  swift8: INGBHUHB
+  branch_name: Head Office
+  branch_address: Dozsa Gy. Ut 84b Budapest 1068
+  branch_code: XXX
+  city: Budapest
+  country: Hungary
+- name: K And H Bank Zrt.(Formerly Kereskedelmi Es Hitelbank Rt)
+  swift: OKHBHUHBXXX
+  swift8: OKHBHUHB
+  branch_name: Head Office
+  branch_address: Lechner Odon Fasor 9. Budapest 1095
+  branch_code: XXX
+  city: Budapest
+  country: Hungary
+- name: Kdb Bank (Hungary) Ltd.
+  swift: KODBHUHBXXX
+  swift8: KODBHUHB
+  branch_name: Head Office
+  branch_address: Bajcsy-Zsilinszky Ut 42-46 Budapest 1054
+  branch_code: XXX
+  city: Budapest
+  country: Hungary
+- name: Kozponti Elszamolohaz Es Ertektar (Budapest), Zrt.
+  swift: KELRHUHBABC
+  swift8: KELRHUHB
+  branch_name: Viber Department
+  branch_address: Asboth U. 9-11 Budapest 1367
+  branch_code: ABC
+  city: Budapest
+  country: Hungary
+- name: Kozponti Elszamolohaz Es Ertektar (Budapest), Zrt.
+  swift: KELRHUHBXXX
+  swift8: KELRHUHB
+  branch_name: Head Office
+  branch_address: Asboth U. 9-11 Budapest 1075
+  branch_code: XXX
+  city: Budapest
+  country: Hungary
+- name: Magnet Bank Zrt.
+  swift: HBWEHUHBXXX
+  swift8: HBWEHUHB
+  branch_name: Head Office
+  branch_address: Andrassy Ut 98 Budapest 1062
+  branch_code: XXX
+  city: Budapest
+  country: Hungary
+- name: Magyar Cetelem Bank Zrt.
+  swift: MCBHHUHBXXX
+  swift8: MCBHHUHB
+  branch_name: Head Office
+  branch_address: Tolgyfa U. 1-3 Budapest 1027
+  branch_code: XXX
+  city: Budapest
+  country: Hungary
+- name: Magyar Export Import Bank Zrt.
+  swift: HEXIHUHBXXX
+  swift8: HEXIHUHB
+  branch_name: Head Office
+  branch_address: Nagymezo Utca 46-48 Budapest 1065
+  branch_code: XXX
+  city: Budapest
+  country: Hungary
+- name: Magyar Nemzeti Bank
+  swift: MANEHUHBXXX
+  swift8: MANEHUHB
+  branch_name: Head Office
+  branch_address: Szabadsag Ter 8-9 Budapest 1054
+  branch_code: XXX
+  city: Budapest
+  country: Hungary
+- name: Magyar Nemzeti Bank
+  swift: MANEHUHHXXX
+  swift8: MANEHUHH
+  branch_name: Domestic Payment System
+  branch_address: Szabadsag Tev 8/9 Budapest 1850
+  branch_code: XXX
+  city: Budapest
+  country: Hungary
+- name: Magyar Posta Zrt
+  swift: HUPOHUHBXXX
+  swift8: HUPOHUHB
+  branch_name: Head Office
+  branch_address: Krisztina Krt. 6-8 Budapest 1540
+  branch_code: XXX
+  city: Budapest
+  country: Hungary
+- name: Magyar Takarekszovetkezeti Bank Rt.
+  swift: TAKBHUHBXXX
+  swift8: TAKBHUHB
+  branch_name: Head Office
+  branch_address: Pethenyi Koz 10 Budapest 1122
+  branch_code: XXX
+  city: Budapest
+  country: Hungary
+- name: Magyarorszagi Volksbank Rt.
+  swift: MAVOHUHBXXX
+  swift8: MAVOHUHB
+  branch_name: Head Office
+  branch_address: Rakoczi U. 7 Budapest 1088
+  branch_code: XXX
+  city: Budapest
+  country: Hungary
+- name: Merkantil Valto Es Vagyonbefekteto Bank Rt.
+  swift: MRKBHUHBXXX
+  swift8: MRKBHUHB
+  branch_name: Head Office
+  branch_address: Jozsef Attila U. 24 Budapest 1051
+  branch_code: XXX
+  city: Budapest
+  country: Hungary
+- name: Mkb Bank Zrt (Formerly Magyar Kulkereskedelmi Bank Rt.)
+  swift: MKKBHUHBXXX
+  swift8: MKKBHUHB
+  branch_name: Head Office
+  branch_address: Vaci U. 38 Budapest 1056
+  branch_code: XXX
+  city: Budapest
+  country: Hungary
+- name: Oberbank Ag
+  swift: OBKLHUHBXXX
+  swift8: OBKLHUHB
+  branch_name: Head Office
+  branch_address: Vaci Ut 1-3 Budapest 1062
+  branch_code: XXX
+  city: Budapest
+  country: Hungary
+- name: Oberbank Ag
+  swift: OBKLHUHBDEB
+  swift8: OBKLHUHB
+  branch_name: Debrecen
+  branch_address: Debrecen
+  branch_code: DEB
+  city: Debrecen
+  country: Hungary
+- name: Otp Bank Plc.
+  swift: OTPVHUHBXXX
+  swift8: OTPVHUHB
+  branch_name: Head Office
+  branch_address: Nador Street 16 Budapest 1051
+  branch_code: XXX
+  city: Budapest
+  country: Hungary
+- name: Otp Mortgagebank Ltd
+  swift: OTPJHUHBXXX
+  swift8: OTPJHUHB
+  branch_name: Head Office
+  branch_address: Deak Ferenc U 7-9 Budapest 1052
+  branch_code: XXX
+  city: Budapest
+  country: Hungary
+- name: Porsche Bank Hungaria Zrt
+  swift: POHZHUHBXXX
+  swift8: POHZHUHB
+  branch_name: Head Office
+  branch_address: Fay Utca 27. Budapest 1139
+  branch_code: XXX
+  city: Budapest
+  country: Hungary
+- name: Raiffeisen Bank Zrt.
+  swift: UBRTHUHBXXX
+  swift8: UBRTHUHB
+  branch_name: Head Office
+  branch_address: Akademia Utca 6 Budapest 1054
+  branch_code: XXX
+  city: Budapest
+  country: Hungary
+- name: Sopron Bank Burgenland Zrt.
+  swift: EHBBHUHSXXX
+  swift8: EHBBHUHS
+  branch_name: Head Office
+  branch_address: Kossuth L.U. 19 Sopron 9400
+  branch_code: XXX
+  city: Sopron
+  country: Hungary
+- name: Unicredit Bank Hungary Zrt.
+  swift: BACXHUHBXXX
+  swift8: BACXHUHB
+  branch_name: Head Office
+  branch_address: Szabadsag Ter 5-6 Budapest 1054
+  branch_code: XXX
+  city: Budapest
+  country: Hungary
+- name: "'europa' Investment Fund Management Company Limited"
+  swift: EIFAHUH1XXX
+  swift8: EIFAHUH1
+  branch_name: Head Office
+  branch_address: Fo U. 14-18 Budapest 1011
+  branch_code: XXX
+  city: Budapest
+  country: Hungary
+- name: Access Investment Fund Management Company Ltd.
+  swift: AIFMHUH1XXX
+  swift8: AIFMHUH1
+  branch_name: Head Office
+  branch_address: Akademia U. 7-9 Budapest 1054
+  branch_code: XXX
+  city: Budapest
+  country: Hungary
+- name: Aegon Hungary Investment Fund Management Company Ltd.
+  swift: AHIFHUH1XXX
+  swift8: AHIFHUH1
+  branch_name: Head Office
+  branch_address: Ulloi Ut 1 Budapest 1091
+  branch_code: XXX
+  city: Budapest
+  country: Hungary
+- name: Aegon Magyarorszag Befektetesi Jegy Forgalmazo Zrt.
+  swift: AMBJHUH1XXX
+  swift8: AMBJHUH1
+  branch_name: Head Office
+  branch_address: Kalvin Ter 12-13. Budapest 1085
+  branch_code: XXX
+  city: Budapest
+  country: Hungary
+- name: Agribroker Kft.
+  swift: AGRFHUH1AAA
+  swift8: AGRFHUH1
+  branch_name: Head Office
+  branch_address: Budapest
+  branch_code: AAA
+  city: Budapest
+  country: Hungary
+- name: Agribroker Kft.
+  swift: AGRFHUH1XXX
+  swift8: AGRFHUH1
+  branch_name: Head Office
+  branch_address: Hungaria Krt. 166 Budapest 1146
+  branch_code: XXX
+  city: Budapest
+  country: Hungary
+- name: Agrimpex Kft.
+  swift: AGKFHUH1XXX
+  swift8: AGKFHUH1
+  branch_name: Head Office
+  branch_address: Hungaria Krt. 166. Budapest 1146
+  branch_code: XXX
+  city: Budapest
+  country: Hungary
+- name: Agrokont Zrt.
+  swift: AGZRHUH1MMD
+  swift8: AGZRHUH1
+  branch_name: Management
+  branch_address: Budapest
+  branch_code: MMD
+  city: Budapest
+  country: Hungary
+- name: Agrokont Zrt.
+  swift: AGZRHUH1XXX
+  swift8: AGZRHUH1
+  branch_name: Head Office
+  branch_address: Andrassy 70. Budapest 1162
+  branch_code: XXX
+  city: Budapest
+  country: Hungary
+- name: Axa Magyarororszag Befektetesi Alapkezelo Zrt
+  swift: AMBLHUH1XXX
+  swift8: AMBLHUH1
+  branch_name: Head Office
+  branch_address: Vaci 135-139 Budapest 1138
+  branch_code: XXX
+  city: Budapest
+  country: Hungary
+- name: Banif Plus Bank Zrt. 5th Floor
+  swift: BPZFHUH1XXX
+  swift8: BPZFHUH1
+  branch_name: Head Office
+  branch_address: Tower C Budapest 1138
+  branch_code: XXX
+  city: Budapest
+  country: Hungary
+- name: Bankar Befektetesi Rt
+  swift: BABFHUH1XXX
+  swift8: BABFHUH1
+  branch_name: Head Office
+  branch_address: Szabagsag Ter 7, Bank Center Budapest 1944
+  branch_code: XXX
+  city: Budapest
+  country: Hungary
+- name: Biztonsag Invest Securities Inc.
+  swift: BISIHUH1XXX
+  swift8: BISIHUH1
+  branch_name: Head Office
+  branch_address: Karoly Korut 11. Budapest 1075
+  branch_code: XXX
+  city: Budapest
+  country: Hungary
+- name: Bnp Dresdner Ertekpapir Rt
+  swift: BDEKHUH1XXX
+  swift8: BDEKHUH1
+  branch_name: Head Office
+  branch_address: Nagysandor J. U. 8 Budapest 1054
+  branch_code: XXX
+  city: Budapest
+  country: Hungary
+- name: Buda-cash Brokerhaz Zartkoruen Mukodo Reszvenytarsasag
+  swift: BBZMHUH1XXX
+  swift8: BBZMHUH1
+  branch_name: Head Office
+  branch_address: 22. Menesi Ut Budapest 1118
+  branch_code: XXX
+  city: Budapest
+  country: Hungary
+- name: Budapest Commodity Exchange
+  swift: XBCEHUH1XXX
+  swift8: XBCEHUH1
+  branch_name: Head Office
+  branch_address: Budapest
+  branch_code: XXX
+  city: Budapest
+  country: Hungary
+- name: Budapest Investment Management Company Ltd.
+  swift: BIMCHUH1XXX
+  swift8: BIMCHUH1
+  branch_name: Head Office
+  branch_address: Vaci Ut. 188 Budapest 1138
+  branch_code: XXX
+  city: Budapest
+  country: Hungary
+- name: Budapesti Ertekt Zsde Zartkoer En M Koed Reszvenytarsasag
+  swift: XBUDHUH1XXX
+  swift8: XBUDHUH1
+  branch_name: Head Office
+  branch_address: Andrassy Ut 93. Budapest 1052
+  branch_code: XXX
+  city: Budapest
+  country: Hungary
+- name: Ca Ib Investment Fund Management Ltd.
+  swift: IFMAHUH1XXX
+  swift8: IFMAHUH1
+  branch_name: Head Office
+  branch_address: Fo U. 14-18 Budapest 1011
+  branch_code: XXX
+  city: Budapest
+  country: Hungary
+- name: Cashline Ertekpapir Zartkoer En M Koed Reszvenytarsasag
+  swift: CLINHUH1XXX
+  swift8: CLINHUH1
+  branch_name: Head Office
+  branch_address: Gerbeaud Palace Iii Budapest 1051
+  branch_code: XXX
+  city: Budapest
+  country: Hungary
+- name: Ce Central European Broker Ltd.
+  swift: CEBRHUH1001
+  swift8: CEBRHUH1
+  branch_name: Head Office
+  branch_address: Beck O. Fulop U. 10 Budapest 1126
+  branch_code: '001'
+  city: Budapest
+  country: Hungary
+- name: Ce Central European Broker Ltd.
+  swift: CEBRHUH1XXX
+  swift8: CEBRHUH1
+  branch_name: Head Office
+  branch_address: Beck O. Fulop Street, 10 Budapest 1126
+  branch_code: XXX
+  city: Budapest
+  country: Hungary
+- name: Cee Active Asset Management Zrt
+  swift: CCSNHUH1XXX
+  swift8: CCSNHUH1
+  branch_name: Head Office
+  branch_address: Retkoz U. 5. Budapest 1118
+  branch_code: XXX
+  city: Budapest
+  country: Hungary
+- name: Cib Investment Fund Management Company Ltd.
+  swift: CINNHUH1XXX
+  swift8: CINNHUH1
+  branch_name: Head Office
+  branch_address: Medve U. 4-14 Budapest 1027
+  branch_code: XXX
+  city: Budapest
+  country: Hungary
+- name: Codex Ertektar Es Ertekpapir Zrt.
+  swift: CEEZHUH1SMK
+  swift8: CEEZHUH1
+  branch_name: Securities Markets
+  branch_address: Budapest
+  branch_code: SMK
+  city: Budapest
+  country: Hungary
+- name: Codex Ertektar Es Ertekpapir Zrt.
+  swift: CEEZHUH1XXX
+  swift8: CEEZHUH1
+  branch_name: Head Office
+  branch_address: Derek U. 2. Budapest 1016
+  branch_code: XXX
+  city: Budapest
+  country: Hungary
+- name: Concorde Ertekpapir Ugynokseg Rt
+  swift: COEGHUH1XXX
+  swift8: COEGHUH1
+  branch_name: Head Office
+  branch_address: Voeroesmarty Ter 1 Budapest 1051
+  branch_code: XXX
+  city: Budapest
+  country: Hungary
+- name: Concorde Investment Fund Management Company Ltd.
+  swift: CIUAHUH1XXX
+  swift8: CIUAHUH1
+  branch_name: Head Office
+  branch_address: Alkotas U. 50 Budapest 1123
+  branch_code: XXX
+  city: Budapest
+  country: Hungary
+- name: Credit Suisse Asset Management Hungary Investment Fund Management Company
+    Ltd.
+  swift: CSAGHUH1XXX
+  swift8: CSAGHUH1
+  branch_name: Head Office
+  branch_address: Rakoczi Ut 70-72 Budapest 1074
+  branch_code: XXX
+  city: Budapest
+  country: Hungary
+- name: Credit Suisse-budapest
+  swift: CSBUHUH1XXX
+  swift8: CSBUHUH1
+  branch_name: Head Office
+  branch_address: Nagy-Jeno U12 Budapest 1126
+  branch_code: XXX
+  city: Budapest
+  country: Hungary
+- name: Eastbrokers
+  swift: EASBHUH1XXX
+  swift8: EASBHUH1
+  branch_name: Head Office
+  branch_address: Akademia U.7-9 Budapest 1054
+  branch_code: XXX
+  city: Budapest
+  country: Hungary
+- name: Equilor Investment Plc.
+  swift: EQIEHUH1XXX
+  swift8: EQIEHUH1
+  branch_name: Head Office
+  branch_address: Montevideo 2/C. Budapest 1037
+  branch_code: XXX
+  city: Budapest
+  country: Hungary
+- name: Erste Bank Hungary Zrt
+  swift: GIBAHUH1CUS
+  swift8: GIBAHUH1
+  branch_name: Custody Department
+  branch_address: Budapest
+  branch_code: CUS
+  city: Budapest
+  country: Hungary
+- name: Erste Befektetesi Zrt.
+  swift: ERSKHUH1XXX
+  swift8: ERSKHUH1
+  branch_name: Head Office
+  branch_address: Nepfuerd Utca 24-26. 8. Em. Budapest 1075
+  branch_code: XXX
+  city: Budapest
+  country: Hungary
+- name: Erste Investment Fund Management Company Ltd.
+  swift: EIFMHUH1XXX
+  swift8: EIFMHUH1
+  branch_name: Head Office
+  branch_address: Madach I. U. 13-15 Budapest 1075
+  branch_code: XXX
+  city: Budapest
+  country: Hungary
+- name: Fuezes Takarek Szovetkezeti Hitelintezet
+  swift: FUVTHUH1XXX
+  swift8: FUVTHUH1
+  branch_name: No branch name
+  branch_address: No branch address
+  branch_code: XXX
+  city: Fuzesabony
+  country: Hungary
+- name: Fuezes Takarek Szovetkezeti Hitelintezet
+  swift: FUVTHUHHXXX
+  swift8: FUVTHUHH
+  branch_name: Head Office
+  branch_address: Rakoczi Ut 55. Fuzesabony 3390
+  branch_code: XXX
+  city: Fuzesabony
+  country: Hungary
+- name: Futureal Investment Fund Management Company Ltd.
+  swift: FIFMHUH1XXX
+  swift8: FIFMHUH1
+  branch_name: Head Office
+  branch_address: Regiposta U. 12 Budapest 1052
+  branch_code: XXX
+  city: Budapest
+  country: Hungary
+- name: Generali Alapkezelo Zrt
+  swift: GEAZHUH1XXX
+  swift8: GEAZHUH1
+  branch_name: Head Office
+  branch_address: Terez Krt. 42-44 Budapest 1066
+  branch_code: XXX
+  city: Budapest
+  country: Hungary
+- name: Generali Investment Fund Management Company Ltd.
+  swift: GIFGHUH1ALL
+  swift8: GIFGHUH1
+  branch_name: All Branches
+  branch_address: Budapest
+  branch_code: ALL
+  city: Budapest
+  country: Hungary
+- name: Generali Investment Fund Management Company Ltd.
+  swift: GIFGHUH1XXX
+  swift8: GIFGHUH1
+  branch_name: Head Office
+  branch_address: Terez Krt. 42-44 Budapest 1066
+  branch_code: XXX
+  city: Budapest
+  country: Hungary
+- name: Glencore Grain Hungary Kft.
+  swift: GGHKHUH1XXX
+  swift8: GGHKHUH1
+  branch_name: Head Office
+  branch_address: Metropol South Budapest 1135
+  branch_code: XXX
+  city: Budapest
+  country: Hungary
+- name: Gog Securities Limited
+  swift: GOSCHUH1XXX
+  swift8: GOSCHUH1
+  branch_name: Head Office
+  branch_address: Vaci Utca 9 Budapest 1052
+  branch_code: XXX
+  city: Budapest
+  country: Hungary
+- name: Hajdudorog Es Videke Takarekszoevetkezet
+  swift: HAVTHUH1XXX
+  swift8: HAVTHUH1
+  branch_name: No branch name
+  branch_address: No branch address
+  branch_code: XXX
+  city: Hajdudorog
+  country: Hungary
+- name: Hajdudorog Es Videke Takarekszoevetkezet
+  swift: HAVTHUHHXXX
+  swift8: HAVTHUHH
+  branch_name: Head Office
+  branch_address: Tokaji 6. Hajdudorog 4087
+  branch_code: XXX
+  city: Hajdudorog
+  country: Hungary
+- name: Hamilton Zrt.
+  swift: HAMZHUH1XXX
+  swift8: HAMZHUH1
+  branch_name: Head Office
+  branch_address: Aulich Utca 5. Budapest 1132
+  branch_code: XXX
+  city: Budapest
+  country: Hungary
+- name: Hataridos Tozsdeipar Kft.
+  swift: HATKHUH1HA1
+  swift8: HATKHUH1
+  branch_name: Bekescsaba
+  branch_address: Bekescsaba
+  branch_code: HA1
+  city: Bekescsaba
+  country: Hungary
+- name: Hataridos Tozsdeipar Kft.
+  swift: HATKHUH1MMD
+  swift8: HATKHUH1
+  branch_name: Money Markets and Derivatives
+  branch_address: Bekescsaba
+  branch_code: MMD
+  city: Bekescsaba
+  country: Hungary
+- name: Hataridos Tozsdeipar Kft.
+  swift: HATKHUH1XXX
+  swift8: HATKHUH1
+  branch_name: Head Office
+  branch_address: Erdelyi Sor 4/1 Bekescsaba 5600
+  branch_code: XXX
+  city: Bekescsaba
+  country: Hungary
+- name: Hungaria Order Kft
+  swift: HUOKHUH1MMD
+  swift8: HUOKHUH1
+  branch_name: Commodities
+  branch_address: Budapest
+  branch_code: MMD
+  city: Budapest
+  country: Hungary
+- name: Hungaria Order Kft
+  swift: HUOKHUH1XXX
+  swift8: HUOKHUH1
+  branch_name: Head Office
+  branch_address: Apor Vilmos Ter Budapest 1124
+  branch_code: XXX
+  city: Budapest
+  country: Hungary
+- name: Hungarian Registry
+  swift: HRNWHUH1XXX
+  swift8: HRNWHUH1
+  branch_name: Head Office
+  branch_address: National Inspectorate for Budapest 1016
+  branch_code: XXX
+  city: Budapest
+  country: Hungary
+- name: Hungarograin Zrt
+  swift: HUZRHUH1XXX
+  swift8: HUZRHUH1
+  branch_name: Head Office
+  branch_address: Nagybanyai Ut 75/a Budapest 1025
+  branch_code: XXX
+  city: Budapest
+  country: Hungary
+- name: Ie Investment Fund Management Company Ltd.
+  swift: IFMCHUH1XXX
+  swift8: IFMCHUH1
+  branch_name: Head Office
+  branch_address: Szabadsag Ter 15 Budapest 1054
+  branch_code: XXX
+  city: Budapest
+  country: Hungary
+- name: Ie-new York Broker Befektetes Es Penzuegyi Koezvetit Zarkoer En M Koed Reszventytarsasag
+  swift: NYBBHUH1XXX
+  swift8: NYBBHUH1
+  branch_name: Head Office
+  branch_address: Szabadsag Ter 15 Budapest 1088
+  branch_code: XXX
+  city: Budapest
+  country: Hungary
+- name: Ikr-broker Tozsdeugynoki Kft.
+  swift: IKTKHUH1BKO
+  swift8: IKTKHUH1
+  branch_name: Back Office
+  branch_address: Babolna
+  branch_code: BKO
+  city: Babolna
+  country: Hungary
+- name: Ikr-broker Tozsdeugynoki Kft.
+  swift: IKTKHUH1XXX
+  swift8: IKTKHUH1
+  branch_name: Head Office
+  branch_address: Ikr Park Babolna
+  branch_code: XXX
+  city: Babolna
+  country: Hungary
+- name: Ing Baring Ertekpapir Rt
+  swift: IBARHUH1XXX
+  swift8: IBARHUH1
+  branch_name: Head Office
+  branch_address: Andrassy Ut. 9 Budapest 1061
+  branch_code: XXX
+  city: Budapest
+  country: Hungary
+- name: Ing Investment Fund Management Company Ltd.
+  swift: IIFMHUH1XXX
+  swift8: IIFMHUH1
+  branch_name: Head Office
+  branch_address: Dozsa Gyorgy Ut 84/B Budapest 1068
+  branch_code: XXX
+  city: Budapest
+  country: Hungary
+- name: K And H Equities Tanacsado Zartkoer En M Koed Reszvenytarsasag
+  swift: AAHTHUH1XXX
+  swift8: AAHTHUH1
+  branch_name: Head Office
+  branch_address: Vigado Ter 1. Budapest 1051
+  branch_code: XXX
+  city: Budapest
+  country: Hungary
+- name: K And H Securities Investment Fund Management Company Ltd.
+  swift: SIFNHUH1XXX
+  swift8: SIFNHUH1
+  branch_name: Head Office
+  branch_address: Vigado Ter 1 Budapest 1051
+  branch_code: XXX
+  city: Budapest
+  country: Hungary
+- name: Kbc Equitas Zrt.
+  swift: KBEQHUH1XXX
+  swift8: KBEQHUH1
+  branch_name: Head Office
+  branch_address: Varmegye Utca 3-5 Budapest 1052
+  branch_code: XXX
+  city: Budapest
+  country: Hungary
+- name: Kormend Es Videke Takarekszovetkezet
+  swift: KOVTHUH1XXX
+  swift8: KOVTHUH1
+  branch_name: Head Office
+  branch_address: Rakoczi Kormend
+  branch_code: XXX
+  city: Kormend
+  country: Hungary
+- name: Magyar Paribas S.a.
+  swift: PARBHUH1XXX
+  swift8: PARBHUH1
+  branch_name: Head Office
+  branch_address: 23-25 Ostrom Budapest 1065
+  branch_code: XXX
+  city: Budapest
+  country: Hungary
+- name: Mecsekkornyek Hitelszovetkezet
+  swift: MEHIHUH1XXX
+  swift8: MEHIHUH1
+  branch_name: No branch name
+  branch_address: No branch address
+  branch_code: XXX
+  city: Pecs
+  country: Hungary
+- name: Mecsekkornyek Hitelszovetkezet
+  swift: MEHIHUHHXXX
+  swift8: MEHIHUHH
+  branch_name: Head Office
+  branch_address: Koztarsasag Ter 2 Pecs 7623
+  branch_code: XXX
+  city: Pecs
+  country: Hungary
+- name: Mecsekvideke Takarekszoevetkezet Mecseknadasd
+  swift: MEVIHUH1XXX
+  swift8: MEVIHUH1
+  branch_name: No branch name
+  branch_address: No branch address
+  branch_code: XXX
+  city: Mecseknadasd
+  country: Hungary
+- name: Mecsekvideke Takarekszoevetkezet Mecseknadasd
+  swift: MEVIHUHBXXX
+  swift8: MEVIHUHB
+  branch_name: Head Office
+  branch_address: Rakoczi U .40. Mecseknadasd 7695
+  branch_code: XXX
+  city: Mecseknadasd
+  country: Hungary
+- name: Merlito Zrt.
+  swift: MRZRHUH1XXX
+  swift8: MRZRHUH1
+  branch_name: Head Office
+  branch_address: Angyalfoldi Ut 30-32. B 3/44 Budapest 1134
+  branch_code: XXX
+  city: Budapest
+  country: Hungary
+- name: Mkb Investment Fund Management Company Ltd.
+  swift: MIFNHUH1XXX
+  swift8: MIFNHUH1
+  branch_name: Head Office
+  branch_address: Vaci Ut. 38 Budapest 1056
+  branch_code: XXX
+  city: Budapest
+  country: Hungary
+- name: Nomura Securities Hungary Ltd.
+  swift: NOMSHUH1XXX
+  swift8: NOMSHUH1
+  branch_name: Head Office
+  branch_address: East-West Business Center Budapest 1088
+  branch_code: XXX
+  city: Budapest
+  country: Hungary
+- name: O.f.sz. Orszagos Fizetesi Szolgaltato Zartkoruen Mukodo Reszvenytarsasag
+  swift: OFSZHUHBXXX
+  swift8: OFSZHUHB
+  branch_name: No branch name
+  branch_address: No branch address
+  branch_code: XXX
+  city: Budapest
+  country: Hungary
+- name: Oerkenyi Takarekszoevetkezet
+  swift: ORTAHUH1XXX
+  swift8: ORTAHUH1
+  branch_name: No branch name
+  branch_address: No branch address
+  branch_code: XXX
+  city: Orkeny
+  country: Hungary
+- name: Oerkenyi Takarekszoevetkezet
+  swift: ORTAHUHHXXX
+  swift8: ORTAHUHH
+  branch_name: Head Office
+  branch_address: Kossuth Lajos U. 34/a Orkeny 2377
+  branch_code: XXX
+  city: Orkeny
+  country: Hungary
+- name: Otp Ertekpapir Rt
+  swift: OTPEHUH1XXX
+  swift8: OTPEHUH1
+  branch_name: Head Office
+  branch_address: Merleg U. 4 Budapest 1051
+  branch_code: XXX
+  city: Budapest
+  country: Hungary
+- name: Otp Investment Fund Management Company Ltd.
+  swift: OIFMHUH1XXX
+  swift8: OIFMHUH1
+  branch_name: Head Office
+  branch_address: Deak F. U. 7-9 Budapest 1051
+  branch_code: XXX
+  city: Budapest
+  country: Hungary
+- name: Otp Real Estate Investment Fund Management Company Ltd.
+  swift: OREIHUH1XXX
+  swift8: OREIHUH1
+  branch_name: Head Office
+  branch_address: Margit Krt. 43-45 Budapest 1024
+  branch_code: XXX
+  city: Budapest
+  country: Hungary
+- name: Pilisvoeroesvar Es Videke Takarekszoevetkezet
+  swift: PVVTHUH1XXX
+  swift8: PVVTHUH1
+  branch_name: No branch name
+  branch_address: No branch address
+  branch_code: XXX
+  city: Pilisvorosvar
+  country: Hungary
+- name: Pilisvoeroesvar Es Videke Takarekszoevetkezet
+  swift: PVVTHUHHXXX
+  swift8: PVVTHUHH
+  branch_name: Head Office
+  branch_address: Fo Ut 130. Pilisvorosvar 2085
+  branch_code: XXX
+  city: Pilisvorosvar
+  country: Hungary
+- name: Planinvest Broker Zrt.
+  swift: PLBZHU21XXX
+  swift8: PLBZHU21
+  branch_name: Head Office
+  branch_address: Str. Erzsebet Kiralyne Keszthely
+  branch_code: XXX
+  city: Keszthely
+  country: Hungary
+- name: Prudent-invest Investment Fund Management Company Ltd.
+  swift: PIFMHUH1XXX
+  swift8: PIFMHUH1
+  branch_name: Head Office
+  branch_address: Moszkva Ter 15 Budapest 1122
+  branch_code: XXX
+  city: Budapest
+  country: Hungary
+- name: Quaestor Ertekpapir Nyrt.
+  swift: QUENHUH1STY
+  swift8: QUENHUH1
+  branch_name: Budapest
+  branch_address: Budapest
+  branch_code: STY
+  city: Budapest
+  country: Hungary
+- name: Quaestor Ertekpapir Nyrt.
+  swift: QUENHUH1XXX
+  swift8: QUENHUH1
+  branch_name: Head Office
+  branch_address: Business Center Budapest 1132
+  branch_code: XXX
+  city: Budapest
+  country: Hungary
+- name: Quaestor Investment Fund Management Company Ltd.
+  swift: QIFMHUH1XXX
+  swift8: QIFMHUH1
+  branch_name: Head Office
+  branch_address: Bathori U. 4-6 Budapest 1054
+  branch_code: XXX
+  city: Budapest
+  country: Hungary
+- name: Quaestor Penzuegyi Tanacsado Zartkoer En M Koed Reszvenytarsasag
+  swift: WEIVHUH1XXX
+  swift8: WEIVHUH1
+  branch_name: Head Office
+  branch_address: 30 Vaci Road Budapest 1075
+  branch_code: XXX
+  city: Budapest
+  country: Hungary
+- name: Quantis Alpha Befektetesi Zrt.
+  swift: QAWMHUH1XXX
+  swift8: QAWMHUH1
+  branch_name: Head Office
+  branch_address: Terez Korut 20 Budapest 1066
+  branch_code: XXX
+  city: Budapest
+  country: Hungary
+- name: Quote Mtf Ltd.
+  swift: QUMTHUH1XXX
+  swift8: QUMTHUH1
+  branch_name: Head Office
+  branch_address: Szabadsag Ut 301. Budaors 2040
+  branch_code: XXX
+  city: Budaors
+  country: Hungary
+- name: Raiffeisen Gazdasagi Szolgaltato Zartkoer En M Koed Reszventytarsasag
+  swift: REBKHUH1XXX
+  swift8: REBKHUH1
+  branch_name: Head Office
+  branch_address: Akademia U 6. Budapest 1056
+  branch_code: XXX
+  city: Budapest
+  country: Hungary
+- name: Raiffeisen Investment Fund Management Company Ltd.
+  swift: RIFMHUH1XXX
+  swift8: RIFMHUH1
+  branch_name: Head Office
+  branch_address: Akademia U. 6 Budapest 1054
+  branch_code: XXX
+  city: Budapest
+  country: Hungary
+- name: Random Capital Zrt
+  swift: RACZHUH1XXX
+  swift8: RACZHUH1
+  branch_name: Head Office
+  branch_address: Varmegye U. 3-5 Budapest 1052
+  branch_code: XXX
+  city: Budapest
+  country: Hungary
+- name: Realszisztema Investment Fund Management Company Ltd.
+  swift: RIFNHUH1XXX
+  swift8: RIFNHUH1
+  branch_name: Head Office
+  branch_address: Kossuth L. U. 4 Budapest 1053
+  branch_code: XXX
+  city: Budapest
+  country: Hungary
+- name: Realszisztema Securities Trading And Investments Ltd
+  swift: RSTIHUH1XXX
+  swift8: RSTIHUH1
+  branch_name: No branch name
+  branch_address: No branch address
+  branch_code: XXX
+  city: Budapest
+  country: Hungary
+- name: Samsung Electronics Hungrian
+  swift: SECTHUH1490
+  swift8: SECTHUH1
+  branch_name: Seh
+  branch_address: Samsung Ter 1 Jaszfenyszaru 5126
+  branch_code: '490'
+  city: Jaszfenyszaru
+  country: Hungary
+- name: Samsung Electronics Hungrian
+  swift: SECTHUH1XXX
+  swift8: SECTHUH1
+  branch_name: Head Office
+  branch_address: Samsung Ter 1 Jaszfenyszaru 5126
+  branch_code: XXX
+  city: Jaszfenyszaru
+  country: Hungary
+- name: Solar Capita Markets Zrt.
+  swift: SCAZHUH1XXX
+  swift8: SCAZHUH1
+  branch_name: Head Office
+  branch_address: West End Office Center Budapest 1062
+  branch_code: XXX
+  city: Budapest
+  country: Hungary
+- name: Spb Befektetesi Zrt.
+  swift: SPBZHUH1XXX
+  swift8: SPBZHUH1
+  branch_name: Head Office
+  branch_address: Gerbeaud Building Budapest 1051
+  branch_code: XXX
+  city: Budapest
+  country: Hungary
+- name: Strategon Securities Co.
+  swift: STEEHUH1XXX
+  swift8: STEEHUH1
+  branch_name: Head Office
+  branch_address: Lajos 118-120 Budapest 1036
+  branch_code: XXX
+  city: Budapest
+  country: Hungary
+- name: Szarvas Es Videke Koerzeti Takarekszoevetkezet
+  swift: SZTAHUH1XXX
+  swift8: SZTAHUH1
+  branch_name: No branch name
+  branch_address: No branch address
+  branch_code: XXX
+  city: Szarvas
+  country: Hungary
+- name: Szarvas Es Videke Koerzeti Takarekszoevetkezet
+  swift: SZTAHUHHXXX
+  swift8: SZTAHUHH
+  branch_name: Head Office
+  branch_address: Szabadsag Ut.30 Szarvas 5540
+  branch_code: XXX
+  city: Szarvas
+  country: Hungary
+- name: Szechenyi Istvan Hitelszovetkezet
+  swift: SZIHHUH1XXX
+  swift8: SZIHHUH1
+  branch_name: Head Office
+  branch_address: Kossuth Lajos 62 64 Zalaegerszeg 8900
+  branch_code: XXX
+  city: Zalaegerszeg
+  country: Hungary
+- name: Szechenyi Istvan Hitelszovetkezet
+  swift: SZIHHUHHXXX
+  swift8: SZIHHUHH
+  branch_name: Head Office
+  branch_address: Kossuth Lajos 62 64 Zalaegerszeg 8900
+  branch_code: XXX
+  city: Zalaegerszeg
+  country: Hungary
+- name: Szegvar Es Videke Takarekszovetkezet
+  swift: SZGTHUH1XXX
+  swift8: SZGTHUH1
+  branch_name: No branch name
+  branch_address: No branch address
+  branch_code: XXX
+  city: Szegvar
+  country: Hungary
+- name: Szegvar Es Videke Takarekszovetkezet
+  swift: SZGTHUHBXXX
+  swift8: SZGTHUHB
+  branch_name: Head Office
+  branch_address: Szabadsag Ter 1 Szegvar 6635
+  branch_code: XXX
+  city: Szegvar
+  country: Hungary
+- name: Takarek Broker Rt
+  swift: TAKRHUH1XXX
+  swift8: TAKRHUH1
+  branch_name: Head Office
+  branch_address: Andrassy Ut. 60 Budapest 1062
+  branch_code: XXX
+  city: Budapest
+  country: Hungary
+- name: Takarek Fund Management Plc.
+  swift: TAFMHUH1XXX
+  swift8: TAFMHUH1
+  branch_name: Head Office
+  branch_address: Pethenyi Koz 10. Budapest
+  branch_code: XXX
+  city: Budapest
+  country: Hungary
+- name: Teszt Broker
+  swift: TEBRHUH1XXX
+  swift8: TEBRHUH1
+  branch_name: Head Office
+  branch_address: Krisztina Budapest
+  branch_code: XXX
+  city: Budapest
+  country: Hungary
+- name: Tiszafoeldvar Es Videke Takarekszoevetkezet
+  swift: TISZHUH1XXX
+  swift8: TISZHUH1
+  branch_name: No branch name
+  branch_address: No branch address
+  branch_code: XXX
+  city: Tiszafoldvar
+  country: Hungary
+- name: Tiszafoeldvar Es Videke Takarekszoevetkezet
+  swift: TISZHUHHXXX
+  swift8: TISZHUHH
+  branch_name: Head Office
+  branch_address: Kossuth Ut 139. Tiszafoldvar 5430
+  branch_code: XXX
+  city: Tiszafoldvar
+  country: Hungary
+- name: Tiszantuli Elsoe Hitelszoevetkezet
+  swift: TEHDHUH1XXX
+  swift8: TEHDHUH1
+  branch_name: No branch name
+  branch_address: No branch address
+  branch_code: XXX
+  city: Debrecen
+  country: Hungary
+- name: Tiszantuli Elsoe Hitelszoevetkezet
+  swift: TEHDHUHHXXX
+  swift8: TEHDHUHH
+  branch_name: Head Office
+  branch_address: Simonyi U. 20 Debrecen 4028
+  branch_code: XXX
+  city: Debrecen
+  country: Hungary
+- name: Uniqa Asset Management Company Ltd.
+  swift: UAMCHUH1XXX
+  swift8: UAMCHUH1
+  branch_name: Head Office
+  branch_address: Robert Karoly Krt. 76-78 Budapest 1134
+  branch_code: XXX
+  city: Budapest
+  country: Hungary
+- name: Wood And Company Tanacsado Rt.
+  swift: WOODHUH1XXX
+  swift8: WOODHUH1
+  branch_name: Head Office
+  branch_address: Madach Trade Center Budapest 1075
+  branch_code: XXX
+  city: Budapest
+  country: Hungary

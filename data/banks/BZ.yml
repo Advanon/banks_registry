@@ -1,0 +1,122 @@
+---
+BZ:
+- name: Firstcaribbean International Bank
+  swift: FCIBBZBZXXX
+  swift8: FCIBBZBZ
+  branch_name: Head Office
+  branch_address: 21 Albert Street Belize City
+  branch_code: XXX
+  city: Belize City
+  country: Belize
+- name: Atlantic Bank Limited
+  swift: LIBABZBZ0BS
+  swift8: LIBABZBZ
+  branch_name: San Pedro
+  branch_address: San Pedro
+  branch_code: 0BS
+  city: San Pedro
+  country: Belize
+- name: Atlantic Bank Limited
+  swift: LIBABZBZXXX
+  swift8: LIBABZBZ
+  branch_name: Head Office
+  branch_address: Atlantic Bank Main Office Belize City
+  branch_code: XXX
+  city: Belize City
+  country: Belize
+- name: Atlantic International Bank Limited
+  swift: AIBLBZBZXXX
+  swift8: AIBLBZBZ
+  branch_name: Head Office
+  branch_address: Withfield Tower Belize City
+  branch_code: XXX
+  city: Belize City
+  country: Belize
+- name: Atlantic International Bank Limited
+  swift: ATINBZB1XXX
+  swift8: ATINBZB1
+  branch_name: Head Office
+  branch_address: Cor. Cleghorn St and Freetown Belize City
+  branch_code: XXX
+  city: Belize City
+  country: Belize
+- name: Belize Bank International Limited
+  swift: BCBTBZBZXXX
+  swift8: BCBTBZBZ
+  branch_name: Head Office
+  branch_address: 21 Regent Street Belize City
+  branch_code: XXX
+  city: Belize City
+  country: Belize
+- name: Belize Bank Limited
+  swift: BBLZBZBZXXX
+  swift8: BBLZBZBZ
+  branch_name: Head Office
+  branch_address: 60 Market Square Belize City
+  branch_code: XXX
+  city: Belize City
+  country: Belize
+- name: Caye International Bank Ltd.
+  swift: CAYEBZBZXXX
+  swift8: CAYEBZBZ
+  branch_name: Head Office
+  branch_address: Coconut Drive San Pedro
+  branch_code: XXX
+  city: San Pedro
+  country: Belize
+- name: Central Bank Of Belize
+  swift: CEBBBZBZXXX
+  swift8: CEBBBZBZ
+  branch_name: Head Office
+  branch_address: Gabourel Lane Belize City
+  branch_code: XXX
+  city: Belize City
+  country: Belize
+- name: Choice Bank Ltd
+  swift: CHOIBZBZXXX
+  swift8: CHOIBZBZ
+  branch_name: Head Office
+  branch_address: Gordon House Belize City
+  branch_code: XXX
+  city: Belize City
+  country: Belize
+- name: Compania Financiera De Apoyo Al Desarrollo Del Comercio Y La Industria, S.a.
+  swift: CFADBZB1XXX
+  swift8: CFADBZB1
+  branch_name: Head Office
+  branch_address: 76 Dean Street Belize City
+  branch_code: XXX
+  city: Belize City
+  country: Belize
+- name: Handels Bank And Trust Co. Ltd.
+  swift: HATTBZB1XXX
+  swift8: HATTBZB1
+  branch_name: Head Office
+  branch_address: Blake Building Belize City
+  branch_code: XXX
+  city: Belize City
+  country: Belize
+- name: Heritage International Bank And Trust Limited
+  swift: PRVTBZBSXXX
+  swift8: PRVTBZBS
+  branch_name: Head Office
+  branch_address: Offshore Center Belize City
+  branch_code: XXX
+  city: Belize City
+  country: Belize
+- name: New Horizon Financial Services Limited
+  swift: NHFSBZB1XXX
+  swift8: NHFSBZB1
+  branch_name: Head Office
+  branch_address: 35 Barrack Rd Belize City
+  branch_code: XXX
+  city: Belize City
+  country: Belize
+- name: Scotiabank (belize) Ltd.
+  swift: NOSCBZBSINT
+  swift8: NOSCBZBS
+  branch_name: International
+  branch_address: Belize City
+  branch_code: INT
+  city: Belize City
+  country: Belize

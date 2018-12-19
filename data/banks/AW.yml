@@ -1,0 +1,74 @@
+---
+AW:
+- name: Aib Bank Nv
+  swift: ANIBAWA1XXX
+  swift8: ANIBAWA1
+  branch_name: Head Office
+  branch_address: Wilhelminastraat 36 Oranjestad
+  branch_code: XXX
+  city: Oranjestad
+  country: Aruba
+- name: Aruba Bank, Ltd
+  swift: ARUBAWAXXXX
+  swift8: ARUBAWAX
+  branch_name: Head Office
+  branch_address: Aruba Bank Head Office Oranjestad
+  branch_code: XXX
+  city: Oranjestad
+  country: Aruba
+- name: Banco Di Caribe (aruba) N.v
+  swift: BDCCAWAWXXX
+  swift8: BDCCAWAW
+  branch_name: Head Office
+  branch_address: Vondellaan 31 Oranjestad
+  branch_code: XXX
+  city: Oranjestad
+  country: Aruba
+- name: Bba Bank N.v.
+  swift: BBABAWAWXXX
+  swift8: BBABAWAW
+  branch_name: Head Office
+  branch_address: Arulex Center Oranjestad
+  branch_code: XXX
+  city: Oranjestad
+  country: Aruba
+- name: Caribbean Mercantile Bank N.v.
+  swift: CMBAAWAXXXX
+  swift8: CMBAAWAX
+  branch_name: Head Office
+  branch_address: Kaya Gilberto Francois Croes 53 Oranjestad
+  branch_code: XXX
+  city: Oranjestad
+  country: Aruba
+- name: Centrale Bank Van Aruba
+  swift: CBARAWAWXXX
+  swift8: CBARAWAW
+  branch_name: Head Office
+  branch_address: J.E. Irausquin 8 00000 Oranjestad
+  branch_code: XXX
+  city: Oranjestad
+  country: Aruba
+- name: Imtradex International N.v.
+  swift: IMIEAWA1XXX
+  swift8: IMIEAWA1
+  branch_name: Head Office
+  branch_address: Tanki Lendeert 143 Oranjestad
+  branch_code: XXX
+  city: Oranjestad
+  country: Aruba
+- name: Interbank Aruba Nv
+  swift: IARUAWA1XXX
+  swift8: IARUAWA1
+  branch_name: Head Office
+  branch_address: Caya G.F. Croes 38 Oranjestad
+  branch_code: XXX
+  city: Oranjestad
+  country: Aruba
+- name: Rbc Royal Bank (aruba) N.v. (formerly Rbtt Bank Aruba N.v.
+  swift: RBTTAWAWXXX
+  swift8: RBTTAWAW
+  branch_name: Head Office
+  branch_address: Italiestraat 36 Oranjestad
+  branch_code: XXX
+  city: Oranjestad
+  country: Aruba

@@ -1,0 +1,682 @@
+---
+MA:
+- name: Al Barid Bank
+  swift: ABBMMAMCXXX
+  swift8: ABBMMAMC
+  branch_name: Head Office
+  branch_address: Siege De Barid Al Maghrid 10000 Rabat
+  branch_code: XXX
+  city: Rabat
+  country: Morocco
+- name: Arab Bank Plc
+  swift: ARABMAMC210
+  swift8: ARABMAMC
+  branch_name: Main Branch
+  branch_address: Casablanca
+  branch_code: '210'
+  city: Casablanca
+  country: Morocco
+- name: Arab Bank Plc
+  swift: ARABMAMCXXX
+  swift8: ARABMAMC
+  branch_name: Head Office
+  branch_address: 174 Boulevard Mohammed V 20000 Casablanca
+  branch_code: XXX
+  city: Casablanca
+  country: Morocco
+- name: Arab Bank Plc
+  swift: ARABMAMC260
+  swift8: ARABMAMC
+  branch_name: Agadir
+  branch_address: Agadir
+  branch_code: '260'
+  city: Agadir
+  country: Morocco
+- name: Arab Bank Plc
+  swift: ARABMAMC240
+  swift8: ARABMAMC
+  branch_name: Fes
+  branch_address: 57 Boulevard Mohammed Slaovi Fes
+  branch_code: '240'
+  city: Fes
+  country: Morocco
+- name: Arab Bank Plc
+  swift: ARABMAMC250
+  swift8: ARABMAMC
+  branch_name: Marrakech Branch
+  branch_address: Place De La Liberte Marrakech
+  branch_code: '250'
+  city: Marrakech
+  country: Morocco
+- name: Arab Bank Plc
+  swift: ARABMAMC230
+  swift8: ARABMAMC
+  branch_name: Tanger
+  branch_address: 43 Boulevard Mohammed V Tanger
+  branch_code: '230'
+  city: Tanger
+  country: Morocco
+- name: Arab Bank Plc
+  swift: ARABMAMC220
+  swift8: ARABMAMC
+  branch_name: Rabat
+  branch_address: 2 Avenue Allal Ben Abdellah Rabat
+  branch_code: '220'
+  city: Rabat
+  country: Morocco
+- name: Attijariwafa Bank (Formerly Banque Commerciale Du Maroc)
+  swift: BCMAMAMCXXX
+  swift8: BCMAMAMC
+  branch_name: Head Office
+  branch_address: 2 Boulevard Moulay Youssef 20 000 Casablanca
+  branch_code: XXX
+  city: Casablanca
+  country: Morocco
+- name: Banco De Sabadell S.A
+  swift: BSABMAMCXXX
+  swift8: BSABMAMC
+  branch_name: Head Office
+  branch_address: Twin Center, Tour Ouest 20100 Casablanca
+  branch_code: XXX
+  city: Casablanca
+  country: Morocco
+- name: Bank Al-Maghrib
+  swift: BKAMMAMRXXX
+  swift8: BKAMMAMR
+  branch_name: Head Office
+  branch_address: 277 Avenue Mohammed V 11100 Rabat
+  branch_code: XXX
+  city: Rabat
+  country: Morocco
+- name: Banque Centrale Populaire
+  swift: BCPOMAMCBKO
+  swift8: BCPOMAMC
+  branch_name: Dept Back Office
+  branch_address: Casablanca
+  branch_code: BKO
+  city: Casablanca
+  country: Morocco
+- name: Banque Centrale Populaire
+  swift: BCPOMAMCDOC
+  swift8: BCPOMAMC
+  branch_name: Sce Documentaire
+  branch_address: Casablanca
+  branch_code: DOC
+  city: Casablanca
+  country: Morocco
+- name: Banque Centrale Populaire
+  swift: BCPOMAMCFIN
+  swift8: BCPOMAMC
+  branch_name: Sce Financier
+  branch_address: Casablanca
+  branch_code: FIN
+  city: Casablanca
+  country: Morocco
+- name: Banque Centrale Populaire
+  swift: BCPOMAMCMON
+  swift8: BCPOMAMC
+  branch_name: Dept Monetiques
+  branch_address: Casablanca
+  branch_code: MON
+  city: Casablanca
+  country: Morocco
+- name: Banque Centrale Populaire
+  swift: BCPOMAMCMRE
+  swift8: BCPOMAMC
+  branch_name: Tranferts Des Marocains Residants a Letranger
+  branch_address: Casablanca
+  branch_code: MRE
+  city: Casablanca
+  country: Morocco
+- name: Banque Centrale Populaire
+  swift: BCPOMAMCREC
+  swift8: BCPOMAMC
+  branch_name: Dept Reconciliation
+  branch_address: Casablanca
+  branch_code: REC
+  city: Casablanca
+  country: Morocco
+- name: Banque Centrale Populaire
+  swift: BCPOMAMCXXX
+  swift8: BCPOMAMC
+  branch_name: Head Office
+  branch_address: 101 Boulevard Zerktouni 10622 Casablanca
+  branch_code: XXX
+  city: Casablanca
+  country: Morocco
+- name: Banque Centrale Populaire
+  swift: BCPOMAMCCIB
+  swift8: BCPOMAMC
+  branch_name: Offschore Branch, Tangier
+  branch_address: Zone Franche Dexportation Tanger Tanger
+  branch_code: CIB
+  city: Tanger
+  country: Morocco
+- name: Banque Marocaine Du Commerce Exterieur
+  swift: BMCEMAMCCOR
+  swift8: BMCEMAMC
+  branch_name: Agence Corporate
+  branch_address: Agence Corporate 20000 Casablanca
+  branch_code: COR
+  city: Casablanca
+  country: Morocco
+- name: Banque Marocaine Du Commerce Exterieur
+  swift: BMCEMAMCMRE
+  swift8: BMCEMAMC
+  branch_name: Compte Special Mre
+  branch_address: 140 Avenue Hassan Ii Casablanca
+  branch_code: MRE
+  city: Casablanca
+  country: Morocco
+- name: Banque Marocaine Du Commerce Exterieur
+  swift: BMCEMAMCSDM
+  swift8: BMCEMAMC
+  branch_name: Salle Des Marches, Casablanca
+  branch_address: 140 Avenue Hassan Ii 20000 Casablanca
+  branch_code: SDM
+  city: Casablanca
+  country: Morocco
+- name: Banque Marocaine Du Commerce Exterieur
+  swift: BMCEMAMCXXX
+  swift8: BMCEMAMC
+  branch_name: Head Office
+  branch_address: 140 Avenue Hassan Ii 20000 Casablanca
+  branch_code: XXX
+  city: Casablanca
+  country: Morocco
+- name: Banque Marocaine Du Commerce Exterieur
+  swift: BMCEMAMCTCM
+  swift8: BMCEMAMC
+  branch_name: Offshore Branch Trading Room, Tangier
+  branch_address: Zone France De Tanger Tanger
+  branch_code: TCM
+  city: Tanger
+  country: Morocco
+- name: Banque Marocaine Du Commerce Exterieur
+  swift: BMCEMAMCTZF
+  swift8: BMCEMAMC
+  branch_name: Offshore Branch, Tangier
+  branch_address: Zone France Port De Tanger Tanger
+  branch_code: TZF
+  city: Tanger
+  country: Morocco
+- name: Banque Marocaine Pour Le Commerce Et Lindustrie
+  swift: BMCIMAMCXXX
+  swift8: BMCIMAMC
+  branch_name: Head Office
+  branch_address: 26 Place Mohammed V 21000 Casablanca
+  branch_code: XXX
+  city: Casablanca
+  country: Morocco
+- name: Banque Marocaine Pour Le Commerce Et Lindustrie
+  swift: BMCIMAMCTOF
+  swift8: BMCIMAMC
+  branch_name: Offshore Branch
+  branch_address: Angle Boulevard Youssef Ben 9000 Tanger
+  branch_code: TOF
+  city: Tanger
+  country: Morocco
+- name: Banque Populaire Agadir
+  swift: BCPOMAMCCES
+  swift8: BCPOMAMC
+  branch_name: Agadir
+  branch_address: Boulevard Hassan Ii Agadir
+  branch_code: CES
+  city: Agadir
+  country: Morocco
+- name: Banque Populaire Al Hoceima
+  swift: BCPOMAMCALH
+  swift8: BCPOMAMC
+  branch_name: Al Hoceima
+  branch_address: 88-90 Boulevard Mohamed V Al Hoceima
+  branch_code: ALH
+  city: Al Hoceima
+  country: Morocco
+- name: Banque Populaire Beni Mellal
+  swift: BCPOMAMCBNM
+  swift8: BCPOMAMC
+  branch_name: Beni Mellal
+  branch_address: 287 Boulevard Mohamed V Beni Mellal
+  branch_code: BNM
+  city: Beni Mellal
+  country: Morocco
+- name: Banque Populaire Berkane
+  swift: BCPOMAMCBRK
+  swift8: BCPOMAMC
+  branch_name: Berkane
+  branch_address: 7 Boulevard Idriss 1er Berkane
+  branch_code: BRK
+  city: Berkane
+  country: Morocco
+- name: Banque Populaire Casa-Anfa
+  swift: BCPOMAMCCAS
+  swift8: BCPOMAMC
+  branch_name: Casablanca
+  branch_address: Casablanca
+  branch_code: CAS
+  city: Casablanca
+  country: Morocco
+- name: Banque Populaire El Jadida
+  swift: BCPOMAMCELJ
+  swift8: BCPOMAMC
+  branch_name: El Jadida
+  branch_address: 22-23 Bis Boulevard Ennakhil El Jadida
+  branch_code: ELJ
+  city: El Jadida
+  country: Morocco
+- name: Banque Populaire Fes
+  swift: BCPOMAMCFES
+  swift8: BCPOMAMC
+  branch_name: Fes
+  branch_address: Angle Rue Loudiyi , a Bench Fes
+  branch_code: FES
+  city: Fes
+  country: Morocco
+- name: Banque Populaire Gharb
+  swift: BCPOMAMCGHA
+  swift8: BCPOMAMC
+  branch_name: Gharb
+  branch_address: 53 Avenue Al Istiqlal Gharb
+  branch_code: GHA
+  city: Gharb
+  country: Morocco
+- name: Banque Populaire Laayoune
+  swift: BCPOMAMCLAY
+  swift8: BCPOMAMC
+  branch_name: Laayoune
+  branch_address: 9 Boulevard Mohamed V Laayoune
+  branch_code: LAY
+  city: Laayoune
+  country: Morocco
+- name: Banque Populaire Marrakech
+  swift: BCPOMAMCMKH
+  swift8: BCPOMAMC
+  branch_name: Marrakech
+  branch_address: Avenue a Khettabi Marrakech
+  branch_code: MKH
+  city: Marrakech
+  country: Morocco
+- name: Banque Populaire Meknes
+  swift: BCPOMAMCMEK
+  swift8: BCPOMAMC
+  branch_name: Meknes
+  branch_address: 4 Rue Alexandrie Meknes
+  branch_code: MEK
+  city: Meknes
+  country: Morocco
+- name: Banque Populaire Nador
+  swift: BCPOMAMCNAD
+  swift8: BCPOMAMC
+  branch_name: Nador
+  branch_address: 113 Boulevard Al Massira Nador
+  branch_code: NAD
+  city: Nador
+  country: Morocco
+- name: Banque Populaire Oujda
+  swift: BCPOMAMCOUJ
+  swift8: BCPOMAMC
+  branch_name: Oujda
+  branch_address: Boulevard Idriss Al Akbar Oujda
+  branch_code: OUJ
+  city: Oujda
+  country: Morocco
+- name: Banque Populaire Rabat
+  swift: BCPOMAMCRAB
+  swift8: BCPOMAMC
+  branch_name: Rabat
+  branch_address: 3 Avenue Trabless Rabat
+  branch_code: RAB
+  city: Rabat
+  country: Morocco
+- name: Banque Populaire Safi
+  swift: BCPOMAMCSAF
+  swift8: BCPOMAMC
+  branch_name: Safi
+  branch_address: Place Mohamed V Safi
+  branch_code: SAF
+  city: Safi
+  country: Morocco
+- name: Banque Populaire Tanger
+  swift: BCPOMAMCTAT
+  swift8: BCPOMAMC
+  branch_name: Tanger
+  branch_address: 73 Boulevard Mohamed V Tanger
+  branch_code: TAT
+  city: Tanger
+  country: Morocco
+- name: Caisse De Depot Et De Gestion
+  swift: CADGMAMRXXX
+  swift8: CADGMAMR
+  branch_name: Head Office
+  branch_address: Place My El Hassan Rabat
+  branch_code: XXX
+  city: Rabat
+  country: Morocco
+- name: Casablanca Finance Markets
+  swift: CAFGMAMCXXX
+  swift8: CAFGMAMC
+  branch_name: Head Office
+  branch_address: 5 Rue Ibnou Toufail Palmier 20100 Casablanca
+  branch_code: XXX
+  city: Casablanca
+  country: Morocco
+- name: Cdg Capital
+  swift: RDGCMAMRXXX
+  swift8: RDGCMAMR
+  branch_name: Head Office
+  branch_address: Mamounia Rabat
+  branch_code: XXX
+  city: Rabat
+  country: Morocco
+- name: Citibank Maghreb
+  swift: CITIMAMCTRD
+  swift8: CITIMAMC
+  branch_name: Trade Services Department
+  branch_address: 52 Avenue Hassan Ii Casablanca
+  branch_code: TRD
+  city: Casablanca
+  country: Morocco
+- name: Citibank Maghreb
+  swift: CITIMAMCXXX
+  swift8: CITIMAMC
+  branch_name: Head Office
+  branch_address: Immeuble 1, Zenith Millenium Casablanca
+  branch_code: XXX
+  city: Casablanca
+  country: Morocco
+- name: Credit Agricole Du Maroc
+  swift: CNCAMAMRXXX
+  swift8: CNCAMAMR
+  branch_name: Head Office
+  branch_address: 2 Rue Dalger 11100 Rabat
+  branch_code: XXX
+  city: Rabat
+  country: Morocco
+- name: Credit Du Maroc
+  swift: CDMAMAMC706
+  swift8: CDMAMAMC
+  branch_name: Trade Center Talborjt
+  branch_address: Immeuble Marhaba Agadir
+  branch_code: '706'
+  city: Agadir
+  country: Morocco
+- name: Credit Du Maroc
+  swift: CDMAMAMC707
+  swift8: CDMAMAMC
+  branch_name: Trade Center Quaraouyine
+  branch_address: Residence Tarik Fes
+  branch_code: '707'
+  city: Fes
+  country: Morocco
+- name: Credit Du Maroc
+  swift: CDMAMAMC701
+  swift8: CDMAMAMC
+  branch_name: Casablanca
+  branch_address: Trade Center Essalam Casablanca
+  branch_code: '701'
+  city: Casablanca
+  country: Morocco
+- name: Credit Du Maroc
+  swift: CDMAMAMC702
+  swift8: CDMAMAMC
+  branch_name: Casablanca
+  branch_address: Trade Center Nouvel Horizon Casablanca
+  branch_code: '702'
+  city: Casablanca
+  country: Morocco
+- name: Credit Du Maroc
+  swift: CDMAMAMC703
+  swift8: CDMAMAMC
+  branch_name: Trade Center Centre-Ville
+  branch_address: Trade Center Centre-Ville Casablanca
+  branch_code: '703'
+  city: Casablanca
+  country: Morocco
+- name: Credit Du Maroc
+  swift: CDMAMAMCXXX
+  swift8: CDMAMAMC
+  branch_name: All Morocco Branches
+  branch_address: 48-58 Boulevard Mohammed V 01 Casablanca
+  branch_code: XXX
+  city: Casablanca
+  country: Morocco
+- name: Credit Du Maroc
+  swift: CDMAMAMC708
+  swift8: CDMAMAMC
+  branch_name: Trade Center Al Moustagbal
+  branch_address: 2, Bd. Allal El Fassi Oujda
+  branch_code: '708'
+  city: Oujda
+  country: Morocco
+- name: Credit Du Maroc
+  swift: CDMAMAMC705
+  swift8: CDMAMAMC
+  branch_name: Trade Center Boughaz
+  branch_address: Lotissement Haj Tatari No 26 Tanger
+  branch_code: '705'
+  city: Tanger
+  country: Morocco
+- name: Credit Du Maroc
+  swift: CDMAMAMC709
+  swift8: CDMAMAMC
+  branch_name: Trade Center Chellah
+  branch_address: 21, Rue Allal Ben Abdellah Rabat
+  branch_code: '709'
+  city: Rabat
+  country: Morocco
+- name: Credit Immobilier Et Hotelier
+  swift: CIHMMAMCDEP
+  swift8: CIHMMAMC
+  branch_name: Departement Etranger
+  branch_address: Casablanca
+  branch_code: DEP
+  city: Casablanca
+  country: Morocco
+- name: Credit Immobilier Et Hotelier
+  swift: CIHMMAMCSDM
+  swift8: CIHMMAMC
+  branch_name: Salle Des Marches
+  branch_address: Casablanca
+  branch_code: SDM
+  city: Casablanca
+  country: Morocco
+- name: Credit Immobilier Et Hotelier
+  swift: CIHMMAMCXXX
+  swift8: CIHMMAMC
+  branch_name: Head Office
+  branch_address: 187 Avenue Hassan Ii 01 Casablanca
+  branch_code: XXX
+  city: Casablanca
+  country: Morocco
+- name: Groupe Ocp
+  swift: GOCPMAMCXXX
+  swift8: GOCPMAMC
+  branch_name: Head Office
+  branch_address: Rue Abtal, Hay Erraha 2-4 Casablanca
+  branch_code: XXX
+  city: Casablanca
+  country: Morocco
+- name: La Caixa, Succursale Maroc
+  swift: CAIXMAMCXXX
+  swift8: CAIXMAMC
+  branch_name: Head Office
+  branch_address: Boulevard Danfa 181 Casablanca
+  branch_code: XXX
+  city: Casablanca
+  country: Morocco
+- name: Mediafinance
+  swift: MEDCMAMCXXX
+  swift8: MEDCMAMC
+  branch_name: Head Office
+  branch_address: Espace Porte Danfa 20050 Casablanca
+  branch_code: XXX
+  city: Casablanca
+  country: Morocco
+- name: Societe Generale Marocaine De Banques
+  swift: SGMBMAMCCMI
+  swift8: SGMBMAMC
+  branch_name: Cash Management International
+  branch_address: Casablanca
+  branch_code: CMI
+  city: Casablanca
+  country: Morocco
+- name: Societe Generale Marocaine De Banques
+  swift: SGMBMAMCXXX
+  swift8: SGMBMAMC
+  branch_name: Head Office
+  branch_address: 55 Boulevard Abdelmoumen 21100 Casablanca
+  branch_code: XXX
+  city: Casablanca
+  country: Morocco
+- name: Societe Generale Tanger Offshore
+  swift: SGTGMAMCXXX
+  swift8: SGTGMAMC
+  branch_name: Head Office
+  branch_address: 55 Boulevard Abdelmoumen 20100 Casablanca
+  branch_code: XXX
+  city: Casablanca
+  country: Morocco
+- name: Union Marocaine De Banques
+  swift: UMABMAMCXXX
+  swift8: UMABMAMC
+  branch_name: Head Office
+  branch_address: 36, Rue Tahar Sebti 20000 Casablanca
+  branch_code: XXX
+  city: Casablanca
+  country: Morocco
+- name: Arab Bank Plc.
+  swift: ARABMAM10M4
+  swift8: ARABMAM1
+  branch_name: Al Fida Avenue Branch
+  branch_address: 466 Al Fida Boulevard Casablanca
+  branch_code: 0M4
+  city: Casablanca
+  country: Morocco
+- name: Attijariwafa Bank (formerly Banque Commerciale Du Maroc
+  swift: BCMAMAMCATI
+  swift8: BCMAMAMC
+  branch_name: Attijari Intermediation
+  branch_address: No branch address
+  branch_code: ATI
+  city: Casablanca
+  country: Morocco
+- name: Banque Populaire Casa-est
+  swift: BCPOMAM10MG
+  swift8: BCPOMAM1
+  branch_name: Casablanca
+  branch_address: Km 17 Route De Rabat Ain Sebaa Casablanca
+  branch_code: 0MG
+  city: Casablanca
+  country: Morocco
+- name: Banque Populaire Casa-sud
+  swift: BCPOMAM10MH
+  swift8: BCPOMAM1
+  branch_name: Casablanca
+  branch_address: 131 Boulevard De La Resistance Casablanca
+  branch_code: 0MH
+  city: Casablanca
+  country: Morocco
+- name: Banque Populaire Errachidia
+  swift: BCPOMAM10MJ
+  swift8: BCPOMAM1
+  branch_name: Errachidia
+  branch_address: 7 Rue Targa Errachidia
+  branch_code: 0MJ
+  city: Errachidia
+  country: Morocco
+- name: Banque Populaire Ouarzazate
+  swift: BCPOMAM10MS
+  swift8: BCPOMAM1
+  branch_name: Ouarzazate
+  branch_address: Avenue Moulay Rachid Ouarzazate
+  branch_code: 0MS
+  city: Ouarzazate
+  country: Morocco
+- name: Banque Populaire Taza
+  swift: BCPOMAM10MV
+  swift8: BCPOMAM1
+  branch_name: Taza
+  branch_address: Boulevard Moulay Youssef Taza
+  branch_code: 0MV
+  city: Taza
+  country: Morocco
+- name: Banque Populaire Tetouan
+  swift: BCPOMAM10MW
+  swift8: BCPOMAM1
+  branch_name: Tetouan
+  branch_address: Angle Avenue Mohamed V, Khaled Tetouan
+  branch_code: 0MW
+  city: Tetouan
+  country: Morocco
+- name: Banque Populaire Tiznit
+  swift: BCPOMAM10MY
+  swift8: BCPOMAM1
+  branch_name: Tiznit
+  branch_address: Avenue Prince Heritier Tiznit
+  branch_code: 0MY
+  city: Tiznit
+  country: Morocco
+- name: Bourse De Casablanca Sa
+  swift: XCASMAM1XXX
+  swift8: XCASMAM1
+  branch_name: Head Office
+  branch_address: Angle Avenue Des Forces Armees Roya Casablanca
+  branch_code: XXX
+  city: Casablanca
+  country: Morocco
+- name: Centrale Populaire (banque) Sa
+  swift: CRPMMAM1XXX
+  swift8: CRPMMAM1
+  branch_name: Head Office
+  branch_address: 101 Boulevard Mohammed Zerktouni 2 Casablanca
+  branch_code: XXX
+  city: Casablanca
+  country: Morocco
+- name: Integra Bourse
+  swift: ITBOMAM1XXX
+  swift8: ITBOMAM1
+  branch_name: Head Office
+  branch_address: 23, Rue Ibnou Hilal 20100 Casablanca
+  branch_code: XXX
+  city: Casablanca
+  country: Morocco
+- name: Maroclear Sa
+  swift: MAROMAM1XXX
+  swift8: MAROMAM1
+  branch_name: Head Office
+  branch_address: Immeuble Saturne Casablanca
+  branch_code: XXX
+  city: Casablanca
+  country: Morocco
+- name: Samsung Electronics Morocco
+  swift: SECTMAM1780
+  swift8: SECTMAM1
+  branch_name: 20150 Casablanca
+  branch_address: Casablanca 20150 Casablanca
+  branch_code: '780'
+  city: Casablanca
+  country: Morocco
+- name: Samsung Electronics Morocco
+  swift: SECTMAM1XXX
+  swift8: SECTMAM1
+  branch_name: Head Office
+  branch_address: Immeuble Horizon 20150 Casablanca
+  branch_code: XXX
+  city: Casablanca
+  country: Morocco
+- name: Tanger (banque Internationale De) Sa
+  swift: ITABMAM1XXX
+  swift8: ITABMAM1
+  branch_name: Head Office
+  branch_address: 45/48 Boulevard Mohamed V Tanger
+  branch_code: XXX
+  city: Tanger
+  country: Morocco
+- name: Upline International S.a.
+  swift: UPLNMAM1XXX
+  swift8: UPLNMAM1
+  branch_name: Head Office
+  branch_address: Boulevard Yacoub Elmansour Casablanca
+  branch_code: XXX
+  city: Casablanca
+  country: Morocco

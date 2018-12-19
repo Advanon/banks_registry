@@ -1,0 +1,987 @@
+---
+CZ:
+- name: Bank Of Tokyo-Mitsubishi Ufj (Holland) N.V., Prague Branch
+  swift: BOTKCZPPXXX
+  swift8: BOTKCZPP
+  branch_name: Head Office
+  branch_address: Regus Business Centre S.R.O. 150 00 Prague 5
+  branch_code: XXX
+  city: Prague
+  country: Czech Republic
+- name: Bre Bank S.A., Organizacni Slozka Podniku
+  swift: BREXCZPPXXX
+  swift8: BREXCZPP
+  branch_name: Head Office
+  branch_address: Jugoslavska 1 120 00 Prague
+  branch_code: XXX
+  city: Prague
+  country: Czech Republic
+- name: Centralni Depozitar Cennych Papiru, A.S.
+  swift: UNIYCZPPXXX
+  swift8: UNIYCZPP
+  branch_name: Head Office
+  branch_address: Rybna 14 110 05 Prague
+  branch_code: XXX
+  city: Prague
+  country: Czech Republic
+- name: Ceska Narodni Banka
+  swift: CNBACZPPXXX
+  swift8: CNBACZPP
+  branch_name: Head Office
+  branch_address: Na Prikope 28 110 03 Prague
+  branch_code: XXX
+  city: Prague
+  country: Czech Republic
+- name: Ceska Sporitelna A.S.
+  swift: GIBACZPXXXX
+  swift8: GIBACZPX
+  branch_name: Head Office
+  branch_address: Olbrachtova 62 14000 Prague
+  branch_code: XXX
+  city: Prague
+  country: Czech Republic
+- name: Ceskoslovenska Obchodni Banka, A.S.
+  swift: CEKOCZPPXXX
+  swift8: CEKOCZPP
+  branch_name: Head Office
+  branch_address: Radlicka 333/150 150 57 Prague 5
+  branch_code: XXX
+  city: Prague
+  country: Czech Republic
+- name: Citfin, Sporitelni Druzstvo
+  swift: CITFCZPPXXX
+  swift8: CITFCZPP
+  branch_name: Head Office
+  branch_address: Radlicka 751/113e 15800 Prague
+  branch_code: XXX
+  city: Prague
+  country: Czech Republic
+- name: Citibank Europe Plc, Organizacni Slozka
+  swift: CITICZPXTRD
+  swift8: CITICZPX
+  branch_name: Trade Services Dept
+  branch_address: Koospol 16640 Prague
+  branch_code: TRD
+  city: Prague
+  country: Czech Republic
+- name: Citibank Europe Plc, Organizacni Slozka
+  swift: CITICZPXXXX
+  swift8: CITICZPX
+  branch_name: Head Office
+  branch_address: Bucharova 2641/14 158 02 Prague
+  branch_code: XXX
+  city: Prague
+  country: Czech Republic
+- name: Commerzbank Ag
+  swift: COBACZPXXXX
+  swift8: COBACZPX
+  branch_name: Head Office
+  branch_address: Jugoslavska 1 12021 Prague
+  branch_code: XXX
+  city: Prague
+  country: Czech Republic
+- name: Czech Export Bank
+  swift: CZEECZPPXXX
+  swift8: CZEECZPP
+  branch_name: Head Office
+  branch_address: Vodickova 34 11121 Prague
+  branch_code: XXX
+  city: Prague
+  country: Czech Republic
+- name: Deutsche Bank Ag
+  swift: DEUTCZPXXXX
+  swift8: DEUTCZPX
+  branch_name: Head Office
+  branch_address: Narodni Trida 10 113 19 Prague
+  branch_code: XXX
+  city: Prague
+  country: Czech Republic
+- name: Equa Bank A.S.
+  swift: EQBKCZPPXXX
+  swift8: EQBKCZPP
+  branch_name: Head Office
+  branch_address: Lazarska 1718/3 11121 Prague
+  branch_code: XXX
+  city: Prague
+  country: Czech Republic
+- name: Evropsko-Ruska Banka, A.S.
+  swift: FICHCZPPXXX
+  swift8: FICHCZPP
+  branch_name: Head Office
+  branch_address: Stefanikova 50 15000 Prague
+  branch_code: XXX
+  city: Prague
+  country: Czech Republic
+- name: Fio Banka, A.S.
+  swift: FIOBCZPPXXX
+  swift8: FIOBCZPP
+  branch_name: Head Office
+  branch_address: Millennium Plaza 11721 Prague
+  branch_code: XXX
+  city: Prague
+  country: Czech Republic
+- name: Fortis Bank Sa/Nv, Brussels, Branch Czech Republic
+  swift: GEBACZPPXXX
+  swift8: GEBACZPP
+  branch_name: Head Office
+  branch_address: Myslbek Building 1 Prague
+  branch_code: XXX
+  city: Prague
+  country: Czech Republic
+- name: Ge Money Bank, A.S.(Formerly Ge Capital Bank A.S.)
+  swift: AGBACZPPXXX
+  swift8: AGBACZPP
+  branch_name: Head Office
+  branch_address: Bb Centrum 14028 Prague 4
+  branch_code: XXX
+  city: Prague
+  country: Czech Republic
+- name: Hsbc Bank Plc
+  swift: MIDLCZPPSDD
+  swift8: MIDLCZPP
+  branch_name: Sepa Direct Debits
+  branch_address: Prague
+  branch_code: SDD
+  city: Prague
+  country: Czech Republic
+- name: Hsbc Bank Plc
+  swift: MIDLCZPPXXX
+  swift8: MIDLCZPP
+  branch_name: Head Office
+  branch_address: Millenium Plaza 117 21 Prague
+  branch_code: XXX
+  city: Prague
+  country: Czech Republic
+- name: Ing Bank N.V.
+  swift: INGBCZPPXXX
+  swift8: INGBCZPP
+  branch_name: Head Office
+  branch_address: Plzenska 345/5 150 00 Prague 5
+  branch_code: XXX
+  city: Prague
+  country: Czech Republic
+- name: J And T Banka A.S.
+  swift: JTBPCZPPXXX
+  swift8: JTBPCZPP
+  branch_name: Head Office
+  branch_address: Pobrezni 14 18600 Prague
+  branch_code: XXX
+  city: Prague
+  country: Czech Republic
+- name: Komercni Banka A.S.
+  swift: KOMBCZPPXXX
+  swift8: KOMBCZPP
+  branch_name: Head Office
+  branch_address: Na Prikope 33 114 07 Prague
+  branch_code: XXX
+  city: Prague
+  country: Czech Republic
+- name: Moravsky Penezni Ustav-Sporitelni Druzstvo
+  swift: MPUBCZPPXXX
+  swift8: MPUBCZPP
+  branch_name: Head Office
+  branch_address: Senovazne Namesti 1375/19 11000 Prague
+  branch_code: XXX
+  city: Prague
+  country: Czech Republic
+- name: Oberbank Ag
+  swift: OBKLCZ2XXXX
+  swift8: OBKLCZ2X
+  branch_name: Head Office
+  branch_address: Nam. Premysla Otokara Ii, 6/3 370 01 Ceske Budejovice
+  branch_code: XXX
+  city: Ceske Budejovice
+  country: Czech Republic
+- name: Pioneer Asset Management, A.S.
+  swift: PIAMCZPPXXX
+  swift8: PIAMCZPP
+  branch_name: Head Office
+  branch_address: Danube House 18600 Prague
+  branch_code: XXX
+  city: Prague
+  country: Czech Republic
+- name: Postova Banka, A.S.,Pobocka Ceska Republika
+  swift: POBNCZPPXXX
+  swift8: POBNCZPP
+  branch_name: Head Office
+  branch_address: Sokolovska 17 18600 Prague
+  branch_code: XXX
+  city: Prague
+  country: Czech Republic
+- name: Ppf Banka A.S.
+  swift: PMBPCZPPXXX
+  swift8: PMBPCZPP
+  branch_name: Head Office
+  branch_address: Ppf Gate 160 41 Prague 6
+  branch_code: XXX
+  city: Prague
+  country: Czech Republic
+- name: Raiffeisenbank A.S.
+  swift: RZBCCZPPXXX
+  swift8: RZBCCZPP
+  branch_name: Head Office
+  branch_address: City Tower 140 78 Prague
+  branch_code: XXX
+  city: Prague
+  country: Czech Republic
+- name: The Royal Bank Of Scotland N.V. (Czech Republic)
+  swift: ABNACZPPXXX
+  swift8: ABNACZPP
+  branch_name: Head Office
+  branch_address: Jungmannova Plaza 110 00 Prague 1
+  branch_code: XXX
+  city: Prague
+  country: Czech Republic
+- name: Unicredit Bank Czech Republic,A.S.
+  swift: BACXCZPPRET
+  swift8: BACXCZPP
+  branch_name: Securities Settlement
+  branch_address: Prague
+  branch_code: RET
+  city: Prague
+  country: Czech Republic
+- name: Unicredit Bank Czech Republic,A.S.
+  swift: BACXCZPPXXX
+  swift8: BACXCZPP
+  branch_name: Head Office
+  branch_address: Na Prikope 858/20 113 80 Prague 1
+  branch_code: XXX
+  city: Prague
+  country: Czech Republic
+- name: Volksbank Cz, A.S.
+  swift: VBOECZ2XXXX
+  swift8: VBOECZ2X
+  branch_name: Head Office
+  branch_address: Na Pankraci 1724/129 140 00 Prague
+  branch_code: XXX
+  city: Brno
+  country: Czech Republic
+- name: Vseobecna Uverova Banka, A.S. Branch Praha
+  swift: SUBACZPPXXX
+  swift8: SUBACZPP
+  branch_name: Head Office
+  branch_address: Ibc 18600 Prague
+  branch_code: XXX
+  city: Prague
+  country: Czech Republic
+- name: Westlb Ag
+  swift: WELACZ21XXX
+  swift8: WELACZ21
+  branch_name: Head Office
+  branch_address: Kralodvorska 13 110 00 Prague
+  branch_code: XXX
+  city: Prague
+  country: Czech Republic
+- name: Wood And Company
+  swift: WOODCZPPXXX
+  swift8: WOODCZPP
+  branch_name: Head Office
+  branch_address: Vaclavske Namesti 772/2 110 00 Prague
+  branch_code: XXX
+  city: Prague
+  country: Czech Republic
+- name: Zuno Bank Ag, Organizacni Slozka
+  swift: ZUNOCZPPXXX
+  swift8: ZUNOCZPP
+  branch_name: Head Office
+  branch_address: Na Rybnicku 1329/5 120 00 Prague 2
+  branch_code: XXX
+  city: Prague
+  country: Czech Republic
+- name: Waldviertler Sparkasse Bank Ag
+  swift: SPWTCZ21XXX
+  swift8: SPWTCZ21
+  branch_name: Head Office
+  branch_address: Klasterska 126/Ii 37701 Jindrichuv Hradec
+  branch_code: XXX
+  city: Jindrichuv Hradec
+  country: Czech Republic
+- name: 42 Financial Services
+  swift: FNSECZP1XXX
+  swift8: FNSECZP1
+  branch_name: Head Office
+  branch_address: Praha City Center 110 02 Prague
+  branch_code: XXX
+  city: Prague
+  country: Czech Republic
+- name: A And Ce Global Finance, A.s.
+  swift: GLFNCZ21XXX
+  swift8: GLFNCZ21
+  branch_name: Head Office
+  branch_address: Ptasinskeho 4 602 00 Brno
+  branch_code: XXX
+  city: Brno
+  country: Czech Republic
+- name: Akcenta, Sporitelni A Uverni Druzstvo
+  swift: AKCTCZ21XXX
+  swift8: AKCTCZ21
+  branch_name: Head Office
+  branch_address: Gocarova Trida 312 500 02 Hradec Kralove
+  branch_code: XXX
+  city: Hradec Kralov
+  country: Czech Republic
+- name: Akro Investicnlspolecnost, A.s.
+  swift: AKINCZP1XXX
+  swift8: AKINCZP1
+  branch_name: Head Office
+  branch_address: Slunna 25/547 16200 Prague
+  branch_code: XXX
+  city: Prague
+  country: Czech Republic
+- name: Arcelormittal Ostrava A.s.
+  swift: USINCZ21XXX
+  swift8: USINCZ21
+  branch_name: Head Office
+  branch_address: Vratimovska 689 707 2 Ostrava
+  branch_code: XXX
+  city: Ostrava
+  country: Czech Republic
+- name: Artesa, Sporitelni Druzstvo
+  swift: ARTTCZPPXXX
+  swift8: ARTTCZPP
+  branch_name: Head Office
+  branch_address: Panorama Business Center 120 00 Prague
+  branch_code: XXX
+  city: Prague
+  country: Czech Republic
+- name: Atlanta Safe, A.s.
+  swift: ATAFCZP1XXX
+  swift8: ATAFCZP1
+  branch_name: Head Office
+  branch_address: Vaclavske Namesti 772 2 Prague
+  branch_code: XXX
+  city: Prague
+  country: Czech Republic
+- name: Atlantik Asset Management Investicni Spolecnost,a.s
+  swift: AAMVCZ21XXX
+  swift8: AAMVCZ21
+  branch_name: Head Office
+  branch_address: Hilleho 1843/6 Brno
+  branch_code: XXX
+  city: Brno
+  country: Czech Republic
+- name: Atlantik Financni Trhy, A.s.
+  swift: ATLKCZP1XXX
+  swift8: ATLKCZP1
+  branch_name: Head Office
+  branch_address: Vinohradska 230 10000 Prague
+  branch_code: XXX
+  city: Prague
+  country: Czech Republic
+- name: Axa Investicni Spolecnost A.s.
+  swift: AXILCZP1XXX
+  swift8: AXILCZP1
+  branch_name: Head Office
+  branch_address: Lazarska 13/8 2 Prague
+  branch_code: XXX
+  city: Prague
+  country: Czech Republic
+- name: Bh Securities A.s.
+  swift: SEESCZP1XXX
+  swift8: SEESCZP1
+  branch_name: Head Office
+  branch_address: Na Prikope 14 11000 Prague
+  branch_code: XXX
+  city: Prague
+  country: Czech Republic
+- name: Body International Brokers A.s.
+  swift: BOIOCZP1XXX
+  swift8: BOIOCZP1
+  branch_name: Head Office
+  branch_address: Senovazne Namesti 1465/7 110 00 Prague
+  branch_code: XXX
+  city: Prague
+  country: Czech Republic
+- name: Bohm And Partner, A.s.
+  swift: BOPACZ21XXX
+  swift8: BOPACZ21
+  branch_name: Head Office
+  branch_address: Brno Business Park 639 00 Brno
+  branch_code: XXX
+  city: Brno
+  country: Czech Republic
+- name: Brokerjet Ceske Sporitelny, A.s.
+  swift: BRCYCZP1XXX
+  swift8: BRCYCZP1
+  branch_name: Head Office
+  branch_address: Evropska 2690/17 16000 Prague 6
+  branch_code: XXX
+  city: Prague
+  country: Czech Republic
+- name: Burzovni Spolecnost Pro Kapitalovy Trh, A.s.
+  swift: BSPKCZP1XXX
+  swift8: BSPKCZP1
+  branch_name: Head Office
+  branch_address: Masarykovo Nabrezi 28 110 00 Prague
+  branch_code: XXX
+  city: Prague
+  country: Czech Republic
+- name: Capital Partners A.s.
+  swift: CPPRCZP1XXX
+  swift8: CPPRCZP1
+  branch_name: Head Office
+  branch_address: Dusni 22 11005 Prague Prague 1
+  branch_code: XXX
+  city: Prague Prague
+  country: Czech Republic
+- name: Ceska Banka A.s.
+  swift: CSKBCZP1XXX
+  swift8: CSKBCZP1
+  branch_name: Head Office
+  branch_address: Karoliny Svetle 8 111 21 Prague
+  branch_code: XXX
+  city: Prague
+  country: Czech Republic
+- name: Ceskomoravska Zarucni A Rozvojova Banka, A.s.
+  swift: CMZRCZP1XXX
+  swift8: CMZRCZP1
+  branch_name: Head Office
+  branch_address: Jeruzalemska 964/4 110 00 Prague 1
+  branch_code: XXX
+  city: Prague
+  country: Czech Republic
+- name: Citfin-financni Trhy, A.s.
+  swift: CIIHCZP1XXX
+  swift8: CIIHCZP1
+  branch_name: Head Office
+  branch_address: Avenir Business Park 158 00 Prague
+  branch_code: XXX
+  city: Prague
+  country: Czech Republic
+- name: Colosseum, A.s.
+  swift: CLLSCZP1XXX
+  swift8: CLLSCZP1
+  branch_name: Head Office
+  branch_address: Londynska 59 120 00 Prague 2
+  branch_code: XXX
+  city: Prague
+  country: Czech Republic
+- name: Conseq Investment Management,a.s.
+  swift: COVGCZP1XXX
+  swift8: COVGCZP1
+  branch_name: Head Office
+  branch_address: Rybna 682/14 11005 Prague 1
+  branch_code: XXX
+  city: Prague
+  country: Czech Republic
+- name: Cp Invest Investicni Spolecnost, A.s.
+  swift: INNLCZP1XXX
+  swift8: INNLCZP1
+  branch_name: Head Office
+  branch_address: Purkynova 74/2 11000 Prague
+  branch_code: XXX
+  city: Prague
+  country: Czech Republic
+- name: Creditanstalt Securities
+  swift: CAIBCZP1XXX
+  swift8: CAIBCZP1
+  branch_name: Head Office
+  branch_address: Ul. Provaznicka 11 110 00 Prague
+  branch_code: XXX
+  city: Prague
+  country: Czech Republic
+- name: Csob Asset Management
+  swift: CSOBCZP1XXX
+  swift8: CSOBCZP1
+  branch_name: Head Office
+  branch_address: 333/150 Radlicka 15057 Prague
+  branch_code: XXX
+  city: Prague
+  country: Czech Republic
+- name: Csob Investicnlspolecnost, A.s.
+  swift: CSIVCZP1XXX
+  swift8: CSIVCZP1
+  branch_name: Head Office
+  branch_address: Perlova 371/5 11000 Prague
+  branch_code: XXX
+  city: Prague
+  country: Czech Republic
+- name: Cyrrus Corporate Finance, A.s.
+  swift: CYCFCZ21XXX
+  swift8: CYCFCZ21
+  branch_name: Head Office
+  branch_address: Veveri 111 61600 Brno
+  branch_code: XXX
+  city: Brno
+  country: Czech Republic
+- name: Cyrrus, A.s.
+  swift: CYRRCZ21XXX
+  swift8: CYRRCZ21
+  branch_name: Head Office
+  branch_address: Platinium 61600 Brno
+  branch_code: XXX
+  city: Brno
+  country: Czech Republic
+- name: Czech Energy Holding, A.s.
+  swift: CZEHCZP1XXX
+  swift8: CZEHCZP1
+  branch_name: Head Office
+  branch_address: Probrezni 297/14 18600 Prague 8
+  branch_code: XXX
+  city: Prague
+  country: Czech Republic
+- name: Dom Maklerski Banku Ochrony Srodowiska Spolka Akcyjna, Organizacni Slozka
+    Ceska Republika
+  swift: DMORCZP1XXX
+  swift8: DMORCZP1
+  branch_name: Head Office
+  branch_address: Vaclavske Nameste 834/17 Prague
+  branch_code: XXX
+  city: Prague
+  country: Czech Republic
+- name: Efekta Consulting, A.s.
+  swift: EFCOCZ21XXX
+  swift8: EFCOCZ21
+  branch_name: Head Office
+  branch_address: Erbenova 312/1 60200 Brno
+  branch_code: XXX
+  city: Brno
+  country: Czech Republic
+- name: Equity Holding, A.s.
+  swift: EQHOCZP1XXX
+  swift8: EQHOCZP1
+  branch_name: Head Office
+  branch_address: Probrezni 14 186 00 Prague
+  branch_code: XXX
+  city: Prague
+  country: Czech Republic
+- name: Euro Financial Corporation S.r.o.
+  swift: EFCPCZP1XXX
+  swift8: EFCPCZP1
+  branch_name: Head Office
+  branch_address: Jungmannova 732/4 110 00 Prague
+  branch_code: XXX
+  city: Prague
+  country: Czech Republic
+- name: European Investment Centre O.c.p., A.s.-organizacni Slozka
+  swift: EICOCZ21XXX
+  swift8: EICOCZ21
+  branch_name: Head Office
+  branch_address: Sumavska 33 Brno
+  branch_code: XXX
+  city: Brno
+  country: Czech Republic
+- name: Exchange S.r.o.
+  swift: EXSOCZP1XXX
+  swift8: EXSOCZP1
+  branch_name: Head Office
+  branch_address: Kaprova 14/13 11000 Prague 1
+  branch_code: XXX
+  city: Prague
+  country: Czech Republic
+- name: Ezpada S.r.o.
+  swift: EZSRCZP1XXX
+  swift8: EZSRCZP1
+  branch_name: Head Office
+  branch_address: Jungmannova Plaza 110 00 Prague 1
+  branch_code: XXX
+  city: Prague
+  country: Czech Republic
+- name: Finance Zlin, A.s.
+  swift: FIZLCZ21XXX
+  swift8: FIZLCZ21
+  branch_name: Head Office
+  branch_address: Nad Ovcirnou 1778 76001 Zlin
+  branch_code: XXX
+  city: Zlin
+  country: Czech Republic
+- name: Fio, Druzstevni Zalozna
+  swift: FIOZCZP1XXX
+  swift8: FIOZCZP1
+  branch_name: Head Office
+  branch_address: Millennium Plaza 117 21 Prague
+  branch_code: XXX
+  city: Prague
+  country: Czech Republic
+- name: Garfield A.s.
+  swift: GARFCZ21XXX
+  swift8: GARFCZ21
+  branch_name: Head Office
+  branch_address: Zamecka 488/20 70200 Ostrava
+  branch_code: XXX
+  city: Ostrava
+  country: Czech Republic
+- name: Gaudea A.s.
+  swift: GAUDCZP1XXX
+  swift8: GAUDCZP1
+  branch_name: Head Office
+  branch_address: Krizikova 1 18600 Prague 8
+  branch_code: XXX
+  city: Prague
+  country: Czech Republic
+- name: Generali Ppf Asset Management A.s.
+  swift: PPAMCZP1XXX
+  swift8: PPAMCZP1
+  branch_name: Head Office
+  branch_address: Evropska 2690/17 160 41 Prague 6
+  branch_code: XXX
+  city: Prague
+  country: Czech Republic
+- name: Global Brokers, A.s.
+  swift: GLBOCZP1XXX
+  swift8: GLBOCZP1
+  branch_name: Head Office
+  branch_address: Ceskomoravska 12a/2255 19000 Prague
+  branch_code: XXX
+  city: Prague
+  country: Czech Republic
+- name: Highsky Brokers, A. S.
+  swift: HIBRCZP1XXX
+  swift8: HIBRCZP1
+  branch_name: Head Office
+  branch_address: Vodickova 710/31 110 00 Prague
+  branch_code: XXX
+  city: Prague
+  country: Czech Republic
+- name: Honor Invest, A.s.
+  swift: HOIVCZP1XXX
+  swift8: HOIVCZP1
+  branch_name: Head Office
+  branch_address: Probrezni 297/14 18600 Prague 8
+  branch_code: XXX
+  city: Prague
+  country: Czech Republic
+- name: Ing Investment Management (c.r.), A.s.
+  swift: IGINCZP1XXX
+  swift8: IGINCZP1
+  branch_name: Head Office
+  branch_address: Bozdechova 2/344 1500 Prague 5
+  branch_code: XXX
+  city: Prague
+  country: Czech Republic
+- name: Investicni Kapitalova Spolecnost Kb, A.s.
+  swift: INPKCZP1XXX
+  swift8: INPKCZP1
+  branch_name: Head Office
+  branch_address: Dlouha 34 11015 Prague
+  branch_code: XXX
+  city: Prague
+  country: Czech Republic
+- name: Investicnlspolecnost Ceske Sporitelny, A.s.
+  swift: INEYCZP1XXX
+  swift8: INEYCZP1
+  branch_name: Head Office
+  branch_address: Na Perstyne 342/1 11000 Prague
+  branch_code: XXX
+  city: Prague
+  country: Czech Republic
+- name: J And T Asset Management, Investicni Spolecnost, A.s.
+  swift: ASMVCZP1XXX
+  swift8: ASMVCZP1
+  branch_name: Head Office
+  branch_address: Pobrezni 14/297 18600 Prague
+  branch_code: XXX
+  city: Prague
+  country: Czech Republic
+- name: J And T Finance Group Ii, A.s.
+  swift: FIOUCZP1XXX
+  swift8: FIOUCZP1
+  branch_name: Head Office
+  branch_address: Pobrezni 297/14 18600 Prague
+  branch_code: XXX
+  city: Prague
+  country: Czech Republic
+- name: J And T Finance, A.s
+  swift: FNENCZP1XXX
+  swift8: FNENCZP1
+  branch_name: Head Office
+  branch_address: Probrezni 197/14 186 00 Prague
+  branch_code: XXX
+  city: Prague
+  country: Czech Republic
+- name: J And T Investment Holding, A.s.
+  swift: INHOCZ21XXX
+  swift8: INHOCZ21
+  branch_name: Head Office
+  branch_address: Dornych 467/47a 60200 Brno
+  branch_code: XXX
+  city: Brno
+  country: Czech Republic
+- name: Jer Real Estate Advisors (uk) Ltd
+  swift: JREACZP1BRA
+  swift8: JREACZP1
+  branch_name: Branch
+  branch_address: Prague
+  branch_code: BRA
+  city: Prague
+  country: Czech Republic
+- name: Jer Real Estate Advisors (uk) Ltd
+  swift: JREACZP1XXX
+  swift8: JREACZP1
+  branch_name: Head Office
+  branch_address: Prague Burzovni Palac 110 05 Prague 1
+  branch_code: XXX
+  city: Prague
+  country: Czech Republic
+- name: Jung, Dms And Cie.
+  swift: JDMSCZ21XXX
+  swift8: JDMSCZ21
+  branch_name: Head Office
+  branch_address: Spielberk Office Centre 63900 Brno
+  branch_code: XXX
+  city: Brno
+  country: Czech Republic
+- name: Key Investments A.s.
+  swift: KEIECZP1XXX
+  swift8: KEIECZP1
+  branch_name: Head Office
+  branch_address: 15 Reeova 11000 Prague
+  branch_code: XXX
+  city: Prague
+  country: Czech Republic
+- name: Lasalle Investment Management, Organizacni Slozka
+  swift: LIMOCZ21BRA
+  swift8: LIMOCZ21
+  branch_name: Prague Branch
+  branch_address: Prague
+  branch_code: BRA
+  city: Prague
+  country: Czech Republic
+- name: Lasalle Investment Management, Organizacni Slozka
+  swift: LIMOCZ21XXX
+  swift8: LIMOCZ21
+  branch_name: Head Office
+  branch_address: Burzovni Palac 110 00 Prague
+  branch_code: XXX
+  city: Prague
+  country: Czech Republic
+- name: Merx A.s.
+  swift: MERXCZ21XXX
+  swift8: MERXCZ21
+  branch_name: Head Office
+  branch_address: Srazna 444 67602 Moravske Budejovice
+  branch_code: XXX
+  city: Moravske Budejovice
+  country: Czech Republic
+- name: Ministry Of Finance Of The Czech Republic
+  swift: MFCRCZP1XXX
+  swift8: MFCRCZP1
+  branch_name: Head Office
+  branch_address: Letenska 15 118 10 Prague
+  branch_code: XXX
+  city: Prague
+  country: Czech Republic
+- name: Noble Securities S.a. Organizacni Slozka Ceska Republika
+  swift: NSOSCZP1XXX
+  swift8: NSOSCZP1
+  branch_name: No branch name
+  branch_address: No branch address
+  branch_code: XXX
+  city: Prague
+  country: Czech Republic
+- name: Patria Direct, A.s.
+  swift: PADICZP1XXX
+  swift8: PADICZP1
+  branch_name: Head Office
+  branch_address: Jungmannova 24 Prague
+  branch_code: XXX
+  city: Prague
+  country: Czech Republic
+- name: Pioneer Investicni Spolecnost, A.s.
+  swift: PISPCZP1XXX
+  swift8: PISPCZP1
+  branch_name: Head Office
+  branch_address: Karolinska 650 18600 Prague
+  branch_code: XXX
+  city: Prague
+  country: Czech Republic
+- name: Plzenska Banka, A.s.
+  swift: PLBACZP1XXX
+  swift8: PLBACZP1
+  branch_name: Head Office
+  branch_address: Palackeho Nam. 26 306 22 Plzen
+  branch_code: XXX
+  city: Plzen
+  country: Czech Republic
+- name: Proventus Finance A.s.
+  swift: PRNICZP1XXX
+  swift8: PRNICZP1
+  branch_name: Head Office
+  branch_address: Na Orechovce 15 16000 Prague 6
+  branch_code: XXX
+  city: Prague
+  country: Czech Republic
+- name: Raiffeisenbank Im Stiftland Eg
+  swift: GENOCZ21XXX
+  swift8: GENOCZ21
+  branch_name: Head Office
+  branch_address: Pobocka Cheb 35011 Cheb
+  branch_code: XXX
+  city: Cheb
+  country: Czech Republic
+- name: Rm-s Holding, A.s.
+  swift: RMHOCZP1XXX
+  swift8: RMHOCZP1
+  branch_name: Head Office
+  branch_address: Podvinny Mlyn 19000 Prague
+  branch_code: XXX
+  city: Prague
+  country: Czech Republic
+- name: Rm-system, A.s.
+  swift: RMSYCZP1XXX
+  swift8: RMSYCZP1
+  branch_name: Head Office
+  branch_address: Millennium Plaza 11721 Prague
+  branch_code: XXX
+  city: Prague
+  country: Czech Republic
+- name: Rsj Invest,a.s.
+  swift: RSIVCZ21XXX
+  swift8: RSIVCZ21
+  branch_name: Head Office
+  branch_address: Kerova 7 30111 Plzen
+  branch_code: XXX
+  city: Plzen
+  country: Czech Republic
+- name: Samsung Elec. Hungarian-czech
+  swift: SECTCZP1491
+  swift8: SECTCZP1
+  branch_name: Seh-Cz
+  branch_address: Sokolovska 394/17 180 00 Prague
+  branch_code: '491'
+  city: Prague
+  country: Czech Republic
+- name: Samsung Elec. Hungarian-czech
+  swift: SECTCZP1493
+  swift8: SECTCZP1
+  branch_name: Secz
+  branch_address: Prague
+  branch_code: '493'
+  city: Prague
+  country: Czech Republic
+- name: Samsung Elec. Hungarian-czech
+  swift: SECTCZP1XXX
+  swift8: SECTCZP1
+  branch_name: Head Office
+  branch_address: Sokolovska 394/17 180 00 Prague
+  branch_code: XXX
+  city: Prague
+  country: Czech Republic
+- name: Sarf A.s.
+  swift: SAFFCZ21XXX
+  swift8: SAFFCZ21
+  branch_name: Head Office
+  branch_address: Jaromerska 100 55211 Velichovky
+  branch_code: XXX
+  city: Velichovky
+  country: Czech Republic
+- name: Saxo Bank Prague
+  swift: SAXPCZP1XXX
+  swift8: SAXPCZP1
+  branch_name: Head Office
+  branch_address: Husova 5 110 00 Prague 1
+  branch_code: XXX
+  city: Prague
+  country: Czech Republic
+- name: Sko Energo
+  swift: SKENCZ21XXX
+  swift8: SKENCZ21
+  branch_name: No branch name
+  branch_address: No branch address
+  branch_code: XXX
+  city: Mlada Boleslav
+  country: Czech Republic
+- name: Sko Energo Fin.
+  swift: SKEFCZ21XXX
+  swift8: SKEFCZ21
+  branch_name: No branch name
+  branch_address: No branch address
+  branch_code: XXX
+  city: Mlada Boleslav
+  country: Czech Republic
+- name: Skoda Auto A.s.
+  swift: SKOACZ21XXX
+  swift8: SKOACZ21
+  branch_name: No branch name
+  branch_address: No branch address
+  branch_code: XXX
+  city: Mlada Boleslav
+  country: Czech Republic
+- name: Stock Exchange Prague Co. Ltd, The
+  swift: XPRACZP1XXX
+  swift8: XPRACZP1
+  branch_name: Head Office
+  branch_address: Rybna 14 110 05 Prague
+  branch_code: XXX
+  city: Prague
+  country: Czech Republic
+- name: Stredisko Cennych Papiru
+  swift: STCUCZP1XXX
+  swift8: STCUCZP1
+  branch_name: Head Office
+  branch_address: Rybna 14 110 05 Prague
+  branch_code: XXX
+  city: Prague
+  country: Czech Republic
+- name: The Czech Registry For Emission Allowances Trading
+  swift: CRMWCZP1XXX
+  swift8: CRMWCZP1
+  branch_name: Head Office
+  branch_address: Ministry of the Environment of Cz 10010 Prague
+  branch_code: XXX
+  city: Prague
+  country: Czech Republic
+- name: Total Solutions S.r.o.
+  swift: TOSOCZP1XXX
+  swift8: TOSOCZP1
+  branch_name: Head Office
+  branch_address: Senovazne Nam. 23 Prague
+  branch_code: XXX
+  city: Prague
+  country: Czech Republic
+- name: Virtuse Energy S.r.o Empiria Centre
+  swift: VESECZP1XXX
+  swift8: VESECZP1
+  branch_name: Head Office
+  branch_address: Empiria Centre 140 00 Prague
+  branch_code: XXX
+  city: Prague
+  country: Czech Republic
+- name: Wallich And Matthes Czech Republic
+  swift: WMCRCZP1XXX
+  swift8: WMCRCZP1
+  branch_name: Head Office
+  branch_address: Praha City Center 110 02 Prague
+  branch_code: XXX
+  city: Prague
+  country: Czech Republic
+- name: West Brokers A.s.
+  swift: WERRCZ21XXX
+  swift8: WERRCZ21
+  branch_name: Head Office
+  branch_address: Slovanska 100 32600 Plzen
+  branch_code: XXX
+  city: Plzen
+  country: Czech Republic
+- name: Wood And Company Investicni Spolecnost, A.s.
+  swift: WCISCZP1XXX
+  swift8: WCISCZP1
+  branch_name: Head Office
+  branch_address: Namesti Republiky 1079/1a 110 00 Prague
+  branch_code: XXX
+  city: Prague
+  country: Czech Republic
+- name: X-trade Brokers Dom Maklerski Spolka Akcyjna,organizacni Slozka
+  swift: TRBDCZP1XXX
+  swift8: TRBDCZP1
+  branch_name: Head Office
+  branch_address: International Business Center, A1 Prague 8
+  branch_code: XXX
+  city: Prague
+  country: Czech Republic
+- name: Zalozna Creditas Sporitelni Druzstvo
+  swift: CTASCZ22XXX
+  swift8: CTASCZ22
+  branch_name: Head Office
+  branch_address: Tr. Svobody 1194/12 77900 Olomouc
+  branch_code: XXX
+  city: Olomouc
+  country: Czech Republic
+- name: Zfp Investments Investicni Spolecnost, A.s.
+  swift: ZFPICZP1XXX
+  swift8: ZFPICZP1
+  branch_name: No branch name
+  branch_address: No branch address
+  branch_code: XXX
+  city: Prague
+  country: Czech Republic

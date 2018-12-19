@@ -1,0 +1,234 @@
+---
+LI:
+- name: Bank Frick And Co Aktiengesellschaft
+  swift: BFRILI22XXX
+  swift8: BFRILI22
+  branch_name: Head Office
+  branch_address: Landstrasse 8 9496 Balzers
+  branch_code: XXX
+  city: Balzers
+  country: Liechtenstein
+- name: Banque Pasche (Liechtenstein) Sa
+  swift: SFBALI22XXX
+  swift8: SFBALI22
+  branch_name: Head Office
+  branch_address: Austrasse 61 9490 Vaduz
+  branch_code: XXX
+  city: Vaduz
+  country: Liechtenstein
+- name: Efg Bank Von Ernst Ag
+  swift: EFGBLI22XXX
+  swift8: EFGBLI22
+  branch_name: Head Office
+  branch_address: Egertastrasse 10 9490 Vaduz
+  branch_code: XXX
+  city: Vaduz
+  country: Liechtenstein
+- name: Kaiser Ritter Partner Privatbank Ag
+  swift: SERBLI22XXX
+  swift8: SERBLI22
+  branch_name: Head Office
+  branch_address: Herrengasse 23 9490 Vaduz
+  branch_code: XXX
+  city: Vaduz
+  country: Liechtenstein
+- name: Lgt Bank Ag
+  swift: BLFLLI2XXXX
+  swift8: BLFLLI2X
+  branch_name: Head Office
+  branch_address: 12 Herrengasse 9490 Vaduz
+  branch_code: XXX
+  city: Vaduz
+  country: Liechtenstein
+- name: Lgt Bank Ag
+  swift: BLFLLI2X224
+  swift8: BLFLLI2X
+  branch_name: Conv Shareklasse Gbp
+  branch_address: Vaduz
+  branch_code: '224'
+  city: Vaduz
+  country: Liechtenstein
+- name: Lgt Bank Ag
+  swift: BLFLLI2X225
+  swift8: BLFLLI2X
+  branch_name: Eq Nam Shareklasse Eur
+  branch_address: Vaduz
+  branch_code: '225'
+  city: Vaduz
+  country: Liechtenstein
+- name: Lgt Bank Ag
+  swift: BLFLLI2X252
+  swift8: BLFLLI2X
+  branch_name: Lgt Slc Eq Jp Usd B
+  branch_address: No branch address
+  branch_code: '252'
+  city: Vaduz
+  country: Liechtenstein
+- name: Lgt Bank Ag
+  swift: BLFLLI2X253
+  swift8: BLFLLI2X
+  branch_name: Lgt Slc Eq Jp Usd I1
+  branch_address: No branch address
+  branch_code: '253'
+  city: Vaduz
+  country: Liechtenstein
+- name: Lgt Bank Ag
+  swift: BLFLLI2X495
+  swift8: BLFLLI2X
+  branch_name: M-M Conv Shareklasse Eur
+  branch_address: Vaduz
+  branch_code: '495'
+  city: Vaduz
+  country: Liechtenstein
+- name: Lgt Bank Ag
+  swift: BLFLLI2X496
+  swift8: BLFLLI2X
+  branch_name: M-M Conv Shareklasse Chf
+  branch_address: Vaduz
+  branch_code: '496'
+  city: Vaduz
+  country: Liechtenstein
+- name: Lgt Bank Ag
+  swift: BLFLLI2XEXC
+  swift8: BLFLLI2X
+  branch_name: Ex Custody
+  branch_address: Vaduz
+  branch_code: EXC
+  city: Vaduz
+  country: Liechtenstein
+- name: Liechtensteinische Landesbank Aktiengesellschaft
+  swift: LILALI2XXXX
+  swift8: LILALI2X
+  branch_name: Head Office
+  branch_address: 44 Staedtle 9490 Vaduz
+  branch_code: XXX
+  city: Vaduz
+  country: Liechtenstein
+- name: Neue Bank Ag
+  swift: NBANLI22XXX
+  swift8: NBANLI22
+  branch_name: Head Office
+  branch_address: 20 Marktgass 9490 Vaduz
+  branch_code: XXX
+  city: Vaduz
+  country: Liechtenstein
+- name: Raiffeisen Bank (Liechtenstein) Ag
+  swift: RAIBLI22XXX
+  swift8: RAIBLI22
+  branch_name: Head Office
+  branch_address: Austrasse 51 9490 Vaduz
+  branch_code: XXX
+  city: Vaduz
+  country: Liechtenstein
+- name: Valartis Bank (Liechtenstein) Ag
+  swift: HYIBLI22XXX
+  swift8: HYIBLI22
+  branch_name: Head Office
+  branch_address: Schaaner Strasse 27 9487 Gamprin-Bendern
+  branch_code: XXX
+  city: Gamprin-Bendern
+  country: Liechtenstein
+- name: Verwaltungs Und Privat Bank Ag
+  swift: VPBVLI2XLIC
+  swift8: VPBVLI2X
+  branch_name: Business Unit Liechtenstein
+  branch_address: Triesen
+  branch_code: LIC
+  city: Triesen
+  country: Liechtenstein
+- name: Verwaltungs Und Privat Bank Ag
+  swift: VPBVLI2XXXX
+  swift8: VPBVLI2X
+  branch_name: Head Office
+  branch_address: Auelestr. 6 9490 Vaduz
+  branch_code: XXX
+  city: Vaduz
+  country: Liechtenstein
+- name: Volksbank Ag
+  swift: VOAGLI22XXX
+  swift8: VOAGLI22
+  branch_name: Head Office
+  branch_address: Volksbank Ag 9494 Schaan
+  branch_code: XXX
+  city: Schaan
+  country: Liechtenstein
+- name: William Blair And Company
+  swift: WIBCLI21XXX
+  swift8: WIBCLI21
+  branch_name: Head Office
+  branch_address: 1 Mitteldorf 9490 Vaduz
+  branch_code: XXX
+  city: Vaduz
+  country: Liechtenstein
+- name: Baloise Life Liechtenstein Ag
+  swift: BAIHLI21XXX
+  swift8: BAIHLI21
+  branch_name: Head Office
+  branch_address: Alte Landstrasse 8 9496 Balzers
+  branch_code: XXX
+  city: Balzers
+  country: Liechtenstein
+- name: Bank Alpinum Ag
+  swift: BALPLI22XXX
+  swift8: BALPLI22
+  branch_name: Head Office
+  branch_address: 17 Staedtle 9490 Vaduz
+  branch_code: XXX
+  city: Vaduz
+  country: Liechtenstein
+- name: Bank Alpinum Ag
+  swift: NECULI21XXX
+  swift8: NECULI21
+  branch_name: Head Office
+  branch_address: Staedtle 17 9490 Vaduz
+  branch_code: XXX
+  city: Vaduz
+  country: Liechtenstein
+- name: Cs Life And Pensions
+  swift: LPENLI21XXX
+  swift8: LPENLI21
+  branch_name: Head Office
+  branch_address: Am Muehleholz 3 9490 Vaduz
+  branch_code: XXX
+  city: Vaduz
+  country: Liechtenstein
+- name: Cs Trust Liechtenstein
+  swift: TLIELI21XXX
+  swift8: TLIELI21
+  branch_name: Head Office
+  branch_address: Pradafant 21 Vaduz
+  branch_code: XXX
+  city: Vaduz
+  country: Liechtenstein
+- name: Hilti Corporation
+  swift: HILTLI22XXX
+  swift8: HILTLI22
+  branch_name: Head Office
+  branch_address: Feldkircherstrasse 100 9494 Schaan
+  branch_code: XXX
+  city: Schaan
+  country: Liechtenstein
+- name: J And T International Anstalt
+  swift: ITATLI21XXX
+  swift8: ITATLI21
+  branch_name: Head Office
+  branch_address: Industriestrasse 105/a Ruggell
+  branch_code: XXX
+  city: Ruggell
+  country: Liechtenstein
+- name: The National Emissions Trading Registry Of Liechtenstein
+  swift: NETILI21XXX
+  swift8: NETILI21
+  branch_name: Head Office
+  branch_address: Liechtenstein Office of 9494 Vaduz
+  branch_code: XXX
+  city: Vaduz
+  country: Liechtenstein
+- name: Union Bank Ag
+  swift: UNIVLI22XXX
+  swift8: UNIVLI22
+  branch_name: No branch name
+  branch_address: No branch address
+  branch_code: XXX
+  city: Vaduz
+  country: Liechtenstein

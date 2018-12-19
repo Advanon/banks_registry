@@ -1,0 +1,26 @@
+---
+MP:
+- name: Bank Of Hawaii
+  swift: BOHIMPM1XXX
+  swift8: BOHIMPM1
+  branch_name: Head Office
+  branch_address: Bank of Hawaii Building 96950 Saipan
+  branch_code: XXX
+  city: Saipan
+  country: Northern Mariana Islands
+- name: Bank Of Guam
+  swift: GMBKMPM1XXX
+  swift8: GMBKMPM1
+  branch_name: Head Office
+  branch_address: Price Costco Saipan
+  branch_code: XXX
+  city: Saipan
+  country: Northern Mariana Islands
+- name: Bank Of Saipan
+  swift: BSAIMPM1XXX
+  swift8: BSAIMPM1
+  branch_name: Head Office
+  branch_address: 1 Sablan Bldg Saipan
+  branch_code: XXX
+  city: Saipan
+  country: Northern Mariana Islands

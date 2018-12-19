@@ -1,0 +1,98 @@
+---
+ME:
+- name: Atlas Banka Ad
+  swift: ATLMMEP2XXX
+  swift8: ATLMMEP2
+  branch_name: Head Office
+  branch_address: Vaka Djurovica Bb 81000 Podgorica
+  branch_code: XXX
+  city: Podgorica
+  country: Montenegro
+- name: Central Bank Of Montenegro
+  swift: CBCGMEB1XXX
+  swift8: CBCGMEB1
+  branch_name: Head Office
+  branch_address: Bulevar Svetog Petra Cetinjskog 7 Podgorica
+  branch_code: XXX
+  city: Podgorica
+  country: Montenegro
+- name: Centralna Banka Crne Gore
+  swift: CBCGMEPGXXX
+  swift8: CBCGMEPG
+  branch_name: Head Office
+  branch_address: Nemanjina Obala 7 81000 Podgorica
+  branch_code: XXX
+  city: Podgorica
+  country: Montenegro
+- name: Crnogorska Komercijalna Banka Ad Podgorica
+  swift: CKBCMEPGXXX
+  swift8: CKBCMEPG
+  branch_name: Head Office
+  branch_address: Marksa I Engelsa Bb 81000 Podgorica
+  branch_code: XXX
+  city: Podgorica
+  country: Montenegro
+- name: Erste Bank Ad Podgorica
+  swift: OPPOMEPGXXX
+  swift8: OPPOMEPG
+  branch_name: Head Office
+  branch_address: 46 Marka Miljanova 81000 Podgorica
+  branch_code: XXX
+  city: Podgorica
+  country: Montenegro
+- name: Hipotekarna Banka Ad
+  swift: HBBAMEPGXXX
+  swift8: HBBAMEPG
+  branch_name: Head Office
+  branch_address: Roksped 81000 Podgorica
+  branch_code: XXX
+  city: Podgorica
+  country: Montenegro
+- name: Hypo Alpe-adria-bank A.d. Podgorica
+  swift: HAABMEPGXXX
+  swift8: HAABMEPG
+  branch_name: Head Office
+  branch_address: Bulevar Dzordza Vasingtona 49 81000 Podgorica
+  branch_code: XXX
+  city: Podgorica
+  country: Montenegro
+- name: Invest Banka Montenegro Ad Podgorica (formaly Pljevaljska Banka
+  swift: IBMNMEPGXXX
+  swift8: IBMNMEPG
+  branch_name: Head Office
+  branch_address: Stanka Dragojevica 4 81000 Podgorica
+  branch_code: XXX
+  city: Podgorica
+  country: Montenegro
+- name: Komercijalna Banka Ad Budva
+  swift: KOBBMEP2XXX
+  swift8: KOBBMEP2
+  branch_name: Head Office
+  branch_address: Business Center 86000 Budva
+  branch_code: XXX
+  city: Budva
+  country: Montenegro
+- name: Nlb Montenegrobanka A.d. Podgorica
+  swift: MNBAMEPGXXX
+  swift8: MNBAMEPG
+  branch_name: Head Office
+  branch_address: Montenegrobanka 81000 Podgorica
+  branch_code: XXX
+  city: Podgorica
+  country: Montenegro
+- name: Prva Banka Crne Gore Ad
+  swift: PRVAMEPGXXX
+  swift8: PRVAMEPG
+  branch_name: Head Office
+  branch_address: Cetinjski Put Bb 81000 Podgorica
+  branch_code: XXX
+  city: Podgorica
+  country: Montenegro
+- name: Societe Generale Banka Montenegro
+  swift: PDBPMEPGXXX
+  swift8: PDBPMEPG
+  branch_name: Head Office
+  branch_address: Bulevar Revolucije 17 81000 Podgorica
+  branch_code: XXX
+  city: Podgorica
+  country: Montenegro

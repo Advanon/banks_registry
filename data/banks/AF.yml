@@ -1,0 +1,162 @@
+---
+AF:
+- name: Habib Bank Limited
+  swift: HABBAFKAXXX
+  swift8: HABBAFKA
+  branch_name: Head Office
+  branch_address: Chahre-Haji-Yaqoob Kabul
+  branch_code: XXX
+  city: Kabul
+  country: Afghanistan
+- name: Standard Chartered Bank
+  swift: SCBLAFKAXXX
+  swift8: SCBLAFKA
+  branch_name: Head Office
+  branch_address: Street 10, Wazeer Abar Khan Area Kabul
+  branch_code: XXX
+  city: Kabul
+  country: Afghanistan
+- name: Afgan United Bank
+  swift: AFGUAFKAXXX
+  swift8: AFGUAFKA
+  branch_name: Head Office
+  branch_address: Shar-E-Naw Kabul
+  branch_code: XXX
+  city: Kabul
+  country: Afghanistan
+- name: Afghanistan Commercial Bank
+  swift: TBAAAFKAXXX
+  swift8: TBAAAFKA
+  branch_name: Head Office
+  branch_address: Charai Torabaz Khan Kabul
+  branch_code: XXX
+  city: Kabul
+  country: Afghanistan
+- name: Afghanistan International Bank
+  swift: AFIBAFKAXXX
+  swift8: AFIBAFKA
+  branch_name: Head Office
+  branch_address: E and F Kabul
+  branch_code: XXX
+  city: Kabul
+  country: Afghanistan
+- name: Azizi Bank
+  swift: AZBAAFKAXXX
+  swift8: AZBAAFKA
+  branch_name: Head Office
+  branch_address: Azizi Bank Kabul
+  branch_code: XXX
+  city: Kabul
+  country: Afghanistan
+- name: Bakhtar Bank
+  swift: BKRBAFKAXXX
+  swift8: BKRBAFKA
+  branch_name: Head Office
+  branch_address: Sherpur Square, Shahre Naw 93 Kabul
+  branch_code: XXX
+  city: Kabul
+  country: Afghanistan
+- name: Bank Alfalah Limited
+  swift: ALFHAFKA803
+  swift8: ALFHAFKA
+  branch_name: Afghanistan-Herat Branch
+  branch_address: Chamber of Commerce and Industries Herat
+  branch_code: '803'
+  city: Herat
+  country: Afghanistan
+- name: Bank Alfalah Limited (afghanistan-kabul Branch
+  swift: ALFHAFKAXXX
+  swift8: ALFHAFKA
+  branch_name: Head Office
+  branch_address: Bank Alfalah Kabul Branch Kabul
+  branch_code: XXX
+  city: Kabul
+  country: Afghanistan
+- name: Banke Millie Afghan
+  swift: BMAFAFKAXXX
+  swift8: BMAFAFKA
+  branch_name: Head Office
+  branch_address: Jade Ibne Sina Kabul
+  branch_code: XXX
+  city: Kabul
+  country: Afghanistan
+- name: Da Afghanistan Bank
+  swift: AFGBAFKAXXX
+  swift8: AFGBAFKA
+  branch_name: Head Office
+  branch_address: Da Afghanistan Bank Kabul
+  branch_code: XXX
+  city: Kabul
+  country: Afghanistan
+- name: First Microfinance Bank Ltd., The
+  swift: FMFBAFKAXXX
+  swift8: FMFBAFKA
+  branch_name: Shash Darak Kabul Branch
+  branch_address: St-West of Park Shahr-E-Naw Kabul
+  branch_code: XXX
+  city: Kabul
+  country: Afghanistan
+- name: Ghazanfar Bank
+  swift: GHBKAFKAISW
+  swift8: GHBKAFKA
+  branch_name: Kabul
+  branch_address: Kabul
+  branch_code: ISW
+  city: Kabul
+  country: Afghanistan
+- name: Ghazanfar Bank
+  swift: GHBKAFKAXXX
+  swift8: GHBKAFKA
+  branch_name: Head Office
+  branch_address: Ghazanfar Bank Building Kabul
+  branch_code: XXX
+  city: Kabul
+  country: Afghanistan
+- name: Industrial Development Bank Of Afghanistan
+  swift: IDTBAFK1XXX
+  swift8: IDTBAFK1
+  branch_name: Head Office
+  branch_address: Jada I-Maiwand Kabul
+  branch_code: XXX
+  city: Kabul
+  country: Afghanistan
+- name: Kabul Bank
+  swift: KABUAFKAXXX
+  swift8: KABUAFKA
+  branch_name: Kabul
+  branch_address: Kabul Bank Bldg Kabul
+  branch_code: XXX
+  city: Kabul
+  country: Afghanistan
+- name: Maiwand Bank
+  swift: MWBKAFKAXXX
+  swift8: MWBKAFKA
+  branch_name: Head Office
+  branch_address: Charrahi Torabaz Khan Kabul
+  branch_code: XXX
+  city: Kabul
+  country: Afghanistan
+- name: Mortgage And Construction Bank
+  swift: CBMOAFK1XXX
+  swift8: CBMOAFK1
+  branch_name: Head Office
+  branch_address: 2 Jadeh Maiwand Street Kabul
+  branch_code: XXX
+  city: Kabul
+  country: Afghanistan
+- name: National Bank Of Pakistan, Kabul Branch
+  swift: NBPAAFKAXXX
+  swift8: NBPAAFKA
+  branch_name: Head Office
+  branch_address: Nbp Kabul Branch, House No. 2 Kabul
+  branch_code: XXX
+  city: Kabul
+  country: Afghanistan
+- name: Pashtany Bank
+  swift: PIBAAFKAXXX
+  swift8: PIBAAFKA
+  branch_name: Kabul
+  branch_address: Mohammad Jan Khan Watt Kabul
+  branch_code: XXX
+  city: Kabul
+  country: Afghanistan

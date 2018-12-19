@@ -1,0 +1,170 @@
+---
+MM:
+- name: Asia Green Development Bank Limited
+  swift: AGDBMMMYXXX
+  swift8: AGDBMMMY
+  branch_name: Head Office
+  branch_address: Thiri Yadanar Shopping Complex Nay Pyi Taw
+  branch_code: XXX
+  city: Pyi
+  country: Myanmar
+- name: Ayeyarwady Bank Limited
+  swift: AYABMMMYXXX
+  swift8: AYABMMMY
+  branch_name: Head Office
+  branch_address: Ayeyarwady Bank Yangon
+  branch_code: XXX
+  city: Yangon
+  country: Myanmar
+- name: Central Bank Of Myanmar
+  swift: CBMYMMMYXXX
+  swift8: CBMYMMMY
+  branch_name: Head Office
+  branch_address: 26 (A) Settmu Road Yangon
+  branch_code: XXX
+  city: Yangon
+  country: Myanmar
+- name: Co-operative Bank Limited (public Bank
+  swift: CPOBMMMYXXX
+  swift8: CPOBMMMY
+  branch_name: Head Office
+  branch_address: Cb Bank 11142 Yangon
+  branch_code: XXX
+  city: Yangon
+  country: Myanmar
+- name: First Private Bank Limited
+  swift: FPBPMMMYXXX
+  swift8: FPBPMMMY
+  branch_name: Head Office
+  branch_address: 619-621 Merchant Street Yangon
+  branch_code: XXX
+  city: Yangon
+  country: Myanmar
+- name: Global Treasure Bank Public Company Ltd
+  swift: MLFBMMMYXXX
+  swift8: MLFBMMMY
+  branch_name: Head Office
+  branch_address: 653-699 Merchant Street Yangon
+  branch_code: XXX
+  city: Yangon
+  country: Myanmar
+- name: Kanbawza Bank Ltd
+  swift: KBZBMMMYXXX
+  swift8: KBZBMMMY
+  branch_name: Head Office
+  branch_address: Kamayut Township Yangon
+  branch_code: XXX
+  city: Yangon
+  country: Myanmar
+- name: Myanma Apex Bank Limited
+  swift: MMABMMMYXXX
+  swift8: MMABMMMY
+  branch_name: Head Office
+  branch_address: Middle Block 11161 Yangon
+  branch_code: XXX
+  city: Yangon
+  country: Myanmar
+- name: Myanma Economic Bank
+  swift: MYEBMMMYXXX
+  swift8: MYEBMMMY
+  branch_name: Head Office
+  branch_address: 23/25 Sule Pagoda Road Yangon
+  branch_code: XXX
+  city: Yangon
+  country: Myanmar
+- name: Myanma Foreign Trade Bank
+  swift: MFTBMMMYXXX
+  swift8: MFTBMMMY
+  branch_name: Head Office
+  branch_address: 80-86 Maha Bandoola Garden Street Yangon
+  branch_code: XXX
+  city: Yangon
+  country: Myanmar
+- name: Myanma Industrial Development Bank
+  swift: MYIDMMMYXXX
+  swift8: MYIDMMMY
+  branch_name: Head Office
+  branch_address: Midb Bank 11181 Yangon
+  branch_code: XXX
+  city: Yangon
+  country: Myanmar
+- name: Myanma Investment And Commercial Bank
+  swift: MICBMMMYMAN
+  swift8: MICBMMMY
+  branch_name: Full Branch
+  branch_address: Yangon
+  branch_code: MAN
+  city: Yangon
+  country: Myanmar
+- name: Myanma Investment And Commercial Bank
+  swift: MICBMMMYXXX
+  swift8: MICBMMMY
+  branch_name: Head Office
+  branch_address: 170/176 Bo Aung Gyaw Street Yangon
+  branch_code: XXX
+  city: Yangon
+  country: Myanmar
+- name: Myanmar Citizens Bank Limited
+  swift: MCIZMMMYXXX
+  swift8: MCIZMMMY
+  branch_name: Head Office
+  branch_address: 383 Mahabandoola Street 11182 Yangon
+  branch_code: XXX
+  city: Yangon
+  country: Myanmar
+- name: Myanmar Oriental Bank Limited
+  swift: MYORMMMYXXX
+  swift8: MYORMMMY
+  branch_name: Head Office
+  branch_address: Pansodan Street No.166/168 Yangon
+  branch_code: XXX
+  city: Yangon
+  country: Myanmar
+- name: Myawaddy Bank Limited
+  swift: MWDBMMMYXXX
+  swift8: MWDBMMMY
+  branch_name: No branch name
+  branch_address: No branch address
+  branch_code: XXX
+  city: Yangon
+  country: Myanmar
+- name: People's Bank
+  swift: BAPSMMM1XXX
+  swift8: BAPSMMM1
+  branch_name: Head Office
+  branch_address: 526 Merchant Street Yangon
+  branch_code: XXX
+  city: Yangon
+  country: Myanmar
+- name: Tun Foundation Bank Ltd
+  swift: TFBKMMMYXXX
+  swift8: TFBKMMMY
+  branch_name: Head Office
+  branch_address: Tun Foundation Bank Yangon
+  branch_code: XXX
+  city: Yangon
+  country: Myanmar
+- name: Union Of Burma Bank
+  swift: UBUBMMM1XXX
+  swift8: UBUBMMM1
+  branch_name: Head Office
+  branch_address: 24-26 Sule Pagoda Road 85300 Yangon
+  branch_code: XXX
+  city: Yangon
+  country: Myanmar
+- name: United Amara Bank Limited
+  swift: UABMMMMYXXX
+  swift8: UABMMMMY
+  branch_name: Head Office
+  branch_address: Bayint Naung Warehouse Yangon
+  branch_code: XXX
+  city: Yangon
+  country: Myanmar
+- name: Yoma Bank Limited
+  swift: YOMAMMMYXXX
+  swift8: YOMAMMMY
+  branch_name: No branch name
+  branch_address: No branch address
+  branch_code: XXX
+  city: Yangon
+  country: Myanmar

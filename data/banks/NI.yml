@@ -1,0 +1,146 @@
+---
+NI:
+- name: Citibank N.A.
+  swift: CITINIM1XXX
+  swift8: CITINIM1
+  branch_name: Head Office
+  branch_address: Managua
+  branch_code: XXX
+  city: Managua
+  country: Nicaragua
+- name: Banco Mercantil
+  swift: BMRCNIM1XXX
+  swift8: BMRCNIM1
+  branch_name: Head Office
+  branch_address: Contiguo Viajes American Airlines Managua
+  branch_code: XXX
+  city: Managua
+  country: Nicaragua
+- name: Banco Centroamericano De Integracion Economica
+  swift: BCIENIM1XXX
+  swift8: BCIENIM1
+  branch_name: Head Office
+  branch_address: Plaza Espana, Edificio Bcie Managua
+  branch_code: XXX
+  city: Managua
+  country: Nicaragua
+- name: Banco Central De Nicaragua
+  swift: BCNINIMAXXX
+  swift8: BCNINIMA
+  branch_name: Head Office
+  branch_address: Km7 Carretera Sur, 150 Mts. Este Managua
+  branch_code: XXX
+  city: Managua
+  country: Nicaragua
+- name: Banco Citibank De Nicaragua, S.a.
+  swift: BUNONIMAXXX
+  swift8: BUNONIMA
+  branch_name: Head Office
+  branch_address: Edificio - Plaza Espana Managua
+  branch_code: XXX
+  city: Managua
+  country: Nicaragua
+- name: Banco De America Central
+  swift: BAMCNIMAXXX
+  swift8: BAMCNIMA
+  branch_name: Head Office
+  branch_address: Centro Bac Km4 1/2 Carretera a Managua
+  branch_code: XXX
+  city: Managua
+  country: Nicaragua
+- name: Banco De Centro America
+  swift: BCEANIM1XXX
+  swift8: BCEANIM1
+  branch_name: Head Office
+  branch_address: Avenida Sandino Managua
+  branch_code: XXX
+  city: Managua
+  country: Nicaragua
+- name: Banco De Credito Popular
+  swift: CRPONIM1XXX
+  swift8: CRPONIM1
+  branch_name: Head Office
+  branch_address: Centro Comercial Nejapa Managua
+  branch_code: XXX
+  city: Managua
+  country: Nicaragua
+- name: Banco De Exportacion
+  swift: EXPTNIM1XXX
+  swift8: EXPTNIM1
+  branch_name: Head Office
+  branch_address: Metrocentro Managua
+  branch_code: XXX
+  city: Managua
+  country: Nicaragua
+- name: Banco De Finanzas, S.a.(bdf
+  swift: BBDFNIMAXXX
+  swift8: BBDFNIMA
+  branch_name: Head Office
+  branch_address: Bdf Casa Matriz Managua
+  branch_code: XXX
+  city: Managua
+  country: Nicaragua
+- name: Banco De La Produccion S.a.
+  swift: BAPRNIMAXXX
+  swift8: BAPRNIMA
+  branch_name: Head Office
+  branch_address: Edif. Plaza Libertad Frente a Managua
+  branch_code: XXX
+  city: Managua
+  country: Nicaragua
+- name: Banco De La Vivienda De Nicaragua
+  swift: BVISNIM1XXX
+  swift8: BVISNIM1
+  branch_name: Head Office
+  branch_address: Esquina Opuesta a Gallo, Villa Sur Managua
+  branch_code: XXX
+  city: Managua
+  country: Nicaragua
+- name: Banco De Prestamos
+  swift: BPRENIM1XXX
+  swift8: BPRENIM1
+  branch_name: Head Office
+  branch_address: Esquina Opuesta a Hotel Managua
+  branch_code: XXX
+  city: Managua
+  country: Nicaragua
+- name: Banco Europeo De Centro America, S.a.
+  swift: BEUCNIM1XXX
+  swift8: BEUCNIM1
+  branch_name: Head Office
+  branch_address: Hospital Militar Managua
+  branch_code: XXX
+  city: Managua
+  country: Nicaragua
+- name: Banco Lafise Bancentro, S.a.
+  swift: BCCENIMAXXX
+  swift8: BCCENIMA
+  branch_name: Head Office
+  branch_address: Centro Financiero Lafise Managua
+  branch_code: XXX
+  city: Managua
+  country: Nicaragua
+- name: Banco Nacional De Desarrollo
+  swift: BNDENIM1XXX
+  swift8: BNDENIM1
+  branch_name: Head Office
+  branch_address: 1-2 Carretera Masaya Km 4 Managua
+  branch_code: XXX
+  city: Managua
+  country: Nicaragua
+- name: Banco Procredit Nicaragua
+  swift: PRCBNIMAXXX
+  swift8: PRCBNIMA
+  branch_name: Head Office
+  branch_address: Centro Comercial El Retiro Managua
+  branch_code: XXX
+  city: Managua
+  country: Nicaragua
+- name: Central Nicaragueense De Valores, S.a.
+  swift: CNVCNIM1XXX
+  swift8: CNVCNIM1
+  branch_name: Head Office
+  branch_address: Centro Banic Managua
+  branch_code: XXX
+  city: Managua
+  country: Nicaragua

@@ -1,0 +1,242 @@
+---
+LA:
+- name: Siam Commercial Bank Pcl., The
+  swift: SICOLALAXXX
+  swift8: SICOLALA
+  branch_name: Head Office
+  branch_address: 117 Lanxang-Samsenthai Rd. Vientiane
+  branch_code: XXX
+  city: Vientiane
+  country: Laos
+- name: Acleda Bank (lao) Ltd
+  swift: ACLBLALAXXX
+  swift8: ACLBLALA
+  branch_name: Head Office
+  branch_address: Dong Palane Tha Village Vientiane
+  branch_code: XXX
+  city: Vientiane
+  country: Laos
+- name: Agricultural Promotion Bank
+  swift: AGPBLALAXXX
+  swift8: AGPBLALA
+  branch_name: Head Office
+  branch_address: Agricultural Promotion Bank Vientiane
+  branch_code: XXX
+  city: Vientiane
+  country: Laos
+- name: Anz Bank (lao) Limited
+  swift: VCBBLALAXXX
+  swift8: VCBBLALA
+  branch_name: Head Office
+  branch_address: Anz Bank (Lao) Limited Building 01000 Vientiane
+  branch_code: XXX
+  city: Vientiane
+  country: Laos
+- name: Bangkok Bank Plc, Vientiane Branch
+  swift: BKKBLALAXXX
+  swift8: BKKBLALA
+  branch_name: Head Office
+  branch_address: No 410 Hatsady Road Vientiane
+  branch_code: XXX
+  city: Vientiane
+  country: Laos
+- name: Banque Franco-lao Ltd
+  swift: BFLLLALAXXX
+  swift8: BFLLLALA
+  branch_name: Head Office
+  branch_address: 11 Avenue Lane Xang Vientiane
+  branch_code: XXX
+  city: Vientiane
+  country: Laos
+- name: Banque Pour Le Commerce Exterieur Lao Public
+  swift: COEBLALACPS
+  swift8: COEBLALA
+  branch_name: Champasack Branch
+  branch_address: 11 Watluang Village 789 Pakse
+  branch_code: CPS
+  city: Pakse
+  country: Laos
+- name: Banque Pour Le Commerce Exterieur Lao Public
+  swift: COEBLALAKMN
+  swift8: COEBLALA
+  branch_name: Khammouane Branch
+  branch_address: Chomeugeun Village Khammouane
+  branch_code: KMN
+  city: Khammouane
+  country: Laos
+- name: Banque Pour Le Commerce Exterieur Lao Public
+  swift: COEBLALALBP
+  swift8: COEBLALA
+  branch_name: Luangprabang Branch
+  branch_address: 109/3 Parasamanh Street, 534 Luangprabang
+  branch_code: LBP
+  city: Luangprabang
+  country: Laos
+- name: Banque Pour Le Commerce Exterieur Lao Public
+  swift: COEBLALALNT
+  swift8: COEBLALA
+  branch_name: Luangnamtha Branch
+  branch_address: Luangnamtha Street, Oudomsi Luangnamtha
+  branch_code: LNT
+  city: Luangnamtha
+  country: Laos
+- name: Banque Pour Le Commerce Exterieur Lao Public
+  swift: COEBLALAODX
+  swift8: COEBLALA
+  branch_name: Oudomxay Branch
+  branch_address: 13 Neua Street, Pasack Village, Xay Oudomxay
+  branch_code: ODX
+  city: Oudomxay
+  country: Laos
+- name: Banque Pour Le Commerce Exterieur Lao Public
+  swift: COEBLALASVN
+  swift8: COEBLALA
+  branch_name: Savannakhet Branch
+  branch_address: Latsavongseak Street, Sounantha 685 Savannakhet
+  branch_code: SVN
+  city: Savannakhet
+  country: Laos
+- name: Banque Pour Le Commerce Exterieur Lao Public
+  swift: COEBLALAXXX
+  swift8: COEBLALA
+  branch_name: Head Office
+  branch_address: 1 Pangkham Street 856 Vientiane
+  branch_code: XXX
+  city: Vientiane
+  country: Laos
+- name: Indochina Bank Ltd
+  swift: IDCBLALAXXX
+  swift8: IDCBLALA
+  branch_name: Head Office
+  branch_address: Capital Tower Vientiane
+  branch_code: XXX
+  city: Vientiane
+  country: Laos
+- name: Industrial And Commercial Bank Of China Limited Vientiane Branch
+  swift: ICBKLALAXXX
+  swift8: ICBKLALA
+  branch_name: Head Office
+  branch_address: Sengphachan Hotel Vientiane
+  branch_code: XXX
+  city: Vientiane
+  country: Laos
+- name: Industrial And Commercial Bank Of China Limited Vientiane Branch
+  swift: ICBKLAL1XXX
+  swift8: ICBKLAL1
+  branch_name: Head Office
+  branch_address: Sengphachan Hotel Vientiane
+  branch_code: XXX
+  city: Vientiane
+  country: Laos
+- name: International Commercial Bank (lao) Ltd
+  swift: LICBLALAXXX
+  swift8: LICBLALA
+  branch_name: Head Office
+  branch_address: Hatsady Road 127/07 Vientiane
+  branch_code: XXX
+  city: Vientiane
+  country: Laos
+- name: Joint Development Bank
+  swift: JDBKLALAXXX
+  swift8: JDBKLALA
+  branch_name: Head Office
+  branch_address: 82 Lanexang Ave Vientiane
+  branch_code: XXX
+  city: Vientiane
+  country: Laos
+- name: Lao Construction Bank
+  swift: LCBVLALAXXX
+  swift8: LCBVLALA
+  branch_name: Head Office
+  branch_address: Cosco Road, Phonsinuan Village 856-21 Vientiane
+  branch_code: XXX
+  city: Vientiane
+  country: Laos
+- name: Lao Construction Bank Limited
+  swift: LCONLAL1XXX
+  swift8: LCONLAL1
+  branch_name: Head Office
+  branch_address: Phonsinouan Street, Phonsinouan Vientiane
+  branch_code: XXX
+  city: Vientiane
+  country: Laos
+- name: Lao Development Bank
+  swift: LDBBLALAXXX
+  swift8: LDBBLALA
+  branch_name: Head Office
+  branch_address: Pangkham Rd. Vientiane
+  branch_code: XXX
+  city: Vientiane
+  country: Laos
+- name: Lao-viet Bank
+  swift: LAOVLALACPS
+  swift8: LAOVLALA
+  branch_name: Champasak Branch
+  branch_address: Road 13, Ban Thaluang, Parse Town Champasak
+  branch_code: CPS
+  city: Champasak
+  country: Laos
+- name: Lao-viet Bank
+  swift: LAOVLALAXXX
+  swift8: LAOVLALA
+  branch_name: Head Office
+  branch_address: No 44 Lanexang Avenue Vientiane
+  branch_code: XXX
+  city: Vientiane
+  country: Laos
+- name: Magnate Premier Pb Limited
+  swift: MGPRLAL1XXX
+  swift8: MGPRLAL1
+  branch_name: Head Office
+  branch_address: Sbounheuang Vientiane
+  branch_code: XXX
+  city: Vientiane
+  country: Laos
+- name: Maybank Lao
+  swift: MBBELALAXXX
+  swift8: MBBELALA
+  branch_name: Head Office
+  branch_address: Maybank Lao Building Vientiane
+  branch_code: XXX
+  city: Vientiane
+  country: Laos
+- name: Phongsavanh Bank Ltd
+  swift: PSVBLALAXXX
+  swift8: PSVBLALA
+  branch_name: Head Office
+  branch_address: H O Building Vientiane
+  branch_code: XXX
+  city: Vientiane
+  country: Laos
+- name: Public Bank, Vientiane Branch, Lao P.d.r.
+  swift: PBBELALAXXX
+  swift8: PBBELALA
+  branch_name: Head Office
+  branch_address: 100/1-4 Talat Sao Road Vientiane
+  branch_code: XXX
+  city: Vientiane
+  country: Laos
+- name: Saigon Hanoi Commercial Joint Stock Bank Laos Branch
+  swift: SHBALALAXXX
+  swift8: SHBALALA
+  branch_name: Head Office
+  branch_address: Pakse New Market Champasak
+  branch_code: XXX
+  city: Champasak
+  country: Laos
+- name: St Bank Co. Ltd
+  swift: STBDLALAXXX
+  swift8: STBDLALA
+  branch_name: Head Office
+  branch_address: 144 Ban Anou, Samsenthai Road Vientiane
+  branch_code: XXX
+  city: Vientiane
+  country: Laos
+- name: Vietnam Joint Stock Commercial Bank For Industry And Trade Lao P.d.p Branch
+  swift: ICBVLALAXXX
+  swift8: ICBVLALA
+  branch_name: Head Office
+  branch_address: Khounboulom Road, Ban Watchan, 29 Vientiane
+  branch_code: XXX
+  city: Vientiane
+  country: Laos

@@ -1,0 +1,58 @@
+---
+AD:
+- name: Andorra Banc Agricol Reig S.a.
+  swift: BACAADADXXX
+  swift8: BACAADAD
+  branch_name: Head Office
+  branch_address: Manuel Cerqueda Escaler, 6 Ad200 Les Escaldes
+  branch_code: XXX
+  city: Les Escaldes
+  country: Andorra
+- name: Banc Sabadell D'andorra
+  swift: BSANADADXXX
+  swift8: BSANADAD
+  branch_name: Head Office
+  branch_address: Avinguda Del Fener 7 Andorra La Vella
+  branch_code: XXX
+  city: Andorra La Vella
+  country: Andorra
+- name: Banca Privada D'andorra S.a.
+  swift: CASBADADXXX
+  swift8: CASBADAD
+  branch_name: Head Office
+  branch_address: 119 Carlemany Avenue Les Escaldes
+  branch_code: XXX
+  city: Les Escaldes
+  country: Andorra
+- name: Credit Andorra
+  swift: CRDAADADXXX
+  swift8: CRDAADAD
+  branch_name: Head Office
+  branch_address: Av. Meritxell 80 Ad500 Andorra La Vella
+  branch_code: XXX
+  city: Andorra La Vella
+  country: Andorra
+- name: Mora Banc Grup Sa
+  swift: BINAADADXXX
+  swift8: BINAADAD
+  branch_name: Head Office
+  branch_address: 96 Av Meritxell Ad500 Andorra La Vella
+  branch_code: XXX
+  city: Andorra La Vella
+  country: Andorra
+- name: Mora Banc Sau
+  swift: BINAADB1XXX
+  swift8: BINAADB1
+  branch_name: No branch name
+  branch_address: No branch address
+  branch_code: XXX
+  city: Les Escaldes
+  country: Andorra
+- name: Result Internacional Sa
+  swift: RINSADA1XXX
+  swift8: RINSADA1
+  branch_name: Head Office
+  branch_address: Edifici Occesa 6 Ad500 Andorra La Vella
+  branch_code: XXX
+  city: Andorra La Vella
+  country: Andorra

@@ -1,0 +1,98 @@
+---
+KM:
+- name: International Finance Bank
+  swift: ITFNKMK1XXX
+  swift8: ITFNKMK1
+  branch_name: Head Office
+  branch_address: Villa Garcon Mutsamudu
+  branch_code: XXX
+  city: Mutsamudu
+  country: Comoros
+- name: Allied Chartered Bank
+  swift: ALCHKMK1XXX
+  swift8: ALCHKMK1
+  branch_name: Head Office
+  branch_address: Villa Carcon Mutsamudu
+  branch_code: XXX
+  city: Mutsamudu
+  country: Comoros
+- name: Banque Centrale Des Comoros
+  swift: COCBKMKMXXX
+  swift8: COCBKMKM
+  branch_name: Head Office
+  branch_address: Place De France Moroni
+  branch_code: XXX
+  city: Moroni
+  country: Comoros
+- name: Banque Federale De Commerce
+  swift: BFDCKMKMXXX
+  swift8: BFDCKMKM
+  branch_name: Head Office
+  branch_address: Bfc Building Moroni
+  branch_code: XXX
+  city: Moroni
+  country: Comoros
+- name: Banque Pour L'industrie Et Le Commerce Des Comores
+  swift: BICCKMKMXXX
+  swift8: BICCKMKM
+  branch_name: Head Office
+  branch_address: Place De France Moroni
+  branch_code: XXX
+  city: Moroni
+  country: Comoros
+- name: Dynast Premier Bank Limited
+  swift: DYPEKMK1XXX
+  swift8: DYPEKMK1
+  branch_name: Head Office
+  branch_address: Place Pagahari Mutsamudu
+  branch_code: XXX
+  city: Mutsamudu
+  country: Comoros
+- name: Exim Bank Comores Ltd
+  swift: EXTNKMKMXXX
+  swift8: EXTNKMKM
+  branch_name: Head Office
+  branch_address: Place De France Moroni
+  branch_code: XXX
+  city: Moroni
+  country: Comoros
+- name: Intercontinental Credit Bank Ltd
+  swift: ITCEKMK1XXX
+  swift8: ITCEKMK1
+  branch_name: Head Office
+  branch_address: Place Pangahari Mutsamudu
+  branch_code: XXX
+  city: Mutsamudu
+  country: Comoros
+- name: Magnate Premier Private Bank Ltd
+  swift: MAEVKMK1XXX
+  swift8: MAEVKMK1
+  branch_name: Head Office
+  branch_address: Place Pagahari Mutsamudu
+  branch_code: XXX
+  city: Mutsamudu
+  country: Comoros
+- name: Nysb, Inc
+  swift: NYSBKMK1XXX
+  swift8: NYSBKMK1
+  branch_name: No branch name
+  branch_address: No branch address
+  branch_code: XXX
+  city: Mutsamudu
+  country: Comoros
+- name: Snpsf (societe Nationale Des Postes
+  swift: HAHMKMKMXXX
+  swift8: HAHMKMKM
+  branch_name: Head Office
+  branch_address: Avenue De Leurope 98128 Moroni
+  branch_code: XXX
+  city: Moroni
+  country: Comoros
+- name: Wall Street Bank
+  swift: WSBOKMK1XXX
+  swift8: WSBOKMK1
+  branch_name: Head Office
+  branch_address: Al Amal Mutsamudu
+  branch_code: XXX
+  city: Mutsamudu
+  country: Comoros

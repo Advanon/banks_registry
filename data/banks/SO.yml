@@ -1,0 +1,18 @@
+---
+SO:
+- name: Central Bank Of Somalia
+  swift: CBSOSOSMXXX
+  swift8: CBSOSOSM
+  branch_name: Head Office
+  branch_address: Central Bank Building Mogadiscio
+  branch_code: XXX
+  city: Mogadiscio
+  country: Somalia
+- name: National Bank Of Somalia Limited
+  swift: NASISOS1XXX
+  swift8: NASISOS1
+  branch_name: Head Office
+  branch_address: National House Mogadiscio
+  branch_code: XXX
+  city: Mogadiscio
+  country: Somalia

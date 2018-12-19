@@ -1,0 +1,106 @@
+---
+TM:
+- name: National Bank Of Pakistan
+  swift: NBPATM22XXX
+  swift8: NBPATM22
+  branch_name: Head Office
+  branch_address: World Trade Complex 744000 Ashkhabad
+  branch_code: XXX
+  city: Ashkhabad
+  country: Turkmenistan
+- name: "'garagum' Bank International Joint-stok"
+  swift: IGARTM2XXXX
+  swift8: IGARTM2X
+  branch_name: Head Office
+  branch_address: Turkmenbashy Str. 126 744000 Ashkhabad
+  branch_code: XXX
+  city: Ashkhabad
+  country: Turkmenistan
+- name: Central Bank Of Turkmenistan, The
+  swift: CBTUTM2AXXX
+  swift8: CBTUTM2A
+  branch_name: Head Office
+  branch_address: Bitarap Turkmenistan Avenue 36 744000 Ashkhabad
+  branch_code: XXX
+  city: Ashkhabad
+  country: Turkmenistan
+- name: Daykhanbank
+  swift: BDAYTM22XXX
+  swift8: BDAYTM22
+  branch_name: Head Office
+  branch_address: 465 Bitarap Ave. 744000 Ashkhabad
+  branch_code: XXX
+  city: Ashkhabad
+  country: Turkmenistan
+- name: Halkbank
+  swift: HALKTM22XXX
+  swift8: HALKTM22
+  branch_name: Head Office
+  branch_address: 22, 2010 Str. 744000 Ashkhabad
+  branch_code: XXX
+  city: Ashkhabad
+  country: Turkmenistan
+- name: Joint-stock Commercial Bank Rysgal
+  swift: RYSGTM2AXXX
+  swift8: RYSGTM2A
+  branch_name: Head Office
+  branch_address: 81 B.S.Turkmenbashy Abenue 744017 Ashkhabad
+  branch_code: XXX
+  city: Ashkhabad
+  country: Turkmenistan
+- name: Savings Bank Of Turkmenistan
+  swift: SATUTM21XXX
+  swift8: SATUTM21
+  branch_name: Head Office
+  branch_address: 86 Magtymguly Street 744000 Ashkhabad
+  branch_code: XXX
+  city: Ashkhabad
+  country: Turkmenistan
+- name: Senagat Bank Jscb
+  swift: SENBTM22XXX
+  swift8: SENBTM22
+  branch_name: Head Office
+  branch_address: 42, Turkmenbashi Ave. 744013 Ashkhabad
+  branch_code: XXX
+  city: Ashkhabad
+  country: Turkmenistan
+- name: State Bank For Foreign Economic Affairs Of Turkmenistan
+  swift: SBFETM22XXX
+  swift8: SBFETM22
+  branch_name: Head Office
+  branch_address: Garashsyzlyk Ave., 32 744000 Ashkhabad
+  branch_code: XXX
+  city: Ashkhabad
+  country: Turkmenistan
+- name: State Commercial Bank 'garashsyzlyk '
+  swift: STCGTM21XXX
+  swift8: STCGTM21
+  branch_name: Head Office
+  branch_address: 30 a Shevchenko Street 744000 Ashkhabad
+  branch_code: XXX
+  city: Ashkhabad
+  country: Turkmenistan
+- name: Turkmen Turkish Joint Stock Commercial Bank
+  swift: TUTCTM2XXXX
+  swift8: TUTCTM2X
+  branch_name: Head Office
+  branch_address: Mahdumguly Avenue 111/2 744000 Ashkhabad
+  branch_code: XXX
+  city: Ashkhabad
+  country: Turkmenistan
+- name: Turkmenbank
+  swift: TNBKTM2XXXX
+  swift8: TNBKTM2X
+  branch_name: Head Office
+  branch_address: 10 a , Gerogly Str. 744000 Ashkhabad
+  branch_code: XXX
+  city: Ashkhabad
+  country: Turkmenistan
+- name: Turkmenbashibank
+  swift: INVATM2XXXX
+  swift8: INVATM2X
+  branch_name: Head Office
+  branch_address: 54, Hojow Annadurdyev Str. 744000 Ashkhabad
+  branch_code: XXX
+  city: Ashkhabad
+  country: Turkmenistan

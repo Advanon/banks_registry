@@ -1,0 +1,66 @@
+---
+WS:
+- name: Anz Bank (samoa) Ltd
+  swift: ANZBWSWWXXX
+  swift8: ANZBWSWW
+  branch_name: Head Office
+  branch_address: Beach Road Apia
+  branch_code: XXX
+  city: Apia
+  country: Samoa
+- name: British American Tobacco (samoa) Limited
+  swift: BATSWSA1XXX
+  swift8: BATSWSA1
+  branch_name: Head Office
+  branch_address: C/O Apa and Enari Barristers and Apia
+  branch_code: XXX
+  city: Apia
+  country: Samoa
+- name: Central Bank Of Samoa
+  swift: CBSAWSWSXXX
+  swift8: CBSAWSWS
+  branch_name: Head Office
+  branch_address: Apia
+  branch_code: XXX
+  city: Apia
+  country: Samoa
+- name: Independent Investment Bank Ltd.
+  swift: ININWSW1XXX
+  swift8: ININWSW1
+  branch_name: Head Office
+  branch_address: Central Bank of Samoa Building Apia
+  branch_code: XXX
+  city: Apia
+  country: Samoa
+- name: International Business Bank Corporation Ltd.
+  swift: IBBIWSW1XXX
+  swift8: IBBIWSW1
+  branch_name: Head Office
+  branch_address: Chandra House Apia
+  branch_code: XXX
+  city: Apia
+  country: Samoa
+- name: National Bank Of Samoa Limited
+  swift: NBSLWSWSXXX
+  swift8: NBSLWSWS
+  branch_name: Head Office
+  branch_address: Nbs Building Apia
+  branch_code: XXX
+  city: Apia
+  country: Samoa
+- name: Pacific Trade Bank Samoa
+  swift: PTRMWSWSXXX
+  swift8: PTRMWSWS
+  branch_name: Head Office
+  branch_address: Lotemau Centre 2757 Apia
+  branch_code: XXX
+  city: Apia
+  country: Samoa
+- name: Samoa Commercial Bank Limited
+  swift: SCOBWSWSXXX
+  swift8: SCOBWSWS
+  branch_name: Head Office
+  branch_address: Fetuao Methodist Church Building Apia
+  branch_code: XXX
+  city: Apia
+  country: Samoa

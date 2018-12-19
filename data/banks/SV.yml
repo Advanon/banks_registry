@@ -1,0 +1,179 @@
+---
+SV:
+- name: Asociacion Cooperativa De Ahorro Y Credito Del Colegio Medico De El Salvador
+    (comedica De R.l.
+  swift: ACATSVS1XXX
+  swift8: ACATSVS1
+  branch_name: No branch name
+  branch_address: No branch address
+  branch_code: XXX
+  city: San Salvador
+  country: El Salvador
+- name: Banco Agricola, S.a.
+  swift: CAGRSVSSXXX
+  swift8: CAGRSVSS
+  branch_name: Head Office
+  branch_address: Final Boulevard Constitucion 100 San Salvador
+  branch_code: XXX
+  city: San Salvador
+  country: El Salvador
+- name: Banco Central De Reserva De El Salvador
+  swift: CENRSVSSGTE
+  swift8: CENRSVSS
+  branch_name: Gerencia De Tesoreria
+  branch_address: Banco Central De Reserva 06-106 San Salvador
+  branch_code: GTE
+  city: San Salvador
+  country: El Salvador
+- name: Banco Central De Reserva De El Salvador
+  swift: CENRSVSSXXX
+  swift8: CENRSVSS
+  branch_name: Head Office
+  branch_address: Alameda Juan Pablo Ii Y 17 Avenida 06-106 San Salvador
+  branch_code: XXX
+  city: San Salvador
+  country: El Salvador
+- name: Banco Centroamericano De Integracion Economica
+  swift: BCIESVS1XXX
+  swift8: BCIESVS1
+  branch_name: Head Office
+  branch_address: Calle La Reforma 130 San Salvador
+  branch_code: XXX
+  city: San Salvador
+  country: El Salvador
+- name: Banco Citibank De El Salvador S.a.
+  swift: BACUSVSSNOS
+  swift8: BACUSVSS
+  branch_name: Nostro Account
+  branch_address: San Salvador
+  branch_code: NOS
+  city: San Salvador
+  country: El Salvador
+- name: Banco Citibank De El Salvador S.a.
+  swift: BACUSVSSXXX
+  swift8: BACUSVSS
+  branch_name: Head Office
+  branch_address: Edificio Piramide Cuscatlan San Salvador
+  branch_code: XXX
+  city: San Salvador
+  country: El Salvador
+- name: Banco Davivienda Salvadoreno Sa
+  swift: BSALSVSSXXX
+  swift8: BSALSVSS
+  branch_name: Head Office
+  branch_address: Centro Financiero 01101 San Salvador
+  branch_code: XXX
+  city: San Salvador
+  country: El Salvador
+- name: Banco De America Central, S.a.
+  swift: BAMCSVSSXXX
+  swift8: BAMCSVSS
+  branch_name: Head Office
+  branch_address: Centro Roosevelt Edif D San Salvador
+  branch_code: XXX
+  city: San Salvador
+  country: El Salvador
+- name: Banco De Credito Popular S.a.
+  swift: POPCSVS1XXX
+  swift8: POPCSVS1
+  branch_name: Head Office
+  branch_address: Avenida Sur 2a San Salvador
+  branch_code: XXX
+  city: San Salvador
+  country: El Salvador
+- name: Banco De Fomento Agropecuario
+  swift: FOAGSVS1XXX
+  swift8: FOAGSVS1
+  branch_name: Head Office
+  branch_address: Km 10.5 Carretera Al Puerto La Libe San Salvador
+  branch_code: XXX
+  city: San Salvador
+  country: El Salvador
+- name: Banco G And T Continental El Salvador
+  swift: GTCSSVSSXXX
+  swift8: GTCSSVSS
+  branch_name: Head Office
+  branch_address: Oficinas Operativas San Salvador
+  branch_code: XXX
+  city: San Salvador
+  country: El Salvador
+- name: Banco Hipotecario De El Salvador S.a.
+  swift: BHSASVSSXXX
+  swift8: BHSASVSS
+  branch_name: Head Office
+  branch_address: Pasaje Senda Florida Sur San Salvador
+  branch_code: XXX
+  city: San Salvador
+  country: El Salvador
+- name: Banco Industrial El Salvador, S.a.
+  swift: INDLSVSSXXX
+  swift8: INDLSVSS
+  branch_name: Head Office
+  branch_address: Avenida Las Magnolias San Salvador
+  branch_code: XXX
+  city: San Salvador
+  country: El Salvador
+- name: Banco Procredit, S.a.
+  swift: PRCBSVSSXXX
+  swift8: PRCBSVSS
+  branch_name: Head Office
+  branch_address: Centro Financiero San Salvador
+  branch_code: XXX
+  city: San Salvador
+  country: El Salvador
+- name: Banco Promerica, S.a.
+  swift: BPRASVSSXXX
+  swift8: BPRASVSS
+  branch_name: Head Office
+  branch_address: Edificio Promerica La Gran via 1502 Antiguo Cuscatlan
+  branch_code: XXX
+  city: Antiguo
+  country: El Salvador
+- name: Central De Deposito De Valores De El Salvador Sa De Cv
+  swift: CDVSSVS1XXX
+  swift8: CDVSSVS1
+  branch_name: Head Office
+  branch_address: Edifico La Centroamericana 153 San Salvador
+  branch_code: XXX
+  city: San Salvador
+  country: El Salvador
+- name: Citibank, N.a
+  swift: CITISVS1XXX
+  swift8: CITISVS1
+  branch_name: Head Office
+  branch_address: Alameda Dr. Manuel E. Araujo, Edifi San Salvador
+  branch_code: XXX
+  city: San Salvador
+  country: El Salvador
+- name: Fitch Centroamerica (el Salvador Branch Of Panamanian Entity
+  swift: FRIPSVS1XXX
+  swift8: FRIPSVS1
+  branch_name: Head Office
+  branch_address: Edificio Plaza Cristal San Salvador
+  branch_code: XXX
+  city: San Salvador
+  country: El Salvador
+- name: Multi Inversiones Banco Cooperativo De Los Trabajadores S.c. De R.l. De C.v.
+  swift: MICJSVS1XXX
+  swift8: MICJSVS1
+  branch_name: No branch name
+  branch_address: No branch address
+  branch_code: XXX
+  city: San Salvador
+  country: El Salvador
+- name: Primer Banco De Los Trabajadores Soc. Coop. De R.l. De C.v.
+  swift: PBTRSVS1XXX
+  swift8: PBTRSVS1
+  branch_name: No branch name
+  branch_address: No branch address
+  branch_code: XXX
+  city: San Salvador
+  country: El Salvador
+- name: Scotiabank El Salvador, S.a.
+  swift: BCSASVSSXXX
+  swift8: BCSASVSS
+  branch_name: Head Office
+  branch_address: Centro Financiero 503 San Salvador
+  branch_code: XXX
+  city: San Salvador
+  country: El Salvador

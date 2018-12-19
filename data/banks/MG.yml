@@ -1,0 +1,130 @@
+---
+MG:
+- name: Accesbanque Madagascar
+  swift: ABMGMGMGXXX
+  swift8: ABMGMGMG
+  branch_name: Head Office
+  branch_address: Villa Bir Hackeim 101 Antananarivo
+  branch_code: XXX
+  city: Antananarivo
+  country: Madagascar
+- name: Bank Of Africa Madagascar
+  swift: AFRIMGMGXXX
+  swift8: AFRIMGMG
+  branch_name: Head Office
+  branch_address: 2, Place De Lindependance Antananarivo
+  branch_code: XXX
+  city: Antananarivo
+  country: Madagascar
+- name: Banque Centrale De Madagascar
+  swift: REPUMGMGRTG
+  swift8: REPUMGMG
+  branch_name: Rtgs Backup Line
+  branch_address: Rue Revolution Socialiste 101 Antananarivo
+  branch_code: RTG
+  city: Antananarivo
+  country: Madagascar
+- name: Banque Centrale De Madagascar
+  swift: REPUMGMGXXX
+  swift8: REPUMGMG
+  branch_name: Head Office
+  branch_address: Rue Revolution Socialiste Malgache 101 Antananarivo
+  branch_code: XXX
+  city: Antananarivo
+  country: Madagascar
+- name: Banque Malgache De L'ocean Indien
+  swift: BMOIMGMGXXX
+  swift8: BMOIMGMG
+  branch_name: Head Office
+  branch_address: Place De Lindependance 101 Antananarivo
+  branch_code: XXX
+  city: Antananarivo
+  country: Madagascar
+- name: Banque Sbm Madagascar
+  swift: BSBMMGMGXXX
+  swift8: BSBMMGMG
+  branch_name: Head Office
+  branch_address: 1 Rue Andianary Ratianarivo Antananarivo
+  branch_code: XXX
+  city: Antananarivo
+  country: Madagascar
+- name: Bfv-societe Generale
+  swift: BFAVMGMGXXX
+  swift8: BFAVMGMG
+  branch_name: Head Office
+  branch_address: 25 Lalana Razafimahandry 101 Antananarivo
+  branch_code: XXX
+  city: Antananarivo
+  country: Madagascar
+- name: Bgfibank Madagascar
+  swift: BGFIMGMGXXX
+  swift8: BGFIMGMG
+  branch_name: Head Office
+  branch_address: Immeuble Edbh 101 Antananarivo
+  branch_code: XXX
+  city: Antananarivo
+  country: Madagascar
+- name: Bm Madagascar S.a
+  swift: BAIMMGMGXXX
+  swift8: BAIMMGMG
+  branch_name: Head Office
+  branch_address: Avenue Independence Antananarivo
+  branch_code: XXX
+  city: Antananarivo
+  country: Madagascar
+- name: Bni Madagascar
+  swift: CLMDMGM10MA
+  swift8: CLMDMGM1
+  branch_name: Antsiranana
+  branch_address: Antsiranana
+  branch_code: 0MA
+  city: Antsiranana
+  country: Madagascar
+- name: Bni Madagascar
+  swift: CLMDMGM10MM
+  swift8: CLMDMGM1
+  branch_name: Mahajanga
+  branch_address: Mahajanga
+  branch_code: 0MM
+  city: Mahajanga
+  country: Madagascar
+- name: Bni Madagascar
+  swift: CLMDMGM10MT
+  swift8: CLMDMGM1
+  branch_name: Toamasina
+  branch_address: Toamasina
+  branch_code: 0MT
+  city: Toamasina
+  country: Madagascar
+- name: Bni Madagascar
+  swift: CLMDMGMGXXX
+  swift8: CLMDMGMG
+  branch_name: Head Office
+  branch_address: 74 Rue Du 26 Juin 1960 101 Antananarivo
+  branch_code: XXX
+  city: Antananarivo
+  country: Madagascar
+- name: Marche Interbancaire Des Devises M.i.d.
+  swift: XMDGMGM1XXX
+  swift8: XMDGMGM1
+  branch_name: Head Office
+  branch_address: B.F.V. Antananarivo
+  branch_code: XXX
+  city: Antananarivo
+  country: Madagascar
+- name: Paositra Malagasy
+  swift: PAMLMGM1XXX
+  swift8: PAMLMGM1
+  branch_name: Head Office
+  branch_address: Place Philibert Tsiranana Antananarivo
+  branch_code: XXX
+  city: Antananarivo
+  country: Madagascar
+- name: The Mauritius Commercial Bank (madagascar) Sa
+  swift: MCBLMGMGXXX
+  swift8: MCBLMGMG
+  branch_name: Head Office
+  branch_address: Rue Solombavambahoaka 101 Antananarivo
+  branch_code: XXX
+  city: Antananarivo
+  country: Madagascar

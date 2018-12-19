@@ -1,0 +1,138 @@
+---
+KN:
+- name: Royal Bank Of Canada
+  swift: ROYCKNSKXXX
+  swift8: ROYCKNSK
+  branch_name: Head Office
+  branch_address: Bay and Fort Street Basseterre
+  branch_code: XXX
+  city: Basseterre
+  country: Saint Kitts and Nevis
+- name: Firstcaribbean International Bank
+  swift: FCIBKNSKXXX
+  swift8: FCIBKNSK
+  branch_name: Head Office
+  branch_address: The Circus Basseterre
+  branch_code: XXX
+  city: Basseterre
+  country: Saint Kitts and Nevis
+- name: Bank Of Nova Scotia,the
+  swift: NOSCKNSKXXX
+  swift8: NOSCKNSK
+  branch_name: Head Office
+  branch_address: Fort Street Basseterre
+  branch_code: XXX
+  city: Basseterre
+  country: Saint Kitts and Nevis
+- name: Eurowire Clearing Corporation
+  swift: EULOKNS1XXX
+  swift8: EULOKNS1
+  branch_name: Head Office
+  branch_address: Springates East Charlestown
+  branch_code: XXX
+  city: Charlestown
+  country: Saint Kitts and Nevis
+- name: Magnate Premier Limited
+  swift: MGPMKNS1XXX
+  swift8: MGPMKNS1
+  branch_name: Head Office
+  branch_address: The Rose Building Basseterre
+  branch_code: XXX
+  city: Basseterre
+  country: Saint Kitts and Nevis
+- name: Banclear Trust Corporation
+  swift: BAUOKNN1XXX
+  swift8: BAUOKNN1
+  branch_name: Head Office
+  branch_address: Government Road Charlestown
+  branch_code: XXX
+  city: Charlestown
+  country: Saint Kitts and Nevis
+- name: Bank Of Nevis, The
+  swift: BNEVKNNEXXX
+  swift8: BNEVKNNE
+  branch_name: Head Office
+  branch_address: Main Street Charlestown
+  branch_code: XXX
+  city: Charlestown
+  country: Saint Kitts and Nevis
+- name: Centerlink, Llc
+  swift: CNLLKNN1XXX
+  swift8: CNLLKNN1
+  branch_name: Head Office
+  branch_address: Main Street Charlestown
+  branch_code: XXX
+  city: Charlestown
+  country: Saint Kitts and Nevis
+- name: Eastern Caribbean Central Bank
+  swift: ECCBKNSKXXX
+  swift8: ECCBKNSK
+  branch_name: Head Office
+  branch_address: Bird Rock Road Basseterre
+  branch_code: XXX
+  city: Basseterre
+  country: Saint Kitts and Nevis
+- name: Eastern Caribbean Securities Exchange Ltd
+  swift: ECSXKNSKXXX
+  swift8: ECSXKNSK
+  branch_name: Head Office
+  branch_address: Bird Rock Road Basseterre
+  branch_code: XXX
+  city: Basseterre
+  country: Saint Kitts and Nevis
+- name: Eurowire Cash Management Trust
+  swift: ECMTKNS1XXX
+  swift8: ECMTKNS1
+  branch_name: Head Office
+  branch_address: Springates East Charlestown
+  branch_code: XXX
+  city: Charlestown
+  country: Saint Kitts and Nevis
+- name: Global Trade Aim Limited
+  swift: GLTAKNS1XXX
+  swift8: GLTAKNS1
+  branch_name: Head Office
+  branch_address: The Rose Building Basseterre
+  branch_code: XXX
+  city: Basseterre
+  country: Saint Kitts and Nevis
+- name: Goverment Of St. Kitts And Nevis
+  swift: GVKNKNSKXXX
+  swift8: GVKNKNSK
+  branch_name: Head Office
+  branch_address: Ministry of Finance Basseterre
+  branch_code: XXX
+  city: Basseterre
+  country: Saint Kitts and Nevis
+- name: Magnate Premier Investment Bank Limited
+  swift: MAMSKNS1XXX
+  swift8: MAMSKNS1
+  branch_name: Head Office
+  branch_address: The Rose Building Basseterre
+  branch_code: XXX
+  city: Basseterre
+  country: Saint Kitts and Nevis
+- name: Nevis Island Administration
+  swift: GVIAKNNEXXX
+  swift8: GVIAKNNE
+  branch_name: Head Office
+  branch_address: Ministry of Finance Charlestown
+  branch_code: XXX
+  city: Charlestown
+  country: Saint Kitts and Nevis
+- name: Rbtt Bank (skn) Limited
+  swift: RBTTKNNEXXX
+  swift8: RBTTKNNE
+  branch_name: Head Office
+  branch_address: Chapel Street Charlestown
+  branch_code: XXX
+  city: Charlestown
+  country: Saint Kitts and Nevis
+- name: St. Kitts-nevis-anguilla National Bank
+  swift: KNANKNSKXXX
+  swift8: KNANKNSK
+  branch_name: Head Office
+  branch_address: Central Street Basseterre
+  branch_code: XXX
+  city: Basseterre
+  country: Saint Kitts and Nevis

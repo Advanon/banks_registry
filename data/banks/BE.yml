@@ -1,0 +1,3570 @@
+---
+BE:
+- name: Aareal Bank Ag
+  swift: AARBBEB1XXX
+  swift8: AARBBEB1
+  branch_name: Head Office
+  branch_address: 7 Rue Guimard 1040 Brussels
+  branch_code: XXX
+  city: Brussels
+  country: Belgium
+- name: Abe Clearing Sas/Eba Clearing
+  swift: EBATBEBBXXX
+  swift8: EBATBEBB
+  branch_name: Head Office
+  branch_address: 489 Avenue Louise 1050 Brussels
+  branch_code: XXX
+  city: Brussels
+  country: Belgium
+- name: Abn Amro Bank N.V. Belgian Branch
+  swift: ABNABE2AIDJ
+  swift8: ABNABE2A
+  branch_name: International Diamond and Jewelry Group
+  branch_address: Pelikaanstraat 70-76 2018 Antwerpen
+  branch_code: IDJ
+  city: Antwerpen
+  country: Belgium
+- name: Abn Amro Bank N.V. Belgian Branch
+  swift: ABNABE2AIPC
+  swift8: ABNABE2A
+  branch_name: International Private Clients Department
+  branch_address: 5, Roderveldlaan Bus 4 2600 Berchem
+  branch_code: IPC
+  city: Berchem
+  country: Belgium
+- name: Abn Amro Bank N.V. Belgian Branch
+  swift: FTSBBE22XXX
+  swift8: FTSBBE22
+  branch_name: Head Office
+  branch_address: 5, Roderveldlaan Bus4 2600 Berchem
+  branch_code: XXX
+  city: Berchem
+  country: Belgium
+- name: Abn Amro Bank N.V. Belgian Branch
+  swift: ABNABE2AMYO
+  swift8: ABNABE2A
+  branch_name: Moneyou
+  branch_address: Antwerpen
+  branch_code: MYO
+  city: Antwerpen
+  country: Belgium
+- name: Accord
+  swift: ACCOBEB3XXX
+  swift8: ACCOBEB3
+  branch_name: Head Office
+  branch_address: S.W.I.F.T. S.C. 1310 La Hulpe
+  branch_code: XXX
+  city: La Hulpe
+  country: Belgium
+- name: Antwerpse Diamantbank N.V.
+  swift: ADIABE22XXX
+  swift8: ADIABE22
+  branch_name: Head Office
+  branch_address: Pelikaanstraat 54 2018 Antwerpen
+  branch_code: XXX
+  city: Antwerpen
+  country: Belgium
+- name: Argenta
+  swift: ARSPBE22XXX
+  swift8: ARSPBE22
+  branch_name: Head Office
+  branch_address: Belgielei 49-53 2018 Antwerpen
+  branch_code: XXX
+  city: Antwerpen
+  country: Belgium
+- name: Atos Worldline
+  swift: ATWSBEBBXXX
+  swift8: ATWSBEBB
+  branch_name: Head Office
+  branch_address: Haachtsesteenweg 1442 1130 Brussels
+  branch_code: XXX
+  city: Brussels
+  country: Belgium
+- name: Attijariwafa Bank (Formerly Wafabank)
+  swift: WAFABEBBANT
+  swift8: WAFABEBB
+  branch_name: Antwerpen
+  branch_address: Antwerpen
+  branch_code: ANT
+  city: Antwerpen
+  country: Belgium
+- name: Attijariwafa Bank (Formerly Wafabank)
+  swift: WAFABEBBXXX
+  swift8: WAFABEBB
+  branch_name: Head Office
+  branch_address: Boulevard Maurice 1000 Brussels
+  branch_code: XXX
+  city: Brussels
+  country: Belgium
+- name: Axa Bank Europe (Formerly Axa Bank Belgium)
+  swift: AXABBE22XXX
+  swift8: AXABBE22
+  branch_name: Head Office
+  branch_address: Grotesteenweg 214 2600 Berchem
+  branch_code: XXX
+  city: Berchem
+  country: Belgium
+- name: Banca Monte Paschi Belgio
+  swift: BMPBBEBBXXX
+  swift8: BMPBBEBB
+  branch_name: Head Office
+  branch_address: Rue Joseph Ii 24 1040 Brussels
+  branch_code: XXX
+  city: Brussels
+  country: Belgium
+- name: Banca Monte Paschi Belgio
+  swift: BMPBBEBBTGT
+  swift8: BMPBBEBB
+  branch_name: Brussels
+  branch_address: Brussels
+  branch_code: TGT
+  city: Brussels
+  country: Belgium
+- name: Banco Bilbao Vizcaya Argentaria S.A
+  swift: BBVABEBBXXX
+  swift8: BBVABEBB
+  branch_name: Head Office
+  branch_address: Avenue Des Arts 43 1040 Brussels
+  branch_code: XXX
+  city: Brussels
+  country: Belgium
+- name: Banco Santander Central Hispano
+  swift: BSCHBEBRXXX
+  swift8: BSCHBEBR
+  branch_name: Head Office
+  branch_address: Rue De La Loi 227 1040 Brussels
+  branch_code: XXX
+  city: Brussels
+  country: Belgium
+- name: Bank Delen Nv
+  swift: DELEBE22NRA
+  swift8: DELEBE22
+  branch_name: Antwerpen
+  branch_address: Antwerpen
+  branch_code: NRA
+  city: Antwerpen
+  country: Belgium
+- name: Bank Delen Nv
+  swift: DELEBE22THE
+  swift8: DELEBE22
+  branch_name: Antwerpen
+  branch_address: Antwerpen
+  branch_code: THE
+  city: Antwerpen
+  country: Belgium
+- name: Bank Delen Nv
+  swift: DELEBE22XXX
+  swift8: DELEBE22
+  branch_name: Head Office
+  branch_address: Jan Van Rijswijcklaan 184 2020 Antwerpen
+  branch_code: XXX
+  city: Antwerpen
+  country: Belgium
+- name: Bank J. Van Breda And Co Nv
+  swift: JVBABE22XXX
+  swift8: JVBABE22
+  branch_name: Head Office
+  branch_address: Ledeganckkaai 7 2000 Antwerpen
+  branch_code: XXX
+  city: Antwerpen
+  country: Belgium
+- name: Bank Of America, N.A. Antwerp
+  swift: BOFABE3XXXX
+  swift8: BOFABE3X
+  branch_name: Head Office
+  branch_address: Marsh House 2600 Antwerpen
+  branch_code: XXX
+  city: Antwerpen
+  country: Belgium
+- name: Bank Of Baroda (Brussels Branch)
+  swift: BARBBEBBXXX
+  swift8: BARBBEBB
+  branch_name: Head Office
+  branch_address: 28, Rue De La Loi 1040 Brussels
+  branch_code: XXX
+  city: Brussels
+  country: Belgium
+- name: Bank Of China (Luxembourg) S.A. Brussels Branch
+  swift: BKCHBEBBXXX
+  swift8: BKCHBEBB
+  branch_name: Head Office
+  branch_address: Art Building 1000 Brussels
+  branch_code: XXX
+  city: Brussels
+  country: Belgium
+- name: Bank Of India
+  swift: BKIDBE22XXX
+  swift8: BKIDBE22
+  branch_name: Head Office
+  branch_address: Schupstraat 18-20 2018 Antwerpen
+  branch_code: XXX
+  city: Antwerpen
+  country: Belgium
+- name: Bank Of Tokyo-Mitsubishi Ufj Ltd., The
+  swift: BOTKBEBXXXX
+  swift8: BOTKBEBX
+  branch_name: Brussels Branch
+  branch_address: Avenue Des Arts 58, Boite 1 1000 Brussels
+  branch_code: XXX
+  city: Brussels
+  country: Belgium
+- name: Banque Chaabi Du Maroc
+  swift: BCDMBEBBXXX
+  swift8: BCDMBEBB
+  branch_name: Head Office
+  branch_address: Boulevard Du Midi 62 1000 Brussels
+  branch_code: XXX
+  city: Brussels
+  country: Belgium
+- name: Banque Chaabi Du Maroc
+  swift: BCDMBEB1XXX
+  swift8: BCDMBEB1
+  branch_name: Head Office
+  branch_address: Boulevard Du Midi 62 1000 Brussels
+  branch_code: XXX
+  city: Brussels
+  country: Belgium
+- name: Banque Degroof
+  swift: DEGRBEBBTG2
+  swift8: DEGRBEBB
+  branch_name: Target 2 Securities Participation
+  branch_address: Brussels
+  branch_code: TG2
+  city: Brussels
+  country: Belgium
+- name: Banque Degroof
+  swift: DEGRBEBBXXX
+  swift8: DEGRBEBB
+  branch_name: Head Office
+  branch_address: Rue De Lindustrie 44 1040 Brussels
+  branch_code: XXX
+  city: Brussels
+  country: Belgium
+- name: Banque Eni S.A.
+  swift: ENIBBEBBXXX
+  swift8: ENIBBEBB
+  branch_name: Head Office
+  branch_address: Bd. Du Regent 43/44 1000 Brussels
+  branch_code: XXX
+  city: Brussels
+  country: Belgium
+- name: Banque Nationale De Belgique
+  swift: ECMSBEBBXXX
+  swift8: ECMSBEBB
+  branch_name: Head Office
+  branch_address: Boulevard De Berlaimont, 14 1000 Brussels
+  branch_code: XXX
+  city: Brussels
+  country: Belgium
+- name: Banque Nationale De Belgique
+  swift: NBBEBEBB203
+  swift8: NBBEBEBB
+  branch_name: Current Accounts Division
+  branch_address: Brussels
+  branch_code: '203'
+  city: Brussels
+  country: Belgium
+- name: Banque Nationale De Belgique
+  swift: NBBEBEBB216
+  swift8: NBBEBEBB
+  branch_name: Securities Clearing System
+  branch_address: Brussels
+  branch_code: '216'
+  city: Brussels
+  country: Belgium
+- name: Banque Nationale De Belgique
+  swift: NBBEBEBB223
+  swift8: NBBEBEBB
+  branch_name: Nbb-Sss
+  branch_address: Brussels
+  branch_code: '223'
+  city: Brussels
+  country: Belgium
+- name: Banque Nationale De Belgique
+  swift: NBBEBEBB243
+  swift8: NBBEBEBB
+  branch_name: Back Office Division
+  branch_address: Brussels
+  branch_code: '243'
+  city: Brussels
+  country: Belgium
+- name: Banque Nationale De Belgique
+  swift: NBBEBEBB273
+  swift8: NBBEBEBB
+  branch_name: Accounts Division
+  branch_address: Brussels
+  branch_code: '273'
+  city: Brussels
+  country: Belgium
+- name: Banque Nationale De Belgique
+  swift: NBBEBEBBCAC
+  swift8: NBBEBEBB
+  branch_name: Nbb-Eses Contingency Account
+  branch_address: Brussels
+  branch_code: CAC
+  city: Brussels
+  country: Belgium
+- name: Banque Nationale De Belgique
+  swift: NBBEBEBBCEC
+  swift8: NBBEBEBB
+  branch_name: Cec Technical Account
+  branch_address: Brussels
+  branch_code: CEC
+  city: Brussels
+  country: Belgium
+- name: Banque Nationale De Belgique
+  swift: NBBEBEBBCON
+  swift8: NBBEBEBB
+  branch_name: Brussels
+  branch_address: Brussels
+  branch_code: CON
+  city: Brussels
+  country: Belgium
+- name: Banque Nationale De Belgique
+  swift: NBBEBEBBECL
+  swift8: NBBEBEBB
+  branch_name: Nbb-Eses Mirro-Technical Account
+  branch_address: Brussels
+  branch_code: ECL
+  city: Brussels
+  country: Belgium
+- name: Banque Nationale De Belgique
+  swift: NBBEBEBBEOC
+  swift8: NBBEBEBB
+  branch_name: Euroclear Settlement Services
+  branch_address: Brussels
+  branch_code: EOC
+  city: Brussels
+  country: Belgium
+- name: Banque Nationale De Belgique
+  swift: NBBEBEBBFRX
+  swift8: NBBEBEBB
+  branch_name: Nbb-Eses Cross-Ncb Position With Bdf
+  branch_address: Brussels
+  branch_code: FRX
+  city: Brussels
+  country: Belgium
+- name: Banque Nationale De Belgique
+  swift: NBBEBEBBMAC
+  swift8: NBBEBEBB
+  branch_name: Nbb-Sss Mirror-Technical Account
+  branch_address: Brussels
+  branch_code: MAC
+  city: Brussels
+  country: Belgium
+- name: Banque Nationale De Belgique
+  swift: NBBEBEBBNLX
+  swift8: NBBEBEBB
+  branch_name: Nbb-Eses Cross Ncb Position With Dnb
+  branch_address: Brussels
+  branch_code: NLX
+  city: Brussels
+  country: Belgium
+- name: Banque Nationale De Belgique
+  swift: NBBEBEBBOVP
+  swift8: NBBEBEBB
+  branch_name: Ovp Technical Account
+  branch_address: Brussels
+  branch_code: OVP
+  city: Brussels
+  country: Belgium
+- name: Banque Nationale De Belgique
+  swift: NBBEBEBBTRE
+  swift8: NBBEBEBB
+  branch_name: Belgian Treasury
+  branch_address: Brussels
+  branch_code: TRE
+  city: Brussels
+  country: Belgium
+- name: Banque Nationale De Belgique
+  swift: NBBEBEBBXXX
+  swift8: NBBEBEBB
+  branch_name: Head Office
+  branch_address: Boulevard De Berlaimont 5 1000 Brussels
+  branch_code: XXX
+  city: Brussels
+  country: Belgium
+- name: Banque Nationale De Belgique
+  swift: NBBEBEBBDCK
+  swift8: NBBEBEBB
+  branch_name: Brussels
+  branch_address: Brussels
+  branch_code: DCK
+  city: Brussels
+  country: Belgium
+- name: Banque Nationale De Belgique
+  swift: NBBEBEBBGLB
+  swift8: NBBEBEBB
+  branch_name: Brussels
+  branch_address: Brussels
+  branch_code: GLB
+  city: Brussels
+  country: Belgium
+- name: Banque Nationale De Belgique
+  swift: NBBEBEBBWTX
+  swift8: NBBEBEBB
+  branch_name: Witholding Tax
+  branch_address: Brussels
+  branch_code: WTX
+  city: Brussels
+  country: Belgium
+- name: Banque Privee Edmond De Rothschild Europe, Belgianbranch
+  swift: PRIBBEBBXXX
+  swift8: PRIBBEBB
+  branch_name: Head Office
+  branch_address: 480 Avenue Louise 1050 Brussels
+  branch_code: XXX
+  city: Brussels
+  country: Belgium
+- name: Bmce Euroservices
+  swift: BMEUBEB1XXX
+  swift8: BMEUBEB1
+  branch_name: No branch name
+  branch_address: No branch address
+  branch_code: XXX
+  city: Brussels
+  country: Belgium
+- name: Bnp Paribas Ip Belgium Sa
+  swift: FIMGBEBBXXX
+  swift8: FIMGBEBB
+  branch_name: Head Office
+  branch_address: Avenue Du Progres 55 1210 Brussels
+  branch_code: XXX
+  city: Brussels
+  country: Belgium
+- name: Bnp Paribas S.A. Belgium - Belgium Branch
+  swift: BNPABEBBXXX
+  swift8: BNPABEBB
+  branch_name: Head Office
+  branch_address: Avenue Louise 489 1050 Brussels
+  branch_code: XXX
+  city: Brussels
+  country: Belgium
+- name: Bnp Paribas Securities Services, Belgium
+  swift: PARBBEBZISI
+  swift8: PARBBEBZ
+  branch_name: Brussels
+  branch_address: Brussels
+  branch_code: ISI
+  city: Brussels
+  country: Belgium
+- name: Bnp Paribas Securities Services, Belgium
+  swift: PARBBEBZXXX
+  swift8: PARBBEBZ
+  branch_name: Head Office
+  branch_address: Avenue Louise 489 1050 Brussels
+  branch_code: XXX
+  city: Brussels
+  country: Belgium
+- name: Bnp Paribas Securities Services, Brussels Branch
+  swift: PARBBEBZMDC
+  swift8: PARBBEBZ
+  branch_name: Paribas Multidirect Custody and Clearing Mdcc
+  branch_address: Rue Guimard 7 1040 Brussels
+  branch_code: MDC
+  city: Brussels
+  country: Belgium
+- name: Bpost
+  swift: PCHQBEBBXXX
+  swift8: PCHQBEBB
+  branch_name: Head Office
+  branch_address: Centre Monnaie 1000 Brussels
+  branch_code: XXX
+  city: Brussels
+  country: Belgium
+- name: Byblos Bank Europe S.A.
+  swift: BYBBBEBBXXX
+  swift8: BYBBBEBB
+  branch_name: Head Office
+  branch_address: Rue Montoyer 10 1000 Brussels
+  branch_code: XXX
+  city: Brussels
+  country: Belgium
+- name: Caisse Interprofessionnelle De Depots Et De Virements De Titres
+  swift: ESESBEBBIAC
+  swift8: ESESBEBB
+  branch_name: Issuer Agent Coupon
+  branch_address: Brussels
+  branch_code: IAC
+  city: Brussels
+  country: Belgium
+- name: Caisse Interprofessionnelle De Depots Et De Virements De Titres
+  swift: ESESBEBBIAD
+  swift8: ESESBEBB
+  branch_name: Issuer Agent Dividend
+  branch_address: Brussels
+  branch_code: IAD
+  city: Brussels
+  country: Belgium
+- name: Caisse Interprofessionnelle De Depots Et De Virements De Titres
+  swift: ESESBEBBINT
+  swift8: ESESBEBB
+  branch_name: Brussels
+  branch_address: Brussels
+  branch_code: INT
+  city: Brussels
+  country: Belgium
+- name: Caisse Interprofessionnelle De Depots Et De Virements De Titres
+  swift: ESESBEBBLE1
+  swift8: ESESBEBB
+  branch_name: Brussels
+  branch_address: Brussels
+  branch_code: LE1
+  city: Brussels
+  country: Belgium
+- name: Caisse Interprofessionnelle De Depots Et De Virements De Titres
+  swift: ESESBEBBLE2
+  swift8: ESESBEBB
+  branch_name: Brussels
+  branch_address: Brussels
+  branch_code: LE2
+  city: Brussels
+  country: Belgium
+- name: Caisse Interprofessionnelle De Depots Et De Virements De Titres
+  swift: ESESBEBBSCC
+  swift8: ESESBEBB
+  branch_name: Securities and Coupon Center
+  branch_address: Brussels
+  branch_code: SCC
+  city: Brussels
+  country: Belgium
+- name: Caisse Interprofessionnelle De Depots Et De Virements De Titres
+  swift: ESESBEBBT2X
+  swift8: ESESBEBB
+  branch_name: Target2
+  branch_address: Avenue Schiphol 6 1140 Brussels
+  branch_code: T2X
+  city: Brussels
+  country: Belgium
+- name: Caisse Interprofessionnelle De Depots Et De Virements De Titres
+  swift: ESESBEBBXXX
+  swift8: ESESBEBB
+  branch_name: Head Office
+  branch_address: Avenue De Schiphol 6 1140 Brussels
+  branch_code: XXX
+  city: Brussels
+  country: Belgium
+- name: Caisse Interprofessionnelle De Depots Et De Virements De Titres
+  swift: ESESBEBBFDB
+  swift8: ESESBEBB
+  branch_name: Brussels
+  branch_address: Brussels
+  branch_code: FDB
+  city: Brussels
+  country: Belgium
+- name: Capital At Work Sa
+  swift: CAPWBEBBXXX
+  swift8: CAPWBEBB
+  branch_name: Head Office
+  branch_address: Avenue De La Couronne 153 1050 Brussels
+  branch_code: XXX
+  city: Brussels
+  country: Belgium
+- name: Carfin Sa
+  swift: CARGBEBLXXX
+  swift8: CARGBEBL
+  branch_name: Head Office
+  branch_address: Boulevard De Lauzerre 65 1348 Louvain-La-Neuve
+  branch_code: XXX
+  city: Louvain-La-Neuve
+  country: Belgium
+- name: Cbc Banque S.A.
+  swift: CREGBEBBXXX
+  swift8: CREGBEBB
+  branch_name: All Offices
+  branch_address: Grandplace 5 1000 Brussels
+  branch_code: XXX
+  city: Brussels
+  country: Belgium
+- name: Cbc Banque S.A.
+  swift: CREGBEBBNBB
+  swift8: CREGBEBB
+  branch_name: Bic to Be Used in the Nbb-Sss for Identifying Cbc Client Account
+  branch_address: Brussels
+  branch_code: NBB
+  city: Brussels
+  country: Belgium
+- name: Celio International
+  swift: CEINBEBBXXX
+  swift8: CEINBEBB
+  branch_name: Head Office
+  branch_address: South Titanium Center 1060 Brussels
+  branch_code: XXX
+  city: Brussels
+  country: Belgium
+- name: Centea Nv
+  swift: SPAABE22XXX
+  swift8: SPAABE22
+  branch_name: Head Office
+  branch_address: Mechelsesteenweg 180 2018 Antwerpen
+  branch_code: XXX
+  city: Antwerpen
+  country: Belgium
+- name: Citibank Belgium Nv/Sa
+  swift: CTBKBEBXXXX
+  swift8: CTBKBEBX
+  branch_name: Head Office
+  branch_address: Boulevard General Jacques 263 G 1050 Brussels
+  branch_code: XXX
+  city: Brussels
+  country: Belgium
+- name: Citibank International Plc
+  swift: CITIBEBXXXX
+  swift8: CITIBEBX
+  branch_name: Head Office
+  branch_address: Boulevard General Jacques 263 G 1050 Brussels
+  branch_code: XXX
+  city: Brussels
+  country: Belgium
+- name: Commerzbank Ag,The,Brussels Branch
+  swift: COBABEBXTBU
+  swift8: COBABEBX
+  branch_name: Administration
+  branch_address: Brussels
+  branch_code: TBU
+  city: Brussels
+  country: Belgium
+- name: Commerzbank Ag,The,Brussels Branch
+  swift: COBABEBXXXX
+  swift8: COBABEBX
+  branch_name: Head Office
+  branch_address: Boulevard Louis Schmidtlaan 29 1040 Brussels
+  branch_code: XXX
+  city: Brussels
+  country: Belgium
+- name: Commerzbank Ag,The,Brussels Branch
+  swift: COBABEB1022
+  swift8: COBABEB1
+  branch_name: 2600 Antwerpen
+  branch_address: Uitbreidingstraat 46 2600 Antwerpen
+  branch_code: '022'
+  city: Antwerpen
+  country: Belgium
+- name: Commission Des Communautes Europeennes
+  swift: EUCOBEBBXXX
+  swift8: EUCOBEBB
+  branch_name: Head Office
+  branch_address: Rue De La Loi 200 1049 Brussels
+  branch_code: XXX
+  city: Brussels
+  country: Belgium
+- name: Cph Banque
+  swift: CPHBBE75TG2
+  swift8: CPHBBE75
+  branch_name: Tournai
+  branch_address: Tournai
+  branch_code: TG2
+  city: Tournai
+  country: Belgium
+- name: Cph Banque
+  swift: CPHBBE75XXX
+  swift8: CPHBBE75
+  branch_name: Head Office
+  branch_address: 7 Rue Perdue 7500 Tournai
+  branch_code: XXX
+  city: Tournai
+  country: Belgium
+- name: Credit Agricole Cib Belgium
+  swift: CRLYBEBBXXX
+  swift8: CRLYBEBB
+  branch_name: Head Office
+  branch_address: Chaussee De La Hulpe 166 1170 Brussels
+  branch_code: XXX
+  city: Brussels
+  country: Belgium
+- name: Credit Agricole Sa/Landbouwkrediet Nv Brussels
+  swift: NICABEBBXXX
+  swift8: NICABEBB
+  branch_name: Head Office
+  branch_address: Boulevard Sylvain Dupuis 251 1070 Brussels
+  branch_code: XXX
+  city: Brussels
+  country: Belgium
+- name: Credit Agricole Van Moer Courtens
+  swift: CVMCBEBBXXX
+  swift8: CVMCBEBB
+  branch_name: Head Office
+  branch_address: Dreve Du Prieure 19 1160 Brussels
+  branch_code: XXX
+  city: Brussels
+  country: Belgium
+- name: Credit Europe Bank N.V. Antwerp Branch
+  swift: FBHLBE22XXX
+  swift8: FBHLBE22
+  branch_name: Head Office
+  branch_address: Frankrijklei 121 2000 Antwerpen
+  branch_code: XXX
+  city: Antwerpen
+  country: Belgium
+- name: Credit Professionnel Sa / Beroepskrediet Nv
+  swift: BKCPBEBBTGT
+  swift8: BKCPBEBB
+  branch_name: Target2
+  branch_address: Brussels
+  branch_code: TGT
+  city: Brussels
+  country: Belgium
+- name: Credit Professionnel Sa / Beroepskrediet Nv
+  swift: BKCPBEBBXXX
+  swift8: BKCPBEBB
+  branch_name: Head Office
+  branch_address: Boulevard De Waterloo- 1000 Brussels
+  branch_code: XXX
+  city: Brussels
+  country: Belgium
+- name: Delta Lloyd Bank Nv (Belgium)
+  swift: BNAGBEBBXXX
+  swift8: BNAGBEBB
+  branch_name: Head Office
+  branch_address: Avenue De Lastronomie 21-23 1210 Brussels
+  branch_code: XXX
+  city: Brussels
+  country: Belgium
+- name: Demir-Halk Bank (Nederland) N.V. Brussels Branch
+  swift: DHBNBEBBXXX
+  swift8: DHBNBEBB
+  branch_name: Head Office
+  branch_address: Rue Royale 168 1000 Brussels
+  branch_code: XXX
+  city: Brussels
+  country: Belgium
+- name: Deutsche Bank Ag
+  swift: DEUTBEBEANT
+  swift8: DEUTBEBE
+  branch_name: 2000 Antwerpen
+  branch_address: Arenbegstraat 23 2000 Antwerpen
+  branch_code: ANT
+  city: Antwerpen
+  country: Belgium
+- name: Deutsche Bank Ag
+  swift: DEUTBEBEXXX
+  swift8: DEUTBEBE
+  branch_name: Head Office
+  branch_address: 17 Avenue Marnix 1000 Brussels
+  branch_code: XXX
+  city: Brussels
+  country: Belgium
+- name: Dexia Asset Management Belgique Sa
+  swift: DXAMBEBBXXX
+  swift8: DXAMBEBB
+  branch_name: Head Office
+  branch_address: Belfius Bank Sa 1000 Brussels
+  branch_code: XXX
+  city: Brussels
+  country: Belgium
+- name: Dexia Bank Sa
+  swift: GKCCBEBBXXX
+  swift8: GKCCBEBB
+  branch_name: Head Office
+  branch_address: Boulevard Pacheco 44 1000 Brussels
+  branch_code: XXX
+  city: Brussels
+  country: Belgium
+- name: Dexia Fund Services Belgium
+  swift: DXFSBEBBFAD
+  swift8: DXFSBEBB
+  branch_name: Fund Administration
+  branch_address: Brussels
+  branch_code: FAD
+  city: Brussels
+  country: Belgium
+- name: Dexia Fund Services Belgium
+  swift: DXFSBEBBSHS
+  swift8: DXFSBEBB
+  branch_name: Shareholders Services
+  branch_address: Brussels
+  branch_code: SHS
+  city: Brussels
+  country: Belgium
+- name: Dexia Fund Services Belgium
+  swift: DXFSBEBBXXX
+  swift8: DXFSBEBB
+  branch_name: Head Office
+  branch_address: Rue Royale 180 1000 Brussels
+  branch_code: XXX
+  city: Brussels
+  country: Belgium
+- name: Epbf
+  swift: EPBFBEBBXXX
+  swift8: EPBFBEBB
+  branch_name: Head Office
+  branch_address: Chaussee De La Hulpe 181 1170 Watermael Boitsfort
+  branch_code: XXX
+  city: Watermael Boitsfort
+  country: Belgium
+- name: Ethias Banque Sa Ethias Bank Nv
+  swift: ETHIBEBBRTG
+  swift8: ETHIBEBB
+  branch_name: Brussels
+  branch_address: Brussels
+  branch_code: RTG
+  city: Brussels
+  country: Belgium
+- name: Ethias Banque Sa Ethias Bank Nv
+  swift: ETHIBEBBXXX
+  swift8: ETHIBEBB
+  branch_name: Head Office
+  branch_address: Avenue De Lastronomie 19 1210 Brussels
+  branch_code: XXX
+  city: Brussels
+  country: Belgium
+- name: Ethias Droit Commun, Association Dass. Mutuelles
+  swift: ETHDBE44XXX
+  swift8: ETHDBE44
+  branch_name: Head Office
+  branch_address: Rue Des Croisiers, 24 4000 Liege
+  branch_code: XXX
+  city: Liege
+  country: Belgium
+- name: Ethias Vie, Association Dassurances Mutuelles
+  swift: ETHVBE44XXX
+  swift8: ETHVBE44
+  branch_name: Head Office
+  branch_address: Rue Des Croisiers, 24 4000 Liege
+  branch_code: XXX
+  city: Liege
+  country: Belgium
+- name: Euroclear Bank S.A / N.V
+  swift: MGTCBEBECLT
+  swift8: MGTCBEBE
+  branch_name: Brussels
+  branch_address: Brussels
+  branch_code: CLT
+  city: Brussels
+  country: Belgium
+- name: Euroclear Bank S.A / N.V
+  swift: MGTCBEBEE01
+  swift8: MGTCBEBE
+  branch_name: Euroclear Belgium-Cik Settlement Exclusively
+  branch_address: Brussels
+  branch_code: E01
+  city: Brussels
+  country: Belgium
+- name: Euroclear Bank S.A / N.V
+  swift: MGTCBEBEEB2
+  swift8: MGTCBEBE
+  branch_name: Eses Impact Eb
+  branch_address: Boulevard Du Roi Albert Ii 1210 Brussels
+  branch_code: EB2
+  city: Brussels
+  country: Belgium
+- name: Euroclear Bank S.A / N.V
+  swift: MGTCBEBEEBE
+  swift8: MGTCBEBE
+  branch_name: Eses Impact Eb
+  branch_address: Boulevard Du Roi Albert Ii 1210 Brussels
+  branch_code: EBE
+  city: Brussels
+  country: Belgium
+- name: Euroclear Bank S.A / N.V
+  swift: MGTCBEBEECL
+  swift8: MGTCBEBE
+  branch_name: 1210 Brussels
+  branch_address: 1 Boulevard Du Roi Albert Ii 1210 Brussels
+  branch_code: ECL
+  city: Brussels
+  country: Belgium
+- name: Euroclear Bank S.A / N.V
+  swift: MGTCBEBEEF2
+  swift8: MGTCBEBE
+  branch_name: Eses Impact Eb
+  branch_address: Boulevard Du Roi Albert Ii 1210 Brussels
+  branch_code: EF2
+  city: Brussels
+  country: Belgium
+- name: Euroclear Bank S.A / N.V
+  swift: MGTCBEBEEFR
+  swift8: MGTCBEBE
+  branch_name: Eses Impact Eb
+  branch_address: Boulevard Du Roi Albert Ii 1210 Brussels
+  branch_code: EFR
+  city: Brussels
+  country: Belgium
+- name: Euroclear Bank S.A / N.V
+  swift: MGTCBEBEEN2
+  swift8: MGTCBEBE
+  branch_name: Eses Impact Eb
+  branch_address: Boulevard Du Roi Albert Ii 1210 Brussels
+  branch_code: EN2
+  city: Brussels
+  country: Belgium
+- name: Euroclear Bank S.A / N.V
+  swift: MGTCBEBEENL
+  swift8: MGTCBEBE
+  branch_name: Eses Impact Eb
+  branch_address: Boulevard Du Roi Albert Ii 1210 Brussels
+  branch_code: ENL
+  city: Brussels
+  country: Belgium
+- name: Euroclear Bank S.A / N.V
+  swift: MGTCBEBEFND
+  swift8: MGTCBEBE
+  branch_name: Fundsettle
+  branch_address: Brussels
+  branch_code: FND
+  city: Brussels
+  country: Belgium
+- name: Euroclear Bank S.A / N.V
+  swift: MGTCBEBEXXX
+  swift8: MGTCBEBE
+  branch_name: Head Office
+  branch_address: 1 Boulevard Du Roi Albert Ii 1210 Brussels
+  branch_code: XXX
+  city: Brussels
+  country: Belgium
+- name: Euroclear Bank S.A / N.V
+  swift: MGTCBEBEE14
+  swift8: MGTCBEBE
+  branch_name: Brussels
+  branch_address: Brussels
+  branch_code: E14
+  city: Brussels
+  country: Belgium
+- name: Euroclear Bank S.A / N.V
+  swift: MGTCBEBEE16
+  swift8: MGTCBEBE
+  branch_name: Business Branch
+  branch_address: Brussels
+  branch_code: E16
+  city: Brussels
+  country: Belgium
+- name: Euroclear Belgium (Previously Known As Cik Belgium)
+  swift: CIKBBEBBCLR
+  swift8: CIKBBEBB
+  branch_name: Settlement Department
+  branch_address: Brussels
+  branch_code: CLR
+  city: Brussels
+  country: Belgium
+- name: Euroclear Belgium (Previously Known As Cik Belgium)
+  swift: CIKBBEBBDIF
+  swift8: CIKBBEBB
+  branch_name: Domestic Investment Funds Settlement
+  branch_address: Brussels
+  branch_code: DIF
+  city: Brussels
+  country: Belgium
+- name: Euroclear Belgium (Previously Known As Cik Belgium)
+  swift: CIKBBEBBEA1
+  swift8: CIKBBEBB
+  branch_name: Eses Acpt 1
+  branch_address: Brussels
+  branch_code: EA1
+  city: Brussels
+  country: Belgium
+- name: Euroclear Belgium (Previously Known As Cik Belgium)
+  swift: CIKBBEBBEA2
+  swift8: CIKBBEBB
+  branch_name: Eses Acpt 2
+  branch_address: Brussels
+  branch_code: EA2
+  city: Brussels
+  country: Belgium
+- name: Euroclear Belgium (Previously Known As Cik Belgium)
+  swift: CIKBBEBBEA3
+  swift8: CIKBBEBB
+  branch_name: Eses Acpt 3
+  branch_address: Brussels
+  branch_code: EA3
+  city: Brussels
+  country: Belgium
+- name: Euroclear Belgium (Previously Known As Cik Belgium)
+  swift: CIKBBEBBXXX
+  swift8: CIKBBEBB
+  branch_name: Head Office
+  branch_address: Avenue De Schiphol 6 1140 Brussels
+  branch_code: XXX
+  city: Brussels
+  country: Belgium
+- name: Europabank N.V.
+  swift: EURBBE99XXX
+  swift8: EURBBE99
+  branch_name: Head Office
+  branch_address: Burgstraat 170 9000 Gent
+  branch_code: XXX
+  city: Gent
+  country: Belgium
+- name: F. Van Lanschot Bankiers Belgie N.V.
+  swift: FVLBBE22XXX
+  swift8: FVLBBE22
+  branch_name: Head Office
+  branch_address: Jan Van Rijswijklaan 4 2018 Antwerpen
+  branch_code: XXX
+  city: Antwerpen
+  country: Belgium
+- name: Fastnet Belgium
+  swift: FNETBEBBXXX
+  swift8: FNETBEBB
+  branch_name: Head Office
+  branch_address: 25-27 Boulevard Danvers 1000 Brussels
+  branch_code: XXX
+  city: Brussels
+  country: Belgium
+- name: Fce Bank Plc
+  swift: FCEFBE21XXX
+  swift8: FCEFBE21
+  branch_name: Head Office
+  branch_address: Hunderenveldlaan 10 26010 Antwerpen
+  branch_code: XXX
+  city: Antwerpen
+  country: Belgium
+- name: Financiere Remy Cointreau Sa/Nv
+  swift: FRCSBEBBXXX
+  swift8: FRCSBEBB
+  branch_name: Head Office
+  branch_address: Avenue Des Arts 19 A-D 1000 Brussels
+  branch_code: XXX
+  city: Brussels
+  country: Belgium
+- name: Fortis Bank S.A./N.V. (Formerly Generale Bank N.V. Aalst)
+  swift: GEBABEBB01A
+  swift8: GEBABEBB
+  branch_name: 9320 Aalst
+  branch_address: Kwalestraat 94, Nieuwerkerken 9320 Aalst
+  branch_code: 01A
+  city: Aalst
+  country: Belgium
+- name: Fortis Bank S.A./N.V. (Formerly Generale Bank N.V. Antwerpen)
+  swift: GEBABEBB18A
+  swift8: GEBABEBB
+  branch_name: 2000 Antwerpen
+  branch_address: Meir 48 2000 Antwerpen
+  branch_code: 18A
+  city: Antwerpen
+  country: Belgium
+- name: Fortis Bank S.A./N.V. (Formerly Generale Bank N.V. Brugge)
+  swift: GEBABEBB13A
+  swift8: GEBABEBB
+  branch_name: 8000 Brugge
+  branch_address: Vlamingstraat 78 8000 Brugge
+  branch_code: 13A
+  city: Brugge
+  country: Belgium
+- name: Fortis Bank S.A./N.V. (Formerly Generale Bank N.V. Genk)
+  swift: GEBABEBB08E
+  swift8: GEBABEBB
+  branch_name: 3600 Genk
+  branch_address: Dieplaan 79-81 3600 Genk
+  branch_code: '08E'
+  city: Genk
+  country: Belgium
+- name: Fortis Bank S.A./N.V. (Formerly Generale Bank N.V. Hasselt)
+  swift: GEBABEBB14A
+  swift8: GEBABEBB
+  branch_name: 3500 Hasselt
+  branch_address: Ridder Portmansstraat 1 3500 Hasselt
+  branch_code: 14A
+  city: Hasselt
+  country: Belgium
+- name: Fortis Bank S.A./N.V. (Formerly Generale Bank N.V. Leuven)
+  swift: GEBABEBB08A
+  swift8: GEBABEBB
+  branch_name: 3000 Leuven
+  branch_address: Karel Van Lotharingenstraat 4 3000 Leuven
+  branch_code: '08A'
+  city: Leuven
+  country: Belgium
+- name: Fortis Bank S.A./N.V. (Formerly Generale Bank N.V. Mechelen)
+  swift: GEBABEBB08B
+  swift8: GEBABEBB
+  branch_name: 2800 Mechelen
+  branch_address: Van Benedenlaan 26 2800 Mechelen
+  branch_code: '08B'
+  city: Mechelen
+  country: Belgium
+- name: Fortis Bank S.A./N.V. (Formerly Generale Bank N.V. Ninove)
+  swift: GEBABEBB18B
+  swift8: GEBABEBB
+  branch_name: 9400 Ninove
+  branch_address: Dreefstraat 54 9400 Ninove
+  branch_code: 18B
+  city: Ninove
+  country: Belgium
+- name: Fortis Bank S.A./N.V. (Formerly Generale Bank N.V. Roeselare)
+  swift: GEBABEBB05B
+  swift8: GEBABEBB
+  branch_name: 8800 Roeselare
+  branch_address: Westlaan 466-470 8800 Roeselare
+  branch_code: 05B
+  city: Roeselare
+  country: Belgium
+- name: Fortis Bank S.A./N.V. (Formerly Generale Bank N.V. Tienen)
+  swift: GEBABEBB08C
+  swift8: GEBABEBB
+  branch_name: 3300 Tienen
+  branch_address: Grote Markt 15 3300 Tienen
+  branch_code: '08C'
+  city: Tienen
+  country: Belgium
+- name: Fortis Bank S.A./N.V. (Formerly Generale Bank N.V. Turnhout)
+  swift: GEBABEBB08D
+  swift8: GEBABEBB
+  branch_name: 2300 Turnhout
+  branch_address: Everdongenlaan 19 2300 Turnhout
+  branch_code: '08D'
+  city: Turnhout
+  country: Belgium
+- name: Fortis Bank S.A./N.V. (Formerly Generale Bank N.V.St. Niklaas)
+  swift: GEBABEBB01B
+  swift8: GEBABEBB
+  branch_name: 9100 Sint-Niklaas
+  branch_address: Kardinaal Mercierplein 7 9100 Sint-Niklaas
+  branch_code: 01B
+  city: Sint-Niklaas
+  country: Belgium
+- name: Fortis Bank S.A./N.V. (Formerly Genrale Bank N.V. Gent)
+  swift: GEBABEBB05A
+  swift8: GEBABEBB
+  branch_name: 9000 Gent
+  branch_address: Kouter 8 9000 Gent
+  branch_code: 05A
+  city: Gent
+  country: Belgium
+- name: Fortis Bank S.A./N.V. (Formerly Genrale Bank N.V. Kortrijk)
+  swift: GEBABEBB04A
+  swift8: GEBABEBB
+  branch_name: 8500 Kortrijk
+  branch_address: Waterpoort 1 8500 Kortrijk
+  branch_code: 04A
+  city: Kortrijk
+  country: Belgium
+- name: Fortis Bank S.A./N.V. Brussels
+  swift: GEBABEBBALM
+  swift8: GEBABEBB
+  branch_name: Brussels
+  branch_address: Brussels
+  branch_code: ALM
+  city: Brussels
+  country: Belgium
+- name: Fortis Bank S.A./N.V. Brussels
+  swift: GEBABEBBLDN
+  swift8: GEBABEBB
+  branch_name: Equity Trading Lse
+  branch_address: Brussels
+  branch_code: LDN
+  city: Brussels
+  country: Belgium
+- name: Fortis Bank S.A./N.V. Brussels
+  swift: GEBABEBBSSD
+  swift8: GEBABEBB
+  branch_name: Proprietary Trading Equities
+  branch_address: Brussels
+  branch_code: SSD
+  city: Brussels
+  country: Belgium
+- name: Fortis Bank S.A./N.V. Brussels
+  swift: GEBABEBBXXX
+  swift8: GEBABEBB
+  branch_name: All Belgian Offices
+  branch_address: Montagne Du Parc 3 1000 Brussels
+  branch_code: XXX
+  city: Brussels
+  country: Belgium
+- name: Fortis Banque S.A./N.V. (Formerly Generale De Banque S.A. (Head Office) Brussels)
+  swift: GEBABEBB36A
+  swift8: GEBABEBB
+  branch_name: Head Office
+  branch_address: Montagne Du Parc 3 1000 Brussels
+  branch_code: 36A
+  city: Brussels
+  country: Belgium
+- name: Fortis Banque S.A./N.V. (Formerly Generale De Banque S.A. Arlon)
+  swift: GEBABEBB02A
+  swift8: GEBABEBB
+  branch_name: 6700 Arlon
+  branch_address: Rue Joseph Netzer 1 6700 Arlon
+  branch_code: 02A
+  city: Arlon
+  country: Belgium
+- name: Fortis Banque S.A./N.V. (Formerly Generale De Banque S.A. Brussels)
+  swift: GEBABEBB00A
+  swift8: GEBABEBB
+  branch_name: 1000 Brussels
+  branch_address: Montagne Du Parc 3 1000 Brussels
+  branch_code: 00A
+  city: Brussels
+  country: Belgium
+- name: Fortis Banque S.A./N.V. (Formerly Generale De Banque S.A. Charleroi)
+  swift: GEBABEBB03A
+  swift8: GEBABEBB
+  branch_name: 6000 Charleroi
+  branch_address: Boulevard Tirou 100 6000 Charleroi
+  branch_code: 03A
+  city: Charleroi
+  country: Belgium
+- name: Fortis Banque S.A./N.V. (Formerly Generale De Banque S.A. Huy)
+  swift: GEBABEBB07B
+  swift8: GEBABEBB
+  branch_name: 4500 Huy
+  branch_address: Avenue Des Ardennes 34 4500 Huy
+  branch_code: 07B
+  city: Huy
+  country: Belgium
+- name: Fortis Banque S.A./N.V. (Formerly Generale De Banque S.A. La Louviere)
+  swift: GEBABEBB06A
+  swift8: GEBABEBB
+  branch_name: 7100 La Louviere
+  branch_address: Rue De Bouvy 7 7100 La Louviere
+  branch_code: 06A
+  city: La Louviere
+  country: Belgium
+- name: Fortis Banque S.A./N.V. (Formerly Generale De Banque S.A. Liege)
+  swift: GEBABEBB07A
+  swift8: GEBABEBB
+  branch_name: 4000 Liege
+  branch_address: Place Xavier Neujean 8 4000 Liege
+  branch_code: 07A
+  city: Liege
+  country: Belgium
+- name: Fortis Banque S.A./N.V. (Formerly Generale De Banque S.A. Mons)
+  swift: GEBABEBB09A
+  swift8: GEBABEBB
+  branch_name: 7000 Mons
+  branch_address: Avenue Frere Orban 9 7000 Mons
+  branch_code: '09A'
+  city: Mons
+  country: Belgium
+- name: Fortis Banque S.A./N.V. (Formerly Generale De Banque S.A. Namur)
+  swift: GEBABEBB10A
+  swift8: GEBABEBB
+  branch_name: 5000 Namur
+  branch_address: Rue Godfroid 6 5000 Namur
+  branch_code: 10A
+  city: Namur
+  country: Belgium
+- name: Fortis Banque S.A./N.V. (Formerly Generale De Banque S.A. Nivelles)
+  swift: GEBABEBB06B
+  swift8: GEBABEBB
+  branch_name: 1400 Nivelles
+  branch_address: Place Lambert Schiffelers 3 1400 Nivelles
+  branch_code: 06B
+  city: Nivelles
+  country: Belgium
+- name: Fortis Banque S.A./N.V. (Formerly Generale De Banque S.A. Tournai)
+  swift: GEBABEBB11A
+  swift8: GEBABEBB
+  branch_name: 7500 Tournai
+  branch_address: Rue Royale 83 7500 Tournai
+  branch_code: 11A
+  city: Tournai
+  country: Belgium
+- name: Fortis Banque S.A./N.V. (Formerly Generale De Banque S.A. Verviers)
+  swift: GEBABEBB12A
+  swift8: GEBABEBB
+  branch_name: 4800 Verviers
+  branch_address: Place Verte 12a 4800 Verviers
+  branch_code: 12A
+  city: Verviers
+  country: Belgium
+- name: Fortis Banque S.A./N.V. (Formerly Generale De Banque S.A. Waremme)
+  swift: GEBABEBB07C
+  swift8: GEBABEBB
+  branch_name: 4300 Waremme
+  branch_address: Rue Joseph Wauters 50 4300 Waremme
+  branch_code: 07C
+  city: Waremme
+  country: Belgium
+- name: Habib Bank Ltd.
+  swift: HABBBEBBXXX
+  swift8: HABBBEBB
+  branch_name: Head Office
+  branch_address: Square De Meeus 35 1000 Brussels
+  branch_code: XXX
+  city: Brussels
+  country: Belgium
+- name: Hsbc Bank Plc
+  swift: HSBCBEBBSDD
+  swift8: HSBCBEBB
+  branch_name: Sepa Direct Debits
+  branch_address: Brussels
+  branch_code: SDD
+  city: Brussels
+  country: Belgium
+- name: Hsbc Bank Plc
+  swift: HSBCBEBBXXX
+  swift8: HSBCBEBB
+  branch_name: Head Office
+  branch_address: 46 Avenue Des Arts 1000 Brussels
+  branch_code: XXX
+  city: Brussels
+  country: Belgium
+- name: Icbc Brussels Branch
+  swift: ICBKBEBBXXX
+  swift8: ICBKBEBB
+  branch_name: Head Office
+  branch_address: Wiltcher S 1050 Brussels
+  branch_code: XXX
+  city: Brussels
+  country: Belgium
+- name: Icici Bank Uk Plc
+  swift: ICICBE2XXXX
+  swift8: ICICBE2X
+  branch_name: Head Office
+  branch_address: Diamond Plaza 2018 Antwerpen
+  branch_code: XXX
+  city: Antwerpen
+  country: Belgium
+- name: Ing Belgium Nv/Sa (Formerly Bank Brussels Lambert Sa) Antwerpen
+  swift: BBRUBEBB200
+  swift8: BBRUBEBB
+  branch_name: 2000 Antwerpen
+  branch_address: Lange Gasthuisstraat 14 2000 Antwerpen
+  branch_code: '200'
+  city: Antwerpen
+  country: Belgium
+- name: Ing Belgium Nv/Sa (Formerly Bank Brussels Lambert Sa), Aalst
+  swift: BBRUBEBB930
+  swift8: BBRUBEBB
+  branch_name: 9300 Aalst
+  branch_address: Nieuwstraat 27 9300 Aalst
+  branch_code: '930'
+  city: Aalst
+  country: Belgium
+- name: Ing Belgium Nv/Sa (Formerly Bank Brussels Lambert Sa), Brugge
+  swift: BBRUBEBB800
+  swift8: BBRUBEBB
+  branch_name: 8000 Brugge
+  branch_address: Markt 18-19 8000 Brugge
+  branch_code: '800'
+  city: Brugge
+  country: Belgium
+- name: Ing Belgium Nv/Sa (Formerly Bank Brussels Lambert Sa), Brussels
+  swift: BBRUBEBB010
+  swift8: BBRUBEBB
+  branch_name: Head Office
+  branch_address: Marnix Building 1050 Brussels
+  branch_code: '010'
+  city: Brussels
+  country: Belgium
+- name: Ing Belgium Nv/Sa (Formerly Bank Brussels Lambert Sa), Brussels
+  swift: BBRUBEBB100
+  swift8: BBRUBEBB
+  branch_name: Branch
+  branch_address: Cours-Saint-Michel Building 1040 Brussels
+  branch_code: '100'
+  city: Brussels
+  country: Belgium
+- name: Ing Belgium Nv/Sa (Formerly Bank Brussels Lambert Sa), Brussels
+  swift: BBRUBEBBCLS
+  swift8: BBRUBEBB
+  branch_name: Continuous Linked Settlement
+  branch_address: Avenue Marnix 24 1000 Brussels
+  branch_code: CLS
+  city: Brussels
+  country: Belgium
+- name: Ing Belgium Nv/Sa (Formerly Bank Brussels Lambert Sa), Brussels
+  swift: BBRUBEBBVYS
+  swift8: BBRUBEBB
+  branch_name: Mt940 Routing India
+  branch_address: Brussels
+  branch_code: VYS
+  city: Brussels
+  country: Belgium
+- name: Ing Belgium Nv/Sa (Formerly Bank Brussels Lambert Sa), Brussels
+  swift: BBRUBEBBXXX
+  swift8: BBRUBEBB
+  branch_name: All Branches
+  branch_address: Avenue Marnix 24 1000 Brussels
+  branch_code: XXX
+  city: Brussels
+  country: Belgium
+- name: Ing Belgium Nv/Sa (Formerly Bank Brussels Lambert Sa), Charleroi
+  swift: BBRUBEBB600
+  swift8: BBRUBEBB
+  branch_name: 6000 Charleroi
+  branch_address: Place Albert 1er 31 6000 Charleroi
+  branch_code: '600'
+  city: Charleroi
+  country: Belgium
+- name: Ing Belgium Nv/Sa (Formerly Bank Brussels Lambert Sa), Gent
+  swift: BBRUBEBB900
+  swift8: BBRUBEBB
+  branch_name: 9000 Gent
+  branch_address: Kouter 173 9000 Gent
+  branch_code: '900'
+  city: Gent
+  country: Belgium
+- name: Ing Belgium Nv/Sa (Formerly Bank Brussels Lambert Sa), Hasselt
+  swift: BBRUBEBB350
+  swift8: BBRUBEBB
+  branch_name: 3500 Hasselt
+  branch_address: De Schiervellaan 10 3500 Hasselt
+  branch_code: '350'
+  city: Hasselt
+  country: Belgium
+- name: Ing Belgium Nv/Sa (Formerly Bank Brussels Lambert Sa), Kortrijk
+  swift: BBRUBEBB850
+  swift8: BBRUBEBB
+  branch_name: 8500 Kortrijk
+  branch_address: Grote Markt 50 8500 Kortrijk
+  branch_code: '850'
+  city: Kortrijk
+  country: Belgium
+- name: Ing Belgium Nv/Sa (Formerly Bank Brussels Lambert Sa), Leuven
+  swift: BBRUBEBB300
+  swift8: BBRUBEBB
+  branch_name: 3000 Leuven
+  branch_address: Vital Decosterstraat 25 3000 Leuven
+  branch_code: '300'
+  city: Leuven
+  country: Belgium
+- name: Ing Belgium Nv/Sa (Formerly Bank Brussels Lambert Sa), Liege
+  swift: BBRUBEBB400
+  swift8: BBRUBEBB
+  branch_name: 4000 Liege
+  branch_address: Rue G. Clemenceau 5 4000 Liege
+  branch_code: '400'
+  city: Liege
+  country: Belgium
+- name: Ing Belgium Nv/Sa (Formerly Bank Brussels Lambert Sa), Mons
+  swift: BBRUBEBB700
+  swift8: BBRUBEBB
+  branch_name: 7000 Mons
+  branch_address: Boulevard Sainctelette 76 7000 Mons
+  branch_code: '700'
+  city: Mons
+  country: Belgium
+- name: J.P. Morgan Europe Limited
+  swift: CHASBEE1XXX
+  swift8: CHASBEE1
+  branch_name: Head Office
+  branch_address: Boulevard Du Roi Albert Ii, 1 1210 Brussels
+  branch_code: XXX
+  city: Brussels
+  country: Belgium
+- name: Jc General Services Cvba
+  swift: JOJOBE22XXX
+  swift8: JOJOBE22
+  branch_name: Head Office
+  branch_address: Turnhoutseweg 30 2340 Beerse
+  branch_code: XXX
+  city: Beerse
+  country: Belgium
+- name: Johnson Controls International Nv
+  swift: JOCIBEBBXXX
+  swift8: JOCIBEBB
+  branch_name: Head Office
+  branch_address: Diegem Zuid - Pegasus Park 1831 Diegem
+  branch_code: XXX
+  city: Diegem
+  country: Belgium
+- name: Jp Morgan Chase Bank, N.A
+  swift: CHASBEBXENQ
+  swift8: CHASBEBX
+  branch_name: Telex and S W I F T Message Enquiries
+  branch_address: Brussels
+  branch_code: ENQ
+  city: Brussels
+  country: Belgium
+- name: Jp Morgan Chase Bank, N.A
+  swift: CHASBEBXKEY
+  swift8: CHASBEBX
+  branch_name: Test Key and Bke Administration
+  branch_address: Brussels
+  branch_code: KEY
+  city: Brussels
+  country: Belgium
+- name: Jp Morgan Chase Bank, N.A
+  swift: CHASBEBXXXX
+  swift8: CHASBEBX
+  branch_name: Head Office
+  branch_address: Boulevard Du Roi Albert Ii, 1 1210 Brussels
+  branch_code: XXX
+  city: Brussels
+  country: Belgium
+- name: Jp Morgan International Bank
+  swift: JPMGBEBBMOM
+  swift8: JPMGBEBB
+  branch_name: Mom Department
+  branch_address: Brussels
+  branch_code: MOM
+  city: Brussels
+  country: Belgium
+- name: Jp Morgan International Bank
+  swift: JPMGBEBBXXX
+  swift8: JPMGBEBB
+  branch_name: Head Office
+  branch_address: 1 Boulevard Du Roi Albert Ii 1210 Brussels
+  branch_code: XXX
+  city: Brussels
+  country: Belgium
+- name: Kbc Asset Management
+  swift: KBCABEBBXXX
+  swift8: KBCABEBB
+  branch_name: Head Office
+  branch_address: Havenlaan 2 1080 Brussels
+  branch_code: XXX
+  city: Brussels
+  country: Belgium
+- name: Kbc Bank N.V
+  swift: KREDBEBBXXX
+  swift8: KREDBEBB
+  branch_name: Head Office
+  branch_address: Havenlaan 2 B 1080 Brussels
+  branch_code: XXX
+  city: Brussels
+  country: Belgium
+- name: Kbc Securities N.V.
+  swift: KBSEBE22CBL
+  swift8: KBSEBE22
+  branch_name: Bic to Identify Cashaccount at Nbb Used for Clearstream Banking Lux
+  branch_address: Antwerpen
+  branch_code: CBL
+  city: Antwerpen
+  country: Belgium
+- name: Kbc Securities N.V.
+  swift: KBSEBE22882
+  swift8: KBSEBE22
+  branch_name: Brussels
+  branch_address: Brussels
+  branch_code: '882'
+  city: Brussels
+  country: Belgium
+- name: Kbc Securities N.V.
+  swift: KBSEBE22XXX
+  swift8: KBSEBE22
+  branch_name: Head Office
+  branch_address: Havenlaan 12 1080 Brussels
+  branch_code: XXX
+  city: Brussels
+  country: Belgium
+- name: Keytrade Bank Sa/Nv
+  swift: KEYTBEBBXXX
+  swift8: KEYTBEBB
+  branch_name: Head Office
+  branch_address: Boulevard Du Souverain 100 1170 Brussels
+  branch_code: XXX
+  city: Brussels
+  country: Belgium
+- name: Leleux Associated Brokers
+  swift: LABEBEBBXXX
+  swift8: LABEBEBB
+  branch_name: Head Office
+  branch_address: Rue Du Bois Sauvage, 17 1000 Brussels
+  branch_code: XXX
+  city: Brussels
+  country: Belgium
+- name: Lloyds Tsb Bank Plc
+  swift: LOYDBEBBXXX
+  swift8: LOYDBEBB
+  branch_name: Head Office
+  branch_address: Avenue De Tervueren 2 1040 Brussels
+  branch_code: XXX
+  city: Brussels
+  country: Belgium
+- name: Lombard Odier Darier Hentsch (Belgique) S.A.
+  swift: LOCYBEBBNDP
+  swift8: LOCYBEBB
+  branch_name: Ndp Dept
+  branch_address: Brussels
+  branch_code: NDP
+  city: Brussels
+  country: Belgium
+- name: Lombard Odier Darier Hentsch (Belgique) S.A.
+  swift: LOCYBEBBXXX
+  swift8: LOCYBEBB
+  branch_name: Head Office
+  branch_address: Avenue Louise 81, Bte 12 1050 Brussels
+  branch_code: XXX
+  city: Brussels
+  country: Belgium
+- name: Mizuho Corporate Bank Nederland N.V. Brussels Branch
+  swift: MHCBBEBBXXX
+  swift8: MHCBBEBB
+  branch_name: Head Office
+  branch_address: It Tower 1050 Brussels
+  branch_code: XXX
+  city: Brussels
+  country: Belgium
+- name: Mts Associated Markets
+  swift: BMTSBEBBXXX
+  swift8: BMTSBEBB
+  branch_name: Head Office
+  branch_address: 30 Avenue Des Arts 1040 Brussels
+  branch_code: XXX
+  city: Brussels
+  country: Belgium
+- name: Nexans Services Sa
+  swift: NEXABEBBXXX
+  swift8: NEXABEBB
+  branch_name: Head Office
+  branch_address: Rue De Stalle 65 / B3 1180 Brussels
+  branch_code: XXX
+  city: Brussels
+  country: Belgium
+- name: Nibc Bank N.V
+  swift: DNIBBE21XXX
+  swift8: DNIBBE21
+  branch_name: Head Office
+  branch_address: Corner Building 2600 Brussels
+  branch_code: XXX
+  city: Brussels
+  country: Belgium
+- name: Nv Ikea Service Centre Sa
+  swift: IKEABEBBXXX
+  swift8: IKEABEBB
+  branch_name: Head Office
+  branch_address: Ikaroslaan 28 1930 Zaventem
+  branch_code: XXX
+  city: Zaventem
+  country: Belgium
+- name: Petercam S.A.
+  swift: PECSBEBB009
+  swift8: PECSBEBB
+  branch_name: Back-Office Clients Not in Custody
+  branch_address: Brussels
+  branch_code: '009'
+  city: Brussels
+  country: Belgium
+- name: Petercam S.A.
+  swift: PECSBEBBXXX
+  swift8: PECSBEBB
+  branch_name: Head Office
+  branch_address: Place Sainte Gudule 19 1000 Brussels
+  branch_code: XXX
+  city: Brussels
+  country: Belgium
+- name: Puilaetco Dewaay Private Bankers
+  swift: PUILBEBBXXX
+  swift8: PUILBEBB
+  branch_name: Head Office
+  branch_address: Avenue Herrmann Debroux 46 1160 Brussels
+  branch_code: XXX
+  city: Brussels
+  country: Belgium
+- name: Rabobank International Antwerp Branch
+  swift: RABOBE22XXX
+  swift8: RABOBE22
+  branch_name: Head Office
+  branch_address: Rubens 2000 2600 Antwerpen
+  branch_code: XXX
+  city: Antwerpen
+  country: Belgium
+- name: Record Bank Nv
+  swift: HBKABE22TA2
+  swift8: HBKABE22
+  branch_name: Gent
+  branch_address: Gent
+  branch_code: TA2
+  city: Gent
+  country: Belgium
+- name: Record Bank Nv
+  swift: HBKABE22XXX
+  swift8: HBKABE22
+  branch_name: Head Office
+  branch_address: Woodrow Wilsonplein 5i 9000 Gent
+  branch_code: XXX
+  city: Gent
+  country: Belgium
+- name: Rothschild Belgique
+  swift: RCBPBEBBXXX
+  swift8: RCBPBEBB
+  branch_name: Head Office
+  branch_address: 166, Avenue Louise 1050 Brussels
+  branch_code: XXX
+  city: Brussels
+  country: Belgium
+- name: Santander Benelux Sa
+  swift: BSCHBEBBBLX
+  swift8: BSCHBEBB
+  branch_name: Brussels
+  branch_address: Brussels
+  branch_code: BLX
+  city: Brussels
+  country: Belgium
+- name: Santander Benelux Sa
+  swift: BSCHBEBBXXX
+  swift8: BSCHBEBB
+  branch_name: Head Office
+  branch_address: Avenue Des Nerviens 1040 Brussels
+  branch_code: XXX
+  city: Brussels
+  country: Belgium
+- name: Sca Capital Nv
+  swift: SCCPBEBBXXX
+  swift8: SCCPBEBB
+  branch_name: Head Office
+  branch_address: Culliganlaan 1d 1831 Diegem
+  branch_code: XXX
+  city: Diegem
+  country: Belgium
+- name: Sg Private Banking Belgium
+  swift: SGPBBE99XXX
+  swift8: SGPBBE99
+  branch_name: Head Office
+  branch_address: Kortrijksesteenweg 302 9000 Gent
+  branch_code: XXX
+  city: Gent
+  country: Belgium
+- name: Shizuoka Bank (Europe) S.A.
+  swift: SHIZBEBBXXX
+  swift8: SHIZBEBB
+  branch_name: Head Office
+  branch_address: Louise Center 1050 Brussels
+  branch_code: XXX
+  city: Brussels
+  country: Belgium
+- name: Societe Generale
+  swift: SGABBEB2BRU
+  swift8: SGABBEB2
+  branch_name: Branch
+  branch_address: Place Du Champ De Mars, 5 1050 Brussels
+  branch_code: BRU
+  city: Brussels
+  country: Belgium
+- name: Societe Generale
+  swift: SGABBEB2TRA
+  swift8: SGABBEB2
+  branch_name: Sg Bruxelles Trade Services
+  branch_address: Brussels
+  branch_code: TRA
+  city: Brussels
+  country: Belgium
+- name: Societe Generale
+  swift: SGABBEB2XXX
+  swift8: SGABBEB2
+  branch_name: Belgian Head Office
+  branch_address: Tour Bastion 1050 Brussels
+  branch_code: XXX
+  city: Brussels
+  country: Belgium
+- name: Solvay Cicc S.A
+  swift: SOLVBEBBXXX
+  swift8: SOLVBEBB
+  branch_name: Head Office
+  branch_address: Rue De Larbre Benit, 21 1050 Brussels
+  branch_code: XXX
+  city: Brussels
+  country: Belgium
+- name: State Bank Of India
+  swift: SBINBE2XXXX
+  swift8: SBINBE2X
+  branch_name: Head Office
+  branch_address: Korte Herentalsestraat 3 2018 Antwerpen
+  branch_code: XXX
+  city: Antwerpen
+  country: Belgium
+- name: Sumitomo Mitsui Banking Corporation
+  swift: SMBCBEBBGEB
+  swift8: SMBCBEBB
+  branch_name: Restricted Use for Target 2 Brussels Only
+  branch_address: Brussels
+  branch_code: GEB
+  city: Brussels
+  country: Belgium
+- name: Sumitomo Mitsui Banking Corporation
+  swift: SMBCBEBBXXX
+  swift8: SMBCBEBB
+  branch_name: Head Office
+  branch_address: Neo Building 1000 Brussels
+  branch_code: XXX
+  city: Brussels
+  country: Belgium
+- name: Swift Headquarters
+  swift: SWHQBECACIO
+  swift8: SWHQBECA
+  branch_name: Security Management Centre
+  branch_address: Brussels
+  branch_code: CIO
+  city: Brussels
+  country: Belgium
+- name: Swift Headquarters
+  swift: SWHTBEBBAC1
+  swift8: SWHTBEBB
+  branch_name: Brussels
+  branch_address: Brussels
+  branch_code: AC1
+  city: Brussels
+  country: Belgium
+- name: Swift Headquarters
+  swift: SWHTBEBBAC2
+  swift8: SWHTBEBB
+  branch_name: Brussels
+  branch_address: Brussels
+  branch_code: AC2
+  city: Brussels
+  country: Belgium
+- name: Swift Headquarters
+  swift: SWHTBEBBAC3
+  swift8: SWHTBEBB
+  branch_name: Brussels
+  branch_address: Brussels
+  branch_code: AC3
+  city: Brussels
+  country: Belgium
+- name: Swift Headquarters
+  swift: SWLIBEBBXXX
+  swift8: SWLIBEBB
+  branch_name: Head Office
+  branch_address: La Hulpe
+  branch_code: XXX
+  city: La Hulpe
+  country: Belgium
+- name: Swift Headquarters
+  swift: SWTDBEBBXXX
+  swift8: SWTDBEBB
+  branch_name: Head Office
+  branch_address: La Hulpe
+  branch_code: XXX
+  city: La Hulpe
+  country: Belgium
+- name: Swift Headquarters
+  swift: SWHQBEBB111
+  swift8: SWHQBEBB
+  branch_name: La Hulpe
+  branch_address: La Hulpe
+  branch_code: '111'
+  city: La Hulpe
+  country: Belgium
+- name: Swift Headquarters
+  swift: SWHQBEBBADS
+  swift8: SWHQBEBB
+  branch_name: Administration Services
+  branch_address: Avenue Adele 1 1310 La Hulpe
+  branch_code: ADS
+  city: La Hulpe
+  country: Belgium
+- name: Swift Headquarters
+  swift: SWHQBEBBBCT
+  swift8: SWHQBEBB
+  branch_name: Broadcast Requests Only
+  branch_address: Avenue Adele 1 1310 La Hulpe
+  branch_code: BCT
+  city: La Hulpe
+  country: Belgium
+- name: Swift Headquarters
+  swift: SWHQBEBBBIL
+  swift8: SWHQBEBB
+  branch_name: Customer Billing Services
+  branch_address: Avenue Adele 1 1310 La Hulpe
+  branch_code: BIL
+  city: La Hulpe
+  country: Belgium
+- name: Swift Headquarters
+  swift: SWHQBEBBE2E
+  swift8: SWHQBEBB
+  branch_name: End-To-End Ordering Department
+  branch_address: La Hulpe
+  branch_code: E2E
+  city: La Hulpe
+  country: Belgium
+- name: Swift Headquarters
+  swift: SWHQBEBBEDU
+  swift8: SWHQBEBB
+  branch_name: Swift Training Department
+  branch_address: Avenue Adele 1 1310 La Hulpe
+  branch_code: EDU
+  city: La Hulpe
+  country: Belgium
+- name: Swift Headquarters
+  swift: SWHQBEBBEVE
+  swift8: SWHQBEBB
+  branch_name: Corporate Events Department
+  branch_address: La Hulpe
+  branch_code: EVE
+  city: La Hulpe
+  country: Belgium
+- name: Swift Headquarters
+  swift: SWHQBEBBFIN
+  swift8: SWHQBEBB
+  branch_name: Finance Division
+  branch_address: Avenue Adele 1 1310 La Hulpe
+  branch_code: FIN
+  city: La Hulpe
+  country: Belgium
+- name: Swift Headquarters
+  swift: SWHQBEBBGMT
+  swift8: SWHQBEBB
+  branch_name: General Management
+  branch_address: Avenue Adele 1 1310 La Hulpe
+  branch_code: GMT
+  city: La Hulpe
+  country: Belgium
+- name: Swift Headquarters
+  swift: SWHQBEBBLOG
+  swift8: SWHQBEBB
+  branch_name: Swift Logistics Dept
+  branch_address: La Hulpe
+  branch_code: LOG
+  city: La Hulpe
+  country: Belgium
+- name: Swift Headquarters
+  swift: SWHQBEBBMEM
+  swift8: SWHQBEBB
+  branch_name: Membership Management
+  branch_address: La Hulpe
+  branch_code: MEM
+  city: La Hulpe
+  country: Belgium
+- name: Swift Headquarters
+  swift: SWHQBEBBMKT
+  swift8: SWHQBEBB
+  branch_name: Marketing
+  branch_address: La Hulpe
+  branch_code: MKT
+  city: La Hulpe
+  country: Belgium
+- name: Swift Headquarters
+  swift: SWHQBEBBPRM
+  swift8: SWHQBEBB
+  branch_name: Product Management Division
+  branch_address: Avenue Adele 1 1310 La Hulpe
+  branch_code: PRM
+  city: La Hulpe
+  country: Belgium
+- name: Swift Headquarters
+  swift: SWHQBEBBQED
+  swift8: SWHQBEBB
+  branch_name: Quality Engineering Department
+  branch_address: La Hulpe
+  branch_code: QED
+  city: La Hulpe
+  country: Belgium
+- name: The Bank Of New York Mellon Sa/Nv
+  swift: IRVTBEBBBKR
+  swift8: IRVTBEBB
+  branch_name: Global Brokerage
+  branch_address: Brussels
+  branch_code: BKR
+  city: Brussels
+  country: Belgium
+- name: The Bank Of New York Mellon Sa/Nv
+  swift: IRVTBEBBGSS
+  swift8: IRVTBEBB
+  branch_name: Global Securities Services Dept
+  branch_address: Brussels
+  branch_code: GSS
+  city: Brussels
+  country: Belgium
+- name: The Bank Of New York Mellon Sa/Nv
+  swift: IRVTBEBBIMC
+  swift8: IRVTBEBB
+  branch_name: International Master Custody
+  branch_address: Brussels
+  branch_code: IMC
+  city: Brussels
+  country: Belgium
+- name: The Bank Of New York Mellon Sa/Nv
+  swift: IRVTBEBBXXX
+  swift8: IRVTBEBB
+  branch_name: Head Office
+  branch_address: Montoyerstraat 46 Rue Montoyer 1000 Brussels
+  branch_code: XXX
+  city: Brussels
+  country: Belgium
+- name: The Bank Of New York Mellon Sa/Nv
+  swift: IRVTBEBBADM
+  swift8: IRVTBEBB
+  branch_name: Allianz Discretionary Mandates
+  branch_address: Brussels
+  branch_code: ADM
+  city: Brussels
+  country: Belgium
+- name: The Bank Of New York Mellon Sa/Nv
+  swift: IRVTBEBBBSK
+  swift8: IRVTBEBB
+  branch_name: Brussels
+  branch_address: Brussels
+  branch_code: BSK
+  city: Brussels
+  country: Belgium
+- name: The Bank Of New York Mellon, Brussels Branch
+  swift: BNYMBEBBXXX
+  swift8: BNYMBEBB
+  branch_name: Head Office
+  branch_address: Montoyerstraat 46 Rue Montoyer 1000 Brussels
+  branch_code: XXX
+  city: Brussels
+  country: Belgium
+- name: The Bank Of New York Mellon, Brussels Branch
+  swift: BNYMBEBBFND
+  swift8: BNYMBEBB
+  branch_name: 3rd Party Funds Orders Execution Service
+  branch_address: Brussels
+  branch_code: FND
+  city: Brussels
+  country: Belgium
+- name: The Royal Bank Of Scotland N.V. (Belgium)
+  swift: ABNABEBRXXX
+  swift8: ABNABEBR
+  branch_name: Head Office
+  branch_address: Kanselarijstraat 17a 1000 Brussels
+  branch_code: XXX
+  city: Brussels
+  country: Belgium
+- name: Triodos Bank
+  swift: TRIOBEBBXXX
+  swift8: TRIOBEBB
+  branch_name: Head Office
+  branch_address: Hoogstraat 139/3 1000 Brussels
+  branch_code: XXX
+  city: Brussels
+  country: Belgium
+- name: United Taiwan Bank S.A.
+  swift: UTWBBEBBXXX
+  swift8: UTWBBEBB
+  branch_name: Head Office
+  branch_address: Boulevard Du Regent 45-46 1000 Brussels
+  branch_code: XXX
+  city: Brussels
+  country: Belgium
+- name: Vdk Spaarbank Nv
+  swift: VDSPBE22XXX
+  swift8: VDSPBE22
+  branch_name: Head Office
+  branch_address: Sint Michielsplein 16 9000 Gent
+  branch_code: XXX
+  city: Gent
+  country: Belgium
+- name: Vdk Spaarbank Nv
+  swift: VDSPBE91XXX
+  swift8: VDSPBE91
+  branch_name: Head Office
+  branch_address: Sint-Michielsplein 16 9000 Gent
+  branch_code: XXX
+  city: Gent
+  country: Belgium
+- name: Vf Europe Bvba
+  swift: VFCOBE2BXXX
+  swift8: VFCOBE2B
+  branch_name: Head Office
+  branch_address: Fountain Business Park 2880 Bornem
+  branch_code: XXX
+  city: Bornem
+  country: Belgium
+- name: Volkswagen Bank Gmbh
+  swift: VOWABEB1XXX
+  swift8: VOWABEB1
+  branch_name: Head Office
+  branch_address: Pegasuspark 1000 Diegem
+  branch_code: XXX
+  city: Diegem
+  country: Belgium
+- name: Volkswagen Group Services Sa/Nv
+  swift: VWAGBEBBXXX
+  swift8: VWAGBEBB
+  branch_name: Head Office
+  branch_address: It Tower 1050 Brussels
+  branch_code: XXX
+  city: Brussels
+  country: Belgium
+- name: Ag Insurance
+  swift: ISSUBEB1XXX
+  swift8: ISSUBEB1
+  branch_name: Head Office
+  branch_address: Boulevard Emile Jacqmain 53 1000 Brussels
+  branch_code: XXX
+  city: Brussels
+  country: Belgium
+- name: Agfa-gevaert Nv
+  swift: AGFGBEBBXXX
+  swift8: AGFGBEBB
+  branch_name: No branch name
+  branch_address: No branch address
+  branch_code: XXX
+  city: Mortsel
+  country: Belgium
+- name: Alena Sa
+  swift: ALENBEB1XXX
+  swift8: ALENBEB1
+  branch_name: Head Office
+  branch_address: Chaussee De La Hulpe 130 1000 Brussels
+  branch_code: XXX
+  city: Brussels
+  country: Belgium
+- name: Associated Stockbrokers, Bvba
+  swift: ASSTBE21XXX
+  swift8: ASSTBE21
+  branch_name: Head Office
+  branch_address: Justitiestraat 30 2018 Antwerpen
+  branch_code: XXX
+  city: Antwerpen
+  country: Belgium
+- name: Audi Nv
+  swift: AUETBE21XXX
+  swift8: AUETBE21
+  branch_name: Head Office
+  branch_address: Frankrijklei 79 2000 Antwerpen
+  branch_code: XXX
+  city: Antwerpen
+  country: Belgium
+- name: Audi Nv
+  swift: AUETBE22XXX
+  swift8: AUETBE22
+  branch_name: Head Office
+  branch_address: Frankrijklei 79 2000 Antwerpen
+  branch_code: XXX
+  city: Antwerpen
+  country: Belgium
+- name: Auxifina Sa
+  swift: AUXIBEB1XXX
+  swift8: AUXIBEB1
+  branch_name: Head Office
+  branch_address: Avenue Des Communautes 5 1000 Brussels
+  branch_code: XXX
+  city: Brussels
+  country: Belgium
+- name: Aveve Sa
+  swift: AVEVBE21XXX
+  swift8: AVEVBE21
+  branch_name: Head Office
+  branch_address: Eugeen Meeusstraat 6 2170 Merksem
+  branch_code: XXX
+  city: Merksem
+  country: Belgium
+- name: Axa Belgium
+  swift: AXBIBEBBXXX
+  swift8: AXBIBEBB
+  branch_name: Head Office
+  branch_address: 25 Boulevard Du Souverain 1170 Watermael Boitsfort
+  branch_code: XXX
+  city: Watermael
+  country: Belgium
+- name: B And Bt Nv
+  swift: BNDDBE21326
+  swift8: BNDDBE21
+  branch_name: Wommelgem
+  branch_address: Antwerpen
+  branch_code: '326'
+  city: Antwerpen
+  country: Belgium
+- name: B And Bt Nv
+  swift: BNDDBE21XXX
+  swift8: BNDDBE21
+  branch_name: Head Office
+  branch_address: Ternesselei 2160 Antwerpen
+  branch_code: XXX
+  city: Antwerpen
+  country: Belgium
+- name: Bancontact-mistercash Sa/nv
+  swift: BCMCBEBBXXX
+  swift8: BCMCBEBB
+  branch_name: Head Office
+  branch_address: 82 Aarlenstraat - Rue Darlon 1040 Brussels
+  branch_code: XXX
+  city: Brussels
+  country: Belgium
+- name: Bank Of New York (luxembourg)sa, The
+  swift: IRVTBEB1XXX
+  swift8: IRVTBEB1
+  branch_name: Head Office
+  branch_address: Rue Montoyer 46 1040 Brussels
+  branch_code: XXX
+  city: Brussels
+  country: Belgium
+- name: Banque Bcp S.a. Luxembourg-succursale De Belgique
+  swift: BMECBEB1XXX
+  swift8: BMECBEB1
+  branch_name: Head Office
+  branch_address: Avenue Louise 211 1050 Brussels
+  branch_code: XXX
+  city: Brussels
+  country: Belgium
+- name: Banque Centrale Populaire Sa
+  swift: BCPOBEB1XXX
+  swift8: BCPOBEB1
+  branch_name: Head Office
+  branch_address: Louizalaan 203 1050 Brussels
+  branch_code: XXX
+  city: Brussels
+  country: Belgium
+- name: Banque De Luxembourg, Succursale De Belgique
+  swift: BLUXBE41XXX
+  swift8: BLUXBE41
+  branch_name: Head Office
+  branch_address: Avenue Jean-Baptiste Nothomb Arlon
+  branch_code: XXX
+  city: Arlon
+  country: Belgium
+- name: Banque Dreze
+  swift: BDREBE41XXX
+  swift8: BDREBE41
+  branch_name: Head Office
+  branch_address: Rue Xhavee 3 4800 Verviers
+  branch_code: XXX
+  city: Verviers
+  country: Belgium
+- name: Baudoux Vertongen Et Cie
+  swift: BAUVBEB1XXX
+  swift8: BAUVBEB1
+  branch_name: Head Office
+  branch_address: Avenue Du Renouveau 40 1000 Brussels
+  branch_code: XXX
+  city: Brussels
+  country: Belgium
+- name: Beeckmans, Van Gaver Et Cie, Scs
+  swift: BGHVBE21XXX
+  swift8: BGHVBE21
+  branch_name: Head Office
+  branch_address: Desguinlei 6 2018 Antwerpen
+  branch_code: XXX
+  city: Antwerpen
+  country: Belgium
+- name: Belgian National Registry
+  swift: BENGBEB1XXX
+  swift8: BENGBEB1
+  branch_name: Head Office
+  branch_address: Fod Volksgezondheid 1060 Brussels
+  branch_code: XXX
+  city: Brussels
+  country: Belgium
+- name: Belhyperion
+  swift: BELHBEB1XXX
+  swift8: BELHBEB1
+  branch_name: No branch name
+  branch_address: No branch address
+  branch_code: XXX
+  city: Brussels
+  country: Belgium
+- name: Bemo Holding Sa
+  swift: BEMBBEB1XXX
+  swift8: BEMBBEB1
+  branch_name: Head Office
+  branch_address: Rue Montoyer 23 1040 Brussels
+  branch_code: XXX
+  city: Brussels
+  country: Belgium
+- name: Beurs Van Antwerpen (antwerp Stock Exchange
+  swift: XANTBE21XXX
+  swift8: XANTBE21
+  branch_name: Head Office
+  branch_address: Korte Klarenstraat 1 2000 Antwerpen
+  branch_code: XXX
+  city: Antwerpen
+  country: Belgium
+- name: Bhw Bausparkasse Ag
+  swift: BHBEBEB1XXX
+  swift8: BHBEBEB1
+  branch_name: Head Office
+  branch_address: Avenue Du Port 86c Bte 301 1040 Brussels
+  branch_code: XXX
+  city: Brussels
+  country: Belgium
+- name: Binckbank Nv
+  swift: BIBLBE21XXX
+  swift8: BIBLBE21
+  branch_name: Head Office
+  branch_address: De Keyserlei 58 2018 Antwerpen
+  branch_code: XXX
+  city: Antwerpen
+  country: Belgium
+- name: Bioparticipations Sa
+  swift: BIOABE71XXX
+  swift8: BIOABE71
+  branch_name: Head Office
+  branch_address: 29 E Rue De La Terre a Briques 7522 Marquain
+  branch_code: XXX
+  city: Marquain
+  country: Belgium
+- name: Bkcp Securities Nv
+  swift: BUSSBE81XXX
+  swift8: BUSSBE81
+  branch_name: Head Office
+  branch_address: Lippenslaan 115 8300 Knokke-Heist
+  branch_code: XXX
+  city: Knokke-Heist
+  country: Belgium
+- name: Bnp Paribas Private Bank
+  swift: BPPBBEB1XXX
+  swift8: BPPBBEB1
+  branch_name: Head Office
+  branch_address: Avenue Louise 489 1050 Brussels
+  branch_code: XXX
+  city: Brussels
+  country: Belgium
+- name: Bpost Banque Bpost Bank Bpost Bank
+  swift: BPOTBEB1ISA
+  swift8: BPOTBEB1
+  branch_name: Restricted Use
+  branch_address: Brussels
+  branch_code: ISA
+  city: Brussels
+  country: Belgium
+- name: Bpost Banque Bpost Bank Bpost Bank
+  swift: BPOTBEB1XXX
+  swift8: BPOTBEB1
+  branch_name: Head Office
+  branch_address: Anspachlaan 1 1000 Brussels
+  branch_code: XXX
+  city: Brussels
+  country: Belgium
+- name: Branquart Costermans Securities Sa
+  swift: BCSEBEB1XXX
+  swift8: BCSEBEB1
+  branch_name: Head Office
+  branch_address: Place Du Champ De Mars 2 1050 Brussels
+  branch_code: XXX
+  city: Brussels
+  country: Belgium
+- name: Brugs Leenkrediet Bvba
+  swift: BRLEBEB1XXX
+  swift8: BRLEBEB1
+  branch_name: Head Office
+  branch_address: Gistelsteenweg 102 1000 Brussels
+  branch_code: XXX
+  city: Brussels
+  country: Belgium
+- name: Brussels Exchanges Clearing House Nv
+  swift: XBFOBEB1XXX
+  swift8: XBFOBEB1
+  branch_name: Head Office
+  branch_address: Beursplein 1000 Brussels
+  branch_code: XXX
+  city: Brussels
+  country: Belgium
+- name: Caisse D'epargne De La Ville De Nivelles
+  swift: CEVNBEB1XXX
+  swift8: CEVNBEB1
+  branch_name: Head Office
+  branch_address: Hotel De Ville 1400 Nivelles
+  branch_code: XXX
+  city: Nivelles
+  country: Belgium
+- name: Caisse D'epargne La Famille
+  swift: FCECBEB1XXX
+  swift8: FCECBEB1
+  branch_name: Head Office
+  branch_address: Rue Des Chartreux 45 1000 Brussels
+  branch_code: XXX
+  city: Brussels
+  country: Belgium
+- name: Capital And Finance Asset Management Sa
+  swift: CFENBEB1XXX
+  swift8: CFENBEB1
+  branch_name: Head Office
+  branch_address: Rue Du Pinson, 36 1170 Brussels
+  branch_code: XXX
+  city: Brussels
+  country: Belgium
+- name: Cardif Leven
+  swift: CAFVBEB1XXX
+  swift8: CAFVBEB1
+  branch_name: Head Office
+  branch_address: Chaussee De Mons, 1424 1070 Brussels
+  branch_code: XXX
+  city: Brussels
+  country: Belgium
+- name: Carrefour Finance Sa
+  swift: CAFIBEBBXXX
+  swift8: CAFIBEBB
+  branch_name: Head Office
+  branch_address: 19 Avenue Emile De Mot 1000 Brussels
+  branch_code: XXX
+  city: Brussels
+  country: Belgium
+- name: Caterpillar Finance France Sa
+  swift: CAFFBEB1XXX
+  swift8: CAFFBEB1
+  branch_name: Succursale Belge
+  branch_address: Place St. Lambert 14 1200 Brussels
+  branch_code: XXX
+  city: Brussels
+  country: Belgium
+- name: Cels Securities N.v.
+  swift: GUSEBEB1XXX
+  swift8: GUSEBEB1
+  branch_name: Head Office
+  branch_address: Pantheonlaan 1 1000 Brussels
+  branch_code: XXX
+  city: Brussels
+  country: Belgium
+- name: Centea
+  swift: HSAABE21XXX
+  swift8: HSAABE21
+  branch_name: Head Office
+  branch_address: Mechelsesteenweg 176-178 2018 Antwerpen
+  branch_code: XXX
+  city: Antwerpen
+  country: Belgium
+- name: Centrale Kredietverlening
+  swift: CEKVBE81XXX
+  swift8: CEKVBE81
+  branch_name: Head Office
+  branch_address: Mannebeekstraat 33 8790 Waregem
+  branch_code: XXX
+  city: Waregem
+  country: Belgium
+- name: Centre For Exchange And Clearing
+  swift: BCSMBEB1STT
+  swift8: BCSMBEB1
+  branch_name: 1040 Brussels
+  branch_address: Febelfin 1040 Brussels
+  branch_code: STT
+  city: Brussels
+  country: Belgium
+- name: Centre For Exchange And Clearing
+  swift: BCSMBEB1XXX
+  swift8: BCSMBEB1
+  branch_name: Head Office
+  branch_address: Febelfin 1040 Brussels
+  branch_code: XXX
+  city: Brussels
+  country: Belgium
+- name: Century Investment
+  swift: CEIPBE21XXX
+  swift8: CEIPBE21
+  branch_name: Head Office
+  branch_address: Pelikaanstraat 22 2000 Antwerpen
+  branch_code: XXX
+  city: Antwerpen
+  country: Belgium
+- name: Choppinet Sprl
+  swift: CHOCBEB1XXX
+  swift8: CHOCBEB1
+  branch_name: Head Office
+  branch_address: Avenue Brugmann 157 1190 Brussels
+  branch_code: XXX
+  city: Brussels
+  country: Belgium
+- name: Clearnet Brussels Branch
+  swift: CLIQBEB1XXX
+  swift8: CLIQBEB1
+  branch_name: Head Office
+  branch_address: Beursplein 1000 Brussels
+  branch_code: XXX
+  city: Brussels
+  country: Belgium
+- name: Cm-cic Belgium
+  swift: CMCIBEB1BTB
+  swift8: CMCIBEB1
+  branch_name: Cm-Cic Banque Transatlantique
+  branch_address: Rue De Crayer 14 1000 Brussels
+  branch_code: BTB
+  city: Brussels
+  country: Belgium
+- name: Cm-cic Belgium
+  swift: CMCIBEB1SEC
+  swift8: CMCIBEB1
+  branch_name: Cm-Cic Securities Belgium
+  branch_address: Culliganlaan 1b 1831 Diegem
+  branch_code: SEC
+  city: Diegem
+  country: Belgium
+- name: Cm-cic Belgium
+  swift: CMCIBEB1XXX
+  swift8: CMCIBEB1
+  branch_name: Head Office
+  branch_address: Rue De Crayer 14 1000 Brussels
+  branch_code: XXX
+  city: Brussels
+  country: Belgium
+- name: Credibe Sa
+  swift: OCCHBEB1XXX
+  swift8: OCCHBEB1
+  branch_name: Head Office
+  branch_address: Rue De La Loi 42 1040 Brussels
+  branch_code: XXX
+  city: Brussels
+  country: Belgium
+- name: Credimo N.v.
+  swift: CREOBEB1XXX
+  swift8: CREOBEB1
+  branch_name: Head Office
+  branch_address: Weversstraat 6-10 1730 Asse
+  branch_code: XXX
+  city: Asse
+  country: Belgium
+- name: Credishop S.a.
+  swift: CREPBEB1XXX
+  swift8: CREPBEB1
+  branch_name: Head Office
+  branch_address: Rue De Hornes 4 1000 Brussels
+  branch_code: XXX
+  city: Brussels
+  country: Belgium
+- name: Damien Courtens, Sprl
+  swift: DAMCBEB1XXX
+  swift8: DAMCBEB1
+  branch_name: Head Office
+  branch_address: Avenue P. Deschanel 130 Boite 2 1030 Brussels
+  branch_code: XXX
+  city: Brussels
+  country: Belgium
+- name: Davenport Vermogensbeheer Nv
+  swift: DAVRBE81XXX
+  swift8: DAVRBE81
+  branch_name: Head Office
+  branch_address: Izegemsestraat 135 8800 Roeselare
+  branch_code: XXX
+  city: Roeselare
+  country: Belgium
+- name: De Boodt Et Cie, Gcv
+  swift: DBOOBEB1XXX
+  swift8: DBOOBEB1
+  branch_name: Head Office
+  branch_address: Belliardstraat 3 1040 Brussels
+  branch_code: XXX
+  city: Brussels
+  country: Belgium
+- name: De Buck En Cie N.v.
+  swift: DBUCBE91XXX
+  swift8: DBUCBE91
+  branch_name: Head Office
+  branch_address: Kouter 31 9000 Gent
+  branch_code: XXX
+  city: Gent
+  country: Belgium
+- name: De Moffarts, Rolin Jacquemyns S.a.
+  swift: MOFFBEB1XXX
+  swift8: MOFFBEB1
+  branch_name: Head Office
+  branch_address: Boulevard Anspach 111, Boite 3 1000 Brussels
+  branch_code: XXX
+  city: Brussels
+  country: Belgium
+- name: De Mulder
+  swift: DMULBEB1XXX
+  swift8: DMULBEB1
+  branch_name: Head Office
+  branch_address: Heilaarstraat 59 1300 Beerse
+  branch_code: XXX
+  city: Beerse
+  country: Belgium
+- name: De Posson Et Cie
+  swift: POSSBEB1XXX
+  swift8: POSSBEB1
+  branch_name: Head Office
+  branch_address: World Trade Center 1000 Brussels
+  branch_code: XXX
+  city: Brussels
+  country: Belgium
+- name: Declercq And Co G.c.v. Beursvennootschap
+  swift: DEGBBEB1XXX
+  swift8: DEGBBEB1
+  branch_name: Head Office
+  branch_address: Justitiestraat 27, Bus 6 2018 Antwerpen
+  branch_code: XXX
+  city: Antwerpen
+  country: Belgium
+- name: Degroof Securities, S.a.
+  swift: DEGFBEB1XXX
+  swift8: DEGFBEB1
+  branch_name: Head Office
+  branch_address: Rue Guimard 18 1040 Brussels
+  branch_code: XXX
+  city: Brussels
+  country: Belgium
+- name: Delande Et Cie Sa
+  swift: DELNBEB1XXX
+  swift8: DELNBEB1
+  branch_name: Head Office
+  branch_address: Rue Montoyer 31 1000 Brussels
+  branch_code: XXX
+  city: Brussels
+  country: Belgium
+- name: Delta Beursvennootschap, Bvba
+  swift: BONVBE91XXX
+  swift8: BONVBE91
+  branch_name: Head Office
+  branch_address: Kouter 1/5 9000 Gent
+  branch_code: XXX
+  city: Gent
+  country: Belgium
+- name: Deutsche Bank A.g.
+  swift: DEUTBEBEUNP
+  swift8: DEUTBEBE
+  branch_name: Brussels
+  branch_address: Brussels
+  branch_code: UNP
+  city: Brussels
+  country: Belgium
+- name: Dexia Securities Belgium Sa
+  swift: BASCBEB1XXX
+  swift8: BASCBEB1
+  branch_name: Head Office
+  branch_address: Boulevard Du Roi Albert Ii 30 B55 1040 Brussels
+  branch_code: XXX
+  city: Brussels
+  country: Belgium
+- name: Dierickx Leys En Cie Effectenbank Nv
+  swift: DIERBE21XXX
+  swift8: DIERBE21
+  branch_name: Head Office
+  branch_address: Kasteelpleinstraat 44 2000 Antwerpen
+  branch_code: XXX
+  city: Antwerpen
+  country: Belgium
+- name: Driege En Co, Bvba
+  swift: DRIEBE91XXX
+  swift8: DRIEBE91
+  branch_name: Head Office
+  branch_address: Sint Baafsplein 12 9000 Gent
+  branch_code: XXX
+  city: Gent
+  country: Belgium
+- name: Easdaq S.a.
+  swift: XEASBEB1XXX
+  swift8: XEASBEB1
+  branch_name: Head Office
+  branch_address: Henri Mausstraat 2 1000 Brussels
+  branch_code: XXX
+  city: Brussels
+  country: Belgium
+- name: Electrabel Sa
+  swift: ELERBEB1XXX
+  swift8: ELERBEB1
+  branch_name: Head Office
+  branch_address: Blvd Regent 8 1000 Brussels
+  branch_code: XXX
+  city: Brussels
+  country: Belgium
+- name: Energy Europe Invest
+  swift: ENEIBEB1XXX
+  swift8: ENEIBEB1
+  branch_name: Head Office
+  branch_address: Place Du Trone 1 1000 Brussels
+  branch_code: XXX
+  city: Brussels
+  country: Belgium
+- name: Es Securities
+  swift: SECUBEB1XXX
+  swift8: SECUBEB1
+  branch_name: Head Office
+  branch_address: Rue De La Montagne 38 1000 Brussels
+  branch_code: XXX
+  city: Brussels
+  country: Belgium
+- name: Etex S.a.
+  swift: ETEXBEBBXXX
+  swift8: ETEXBEBB
+  branch_name: Head Office
+  branch_address: Avenue De Tervueren 361 Brussels
+  branch_code: XXX
+  city: Brussels
+  country: Belgium
+- name: Ethias Sa
+  swift: NAETBE21XXX
+  swift8: NAETBE21
+  branch_name: Head Office
+  branch_address: Rue Des Croisiers 24 4000 Liege
+  branch_code: XXX
+  city: Liege
+  country: Belgium
+- name: Ethias Sa
+  swift: NAETBE22XXX
+  swift8: NAETBE22
+  branch_name: Head Office
+  branch_address: Rue Des Croisiers 24 4000 Liege
+  branch_code: XXX
+  city: Liege
+  country: Belgium
+- name: Euroclear Sa
+  swift: TRGGBEB1XXX
+  swift8: TRGGBEB1
+  branch_name: Head Office
+  branch_address: Boulevard Du Roi Albert Ii 1 1210 Brussels
+  branch_code: XXX
+  city: Brussels
+  country: Belgium
+- name: Euronext Brussels Nv
+  swift: ENXBBEB1XXX
+  swift8: ENXBBEB1
+  branch_name: Head Office
+  branch_address: Palais De La Bourse 1000 Brussels
+  branch_code: XXX
+  city: Brussels
+  country: Belgium
+- name: F. Delcour, A. Vancrayebeck Et F. Sacre, Sprl
+  swift: DEVSBE41XXX
+  swift8: DEVSBE41
+  branch_name: Head Office
+  branch_address: Rue De Bex 11 4000 Liege
+  branch_code: XXX
+  city: Liege
+  country: Belgium
+- name: F. Van Lanschot Bankiers N.v. Belgisch Bijkantoor
+  swift: FVLBBE2EXXX
+  swift8: FVLBBE2E
+  branch_name: No branch name
+  branch_address: No branch address
+  branch_code: XXX
+  city: Antwerpen
+  country: Belgium
+- name: Finacor
+  swift: FINRBEB1XXX
+  swift8: FINRBEB1
+  branch_name: Head Office
+  branch_address: Rue Des Colonies 52 1000 Brussels
+  branch_code: XXX
+  city: Brussels
+  country: Belgium
+- name: Finpartner
+  swift: FNNPBE21XXX
+  swift8: FNNPBE21
+  branch_name: Head Office
+  branch_address: Langveld 6 Bus 41 2600 Berchem
+  branch_code: XXX
+  city: Berchem
+  country: Belgium
+- name: Ford Credit Europe Plc
+  swift: FORDBE21XXX
+  swift8: FORDBE21
+  branch_name: Head Office
+  branch_address: Noorderlaaan 600 2030 Antwerpen
+  branch_code: XXX
+  city: Antwerpen
+  country: Belgium
+- name: Fortuneo Belgium
+  swift: FTNOBEB1XXX
+  swift8: FTNOBEB1
+  branch_name: Head Office
+  branch_address: Kolonienstraat 11 Rue Des 1000 Brussels
+  branch_code: XXX
+  city: Brussels
+  country: Belgium
+- name: Fps Health
+  swift: FPHEBEB1XXX
+  swift8: FPHEBEB1
+  branch_name: Head Office
+  branch_address: Place Victor Horta, 40 1060 Brussels
+  branch_code: XXX
+  city: Brussels
+  country: Belgium
+- name: Fuji Bank, Ltd., The, Brussels Branch
+  swift: FUJIBEB1XXX
+  swift8: FUJIBEB1
+  branch_name: Head Office
+  branch_address: Rue Guimard 6-8 1040 Brussels
+  branch_code: XXX
+  city: Brussels
+  country: Belgium
+- name: Gestrabel, Sprl
+  swift: GEBLBEB1XXX
+  swift8: GEBLBEB1
+  branch_name: Head Office
+  branch_address: Galerie Ravenstein 78 1000 Brussels
+  branch_code: XXX
+  city: Brussels
+  country: Belgium
+- name: Goethals En Co, Gcv
+  swift: GOETBE91XXX
+  swift8: GOETBE91
+  branch_name: Head Office
+  branch_address: Priester Daensplein 2 9300 Aalst
+  branch_code: XXX
+  city: Aalst
+  country: Belgium
+- name: Goffin-lannoy Et Cie, S.a.
+  swift: GOLABEB1XXX
+  swift8: GOLABEB1
+  branch_name: Head Office
+  branch_address: Rue Royale 164 1000 Brussels
+  branch_code: XXX
+  city: Brussels
+  country: Belgium
+- name: Group S-sociaal Secretariaat V.z.w
+  swift: GSSSBEB1XXX
+  swift8: GSSSBEB1
+  branch_name: No branch name
+  branch_address: No branch address
+  branch_code: XXX
+  city: Brussels
+  country: Belgium
+- name: Hewlett-packard Belgium S.p.r.l./ B.v.b.a.
+  swift: HEBBBEB1XXX
+  swift8: HEBBBEB1
+  branch_name: Head Office
+  branch_address: 1 Luchtschipstraat 1140 Brussels
+  branch_code: XXX
+  city: Brussels
+  country: Belgium
+- name: Hewlett-packard Coordination Center C.v.b.a./s.c.r.l.
+  swift: HCCCBEB1XXX
+  swift8: HCCCBEB1
+  branch_name: Head Office
+  branch_address: 100 Boulevard De La Woluwe 1200 Brussels
+  branch_code: XXX
+  city: Brussels
+  country: Belgium
+- name: Houlihan Rovers S.a.
+  swift: HNRSBEB1XXX
+  swift8: HNRSBEB1
+  branch_name: Head Office
+  branch_address: Chaussee De La Hulpe 166 1170 Brussels
+  branch_code: XXX
+  city: Brussels
+  country: Belgium
+- name: Hulpkas Voor Volkskrediet N.v.
+  swift: HUVVBE91XXX
+  swift8: HUVVBE91
+  branch_name: Head Office
+  branch_address: Leo De Bethunelaan 98 9300 Aalst
+  branch_code: XXX
+  city: Aalst
+  country: Belgium
+- name: Hypotheek-, Beleggingsmaatschappij En Spaarbank
+  swift: HBMSBE21XXX
+  swift8: HBMSBE21
+  branch_name: Head Office
+  branch_address: Kipdorp 21 2000 Antwerpen
+  branch_code: XXX
+  city: Antwerpen
+  country: Belgium
+- name: Hypotheekmaatschappij De Beide Vlaanderen Nv
+  swift: HYBVBE81XXX
+  swift8: HYBVBE81
+  branch_name: Head Office
+  branch_address: Wilgenlaan 39 8110 Kortemark
+  branch_code: XXX
+  city: Kortemark
+  country: Belgium
+- name: Ing Bank Nv Belgian Branch
+  swift: INGBBEB1XXX
+  swift8: INGBBEB1
+  branch_name: Head Office
+  branch_address: Avenue Marnix 24 1000 Brussels
+  branch_code: XXX
+  city: Brussels
+  country: Belgium
+- name: Iris Securities, Ste. Coop.
+  swift: IRISBEB1XXX
+  swift8: IRISBEB1
+  branch_name: Head Office
+  branch_address: Rue De Ligne 47 1000 Brussels
+  branch_code: XXX
+  city: Brussels
+  country: Belgium
+- name: Isabel Nv
+  swift: ISAZBEB1XXX
+  swift8: ISAZBEB1
+  branch_name: Head Office
+  branch_address: Keizerinlaan 1000 Brussels
+  branch_code: XXX
+  city: Brussels
+  country: Belgium
+- name: J. Quatannens En Co Nv
+  swift: QUATBE81XXX
+  swift8: QUATBE81
+  branch_name: Head Office
+  branch_address: Wortegemsesteenweg 9 8570 Anzegem
+  branch_code: XXX
+  city: Anzegem
+  country: Belgium
+- name: Kbc Lease Holding Nv
+  swift: FDCOBEB1XXX
+  swift8: FDCOBEB1
+  branch_name: Head Office
+  branch_address: Parijsstraat 52 1000 Leuven
+  branch_code: XXX
+  city: Leuven
+  country: Belgium
+- name: Kempen En Co. Belgie
+  swift: KECOBE21XXX
+  swift8: KECOBE21
+  branch_name: Head Office
+  branch_address: Frankrijklei 103 2000 Antwerpen
+  branch_code: XXX
+  city: Antwerpen
+  country: Belgium
+- name: Krefima N.v./s.a.
+  swift: KREFBE21XXX
+  swift8: KREFBE21
+  branch_name: Head Office
+  branch_address: Mechelsesteenweg 150 2018 Antwerpen
+  branch_code: XXX
+  city: Antwerpen
+  country: Belgium
+- name: La Cambre Funds Bruxelles
+  swift: CAFXBEB1XXX
+  swift8: CAFXBEB1
+  branch_name: Head Office
+  branch_address: Boulevard De La Cambre 28-30 1000 Brussels
+  branch_code: XXX
+  city: Brussels
+  country: Belgium
+- name: Lawaisse Philippe En Co, Gcv
+  swift: LWAIBE81XXX
+  swift8: LWAIBE81
+  branch_name: Head Office
+  branch_address: St. Jorisstraat 6 8500 Kortrijk
+  branch_code: XXX
+  city: Kortrijk
+  country: Belgium
+- name: Lazard Freres Gestion Belgique
+  swift: LFGBBEB1XXX
+  swift8: LFGBBEB1
+  branch_name: Head Office
+  branch_address: Blue Tower - Avenue Louise 26 1050 Brussels
+  branch_code: XXX
+  city: Brussels
+  country: Belgium
+- name: Ledent En Co.
+  swift: LDENBE81XXX
+  swift8: LDENBE81
+  branch_name: Head Office
+  branch_address: Leopoldlaaan 109 8300 Knokke-Heist
+  branch_code: XXX
+  city: Knokke-Heist
+  country: Belgium
+- name: Leen-en Depositokas
+  swift: LEDSBE81XXX
+  swift8: LEDSBE81
+  branch_name: Head Office
+  branch_address: Cartonstraat 8/10 8900 Ieper
+  branch_code: XXX
+  city: Ieper
+  country: Belgium
+- name: Leleux Associated Brokers Sa
+  swift: JLECBE71XXX
+  swift8: JLECBE71
+  branch_name: Head Office
+  branch_address: Rue Du Bois Sauvage 17 7060 Soignies
+  branch_code: XXX
+  city: Soignies
+  country: Belgium
+- name: Leleux Partners Sa
+  swift: LEPSBEB1XXX
+  swift8: LEPSBEB1
+  branch_name: Head Office
+  branch_address: Rue Royale 97, Boite 7 1000 Brussels
+  branch_code: XXX
+  city: Brussels
+  country: Belgium
+- name: Leo Stevens En Cie Bvba
+  swift: LSTVBE21XXX
+  swift8: LSTVBE21
+  branch_name: Head Office
+  branch_address: Schildersstraat 33 2018 Antwerpen
+  branch_code: XXX
+  city: Antwerpen
+  country: Belgium
+- name: Liekens R.
+  swift: LIEKBE21XXX
+  swift8: LIEKBE21
+  branch_name: Head Office
+  branch_address: Frankrijklei 154 2000 Antwerpen
+  branch_code: XXX
+  city: Antwerpen
+  country: Belgium
+- name: Loge Et Associes, Sprl
+  swift: LOGEBEB1XXX
+  swift8: LOGEBEB1
+  branch_name: Head Office
+  branch_address: Chaussee De Waterloo 1149-1151 1180 Brussels
+  branch_code: XXX
+  city: Brussels
+  country: Belgium
+- name: Loginvest Sa
+  swift: LOGIBEB1XXX
+  swift8: LOGIBEB1
+  branch_name: Head Office
+  branch_address: Boulevard Du Souverain 348 1160 Brussels
+  branch_code: XXX
+  city: Brussels
+  country: Belgium
+- name: Mapfre Re
+  swift: MPPFBEB1XXX
+  swift8: MPPFBEB1
+  branch_name: Head Office
+  branch_address: Rue De Treves 45 1040 Brussels
+  branch_code: XXX
+  city: Brussels
+  country: Belgium
+- name: Medirect Bank
+  swift: MBWMBEBBXXX
+  swift8: MBWMBEBB
+  branch_name: Head Office
+  branch_address: 66 Boulevard De L Imperatrice 1000 Brussels
+  branch_code: XXX
+  city: Brussels
+  country: Belgium
+- name: Melice Et Cie
+  swift: MELCBEB1XXX
+  swift8: MELCBEB1
+  branch_name: Head Office
+  branch_address: Rue Marche Aux Herbes 105 Boite 8 1000 Brussels
+  branch_code: XXX
+  city: Brussels
+  country: Belgium
+- name: Melis En Co, Vof
+  swift: MELSBE91XXX
+  swift8: MELSBE91
+  branch_name: Head Office
+  branch_address: Kerkplein 13 9120 Melsele
+  branch_code: XXX
+  city: Melsele
+  country: Belgium
+- name: Merit Capital
+  swift: MEPTBE21XXX
+  swift8: MEPTBE21
+  branch_name: Head Office
+  branch_address: Roderveldlaan 5 2600 Berchem
+  branch_code: XXX
+  city: Berchem
+  country: Belgium
+- name: Michel Goffin Et Cie S.a.
+  swift: MIGOBEB1XXX
+  swift8: MIGOBEB1
+  branch_name: Head Office
+  branch_address: Avenue De Roodebeek 89 1030 Brussels
+  branch_code: XXX
+  city: Brussels
+  country: Belgium
+- name: Mignon Hanart Declerck Sprl
+  swift: MDELBEB1XXX
+  swift8: MDELBEB1
+  branch_name: Head Office
+  branch_address: Place Du Champ De Mars 2 Bte 8 1050 Brussels
+  branch_code: XXX
+  city: Brussels
+  country: Belgium
+- name: Mkg-bank Belgien (branch Of Mce Bank Gmbh
+  swift: MBBMBE21XXX
+  swift8: MBBMBE21
+  branch_name: Head Office
+  branch_address: Prins Boudewijnlaan 30 2550 Kontich
+  branch_code: XXX
+  city: Kontich
+  country: Belgium
+- name: Monabanq Societe Anonyme
+  swift: COVEBE71XXX
+  swift8: COVEBE71
+  branch_name: Head Office
+  branch_address: Rue Du Glategnies 4 7500 Tournai
+  branch_code: XXX
+  city: Tournai
+  country: Belgium
+- name: Munters Roger Et Cie
+  swift: MUROBEB1XXX
+  swift8: MUROBEB1
+  branch_name: Head Office
+  branch_address: Rue Du Midi 97 1000 Brussels
+  branch_code: XXX
+  city: Brussels
+  country: Belgium
+- name: N.v. Creditmar
+  swift: CRARBE21XXX
+  swift8: CRARBE21
+  branch_name: Maatschappelijke Zetel
+  branch_address: Verviersstraat 4 2000 Antwerpen
+  branch_code: XXX
+  city: Antwerpen
+  country: Belgium
+- name: Nateus Nv
+  swift: NANLBE21XXX
+  swift8: NANLBE21
+  branch_name: Head Office
+  branch_address: Frankrijklei 79 2000 Antwerpen
+  branch_code: XXX
+  city: Antwerpen
+  country: Belgium
+- name: Nateus Nv
+  swift: NANLBE22XXX
+  swift8: NANLBE22
+  branch_name: Head Office
+  branch_address: Frankrijklei 79 2000 Antwerpen
+  branch_code: XXX
+  city: Antwerpen
+  country: Belgium
+- name: Nedee And Co C.v.
+  swift: NEDEBEB1XXX
+  swift8: NEDEBEB1
+  branch_name: Head Office
+  branch_address: Koningsstraat 146 1000 Brussels
+  branch_code: XXX
+  city: Brussels
+  country: Belgium
+- name: Njr Investment
+  swift: NJRIBEB1XXX
+  swift8: NJRIBEB1
+  branch_name: Head Office
+  branch_address: 149/24 Avenue Louise 1050 Brussels
+  branch_code: XXX
+  city: Brussels
+  country: Belgium
+- name: Omega Pharma Capital Nv
+  swift: OMEGBE9AXXX
+  swift8: OMEGBE9A
+  branch_name: Head Office
+  branch_address: Venecoweg 26 9810 Nazareth
+  branch_code: XXX
+  city: Nazareth
+  country: Belgium
+- name: Option Trading Company Sa/nv
+  swift: OTCSBEB1XXX
+  swift8: OTCSBEB1
+  branch_name: Head Office
+  branch_address: Regentschapstraat 43 1000 Brussels
+  branch_code: XXX
+  city: Brussels
+  country: Belgium
+- name: Orbit Private Asset Management Sarl
+  swift: OPAABE21XXX
+  swift8: OPAABE21
+  branch_name: Head Office
+  branch_address: Louiza-Marialei 8 2018 Antwerpen
+  branch_code: XXX
+  city: Antwerpen
+  country: Belgium
+- name: P And V Assurances
+  swift: ASUUBEB1XXX
+  swift8: ASUUBEB1
+  branch_name: Head Office
+  branch_address: Rue Royale 151 1210 Brussels
+  branch_code: XXX
+  city: Brussels
+  country: Belgium
+- name: P. Spriet En Co, Bvba
+  swift: SPRIBE21XXX
+  swift8: SPRIBE21
+  branch_name: Head Office
+  branch_address: Barones Ludwina De Borrekenslaan 79 2000 Antwerpen
+  branch_code: XXX
+  city: Antwerpen
+  country: Belgium
+- name: P.e. Securities, Sprl
+  swift: PESCBEB1XXX
+  swift8: PESCBEB1
+  branch_name: Head Office
+  branch_address: Rue Des Comediens 16-22 1000 Brussels
+  branch_code: XXX
+  city: Brussels
+  country: Belgium
+- name: Ph. Et Y. De Coster Sprl
+  swift: PYDEBEB1XXX
+  swift8: PYDEBEB1
+  branch_name: Head Office
+  branch_address: Galerie Du Centre 1000 Brussels
+  branch_code: XXX
+  city: Brussels
+  country: Belgium
+- name: Pire Et Cie Sa
+  swift: PIREBE61XXX
+  swift8: PIREBE61
+  branch_name: Head Office
+  branch_address: Rue Du College 24 6000 Charleroi
+  branch_code: XXX
+  city: Charleroi
+  country: Belgium
+- name: Procapital Belgium
+  swift: PBELBEB1XXX
+  swift8: PBELBEB1
+  branch_name: Head Office
+  branch_address: 11 Rue Des Colonies 1000 Brussels
+  branch_code: XXX
+  city: Brussels
+  country: Belgium
+- name: R. Havaux Et Cie, Scs
+  swift: HAVABEB1XXX
+  swift8: HAVABEB1
+  branch_name: Head Office
+  branch_address: Rue De Namur 39-41 1000 Brussels
+  branch_code: XXX
+  city: Brussels
+  country: Belgium
+- name: R.b. Et F. Ropsy Et Cie, Sprl
+  swift: ROPSBEB1XXX
+  swift8: ROPSBEB1
+  branch_name: Head Office
+  branch_address: Avenue W. Churchill 137 Boite 26 1180 Brussels
+  branch_code: XXX
+  city: Brussels
+  country: Belgium
+- name: Rabobank International Antwerp Branch-corporate Bank
+  swift: RABOBE23XXX
+  swift8: RABOBE23
+  branch_name: Head Office
+  branch_address: Rubens 2000 Blok D 2600 Berchem
+  branch_code: XXX
+  city: Berchem
+  country: Belgium
+- name: Rampelbergs Et Cie Sa
+  swift: RMPLBEB1XXX
+  swift8: RMPLBEB1
+  branch_name: Head Office
+  branch_address: Avenue De Tervueren 72 1150 Brussels
+  branch_code: XXX
+  city: Brussels
+  country: Belgium
+- name: Remy Freres Et Fils S.a.
+  swift: REFFBEB1XXX
+  swift8: REFFBEB1
+  branch_name: Head Office
+  branch_address: Rue Du Moniteur 8 1000 Brussels
+  branch_code: XXX
+  city: Brussels
+  country: Belgium
+- name: Reyers Beauvois De Villenfagne Sa
+  swift: RETSBEB1XXX
+  swift8: RETSBEB1
+  branch_name: Head Office
+  branch_address: Rue Darlon 39-41 Bte 10 1000 Brussels
+  branch_code: XXX
+  city: Brussels
+  country: Belgium
+- name: Riga Et Cie, S.a.
+  swift: RIGABEB1XXX
+  swift8: RIGABEB1
+  branch_name: Head Office
+  branch_address: Rue De Nivelles 14 1300 Wavre
+  branch_code: XXX
+  city: Wavre
+  country: Belgium
+- name: Robeco
+  swift: RBCOBEB1XXX
+  swift8: RBCOBEB1
+  branch_name: Head Office
+  branch_address: Avenue Louise 81, Bte 6 1050 Brussels
+  branch_code: XXX
+  city: Brussels
+  country: Belgium
+- name: Ronflette Et Cie, Sprl
+  swift: RONFBE61XXX
+  swift8: RONFBE61
+  branch_name: Head Office
+  branch_address: Boulevard Devreux 3 6000 Charleroi
+  branch_code: XXX
+  city: Charleroi
+  country: Belgium
+- name: Royal Park Investments
+  swift: RPINBEBBXXX
+  swift8: RPINBEBB
+  branch_name: Head Office
+  branch_address: Rue Van Orley 15 1000 Brussels
+  branch_code: XXX
+  city: Brussels
+  country: Belgium
+- name: Sagip S.a. (s.a. De Gestion, D'investissement Et De Participation
+  swift: BNPABEBSXXX
+  swift8: BNPABEBS
+  branch_name: Head Office
+  branch_address: Rue Montagne Du Parc 3 1000 Brussels
+  branch_code: XXX
+  city: Brussels
+  country: Belgium
+- name: Samsung Electronics Benelux Belgium
+  swift: SECTBEB14B2
+  swift8: SECTBEB1
+  branch_name: Sebn-B
+  branch_address: Medialaan 50 1800 Vilvoorde
+  branch_code: 4B2
+  city: Vilvoorde
+  country: Belgium
+- name: Samsung Electronics Benelux Belgium
+  swift: SECTBEB1XXX
+  swift8: SECTBEB1
+  branch_name: Head Office
+  branch_address: Medialaan 50 1800 Vilvoorde
+  branch_code: XXX
+  city: Vilvoorde
+  country: Belgium
+- name: Saxo Bank Belgique
+  swift: SAXBBEB1XXX
+  swift8: SAXBBEB1
+  branch_name: No branch name
+  branch_address: No branch address
+  branch_code: XXX
+  city: Brussels
+  country: Belgium
+- name: Schretlen And Co. N.v.
+  swift: SCRTBE21XXX
+  swift8: SCRTBE21
+  branch_name: Head Office
+  branch_address: Uitbreiding Straat 180 2610 Antwerpen
+  branch_code: XXX
+  city: Antwerpen
+  country: Belgium
+- name: Sibeka, Societe D'entreprise Et D'investissements Sa
+  swift: SSDDBEB1XXX
+  swift8: SSDDBEB1
+  branch_name: Head Office
+  branch_address: Rue Du Marais 31 1000 Brussels
+  branch_code: XXX
+  city: Brussels
+  country: Belgium
+- name: Sirius International Insurance Corp
+  swift: SIIIBE41XXX
+  swift8: SIIIBE41
+  branch_name: Head Office
+  branch_address: Mont Saint Martin 62 B/2 4000 Liege
+  branch_code: XXX
+  city: Liege
+  country: Belgium
+- name: Societe Financiere Et De Gestion Texaf Sa
+  swift: TSFGBEB1XXX
+  swift8: TSFGBEB1
+  branch_name: Head Office
+  branch_address: Boulevard General Jacques 26 1000 Brussels
+  branch_code: XXX
+  city: Brussels
+  country: Belgium
+- name: Societe Financiere Et Fonciere
+  swift: SOFFBEB1XXX
+  swift8: SOFFBEB1
+  branch_name: Head Office
+  branch_address: Brussels
+  branch_code: XXX
+  city: Brussels
+  country: Belgium
+- name: Societe Financiere G.p. Philippson Et Co Sa
+  swift: SOFPBEB1XXX
+  swift8: SOFPBEB1
+  branch_name: Head Office
+  branch_address: Avenue Louise 126 1000 Brussels
+  branch_code: XXX
+  city: Brussels
+  country: Belgium
+- name: Sofiholding Sa
+  swift: SOFIBEB1XXX
+  swift8: SOFIBEB1
+  branch_name: Head Office
+  branch_address: Rue De Laeken 35 1160 Brussels
+  branch_code: XXX
+  city: Brussels
+  country: Belgium
+- name: State Street Bank Europe Ltd.
+  swift: SBOSBEB1XXX
+  swift8: SBOSBEB1
+  branch_name: Head Office
+  branch_address: Chaussee De Wavre 1789 Brussels
+  branch_code: XXX
+  city: Brussels
+  country: Belgium
+- name: Stora Finacial Services (brussels
+  swift: SFSRBEB1XXX
+  swift8: SFSRBEB1
+  branch_name: Head Office
+  branch_address: 480 Avenue Louise 1050 Brussels
+  branch_code: XXX
+  city: Brussels
+  country: Belgium
+- name: Succursale Credit Foncier De France
+  swift: CFFRBEB1XXX
+  swift8: CFFRBEB1
+  branch_name: Head Office
+  branch_address: Avenue Louise 65, Boite 11 1050 Brussels
+  branch_code: XXX
+  city: Brussels
+  country: Belgium
+- name: Tessenderlo Chemie Nv
+  swift: MMMVBEBBXXX
+  swift8: MMMVBEBB
+  branch_name: Head Office
+  branch_address: Troonstraat 130 1050 Brussels
+  branch_code: XXX
+  city: Brussels
+  country: Belgium
+- name: Thibaut Luc En Co Financiers Nw
+  swift: THLFBE21XXX
+  swift8: THLFBE21
+  branch_name: Head Office
+  branch_address: Boomsesteenweg 510a 2000 Antwerpen
+  branch_code: XXX
+  city: Antwerpen
+  country: Belgium
+- name: Thieren En Co, Veg
+  swift: THIEBE21XXX
+  swift8: THIEBE21
+  branch_name: Head Office
+  branch_address: Quellinstraat 34 2018 Antwerpen
+  branch_code: XXX
+  city: Antwerpen
+  country: Belgium
+- name: Trax Naamloze Vennootschap
+  swift: TRAXBE21XXX
+  swift8: TRAXBE21
+  branch_name: Head Office
+  branch_address: Zenith Business Park 2800 Mechelen
+  branch_code: XXX
+  city: Mechelen
+  country: Belgium
+- name: Tunz.com
+  swift: TUNZBEB1XXX
+  swift8: TUNZBEB1
+  branch_name: Head Office
+  branch_address: Waterloolaan 34 1000 Brussels
+  branch_code: XXX
+  city: Brussels
+  country: Belgium
+- name: U.b.b., Sc
+  swift: SUBCBEB1XXX
+  swift8: SUBCBEB1
+  branch_name: Head Office
+  branch_address: Rue Des Fripiers 15 1000 Brussels
+  branch_code: XXX
+  city: Brussels
+  country: Belgium
+- name: Upar
+  swift: UPANBE21XXX
+  swift8: UPANBE21
+  branch_name: Head Office
+  branch_address: Grotesteenweg 214 2600 Antwerpen
+  branch_code: XXX
+  city: Antwerpen
+  country: Belgium
+- name: V. Hermans, Sprl
+  swift: VHERBEB1XXX
+  swift8: VHERBEB1
+  branch_name: Head Office
+  branch_address: Avenue Van Crombrugghe 17 1150 Brussels
+  branch_code: XXX
+  city: Brussels
+  country: Belgium
+- name: Van Bauwel And Co
+  swift: BAUWBE21XXX
+  swift8: BAUWBE21
+  branch_name: Head Office
+  branch_address: Bisschopstraat 70 2060 Antwerpen
+  branch_code: XXX
+  city: Antwerpen
+  country: Belgium
+- name: Van De Put En Co, Effectenbank-banque De Titres
+  swift: VAPEBE21XXX
+  swift8: VAPEBE21
+  branch_name: Head Office
+  branch_address: Van Putlei 74-76 2018 Antwerpen
+  branch_code: XXX
+  city: Antwerpen
+  country: Belgium
+- name: Van Glabbeek En Co Bvba Beursvennootschap
+  swift: VGLABE21XXX
+  swift8: VGLABE21
+  branch_name: Head Office
+  branch_address: Kipdorp 43 2000 Antwerpen
+  branch_code: XXX
+  city: Antwerpen
+  country: Belgium
+- name: Van Goethem En Co
+  swift: VGOEBE21XXX
+  swift8: VGOEBE21
+  branch_name: Head Office
+  branch_address: Frankrijklei 154 2000 Antwerpen
+  branch_code: XXX
+  city: Antwerpen
+  country: Belgium
+- name: Van Goolen En Co Bvba
+  swift: VOBVBE21XXX
+  swift8: VOBVBE21
+  branch_name: Head Office
+  branch_address: Guldenberg 8 2000 Antwerpen
+  branch_code: XXX
+  city: Antwerpen
+  country: Belgium
+- name: Van Herreweghe, Sprl
+  swift: VHRRBEB1XXX
+  swift8: VHRRBEB1
+  branch_name: Head Office
+  branch_address: Avenue De Tervueren 50 1040 Brussels
+  branch_code: XXX
+  city: Brussels
+  country: Belgium
+- name: Vanherreweghe
+  swift: VANHBEB1XXX
+  swift8: VANHBEB1
+  branch_name: Head Office
+  branch_address: Avenue De Tervuren 50 1040 Brussels
+  branch_code: XXX
+  city: Brussels
+  country: Belgium
+- name: Vercammen En Co, Cgv
+  swift: VCAMBEB1XXX
+  swift8: VCAMBEB1
+  branch_name: Head Office
+  branch_address: Vredeberg 9 2500 Lier
+  branch_code: XXX
+  city: Lier
+  country: Belgium
+- name: Verhaegen, Goossens, De Roeck En Co Naamloze Vennootschap
+  swift: VEGRBE21XXX
+  swift8: VEGRBE21
+  branch_name: Head Office
+  branch_address: Mechelsesteenweg 33 2018 Antwerpen
+  branch_code: XXX
+  city: Antwerpen
+  country: Belgium
+- name: Viatour, De Cock, Hermesse Et Deblanc, S.a.
+  swift: VDHDBE41XXX
+  swift8: VDHDBE41
+  branch_name: Head Office
+  branch_address: Place X Neujean 19b 4000 Liege
+  branch_code: XXX
+  city: Liege
+  country: Belgium
+- name: Volkswagen Finance Belgium
+  swift: VOFBBEB1XXX
+  swift8: VOFBBEB1
+  branch_name: No branch name
+  branch_address: No branch address
+  branch_code: XXX
+  city: Brussels
+  country: Belgium
+- name: Wabco Financial Services Bvba
+  swift: WABCBEBBXXX
+  swift8: WABCBEBB
+  branch_name: No branch name
+  branch_address: No branch address
+  branch_code: XXX
+  city: Brussels
+  country: Belgium
+- name: Wabco Financial Services Bvba
+  swift: WABCBEB1XXX
+  swift8: WABCBEB1
+  branch_name: Head Office
+  branch_address: Chaussee De Wavre 1789 1160 Brussels
+  branch_code: XXX
+  city: Brussels
+  country: Belgium
+- name: Wal.agri Sa
+  swift: WALGBE61XXX
+  swift8: WALGBE61
+  branch_name: Head Office
+  branch_address: Rue De La Basse-Sambre 16 5140 Sombreffe
+  branch_code: XXX
+  city: Sombreffe
+  country: Belgium
+- name: Weekers Et Partners, S.a.
+  swift: WEEKBEB1XXX
+  swift8: WEEKBEB1
+  branch_name: Head Office
+  branch_address: Avenue F. Roosevelt 94 1050 Brussels
+  branch_code: XXX
+  city: Brussels
+  country: Belgium
+- name: Weghsteen En Driege Nv
+  swift: WBDWBE91XXX
+  swift8: WBDWBE91
+  branch_name: Head Office
+  branch_address: Sint Baafsplein 12 9000 Gent
+  branch_code: XXX
+  city: Gent
+  country: Belgium
+- name: Winterthur Assurances
+  swift: WIAUBEB1XXX
+  swift8: WIAUBEB1
+  branch_name: Head Office
+  branch_address: Avenue Des Arts 56 1000 Brussels
+  branch_code: XXX
+  city: Brussels
+  country: Belgium
+- name: Wpp Group Services Snc
+  swift: WPPGBEBBXXX
+  swift8: WPPGBEBB
+  branch_name: Head Office
+  branch_address: Rue Jules Cockx 8-10 1160 Brussels
+  branch_code: XXX
+  city: Brussels
+  country: Belgium
+- name: Wullaert En Co Sa
+  swift: YWULBEB1XXX
+  swift8: YWULBEB1
+  branch_name: Head Office
+  branch_address: Avenue Ernest Renan 9 1000 Brussels
+  branch_code: XXX
+  city: Brussels
+  country: Belgium
+- name: Zoetis Treasury Center Bvba Financial Department
+  swift: ZOETBEBBXXX
+  swift8: ZOETBEBB
+  branch_name: Head Office
+  branch_address: Mercuriusstraat 20 1930 Zaventem
+  branch_code: XXX
+  city: Zaventem
+  country: Belgium
+- name: Zoetis Treasury Center Bvba Financial Department
+  swift: ZOETBEB1XXX
+  swift8: ZOETBEB1
+  branch_name: Head Office
+  branch_address: Mercuriusstraat 20 1930 Zaventem
+  branch_code: XXX
+  city: Zaventem
+  country: Belgium

@@ -1,0 +1,387 @@
+---
+CD:
+- name: Caisse Centrale De Cooperation Economique
+  swift: CCNCCDK1XXX
+  swift8: CCNCCDK1
+  branch_name: No branch name
+  branch_address: No branch address
+  branch_code: XXX
+  city: Kinshasa
+  country: Congo
+- name: Access Bank Congo Dr
+  swift: ABNGCDKIXXX
+  swift8: ABNGCDKI
+  branch_name: No branch name
+  branch_address: No branch address
+  branch_code: XXX
+  city: Kinshasa
+  country: Congo
+- name: Advans Banque Congo
+  swift: ADVBCDKXXXX
+  swift8: ADVBCDKX
+  branch_name: No branch name
+  branch_address: No branch address
+  branch_code: XXX
+  city: Kinshasa
+  country: Congo
+- name: Afriland First Bank Congo Democratique
+  swift: AFCDCDKIXXX
+  swift8: AFCDCDKI
+  branch_name: No branch name
+  branch_address: No branch address
+  branch_code: XXX
+  city: Kinshasa
+  country: Congo
+- name: Bank Of Africa-rdc
+  swift: AFRICDKSXXX
+  swift8: AFRICDKS
+  branch_name: No branch name
+  branch_address: No branch address
+  branch_code: XXX
+  city: Kinshasa
+  country: Congo
+- name: Banque Centrale Du Congo
+  swift: BCCGCDKSXXX
+  swift8: BCCGCDKS
+  branch_name: No branch name
+  branch_address: No branch address
+  branch_code: XXX
+  city: Kinshasa
+  country: Congo
+- name: Banque Commerciale Du Congo
+  swift: BCDCCDKI03L
+  swift8: BCDCCDKI
+  branch_name: No branch name
+  branch_address: No branch address
+  branch_code: 03L
+  city: Lubumbashi
+  country: Congo
+- name: Banque Commerciale Du Congo
+  swift: BCDCCDKIXXX
+  swift8: BCDCCDKI
+  branch_name: No branch name
+  branch_address: No branch address
+  branch_code: XXX
+  city: Kinshasa
+  country: Congo
+- name: Banque Continentale Africaine (zaire) Sarl
+  swift: CLUXCDK1XXX
+  swift8: CLUXCDK1
+  branch_name: No branch name
+  branch_address: No branch address
+  branch_code: XXX
+  city: Kinshasa
+  country: Congo
+- name: Banque Du Credit Agricole 'b.c.a.'
+  swift: ACRBCDK1XXX
+  swift8: ACRBCDK1
+  branch_name: No branch name
+  branch_address: No branch address
+  branch_code: XXX
+  city: Kinshasa
+  country: Congo
+- name: Banque Internationale De Credit
+  swift: BICDCDKIXXX
+  swift8: BICDCDKI
+  branch_name: No branch name
+  branch_address: No branch address
+  branch_code: XXX
+  city: Kinshasa
+  country: Congo
+- name: Banque Internationale Pour L'afrique Au Congo (biac
+  swift: BIACCDKIXXX
+  swift8: BIACCDKI
+  branch_name: No branch name
+  branch_address: No branch address
+  branch_code: XXX
+  city: Kinshasa
+  country: Congo
+- name: Banque Zairoise Du Commerce Exterieur
+  swift: ZAEXCD31XXX
+  swift8: ZAEXCD31
+  branch_name: No branch name
+  branch_address: No branch address
+  branch_code: XXX
+  city: Lubumbashi
+  country: Congo
+- name: Bgfibank Rdc
+  swift: BGFICDKIXXX
+  swift8: BGFICDKI
+  branch_name: No branch name
+  branch_address: No branch address
+  branch_code: XXX
+  city: Kinshasa
+  country: Congo
+- name: Byblos Bank Rdc
+  swift: BYBACDKIXXX
+  swift8: BYBACDKI
+  branch_name: No branch name
+  branch_address: No branch address
+  branch_code: XXX
+  city: Kinshasa
+  country: Congo
+- name: Citibank Congo
+  swift: CITICDKXXXX
+  swift8: CITICDKX
+  branch_name: No branch name
+  branch_address: No branch address
+  branch_code: XXX
+  city: Kinshasa
+  country: Congo
+- name: Ecobank Republique Democratique Du Congo Sarl
+  swift: ECOCCDKIXXX
+  swift8: ECOCCDKI
+  branch_name: No branch name
+  branch_address: No branch address
+  branch_code: XXX
+  city: Kinshasa
+  country: Congo
+- name: First International Bank Drc
+  swift: FIBLCDKIXXX
+  swift8: FIBLCDKI
+  branch_name: No branch name
+  branch_address: No branch address
+  branch_code: XXX
+  city: Kinshasa
+  country: Congo
+- name: Fransabank (congo) Sarl
+  swift: FRZSCDK1XXX
+  swift8: FRZSCDK1
+  branch_name: No branch name
+  branch_address: No branch address
+  branch_code: XXX
+  city: Kinshasa
+  country: Congo
+- name: Nouvelle Banque De Kinshasa
+  swift: BKINCDK1XXX
+  swift8: BKINCDK1
+  branch_name: No branch name
+  branch_address: No branch address
+  branch_code: XXX
+  city: Kinshasa
+  country: Congo
+- name: Procredit Bank Congo Sarl
+  swift: PRCBCDKIXXX
+  swift8: PRCBCDKI
+  branch_name: No branch name
+  branch_address: No branch address
+  branch_code: XXX
+  city: Kinshasa
+  country: Congo
+- name: Rawbank
+  swift: RAWBCDKIXXX
+  swift8: RAWBCDKI
+  branch_name: No branch name
+  branch_address: No branch address
+  branch_code: XXX
+  city: Kinshasa
+  country: Congo
+- name: Sofibanque Sarl
+  swift: SFBXCDKIXXX
+  swift8: SFBXCDKI
+  branch_name: No branch name
+  branch_address: No branch address
+  branch_code: XXX
+  city: Kinshasa
+  country: Congo
+- name: Standard Bank Rdc Sarl
+  swift: SBICCDKXXXX
+  swift8: SBICCDKX
+  branch_name: No branch name
+  branch_address: No branch address
+  branch_code: XXX
+  city: Kinshasa
+  country: Congo
+- name: Switap
+  swift: SWTTCD31XXX
+  swift8: SWTTCD31
+  branch_name: No branch name
+  branch_address: No branch address
+  branch_code: XXX
+  city: Lubumbashi
+  country: Congo
+- name: Trust Merchant Bank Sarl
+  swift: TRMSCD3KXXX
+  swift8: TRMSCD3K
+  branch_name: No branch name
+  branch_address: No branch address
+  branch_code: XXX
+  city: Kinshasa
+  country: Congo
+- name: Trust Merchant Bank Sarl
+  swift: TRMSCD3LXXX
+  swift8: TRMSCD3L
+  branch_name: No branch name
+  branch_address: No branch address
+  branch_code: XXX
+  city: Lubumbashi
+  country: Congo
+- name: Union Zairoise De Banques
+  swift: UZBACDK1XXX
+  swift8: UZBACDK1
+  branch_name: No branch name
+  branch_address: No branch address
+  branch_code: XXX
+  city: Kinshasa
+  country: Congo
+- name: United Bank For Africa Rdc Sarl
+  swift: UNAFCDKSXXX
+  swift8: UNAFCDKS
+  branch_name: No branch name
+  branch_address: No branch address
+  branch_code: XXX
+  city: Kinshasa
+  country: Congo
+CG:
+- name: Banque Commerciale Congolaise
+  swift: CBEBCGC1XXX
+  swift8: CBEBCGC1
+  branch_name: Head Office
+  branch_address: Avenue General De Gaulle Pointe-Noire
+  branch_code: XXX
+  city: Pointe-Noire
+  country: Congo
+- name: Banque Commerciale Internationale (ex Cofipa Congo
+  swift: BCBPCGCG001
+  swift8: BCBPCGCG
+  branch_name: 661 Pointe-Noire
+  branch_address: Avenue General Degaulle 661 Pointe-Noire
+  branch_code: '001'
+  city: Pointe-Noire
+  country: Congo
+- name: Banque Commerciale Internationale (ex Cofipa Congo
+  swift: BCBPCGCGXXX
+  swift8: BCBPCGCG
+  branch_name: Head Office
+  branch_address: Avenue Amilcar Cabral 147 Brazzaville
+  branch_code: XXX
+  city: Brazzaville
+  country: Congo
+- name: Banque Congolaise De L'habitat
+  swift: BCHCCGCGXXX
+  swift8: BCHCCGCG
+  branch_name: Head Office
+  branch_address: Amilcar Cabral Brazzaville
+  branch_code: XXX
+  city: Brazzaville
+  country: Congo
+- name: Banque De Developpement Des Etats De L'afrique Centrale (bdeac
+  swift: BDEACGCGXXX
+  swift8: BDEACGCG
+  branch_name: Head Office
+  branch_address: Bdeac Siege Brazzaville
+  branch_code: XXX
+  city: Brazzaville
+  country: Congo
+- name: Banque Des Etats De L'afrique Centrale D.n. Congo
+  swift: BEACCGCG410
+  swift8: BEACCGCG
+  branch_name: Agence De Pointe-Noire
+  branch_address: Pointe-Noire
+  branch_code: '410'
+  city: Pointe-Noire
+  country: Congo
+- name: Banque Des Etats De L'afrique Centrale D.n. Congo
+  swift: BEACCGCGALL
+  swift8: BEACCGCG
+  branch_name: Ouesso
+  branch_address: Ouesso
+  branch_code: ALL
+  city: Ouesso
+  country: Congo
+- name: Banque Des Etats De L'afrique Centrale D.n. Congo
+  swift: BEACCGCGXXX
+  swift8: BEACCGCG
+  branch_name: Head Office
+  branch_address: Brazzaville
+  branch_code: XXX
+  city: Brazzaville
+  country: Congo
+- name: Banque Espirito Santo Congo
+  swift: BESCCGCGXXX
+  swift8: BESCCGCG
+  branch_name: Head Office
+  branch_address: Immeuble De La Peche Brazzaville
+  branch_code: XXX
+  city: Brazzaville
+  country: Congo
+- name: Banque Espirito Santo Congo
+  swift: BESCCGC1XXX
+  swift8: BESCCGC1
+  branch_name: Head Office
+  branch_address: Immeuble De La Peche Brazzaville
+  branch_code: XXX
+  city: Brazzaville
+  country: Congo
+- name: Banque Internationale Du Congo
+  swift: CONICGC10C2
+  swift8: CONICGC1
+  branch_name: Pointe-Noire
+  branch_address: Pointe-Noire
+  branch_code: 0C2
+  city: Pointe-Noire
+  country: Congo
+- name: Banque Internationale Du Congo
+  swift: CONICGC1XXX
+  swift8: CONICGC1
+  branch_name: Head Office
+  branch_address: Avenue Amilcar Cabral Brazzaville
+  branch_code: XXX
+  city: Brazzaville
+  country: Congo
+- name: Banque Postale Du Congo
+  swift: CNNGCGCGXXX
+  swift8: CNNGCGCG
+  branch_name: Head Office
+  branch_address: 1 Bd Denis Sassou Nguesso, 37 Brazzaville
+  branch_code: XXX
+  city: Brazzaville
+  country: Congo
+- name: Bgfibank Congo
+  swift: BGFICGCGXXX
+  swift8: BGFICGCG
+  branch_name: Head Office
+  branch_address: Angle Rue De Reims 14579 Brazzaville
+  branch_code: XXX
+  city: Brazzaville
+  country: Congo
+- name: Credit Du Congo
+  swift: BCMACGCGXXX
+  swift8: BCMACGCG
+  branch_name: Head Office
+  branch_address: Av. Emmanuel Dadet Pointe-Noire
+  branch_code: XXX
+  city: Pointe-Noire
+  country: Congo
+- name: Ecobank Congo
+  swift: ECOCCGCGXXX
+  swift8: ECOCCGCG
+  branch_name: Head Office
+  branch_address: Rond Point De La Coupole Brazzaville
+  branch_code: XXX
+  city: Brazzaville
+  country: Congo
+- name: La Congolaise De Banque (lcb
+  swift: CRAGCGCGXXX
+  swift8: CRAGCGCG
+  branch_name: Head Office
+  branch_address: Avenue Amilcar Cabral 2889 Brazzaville
+  branch_code: XXX
+  city: Brazzaville
+  country: Congo
+- name: Societe Generale Congo
+  swift: SOGECGCGXXX
+  swift8: SOGECGCG
+  branch_name: Head Office
+  branch_address: Rue Amilcar Cabral Brazzaville
+  branch_code: XXX
+  city: Brazzaville
+  country: Congo
+- name: United Bank For Africa, Congo Brazz
+  swift: UNAFCGCGXXX
+  swift8: UNAFCGCG
+  branch_name: Head Office
+  branch_address: Avenue Williams Guynet Cenral Ville Brazzaville
+  branch_code: XXX
+  city: Brazzaville
+  country: Congo

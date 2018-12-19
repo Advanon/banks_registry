@@ -1,0 +1,1402 @@
+---
+DO:
+- name: Bank Of Nova Scotia, The
+  swift: NOSCDOSDXXX
+  swift8: NOSCDOSD
+  branch_name: Head Office
+  branch_address: Aves. J.F. Kennedy and Lope De Vega Santo Domingo
+  branch_code: XXX
+  city: Santo Domingo
+  country: Dominican Republic
+- name: Agencia De Cambio Franklin Vasquez
+  swift: ACFQDOS1XXX
+  swift8: ACFQDOS1
+  branch_name: Head Office
+  branch_address: Av. San Martin No.34 Santo Domingo
+  branch_code: XXX
+  city: Santo Domingo
+  country: Dominican Republic
+- name: Agente De Cambio Aleybra, S.a.
+  swift: AGCLDOS1XXX
+  swift8: AGCLDOS1
+  branch_name: Head Office
+  branch_address: Fco. Castillo Marquez 78 La Romana
+  branch_code: XXX
+  city: Romana
+  country: Dominican Republic
+- name: Agente De Cambio America, S.a.
+  swift: AGCEDOS1XXX
+  swift8: AGCEDOS1
+  branch_name: Head Office
+  branch_address: Plaza Galerias Comerciales, Santo Domingo
+  branch_code: XXX
+  city: Santo Domingo
+  country: Dominican Republic
+- name: Agente De Cambio C P Y R Comercial, S.a.
+  swift: AGACDOS1XXX
+  swift8: AGACDOS1
+  branch_name: Head Office
+  branch_address: Calle Sanchez Esq. Independencia Santiago
+  branch_code: XXX
+  city: Santiago
+  country: Dominican Republic
+- name: Agente De Cambio Capla, S.a.
+  swift: AGCPDOS1XXX
+  swift8: AGCPDOS1
+  branch_name: Head Office
+  branch_address: Calle San Martin De Porres 14 Santo Domingo
+  branch_code: XXX
+  city: Santo Domingo
+  country: Dominican Republic
+- name: Agente De Cambio Caribe Express, S.a.
+  swift: ACCEDOS1XXX
+  swift8: ACCEDOS1
+  branch_name: Head Office
+  branch_address: Edificio Caribe Tours Santo Domingo
+  branch_code: XXX
+  city: Santo Domingo
+  country: Dominican Republic
+- name: Agente De Cambio Checo And Rodriguez, S.a.
+  swift: ACCDDOS1XXX
+  swift8: ACCDDOS1
+  branch_name: Head Office
+  branch_address: Bartolome Colon, Plaza Texas Santiago
+  branch_code: XXX
+  city: Santiago
+  country: Dominican Republic
+- name: Agente De Cambio Cibao Express
+  swift: ACCXDOS1XXX
+  swift8: ACCXDOS1
+  branch_name: Head Office
+  branch_address: Av. Bartolome Colon No.77 Santiago
+  branch_code: XXX
+  city: Santiago
+  country: Dominican Republic
+- name: Agente De Cambio Concepcion
+  swift: AGMCDOS1XXX
+  swift8: AGMCDOS1
+  branch_name: Head Office
+  branch_address: C/ Presidente Estrella Urea a Santo Domingo
+  branch_code: XXX
+  city: Santo Domingo
+  country: Dominican Republic
+- name: Agente De Cambio Dario Guzman,s.a.
+  swift: ACDGDOS1XXX
+  swift8: ACDGDOS1
+  branch_name: Head Office
+  branch_address: Las Carreras Esquina Rc Tolentino Santiago
+  branch_code: XXX
+  city: Santiago
+  country: Dominican Republic
+- name: Agente De Cambio Diego Vasquez, C.por A.
+  swift: ACDVDOS1XXX
+  swift8: ACDVDOS1
+  branch_name: Head Office
+  branch_address: Av. San Martin No.30 Santo Domingo
+  branch_code: XXX
+  city: Santo Domingo
+  country: Dominican Republic
+- name: Agente De Cambio El Efectivo C.por.a
+  swift: ACECDOS1XXX
+  swift8: ACECDOS1
+  branch_name: Head Office
+  branch_address: Plaza Metropolitana Santo Domingo
+  branch_code: XXX
+  city: Santo Domingo
+  country: Dominican Republic
+- name: Agente De Cambio Eurodivisas Domini Cana S.a.
+  swift: ACEDDOS1XXX
+  swift8: ACEDDOS1
+  branch_name: Head Office
+  branch_address: Business Center Santo Domingo
+  branch_code: XXX
+  city: Santo Domingo
+  country: Dominican Republic
+- name: Agente De Cambio Extranjero Unicentro Plaza
+  swift: ACEUDOS1XXX
+  swift8: ACEUDOS1
+  branch_name: Head Office
+  branch_address: Unicentro Plaza Santo Domingo
+  branch_code: XXX
+  city: Santo Domingo
+  country: Dominican Republic
+- name: Agente De Cambio First Point
+  swift: ACFPDOS1XXX
+  swift8: ACFPDOS1
+  branch_name: Head Office
+  branch_address: Edificio Progressus Santo Domingo
+  branch_code: XXX
+  city: Santo Domingo
+  country: Dominican Republic
+- name: Agente De Cambio Girosol Corporation, S.a.
+  swift: ACGCDOS1XXX
+  swift8: ACGCDOS1
+  branch_name: Head Office
+  branch_address: Ave. 27 De Feb. Esq. Tiradentes Santo Domingo
+  branch_code: XXX
+  city: Santo Domingo
+  country: Dominican Republic
+- name: Agente De Cambio Hermanos Rodriguez, S. A.
+  swift: ACHRDOS1XXX
+  swift8: ACHRDOS1
+  branch_name: Head Office
+  branch_address: Calle Guauci No. 5 Moca
+  branch_code: XXX
+  city: Moca
+  country: Dominican Republic
+- name: Agente De Cambio Hnos De Los Santos
+  swift: ACHADOS1XXX
+  swift8: ACHADOS1
+  branch_name: Head Office
+  branch_address: Centro De Los Heroes Santo Domingo
+  branch_code: XXX
+  city: Santo Domingo
+  country: Dominican Republic
+- name: Agente De Cambio Imbert Balbuena C. Por. A.
+  swift: ACIUDOS1XXX
+  swift8: ACIUDOS1
+  branch_name: Head Office
+  branch_address: Isabel Aguiar 195 Herrera Santo Domingo
+  branch_code: XXX
+  city: Santo Domingo
+  country: Dominican Republic
+- name: Agente De Cambio Inverpla.s.a
+  swift: ACIPDOS1XXX
+  swift8: ACIPDOS1
+  branch_name: Head Office
+  branch_address: Playa Dorada Plaza Puerto Plata
+  branch_code: XXX
+  city: Puerto Plata
+  country: Dominican Republic
+- name: Agente De Cambio Jr Internacional, Sa
+  swift: AGANDOS1XXX
+  swift8: AGANDOS1
+  branch_name: Head Office
+  branch_address: Santiago 151 Santo Domingo
+  branch_code: XXX
+  city: Santo Domingo
+  country: Dominican Republic
+- name: Agente De Cambio Julio Diaz, C. X A
+  swift: ACJDDOS1XXX
+  swift8: ACJDDOS1
+  branch_name: Head Office
+  branch_address: Calle Marcos Del Rosario No. 157, Santo Domingo
+  branch_code: XXX
+  city: Santo Domingo
+  country: Dominican Republic
+- name: Agente De Cambio Julio Pea A Y Asociados S.a
+  swift: ACJPDOS1XXX
+  swift8: ACJPDOS1
+  branch_name: Head Office
+  branch_address: Nuestra Sea Ora De Regla Esq Bani
+  branch_code: XXX
+  city: Bani
+  country: Dominican Republic
+- name: Agente De Cambio La Moredi, S.a
+  swift: AGADDOS1XXX
+  swift8: AGADDOS1
+  branch_name: Head Office
+  branch_address: Padre Borbon 22 San Cristobal
+  branch_code: XXX
+  city: San
+  country: Dominican Republic
+- name: Agente De Cambio La Nacional C.por.a
+  swift: ACNCDOS1XXX
+  swift8: ACNCDOS1
+  branch_name: Head Office
+  branch_address: Caribe Tours Santo Domingo
+  branch_code: XXX
+  city: Santo Domingo
+  country: Dominican Republic
+- name: Agente De Cambio Leonel, S.a
+  swift: AGCNDOS1XXX
+  swift8: AGCNDOS1
+  branch_name: Head Office
+  branch_address: Calle Padre Adolfo 37 La Vega
+  branch_code: XXX
+  city: Vega
+  country: Dominican Republic
+- name: Agente De Cambio Leonor, S.a.
+  swift: ACLEDOS1XXX
+  swift8: ACLEDOS1
+  branch_name: Head Office
+  branch_address: Calle Castillo Esq. Padre Brea San Francisco De Macoris
+  branch_code: XXX
+  city: San Francisco De Macoris
+  country: Dominican Republic
+- name: Agente De Cambio Los Primos
+  swift: AGCRDOS1XXX
+  swift8: AGCRDOS1
+  branch_name: Head Office
+  branch_address: Calle Maria Montez No.7, Santo Domingo
+  branch_code: XXX
+  city: Santo Domingo
+  country: Dominican Republic
+- name: Agente De Cambio Marco's C. Por A. Modulo No. 1b
+  swift: ACMMDOS1XXX
+  swift8: ACMMDOS1
+  branch_name: Head Office
+  branch_address: Edificio No. B-C-17. Modulo No. 1 B Santiago
+  branch_code: XXX
+  city: Santiago
+  country: Dominican Republic
+- name: Agente De Cambio Marinelly C.a.
+  swift: AGCYDOS1XXX
+  swift8: AGCYDOS1
+  branch_name: Head Office
+  branch_address: Calle Dr Hernandez No.9 Centro. La Romana
+  branch_code: XXX
+  city: Romana
+  country: Dominican Republic
+- name: Agente De Cambio Marve, S.a.
+  swift: AGMMDOS1XXX
+  swift8: AGMMDOS1
+  branch_name: Head Office
+  branch_address: Avenida Juan Pablo Duarte Santiago
+  branch_code: XXX
+  city: Santiago
+  country: Dominican Republic
+- name: Agente De Cambio Melo, C. Por A.
+  swift: AGAEDOS1XXX
+  swift8: AGAEDOS1
+  branch_name: Head Office
+  branch_address: Presidente Billini No.05 Bani
+  branch_code: XXX
+  city: Bani
+  country: Dominican Republic
+- name: Agente De Cambio Moneycorps., I. R., S.a.
+  swift: ACMEDOS1XXX
+  swift8: ACMEDOS1
+  branch_name: Head Office
+  branch_address: Plaza Bella Vista Mall Santo Domingo
+  branch_code: XXX
+  city: Santo Domingo
+  country: Dominican Republic
+- name: Agente De Cambio Patricio Hierro S.a.
+  swift: ACPHDOS1XXX
+  swift8: ACPHDOS1
+  branch_name: Head Office
+  branch_address: Duarte136 Monsenor Nouel
+  branch_code: XXX
+  city: Nouel
+  country: Dominican Republic
+- name: Agente De Cambio Paulino Y Asociados,s.a.
+  swift: ACPSDOS1XXX
+  swift8: ACPSDOS1
+  branch_name: Head Office
+  branch_address: Calle Mella 37 Esq. La Cruz San Francisco De Macoris
+  branch_code: XXX
+  city: San Francisco De Macoris
+  country: Dominican Republic
+- name: Agente De Cambio Placido Iv, S.a
+  swift: AGCDDOS1XXX
+  swift8: AGCDDOS1
+  branch_name: Head Office
+  branch_address: Carretera De Mendoza No. 121 Santo Domingo
+  branch_code: XXX
+  city: Santo Domingo
+  country: Dominican Republic
+- name: Agente De Cambio R-m, S.a.
+  swift: ACBMDOS1XXX
+  swift8: ACBMDOS1
+  branch_name: Head Office
+  branch_address: Carr. Medoza No.82, Alma Rosa Santo Domingo
+  branch_code: XXX
+  city: Santo Domingo
+  country: Dominican Republic
+- name: Agente De Cambio R.u.,s.a.
+  swift: ACRADOS1XXX
+  swift8: ACRADOS1
+  branch_name: Head Office
+  branch_address: Calle 12 De Julio No. 33 Puerto Plata
+  branch_code: XXX
+  city: Puerto Plata
+  country: Dominican Republic
+- name: Agente De Cambio Rafael Placido C.xa.
+  swift: ACRPDOS1XXX
+  swift8: ACRPDOS1
+  branch_name: Head Office
+  branch_address: Villa Faro Santo Domingo
+  branch_code: XXX
+  city: Santo Domingo
+  country: Dominican Republic
+- name: Agente De Cambio Remesas Dominicanas, S.a.
+  swift: ACRDDOS1XXX
+  swift8: ACRDDOS1
+  branch_name: Head Office
+  branch_address: Edif. Miguel Mejia, El Vergel Santo Domingo
+  branch_code: XXX
+  city: Santo Domingo
+  country: Dominican Republic
+- name: Agente De Cambio Rijo Y Asociados C.por A.
+  swift: ACRSDOS1XXX
+  swift8: ACRSDOS1
+  branch_name: Head Office
+  branch_address: C/Juana Saltitopa No. 173 Santo Domingo
+  branch_code: XXX
+  city: Santo Domingo
+  country: Dominican Republic
+- name: Agente De Cambio Rodriguez Reyes, C Por A
+  swift: ACRRDOS1XXX
+  swift8: ACRRDOS1
+  branch_name: Head Office
+  branch_address: Dr. Hernandez No. 10 La Romana
+  branch_code: XXX
+  city: Romana
+  country: Dominican Republic
+- name: Agente De Cambio Rosario, C Por A.
+  swift: AGAODOS1XXX
+  swift8: AGAODOS1
+  branch_name: Head Office
+  branch_address: Maria Montes 3 Santo Domingo
+  branch_code: XXX
+  city: Santo Domingo
+  country: Dominican Republic
+- name: Agente De Cambio S.c.t.,s.a.
+  swift: AGATDOS1XXX
+  swift8: AGATDOS1
+  branch_name: Head Office
+  branch_address: Av. 27 De Febrero 481, Suite 101 Santo Domingo
+  branch_code: XXX
+  city: Santo Domingo
+  country: Dominican Republic
+- name: Agente De Cambio Salvia Cxa
+  swift: ACSXDOS1XXX
+  swift8: ACSXDOS1
+  branch_name: Head Office
+  branch_address: Calle Guarocuya Esq. Cristobal Puerto Plata
+  branch_code: XXX
+  city: Puerto Plata
+  country: Dominican Republic
+- name: Agente De Cambio Santa Lucia, S. A
+  swift: ACSLDOS1XXX
+  swift8: ACSLDOS1
+  branch_name: Head Office
+  branch_address: Av. Las Carreras Esq. Sabana Larga Santiago
+  branch_code: XXX
+  city: Santiago
+  country: Dominican Republic
+- name: Agente De Cambio Sp, C. Por A.
+  swift: AGAIDOS1XXX
+  swift8: AGAIDOS1
+  branch_name: Head Office
+  branch_address: Calle Jose Del Carmen Ariza No. 57, Puerto Plata
+  branch_code: XXX
+  city: Puerto Plata
+  country: Dominican Republic
+- name: Agente De Cambio Taveras,s.a
+  swift: AGCTDOS1XXX
+  swift8: AGCTDOS1
+  branch_name: Head Office
+  branch_address: Calle Del Sol 157 Santiago
+  branch_code: XXX
+  city: Santiago
+  country: Dominican Republic
+- name: Agente De Cambio Transacciones Damos, C. Por A.
+  swift: ACTMDOS1XXX
+  swift8: ACTMDOS1
+  branch_name: Head Office
+  branch_address: Av. Abraham Lincoln Esq Santo Domingo
+  branch_code: XXX
+  city: Santo Domingo
+  country: Dominican Republic
+- name: Agente De Cambio Transnacional, S.a
+  swift: ACAFDOS1XXX
+  swift8: ACAFDOS1
+  branch_name: Head Office
+  branch_address: Edificio Taino Express Santo Domingo
+  branch_code: XXX
+  city: Santo Domingo
+  country: Dominican Republic
+- name: Agente De Cambio Vimenca
+  swift: BCVIDOS1XXX
+  swift8: BCVIDOS1
+  branch_name: Head Office
+  branch_address: Ave. Abraham Lincoln 306 Santo Domingo
+  branch_code: XXX
+  city: Santo Domingo
+  country: Dominican Republic
+- name: Agente De Cambio Y Remesas Ctd, S.a
+  swift: ACRTDOS1XXX
+  swift8: ACRTDOS1
+  branch_name: Head Office
+  branch_address: Av. 27 De Febrero No. 395 Santo Domingo
+  branch_code: XXX
+  city: Santo Domingo
+  country: Dominican Republic
+- name: Agente De Cambio Y Remesas Ozama, S.a
+  swift: ACRZDOS1XXX
+  swift8: ACRZDOS1
+  branch_name: Head Office
+  branch_address: Plaza Las Americas Ii Santo Domingo
+  branch_code: XXX
+  city: Santo Domingo
+  country: Dominican Republic
+- name: Agente De Remesas Y Cambio Boya S.a.
+  swift: ARCYDOS1XXX
+  swift8: ARCYDOS1
+  branch_name: Head Office
+  branch_address: Av. Sabana Larga No.55 Altos Ens Santo Domingo
+  branch_code: XXX
+  city: Santo Domingo
+  country: Dominican Republic
+- name: Agente De Remesas Y Cambio Vimenca, S.a
+  swift: ARCVDOS1XXX
+  swift8: ARCVDOS1
+  branch_name: Head Office
+  branch_address: Ave. Abraham Linconl 306 Santo Domingo
+  branch_code: XXX
+  city: Santo Domingo
+  country: Dominican Republic
+- name: Asociacion Barahona De Ahorros Y Prestamos
+  swift: ABHPDOS1XXX
+  swift8: ABHPDOS1
+  branch_name: Head Office
+  branch_address: C/30 De Mayo, Esq. C/Jaime Mota Barahona
+  branch_code: XXX
+  city: Barahona
+  country: Dominican Republic
+- name: Asociacion Bonao De Ahorros Y Prestamos
+  swift: ABHRDOS1XXX
+  swift8: ABHRDOS1
+  branch_name: Head Office
+  branch_address: C/16 De Agosto, Esq. C/Sanchez Bonao
+  branch_code: XXX
+  city: Bonao
+  country: Dominican Republic
+- name: Asociacion Cibao De Ahorros Y Prestamos
+  swift: ACIBDOS1XXX
+  swift8: ACIBDOS1
+  branch_name: Head Office
+  branch_address: Calle Manuel De Jesus Troncoso Santo Domingo
+  branch_code: XXX
+  city: Santo Domingo
+  country: Dominican Republic
+- name: Asociacion Cotui De Ahorros Y Prestamos
+  swift: ACAPDOS1XXX
+  swift8: ACAPDOS1
+  branch_name: Head Office
+  branch_address: C/Sanchez, Esq. C/Hostos Cotui
+  branch_code: XXX
+  city: Cotui
+  country: Dominican Republic
+- name: Asociacion Dominicana De Ahorros Y Prestamos
+  swift: ADAPDOS1XXX
+  swift8: ADAPDOS1
+  branch_name: Head Office
+  branch_address: Av. 27 De Febrero No.232, Casi, Santo Domingo
+  branch_code: XXX
+  city: Santo Domingo
+  country: Dominican Republic
+- name: Asociacion Duarte De Ahorros Y Prestamos
+  swift: ADUADOS1XXX
+  swift8: ADUADOS1
+  branch_name: Head Office
+  branch_address: C/Castillo, Esq., C/San Francisco San Francisco De Macoris
+  branch_code: XXX
+  city: San Francisco De Macoris
+  country: Dominican Republic
+- name: Asociacion Higuamo De Ahorros Y Prestamos
+  swift: AHAPDOS1XXX
+  swift8: AHAPDOS1
+  branch_name: Head Office
+  branch_address: C/Sanchez No.37, Esq. San Pedro De Macoris
+  branch_code: XXX
+  city: San Pedro De Macoris
+  country: Dominican Republic
+- name: Asociacion La Nacional De Ahorros Y Prestamos
+  swift: ANAYDOS1XXX
+  swift8: ANAYDOS1
+  branch_name: Head Office
+  branch_address: C/ Isabel La Catolica N 171 Santo Domingo
+  branch_code: XXX
+  city: Santo Domingo
+  country: Dominican Republic
+- name: Asociacion La Previsora De Ahorros Y Prestamos
+  swift: APAPDOS1XXX
+  swift8: APAPDOS1
+  branch_name: Head Office
+  branch_address: Av. 27 De Febrero N 25, Santiago De Los Caballeros
+  branch_code: XXX
+  city: Santiago De Los Caballeros
+  country: Dominican Republic
+- name: Asociacion La Vega Real De Ahorros Y Prestamos
+  swift: ALVRDOS1XXX
+  swift8: ALVRDOS1
+  branch_name: Head Office
+  branch_address: Esq. C/Restauracion La Vega
+  branch_code: XXX
+  city: La Vega
+  country: Dominican Republic
+- name: Asociacion Maguana De Ahorros Y Prestamos
+  swift: AMAPDOS1XXX
+  swift8: AMAPDOS1
+  branch_name: Head Office
+  branch_address: C/ Independencia N 69 San Juan De La Maguana
+  branch_code: XXX
+  city: San Juan De La Maguana
+  country: Dominican Republic
+- name: Asociacion Mocana De Ahorros Y Prestamos
+  swift: AMARDOS1XXX
+  swift8: AMARDOS1
+  branch_name: Head Office
+  branch_address: C/Antonio De La Maza No.20, Esq. C/ Moca
+  branch_code: XXX
+  city: Moca
+  country: Dominican Republic
+- name: Asociacion Noroestana De Ahorros Y Prestamos
+  swift: ANAPDOS1XXX
+  swift8: ANAPDOS1
+  branch_name: Head Office
+  branch_address: C/Duarte No.33 Mao
+  branch_code: XXX
+  city: Mao
+  country: Dominican Republic
+- name: Asociacion Nortena De Ahorros Y Prestamos
+  swift: ANORDOS1XXX
+  swift8: ANORDOS1
+  branch_name: Head Office
+  branch_address: C/Beller No.66, Esquina Calle 2-A. Puerto Plata
+  branch_code: XXX
+  city: Puerto Plata
+  country: Dominican Republic
+- name: Asociacion Peravia De Ahorros Y Prestamos
+  swift: APARDOS1XXX
+  swift8: APARDOS1
+  branch_name: Head Office
+  branch_address: Edif. Profesional Bani
+  branch_code: XXX
+  city: Bani
+  country: Dominican Republic
+- name: Asociacion Popular De Ahorros Y Prestamos
+  swift: APOPDOS1XXX
+  swift8: APOPDOS1
+  branch_name: Head Office
+  branch_address: Ens. Miraflores. Santo Domingo
+  branch_code: XXX
+  city: Santo Domingo
+  country: Dominican Republic
+- name: Asociacion Romana De Ahorros Y Prestamos
+  swift: ARAODOS1XXX
+  swift8: ARAODOS1
+  branch_name: Head Office
+  branch_address: C/Duarte No. 40, Esq. C/ Romana
+  branch_code: XXX
+  city: Romana
+  country: Dominican Republic
+- name: Banca Investimenti Euromediterranea Srl
+  swift: INULDOS1XXX
+  swift8: INULDOS1
+  branch_name: Head Office
+  branch_address: Edif. Elias I, Suite 2-H Santo Domingo Gazcue
+  branch_code: XXX
+  city: Santo Domingo
+  country: Dominican Republic
+- name: Banco Agricola De La Republica Dominicana
+  swift: BAGRDOS1XXX
+  swift8: BAGRDOS1
+  branch_name: Head Office
+  branch_address: Av. George Washington 601 Santo Domingo
+  branch_code: XXX
+  city: Santo Domingo
+  country: Dominican Republic
+- name: Banco Atlantico De Ahorro Y Credito, S.a.
+  swift: BAACDOS1XXX
+  swift8: BAACDOS1
+  branch_name: Head Office
+  branch_address: Calle Fantino Falco No. 57 Santo Domingo
+  branch_code: XXX
+  city: Santo Domingo
+  country: Dominican Republic
+- name: Banco Bdi, S.a.
+  swift: BBDIDOSDXXX
+  swift8: BBDIDOSD
+  branch_name: Head Office
+  branch_address: Ave. Sarasota, 27 Santo Domingo
+  branch_code: XXX
+  city: Santo Domingo
+  country: Dominican Republic
+- name: Banco Bhd S.a.
+  swift: BCBHDOSDXXX
+  swift8: BCBHDOSD
+  branch_name: Headquarters Office
+  branch_address: Plaza Bhd 21721 Santo Domingo
+  branch_code: XXX
+  city: Santo Domingo
+  country: Dominican Republic
+- name: Banco Capital De Ahorro Y Credito, S.a
+  swift: CAHCDOS1XXX
+  swift8: CAHCDOS1
+  branch_name: Head Office
+  branch_address: Edif. Palic Santo Domingo
+  branch_code: XXX
+  city: Santo Domingo
+  country: Dominican Republic
+- name: Banco Central De La Republica Dominicana
+  swift: BCRDDOSXOMA
+  swift8: BCRDDOSX
+  branch_name: Santo Domingo
+  branch_address: Santo Domingo
+  branch_code: OMA
+  city: Santo Domingo
+  country: Dominican Republic
+- name: Banco Central De La Republica Dominicana
+  swift: BCRDDOSXSBC
+  swift8: BCRDDOSX
+  branch_name: Santo Domingo
+  branch_address: Santo Domingo
+  branch_code: SBC
+  city: Santo Domingo
+  country: Dominican Republic
+- name: Banco Central De La Republica Dominicana
+  swift: BCRDDOSXXXX
+  swift8: BCRDDOSX
+  branch_name: Head Office
+  branch_address: Banco Central De La Rep. Dominicana Santo Domingo
+  branch_code: XXX
+  city: Santo Domingo
+  country: Dominican Republic
+- name: Banco Continental De Desarrollo,s.a
+  swift: BODSDOS1XXX
+  swift8: BODSDOS1
+  branch_name: Head Office
+  branch_address: Continental Santo Domingo
+  branch_code: XXX
+  city: Santo Domingo
+  country: Dominican Republic
+- name: Banco De Ahorro Y Credito Adopem, S.a.
+  swift: AHCDDOS1XXX
+  swift8: AHCDDOS1
+  branch_name: Head Office
+  branch_address: Calle Sanchez, Esq. Juan Santo Domingo
+  branch_code: XXX
+  city: Santo Domingo
+  country: Dominican Republic
+- name: Banco De Ahorro Y Credito Altas Cumbres, S.a.
+  swift: ACAUDOS1XXX
+  swift8: ACAUDOS1
+  branch_name: Head Office
+  branch_address: Torre Serrano Santo Domingo
+  branch_code: XXX
+  city: Santo Domingo
+  country: Dominican Republic
+- name: Banco De Ahorro Y Credito Atlas, S.a.
+  swift: AHCADOS1XXX
+  swift8: AHCADOS1
+  branch_name: Head Office
+  branch_address: Edificio Galerias Comerciales Santo Domingo
+  branch_code: XXX
+  city: Santo Domingo
+  country: Dominican Republic
+- name: Banco De Ahorro Y Credito Bellbank
+  swift: BELNDOSDXXX
+  swift8: BELNDOSD
+  branch_name: Head Office
+  branch_address: Edificio Elab 10147 Santo Domingo
+  branch_code: XXX
+  city: Santo Domingo
+  country: Dominican Republic
+- name: Banco De Ahorro Y Credito Cofaci, S.a.
+  swift: AHCCDOS1XXX
+  swift8: AHCCDOS1
+  branch_name: Head Office
+  branch_address: Calle Pedro Livio Cedeno N 174 Santo Domingo
+  branch_code: XXX
+  city: Santo Domingo
+  country: Dominican Republic
+- name: Banco De Ahorro Y Credito Confisa, S.a.
+  swift: AHCODOS1XXX
+  swift8: AHCODOS1
+  branch_name: Head Office
+  branch_address: Av. Pedro Henriquez Urena N 78 Santo Domingo
+  branch_code: XXX
+  city: Santo Domingo
+  country: Dominican Republic
+- name: Banco De Ahorro Y Credito Del Caribe
+  swift: AHRCDOS1XXX
+  swift8: AHRCDOS1
+  branch_name: Head Office
+  branch_address: Av. Lopez De Vega No.33 Santo Domingo
+  branch_code: XXX
+  city: Santo Domingo
+  country: Dominican Republic
+- name: Banco De Ahorro Y Credito Empire
+  swift: AHREDOS1XXX
+  swift8: AHREDOS1
+  branch_name: Head Office
+  branch_address: Av. Bolivar, Esq. Felix Ma. Santo Domingo
+  branch_code: XXX
+  city: Santo Domingo
+  country: Dominican Republic
+- name: Banco De Ahorro Y Credito Empire
+  swift: AHREDOSDXXX
+  swift8: AHREDOSD
+  branch_name: Head Office
+  branch_address: Av. Bolivar, Esq. Felix Ma. Santo Domingo
+  branch_code: XXX
+  city: Santo Domingo
+  country: Dominican Republic
+- name: Banco De Ahorro Y Credito Federal, S.a.
+  swift: AHCEDOS1XXX
+  swift8: AHCEDOS1
+  branch_name: Head Office
+  branch_address: Torre Global Santo Domingo
+  branch_code: XXX
+  city: Santo Domingo
+  country: Dominican Republic
+- name: Banco De Ahorro Y Credito Fihogar
+  swift: AHCGDOS1XXX
+  swift8: AHCGDOS1
+  branch_name: Head Office
+  branch_address: Edificio Santanita Santo Domingo
+  branch_code: XXX
+  city: Santo Domingo
+  country: Dominican Republic
+- name: Banco De Ahorro Y Credito Gruficorp S.a.
+  swift: BACGDOS1XXX
+  swift8: BACGDOS1
+  branch_name: Head Office
+  branch_address: Calle Roberto Pastoriza N 214 Santo Domingo
+  branch_code: XXX
+  city: Santo Domingo
+  country: Dominican Republic
+- name: Banco De Ahorro Y Credito Idecosa, S.a.
+  swift: GBHDDOS1XXX
+  swift8: GBHDDOS1
+  branch_name: Head Office
+  branch_address: Plaza Popular 1000 Santo Domingo
+  branch_code: XXX
+  city: Santo Domingo
+  country: Dominican Republic
+- name: Banco De Ahorro Y Credito Inmobiliario, S. A. (banaci
+  swift: ACIIDOSDXXX
+  swift8: ACIIDOSD
+  branch_name: Head Office
+  branch_address: Leopoldo Navarro 53 Santo Domingo
+  branch_code: XXX
+  city: Santo Domingo
+  country: Dominican Republic
+- name: Banco De Ahorro Y Credito Micro, S.a.
+  swift: AHRMDOS1XXX
+  swift8: AHRMDOS1
+  branch_name: Head Office
+  branch_address: Paseo De Los Periodistas 3 Santo Domingo
+  branch_code: XXX
+  city: Santo Domingo
+  country: Dominican Republic
+- name: Banco De Ahorro Y Credito Ochoa, S.a
+  swift: AHCHDOS1XXX
+  swift8: AHCHDOS1
+  branch_name: Head Office
+  branch_address: Ens. Evaristo Morales. Santo Domingo
+  branch_code: XXX
+  city: Santo Domingo
+  country: Dominican Republic
+- name: Banco De Ahorro Y Credito Providencial, S.a.
+  swift: AHCPDOS1XXX
+  swift8: AHCPDOS1
+  branch_name: Head Office
+  branch_address: Centro Comercial Naco Ii Santo Domingo
+  branch_code: XXX
+  city: Santo Domingo
+  country: Dominican Republic
+- name: Banco De Ahorro Y Credito Pyme, Bhd, S. A.
+  swift: BPYMDOS1XXX
+  swift8: BPYMDOS1
+  branch_name: Head Office
+  branch_address: Calle Heriberto Pieter N 10 Y 12 Santo Domingo
+  branch_code: XXX
+  city: Santo Domingo
+  country: Dominican Republic
+- name: Banco De Ahorro Y Credito Rio, S. A
+  swift: AHRIDOS1XXX
+  swift8: AHRIDOS1
+  branch_name: Head Office
+  branch_address: Torre Piantini Santo Domingo
+  branch_code: XXX
+  city: Santo Domingo
+  country: Dominican Republic
+- name: Banco De Desarrollo Agropecuario, S.a.
+  swift: DEARDOS1XXX
+  swift8: DEARDOS1
+  branch_name: Head Office
+  branch_address: Aven. Independencia Esq. Maximo 1616 Santo Domingo
+  branch_code: XXX
+  city: Santo Domingo
+  country: Dominican Republic
+- name: Banco De Reservas De La Republica Dominicana
+  swift: BRRDDOSDXXX
+  swift8: BRRDDOSD
+  branch_name: Head Office
+  branch_address: Torre Banreservas Santo Domingo
+  branch_code: XXX
+  city: Santo Domingo
+  country: Dominican Republic
+- name: Banco Dominicano Del Progreso S.a.
+  swift: BDPRDOSDXXX
+  swift8: BDPRDOSD
+  branch_name: Head Office
+  branch_address: Avenida J.F. Kennedy 3 Santo Domingo
+  branch_code: XXX
+  city: Santo Domingo
+  country: Dominican Republic
+- name: Banco Lopez De Haro
+  swift: BLDHDOSDXXX
+  swift8: BLDHDOSD
+  branch_name: Head Office
+  branch_address: Banco Lopez De Haro Santo Domingo
+  branch_code: XXX
+  city: Santo Domingo
+  country: Dominican Republic
+- name: Banco Multiple Ademi. S.a.
+  swift: AHCMDOSDXXX
+  swift8: AHCMDOSD
+  branch_name: Head Office
+  branch_address: Av. Pedro Henriquez Urena 78 2887 Santo Domingo
+  branch_code: XXX
+  city: Santo Domingo
+  country: Dominican Republic
+- name: Banco Multiple Caribe
+  swift: STGODOSDXXX
+  swift8: STGODOSD
+  branch_name: Head Office
+  branch_address: Banco Multiple Caribe Santo Domingo
+  branch_code: XXX
+  city: Santo Domingo
+  country: Dominican Republic
+- name: Banco Multiple De Las Americas, S.a
+  swift: AHCSDOSDXXX
+  swift8: AHCSDOSD
+  branch_name: Head Office
+  branch_address: Calle Francisco Prats Ramirez 301 Santo Domingo
+  branch_code: XXX
+  city: Santo Domingo
+  country: Dominican Republic
+- name: Banco Multiple Lafise S.a.
+  swift: BCCEDOSDXXX
+  swift8: BCCEDOSD
+  branch_name: Head Office
+  branch_address: Inica Tower Cuarto Piso 10147 Santo Domingo
+  branch_code: XXX
+  city: Santo Domingo
+  country: Dominican Republic
+- name: Banco Multiple Leon, S.a.
+  swift: NCREDOSDXXX
+  swift8: NCREDOSD
+  branch_name: Head Office
+  branch_address: Leon 1408 Santo Domingo
+  branch_code: XXX
+  city: Santo Domingo
+  country: Dominican Republic
+- name: Banco Multiple Promerica De La Republica Dominicana
+  swift: PRHRDOSDXXX
+  swift8: PRHRDOSD
+  branch_name: Head Office
+  branch_address: 420 Av. Roberto Pastoriza, Esquina 10148 Santo Domingo
+  branch_code: XXX
+  city: Santo Domingo
+  country: Dominican Republic
+- name: Banco Nacional De Fomento De La Vivienda Y La Produccion (bnv
+  swift: BNVPDOS1XXX
+  swift8: BNVPDOS1
+  branch_name: Head Office
+  branch_address: Av. Tiradentes N. 53, Santo Domingo
+  branch_code: XXX
+  city: Santo Domingo
+  country: Dominican Republic
+- name: Banco Popular Dominicano, C. Por A.
+  swift: BPDODOSXREM
+  swift8: BPDODOSX
+  branch_name: Depto Trasferencias Internacionales
+  branch_address: Santo Domingo
+  branch_code: REM
+  city: Santo Domingo
+  country: Dominican Republic
+- name: Banco Popular Dominicano, C. Por A.
+  swift: BPDODOSXXXX
+  swift8: BPDODOSX
+  branch_name: Head Office
+  branch_address: Torre Popular Santo Domingo
+  branch_code: XXX
+  city: Santo Domingo
+  country: Dominican Republic
+- name: Banco Providencial, S.a.
+  swift: PVDLDOSDXXX
+  swift8: PVDLDOSD
+  branch_name: Head Office
+  branch_address: Centro Comercial Naco Ii 99999 Santo Domingo
+  branch_code: XXX
+  city: Santo Domingo
+  country: Dominican Republic
+- name: Banco Regional Dominicano,s.a.
+  swift: BGDODO21XXX
+  swift8: BGDODO21
+  branch_name: Head Office
+  branch_address: Avenida San Martin 200 Santiago De Los Caballeros
+  branch_code: XXX
+  city: Santiago De Los Caballeros
+  country: Dominican Republic
+- name: Banco Santa Cruz
+  swift: SCRZDOSDXXX
+  swift8: SCRZDOSD
+  branch_name: Head Office
+  branch_address: Av. Lope De Vega No.21 Santo Domingo
+  branch_code: XXX
+  city: Santo Domingo
+  country: Dominican Republic
+- name: Banco Universal S.a.
+  swift: UBANDOS1XXX
+  swift8: UBANDOS1
+  branch_name: Head Office
+  branch_address: Conde 105 Santo Domingo
+  branch_code: XXX
+  city: Santo Domingo
+  country: Dominican Republic
+- name: Banco Vimenca
+  swift: VIMEDOSDXXX
+  swift8: VIMEDOSD
+  branch_name: Head Office
+  branch_address: Av. Abraham Lincoln 306 Santo Domingo
+  branch_code: XXX
+  city: Santo Domingo
+  country: Dominican Republic
+- name: Banesco Banco Multiple, S. A.
+  swift: BANSDOSDXXX
+  swift8: BANSDOSD
+  branch_name: Head Office
+  branch_address: Edificio Banesco Santo Domingo
+  branch_code: XXX
+  city: Santo Domingo
+  country: Dominican Republic
+- name: Bhd Valores Puesto De Bolsa, S.a.
+  swift: BHDVDOSDXXX
+  swift8: BHDVDOSD
+  branch_name: Head Office
+  branch_address: Torre Bhd Santo Domingo
+  branch_code: XXX
+  city: Santo Domingo
+  country: Dominican Republic
+- name: Bitacora Valores Puesto De Bolsa
+  swift: BVPODOS1XXX
+  swift8: BVPODOS1
+  branch_name: No branch name
+  branch_address: No branch address
+  branch_code: XXX
+  city: Santo Domingo
+  country: Dominican Republic
+- name: Bnvalores, Puesto De Bolsa, S.a.
+  swift: BNUBDOS1XXX
+  swift8: BNUBDOS1
+  branch_name: Head Office
+  branch_address: Edificio Bnv Santo Domingo
+  branch_code: XXX
+  city: Santo Domingo
+  country: Dominican Republic
+- name: Bonanza Banco De Ahorro Y Credito
+  swift: BADODOS1XXX
+  swift8: BADODOS1
+  branch_name: Head Office
+  branch_address: Bbac Santo Domingo
+  branch_code: XXX
+  city: Santo Domingo
+  country: Dominican Republic
+- name: Cci Puesto De Bolsa, S.a
+  swift: CCPSDOS1XXX
+  swift8: CCPSDOS1
+  branch_name: Head Office
+  branch_address: Torre Biltmore Ii 10127 Santo Domingo
+  branch_code: XXX
+  city: Santo Domingo
+  country: Dominican Republic
+- name: Cevaldom Deposito Centralizado De Valores, S.a.
+  swift: CVDPDOSDXXX
+  swift8: CVDPDOSD
+  branch_name: Head Office
+  branch_address: Solazar Business Center Santo Domingo
+  branch_code: XXX
+  city: Santo Domingo
+  country: Dominican Republic
+- name: Citibank, N.a.
+  swift: CITIDOSD022
+  swift8: CITIDOSD
+  branch_name: Santiago De Los Caballeros
+  branch_address: Calle El Sol Esq Mella Santiago De Los Caballeros
+  branch_code: '022'
+  city: Santiago De Los Caballeros
+  country: Dominican Republic
+- name: Citibank, N.a.
+  swift: CITIDOSDCTV
+  swift8: CITIDOSD
+  branch_name: Citiinversiones S A
+  branch_address: Santo Domingo
+  branch_code: CTV
+  city: Santo Domingo
+  country: Dominican Republic
+- name: Citibank, N.a.
+  swift: CITIDOSDXXX
+  swift8: CITIDOSD
+  branch_name: Head Office
+  branch_address: Citigroup Tower Santo Domingo
+  branch_code: XXX
+  city: Santo Domingo
+  country: Dominican Republic
+- name: Citinversiones De Titulos Y Valores S.a. Puesto De Bolsa
+  swift: CITIDOT1XXX
+  swift8: CITIDOT1
+  branch_name: Head Office
+  branch_address: Citi Tower Santo Domingo
+  branch_code: XXX
+  city: Santo Domingo
+  country: Dominican Republic
+- name: Consorcio De Tarjetas Dominicanas, S.a.
+  swift: COTDDOS1XXX
+  swift8: COTDDOS1
+  branch_name: Head Office
+  branch_address: Cardnet Santo Domingo
+  branch_code: XXX
+  city: Santo Domingo
+  country: Dominican Republic
+- name: Corporacion De Credito America, S.a.
+  swift: CRTRDOS1XXX
+  swift8: CRTRDOS1
+  branch_name: Head Office
+  branch_address: Edif. Corporacion America Ens. Santo Domingo
+  branch_code: XXX
+  city: Santo Domingo
+  country: Dominican Republic
+- name: Corporacion De Credito El Efectivo
+  swift: CCEEDOS1XXX
+  swift8: CCEEDOS1
+  branch_name: Head Office
+  branch_address: C/Jose F. Tapia Brea 208 Santo Domingo
+  branch_code: XXX
+  city: Santo Domingo
+  country: Dominican Republic
+- name: Corporacion De Credito Fimotors
+  swift: COTFDOS1XXX
+  swift8: COTFDOS1
+  branch_name: Head Office
+  branch_address: Ave. 27 De Febrero 422 Santo Domingo
+  branch_code: XXX
+  city: Santo Domingo
+  country: Dominican Republic
+- name: Corporacion De Credito Finanzar, S.a.
+  swift: COCZDOS1XXX
+  swift8: COCZDOS1
+  branch_name: Head Office
+  branch_address: Esq. Manuel De Jesus Troncoso Santo Domingo
+  branch_code: XXX
+  city: Santo Domingo
+  country: Dominican Republic
+- name: Corporacion De Credito Finatal, S.a
+  swift: CRDFDOS1XXX
+  swift8: CRDFDOS1
+  branch_name: Head Office
+  branch_address: Efa Building Santo Domingo
+  branch_code: XXX
+  city: Santo Domingo
+  country: Dominican Republic
+- name: Corporacion De Credito Inversiones Mocanas, S.a.
+  swift: CCNMDOS1XXX
+  swift8: CCNMDOS1
+  branch_name: Head Office
+  branch_address: C/Rosario No. 100 Moca
+  branch_code: XXX
+  city: Moca
+  country: Dominican Republic
+- name: Corporacion De Credito La Americana S.a.
+  swift: CRTCDOS1XXX
+  swift8: CRTCDOS1
+  branch_name: Head Office
+  branch_address: Calle 30 De Marzo 539 Santiago
+  branch_code: XXX
+  city: Santiago
+  country: Dominican Republic
+- name: Corporacion De Credito Leasing Confisa, S.a.
+  swift: CCLCDOS1XXX
+  swift8: CCLCDOS1
+  branch_name: Head Office
+  branch_address: Calle Manuel De Jesus Tronsocso Santo Domingo
+  branch_code: XXX
+  city: Santo Domingo
+  country: Dominican Republic
+- name: Corporacion De Credito Monumental, S.a.
+  swift: CRDLDOS1XXX
+  swift8: CRDLDOS1
+  branch_name: Head Office
+  branch_address: Calle 16 De Agosto 169 Santiago De Los Caballeros
+  branch_code: XXX
+  city: Santiago De Los Caballeros
+  country: Dominican Republic
+- name: Corporacion De Credito Nordestana De Prestamos, S.a.
+  swift: CCNPDOS1XXX
+  swift8: CCNPDOS1
+  branch_name: Head Office
+  branch_address: C/Castillo No. 66 Esq. C/Colon San Francisco De Macoris
+  branch_code: XXX
+  city: San Francisco De Macoris
+  country: Dominican Republic
+- name: Corporacion De Credito Oficorp, S.a.
+  swift: CODODOS1XXX
+  swift8: CODODOS1
+  branch_name: Head Office
+  branch_address: C/Roberto Pastoriza No. 214 Santo Domingo
+  branch_code: XXX
+  city: Santo Domingo
+  country: Dominican Republic
+- name: Corporacion De Credito Oriental
+  swift: CROLDOS1XXX
+  swift8: CROLDOS1
+  branch_name: Head Office
+  branch_address: Av. Sabana Larga N. 163 Santo Domingo
+  branch_code: XXX
+  city: Santo Domingo
+  country: Dominican Republic
+- name: Corporacion De Credito Preindesa
+  swift: CODPDOS1XXX
+  swift8: CODPDOS1
+  branch_name: Head Office
+  branch_address: 27 De Febrero No. 45 Cotui
+  branch_code: XXX
+  city: Cotui
+  country: Dominican Republic
+- name: Corporacion De Credito Prestamos A Las Ordenes, S.a.
+  swift: CCPODOS1XXX
+  swift8: CCPODOS1
+  branch_name: Head Office
+  branch_address: C/San Francisco No. 49 Esq.C/Mella San Francisco De Macoris
+  branch_code: XXX
+  city: San Francisco De Macoris
+  country: Dominican Republic
+- name: Corporacion De Credito Puertoplatena, S.a.
+  swift: CCPUDOS1XXX
+  swift8: CCPUDOS1
+  branch_name: Head Office
+  branch_address: Edificio Puertoplatena I 335 Puerto Plata
+  branch_code: XXX
+  city: Puerto Plata
+  country: Dominican Republic
+- name: Corporacion De Credito Reido, C. Por A.
+  swift: COEDDOS1XXX
+  swift8: COEDDOS1
+  branch_name: Head Office
+  branch_address: Av. Lope De Vega Esq. Jfk Santo Domingo
+  branch_code: XXX
+  city: Santo Domingo
+  country: Dominican Republic
+- name: Corporacion De Credito Rona, S.a.
+  swift: CPCRDOS1XXX
+  swift8: CPCRDOS1
+  branch_name: Head Office
+  branch_address: Av. San Martin, No. 267 Casi Esq. Santo Domingo
+  branch_code: XXX
+  city: Santo Domingo
+  country: Dominican Republic
+- name: Corporacion De Credito Toinsa, S.a.
+  swift: CROTDOS1XXX
+  swift8: CROTDOS1
+  branch_name: Head Office
+  branch_address: Gustavo Mejia Ricart No.9 Santo Domingo
+  branch_code: XXX
+  city: Santo Domingo
+  country: Dominican Republic
+- name: Excel Puesto De Bolsa, S. A.
+  swift: EXPLDOD1XXX
+  swift8: EXPLDOD1
+  branch_name: Head Office
+  branch_address: Max Henriquez Urena 78 - Piantini Santo Domingo
+  branch_code: XXX
+  city: Santo Domingo
+  country: Dominican Republic
+- name: Finanzas Y Servicios Consolidados
+  swift: FSCODOS1XXX
+  swift8: FSCODOS1
+  branch_name: Head Office
+  branch_address: Angel Severo Cabral 7 Santo Domingo
+  branch_code: XXX
+  city: Santo Domingo
+  country: Dominican Republic
+- name: Fondo Jubilaciones Y Pensiones Del Banco Central, Inc.
+  swift: FJPCDOS1XXX
+  swift8: FJPCDOS1
+  branch_name: Head Office
+  branch_address: Edificio Vieja Sede Banco Central 1347 Santo Domingo
+  branch_code: XXX
+  city: Santo Domingo
+  country: Dominican Republic
+- name: Gamelin Agente De Cambio S.a
+  swift: GAACDOS1XXX
+  swift8: GAACDOS1
+  branch_name: Head Office
+  branch_address: Calle Manganagua 20 Santo Domingo
+  branch_code: XXX
+  city: Santo Domingo
+  country: Dominican Republic
+- name: Gcs Systems
+  swift: GCSYDOS1XXX
+  swift8: GCSYDOS1
+  branch_name: Head Office
+  branch_address: Torre Empresarial Reyna Ii Santo Domingo
+  branch_code: XXX
+  city: Santo Domingo
+  country: Dominican Republic
+- name: Inversiones Guerrero And Valdez, Agente De Cambio
+  swift: IGVADOS1XXX
+  swift8: IGVADOS1
+  branch_name: Head Office
+  branch_address: Eurodollar Santo Domingo
+  branch_code: XXX
+  city: Santo Domingo
+  country: Dominican Republic
+- name: Inversiones Popular S. A., Puesto De Bolsa
+  swift: IPPBDOS1XXX
+  swift8: IPPBDOS1
+  branch_name: Head Office
+  branch_address: Torre Popular Santo Domingo
+  branch_code: XXX
+  city: Santo Domingo
+  country: Dominican Republic
+- name: Jmmb Bdi America, Puesto De Bolsa S.a.
+  swift: JBAPDOS1XXX
+  swift8: JBAPDOS1
+  branch_name: Head Office
+  branch_address: Torre Acropolis Santo Domingo
+  branch_code: XXX
+  city: Santo Domingo
+  country: Dominican Republic
+- name: Lafise Dominicana Agente De Cambio, S.a.
+  swift: LDACDOS1XXX
+  swift8: LDACDOS1
+  branch_name: Head Office
+  branch_address: Inica Santo Domingo
+  branch_code: XXX
+  city: Santo Domingo
+  country: Dominican Republic
+- name: Lafise Valores Santo Domingo, S.a.
+  swift: LVSDDOS1XXX
+  swift8: LVSDDOS1
+  branch_name: Head Office
+  branch_address: Edificio Inicia Santo Domingo
+  branch_code: XXX
+  city: Santo Domingo
+  country: Dominican Republic
+- name: Mega Agente De Cambio, S. A.
+  swift: MEAODOS1XXX
+  swift8: MEAODOS1
+  branch_name: Head Office
+  branch_address: Max Henriquez Urena No.78 Santo Domingo
+  branch_code: XXX
+  city: Santo Domingo
+  country: Dominican Republic
+- name: Mercado Electronico Dominicano
+  swift: MEEDDOS1XXX
+  swift8: MEEDDOS1
+  branch_name: Head Office
+  branch_address: Angel Severo Cabral No. 7 Santo Domingo
+  branch_code: XXX
+  city: Santo Domingo
+  country: Dominican Republic
+- name: Motor Credito, S.a., Banco De Ahorro Y Credito
+  swift: MCARDOS1XXX
+  swift8: MCARDOS1
+  branch_name: Head Office
+  branch_address: Edificio Ambar Santo Domingo
+  branch_code: XXX
+  city: Santo Domingo
+  country: Dominican Republic
+- name: Norca S.a. Agente De Cambio
+  swift: NOABDOS1XXX
+  swift8: NOABDOS1
+  branch_name: Head Office
+  branch_address: Calle De La Salle Esquina J. Pablo Santiago De Los Caballeros
+  branch_code: XXX
+  city: Santiago De Los Caballeros
+  country: Dominican Republic
+- name: Optima Corporacion De Credito, S.a.
+  swift: OPCCDOS1XXX
+  swift8: OPCCDOS1
+  branch_name: Head Office
+  branch_address: Edificio in Tempo 09 Santo Domingo
+  branch_code: XXX
+  city: Santo Domingo
+  country: Dominican Republic
+- name: Pais Dargam C. Por A., Agente De Cambio
+  swift: PDACDOS1XXX
+  swift8: PDACDOS1
+  branch_name: Head Office
+  branch_address: Ave. De Los Proceres Santo Domingo
+  branch_code: XXX
+  city: Santo Domingo
+  country: Dominican Republic
+- name: Parallax Valores Puesto De Bolsa S.a.
+  swift: PVPBDOS1XXX
+  swift8: PVPBDOS1
+  branch_name: Head Office
+  branch_address: Edificio Grupo Rizek 10902 Santo Domingo
+  branch_code: XXX
+  city: Santo Domingo
+  country: Dominican Republic
+- name: Quezada Agente De Cambio, S. A.
+  swift: QUABDOS1XXX
+  swift8: QUABDOS1
+  branch_name: Head Office
+  branch_address: Doctor Gonzalvo No. 13 Romana
+  branch_code: XXX
+  city: Romana
+  country: Dominican Republic
+- name: Tesoreria De La Seguridad Social
+  swift: TESLDOS1XXX
+  swift8: TESLDOS1
+  branch_name: Head Office
+  branch_address: Torre De La Seguridad Social Santo Domingo
+  branch_code: XXX
+  city: Santo Domingo
+  country: Dominican Republic
+- name: Tesoreria Nacional
+  swift: TENADOS1XXX
+  swift8: TENADOS1
+  branch_name: Head Office
+  branch_address: Ministerio De Hacienda 10205 Santo Domingo
+  branch_code: XXX
+  city: Santo Domingo
+  country: Dominican Republic
+- name: Tivalsa
+  swift: TIVADOS1XXX
+  swift8: TIVADOS1
+  branch_name: No branch name
+  branch_address: No branch address
+  branch_code: XXX
+  city: Santo Domingo
+  country: Dominican Republic
+- name: United Capital Puesto De Bolsa
+  swift: UCPODOS1XXX
+  swift8: UCPODOS1
+  branch_name: Head Office
+  branch_address: District Tower Santo Domingo
+  branch_code: XXX
+  city: Santo Domingo
+  country: Dominican Republic
+- name: Valores Leon
+  swift: VLEODOS1XXX
+  swift8: VLEODOS1
+  branch_name: Head Office
+  branch_address: Banco Leon 1502 Santo Domingo
+  branch_code: XXX
+  city: Santo Domingo
+  country: Dominican Republic
+- name: Vt Agente De Cambio, S.a
+  swift: AGCMDOS1XXX
+  swift8: AGCMDOS1
+  branch_name: Head Office
+  branch_address: 16 De Agosto No.98 Santiago De Los Caballeros
+  branch_code: XXX
+  city: Santiago De Los Caballeros
+  country: Dominican Republic
+- name: Wally Agente De Cambio,cxa
+  swift: WAACDOS1XXX
+  swift8: WAACDOS1
+  branch_name: Head Office
+  branch_address: Calle Principal De Cabarete Puerto Plata
+  branch_code: XXX
+  city: Puerto Plata
+  country: Dominican Republic

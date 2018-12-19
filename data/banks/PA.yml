@@ -1,0 +1,850 @@
+---
+PA:
+- name: Banco De La Nacion Argentina
+  swift: NACNPAPAXXX
+  swift8: NACNPAPA
+  branch_name: Head Office
+  branch_address: Avenida Federico Boyd Y Calle 51 Panama
+  branch_code: XXX
+  city: Panama
+  country: Panama
+- name: Banco De La Provincia De Buenos Aires
+  swift: PRBAPAP1XXX
+  swift8: PRBAPAP1
+  branch_name: Head Office
+  branch_address: Torre Banco Continental Panama
+  branch_code: XXX
+  city: Panama
+  country: Panama
+- name: Bank Of Nova Scotia, The
+  swift: NOSCPAPAXXX
+  swift8: NOSCPAPA
+  branch_name: Head Office
+  branch_address: Edificio Scotia Plaza Panama
+  branch_code: XXX
+  city: Panama
+  country: Panama
+- name: Korea Exchange Bank
+  swift: KOEXPAPAXXX
+  swift8: KOEXPAPA
+  branch_name: Head Office
+  branch_address: Torre Global Bank N. 19 0823-05773 Panama
+  branch_code: XXX
+  city: Panama
+  country: Panama
+- name: State Bank Of India
+  swift: SBINPAP1XXX
+  swift8: SBINPAP1
+  branch_name: Head Office
+  branch_address: Avenida Federico Boyd Y Calle 51 Panama
+  branch_code: XXX
+  city: Panama
+  country: Panama
+- name: Mega International Commercial Bank Co., Ltd.
+  swift: ICBCPAPAXXX
+  swift8: ICBCPAPA
+  branch_name: Head Office
+  branch_address: I.C.B.C. Building Panama
+  branch_code: XXX
+  city: Panama
+  country: Panama
+- name: Mega International Commercial Bank Co., Ltd.
+  swift: ICBCPAPAZLC
+  swift8: ICBCPAPA
+  branch_name: Colon Free Zone Branch
+  branch_address: Panama
+  branch_code: ZLC
+  city: Panama
+  country: Panama
+- name: Atlantic Security Bank
+  swift: ATSEPAP1XXX
+  swift8: ATSEPAP1
+  branch_name: Head Office
+  branch_address: Edificio Vallarino Panama
+  branch_code: XXX
+  city: Panama
+  country: Panama
+- name: Banco Universal S.a.
+  swift: BUNVPAPAXXX
+  swift8: BUNVPAPA
+  branch_name: Head Office
+  branch_address: Torre Banco Universal 08321164 David
+  branch_code: XXX
+  city: David
+  country: Panama
+- name: Citibank, N.a.
+  swift: CITIPAP10PA
+  swift8: CITIPAP1
+  branch_name: Panama
+  branch_address: Panama
+  branch_code: 0PA
+  city: Panama
+  country: Panama
+- name: Citibank, N.a.
+  swift: CITIPAP10PC
+  swift8: CITIPAP1
+  branch_name: Colon
+  branch_address: Colon
+  branch_code: 0PC
+  city: Colon
+  country: Panama
+- name: Citibank, N.a.
+  swift: CITIPAP1XXX
+  swift8: CITIPAP1
+  branch_name: Head Office
+  branch_address: Calle 50, Edificio Plaza Panama, P David
+  branch_code: XXX
+  city: David
+  country: Panama
+- name: A.i. Credit Fusion Inc
+  swift: AICNPAP1XXX
+  swift8: AICNPAP1
+  branch_name: No branch name
+  branch_address: No branch address
+  branch_code: XXX
+  city: Panama City
+  country: Panama
+- name: Allbank Corp.
+  swift: ALLKPAPAXXX
+  swift8: ALLKPAPA
+  branch_name: Head Office
+  branch_address: Torre De Las Americas Torre C 0832-0099 Panama
+  branch_code: XXX
+  city: Panama
+  country: Panama
+- name: Andbanc (panama), S.a.
+  swift: BACAPAPAXXX
+  swift8: BACAPAPA
+  branch_name: Head Office
+  branch_address: Torre Generali Panama
+  branch_code: XXX
+  city: Panama
+  country: Panama
+- name: Ark Investments Sa
+  swift: ARVNPAP1XXX
+  swift8: ARVNPAP1
+  branch_name: No branch name
+  branch_address: No branch address
+  branch_code: XXX
+  city: Panama City
+  country: Panama
+- name: Asphaltos Trade S.a. Panama 9th Floor Office
+  swift: ATPFPAP1XXX
+  swift8: ATPFPAP1
+  branch_name: Head Office
+  branch_address: Ibc Tower, Panama
+  branch_code: XXX
+  city: Panama
+  country: Panama
+- name: Austrobank (overseas) Panama S.a.
+  swift: AUBAPAPAXXX
+  swift8: AUBAPAPA
+  branch_name: Head Office
+  branch_address: Mmg Tower Panama
+  branch_code: XXX
+  city: Panama
+  country: Panama
+- name: Autoridad Del Canal De Panama
+  swift: ACPMPAPAXXX
+  swift8: ACPMPAPA
+  branch_name: Head Office
+  branch_address: Edificio De La Administracion, 2nd 33152-6725 Panama
+  branch_code: XXX
+  city: Panama
+  country: Panama
+- name: Bac International Bank, Inc.
+  swift: BCINPAPAXXX
+  swift8: BCINPAPA
+  branch_name: Head Office
+  branch_address: Torre Bac Credomatic 0819-06536 Panama
+  branch_code: XXX
+  city: Panama
+  country: Panama
+- name: Balboa Bank And Trust Corp
+  swift: BTACPAPAXXX
+  swift8: BTACPAPA
+  branch_name: Head Office
+  branch_address: Banco Trasatlantico Tower 832-0149 Panama
+  branch_code: XXX
+  city: Panama
+  country: Panama
+- name: Balboa Bank And Trust Corp
+  swift: BAUSPAPAXXX
+  swift8: BAUSPAPA
+  branch_name: Head Office
+  branch_address: Torre Generali 0832-1265 Panama
+  branch_code: XXX
+  city: Panama
+  country: Panama
+- name: Banaprest S.a.
+  swift: BNASPAP1XXX
+  swift8: BNASPAP1
+  branch_name: Head Office
+  branch_address: Avenida Patria 850 Y 10 De Agosto Panama
+  branch_code: XXX
+  city: Panama
+  country: Panama
+- name: Banca Privada D'andorra (panama) Sa
+  swift: BPANPAPAXXX
+  swift8: BPANPAPA
+  branch_name: Head Office
+  branch_address: Banca Privada Dandorra 0833-00088 Panama
+  branch_code: XXX
+  city: Panama
+  country: Panama
+- name: Banclear Group Inc
+  swift: BNGOPAP1XXX
+  swift8: BNGOPAP1
+  branch_name: Head Office
+  branch_address: World Trade Center 0832-0807 Panama
+  branch_code: XXX
+  city: Panama
+  country: Panama
+- name: Banclear Wire Transfers Inc
+  swift: BAWTPAP1XXX
+  swift8: BAWTPAP1
+  branch_name: Head Office
+  branch_address: World Trade Center Panama
+  branch_code: XXX
+  city: Panama
+  country: Panama
+- name: Banco Aliado, S.a.
+  swift: BAALPAPAXXX
+  swift8: BAALPAPA
+  branch_name: Head Office
+  branch_address: 50 and 56 Street Panama
+  branch_code: XXX
+  city: Panama
+  country: Panama
+- name: Banco Azteca De Panama Sa
+  swift: AZTKPAPAXXX
+  swift8: AZTKPAPA
+  branch_name: Head Office
+  branch_address: Edificio Plaza America Panama
+  branch_code: XXX
+  city: Panama
+  country: Panama
+- name: Banco Bolivariano Panama S.a.
+  swift: BBOLPAPAXXX
+  swift8: BBOLPAPA
+  branch_name: Head Office
+  branch_address: Torre De Las Americas Panama
+  branch_code: XXX
+  city: Panama
+  country: Panama
+- name: Banco Citibank (panama), S.a.
+  swift: BACUPAPANOS
+  swift8: BACUPAPA
+  branch_name: Panama Branch
+  branch_address: Panama
+  branch_code: NOS
+  city: Panama
+  country: Panama
+- name: Banco Citibank (panama), S.a.
+  swift: BACUPAPAXXX
+  swift8: BACUPAPA
+  branch_name: Head Office
+  branch_address: Edificio Citi 0816-06581 Panama
+  branch_code: XXX
+  city: Panama
+  country: Panama
+- name: Banco Colpatria Panama
+  swift: COLPPAPAXXX
+  swift8: COLPPAPA
+  branch_name: Head Office
+  branch_address: Edificio World Trade Center 083201559 Panama
+  branch_code: XXX
+  city: Panama
+  country: Panama
+- name: Banco Corficolombiana (panama) S.a.
+  swift: CRNMPAP1XXX
+  swift8: CRNMPAP1
+  branch_name: No branch name
+  branch_address: No branch address
+  branch_code: XXX
+  city: Panama
+  country: Panama
+- name: Banco Davivienda (panama), S.a.
+  swift: CAFEPAPAXXX
+  swift8: CAFEPAPA
+  branch_name: Head Office
+  branch_address: Ave.Manuel Maria Icaza Calle 52 Panama
+  branch_code: XXX
+  city: Panama
+  country: Panama
+- name: Banco Davivienda (panama), S.a.
+  swift: CAFEPAPAZLC
+  swift8: CAFEPAPA
+  branch_name: Sucursal Zona Libre
+  branch_address: Colon
+  branch_code: ZLC
+  city: Colon
+  country: Panama
+- name: Banco De Bogota (panama), S.a.
+  swift: BBOGPAPAXXX
+  swift8: BBOGPAPA
+  branch_name: Head Office
+  branch_address: Edificio Banco De Bogota 5 Panama
+  branch_code: XXX
+  city: Panama
+  country: Panama
+- name: Banco De Bogota S.a
+  swift: BBOGPAPBXXX
+  swift8: BBOGPAPB
+  branch_name: Head Office
+  branch_address: Edif Banco De Bogota 0816-02029 Panama
+  branch_code: XXX
+  city: Panama
+  country: Panama
+- name: Banco De La Exportacion (banex) S.a.
+  swift: BAXBPAP1XXX
+  swift8: BAXBPAP1
+  branch_name: Head Office
+  branch_address: Calle 47 Bella Vista 27 7 Panama
+  branch_code: XXX
+  city: Panama
+  country: Panama
+- name: Banco De Occidente (panama), S.a.
+  swift: OCCIPAPAXXX
+  swift8: OCCIPAPA
+  branch_name: Head Office
+  branch_address: Edificio American International Panama
+  branch_code: XXX
+  city: Panama
+  country: Panama
+- name: Banco Del Pacifico (panama) S.a.
+  swift: PACIPAPXXXX
+  swift8: PACIPAPX
+  branch_name: Head Office
+  branch_address: Calle Aquilino De La Guardia Y Panama
+  branch_code: XXX
+  city: Panama
+  country: Panama
+- name: Banco Disa
+  swift: BDISPAP1XXX
+  swift8: BDISPAP1
+  branch_name: Head Office
+  branch_address: Panama
+  branch_code: XXX
+  city: Panama
+  country: Panama
+- name: Banco Do Brasil, S.a.
+  swift: BRASPAP1XXX
+  swift8: BRASPAP1
+  branch_name: Head Office
+  branch_address: Calle Elvira Mendez 10 7 Panama
+  branch_code: XXX
+  city: Panama
+  country: Panama
+- name: Banco Ficohsa (panama), S.a.
+  swift: FCOHPAPAXXX
+  swift8: FCOHPAPA
+  branch_name: Head Office
+  branch_address: Edf. Capital Plaza 0831-00754 Panama
+  branch_code: XXX
+  city: Panama
+  country: Panama
+- name: Banco General S A
+  swift: BAGEPAPAXXX
+  swift8: BAGEPAPA
+  branch_name: Head Office
+  branch_address: Torre Banco General Panama
+  branch_code: XXX
+  city: Panama
+  country: Panama
+- name: Banco Internacional De Costa Rica S.a.
+  swift: COSRPAPAXXX
+  swift8: COSRPAPA
+  branch_name: Head Office
+  branch_address: Calle Manuel Maria Icaza 25 1 Panama
+  branch_code: XXX
+  city: Panama
+  country: Panama
+- name: Banco Lafise Panama
+  swift: BCCEPAPAXXX
+  swift8: BCCEPAPA
+  branch_name: Head Office
+  branch_address: Torre Global Panama
+  branch_code: XXX
+  city: Panama
+  country: Panama
+- name: Banco Latinoamericano De Comercio Exterior, S.a. (bladex
+  swift: BLAEPAPAXXX
+  swift8: BLAEPAPA
+  branch_name: Head Office
+  branch_address: Bladex 0819-08730 Panama
+  branch_code: XXX
+  city: Panama
+  country: Panama
+- name: Banco Nacional De Panama
+  swift: NAPAPAPAXXX
+  swift8: NAPAPAPA
+  branch_name: Head Office
+  branch_address: Torre a Banconal 5 Panama
+  branch_code: XXX
+  city: Panama
+  country: Panama
+- name: Banco Panama S.a.
+  swift: BPTYPAPAXXX
+  swift8: BPTYPAPA
+  branch_name: Head Office
+  branch_address: Ave Manuel Maria Icaza 0823-02854 Panama
+  branch_code: XXX
+  city: Panama
+  country: Panama
+- name: Banco Panameno De La Vivienda
+  swift: BPVVPAPAXXX
+  swift8: BPVVPAPA
+  branch_name: Head Office
+  branch_address: Torre De Aseguradora Mundial 081603366 Panama
+  branch_code: XXX
+  city: Panama
+  country: Panama
+- name: Banco Pichincha Panama
+  swift: PICHPAPAXXX
+  swift8: PICHPAPA
+  branch_name: Head Office
+  branch_address: Edif. Ph Urraca/Sector Bellavista Panama
+  branch_code: XXX
+  city: Panama
+  country: Panama
+- name: Banco Santa Cruz, S.a.
+  swift: SCSPPAP1XXX
+  swift8: SCSPPAP1
+  branch_name: Head Office
+  branch_address: Avenida Samuel Lewis 6-4416 Panama
+  branch_code: XXX
+  city: Panama
+  country: Panama
+- name: Bancolombia Panama S.a.
+  swift: COLOPAPAXXX
+  swift8: COLOPAPA
+  branch_name: Head Office
+  branch_address: Edificio Comosa 8593 Panama Zona 5
+  branch_code: XXX
+  city: Panama Zona
+  country: Panama
+- name: Bancolombia Sucursal Panama
+  swift: COLOPAPSXXX
+  swift8: COLOPAPS
+  branch_name: Head Office
+  branch_address: Towerbank Panama
+  branch_code: XXX
+  city: Panama
+  country: Panama
+- name: Bancredito Panama S.a.
+  swift: NCREPAP1XXX
+  swift8: NCREPAP1
+  branch_name: Head Office
+  branch_address: Edificio Plaza Regency Panama
+  branch_code: XXX
+  city: Panama
+  country: Panama
+- name: Banesco S.a.
+  swift: BANSPAPAXXX
+  swift8: BANSPAPA
+  branch_name: Head Office
+  branch_address: Banesco Building 0823-05879 Panama
+  branch_code: XXX
+  city: Panama
+  country: Panama
+- name: Banisi, S.a.
+  swift: GUAYPAPAXXX
+  swift8: GUAYPAPA
+  branch_name: Head Office
+  branch_address: Ocean Business Place Panama
+  branch_code: XXX
+  city: Panama
+  country: Panama
+- name: Banistmo S.a
+  swift: MIDLPAPA001
+  swift8: MIDLPAPA
+  branch_name: Securities
+  branch_address: Marbella Plaza Hsbc Panama
+  branch_code: '001'
+  city: Panama
+  country: Panama
+- name: Banistmo S.a
+  swift: MIDLPAPACLN
+  swift8: MIDLPAPA
+  branch_name: Colon Branch
+  branch_address: Calle 15 Santa Isabel Colon
+  branch_code: CLN
+  city: Colon
+  country: Panama
+- name: Banistmo S.a
+  swift: MIDLPAPAXXX
+  swift8: MIDLPAPA
+  branch_name: Panama Branch
+  branch_address: Torre Hongkongbank 5 Panama
+  branch_code: XXX
+  city: Panama
+  country: Panama
+- name: Bank Of China, Panama Branch
+  swift: BKCHPAPAXXX
+  swift8: BKCHPAPA
+  branch_name: Head Office
+  branch_address: Bank of China Building 87-1056 Panama
+  branch_code: XXX
+  city: Panama
+  country: Panama
+- name: Bct Bank International, S.a.
+  swift: BCTBPAPAXXX
+  swift8: BCTBPAPA
+  branch_name: Head Office
+  branch_address: World Trade Center 0832-1736 Panama
+  branch_code: XXX
+  city: Panama
+  country: Panama
+- name: Bhd International Bank (panama), S.a.
+  swift: BHINPAPAXXX
+  swift8: BHINPAPA
+  branch_name: Head Office
+  branch_address: Torre Global Bank Panama
+  branch_code: XXX
+  city: Panama
+  country: Panama
+- name: Bolsa De Valores De Panama S.a.
+  swift: XPTYPAP1XXX
+  swift8: XPTYPAP1
+  branch_name: Head Office
+  branch_address: Edificio Vallarino Panama
+  branch_code: XXX
+  city: Panama
+  country: Panama
+- name: Caja De Ahorros
+  swift: CAHRPAPAXXX
+  swift8: CAHRPAPA
+  branch_name: Head Office
+  branch_address: Casa Matriz 0816-06743 Panama
+  branch_code: XXX
+  city: Panama
+  country: Panama
+- name: Caja De Ahorros
+  swift: CAJAPAP1XXX
+  swift8: CAJAPAP1
+  branch_name: Head Office
+  branch_address: Panama
+  branch_code: XXX
+  city: Panama
+  country: Panama
+- name: Capital Bank Inc.
+  swift: CAPBPAPAXXX
+  swift8: CAPBPAPA
+  branch_name: Head Office
+  branch_address: Ph Global Plaza 0832 05992 Panama
+  branch_code: XXX
+  city: Panama
+  country: Panama
+- name: Central Latinoamericana De Valores, S.a.
+  swift: CLVLPAP1XXX
+  swift8: CLVLPAP1
+  branch_name: Head Office
+  branch_address: Edif. Vallarino Panama
+  branch_code: XXX
+  city: Panama
+  country: Panama
+- name: Chase Manhattan Bank, The, Panama
+  swift: CHASPAP1XXX
+  swift8: CHASPAP1
+  branch_name: Head Office
+  branch_address: Plaza Chase 9a Panama
+  branch_code: XXX
+  city: Panama
+  country: Panama
+- name: Citibank N.a. Sucursal Panama
+  swift: CITIPAPASFE
+  swift8: CITIPAPA
+  branch_name: Security Services Panama
+  branch_address: Panama
+  branch_code: SFE
+  city: Panama
+  country: Panama
+- name: Citibank N.a. Sucursal Panama
+  swift: CITIPAPAXXX
+  swift8: CITIPAPA
+  branch_name: Head Office
+  branch_address: Citibank Building Panama
+  branch_code: XXX
+  city: Panama
+  country: Panama
+- name: Colabanco
+  swift: COLNPAP1XXX
+  swift8: COLNPAP1
+  branch_name: Head Office
+  branch_address: Calle 50 Y 56 5 Panama
+  branch_code: XXX
+  city: Panama
+  country: Panama
+- name: Commerce Overseas Bank, S.a.
+  swift: CCIOPAP1XXX
+  swift8: CCIOPAP1
+  branch_name: Head Office
+  branch_address: Avenida Balboa Plaza 403 Panama
+  branch_code: XXX
+  city: Panama
+  country: Panama
+- name: Credicorp Bank S.a
+  swift: CRLDPAPAXXX
+  swift8: CRLDPAPA
+  branch_name: Head Office
+  branch_address: Edif Plaza Credicorp 833-0125 Panama
+  branch_code: XXX
+  city: Panama
+  country: Panama
+- name: Credit Andorra Panama
+  swift: CRDAPAPAXXX
+  swift8: CRDAPAPA
+  branch_name: Head Office
+  branch_address: Torre De Las Americas Panama
+  branch_code: XXX
+  city: Panama
+  country: Panama
+- name: Crypto Capital Corp Sa
+  swift: CYCAPAP1XXX
+  swift8: CYCAPAP1
+  branch_name: No branch name
+  branch_address: No branch address
+  branch_code: XXX
+  city: Panama City
+  country: Panama
+- name: England Foreign Exchange Inc
+  swift: ENFEPAP1XXX
+  swift8: ENFEPAP1
+  branch_name: Head Office
+  branch_address: Plaza Tower Panama
+  branch_code: XXX
+  city: Panama
+  country: Panama
+- name: Filabanco Trust And Banking Corp.
+  swift: FILAPAP1XXX
+  swift8: FILAPAP1
+  branch_name: Head Office
+  branch_address: Torre Banco Aliado, Procomsa Ii 7 Panama
+  branch_code: XXX
+  city: Panama
+  country: Panama
+- name: First Central International Bank Inc.
+  swift: FCINPAPAXXX
+  swift8: FCINPAPA
+  branch_name: Head Office
+  branch_address: Torre Generali Panama
+  branch_code: XXX
+  city: Panama
+  country: Panama
+- name: Fitch Centroamerica (panama
+  swift: FRIPPAP1XXX
+  swift8: FRIPPAP1
+  branch_name: Head Office
+  branch_address: Edificio El Dorado Panama
+  branch_code: XXX
+  city: Panama
+  country: Panama
+- name: Fpb Bank Inc.
+  swift: FPBIPAPAXXX
+  swift8: FPBIPAPA
+  branch_name: Head Office
+  branch_address: P.H. Torre De Las Americas 0832-1796 Panama
+  branch_code: XXX
+  city: Panama
+  country: Panama
+- name: Gaja Bank, Llc
+  swift: GJLCPAP1XXX
+  swift8: GJLCPAP1
+  branch_name: No branch name
+  branch_address: No branch address
+  branch_code: XXX
+  city: Panama
+  country: Panama
+- name: Global Bank Corporation
+  swift: GLBLPAPAXXX
+  swift8: GLBLPAPA
+  branch_name: Head Office
+  branch_address: Global Bank 551843 Panama
+  branch_code: XXX
+  city: Panama
+  country: Panama
+- name: Gnb Sudameris Bank S.a.
+  swift: GNBKPAPAXXX
+  swift8: GNBKPAPA
+  branch_name: Head Office
+  branch_address: Calle Manuel Maria Icaza No. 19 0816-00419 Panama
+  branch_code: XXX
+  city: Panama
+  country: Panama
+- name: Helm Bank (panama) S.a.
+  swift: BCTOPAPAXXX
+  swift8: BCTOPAPA
+  branch_name: Head Office
+  branch_address: World Trade Center 0832-1700 Panama
+  branch_code: XXX
+  city: Panama
+  country: Panama
+- name: Inteligo Bank Ltd
+  swift: IBNKPAPAXXX
+  swift8: IBNKPAPA
+  branch_name: Head Office
+  branch_address: Torre Banco General 0823-00585 Panama
+  branch_code: XXX
+  city: Panama
+  country: Panama
+- name: International Union Bank S.a.
+  swift: IUBKPAPAXXX
+  swift8: IUBKPAPA
+  branch_name: Head Office
+  branch_address: Torres De Las Americas 0832-00391 Panama
+  branch_code: XXX
+  city: Panama
+  country: Panama
+- name: Keen Holding S.a, (banco Prival S.a.
+  swift: KEHPPAPAXXX
+  swift8: KEHPPAPA
+  branch_name: Head Office
+  branch_address: Torres Las Americas (C) 0832-0396 Panama
+  branch_code: XXX
+  city: Panama
+  country: Panama
+- name: Mercantil Bank (panama) S.a.
+  swift: MPANPAPAXXX
+  swift8: MPANPAPA
+  branch_name: Head Office
+  branch_address: Edf. Beta 081905811 Panama
+  branch_code: XXX
+  city: Panama
+  country: Panama
+- name: Metrobank S.a.
+  swift: METOPAPAXXX
+  swift8: METOPAPA
+  branch_name: Head Office
+  branch_address: Metrobank Building 0816-02041 Panama
+  branch_code: XXX
+  city: Panama
+  country: Panama
+- name: Metrobrank
+  swift: METKPAP1XXX
+  swift8: METKPAP1
+  branch_name: Head Office
+  branch_address: Calle 57 Y Elvira Mendez 5 Panama
+  branch_code: XXX
+  city: Panama
+  country: Panama
+- name: Metropolitan Capital Holdings Sa
+  swift: MECDPAP1XXX
+  swift8: MECDPAP1
+  branch_name: No branch name
+  branch_address: No branch address
+  branch_code: XXX
+  city: Panama City
+  country: Panama
+- name: Mmg Bank Corporation
+  swift: MMGBPAPAXXX
+  swift8: MMGBPAPA
+  branch_name: Head Office
+  branch_address: Swiss Tower 0832-2453 Panama
+  branch_code: XXX
+  city: Panama
+  country: Panama
+- name: Multibank Inc.
+  swift: MCTBPAPAXXX
+  swift8: MCTBPAPA
+  branch_name: Head Office
+  branch_address: Prosperidad Panama
+  branch_code: XXX
+  city: Panama
+  country: Panama
+- name: Overseas Clearing Corporation
+  swift: OVCCPAP1XXX
+  swift8: OVCCPAP1
+  branch_name: Head Office
+  branch_address: World Trade Center 0832-0807 Panama
+  branch_code: XXX
+  city: Panama
+  country: Panama
+- name: Petroleos De Latinoamerica S.a.
+  swift: PLAOPAP1XXX
+  swift8: PLAOPAP1
+  branch_name: No branch name
+  branch_address: No branch address
+  branch_code: XXX
+  city: Panama City
+  country: Panama
+- name: Pkb Banca Privada (panama) Sa
+  swift: PKBSPAP1XXX
+  swift8: PKBSPAP1
+  branch_name: Head Office
+  branch_address: Torre Des Las Americas Panama
+  branch_code: XXX
+  city: Panama
+  country: Panama
+- name: Popular Bank Ltd. Inc.
+  swift: BPDOPAPAXXX
+  swift8: BPDOPAPA
+  branch_name: Head Office
+  branch_address: Torre Banco General Panama
+  branch_code: XXX
+  city: Panama
+  country: Panama
+- name: Rsi Capital Holdings
+  swift: RSCHPAP1XXX
+  swift8: RSCHPAP1
+  branch_name: Head Office
+  branch_address: Colinas De Las Cumbres 44b Panama
+  branch_code: XXX
+  city: Panama
+  country: Panama
+- name: Samsung Electronics Latin America Panama (zona Libre) S.a.
+  swift: SECTPAP1810
+  swift8: SECTPAP1
+  branch_name: Selapa
+  branch_address: Edificio P.H. Plaza, Credicorp Bank 08330042 Panama
+  branch_code: '810'
+  city: Panama
+  country: Panama
+- name: Samsung Electronics Latin America Panama (zona Libre) S.a.
+  swift: SECTPAP1XXX
+  swift8: SECTPAP1
+  branch_name: Head Office
+  branch_address: Edificio P.H. Plaza, Credicorp Bank 08330042 Panama
+  branch_code: XXX
+  city: Panama
+  country: Panama
+- name: Scandia Credit Corporation S.a.
+  swift: SWCCPAP1XXX
+  swift8: SWCCPAP1
+  branch_name: Head Office
+  branch_address: World Trade Center 8320807 Panama
+  branch_code: XXX
+  city: Panama
+  country: Panama
+- name: St. Georges Bank
+  swift: STGBPAPAXXX
+  swift8: STGBPAPA
+  branch_name: Head Office
+  branch_address: Ph St. Georges Bank 08321384 Panama
+  branch_code: XXX
+  city: Panama
+  country: Panama
+- name: Towerbank International Inc.
+  swift: TIINPAP1XXX
+  swift8: TIINPAP1
+  branch_name: Head Office
+  branch_address: Calle 50 Y Beatriz M. De Cabal Colon
+  branch_code: XXX
+  city: Colon
+  country: Panama
+- name: Towerbank International, Inc.
+  swift: TOWEPAPAXXX
+  swift8: TOWEPAPA
+  branch_name: Head Office
+  branch_address: Edificio Tower Plaza Panama
+  branch_code: XXX
+  city: Panama
+  country: Panama
+- name: Unibank, S.a.
+  swift: UNIBPAPAXXX
+  swift8: UNIBPAPA
+  branch_name: Head Office
+  branch_address: Edf. Grand Bay Tower Pb Panama
+  branch_code: XXX
+  city: Panama
+  country: Panama

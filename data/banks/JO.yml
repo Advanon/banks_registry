@@ -1,0 +1,1122 @@
+---
+JO:
+- name: Arab Bank Plc
+  swift: ARABJOA1023
+  swift8: ARABJOA1
+  branch_name: Madaba Branch
+  branch_address: Madaba
+  branch_code: '023'
+  city: Madaba
+  country: Jordan
+- name: Arab Bank Plc
+  swift: ARABJOA1026
+  swift8: ARABJOA1
+  branch_name: Salt Branch
+  branch_address: Salt
+  branch_code: '026'
+  city: Salt
+  country: Jordan
+- name: Arab Bank Plc
+  swift: ARABJOA102M
+  swift8: ARABJOA1
+  branch_name: Maan Branch
+  branch_address: Maan
+  branch_code: 02M
+  city: Ma'An
+  country: Jordan
+- name: Arab Bank Plc
+  swift: ARABJOAX100
+  swift8: ARABJOAX
+  branch_name: Jordan Branches Centre
+  branch_address: Shaker Ben Zaid Street Shmeisani Amman
+  branch_code: '100'
+  city: Amman
+  country: Jordan
+- name: Arab Bank Plc
+  swift: ARABJOAX102
+  swift8: ARABJOAX
+  branch_name: Karak Branch
+  branch_address: Karak
+  branch_code: '102'
+  city: Karak
+  country: Jordan
+- name: Arab Bank Plc
+  swift: ARABJOAX104
+  swift8: ARABJOAX
+  branch_name: Mafraq Branch
+  branch_address: Mafraq
+  branch_code: '104'
+  city: Mafraq
+  country: Jordan
+- name: Arab Bank Plc
+  swift: ARABJOAX105
+  swift8: ARABJOAX
+  branch_name: Russeifa Branch
+  branch_address: Russeifa
+  branch_code: '105'
+  city: Russeifa
+  country: Jordan
+- name: Arab Bank Plc
+  swift: ARABJOAX107
+  swift8: ARABJOAX
+  branch_name: Jerash Branch
+  branch_address: Jerash
+  branch_code: '107'
+  city: Jerash
+  country: Jordan
+- name: Arab Bank Plc
+  swift: ARABJOAX108
+  swift8: ARABJOAX
+  branch_name: Quraysh Street Branch
+  branch_address: Quraish Street - Saqf Al Sail Amman
+  branch_code: '108'
+  city: Amman
+  country: Jordan
+- name: Arab Bank Plc
+  swift: ARABJOAX110
+  swift8: ARABJOAX
+  branch_name: Suweileh Branch
+  branch_address: Amman
+  branch_code: '110'
+  city: Amman
+  country: Jordan
+- name: Arab Bank Plc
+  swift: ARABJOAX111
+  swift8: ARABJOAX
+  branch_name: King Faisal Street
+  branch_address: King Faisal Street Amman
+  branch_code: '111'
+  city: Amman
+  country: Jordan
+- name: Arab Bank Plc
+  swift: ARABJOAX112
+  swift8: ARABJOAX
+  branch_name: Mahatia Street Branch
+  branch_address: Amman
+  branch_code: '112'
+  city: Amman
+  country: Jordan
+- name: Arab Bank Plc
+  swift: ARABJOAX113
+  swift8: ARABJOAX
+  branch_name: Jabal Luweibdeh Branch
+  branch_address: Amman
+  branch_code: '113'
+  city: Amman
+  country: Jordan
+- name: Arab Bank Plc
+  swift: ARABJOAX114
+  swift8: ARABJOAX
+  branch_name: Wahdat Branch
+  branch_address: Amman
+  branch_code: '114'
+  city: Amman
+  country: Jordan
+- name: Arab Bank Plc
+  swift: ARABJOAX115
+  swift8: ARABJOAX
+  branch_name: Jabal Amman Branch
+  branch_address: Amman
+  branch_code: '115'
+  city: Amman
+  country: Jordan
+- name: Arab Bank Plc
+  swift: ARABJOAX116
+  swift8: ARABJOAX
+  branch_name: Jabal Hussein Branch
+  branch_address: Khaled Ben Alwaleed Street Amman
+  branch_code: '116'
+  city: Amman
+  country: Jordan
+- name: Arab Bank Plc
+  swift: ARABJOAX117
+  swift8: ARABJOAX
+  branch_name: Marqa Branch
+  branch_address: Marqa
+  branch_code: '117'
+  city: Marqa
+  country: Jordan
+- name: Arab Bank Plc
+  swift: ARABJOAX118
+  swift8: ARABJOAX
+  branch_name: Shmeisani Branch
+  branch_address: Shaker Ben Zeid Street Shmeisani Amman
+  branch_code: '118'
+  city: Amman
+  country: Jordan
+- name: Arab Bank Plc
+  swift: ARABJOAX119
+  swift8: ARABJOAX
+  branch_name: Abdali Branch
+  branch_address: Amman
+  branch_code: '119'
+  city: Amman
+  country: Jordan
+- name: Arab Bank Plc
+  swift: ARABJOAX120
+  swift8: ARABJOAX
+  branch_name: Irbid Branch
+  branch_address: King Abdul Square Irbid
+  branch_code: '120'
+  city: Irbid
+  country: Jordan
+- name: Arab Jordan Investment Bank
+  swift: AJIBJOAXXXX
+  swift8: AJIBJOAX
+  branch_name: Head Office
+  branch_address: Arab Jordan Investment Bank Bldg 11121 Amman
+  branch_code: XXX
+  city: Amman
+  country: Jordan
+- name: Blom Bank S.A.L.
+  swift: BLOMJOAMXXX
+  swift8: BLOMJOAM
+  branch_name: Head Office
+  branch_address: Blom Bldg. 11193 Amman
+  branch_code: XXX
+  city: Amman
+  country: Jordan
+- name: Citibank N.A.
+  swift: CITIJOAXXXX
+  swift8: CITIJOAX
+  branch_name: Head Office
+  branch_address: Amman
+  branch_code: XXX
+  city: Amman
+  country: Jordan
+- name: Jordan Ahli Bank Plc
+  swift: JONBJOAXXXX
+  swift8: JONBJOAX
+  branch_name: Jordan Branches Management
+  branch_address: Jordan Bchs Management Building 11118 Amman
+  branch_code: XXX
+  city: Amman
+  country: Jordan
+- name: National Bank Of Abu Dhabi
+  swift: NBADJOAMTFO
+  swift8: NBADJOAM
+  branch_name: Trade Finance Department
+  branch_address: Amman
+  branch_code: TFO
+  city: Amman
+  country: Jordan
+- name: National Bank Of Abu Dhabi
+  swift: NBADJOAMXXX
+  swift8: NBADJOAM
+  branch_name: Head Office
+  branch_address: Abdul Hameed Sharff Street Amman
+  branch_code: XXX
+  city: Amman
+  country: Jordan
+- name: Standard Chartered Bank
+  swift: SCBLJOA102A
+  swift8: SCBLJOA1
+  branch_name: Aqaba
+  branch_address: Aqaba
+  branch_code: 02A
+  city: Aqaba
+  country: Jordan
+- name: Standard Chartered Bank
+  swift: SCBLJOA102I
+  swift8: SCBLJOA1
+  branch_name: Irbid
+  branch_address: Irbid
+  branch_code: 02I
+  city: Irbid
+  country: Jordan
+- name: Standard Chartered Bank
+  swift: SCBLJOAXXXX
+  swift8: SCBLJOAX
+  branch_name: Head Office
+  branch_address: Shemeisani Abdel Wahhab Street 11190 Amman
+  branch_code: XXX
+  city: Amman
+  country: Jordan
+- name: Egyptian Arab Land Bank
+  swift: ARLBJOAMXXX
+  swift8: ARLBJOAM
+  branch_name: Head Office
+  branch_address: 94 Queen Nour 11118 Amman
+  branch_code: XXX
+  city: Amman
+  country: Jordan
+- name: Abc Investments
+  swift: ABCVJOA1XXX
+  swift8: ABCVJOA1
+  branch_name: Head Office
+  branch_address: Rania Abdulla St Amman
+  branch_code: XXX
+  city: Amman
+  country: Jordan
+- name: Abdul Kareem Al-rawi And Partner Exchange Co
+  swift: RAWIJOAMXXX
+  swift8: RAWIJOAM
+  branch_name: Head Office
+  branch_address: Alfaislya Building 67 Amman
+  branch_code: XXX
+  city: Amman
+  country: Jordan
+- name: Agricultural Credit Corporation
+  swift: ACRCJOA1XXX
+  swift8: ACRCJOA1
+  branch_name: Head Office
+  branch_address: Al-Abdali Amman
+  branch_code: XXX
+  city: Amman
+  country: Jordan
+- name: Ahli Brokerage Company
+  swift: AHBOJOA1XXX
+  swift8: AHBOJOA1
+  branch_name: Head Office
+  branch_address: Prince Zaid Bin Shaker-Shmesani Amman
+  branch_code: XXX
+  city: Amman
+  country: Jordan
+- name: Ajiad For Securities
+  swift: AJSEJOA1XXX
+  swift8: AJSEJOA1
+  branch_name: Head Office
+  branch_address: Abdoun1 Amman
+  branch_code: XXX
+  city: Amman
+  country: Jordan
+- name: Al Alami Exchange Company
+  swift: ALEYJOAMXXX
+  swift8: ALEYJOAM
+  branch_name: Head Office
+  branch_address: Haddad Building 922218 Amman
+  branch_code: XXX
+  city: Amman
+  country: Jordan
+- name: Al Alami Exchange Company
+  swift: ALEYJOA1XXX
+  swift8: ALEYJOA1
+  branch_name: Head Office
+  branch_address: Haddad Building 922218 Amman
+  branch_code: XXX
+  city: Amman
+  country: Jordan
+- name: Al Amal Financial Invesments Co. Ltd
+  swift: AMFNJOA1XXX
+  swift8: AMFNJOA1
+  branch_name: Head Office
+  branch_address: Fifth Circle Amman
+  branch_code: XXX
+  city: Amman
+  country: Jordan
+- name: Al Arabi Investment Group Co.
+  swift: ATIGJOA1XXX
+  swift8: ATIGJOA1
+  branch_name: Head Office
+  branch_address: Building 1 Amman
+  branch_code: XXX
+  city: Amman
+  country: Jordan
+- name: Al Arabi Investment Group Company
+  swift: AIGMJOA1XXX
+  swift8: AIGMJOA1
+  branch_name: Head Office
+  branch_address: Abdalla Bin Rawaha St Al Rabieh Amman
+  branch_code: XXX
+  city: Amman
+  country: Jordan
+- name: Al Awael International
+  swift: AWAIJOA1XXX
+  swift8: AWAIJOA1
+  branch_name: Head Office
+  branch_address: Queen Rania Street Amman
+  branch_code: XXX
+  city: Amman
+  country: Jordan
+- name: Al Fares For Financial Invest Co
+  swift: FRRSJOA1XXX
+  swift8: FRRSJOA1
+  branch_name: Head Office
+  branch_address: Amman Street Irbid
+  branch_code: XXX
+  city: Irbid
+  country: Jordan
+- name: Al Mawared For Brokerage Company
+  swift: MBRCJOA1XXX
+  swift8: MBRCJOA1
+  branch_name: Head Office
+  branch_address: Issam Al Ajtouni Amman
+  branch_code: XXX
+  city: Amman
+  country: Jordan
+- name: Al Rajhi Bank, Jordan Branch
+  swift: RJHIJOAMXXX
+  swift8: RJHIJOAM
+  branch_name: Head Office
+  branch_address: Jabal Amman 999 Amman
+  branch_code: XXX
+  city: Amman
+  country: Jordan
+- name: Al Wameedh For Financial Services And Investment
+  swift: WFSIJOA1XXX
+  swift8: WFSIJOA1
+  branch_name: Head Office
+  branch_address: Um Uthaina Amman
+  branch_code: XXX
+  city: Amman
+  country: Jordan
+- name: Al-aula Financial Investments
+  swift: ALNTJOA1XXX
+  swift8: ALNTJOA1
+  branch_name: Head Office
+  branch_address: Nour St Amman
+  branch_code: XXX
+  city: Amman
+  country: Jordan
+- name: Al-bilad For Securities And Investment
+  swift: ALSVJOA1XXX
+  swift8: ALSVJOA1
+  branch_name: Head Office
+  branch_address: Rainbow Street Amman
+  branch_code: XXX
+  city: Amman
+  country: Jordan
+- name: Al-hekma Financial Services
+  swift: ALLEJOA1XXX
+  swift8: ALLEJOA1
+  branch_name: Head Office
+  branch_address: Alawoun St Amman
+  branch_code: XXX
+  city: Amman
+  country: Jordan
+- name: Al-nakheel Exchange
+  swift: NAKHJOAMXXX
+  swift8: NAKHJOAM
+  branch_name: Head Office
+  branch_address: Gardens Street 26 928137 Amman
+  branch_code: XXX
+  city: Amman
+  country: Jordan
+- name: Al-omana'a Portfolio And Investment
+  swift: ALPMJOA1XXX
+  swift8: ALPMJOA1
+  branch_name: Head Office
+  branch_address: Airport Road Amman
+  branch_code: XXX
+  city: Amman
+  country: Jordan
+- name: Al-sahm International For Investment And Brokerage
+  swift: AIIRJOA1XXX
+  swift8: AIIRJOA1
+  branch_name: Head Office
+  branch_address: Shmesani Culture Street Amman
+  branch_code: XXX
+  city: Amman
+  country: Jordan
+- name: Al-salam For Financial Investments
+  swift: ASFTJOA1XXX
+  swift8: ASFTJOA1
+  branch_name: Head Office
+  branch_address: Almanarah Street Amman
+  branch_code: XXX
+  city: Amman
+  country: Jordan
+- name: Al-shorouq Financial Brokers
+  swift: ALNBJOA1XXX
+  swift8: ALNBJOA1
+  branch_name: Head Office
+  branch_address: 1st Circle Amman
+  branch_code: XXX
+  city: Amman
+  country: Jordan
+- name: Al-watanieh For Financial Services Co.
+  swift: ALNEJOA1XXX
+  swift8: ALNEJOA1
+  branch_name: Head Office
+  branch_address: Abdoun Amman
+  branch_code: XXX
+  city: Amman
+  country: Jordan
+- name: Alawneh Exchange L.l.c
+  swift: ALELJOAMXXX
+  swift8: ALELJOAM
+  branch_name: Head Office
+  branch_address: 15 Abdulhamid Shoman Str Amman
+  branch_code: XXX
+  city: Amman
+  country: Jordan
+- name: Aleman Financial Investment
+  swift: ALNVJOA1XXX
+  swift8: ALNVJOA1
+  branch_name: Head Office
+  branch_address: Abdoun St 34 Amman
+  branch_code: XXX
+  city: Amman
+  country: Jordan
+- name: Alnour For Financial Investments
+  swift: ANFNJOA1XXX
+  swift8: ANFNJOA1
+  branch_name: Head Office
+  branch_address: Jordan University Street Amman
+  branch_code: XXX
+  city: Amman
+  country: Jordan
+- name: Alsafwa Finincial Investments
+  swift: ASFVJOA1XXX
+  swift8: ASFVJOA1
+  branch_name: Head Office
+  branch_address: Al Qahirah Street Amman
+  branch_code: XXX
+  city: Amman
+  country: Jordan
+- name: Aman For Securities
+  swift: AMSIJOA1XXX
+  swift8: AMSIJOA1
+  branch_name: Head Office
+  branch_address: Amman St Amman
+  branch_code: XXX
+  city: Amman
+  country: Jordan
+- name: Amman Bank For Investments
+  swift: AMBIJOM1XXX
+  swift8: AMBIJOM1
+  branch_name: Head Office
+  branch_address: Wasci Al-Tal Street 11180 Amman
+  branch_code: XXX
+  city: Amman
+  country: Jordan
+- name: Amman Stock Exchange
+  swift: XAMMJOA1XXX
+  swift8: XAMMJOA1
+  branch_name: Head Office
+  branch_address: Amman
+  branch_code: XXX
+  city: Amman
+  country: Jordan
+- name: Amwal Brokerage
+  swift: AMWBJOA1XXX
+  swift8: AMWBJOA1
+  branch_name: Head Office
+  branch_address: Abdoun St Amman
+  branch_code: XXX
+  city: Amman
+  country: Jordan
+- name: Arab Banking Corporation (jordan
+  swift: ABCJJOAMXXX
+  swift8: ABCJJOAM
+  branch_name: Head Office
+  branch_address: Queen Nour Street 1110 Amman
+  branch_code: XXX
+  city: Amman
+  country: Jordan
+- name: Arab Falcon For Selling And Buying Securities
+  swift: AFSUJOA1XXX
+  swift8: AFSUJOA1
+  branch_name: Head Office
+  branch_address: Rania St 343 Amman
+  branch_code: XXX
+  city: Amman
+  country: Jordan
+- name: Asia Stock Brokers
+  swift: ASSKJOA1XXX
+  swift8: ASSKJOA1
+  branch_name: Head Office
+  branch_address: Queen Rania Street Amman
+  branch_code: XXX
+  city: Amman
+  country: Jordan
+- name: Awraq Investment
+  swift: AWRIJOA1XXX
+  swift8: AWRIJOA1
+  branch_name: Head Office
+  branch_address: Saad Bin Abi Wakas Amman
+  branch_code: XXX
+  city: Amman
+  country: Jordan
+- name: Baghdad Exchange Co.
+  swift: BAEXJOAMXXX
+  swift8: BAEXJOAM
+  branch_name: Head Office
+  branch_address: King Faisal Str. 6764/11118 Amman
+  branch_code: XXX
+  city: Amman
+  country: Jordan
+- name: Bank Aletihad
+  swift: UBSIJOAXXXX
+  swift8: UBSIJOAX
+  branch_name: Head Office
+  branch_address: Chamber of Commerce Building 11180 Amman
+  branch_code: XXX
+  city: Amman
+  country: Jordan
+- name: Bank Audi Sal-audi Saradar Group-jordan Branches
+  swift: AUDBJOAMXXX
+  swift8: AUDBJOAM
+  branch_name: Head Office
+  branch_address: Le Royal Hotel Complex 11184 Amman
+  branch_code: XXX
+  city: Amman
+  country: Jordan
+- name: Bank Of Jordan Plc
+  swift: BJORJOAXXXX
+  swift8: BJORJOAX
+  branch_name: Head Office
+  branch_address: Shmeisani Abdel Hamid Sharaf Street 11118 Amman
+  branch_code: XXX
+  city: Amman
+  country: Jordan
+- name: Business Women Trading Securities
+  swift: BWTSJOA1XXX
+  swift8: BWTSJOA1
+  branch_name: Head Office
+  branch_address: 2nd Circle Amman
+  branch_code: XXX
+  city: Amman
+  country: Jordan
+- name: Cairo Amman Bank
+  swift: CAABJOAMXXX
+  swift8: CAABJOAM
+  branch_name: Head Office
+  branch_address: Wadi Saqra Street 11194 Amman
+  branch_code: XXX
+  city: Amman
+  country: Jordan
+- name: Capital Bank Of Jordan
+  swift: EFBKJOAMXXX
+  swift8: EFBKJOAM
+  branch_name: Head Office
+  branch_address: Efd Building 11194 Amman
+  branch_code: XXX
+  city: Amman
+  country: Jordan
+- name: Capital Investments
+  swift: CPIVJOA1XXX
+  swift8: CPIVJOA1
+  branch_name: Head Office
+  branch_address: Issam Ajluni-Shmesani Amman
+  branch_code: XXX
+  city: Amman
+  country: Jordan
+- name: Central Bank Of Jordan
+  swift: CBJOJOAX021
+  swift8: CBJOJOAX
+  branch_name: Irbid Branch
+  branch_address: Irbid
+  branch_code: '021'
+  city: Irbid
+  country: Jordan
+- name: Central Bank Of Jordan
+  swift: CBJOJOAX02A
+  swift8: CBJOJOAX
+  branch_name: Aqaba Branch
+  branch_address: Aqaba
+  branch_code: 02A
+  city: Aqaba
+  country: Jordan
+- name: Central Bank Of Jordan
+  swift: CBJOJOAXXXX
+  swift8: CBJOJOAX
+  branch_name: Head Office
+  branch_address: Central Bank of Jordan Building 11118 Amman
+  branch_code: XXX
+  city: Amman
+  country: Jordan
+- name: Cities And Villages Development Bank
+  swift: CVDBJOA102I
+  swift8: CVDBJOA1
+  branch_name: Irbid
+  branch_address: Irbid
+  branch_code: 02I
+  city: Irbid
+  country: Jordan
+- name: Cities And Villages Development Bank
+  swift: CVDBJOA102K
+  swift8: CVDBJOA1
+  branch_name: Karak
+  branch_address: Municipality Street Karak
+  branch_code: 02K
+  city: Karak
+  country: Jordan
+- name: Cities And Villages Development Bank
+  swift: CVDBJOA1XXX
+  swift8: CVDBJOA1
+  branch_name: Head Office
+  branch_address: Cvdb Building Amman
+  branch_code: XXX
+  city: Amman
+  country: Jordan
+- name: Delta Financial Investments
+  swift: DEFVJOA1XXX
+  swift8: DEFVJOA1
+  branch_name: Head Office
+  branch_address: 5th Cirlce Amman
+  branch_code: XXX
+  city: Amman
+  country: Jordan
+- name: Elite Financial Services
+  swift: ELFEJOA1XXX
+  swift8: ELFEJOA1
+  branch_name: No branch name
+  branch_address: No branch address
+  branch_code: XXX
+  city: Amman
+  country: Jordan
+- name: Experts Financial Services
+  swift: EXFSJOA1XXX
+  swift8: EXFSJOA1
+  branch_name: Head Office
+  branch_address: 3rd Circle Amman
+  branch_code: XXX
+  city: Amman
+  country: Jordan
+- name: Friends Financial Investment And Brokerage
+  swift: FFIBJOA1XXX
+  swift8: FFIBJOA1
+  branch_name: Head Office
+  branch_address: Amman3454 Amman
+  branch_code: XXX
+  city: Amman
+  country: Jordan
+- name: Future Exchange Co., Ltd.
+  swift: FUEXJOAMXXX
+  swift8: FUEXJOAM
+  branch_name: Head Office
+  branch_address: Al-Dabbas Building 11195 Amman
+  branch_code: XXX
+  city: Amman
+  country: Jordan
+- name: Global Investment House Jordan
+  swift: GIHJJOA1XXX
+  swift8: GIHJJOA1
+  branch_name: Head Office
+  branch_address: Amman 00000 Amman
+  branch_code: XXX
+  city: Amman
+  country: Jordan
+- name: Housing Bank For Trade And Finance, The
+  swift: HBHOJOAXXXX
+  swift8: HBHOJOAX
+  branch_name: Head Office
+  branch_address: Parliament Street, Al Abdali 11118 Amman
+  branch_code: XXX
+  city: Amman
+  country: Jordan
+- name: Imcan For Financial Services
+  swift: IMFSJOA1XXX
+  swift8: IMFSJOA1
+  branch_name: Head Office
+  branch_address: Abed Al Maim Riad 68 911447 Amman
+  branch_code: XXX
+  city: Amman
+  country: Jordan
+- name: Industrial Development Bank
+  swift: IDEVJOA1XXX
+  swift8: IDEVJOA1
+  branch_name: Head Office
+  branch_address: St King Hussain Amman
+  branch_code: XXX
+  city: Amman
+  country: Jordan
+- name: International Financial Advisors
+  swift: IFAVJOA1XXX
+  swift8: IFAVJOA1
+  branch_name: Head Office
+  branch_address: Alabdali St 22 Amman
+  branch_code: XXX
+  city: Amman
+  country: Jordan
+- name: International Financial Center
+  swift: ITFEJOA1XXX
+  swift8: ITFEJOA1
+  branch_name: Head Office
+  branch_address: Building Num 21 Amman
+  branch_code: XXX
+  city: Amman
+  country: Jordan
+- name: Investment And Securities
+  swift: ISEUJOA1XXX
+  swift8: ISEUJOA1
+  branch_name: Head Office
+  branch_address: Rabieh St 2445 Amman
+  branch_code: XXX
+  city: Amman
+  country: Jordan
+- name: Investment House For Financial Services
+  swift: IHFSJOA1XXX
+  swift8: IHFSJOA1
+  branch_name: Head Office
+  branch_address: 1st Circle Amman
+  branch_code: XXX
+  city: Amman
+  country: Jordan
+- name: Islamic International Arab Bank
+  swift: IIBAJOAM100
+  swift8: IIBAJOAM
+  branch_name: Central Operations Department Lcs
+  branch_address: Wasfi Al Tal Street, Tla Al-Ali 11953 Amman
+  branch_code: '100'
+  city: Amman
+  country: Jordan
+- name: Islamic International Arab Bank
+  swift: IIBAJOAM200
+  swift8: IIBAJOAM
+  branch_name: Central Operations Department Transfers
+  branch_address: Amman
+  branch_code: '200'
+  city: Amman
+  country: Jordan
+- name: Islamic International Arab Bank
+  swift: IIBAJOAM300
+  swift8: IIBAJOAM
+  branch_name: Central Operations Department Lgs and Bcs
+  branch_address: Yarmouk Street, Wahdat 11152 Amman
+  branch_code: '300'
+  city: Amman
+  country: Jordan
+- name: Islamic International Arab Bank
+  swift: IIBAJOAMJBC
+  swift8: IIBAJOAM
+  branch_name: Central Operations Department Back Office
+  branch_address: Wasfi Al Taj Street, Ila Al-Ali 11953 Amman
+  branch_code: JBC
+  city: Amman
+  country: Jordan
+- name: Islamic International Arab Bank
+  swift: IIBAJOAMXXX
+  swift8: IIBAJOAM
+  branch_name: Head Office
+  branch_address: Wasfi Al Tal Street, Tla Al-Ali 11110 Amman
+  branch_code: XXX
+  city: Amman
+  country: Jordan
+- name: Jordan And Gulf Investment Industrial
+  swift: JGIIJOA1XXX
+  swift8: JGIIJOA1
+  branch_name: Head Office
+  branch_address: 5th Circle Amman
+  branch_code: XXX
+  city: Amman
+  country: Jordan
+- name: Jordan Commercial Bank
+  swift: JGBAJOAMXXX
+  swift8: JGBAJOAM
+  branch_name: Head Office
+  branch_address: Yacoub Sarouf Street 11191 Amman
+  branch_code: XXX
+  city: Amman
+  country: Jordan
+- name: Jordan Dubai Islamic Bank
+  swift: JDIBJOAMXXX
+  swift8: JDIBJOAM
+  branch_name: Head Office
+  branch_address: Jabal Amman 11118 Amman
+  branch_code: XXX
+  city: Amman
+  country: Jordan
+- name: Jordan Islamic Bank
+  swift: JIBAJOAM110
+  swift8: JIBAJOAM
+  branch_name: Amman Branch
+  branch_address: King Faisal Street 11110 Amman
+  branch_code: '110'
+  city: Amman
+  country: Jordan
+- name: Jordan Islamic Bank
+  swift: JIBAJOAM111
+  swift8: JIBAJOAM
+  branch_name: Al-Hussein Branch
+  branch_address: Khalid Bin-Al Walid Street 11110 Amman
+  branch_code: '111'
+  city: Amman
+  country: Jordan
+- name: Jordan Islamic Bank
+  swift: JIBAJOAM112
+  swift8: JIBAJOAM
+  branch_name: Saqf El-Sail Branch
+  branch_address: Saqf El-Sail Street 11118 Amman
+  branch_code: '112'
+  city: Amman
+  country: Jordan
+- name: Jordan Islamic Bank
+  swift: JIBAJOAM113
+  swift8: JIBAJOAM
+  branch_name: Al-Yarmouk Street Branch
+  branch_address: Jordan Islamic Bank for Finance 11162 Amman
+  branch_code: '113'
+  city: Amman
+  country: Jordan
+- name: Jordan Islamic Bank
+  swift: JIBAJOAM115
+  swift8: JIBAJOAM
+  branch_name: H O
+  branch_address: 11th August Str. Shmeisani 11190 Amman
+  branch_code: '115'
+  city: Amman
+  country: Jordan
+- name: Jordan Islamic Bank
+  swift: JIBAJOAMXXX
+  swift8: JIBAJOAM
+  branch_name: Head Office
+  branch_address: 11 Aab Street, Shmeisani Amman
+  branch_code: XXX
+  city: Amman
+  country: Jordan
+- name: Jordan Kuwait Bank
+  swift: JKBAJOAMXXX
+  swift8: JKBAJOAM
+  branch_name: Head Office
+  branch_address: Abdali Commercial Centre 11191 Amman
+  branch_code: XXX
+  city: Amman
+  country: Jordan
+- name: Jordan River Financial Investment
+  swift: JRFIJOA1XXX
+  swift8: JRFIJOA1
+  branch_name: Head Office
+  branch_address: Rainbow Street Amman
+  branch_code: XXX
+  city: Amman
+  country: Jordan
+- name: Kamal Exchange Co L.l.c
+  swift: MAKSJOAXXXX
+  swift8: MAKSJOAX
+  branch_name: Head Office
+  branch_address: Kamal Complex Amman
+  branch_code: XXX
+  city: Amman
+  country: Jordan
+- name: Kamiran Ali And Partner Exchange Co
+  swift: HUDAJOAMXXX
+  swift8: HUDAJOAM
+  branch_name: Head Office
+  branch_address: Aljumaira Center 11192 Amman
+  branch_code: XXX
+  city: Amman
+  country: Jordan
+- name: Khaled Hasan, Hadi Washaka, And Muwaffaq Abdel Jaleel Exchange Co.
+  swift: KHHWJOAMXXX
+  swift8: KHHWJOAM
+  branch_name: Head Office
+  branch_address: Alridha St. Qala Almadina 11191 Amman
+  branch_code: XXX
+  city: Amman
+  country: Jordan
+- name: Lbda' For Financial Investment
+  swift: LBDAJOA1XXX
+  swift8: LBDAJOA1
+  branch_name: Head Office
+  branch_address: Ibdaa St Amman
+  branch_code: XXX
+  city: Amman
+  country: Jordan
+- name: Moh'd Fawas Abu Ennaser And Partners Exchange Company
+  swift: ABOXJOA1XXX
+  swift8: ABOXJOA1
+  branch_name: Head Office
+  branch_address: Al Rida 7 Amman
+  branch_code: XXX
+  city: Amman
+  country: Jordan
+- name: Mubadala Financial Investments
+  swift: MUFNJOA1XXX
+  swift8: MUFNJOA1
+  branch_name: Head Office
+  branch_address: Rania Abdulla St Amman
+  branch_code: XXX
+  city: Amman
+  country: Jordan
+- name: National Bank Of Kuwait
+  swift: NBOKJOAMXXX
+  swift8: NBOKJOAM
+  branch_name: Head Office
+  branch_address: National Bank of Kuwait 11181 Amman
+  branch_code: XXX
+  city: Amman
+  country: Jordan
+- name: National Portfolio Securities
+  swift: NAPSJOA1XXX
+  swift8: NAPSJOA1
+  branch_name: Head Office
+  branch_address: Abdalla St Amman
+  branch_code: XXX
+  city: Amman
+  country: Jordan
+- name: National Securities Company
+  swift: NSECJOA1XXX
+  swift8: NSECJOA1
+  branch_name: Head Office
+  branch_address: Amman
+  branch_code: XXX
+  city: Amman
+  country: Jordan
+- name: Osool Inv And Fin Srv Co
+  swift: OIFSJOA1XXX
+  swift8: OIFSJOA1
+  branch_name: Head Office
+  branch_address: Altajamooa Amman
+  branch_code: XXX
+  city: Amman
+  country: Jordan
+- name: Palestine Establishment For Exchange
+  swift: NADIJOA1XXX
+  swift8: NADIJOA1
+  branch_name: Head Office
+  branch_address: King Faisal Street Amman
+  branch_code: XXX
+  city: Amman
+  country: Jordan
+- name: Sabaek For Financial Services
+  swift: SALEJOA1XXX
+  swift8: SALEJOA1
+  branch_name: Head Office
+  branch_address: Swifieh St Amman
+  branch_code: XXX
+  city: Amman
+  country: Jordan
+- name: Samir And Sameh Bros. For Investment
+  swift: SSBNJOA1XXX
+  swift8: SSBNJOA1
+  branch_name: Head Office
+  branch_address: Building 23 Amman
+  branch_code: XXX
+  city: Amman
+  country: Jordan
+- name: Samsung Electronics Levant Ltd.
+  swift: SECTJOA1770
+  swift8: SECTJOA1
+  branch_name: Amman
+  branch_address: 6th Circle Emmar Tower Amman
+  branch_code: '770'
+  city: Amman
+  country: Jordan
+- name: Samsung Electronics Levant Ltd.
+  swift: SECTJOA1XXX
+  swift8: SECTJOA1
+  branch_name: Head Office
+  branch_address: Emmar Tower Amman
+  branch_code: XXX
+  city: Amman
+  country: Jordan
+- name: Sanabel Alkhair For Financial Investments
+  swift: SAFTJOA1XXX
+  swift8: SAFTJOA1
+  branch_name: Head Office
+  branch_address: Abdullah Ghosheh Amman
+  branch_code: XXX
+  city: Amman
+  country: Jordan
+- name: Selwan Financial Brokers
+  swift: SEFRJOA1XXX
+  swift8: SEFRJOA1
+  branch_name: Head Office
+  branch_address: Noreen St Amman
+  branch_code: XXX
+  city: Amman
+  country: Jordan
+- name: Shareco Brokerage Co.
+  swift: SHBRJOA1XXX
+  swift8: SHBRJOA1
+  branch_name: Head Office
+  branch_address: Abdou Amman
+  branch_code: XXX
+  city: Amman
+  country: Jordan
+- name: Shua'a For Securities Trading And Investments
+  swift: SSTIJOA1XXX
+  swift8: SSTIJOA1
+  branch_name: Head Office
+  branch_address: Mecca Street Amman
+  branch_code: XXX
+  city: Amman
+  country: Jordan
+- name: Societe Generale De Banque-jordanie
+  swift: SGMEJOAMXXX
+  swift8: SGMEJOAM
+  branch_name: Head Office
+  branch_address: Shaker Bin Zeid Street 30, 11118 Amman
+  branch_code: XXX
+  city: Amman
+  country: Jordan
+- name: Societe Generale Jordan-brokerage
+  swift: SGJBJOA1XXX
+  swift8: SGJBJOA1
+  branch_name: Head Office
+  branch_address: King Abdulla Amman
+  branch_code: XXX
+  city: Amman
+  country: Jordan
+- name: Sukook Investment And Brokerage
+  swift: SUIOJOA1XXX
+  swift8: SUIOJOA1
+  branch_name: Head Office
+  branch_address: Adali 348 Amman
+  branch_code: XXX
+  city: Amman
+  country: Jordan
+- name: Tadawol
+  swift: TADAJOA1XXX
+  swift8: TADAJOA1
+  branch_name: Head Office
+  branch_address: Zeina4410 Amman
+  branch_code: XXX
+  city: Amman
+  country: Jordan
+- name: Tanmia Securities Inc.
+  swift: TAERJOA1XXX
+  swift8: TAERJOA1
+  branch_name: Head Office
+  branch_address: Al-Madina Al Munawara Street Amman
+  branch_code: XXX
+  city: Amman
+  country: Jordan
+- name: The Arab Financial Investment
+  swift: ARFVJOA1XXX
+  swift8: ARFVJOA1
+  branch_name: Head Office
+  branch_address: Jabal Al Hussein Street 124 Amman
+  branch_code: XXX
+  city: Amman
+  country: Jordan
+- name: The Bankers For Brokerage And Financial Invest
+  swift: BRFIJOA1XXX
+  swift8: BRFIJOA1
+  branch_name: Head Office
+  branch_address: Omar Bin Al-Khattab Street Amman
+  branch_code: XXX
+  city: Amman
+  country: Jordan
+- name: The Financial Investment Company For Shares And Bonds
+  swift: FIOHJOA1XXX
+  swift8: FIOHJOA1
+  branch_name: Head Office
+  branch_address: Swifieh St Amman
+  branch_code: XXX
+  city: Amman
+  country: Jordan
+- name: Union Financial Brokerage
+  swift: UNFBJOA1XXX
+  swift8: UNFBJOA1
+  branch_name: Head Office
+  branch_address: Amman Street Amman
+  branch_code: XXX
+  city: Amman
+  country: Jordan
+- name: United Arabian Jordanian For Investment And Brokerage Services
+  swift: UAJIJOA1XXX
+  swift8: UAJIJOA1
+  branch_name: Head Office
+  branch_address: 3rd Circle Amman
+  branch_code: XXX
+  city: Amman
+  country: Jordan
+- name: United Co. For Investment And Securities
+  swift: UNNCJOA1XXX
+  swift8: UNNCJOA1
+  branch_name: Head Office
+  branch_address: Abdulla Amman
+  branch_code: XXX
+  city: Amman
+  country: Jordan
+- name: United Financial Investments Plc
+  swift: UNFNJOA1XXX
+  swift8: UNFNJOA1
+  branch_name: Head Office
+  branch_address: Amman
+  branch_code: XXX
+  city: Amman
+  country: Jordan

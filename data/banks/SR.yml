@@ -1,0 +1,98 @@
+---
+SR:
+- name: Centrale Bank Van Suriname
+  swift: CBVSSRPASUR
+  swift8: CBVSSRPA
+  branch_name: No branch name
+  branch_address: No branch address
+  branch_code: SUR
+  city: Paramaribo
+  country: Suriname
+- name: Centrale Bank Van Suriname
+  swift: CBVSSRPAXXX
+  swift8: CBVSSRPA
+  branch_name: Head Office
+  branch_address: Waterkant 20 Paramaribo
+  branch_code: XXX
+  city: Paramaribo
+  country: Suriname
+- name: Cooperatieve Spaar-en Kredietbank Godo G.a.
+  swift: GODOSRPAXXX
+  swift8: GODOSRPA
+  branch_name: Head Office
+  branch_address: Keizerstraat 139 - 143 Paramaribo
+  branch_code: XXX
+  city: Paramaribo
+  country: Suriname
+- name: Dsb Bank Also Known As De Surinaamsche Bank N.v. Paramaribo Sr
+  swift: SURBSRPAXXX
+  swift8: SURBSRPA
+  branch_name: Head Office
+  branch_address: Henck Arronstraat 26-30 Paramaribo
+  branch_code: XXX
+  city: Paramaribo
+  country: Suriname
+- name: Finabank N.v.
+  swift: FBNASRPAXXX
+  swift8: FBNASRPA
+  branch_name: Head Office
+  branch_address: Dr. Sophie Redmondstraat 59-61 Paramaribo
+  branch_code: XXX
+  city: Paramaribo
+  country: Suriname
+- name: Finatrust, De Trustbank N.v.
+  swift: ICTBSRPAXXX
+  swift8: ICTBSRPA
+  branch_name: Head Office
+  branch_address: Dr. Sophie Redmondstraat 93 Paramaribo
+  branch_code: XXX
+  city: Paramaribo
+  country: Suriname
+- name: Hakrinbank N.v.
+  swift: HAKRSRPAXXX
+  swift8: HAKRSRPA
+  branch_name: Head Office
+  branch_address: Dr. Sophie Redmondstraat 11-13 Paramaribo Suriname
+  branch_code: XXX
+  city: Paramaribo
+  country: Suriname
+- name: Landbouwbank N.v.
+  swift: LBNKSRPAXXX
+  swift8: LBNKSRPA
+  branch_name: Head Office
+  branch_address: Mr. F.H.R. Lim a Postraat 28-30 Paramaribo
+  branch_code: XXX
+  city: Paramaribo
+  country: Suriname
+- name: Surichange Bank N.v.
+  swift: SURCSRPAXXX
+  swift8: SURCSRPA
+  branch_name: Head Office
+  branch_address: Dr. Sophie Redmondstraat 71 Paramaribo
+  branch_code: XXX
+  city: Paramaribo
+  country: Suriname
+- name: Surinaamse Postspaarbank
+  swift: SDPOSRPAXXX
+  swift8: SDPOSRPA
+  branch_name: Head Office
+  branch_address: Knuffelsgracht 10-14 Paramaribo
+  branch_code: XXX
+  city: Paramaribo
+  country: Suriname
+- name: Surinaamse Postspaarbank
+  swift: SDPOSRP1XXX
+  swift8: SDPOSRP1
+  branch_name: Head Office
+  branch_address: Knuffelsgracht 10-14 Paramaribo
+  branch_code: XXX
+  city: Paramaribo
+  country: Suriname
+- name: Surinaamse Volkscredietbank
+  swift: VCBSSRPAXXX
+  swift8: VCBSSRPA
+  branch_name: Head Office
+  branch_address: Waterkant 104 Paramaribo
+  branch_code: XXX
+  city: Paramaribo
+  country: Suriname

@@ -1,0 +1,539 @@
+---
+TN:
+- name: Arab Banking Corporation
+  swift: ABCOTNTT001
+  swift8: ABCOTNTT
+  branch_name: Onshore Branch Tunisie
+  branch_address: Les Berges Du Lac Tunis 1053
+  branch_code: '001'
+  city: Tunis
+  country: Tunisia
+- name: Arab Banking Corporation
+  swift: ABCOTNTTXXX
+  swift8: ABCOTNTT
+  branch_name: Head Office
+  branch_address: Abc Building Tunis 1053
+  branch_code: XXX
+  city: Tunis
+  country: Tunisia
+- name: Bankers Trust Company
+  swift: BKTRTNT1XXX
+  swift8: BKTRTNT1
+  branch_name: Head Office
+  branch_address: 5 Rue Ibn Koteiba Cite Jardins Tunis 1002
+  branch_code: XXX
+  city: Tunis
+  country: Tunisia
+- name: Citibank N.A.
+  swift: CITITNTXONS
+  swift8: CITITNTX
+  branch_name: On Shore Branch
+  branch_address: Tunis
+  branch_code: ONS
+  city: Tunis
+  country: Tunisia
+- name: Citibank N.A.
+  swift: CITITNTXXXX
+  swift8: CITITNTX
+  branch_name: Head Office
+  branch_address: 3 Rue Jugurtha Tunis
+  branch_code: XXX
+  city: Tunis
+  country: Tunisia
+- name: Tunisian Foreign Bank
+  swift: UTUBTNTTXXX
+  swift8: UTUBTNTT
+  branch_name: Head Office
+  branch_address: Espace Tunis Tunis 1002
+  branch_code: XXX
+  city: Tunis
+  country: Tunisia
+- name: Al Baraka Bank Tunisia
+  swift: BEITTNTTXXX
+  swift8: BEITTNTT
+  branch_name: Head Office
+  branch_address: 88 Avenue Hedi Chaker Tunis 1002
+  branch_code: XXX
+  city: Tunis
+  country: Tunisia
+- name: Alubaf International Bank Tunis
+  swift: ALUBTNTTXXX
+  swift8: ALUBTNTT
+  branch_name: Head Office
+  branch_address: Rue 8007 Montplaisir Tunis 1002
+  branch_code: XXX
+  city: Tunis
+  country: Tunisia
+- name: Amen Bank
+  swift: CFCTTNTTXXX
+  swift8: CFCTTNTT
+  branch_name: Head Office
+  branch_address: Avenue Mohamed V Tunis 1002
+  branch_code: XXX
+  city: Tunis
+  country: Tunisia
+- name: Arab Tunisian Bank
+  swift: ATBKTNTTXXX
+  swift8: ATBKTNTT
+  branch_name: Head Office
+  branch_address: 9 Rue Hedi Nouira Tunis 1080
+  branch_code: XXX
+  city: Tunis
+  country: Tunisia
+- name: Attijari Bank
+  swift: BSTUTNTTAIN
+  swift8: BSTUTNTT
+  branch_name: Attijari Intermediation
+  branch_address: Attijari Intermediation Tunis 1002
+  branch_code: AIN
+  city: Tunis
+  country: Tunisia
+- name: Attijari Bank
+  swift: BSTUTNTTINT
+  swift8: BSTUTNTT
+  branch_name: International Department
+  branch_address: 140 Avenue De La Liberte Tunis 1002
+  branch_code: INT
+  city: Tunis
+  country: Tunisia
+- name: Attijari Bank
+  swift: BSTUTNTTTIT
+  swift8: BSTUTNTT
+  branch_name: Attijari Titre
+  branch_address: Attijari Titre Tunis 1002
+  branch_code: TIT
+  city: Tunis
+  country: Tunisia
+- name: Attijari Bank
+  swift: BSTUTNTTXXX
+  swift8: BSTUTNTT
+  branch_name: Head Office
+  branch_address: 95 Avenue De La Liberte Tunis 1002
+  branch_code: XXX
+  city: Tunis
+  country: Tunisia
+- name: Banque Centrale De Tunisie
+  swift: BCTNTNTTVGM
+  swift8: BCTNTNTT
+  branch_name: Tunis
+  branch_address: Tunis
+  branch_code: VGM
+  city: Tunis
+  country: Tunisia
+- name: Banque Centrale De Tunisie
+  swift: BCTNTNTTXXX
+  swift8: BCTNTNTT
+  branch_name: Head Office
+  branch_address: 25 Rue Hedi Nouira Tunis 1080
+  branch_code: XXX
+  city: Tunis
+  country: Tunisia
+- name: Banque De Financement Des Pme
+  swift: BFPMTNTTXXX
+  swift8: BFPMTNTT
+  branch_name: Head Office
+  branch_address: Bfpme Tunis 1073
+  branch_code: XXX
+  city: Tunis
+  country: Tunisia
+- name: Banque De L'habitat
+  swift: BHBKTNTTXXX
+  swift8: BHBKTNTT
+  branch_name: Head Office
+  branch_address: Banque De Lhabitat Tunis Tn 1002
+  branch_code: XXX
+  city: Tunis
+  country: Tunisia
+- name: Banque De Tunisie
+  swift: BTBKTNTTVGM
+  swift8: BTBKTNTT
+  branch_name: Tunis
+  branch_address: Tunis
+  branch_code: VGM
+  city: Tunis
+  country: Tunisia
+- name: Banque De Tunisie
+  swift: BTBKTNTTXXX
+  swift8: BTBKTNTT
+  branch_name: Head Office
+  branch_address: 2 Rue De Turquie Tunis 1001
+  branch_code: XXX
+  city: Tunis
+  country: Tunisia
+- name: Banque De Tunisie Et Des Emirats
+  swift: BTEXTNTTXXX
+  swift8: BTEXTNTT
+  branch_name: Head Office
+  branch_address: Rue Mohamed Badra N. 5 Bis Tunis 1002
+  branch_code: XXX
+  city: Tunis
+  country: Tunisia
+- name: Banque Franco Tunisienne
+  swift: BFTNTNTTTRS
+  swift8: BFTNTNTT
+  branch_name: Tresorerie
+  branch_address: Tunis
+  branch_code: TRS
+  city: Tunis
+  country: Tunisia
+- name: Banque Franco Tunisienne
+  swift: BFTNTNTTXXX
+  swift8: BFTNTNTT
+  branch_name: Head Office
+  branch_address: 13 Rue Dalger Tunis 1015
+  branch_code: XXX
+  city: Tunis
+  country: Tunisia
+- name: Banque Internationale Arabe De Tunisie
+  swift: BIATTNTTFDE
+  swift8: BIATTNTT
+  branch_name: Financement En Devise Export
+  branch_address: Tunis
+  branch_code: FDE
+  city: Tunis
+  country: Tunisia
+- name: Banque Internationale Arabe De Tunisie
+  swift: BIATTNTTRXS
+  swift8: BIATTNTT
+  branch_name: Remise Export Sfax
+  branch_address: Sfax
+  branch_code: RXS
+  city: Sfax
+  country: Tunisia
+- name: Banque Internationale Arabe De Tunisie
+  swift: BIATTNTTRXT
+  swift8: BIATTNTT
+  branch_name: Remise Export Tunis
+  branch_address: Tunis
+  branch_code: RXT
+  city: Tunis
+  country: Tunisia
+- name: Banque Internationale Arabe De Tunisie
+  swift: BIATTNTTSFX
+  swift8: BIATTNTT
+  branch_name: Sfax 3000
+  branch_address: 9 Rue Salem Harzallah Sfax 3000
+  branch_code: SFX
+  city: Sfax
+  country: Tunisia
+- name: Banque Internationale Arabe De Tunisie
+  swift: BIATTNTTTES
+  swift8: BIATTNTT
+  branch_name: Transfert Emis Sfax
+  branch_address: Sfax
+  branch_code: TES
+  city: Sfax
+  country: Tunisia
+- name: Banque Internationale Arabe De Tunisie
+  swift: BIATTNTTTET
+  swift8: BIATTNTT
+  branch_name: Transfert Emis Tunis
+  branch_address: Tunis
+  branch_code: TET
+  city: Tunis
+  country: Tunisia
+- name: Banque Internationale Arabe De Tunisie
+  swift: BIATTNTTTRS
+  swift8: BIATTNTT
+  branch_name: Transfert Recu Sfax
+  branch_address: Sfax
+  branch_code: TRS
+  city: Sfax
+  country: Tunisia
+- name: Banque Internationale Arabe De Tunisie
+  swift: BIATTNTTTRT
+  swift8: BIATTNTT
+  branch_name: Transfert Recu Tunis
+  branch_address: Tunis
+  branch_code: TRT
+  city: Tunis
+  country: Tunisia
+- name: Banque Internationale Arabe De Tunisie
+  swift: BIATTNTTXXX
+  swift8: BIATTNTT
+  branch_name: Head Office
+  branch_address: 70-72 Avenue Habib Bourguiba Tunis 1000
+  branch_code: XXX
+  city: Tunis
+  country: Tunisia
+- name: Banque Nationale Agricole
+  swift: BNTETNTTSFX
+  swift8: BNTETNTT
+  branch_name: Direction Regionale
+  branch_address: Sfax
+  branch_code: SFX
+  city: Sfax
+  country: Tunisia
+- name: Banque Nationale Agricole
+  swift: BNTETNTTSSE
+  swift8: BNTETNTT
+  branch_name: Direction Regionale
+  branch_address: Bna Sousse 4000
+  branch_code: SSE
+  city: Sousse
+  country: Tunisia
+- name: Banque Nationale Agricole
+  swift: BNTETNTTXXX
+  swift8: BNTETNTT
+  branch_name: Head Office
+  branch_address: Rue Hedi Nouira Tunis 1001
+  branch_code: XXX
+  city: Tunis
+  country: Tunisia
+- name: Banque Tunisienne De Solidarite
+  swift: TUSOTNT1XXX
+  swift8: TUSOTNT1
+  branch_name: Head Office
+  branch_address: Bts Tunis 1002
+  branch_code: XXX
+  city: Tunis
+  country: Tunisia
+- name: Banque Tuniso-koweitienne
+  swift: BTKOTNTTXXX
+  swift8: BTKOTNTT
+  branch_name: Head Office
+  branch_address: 10 Bis, Avenue Mohamed V Tunis 1000
+  branch_code: XXX
+  city: Tunis
+  country: Tunisia
+- name: Banque Tuniso-libyenne
+  swift: ATLDTNTTXXX
+  swift8: ATLDTNTT
+  branch_name: Head Office
+  branch_address: 25 Avenue Kheireddine Pacha Tunis 1073
+  branch_code: XXX
+  city: Tunis
+  country: Tunisia
+- name: Banque Zitouna
+  swift: BZITTNTTSDM
+  swift8: BZITTNTT
+  branch_name: Salle Des Marches
+  branch_address: Tunis
+  branch_code: SDM
+  city: Tunis
+  country: Tunisia
+- name: Banque Zitouna
+  swift: BZITTNTTVGM
+  swift8: BZITTNTT
+  branch_name: Virements Gros Montants
+  branch_address: Tunis
+  branch_code: VGM
+  city: Tunis
+  country: Tunisia
+- name: Banque Zitouna
+  swift: BZITTNTTXXX
+  swift8: BZITTNTT
+  branch_name: Head Office
+  branch_address: 90 Avenue Hedi Nouira, Ennasr 2 Tunis 2037
+  branch_code: XXX
+  city: Tunis
+  country: Tunisia
+- name: Bourse Des Valeurs Mobilieres De Tunis
+  swift: XTUNTNT1XXX
+  swift8: XTUNTNT1
+  branch_name: Head Office
+  branch_address: Centre Babel, Bloc E Tunis 1073
+  branch_code: XXX
+  city: Tunis
+  country: Tunisia
+- name: Fitch North Africa Sa
+  swift: FRIPTNT1XXX
+  swift8: FRIPTNT1
+  branch_name: Head Office
+  branch_address: 18a, Rue De Medine Tunis 1002
+  branch_code: XXX
+  city: Tunis
+  country: Tunisia
+- name: La Poste Tunisienne
+  swift: LPTNTNTTXXX
+  swift8: LPTNTNTT
+  branch_name: Head Office
+  branch_address: La Poste Tunisienne Tunis 1030
+  branch_code: XXX
+  city: Tunis
+  country: Tunisia
+- name: North Africa International Bank
+  swift: NOAFTNTTXXX
+  swift8: NOAFTNTT
+  branch_name: Head Office
+  branch_address: Avenue Kheireddine Pacha Tunis 1002
+  branch_code: XXX
+  city: Tunis
+  country: Tunisia
+- name: Qatar National Bank-tunisia
+  swift: BTQITNTTXXX
+  swift8: BTQITNTT
+  branch_name: Head Office
+  branch_address: Rue Cite Des Sciences Ariana 2080
+  branch_code: XXX
+  city: Ariana
+  country: Tunisia
+- name: Societe Tunisienne De Banque
+  swift: STBKTNTT000
+  swift8: STBKTNTT
+  branch_name: Direction De La Succursale Thameur
+  branch_address: 1 Avenue Habib Thameur Tunis 1000
+  branch_code: '000'
+  city: Tunis
+  country: Tunisia
+- name: Societe Tunisienne De Banque
+  swift: STBKTNTT017
+  swift8: STBKTNTT
+  branch_name: Monastir
+  branch_address: Avenue Habib Bourguiba Monastir 5000
+  branch_code: '017'
+  city: Monastir
+  country: Tunisia
+- name: Societe Tunisienne De Banque
+  swift: STBKTNTT925
+  swift8: STBKTNTT
+  branch_name: Direction Regionale
+  branch_address: Nabeul
+  branch_code: '925'
+  city: Nabeul
+  country: Tunisia
+- name: Societe Tunisienne De Banque
+  swift: STBKTNTT930
+  swift8: STBKTNTT
+  branch_name: Direction Regionale
+  branch_address: Avenue Habib Bourguiba Sousse 4000
+  branch_code: '930'
+  city: Sousse
+  country: Tunisia
+- name: Societe Tunisienne De Banque
+  swift: STBKTNTT940
+  swift8: STBKTNTT
+  branch_name: Direction Regionale
+  branch_address: Avenue Hedi Chaker Sfax 3000
+  branch_code: '940'
+  city: Sfax
+  country: Tunisia
+- name: Societe Tunisienne De Banque
+  swift: STBKTNTTXXX
+  swift8: STBKTNTT
+  branch_name: Head Office and All Other Departments
+  branch_address: Rue Hedi Nouira Tunis 1001
+  branch_code: XXX
+  city: Tunis
+  country: Tunisia
+- name: Societe Tunisienne Interprofessionnelle Pour La Compensation Et Le Depot Des
+    Valeurs Mobilieres
+  swift: STICTNT1XXX
+  swift8: STICTNT1
+  branch_name: Head Office
+  branch_address: 92-94 Avenue Hedi Chaker Tunis 1002
+  branch_code: XXX
+  city: Tunis
+  country: Tunisia
+- name: Stusid Bank
+  swift: TSIDTNTTXXX
+  swift8: TSIDTNTT
+  branch_name: Head Office
+  branch_address: 32 Rue Hedi Karray Tunis 1082
+  branch_code: XXX
+  city: Tunis
+  country: Tunisia
+- name: Tunis International Bank
+  swift: TUIBTNTTXXX
+  swift8: TUIBTNTT
+  branch_name: Head Office
+  branch_address: 18 Avenue Des Etats Unis Damerique Tunis 1002
+  branch_code: XXX
+  city: Tunis
+  country: Tunisia
+- name: Tunisie Valeurs
+  swift: TUNVTNT1XXX
+  swift8: TUNVTNT1
+  branch_name: Head Office
+  branch_address: 17 Rue De Jerusalem Tunis 1002
+  branch_code: XXX
+  city: Tunis
+  country: Tunisia
+- name: Union Bancaire Pour Le Commerce Et L'industrie (groupe Bnp Paribas
+  swift: UBCITNTTCHG
+  swift8: UBCITNTT
+  branch_name: Tunis
+  branch_address: Tunis
+  branch_code: CHG
+  city: Tunis
+  country: Tunisia
+- name: Union Bancaire Pour Le Commerce Et L'industrie (groupe Bnp Paribas
+  swift: UBCITNTTENG
+  swift8: UBCITNTT
+  branch_name: Engagement
+  branch_address: Tunis
+  branch_code: ENG
+  city: Tunis
+  country: Tunisia
+- name: Union Bancaire Pour Le Commerce Et L'industrie (groupe Bnp Paribas
+  swift: UBCITNTTNBL
+  swift8: UBCITNTT
+  branch_name: Nabeul Branch
+  branch_address: Nabeul
+  branch_code: NBL
+  city: Nabeul
+  country: Tunisia
+- name: Union Bancaire Pour Le Commerce Et L'industrie (groupe Bnp Paribas
+  swift: UBCITNTTPST
+  swift8: UBCITNTT
+  branch_name: Tunis
+  branch_address: Tunis
+  branch_code: PST
+  city: Tunis
+  country: Tunisia
+- name: Union Bancaire Pour Le Commerce Et L'industrie (groupe Bnp Paribas
+  swift: UBCITNTTSDM
+  swift8: UBCITNTT
+  branch_name: Salle Des Marches
+  branch_address: Tunis
+  branch_code: SDM
+  city: Tunis
+  country: Tunisia
+- name: Union Bancaire Pour Le Commerce Et L'industrie (groupe Bnp Paribas
+  swift: UBCITNTTSFX
+  swift8: UBCITNTT
+  branch_name: Sfax Branch
+  branch_address: Sfax
+  branch_code: SFX
+  city: Sfax
+  country: Tunisia
+- name: Union Bancaire Pour Le Commerce Et L'industrie (groupe Bnp Paribas
+  swift: UBCITNTTSSE
+  swift8: UBCITNTT
+  branch_name: Sousse Branch
+  branch_address: Sousse
+  branch_code: SSE
+  city: Sousse
+  country: Tunisia
+- name: Union Bancaire Pour Le Commerce Et L'industrie (groupe Bnp Paribas
+  swift: UBCITNTTTCE
+  swift8: UBCITNTT
+  branch_name: Tunis
+  branch_address: Tunis
+  branch_code: TCE
+  city: Tunis
+  country: Tunisia
+- name: Union Bancaire Pour Le Commerce Et L'industrie (groupe Bnp Paribas
+  swift: UBCITNTTVGM
+  swift8: UBCITNTT
+  branch_name: Virements Gros Montants
+  branch_address: Tunis
+  branch_code: VGM
+  city: Tunis
+  country: Tunisia
+- name: Union Bancaire Pour Le Commerce Et L'industrie (groupe Bnp Paribas
+  swift: UBCITNTTXXX
+  swift8: UBCITNTT
+  branch_name: Head Office
+  branch_address: 139, Avenue De La Liberte Tunis 1080
+  branch_code: XXX
+  city: Tunis
+  country: Tunisia
+- name: Union Internationale De Banque
+  swift: UIBKTNTTXXX
+  swift8: UIBKTNTT
+  branch_name: Head Office
+  branch_address: 65 Avenue Habib Bourguiba Tunis 1001
+  branch_code: XXX
+  city: Tunis
+  country: Tunisia

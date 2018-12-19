@@ -1,0 +1,874 @@
+---
+SK:
+- name: Bks Bank Ag, Pobocka Zahranicnej Banky
+  swift: BFKKSKBBXXX
+  swift8: BFKKSKBB
+  branch_name: Head Office
+  branch_address: Eurovea Central 1 811 09 Bratislava
+  branch_code: XXX
+  city: Bratislava
+  country: Slovakia
+- name: Bre Bank Sa, Pobocka Zahranicnej Banky Mbank V Sr
+  swift: BREXSKBXXXX
+  swift8: BREXSKBX
+  branch_name: Head Office
+  branch_address: Rajska 15/a Bratislava
+  branch_code: XXX
+  city: Bratislava
+  country: Slovakia
+- name: Centralny Depozitar Cennych Papierov Sr, A.S.
+  swift: CSDSSKBADTA
+  swift8: CSDSSKBA
+  branch_name: Depository Technical Account
+  branch_address: Bratislava
+  branch_code: DTA
+  city: Bratislava
+  country: Slovakia
+- name: Ceskoslovenska Obchodna Banka, A.S.
+  swift: CEKOSKBXXXX
+  swift8: CEKOSKBX
+  branch_name: Slovak Republic Division
+  branch_address: Michalska 18 815 63 Bratislava
+  branch_code: XXX
+  city: Bratislava
+  country: Slovakia
+- name: Citibank Europe Plc, Pobocka Zahranicnej Banky
+  swift: CITISKBASEC
+  swift8: CITISKBA
+  branch_name: Restricted Use Citibank Bratislava Target 2
+  branch_address: Bratislava
+  branch_code: SEC
+  city: Bratislava
+  country: Slovakia
+- name: Citibank Europe Plc, Pobocka Zahranicnej Banky
+  swift: CITISKBAXXX
+  swift8: CITISKBA
+  branch_name: Head Office
+  branch_address: Mlynske Nivy 43 825 01 Bratislava
+  branch_code: XXX
+  city: Bratislava
+  country: Slovakia
+- name: Commerzbank Ag
+  swift: COBASKBXTBR
+  swift8: COBASKBX
+  branch_name: Administration
+  branch_address: Bratislava
+  branch_code: TBR
+  city: Bratislava
+  country: Slovakia
+- name: Commerzbank Ag
+  swift: COBASKBXXXX
+  swift8: COBASKBX
+  branch_name: Head Office
+  branch_address: Rajska 81108 Bratislava
+  branch_code: XXX
+  city: Bratislava
+  country: Slovakia
+- name: Csob Stavebna Sporitelna, A.S.
+  swift: KBSPSKBXXXX
+  swift8: KBSPSKBX
+  branch_name: Head Office
+  branch_address: Radlinskeho 10 Bratislava
+  branch_code: XXX
+  city: Bratislava
+  country: Slovakia
+- name: Dexia Banka Slovensko A.S.
+  swift: KOMASK2XBBY
+  swift8: KOMASK2X
+  branch_name: Banska Bystrica Branch
+  branch_address: Bakossova 6 974 00 Banska Bystrica
+  branch_code: BBY
+  city: Banska Bystrica
+  country: Slovakia
+- name: Dexia Banka Slovensko A.S.
+  swift: KOMASK2XBST
+  swift8: KOMASK2X
+  branch_name: Banska Stiavnica Branch
+  branch_address: Kammerhofska 8 969 00 Banska Stiavnica
+  branch_code: BST
+  city: Banska Stiavnica
+  country: Slovakia
+- name: Dexia Banka Slovensko A.S.
+  swift: KOMASK2XBRA
+  swift8: KOMASK2X
+  branch_name: Bratislava Branch
+  branch_address: Safarikovo Namestie 3 811 02 Bratislava
+  branch_code: BRA
+  city: Bratislava
+  country: Slovakia
+- name: Dexia Banka Slovensko A.S.
+  swift: KOMASK2XKOS
+  swift8: KOMASK2X
+  branch_name: Kosice Branch
+  branch_address: Nerudova 14 040 11 Kosice
+  branch_code: KOS
+  city: Kosice
+  country: Slovakia
+- name: Dexia Banka Slovensko A.S.
+  swift: KOMASK2XLHR
+  swift8: KOMASK2X
+  branch_name: Liptovsky Hradok Branch
+  branch_address: Ul. Snp 137 033 01 Liptovsky Hradok
+  branch_code: LHR
+  city: Liptovsky Hradok
+  country: Slovakia
+- name: Dexia Banka Slovensko A.S.
+  swift: KOMASK2XMAL
+  swift8: KOMASK2X
+  branch_name: Malacky Branch
+  branch_address: Radlinskeho 2751 901 01 Malacky
+  branch_code: MAL
+  city: Malacky
+  country: Slovakia
+- name: Dexia Banka Slovensko A.S.
+  swift: KOMASK2XBRE
+  swift8: KOMASK2X
+  branch_name: Brezno Branch
+  branch_address: B. Nemcovej 15 977 01 Brezno
+  branch_code: BRE
+  city: Brezno
+  country: Slovakia
+- name: Dexia Banka Slovensko A.S.
+  swift: KOMASK2XNIT
+  swift8: KOMASK2X
+  branch_name: Nitra Branch
+  branch_address: Farska 7 949 01 Nitra
+  branch_code: NIT
+  city: Nitra
+  country: Slovakia
+- name: Dexia Banka Slovensko A.S.
+  swift: KOMASK2XPBY
+  swift8: KOMASK2X
+  branch_name: Povazska Bystrica Branch
+  branch_address: M.R. Stefanika 171/24 017 01 Povazska Bystrica
+  branch_code: PBY
+  city: Povazska Bystrica
+  country: Slovakia
+- name: Dexia Banka Slovensko A.S.
+  swift: KOMASK2XLCN
+  swift8: KOMASK2X
+  branch_name: Lucenec Branch
+  branch_address: Masarykova 7 984 01 Lucenec
+  branch_code: LCN
+  city: Lucenec
+  country: Slovakia
+- name: Dexia Banka Slovensko A.S.
+  swift: KOMASK2XSNV
+  swift8: KOMASK2X
+  branch_name: Spisska Nova Ves Branch
+  branch_address: Stefanikovo Nam. 10 05280 Spisska Nova Ves
+  branch_code: SNV
+  city: Spisska Nova Ves
+  country: Slovakia
+- name: Dexia Banka Slovensko A.S.
+  swift: KOMASK2XMCH
+  swift8: KOMASK2X
+  branch_name: Michalovce Branch
+  branch_address: Nam. Oslobod. 1031/62 871 01 Michalovce
+  branch_code: MCH
+  city: Michalovce
+  country: Slovakia
+- name: Dexia Banka Slovensko A.S.
+  swift: KOMASK2XTNA
+  swift8: KOMASK2X
+  branch_name: Trnava Branch
+  branch_address: Hlavna 7 917 01 Trnava
+  branch_code: TNA
+  city: Trnava
+  country: Slovakia
+- name: Dexia Banka Slovensko A.S.
+  swift: KOMASK2XXXX
+  swift8: KOMASK2X
+  branch_name: Head Office
+  branch_address: Hodzova 11 010 01 Zilina
+  branch_code: XXX
+  city: Zilina
+  country: Slovakia
+- name: Dexia Banka Slovensko A.S.
+  swift: KOMASK2XZIL
+  swift8: KOMASK2X
+  branch_name: Zilina Branch
+  branch_address: Hodzova 9 010 11 Zilina
+  branch_code: ZIL
+  city: Zilina
+  country: Slovakia
+- name: Dexia Banka Slovensko A.S.
+  swift: KOMASK2XTRE
+  swift8: KOMASK2X
+  branch_name: Trencin Branch
+  branch_address: Palackeho 35 911 00 Trencin
+  branch_code: TRE
+  city: Trencin
+  country: Slovakia
+- name: Export-Import Bank Of Slovak Republic
+  swift: EXSKSKBXXXX
+  swift8: EXSKSKBX
+  branch_name: Head Office
+  branch_address: Eximbanka Sr 81350 Bratislava
+  branch_code: XXX
+  city: Bratislava
+  country: Slovakia
+- name: First Data Slovakia, A.S.
+  swift: FDXXSKBAXXX
+  swift8: FDXXSKBA
+  branch_name: Head Office
+  branch_address: Rontgenova 1 850 00 Bratislava
+  branch_code: XXX
+  city: Bratislava
+  country: Slovakia
+- name: Ing Bank N.V., Pobocka Zahr, Banky
+  swift: INGBSKBXXXX
+  swift8: INGBSKBX
+  branch_name: Head Office
+  branch_address: Jesenskeho 4/C 81499 Bratislava
+  branch_code: XXX
+  city: Bratislava
+  country: Slovakia
+- name: J And T Banka, A.S.,Pobocka Zahranicnej Banky
+  swift: JTBPSKBAXXX
+  swift8: JTBPSKBA
+  branch_name: Head Office
+  branch_address: Dvorakovo Nabrezie 8 811 02 Bratislava
+  branch_code: XXX
+  city: Bratislava
+  country: Slovakia
+- name: Komercni Banka , A.S., Pobocka Zahranicnej Banky
+  swift: KOMBSKBATGT
+  swift8: KOMBSKBA
+  branch_name: Restricted Target Use
+  branch_address: Bratislava
+  branch_code: TGT
+  city: Bratislava
+  country: Slovakia
+- name: Komercni Banka , A.S., Pobocka Zahranicnej Banky
+  swift: KOMBSKBAXXX
+  swift8: KOMBSKBA
+  branch_name: Head Office
+  branch_address: Hodzovo Nam. 1a 811 06 Bratislava
+  branch_code: XXX
+  city: Bratislava
+  country: Slovakia
+- name: Narodna Banka Slovenska (National Bank Of Slovakia)
+  swift: NBSBSKBX100
+  swift8: NBSBSKBX
+  branch_name: Test Account
+  branch_address: Nbs 81325 Bratislava
+  branch_code: '100'
+  city: Bratislava
+  country: Slovakia
+- name: Narodna Banka Slovenska (National Bank Of Slovakia)
+  swift: NBSBSKBX200
+  swift8: NBSBSKBX
+  branch_name: Test Account
+  branch_address: Bratislava
+  branch_code: '200'
+  city: Bratislava
+  country: Slovakia
+- name: Narodna Banka Slovenska (National Bank Of Slovakia)
+  swift: NBSBSKBXCCB
+  swift8: NBSBSKBX
+  branch_name: Ccb Account
+  branch_address: Bratislava
+  branch_code: CCB
+  city: Bratislava
+  country: Slovakia
+- name: Narodna Banka Slovenska (National Bank Of Slovakia)
+  swift: NBSBSKBXEUX
+  swift8: NBSBSKBX
+  branch_name: Ecb Account
+  branch_address: Nbs 81325 Bratislava
+  branch_code: EUX
+  city: Bratislava
+  country: Slovakia
+- name: Narodna Banka Slovenska (National Bank Of Slovakia)
+  swift: NBSBSKBXFE1
+  swift8: NBSBSKBX
+  branch_name: Account for Fees
+  branch_address: Bratislava
+  branch_code: FE1
+  city: Bratislava
+  country: Slovakia
+- name: Narodna Banka Slovenska (National Bank Of Slovakia)
+  swift: NBSBSKBXIN1
+  swift8: NBSBSKBX
+  branch_name: Account for Interests
+  branch_address: Bratislava
+  branch_code: IN1
+  city: Bratislava
+  country: Slovakia
+- name: Narodna Banka Slovenska (National Bank Of Slovakia)
+  swift: NBSBSKBXSIP
+  swift8: NBSBSKBX
+  branch_name: As
+  branch_address: Bratislava
+  branch_code: SIP
+  city: Bratislava
+  country: Slovakia
+- name: Narodna Banka Slovenska (National Bank Of Slovakia)
+  swift: NBSBSKBXXXX
+  swift8: NBSBSKBX
+  branch_name: Head Office
+  branch_address: Imricha Karvasa 1 81325 Bratislava
+  branch_code: XXX
+  city: Bratislava
+  country: Slovakia
+- name: Oberbank Ag
+  swift: OBKLSKBAXXX
+  swift8: OBKLSKBA
+  branch_name: Head Office
+  branch_address: Prievozska 4/a 821 09 Bratislava
+  branch_code: XXX
+  city: Bratislava
+  country: Slovakia
+- name: Oberbank Ag
+  swift: OBKLSKBANIT
+  swift8: OBKLSKBA
+  branch_name: Nitra
+  branch_address: Nitra
+  branch_code: NIT
+  city: Nitra
+  country: Slovakia
+- name: Oberbank Ag
+  swift: OBKLSKBAZIL
+  swift8: OBKLSKBA
+  branch_name: Zilina
+  branch_address: Zilina
+  branch_code: ZIL
+  city: Zilina
+  country: Slovakia
+- name: Postova Banka A.S.
+  swift: POBNSKBAXXX
+  swift8: POBNSKBA
+  branch_name: Head Office
+  branch_address: Dvorakovo Nabrezie 4 811 02 Bratislava
+  branch_code: XXX
+  city: Bratislava
+  country: Slovakia
+- name: Privatbanka, A.S.
+  swift: BSLOSK22XXX
+  swift8: BSLOSK22
+  branch_name: Head Office
+  branch_address: Europeum Business Center 811 03 Bratislava
+  branch_code: XXX
+  city: Bratislava
+  country: Slovakia
+- name: Prva Stavebna Sporitelna, A.S.
+  swift: PRVASKBAXXX
+  swift8: PRVASKBA
+  branch_name: Head Office
+  branch_address: Bajkalska 30 829 48 Bratislava
+  branch_code: XXX
+  city: Bratislava
+  country: Slovakia
+- name: Slovenska Sporitelna, A.S.
+  swift: GIBASKBXXXX
+  swift8: GIBASKBX
+  branch_name: Head Office
+  branch_address: Tomasikova 48 83237 Bratislava
+  branch_code: XXX
+  city: Bratislava
+  country: Slovakia
+- name: Slovenska Zarucna A Rozvojova Banka, A.S.
+  swift: SLZBSKBAXXX
+  swift8: SLZBSKBA
+  branch_name: Head Office
+  branch_address: Stefanikova Ul. 814 99 Bratislava
+  branch_code: XXX
+  city: Bratislava
+  country: Slovakia
+- name: Statna Pokladnica
+  swift: SPSRSKBAARD
+  swift8: SPSRSKBA
+  branch_name: Bratislava
+  branch_address: Bratislava
+  branch_code: ARD
+  city: Bratislava
+  country: Slovakia
+- name: Tatra Banka A.S.
+  swift: TATRSKBXXXX
+  swift8: TATRSKBX
+  branch_name: Head Office
+  branch_address: Hodzovo Namestie 3 811 06 Bratislava
+  branch_code: XXX
+  city: Bratislava
+  country: Slovakia
+- name: Trust Pay, A.S.
+  swift: TPAYSKBXXXX
+  swift8: TPAYSKBX
+  branch_name: Head Office
+  branch_address: Za Kasarnou 831 03 Bratislava
+  branch_code: XXX
+  city: Bratislava
+  country: Slovakia
+- name: Unicredit Bank Slovakia A.S.
+  swift: UNCRSKBXXXX
+  swift8: UNCRSKBX
+  branch_name: Head Office
+  branch_address: Sancova 1/a 813 33 Bratislava
+  branch_code: XXX
+  city: Bratislava
+  country: Slovakia
+- name: Volksbank Slovensko, A.S.
+  swift: LUBASKBXGAL
+  swift8: LUBASKBX
+  branch_name: 92400 Galanta
+  branch_address: Hlavna 977/14 92400 Galanta
+  branch_code: GAL
+  city: Galanta
+  country: Slovakia
+- name: Volksbank Slovensko, A.S.
+  swift: LUBASKBXXXX
+  swift8: LUBASKBX
+  branch_name: Head Office
+  branch_address: Vysoka 9 81000 Bratislava
+  branch_code: XXX
+  city: Bratislava
+  country: Slovakia
+- name: Volksbank Slovensko, A.S.
+  swift: LUBASKBXKOS
+  swift8: LUBASKBX
+  branch_name: 04373 Kosice
+  branch_address: Kovacska 63 04373 Kosice
+  branch_code: KOS
+  city: Kosice
+  country: Slovakia
+- name: Volksbank Slovensko, A.S.
+  swift: LUBASKBXNIT
+  swift8: LUBASKBX
+  branch_name: 94901 Nitra
+  branch_address: Frana Motju 8 94901 Nitra
+  branch_code: NIT
+  city: Nitra
+  country: Slovakia
+- name: Vseobecna Uverova Banka A.S.
+  swift: SUBASKBXXXX
+  swift8: SUBASKBX
+  branch_name: Head Office
+  branch_address: Mlynske Nivy 1 82990 Bratislava
+  branch_code: XXX
+  city: Bratislava
+  country: Slovakia
+- name: Zuno Bank Ag Pobocka Zahranicnej Banky
+  swift: RIDBSKBXXXX
+  swift8: RIDBSKBX
+  branch_name: Head Office
+  branch_address: Hodzovo Namestie 3 811 06 Bratislava
+  branch_code: XXX
+  city: Bratislava
+  country: Slovakia
+- name: Across Wealth Management, O.c.p., A.s.
+  swift: AWMOSKB1XXX
+  swift8: AWMOSKB1
+  branch_name: Head Office
+  branch_address: Apollo Business Center 82109 Bratislava
+  branch_code: XXX
+  city: Bratislava
+  country: Slovakia
+- name: Aig Funds Central Europe Sprav.spol., A.s.
+  swift: AFEUSKB1XXX
+  swift8: AFEUSKB1
+  branch_name: Head Office
+  branch_address: Hviezdoslavovo Namestie 20 81102 Bratislava
+  branch_code: XXX
+  city: Bratislava
+  country: Slovakia
+- name: Akcenta, Sporitelni A Uverni Druzst Vo, Pobocka Kosice
+  swift: AKCTSK21XXX
+  swift8: AKCTSK21
+  branch_name: Head Office
+  branch_address: Krmanova 3 040 01 Kosice
+  branch_code: XXX
+  city: Kosice
+  country: Slovakia
+- name: Allianz Asset Management, Sprav. Spol.,a.s.
+  swift: AAMPSKB1XXX
+  swift8: AAMPSKB1
+  branch_name: Head Office
+  branch_address: Racianska 62 831 02 Bratislava
+  branch_code: XXX
+  city: Bratislava
+  country: Slovakia
+- name: Am Slsp Sprav. Spol., A.s.
+  swift: SLSSSKB1XXX
+  swift8: SLSSSKB1
+  branch_name: Head Office
+  branch_address: Zahradnicka 95 821 02 Bratislava
+  branch_code: XXX
+  city: Bratislava
+  country: Slovakia
+- name: Amslico Aig Securities O.c.p, A.s.
+  swift: AASCSKB1XXX
+  swift8: AASCSKB1
+  branch_name: Head Office
+  branch_address: Hviezdoslavovo Namestie 20 81102 Bratislava
+  branch_code: XXX
+  city: Bratislava
+  country: Slovakia
+- name: Bhs Slovakia, O.c.p., A.s.
+  swift: BHSOSKB1XXX
+  swift8: BHSOSKB1
+  branch_name: Head Office
+  branch_address: Prievozska 2/a 82109 Bratislava
+  branch_code: XXX
+  city: Bratislava
+  country: Slovakia
+- name: Brokersky Dom O.c.p. A.s.
+  swift: BRODSKB1XXX
+  swift8: BRODSKB1
+  branch_name: Head Office
+  branch_address: Kuklovska 74 84105 Bratislava
+  branch_code: XXX
+  city: Bratislava
+  country: Slovakia
+- name: Buda-cash Zrt.-pobocka Bratislava
+  swift: BUZBSKB1XXX
+  swift8: BUZBSKB1
+  branch_name: Head Office
+  branch_address: Leskova 3 811 04 Bratislava
+  branch_code: XXX
+  city: Bratislava
+  country: Slovakia
+- name: Burza Cennych Papierov V Bratislave, A.s.
+  swift: XBRASKB1XXX
+  swift8: XBRASKB1
+  branch_name: Head Office
+  branch_address: Vysoka 17 81499 Bratislava
+  branch_code: XXX
+  city: Bratislava
+  country: Slovakia
+- name: Capital Invest, O.c.p., A.s.
+  swift: CINHSKB1XXX
+  swift8: CINHSKB1
+  branch_name: Head Office
+  branch_address: Polna 1 Bratislava
+  branch_code: XXX
+  city: Bratislava
+  country: Slovakia
+- name: Capital Markets, O.c.p., A.s.
+  swift: CMRCSKB1XXX
+  swift8: CMRCSKB1
+  branch_name: Head Office
+  branch_address: Sturova 6 81102 Bratislava
+  branch_code: XXX
+  city: Bratislava
+  country: Slovakia
+- name: Csob Asset Management, Sprav.spol., A.s.
+  swift: CSMPSKB1XXX
+  swift8: CSMPSKB1
+  branch_name: Head Office
+  branch_address: Kolarska 6 81563 Bratislava
+  branch_code: XXX
+  city: Bratislava
+  country: Slovakia
+- name: Dlhopis, O.c.p., A.s.
+  swift: DLOCSKB1XXX
+  swift8: DLOCSKB1
+  branch_name: Head Office
+  branch_address: Drienova 27 Bratislava
+  branch_code: XXX
+  city: Bratislava
+  country: Slovakia
+- name: European Investment Centre
+  swift: EUICSKB1XXX
+  swift8: EUICSKB1
+  branch_name: Head Office
+  branch_address: Apollo Business Center 82109 Bratislava
+  branch_code: XXX
+  city: Bratislava
+  country: Slovakia
+- name: European Rating Agency, A.s.
+  swift: EUACSKB1XXX
+  swift8: EUACSKB1
+  branch_name: Head Office
+  branch_address: Ursulinska 3 811 01 Bratislava
+  branch_code: XXX
+  city: Bratislava
+  country: Slovakia
+- name: Fimex Capital O.c.p., A.s.
+  swift: FIAPSKB1XXX
+  swift8: FIAPSKB1
+  branch_name: Head Office
+  branch_address: Suche Myto 1 81103 Bratislava
+  branch_code: XXX
+  city: Bratislava
+  country: Slovakia
+- name: Fio O.c.p., A.s.
+  swift: FOOCSKB1XXX
+  swift8: FOOCSKB1
+  branch_name: Head Office
+  branch_address: Kollarovo Namestie 15 811 06 Bratislava
+  branch_code: XXX
+  city: Bratislava
+  country: Slovakia
+- name: Infinity Capital, O.c.p., A.s.
+  swift: IFCCSKB1XXX
+  swift8: IFCCSKB1
+  branch_name: Head Office
+  branch_address: Turcianska 31/a Bratislava
+  branch_code: XXX
+  city: Bratislava
+  country: Slovakia
+- name: Investicna A Dochodkova, Sprav. Spol., A.s.
+  swift: IDSSSKB1XXX
+  swift8: IDSSSKB1
+  branch_name: Head Office
+  branch_address: Maly Trh 2/a 811 08 Bratislava
+  branch_code: XXX
+  city: Bratislava
+  country: Slovakia
+- name: J And T Corporate Finance Slovakia, A.s.
+  swift: SESCSKB1XXX
+  swift8: SESCSKB1
+  branch_name: Head Office
+  branch_address: Lamacska Cesta 3 84104 Bratislava
+  branch_code: XXX
+  city: Bratislava
+  country: Slovakia
+- name: J And T Finance Group, A.s.
+  swift: FGRPSKB1XXX
+  swift8: FGRPSKB1
+  branch_name: Head Office
+  branch_address: Lamacska Cesta 3 841 04 Bratislava
+  branch_code: XXX
+  city: Bratislava
+  country: Slovakia
+- name: Kdb Bank (hungary) Ltd Slovakian Branch Office
+  swift: KODBSKBXXXX
+  swift8: KODBSKBX
+  branch_name: Head Office
+  branch_address: 2, Obchodna 81106 Bratislava
+  branch_code: XXX
+  city: Bratislava
+  country: Slovakia
+- name: M Securities O.c.p., A.s.
+  swift: KEIOSKB1XXX
+  swift8: KEIOSKB1
+  branch_name: Head Office
+  branch_address: Panenska 21 81103 Bratislava
+  branch_code: XXX
+  city: Bratislava
+  country: Slovakia
+- name: Ministry Of Finance Of The Slovak Republic
+  swift: MFSRSKB1XXX
+  swift8: MFSRSKB1
+  branch_name: Head Office
+  branch_address: Stefanovicova 5 81782 Bratislava
+  branch_code: XXX
+  city: Bratislava
+  country: Slovakia
+- name: Mondelez European Business Services Centre, S.r.o.
+  swift: KRAFSKBAPYL
+  swift8: KRAFSKBA
+  branch_name: Customer Naming Convention
+  branch_address: Bratislava
+  branch_code: PYL
+  city: Bratislava
+  country: Slovakia
+- name: Mondelez European Business Services Centre, S.r.o.
+  swift: KRAFSKBASSC
+  swift8: KRAFSKBA
+  branch_name: Shared Service Centre
+  branch_address: Bratislava
+  branch_code: SSC
+  city: Bratislava
+  country: Slovakia
+- name: Mondelez European Business Services Centre, S.r.o.
+  swift: KRAFSKBATSY
+  swift8: KRAFSKBA
+  branch_name: Treasury
+  branch_address: Bratislava
+  branch_code: TSY
+  city: Bratislava
+  country: Slovakia
+- name: Mondelez European Business Services Centre, S.r.o.
+  swift: KRAFSKBAXXX
+  swift8: KRAFSKBA
+  branch_name: Head Office
+  branch_address: Racianska 44 81499 Bratislava
+  branch_code: XXX
+  city: Bratislava
+  country: Slovakia
+- name: Money Market Brokers, O.c.p., A.s.
+  swift: MMBCSKB1XXX
+  swift8: MMBCSKB1
+  branch_name: Head Office
+  branch_address: Miletiova 1 82108 Bratislava
+  branch_code: XXX
+  city: Bratislava
+  country: Slovakia
+- name: Narodna Banka Slovenska (national Bank Of Slovakia
+  swift: NBSBSKBXEBA
+  swift8: NBSBSKBX
+  branch_name: Account for Eba Clearing Settlement
+  branch_address: Bratislava
+  branch_code: EBA
+  city: Bratislava
+  country: Slovakia
+- name: Oxys Capital, A.s., O.c.p.
+  swift: OXCCSKB1XXX
+  swift8: OXCCSKB1
+  branch_name: Head Office
+  branch_address: Aupark Tower 85101 Bratislava
+  branch_code: XXX
+  city: Bratislava
+  country: Slovakia
+- name: Palco Brokers, O.c.p., A.s.
+  swift: PABOSKB1XXX
+  swift8: PABOSKB1
+  branch_name: Head Office
+  branch_address: Panenska 13 81103 Bratislava
+  branch_code: XXX
+  city: Bratislava
+  country: Slovakia
+- name: Portfin, O.c.p., A.s.
+  swift: POOCSKB1XXX
+  swift8: POOCSKB1
+  branch_name: Head Office
+  branch_address: Jasikova 2 82103 Bratislava
+  branch_code: XXX
+  city: Bratislava
+  country: Slovakia
+- name: Proxenta Finance, O.c.p., A.s.
+  swift: PRFOSKB1XXX
+  swift8: PRFOSKB1
+  branch_name: Head Office
+  branch_address: Rontgenova 26 85101 Bratislava
+  branch_code: XXX
+  city: Bratislava
+  country: Slovakia
+- name: Rm-s Market, O.c.p., A.s.
+  swift: RMMOSKB1XXX
+  swift8: RMMOSKB1
+  branch_name: Head Office
+  branch_address: Zamocke Schody 2/a 81101 Bratislava
+  branch_code: XXX
+  city: Bratislava
+  country: Slovakia
+- name: Rvs, A.s.
+  swift: SNCESKB1XXX
+  swift8: SNCESKB1
+  branch_name: Head Office
+  branch_address: Zrinskeho 13 81485 Bratislava
+  branch_code: XXX
+  city: Bratislava
+  country: Slovakia
+- name: Salve Investments, O.c.p., A.s.
+  swift: SAIPSKB1XXX
+  swift8: SAIPSKB1
+  branch_name: Head Office
+  branch_address: Plynarenska 7/a 82460 Bratislava
+  branch_code: XXX
+  city: Bratislava
+  country: Slovakia
+- name: Samsung Electronics Lcd Slovakia S.r.o.
+  swift: SECTSKS1492
+  swift8: SECTSKS1
+  branch_name: Seh-Sk
+  branch_address: 100/B Millenium Tower Ii Bratislava
+  branch_code: '492'
+  city: Bratislava
+  country: Slovakia
+- name: Samsung Electronics Lcd Slovakia S.r.o.
+  swift: SECTSKS14B5
+  swift8: SECTSKS1
+  branch_name: Selsk
+  branch_address: 919 42 Voderady 175/34 Trnava
+  branch_code: 4B5
+  city: Trnava
+  country: Slovakia
+- name: Samsung Electronics Lcd Slovakia S.r.o.
+  swift: SECTSKS14M0
+  swift8: SECTSKS1
+  branch_name: Sesk
+  branch_address: Samsung Electronics, S.R.O. Galanta
+  branch_code: 4M0
+  city: Galanta
+  country: Slovakia
+- name: Samsung Electronics Lcd Slovakia S.r.o.
+  swift: SECTSKS1XXX
+  swift8: SECTSKS1
+  branch_name: Head Office
+  branch_address: Voderady 175/34 Trnava
+  branch_code: XXX
+  city: Trnava
+  country: Slovakia
+- name: Sevisbrokers Finance O.c.p., A.s.
+  swift: SEFOSK21XXX
+  swift8: SEFOSK21
+  branch_name: Head Office
+  branch_address: Kuzmanyho 8 01001 Zilina
+  branch_code: XXX
+  city: Zilina
+  country: Slovakia
+- name: Sfm Group, O.c.p., A.s.
+  swift: SFGOSKB1XXX
+  swift8: SFGOSKB1
+  branch_name: Head Office
+  branch_address: Aupark Tower 85101 Bratislava
+  branch_code: XXX
+  city: Bratislava
+  country: Slovakia
+- name: Skoda Auto Slovensko
+  swift: SKAOSKB1XXX
+  swift8: SKAOSKB1
+  branch_name: No branch name
+  branch_address: No branch address
+  branch_code: XXX
+  city: Bratislava
+  country: Slovakia
+- name: Slavia Capital, A.s., O.c.p.
+  swift: SLCCSKB1XXX
+  swift8: SLCCSKB1
+  branch_name: Head Office
+  branch_address: Heydukova 6 814 99 Bratislava
+  branch_code: XXX
+  city: Bratislava
+  country: Slovakia
+- name: Slovak National Emission Registry
+  swift: SNERSK21XXX
+  swift8: SNERSK21
+  branch_name: Head Office
+  branch_address: Dexia Banka Slovensko A.S.- Narodny 01011 Zilina
+  branch_code: XXX
+  city: Zilina
+  country: Slovakia
+- name: Sympatia Financie, O.c.p., A.s.
+  swift: SYFOSKB1XXX
+  swift8: SYFOSKB1
+  branch_name: Head Office
+  branch_address: Trnavska Cesta 50 821 02 Bratislava
+  branch_code: XXX
+  city: Bratislava
+  country: Slovakia
+- name: Tatra Asset Management, Sprav.spol. A.s.
+  swift: TAMPSKB1XXX
+  swift8: TAMPSKB1
+  branch_name: Head Office
+  branch_address: Tatracentrum 811 06 Bratislava
+  branch_code: XXX
+  city: Bratislava
+  country: Slovakia
+- name: Unibon-sporitelni A Uverni Druzstvo
+  swift: UNUDSKB1XXX
+  swift8: UNUDSKB1
+  branch_name: Head Office
+  branch_address: Namestie Snp 5 811 06 Bratislava
+  branch_code: XXX
+  city: Bratislava
+  country: Slovakia
+- name: Volkswagen Finance Sluzby Slovensko
+  swift: VFSSSKB1XXX
+  swift8: VFSSSKB1
+  branch_name: No branch name
+  branch_address: No branch address
+  branch_code: XXX
+  city: Bratislava
+  country: Slovakia
+- name: X-trade Brokers Dm S.a., Organizacna Zlozka
+  swift: TBRDSKB1XXX
+  swift8: TBRDSKB1
+  branch_name: Head Office
+  branch_address: Regus Business Centre Bratislava 82108 Bratislava
+  branch_code: XXX
+  city: Bratislava
+  country: Slovakia

@@ -1,0 +1,618 @@
+---
+HR:
+- name: Banka Kovanica D.D.
+  swift: SKOVHR22XXX
+  swift8: SKOVHR22
+  branch_name: Head Office
+  branch_address: Vetra Prerhdovica 29 42000 Varazdin
+  branch_code: XXX
+  city: Varazdin
+  country: Croatia
+- name: Banka Splitsko-Dalmatinska D.D.
+  swift: DALMHR22XXX
+  swift8: DALMHR22
+  branch_name: Head Office
+  branch_address: 114. Brigade 9 21000 Split
+  branch_code: XXX
+  city: Split
+  country: Croatia
+- name: Bks Bank D.D.
+  swift: BFKKHR22XXX
+  swift8: BFKKHR22
+  branch_name: Head Office
+  branch_address: Mljekarski Trg 3 51000 Rijeka
+  branch_code: XXX
+  city: Rijeka
+  country: Croatia
+- name: Croatia Banka D.D.
+  swift: CROAHR2XXXX
+  swift8: CROAHR2X
+  branch_name: Head Office
+  branch_address: Trg J.F. Kennedya 11 10000 Zagreb
+  branch_code: XXX
+  city: Zagreb
+  country: Croatia
+- name: Croatian Bank For Reconstruction And Development/Hbor/
+  swift: HKBOHR2XXXX
+  swift8: HKBOHR2X
+  branch_name: Head Office
+  branch_address: Strossmayerov Trg 9 10000 Zagreb
+  branch_code: XXX
+  city: Zagreb
+  country: Croatia
+- name: Erste And Steiermaerkische Bank D.D.
+  swift: ESBCHR22XXX
+  swift8: ESBCHR22
+  branch_name: Head Office
+  branch_address: Jadranski Trg 3a 51000 Rijeka
+  branch_code: XXX
+  city: Rijeka
+  country: Croatia
+- name: Financijska Agencija
+  swift: FNAGHR22XXX
+  swift8: FNAGHR22
+  branch_name: Head Office
+  branch_address: Vrtni Put 3 10000 Zagreb
+  branch_code: XXX
+  city: Zagreb
+  country: Croatia
+- name: Hrvatska Narodna Banka (Croatian National Bank)
+  swift: NBHRHR2DXXX
+  swift8: NBHRHR2D
+  branch_name: Domestic Payment System
+  branch_address: Trg Burze 3 10000 Zagreb
+  branch_code: XXX
+  city: Zagreb
+  country: Croatia
+- name: Hrvatska Narodna Banka (Croatian National Bank)
+  swift: NBHRHR2XXXX
+  swift8: NBHRHR2X
+  branch_name: Head Office
+  branch_address: Trg Hrvatskih Velikana 10000 Zagreb
+  branch_code: XXX
+  city: Zagreb
+  country: Croatia
+- name: Hrvatska Postanska Banka D.D.
+  swift: HPBZHR2XXXX
+  swift8: HPBZHR2X
+  branch_name: Head Office
+  branch_address: Jurisiceva 4 10000 Zagreb
+  branch_code: XXX
+  city: Zagreb
+  country: Croatia
+- name: Hypo Alpe-Adria-Bank D.D.
+  swift: HAABHR22XXX
+  swift8: HAABHR22
+  branch_name: Head Office
+  branch_address: Slavonska Avenija 6 10000 Zagreb
+  branch_code: XXX
+  city: Zagreb
+  country: Croatia
+- name: Imex Banka Ltd.
+  swift: IMXXHR22XXX
+  swift8: IMXXHR22
+  branch_name: Head Office
+  branch_address: Tolstojeva 6 21000 Split
+  branch_code: XXX
+  city: Split
+  country: Croatia
+- name: Intercapital Securities Ltd.
+  swift: INUIHR22XXX
+  swift8: INUIHR22
+  branch_name: Head Office
+  branch_address: Masarykova 1 10000 Zagreb
+  branch_code: XXX
+  city: Zagreb
+  country: Croatia
+- name: Intercapital Securities Ltd.
+  swift: INUIHR21XXX
+  swift8: INUIHR21
+  branch_name: Head Office
+  branch_address: Masarykova 1 10000 Zagreb
+  branch_code: XXX
+  city: Zagreb
+  country: Croatia
+- name: Istarska Kreditna Banka Joint Stock Companny
+  swift: ISKBHR2XXXX
+  swift8: ISKBHR2X
+  branch_name: Head Office
+  branch_address: Ernesta Milosa 1 52470 Umag
+  branch_code: XXX
+  city: Umag
+  country: Croatia
+- name: Jadranska Banka D.D. Sibenik
+  swift: JADRHR2XXXX
+  swift8: JADRHR2X
+  branch_name: Head Office
+  branch_address: Ante Starcevica 4 22000 Sibenik
+  branch_code: XXX
+  city: Sibenik
+  country: Croatia
+- name: Karlovacka Banka D.D.
+  swift: KALCHR2XXXX
+  swift8: KALCHR2X
+  branch_name: Head Office
+  branch_address: I. Gorana Kovacica 1 47000 Karlovac
+  branch_code: XXX
+  city: Karlovac
+  country: Croatia
+- name: Kreditna Banka Zagreb D.D.
+  swift: KREZHR2XXXX
+  swift8: KREZHR2X
+  branch_name: Head Office
+  branch_address: Ulica Grada Vukovara 74 10000 Zagreb
+  branch_code: XXX
+  city: Zagreb
+  country: Croatia
+- name: Otp Banka Hrvatska D.D.
+  swift: OTPVHR2XDUB
+  swift8: OTPVHR2X
+  branch_name: Dubrovnik
+  branch_address: Put Republike 9 20000 Dubrovnik
+  branch_code: DUB
+  city: Dubrovnik
+  country: Croatia
+- name: Otp Banka Hrvatska D.D.
+  swift: OTPVHR2XPUL
+  swift8: OTPVHR2X
+  branch_name: 52000 Pula
+  branch_address: Dalmatinova 4 52000 Pula
+  branch_code: PUL
+  city: Pula
+  country: Croatia
+- name: Otp Banka Hrvatska D.D.
+  swift: OTPVHR2XRJK
+  swift8: OTPVHR2X
+  branch_name: Rijeka
+  branch_address: Uzarska 17 51000 Rijeka
+  branch_code: RJK
+  city: Rijeka
+  country: Croatia
+- name: Otp Banka Hrvatska D.D.
+  swift: OTPVHR2XSIB
+  swift8: OTPVHR2X
+  branch_name: Sibenik
+  branch_address: Viii Dalmatinske Brigade 26 22000 Sibenik
+  branch_code: SIB
+  city: Sibenik
+  country: Croatia
+- name: Otp Banka Hrvatska D.D.
+  swift: OTPVHR2XSIS
+  swift8: OTPVHR2X
+  branch_name: 44000 Sisak
+  branch_address: Trg Ljudevita Posavskog 1 44000 Sisak
+  branch_code: SIS
+  city: Sisak
+  country: Croatia
+- name: Otp Banka Hrvatska D.D.
+  swift: OTPVHR2XSPL
+  swift8: OTPVHR2X
+  branch_name: 21000 Split
+  branch_address: Gunduliceva 36 21000 Split
+  branch_code: SPL
+  city: Split
+  country: Croatia
+- name: Otp Banka Hrvatska D.D.
+  swift: OTPVHR2XXXX
+  swift8: OTPVHR2X
+  branch_name: Head Office
+  branch_address: Domovinskog Rata 3 23000 Zadar
+  branch_code: XXX
+  city: Zadar
+  country: Croatia
+- name: Otp Banka Hrvatska D.D.
+  swift: OTPVHR2XZAD
+  swift8: OTPVHR2X
+  branch_name: 23000 Zadar
+  branch_address: Marka Oreskovica 3 23000 Zadar
+  branch_code: ZAD
+  city: Zadar
+  country: Croatia
+- name: Otp Banka Hrvatska D.D.
+  swift: OTPVHR2XZAG
+  swift8: OTPVHR2X
+  branch_name: 10000 Zagreb
+  branch_address: Divka Budaka 1d 10000 Zagreb
+  branch_code: ZAG
+  city: Zagreb
+  country: Croatia
+- name: Partner Banka D.D. Zagreb
+  swift: PAZGHR2XXXX
+  swift8: PAZGHR2X
+  branch_name: Head Office
+  branch_address: Voncinina 2 10000 Zagreb
+  branch_code: XXX
+  city: Zagreb
+  country: Croatia
+- name: Podravska Banka D.D.
+  swift: PDKCHR2XXXX
+  swift8: PDKCHR2X
+  branch_name: Head Office
+  branch_address: Opaticka 3 48000 Koprivnica
+  branch_code: XXX
+  city: Koprivnica
+  country: Croatia
+- name: Primorska Banka D.D Rijeka
+  swift: SPRMHR22XXX
+  swift8: SPRMHR22
+  branch_name: Head Office
+  branch_address: Scarpina 7 51000 Rijeka
+  branch_code: XXX
+  city: Rijeka
+  country: Croatia
+- name: Privredna Banka Zagreb D.D.
+  swift: PBZGHR2XXXX
+  swift8: PBZGHR2X
+  branch_name: Head Office
+  branch_address: Rackoga Street 6 10000 Zagreb
+  branch_code: XXX
+  city: Zagreb
+  country: Croatia
+- name: Raiffeisenbank Austria D.D. Zagreb
+  swift: RZBHHR2XXXX
+  swift8: RZBHHR2X
+  branch_name: Head Office
+  branch_address: Petrinjska Street 59 Zagreb
+  branch_code: XXX
+  city: Zagreb
+  country: Croatia
+- name: Samoborska Banka D.D.
+  swift: SMBRHR22XXX
+  swift8: SMBRHR22
+  branch_name: Head Office
+  branch_address: Trg Kralja Tomislava 8 10430 Samobor
+  branch_code: XXX
+  city: Samobor
+  country: Croatia
+- name: Slatinska Banka Dd
+  swift: SBSLHR2XXXX
+  swift8: SBSLHR2X
+  branch_name: Head Office
+  branch_address: Vladimira Nazora 2 33520 Slatina
+  branch_code: XXX
+  city: Slatina
+  country: Croatia
+- name: Societe Generale-Splitska Banka Dd
+  swift: SOGEHR22XXX
+  swift8: SOGEHR22
+  branch_name: Head Office
+  branch_address: R. Boskovica 16 21000 Split
+  branch_code: XXX
+  city: Split
+  country: Croatia
+- name: Sredisnje Klirinsko Depozitarno Drustvo D.D.
+  swift: SDAHHR22XXX
+  swift8: SDAHHR22
+  branch_name: Head Office
+  branch_address: Heinzelova 62a 10000 Zagreb
+  branch_code: XXX
+  city: Zagreb
+  country: Croatia
+- name: Stedbanka D.D.
+  swift: STEDHR22XXX
+  swift8: STEDHR22
+  branch_name: Head Office
+  branch_address: Slavonska Avenija 3 10000 Zagreb
+  branch_code: XXX
+  city: Zagreb
+  country: Croatia
+- name: Tesla Stedna Banka D.D.
+  swift: ASBZHR22XXX
+  swift8: ASBZHR22
+  branch_name: Head Office
+  branch_address: Radnicka Cesta 45 10000 Zagreb
+  branch_code: XXX
+  city: Zagreb
+  country: Croatia
+- name: Vaba D.D. Banka Varazdin
+  swift: VBVZHR22XXX
+  swift8: VBVZHR22
+  branch_name: Head Office
+  branch_address: Aleja Kralja Zvonimira 1 42000 Varazdin
+  branch_code: XXX
+  city: Varazdin
+  country: Croatia
+- name: Veneto Banka Dd
+  swift: CCBZHR2XXXX
+  swift8: CCBZHR2X
+  branch_name: Head Office
+  branch_address: Draskoviceva 58 10000 Zagreb
+  branch_code: XXX
+  city: Zagreb
+  country: Croatia
+- name: Volksbank D.D.
+  swift: VBCRHR22XXX
+  swift8: VBCRHR22
+  branch_name: Head Office
+  branch_address: Varsavska 9 10000 Zagreb
+  branch_code: XXX
+  city: Zagreb
+  country: Croatia
+- name: Zagrebacka Banka Dd
+  swift: ZABAHR2XBJE
+  swift8: ZABAHR2X
+  branch_name: Bjelovar Branch
+  branch_address: Bjelovar
+  branch_code: BJE
+  city: Bjelovar
+  country: Croatia
+- name: Zagrebacka Banka Dd
+  swift: ZABAHR2XDJU
+  swift8: ZABAHR2X
+  branch_name: Djurdjevac Branch
+  branch_address: Djurdjevac
+  branch_code: DJU
+  city: Djurdjevac
+  country: Croatia
+- name: Zagrebacka Banka Dd
+  swift: ZABAHR2XDUB
+  swift8: ZABAHR2X
+  branch_name: Dubrovnik Branch
+  branch_address: Dubrovnik
+  branch_code: DUB
+  city: Dubrovnik
+  country: Croatia
+- name: Zagrebacka Banka Dd
+  swift: ZABAHR2XKRI
+  swift8: ZABAHR2X
+  branch_name: Krizevci Branch
+  branch_address: Krizevci
+  branch_code: KRI
+  city: Krizevci
+  country: Croatia
+- name: Zagrebacka Banka Dd
+  swift: ZABAHR2XNOV
+  swift8: ZABAHR2X
+  branch_name: Nova Gradiska Branch
+  branch_address: Nova Gradiska
+  branch_code: NOV
+  city: Nova Gradiska
+  country: Croatia
+- name: Zagrebacka Banka Dd
+  swift: ZABAHR2XMAK
+  swift8: ZABAHR2X
+  branch_name: Makarska Branch
+  branch_address: Makarska
+  branch_code: MAK
+  city: Makarska
+  country: Croatia
+- name: Zagrebacka Banka Dd
+  swift: ZABAHR2XPOR
+  swift8: ZABAHR2X
+  branch_name: Porec Branch
+  branch_address: Porec
+  branch_code: POR
+  city: Porec
+  country: Croatia
+- name: Zagrebacka Banka Dd
+  swift: ZABAHR2XOSI
+  swift8: ZABAHR2X
+  branch_name: Osijek Branch
+  branch_address: Osijek
+  branch_code: OSI
+  city: Osijek
+  country: Croatia
+- name: Zagrebacka Banka Dd
+  swift: ZABAHR2XPUL
+  swift8: ZABAHR2X
+  branch_name: Pula Branch
+  branch_address: Pula
+  branch_code: PUL
+  city: Pula
+  country: Croatia
+- name: Zagrebacka Banka Dd
+  swift: ZABAHR2XRIJ
+  swift8: ZABAHR2X
+  branch_name: Rijeka Branch
+  branch_address: Rijeka
+  branch_code: RIJ
+  city: Rijeka
+  country: Croatia
+- name: Zagrebacka Banka Dd
+  swift: ZABAHR2XROV
+  swift8: ZABAHR2X
+  branch_name: Rovinj Branch
+  branch_address: Rovinj
+  branch_code: ROV
+  city: Rovinj
+  country: Croatia
+- name: Zagrebacka Banka Dd
+  swift: ZABAHR2XSIB
+  swift8: ZABAHR2X
+  branch_name: Sibenik Branch
+  branch_address: Sibenik
+  branch_code: SIB
+  city: Sibenik
+  country: Croatia
+- name: Zagrebacka Banka Dd
+  swift: ZABAHR2XSPL
+  swift8: ZABAHR2X
+  branch_name: Split Branch
+  branch_address: Split
+  branch_code: SPL
+  city: Split
+  country: Croatia
+- name: Zagrebacka Banka Dd
+  swift: ZABAHR2XUMA
+  swift8: ZABAHR2X
+  branch_name: Umag Branch
+  branch_address: Umag
+  branch_code: UMA
+  city: Umag
+  country: Croatia
+- name: Zagrebacka Banka Dd
+  swift: ZABAHR2XZAD
+  swift8: ZABAHR2X
+  branch_name: Zadar Branch
+  branch_address: Zadar
+  branch_code: ZAD
+  city: Zadar
+  country: Croatia
+- name: Zagrebacka Banka Dd
+  swift: ZABAHR2XZAB
+  swift8: ZABAHR2X
+  branch_name: Zabok Branch
+  branch_address: Zabok
+  branch_code: ZAB
+  city: Zabok
+  country: Croatia
+- name: Zagrebacka Banka Dd
+  swift: ZABAHR2XVIR
+  swift8: ZABAHR2X
+  branch_name: Virovitica Branch
+  branch_address: Virovitica
+  branch_code: VIR
+  city: Virovitica
+  country: Croatia
+- name: Zagrebacka Banka Dd
+  swift: ZABAHR2XXXX
+  swift8: ZABAHR2X
+  branch_name: Head Office
+  branch_address: Paromlinska 2 10000 Zagreb
+  branch_code: XXX
+  city: Zagreb
+  country: Croatia
+- name: International Discovery Ltd
+  swift: IDISHR21XXX
+  swift8: IDISHR21
+  branch_name: Head Office
+  branch_address: 100 Ilica 10000 Zagreb
+  branch_code: XXX
+  city: Zagreb
+  country: Croatia
+- name: Agram Brokeri D.d.
+  swift: AGBOHR21XXX
+  swift8: AGBOHR21
+  branch_name: Head Office
+  branch_address: Ulica Grada Vukovara 74 10 000 Zagreb
+  branch_code: XXX
+  city: Zagreb
+  country: Croatia
+- name: Aktiv Broker D.o.o.
+  swift: AKBDHR21XXX
+  swift8: AKBDHR21
+  branch_name: Head Office
+  branch_address: Gajeva 23 10000 Zagreb
+  branch_code: XXX
+  city: Zagreb
+  country: Croatia
+- name: Allianz B
+  swift: ALLNHR21XXX
+  swift8: ALLNHR21
+  branch_name: Head Office
+  branch_address: Griskoveleda 31 Zagreb
+  branch_code: XXX
+  city: Zagreb
+  country: Croatia
+- name: Antea Brokeri D.o.o.
+  swift: ANBOHR21XXX
+  swift8: ANBOHR21
+  branch_name: Head Office
+  branch_address: Derencinova 1 10000 Zagreb
+  branch_code: XXX
+  city: Zagreb
+  country: Croatia
+- name: Auctor D.o.o.
+  swift: AUDOHR21XXX
+  swift8: AUDOHR21
+  branch_name: Head Office
+  branch_address: Dezmanova 5 10000 Zagreb
+  branch_code: XXX
+  city: Zagreb
+  country: Croatia
+- name: Bat Hrvatska D.o.o.
+  swift: BATSHR21XXX
+  swift8: BATSHR21
+  branch_name: No branch name
+  branch_address: No branch address
+  branch_code: XXX
+  city: Zagreb
+  country: Croatia
+- name: Credos D.o.o.
+  swift: CDDOHR21XXX
+  swift8: CDDOHR21
+  branch_name: Head Office
+  branch_address: Dordiceva 23 10000 Zagreb
+  branch_code: XXX
+  city: Zagreb
+  country: Croatia
+- name: Fima Securities Ltd
+  swift: FMVZHR21XXX
+  swift8: FMVZHR21
+  branch_name: Head Office
+  branch_address: Anina 2 42000 Varazdin
+  branch_code: XXX
+  city: Varazdin
+  country: Croatia
+- name: Greenhouse Gases National Registry
+  swift: GGNRHR21XXX
+  swift8: GGNRHR21
+  branch_name: Head Office
+  branch_address: Head Office 10000 Zagreb
+  branch_code: XXX
+  city: Zagreb
+  country: Croatia
+- name: Hita Vrijednosnice D.d
+  swift: HIVRHR21XXX
+  swift8: HIVRHR21
+  branch_name: Head Office
+  branch_address: Palmoticeva 2 10000 Zagreb
+  branch_code: XXX
+  city: Zagreb
+  country: Croatia
+- name: Icam Ltd
+  swift: ICMMHR21XXX
+  swift8: ICMMHR21
+  branch_name: Head Office
+  branch_address: Masarykova 1 10000 Zagreb
+  branch_code: XXX
+  city: Zagreb
+  country: Croatia
+- name: Jur-prom Moto D.o.o.
+  swift: JUMDHR21XXX
+  swift8: JUMDHR21
+  branch_name: Head Office
+  branch_address: Stefaniceva 1 10000 Zagreb
+  branch_code: XXX
+  city: Zagreb
+  country: Croatia
+- name: Kentbank D.d.
+  swift: KENBHR22XXX
+  swift8: KENBHR22
+  branch_name: Head Office
+  branch_address: Gunduliceva 1 10000 Zagreb
+  branch_code: XXX
+  city: Zagreb
+  country: Croatia
+- name: Raiffeisen Investment
+  swift: RAIVHR21XXX
+  swift8: RAIVHR21
+  branch_name: Head Office
+  branch_address: Palmoticeva 56 0000 Zagreb
+  branch_code: XXX
+  city: Zagreb
+  country: Croatia
+- name: Rast D.o.o.
+  swift: RSDOHR21XXX
+  swift8: RSDOHR21
+  branch_name: Head Office
+  branch_address: Zagrebacka 61 42000 Varazdin
+  branch_code: XXX
+  city: Varazdin
+  country: Croatia
+- name: Skdd-ccp Smart Clear D.d.
+  swift: CCPHHR21XXX
+  swift8: CCPHHR21
+  branch_name: No branch name
+  branch_address: No branch address
+  branch_code: XXX
+  city: Zagreb
+  country: Croatia
+- name: Zagreb Stock Exchange
+  swift: XZAGHR21XXX
+  swift8: XZAGHR21
+  branch_name: Head Office
+  branch_address: Ivana Lucica 2a 10000 Zagreb
+  branch_code: XXX
+  city: Zagreb
+  country: Croatia
