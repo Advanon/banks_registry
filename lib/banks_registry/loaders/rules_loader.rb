@@ -6,7 +6,7 @@ require 'banks_registry/models/rule'
 module BanksRegistry
   module Loaders
     class RulesLoader
-      RULES_FOLDER = 'data/rules'
+      RULES_FOLDER = File.join(__dir__, '..', '..', '..', 'data', 'rules')
 
       def initialize
         @cache = {}
