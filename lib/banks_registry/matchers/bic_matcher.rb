@@ -6,7 +6,7 @@ module BanksRegistry
   module Matchers
     class BicMatcher
       def call(bic)
-        banks_loader.call(country_from_bic(bic)).find do |bank|
+        banks_loader.call(country_from_bic(bic))&.find do |bank|
           bank.bic == bic
         end
       end

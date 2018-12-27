@@ -39,11 +39,12 @@ module BanksRegistry
       end
 
       def bank_code_regexp(iban)
-        rule_converter.call(iban_rule(country_from_iban(iban)))
+        rule = iban_rule(country_from_iban(iban))
+        rule_converter.call(rule) if rule
       end
 
       def iban_rule(code)
-        rules_loader.call(code).iban
+        rules_loader.call(code)&.iban
       end
 
       def rule_converter

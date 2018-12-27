@@ -16,7 +16,7 @@ RSpec.describe BanksRegistry::Matchers::IbanMatcher do
       def call(*_)
         @double
       end
-    end.new(double(iban: nil))
+    end.new(double(iban: 'TEST'))
   end
 
   let(:fake_rule_converter) do
@@ -43,10 +43,16 @@ RSpec.describe BanksRegistry::Matchers::IbanMatcher do
         .to receive(:new).and_return(fake_rule_converter)
     end
 
-    it 'Then class BicMatcher' do
+    it 'Then calls BicMatcher' do
       allow(fake_banks_loader).to receive(:call).and_return([fake_bank])
 
       expect(subject.call(fake_iban)).to eq(fake_bank)
+    end
+
+    it 'Then returns nil if no rule available' do
+      allow(fake_rules_loader).to receive(:call).and_return(nil)
+
+      expect(subject.call(fake_iban)).to eq(nil)
     end
   end
 end

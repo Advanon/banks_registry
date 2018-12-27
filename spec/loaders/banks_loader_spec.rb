@@ -15,5 +15,11 @@ RSpec.describe BanksRegistry::Loaders::BanksLoader do
 
       expect(result[0]).to be_a(BanksRegistry::Models::Bank)
     end
+
+    it 'Then returns nil if code does not exist' do
+      allow(File).to receive(:file?).and_return(false)
+
+      expect(subject.call('CH')).to eq(nil)
+    end
   end
 end
